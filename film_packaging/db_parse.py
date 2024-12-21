@@ -5,19 +5,25 @@ import time
 import psutil
 import hashlib
 from PIL import Image
+from tkinter import *
 
-record_key_dict = {
-    "film_speed":None,
-    "item_type":["film_box_outside", "film_box_inside", "film_box_instruction_leaflet"],
-    "expiry_date":None,
-    "manufacturer":None,
-    "model_name_full":None, # NOT including brand, including ISO, e.g. Retro 80s, Fujicolor Super HR 200
-    "film_size":["120", "35mm", "APS"],
-    "date_added":None, # unix ts,
-    "item_id":None, # same ID for the same box, can have multiple entries, such as inside, outside, and leaflet
-    "sort_order":None, # smallest number shows up first
-    "img_checksum":None,
-}
+
+MAIN_WINDOW_WIDTH = 600
+MAIN_WINDOW_HEIGHT = 600
+PADDING = 10
+
+record_key_list = [
+    "film_speed",
+    "item_type",
+    "expiry_date",
+    "manufacturer",
+    "model_name_full",
+    "film_size",
+    "date_added",
+    "item_id",
+    "sort_order",
+    "img_checksum",
+]
 
 database_csv_path = "./database.csv"
 ingest_dir_path = "./to_add"
@@ -61,24 +67,11 @@ def kill_preview():
         if proc.name() == "Preview":
             proc.kill()
 
-ingest_file_list = sorted(os.listdir(ingest_dir_path))
-for fname in ingest_file_list:
-    if fname.lower().endswith('.jpeg') is False:
-        continue
-    this_file_path = os.path.join(ingest_dir_path, fname)
-    this_md5 = get_md5_str(this_file_path)
-    print(f"Processing {fname}...")
-    if is_file_already_in_db(this_md5):
-        print("Already in database")
-        continue
-    
-    open_preview(this_file_path)
-    time.sleep(2)
-    kill_preview()
-    
+root = Tk()
+root.geometry(str(MAIN_WINDOW_WIDTH) + "x" + str(MAIN_WINDOW_HEIGHT))
+root.resizable(width=FALSE, height=FALSE)
+root.update()
 
-
-
-
+root.mainloop()
 
 
