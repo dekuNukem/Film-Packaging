@@ -1,7 +1,10 @@
 import os
 import sys
 import csv
+import time
+import psutil
 import hashlib
+from PIL import Image
 
 record_key_dict = {
     "film_speed":None,
@@ -52,8 +55,12 @@ for fname in ingest_file_list:
     if is_file_already_in_db(this_md5):
         print("Already in database")
         continue
-    
-
+    os.system(f"open {this_file_path}")
+    time.sleep(5)
+    for proc in psutil.process_iter():
+        if proc.name() == "Preview":
+            proc.kill()
+    exit()
 
 
 
