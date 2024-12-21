@@ -5,12 +5,6 @@ import time
 import psutil
 import hashlib
 from PIL import Image
-from tkinter import *
-
-
-MAIN_WINDOW_WIDTH = 600
-MAIN_WINDOW_HEIGHT = 600
-PADDING = 10
 
 record_key_list = [
     "film_speed",
@@ -66,12 +60,5 @@ def kill_preview():
     for proc in psutil.process_iter():
         if proc.name() == "Preview":
             proc.kill()
-
-root = Tk()
-root.geometry(str(MAIN_WINDOW_WIDTH) + "x" + str(MAIN_WINDOW_HEIGHT))
-root.resizable(width=FALSE, height=FALSE)
-root.update()
-
-root.mainloop()
 
 
