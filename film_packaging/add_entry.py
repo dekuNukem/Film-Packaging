@@ -45,6 +45,22 @@ def get_md5_str(filepath):
 def is_file_already_in_db(md5_str):
     return False
 
+def get_yn(question):
+    while 1:
+        response = input(f"{question}\n")
+        if response.lower().startswith('y'):
+            return True
+        if response.lower().startswith('n'):
+            return False
+
+def open_preview(filepath):
+    os.system(f"open {filepath}")
+
+def kill_preview():
+    for proc in psutil.process_iter():
+        if proc.name() == "Preview":
+            proc.kill()
+
 ingest_file_list = sorted(os.listdir(ingest_dir_path))
 for fname in ingest_file_list:
     if fname.lower().endswith('.jpeg') is False:
@@ -55,13 +71,11 @@ for fname in ingest_file_list:
     if is_file_already_in_db(this_md5):
         print("Already in database")
         continue
-    os.system(f"open {this_file_path}")
-    time.sleep(5)
-    for proc in psutil.process_iter():
-        if proc.name() == "Preview":
-            proc.kill()
-    exit()
-
+    
+    open_preview(this_file_path)
+    time.sleep(2)
+    kill_preview()
+    
 
 
 
