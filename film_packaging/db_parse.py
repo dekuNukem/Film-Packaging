@@ -5,6 +5,7 @@ import time
 import uuid
 from termcolor import colored
 import psutil
+import shutil
 import hashlib
 from PIL import Image
 
@@ -133,6 +134,7 @@ record_key_list.append(this_key)
 
 database_csv_path = "./database.csv"
 ingest_dir_path = "./to_add"
+archive_dir_path = "./archive"
 database_entries = []
 
 if os.path.isdir(ingest_dir_path) is False:
@@ -202,7 +204,7 @@ def ask_attribute(db_key):
         return get_answer(f"What is {colored(db_key, alert_color)}?\n")
 
 def open_preview(filepath):
-    os.system(f"open {filepath}")
+    os.system(f"open {filepath} -g")
 
 def kill_preview():
     for proc in psutil.process_iter():
@@ -281,7 +283,7 @@ for fname in ingest_file_list:
     database_entries.append(this_entry)
     save_csv(database_entries)
 
-    # time.sleep(0.5)
-    # kill_preview()
-    # time.sleep(0.5)
+    new_filename = f"{this_entry[ITEM_INDEX_KEY]:05}_{this_entry[ITEM_SUBINDEX_KEY]:03}.jpg"
+    new_file_path = os.path.join(archive_dir_path, new_filename)
+    shutil.copy2(this_file_path, new_file_path)
     
