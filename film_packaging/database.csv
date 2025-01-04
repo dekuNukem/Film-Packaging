@@ -1,6 +1,15 @@
 index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expiry_date,date_added,md5,uuid
-0,0,outside,ilford,HP5 Plus,120,400,bw,202609,1735323913,11798276f80340be9e48e26e7e5b48df,9b01d6cbff484822832e47c6e1880577
-1,1,inside,ilford,HP5 Plus,120,400,202609,bw,1735323938,6845d3cf182b8bc58c6c7eb052d4407f,a251a6bd8ee745b198849f3bad28205c
-2,0,outside,Alien Film,2507/250D,120,250,ecn-2,202606,1735323973,09a33a28cd3b4a4488b95c04617bd91e,300055f7cb3a46c2a8bf16533980d426
-3,,outside,ilford,HP5 Plus,120,222,ecn-2,2020202,,,
-4,,dfg,dsfg,sdfg,dfsg,fdsg,sdfg,dsfg,1736002101,0e6e9c71fa8b3b3fbcf0eea82de1f5a5,edcc15c59ce948a98b9b67e94b4b4d96
+0,0,film_box_single_outside,Ilford,HP5 Plus,120,400,BW,202609,1736009233,11798276f80340be9e48e26e7e5b48df,36151f6b7cc045c2b43d7f5cbee41a5d
+0,1,film_box_single_inside,Ilford,HP5 Plus,120,400,BW,202609,1736009786,6845d3cf182b8bc58c6c7eb052d4407f,3d64b751d4dd412889855a65731d5f25
+1,0,film_box_single_outside,Alien Film,5207/250D,120,250,ECN-2,202606,1736009864,09a33a28cd3b4a4488b95c04617bd91e,aedc4b00bd174e0baf7c744ed21d8820
+2,0,film_box_single_outside,efiniti,UXi super 200,35mm,200,C-41,201310,1736009974,0e6e9c71fa8b3b3fbcf0eea82de1f5a5,cde1122dafbc47088a11d9ee12b6471a
+3,0,film_box_single_outside,AGFA,APX,120,100,BW,200801,1736010037,b1f3c6aecc92e8eebad886f4a763ac0b,a78a2dfa26c844b28a1aaa632f381f79
+3,1,film_box_single_inside,AGFA,APX,120,100,BW,200801,1736010041,8f64801420d9f92bc055e982ffa46c94,60ed691f308043bda403de293f1b22ca
+4,0,film_box_single_outside,HARMAN,PHOENIX,35mm,200,C-41,202608,1736010099,fbd497c31ef59703886e34b982385cf4,0b11ba38c9a34f58a2f13d696b05637f
+5,0,film_box_single_outside,Rollei,Retro 80S,120,80,BW,202602,1736010137,7fed7bd2ae90888b89b8ae5ece08b03a,fb2ccfebcf2f4a17afe00acaaea5e6c0
+5,1,film_box_single_inside,Rollei,Retro 80S,120,80,BW,202602,1736010143,003c6478cac4383e08f58df68f9bdfb7,a57794309f6b44d784d9555b416a200c
+6,0,film_box_single_outside,CineStill,800T,120,800,C-41,201803,1736010215,a50389fa5e262f6757f2f10591f4e668,53253eca96d841f5b98bfb3590fec86a
+6,1,film_box_single_inside,CineStill,800T,120,800,C-41,201803,1736010221,98edba707265e5ad224d6046e905766e,6576b3b48e8244469a692f2e0edcd1a6
+7,0,film_box_single_outside,Fujifilm,FUJICOLOR SUPER HR,35mm,200,C-41,199002,1736010370,4e3df7c7aa9384d13417f10f40297e35,2d27c9a865aa4de19ad8dc0bcdc8aaa0
+7,1,film_box_leaflet,Fujifilm,FUJICOLOR SUPER HR,35mm,200,C-41,199002,1736010374,0062a3d245a2a11285a79a6b90906294,a179b7257aaf455fa69df546545457f6
+7,2,film_box_leaflet,Fujifilm,FUJICOLOR SUPER HR,35mm,200,C-41,199002,1736010379,413560c61189cb9045d0db2a9b3ac576,e5688fcb7e8943a987ca6b882275ca7b

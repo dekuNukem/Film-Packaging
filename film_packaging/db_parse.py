@@ -227,24 +227,31 @@ def build_record_from_scratch(filepath):
     for keyname in this_record:
         this_record[keyname] = ask_attribute(keyname)
 
+    try:
+        this_record[ITEM_INDEX_KEY] = int(database_entries[-1][ITEM_INDEX_KEY]) + 1
+    except Exception as e:
+        print(e)
+        this_record[ITEM_INDEX_KEY] = 0
+    this_record[ITEM_SUBINDEX_KEY] = 0
     this_record[ITEM_UUID_KEY] = uuid.uuid4().hex
     this_record[DATE_ADDED_KEY] = int(time.time())
     this_record[CHECKSUM_KEY] = get_md5_str(filepath)
-    
+
     return this_record
 
 def build_record_from_existing(template, filepath):
     this_record = get_empty_record()
     for key in this_record:
         this_record[key] = template[key]
+    this_record[ITEM_INDEX_KEY] = template[ITEM_INDEX_KEY]
     this_record[DATE_ADDED_KEY] = int(time.time())
     this_record[CHECKSUM_KEY] = get_md5_str(filepath)
+    this_record[ITEM_UUID_KEY] = uuid.uuid4().hex
     this_record[ITEM_SUBINDEX_KEY] = int(this_record[ITEM_SUBINDEX_KEY]) + 1
     this_record[ITEM_TYPE_KEY] = ask_attribute(ITEM_TYPE_KEY)
+    return this_record
 
 def save_csv(entries):
-    for index, item in enumerate(entries):
-        item[ITEM_INDEX_KEY] = index
     csv_out_file = open(database_csv_path, 'w')
     csv_writer = csv.DictWriter(csv_out_file, fieldnames=entries[0].keys())
     csv_writer.writeheader()
@@ -264,7 +271,7 @@ for fname in ingest_file_list:
         print("Already in database")
         continue
     
-    # open_preview(this_file_path)
+    open_preview(this_file_path)
     is_new = get_yn("Press Y for new item, N for additional images of the last item")
     if is_new:
         this_entry = build_record_from_scratch(this_file_path)
@@ -274,7 +281,7 @@ for fname in ingest_file_list:
     database_entries.append(this_entry)
     save_csv(database_entries)
 
-    time.sleep(0.5)
-    kill_preview()
-    time.sleep(0.5)
+    # time.sleep(0.5)
+    # kill_preview()
+    # time.sleep(0.5)
     
