@@ -3,6 +3,7 @@ import sys
 import csv
 import time
 import uuid
+from termcolor import colored
 import psutil
 import hashlib
 from PIL import Image
@@ -26,9 +27,11 @@ class my_attribute:
 
 ITEM_INDEX_KEY = 'index'
 ITEM_SUBINDEX_KEY = 'sub_index'
+ITEM_TYPE_KEY = 'item_type'
 ITEM_UUID_KEY = "uuid"
 DATE_ADDED_KEY = "date_added"
 CHECKSUM_KEY = "md5"
+alert_color = 'cyan'
 
 record_key_list = []
 
@@ -42,13 +45,13 @@ record_key_list.append(this_key)
 this_key = my_attribute()
 this_key.db_name = ITEM_SUBINDEX_KEY
 this_key.display_name = ITEM_SUBINDEX_KEY
-this_key.no_need_to_ask = False
+this_key.no_need_to_ask = True
 this_key.list_existing = False
 this_key.notes = "Default 0"
 record_key_list.append(this_key)
 
 this_key = my_attribute()
-this_key.db_name = 'item_type'
+this_key.db_name = ITEM_TYPE_KEY
 this_key.display_name = "Item Type"
 this_key.no_need_to_ask = False
 this_key.list_existing = True
@@ -91,7 +94,7 @@ this_key = my_attribute()
 this_key.db_name = 'process'
 this_key.display_name = "Process"
 this_key.no_need_to_ask = False
-this_key.list_existing = False
+this_key.list_existing = True
 this_key.notes = "C41, E6, BW, ECN2, etc"
 record_key_list.append(this_key)
 
@@ -172,6 +175,32 @@ def get_answer(question, accept_empty=False):
         if accept_empty or len(response) > 0:
             return response
 
+def ask_with_listing_existing_options(db_key):
+    all_options = set()
+    for item in database_entries:
+        all_options.add(item[db_key])
+    all_options = sorted([str(x) for x in all_options])
+    option_list_str = ""
+    for index, item in enumerate(all_options):
+        option_list_str += f"{index}:  {item}\n"
+    question_to_ask = f"\nWhat is {colored(db_key, alert_color)}?\nSelect existing option or type a new entry\n{option_list_str}"
+    user_answer = get_answer(question_to_ask)
+    try:
+        return all_options[int(user_answer)]
+    except Exception as e:
+        # print("ask_with_listing_existing_options:", e)
+        pass
+    return user_answer
+
+def ask_attribute(db_key):
+    key_attri = find_key_attributes(db_key)
+    if key_attri.no_need_to_ask:
+        return
+    if key_attri.list_existing:
+        return ask_with_listing_existing_options(db_key)
+    else:
+        return get_answer(f"What is {colored(db_key, alert_color)}?\n")
+
 def open_preview(filepath):
     os.system(f"open {filepath}")
 
@@ -195,26 +224,23 @@ def find_key_attributes(key_name_str):
 
 def build_record_from_scratch(filepath):
     this_record = get_empty_record()
-    
+    for keyname in this_record:
+        this_record[keyname] = ask_attribute(keyname)
+
     this_record[ITEM_UUID_KEY] = uuid.uuid4().hex
     this_record[DATE_ADDED_KEY] = int(time.time())
     this_record[CHECKSUM_KEY] = get_md5_str(filepath)
-
-    for keyname in this_record:
-        key_attri = find_key_attributes(keyname)
-        if key_attri.no_need_to_ask:
-            continue
-        this_record[keyname] = get_answer(f"What is {keyname}? {key_attri.notes}\n")
+    
     return this_record
 
 def build_record_from_existing(template, filepath):
-    print(template, filepath)
     this_record = get_empty_record()
     for key in this_record:
         this_record[key] = template[key]
+    this_record[DATE_ADDED_KEY] = int(time.time())
+    this_record[CHECKSUM_KEY] = get_md5_str(filepath)
     this_record[ITEM_SUBINDEX_KEY] = int(this_record[ITEM_SUBINDEX_KEY]) + 1
-    print(this_record)
-    exit()
+    this_record[ITEM_TYPE_KEY] = ask_attribute(ITEM_TYPE_KEY)
 
 def save_csv(entries):
     for index, item in enumerate(entries):
@@ -238,10 +264,7 @@ for fname in ingest_file_list:
         print("Already in database")
         continue
     
-    build_record_from_existing(database_entries[-1], this_file_path)
-
-    open_preview(this_file_path)
-    this_entry = None
+    # open_preview(this_file_path)
     is_new = get_yn("Press Y for new item, N for additional images of the last item")
     if is_new:
         this_entry = build_record_from_scratch(this_file_path)
