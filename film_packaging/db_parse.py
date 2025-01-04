@@ -8,6 +8,7 @@ import psutil
 import shutil
 import hashlib
 from PIL import Image
+from shared import *
 
 class my_attribute:
     def __init__(self):
@@ -25,14 +26,6 @@ class my_attribute:
             f"list_existing\t: {self.list_existing}\n"
             f"notes\t\t: {self.notes}\n"
         )
-
-ITEM_INDEX_KEY = 'index'
-ITEM_SUBINDEX_KEY = 'sub_index'
-ITEM_TYPE_KEY = 'item_type'
-ITEM_UUID_KEY = "uuid"
-DATE_ADDED_KEY = "date_added"
-CHECKSUM_KEY = "md5"
-alert_color = 'cyan'
 
 record_key_list = []
 
@@ -132,9 +125,6 @@ record_key_list.append(this_key)
 
 #-------
 
-database_csv_path = "./database.csv"
-ingest_dir_path = "./to_add"
-archive_dir_path = "./archive"
 database_entries = []
 
 if os.path.isdir(ingest_dir_path) is False:
@@ -149,9 +139,6 @@ try:
     csv_file.close()
 except Exception as e:
     print("csv read exception:", e)
-
-print(database_entries)
-# exit()
 
 def get_md5_str(filepath):
     with open(filepath, "rb") as f:
