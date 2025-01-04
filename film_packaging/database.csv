@@ -1,0 +1,4 @@
+index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expiry_date,date_added,md5,uuid
+0,0,outside,ilford,HP5 Plus,120,400,bw,202609,1735323913,11798276f80340be9e48e26e7e5b48df,9b01d6cbff484822832e47c6e1880577
+1,1,inside,ilford,HP5 Plus,120,400,202609,bw,1735323938,6845d3cf182b8bc58c6c7eb052d4407f,a251a6bd8ee745b198849f3bad28205c
+2,0,outside,Alien Film,2507/250D,120,250,ecn-2,202606,1735323973,09a33a28cd3b4a4488b95c04617bd91e,300055f7cb3a46c2a8bf16533980d426
