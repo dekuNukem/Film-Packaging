@@ -2,9 +2,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 0,0,film_box_outside,Ilford,HP5 Plus,120,400,BW,202609,1736009233,11798276f80340be9e48e26e7e5b48df,36151f6b7cc045c2b43d7f5cbee41a5d
 0,1,film_box_inside,Ilford,HP5 Plus,120,400,BW,202609,1736009786,6845d3cf182b8bc58c6c7eb052d4407f,3d64b751d4dd412889855a65731d5f25
 1,0,film_box_outside,Alien Film,5207/250D,120,250,ECN-2,202606,1736009864,09a33a28cd3b4a4488b95c04617bd91e,aedc4b00bd174e0baf7c744ed21d8820
-2,0,film_box_outside,efiniti,UXi super 200,35mm,200,C-41,201310,1736009974,0e6e9c71fa8b3b3fbcf0eea82de1f5a5,cde1122dafbc47088a11d9ee12b6471a
-3,0,film_box_outside,AGFA,APX,120,100,BW,200801,1736010037,b1f3c6aecc92e8eebad886f4a763ac0b,a78a2dfa26c844b28a1aaa632f381f79
-3,1,film_box_inside,AGFA,APX,120,100,BW,200801,1736010041,8f64801420d9f92bc055e982ffa46c94,60ed691f308043bda403de293f1b22ca
+2,0,film_box_outside,Efiniti,UXi super 200,35mm,200,C-41,201310,1736009974,0e6e9c71fa8b3b3fbcf0eea82de1f5a5,cde1122dafbc47088a11d9ee12b6471a
 4,0,film_box_outside,HARMAN,PHOENIX,35mm,200,C-41,202608,1736010099,fbd497c31ef59703886e34b982385cf4,0b11ba38c9a34f58a2f13d696b05637f
 5,0,film_box_outside,Rollei,Retro 80S,120,80,BW,202602,1736010137,7fed7bd2ae90888b89b8ae5ece08b03a,fb2ccfebcf2f4a17afe00acaaea5e6c0
 5,1,film_box_inside,Rollei,Retro 80S,120,80,BW,202602,1736010143,003c6478cac4383e08f58df68f9bdfb7,a57794309f6b44d784d9555b416a200c
@@ -31,9 +29,9 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 16,0,film_box_outside,Ilford,HP5 Plus,120,400,BW,202511,1736012716,87bc1d4a816c98be17f295300f214993,ddf9b76e633f43718144af7dcb89efad
 16,1,film_box_inside,Ilford,HP5 Plus,120,400,BW,202511,1736012719,72114f54b27f19218eb3633195e26cb9,1d938d2d844d498caf9fe2bc83618dda
 17,0,film_box_outside,Kodak,Ektachrome,120,160,E-2,196301,1736012891,2290616ea75d47f89f83ffae0b7f3312,ec7cf78858fc48c59e5a0875ec74ce7f
-18,0,film_box_outside,Polaroid,665,Instant Pack Film,80,Instant,199608,1736023755,1bcecb1b015e966a2c56b57937610221,311d896d68b74b1193afcfa129c5e054
+18,0,film_box_outside,Polaroid,665,Pack Film,80,Instant,199608,1736023755,1bcecb1b015e966a2c56b57937610221,311d896d68b74b1193afcfa129c5e054
 19,0,film_box_outside,Polaroid,PolaBlue,35mm,12,Instant,199208,1736023839,859db4fa936272430f29a27d3d3cb689,8236180d686f4e9ca4aa8e6fc397df66
-20,0,film_box_outside,Polaroid,669,Instant Pack Film,80,Instant,200603,1736023886,b0cd45b17c81925263d5d7993a2202a4,bb62de3a22c04f699c780aeae7c83566
+20,0,film_box_outside,Polaroid,669,Pack Film,80,Instant,200603,1736023886,b0cd45b17c81925263d5d7993a2202a4,bb62de3a22c04f699c780aeae7c83566
 21,0,film_box_outside,Kodak,Gold,35mm,200,C-41,202611,1736023928,5f33dbc02c379946e4359cc9eb88a597,e8aefc10fa0d43cebbac73bdcf10933f
 22,0,film_box_outside,Fujifilm,Pro 400H,120,400,C-41,201809,1736023971,49a08247ec78404771de7e39ebb6c7a9,0d89ecf11f3c46deb52171aa909566e3
 23,0,film_box_outside,Fujifilm,Velvia 100F,120,100,E-6,200604,1736024062,8213c32039517c81dada2b71e2aa9700,0fef128c3b17437eb25d5c4f0520f7fb
