@@ -4,9 +4,9 @@
 
 ----------
 
-Thank you for contributing to this project!
+Thank you for supporting this project!
 
-Please read this short guide on how to do it.
+Please read this short guide about how to submit your own images.
 
 ### Prerequisites
 
@@ -86,3 +86,8 @@ You can submit via the means below, I'll review and update once received.
 #### GitHub Pull Request
 
 * Advanced User Only
+* Clone this repo
+* Add your scans in `to_add` folder
+* Submit a pull request
+* Keep image size under 10MB
+

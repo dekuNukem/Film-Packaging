@@ -20,9 +20,7 @@ You're more than welcome! [Please follow this guide](contribution_guide.md).
 
 ## Archive
 
-Click below to browse all the scans!
-
-The collection is no means complete or exhaustive, but it's a start!
+Click to browse all the scans!
 
 Sort by...
 
@@ -31,6 +29,8 @@ Sort by...
 * ISO
 * Photographic Process
 * Expiry Date
+
+The collection is no means complete or exhaustive, but it's a start!
 
 ## Database
 
