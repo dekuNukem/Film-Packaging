@@ -2,16 +2,21 @@
 
 Welcome! Here you can find high-resolution scans of:
 
-* Film Packaging
-* Instruction Manuals / Leaflets
-* Processing Envelopes
+* Photographic Film Packaging
+* Instruction Manuals / In-box Leaflets / Processing Envelopes
 
+Old & new, popular & obscure.
 
-
-Old and new, popular and obscure
+![title](resources/title.jpg)
 
 ## Why
 
-recreation
-research
-archive
+Film packaging reflects the evolution of photography, technological progress, and branding / design trends.
+
+Its preservation helps document history, inspire modern designs, and support research of branding and cultural aesthetics.
+
+## License
+
+## I want to Contribute!
+
+## Archives
