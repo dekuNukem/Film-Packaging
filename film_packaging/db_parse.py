@@ -27,6 +27,8 @@ try:
 except Exception as e:
     print("csv read exception:", e)
 
+convert_keys_to_int(database_entries)
+
 def get_md5_str(filepath):
     with open(filepath, "rb") as f:
         return hashlib.file_digest(f, "md5").hexdigest()
@@ -120,13 +122,6 @@ def build_record_from_existing(template, filepath):
     this_record[ITEM_SUBINDEX_KEY] = int(this_record[ITEM_SUBINDEX_KEY]) + 1
     this_record[ITEM_TYPE_KEY] = ask_attribute(ITEM_TYPE_KEY)
     return this_record
-
-def save_csv(entries):
-    csv_out_file = open(database_csv_path, 'w')
-    csv_writer = csv.DictWriter(csv_out_file, fieldnames=entries[0].keys())
-    csv_writer.writeheader()
-    csv_writer.writerows(entries)
-    csv_out_file.close()
 
 ingest_file_list = sorted(os.listdir(ingest_dir_path))
 

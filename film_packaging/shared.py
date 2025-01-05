@@ -12,13 +12,16 @@ ITEM_FORMAT_KEY = 'film_format'
 ITEM_ISO_KEY = 'film_speed_iso'
 ITEM_PROCESS_KEY = 'process'
 ITEM_EXPIRY_KEY = 'expiry_date'
-
 CHECKSUM_KEY = "md5"
+ITEM_FILE_NAME_KEY = 'filename'
+ITEM_AUTHOR_KEY = "author"
 alert_color = 'cyan'
 
 database_csv_path = "./database.csv"
 ingest_dir_path = "./to_add"
 archive_dir_path = "./archive"
+
+AUTHOR_NAME_MYSELF = "dekuNukem"
 
 class my_attribute:
     def __init__(self):
@@ -139,6 +142,21 @@ def find_key_attributes(key_name_str):
             return item
     raise ValueError(f"Unknown key: {key_name_str}")
 
+def make_filename_only(item_dict):
+    return f"{int(item_dict[ITEM_INDEX_KEY]):05}_{int(item_dict[ITEM_SUBINDEX_KEY]):03}.jpg"
+
 def make_filename(item_dict):
-    new_filename = f"{item_dict[ITEM_INDEX_KEY]:05}_{item_dict[ITEM_SUBINDEX_KEY]:03}.jpg"
+    new_filename = make_filename_only(item_dict)
     return os.path.join(archive_dir_path, new_filename)
+
+def convert_keys_to_int(db_dict):
+    for this_entry in db_dict:
+        this_entry[ITEM_INDEX_KEY] = int(this_entry[ITEM_INDEX_KEY])
+        this_entry[ITEM_SUBINDEX_KEY] = int(this_entry[ITEM_SUBINDEX_KEY])
+
+def save_csv(entries, csv_path=database_csv_path):
+    csv_out_file = open(csv_path, 'w')
+    csv_writer = csv.DictWriter(csv_out_file, fieldnames=entries[0].keys())
+    csv_writer.writeheader()
+    csv_writer.writerows(entries)
+    csv_out_file.close()

@@ -47,10 +47,7 @@ try:
 except Exception as e:
     print("csv read exception:", e)
 
-for this_entry in database_entries:
-    this_entry[ITEM_INDEX_KEY] = int(this_entry[ITEM_INDEX_KEY])
-    this_entry[ITEM_SUBINDEX_KEY] = int(this_entry[ITEM_SUBINDEX_KEY])
-
+convert_keys_to_int(database_entries)
 result = sorted(database_entries, key=operator.itemgetter(ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
 
 subtitle_list = []
