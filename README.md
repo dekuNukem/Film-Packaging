@@ -4,8 +4,7 @@ Welcome! Here you can find high-resolution scans of:
 
 * Photographic Film Packaging
 * Instruction Manuals / In-box Leaflets / Processing Envelopes
-
-Old & new, popular & obscure.
+* Old & new, popular & obscure.
 
 ![title](resources/title.jpg)
 
@@ -17,6 +16,6 @@ Its preservation helps document history, inspire modern designs, and support res
 
 ## License
 
-## I want to Contribute!
+## I Want to Contribute!
 
 ## Archives
