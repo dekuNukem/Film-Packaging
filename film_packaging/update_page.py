@@ -12,7 +12,7 @@ def make_description_string(this_entry, keyname):
     return f"{attri_disp_name:8}: {item[keyname]}\n"
 
 def make_subtitle(this_entry):
-    return f"{this_entry[ITEM_BRAND_KEY]} {item[ITEM_PRODUCT_NAME_KEY]}"
+    return f"{this_entry[ITEM_BRAND_KEY]} {item[ITEM_PRODUCT_NAME_KEY]} (ref: {item[ITEM_UUID_KEY][-4:]})"
 
 placeholder = '$%'
 def make_section(text):
@@ -56,6 +56,8 @@ result = sorted(database_entries, key=operator.itemgetter(ITEM_BRAND_KEY, ITEM_P
 subtitle_list = []
 
 for item in result:
+    if item[ITEM_SUBINDEX_KEY] != 0:
+        continue
     this_subtitle = make_subtitle(item)
     if this_subtitle not in subtitle_list:
         subtitle_list.append(this_subtitle)
