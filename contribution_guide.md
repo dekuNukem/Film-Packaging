@@ -90,3 +90,7 @@ You can submit via the means below, I'll review and update once received.
 ### Questions or Comments?
 
 Get in touch by [join the Discord chatroom](https://discord.gg/yvBx7dVG4B), or email skate.huddle-6r@icloud.com !
+
+### Back to Main Page
+
+[Click me](README.md)

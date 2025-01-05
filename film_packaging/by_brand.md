@@ -608,3 +608,13 @@ Scanned By: dekuNukem
 
 ![Rollei Retro 80S 120 film_box_inside](./archive/00005_001.jpg)
 
+
+## Questions or Comments?
+
+Get in touch by [join the Discord chatroom](https://discord.gg/yvBx7dVG4B), or email skate.huddle-6r@icloud.com !
+
+## Back to Main Page
+
+[Click me](../README.md)
+
+
