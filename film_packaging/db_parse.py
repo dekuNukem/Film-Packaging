@@ -126,7 +126,7 @@ def build_record_from_existing(template, filepath):
 ingest_file_list = sorted(os.listdir(ingest_dir_path))
 
 for fname in ingest_file_list:
-    if fname.lower().endswith('.jpeg') is False:
+    if not (fname.lower().endswith('.jpeg') or fname.lower().endswith('.jpg')):
         continue
 
     print(f"Processing {fname}...")
