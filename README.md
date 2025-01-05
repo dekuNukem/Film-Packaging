@@ -16,7 +16,7 @@ Its preservation helps document history, inspire modern designs, and support res
 
 ## I Want to Contribute!
 
-You're more than welcome! [Please follow this guide](contribution_guide.md).
+Thanks! [Please follow this guide](contribution_guide.md).
 
 ## Browse Archive
 
@@ -38,7 +38,7 @@ The collection is no means complete or exhaustive, but it's a start!
 
 ## Disclaimer
 
-The images are provided for reference and educational purposes only.
+The images are provided for reference and educational purposes.
 
 The designs may be protected under copyright and trademark laws. Use at your own risk.
 
