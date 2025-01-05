@@ -30,14 +30,21 @@ You're more than welcome! [Please follow this guide]().
 
 Click below to browse all the scans!
 
+The collection is no means complete or exhaustive, but it's better than nothing!
+
 Sort by...
 
 * [Brand](./film_packaging/by_brand.md)
 
-(Under Construction)
+![title](resources/underc.gif)
 
 * Film Format 
 * ISO
 * Photographic Process
 * Expiry Date
+
+## Database
+
+[Available as CSV file](./film_packaging/database.csv)
+
 
