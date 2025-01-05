@@ -4,6 +4,7 @@
 - [Alien Film 5207/250D (ref: 8820)](#alien-film-5207250d-ref-8820)
 - [CineStill 800T (ref: c86a)](#cinestill-800t-ref-c86a)
 - [Efiniti UXi super 200 (ref: 471a)](#efiniti-uxi-super-200-ref-471a)
+- [Efke IR 820 (ref: 43c9)](#efke-ir-820-ref-43c9)
 - [Fujifilm FUJICOLOR SUPER HR (ref: aaa0)](#fujifilm-fujicolor-super-hr-ref-aaa0)
 - [Fujifilm FUJICOLOR SUPERIA (ref: 0683)](#fujifilm-fujicolor-superia-ref-0683)
 - [Fujifilm Fujichrome Professional 100D (ref: 439d)](#fujifilm-fujichrome-professional-100d-ref-439d)
@@ -20,10 +21,13 @@
 - [Kodak Ektachrome (ref: 07c0)](#kodak-ektachrome-ref-07c0)
 - [Kodak Ektacolor Pro Gold (ref: c3f8)](#kodak-ektacolor-pro-gold-ref-c3f8)
 - [Kodak Gold (ref: 933f)](#kodak-gold-ref-933f)
+- [Kodak Infrared 750nm (ref: e696)](#kodak-infrared-750nm-ref-e696)
 - [Kodak Kodachrome (ref: 3145)](#kodak-kodachrome-ref-3145)
 - [Kodak Kodachrome (ref: 6477)](#kodak-kodachrome-ref-6477)
 - [Kodak Kodacolor-X (ref: 5302)](#kodak-kodacolor-x-ref-5302)
+- [Kodak Technical Pan (ref: 03be)](#kodak-technical-pan-ref-03be)
 - [Kodak Tri-X (ref: 88c5)](#kodak-tri-x-ref-88c5)
+- [Konica Infrared 750nm (ref: 2d93)](#konica-infrared-750nm-ref-2d93)
 - [Lloyds Pharmacy Colour Film (ref: 77d9)](#lloyds-pharmacy-colour-film-ref-77d9)
 - [Lomography Lomochrome Turquoise (ref: 0d90)](#lomography-lomochrome-turquoise-ref-0d90)
 - [Polaroid 665 (ref: e054)](#polaroid-665-ref-e054)
@@ -116,6 +120,20 @@ UUID    : cde1122dafbc47088a11d9ee12b6471a
 
 ![Efiniti UXi super 200 35mm film_box_outside](./archive/00002_000.jpg)
 
+#### Efke IR 820 (ref: 43c9)
+```
+ISO     : 100
+Format  : 120
+Process : BW
+Expiry  : 201303
+UUID    : 716e410a3823476e9befa704361f43c9
+```
+
+![Efke IR 820 120 film_box_outside](./archive/00038_000.jpg)
+
+
+![Efke IR 820 120 film_box_inside](./archive/00038_001.jpg)
+
 #### Fujifilm FUJICOLOR SUPER HR (ref: aaa0)
 ```
 ISO     : 200
@@ -127,11 +145,9 @@ UUID    : 2d27c9a865aa4de19ad8dc0bcdc8aaa0
 
 ![Fujifilm FUJICOLOR SUPER HR 35mm film_box_outside](./archive/00007_000.jpg)
 
+[Click me for Instruction Manual / Leaflet #1 for Fujifilm FUJICOLOR SUPER HR (ref: 57f6)](./archive/00007_001.jpg)
 
-![Fujifilm FUJICOLOR SUPER HR 35mm film_box_leaflet](./archive/00007_001.jpg)
-
-
-![Fujifilm FUJICOLOR SUPER HR 35mm film_box_leaflet](./archive/00007_002.jpg)
+[Click me for Instruction Manual / Leaflet #2 for Fujifilm FUJICOLOR SUPER HR (ref: ca7b)](./archive/00007_002.jpg)
 
 #### Fujifilm FUJICOLOR SUPERIA (ref: 0683)
 ```
@@ -158,11 +174,9 @@ UUID    : 5dcdd19ddf654415b7eac69183e7439d
 
 ![Fujifilm Fujichrome Professional 100D 120 film_box_outside](./archive/00032_000.jpg)
 
+[Click me for Instruction Manual / Leaflet #1 for Fujifilm Fujichrome Professional 100D (ref: c977)](./archive/00032_001.jpg)
 
-![Fujifilm Fujichrome Professional 100D 120 film_box_leaflet](./archive/00032_001.jpg)
-
-
-![Fujifilm Fujichrome Professional 100D 120 film_box_leaflet](./archive/00032_002.jpg)
+[Click me for Instruction Manual / Leaflet #2 for Fujifilm Fujichrome Professional 100D (ref: 8974)](./archive/00032_002.jpg)
 
 #### Fujifilm Fujicolor NPL 160 (ref: d10b)
 ```
@@ -175,11 +189,9 @@ UUID    : ce40cc432d9e445b987fdd72fd88d10b
 
 ![Fujifilm Fujicolor NPL 160 120 film_box_outside](./archive/00034_000.jpg)
 
+[Click me for Instruction Manual / Leaflet #1 for Fujifilm Fujicolor NPL 160 (ref: 1455)](./archive/00034_001.jpg)
 
-![Fujifilm Fujicolor NPL 160 120 film_box_leaflet](./archive/00034_001.jpg)
-
-
-![Fujifilm Fujicolor NPL 160 120 film_box_leaflet](./archive/00034_002.jpg)
+[Click me for Instruction Manual / Leaflet #2 for Fujifilm Fujicolor NPL 160 (ref: 4945)](./archive/00034_002.jpg)
 
 #### Fujifilm Pro 400H (ref: 66e3)
 ```
@@ -317,11 +329,9 @@ UUID    : 7456456d09c844c8ab046abd9c17c3f8
 
 ![Kodak Ektacolor Pro Gold 220 film_box_inside](./archive/00027_001.jpg)
 
+[Click me for Instruction Manual / Leaflet #2 for Kodak Ektacolor Pro Gold (ref: ca71)](./archive/00027_002.jpg)
 
-![Kodak Ektacolor Pro Gold 220 film_box_leaflet](./archive/00027_002.jpg)
-
-
-![Kodak Ektacolor Pro Gold 220 film_box_leaflet](./archive/00027_003.jpg)
+[Click me for Instruction Manual / Leaflet #3 for Kodak Ektacolor Pro Gold (ref: ceb0)](./archive/00027_003.jpg)
 
 #### Kodak Gold (ref: 933f)
 ```
@@ -333,6 +343,19 @@ UUID    : e8aefc10fa0d43cebbac73bdcf10933f
 ```
 
 ![Kodak Gold 35mm film_box_outside](./archive/00021_000.jpg)
+
+#### Kodak Infrared 750nm (ref: e696)
+```
+ISO     : 32
+Format  : 120
+Process : BW
+Expiry  : 199102
+UUID    : 79a0275aee8e43e895b5794a8538e696
+```
+
+![Kodak Infrared 750nm 120 film_box_outside](./archive/00039_000.jpg)
+
+[Click me for Instruction Manual / Leaflet #1 for Kodak Infrared 750nm (ref: f1ad)](./archive/00039_001.jpg)
 
 #### Kodak Kodachrome (ref: 3145)
 ```
@@ -362,11 +385,9 @@ UUID    : 483191da2aa742bba3343cbe9f296477
 
 ![Kodak Kodachrome 35mm film_box_outside](./archive/00035_000.jpg)
 
+[Click me for Instruction Manual / Leaflet #1 for Kodak Kodachrome (ref: 83b8)](./archive/00035_001.jpg)
 
-![Kodak Kodachrome 35mm film_box_leaflet](./archive/00035_001.jpg)
-
-
-![Kodak Kodachrome 35mm film_box_leaflet](./archive/00035_002.jpg)
+[Click me for Instruction Manual / Leaflet #2 for Kodak Kodachrome (ref: 7f0b)](./archive/00035_002.jpg)
 
 
 ![Kodak Kodachrome 35mm film_box_processing_envelope](./archive/00035_003.jpg)
@@ -385,6 +406,21 @@ UUID    : 5a3d2ba8ff7649c9b3450d7069445302
 
 ![Kodak Kodacolor-X 126 film_box_outside](./archive/00024_000.jpg)
 
+#### Kodak Technical Pan (ref: 03be)
+```
+ISO     : 25
+Format  : 120
+Process : BW
+Expiry  : 198805
+UUID    : 3a03860d64d2400caee97955197703be
+```
+
+![Kodak Technical Pan 120 film_box_outside](./archive/00037_000.jpg)
+
+[Click me for Instruction Manual / Leaflet #1 for Kodak Technical Pan (ref: 1bc8)](./archive/00037_001.jpg)
+
+[Click me for Instruction Manual / Leaflet #2 for Kodak Technical Pan (ref: d075)](./archive/00037_002.jpg)
+
 #### Kodak Tri-X (ref: 88c5)
 ```
 ISO     : 400
@@ -395,6 +431,17 @@ UUID    : f7f99b9d46a4491c9cbfda4f030f88c5
 ```
 
 ![Kodak Tri-X 120 film_box_outside](./archive/00028_000.jpg)
+
+#### Konica Infrared 750nm (ref: 2d93)
+```
+ISO     : 32
+Format  : 120
+Process : BW
+Expiry  : 200003
+UUID    : 63b2857f2df549878446cc1963362d93
+```
+
+![Konica Infrared 750nm 120 film_box_outside](./archive/00036_000.jpg)
 
 #### Lloyds Pharmacy Colour Film (ref: 77d9)
 ```

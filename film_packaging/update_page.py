@@ -79,7 +79,11 @@ for item in result:
         description += make_description_string(item, ITEM_EXPIRY_KEY)
         description += make_description_string(item, ITEM_UUID_KEY)
         description += "```\n"
-    description += f"\n![{make_alt_text(item)}]({image_path})\n"
+        description += f"\n![{make_alt_text(item)}]({image_path})\n"
+    elif 'leaflet' in item[ITEM_TYPE_KEY].lower():
+        description += f"[Click me for Instruction Manual / Leaflet #{item[ITEM_SUBINDEX_KEY]} for {make_subtitle(item)}]({image_path})\n"
+    else:
+        description += f"\n![{make_alt_text(item)}]({image_path})\n"
 
     print(description)
     
