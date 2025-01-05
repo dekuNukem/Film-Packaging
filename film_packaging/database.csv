@@ -63,3 +63,11 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 35,2,film_box_leaflet,Kodak,Kodachrome,35mm,25,K-14,197801,1736046478,2bed0490dcf11762fa2b29424f7f2800,547384566f7d4aff89c18059a11e7f0b,00035_002.jpg,dekuNukem
 35,3,film_box_processing_envelope,Kodak,Kodachrome,35mm,25,K-14,197801,1736046482,5e7caeb28399f21ad0958628711aac85,a64a927ad3a348ae9eeb445a9725acfa,00035_003.jpg,dekuNukem
 35,4,film_box_processing_envelope,Kodak,Kodachrome,35mm,25,K-14,197801,1736046510,b87213bf8f94aae1b10c681f96ad282a,754d321490a3453981be592ac6221b8d,00035_004.jpg,dekuNukem
+36,0,film_box_outside,Konica,Infrared 750nm,120,32,BW,200003,1736085980,b49f863c50fd74afc126c9a53da7e389,63b2857f2df549878446cc1963362d93,00036_000.jpg,dekuNukem
+37,0,film_box_outside,Kodak,Technical Pan,120,25,BW,198805,1736086038,7a34a2f430def88aafff771039cddbbe,3a03860d64d2400caee97955197703be,00037_000.jpg,dekuNukem
+37,1,film_box_leaflet,Kodak,Technical Pan,120,25,BW,198805,1736086040,1f4e7b48d6bfd1c31dc4461bcb52a8db,579e1eee184e49669d586cf512ec1bc8,00037_001.jpg,dekuNukem
+37,2,film_box_leaflet,Kodak,Technical Pan,120,25,BW,198805,1736086046,086a3d164ec190626d5f790579c66b5d,6bcd669b9d2e44c6929e55a446d1d075,00037_002.jpg,dekuNukem
+38,0,film_box_outside,Efke,IR 820,120,100,BW,201303,1736086160,1aaefdee86fb6a7b20a4278667021c40,716e410a3823476e9befa704361f43c9,00038_000.jpg,dekuNukem
+38,1,film_box_inside,Efke,IR 820,120,100,BW,201303,1736086162,e11c51146023db28ae579ad528bebba1,4c7b545000f04f4da046d18c43575e19,00038_001.jpg,dekuNukem
+39,0,film_box_outside,Kodak,Infrared 750nm,120,32,BW,199102,1736086214,554c22eff2afd7ce00c75d1f799214e2,79a0275aee8e43e895b5794a8538e696,00039_000.jpg,dekuNukem
+39,1,film_box_leaflet,Kodak,Infrared 750nm,120,32,BW,199102,1736086217,fee652eff3ef0ca47b9051e73f59e14f,b5abc293fb26450eab9bfdda971cf1ad,00039_001.jpg,dekuNukem
