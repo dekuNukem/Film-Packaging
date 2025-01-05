@@ -1,4 +1,4 @@
-# dekuNukem's Film Packaging Archive
+# Film Packaging Archive
 
 ## Sorted by BRAND
 

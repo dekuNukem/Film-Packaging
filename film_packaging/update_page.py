@@ -53,7 +53,7 @@ except Exception as e:
 convert_keys_to_int(database_entries)
 result = sorted(database_entries, key=operator.itemgetter(ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
 
-print("# dekuNukem's Film Packaging Archive\n")
+print("# Film Packaging Archive\n")
 print("## Sorted by BRAND\n")
 print("[Main Page](../README.md) | [Contribution Guide](../contribution_guide.md)\n")
 print("If you find this useful, please **credit this project**: https://github.com/dekuNukem/Film-Packaging\n")
