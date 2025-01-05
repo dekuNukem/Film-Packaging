@@ -27,5 +27,4 @@ for item in database_entries:
     item[ITEM_FILE_NAME_KEY] = make_filename_only(item)
     item[ITEM_AUTHOR_KEY] = AUTHOR_NAME_MYSELF
 
-
 save_csv(database_entries, csv_path="new.csv")
