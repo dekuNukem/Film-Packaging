@@ -18,9 +18,9 @@ Its preservation helps document history, inspire modern designs, and support res
 
 You're more than welcome! [Please follow this guide](contribution_guide.md).
 
-## Archive
+## Browse Archive
 
-Click to browse all the scans!
+Click to see all the scans!
 
 Sort by...
 
