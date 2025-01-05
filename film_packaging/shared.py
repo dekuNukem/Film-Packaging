@@ -146,7 +146,7 @@ def find_key_attributes(key_name_str):
 def make_filename_only(item_dict):
     return f"{int(item_dict[ITEM_INDEX_KEY]):05}_{int(item_dict[ITEM_SUBINDEX_KEY]):03}.jpg"
 
-def make_filename(item_dict):
+def make_filename_full_path(item_dict):
     new_filename = make_filename_only(item_dict)
     return os.path.join(archive_dir_path, new_filename)
 

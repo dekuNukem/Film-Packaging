@@ -65,7 +65,7 @@ for item in subtitle_list:
 print("\n\n-----\n\n")
 
 for item in result:
-    image_path = make_filename(item)
+    image_path = make_filename_full_path(item)
     description = ""
     if int(item[ITEM_SUBINDEX_KEY]) == 0:
         description += f"#### {make_subtitle(item)}"
