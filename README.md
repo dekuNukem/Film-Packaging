@@ -27,10 +27,7 @@ The collection is no means complete or exhaustive, but it's better than nothing!
 Sort by...
 
 * [Brand](./film_packaging/by_brand.md)
-
-![title](resources/underc.gif)
-
-* Film Format 
+* Film Format (Under construction)
 * ISO
 * Photographic Process
 * Expiry Date
