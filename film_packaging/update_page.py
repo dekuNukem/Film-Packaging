@@ -11,8 +11,11 @@ def make_description_string(this_entry, keyname):
     attri_disp_name = find_key_attributes(keyname).display_name
     return f"{attri_disp_name:8}: {item[keyname]}\n"
 
+def make_alt_text(this_entry):
+    return f"{this_entry[ITEM_BRAND_KEY]} {this_entry[ITEM_PRODUCT_NAME_KEY]} {this_entry[ITEM_FORMAT_KEY]} {this_entry[ITEM_TYPE_KEY]}"
+
 def make_subtitle(this_entry):
-    return f"{this_entry[ITEM_BRAND_KEY]} {item[ITEM_PRODUCT_NAME_KEY]} (ref: {item[ITEM_UUID_KEY][-4:]})"
+    return f"{this_entry[ITEM_BRAND_KEY]} {this_entry[ITEM_PRODUCT_NAME_KEY]} (ref: {this_entry[ITEM_UUID_KEY][-4:]})"
 
 placeholder = '$%'
 def make_section(text):
@@ -76,7 +79,7 @@ for item in result:
         description += make_description_string(item, ITEM_EXPIRY_KEY)
         description += make_description_string(item, ITEM_UUID_KEY)
         description += "```\n"
-    description += f"\n![alt_text]({image_path})\n"
+    description += f"\n![{make_alt_text(item)}]({image_path})\n"
 
     print(description)
     
