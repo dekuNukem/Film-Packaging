@@ -6,7 +6,7 @@
 
 Thank you for supporting this project!
 
-Please read this short guide about how to submit your own images.
+Please read this short guide on how to submit your own scans.
 
 ### Prerequisites
 
@@ -14,24 +14,22 @@ Your film packaging should be:
 
 * Intact & Legible
 	* Not missing any flaps / panels
-	* Printing not obscured by stains / stickers
+	* Not significantly covered by stains / stickers
 * Unique
 	* [Take a look at the archive page](./film_packaging/by_brand.md)
 	* It should be **NOT exactly the same** OR **in better condition** as the existing entries
 
-Feel free to submit those requirements are met!
+Feel free to submit if those requirements are met!
 
 ### Equipment
 
 A **Flatbed Scanner** is highly recommended.
 
-No need to be new or high-end, 1200DPI is plenty.
+No need to be fancy, 1200DPI is plenty.
 
 ### Preparation
 
 You need to **take apart the box** while **minimizing damage**.
-
-⚠️ Don't remove any stickers! Do a scan first before attempting!
 
 Each box is different, but generally you can:
 
@@ -64,6 +62,12 @@ Each box is different, but generally you can:
 
 ⚠️ DO NOT perform excessive post-processing! Flatter image is preferable.
 
+### Sample Scan
+
+Yours should look similar to this. Click to enlarge.
+
+![title](film_packaging/archive/00036_000.jpg)
+
 ### Submission
 
 You can submit via the means below, I'll review and update once received.
@@ -83,11 +87,6 @@ You can submit via the means below, I'll review and update once received.
 	* **Include your nickname/real name/social media handle**!
 	* Used to credit you in the database
 
-#### GitHub Pull Request
+### Questions or Comments?
 
-* Advanced User Only
-* Clone this repo
-* Add your scans in `to_add` folder
-* Submit a pull request
-* Keep image size under 10MB
-
+Get in touch by [join the Discord chatroom](https://discord.gg/yvBx7dVG4B), or email skate.huddle-6r@icloud.com !

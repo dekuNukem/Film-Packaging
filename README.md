@@ -1,9 +1,9 @@
-# dekuNukem's Film Packaging Archive
+# Film Packaging Archive
 
 Welcome! Here you can find high-resolution scans of:
 
 * Photographic Film Packaging
-* Instruction Manuals / In-box Leaflets / Processing Envelopes
+* In-box Instruction Manuals / Leaflets / Processing Envelopes
 * Old & new, popular & obscure.
 
 ![title](resources/title.jpg)
@@ -30,7 +30,7 @@ Sort by...
 * Photographic Process
 * Expiry Date
 
-The collection is no means complete or exhaustive, but it's a start!
+The collection is by no means complete or exhaustive, but it's a start!
 
 ## Database
 
@@ -42,3 +42,6 @@ The images are provided for reference and educational purposes.
 
 The designs may be protected under copyright and trademark laws. Use at your own risk.
 
+### Questions or Comments?
+
+Get in touch by [join the Discord chatroom](https://discord.gg/yvBx7dVG4B), or email skate.huddle-6r@icloud.com !
