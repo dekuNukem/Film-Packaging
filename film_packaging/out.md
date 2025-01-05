@@ -6,25 +6,32 @@
 - [Efiniti UXi super 200 (ref: 471a)](#efiniti-uxi-super-200-ref-471a)
 - [Fujifilm FUJICOLOR SUPER HR (ref: aaa0)](#fujifilm-fujicolor-super-hr-ref-aaa0)
 - [Fujifilm FUJICOLOR SUPERIA (ref: 0683)](#fujifilm-fujicolor-superia-ref-0683)
+- [Fujifilm Fujichrome Professional 100D (ref: 439d)](#fujifilm-fujichrome-professional-100d-ref-439d)
+- [Fujifilm Fujicolor NPL 160 (ref: d10b)](#fujifilm-fujicolor-npl-160-ref-d10b)
 - [Fujifilm Pro 400H (ref: 66e3)](#fujifilm-pro-400h-ref-66e3)
 - [Fujifilm Velvia 100F (ref: f7fb)](#fujifilm-velvia-100f-ref-f7fb)
 - [HARMAN PHOENIX (ref: 637f)](#harman-phoenix-ref-637f)
 - [Ilford HP5 Plus (ref: 1a5d)](#ilford-hp5-plus-ref-1a5d)
 - [Ilford HP5 Plus (ref: efad)](#ilford-hp5-plus-ref-efad)
 - [Ilford SFX 200 (ref: 6057)](#ilford-sfx-200-ref-6057)
+- [Jessops Diamond Everyday (ref: 67d3)](#jessops-diamond-everyday-ref-67d3)
 - [Kentmere PAN (ref: 827e)](#kentmere-pan-ref-827e)
 - [Kodak Ektachrome (ref: ce7f)](#kodak-ektachrome-ref-ce7f)
 - [Kodak Ektachrome (ref: 07c0)](#kodak-ektachrome-ref-07c0)
 - [Kodak Ektacolor Pro Gold (ref: c3f8)](#kodak-ektacolor-pro-gold-ref-c3f8)
 - [Kodak Gold (ref: 933f)](#kodak-gold-ref-933f)
 - [Kodak Kodachrome (ref: 3145)](#kodak-kodachrome-ref-3145)
+- [Kodak Kodachrome (ref: 6477)](#kodak-kodachrome-ref-6477)
 - [Kodak Kodacolor-X (ref: 5302)](#kodak-kodacolor-x-ref-5302)
 - [Kodak Tri-X (ref: 88c5)](#kodak-tri-x-ref-88c5)
 - [Lloyds Pharmacy Colour Film (ref: 77d9)](#lloyds-pharmacy-colour-film-ref-77d9)
 - [Lomography Lomochrome Turquoise (ref: 0d90)](#lomography-lomochrome-turquoise-ref-0d90)
 - [Polaroid 665 (ref: e054)](#polaroid-665-ref-e054)
 - [Polaroid 669 (ref: 3566)](#polaroid-669-ref-3566)
+- [Polaroid GridFilm (ref: 8deb)](#polaroid-gridfilm-ref-8deb)
 - [Polaroid PolaBlue (ref: df66)](#polaroid-polablue-ref-df66)
+- [Polaroid PolaChrome (ref: 3b60)](#polaroid-polachrome-ref-3b60)
+- [Rollei Infrared (ref: 4f54)](#rollei-infrared-ref-4f54)
 - [Rollei Retro 80S (ref: e6c0)](#rollei-retro-80s-ref-e6c0)
 
 
@@ -140,6 +147,40 @@ UUID    : c3d9e51d22e241f69133be30d5a00683
 
 ![alt_text](./archive/00012_001.jpg)
 
+#### Fujifilm Fujichrome Professional 100D (ref: 439d)
+```
+ISO     : 100
+Format  : 120
+Process : E-6
+Expiry  : 199212
+UUID    : 5dcdd19ddf654415b7eac69183e7439d
+```
+
+![alt_text](./archive/00032_000.jpg)
+
+
+![alt_text](./archive/00032_001.jpg)
+
+
+![alt_text](./archive/00032_002.jpg)
+
+#### Fujifilm Fujicolor NPL 160 (ref: d10b)
+```
+ISO     : 160
+Format  : 120
+Process : C-41
+Expiry  : 199807
+UUID    : ce40cc432d9e445b987fdd72fd88d10b
+```
+
+![alt_text](./archive/00034_000.jpg)
+
+
+![alt_text](./archive/00034_001.jpg)
+
+
+![alt_text](./archive/00034_002.jpg)
+
 #### Fujifilm Pro 400H (ref: 66e3)
 ```
 ISO     : 400
@@ -214,6 +255,17 @@ UUID    : 7856b5442362453caa67628c93be6057
 
 
 ![alt_text](./archive/00009_001.jpg)
+
+#### Jessops Diamond Everyday (ref: 67d3)
+```
+ISO     : 200
+Format  : APS
+Process : C-41
+Expiry  : 200610
+UUID    : b53e5c167866448d812a4dc8e85967d3
+```
+
+![alt_text](./archive/00033_000.jpg)
 
 #### Kentmere PAN (ref: 827e)
 ```
@@ -299,6 +351,29 @@ UUID    : 68c945b76fc14ab699b944a3c7b93145
 
 ![alt_text](./archive/00026_002.jpg)
 
+#### Kodak Kodachrome (ref: 6477)
+```
+ISO     : 25
+Format  : 35mm
+Process : K-14
+Expiry  : 197801
+UUID    : 483191da2aa742bba3343cbe9f296477
+```
+
+![alt_text](./archive/00035_000.jpg)
+
+
+![alt_text](./archive/00035_001.jpg)
+
+
+![alt_text](./archive/00035_002.jpg)
+
+
+![alt_text](./archive/00035_003.jpg)
+
+
+![alt_text](./archive/00035_004.jpg)
+
 #### Kodak Kodacolor-X (ref: 5302)
 ```
 ISO     : 80
@@ -368,6 +443,26 @@ UUID    : bb62de3a22c04f699c780aeae7c83566
 
 ![alt_text](./archive/00020_000.jpg)
 
+#### Polaroid GridFilm (ref: 8deb)
+```
+ISO     : 640
+Format  : Integral Film
+Process : Instant
+Expiry  : 200610
+UUID    : 4f1aabf29f724c9ea3b2bee414b08deb
+```
+
+![alt_text](./archive/00031_000.jpg)
+
+
+![alt_text](./archive/00031_001.jpg)
+
+
+![alt_text](./archive/00031_002.jpg)
+
+
+![alt_text](./archive/00031_003.jpg)
+
 #### Polaroid PolaBlue (ref: df66)
 ```
 ISO     : 12
@@ -378,6 +473,28 @@ UUID    : 8236180d686f4e9ca4aa8e6fc397df66
 ```
 
 ![alt_text](./archive/00019_000.jpg)
+
+#### Polaroid PolaChrome (ref: 3b60)
+```
+ISO     : 40
+Format  : 35mm
+Process : Instant
+Expiry  : 199209
+UUID    : b0041b1e44a64f6591d49e918e033b60
+```
+
+![alt_text](./archive/00029_000.jpg)
+
+#### Rollei Infrared (ref: 4f54)
+```
+ISO     : 200
+Format  : 120
+Process : BW
+Expiry  : 202708
+UUID    : b7bb7d65979543d0a8e5c9179d734f54
+```
+
+![alt_text](./archive/00030_000.jpg)
 
 #### Rollei Retro 80S (ref: e6c0)
 ```
