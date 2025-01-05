@@ -84,6 +84,7 @@ for item in result:
         description += make_description_string(item, ITEM_PROCESS_KEY)
         description += make_description_string(item, ITEM_EXPIRY_KEY)
         description += make_description_string(item, ITEM_UUID_KEY)
+        description += make_description_string(item, ITEM_AUTHOR_KEY)
         description += "```\n"
         description += f"\n![{make_alt_text(item)}]({image_path})\n"
     elif 'leaflet' in item[ITEM_TYPE_KEY].lower():

@@ -146,7 +146,7 @@ record_key_list.append(this_key)
 
 this_key = my_attribute()
 this_key.db_name = ITEM_AUTHOR_KEY
-this_key.display_name = "Author"
+this_key.display_name = "Scanned By"
 this_key.no_need_to_ask = True
 this_key.notes = ""
 record_key_list.append(this_key)
