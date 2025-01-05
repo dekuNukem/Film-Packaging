@@ -10,24 +10,8 @@ import hashlib
 from PIL import Image
 from shared import *
 
-#-------
-
+author_name_this_session = AUTHOR_NAME_MYSELF
 database_entries = []
-
-if os.path.isdir(ingest_dir_path) is False:
-    print(f"'{ingest_dir_path}' is not a directory.")
-    exit()
-
-try:
-    csv_file = open(database_csv_path)
-    csv_reader = csv.DictReader(csv_file)
-    for row in csv_reader:
-        database_entries.append(row)
-    csv_file.close()
-except Exception as e:
-    print("csv read exception:", e)
-
-convert_keys_to_int(database_entries)
 
 def get_md5_str(filepath):
     with open(filepath, "rb") as f:
@@ -108,7 +92,7 @@ def build_record_from_scratch(filepath):
     this_record[ITEM_UUID_KEY] = uuid.uuid4().hex
     this_record[DATE_ADDED_KEY] = int(time.time())
     this_record[CHECKSUM_KEY] = get_md5_str(filepath)
-
+    this_record[ITEM_AUTHOR_KEY] = author_name_this_session
     return this_record
 
 def build_record_from_existing(template, filepath):
@@ -120,9 +104,28 @@ def build_record_from_existing(template, filepath):
     this_record[CHECKSUM_KEY] = get_md5_str(filepath)
     this_record[ITEM_UUID_KEY] = uuid.uuid4().hex
     this_record[ITEM_SUBINDEX_KEY] = int(this_record[ITEM_SUBINDEX_KEY]) + 1
+    this_record[ITEM_AUTHOR_KEY] = author_name_this_session
     this_record[ITEM_TYPE_KEY] = ask_attribute(ITEM_TYPE_KEY)
     return this_record
 
+if os.path.isdir(ingest_dir_path) is False:
+    print(f"'{ingest_dir_path}' is not a directory.")
+    exit()
+
+try:
+    csv_file = open(database_csv_path)
+    csv_reader = csv.DictReader(csv_file)
+    for row in csv_reader:
+        database_entries.append(row)
+    csv_file.close()
+except Exception as e:
+    print("csv read exception:", e)
+
+this_author = get_answer("Author name this session? (Press Enter for myself)\n", accept_empty=True)
+if len(this_author) > 0:
+    author_name_this_session = this_author
+
+convert_keys_to_int(database_entries)
 ingest_file_list = sorted(os.listdir(ingest_dir_path))
 
 for fname in ingest_file_list:
@@ -142,11 +145,12 @@ for fname in ingest_file_list:
         this_entry = build_record_from_scratch(this_file_path)
     else:
         this_entry = build_record_from_existing(database_entries[-1], this_file_path)
-    print(this_entry)
+    
+    this_entry[ITEM_FILE_NAME_KEY] = make_filename_only(this_entry)
+    copy_dest_path = make_filename_full_path(this_entry)
+
     database_entries.append(this_entry)
     save_csv(database_entries)
 
-    new_filename = f"{this_entry[ITEM_INDEX_KEY]:05}_{this_entry[ITEM_SUBINDEX_KEY]:03}.jpg"
-    new_file_path = os.path.join(archive_dir_path, new_filename)
-    shutil.copy2(this_file_path, new_file_path)
+    shutil.copy2(this_file_path, copy_dest_path)
     

@@ -137,6 +137,20 @@ this_key.no_need_to_ask = True
 this_key.notes = ""
 record_key_list.append(this_key)
 
+this_key = my_attribute()
+this_key.db_name = ITEM_FILE_NAME_KEY
+this_key.display_name = "File Name"
+this_key.no_need_to_ask = True
+this_key.notes = ""
+record_key_list.append(this_key)
+
+this_key = my_attribute()
+this_key.db_name = ITEM_AUTHOR_KEY
+this_key.display_name = "Author"
+this_key.no_need_to_ask = True
+this_key.notes = ""
+record_key_list.append(this_key)
+
 def find_key_attributes(key_name_str):
     for item in record_key_list:
         if item.db_name == key_name_str:
