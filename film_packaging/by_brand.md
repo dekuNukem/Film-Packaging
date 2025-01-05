@@ -6,6 +6,8 @@
 
 If you find this useful, please **credit this project**: https://github.com/dekuNukem/Film-Packaging
 
+Click for full size.
+
 ------
 
 - [AGFA APX (ref: 12c7)](#agfa-apx-ref-12c7)

@@ -57,6 +57,7 @@ print("# dekuNukem's Film Packaging Archive\n")
 print("## Sorted by BRAND\n")
 print("[Main Page](../README.md) | [Contribution Guide](../contribution_guide.md)\n")
 print("If you find this useful, please **credit this project**: https://github.com/dekuNukem/Film-Packaging\n")
+print("Click for full size.\n")
 print("------\n")
 
 subtitle_list = []
