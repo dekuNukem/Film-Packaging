@@ -14,17 +14,9 @@ Film packaging reflects the evolution of photography, technological progress, an
 
 Its preservation helps document history, inspire modern designs, and support research of branding and cultural aesthetics.
 
-## Usage
-
-You may use the scanned image **in any way you like**.
-
-If you find this useful, please **credit this webpage**: https://github.com/dekuNukem/Film-Packaging
-
-Do note that the design themselves may be protected under copyright/trademarks.
-
 ## I Want to Contribute!
 
-You're more than welcome! [Please follow this guide]().
+You're more than welcome! [Please follow this guide](contribution_guide.md).
 
 ## Archive
 
@@ -47,4 +39,9 @@ Sort by...
 
 [Available as CSV file](./film_packaging/database.csv)
 
+## Disclaimer
+
+The images are provided for reference and educational purposes only.
+
+The designs may be protected under copyright and trademark laws. Use at your own risk.
 

@@ -1,6 +1,10 @@
-# dekuNukem's Film Packaging Archive: Sorted by BRAND
+# dekuNukem's Film Packaging Archive
+
+## Sorted by BRAND
 
 [Main Page](../README.md) | [Contribution Guide](../contribution_guide.md)
+
+If you find this useful, please **credit this project**: https://github.com/dekuNukem/Film-Packaging
 
 ------
 
