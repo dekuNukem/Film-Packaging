@@ -1,14 +1,17 @@
-# Film Packaging Archive
+# Film Packaging Archive (Sorted by BRAND)
 
-## Sorted by BRAND
+[Project Home Page](../README.md)
 
-[Main Page](../README.md) | [Contribution Guide](../contribution_guide.md)
+-----
 
-If you find this useful, please **credit this project**: https://github.com/dekuNukem/Film-Packaging
+Found this useful? Please [credit the project page](https://github.com/dekuNukem/Film-Packaging)!
+
+Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 Click for full size.
 
-------
+-----
+
 
 - [AGFA APX (ref: 12c7)](#agfa-apx-ref-12c7)
 - [AGFA ULTRA 50 (ref: 4faa)](#agfa-ultra-50-ref-4faa)
@@ -611,7 +614,7 @@ Scanned By: dekuNukem
 
 ## Questions or Comments?
 
-Get in touch by [join the Discord chatroom](https://discord.gg/yvBx7dVG4B), or email skate.huddle-6r@icloud.com !
+Get in touch by joining [the Discord chatroom](https://discord.gg/yvBx7dVG4B), or email skate.huddle-6r@icloud.com !
 
 ## Back to Main Page
 
