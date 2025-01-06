@@ -25,10 +25,10 @@ Click to see all the scans!
 Sort by...
 
 * [Brand](./film_packaging/by_brand.md)
-* Film Format (Under construction)
-* ISO
-* Photographic Process
-* Expiry Date
+* Film Format (Coming soon)
+* ISO (Coming soon)
+* Photographic Process (Coming soon)
+* Expiry Date (Coming soon)
 
 The collection is by no means complete or exhaustive, but it's a start!
 
