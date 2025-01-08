@@ -69,5 +69,5 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 37,2,film_box_leaflet,Kodak,Technical Pan 6415,120,25,BW,198805,1736086046,086a3d164ec190626d5f790579c66b5d,6bcd669b9d2e44c6929e55a446d1d075,00037_002.jpg,dekuNukem
 38,0,film_box_outside,Efke,IR 820,120,100,BW,201303,1736086160,1aaefdee86fb6a7b20a4278667021c40,716e410a3823476e9befa704361f43c9,00038_000.jpg,dekuNukem
 38,1,film_box_inside,Efke,IR 820,120,100,BW,201303,1736086162,e11c51146023db28ae579ad528bebba1,4c7b545000f04f4da046d18c43575e19,00038_001.jpg,dekuNukem
-39,0,film_box_outside,Kodak,Infrared 750nm,120,32,BW,199102,1736086214,554c22eff2afd7ce00c75d1f799214e2,79a0275aee8e43e895b5794a8538e696,00039_000.jpg,dekuNukem
-39,1,film_box_leaflet,Kodak,Infrared 750nm,120,32,BW,199102,1736086217,fee652eff3ef0ca47b9051e73f59e14f,b5abc293fb26450eab9bfdda971cf1ad,00039_001.jpg,dekuNukem
+39,0,film_box_outside,Konica,Infrared 750nm,120,32,BW,199102,1736086214,554c22eff2afd7ce00c75d1f799214e2,79a0275aee8e43e895b5794a8538e696,00039_000.jpg,dekuNukem
+39,1,film_box_leaflet,Konica,Infrared 750nm,120,32,BW,199102,1736086217,fee652eff3ef0ca47b9051e73f59e14f,b5abc293fb26450eab9bfdda971cf1ad,00039_001.jpg,dekuNukem

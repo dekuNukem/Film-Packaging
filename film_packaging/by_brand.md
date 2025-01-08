@@ -42,13 +42,13 @@ Last Updated: Jan 05 2025
 - [Kodak Ektachrome (ref: 07c0)](#kodak-ektachrome-ref-07c0)
 - [Kodak Ektacolor Pro Gold (ref: c3f8)](#kodak-ektacolor-pro-gold-ref-c3f8)
 - [Kodak Gold (ref: 933f)](#kodak-gold-ref-933f)
-- [Kodak Infrared 750nm (ref: e696)](#kodak-infrared-750nm-ref-e696)
 - [Kodak Kodachrome (ref: 3145)](#kodak-kodachrome-ref-3145)
 - [Kodak Kodachrome (ref: 6477)](#kodak-kodachrome-ref-6477)
 - [Kodak Kodacolor-X (ref: 5302)](#kodak-kodacolor-x-ref-5302)
 - [Kodak Technical Pan 6415 (ref: 03be)](#kodak-technical-pan-6415-ref-03be)
 - [Kodak Tri-X (ref: 88c5)](#kodak-tri-x-ref-88c5)
 - [Konica Infrared 750nm (ref: 2d93)](#konica-infrared-750nm-ref-2d93)
+- [Konica Infrared 750nm (ref: e696)](#konica-infrared-750nm-ref-e696)
 - [Lloyds Pharmacy Colour Film (ref: 77d9)](#lloyds-pharmacy-colour-film-ref-77d9)
 - [Lomography Lomochrome Turquoise (ref: 0d90)](#lomography-lomochrome-turquoise-ref-0d90)
 - [Polaroid 665 (ref: e054)](#polaroid-665-ref-e054)
@@ -388,20 +388,6 @@ Scanned By: dekuNukem
 
 ![Kodak Gold 35mm film_box_outside](./archive/00021_000.jpg)
 
-#### Kodak Infrared 750nm (ref: e696)
-```
-ISO     : 32
-Format  : 120
-Process : BW
-Expiry  : 199102
-UUID    : 79a0275aee8e43e895b5794a8538e696
-Scanned By: dekuNukem
-```
-
-![Kodak Infrared 750nm 120 film_box_outside](./archive/00039_000.jpg)
-
-[Click me for Instruction Manual / Leaflet #1 for Kodak Infrared 750nm (ref: f1ad)](./archive/00039_001.jpg)
-
 #### Kodak Kodachrome (ref: 3145)
 ```
 ISO     : 64
@@ -493,6 +479,20 @@ Scanned By: dekuNukem
 ```
 
 ![Konica Infrared 750nm 120 film_box_outside](./archive/00036_000.jpg)
+
+#### Konica Infrared 750nm (ref: e696)
+```
+ISO     : 32
+Format  : 120
+Process : BW
+Expiry  : 199102
+UUID    : 79a0275aee8e43e895b5794a8538e696
+Scanned By: dekuNukem
+```
+
+![Konica Infrared 750nm 120 film_box_outside](./archive/00039_000.jpg)
+
+[Click me for Instruction Manual / Leaflet #1 for Konica Infrared 750nm (ref: f1ad)](./archive/00039_001.jpg)
 
 #### Lloyds Pharmacy Colour Film (ref: 77d9)
 ```
