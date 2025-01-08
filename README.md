@@ -16,7 +16,9 @@ Its preservation helps document history, inspire modern designs, and support res
 
 ## I Want to Contribute!
 
-Thanks! [Please follow this guide](contribution_guide.md).
+Thanks! [Please follow the contribution guide](contribution_guide.md).
+
+I also made a [shutter speed tester](https://dekunukem.github.io/PulseHPT/) if that's of interest.
 
 ## Browse Archive
 
