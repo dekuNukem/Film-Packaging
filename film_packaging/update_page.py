@@ -115,7 +115,7 @@ for item in result:
 ending = """
 ## Questions or Comments?
 
-Get in touch by joining [the Discord chatroom](https://discord.gg/yvBx7dVG4B), or email skate.huddle-6r@icloud.com !
+Get in touch by joining [the Discord chatroom](https://discord.gg/yvBx7dVG4B), or `email skate.huddle-6r@icloud.com` !
 
 ## Back to Main Page
 
