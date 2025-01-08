@@ -17,8 +17,8 @@ Your film packaging should be:
 	* Not significantly covered by stains / stickers
 * Unique
 	* [Take a look at the archive page](./film_packaging/by_brand.md)
-	* It should be **NOT exactly the same** as existing entries
-	* OR **in better condition than** an existing entry so it can be replaced
+	* It should be **`NOT exactly the same`** as existing entries
+	* OR **`in better condition than`** an existing entry so it can be replaced
 
 Feel free to submit if those requirements are met!
 
