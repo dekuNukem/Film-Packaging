@@ -76,7 +76,7 @@ You can submit via the means below, I'll review and update once received.
 #### WeTransfer
 
 * Zip all your scans
-* Send via [WeTransfer](https://wetransfer.com/) to skate.huddle-6r@icloud.com
+* Send via [WeTransfer](https://wetransfer.com/) to `skate.huddle-6r@icloud.com`
 	* **Include your nickname/real name/social media handle**!
 	* Used to credit you in the database
 
@@ -90,7 +90,7 @@ You can submit via the means below, I'll review and update once received.
 
 ### Questions or Comments?
 
-Get in touch by joining [the Discord chatroom](https://discord.gg/yvBx7dVG4B), or email skate.huddle-6r@icloud.com !
+Get in touch by joining [the Discord chatroom](https://discord.gg/yvBx7dVG4B), or email `skate.huddle-6r@icloud.com` !
 
 ### Back to Main Page
 
