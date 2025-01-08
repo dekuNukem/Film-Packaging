@@ -65,6 +65,12 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 Click for full size.
 
+```
+Last Updated: 
+
+# of items: 
+```
+
 -----
 
 """

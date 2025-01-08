@@ -10,6 +10,12 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 Click for full size.
 
+```
+Last Updated: Jan 05 2025
+
+# of items: 72
+```
+
 -----
 
 
@@ -614,7 +620,7 @@ Scanned By: dekuNukem
 
 ## Questions or Comments?
 
-Get in touch by joining [the Discord chatroom](https://discord.gg/yvBx7dVG4B), or email `skate.huddle-6r@icloud.com` !
+Get in touch by joining [the Discord chatroom](https://discord.gg/yvBx7dVG4B), or email skate.huddle-6r@icloud.com !
 
 ## Back to Main Page
 

@@ -23,10 +23,11 @@ I also made a [shutter speed tester](https://dekunukem.github.io/PulseHPT/) if t
 ## Browse Archive
 
 ```
-Click to see all the scans!
-Last Updated: 
-# of items:
+Last Updated: Jan 05 2025
+# of items: 72
 ```
+
+Click to see all the scans!
 
 Sort by...
 

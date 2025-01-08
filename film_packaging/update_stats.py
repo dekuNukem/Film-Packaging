@@ -18,9 +18,9 @@ convert_keys_to_int(database_entries)
 
 
 def replace_lines(filename):
-	readme_file = open(filename, encoding='utf8')
-	readme_lines = readme_file.readlines()
-	readme_file.close()
+	in_file = open(filename, encoding='utf8')
+	text_lines = in_file.readlines()
+	in_file.close()
 
 	latest_scan = max([int(x[DATE_ADDED_KEY]) for x in database_entries])
 	utc_datetime = datetime.datetime.fromtimestamp(latest_scan, datetime.timezone.utc)
@@ -29,14 +29,18 @@ def replace_lines(filename):
 	LAST_UPDATED_STR = "Last Updated:"
 	ITEMS_COUNT_STR = "# of items:"
 
-	for index, line in enumerate(readme_lines):
+	for index, line in enumerate(text_lines):
 		if line.startswith(LAST_UPDATED_STR):
-			readme_lines[index] = f"{LAST_UPDATED_STR} {formatted_date}"
+			text_lines[index] = f"{LAST_UPDATED_STR} {formatted_date}\n"
 		if line.startswith(ITEMS_COUNT_STR):
-			readme_lines[index] = f"{ITEMS_COUNT_STR} {len(database_entries)}"
+			text_lines[index] = f"{ITEMS_COUNT_STR} {len(database_entries)}\n"
 
-	for item in readme_lines:
-		print(item)
+	out_file = open(filename, 'w', encoding='utf8')
+	out_file.writelines(text_lines)
+	out_file.close()
 
+	print(f"Stats updated! {filename}")
 
 replace_lines("../README.md")
+
+replace_lines("./by_brand.md")
