@@ -11,9 +11,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 Click for full size.
 
 ```
-Last Updated: Jan 05 2025
+Last Updated: Jan 12 2025
 
-# of items: 72
+# of items: 74
 ```
 
 -----
@@ -29,6 +29,7 @@ Last Updated: Jan 05 2025
 - [Fujifilm FUJICOLOR SUPER HR (ref: aaa0)](#fujifilm-fujicolor-super-hr-ref-aaa0)
 - [Fujifilm FUJICOLOR SUPERIA (ref: 0683)](#fujifilm-fujicolor-superia-ref-0683)
 - [Fujifilm Fujichrome Professional 100D (ref: 439d)](#fujifilm-fujichrome-professional-100d-ref-439d)
+- [Fujifilm Fujicolor 100 (ref: 013b)](#fujifilm-fujicolor-100-ref-013b)
 - [Fujifilm Fujicolor NPL 160 (ref: d10b)](#fujifilm-fujicolor-npl-160-ref-d10b)
 - [Fujifilm Pro 400H (ref: 66e3)](#fujifilm-pro-400h-ref-66e3)
 - [Fujifilm Velvia 100F (ref: f7fb)](#fujifilm-velvia-100f-ref-f7fb)
@@ -47,6 +48,7 @@ Last Updated: Jan 05 2025
 - [Kodak Kodacolor-X (ref: 5302)](#kodak-kodacolor-x-ref-5302)
 - [Kodak Technical Pan 6415 (ref: 03be)](#kodak-technical-pan-6415-ref-03be)
 - [Kodak Tri-X (ref: 88c5)](#kodak-tri-x-ref-88c5)
+- [Kodak Verichrome Pan (ref: 0195)](#kodak-verichrome-pan-ref-0195)
 - [Konica Infrared 750nm (ref: 2d93)](#konica-infrared-750nm-ref-2d93)
 - [Konica Infrared 750nm (ref: e696)](#konica-infrared-750nm-ref-e696)
 - [Lloyds Pharmacy Colour Film (ref: 77d9)](#lloyds-pharmacy-colour-film-ref-77d9)
@@ -208,6 +210,18 @@ Scanned By: dekuNukem
 [Click me for Instruction Manual / Leaflet #1 for Fujifilm Fujichrome Professional 100D (ref: c977)](./archive/00032_001.jpg)
 
 [Click me for Instruction Manual / Leaflet #2 for Fujifilm Fujichrome Professional 100D (ref: 8974)](./archive/00032_002.jpg)
+
+#### Fujifilm Fujicolor 100 (ref: 013b)
+```
+ISO     : 100
+Format  : 35mm
+Process : C-41
+Expiry  : 201007
+UUID    : 27d88b35933b4ede958b5b5b5b42013b
+Scanned By: b0baspace
+```
+
+![Fujifilm Fujicolor 100 35mm film_box_outside](./archive/00040_000.jpg)
 
 #### Fujifilm Fujicolor NPL 160 (ref: d10b)
 ```
@@ -467,6 +481,18 @@ Scanned By: dekuNukem
 ```
 
 ![Kodak Tri-X 120 film_box_outside](./archive/00028_000.jpg)
+
+#### Kodak Verichrome Pan (ref: 0195)
+```
+ISO     : 125
+Format  : 620
+Process : C-22
+Expiry  : 197103
+UUID    : 75c7c232d44949c3b1d766b0d2580195
+Scanned By: b0baspace
+```
+
+![Kodak Verichrome Pan 620 film_box_outside](./archive/00041_000.jpg)
 
 #### Konica Infrared 750nm (ref: 2d93)
 ```
