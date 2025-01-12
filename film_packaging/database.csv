@@ -72,4 +72,4 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 39,0,film_box_outside,Konica,Infrared 750nm,120,32,BW,199102,1736086214,554c22eff2afd7ce00c75d1f799214e2,79a0275aee8e43e895b5794a8538e696,00039_000.jpg,dekuNukem
 39,1,film_box_leaflet,Konica,Infrared 750nm,120,32,BW,199102,1736086217,fee652eff3ef0ca47b9051e73f59e14f,b5abc293fb26450eab9bfdda971cf1ad,00039_001.jpg,dekuNukem
 40,0,film_box_outside,Fujifilm,Fujicolor 100,35mm,100,C-41,201007,1736682742,ecf194176385e44c01e58f11d2c6c689,27d88b35933b4ede958b5b5b5b42013b,00040_000.jpg,b0baspace
-41,0,film_box_outside,Kodak,Verichrome Pan,620,125,C-22,197103,1736682812,c5b6e29fb3ae155bf774eec321b9d096,75c7c232d44949c3b1d766b0d2580195,00041_000.jpg,b0baspace
+41,0,film_box_outside,Kodak,Verichrome Pan,620,125,BW,197103,1736682812,c5b6e29fb3ae155bf774eec321b9d096,75c7c232d44949c3b1d766b0d2580195,00041_000.jpg,b0baspace
