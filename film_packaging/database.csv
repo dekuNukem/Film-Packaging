@@ -73,3 +73,13 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 39,1,film_box_leaflet,Konica,Infrared 750nm,120,32,BW,199102,1736086217,fee652eff3ef0ca47b9051e73f59e14f,b5abc293fb26450eab9bfdda971cf1ad,00039_001.jpg,dekuNukem
 40,0,film_box_outside,Fujifilm,Fujicolor 100,35mm,100,C-41,201007,1736682742,ecf194176385e44c01e58f11d2c6c689,27d88b35933b4ede958b5b5b5b42013b,00040_000.jpg,b0baspace
 41,0,film_box_outside,Kodak,Verichrome Pan,620,125,BW,197103,1736682812,c5b6e29fb3ae155bf774eec321b9d096,75c7c232d44949c3b1d766b0d2580195,00041_000.jpg,b0baspace
+42,0,film_box_outside,Kodak,Elite Chrome,35mm,100,E-6,200108,1736883648,822bb92f035ca8033f74cc904e92a58d,e0b3ec957ade47a99d5cd5abe2a4523c,00042_000.jpg,@ob.skura
+43,0,film_box_outside,Kodak,Ultra,35mm,400,C-41,200512,1736883694,ef81d7f1158bb8008794f48bbd700437,77dfbdf80e3a4950b40c7ea8c1e369a1,00043_000.jpg,@ob.skura
+44,0,film_box_outside,Fujifilm,Velvia,35mm,50,E-6,200101,1736883763,306dd5f049828db47e7e2089771de0bb,9b9ee1c1c0e94d968674987799d33182,00044_000.jpg,@ob.skura
+44,1,film_box_leaflet,Fujifilm,Velvia,35mm,50,E-6,200101,1736883767,61de8ebeb22ba4901e02c48244fb82e4,2e2e20a0b57542e4908ad9fc825e7e76,00044_001.jpg,@ob.skura
+44,2,film_box_leaflet,Fujifilm,Velvia,35mm,50,E-6,200101,1736883772,47e3432812d07155f874f8afac7de0da,03951cb49c8a44229aa4b5760744fc6f,00044_002.jpg,@ob.skura
+45,0,film_box_outside,Kodak,Ektachrome,35mm,160,E-2,197006,1736883871,6032ff6adc51444c16da8db94c9646ac,9702189f65de43c59fce151094a7ec3d,00045_000.jpg,@ob.skura
+45,1,film_box_leaflet,Kodak,Ektachrome,35mm,160,E-2,197006,1736883874,28a0b7e0f1e2684ba1aabb16fe3f7053,1fc1082f5b524367820b31b7669e86cd,00045_001.jpg,@ob.skura
+45,2,film_box_leaflet,Kodak,Ektachrome,35mm,160,E-2,197006,1736883879,38481a7088204674dceeedb15421edef,6b248d300438476aa38c9b6bce04fc87,00045_002.jpg,@ob.skura
+46,0,film_box_outside,Porst,Color N21,35mm,100,C-22,197401,1736884074,a317d58f048720aa4e7701a44da0ffa1,e08418889f714c9dbda0858718e0494a,00046_000.jpg,@ob.skura
+46,1,film_box_leaflet,Porst,Color N21,35mm,100,C-22,197401,1736884076,e869423af5d6a26dbdbf3f4252c11516,e9bc17db34fa4b779e283c96c92b2359,00046_001.jpg,@ob.skura

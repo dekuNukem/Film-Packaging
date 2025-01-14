@@ -11,9 +11,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 Click for full size.
 
 ```
-Last Updated: Jan 12 2025
+Last Updated: Jan 14 2025
 
-# of items: 74
+# of items: 84
 ```
 
 -----
@@ -32,6 +32,7 @@ Last Updated: Jan 12 2025
 - [Fujifilm Fujicolor 100 (ref: 013b)](#fujifilm-fujicolor-100-ref-013b)
 - [Fujifilm Fujicolor NPL 160 (ref: d10b)](#fujifilm-fujicolor-npl-160-ref-d10b)
 - [Fujifilm Pro 400H (ref: 66e3)](#fujifilm-pro-400h-ref-66e3)
+- [Fujifilm Velvia (ref: 3182)](#fujifilm-velvia-ref-3182)
 - [Fujifilm Velvia 100F (ref: f7fb)](#fujifilm-velvia-100f-ref-f7fb)
 - [HARMAN PHOENIX (ref: 637f)](#harman-phoenix-ref-637f)
 - [Ilford HP5 Plus (ref: 1a5d)](#ilford-hp5-plus-ref-1a5d)
@@ -41,13 +42,16 @@ Last Updated: Jan 12 2025
 - [Kentmere PAN (ref: 827e)](#kentmere-pan-ref-827e)
 - [Kodak Ektachrome (ref: ce7f)](#kodak-ektachrome-ref-ce7f)
 - [Kodak Ektachrome (ref: 07c0)](#kodak-ektachrome-ref-07c0)
+- [Kodak Ektachrome (ref: ec3d)](#kodak-ektachrome-ref-ec3d)
 - [Kodak Ektacolor Pro Gold (ref: c3f8)](#kodak-ektacolor-pro-gold-ref-c3f8)
+- [Kodak Elite Chrome (ref: 523c)](#kodak-elite-chrome-ref-523c)
 - [Kodak Gold (ref: 933f)](#kodak-gold-ref-933f)
 - [Kodak Kodachrome (ref: 3145)](#kodak-kodachrome-ref-3145)
 - [Kodak Kodachrome (ref: 6477)](#kodak-kodachrome-ref-6477)
 - [Kodak Kodacolor-X (ref: 5302)](#kodak-kodacolor-x-ref-5302)
 - [Kodak Technical Pan 6415 (ref: 03be)](#kodak-technical-pan-6415-ref-03be)
 - [Kodak Tri-X (ref: 88c5)](#kodak-tri-x-ref-88c5)
+- [Kodak Ultra (ref: 69a1)](#kodak-ultra-ref-69a1)
 - [Kodak Verichrome Pan (ref: 0195)](#kodak-verichrome-pan-ref-0195)
 - [Konica Infrared 750nm (ref: 2d93)](#konica-infrared-750nm-ref-2d93)
 - [Konica Infrared 750nm (ref: e696)](#konica-infrared-750nm-ref-e696)
@@ -58,6 +62,7 @@ Last Updated: Jan 12 2025
 - [Polaroid GridFilm (ref: 8deb)](#polaroid-gridfilm-ref-8deb)
 - [Polaroid PolaBlue (ref: df66)](#polaroid-polablue-ref-df66)
 - [Polaroid PolaChrome (ref: 3b60)](#polaroid-polachrome-ref-3b60)
+- [Porst Color N21 (ref: 494a)](#porst-color-n21-ref-494a)
 - [Rollei Infrared (ref: 4f54)](#rollei-infrared-ref-4f54)
 - [Rollei Retro 80S (ref: e6c0)](#rollei-retro-80s-ref-e6c0)
 
@@ -251,6 +256,22 @@ Scanned By: dekuNukem
 
 ![Fujifilm Pro 400H 120 film_box_outside](./archive/00022_000.jpg)
 
+#### Fujifilm Velvia (ref: 3182)
+```
+ISO     : 50
+Format  : 35mm
+Process : E-6
+Expiry  : 200101
+UUID    : 9b9ee1c1c0e94d968674987799d33182
+Scanned By: @ob.skura
+```
+
+![Fujifilm Velvia 35mm film_box_outside](./archive/00044_000.jpg)
+
+[Click me for Instruction Manual / Leaflet #1 for Fujifilm Velvia (ref: 7e76)](./archive/00044_001.jpg)
+
+[Click me for Instruction Manual / Leaflet #2 for Fujifilm Velvia (ref: fc6f)](./archive/00044_002.jpg)
+
 #### Fujifilm Velvia 100F (ref: f7fb)
 ```
 ISO     : 100
@@ -371,6 +392,22 @@ Scanned By: dekuNukem
 
 ![Kodak Ektachrome 110 film_box_outside](./archive/00025_000.jpg)
 
+#### Kodak Ektachrome (ref: ec3d)
+```
+ISO     : 160
+Format  : 35mm
+Process : E-2
+Expiry  : 197006
+UUID    : 9702189f65de43c59fce151094a7ec3d
+Scanned By: @ob.skura
+```
+
+![Kodak Ektachrome 35mm film_box_outside](./archive/00045_000.jpg)
+
+[Click me for Instruction Manual / Leaflet #1 for Kodak Ektachrome (ref: 86cd)](./archive/00045_001.jpg)
+
+[Click me for Instruction Manual / Leaflet #2 for Kodak Ektachrome (ref: fc87)](./archive/00045_002.jpg)
+
 #### Kodak Ektacolor Pro Gold (ref: c3f8)
 ```
 ISO     : 160
@@ -389,6 +426,18 @@ Scanned By: dekuNukem
 [Click me for Instruction Manual / Leaflet #2 for Kodak Ektacolor Pro Gold (ref: ca71)](./archive/00027_002.jpg)
 
 [Click me for Instruction Manual / Leaflet #3 for Kodak Ektacolor Pro Gold (ref: ceb0)](./archive/00027_003.jpg)
+
+#### Kodak Elite Chrome (ref: 523c)
+```
+ISO     : 100
+Format  : 35mm
+Process : E-6
+Expiry  : 200108
+UUID    : e0b3ec957ade47a99d5cd5abe2a4523c
+Scanned By: @ob.skura
+```
+
+![Kodak Elite Chrome 35mm film_box_outside](./archive/00042_000.jpg)
 
 #### Kodak Gold (ref: 933f)
 ```
@@ -482,11 +531,23 @@ Scanned By: dekuNukem
 
 ![Kodak Tri-X 120 film_box_outside](./archive/00028_000.jpg)
 
+#### Kodak Ultra (ref: 69a1)
+```
+ISO     : 400
+Format  : 35mm
+Process : C-41
+Expiry  : 200512
+UUID    : 77dfbdf80e3a4950b40c7ea8c1e369a1
+Scanned By: @ob.skura
+```
+
+![Kodak Ultra 35mm film_box_outside](./archive/00043_000.jpg)
+
 #### Kodak Verichrome Pan (ref: 0195)
 ```
 ISO     : 125
 Format  : 620
-Process : C-22
+Process : BW
 Expiry  : 197103
 UUID    : 75c7c232d44949c3b1d766b0d2580195
 Scanned By: b0baspace
@@ -615,6 +676,20 @@ Scanned By: dekuNukem
 ```
 
 ![Polaroid PolaChrome 35mm film_box_outside](./archive/00029_000.jpg)
+
+#### Porst Color N21 (ref: 494a)
+```
+ISO     : 100
+Format  : 35mm
+Process : C-22
+Expiry  : 197401
+UUID    : e08418889f714c9dbda0858718e0494a
+Scanned By: @ob.skura
+```
+
+![Porst Color N21 35mm film_box_outside](./archive/00046_000.jpg)
+
+[Click me for Instruction Manual / Leaflet #1 for Porst Color N21 (ref: 2359)](./archive/00046_001.jpg)
 
 #### Rollei Infrared (ref: 4f54)
 ```

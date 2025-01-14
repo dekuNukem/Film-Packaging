@@ -64,7 +64,7 @@ def ask_attribute(db_key):
         return get_answer(f"What is {colored(db_key, alert_color)}?\n")
 
 def open_preview(filepath):
-    os.system(f"open {filepath} -g")
+    os.system(f"open {filepath.replace(" ", "\\ ")} -g")
 
 def kill_preview():
     for proc in psutil.process_iter():
