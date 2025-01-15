@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Contribution Guide
 
 [Project Home Page](../README.md)

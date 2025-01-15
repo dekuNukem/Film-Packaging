@@ -1,6 +1,6 @@
 plugins:
-- jekyll-relative-links
 - jekyll-loading-lazy
+- jekyll-relative-links
 
 relative_links:
   enabled: true
@@ -8,12 +8,6 @@ relative_links:
 
 theme: minima
 
-include:
-  - README.md
-  - film_packaging/by_brand.md
-  - LICENSE
-
 title: Film Packaging Archive
 description: High-resolution scans of photographic film packaging
 
-url: "https://fp-archive.com"
