@@ -10,7 +10,7 @@ Welcome! Here you can find high-resolution scans of:
 * In-box Instruction Manuals / Leaflets / Processing Envelopes
 * Old & new, popular & obscure.
 
-![title](resources/title.jpg)
+![title](resources/title.jpg){:loading='lazy'}
 
 ## Why
 
@@ -33,7 +33,7 @@ Click to see all the scans!
 
 Sort by...
 
-* [Brand](./film_packaging/by_brand.md){:loading='lazy'}
+* [Brand](./film_packaging/by_brand.md)
 * Film Format (Coming soon)
 * ISO (Coming soon)
 * Photographic Process (Coming soon)
