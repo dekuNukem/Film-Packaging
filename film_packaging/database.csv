@@ -3,7 +3,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 0,1,film_box_inside,Ilford,HP5 Plus,120,400,BW,202609,1736009786,6845d3cf182b8bc58c6c7eb052d4407f,3d64b751d4dd412889855a65731d5f25,00000_001.jpg,dekuNukem
 1,0,film_box_outside,Alien Film,5207/250D,120,250,ECN-2,202606,1736009864,09a33a28cd3b4a4488b95c04617bd91e,aedc4b00bd174e0baf7c744ed21d8820,00001_000.jpg,dekuNukem
 2,0,film_box_outside,Efiniti,UXi super 200,35mm,200,C-41,201310,1736009974,0e6e9c71fa8b3b3fbcf0eea82de1f5a5,cde1122dafbc47088a11d9ee12b6471a,00002_000.jpg,dekuNukem
-4,0,film_box_outside,HARMAN,PHOENIX,35mm,200,C-41,202608,1736010099,fbd497c31ef59703886e34b982385cf4,0b11ba38c9a34f58a2f13d696b05637f,00004_000.jpg,dekuNukem
+4,0,film_box_outside,HARMAN,PHOENIX,120,200,C-41,202608,1736010099,fbd497c31ef59703886e34b982385cf4,0b11ba38c9a34f58a2f13d696b05637f,00004_000.jpg,dekuNukem
 5,0,film_box_outside,Rollei,Retro 80S,120,80,BW,202602,1736010137,7fed7bd2ae90888b89b8ae5ece08b03a,fb2ccfebcf2f4a17afe00acaaea5e6c0,00005_000.jpg,dekuNukem
 5,1,film_box_inside,Rollei,Retro 80S,120,80,BW,202602,1736010143,003c6478cac4383e08f58df68f9bdfb7,a57794309f6b44d784d9555b416a200c,00005_001.jpg,dekuNukem
 6,0,film_box_outside,CineStill,800T,120,800,C-41,201803,1736010215,a50389fa5e262f6757f2f10591f4e668,53253eca96d841f5b98bfb3590fec86a,00006_000.jpg,dekuNukem
