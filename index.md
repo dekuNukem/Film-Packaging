@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Film Packaging Archive
 
 Welcome! Here you can find high-resolution scans of:
