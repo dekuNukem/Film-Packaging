@@ -33,7 +33,7 @@ Click to see all the scans!
 
 Sort by...
 
-* [Brand](./film_packaging/by_brand.md)
+* [Brand](./film_packaging/by_brand.md){:loading='lazy'}
 * Film Format (Coming soon)
 * ISO (Coming soon)
 * Photographic Process (Coming soon)
