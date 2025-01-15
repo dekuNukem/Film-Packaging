@@ -287,14 +287,14 @@ Scanned By: dekuNukem
 #### HARMAN PHOENIX (ref: 637f)
 ```
 ISO     : 200
-Format  : 35mm
+Format  : 120
 Process : C-41
 Expiry  : 202608
 UUID    : 0b11ba38c9a34f58a2f13d696b05637f
 Scanned By: dekuNukem
 ```
 
-![HARMAN PHOENIX 35mm film_box_outside](./archive/00004_000.jpg)
+![HARMAN PHOENIX 120 film_box_outside](./archive/00004_000.jpg)
 
 #### Ilford HP5 Plus (ref: 1a5d)
 ```
