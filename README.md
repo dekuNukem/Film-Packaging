@@ -10,7 +10,7 @@ Welcome! Here you can find high-resolution scans of:
 * In-box Instruction Manuals / Leaflets / Processing Envelopes
 * Old & new, popular & obscure.
 
-![title](resources/title.jpg){:loading='lazy'}
+![title](resources/title.jpg)
 
 ## Why
 
