@@ -1,5 +1,5 @@
 plugins:
-- jekyll-loading-lazy
+# - jekyll-loading-lazy
 - jekyll-relative-links
 
 relative_links:
@@ -10,5 +10,3 @@ theme: minima
 
 title: Film Packaging Archive
 description: High-resolution scans of photographic film packaging
-
-url: https://fp-archive.com
