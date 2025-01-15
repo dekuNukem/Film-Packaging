@@ -1,5 +1,5 @@
 plugins:
-# - jekyll-loading-lazy
+- jekyll-loading-lazy
 - jekyll-relative-links
 
 relative_links:
