@@ -83,3 +83,9 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 45,2,film_box_leaflet,Kodak,Ektachrome,35mm,160,E-2,197006,1736883879,38481a7088204674dceeedb15421edef,6b248d300438476aa38c9b6bce04fc87,00045_002.jpg,@ob.skura
 46,0,film_box_outside,Porst,Color N21,35mm,100,C-22,197401,1736884074,a317d58f048720aa4e7701a44da0ffa1,e08418889f714c9dbda0858718e0494a,00046_000.jpg,@ob.skura
 46,1,film_box_leaflet,Porst,Color N21,35mm,100,C-22,197401,1736884076,e869423af5d6a26dbdbf3f4252c11516,e9bc17db34fa4b779e283c96c92b2359,00046_001.jpg,@ob.skura
+47,0,film_box_outside,Rollei,Infrared,35mm,200,BW,202704,1737477709,494bf6d49706ed25c15d71a6715f8744,9ef642a09d294cbfad7e040a701deae2,00047_000.jpg,@ob.skura
+47,1,film_box_inside,Rollei,Infrared,35mm,200,BW,202704,1737477712,2450d85c976246bcc14f8e0a459ff7ed,5bbaeaec47a046a683f87f266c73e71e,00047_001.jpg,@ob.skura
+48,0,film_box_outside,Ilford,Delta,120,100,BW,202408,1737477814,2aaf2d853e3d4547d378376c00c3349f,e39c5eca4e3e4e5badfa00ee512deb8d,00048_000.jpg,@ob.skura
+48,1,film_box_inside,Ilford,Delta,120,100,BW,202408,1737477817,5942428ddad82d7acb19eb41e715b3d1,e4c76c5b957347178af448f4aa6001d0,00048_001.jpg,@ob.skura
+49,0,film_box_outside,Wolfen,NC500,35mm,400,C-41,202612,1737477883,306dda03514084ae946b4f48eee07906,6e3408d7e97247e380ea52077a7491c1,00049_000.jpg,@ob.skura
+50,0,film_box_outside,Shanghai,GP3,127,100,BW,202407,1737477955,bc5026cd028d2eeb980c3b777415075e,0e16f7ae50164c658acd22b8d62e52aa,00050_000.jpg,@ob.skura
