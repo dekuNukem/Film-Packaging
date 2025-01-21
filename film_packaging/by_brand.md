@@ -35,6 +35,7 @@ Last Updated: Jan 21 2025
 - [Fujifilm Velvia (ref: 3182)](#fujifilm-velvia-ref-3182)
 - [Fujifilm Velvia 100F (ref: f7fb)](#fujifilm-velvia-100f-ref-f7fb)
 - [HARMAN PHOENIX (ref: 637f)](#harman-phoenix-ref-637f)
+- [Ilford Delta (ref: eb8d)](#ilford-delta-ref-eb8d)
 - [Ilford HP5 Plus (ref: 1a5d)](#ilford-hp5-plus-ref-1a5d)
 - [Ilford HP5 Plus (ref: efad)](#ilford-hp5-plus-ref-efad)
 - [Ilford SFX 200 (ref: 6057)](#ilford-sfx-200-ref-6057)
@@ -64,7 +65,10 @@ Last Updated: Jan 21 2025
 - [Polaroid PolaChrome (ref: 3b60)](#polaroid-polachrome-ref-3b60)
 - [Porst Color N21 (ref: 494a)](#porst-color-n21-ref-494a)
 - [Rollei Infrared (ref: 4f54)](#rollei-infrared-ref-4f54)
+- [Rollei Infrared (ref: eae2)](#rollei-infrared-ref-eae2)
 - [Rollei Retro 80S (ref: e6c0)](#rollei-retro-80s-ref-e6c0)
+- [Shanghai GP3 (ref: 52aa)](#shanghai-gp3-ref-52aa)
+- [Wolfen NC500 (ref: 91c1)](#wolfen-nc500-ref-91c1)
 
 
 -----
@@ -289,6 +293,20 @@ Scanned By: dekuNukem
 ```
 
 ![HARMAN PHOENIX 120 film_box_outside](./archive/00004_000.jpg)
+
+#### Ilford Delta (ref: eb8d)
+```
+ISO     : 100
+Format  : 120
+Process : BW
+Expiry  : 202408
+UUID    : e39c5eca4e3e4e5badfa00ee512deb8d
+Scanned By: @ob.skura
+```
+
+![Ilford Delta 120 film_box_outside](./archive/00048_000.jpg)
+
+[Click me for **BOX INSIDE** for Ilford Delta (ref: 01d0)](./archive/00048_001.jpg)
 
 #### Ilford HP5 Plus (ref: 1a5d)
 ```
@@ -685,6 +703,20 @@ Scanned By: dekuNukem
 
 ![Rollei Infrared 120 film_box_outside](./archive/00030_000.jpg)
 
+#### Rollei Infrared (ref: eae2)
+```
+ISO     : 200
+Format  : 35mm
+Process : BW
+Expiry  : 202704
+UUID    : 9ef642a09d294cbfad7e040a701deae2
+Scanned By: @ob.skura
+```
+
+![Rollei Infrared 35mm film_box_outside](./archive/00047_000.jpg)
+
+[Click me for **BOX INSIDE** for Rollei Infrared (ref: e71e)](./archive/00047_001.jpg)
+
 #### Rollei Retro 80S (ref: e6c0)
 ```
 ISO     : 80
@@ -698,6 +730,30 @@ Scanned By: dekuNukem
 ![Rollei Retro 80S 120 film_box_outside](./archive/00005_000.jpg)
 
 [Click me for **BOX INSIDE** for Rollei Retro 80S (ref: 200c)](./archive/00005_001.jpg)
+
+#### Shanghai GP3 (ref: 52aa)
+```
+ISO     : 100
+Format  : 127
+Process : BW
+Expiry  : 202407
+UUID    : 0e16f7ae50164c658acd22b8d62e52aa
+Scanned By: @ob.skura
+```
+
+![Shanghai GP3 127 film_box_outside](./archive/00050_000.jpg)
+
+#### Wolfen NC500 (ref: 91c1)
+```
+ISO     : 400
+Format  : 35mm
+Process : C-41
+Expiry  : 202612
+UUID    : 6e3408d7e97247e380ea52077a7491c1
+Scanned By: @ob.skura
+```
+
+![Wolfen NC500 35mm film_box_outside](./archive/00049_000.jpg)
 
 
 ## Questions or Comments?
