@@ -82,8 +82,7 @@ Scanned By: dekuNukem
 
 ![AGFA APX 120 film_box_outside](./archive/00011_000.jpg)
 
-
-![AGFA APX 120 film_box_inside](./archive/00011_001.jpg)
+[Click me for **BOX INSIDE** for AGFA APX (ref: a8dd)](./archive/00011_001.jpg)
 
 #### AGFA ULTRA 50 (ref: 4faa)
 ```
@@ -97,8 +96,7 @@ Scanned By: dekuNukem
 
 ![AGFA ULTRA 50 35mm film_box_outside](./archive/00010_000.jpg)
 
-
-![AGFA ULTRA 50 35mm film_box_inside](./archive/00010_001.jpg)
+[Click me for **BOX INSIDE** for AGFA ULTRA 50 (ref: 8fc0)](./archive/00010_001.jpg)
 
 #### AGFA Vista (ref: d3af)
 ```
@@ -112,8 +110,7 @@ Scanned By: dekuNukem
 
 ![AGFA Vista 35mm film_box_outside](./archive/00014_000.jpg)
 
-
-![AGFA Vista 35mm film_box_inside](./archive/00014_001.jpg)
+[Click me for **BOX INSIDE** for AGFA Vista (ref: cd56)](./archive/00014_001.jpg)
 
 #### Alien Film 5207/250D (ref: 8820)
 ```
@@ -139,8 +136,7 @@ Scanned By: dekuNukem
 
 ![CineStill 800T 120 film_box_outside](./archive/00006_000.jpg)
 
-
-![CineStill 800T 120 film_box_inside](./archive/00006_001.jpg)
+[Click me for **BOX INSIDE** for CineStill 800T (ref: d1a6)](./archive/00006_001.jpg)
 
 #### Efiniti UXi super 200 (ref: 471a)
 ```
@@ -166,8 +162,7 @@ Scanned By: dekuNukem
 
 ![Efke IR 820 120 film_box_outside](./archive/00038_000.jpg)
 
-
-![Efke IR 820 120 film_box_inside](./archive/00038_001.jpg)
+[Click me for **BOX INSIDE** for Efke IR 820 (ref: 5e19)](./archive/00038_001.jpg)
 
 #### Fujifilm FUJICOLOR SUPER HR (ref: aaa0)
 ```
@@ -181,9 +176,9 @@ Scanned By: dekuNukem
 
 ![Fujifilm FUJICOLOR SUPER HR 35mm film_box_outside](./archive/00007_000.jpg)
 
-[Click me for Instruction Manual / Leaflet #1 for Fujifilm FUJICOLOR SUPER HR (ref: 57f6)](./archive/00007_001.jpg)
+[Click me for **LEAFLET** for Fujifilm FUJICOLOR SUPER HR (ref: 57f6)](./archive/00007_001.jpg)
 
-[Click me for Instruction Manual / Leaflet #2 for Fujifilm FUJICOLOR SUPER HR (ref: ca7b)](./archive/00007_002.jpg)
+[Click me for **LEAFLET** for Fujifilm FUJICOLOR SUPER HR (ref: ca7b)](./archive/00007_002.jpg)
 
 #### Fujifilm FUJICOLOR SUPERIA (ref: 0683)
 ```
@@ -197,8 +192,7 @@ Scanned By: dekuNukem
 
 ![Fujifilm FUJICOLOR SUPERIA 120 film_box_outside](./archive/00012_000.jpg)
 
-
-![Fujifilm FUJICOLOR SUPERIA 120 film_box_inside](./archive/00012_001.jpg)
+[Click me for **BOX INSIDE** for Fujifilm FUJICOLOR SUPERIA (ref: 118f)](./archive/00012_001.jpg)
 
 #### Fujifilm Fujichrome Professional 100D (ref: 439d)
 ```
@@ -212,9 +206,9 @@ Scanned By: dekuNukem
 
 ![Fujifilm Fujichrome Professional 100D 120 film_box_outside](./archive/00032_000.jpg)
 
-[Click me for Instruction Manual / Leaflet #1 for Fujifilm Fujichrome Professional 100D (ref: c977)](./archive/00032_001.jpg)
+[Click me for **LEAFLET** for Fujifilm Fujichrome Professional 100D (ref: c977)](./archive/00032_001.jpg)
 
-[Click me for Instruction Manual / Leaflet #2 for Fujifilm Fujichrome Professional 100D (ref: 8974)](./archive/00032_002.jpg)
+[Click me for **LEAFLET** for Fujifilm Fujichrome Professional 100D (ref: 8974)](./archive/00032_002.jpg)
 
 #### Fujifilm Fujicolor 100 (ref: 013b)
 ```
@@ -240,9 +234,9 @@ Scanned By: dekuNukem
 
 ![Fujifilm Fujicolor NPL 160 120 film_box_outside](./archive/00034_000.jpg)
 
-[Click me for Instruction Manual / Leaflet #1 for Fujifilm Fujicolor NPL 160 (ref: 1455)](./archive/00034_001.jpg)
+[Click me for **LEAFLET** for Fujifilm Fujicolor NPL 160 (ref: 1455)](./archive/00034_001.jpg)
 
-[Click me for Instruction Manual / Leaflet #2 for Fujifilm Fujicolor NPL 160 (ref: 4945)](./archive/00034_002.jpg)
+[Click me for **LEAFLET** for Fujifilm Fujicolor NPL 160 (ref: 4945)](./archive/00034_002.jpg)
 
 #### Fujifilm Pro 400H (ref: 66e3)
 ```
@@ -268,9 +262,9 @@ Scanned By: @ob.skura
 
 ![Fujifilm Velvia 35mm film_box_outside](./archive/00044_000.jpg)
 
-[Click me for Instruction Manual / Leaflet #1 for Fujifilm Velvia (ref: 7e76)](./archive/00044_001.jpg)
+[Click me for **LEAFLET** for Fujifilm Velvia (ref: 7e76)](./archive/00044_001.jpg)
 
-[Click me for Instruction Manual / Leaflet #2 for Fujifilm Velvia (ref: fc6f)](./archive/00044_002.jpg)
+[Click me for **LEAFLET** for Fujifilm Velvia (ref: fc6f)](./archive/00044_002.jpg)
 
 #### Fujifilm Velvia 100F (ref: f7fb)
 ```
@@ -308,8 +302,7 @@ Scanned By: dekuNukem
 
 ![Ilford HP5 Plus 120 film_box_outside](./archive/00000_000.jpg)
 
-
-![Ilford HP5 Plus 120 film_box_inside](./archive/00000_001.jpg)
+[Click me for **BOX INSIDE** for Ilford HP5 Plus (ref: 5f25)](./archive/00000_001.jpg)
 
 #### Ilford HP5 Plus (ref: efad)
 ```
@@ -323,8 +316,7 @@ Scanned By: dekuNukem
 
 ![Ilford HP5 Plus 120 film_box_outside](./archive/00016_000.jpg)
 
-
-![Ilford HP5 Plus 120 film_box_inside](./archive/00016_001.jpg)
+[Click me for **BOX INSIDE** for Ilford HP5 Plus (ref: 8dda)](./archive/00016_001.jpg)
 
 #### Ilford SFX 200 (ref: 6057)
 ```
@@ -338,8 +330,7 @@ Scanned By: dekuNukem
 
 ![Ilford SFX 200 120 film_box_outside](./archive/00009_000.jpg)
 
-
-![Ilford SFX 200 120 film_box_inside](./archive/00009_001.jpg)
+[Click me for **BOX INSIDE** for Ilford SFX 200 (ref: 422d)](./archive/00009_001.jpg)
 
 #### Jessops Diamond Everyday (ref: 67d3)
 ```
@@ -365,8 +356,7 @@ Scanned By: dekuNukem
 
 ![Kentmere PAN 35mm film_box_outside](./archive/00015_000.jpg)
 
-
-![Kentmere PAN 35mm film_box_inside](./archive/00015_001.jpg)
+[Click me for **BOX INSIDE** for Kentmere PAN (ref: 9f55)](./archive/00015_001.jpg)
 
 #### Kodak Ektachrome (ref: ce7f)
 ```
@@ -404,9 +394,9 @@ Scanned By: @ob.skura
 
 ![Kodak Ektachrome 35mm film_box_outside](./archive/00045_000.jpg)
 
-[Click me for Instruction Manual / Leaflet #1 for Kodak Ektachrome (ref: 86cd)](./archive/00045_001.jpg)
+[Click me for **LEAFLET** for Kodak Ektachrome (ref: 86cd)](./archive/00045_001.jpg)
 
-[Click me for Instruction Manual / Leaflet #2 for Kodak Ektachrome (ref: fc87)](./archive/00045_002.jpg)
+[Click me for **LEAFLET** for Kodak Ektachrome (ref: fc87)](./archive/00045_002.jpg)
 
 #### Kodak Ektacolor Pro Gold (ref: c3f8)
 ```
@@ -420,12 +410,11 @@ Scanned By: dekuNukem
 
 ![Kodak Ektacolor Pro Gold 220 film_box_outside](./archive/00027_000.jpg)
 
+[Click me for **BOX INSIDE** for Kodak Ektacolor Pro Gold (ref: a6ff)](./archive/00027_001.jpg)
 
-![Kodak Ektacolor Pro Gold 220 film_box_inside](./archive/00027_001.jpg)
+[Click me for **LEAFLET** for Kodak Ektacolor Pro Gold (ref: ca71)](./archive/00027_002.jpg)
 
-[Click me for Instruction Manual / Leaflet #2 for Kodak Ektacolor Pro Gold (ref: ca71)](./archive/00027_002.jpg)
-
-[Click me for Instruction Manual / Leaflet #3 for Kodak Ektacolor Pro Gold (ref: ceb0)](./archive/00027_003.jpg)
+[Click me for **LEAFLET** for Kodak Ektacolor Pro Gold (ref: ceb0)](./archive/00027_003.jpg)
 
 #### Kodak Elite Chrome (ref: 523c)
 ```
@@ -463,11 +452,9 @@ Scanned By: dekuNukem
 
 ![Kodak Kodachrome 110 film_box_outside](./archive/00026_000.jpg)
 
+[Click me for **PROCESSING ENVELOPE** for Kodak Kodachrome (ref: 9bdf)](./archive/00026_001.jpg)
 
-![Kodak Kodachrome 110 film_box_processing_envelope](./archive/00026_001.jpg)
-
-
-![Kodak Kodachrome 110 film_box_processing_envelope](./archive/00026_002.jpg)
+[Click me for **PROCESSING ENVELOPE** for Kodak Kodachrome (ref: 0091)](./archive/00026_002.jpg)
 
 #### Kodak Kodachrome (ref: 6477)
 ```
@@ -481,15 +468,13 @@ Scanned By: dekuNukem
 
 ![Kodak Kodachrome 35mm film_box_outside](./archive/00035_000.jpg)
 
-[Click me for Instruction Manual / Leaflet #1 for Kodak Kodachrome (ref: 83b8)](./archive/00035_001.jpg)
+[Click me for **LEAFLET** for Kodak Kodachrome (ref: 83b8)](./archive/00035_001.jpg)
 
-[Click me for Instruction Manual / Leaflet #2 for Kodak Kodachrome (ref: 7f0b)](./archive/00035_002.jpg)
+[Click me for **LEAFLET** for Kodak Kodachrome (ref: 7f0b)](./archive/00035_002.jpg)
 
+[Click me for **PROCESSING ENVELOPE** for Kodak Kodachrome (ref: acfa)](./archive/00035_003.jpg)
 
-![Kodak Kodachrome 35mm film_box_processing_envelope](./archive/00035_003.jpg)
-
-
-![Kodak Kodachrome 35mm film_box_processing_envelope](./archive/00035_004.jpg)
+[Click me for **PROCESSING ENVELOPE** for Kodak Kodachrome (ref: 1b8d)](./archive/00035_004.jpg)
 
 #### Kodak Kodacolor-X (ref: 5302)
 ```
@@ -515,9 +500,9 @@ Scanned By: dekuNukem
 
 ![Kodak Technical Pan 6415 120 film_box_outside](./archive/00037_000.jpg)
 
-[Click me for Instruction Manual / Leaflet #1 for Kodak Technical Pan 6415 (ref: 1bc8)](./archive/00037_001.jpg)
+[Click me for **LEAFLET** for Kodak Technical Pan 6415 (ref: 1bc8)](./archive/00037_001.jpg)
 
-[Click me for Instruction Manual / Leaflet #2 for Kodak Technical Pan 6415 (ref: d075)](./archive/00037_002.jpg)
+[Click me for **LEAFLET** for Kodak Technical Pan 6415 (ref: d075)](./archive/00037_002.jpg)
 
 #### Kodak Tri-X (ref: 88c5)
 ```
@@ -579,7 +564,7 @@ Scanned By: dekuNukem
 
 ![Konica Infrared 750nm 120 film_box_outside](./archive/00039_000.jpg)
 
-[Click me for Instruction Manual / Leaflet #1 for Konica Infrared 750nm (ref: f1ad)](./archive/00039_001.jpg)
+[Click me for **LEAFLET** for Konica Infrared 750nm (ref: f1ad)](./archive/00039_001.jpg)
 
 #### Lloyds Pharmacy Colour Film (ref: 77d9)
 ```
@@ -605,8 +590,7 @@ Scanned By: dekuNukem
 
 ![Lomography Lomochrome Turquoise 120 film_box_outside](./archive/00008_000.jpg)
 
-
-![Lomography Lomochrome Turquoise 120 film_box_inside](./archive/00008_001.jpg)
+[Click me for **BOX INSIDE** for Lomography Lomochrome Turquoise (ref: 1ca2)](./archive/00008_001.jpg)
 
 #### Polaroid 665 (ref: e054)
 ```
@@ -647,11 +631,9 @@ Scanned By: dekuNukem
 
 ![Polaroid GridFilm Integral Film film_box_outside](./archive/00031_001.jpg)
 
+[Click me for **BOX INSIDE** for Polaroid GridFilm (ref: 0077)](./archive/00031_002.jpg)
 
-![Polaroid GridFilm Integral Film film_box_inside](./archive/00031_002.jpg)
-
-
-![Polaroid GridFilm Integral Film film_box_inside](./archive/00031_003.jpg)
+[Click me for **BOX INSIDE** for Polaroid GridFilm (ref: 3d18)](./archive/00031_003.jpg)
 
 #### Polaroid PolaBlue (ref: df66)
 ```
@@ -689,7 +671,7 @@ Scanned By: @ob.skura
 
 ![Porst Color N21 35mm film_box_outside](./archive/00046_000.jpg)
 
-[Click me for Instruction Manual / Leaflet #1 for Porst Color N21 (ref: 2359)](./archive/00046_001.jpg)
+[Click me for **LEAFLET** for Porst Color N21 (ref: 2359)](./archive/00046_001.jpg)
 
 #### Rollei Infrared (ref: 4f54)
 ```
@@ -715,8 +697,7 @@ Scanned By: dekuNukem
 
 ![Rollei Retro 80S 120 film_box_outside](./archive/00005_000.jpg)
 
-
-![Rollei Retro 80S 120 film_box_inside](./archive/00005_001.jpg)
+[Click me for **BOX INSIDE** for Rollei Retro 80S (ref: 200c)](./archive/00005_001.jpg)
 
 
 ## Questions or Comments?

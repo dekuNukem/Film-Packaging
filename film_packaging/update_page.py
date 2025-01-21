@@ -105,8 +105,12 @@ for item in result:
         description += make_description_string(item, ITEM_AUTHOR_KEY)
         description += "```\n"
         description += f"\n![{make_alt_text(item)}]({image_path})\n"
+    elif 'inside' in item[ITEM_TYPE_KEY].lower():
+        description += f"[Click me for **BOX INSIDE** for {make_subtitle(item)}]({image_path})\n"
     elif 'leaflet' in item[ITEM_TYPE_KEY].lower():
-        description += f"[Click me for Instruction Manual / Leaflet #{item[ITEM_SUBINDEX_KEY]} for {make_subtitle(item)}]({image_path})\n"
+        description += f"[Click me for **LEAFLET** for {make_subtitle(item)}]({image_path})\n"
+    elif 'envelope' in item[ITEM_TYPE_KEY].lower():
+        description += f"[Click me for **PROCESSING ENVELOPE** for {make_subtitle(item)}]({image_path})\n"
     else:
         description += f"\n![{make_alt_text(item)}]({image_path})\n"
 
