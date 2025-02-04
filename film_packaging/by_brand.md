@@ -11,9 +11,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 Click for full size.
 
 ```
-Last Updated: Jan 21 2025
+Last Updated: Feb 04 2025
 
-# of items: 90
+# of items: 102
 ```
 
 -----
@@ -31,9 +31,11 @@ Last Updated: Jan 21 2025
 - [Fujifilm Fujichrome Professional 100D (ref: 439d)](#fujifilm-fujichrome-professional-100d-ref-439d)
 - [Fujifilm Fujicolor 100 (ref: 013b)](#fujifilm-fujicolor-100-ref-013b)
 - [Fujifilm Fujicolor NPL 160 (ref: d10b)](#fujifilm-fujicolor-npl-160-ref-d10b)
+- [Fujifilm NPS (ref: 5e85)](#fujifilm-nps-ref-5e85)
 - [Fujifilm Pro 400H (ref: 66e3)](#fujifilm-pro-400h-ref-66e3)
 - [Fujifilm Velvia (ref: 3182)](#fujifilm-velvia-ref-3182)
 - [Fujifilm Velvia 100F (ref: f7fb)](#fujifilm-velvia-100f-ref-f7fb)
+- [GAF Color Slide Film (ref: dea6)](#gaf-color-slide-film-ref-dea6)
 - [HARMAN PHOENIX (ref: 637f)](#harman-phoenix-ref-637f)
 - [Ilford Delta (ref: eb8d)](#ilford-delta-ref-eb8d)
 - [Ilford HP5 Plus (ref: 1a5d)](#ilford-hp5-plus-ref-1a5d)
@@ -44,6 +46,7 @@ Last Updated: Jan 21 2025
 - [Kodak Ektachrome (ref: ce7f)](#kodak-ektachrome-ref-ce7f)
 - [Kodak Ektachrome (ref: 07c0)](#kodak-ektachrome-ref-07c0)
 - [Kodak Ektachrome (ref: ec3d)](#kodak-ektachrome-ref-ec3d)
+- [Kodak Ektachrome (ref: b21e)](#kodak-ektachrome-ref-b21e)
 - [Kodak Ektacolor Pro Gold (ref: c3f8)](#kodak-ektacolor-pro-gold-ref-c3f8)
 - [Kodak Elite Chrome (ref: 523c)](#kodak-elite-chrome-ref-523c)
 - [Kodak Gold (ref: 933f)](#kodak-gold-ref-933f)
@@ -69,6 +72,7 @@ Last Updated: Jan 21 2025
 - [Rollei Retro 80S (ref: e6c0)](#rollei-retro-80s-ref-e6c0)
 - [Shanghai GP3 (ref: 52aa)](#shanghai-gp3-ref-52aa)
 - [Wolfen NC500 (ref: 91c1)](#wolfen-nc500-ref-91c1)
+- [York Photo Labs DXG 200 (ref: 4bf8)](#york-photo-labs-dxg-200-ref-4bf8)
 
 
 -----
@@ -242,6 +246,20 @@ Scanned By: dekuNukem
 
 [Click me for **LEAFLET** for Fujifilm Fujicolor NPL 160 (ref: 4945)](./archive/00034_002.jpg)
 
+#### Fujifilm NPS (ref: 5e85)
+```
+ISO     : 160
+Format  : 35mm
+Process : C-41
+Expiry  : 200308
+UUID    : 576142521c2f4fe5abc387032bcc5e85
+Scanned By: b0baspace
+```
+
+![Fujifilm NPS 35mm film_box_outside](./archive/00053_000.jpg)
+
+[Click me for **BOX INSIDE** for Fujifilm NPS (ref: 69c4)](./archive/00053_001.jpg)
+
 #### Fujifilm Pro 400H (ref: 66e3)
 ```
 ISO     : 400
@@ -281,6 +299,28 @@ Scanned By: dekuNukem
 ```
 
 ![Fujifilm Velvia 100F 120 film_box_outside](./archive/00023_000.jpg)
+
+#### GAF Color Slide Film (ref: dea6)
+```
+ISO     : 64
+Format  : 126
+Process : E-6
+Expiry  : 197401
+UUID    : c426ea17398c4c549c6a2720103adea6
+Scanned By: b0baspace
+```
+
+![GAF Color Slide Film 126 film_box_outside](./archive/00054_000.jpg)
+
+[Click me for **LEAFLET** for GAF Color Slide Film (ref: 2332)](./archive/00054_001.jpg)
+
+[Click me for **LEAFLET** for GAF Color Slide Film (ref: 3fdf)](./archive/00054_002.jpg)
+
+[Click me for **PROCESSING ENVELOPE** for GAF Color Slide Film (ref: f986)](./archive/00054_003.jpg)
+
+[Click me for **PROCESSING ENVELOPE** for GAF Color Slide Film (ref: f0dd)](./archive/00054_004.jpg)
+
+[Click me for **PROCESSING ENVELOPE** for GAF Color Slide Film (ref: c283)](./archive/00054_005.jpg)
 
 #### HARMAN PHOENIX (ref: 637f)
 ```
@@ -415,6 +455,22 @@ Scanned By: @ob.skura
 [Click me for **LEAFLET** for Kodak Ektachrome (ref: 86cd)](./archive/00045_001.jpg)
 
 [Click me for **LEAFLET** for Kodak Ektachrome (ref: fc87)](./archive/00045_002.jpg)
+
+#### Kodak Ektachrome (ref: b21e)
+```
+ISO     : 200
+Format  : 35mm
+Process : E-6
+Expiry  : 199210
+UUID    : 7d8346073bbe4d6a84e57cc2bb28b21e
+Scanned By: b0baspace
+```
+
+![Kodak Ektachrome 35mm film_box_outside](./archive/00052_000.jpg)
+
+[Click me for **LEAFLET** for Kodak Ektachrome (ref: 8943)](./archive/00052_001.jpg)
+
+[Click me for **LEAFLET** for Kodak Ektachrome (ref: 7ca8)](./archive/00052_002.jpg)
 
 #### Kodak Ektacolor Pro Gold (ref: c3f8)
 ```
@@ -754,6 +810,18 @@ Scanned By: @ob.skura
 ```
 
 ![Wolfen NC500 35mm film_box_outside](./archive/00049_000.jpg)
+
+#### York Photo Labs DXG 200 (ref: 4bf8)
+```
+ISO     : 200
+Format  : 35mm
+Process : C-41
+Expiry  : 199409
+UUID    : 46037fb6c55244b6ae47c55d0e454bf8
+Scanned By: b0baspace
+```
+
+![York Photo Labs DXG 200 35mm film_box_outside](./archive/00051_000.jpg)
 
 
 ## Questions or Comments?
