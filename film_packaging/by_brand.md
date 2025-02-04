@@ -304,7 +304,7 @@ Scanned By: dekuNukem
 ```
 ISO     : 64
 Format  : 126
-Process : E-6
+Process : AR-1
 Expiry  : 197401
 UUID    : c426ea17398c4c549c6a2720103adea6
 Scanned By: b0baspace
