@@ -11,9 +11,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 Click for full size.
 
 ```
-Last Updated: Feb 04 2025
+Last Updated: Feb 21 2025
 
-# of items: 102
+# of items: 104
 ```
 
 -----
@@ -33,8 +33,10 @@ Last Updated: Feb 04 2025
 - [Fujifilm Fujicolor NPL 160 (ref: d10b)](#fujifilm-fujicolor-npl-160-ref-d10b)
 - [Fujifilm NPS (ref: 5e85)](#fujifilm-nps-ref-5e85)
 - [Fujifilm Pro 400H (ref: 66e3)](#fujifilm-pro-400h-ref-66e3)
+- [Fujifilm Provia 100F (ref: 356d)](#fujifilm-provia-100f-ref-356d)
 - [Fujifilm Velvia (ref: 3182)](#fujifilm-velvia-ref-3182)
 - [Fujifilm Velvia 100F (ref: f7fb)](#fujifilm-velvia-100f-ref-f7fb)
+- [Fujifilm Velvia 100F (ref: 32d4)](#fujifilm-velvia-100f-ref-32d4)
 - [GAF Color Slide Film (ref: dea6)](#gaf-color-slide-film-ref-dea6)
 - [HARMAN PHOENIX (ref: 637f)](#harman-phoenix-ref-637f)
 - [Ilford Delta (ref: eb8d)](#ilford-delta-ref-eb8d)
@@ -272,6 +274,18 @@ Scanned By: dekuNukem
 
 ![Fujifilm Pro 400H 120 film_box_outside](./archive/00022_000.jpg)
 
+#### Fujifilm Provia 100F (ref: 356d)
+```
+ISO     : 100
+Format  : 35mm
+Process : E-6
+Expiry  : 202009
+UUID    : a3603dbdd8ca49b893c8ce2bc76f356d
+Scanned By: @seklerek
+```
+
+![Fujifilm Provia 100F 35mm film_box_outside](./archive/00055_000.jpg)
+
 #### Fujifilm Velvia (ref: 3182)
 ```
 ISO     : 50
@@ -299,6 +313,18 @@ Scanned By: dekuNukem
 ```
 
 ![Fujifilm Velvia 100F 120 film_box_outside](./archive/00023_000.jpg)
+
+#### Fujifilm Velvia 100F (ref: 32d4)
+```
+ISO     : 100
+Format  : 35mm
+Process : E-6
+Expiry  : 200703
+UUID    : ce5c1d786286427ba5633091b06432d4
+Scanned By: @seklerek
+```
+
+![Fujifilm Velvia 100F 35mm film_box_outside](./archive/00056_000.jpg)
 
 #### GAF Color Slide Film (ref: dea6)
 ```

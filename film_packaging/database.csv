@@ -101,3 +101,5 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 54,3,film_box_processing_envelope,GAF,Color Slide Film,126,64,E-6,197401,1738666715,b6a970a887b41d0c86f4dc791f36ccc7,a332a7492f2b4a708c8a0ead5b9af986,00054_003.jpg,b0baspace
 54,4,film_box_processing_envelope,GAF,Color Slide Film,126,64,E-6,197401,1738666720,0edf8ea5072e53d2f672b4bc72f7f7ac,dd9347600c9a47299504239d1038f0dd,00054_004.jpg,b0baspace
 54,5,film_box_processing_envelope,GAF,Color Slide Film,126,64,E-6,197401,1738666725,11f70dda11017d8dfa2fee782d76e230,90cc6194552d42dd873d9af54a9bc283,00054_005.jpg,b0baspace
+55,0,film_box_outside,Fujifilm,Provia 100F,35mm,100,E-6,202009,1740175404,11a02661d9dfda0ff824e02e1abacdf9,a3603dbdd8ca49b893c8ce2bc76f356d,00055_000.jpg,@seklerek
+56,0,film_box_outside,Fujifilm,Velvia 100F,35mm,100,E-6,200703,1740175436,e855ec9f9e45b8d363b7a6fffb8e6d00,ce5c1d786286427ba5633091b06432d4,00056_000.jpg,@seklerek

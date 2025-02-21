@@ -21,8 +21,8 @@ Thanks! [Please follow the contribution guide](contribution_guide.md).
 ## Browse Archive
 
 ```
-Last Updated: Feb 04 2025
-# of items: 102
+Last Updated: Feb 21 2025
+# of items: 104
 ```
 
 Click to see all the scans!
