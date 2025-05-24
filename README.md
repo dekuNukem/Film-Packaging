@@ -22,7 +22,7 @@ Thanks! [Please follow the contribution guide](contribution_guide.md).
 
 ```
 Last Updated: May 24 2025
-# of items: 120
+# of items: 121
 ```
 
 Click to see all the scans!
