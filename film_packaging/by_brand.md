@@ -64,6 +64,7 @@ Last Updated: May 24 2025
 - [Kodak Kodachrome (ref: 3206)](#kodak-kodachrome-ref-3206)
 - [Kodak Kodacolor-X (ref: 5302)](#kodak-kodacolor-x-ref-5302)
 - [Kodak Kodacolor-X (ref: a4b1)](#kodak-kodacolor-x-ref-a4b1)
+- [Kodak TMAX (ref: b3b1)](#kodak-tmax-ref-b3b1)
 - [Kodak Technical Pan 6415 (ref: 03be)](#kodak-technical-pan-6415-ref-03be)
 - [Kodak Tri-X (ref: 88c5)](#kodak-tri-x-ref-88c5)
 - [Kodak Ultra (ref: 69a1)](#kodak-ultra-ref-69a1)
@@ -716,6 +717,18 @@ Scanned By: dekuNukem
 [Click me for **LEAFLET** for Kodak Kodacolor-X (ref: 97fa)](./archive/00064_001.jpg)
 
 [Click me for **LEAFLET** for Kodak Kodacolor-X (ref: 5c50)](./archive/00064_002.jpg)
+
+#### Kodak TMAX (ref: b3b1)
+```
+ISO     : 100
+Format  : 120
+Process : BW
+Expiry  : 202307
+UUID    : 9a43d0c373354e1989ea7bb7a43db3b1
+Scanned By: dekuNukem
+```
+
+![Kodak TMAX 120 film_box_outside](./archive/00069_000.jpg)
 
 #### Kodak Technical Pan 6415 (ref: 03be)
 ```
