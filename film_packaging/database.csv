@@ -103,3 +103,19 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 54,5,film_box_processing_envelope,GAF,Color Slide Film,126,64,E-6,197401,1738666725,11f70dda11017d8dfa2fee782d76e230,90cc6194552d42dd873d9af54a9bc283,00054_005.jpg,b0baspace
 55,0,film_box_outside,Fujifilm,Provia 100F,35mm,100,E-6,202009,1740175404,11a02661d9dfda0ff824e02e1abacdf9,a3603dbdd8ca49b893c8ce2bc76f356d,00055_000.jpg,@seklerek
 56,0,film_box_outside,Fujifilm,Velvia 100F,35mm,100,E-6,200703,1740175436,e855ec9f9e45b8d363b7a6fffb8e6d00,ce5c1d786286427ba5633091b06432d4,00056_000.jpg,@seklerek
+57,0,film_box_outside,Alien Film,5222/XX,35mm,250,BW,202406,1748116820,7e12b1520d94a257ab94ae5e9ba8f64d,9984ed6c13cd4be496e7e4b58e313e49,00057_000.jpg,dekuNukem
+58,0,film_box_outside,Kentmere,PAN,35mm,400,BW,202609,1748116856,353c31068a9fe6d21d1d75fa71f1b9ea,e876f866f1e9430494356ad098c7d223,00058_000.jpg,dekuNukem
+58,1,film_box_inside,Kentmere,PAN,35mm,400,BW,202609,1748116859,65e0277a51cb91495e6fe34b0b1f05e3,ecc653f10f124afe9b4225edb7e06587,00058_001.jpg,dekuNukem
+59,0,film_box_outside,Three Film Rolls,5207,35mm,250,ECN-2,202512,1748116909,3191daf4d9fb86ebe20ab760304d6c25,4de0f5e76dd748c488fa81be23340292,00059_000.jpg,dekuNukem
+60,0,film_box_outside,Kodak,Kodachrome,35mm,64,K-14,200705,1748116947,1a7d186200ebf9ae3542b767d2b4593d,dc9c151b87de48339e564e6692663206,00060_000.jpg,dekuNukem
+62,0,film_box_outside,Klick,XD200,110,200,C-41,199802,1748117045,4c4dc6eace5c679c40b79b01b148c0ad,2276628aa2794442ae81221329fc44d7,00062_000.jpg,dekuNukem
+63,0,film_box_outside,Klick,APS Film,APS,200,C-41,200610,1748117086,90bcffd5d238709988ced80edf7c7ec1,1dc3d9dbb8bb42b4acfbfbe0737a4b88,00063_000.jpg,dekuNukem
+63,1,film_box_inside,Klick,APS Film,APS,200,C-41,200610,1748117088,1a06225556eed8ea0fc68f2491d1badb,dff53610cf16453fb97135efcc0eed86,00063_001.jpg,dekuNukem
+64,0,film_box_outside,Kodak,Kodacolor-X,120,80,C-22,197401,1748117141,2dd9c2fb8145009cab707c5370d72081,01bfcffd1db54d6eadefbc1442f7a4b1,00064_000.jpg,dekuNukem
+64,1,film_box_leaflet,Kodak,Kodacolor-X,120,80,C-22,197401,1748117143,4e343b50afa66c188ee12217f3214704,20e8ec19e41a4c1e99eac4cd7ce097fa,00064_001.jpg,dekuNukem
+64,2,film_box_leaflet,Kodak,Kodacolor-X,120,80,C-22,197401,1748117147,1b89fc9c8796f1dfa9f5cffb2923e48e,fc168256a6044253a1cf1c8362cf5c50,00064_002.jpg,dekuNukem
+65,0,film_box_outside,ADOX,KB17,35mm,40,BW,196401,1748117257,0634241dfe104b5cf9f7dc7911086430,14047842e1a641268bfd4d01fcf02c95,00065_000.jpg,dekuNukem
+65,1,film_box_inside,ADOX,KB17,35mm,40,BW,196401,1748117259,93e9f0f4e3800aaa04b4cd7d6d935eb6,04f60deb3d044553a9d662db1d30d3b7,00065_001.jpg,dekuNukem
+66,0,film_box_outside,Kodak,Advantix Ultra,APS,200,C-41,200608,1748117358,1d3ad17cd5e5cab8be59bac3300b770c,041622f239024ffb8b75c367619a566b,00066_000.jpg,dekuNukem
+67,0,film_box_outside,Lloyds Pharmacy,APS Film,APS,200,C-41,200708,1748117415,5249c678ba2a7e621d8ba1de6ebd72cb,44bd7d4688e04d19a958d961c2abc7cf,00067_000.jpg,dekuNukem
+68,0,film_box_outside,Kodak,Gold,110,200,C-41,198812,1748117460,5b2922fabcf249c39cdfa7e498845068,78bfeed667154d819902ec92d7dcf368,00068_000.jpg,dekuNukem

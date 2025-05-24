@@ -11,18 +11,20 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 Click for full size.
 
 ```
-Last Updated: Feb 21 2025
+Last Updated: May 24 2025
 
-# of items: 104
+# of items: 120
 ```
 
 -----
 
 
+- [ADOX KB17 (ref: 2c95)](#adox-kb17-ref-2c95)
 - [AGFA APX (ref: 12c7)](#agfa-apx-ref-12c7)
 - [AGFA ULTRA 50 (ref: 4faa)](#agfa-ultra-50-ref-4faa)
 - [AGFA Vista (ref: d3af)](#agfa-vista-ref-d3af)
 - [Alien Film 5207/250D (ref: 8820)](#alien-film-5207250d-ref-8820)
+- [Alien Film 5222/XX (ref: 3e49)](#alien-film-5222xx-ref-3e49)
 - [CineStill 800T (ref: c86a)](#cinestill-800t-ref-c86a)
 - [Efiniti UXi super 200 (ref: 471a)](#efiniti-uxi-super-200-ref-471a)
 - [Efke IR 820 (ref: 43c9)](#efke-ir-820-ref-43c9)
@@ -45,6 +47,10 @@ Last Updated: Feb 21 2025
 - [Ilford SFX 200 (ref: 6057)](#ilford-sfx-200-ref-6057)
 - [Jessops Diamond Everyday (ref: 67d3)](#jessops-diamond-everyday-ref-67d3)
 - [Kentmere PAN (ref: 827e)](#kentmere-pan-ref-827e)
+- [Kentmere PAN (ref: d223)](#kentmere-pan-ref-d223)
+- [Klick APS Film (ref: 4b88)](#klick-aps-film-ref-4b88)
+- [Klick XD200 (ref: 44d7)](#klick-xd200-ref-44d7)
+- [Kodak Advantix Ultra (ref: 566b)](#kodak-advantix-ultra-ref-566b)
 - [Kodak Ektachrome (ref: ce7f)](#kodak-ektachrome-ref-ce7f)
 - [Kodak Ektachrome (ref: 07c0)](#kodak-ektachrome-ref-07c0)
 - [Kodak Ektachrome (ref: ec3d)](#kodak-ektachrome-ref-ec3d)
@@ -52,15 +58,19 @@ Last Updated: Feb 21 2025
 - [Kodak Ektacolor Pro Gold (ref: c3f8)](#kodak-ektacolor-pro-gold-ref-c3f8)
 - [Kodak Elite Chrome (ref: 523c)](#kodak-elite-chrome-ref-523c)
 - [Kodak Gold (ref: 933f)](#kodak-gold-ref-933f)
+- [Kodak Gold (ref: f368)](#kodak-gold-ref-f368)
 - [Kodak Kodachrome (ref: 3145)](#kodak-kodachrome-ref-3145)
 - [Kodak Kodachrome (ref: 6477)](#kodak-kodachrome-ref-6477)
+- [Kodak Kodachrome (ref: 3206)](#kodak-kodachrome-ref-3206)
 - [Kodak Kodacolor-X (ref: 5302)](#kodak-kodacolor-x-ref-5302)
+- [Kodak Kodacolor-X (ref: a4b1)](#kodak-kodacolor-x-ref-a4b1)
 - [Kodak Technical Pan 6415 (ref: 03be)](#kodak-technical-pan-6415-ref-03be)
 - [Kodak Tri-X (ref: 88c5)](#kodak-tri-x-ref-88c5)
 - [Kodak Ultra (ref: 69a1)](#kodak-ultra-ref-69a1)
 - [Kodak Verichrome Pan (ref: 0195)](#kodak-verichrome-pan-ref-0195)
 - [Konica Infrared 750nm (ref: 2d93)](#konica-infrared-750nm-ref-2d93)
 - [Konica Infrared 750nm (ref: e696)](#konica-infrared-750nm-ref-e696)
+- [Lloyds Pharmacy APS Film (ref: c7cf)](#lloyds-pharmacy-aps-film-ref-c7cf)
 - [Lloyds Pharmacy Colour Film (ref: 77d9)](#lloyds-pharmacy-colour-film-ref-77d9)
 - [Lomography Lomochrome Turquoise (ref: 0d90)](#lomography-lomochrome-turquoise-ref-0d90)
 - [Polaroid 665 (ref: e054)](#polaroid-665-ref-e054)
@@ -73,12 +83,27 @@ Last Updated: Feb 21 2025
 - [Rollei Infrared (ref: eae2)](#rollei-infrared-ref-eae2)
 - [Rollei Retro 80S (ref: e6c0)](#rollei-retro-80s-ref-e6c0)
 - [Shanghai GP3 (ref: 52aa)](#shanghai-gp3-ref-52aa)
+- [Three Film Rolls 5207 (ref: 0292)](#three-film-rolls-5207-ref-0292)
 - [Wolfen NC500 (ref: 91c1)](#wolfen-nc500-ref-91c1)
 - [York Photo Labs DXG 200 (ref: 4bf8)](#york-photo-labs-dxg-200-ref-4bf8)
 
 
 -----
 
+
+#### ADOX KB17 (ref: 2c95)
+```
+ISO     : 40
+Format  : 35mm
+Process : BW
+Expiry  : 196401
+UUID    : 14047842e1a641268bfd4d01fcf02c95
+Scanned By: dekuNukem
+```
+
+![ADOX KB17 35mm film_box_outside](./archive/00065_000.jpg)
+
+[Click me for **BOX INSIDE** for ADOX KB17 (ref: d3b7)](./archive/00065_001.jpg)
 
 #### AGFA APX (ref: 12c7)
 ```
@@ -133,6 +158,18 @@ Scanned By: dekuNukem
 ```
 
 ![Alien Film 5207/250D 120 film_box_outside](./archive/00001_000.jpg)
+
+#### Alien Film 5222/XX (ref: 3e49)
+```
+ISO     : 250
+Format  : 35mm
+Process : BW
+Expiry  : 202406
+UUID    : 9984ed6c13cd4be496e7e4b58e313e49
+Scanned By: dekuNukem
+```
+
+![Alien Film 5222/XX 35mm film_box_outside](./archive/00057_000.jpg)
 
 #### CineStill 800T (ref: c86a)
 ```
@@ -442,6 +479,58 @@ Scanned By: dekuNukem
 
 [Click me for **BOX INSIDE** for Kentmere PAN (ref: 9f55)](./archive/00015_001.jpg)
 
+#### Kentmere PAN (ref: d223)
+```
+ISO     : 400
+Format  : 35mm
+Process : BW
+Expiry  : 202609
+UUID    : e876f866f1e9430494356ad098c7d223
+Scanned By: dekuNukem
+```
+
+![Kentmere PAN 35mm film_box_outside](./archive/00058_000.jpg)
+
+[Click me for **BOX INSIDE** for Kentmere PAN (ref: 6587)](./archive/00058_001.jpg)
+
+#### Klick APS Film (ref: 4b88)
+```
+ISO     : 200
+Format  : APS
+Process : C-41
+Expiry  : 200610
+UUID    : 1dc3d9dbb8bb42b4acfbfbe0737a4b88
+Scanned By: dekuNukem
+```
+
+![Klick APS Film APS film_box_outside](./archive/00063_000.jpg)
+
+[Click me for **BOX INSIDE** for Klick APS Film (ref: ed86)](./archive/00063_001.jpg)
+
+#### Klick XD200 (ref: 44d7)
+```
+ISO     : 200
+Format  : 110
+Process : C-41
+Expiry  : 199802
+UUID    : 2276628aa2794442ae81221329fc44d7
+Scanned By: dekuNukem
+```
+
+![Klick XD200 110 film_box_outside](./archive/00062_000.jpg)
+
+#### Kodak Advantix Ultra (ref: 566b)
+```
+ISO     : 200
+Format  : APS
+Process : C-41
+Expiry  : 200608
+UUID    : 041622f239024ffb8b75c367619a566b
+Scanned By: dekuNukem
+```
+
+![Kodak Advantix Ultra APS film_box_outside](./archive/00066_000.jpg)
+
 #### Kodak Ektachrome (ref: ce7f)
 ```
 ISO     : 160
@@ -540,6 +629,18 @@ Scanned By: dekuNukem
 
 ![Kodak Gold 35mm film_box_outside](./archive/00021_000.jpg)
 
+#### Kodak Gold (ref: f368)
+```
+ISO     : 200
+Format  : 110
+Process : C-41
+Expiry  : 198812
+UUID    : 78bfeed667154d819902ec92d7dcf368
+Scanned By: dekuNukem
+```
+
+![Kodak Gold 110 film_box_outside](./archive/00068_000.jpg)
+
 #### Kodak Kodachrome (ref: 3145)
 ```
 ISO     : 64
@@ -576,6 +677,18 @@ Scanned By: dekuNukem
 
 [Click me for **PROCESSING ENVELOPE** for Kodak Kodachrome (ref: 1b8d)](./archive/00035_004.jpg)
 
+#### Kodak Kodachrome (ref: 3206)
+```
+ISO     : 64
+Format  : 35mm
+Process : K-14
+Expiry  : 200705
+UUID    : dc9c151b87de48339e564e6692663206
+Scanned By: dekuNukem
+```
+
+![Kodak Kodachrome 35mm film_box_outside](./archive/00060_000.jpg)
+
 #### Kodak Kodacolor-X (ref: 5302)
 ```
 ISO     : 80
@@ -587,6 +700,22 @@ Scanned By: dekuNukem
 ```
 
 ![Kodak Kodacolor-X 126 film_box_outside](./archive/00024_000.jpg)
+
+#### Kodak Kodacolor-X (ref: a4b1)
+```
+ISO     : 80
+Format  : 120
+Process : C-22
+Expiry  : 197401
+UUID    : 01bfcffd1db54d6eadefbc1442f7a4b1
+Scanned By: dekuNukem
+```
+
+![Kodak Kodacolor-X 120 film_box_outside](./archive/00064_000.jpg)
+
+[Click me for **LEAFLET** for Kodak Kodacolor-X (ref: 97fa)](./archive/00064_001.jpg)
+
+[Click me for **LEAFLET** for Kodak Kodacolor-X (ref: 5c50)](./archive/00064_002.jpg)
 
 #### Kodak Technical Pan 6415 (ref: 03be)
 ```
@@ -665,6 +794,18 @@ Scanned By: dekuNukem
 ![Konica Infrared 750nm 120 film_box_outside](./archive/00039_000.jpg)
 
 [Click me for **LEAFLET** for Konica Infrared 750nm (ref: f1ad)](./archive/00039_001.jpg)
+
+#### Lloyds Pharmacy APS Film (ref: c7cf)
+```
+ISO     : 200
+Format  : APS
+Process : C-41
+Expiry  : 200708
+UUID    : 44bd7d4688e04d19a958d961c2abc7cf
+Scanned By: dekuNukem
+```
+
+![Lloyds Pharmacy APS Film APS film_box_outside](./archive/00067_000.jpg)
 
 #### Lloyds Pharmacy Colour Film (ref: 77d9)
 ```
@@ -824,6 +965,18 @@ Scanned By: @ob.skura
 ```
 
 ![Shanghai GP3 127 film_box_outside](./archive/00050_000.jpg)
+
+#### Three Film Rolls 5207 (ref: 0292)
+```
+ISO     : 250
+Format  : 35mm
+Process : ECN-2
+Expiry  : 202512
+UUID    : 4de0f5e76dd748c488fa81be23340292
+Scanned By: dekuNukem
+```
+
+![Three Film Rolls 5207 35mm film_box_outside](./archive/00059_000.jpg)
 
 #### Wolfen NC500 (ref: 91c1)
 ```
