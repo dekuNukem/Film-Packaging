@@ -4,7 +4,7 @@
 
 -----
 
-Found this useful? Please [credit the project page](https://github.com/dekuNukem/Film-Packaging)!
+Found this useful? Please [credit the project page](fp-archive.com).
 
 Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
@@ -17,7 +17,6 @@ Last Updated: May 24 2025
 ```
 
 -----
-
 
 - [ADOX KB17 (ref: 2c95)](#adox-kb17-ref-2c95)
 - [AGFA APX (ref: 12c7)](#agfa-apx-ref-12c7)

@@ -13,8 +13,7 @@ Please read this short guide on how to submit your own scans.
 Your film packaging should be:
 
 * Intact & Legible
-	* Not missing any flaps / panels
-	* Not significantly covered by stains / stickers
+	* Not missing significant portions of the box
 * Unique
 	* [Take a look at the archive page](./film_packaging/by_brand.md)
 	* It should be **`NOT exactly the same`** as existing entries
