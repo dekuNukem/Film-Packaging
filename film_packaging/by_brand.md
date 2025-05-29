@@ -4,7 +4,7 @@
 
 -----
 
-Found this useful? Please [credit the project page](fp-archive.com).
+Found this useful? Please [credit the project page](https://fp-archive.com).
 
 Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
