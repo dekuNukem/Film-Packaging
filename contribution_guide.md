@@ -8,7 +8,7 @@ Thank you for supporting this project!
 
 Please read this short guide on how to submit your own scans.
 
-### Prerequisites
+## Prerequisites
 
 Your film packaging should be:
 
@@ -21,13 +21,13 @@ Your film packaging should be:
 
 Feel free to submit if those requirements are met!
 
-### Equipment
+## Equipment
 
 A **Flatbed Scanner** is highly recommended.
 
 No need to be fancy, 1200DPI is plenty.
 
-### Preparation
+## Preparation
 
 You need to **take apart the box** while **minimizing damage**.
 
@@ -37,7 +37,7 @@ Each box is different, but generally you can:
 
 ![title](resources/endflap.jpeg)
 
-* Look at the inside of the box
+* Look inside the box
 * Locate the corner with the fold-over
 * Cut straight along its edge
 
@@ -45,7 +45,7 @@ Each box is different, but generally you can:
 
 * Wipe with **dry** microfibre cloth to remove dust and fingerprints
 
-### Scanning
+## Scanning
 
 * Scan at 800 / 1200 DPI
 * 24-Bit colour
@@ -62,35 +62,36 @@ Each box is different, but generally you can:
 
 ⚠️ DO NOT perform excessive post-processing! Flatter image is preferable.
 
-### Sample Scan
+## Sample Scan
 
 Yours should look similar to this. Click to enlarge.
 
 ![title](film_packaging/archive/00036_000.jpg)
 
-### Submission
+## Submission
 
 You can submit via the means below, I'll review and update once received.
 
-#### WeTransfer
+### WeTransfer
 
 * Zip all your scans
 * Send via [WeTransfer](https://wetransfer.com/) to `skate.huddle-6r@icloud.com`
 	* **Include your nickname/real name/social media handle**!
 	* Used to credit you in the database
 
-#### Discord
+### Discord
 
 * Zip all your scans
 * [Join the chatroom](https://discord.gg/yvBx7dVG4B)
-* Post in the `#submissions` channel
+* Post the zip file in the `#submissions` channel
+	* If too large, upload to file-sharing website (Dropbox etc) and post the link.
 	* **Include your nickname/real name/social media handle**!
 	* Used to credit you in the database
 
-### Questions or Comments?
+## Questions or Comments?
 
 Get in touch by joining [the Discord chatroom](https://discord.gg/yvBx7dVG4B), or email `skate.huddle-6r@icloud.com` !
 
-### Back to Main Page
+## Back to Main Page
 
 [Click me](README.md)
