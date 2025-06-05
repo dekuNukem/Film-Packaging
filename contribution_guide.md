@@ -84,7 +84,7 @@ You can submit via the means below, I'll review and update once received.
 * Zip all your scans
 * [Join the chatroom](https://discord.gg/yvBx7dVG4B)
 * Post the zip file in the `#submissions` channel
-	* If too large, upload to file-sharing website (Dropbox etc) and post the link.
+	* If too large, use file-sharing website (Dropbox etc) and post the link.
 	* **Include your nickname/real name/social media handle**!
 	* Used to credit you in the database
 

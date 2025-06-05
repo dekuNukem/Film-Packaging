@@ -8,9 +8,11 @@ Welcome! Here you can find high-resolution scans of:
 
 ![title](resources/title.jpg)
 
+This project is fully open-source. [Click me for GitHub repo.](https://github.com/dekuNukem/Film-Packaging)
+
 ## Why
 
-Film packaging reflects the evolution of photography, technological progress, and branding / design trends.
+Film packaging captures the evolution of photography, technology, and design trends.
 
 Its preservation helps document history, inspire modern designs, and support research of branding and cultural aesthetics.
 
