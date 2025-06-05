@@ -1,6 +1,6 @@
 # Contribution Guide
 
-[Project Home Page](../README.md)
+[Home Page](README.md) | [GitHub Repo](https://github.com/dekuNukem/Film-Packaging)
 
 ----------
 

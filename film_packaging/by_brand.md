@@ -1,6 +1,6 @@
 # Film Packaging Archive (Sorted by BRAND)
 
-[Project Home Page](../README.md)
+[Home Page](../README.md) | [GitHub Repo](https://github.com/dekuNukem/Film-Packaging)
 
 -----
 
@@ -1076,7 +1076,6 @@ Scanned By: b0baspace
 [![York Photo Labs DXG 200 35mm film_box_outside](./lowres/00051_000.jpg)](./archive/00051_000.jpg)
 
 
-
 ## Want to contribute?
 
 [Check out the guidelines!](../contribution_guide.md)
@@ -1085,7 +1084,7 @@ Scanned By: b0baspace
 
 Get in touch by joining [the Discord chatroom](https://discord.gg/yvBx7dVG4B), or `email skate.huddle-6r@icloud.com` !
 
-## Back to Main Page
+## Back to Home Page
 
 [Click me](../README.md)
 

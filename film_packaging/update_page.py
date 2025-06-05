@@ -55,7 +55,7 @@ result = sorted(database_entries, key=operator.itemgetter(ITEM_BRAND_KEY, ITEM_P
 
 md_header = """# Film Packaging Archive (Sorted by BRAND)
 
-[Project Home Page](../README.md)
+[Home Page](../README.md) | [GitHub Repo](https://github.com/dekuNukem/Film-Packaging)
 
 -----
 
@@ -125,7 +125,6 @@ for item in result:
     print(description)
     
 ending = """
-
 ## Want to contribute?
 
 [Check out the guidelines!](../contribution_guide.md)
@@ -134,7 +133,7 @@ ending = """
 
 Get in touch by joining [the Discord chatroom](https://discord.gg/yvBx7dVG4B), or `email skate.huddle-6r@icloud.com` !
 
-## Back to Main Page
+## Back to Home Page
 
 [Click me](../README.md)
 
