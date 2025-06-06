@@ -163,11 +163,11 @@ def make_filename_only(item_dict):
 
 def make_filename_full_path(item_dict):
     new_filename = make_filename_only(item_dict)
-    return os.path.join(archive_dir_path, new_filename)
+    return os.path.join(archive_dir_path, new_filename).replace('\\', '/')
 
 def make_lowres_full_path(item_dict):
     new_filename = make_filename_only(item_dict)
-    return os.path.join(lowres_dir_path, new_filename)
+    return os.path.join(lowres_dir_path, new_filename).replace('\\', '/')
 
 def convert_keys_to_int(db_dict):
     for this_entry in db_dict:

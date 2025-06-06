@@ -5,6 +5,10 @@ import time
 from shared import *
 import operator
 
+# Enforce UTF-8 for consistency across terminals
+sys.stdout.reconfigure(encoding='utf-8')
+
+
 def make_description_string(this_entry, keyname):
     if keyname not in this_entry:
         raise ValueError()
