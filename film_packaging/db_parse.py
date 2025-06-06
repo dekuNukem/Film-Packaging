@@ -61,7 +61,7 @@ def ask_attribute(db_key):
     if key_attri.list_existing:
         return ask_with_listing_existing_options(db_key)
     else:
-        return get_answer(f"What is {colored(db_key, alert_color)}?\n")
+        return get_answer(f"What is {colored(db_key, alert_color)}? ({key_attri.notes})\n")
 
 def open_preview(filepath):
     os.system(f"open {filepath.replace(" ", "\\ ")} -g")

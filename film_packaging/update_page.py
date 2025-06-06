@@ -8,7 +8,6 @@ import operator
 # Enforce UTF-8 for consistency across terminals
 sys.stdout.reconfigure(encoding='utf-8')
 
-
 def make_description_string(this_entry, keyname):
     if keyname not in this_entry:
         raise ValueError()
@@ -69,7 +68,7 @@ md_header = """# Film Packaging Archive (Sorted by BRAND)
 
 -----
 
-Find this useful? Please [credit the project page](https://github.com/dekuNukem/Film-Packaging)!
+Find this useful? Please [credit the project page](../README.md)!
 
 Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
@@ -104,9 +103,6 @@ for item in subtitle_list:
     print(make_section(item))
 
 print("\n\n-----\n\n")
-
-# [![Alt text](resources/title.jpg)](https://example.com)
-
 
 for item in result:
     image_path = make_filename_full_path(item)

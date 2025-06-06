@@ -4,7 +4,7 @@
 
 -----
 
-Find this useful? Please [credit the project page](https://github.com/dekuNukem/Film-Packaging)!
+Find this useful? Please [credit the project page](../README.md)!
 
 Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
