@@ -5,6 +5,10 @@ import time
 from shared import *
 import operator
 
+# Enforce UTF-8 for consistency across terminals
+sys.stdout.reconfigure(encoding='utf-8')
+
+
 def make_description_string(this_entry, keyname):
     if keyname not in this_entry:
         raise ValueError()
@@ -16,6 +20,12 @@ def make_alt_text(this_entry):
 
 def make_subtitle(this_entry):
     return f"{this_entry[ITEM_BRAND_KEY]} {this_entry[ITEM_PRODUCT_NAME_KEY]} (ref: {this_entry[ITEM_UUID_KEY][-4:]})"
+
+def make_lazy_load_image_link(this_lowres_path, this_image_path, this_entry):
+    output = f"\n<a href=\"{this_image_path}\">"
+    output += f"\n\t<img src=\"{this_lowres_path}\" alt=\"{make_alt_text(this_entry)}\" loading=\"lazy\" />"
+    output += f"\n</a>\n"
+    return output
 
 placeholder = '$%'
 def make_section(text):
@@ -112,7 +122,7 @@ for item in result:
         description += make_description_string(item, ITEM_UUID_KEY)
         description += make_description_string(item, ITEM_AUTHOR_KEY)
         description += "```\n"
-        description += f"\n[![{make_alt_text(item)}]({lowres_path})]({image_path})\n"
+        description += make_lazy_load_image_link(lowres_path, image_path, item)
     elif 'inside' in item[ITEM_TYPE_KEY].lower():
         description += f"[Click me for **BOX INSIDE** for {make_subtitle(item)}]({image_path})\n"
     elif 'leaflet' in item[ITEM_TYPE_KEY].lower():
@@ -120,7 +130,7 @@ for item in result:
     elif 'envelope' in item[ITEM_TYPE_KEY].lower():
         description += f"[Click me for **PROCESSING ENVELOPE** for {make_subtitle(item)}]({image_path})\n"
     else:
-        description += f"\n[![{make_alt_text(item)}]({lowres_path})]({image_path})\n"
+        description += make_lazy_load_image_link(lowres_path, image_path, item)
 
     print(description)
     
