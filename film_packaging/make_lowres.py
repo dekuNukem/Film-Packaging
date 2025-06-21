@@ -9,7 +9,7 @@ lowres_folder = './lowres'
 if not os.path.exists(lowres_folder):
     os.makedirs(lowres_folder)
 
-max_width = 640
+max_width = 1000
 
 # Loop through all files in the archive folder
 for filename in os.listdir(archive_folder):

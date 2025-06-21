@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 05 2025
+Last Updated: Jun 21 2025
 
-# of items: 127
+# of items: 128
 ```
 
 -----
@@ -33,6 +33,7 @@ Last Updated: Jun 05 2025
 - [Efiniti UXi super 200 (ref: 471a)](#efiniti-uxi-super-200-ref-471a)
 - [Efke IR 820 (ref: 43c9)](#efke-ir-820-ref-43c9)
 - [Foma Fomapan (ref: 3e4f)](#foma-fomapan-ref-3e4f)
+- [Foma Fomapan21 (ref: 75d9)](#foma-fomapan21-ref-75d9)
 - [Fujifilm 200 (ref: 5b41)](#fujifilm-200-ref-5b41)
 - [Fujifilm FUJICOLOR SUPER HR (ref: aaa0)](#fujifilm-fujicolor-super-hr-ref-aaa0)
 - [Fujifilm FUJICOLOR SUPERIA (ref: 0683)](#fujifilm-fujicolor-superia-ref-0683)
@@ -253,6 +254,20 @@ Scanned By: benikum
 </a>
 
 [Click me for **BOX INSIDE** for Foma Fomapan (ref: bd71)](./archive/00070_001.jpg)
+
+#### Foma Fomapan21 (ref: 75d9)
+```
+ISO     : 100
+Format  : 120
+Process : BW
+Expiry  : 197104
+UUID    : 098e510bfaa14be39697b9d8218475d9
+Scanned By: benikum
+```
+
+<a href="./archive/00074_000.jpg">
+	<img src="./lowres/00074_000.jpg" alt="Foma Fomapan21 120 film_box_outside" loading="lazy" />
+</a>
 
 #### Fujifilm 200 (ref: 5b41)
 ```
