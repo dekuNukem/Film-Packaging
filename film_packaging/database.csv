@@ -127,3 +127,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 72,0,film_box_outside,Rossmann,Jahreszeiten Pack,35mm,100,C-41,200605,1749159327,e775ab99adbc91a7fdcb14b2c5798c52,b09413c4c1f44fceaa31ea8e50bf7670,00072_000.jpg,benikum
 73,0,film_box_outside,Fujifilm,200,35mm,200,C-41,202606,1749159539,ccfcbb47c1b477ab7a179a35e20e11b6,fe02d85cb9294ee2ba64e8543ce65b41,00073_000.jpg,Yrikonchik
 74,0,film_box_outside,Foma,Fomapan21,120,100,BW,197104,1750530016,f81204d618a5ede22582ac50855c13d4,098e510bfaa14be39697b9d8218475d9,00074_000.jpg,benikum
+4,1,film_box_inside,HARMAN,PHOENIX,120,200,C-41,202608,1750810157,22d8c43a5a50b3477cb53bb8a5cb568a,c5a0132ac51a488ba35ebd6cc48911e7,00075_000.jpg,yc128
+76,0,film_box_outside,HARMAN,PHOENIX,35mm,200,C-41,202512,1750810183,b4b7457dc2855247d1566f42228391b5,2fe522ef01b84a9aa6263807135f8eb4,00076_000.jpg,yc128
+76,1,film_box_inside,HARMAN,PHOENIX,35mm,200,C-41,202512,1750810186,846b4d8324d2939e388498fd1f83e470,a7a70b20b4224baeb85c732245eb31d1,00076_001.jpg,yc128
+77,0,film_box_outside,Kosmo Foto,Mono,35mm,100,BW,202704,1750810216,65dca3e7250ca6f8d8369a4f85add199,678648d080ba4e3e8f8e3bd7f429b74f,00077_000.jpg,yc128

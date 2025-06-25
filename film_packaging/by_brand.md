@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 21 2025
+Last Updated: Jun 25 2025
 
-# of items: 128
+# of items: 132
 ```
 
 -----
@@ -48,6 +48,7 @@ Last Updated: Jun 21 2025
 - [Fujifilm Velvia 100F (ref: 32d4)](#fujifilm-velvia-100f-ref-32d4)
 - [GAF Color Slide Film (ref: dea6)](#gaf-color-slide-film-ref-dea6)
 - [HARMAN PHOENIX (ref: 637f)](#harman-phoenix-ref-637f)
+- [HARMAN PHOENIX (ref: 8eb4)](#harman-phoenix-ref-8eb4)
 - [Ilford Delta (ref: eb8d)](#ilford-delta-ref-eb8d)
 - [Ilford HP5 Plus (ref: 1a5d)](#ilford-hp5-plus-ref-1a5d)
 - [Ilford HP5 Plus (ref: efad)](#ilford-hp5-plus-ref-efad)
@@ -78,6 +79,7 @@ Last Updated: Jun 21 2025
 - [Kodak Verichrome Pan (ref: 0195)](#kodak-verichrome-pan-ref-0195)
 - [Konica Infrared 750nm (ref: 2d93)](#konica-infrared-750nm-ref-2d93)
 - [Konica Infrared 750nm (ref: e696)](#konica-infrared-750nm-ref-e696)
+- [Kosmo Foto Mono (ref: b74f)](#kosmo-foto-mono-ref-b74f)
 - [Lloyds Pharmacy APS Film (ref: c7cf)](#lloyds-pharmacy-aps-film-ref-c7cf)
 - [Lloyds Pharmacy Colour Film (ref: 77d9)](#lloyds-pharmacy-colour-film-ref-77d9)
 - [Lomography Lomochrome Turquoise (ref: 0d90)](#lomography-lomochrome-turquoise-ref-0d90)
@@ -494,6 +496,24 @@ Scanned By: dekuNukem
 <a href="./archive/00004_000.jpg">
 	<img src="./lowres/00004_000.jpg" alt="HARMAN PHOENIX 120 film_box_outside" loading="lazy" />
 </a>
+
+[Click me for **BOX INSIDE** for HARMAN PHOENIX (ref: 11e7)](./archive/00004_001.jpg)
+
+#### HARMAN PHOENIX (ref: 8eb4)
+```
+ISO     : 200
+Format  : 35mm
+Process : C-41
+Expiry  : 202512
+UUID    : 2fe522ef01b84a9aa6263807135f8eb4
+Scanned By: yc128
+```
+
+<a href="./archive/00076_000.jpg">
+	<img src="./lowres/00076_000.jpg" alt="HARMAN PHOENIX 35mm film_box_outside" loading="lazy" />
+</a>
+
+[Click me for **BOX INSIDE** for HARMAN PHOENIX (ref: 31d1)](./archive/00076_001.jpg)
 
 #### Ilford Delta (ref: eb8d)
 ```
@@ -964,6 +984,20 @@ Scanned By: dekuNukem
 </a>
 
 [Click me for **LEAFLET** for Konica Infrared 750nm (ref: f1ad)](./archive/00039_001.jpg)
+
+#### Kosmo Foto Mono (ref: b74f)
+```
+ISO     : 100
+Format  : 35mm
+Process : BW
+Expiry  : 202704
+UUID    : 678648d080ba4e3e8f8e3bd7f429b74f
+Scanned By: yc128
+```
+
+<a href="./archive/00077_000.jpg">
+	<img src="./lowres/00077_000.jpg" alt="Kosmo Foto Mono 35mm film_box_outside" loading="lazy" />
+</a>
 
 #### Lloyds Pharmacy APS Film (ref: c7cf)
 ```
