@@ -4,6 +4,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 1,0,film_box_outside,Alien Film,5207/250D,120,250,ECN-2,202606,1736009864,09a33a28cd3b4a4488b95c04617bd91e,aedc4b00bd174e0baf7c744ed21d8820,00001_000.jpg,dekuNukem
 2,0,film_box_outside,Efiniti,UXi super 200,35mm,200,C-41,201310,1736009974,0e6e9c71fa8b3b3fbcf0eea82de1f5a5,cde1122dafbc47088a11d9ee12b6471a,00002_000.jpg,dekuNukem
 4,0,film_box_outside,HARMAN,PHOENIX,120,200,C-41,202608,1736010099,fbd497c31ef59703886e34b982385cf4,0b11ba38c9a34f58a2f13d696b05637f,00004_000.jpg,dekuNukem
+4,1,film_box_inside,HARMAN,PHOENIX,120,200,C-41,202608,1750810157,22d8c43a5a50b3477cb53bb8a5cb568a,c5a0132ac51a488ba35ebd6cc48911e7,00004_001.jpg,yc128
 5,0,film_box_outside,Rollei,Retro 80S,120,80,BW,202602,1736010137,7fed7bd2ae90888b89b8ae5ece08b03a,fb2ccfebcf2f4a17afe00acaaea5e6c0,00005_000.jpg,dekuNukem
 5,1,film_box_inside,Rollei,Retro 80S,120,80,BW,202602,1736010143,003c6478cac4383e08f58df68f9bdfb7,a57794309f6b44d784d9555b416a200c,00005_001.jpg,dekuNukem
 6,0,film_box_outside,CineStill,800T,120,800,C-41,201803,1736010215,a50389fa5e262f6757f2f10591f4e668,53253eca96d841f5b98bfb3590fec86a,00006_000.jpg,dekuNukem
@@ -127,7 +128,6 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 72,0,film_box_outside,Rossmann,Jahreszeiten Pack,35mm,100,C-41,200605,1749159327,e775ab99adbc91a7fdcb14b2c5798c52,b09413c4c1f44fceaa31ea8e50bf7670,00072_000.jpg,benikum
 73,0,film_box_outside,Fujifilm,200,35mm,200,C-41,202606,1749159539,ccfcbb47c1b477ab7a179a35e20e11b6,fe02d85cb9294ee2ba64e8543ce65b41,00073_000.jpg,Yrikonchik
 74,0,film_box_outside,Foma,Fomapan21,120,100,BW,197104,1750530016,f81204d618a5ede22582ac50855c13d4,098e510bfaa14be39697b9d8218475d9,00074_000.jpg,benikum
-4,1,film_box_inside,HARMAN,PHOENIX,120,200,C-41,202608,1750810157,22d8c43a5a50b3477cb53bb8a5cb568a,c5a0132ac51a488ba35ebd6cc48911e7,00075_000.jpg,yc128
 76,0,film_box_outside,HARMAN,PHOENIX,35mm,200,C-41,202512,1750810183,b4b7457dc2855247d1566f42228391b5,2fe522ef01b84a9aa6263807135f8eb4,00076_000.jpg,yc128
 76,1,film_box_inside,HARMAN,PHOENIX,35mm,200,C-41,202512,1750810186,846b4d8324d2939e388498fd1f83e470,a7a70b20b4224baeb85c732245eb31d1,00076_001.jpg,yc128
 77,0,film_box_outside,Kosmo Foto,Mono,35mm,100,BW,202704,1750810216,65dca3e7250ca6f8d8369a4f85add199,678648d080ba4e3e8f8e3bd7f429b74f,00077_000.jpg,yc128
@@ -143,3 +143,4 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 84,0,film_box_outside,Kodak,ColorPlus,35mm,200,C-41,202508,1753147273,b7ba0705b07dae265333992b7734d12b,087223fc24654e3882a4596e3cea79ca,00084_000.jpg,@SirBrentsworth
 85,0,film_box_outside,CineStill,800T,35mm,800,C-41,202609,1753147336,0ba99732b61ff1a127b414c76150da29,81978ca6f6d048b3a759dffdb80fb3ff,00085_000.jpg,@SirBrentsworth
 85,1,film_box_inside,CineStill,800T,35mm,800,C-41,202609,1753147346,8f60346377c883e78f43fa3d50fdbb0c,fbd9b946fd4d46f8a45a46112dcd16ae,00085_001.jpg,@SirBrentsworth
+86,0,film_box_outside,Kodak,Gold,35mm,200,C-41,202704,1753147686,968a9e9686fc431f793eb296862fbbef,856af2ca15fd4a0bad0df6eb29a2855e,00086_000.jpg,@SirBrentsworth

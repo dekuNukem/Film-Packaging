@@ -30,7 +30,7 @@ This project is fully open-source. [Click me for GitHub repo.](https://github.co
 
 ```
 Last Updated: Jul 22 2025
-# of items: 144
+# of items: 145
 ```
 
 Or Sort by...

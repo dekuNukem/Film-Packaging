@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Jul 22 2025
 
-# of items: 144
+# of items: 145
 ```
 
 -----
@@ -73,6 +73,7 @@ Last Updated: Jul 22 2025
 - [Kodak Gold (ref: 933f)](#kodak-gold-ref-933f)
 - [Kodak Gold (ref: f368)](#kodak-gold-ref-f368)
 - [Kodak Gold (ref: 3e7f)](#kodak-gold-ref-3e7f)
+- [Kodak Gold (ref: 855e)](#kodak-gold-ref-855e)
 - [Kodak Kodachrome (ref: 3145)](#kodak-kodachrome-ref-3145)
 - [Kodak Kodachrome (ref: 6477)](#kodak-kodachrome-ref-6477)
 - [Kodak Kodachrome (ref: 3206)](#kodak-kodachrome-ref-3206)
@@ -891,6 +892,20 @@ Scanned By: @SirBrentsworth
 
 <a href="./archive/00080_000.jpg">
 	<img src="./lowres/00080_000.jpg" alt="Kodak Gold 35mm film_box_outside" loading="lazy" />
+</a>
+
+#### Kodak Gold (ref: 855e)
+```
+ISO     : 200
+Format  : 35mm
+Process : C-41
+Expiry  : 202704
+UUID    : 856af2ca15fd4a0bad0df6eb29a2855e
+Scanned By: @SirBrentsworth
+```
+
+<a href="./archive/00086_000.jpg">
+	<img src="./lowres/00086_000.jpg" alt="Kodak Gold 35mm film_box_outside" loading="lazy" />
 </a>
 
 #### Kodak Kodachrome (ref: 3145)
