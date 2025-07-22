@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 25 2025
+Last Updated: Jul 22 2025
 
-# of items: 132
+# of items: 144
 ```
 
 -----
@@ -30,6 +30,7 @@ Last Updated: Jun 25 2025
 - [Alien Film 5207/250D (ref: 8820)](#alien-film-5207250d-ref-8820)
 - [Alien Film 5222/XX (ref: 3e49)](#alien-film-5222xx-ref-3e49)
 - [CineStill 800T (ref: c86a)](#cinestill-800t-ref-c86a)
+- [CineStill 800T (ref: b3ff)](#cinestill-800t-ref-b3ff)
 - [Efiniti UXi super 200 (ref: 471a)](#efiniti-uxi-super-200-ref-471a)
 - [Efke IR 820 (ref: 43c9)](#efke-ir-820-ref-43c9)
 - [Foma Fomapan (ref: 3e4f)](#foma-fomapan-ref-3e4f)
@@ -52,21 +53,26 @@ Last Updated: Jun 25 2025
 - [Ilford Delta (ref: eb8d)](#ilford-delta-ref-eb8d)
 - [Ilford HP5 Plus (ref: 1a5d)](#ilford-hp5-plus-ref-1a5d)
 - [Ilford HP5 Plus (ref: efad)](#ilford-hp5-plus-ref-efad)
+- [Ilford HP5 Plus (ref: df49)](#ilford-hp5-plus-ref-df49)
 - [Ilford SFX 200 (ref: 6057)](#ilford-sfx-200-ref-6057)
 - [Jessops Diamond Everyday (ref: 67d3)](#jessops-diamond-everyday-ref-67d3)
 - [Kentmere PAN (ref: 827e)](#kentmere-pan-ref-827e)
 - [Kentmere PAN (ref: d223)](#kentmere-pan-ref-d223)
+- [Kentmere PAN (ref: c907)](#kentmere-pan-ref-c907)
 - [Klick APS Film (ref: 4b88)](#klick-aps-film-ref-4b88)
 - [Klick XD200 (ref: 44d7)](#klick-xd200-ref-44d7)
 - [Kodak Advantix Ultra (ref: 566b)](#kodak-advantix-ultra-ref-566b)
+- [Kodak ColorPlus (ref: 79ca)](#kodak-colorplus-ref-79ca)
 - [Kodak Ektachrome (ref: ce7f)](#kodak-ektachrome-ref-ce7f)
 - [Kodak Ektachrome (ref: 07c0)](#kodak-ektachrome-ref-07c0)
 - [Kodak Ektachrome (ref: ec3d)](#kodak-ektachrome-ref-ec3d)
 - [Kodak Ektachrome (ref: b21e)](#kodak-ektachrome-ref-b21e)
 - [Kodak Ektacolor Pro Gold (ref: c3f8)](#kodak-ektacolor-pro-gold-ref-c3f8)
+- [Kodak Ektar (ref: 3498)](#kodak-ektar-ref-3498)
 - [Kodak Elite Chrome (ref: 523c)](#kodak-elite-chrome-ref-523c)
 - [Kodak Gold (ref: 933f)](#kodak-gold-ref-933f)
 - [Kodak Gold (ref: f368)](#kodak-gold-ref-f368)
+- [Kodak Gold (ref: 3e7f)](#kodak-gold-ref-3e7f)
 - [Kodak Kodachrome (ref: 3145)](#kodak-kodachrome-ref-3145)
 - [Kodak Kodachrome (ref: 6477)](#kodak-kodachrome-ref-6477)
 - [Kodak Kodachrome (ref: 3206)](#kodak-kodachrome-ref-3206)
@@ -76,12 +82,14 @@ Last Updated: Jun 25 2025
 - [Kodak Technical Pan 6415 (ref: 03be)](#kodak-technical-pan-6415-ref-03be)
 - [Kodak Tri-X (ref: 88c5)](#kodak-tri-x-ref-88c5)
 - [Kodak Ultra (ref: 69a1)](#kodak-ultra-ref-69a1)
+- [Kodak UltraMax (ref: aaa6)](#kodak-ultramax-ref-aaa6)
 - [Kodak Verichrome Pan (ref: 0195)](#kodak-verichrome-pan-ref-0195)
 - [Konica Infrared 750nm (ref: 2d93)](#konica-infrared-750nm-ref-2d93)
 - [Konica Infrared 750nm (ref: e696)](#konica-infrared-750nm-ref-e696)
 - [Kosmo Foto Mono (ref: b74f)](#kosmo-foto-mono-ref-b74f)
 - [Lloyds Pharmacy APS Film (ref: c7cf)](#lloyds-pharmacy-aps-film-ref-c7cf)
 - [Lloyds Pharmacy Colour Film (ref: 77d9)](#lloyds-pharmacy-colour-film-ref-77d9)
+- [Lomography Lomochrome Purple (ref: 068f)](#lomography-lomochrome-purple-ref-068f)
 - [Lomography Lomochrome Turquoise (ref: 0d90)](#lomography-lomochrome-turquoise-ref-0d90)
 - [Polaroid 665 (ref: e054)](#polaroid-665-ref-e054)
 - [Polaroid 669 (ref: 3566)](#polaroid-669-ref-3566)
@@ -210,6 +218,22 @@ Scanned By: dekuNukem
 </a>
 
 [Click me for **BOX INSIDE** for CineStill 800T (ref: d1a6)](./archive/00006_001.jpg)
+
+#### CineStill 800T (ref: b3ff)
+```
+ISO     : 800
+Format  : 35mm
+Process : C-41
+Expiry  : 202609
+UUID    : 81978ca6f6d048b3a759dffdb80fb3ff
+Scanned By: @SirBrentsworth
+```
+
+<a href="./archive/00085_000.jpg">
+	<img src="./lowres/00085_000.jpg" alt="CineStill 800T 35mm film_box_outside" loading="lazy" />
+</a>
+
+[Click me for **BOX INSIDE** for CineStill 800T (ref: 16ae)](./archive/00085_001.jpg)
 
 #### Efiniti UXi super 200 (ref: 471a)
 ```
@@ -563,6 +587,22 @@ Scanned By: dekuNukem
 
 [Click me for **BOX INSIDE** for Ilford HP5 Plus (ref: 8dda)](./archive/00016_001.jpg)
 
+#### Ilford HP5 Plus (ref: df49)
+```
+ISO     : 400
+Format  : 35mm
+Process : BW
+Expiry  : 202806
+UUID    : 8db6d8343d544c21bfd539c32525df49
+Scanned By: @SirBrentsworth
+```
+
+<a href="./archive/00083_000.jpg">
+	<img src="./lowres/00083_000.jpg" alt="Ilford HP5 Plus 35mm film_box_outside" loading="lazy" />
+</a>
+
+[Click me for **BOX INSIDE** for Ilford HP5 Plus (ref: b892)](./archive/00083_001.jpg)
+
 #### Ilford SFX 200 (ref: 6057)
 ```
 ISO     : 200
@@ -625,6 +665,22 @@ Scanned By: dekuNukem
 
 [Click me for **BOX INSIDE** for Kentmere PAN (ref: 6587)](./archive/00058_001.jpg)
 
+#### Kentmere PAN (ref: c907)
+```
+ISO     : 100
+Format  : 35mm
+Process : BW
+Expiry  : 202811
+UUID    : c4c934a23c59430f8b99c71a9322c907
+Scanned By: @SirBrentsworth
+```
+
+<a href="./archive/00082_000.jpg">
+	<img src="./lowres/00082_000.jpg" alt="Kentmere PAN 35mm film_box_outside" loading="lazy" />
+</a>
+
+[Click me for **BOX INSIDE** for Kentmere PAN (ref: 8475)](./archive/00082_001.jpg)
+
 #### Klick APS Film (ref: 4b88)
 ```
 ISO     : 200
@@ -667,6 +723,20 @@ Scanned By: dekuNukem
 
 <a href="./archive/00066_000.jpg">
 	<img src="./lowres/00066_000.jpg" alt="Kodak Advantix Ultra APS film_box_outside" loading="lazy" />
+</a>
+
+#### Kodak ColorPlus (ref: 79ca)
+```
+ISO     : 200
+Format  : 35mm
+Process : C-41
+Expiry  : 202508
+UUID    : 087223fc24654e3882a4596e3cea79ca
+Scanned By: @SirBrentsworth
+```
+
+<a href="./archive/00084_000.jpg">
+	<img src="./lowres/00084_000.jpg" alt="Kodak ColorPlus 35mm film_box_outside" loading="lazy" />
 </a>
 
 #### Kodak Ektachrome (ref: ce7f)
@@ -753,6 +823,20 @@ Scanned By: dekuNukem
 
 [Click me for **LEAFLET** for Kodak Ektacolor Pro Gold (ref: ceb0)](./archive/00027_003.jpg)
 
+#### Kodak Ektar (ref: 3498)
+```
+ISO     : 100
+Format  : 35mm
+Process : C-41
+Expiry  : 202609
+UUID    : 8552091a80a844a5aec3e9b8185e3498
+Scanned By: @SirBrentsworth
+```
+
+<a href="./archive/00081_000.jpg">
+	<img src="./lowres/00081_000.jpg" alt="Kodak Ektar 35mm film_box_outside" loading="lazy" />
+</a>
+
 #### Kodak Elite Chrome (ref: 523c)
 ```
 ISO     : 100
@@ -793,6 +877,20 @@ Scanned By: dekuNukem
 
 <a href="./archive/00068_000.jpg">
 	<img src="./lowres/00068_000.jpg" alt="Kodak Gold 110 film_box_outside" loading="lazy" />
+</a>
+
+#### Kodak Gold (ref: 3e7f)
+```
+ISO     : 200
+Format  : 35mm
+Process : C-41
+Expiry  : 202606
+UUID    : d2e434e91001465dbea2d815d5e23e7f
+Scanned By: @SirBrentsworth
+```
+
+<a href="./archive/00080_000.jpg">
+	<img src="./lowres/00080_000.jpg" alt="Kodak Gold 35mm film_box_outside" loading="lazy" />
 </a>
 
 #### Kodak Kodachrome (ref: 3145)
@@ -941,6 +1039,20 @@ Scanned By: @ob.skura
 	<img src="./lowres/00043_000.jpg" alt="Kodak Ultra 35mm film_box_outside" loading="lazy" />
 </a>
 
+#### Kodak UltraMax (ref: aaa6)
+```
+ISO     : 400
+Format  : 35mm
+Process : C-41
+Expiry  : 202703
+UUID    : 8b0e255948ad4bbc8689d371569caaa6
+Scanned By: @SirBrentsworth
+```
+
+<a href="./archive/00079_000.jpg">
+	<img src="./lowres/00079_000.jpg" alt="Kodak UltraMax 35mm film_box_outside" loading="lazy" />
+</a>
+
 #### Kodak Verichrome Pan (ref: 0195)
 ```
 ISO     : 125
@@ -1026,6 +1138,22 @@ Scanned By: dekuNukem
 <a href="./archive/00013_000.jpg">
 	<img src="./lowres/00013_000.jpg" alt="Lloyds Pharmacy Colour Film 35mm film_box_outside" loading="lazy" />
 </a>
+
+#### Lomography Lomochrome Purple (ref: 068f)
+```
+ISO     : 100-400
+Format  : 35mm
+Process : C-41
+Expiry  : 202705
+UUID    : b02540ba4b454a639f8096f9474d068f
+Scanned By: @SirBrentsworth
+```
+
+<a href="./archive/00078_000.jpg">
+	<img src="./lowres/00078_000.jpg" alt="Lomography Lomochrome Purple 35mm film_box_outside" loading="lazy" />
+</a>
+
+[Click me for **BOX INSIDE** for Lomography Lomochrome Purple (ref: 6db6)](./archive/00078_001.jpg)
 
 #### Lomography Lomochrome Turquoise (ref: 0d90)
 ```

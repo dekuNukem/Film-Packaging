@@ -131,3 +131,15 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 76,0,film_box_outside,HARMAN,PHOENIX,35mm,200,C-41,202512,1750810183,b4b7457dc2855247d1566f42228391b5,2fe522ef01b84a9aa6263807135f8eb4,00076_000.jpg,yc128
 76,1,film_box_inside,HARMAN,PHOENIX,35mm,200,C-41,202512,1750810186,846b4d8324d2939e388498fd1f83e470,a7a70b20b4224baeb85c732245eb31d1,00076_001.jpg,yc128
 77,0,film_box_outside,Kosmo Foto,Mono,35mm,100,BW,202704,1750810216,65dca3e7250ca6f8d8369a4f85add199,678648d080ba4e3e8f8e3bd7f429b74f,00077_000.jpg,yc128
+78,0,film_box_outside,Lomography,Lomochrome Purple,35mm,100-400,C-41,202705,1753147038,9a5fe29b22c05280907e16cbccfdf422,b02540ba4b454a639f8096f9474d068f,00078_000.jpg,@SirBrentsworth
+78,1,film_box_inside,Lomography,Lomochrome Purple,35mm,100-400,C-41,202705,1753147042,cde760f241672d940e622dceea0a7087,bd02e2aa40df4da59c616139d8d06db6,00078_001.jpg,@SirBrentsworth
+79,0,film_box_outside,Kodak,UltraMax,35mm,400,C-41,202703,1753147086,750ddf24b865d51c2d1a0eedc71f4816,8b0e255948ad4bbc8689d371569caaa6,00079_000.jpg,@SirBrentsworth
+80,0,film_box_outside,Kodak,Gold,35mm,200,C-41,202606,1753147120,aeae7834fa7c1ad7c2acf6f397d46b94,d2e434e91001465dbea2d815d5e23e7f,00080_000.jpg,@SirBrentsworth
+81,0,film_box_outside,Kodak,Ektar,35mm,100,C-41,202609,1753147151,339356bdabf391f6105a9f8b338b78cb,8552091a80a844a5aec3e9b8185e3498,00081_000.jpg,@SirBrentsworth
+82,0,film_box_outside,Kentmere,PAN,35mm,100,BW,202811,1753147190,9b5ed369622c255dd80506510300ab3f,c4c934a23c59430f8b99c71a9322c907,00082_000.jpg,@SirBrentsworth
+82,1,film_box_inside,Kentmere,PAN,35mm,100,BW,202811,1753147194,018f9cf193d17c2d204784af8eaa19bb,c91fc253637a47dc8507a7dab7d38475,00082_001.jpg,@SirBrentsworth
+83,0,film_box_outside,Ilford,HP5 Plus,35mm,400,BW,202806,1753147235,14edfa4588632e7cbe932ca5e6c893a2,8db6d8343d544c21bfd539c32525df49,00083_000.jpg,@SirBrentsworth
+83,1,film_box_inside,Ilford,HP5 Plus,35mm,400,BW,202806,1753147238,b82c18862c1a431c9c806452fd040f54,aa635d75717e4083a0ab53a0c2e1b892,00083_001.jpg,@SirBrentsworth
+84,0,film_box_outside,Kodak,ColorPlus,35mm,200,C-41,202508,1753147273,b7ba0705b07dae265333992b7734d12b,087223fc24654e3882a4596e3cea79ca,00084_000.jpg,@SirBrentsworth
+85,0,film_box_outside,CineStill,800T,35mm,800,C-41,202609,1753147336,0ba99732b61ff1a127b414c76150da29,81978ca6f6d048b3a759dffdb80fb3ff,00085_000.jpg,@SirBrentsworth
+85,1,film_box_inside,CineStill,800T,35mm,800,C-41,202609,1753147346,8f60346377c883e78f43fa3d50fdbb0c,fbd9b946fd4d46f8a45a46112dcd16ae,00085_001.jpg,@SirBrentsworth

@@ -29,8 +29,8 @@ This project is fully open-source. [Click me for GitHub repo.](https://github.co
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 25 2025
-# of items: 132
+Last Updated: Jul 22 2025
+# of items: 144
 ```
 
 Or Sort by...
