@@ -126,7 +126,7 @@ if len(this_author) > 0:
     author_name_this_session = this_author
 
 convert_keys_to_int(database_entries)
-ingest_file_list = sorted(os.listdir(ingest_dir_path), reverse=True)
+ingest_file_list = sorted(os.listdir(ingest_dir_path))
 
 for fname in ingest_file_list:
     if not (fname.lower().endswith('.jpeg') or fname.lower().endswith('.jpg')):

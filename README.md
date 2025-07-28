@@ -30,7 +30,7 @@ This project is fully open-source. [Click me for GitHub repo.](https://github.co
 
 ```
 Last Updated: Jul 28 2025
-# of items: 150
+# of items: 159
 ```
 
 Or Sort by...
@@ -56,6 +56,7 @@ dekuNukem           89
 @ob.skura           16                  
 b0baspace           14                  
 @SirBrentsworth     13                  
+Lilyu               9                   
 benikum             6                   
 @recycling.film     5                   
 yc128               4                   

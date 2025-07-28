@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Jul 28 2025
 
-# of items: 150
+# of items: 159
 ```
 
 -----
@@ -25,6 +25,7 @@ Last Updated: Jul 28 2025
 
 - [ADOX KB17 (ref: 2c95)](#adox-kb17-ref-2c95)
 - [AGFA APX (ref: 12c7)](#agfa-apx-ref-12c7)
+- [AGFA APX (ref: 5276)](#agfa-apx-ref-5276)
 - [AGFA ULTRA 50 (ref: 4faa)](#agfa-ultra-50-ref-4faa)
 - [AGFA Vista (ref: d3af)](#agfa-vista-ref-d3af)
 - [Alien Film 5207/250D (ref: 8820)](#alien-film-5207250d-ref-8820)
@@ -34,6 +35,7 @@ Last Updated: Jul 28 2025
 - [Efiniti UXi super 200 (ref: 471a)](#efiniti-uxi-super-200-ref-471a)
 - [Efke IR 820 (ref: 43c9)](#efke-ir-820-ref-43c9)
 - [Foma Fomapan (ref: 3e4f)](#foma-fomapan-ref-3e4f)
+- [Foma Fomapan (ref: 84a5)](#foma-fomapan-ref-84a5)
 - [Foma Fomapan21 (ref: 75d9)](#foma-fomapan21-ref-75d9)
 - [Fujifilm 200 (ref: 5b41)](#fujifilm-200-ref-5b41)
 - [Fujifilm FUJICOLOR SUPER HR (ref: aaa0)](#fujifilm-fujicolor-super-hr-ref-aaa0)
@@ -77,6 +79,8 @@ Last Updated: Jul 28 2025
 - [Kodak Gold (ref: f368)](#kodak-gold-ref-f368)
 - [Kodak Gold (ref: 3e7f)](#kodak-gold-ref-3e7f)
 - [Kodak Gold (ref: 855e)](#kodak-gold-ref-855e)
+- [Kodak Gold (ref: ea58)](#kodak-gold-ref-ea58)
+- [Kodak Gold Ultra (ref: 1358)](#kodak-gold-ultra-ref-1358)
 - [Kodak Kodachrome (ref: 3145)](#kodak-kodachrome-ref-3145)
 - [Kodak Kodachrome (ref: 6477)](#kodak-kodachrome-ref-6477)
 - [Kodak Kodachrome (ref: 3206)](#kodak-kodachrome-ref-3206)
@@ -97,6 +101,7 @@ Last Updated: Jul 28 2025
 - [Lloyds Pharmacy Colour Film (ref: 77d9)](#lloyds-pharmacy-colour-film-ref-77d9)
 - [Lomography Lomochrome Purple (ref: 068f)](#lomography-lomochrome-purple-ref-068f)
 - [Lomography Lomochrome Turquoise (ref: 0d90)](#lomography-lomochrome-turquoise-ref-0d90)
+- [Perutz Superomnia (ref: c90d)](#perutz-superomnia-ref-c90d)
 - [Polaroid 665 (ref: e054)](#polaroid-665-ref-e054)
 - [Polaroid 669 (ref: 3566)](#polaroid-669-ref-3566)
 - [Polaroid GridFilm (ref: 8deb)](#polaroid-gridfilm-ref-8deb)
@@ -148,6 +153,22 @@ Scanned By: dekuNukem
 </a>
 
 [Click me for **BOX INSIDE** for AGFA APX (ref: a8dd)](./archive/00011_001.jpg)
+
+#### AGFA APX (ref: 5276)
+```
+ISO     : 100
+Format  : 35mm
+Process : BW
+Expiry  : 202805
+UUID    : ecf4e081ccf64a9a8606601f9f665276
+Scanned By: Lilyu
+```
+
+<a href="./archive/00093_000.jpg">
+	<img src="./lowres/00093_000.jpg" alt="AGFA APX 35mm film_box_outside" loading="lazy" />
+</a>
+
+[Click me for **BOX INSIDE** for AGFA APX (ref: 3a46)](./archive/00093_001.jpg)
 
 #### AGFA ULTRA 50 (ref: 4faa)
 ```
@@ -286,6 +307,22 @@ Scanned By: benikum
 </a>
 
 [Click me for **BOX INSIDE** for Foma Fomapan (ref: bd71)](./archive/00070_001.jpg)
+
+#### Foma Fomapan (ref: 84a5)
+```
+ISO     : 200
+Format  : 35mm
+Process : BW
+Expiry  : 202801
+UUID    : c3d51159b481435b90dbe2411de784a5
+Scanned By: Lilyu
+```
+
+<a href="./archive/00092_000.jpg">
+	<img src="./lowres/00092_000.jpg" alt="Foma Fomapan 35mm film_box_outside" loading="lazy" />
+</a>
+
+[Click me for **BOX INSIDE** for Foma Fomapan (ref: 3335)](./archive/00092_001.jpg)
 
 #### Foma Fomapan21 (ref: 75d9)
 ```
@@ -955,6 +992,44 @@ Scanned By: @SirBrentsworth
 	<img src="./lowres/00086_000.jpg" alt="Kodak Gold 35mm film_box_outside" loading="lazy" />
 </a>
 
+#### Kodak Gold (ref: ea58)
+```
+ISO     : 100
+Format  : 35mm
+Process : C-41
+Expiry  : 200110
+UUID    : e45118f7bd5e4ae682e5747a81f0ea58
+Scanned By: Lilyu
+```
+
+<a href="./archive/00095_000.jpg">
+	<img src="./lowres/00095_000.jpg" alt="Kodak Gold 35mm film_box_outside" loading="lazy" />
+</a>
+
+
+<a href="./archive/00095_001.jpg">
+	<img src="./lowres/00095_001.jpg" alt="Kodak Gold 35mm film_box_outside" loading="lazy" />
+</a>
+
+#### Kodak Gold Ultra (ref: 1358)
+```
+ISO     : 400
+Format  : 35mm
+Process : C-41
+Expiry  : 200101
+UUID    : c2dc7711cd38434da5cfea8750f61358
+Scanned By: Lilyu
+```
+
+<a href="./archive/00094_000.jpg">
+	<img src="./lowres/00094_000.jpg" alt="Kodak Gold Ultra 35mm film_box_outside" loading="lazy" />
+</a>
+
+
+<a href="./archive/00094_001.jpg">
+	<img src="./lowres/00094_001.jpg" alt="Kodak Gold Ultra 35mm film_box_outside" loading="lazy" />
+</a>
+
 #### Kodak Kodachrome (ref: 3145)
 ```
 ISO     : 64
@@ -1261,6 +1336,20 @@ Scanned By: dekuNukem
 
 [Click me for **BOX INSIDE** for Lomography Lomochrome Turquoise (ref: 1ca2)](./archive/00008_001.jpg)
 
+#### Perutz Superomnia (ref: c90d)
+```
+ISO     : 125
+Format  : 9x12
+Process : BW
+Expiry  : Unknown
+UUID    : b220e7d5dbee49898fbd1d42ee67c90d
+Scanned By: Lilyu
+```
+
+<a href="./archive/00096_000.jpg">
+	<img src="./lowres/00096_000.jpg" alt="Perutz Superomnia 9x12 film_box_outside" loading="lazy" />
+</a>
+
 #### Polaroid 665 (ref: e054)
 ```
 ISO     : 80
@@ -1502,6 +1591,7 @@ dekuNukem           89
 @ob.skura           16                  
 b0baspace           14                  
 @SirBrentsworth     13                  
+Lilyu               9                   
 benikum             6                   
 @recycling.film     5                   
 yc128               4                   
