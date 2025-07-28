@@ -22,7 +22,7 @@ def make_subtitle(this_entry):
 
 def make_lazy_load_image_link(this_lowres_path, this_image_path, this_entry):
     output = f"\n<a href=\"{this_image_path}\">"
-    output += f"\n\t<img src=\"{this_lowres_path}\" alt=\"{make_alt_text(this_entry)}\" loading=\"lazy\" width=\"500\" />"
+    output += f"\n\t<img src=\"{this_lowres_path}\" alt=\"{make_alt_text(this_entry)}\" loading=\"lazy\" height=\"500\" />"
     output += f"\n</a>\n"
     return output
 
@@ -119,13 +119,8 @@ for item in result:
         description += make_description_string(item, ITEM_AUTHOR_KEY)
         description += "```\n"
         description += make_lazy_load_image_link(lowres_path, image_path, item)
-    elif 'inside' in item[ITEM_TYPE_KEY].lower():
-        description += f"[Click me for **BOX INSIDE** for {make_subtitle(item)}]({image_path})\n"
-    elif 'leaflet' in item[ITEM_TYPE_KEY].lower():
-        description += f"[Click me for **LEAFLET** for {make_subtitle(item)}]({image_path})\n"
-    elif 'envelope' in item[ITEM_TYPE_KEY].lower():
-        description += f"[Click me for **PROCESSING ENVELOPE** for {make_subtitle(item)}]({image_path})\n"
     else:
+        description += f"\n`UUID: {item[ITEM_UUID_KEY]}`↓\n"
         description += make_lazy_load_image_link(lowres_path, image_path, item)
 
     print(description)
