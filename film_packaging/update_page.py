@@ -22,7 +22,7 @@ def make_subtitle(this_entry):
 
 def make_lazy_load_image_link(this_lowres_path, this_image_path, this_entry):
     output = f"\n<a href=\"{this_image_path}\">"
-    output += f"\n\t<img src=\"{this_lowres_path}\" alt=\"{make_alt_text(this_entry)}\" loading=\"lazy\" />"
+    output += f"\n\t<img src=\"{this_lowres_path}\" alt=\"{make_alt_text(this_entry)}\" loading=\"lazy\" width=\"500\" />"
     output += f"\n</a>\n"
     return output
 
