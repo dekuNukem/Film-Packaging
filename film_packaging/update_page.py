@@ -131,9 +131,14 @@ for item in result:
     print(description)
     
 ending = """
-## Want to contribute?
+## Want to Contribute?
 
 [Check out the guidelines!](../contribution_guide.md)
+
+## Contributor List
+
+```
+```
 
 ## Questions or Comments?
 

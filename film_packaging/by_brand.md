@@ -1489,9 +1489,25 @@ Scanned By: b0baspace
 </a>
 
 
-## Want to contribute?
+## Want to Contribute?
 
 [Check out the guidelines!](../contribution_guide.md)
+
+## Contributor List
+
+```
+Username            Contributions       
+----------------------------------------
+dekuNukem           89                  
+@ob.skura           16                  
+b0baspace           14                  
+@SirBrentsworth     13                  
+benikum             6                   
+@recycling.film     5                   
+yc128               4                   
+@seklerek           2                   
+Yrikonchik          1                   
+```
 
 ## Questions or Comments?
 
