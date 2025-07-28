@@ -161,7 +161,7 @@ Format  : 35mm
 Process : BW
 Expiry  : 202805
 UUID    : ecf4e081ccf64a9a8606601f9f665276
-Scanned By: Lilyu
+Scanned By: lilyu.xyz
 ```
 
 <a href="./archive/00093_000.jpg">
@@ -315,7 +315,7 @@ Format  : 35mm
 Process : BW
 Expiry  : 202801
 UUID    : c3d51159b481435b90dbe2411de784a5
-Scanned By: Lilyu
+Scanned By: lilyu.xyz
 ```
 
 <a href="./archive/00092_000.jpg">
@@ -999,7 +999,7 @@ Format  : 35mm
 Process : C-41
 Expiry  : 200110
 UUID    : e45118f7bd5e4ae682e5747a81f0ea58
-Scanned By: Lilyu
+Scanned By: lilyu.xyz
 ```
 
 <a href="./archive/00095_000.jpg">
@@ -1018,7 +1018,7 @@ Format  : 35mm
 Process : C-41
 Expiry  : 200101
 UUID    : c2dc7711cd38434da5cfea8750f61358
-Scanned By: Lilyu
+Scanned By: lilyu.xyz
 ```
 
 <a href="./archive/00094_000.jpg">
@@ -1343,7 +1343,7 @@ Format  : 9x12
 Process : BW
 Expiry  : Unknown
 UUID    : b220e7d5dbee49898fbd1d42ee67c90d
-Scanned By: Lilyu
+Scanned By: lilyu.xyz
 ```
 
 <a href="./archive/00096_000.jpg">
@@ -1591,7 +1591,7 @@ dekuNukem           89
 @ob.skura           16                  
 b0baspace           14                  
 @SirBrentsworth     13                  
-Lilyu               9                   
+lilyu.xyz           9                   
 benikum             6                   
 @recycling.film     5                   
 yc128               4                   

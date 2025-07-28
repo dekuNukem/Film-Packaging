@@ -149,12 +149,12 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 89,0,film_box_outside,Kodak,Portra,35mm,160,C-41,201308,1753717208,172b90d1c20e0d94009226ce47ce704b,9131fb90db70475dbad5f63f1448ce56,00089_000.jpg,@recycling.film
 90,0,film_box_outside,Ilford,HP5 Plus,35mm,400,BW,202208,1753717259,b5bba9a78992d38ff924146a1c7f8434,fcbc3377fa3d4ca9b58779f86ed7c725,00090_000.jpg,@recycling.film
 91,0,film_box_outside,Kodak,ColorPlus,35mm,200,C-41,202608,1753717282,5419c8a441057cbc926e90686e3b829c,bd00cd25958d4108a7501bf4be9d6637,00091_000.jpg,@recycling.film
-92,0,film_box_outside,Foma,Fomapan,35mm,200,BW,202801,1753731469,20ff99b8b0298fabd12e8bf5a84503cd,c3d51159b481435b90dbe2411de784a5,00092_000.jpg,Lilyu
-92,1,film_box_inside,Foma,Fomapan,35mm,200,BW,202801,1753731471,1350366d87ca4077b72b113cc28ebebb,ae13defc8e3d43e2988974430ea63335,00092_001.jpg,Lilyu
-93,0,film_box_outside,AGFA,APX,35mm,100,BW,202805,1753731627,2b9bcef535c29f2f8f5df70206434efd,ecf4e081ccf64a9a8606601f9f665276,00093_000.jpg,Lilyu
-93,1,film_box_inside,AGFA,APX,35mm,100,BW,202805,1753731629,f37febff5c4f63b34d5de2b6a9e8d261,286ea2dbf5394a36b8f013b9aaa33a46,00093_001.jpg,Lilyu
-94,0,film_box_outside,Kodak,Gold Ultra,35mm,400,C-41,200101,1753731807,501da7adb6c98bc284bcad7ce510999b,c2dc7711cd38434da5cfea8750f61358,00094_000.jpg,Lilyu
-94,1,film_box_outside,Kodak,Gold Ultra,35mm,400,C-41,200101,1753731810,8a071528e6fcba018f81bc4b484c4225,1501f7eec7f34d3788b6c7b94a4134df,00094_001.jpg,Lilyu
-95,0,film_box_outside,Kodak,Gold,35mm,100,C-41,200110,1753731929,5fe577cc84535a38d448b9fc1bbb96d1,e45118f7bd5e4ae682e5747a81f0ea58,00095_000.jpg,Lilyu
-95,1,film_box_outside,Kodak,Gold,35mm,100,C-41,200110,1753731932,abaa3fb1849e5ab30d6f680bf7a8f45d,86ebec2c1a1d41359d84654d24dbac69,00095_001.jpg,Lilyu
-96,0,film_box_outside,Perutz,Superomnia,9x12,125,BW,Unknown,1753732169,ba2ba538dca88814672ad9b3ae56afae,b220e7d5dbee49898fbd1d42ee67c90d,00096_000.jpg,Lilyu
+92,0,film_box_outside,Foma,Fomapan,35mm,200,BW,202801,1753731469,20ff99b8b0298fabd12e8bf5a84503cd,c3d51159b481435b90dbe2411de784a5,00092_000.jpg,lilyu.xyz
+92,1,film_box_inside,Foma,Fomapan,35mm,200,BW,202801,1753731471,1350366d87ca4077b72b113cc28ebebb,ae13defc8e3d43e2988974430ea63335,00092_001.jpg,lilyu.xyz
+93,0,film_box_outside,AGFA,APX,35mm,100,BW,202805,1753731627,2b9bcef535c29f2f8f5df70206434efd,ecf4e081ccf64a9a8606601f9f665276,00093_000.jpg,lilyu.xyz
+93,1,film_box_inside,AGFA,APX,35mm,100,BW,202805,1753731629,f37febff5c4f63b34d5de2b6a9e8d261,286ea2dbf5394a36b8f013b9aaa33a46,00093_001.jpg,lilyu.xyz
+94,0,film_box_outside,Kodak,Gold Ultra,35mm,400,C-41,200101,1753731807,501da7adb6c98bc284bcad7ce510999b,c2dc7711cd38434da5cfea8750f61358,00094_000.jpg,lilyu.xyz
+94,1,film_box_outside,Kodak,Gold Ultra,35mm,400,C-41,200101,1753731810,8a071528e6fcba018f81bc4b484c4225,1501f7eec7f34d3788b6c7b94a4134df,00094_001.jpg,lilyu.xyz
+95,0,film_box_outside,Kodak,Gold,35mm,100,C-41,200110,1753731929,5fe577cc84535a38d448b9fc1bbb96d1,e45118f7bd5e4ae682e5747a81f0ea58,00095_000.jpg,lilyu.xyz
+95,1,film_box_outside,Kodak,Gold,35mm,100,C-41,200110,1753731932,abaa3fb1849e5ab30d6f680bf7a8f45d,86ebec2c1a1d41359d84654d24dbac69,00095_001.jpg,lilyu.xyz
+96,0,film_box_outside,Perutz,Superomnia,9x12,125,BW,Unknown,1753732169,ba2ba538dca88814672ad9b3ae56afae,b220e7d5dbee49898fbd1d42ee67c90d,00096_000.jpg,lilyu.xyz
