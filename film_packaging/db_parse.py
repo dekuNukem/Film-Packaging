@@ -121,12 +121,12 @@ try:
 except Exception as e:
     print("csv read exception:", e)
 
-this_author = get_answer("Author name this session? (Press Enter for myself)\n", accept_empty=True)
+this_author = get_answer("Author name this session? (Press Enter for myself)\nAdd args to reverse order\n", accept_empty=True)
 if len(this_author) > 0:
     author_name_this_session = this_author
 
 convert_keys_to_int(database_entries)
-ingest_file_list = sorted(os.listdir(ingest_dir_path))
+ingest_file_list = sorted(os.listdir(ingest_dir_path), reverse=len(sys.argv) > 1)
 
 for fname in ingest_file_list:
     if not (fname.lower().endswith('.jpeg') or fname.lower().endswith('.jpg')):

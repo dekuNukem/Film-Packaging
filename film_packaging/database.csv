@@ -158,3 +158,5 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 95,0,film_box_outside,Kodak,Gold,35mm,100,C-41,200110,1753731929,5fe577cc84535a38d448b9fc1bbb96d1,e45118f7bd5e4ae682e5747a81f0ea58,00095_000.jpg,lilyu.xyz
 95,1,film_box_outside,Kodak,Gold,35mm,100,C-41,200110,1753731932,abaa3fb1849e5ab30d6f680bf7a8f45d,86ebec2c1a1d41359d84654d24dbac69,00095_001.jpg,lilyu.xyz
 96,0,film_box_outside,Perutz,Superomnia,9x12,125,BW,Unknown,1753732169,ba2ba538dca88814672ad9b3ae56afae,b220e7d5dbee49898fbd1d42ee67c90d,00096_000.jpg,lilyu.xyz
+97,0,film_box_outside,Kodak,Kodacolor VR,35mm,200,C-41,198706,1753733441,938c04b11d33d81cc89a86364e066b59,a26daa2cb6e44957af3d978bc67e035f,00097_000.jpg,@ftfilmphotos
+97,1,film_box_inside,Kodak,Kodacolor VR,35mm,200,C-41,198706,1753733443,2a4004a7c43dc26dea3cb7d8cf9bda13,185225c336bc491683c7a1806458c4e8,00097_001.jpg,@ftfilmphotos

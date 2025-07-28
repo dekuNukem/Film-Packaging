@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Jul 28 2025
 
-# of items: 159
+# of items: 161
 ```
 
 -----
@@ -84,6 +84,7 @@ Last Updated: Jul 28 2025
 - [Kodak Kodachrome (ref: 3145)](#kodak-kodachrome-ref-3145)
 - [Kodak Kodachrome (ref: 6477)](#kodak-kodachrome-ref-6477)
 - [Kodak Kodachrome (ref: 3206)](#kodak-kodachrome-ref-3206)
+- [Kodak Kodacolor VR (ref: 035f)](#kodak-kodacolor-vr-ref-035f)
 - [Kodak Kodacolor-X (ref: 5302)](#kodak-kodacolor-x-ref-5302)
 - [Kodak Kodacolor-X (ref: a4b1)](#kodak-kodacolor-x-ref-a4b1)
 - [Kodak Portra (ref: 7d65)](#kodak-portra-ref-7d65)
@@ -1084,6 +1085,22 @@ Scanned By: dekuNukem
 	<img src="./lowres/00060_000.jpg" alt="Kodak Kodachrome 35mm film_box_outside" loading="lazy" />
 </a>
 
+#### Kodak Kodacolor VR (ref: 035f)
+```
+ISO     : 200
+Format  : 35mm
+Process : C-41
+Expiry  : 198706
+UUID    : a26daa2cb6e44957af3d978bc67e035f
+Scanned By: @ftfilmphotos
+```
+
+<a href="./archive/00097_000.jpg">
+	<img src="./lowres/00097_000.jpg" alt="Kodak Kodacolor VR 35mm film_box_outside" loading="lazy" />
+</a>
+
+[Click me for **BOX INSIDE** for Kodak Kodacolor VR (ref: c4e8)](./archive/00097_001.jpg)
+
 #### Kodak Kodacolor-X (ref: 5302)
 ```
 ISO     : 80
@@ -1596,6 +1613,7 @@ benikum             6
 @recycling.film     5                   
 yc128               4                   
 @seklerek           2                   
+@ftfilmphotos       2                   
 Yrikonchik          1                   
 ```
 
