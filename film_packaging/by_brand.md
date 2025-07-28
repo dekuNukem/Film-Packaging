@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jul 22 2025
+Last Updated: Jul 28 2025
 
-# of items: 145
+# of items: 150
 ```
 
 -----
@@ -44,6 +44,7 @@ Last Updated: Jul 22 2025
 - [Fujifilm NPS (ref: 5e85)](#fujifilm-nps-ref-5e85)
 - [Fujifilm Pro 400H (ref: 66e3)](#fujifilm-pro-400h-ref-66e3)
 - [Fujifilm Provia 100F (ref: 356d)](#fujifilm-provia-100f-ref-356d)
+- [Fujifilm Superia Reala (ref: a7de)](#fujifilm-superia-reala-ref-a7de)
 - [Fujifilm Velvia (ref: 3182)](#fujifilm-velvia-ref-3182)
 - [Fujifilm Velvia 100F (ref: f7fb)](#fujifilm-velvia-100f-ref-f7fb)
 - [Fujifilm Velvia 100F (ref: 32d4)](#fujifilm-velvia-100f-ref-32d4)
@@ -54,6 +55,7 @@ Last Updated: Jul 22 2025
 - [Ilford HP5 Plus (ref: 1a5d)](#ilford-hp5-plus-ref-1a5d)
 - [Ilford HP5 Plus (ref: efad)](#ilford-hp5-plus-ref-efad)
 - [Ilford HP5 Plus (ref: df49)](#ilford-hp5-plus-ref-df49)
+- [Ilford HP5 Plus (ref: c725)](#ilford-hp5-plus-ref-c725)
 - [Ilford SFX 200 (ref: 6057)](#ilford-sfx-200-ref-6057)
 - [Jessops Diamond Everyday (ref: 67d3)](#jessops-diamond-everyday-ref-67d3)
 - [Kentmere PAN (ref: 827e)](#kentmere-pan-ref-827e)
@@ -63,6 +65,7 @@ Last Updated: Jul 22 2025
 - [Klick XD200 (ref: 44d7)](#klick-xd200-ref-44d7)
 - [Kodak Advantix Ultra (ref: 566b)](#kodak-advantix-ultra-ref-566b)
 - [Kodak ColorPlus (ref: 79ca)](#kodak-colorplus-ref-79ca)
+- [Kodak ColorPlus (ref: 6637)](#kodak-colorplus-ref-6637)
 - [Kodak Ektachrome (ref: ce7f)](#kodak-ektachrome-ref-ce7f)
 - [Kodak Ektachrome (ref: 07c0)](#kodak-ektachrome-ref-07c0)
 - [Kodak Ektachrome (ref: ec3d)](#kodak-ektachrome-ref-ec3d)
@@ -79,6 +82,8 @@ Last Updated: Jul 22 2025
 - [Kodak Kodachrome (ref: 3206)](#kodak-kodachrome-ref-3206)
 - [Kodak Kodacolor-X (ref: 5302)](#kodak-kodacolor-x-ref-5302)
 - [Kodak Kodacolor-X (ref: a4b1)](#kodak-kodacolor-x-ref-a4b1)
+- [Kodak Portra (ref: 7d65)](#kodak-portra-ref-7d65)
+- [Kodak Portra (ref: ce56)](#kodak-portra-ref-ce56)
 - [Kodak TMAX (ref: b3b1)](#kodak-tmax-ref-b3b1)
 - [Kodak Technical Pan 6415 (ref: 03be)](#kodak-technical-pan-6415-ref-03be)
 - [Kodak Tri-X (ref: 88c5)](#kodak-tri-x-ref-88c5)
@@ -438,6 +443,20 @@ Scanned By: @seklerek
 	<img src="./lowres/00055_000.jpg" alt="Fujifilm Provia 100F 35mm film_box_outside" loading="lazy" />
 </a>
 
+#### Fujifilm Superia Reala (ref: a7de)
+```
+ISO     : 100
+Format  : 35mm
+Process : C-41
+Expiry  : 200704
+UUID    : bab5fa204b25431a9872c4ce8e9aa7de
+Scanned By: @recycling.film
+```
+
+<a href="./archive/00087_000.jpg">
+	<img src="./lowres/00087_000.jpg" alt="Fujifilm Superia Reala 35mm film_box_outside" loading="lazy" />
+</a>
+
 #### Fujifilm Velvia (ref: 3182)
 ```
 ISO     : 50
@@ -604,6 +623,20 @@ Scanned By: @SirBrentsworth
 
 [Click me for **BOX INSIDE** for Ilford HP5 Plus (ref: b892)](./archive/00083_001.jpg)
 
+#### Ilford HP5 Plus (ref: c725)
+```
+ISO     : 400
+Format  : 35mm
+Process : BW
+Expiry  : 202208
+UUID    : fcbc3377fa3d4ca9b58779f86ed7c725
+Scanned By: @recycling.film
+```
+
+<a href="./archive/00090_000.jpg">
+	<img src="./lowres/00090_000.jpg" alt="Ilford HP5 Plus 35mm film_box_outside" loading="lazy" />
+</a>
+
 #### Ilford SFX 200 (ref: 6057)
 ```
 ISO     : 200
@@ -738,6 +771,20 @@ Scanned By: @SirBrentsworth
 
 <a href="./archive/00084_000.jpg">
 	<img src="./lowres/00084_000.jpg" alt="Kodak ColorPlus 35mm film_box_outside" loading="lazy" />
+</a>
+
+#### Kodak ColorPlus (ref: 6637)
+```
+ISO     : 200
+Format  : 35mm
+Process : C-41
+Expiry  : 202608
+UUID    : bd00cd25958d4108a7501bf4be9d6637
+Scanned By: @recycling.film
+```
+
+<a href="./archive/00091_000.jpg">
+	<img src="./lowres/00091_000.jpg" alt="Kodak ColorPlus 35mm film_box_outside" loading="lazy" />
 </a>
 
 #### Kodak Ektachrome (ref: ce7f)
@@ -993,6 +1040,34 @@ Scanned By: dekuNukem
 [Click me for **LEAFLET** for Kodak Kodacolor-X (ref: 97fa)](./archive/00064_001.jpg)
 
 [Click me for **LEAFLET** for Kodak Kodacolor-X (ref: 5c50)](./archive/00064_002.jpg)
+
+#### Kodak Portra (ref: 7d65)
+```
+ISO     : 800
+Format  : 35mm
+Process : C-41
+Expiry  : 202506
+UUID    : 7ebac9d7fb8c4ff9b7fbabcaec1d7d65
+Scanned By: @recycling.film
+```
+
+<a href="./archive/00088_000.jpg">
+	<img src="./lowres/00088_000.jpg" alt="Kodak Portra 35mm film_box_outside" loading="lazy" />
+</a>
+
+#### Kodak Portra (ref: ce56)
+```
+ISO     : 160
+Format  : 35mm
+Process : C-41
+Expiry  : 201308
+UUID    : 9131fb90db70475dbad5f63f1448ce56
+Scanned By: @recycling.film
+```
+
+<a href="./archive/00089_000.jpg">
+	<img src="./lowres/00089_000.jpg" alt="Kodak Portra 35mm film_box_outside" loading="lazy" />
+</a>
 
 #### Kodak TMAX (ref: b3b1)
 ```

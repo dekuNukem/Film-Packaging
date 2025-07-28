@@ -144,3 +144,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 85,0,film_box_outside,CineStill,800T,35mm,800,C-41,202609,1753147336,0ba99732b61ff1a127b414c76150da29,81978ca6f6d048b3a759dffdb80fb3ff,00085_000.jpg,@SirBrentsworth
 85,1,film_box_inside,CineStill,800T,35mm,800,C-41,202609,1753147346,8f60346377c883e78f43fa3d50fdbb0c,fbd9b946fd4d46f8a45a46112dcd16ae,00085_001.jpg,@SirBrentsworth
 86,0,film_box_outside,Kodak,Gold,35mm,200,C-41,202704,1753147686,968a9e9686fc431f793eb296862fbbef,856af2ca15fd4a0bad0df6eb29a2855e,00086_000.jpg,@SirBrentsworth
+87,0,film_box_outside,Fujifilm,Superia Reala,35mm,100,C-41,200704,1753717134,b158259530002d50f2cd627759efab94,bab5fa204b25431a9872c4ce8e9aa7de,00087_000.jpg,@recycling.film
+88,0,film_box_outside,Kodak,Portra,35mm,800,C-41,202506,1753717168,da2ad339cc4f9bd279844809c2ec7576,7ebac9d7fb8c4ff9b7fbabcaec1d7d65,00088_000.jpg,@recycling.film
+89,0,film_box_outside,Kodak,Portra,35mm,160,C-41,201308,1753717208,172b90d1c20e0d94009226ce47ce704b,9131fb90db70475dbad5f63f1448ce56,00089_000.jpg,@recycling.film
+90,0,film_box_outside,Ilford,HP5 Plus,35mm,400,BW,202208,1753717259,b5bba9a78992d38ff924146a1c7f8434,fcbc3377fa3d4ca9b58779f86ed7c725,00090_000.jpg,@recycling.film
+91,0,film_box_outside,Kodak,ColorPlus,35mm,200,C-41,202608,1753717282,5419c8a441057cbc926e90686e3b829c,bd00cd25958d4108a7501bf4be9d6637,00091_000.jpg,@recycling.film
