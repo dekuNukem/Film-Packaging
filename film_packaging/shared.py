@@ -180,3 +180,25 @@ def save_csv(entries, csv_path=database_csv_path):
     csv_writer.writeheader()
     csv_writer.writerows(entries)
     csv_out_file.close()
+
+
+from PIL import Image
+
+def get_image_dimensions(file_path):
+    try:
+        with Image.open(file_path) as img:
+            return img.width, img.height
+    except Exception:
+        return (0, 0)
+
+def get_longest_side(file_path):
+    width, height = get_image_dimensions(file_path)
+    
+    if width >= height:
+        longest_side = "width"
+        length = min(width, 500)
+    else:
+        longest_side = "height"
+        length = min(height, 500)
+
+    return longest_side, length

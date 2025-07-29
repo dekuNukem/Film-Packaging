@@ -21,8 +21,9 @@ def make_subtitle(this_entry):
     return f"{this_entry[ITEM_BRAND_KEY]} {this_entry[ITEM_PRODUCT_NAME_KEY]} (ref: {this_entry[ITEM_UUID_KEY][-4:]})"
 
 def make_lazy_load_image_link(this_lowres_path, this_image_path, this_entry):
+    side, length = get_longest_side(this_lowres_path)
     output = f"\n<a href=\"{this_image_path}\">"
-    output += f"\n\t<img src=\"{this_lowres_path}\" alt=\"{make_alt_text(this_entry)}\" loading=\"lazy\" height=\"500\" />"
+    output += f"\n\t<img src=\"{this_lowres_path}\" alt=\"{make_alt_text(this_entry)}\" loading=\"lazy\" {side}=\"{length}\" />"
     output += f"\n</a>\n"
     return output
 

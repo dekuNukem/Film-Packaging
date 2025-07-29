@@ -134,14 +134,14 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00065_000.jpg">
-	<img src="./lowres/00065_000.jpg" alt="ADOX KB17 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00065_000.jpg" alt="ADOX KB17 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 04f60deb3d044553a9d662db1d30d3b7`↓
 
 <a href="./archive/00065_001.jpg">
-	<img src="./lowres/00065_001.jpg" alt="ADOX KB17 35mm film_box_inside" loading="lazy" height="500" />
+	<img src="./lowres/00065_001.jpg" alt="ADOX KB17 35mm film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### AGFA APX (ref: 12c7)
@@ -155,14 +155,14 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00011_000.jpg">
-	<img src="./lowres/00011_000.jpg" alt="AGFA APX 120 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00011_000.jpg" alt="AGFA APX 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: dd262792b6a446dcab73a07738f8a8dd`↓
 
 <a href="./archive/00011_001.jpg">
-	<img src="./lowres/00011_001.jpg" alt="AGFA APX 120 film_box_inside" loading="lazy" height="500" />
+	<img src="./lowres/00011_001.jpg" alt="AGFA APX 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### AGFA APX (ref: 5276)
@@ -197,14 +197,14 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00010_000.jpg">
-	<img src="./lowres/00010_000.jpg" alt="AGFA ULTRA 50 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00010_000.jpg" alt="AGFA ULTRA 50 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 8594d11f816c45b6a18dd122f8e38fc0`↓
 
 <a href="./archive/00010_001.jpg">
-	<img src="./lowres/00010_001.jpg" alt="AGFA ULTRA 50 35mm film_box_inside" loading="lazy" height="500" />
+	<img src="./lowres/00010_001.jpg" alt="AGFA ULTRA 50 35mm film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### AGFA Vista (ref: d3af)
@@ -218,14 +218,14 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00014_000.jpg">
-	<img src="./lowres/00014_000.jpg" alt="AGFA Vista 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00014_000.jpg" alt="AGFA Vista 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 300a430fc19f4eeeb4892e58d3c3cd56`↓
 
 <a href="./archive/00014_001.jpg">
-	<img src="./lowres/00014_001.jpg" alt="AGFA Vista 35mm film_box_inside" loading="lazy" height="500" />
+	<img src="./lowres/00014_001.jpg" alt="AGFA Vista 35mm film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### Alien Film 5207/250D (ref: 8820)
@@ -239,7 +239,7 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00001_000.jpg">
-	<img src="./lowres/00001_000.jpg" alt="Alien Film 5207/250D 120 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00001_000.jpg" alt="Alien Film 5207/250D 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### Alien Film 5222/XX (ref: 3e49)
@@ -267,14 +267,14 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00006_000.jpg">
-	<img src="./lowres/00006_000.jpg" alt="CineStill 800T 120 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00006_000.jpg" alt="CineStill 800T 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 6576b3b48e8244469a692f2e0edcd1a6`↓
 
 <a href="./archive/00006_001.jpg">
-	<img src="./lowres/00006_001.jpg" alt="CineStill 800T 120 film_box_inside" loading="lazy" height="500" />
+	<img src="./lowres/00006_001.jpg" alt="CineStill 800T 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### CineStill 800T (ref: b3ff)
@@ -309,7 +309,7 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00002_000.jpg">
-	<img src="./lowres/00002_000.jpg" alt="Efiniti UXi super 200 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00002_000.jpg" alt="Efiniti UXi super 200 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### Efke IR 820 (ref: 43c9)
@@ -323,14 +323,14 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00038_000.jpg">
-	<img src="./lowres/00038_000.jpg" alt="Efke IR 820 120 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00038_000.jpg" alt="Efke IR 820 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 4c7b545000f04f4da046d18c43575e19`↓
 
 <a href="./archive/00038_001.jpg">
-	<img src="./lowres/00038_001.jpg" alt="Efke IR 820 120 film_box_inside" loading="lazy" height="500" />
+	<img src="./lowres/00038_001.jpg" alt="Efke IR 820 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### Foma Fomapan (ref: 3e4f)
@@ -344,14 +344,14 @@ Scanned By: benikum
 ```
 
 <a href="./archive/00070_000.jpg">
-	<img src="./lowres/00070_000.jpg" alt="Foma Fomapan 120 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00070_000.jpg" alt="Foma Fomapan 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: b049b10ae15b40319e7b70fed1ccbd71`↓
 
 <a href="./archive/00070_001.jpg">
-	<img src="./lowres/00070_001.jpg" alt="Foma Fomapan 120 film_box_inside" loading="lazy" height="500" />
+	<img src="./lowres/00070_001.jpg" alt="Foma Fomapan 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### Foma Fomapan (ref: 84a5)
@@ -386,7 +386,7 @@ Scanned By: benikum
 ```
 
 <a href="./archive/00074_000.jpg">
-	<img src="./lowres/00074_000.jpg" alt="Foma Fomapan21 120 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00074_000.jpg" alt="Foma Fomapan21 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### Fujifilm 200 (ref: 5b41)
@@ -414,7 +414,7 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00007_000.jpg">
-	<img src="./lowres/00007_000.jpg" alt="Fujifilm FUJICOLOR SUPER HR 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00007_000.jpg" alt="Fujifilm FUJICOLOR SUPER HR 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 
@@ -442,14 +442,14 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00012_000.jpg">
-	<img src="./lowres/00012_000.jpg" alt="Fujifilm FUJICOLOR SUPERIA 120 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00012_000.jpg" alt="Fujifilm FUJICOLOR SUPERIA 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 5cd39510c35f4b9cbae3089311db118f`↓
 
 <a href="./archive/00012_001.jpg">
-	<img src="./lowres/00012_001.jpg" alt="Fujifilm FUJICOLOR SUPERIA 120 film_box_inside" loading="lazy" height="500" />
+	<img src="./lowres/00012_001.jpg" alt="Fujifilm FUJICOLOR SUPERIA 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### Fujifilm Fujichrome Professional 100D (ref: 439d)
@@ -463,7 +463,7 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00032_000.jpg">
-	<img src="./lowres/00032_000.jpg" alt="Fujifilm Fujichrome Professional 100D 120 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00032_000.jpg" alt="Fujifilm Fujichrome Professional 100D 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 
@@ -505,7 +505,7 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00034_000.jpg">
-	<img src="./lowres/00034_000.jpg" alt="Fujifilm Fujicolor NPL 160 120 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00034_000.jpg" alt="Fujifilm Fujicolor NPL 160 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 
@@ -533,7 +533,7 @@ Scanned By: b0baspace
 ```
 
 <a href="./archive/00053_000.jpg">
-	<img src="./lowres/00053_000.jpg" alt="Fujifilm NPS 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00053_000.jpg" alt="Fujifilm NPS 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 
@@ -652,7 +652,7 @@ Scanned By: b0baspace
 ```
 
 <a href="./archive/00054_000.jpg">
-	<img src="./lowres/00054_000.jpg" alt="GAF Color Slide Film 126 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00054_000.jpg" alt="GAF Color Slide Film 126 film_box_outside" loading="lazy" width="500" />
 </a>
 
 
@@ -673,21 +673,21 @@ Scanned By: b0baspace
 `UUID: a332a7492f2b4a708c8a0ead5b9af986`↓
 
 <a href="./archive/00054_003.jpg">
-	<img src="./lowres/00054_003.jpg" alt="GAF Color Slide Film 126 film_box_processing_envelope" loading="lazy" height="500" />
+	<img src="./lowres/00054_003.jpg" alt="GAF Color Slide Film 126 film_box_processing_envelope" loading="lazy" width="500" />
 </a>
 
 
 `UUID: dd9347600c9a47299504239d1038f0dd`↓
 
 <a href="./archive/00054_004.jpg">
-	<img src="./lowres/00054_004.jpg" alt="GAF Color Slide Film 126 film_box_processing_envelope" loading="lazy" height="500" />
+	<img src="./lowres/00054_004.jpg" alt="GAF Color Slide Film 126 film_box_processing_envelope" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 90cc6194552d42dd873d9af54a9bc283`↓
 
 <a href="./archive/00054_005.jpg">
-	<img src="./lowres/00054_005.jpg" alt="GAF Color Slide Film 126 film_box_processing_envelope" loading="lazy" height="500" />
+	<img src="./lowres/00054_005.jpg" alt="GAF Color Slide Film 126 film_box_processing_envelope" loading="lazy" width="500" />
 </a>
 
 #### HARMAN PHOENIX (ref: 637f)
@@ -701,14 +701,14 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00004_000.jpg">
-	<img src="./lowres/00004_000.jpg" alt="HARMAN PHOENIX 120 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00004_000.jpg" alt="HARMAN PHOENIX 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: c5a0132ac51a488ba35ebd6cc48911e7`↓
 
 <a href="./archive/00004_001.jpg">
-	<img src="./lowres/00004_001.jpg" alt="HARMAN PHOENIX 120 film_box_inside" loading="lazy" height="500" />
+	<img src="./lowres/00004_001.jpg" alt="HARMAN PHOENIX 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### HARMAN PHOENIX (ref: 8eb4)
@@ -743,14 +743,14 @@ Scanned By: @ob.skura
 ```
 
 <a href="./archive/00048_000.jpg">
-	<img src="./lowres/00048_000.jpg" alt="Ilford Delta 120 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00048_000.jpg" alt="Ilford Delta 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: e4c76c5b957347178af448f4aa6001d0`↓
 
 <a href="./archive/00048_001.jpg">
-	<img src="./lowres/00048_001.jpg" alt="Ilford Delta 120 film_box_inside" loading="lazy" height="500" />
+	<img src="./lowres/00048_001.jpg" alt="Ilford Delta 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### Ilford HP5 Plus (ref: 1a5d)
@@ -764,14 +764,14 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00000_000.jpg">
-	<img src="./lowres/00000_000.jpg" alt="Ilford HP5 Plus 120 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00000_000.jpg" alt="Ilford HP5 Plus 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 3d64b751d4dd412889855a65731d5f25`↓
 
 <a href="./archive/00000_001.jpg">
-	<img src="./lowres/00000_001.jpg" alt="Ilford HP5 Plus 120 film_box_inside" loading="lazy" height="500" />
+	<img src="./lowres/00000_001.jpg" alt="Ilford HP5 Plus 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### Ilford HP5 Plus (ref: efad)
@@ -785,14 +785,14 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00016_000.jpg">
-	<img src="./lowres/00016_000.jpg" alt="Ilford HP5 Plus 120 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00016_000.jpg" alt="Ilford HP5 Plus 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 1d938d2d844d498caf9fe2bc83618dda`↓
 
 <a href="./archive/00016_001.jpg">
-	<img src="./lowres/00016_001.jpg" alt="Ilford HP5 Plus 120 film_box_inside" loading="lazy" height="500" />
+	<img src="./lowres/00016_001.jpg" alt="Ilford HP5 Plus 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### Ilford HP5 Plus (ref: df49)
@@ -841,14 +841,14 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00009_000.jpg">
-	<img src="./lowres/00009_000.jpg" alt="Ilford SFX 200 120 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00009_000.jpg" alt="Ilford SFX 200 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 2579a55634474187bac08797a02f422d`↓
 
 <a href="./archive/00009_001.jpg">
-	<img src="./lowres/00009_001.jpg" alt="Ilford SFX 200 120 film_box_inside" loading="lazy" height="500" />
+	<img src="./lowres/00009_001.jpg" alt="Ilford SFX 200 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### Jessops Diamond Everyday (ref: 67d3)
@@ -876,14 +876,14 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00015_000.jpg">
-	<img src="./lowres/00015_000.jpg" alt="Kentmere PAN 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00015_000.jpg" alt="Kentmere PAN 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 3514628a650741c8abb104047d809f55`↓
 
 <a href="./archive/00015_001.jpg">
-	<img src="./lowres/00015_001.jpg" alt="Kentmere PAN 35mm film_box_inside" loading="lazy" height="500" />
+	<img src="./lowres/00015_001.jpg" alt="Kentmere PAN 35mm film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### Kentmere PAN (ref: d223)
@@ -897,14 +897,14 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00058_000.jpg">
-	<img src="./lowres/00058_000.jpg" alt="Kentmere PAN 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00058_000.jpg" alt="Kentmere PAN 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: ecc653f10f124afe9b4225edb7e06587`↓
 
 <a href="./archive/00058_001.jpg">
-	<img src="./lowres/00058_001.jpg" alt="Kentmere PAN 35mm film_box_inside" loading="lazy" height="500" />
+	<img src="./lowres/00058_001.jpg" alt="Kentmere PAN 35mm film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### Kentmere PAN (ref: c907)
@@ -939,14 +939,14 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00063_000.jpg">
-	<img src="./lowres/00063_000.jpg" alt="Klick APS Film APS film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00063_000.jpg" alt="Klick APS Film APS film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: dff53610cf16453fb97135efcc0eed86`↓
 
 <a href="./archive/00063_001.jpg">
-	<img src="./lowres/00063_001.jpg" alt="Klick APS Film APS film_box_inside" loading="lazy" height="500" />
+	<img src="./lowres/00063_001.jpg" alt="Klick APS Film APS film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### Klick XD200 (ref: 44d7)
@@ -960,7 +960,7 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00062_000.jpg">
-	<img src="./lowres/00062_000.jpg" alt="Klick XD200 110 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00062_000.jpg" alt="Klick XD200 110 film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### Kodak Advantix Ultra (ref: 566b)
@@ -974,7 +974,7 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00066_000.jpg">
-	<img src="./lowres/00066_000.jpg" alt="Kodak Advantix Ultra APS film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00066_000.jpg" alt="Kodak Advantix Ultra APS film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### Kodak ColorPlus (ref: 79ca)
@@ -1016,7 +1016,7 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00017_000.jpg">
-	<img src="./lowres/00017_000.jpg" alt="Kodak Ektachrome 120 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00017_000.jpg" alt="Kodak Ektachrome 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### Kodak Ektachrome (ref: 07c0)
@@ -1030,7 +1030,7 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00025_000.jpg">
-	<img src="./lowres/00025_000.jpg" alt="Kodak Ektachrome 110 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00025_000.jpg" alt="Kodak Ektachrome 110 film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### Kodak Ektachrome (ref: ec3d)
@@ -1163,7 +1163,7 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00021_000.jpg">
-	<img src="./lowres/00021_000.jpg" alt="Kodak Gold 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00021_000.jpg" alt="Kodak Gold 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### Kodak Gold (ref: f368)
@@ -1177,7 +1177,7 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00068_000.jpg">
-	<img src="./lowres/00068_000.jpg" alt="Kodak Gold 110 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00068_000.jpg" alt="Kodak Gold 110 film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### Kodak Gold (ref: 3e7f)
@@ -1219,14 +1219,14 @@ Scanned By: lilyu.xyz
 ```
 
 <a href="./archive/00095_000.jpg">
-	<img src="./lowres/00095_000.jpg" alt="Kodak Gold 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00095_000.jpg" alt="Kodak Gold 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 86ebec2c1a1d41359d84654d24dbac69`↓
 
 <a href="./archive/00095_001.jpg">
-	<img src="./lowres/00095_001.jpg" alt="Kodak Gold 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00095_001.jpg" alt="Kodak Gold 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### Kodak Gold Ultra (ref: 1358)
@@ -1261,21 +1261,21 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00026_000.jpg">
-	<img src="./lowres/00026_000.jpg" alt="Kodak Kodachrome 110 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00026_000.jpg" alt="Kodak Kodachrome 110 film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 54ea8372830b463391dec9cc43789bdf`↓
 
 <a href="./archive/00026_001.jpg">
-	<img src="./lowres/00026_001.jpg" alt="Kodak Kodachrome 110 film_box_processing_envelope" loading="lazy" height="500" />
+	<img src="./lowres/00026_001.jpg" alt="Kodak Kodachrome 110 film_box_processing_envelope" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 045746d5a421440487c431bf74ad0091`↓
 
 <a href="./archive/00026_002.jpg">
-	<img src="./lowres/00026_002.jpg" alt="Kodak Kodachrome 110 film_box_processing_envelope" loading="lazy" height="500" />
+	<img src="./lowres/00026_002.jpg" alt="Kodak Kodachrome 110 film_box_processing_envelope" loading="lazy" width="500" />
 </a>
 
 #### Kodak Kodachrome (ref: 6477)
@@ -1289,7 +1289,7 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00035_000.jpg">
-	<img src="./lowres/00035_000.jpg" alt="Kodak Kodachrome 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00035_000.jpg" alt="Kodak Kodachrome 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 
@@ -1310,14 +1310,14 @@ Scanned By: dekuNukem
 `UUID: a64a927ad3a348ae9eeb445a9725acfa`↓
 
 <a href="./archive/00035_003.jpg">
-	<img src="./lowres/00035_003.jpg" alt="Kodak Kodachrome 35mm film_box_processing_envelope" loading="lazy" height="500" />
+	<img src="./lowres/00035_003.jpg" alt="Kodak Kodachrome 35mm film_box_processing_envelope" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 754d321490a3453981be592ac6221b8d`↓
 
 <a href="./archive/00035_004.jpg">
-	<img src="./lowres/00035_004.jpg" alt="Kodak Kodachrome 35mm film_box_processing_envelope" loading="lazy" height="500" />
+	<img src="./lowres/00035_004.jpg" alt="Kodak Kodachrome 35mm film_box_processing_envelope" loading="lazy" width="500" />
 </a>
 
 #### Kodak Kodachrome (ref: 3206)
@@ -1366,7 +1366,7 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00024_000.jpg">
-	<img src="./lowres/00024_000.jpg" alt="Kodak Kodacolor-X 126 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00024_000.jpg" alt="Kodak Kodacolor-X 126 film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### Kodak Kodacolor-X (ref: a4b1)
@@ -1380,7 +1380,7 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00064_000.jpg">
-	<img src="./lowres/00064_000.jpg" alt="Kodak Kodacolor-X 120 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00064_000.jpg" alt="Kodak Kodacolor-X 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 
@@ -1422,7 +1422,7 @@ Scanned By: @recycling.film
 ```
 
 <a href="./archive/00089_000.jpg">
-	<img src="./lowres/00089_000.jpg" alt="Kodak Portra 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00089_000.jpg" alt="Kodak Portra 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### Kodak TMAX (ref: b3b1)
@@ -1450,7 +1450,7 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00037_000.jpg">
-	<img src="./lowres/00037_000.jpg" alt="Kodak Technical Pan 6415 120 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00037_000.jpg" alt="Kodak Technical Pan 6415 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 
@@ -1520,7 +1520,7 @@ Scanned By: b0baspace
 ```
 
 <a href="./archive/00041_000.jpg">
-	<img src="./lowres/00041_000.jpg" alt="Kodak Verichrome Pan 620 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00041_000.jpg" alt="Kodak Verichrome Pan 620 film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### Konica Infrared 750nm (ref: 2d93)
@@ -1534,7 +1534,7 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00036_000.jpg">
-	<img src="./lowres/00036_000.jpg" alt="Konica Infrared 750nm 120 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00036_000.jpg" alt="Konica Infrared 750nm 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### Konica Infrared 750nm (ref: e696)
@@ -1548,7 +1548,7 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00039_000.jpg">
-	<img src="./lowres/00039_000.jpg" alt="Konica Infrared 750nm 120 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00039_000.jpg" alt="Konica Infrared 750nm 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 
@@ -1597,7 +1597,7 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00013_000.jpg">
-	<img src="./lowres/00013_000.jpg" alt="Lloyds Pharmacy Colour Film 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00013_000.jpg" alt="Lloyds Pharmacy Colour Film 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### Lomography Lomochrome Purple (ref: 068f)
@@ -1611,14 +1611,14 @@ Scanned By: @SirBrentsworth
 ```
 
 <a href="./archive/00078_000.jpg">
-	<img src="./lowres/00078_000.jpg" alt="Lomography Lomochrome Purple 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00078_000.jpg" alt="Lomography Lomochrome Purple 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: bd02e2aa40df4da59c616139d8d06db6`↓
 
 <a href="./archive/00078_001.jpg">
-	<img src="./lowres/00078_001.jpg" alt="Lomography Lomochrome Purple 35mm film_box_inside" loading="lazy" height="500" />
+	<img src="./lowres/00078_001.jpg" alt="Lomography Lomochrome Purple 35mm film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### Lomography Lomochrome Turquoise (ref: 0d90)
@@ -1632,14 +1632,14 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00008_000.jpg">
-	<img src="./lowres/00008_000.jpg" alt="Lomography Lomochrome Turquoise 120 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00008_000.jpg" alt="Lomography Lomochrome Turquoise 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: adc4ed82e419439c8bec5348db4a1ca2`↓
 
 <a href="./archive/00008_001.jpg">
-	<img src="./lowres/00008_001.jpg" alt="Lomography Lomochrome Turquoise 120 film_box_inside" loading="lazy" height="500" />
+	<img src="./lowres/00008_001.jpg" alt="Lomography Lomochrome Turquoise 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### Perutz Superomnia (ref: c90d)
@@ -1653,7 +1653,7 @@ Scanned By: lilyu.xyz
 ```
 
 <a href="./archive/00096_000.jpg">
-	<img src="./lowres/00096_000.jpg" alt="Perutz Superomnia 9x12 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00096_000.jpg" alt="Perutz Superomnia 9x12 film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### Polaroid 665 (ref: e054)
@@ -1667,7 +1667,7 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00018_000.jpg">
-	<img src="./lowres/00018_000.jpg" alt="Polaroid 665 Pack Film film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00018_000.jpg" alt="Polaroid 665 Pack Film film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### Polaroid 669 (ref: 3566)
@@ -1681,7 +1681,7 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00020_000.jpg">
-	<img src="./lowres/00020_000.jpg" alt="Polaroid 669 Pack Film film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00020_000.jpg" alt="Polaroid 669 Pack Film film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### Polaroid GridFilm (ref: 8deb)
@@ -1702,7 +1702,7 @@ Scanned By: dekuNukem
 `UUID: 1dda008c9a844e1b9b64527511fdc282`↓
 
 <a href="./archive/00031_001.jpg">
-	<img src="./lowres/00031_001.jpg" alt="Polaroid GridFilm Integral Film film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00031_001.jpg" alt="Polaroid GridFilm Integral Film film_box_outside" loading="lazy" width="500" />
 </a>
 
 
@@ -1716,7 +1716,7 @@ Scanned By: dekuNukem
 `UUID: aa6fba27f7c9484291dbf8279a8e3d18`↓
 
 <a href="./archive/00031_003.jpg">
-	<img src="./lowres/00031_003.jpg" alt="Polaroid GridFilm Integral Film film_box_inside" loading="lazy" height="500" />
+	<img src="./lowres/00031_003.jpg" alt="Polaroid GridFilm Integral Film film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### Polaroid PolaBlue (ref: df66)
@@ -1744,7 +1744,7 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00029_000.jpg">
-	<img src="./lowres/00029_000.jpg" alt="Polaroid PolaChrome 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00029_000.jpg" alt="Polaroid PolaChrome 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### Porst Color N21 (ref: 494a)
@@ -1765,7 +1765,7 @@ Scanned By: @ob.skura
 `UUID: e9bc17db34fa4b779e283c96c92b2359`↓
 
 <a href="./archive/00046_001.jpg">
-	<img src="./lowres/00046_001.jpg" alt="Porst Color N21 35mm film_box_leaflet" loading="lazy" height="500" />
+	<img src="./lowres/00046_001.jpg" alt="Porst Color N21 35mm film_box_leaflet" loading="lazy" width="500" />
 </a>
 
 #### Rollei Infrared (ref: 4f54)
@@ -1779,7 +1779,7 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00030_000.jpg">
-	<img src="./lowres/00030_000.jpg" alt="Rollei Infrared 120 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00030_000.jpg" alt="Rollei Infrared 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### Rollei Infrared (ref: eae2)
@@ -1814,14 +1814,14 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00005_000.jpg">
-	<img src="./lowres/00005_000.jpg" alt="Rollei Retro 80S 120 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00005_000.jpg" alt="Rollei Retro 80S 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: a57794309f6b44d784d9555b416a200c`↓
 
 <a href="./archive/00005_001.jpg">
-	<img src="./lowres/00005_001.jpg" alt="Rollei Retro 80S 120 film_box_inside" loading="lazy" height="500" />
+	<img src="./lowres/00005_001.jpg" alt="Rollei Retro 80S 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### Rollei SUPERPAN (ref: ee8f)
@@ -1870,7 +1870,7 @@ Scanned By: @ob.skura
 ```
 
 <a href="./archive/00050_000.jpg">
-	<img src="./lowres/00050_000.jpg" alt="Shanghai GP3 127 film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00050_000.jpg" alt="Shanghai GP3 127 film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### Three Film Rolls 5207 (ref: 0292)
@@ -1912,7 +1912,7 @@ Scanned By: b0baspace
 ```
 
 <a href="./archive/00051_000.jpg">
-	<img src="./lowres/00051_000.jpg" alt="York Photo Labs DXG 200 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00051_000.jpg" alt="York Photo Labs DXG 200 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 
