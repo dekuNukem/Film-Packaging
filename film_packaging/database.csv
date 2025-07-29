@@ -160,3 +160,21 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 96,0,film_box_outside,Perutz,Superomnia,9x12,125,BW,Unknown,1753732169,ba2ba538dca88814672ad9b3ae56afae,b220e7d5dbee49898fbd1d42ee67c90d,00096_000.jpg,lilyu.xyz
 97,0,film_box_outside,Kodak,Kodacolor VR,35mm,200,C-41,198706,1753733441,938c04b11d33d81cc89a86364e066b59,a26daa2cb6e44957af3d978bc67e035f,00097_000.jpg,@ftfilmphotos
 97,1,film_box_inside,Kodak,Kodacolor VR,35mm,200,C-41,198706,1753733443,2a4004a7c43dc26dea3cb7d8cf9bda13,185225c336bc491683c7a1806458c4e8,00097_001.jpg,@ftfilmphotos
+98,0,film_box_outside,AGFA,Autolith Repo,9x12,Unknown,BW,Unknown,1753805828,6789121d99d9989091817dbb6b2bd70e,952823ad9ef14c75a83ac8e230b38e68,00098_000.jpg,Nano_Burger
+99,0,film_box_outside,Kodak,Eastman High Contrast Panchromatic 7369,16mm,Unknown,D-97,Unknown,1753806037,6d0096c9a06103f8eca2a5530f80c50e,46cc0a179fc34cb4832e1d3336bafaec,00099_000.jpg,Nano_Burger
+100,0,film_box_outside,Kodak,Ektachrome,35mm,400,E-6,199011,1753806162,74a6bb6020e861b2b9ba601fbade402d,2330da9237ad4dbaac0028199f363c96,00100_000.jpg,Nano_Burger
+100,1,film_box_inside,Kodak,Ektachrome,35mm,400,E-6,199011,1753806164,af7f386a903d43e38935e47c2dda7a94,c8ecef6f805d4a7eab60f82855687e17,00100_001.jpg,Nano_Burger
+101,0,film_box_outside,AGFA,Isopan FF,35mm,8,BW,194610,1753806406,1bf6753bda8fa954a425254ecb722833,9ea6437ea85442048ffe63b8b64c3700,00101_000.jpg,Nano_Burger
+102,0,film_box_outside,Kodak,High Speed Infrared,35mm,80,BW,199003,1753806537,89f02950b4c232e96bc7065e287c9369,7b611fc399af469a80ac1a0124c84294,00102_000.jpg,Nano_Burger
+102,1,film_box_leaflet,Kodak,High Speed Infrared,35mm,80,BW,199003,1753806539,90fd228a30db376017c2c59952a75b4f,5cdb927687974c8db4458239ed9a09b4,00102_001.jpg,Nano_Burger
+102,2,film_box_leaflet,Kodak,High Speed Infrared,35mm,80,BW,199003,1753806546,22d0c2e6feaec15a23308e8077e972f9,1058c3167209457aac0f4336c911c8b3,00102_002.jpg,Nano_Burger
+103,0,film_box_outside,Kodak,High Speed Infrared,35mm,80,BW,200810,1753806665,7dcd1dac1b98add6e58367509bc1e485,77352e93d73748eca98cff7b30d7883e,00103_000.jpg,Nano_Burger
+103,1,film_box_inside,Kodak,High Speed Infrared,35mm,80,BW,200810,1753806667,9358d70074f9c58d4a5230253116191e,5667abf6f7f04edba88137bd54153841,00103_001.jpg,Nano_Burger
+104,0,film_box_outside,Kodak,TMAX,35mm,3200,BW,199107,1753806754,ac5429feb30a24ba6c40190526b17391,9e4ea1efa5a54938985fdf8901951dff,00104_000.jpg,Nano_Burger
+104,1,film_box_leaflet,Kodak,TMAX,35mm,3200,BW,199107,1753806756,234ca8fe1ca792fd25d9edd22fccddc7,b9d1b08379d9482bbc799101f6881f12,00104_001.jpg,Nano_Burger
+104,2,film_box_leaflet,Kodak,TMAX,35mm,3200,BW,199107,1753806758,1ff153d650b4779322e2e05afbc2b19b,a6740f1fc4df4b80a8a4dee83a26c04b,00104_002.jpg,Nano_Burger
+105,0,film_box_outside,Kodak,Rapid Process Copy Film,35mm,Unknown,BW,200006,1753806928,2f2ecdfadc0e5287ff6b6903f47b0483,396a3645cb9a40a4b0a6dd2fd854e66e,00105_000.jpg,Nano_Burger
+105,1,film_box_outside,Kodak,Rapid Process Copy Film,35mm,Unknown,BW,200006,1753806930,af2e66b90c07f0781b43de22e0ea7971,bab6cc70d0044171a1afcf33b6cb5556,00105_001.jpg,Nano_Burger
+105,2,film_box_inside,Kodak,Rapid Process Copy Film,35mm,Unknown,BW,200006,1753806932,4462f9084b30b81925a55853d6e3a146,fc2e102fecae4f2dbd04fd341fdb7afd,00105_002.jpg,Nano_Burger
+106,0,film_box_outside,Kodak,Technical Pan,35mm,25,BW,199504,1753807209,edf0e6c4d6dab0f5413bac5d5ac388cc,e65b4252384141028ee037892c6bf4cf,00106_000.jpg,Nano_Burger
+106,1,film_box_inside,Kodak,Technical Pan,35mm,25,BW,199504,1753807211,63ecb32036c0bc56a4b21add8f7ccc44,fd713c7576534f62832529c13f74996b,00106_001.jpg,Nano_Burger

@@ -29,8 +29,8 @@ This project is fully open-source. [Click me for GitHub repo.](https://github.co
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jul 28 2025
-# of items: 161
+Last Updated: Jul 29 2025
+# of items: 179
 ```
 
 Or Sort by...
@@ -53,6 +53,7 @@ The collection is by no means complete or exhaustive, but it's a start!
 Username            Contributions       
 ----------------------------------------
 dekuNukem           89                  
+Nano_Burger         18                  
 @ob.skura           16                  
 b0baspace           14                  
 @SirBrentsworth     13                  

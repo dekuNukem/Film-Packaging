@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jul 28 2025
+Last Updated: Jul 29 2025
 
-# of items: 161
+# of items: 179
 ```
 
 -----
@@ -26,6 +26,8 @@ Last Updated: Jul 28 2025
 - [ADOX KB17 (ref: 2c95)](#adox-kb17-ref-2c95)
 - [AGFA APX (ref: 12c7)](#agfa-apx-ref-12c7)
 - [AGFA APX (ref: 5276)](#agfa-apx-ref-5276)
+- [AGFA Autolith Repo (ref: 8e68)](#agfa-autolith-repo-ref-8e68)
+- [AGFA Isopan FF (ref: 3700)](#agfa-isopan-ff-ref-3700)
 - [AGFA ULTRA 50 (ref: 4faa)](#agfa-ultra-50-ref-4faa)
 - [AGFA Vista (ref: d3af)](#agfa-vista-ref-d3af)
 - [Alien Film 5207/250D (ref: 8820)](#alien-film-5207250d-ref-8820)
@@ -68,10 +70,12 @@ Last Updated: Jul 28 2025
 - [Kodak Advantix Ultra (ref: 566b)](#kodak-advantix-ultra-ref-566b)
 - [Kodak ColorPlus (ref: 79ca)](#kodak-colorplus-ref-79ca)
 - [Kodak ColorPlus (ref: 6637)](#kodak-colorplus-ref-6637)
+- [Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
 - [Kodak Ektachrome (ref: ce7f)](#kodak-ektachrome-ref-ce7f)
 - [Kodak Ektachrome (ref: 07c0)](#kodak-ektachrome-ref-07c0)
 - [Kodak Ektachrome (ref: ec3d)](#kodak-ektachrome-ref-ec3d)
 - [Kodak Ektachrome (ref: b21e)](#kodak-ektachrome-ref-b21e)
+- [Kodak Ektachrome (ref: 3c96)](#kodak-ektachrome-ref-3c96)
 - [Kodak Ektacolor Pro Gold (ref: c3f8)](#kodak-ektacolor-pro-gold-ref-c3f8)
 - [Kodak Ektar (ref: 3498)](#kodak-ektar-ref-3498)
 - [Kodak Elite Chrome (ref: 523c)](#kodak-elite-chrome-ref-523c)
@@ -81,6 +85,8 @@ Last Updated: Jul 28 2025
 - [Kodak Gold (ref: 855e)](#kodak-gold-ref-855e)
 - [Kodak Gold (ref: ea58)](#kodak-gold-ref-ea58)
 - [Kodak Gold Ultra (ref: 1358)](#kodak-gold-ultra-ref-1358)
+- [Kodak High Speed Infrared (ref: 4294)](#kodak-high-speed-infrared-ref-4294)
+- [Kodak High Speed Infrared (ref: 883e)](#kodak-high-speed-infrared-ref-883e)
 - [Kodak Kodachrome (ref: 3145)](#kodak-kodachrome-ref-3145)
 - [Kodak Kodachrome (ref: 6477)](#kodak-kodachrome-ref-6477)
 - [Kodak Kodachrome (ref: 3206)](#kodak-kodachrome-ref-3206)
@@ -89,7 +95,10 @@ Last Updated: Jul 28 2025
 - [Kodak Kodacolor-X (ref: a4b1)](#kodak-kodacolor-x-ref-a4b1)
 - [Kodak Portra (ref: 7d65)](#kodak-portra-ref-7d65)
 - [Kodak Portra (ref: ce56)](#kodak-portra-ref-ce56)
+- [Kodak Rapid Process Copy Film (ref: e66e)](#kodak-rapid-process-copy-film-ref-e66e)
 - [Kodak TMAX (ref: b3b1)](#kodak-tmax-ref-b3b1)
+- [Kodak TMAX (ref: 1dff)](#kodak-tmax-ref-1dff)
+- [Kodak Technical Pan (ref: f4cf)](#kodak-technical-pan-ref-f4cf)
 - [Kodak Technical Pan 6415 (ref: 03be)](#kodak-technical-pan-6415-ref-03be)
 - [Kodak Tri-X (ref: 88c5)](#kodak-tri-x-ref-88c5)
 - [Kodak Ultra (ref: 69a1)](#kodak-ultra-ref-69a1)
@@ -184,6 +193,34 @@ Scanned By: lilyu.xyz
 
 <a href="./archive/00093_001.jpg">
 	<img src="./lowres/00093_001.jpg" alt="AGFA APX 35mm film_box_inside" loading="lazy" height="500" />
+</a>
+
+#### AGFA Autolith Repo (ref: 8e68)
+```
+ISO     : Unknown
+Format  : 9x12
+Process : BW
+Expiry  : Unknown
+UUID    : 952823ad9ef14c75a83ac8e230b38e68
+Scanned By: Nano_Burger
+```
+
+<a href="./archive/00098_000.jpg">
+	<img src="./lowres/00098_000.jpg" alt="AGFA Autolith Repo 9x12 film_box_outside" loading="lazy" width="0" />
+</a>
+
+#### AGFA Isopan FF (ref: 3700)
+```
+ISO     : 8
+Format  : 35mm
+Process : BW
+Expiry  : 194610
+UUID    : 9ea6437ea85442048ffe63b8b64c3700
+Scanned By: Nano_Burger
+```
+
+<a href="./archive/00101_000.jpg">
+	<img src="./lowres/00101_000.jpg" alt="AGFA Isopan FF 35mm film_box_outside" loading="lazy" width="0" />
 </a>
 
 #### AGFA ULTRA 50 (ref: 4faa)
@@ -1005,6 +1042,20 @@ Scanned By: @recycling.film
 	<img src="./lowres/00091_000.jpg" alt="Kodak ColorPlus 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
+#### Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)
+```
+ISO     : Unknown
+Format  : 16mm
+Process : D-97
+Expiry  : Unknown
+UUID    : 46cc0a179fc34cb4832e1d3336bafaec
+Scanned By: Nano_Burger
+```
+
+<a href="./archive/00099_000.jpg">
+	<img src="./lowres/00099_000.jpg" alt="Kodak Eastman High Contrast Panchromatic 7369 16mm film_box_outside" loading="lazy" width="0" />
+</a>
+
 #### Kodak Ektachrome (ref: ce7f)
 ```
 ISO     : 160
@@ -1087,6 +1138,27 @@ Scanned By: b0baspace
 
 <a href="./archive/00052_002.jpg">
 	<img src="./lowres/00052_002.jpg" alt="Kodak Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
+</a>
+
+#### Kodak Ektachrome (ref: 3c96)
+```
+ISO     : 400
+Format  : 35mm
+Process : E-6
+Expiry  : 199011
+UUID    : 2330da9237ad4dbaac0028199f363c96
+Scanned By: Nano_Burger
+```
+
+<a href="./archive/00100_000.jpg">
+	<img src="./lowres/00100_000.jpg" alt="Kodak Ektachrome 35mm film_box_outside" loading="lazy" width="0" />
+</a>
+
+
+`UUID: c8ecef6f805d4a7eab60f82855687e17`↓
+
+<a href="./archive/00100_001.jpg">
+	<img src="./lowres/00100_001.jpg" alt="Kodak Ektachrome 35mm film_box_inside" loading="lazy" width="0" />
 </a>
 
 #### Kodak Ektacolor Pro Gold (ref: c3f8)
@@ -1248,6 +1320,55 @@ Scanned By: lilyu.xyz
 
 <a href="./archive/00094_001.jpg">
 	<img src="./lowres/00094_001.jpg" alt="Kodak Gold Ultra 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+#### Kodak High Speed Infrared (ref: 4294)
+```
+ISO     : 80
+Format  : 35mm
+Process : BW
+Expiry  : 199003
+UUID    : 7b611fc399af469a80ac1a0124c84294
+Scanned By: Nano_Burger
+```
+
+<a href="./archive/00102_000.jpg">
+	<img src="./lowres/00102_000.jpg" alt="Kodak High Speed Infrared 35mm film_box_outside" loading="lazy" width="0" />
+</a>
+
+
+`UUID: 5cdb927687974c8db4458239ed9a09b4`↓
+
+<a href="./archive/00102_001.jpg">
+	<img src="./lowres/00102_001.jpg" alt="Kodak High Speed Infrared 35mm film_box_leaflet" loading="lazy" width="0" />
+</a>
+
+
+`UUID: 1058c3167209457aac0f4336c911c8b3`↓
+
+<a href="./archive/00102_002.jpg">
+	<img src="./lowres/00102_002.jpg" alt="Kodak High Speed Infrared 35mm film_box_leaflet" loading="lazy" width="0" />
+</a>
+
+#### Kodak High Speed Infrared (ref: 883e)
+```
+ISO     : 80
+Format  : 35mm
+Process : BW
+Expiry  : 200810
+UUID    : 77352e93d73748eca98cff7b30d7883e
+Scanned By: Nano_Burger
+```
+
+<a href="./archive/00103_000.jpg">
+	<img src="./lowres/00103_000.jpg" alt="Kodak High Speed Infrared 35mm film_box_outside" loading="lazy" width="0" />
+</a>
+
+
+`UUID: 5667abf6f7f04edba88137bd54153841`↓
+
+<a href="./archive/00103_001.jpg">
+	<img src="./lowres/00103_001.jpg" alt="Kodak High Speed Infrared 35mm film_box_inside" loading="lazy" width="0" />
 </a>
 
 #### Kodak Kodachrome (ref: 3145)
@@ -1425,6 +1546,34 @@ Scanned By: @recycling.film
 	<img src="./lowres/00089_000.jpg" alt="Kodak Portra 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
+#### Kodak Rapid Process Copy Film (ref: e66e)
+```
+ISO     : Unknown
+Format  : 35mm
+Process : BW
+Expiry  : 200006
+UUID    : 396a3645cb9a40a4b0a6dd2fd854e66e
+Scanned By: Nano_Burger
+```
+
+<a href="./archive/00105_000.jpg">
+	<img src="./lowres/00105_000.jpg" alt="Kodak Rapid Process Copy Film 35mm film_box_outside" loading="lazy" width="0" />
+</a>
+
+
+`UUID: bab6cc70d0044171a1afcf33b6cb5556`↓
+
+<a href="./archive/00105_001.jpg">
+	<img src="./lowres/00105_001.jpg" alt="Kodak Rapid Process Copy Film 35mm film_box_outside" loading="lazy" width="0" />
+</a>
+
+
+`UUID: fc2e102fecae4f2dbd04fd341fdb7afd`↓
+
+<a href="./archive/00105_002.jpg">
+	<img src="./lowres/00105_002.jpg" alt="Kodak Rapid Process Copy Film 35mm film_box_inside" loading="lazy" width="0" />
+</a>
+
 #### Kodak TMAX (ref: b3b1)
 ```
 ISO     : 100
@@ -1437,6 +1586,55 @@ Scanned By: dekuNukem
 
 <a href="./archive/00069_000.jpg">
 	<img src="./lowres/00069_000.jpg" alt="Kodak TMAX 120 film_box_outside" loading="lazy" height="500" />
+</a>
+
+#### Kodak TMAX (ref: 1dff)
+```
+ISO     : 3200
+Format  : 35mm
+Process : BW
+Expiry  : 199107
+UUID    : 9e4ea1efa5a54938985fdf8901951dff
+Scanned By: Nano_Burger
+```
+
+<a href="./archive/00104_000.jpg">
+	<img src="./lowres/00104_000.jpg" alt="Kodak TMAX 35mm film_box_outside" loading="lazy" width="0" />
+</a>
+
+
+`UUID: b9d1b08379d9482bbc799101f6881f12`↓
+
+<a href="./archive/00104_001.jpg">
+	<img src="./lowres/00104_001.jpg" alt="Kodak TMAX 35mm film_box_leaflet" loading="lazy" width="0" />
+</a>
+
+
+`UUID: a6740f1fc4df4b80a8a4dee83a26c04b`↓
+
+<a href="./archive/00104_002.jpg">
+	<img src="./lowres/00104_002.jpg" alt="Kodak TMAX 35mm film_box_leaflet" loading="lazy" width="0" />
+</a>
+
+#### Kodak Technical Pan (ref: f4cf)
+```
+ISO     : 25
+Format  : 35mm
+Process : BW
+Expiry  : 199504
+UUID    : e65b4252384141028ee037892c6bf4cf
+Scanned By: Nano_Burger
+```
+
+<a href="./archive/00106_000.jpg">
+	<img src="./lowres/00106_000.jpg" alt="Kodak Technical Pan 35mm film_box_outside" loading="lazy" width="0" />
+</a>
+
+
+`UUID: fd713c7576534f62832529c13f74996b`↓
+
+<a href="./archive/00106_001.jpg">
+	<img src="./lowres/00106_001.jpg" alt="Kodak Technical Pan 35mm film_box_inside" loading="lazy" width="0" />
 </a>
 
 #### Kodak Technical Pan 6415 (ref: 03be)
@@ -1926,6 +2124,7 @@ Scanned By: b0baspace
 Username            Contributions       
 ----------------------------------------
 dekuNukem           89                  
+Nano_Burger         18                  
 @ob.skura           16                  
 b0baspace           14                  
 @SirBrentsworth     13                  
