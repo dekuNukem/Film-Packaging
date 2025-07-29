@@ -87,5 +87,8 @@ def replace_lines(filename):
 	print(f"Stats updated! {filename}")
 
 replace_lines("../README.md")
-replace_lines("./by_brand.md")
-replace_lines("./by_expiry.md")
+
+matching_files = [filename for filename in os.listdir('.') if os.path.isfile(filename) and filename.startswith('by_') and filename.endswith('.md')]
+
+for item in matching_files:
+	replace_lines(item)

@@ -37,9 +37,8 @@ Or Sort by...
 
 * [Brand](./film_packaging/by_brand.md)
 * [Expiry Date](./film_packaging/by_expiry.md)
-* Film Format (Coming soon)
-* ISO (Coming soon)
-* Photographic Process (Coming soon)
+* [Film Format](./film_packaging/by_format.md)
+* [Photographic Process](./film_packaging/by_process.md)
 
 The collection is by no means complete or exhaustive, but it's a start!
 

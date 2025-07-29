@@ -125,7 +125,7 @@ def make_md(sort_name, sorted_dbase, ftk=None, ftf=None):
         lowres_path = make_lowres_full_path(item)
         description = ""
         if int(item[ITEM_SUBINDEX_KEY]) == 0:
-            description += f"#### {make_subtitle(item, foretext_key=ftk, foretext_func=ftf)}"
+            description += f"#### {make_subtitle(item, foretext_key=ftk, foretext_func=ftf)}\n"
             description += "\n```\n"
             description += make_description_string(item, ITEM_ISO_KEY)
             description += make_description_string(item, ITEM_FORMAT_KEY)
@@ -174,7 +174,13 @@ out_str = make_md("BRAND", sorted_db_by_brand)
 write_to_file("./by_brand.md", out_str)
 
 sorted_db_by_brand = sorted(database_entries, key=operator.itemgetter(ITEM_EXPIRY_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
-out_str = make_md("EXPIRE DATE", sorted_db_by_brand, ftk=ITEM_EXPIRY_KEY, ftf=expiry_func)
+out_str = make_md("EXPIRY DATE", sorted_db_by_brand, ftk=ITEM_EXPIRY_KEY, ftf=expiry_func)
 write_to_file("./by_expiry.md", out_str)
 
+sorted_db_by_brand = sorted(database_entries, key=operator.itemgetter(ITEM_FORMAT_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
+out_str = make_md("FILM FORMAT", sorted_db_by_brand, ftk=ITEM_FORMAT_KEY, ftf=None)
+write_to_file("./by_format.md", out_str)
 
+sorted_db_by_brand = sorted(database_entries, key=operator.itemgetter(ITEM_PROCESS_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
+out_str = make_md("PROCESS TYPE", sorted_db_by_brand, ftk=ITEM_PROCESS_KEY, ftf=None)
+write_to_file("./by_process.md", out_str)

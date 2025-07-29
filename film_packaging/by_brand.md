@@ -131,6 +131,7 @@ Last Updated: Jul 29 2025
 -----
 
 #### ADOX KB17 (ref: 2c95)
+
 ```
 ISO     : 40
 Format  : 35mm
@@ -152,6 +153,7 @@ Scanned By: dekuNukem
 </a>
 
 #### AGFA APX (ref: 12c7)
+
 ```
 ISO     : 100
 Format  : 120
@@ -173,6 +175,7 @@ Scanned By: dekuNukem
 </a>
 
 #### AGFA APX (ref: 5276)
+
 ```
 ISO     : 100
 Format  : 35mm
@@ -194,6 +197,7 @@ Scanned By: lilyu.xyz
 </a>
 
 #### AGFA Autolith Repo (ref: 8e68)
+
 ```
 ISO     : Unknown
 Format  : 9x12
@@ -208,6 +212,7 @@ Scanned By: Nano_Burger
 </a>
 
 #### AGFA Isopan FF (ref: 3700)
+
 ```
 ISO     : 8
 Format  : 35mm
@@ -222,6 +227,7 @@ Scanned By: Nano_Burger
 </a>
 
 #### AGFA ULTRA 50 (ref: 4faa)
+
 ```
 ISO     : 50
 Format  : 35mm
@@ -243,6 +249,7 @@ Scanned By: dekuNukem
 </a>
 
 #### AGFA Vista (ref: d3af)
+
 ```
 ISO     : 200
 Format  : 35mm
@@ -264,6 +271,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Alien Film 5207/250D (ref: 8820)
+
 ```
 ISO     : 250
 Format  : 120
@@ -278,6 +286,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Alien Film 5222/XX (ref: 3e49)
+
 ```
 ISO     : 250
 Format  : 35mm
@@ -292,6 +301,7 @@ Scanned By: dekuNukem
 </a>
 
 #### CineStill 800T (ref: c86a)
+
 ```
 ISO     : 800
 Format  : 120
@@ -313,6 +323,7 @@ Scanned By: dekuNukem
 </a>
 
 #### CineStill 800T (ref: b3ff)
+
 ```
 ISO     : 800
 Format  : 35mm
@@ -334,6 +345,7 @@ Scanned By: @SirBrentsworth
 </a>
 
 #### Efiniti UXi super 200 (ref: 471a)
+
 ```
 ISO     : 200
 Format  : 35mm
@@ -348,6 +360,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Efke IR 820 (ref: 43c9)
+
 ```
 ISO     : 100
 Format  : 120
@@ -369,6 +382,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Foma Fomapan (ref: 3e4f)
+
 ```
 ISO     : 200
 Format  : 120
@@ -390,6 +404,7 @@ Scanned By: benikum
 </a>
 
 #### Foma Fomapan (ref: 84a5)
+
 ```
 ISO     : 200
 Format  : 35mm
@@ -411,6 +426,7 @@ Scanned By: lilyu.xyz
 </a>
 
 #### Foma Fomapan21 (ref: 75d9)
+
 ```
 ISO     : 100
 Format  : 120
@@ -425,6 +441,7 @@ Scanned By: benikum
 </a>
 
 #### Fujifilm 200 (ref: 5b41)
+
 ```
 ISO     : 200
 Format  : 35mm
@@ -439,6 +456,7 @@ Scanned By: Yrikonchik
 </a>
 
 #### Fujifilm FUJICOLOR SUPER HR (ref: aaa0)
+
 ```
 ISO     : 200
 Format  : 35mm
@@ -467,6 +485,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Fujifilm FUJICOLOR SUPERIA (ref: 0683)
+
 ```
 ISO     : 400
 Format  : 120
@@ -488,6 +507,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Fujifilm Fujichrome Professional 100D (ref: 439d)
+
 ```
 ISO     : 100
 Format  : 120
@@ -516,6 +536,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Fujifilm Fujicolor 100 (ref: 013b)
+
 ```
 ISO     : 100
 Format  : 35mm
@@ -530,6 +551,7 @@ Scanned By: b0baspace
 </a>
 
 #### Fujifilm Fujicolor NPL 160 (ref: d10b)
+
 ```
 ISO     : 160
 Format  : 120
@@ -558,6 +580,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Fujifilm NPS (ref: 5e85)
+
 ```
 ISO     : 160
 Format  : 35mm
@@ -579,6 +602,7 @@ Scanned By: b0baspace
 </a>
 
 #### Fujifilm Pro 400H (ref: 66e3)
+
 ```
 ISO     : 400
 Format  : 120
@@ -593,6 +617,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Fujifilm Provia 100F (ref: 356d)
+
 ```
 ISO     : 100
 Format  : 35mm
@@ -607,6 +632,7 @@ Scanned By: @seklerek
 </a>
 
 #### Fujifilm Superia Reala (ref: a7de)
+
 ```
 ISO     : 100
 Format  : 35mm
@@ -621,6 +647,7 @@ Scanned By: @recycling.film
 </a>
 
 #### Fujifilm Velvia (ref: 3182)
+
 ```
 ISO     : 50
 Format  : 35mm
@@ -649,6 +676,7 @@ Scanned By: @ob.skura
 </a>
 
 #### Fujifilm Velvia 100F (ref: f7fb)
+
 ```
 ISO     : 100
 Format  : 120
@@ -663,6 +691,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Fujifilm Velvia 100F (ref: 32d4)
+
 ```
 ISO     : 100
 Format  : 35mm
@@ -677,6 +706,7 @@ Scanned By: @seklerek
 </a>
 
 #### GAF Color Slide Film (ref: dea6)
+
 ```
 ISO     : 64
 Format  : 126
@@ -726,6 +756,7 @@ Scanned By: b0baspace
 </a>
 
 #### HARMAN PHOENIX (ref: 637f)
+
 ```
 ISO     : 200
 Format  : 120
@@ -747,6 +778,7 @@ Scanned By: dekuNukem
 </a>
 
 #### HARMAN PHOENIX (ref: 8eb4)
+
 ```
 ISO     : 200
 Format  : 35mm
@@ -768,6 +800,7 @@ Scanned By: yc128
 </a>
 
 #### Ilford Delta (ref: eb8d)
+
 ```
 ISO     : 100
 Format  : 120
@@ -789,6 +822,7 @@ Scanned By: @ob.skura
 </a>
 
 #### Ilford HP5 Plus (ref: 1a5d)
+
 ```
 ISO     : 400
 Format  : 120
@@ -810,6 +844,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Ilford HP5 Plus (ref: efad)
+
 ```
 ISO     : 400
 Format  : 120
@@ -831,6 +866,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Ilford HP5 Plus (ref: df49)
+
 ```
 ISO     : 400
 Format  : 35mm
@@ -852,6 +888,7 @@ Scanned By: @SirBrentsworth
 </a>
 
 #### Ilford HP5 Plus (ref: c725)
+
 ```
 ISO     : 400
 Format  : 35mm
@@ -866,6 +903,7 @@ Scanned By: @recycling.film
 </a>
 
 #### Ilford SFX 200 (ref: 6057)
+
 ```
 ISO     : 200
 Format  : 120
@@ -887,6 +925,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Jessops Diamond Everyday (ref: 67d3)
+
 ```
 ISO     : 200
 Format  : APS
@@ -901,6 +940,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Kentmere PAN (ref: 827e)
+
 ```
 ISO     : 400
 Format  : 35mm
@@ -922,6 +962,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Kentmere PAN (ref: d223)
+
 ```
 ISO     : 400
 Format  : 35mm
@@ -943,6 +984,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Kentmere PAN (ref: c907)
+
 ```
 ISO     : 100
 Format  : 35mm
@@ -964,6 +1006,7 @@ Scanned By: @SirBrentsworth
 </a>
 
 #### Klick APS Film (ref: 4b88)
+
 ```
 ISO     : 200
 Format  : APS
@@ -985,6 +1028,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Klick XD200 (ref: 44d7)
+
 ```
 ISO     : 200
 Format  : 110
@@ -999,6 +1043,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Kodak Advantix Ultra (ref: 566b)
+
 ```
 ISO     : 200
 Format  : APS
@@ -1013,6 +1058,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Kodak ColorPlus (ref: 79ca)
+
 ```
 ISO     : 200
 Format  : 35mm
@@ -1027,6 +1073,7 @@ Scanned By: @SirBrentsworth
 </a>
 
 #### Kodak ColorPlus (ref: 6637)
+
 ```
 ISO     : 200
 Format  : 35mm
@@ -1041,6 +1088,7 @@ Scanned By: @recycling.film
 </a>
 
 #### Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)
+
 ```
 ISO     : Unknown
 Format  : 16mm
@@ -1055,6 +1103,7 @@ Scanned By: Nano_Burger
 </a>
 
 #### Kodak Ektachrome (ref: ce7f)
+
 ```
 ISO     : 160
 Format  : 120
@@ -1069,6 +1118,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Kodak Ektachrome (ref: 07c0)
+
 ```
 ISO     : 64
 Format  : 110
@@ -1083,6 +1133,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Kodak Ektachrome (ref: ec3d)
+
 ```
 ISO     : 160
 Format  : 35mm
@@ -1111,6 +1162,7 @@ Scanned By: @ob.skura
 </a>
 
 #### Kodak Ektachrome (ref: b21e)
+
 ```
 ISO     : 200
 Format  : 35mm
@@ -1139,6 +1191,7 @@ Scanned By: b0baspace
 </a>
 
 #### Kodak Ektachrome (ref: 3c96)
+
 ```
 ISO     : 400
 Format  : 35mm
@@ -1160,6 +1213,7 @@ Scanned By: Nano_Burger
 </a>
 
 #### Kodak Ektacolor Pro Gold (ref: c3f8)
+
 ```
 ISO     : 160
 Format  : 220
@@ -1195,6 +1249,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Kodak Ektar (ref: 3498)
+
 ```
 ISO     : 100
 Format  : 35mm
@@ -1209,6 +1264,7 @@ Scanned By: @SirBrentsworth
 </a>
 
 #### Kodak Elite Chrome (ref: 523c)
+
 ```
 ISO     : 100
 Format  : 35mm
@@ -1223,6 +1279,7 @@ Scanned By: @ob.skura
 </a>
 
 #### Kodak Gold (ref: 933f)
+
 ```
 ISO     : 200
 Format  : 35mm
@@ -1237,6 +1294,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Kodak Gold (ref: f368)
+
 ```
 ISO     : 200
 Format  : 110
@@ -1251,6 +1309,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Kodak Gold (ref: 3e7f)
+
 ```
 ISO     : 200
 Format  : 35mm
@@ -1265,6 +1324,7 @@ Scanned By: @SirBrentsworth
 </a>
 
 #### Kodak Gold (ref: 855e)
+
 ```
 ISO     : 200
 Format  : 35mm
@@ -1279,6 +1339,7 @@ Scanned By: @SirBrentsworth
 </a>
 
 #### Kodak Gold (ref: ea58)
+
 ```
 ISO     : 100
 Format  : 35mm
@@ -1300,6 +1361,7 @@ Scanned By: lilyu.xyz
 </a>
 
 #### Kodak Gold Ultra (ref: 1358)
+
 ```
 ISO     : 400
 Format  : 35mm
@@ -1321,6 +1383,7 @@ Scanned By: lilyu.xyz
 </a>
 
 #### Kodak High Speed Infrared (ref: 4294)
+
 ```
 ISO     : 80
 Format  : 35mm
@@ -1349,6 +1412,7 @@ Scanned By: Nano_Burger
 </a>
 
 #### Kodak High Speed Infrared (ref: 883e)
+
 ```
 ISO     : 80
 Format  : 35mm
@@ -1370,6 +1434,7 @@ Scanned By: Nano_Burger
 </a>
 
 #### Kodak Kodachrome (ref: 3145)
+
 ```
 ISO     : 64
 Format  : 110
@@ -1398,6 +1463,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Kodak Kodachrome (ref: 6477)
+
 ```
 ISO     : 25
 Format  : 35mm
@@ -1440,6 +1506,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Kodak Kodachrome (ref: 3206)
+
 ```
 ISO     : 64
 Format  : 35mm
@@ -1454,6 +1521,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Kodak Kodacolor VR (ref: 035f)
+
 ```
 ISO     : 200
 Format  : 35mm
@@ -1475,6 +1543,7 @@ Scanned By: @ftfilmphotos
 </a>
 
 #### Kodak Kodacolor-X (ref: 5302)
+
 ```
 ISO     : 80
 Format  : 126
@@ -1489,6 +1558,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Kodak Kodacolor-X (ref: a4b1)
+
 ```
 ISO     : 80
 Format  : 120
@@ -1517,6 +1587,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Kodak Portra (ref: 7d65)
+
 ```
 ISO     : 800
 Format  : 35mm
@@ -1531,6 +1602,7 @@ Scanned By: @recycling.film
 </a>
 
 #### Kodak Portra (ref: ce56)
+
 ```
 ISO     : 160
 Format  : 35mm
@@ -1545,6 +1617,7 @@ Scanned By: @recycling.film
 </a>
 
 #### Kodak Rapid Process Copy Film (ref: e66e)
+
 ```
 ISO     : Unknown
 Format  : 35mm
@@ -1573,6 +1646,7 @@ Scanned By: Nano_Burger
 </a>
 
 #### Kodak TMAX (ref: b3b1)
+
 ```
 ISO     : 100
 Format  : 120
@@ -1587,6 +1661,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Kodak TMAX (ref: 1dff)
+
 ```
 ISO     : 3200
 Format  : 35mm
@@ -1615,6 +1690,7 @@ Scanned By: Nano_Burger
 </a>
 
 #### Kodak Technical Pan (ref: f4cf)
+
 ```
 ISO     : 25
 Format  : 35mm
@@ -1636,6 +1712,7 @@ Scanned By: Nano_Burger
 </a>
 
 #### Kodak Technical Pan 6415 (ref: 03be)
+
 ```
 ISO     : 25
 Format  : 120
@@ -1664,6 +1741,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Kodak Tri-X (ref: 88c5)
+
 ```
 ISO     : 400
 Format  : 120
@@ -1678,6 +1756,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Kodak Ultra (ref: 69a1)
+
 ```
 ISO     : 400
 Format  : 35mm
@@ -1692,6 +1771,7 @@ Scanned By: @ob.skura
 </a>
 
 #### Kodak UltraMax (ref: aaa6)
+
 ```
 ISO     : 400
 Format  : 35mm
@@ -1706,6 +1786,7 @@ Scanned By: @SirBrentsworth
 </a>
 
 #### Kodak Verichrome Pan (ref: 0195)
+
 ```
 ISO     : 125
 Format  : 620
@@ -1720,6 +1801,7 @@ Scanned By: b0baspace
 </a>
 
 #### Konica Infrared 750nm (ref: 2d93)
+
 ```
 ISO     : 32
 Format  : 120
@@ -1734,6 +1816,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Konica Infrared 750nm (ref: e696)
+
 ```
 ISO     : 32
 Format  : 120
@@ -1755,6 +1838,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Kosmo Foto Mono (ref: b74f)
+
 ```
 ISO     : 100
 Format  : 35mm
@@ -1769,6 +1853,7 @@ Scanned By: yc128
 </a>
 
 #### Lloyds Pharmacy APS Film (ref: c7cf)
+
 ```
 ISO     : 200
 Format  : APS
@@ -1783,6 +1868,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Lloyds Pharmacy Colour Film (ref: 77d9)
+
 ```
 ISO     : 200
 Format  : 35mm
@@ -1797,6 +1883,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Lomography Lomochrome Purple (ref: 068f)
+
 ```
 ISO     : 100-400
 Format  : 35mm
@@ -1818,6 +1905,7 @@ Scanned By: @SirBrentsworth
 </a>
 
 #### Lomography Lomochrome Turquoise (ref: 0d90)
+
 ```
 ISO     : 100-400
 Format  : 120
@@ -1839,6 +1927,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Perutz Superomnia (ref: c90d)
+
 ```
 ISO     : 125
 Format  : 9x12
@@ -1853,6 +1942,7 @@ Scanned By: lilyu.xyz
 </a>
 
 #### Polaroid 665 (ref: e054)
+
 ```
 ISO     : 80
 Format  : Pack Film
@@ -1867,6 +1957,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Polaroid 669 (ref: 3566)
+
 ```
 ISO     : 80
 Format  : Pack Film
@@ -1881,6 +1972,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Polaroid GridFilm (ref: 8deb)
+
 ```
 ISO     : 640
 Format  : Integral Film
@@ -1916,6 +2008,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Polaroid PolaBlue (ref: df66)
+
 ```
 ISO     : 12
 Format  : 35mm
@@ -1930,6 +2023,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Polaroid PolaChrome (ref: 3b60)
+
 ```
 ISO     : 40
 Format  : 35mm
@@ -1944,6 +2038,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Porst Color N21 (ref: 494a)
+
 ```
 ISO     : 100
 Format  : 35mm
@@ -1965,6 +2060,7 @@ Scanned By: @ob.skura
 </a>
 
 #### Rollei Infrared (ref: 4f54)
+
 ```
 ISO     : 200
 Format  : 120
@@ -1979,6 +2075,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Rollei Infrared (ref: eae2)
+
 ```
 ISO     : 200
 Format  : 35mm
@@ -2000,6 +2097,7 @@ Scanned By: @ob.skura
 </a>
 
 #### Rollei Retro 80S (ref: e6c0)
+
 ```
 ISO     : 80
 Format  : 120
@@ -2021,6 +2119,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Rollei SUPERPAN (ref: ee8f)
+
 ```
 ISO     : 200
 Format  : 35mm
@@ -2042,6 +2141,7 @@ Scanned By: benikum
 </a>
 
 #### Rossmann Jahreszeiten Pack (ref: 7670)
+
 ```
 ISO     : 100
 Format  : 35mm
@@ -2056,6 +2156,7 @@ Scanned By: benikum
 </a>
 
 #### Shanghai GP3 (ref: 52aa)
+
 ```
 ISO     : 100
 Format  : 127
@@ -2070,6 +2171,7 @@ Scanned By: @ob.skura
 </a>
 
 #### Three Film Rolls 5207 (ref: 0292)
+
 ```
 ISO     : 250
 Format  : 35mm
@@ -2084,6 +2186,7 @@ Scanned By: dekuNukem
 </a>
 
 #### Wolfen NC500 (ref: 91c1)
+
 ```
 ISO     : 400
 Format  : 35mm
@@ -2098,6 +2201,7 @@ Scanned By: @ob.skura
 </a>
 
 #### York Photo Labs DXG 200 (ref: 4bf8)
+
 ```
 ISO     : 200
 Format  : 35mm
