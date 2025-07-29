@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Jul 29 2025
 
-# of items: 179
+# of items: 183
 ```
 
 -----
@@ -32,6 +32,7 @@ Last Updated: Jul 29 2025
 - [[1974] Kodak Kodacolor-X (ref: a4b1)](#1974-kodak-kodacolor-x-ref-a4b1)
 - [[1974] Porst Color N21 (ref: 494a)](#1974-porst-color-n21-ref-494a)
 - [[1975] Kodak Kodacolor-X (ref: 5302)](#1975-kodak-kodacolor-x-ref-5302)
+- [[1977] Kodak High Speed Ektachrome (ref: b8f8)](#1977-kodak-high-speed-ektachrome-ref-b8f8)
 - [[1978] Kodak Kodachrome (ref: 6477)](#1978-kodak-kodachrome-ref-6477)
 - [[1979] Kodak Ektachrome (ref: 07c0)](#1979-kodak-ektachrome-ref-07c0)
 - [[1979] Kodak Kodachrome (ref: 3145)](#1979-kodak-kodachrome-ref-3145)
@@ -42,6 +43,7 @@ Last Updated: Jul 29 2025
 - [[1990] Kodak High Speed Infrared (ref: 4294)](#1990-kodak-high-speed-infrared-ref-4294)
 - [[1990] Kodak Ektachrome (ref: 3c96)](#1990-kodak-ektachrome-ref-3c96)
 - [[1991] Konica Infrared 750nm (ref: e696)](#1991-konica-infrared-750nm-ref-e696)
+- [[1991] Tasma OCh 50 (ref: 5c43)](#1991-tasma-och-50-ref-5c43)
 - [[1991] Kodak TMAX (ref: 1dff)](#1991-kodak-tmax-ref-1dff)
 - [[1992] Polaroid PolaBlue (ref: df66)](#1992-polaroid-polablue-ref-df66)
 - [[1992] Polaroid PolaChrome (ref: 3b60)](#1992-polaroid-polachrome-ref-3b60)
@@ -357,6 +359,35 @@ Scanned By: dekuNukem
 	<img src="./lowres/00024_000.jpg" alt="Kodak Kodacolor-X 126 film_box_outside" loading="lazy" width="500" />
 </a>
 
+#### [1977] Kodak High Speed Ektachrome (ref: b8f8)
+
+```
+ISO     : 125
+Format  : 35mm
+Process : E-4
+Expiry  : 197701
+UUID    : 86470a73e4b5436b97ffb272be6bb8f8
+Scanned By: Henry Gunn
+```
+
+<a href="./archive/00107_000.jpg">
+	<img src="./lowres/00107_000.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 6d7d9f75f74b4caebbb7a7c6e27c663b`↓
+
+<a href="./archive/00107_001.jpg">
+	<img src="./lowres/00107_001.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: e582ca2ca6ec44e49e9d9e96a56b930e`↓
+
+<a href="./archive/00107_002.jpg">
+	<img src="./lowres/00107_002.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
+</a>
+
 #### [1978] Kodak Kodachrome (ref: 6477)
 
 ```
@@ -610,6 +641,21 @@ Scanned By: dekuNukem
 
 <a href="./archive/00039_001.jpg">
 	<img src="./lowres/00039_001.jpg" alt="Konica Infrared 750nm 120 film_box_leaflet" loading="lazy" height="500" />
+</a>
+
+#### [1991] Tasma OCh 50 (ref: 5c43)
+
+```
+ISO     : 50
+Format  : 35mm
+Process : BW
+Expiry  : 199105
+UUID    : 58211887217046be9d2dfcce8d0c5c43
+Scanned By: Henry Gunn
+```
+
+<a href="./archive/00108_000.jpg">
+	<img src="./lowres/00108_000.jpg" alt="Tasma OCh 50 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### [1991] Kodak TMAX (ref: 1dff)
@@ -2233,6 +2279,7 @@ lilyu.xyz           9
 benikum             6                   
 @recycling.film     5                   
 yc128               4                   
+Henry Gunn          4                   
 @seklerek           2                   
 @ftfilmphotos       2                   
 Yrikonchik          1                   

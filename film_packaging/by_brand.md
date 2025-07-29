@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Jul 29 2025
 
-# of items: 179
+# of items: 183
 ```
 
 -----
@@ -84,6 +84,7 @@ Last Updated: Jul 29 2025
 - [Kodak Gold (ref: 855e)](#kodak-gold-ref-855e)
 - [Kodak Gold (ref: ea58)](#kodak-gold-ref-ea58)
 - [Kodak Gold Ultra (ref: 1358)](#kodak-gold-ultra-ref-1358)
+- [Kodak High Speed Ektachrome (ref: b8f8)](#kodak-high-speed-ektachrome-ref-b8f8)
 - [Kodak High Speed Infrared (ref: 4294)](#kodak-high-speed-infrared-ref-4294)
 - [Kodak High Speed Infrared (ref: 883e)](#kodak-high-speed-infrared-ref-883e)
 - [Kodak Kodachrome (ref: 3145)](#kodak-kodachrome-ref-3145)
@@ -123,6 +124,7 @@ Last Updated: Jul 29 2025
 - [Rollei SUPERPAN (ref: ee8f)](#rollei-superpan-ref-ee8f)
 - [Rossmann Jahreszeiten Pack (ref: 7670)](#rossmann-jahreszeiten-pack-ref-7670)
 - [Shanghai GP3 (ref: 52aa)](#shanghai-gp3-ref-52aa)
+- [Tasma OCh 50 (ref: 5c43)](#tasma-och-50-ref-5c43)
 - [Three Film Rolls 5207 (ref: 0292)](#three-film-rolls-5207-ref-0292)
 - [Wolfen NC500 (ref: 91c1)](#wolfen-nc500-ref-91c1)
 - [York Photo Labs DXG 200 (ref: 4bf8)](#york-photo-labs-dxg-200-ref-4bf8)
@@ -1382,6 +1384,35 @@ Scanned By: lilyu.xyz
 	<img src="./lowres/00094_001.jpg" alt="Kodak Gold Ultra 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
+#### Kodak High Speed Ektachrome (ref: b8f8)
+
+```
+ISO     : 125
+Format  : 35mm
+Process : E-4
+Expiry  : 197701
+UUID    : 86470a73e4b5436b97ffb272be6bb8f8
+Scanned By: Henry Gunn
+```
+
+<a href="./archive/00107_000.jpg">
+	<img src="./lowres/00107_000.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 6d7d9f75f74b4caebbb7a7c6e27c663b`↓
+
+<a href="./archive/00107_001.jpg">
+	<img src="./lowres/00107_001.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: e582ca2ca6ec44e49e9d9e96a56b930e`↓
+
+<a href="./archive/00107_002.jpg">
+	<img src="./lowres/00107_002.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
+</a>
+
 #### Kodak High Speed Infrared (ref: 4294)
 
 ```
@@ -2170,6 +2201,21 @@ Scanned By: @ob.skura
 	<img src="./lowres/00050_000.jpg" alt="Shanghai GP3 127 film_box_outside" loading="lazy" width="500" />
 </a>
 
+#### Tasma OCh 50 (ref: 5c43)
+
+```
+ISO     : 50
+Format  : 35mm
+Process : BW
+Expiry  : 199105
+UUID    : 58211887217046be9d2dfcce8d0c5c43
+Scanned By: Henry Gunn
+```
+
+<a href="./archive/00108_000.jpg">
+	<img src="./lowres/00108_000.jpg" alt="Tasma OCh 50 35mm film_box_outside" loading="lazy" width="500" />
+</a>
+
 #### Three Film Rolls 5207 (ref: 0292)
 
 ```
@@ -2233,6 +2279,7 @@ lilyu.xyz           9
 benikum             6                   
 @recycling.film     5                   
 yc128               4                   
+Henry Gunn          4                   
 @seklerek           2                   
 @ftfilmphotos       2                   
 Yrikonchik          1                   

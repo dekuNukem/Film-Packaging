@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Jul 29 2025
 
-# of items: 179
+# of items: 183
 ```
 
 -----
@@ -60,6 +60,7 @@ Last Updated: Jul 29 2025
 - [[BW] Rollei Retro 80S (ref: e6c0)](#bw-rollei-retro-80s-ref-e6c0)
 - [[BW] Rollei SUPERPAN (ref: ee8f)](#bw-rollei-superpan-ref-ee8f)
 - [[BW] Shanghai GP3 (ref: 52aa)](#bw-shanghai-gp3-ref-52aa)
+- [[BW] Tasma OCh 50 (ref: 5c43)](#bw-tasma-och-50-ref-5c43)
 - [[C-22] Kodak Kodacolor-X (ref: 5302)](#c-22-kodak-kodacolor-x-ref-5302)
 - [[C-22] Kodak Kodacolor-X (ref: a4b1)](#c-22-kodak-kodacolor-x-ref-a4b1)
 - [[C-22] Porst Color N21 (ref: 494a)](#c-22-porst-color-n21-ref-494a)
@@ -107,6 +108,7 @@ Last Updated: Jul 29 2025
 - [[D-97] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#d-97-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
 - [[E-2] Kodak Ektachrome (ref: ce7f)](#e-2-kodak-ektachrome-ref-ce7f)
 - [[E-2] Kodak Ektachrome (ref: ec3d)](#e-2-kodak-ektachrome-ref-ec3d)
+- [[E-4] Kodak High Speed Ektachrome (ref: b8f8)](#e-4-kodak-high-speed-ektachrome-ref-b8f8)
 - [[E-6] Fujifilm Fujichrome Professional 100D (ref: 439d)](#e-6-fujifilm-fujichrome-professional-100d-ref-439d)
 - [[E-6] Fujifilm Provia 100F (ref: 356d)](#e-6-fujifilm-provia-100f-ref-356d)
 - [[E-6] Fujifilm Velvia (ref: 3182)](#e-6-fujifilm-velvia-ref-3182)
@@ -908,6 +910,21 @@ Scanned By: @ob.skura
 
 <a href="./archive/00050_000.jpg">
 	<img src="./lowres/00050_000.jpg" alt="Shanghai GP3 127 film_box_outside" loading="lazy" width="500" />
+</a>
+
+#### [BW] Tasma OCh 50 (ref: 5c43)
+
+```
+ISO     : 50
+Format  : 35mm
+Process : BW
+Expiry  : 199105
+UUID    : 58211887217046be9d2dfcce8d0c5c43
+Scanned By: Henry Gunn
+```
+
+<a href="./archive/00108_000.jpg">
+	<img src="./lowres/00108_000.jpg" alt="Tasma OCh 50 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### [C-22] Kodak Kodacolor-X (ref: 5302)
@@ -1797,6 +1814,35 @@ Scanned By: @ob.skura
 	<img src="./lowres/00045_002.jpg" alt="Kodak Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
 </a>
 
+#### [E-4] Kodak High Speed Ektachrome (ref: b8f8)
+
+```
+ISO     : 125
+Format  : 35mm
+Process : E-4
+Expiry  : 197701
+UUID    : 86470a73e4b5436b97ffb272be6bb8f8
+Scanned By: Henry Gunn
+```
+
+<a href="./archive/00107_000.jpg">
+	<img src="./lowres/00107_000.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 6d7d9f75f74b4caebbb7a7c6e27c663b`↓
+
+<a href="./archive/00107_001.jpg">
+	<img src="./lowres/00107_001.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: e582ca2ca6ec44e49e9d9e96a56b930e`↓
+
+<a href="./archive/00107_002.jpg">
+	<img src="./lowres/00107_002.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
+</a>
+
 #### [E-6] Fujifilm Fujichrome Professional 100D (ref: 439d)
 
 ```
@@ -2233,6 +2279,7 @@ lilyu.xyz           9
 benikum             6                   
 @recycling.film     5                   
 yc128               4                   
+Henry Gunn          4                   
 @seklerek           2                   
 @ftfilmphotos       2                   
 Yrikonchik          1                   

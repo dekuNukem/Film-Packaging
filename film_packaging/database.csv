@@ -178,3 +178,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 105,2,film_box_inside,Kodak,Rapid Process Copy Film,35mm,Unknown,BW,200006,1753806932,4462f9084b30b81925a55853d6e3a146,fc2e102fecae4f2dbd04fd341fdb7afd,00105_002.jpg,Nano_Burger
 106,0,film_box_outside,Kodak,Technical Pan,35mm,25,BW,199504,1753807209,edf0e6c4d6dab0f5413bac5d5ac388cc,e65b4252384141028ee037892c6bf4cf,00106_000.jpg,Nano_Burger
 106,1,film_box_inside,Kodak,Technical Pan,35mm,25,BW,199504,1753807211,63ecb32036c0bc56a4b21add8f7ccc44,fd713c7576534f62832529c13f74996b,00106_001.jpg,Nano_Burger
+107,0,film_box_outside,Kodak,High Speed Ektachrome,35mm,125,E-4,197701,1753826107,fea879cbc8e97ee86f99a9b5baf6053f,86470a73e4b5436b97ffb272be6bb8f8,00107_000.jpg,Henry Gunn
+107,1,film_box_leaflet,Kodak,High Speed Ektachrome,35mm,125,E-4,197701,1753826109,ffb30a7ad3300afc42b3649c9d9373d0,6d7d9f75f74b4caebbb7a7c6e27c663b,00107_001.jpg,Henry Gunn
+107,2,film_box_leaflet,Kodak,High Speed Ektachrome,35mm,125,E-4,197701,1753826117,45c00df2a4f9911345284353404a930d,e582ca2ca6ec44e49e9d9e96a56b930e,00107_002.jpg,Henry Gunn
+108,0,film_box_outside,Tasma,OCh 50,35mm,50,BW,199105,1753826631,3e0a3532c86d2cfe869eac4c88b83da9,58211887217046be9d2dfcce8d0c5c43,00108_000.jpg,Henry Gunn
