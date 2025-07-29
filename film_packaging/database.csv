@@ -79,9 +79,9 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 44,0,film_box_outside,Fujifilm,Velvia,35mm,50,E-6,200101,1736883763,306dd5f049828db47e7e2089771de0bb,9b9ee1c1c0e94d968674987799d33182,00044_000.jpg,@ob.skura
 44,1,film_box_leaflet,Fujifilm,Velvia,35mm,50,E-6,200101,1736883767,61de8ebeb22ba4901e02c48244fb82e4,2e2e20a0b57542e4908ad9fc825e7e76,00044_001.jpg,@ob.skura
 44,2,film_box_leaflet,Fujifilm,Velvia,35mm,50,E-6,200101,1736883772,47e3432812d07155f874f8afac7de0da,03951cb49c8a44229aa4b5760744fc6f,00044_002.jpg,@ob.skura
-45,0,film_box_outside,Kodak,Ektachrome,35mm,160,E-2,197006,1736883871,6032ff6adc51444c16da8db94c9646ac,9702189f65de43c59fce151094a7ec3d,00045_000.jpg,@ob.skura
-45,1,film_box_leaflet,Kodak,Ektachrome,35mm,160,E-2,197006,1736883874,28a0b7e0f1e2684ba1aabb16fe3f7053,1fc1082f5b524367820b31b7669e86cd,00045_001.jpg,@ob.skura
-45,2,film_box_leaflet,Kodak,Ektachrome,35mm,160,E-2,197006,1736883879,38481a7088204674dceeedb15421edef,6b248d300438476aa38c9b6bce04fc87,00045_002.jpg,@ob.skura
+45,0,film_box_outside,Kodak,Ektachrome,35mm,160,E-4,197006,1736883871,6032ff6adc51444c16da8db94c9646ac,9702189f65de43c59fce151094a7ec3d,00045_000.jpg,@ob.skura
+45,1,film_box_leaflet,Kodak,Ektachrome,35mm,160,E-4,197006,1736883874,28a0b7e0f1e2684ba1aabb16fe3f7053,1fc1082f5b524367820b31b7669e86cd,00045_001.jpg,@ob.skura
+45,2,film_box_leaflet,Kodak,Ektachrome,35mm,160,E-4,197006,1736883879,38481a7088204674dceeedb15421edef,6b248d300438476aa38c9b6bce04fc87,00045_002.jpg,@ob.skura
 46,0,film_box_outside,Porst,Color N21,35mm,100,C-22,197401,1736884074,a317d58f048720aa4e7701a44da0ffa1,e08418889f714c9dbda0858718e0494a,00046_000.jpg,@ob.skura
 46,1,film_box_leaflet,Porst,Color N21,35mm,100,C-22,197401,1736884076,e869423af5d6a26dbdbf3f4252c11516,e9bc17db34fa4b779e283c96c92b2359,00046_001.jpg,@ob.skura
 47,0,film_box_outside,Rollei,Infrared,35mm,200,BW,202704,1737477709,494bf6d49706ed25c15d71a6715f8744,9ef642a09d294cbfad7e040a701deae2,00047_000.jpg,@ob.skura
@@ -178,7 +178,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 105,2,film_box_inside,Kodak,Rapid Process Copy Film,35mm,Unknown,BW,200006,1753806932,4462f9084b30b81925a55853d6e3a146,fc2e102fecae4f2dbd04fd341fdb7afd,00105_002.jpg,Nano_Burger
 106,0,film_box_outside,Kodak,Technical Pan,35mm,25,BW,199504,1753807209,edf0e6c4d6dab0f5413bac5d5ac388cc,e65b4252384141028ee037892c6bf4cf,00106_000.jpg,Nano_Burger
 106,1,film_box_inside,Kodak,Technical Pan,35mm,25,BW,199504,1753807211,63ecb32036c0bc56a4b21add8f7ccc44,fd713c7576534f62832529c13f74996b,00106_001.jpg,Nano_Burger
-107,0,film_box_outside,Kodak,High Speed Ektachrome,35mm,125,E-4,197701,1753826107,fea879cbc8e97ee86f99a9b5baf6053f,86470a73e4b5436b97ffb272be6bb8f8,00107_000.jpg,Henry Gunn
-107,1,film_box_leaflet,Kodak,High Speed Ektachrome,35mm,125,E-4,197701,1753826109,ffb30a7ad3300afc42b3649c9d9373d0,6d7d9f75f74b4caebbb7a7c6e27c663b,00107_001.jpg,Henry Gunn
-107,2,film_box_leaflet,Kodak,High Speed Ektachrome,35mm,125,E-4,197701,1753826117,45c00df2a4f9911345284353404a930d,e582ca2ca6ec44e49e9d9e96a56b930e,00107_002.jpg,Henry Gunn
+107,0,film_box_outside,Kodak,Ektachrome,35mm,125,E-4,197701,1753826107,fea879cbc8e97ee86f99a9b5baf6053f,86470a73e4b5436b97ffb272be6bb8f8,00107_000.jpg,Henry Gunn
+107,1,film_box_leaflet,Kodak,Ektachrome,35mm,125,E-4,197701,1753826109,ffb30a7ad3300afc42b3649c9d9373d0,6d7d9f75f74b4caebbb7a7c6e27c663b,00107_001.jpg,Henry Gunn
+107,2,film_box_leaflet,Kodak,Ektachrome,35mm,125,E-4,197701,1753826117,45c00df2a4f9911345284353404a930d,e582ca2ca6ec44e49e9d9e96a56b930e,00107_002.jpg,Henry Gunn
 108,0,film_box_outside,Tasma,OCh 50,35mm,50,BW,199105,1753826631,3e0a3532c86d2cfe869eac4c88b83da9,58211887217046be9d2dfcce8d0c5c43,00108_000.jpg,Henry Gunn

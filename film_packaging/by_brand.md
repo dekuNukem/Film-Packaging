@@ -75,6 +75,7 @@ Last Updated: Jul 29 2025
 - [Kodak Ektachrome (ref: ec3d)](#kodak-ektachrome-ref-ec3d)
 - [Kodak Ektachrome (ref: b21e)](#kodak-ektachrome-ref-b21e)
 - [Kodak Ektachrome (ref: 3c96)](#kodak-ektachrome-ref-3c96)
+- [Kodak Ektachrome (ref: b8f8)](#kodak-ektachrome-ref-b8f8)
 - [Kodak Ektacolor Pro Gold (ref: c3f8)](#kodak-ektacolor-pro-gold-ref-c3f8)
 - [Kodak Ektar (ref: 3498)](#kodak-ektar-ref-3498)
 - [Kodak Elite Chrome (ref: 523c)](#kodak-elite-chrome-ref-523c)
@@ -84,7 +85,6 @@ Last Updated: Jul 29 2025
 - [Kodak Gold (ref: 855e)](#kodak-gold-ref-855e)
 - [Kodak Gold (ref: ea58)](#kodak-gold-ref-ea58)
 - [Kodak Gold Ultra (ref: 1358)](#kodak-gold-ultra-ref-1358)
-- [Kodak High Speed Ektachrome (ref: b8f8)](#kodak-high-speed-ektachrome-ref-b8f8)
 - [Kodak High Speed Infrared (ref: 4294)](#kodak-high-speed-infrared-ref-4294)
 - [Kodak High Speed Infrared (ref: 883e)](#kodak-high-speed-infrared-ref-883e)
 - [Kodak Kodachrome (ref: 3145)](#kodak-kodachrome-ref-3145)
@@ -1139,7 +1139,7 @@ Scanned By: dekuNukem
 ```
 ISO     : 160
 Format  : 35mm
-Process : E-2
+Process : E-4
 Expiry  : 197006
 UUID    : 9702189f65de43c59fce151094a7ec3d
 Scanned By: @ob.skura
@@ -1212,6 +1212,35 @@ Scanned By: Nano_Burger
 
 <a href="./archive/00100_001.jpg">
 	<img src="./lowres/00100_001.jpg" alt="Kodak Ektachrome 35mm film_box_inside" loading="lazy" height="500" />
+</a>
+
+#### Kodak Ektachrome (ref: b8f8)
+
+```
+ISO     : 125
+Format  : 35mm
+Process : E-4
+Expiry  : 197701
+UUID    : 86470a73e4b5436b97ffb272be6bb8f8
+Scanned By: Henry Gunn
+```
+
+<a href="./archive/00107_000.jpg">
+	<img src="./lowres/00107_000.jpg" alt="Kodak Ektachrome 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 6d7d9f75f74b4caebbb7a7c6e27c663b`↓
+
+<a href="./archive/00107_001.jpg">
+	<img src="./lowres/00107_001.jpg" alt="Kodak Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: e582ca2ca6ec44e49e9d9e96a56b930e`↓
+
+<a href="./archive/00107_002.jpg">
+	<img src="./lowres/00107_002.jpg" alt="Kodak Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
 </a>
 
 #### Kodak Ektacolor Pro Gold (ref: c3f8)
@@ -1382,35 +1411,6 @@ Scanned By: lilyu.xyz
 
 <a href="./archive/00094_001.jpg">
 	<img src="./lowres/00094_001.jpg" alt="Kodak Gold Ultra 35mm film_box_outside" loading="lazy" height="500" />
-</a>
-
-#### Kodak High Speed Ektachrome (ref: b8f8)
-
-```
-ISO     : 125
-Format  : 35mm
-Process : E-4
-Expiry  : 197701
-UUID    : 86470a73e4b5436b97ffb272be6bb8f8
-Scanned By: Henry Gunn
-```
-
-<a href="./archive/00107_000.jpg">
-	<img src="./lowres/00107_000.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_outside" loading="lazy" height="500" />
-</a>
-
-
-`UUID: 6d7d9f75f74b4caebbb7a7c6e27c663b`↓
-
-<a href="./archive/00107_001.jpg">
-	<img src="./lowres/00107_001.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
-</a>
-
-
-`UUID: e582ca2ca6ec44e49e9d9e96a56b930e`↓
-
-<a href="./archive/00107_002.jpg">
-	<img src="./lowres/00107_002.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
 </a>
 
 #### Kodak High Speed Infrared (ref: 4294)

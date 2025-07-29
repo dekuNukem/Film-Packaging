@@ -107,8 +107,8 @@ Last Updated: Jul 29 2025
 - [[C-41] York Photo Labs DXG 200 (ref: 4bf8)](#c-41-york-photo-labs-dxg-200-ref-4bf8)
 - [[D-97] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#d-97-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
 - [[E-2] Kodak Ektachrome (ref: ce7f)](#e-2-kodak-ektachrome-ref-ce7f)
-- [[E-2] Kodak Ektachrome (ref: ec3d)](#e-2-kodak-ektachrome-ref-ec3d)
-- [[E-4] Kodak High Speed Ektachrome (ref: b8f8)](#e-4-kodak-high-speed-ektachrome-ref-b8f8)
+- [[E-4] Kodak Ektachrome (ref: ec3d)](#e-4-kodak-ektachrome-ref-ec3d)
+- [[E-4] Kodak Ektachrome (ref: b8f8)](#e-4-kodak-ektachrome-ref-b8f8)
 - [[E-6] Fujifilm Fujichrome Professional 100D (ref: 439d)](#e-6-fujifilm-fujichrome-professional-100d-ref-439d)
 - [[E-6] Fujifilm Provia 100F (ref: 356d)](#e-6-fujifilm-provia-100f-ref-356d)
 - [[E-6] Fujifilm Velvia (ref: 3182)](#e-6-fujifilm-velvia-ref-3182)
@@ -1785,12 +1785,12 @@ Scanned By: dekuNukem
 	<img src="./lowres/00017_000.jpg" alt="Kodak Ektachrome 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
-#### [E-2] Kodak Ektachrome (ref: ec3d)
+#### [E-4] Kodak Ektachrome (ref: ec3d)
 
 ```
 ISO     : 160
 Format  : 35mm
-Process : E-2
+Process : E-4
 Expiry  : 197006
 UUID    : 9702189f65de43c59fce151094a7ec3d
 Scanned By: @ob.skura
@@ -1814,7 +1814,7 @@ Scanned By: @ob.skura
 	<img src="./lowres/00045_002.jpg" alt="Kodak Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
 </a>
 
-#### [E-4] Kodak High Speed Ektachrome (ref: b8f8)
+#### [E-4] Kodak Ektachrome (ref: b8f8)
 
 ```
 ISO     : 125
@@ -1826,21 +1826,21 @@ Scanned By: Henry Gunn
 ```
 
 <a href="./archive/00107_000.jpg">
-	<img src="./lowres/00107_000.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00107_000.jpg" alt="Kodak Ektachrome 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: 6d7d9f75f74b4caebbb7a7c6e27c663b`↓
 
 <a href="./archive/00107_001.jpg">
-	<img src="./lowres/00107_001.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
+	<img src="./lowres/00107_001.jpg" alt="Kodak Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
 </a>
 
 
 `UUID: e582ca2ca6ec44e49e9d9e96a56b930e`↓
 
 <a href="./archive/00107_002.jpg">
-	<img src="./lowres/00107_002.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
+	<img src="./lowres/00107_002.jpg" alt="Kodak Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
 </a>
 
 #### [E-6] Fujifilm Fujichrome Professional 100D (ref: 439d)

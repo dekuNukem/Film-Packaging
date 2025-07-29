@@ -32,7 +32,7 @@ Last Updated: Jul 29 2025
 - [[1974] Kodak Kodacolor-X (ref: a4b1)](#1974-kodak-kodacolor-x-ref-a4b1)
 - [[1974] Porst Color N21 (ref: 494a)](#1974-porst-color-n21-ref-494a)
 - [[1975] Kodak Kodacolor-X (ref: 5302)](#1975-kodak-kodacolor-x-ref-5302)
-- [[1977] Kodak High Speed Ektachrome (ref: b8f8)](#1977-kodak-high-speed-ektachrome-ref-b8f8)
+- [[1977] Kodak Ektachrome (ref: b8f8)](#1977-kodak-ektachrome-ref-b8f8)
 - [[1978] Kodak Kodachrome (ref: 6477)](#1978-kodak-kodachrome-ref-6477)
 - [[1979] Kodak Ektachrome (ref: 07c0)](#1979-kodak-ektachrome-ref-07c0)
 - [[1979] Kodak Kodachrome (ref: 3145)](#1979-kodak-kodachrome-ref-3145)
@@ -189,7 +189,7 @@ Scanned By: dekuNukem
 ```
 ISO     : 160
 Format  : 35mm
-Process : E-2
+Process : E-4
 Expiry  : 197006
 UUID    : 9702189f65de43c59fce151094a7ec3d
 Scanned By: @ob.skura
@@ -359,7 +359,7 @@ Scanned By: dekuNukem
 	<img src="./lowres/00024_000.jpg" alt="Kodak Kodacolor-X 126 film_box_outside" loading="lazy" width="500" />
 </a>
 
-#### [1977] Kodak High Speed Ektachrome (ref: b8f8)
+#### [1977] Kodak Ektachrome (ref: b8f8)
 
 ```
 ISO     : 125
@@ -371,21 +371,21 @@ Scanned By: Henry Gunn
 ```
 
 <a href="./archive/00107_000.jpg">
-	<img src="./lowres/00107_000.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00107_000.jpg" alt="Kodak Ektachrome 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: 6d7d9f75f74b4caebbb7a7c6e27c663b`↓
 
 <a href="./archive/00107_001.jpg">
-	<img src="./lowres/00107_001.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
+	<img src="./lowres/00107_001.jpg" alt="Kodak Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
 </a>
 
 
 `UUID: e582ca2ca6ec44e49e9d9e96a56b930e`↓
 
 <a href="./archive/00107_002.jpg">
-	<img src="./lowres/00107_002.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
+	<img src="./lowres/00107_002.jpg" alt="Kodak Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
 </a>
 
 #### [1978] Kodak Kodachrome (ref: 6477)
