@@ -169,7 +169,7 @@ try:
 except Exception as e:
     print("csv read exception:", e)
 
-sorted_db_by_brand = sorted(database_entries, key=operator.itemgetter(ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
+sorted_db_by_brand = sorted(database_entries, key=operator.itemgetter(ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_EXPIRY_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
 out_str = make_md("BRAND", sorted_db_by_brand)
 write_to_file("./by_brand.md", out_str)
 
@@ -177,10 +177,10 @@ sorted_db_by_brand = sorted(database_entries, key=operator.itemgetter(ITEM_EXPIR
 out_str = make_md("EXPIRY DATE", sorted_db_by_brand, ftk=ITEM_EXPIRY_KEY, ftf=expiry_func)
 write_to_file("./by_expiry.md", out_str)
 
-sorted_db_by_brand = sorted(database_entries, key=operator.itemgetter(ITEM_FORMAT_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
+sorted_db_by_brand = sorted(database_entries, key=operator.itemgetter(ITEM_FORMAT_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_EXPIRY_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
 out_str = make_md("FILM FORMAT", sorted_db_by_brand, ftk=ITEM_FORMAT_KEY, ftf=None)
 write_to_file("./by_format.md", out_str)
 
-sorted_db_by_brand = sorted(database_entries, key=operator.itemgetter(ITEM_PROCESS_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
+sorted_db_by_brand = sorted(database_entries, key=operator.itemgetter(ITEM_PROCESS_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_EXPIRY_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
 out_str = make_md("PROCESS TYPE", sorted_db_by_brand, ftk=ITEM_PROCESS_KEY, ftf=None)
 write_to_file("./by_process.md", out_str)
