@@ -206,7 +206,7 @@ Scanned By: Nano_Burger
 ```
 
 <a href="./archive/00098_000.jpg">
-	<img src="./lowres/00098_000.jpg" alt="AGFA Autolith Repo 9x12 film_box_outside" loading="lazy" width="0" />
+	<img src="./lowres/00098_000.jpg" alt="AGFA Autolith Repo 9x12 film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### AGFA Isopan FF (ref: 3700)
@@ -220,7 +220,7 @@ Scanned By: Nano_Burger
 ```
 
 <a href="./archive/00101_000.jpg">
-	<img src="./lowres/00101_000.jpg" alt="AGFA Isopan FF 35mm film_box_outside" loading="lazy" width="0" />
+	<img src="./lowres/00101_000.jpg" alt="AGFA Isopan FF 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### AGFA ULTRA 50 (ref: 4faa)
@@ -1053,7 +1053,7 @@ Scanned By: Nano_Burger
 ```
 
 <a href="./archive/00099_000.jpg">
-	<img src="./lowres/00099_000.jpg" alt="Kodak Eastman High Contrast Panchromatic 7369 16mm film_box_outside" loading="lazy" width="0" />
+	<img src="./lowres/00099_000.jpg" alt="Kodak Eastman High Contrast Panchromatic 7369 16mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### Kodak Ektachrome (ref: ce7f)
@@ -1151,14 +1151,14 @@ Scanned By: Nano_Burger
 ```
 
 <a href="./archive/00100_000.jpg">
-	<img src="./lowres/00100_000.jpg" alt="Kodak Ektachrome 35mm film_box_outside" loading="lazy" width="0" />
+	<img src="./lowres/00100_000.jpg" alt="Kodak Ektachrome 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: c8ecef6f805d4a7eab60f82855687e17`↓
 
 <a href="./archive/00100_001.jpg">
-	<img src="./lowres/00100_001.jpg" alt="Kodak Ektachrome 35mm film_box_inside" loading="lazy" width="0" />
+	<img src="./lowres/00100_001.jpg" alt="Kodak Ektachrome 35mm film_box_inside" loading="lazy" height="500" />
 </a>
 
 #### Kodak Ektacolor Pro Gold (ref: c3f8)
@@ -1333,21 +1333,21 @@ Scanned By: Nano_Burger
 ```
 
 <a href="./archive/00102_000.jpg">
-	<img src="./lowres/00102_000.jpg" alt="Kodak High Speed Infrared 35mm film_box_outside" loading="lazy" width="0" />
+	<img src="./lowres/00102_000.jpg" alt="Kodak High Speed Infrared 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: 5cdb927687974c8db4458239ed9a09b4`↓
 
 <a href="./archive/00102_001.jpg">
-	<img src="./lowres/00102_001.jpg" alt="Kodak High Speed Infrared 35mm film_box_leaflet" loading="lazy" width="0" />
+	<img src="./lowres/00102_001.jpg" alt="Kodak High Speed Infrared 35mm film_box_leaflet" loading="lazy" height="500" />
 </a>
 
 
 `UUID: 1058c3167209457aac0f4336c911c8b3`↓
 
 <a href="./archive/00102_002.jpg">
-	<img src="./lowres/00102_002.jpg" alt="Kodak High Speed Infrared 35mm film_box_leaflet" loading="lazy" width="0" />
+	<img src="./lowres/00102_002.jpg" alt="Kodak High Speed Infrared 35mm film_box_leaflet" loading="lazy" height="500" />
 </a>
 
 #### Kodak High Speed Infrared (ref: 883e)
@@ -1361,14 +1361,14 @@ Scanned By: Nano_Burger
 ```
 
 <a href="./archive/00103_000.jpg">
-	<img src="./lowres/00103_000.jpg" alt="Kodak High Speed Infrared 35mm film_box_outside" loading="lazy" width="0" />
+	<img src="./lowres/00103_000.jpg" alt="Kodak High Speed Infrared 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: 5667abf6f7f04edba88137bd54153841`↓
 
 <a href="./archive/00103_001.jpg">
-	<img src="./lowres/00103_001.jpg" alt="Kodak High Speed Infrared 35mm film_box_inside" loading="lazy" width="0" />
+	<img src="./lowres/00103_001.jpg" alt="Kodak High Speed Infrared 35mm film_box_inside" loading="lazy" height="500" />
 </a>
 
 #### Kodak Kodachrome (ref: 3145)
@@ -1557,21 +1557,21 @@ Scanned By: Nano_Burger
 ```
 
 <a href="./archive/00105_000.jpg">
-	<img src="./lowres/00105_000.jpg" alt="Kodak Rapid Process Copy Film 35mm film_box_outside" loading="lazy" width="0" />
+	<img src="./lowres/00105_000.jpg" alt="Kodak Rapid Process Copy Film 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: bab6cc70d0044171a1afcf33b6cb5556`↓
 
 <a href="./archive/00105_001.jpg">
-	<img src="./lowres/00105_001.jpg" alt="Kodak Rapid Process Copy Film 35mm film_box_outside" loading="lazy" width="0" />
+	<img src="./lowres/00105_001.jpg" alt="Kodak Rapid Process Copy Film 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: fc2e102fecae4f2dbd04fd341fdb7afd`↓
 
 <a href="./archive/00105_002.jpg">
-	<img src="./lowres/00105_002.jpg" alt="Kodak Rapid Process Copy Film 35mm film_box_inside" loading="lazy" width="0" />
+	<img src="./lowres/00105_002.jpg" alt="Kodak Rapid Process Copy Film 35mm film_box_inside" loading="lazy" height="500" />
 </a>
 
 #### Kodak TMAX (ref: b3b1)
@@ -1599,21 +1599,21 @@ Scanned By: Nano_Burger
 ```
 
 <a href="./archive/00104_000.jpg">
-	<img src="./lowres/00104_000.jpg" alt="Kodak TMAX 35mm film_box_outside" loading="lazy" width="0" />
+	<img src="./lowres/00104_000.jpg" alt="Kodak TMAX 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: b9d1b08379d9482bbc799101f6881f12`↓
 
 <a href="./archive/00104_001.jpg">
-	<img src="./lowres/00104_001.jpg" alt="Kodak TMAX 35mm film_box_leaflet" loading="lazy" width="0" />
+	<img src="./lowres/00104_001.jpg" alt="Kodak TMAX 35mm film_box_leaflet" loading="lazy" height="500" />
 </a>
 
 
 `UUID: a6740f1fc4df4b80a8a4dee83a26c04b`↓
 
 <a href="./archive/00104_002.jpg">
-	<img src="./lowres/00104_002.jpg" alt="Kodak TMAX 35mm film_box_leaflet" loading="lazy" width="0" />
+	<img src="./lowres/00104_002.jpg" alt="Kodak TMAX 35mm film_box_leaflet" loading="lazy" height="500" />
 </a>
 
 #### Kodak Technical Pan (ref: f4cf)
@@ -1627,14 +1627,14 @@ Scanned By: Nano_Burger
 ```
 
 <a href="./archive/00106_000.jpg">
-	<img src="./lowres/00106_000.jpg" alt="Kodak Technical Pan 35mm film_box_outside" loading="lazy" width="0" />
+	<img src="./lowres/00106_000.jpg" alt="Kodak Technical Pan 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: fd713c7576534f62832529c13f74996b`↓
 
 <a href="./archive/00106_001.jpg">
-	<img src="./lowres/00106_001.jpg" alt="Kodak Technical Pan 35mm film_box_inside" loading="lazy" width="0" />
+	<img src="./lowres/00106_001.jpg" alt="Kodak Technical Pan 35mm film_box_inside" loading="lazy" height="500" />
 </a>
 
 #### Kodak Technical Pan 6415 (ref: 03be)
