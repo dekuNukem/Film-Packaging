@@ -25,7 +25,7 @@ Feel free to submit if those requirements are met!
 
 A **Flatbed Scanner** is highly recommended.
 
-No need to be fancy, 1200DPI is plenty.
+Any will do, mine is more than 20 years old.
 
 ## Preparation
 
@@ -47,20 +47,20 @@ Each box is different, but generally you can:
 
 ## Scanning
 
-* Scan at 800 / 1200 DPI
-* 24-Bit colour
+* Scan at 800 / 1200 **DPI** (Dots per inch)
 * JPEG format, 90% - 95% quality.
+* **Longest side** should have at **least 4000 pixels**.
 
 ------
 
 * Ensure the scans include:
 	* Outside
-	* Inside (**Only if there is text**)
+	* Inside (Only if there is text)
 	* Leaflets (All pages with text)
 	* Processing Envelopes (If any)
-* Straighten and crop if necessary
+* Straighten and crop if necessary. (Don't crop too tight, leave some space.)
 
-⚠️ DO NOT perform excessive post-processing! Flatter image is preferable.
+⚠️ DO NOT perform excessive post-processing! Flatter is preferable.
 
 ## Sample Scan
 
