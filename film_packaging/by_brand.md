@@ -22,7 +22,6 @@ Last Updated: Jul 29 2025
 
 -----
 
-
 - [ADOX KB17 (ref: 2c95)](#adox-kb17-ref-2c95)
 - [AGFA APX (ref: 12c7)](#agfa-apx-ref-12c7)
 - [AGFA APX (ref: 5276)](#agfa-apx-ref-5276)
@@ -130,7 +129,6 @@ Last Updated: Jul 29 2025
 
 
 -----
-
 
 #### ADOX KB17 (ref: 2c95)
 ```
@@ -2113,7 +2111,6 @@ Scanned By: b0baspace
 	<img src="./lowres/00051_000.jpg" alt="York Photo Labs DXG 200 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
-
 ## Want to Contribute?
 
 [Check out the guidelines!](../contribution_guide.md)
@@ -2144,5 +2141,4 @@ Get in touch by joining [the Discord chatroom](https://discord.gg/yvBx7dVG4B), o
 ## Back to Home Page
 
 [Click me](../README.md)
-
 

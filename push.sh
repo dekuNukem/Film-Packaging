@@ -8,8 +8,8 @@ find . -type f -name "*.eggs*" -exec rm -f {} \;
 find . -name "__pycache__" -exec rm -rf {} \;
 
 cd film_packaging
-python3 update_page.py > by_brand.md
 python3 make_lowres.py
+python3 update_page.py
 python3 update_stats.py
 
 current_branch=$(git rev-parse --abbrev-ref HEAD)

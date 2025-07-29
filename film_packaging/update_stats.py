@@ -87,5 +87,5 @@ def replace_lines(filename):
 	print(f"Stats updated! {filename}")
 
 replace_lines("../README.md")
-
 replace_lines("./by_brand.md")
+replace_lines("./by_expiry.md")

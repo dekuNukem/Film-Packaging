@@ -36,10 +36,10 @@ Last Updated: Jul 29 2025
 Or Sort by...
 
 * [Brand](./film_packaging/by_brand.md)
+* [Expiry Date](./film_packaging/by_expiry.md)
 * Film Format (Coming soon)
 * ISO (Coming soon)
 * Photographic Process (Coming soon)
-* Expiry Date (Coming soon)
 
 The collection is by no means complete or exhaustive, but it's a start!
 
