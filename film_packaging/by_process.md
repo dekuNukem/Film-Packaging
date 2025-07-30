@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jul 29 2025
+Last Updated: Jul 30 2025
 
-# of items: 183
+# of items: 190
 ```
 
 -----
@@ -34,6 +34,7 @@ Last Updated: Jul 29 2025
 - [[BW] Foma Fomapan (ref: 84a5)](#bw-foma-fomapan-ref-84a5)
 - [[BW] Foma Fomapan21 (ref: 75d9)](#bw-foma-fomapan21-ref-75d9)
 - [[BW] Ilford Delta (ref: eb8d)](#bw-ilford-delta-ref-eb8d)
+- [[BW] Ilford FP4 Plus (ref: 76e7)](#bw-ilford-fp4-plus-ref-76e7)
 - [[BW] Ilford HP5 Plus (ref: c725)](#bw-ilford-hp5-plus-ref-c725)
 - [[BW] Ilford HP5 Plus (ref: efad)](#bw-ilford-hp5-plus-ref-efad)
 - [[BW] Ilford HP5 Plus (ref: 1a5d)](#bw-ilford-hp5-plus-ref-1a5d)
@@ -77,8 +78,10 @@ Last Updated: Jul 29 2025
 - [[C-41] Fujifilm NPS (ref: 5e85)](#c-41-fujifilm-nps-ref-5e85)
 - [[C-41] Fujifilm Pro 400H (ref: 66e3)](#c-41-fujifilm-pro-400h-ref-66e3)
 - [[C-41] Fujifilm Superia Reala (ref: a7de)](#c-41-fujifilm-superia-reala-ref-a7de)
-- [[C-41] HARMAN PHOENIX (ref: 8eb4)](#c-41-harman-phoenix-ref-8eb4)
-- [[C-41] HARMAN PHOENIX (ref: 637f)](#c-41-harman-phoenix-ref-637f)
+- [[C-41] Harman Phoenix (ref: 8eb4)](#c-41-harman-phoenix-ref-8eb4)
+- [[C-41] Harman Phoenix (ref: 637f)](#c-41-harman-phoenix-ref-637f)
+- [[C-41] Harman Phoenix II (ref: f686)](#c-41-harman-phoenix-ii-ref-f686)
+- [[C-41] Harman Phoenix II (ref: 40df)](#c-41-harman-phoenix-ii-ref-40df)
 - [[C-41] Jessops Diamond Everyday (ref: 67d3)](#c-41-jessops-diamond-everyday-ref-67d3)
 - [[C-41] Klick APS Film (ref: 4b88)](#c-41-klick-aps-film-ref-4b88)
 - [[C-41] Klick XD200 (ref: 44d7)](#c-41-klick-xd200-ref-44d7)
@@ -103,6 +106,7 @@ Last Updated: Jul 29 2025
 - [[C-41] Lomography Lomochrome Purple (ref: 068f)](#c-41-lomography-lomochrome-purple-ref-068f)
 - [[C-41] Lomography Lomochrome Turquoise (ref: 0d90)](#c-41-lomography-lomochrome-turquoise-ref-0d90)
 - [[C-41] Rossmann Jahreszeiten Pack (ref: 7670)](#c-41-rossmann-jahreszeiten-pack-ref-7670)
+- [[C-41] SantaColor SantaColor (ref: cb58)](#c-41-santacolor-santacolor-ref-cb58)
 - [[C-41] Wolfen NC500 (ref: 91c1)](#c-41-wolfen-nc500-ref-91c1)
 - [[C-41] York Photo Labs DXG 200 (ref: 4bf8)](#c-41-york-photo-labs-dxg-200-ref-4bf8)
 - [[D-97] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#d-97-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
@@ -373,6 +377,28 @@ Scanned By: @ob.skura
 
 <a href="./archive/00048_001.jpg">
 	<img src="./lowres/00048_001.jpg" alt="Ilford Delta 120 film_box_inside" loading="lazy" width="500" />
+</a>
+
+#### [BW] Ilford FP4 Plus (ref: 76e7)
+
+```
+ISO     : 125
+Format  : 120
+Process : BW
+Expiry  : 202604
+UUID    : c6c88d6d009048e9ac3721bdc7f076e7
+Scanned By: yc128
+```
+
+<a href="./archive/00111_000.jpg">
+	<img src="./lowres/00111_000.jpg" alt="Ilford FP4 Plus 120 film_box_outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 95c6d78d0b0540a9ba70dc769609a112`↓
+
+<a href="./archive/00111_001.jpg">
+	<img src="./lowres/00111_001.jpg" alt="Ilford FP4 Plus 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### [BW] Ilford HP5 Plus (ref: c725)
@@ -1258,7 +1284,7 @@ Scanned By: @recycling.film
 	<img src="./lowres/00087_000.jpg" alt="Fujifilm Superia Reala 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
-#### [C-41] HARMAN PHOENIX (ref: 8eb4)
+#### [C-41] Harman Phoenix (ref: 8eb4)
 
 ```
 ISO     : 200
@@ -1270,17 +1296,17 @@ Scanned By: yc128
 ```
 
 <a href="./archive/00076_000.jpg">
-	<img src="./lowres/00076_000.jpg" alt="HARMAN PHOENIX 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00076_000.jpg" alt="Harman Phoenix 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: a7a70b20b4224baeb85c732245eb31d1`↓
 
 <a href="./archive/00076_001.jpg">
-	<img src="./lowres/00076_001.jpg" alt="HARMAN PHOENIX 35mm film_box_inside" loading="lazy" height="500" />
+	<img src="./lowres/00076_001.jpg" alt="Harman Phoenix 35mm film_box_inside" loading="lazy" height="500" />
 </a>
 
-#### [C-41] HARMAN PHOENIX (ref: 637f)
+#### [C-41] Harman Phoenix (ref: 637f)
 
 ```
 ISO     : 200
@@ -1292,14 +1318,58 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00004_000.jpg">
-	<img src="./lowres/00004_000.jpg" alt="HARMAN PHOENIX 120 film_box_outside" loading="lazy" width="500" />
+	<img src="./lowres/00004_000.jpg" alt="Harman Phoenix 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: c5a0132ac51a488ba35ebd6cc48911e7`↓
 
 <a href="./archive/00004_001.jpg">
-	<img src="./lowres/00004_001.jpg" alt="HARMAN PHOENIX 120 film_box_inside" loading="lazy" width="500" />
+	<img src="./lowres/00004_001.jpg" alt="Harman Phoenix 120 film_box_inside" loading="lazy" width="500" />
+</a>
+
+#### [C-41] Harman Phoenix II (ref: f686)
+
+```
+ISO     : 200
+Format  : 120
+Process : C-41
+Expiry  : 202706
+UUID    : 42f9d40379814cf8b02c3f0daf74f686
+Scanned By: yc128
+```
+
+<a href="./archive/00109_000.jpg">
+	<img src="./lowres/00109_000.jpg" alt="Harman Phoenix II 120 film_box_outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: db80264f66ae451abd1b0cc6f34e3280`↓
+
+<a href="./archive/00109_001.jpg">
+	<img src="./lowres/00109_001.jpg" alt="Harman Phoenix II 120 film_box_inside" loading="lazy" width="500" />
+</a>
+
+#### [C-41] Harman Phoenix II (ref: 40df)
+
+```
+ISO     : 200
+Format  : 35mm
+Process : C-41
+Expiry  : 202706
+UUID    : f12ed23e31e14008a969fe05f29940df
+Scanned By: yc128
+```
+
+<a href="./archive/00110_000.jpg">
+	<img src="./lowres/00110_000.jpg" alt="Harman Phoenix II 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: b6dcbe9ae6ea4aebabaf290f3160a553`↓
+
+<a href="./archive/00110_001.jpg">
+	<img src="./lowres/00110_001.jpg" alt="Harman Phoenix II 35mm film_box_inside" loading="lazy" height="500" />
 </a>
 
 #### [C-41] Jessops Diamond Everyday (ref: 67d3)
@@ -1723,6 +1793,21 @@ Scanned By: benikum
 
 <a href="./archive/00072_000.jpg">
 	<img src="./lowres/00072_000.jpg" alt="Rossmann Jahreszeiten Pack 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+#### [C-41] SantaColor SantaColor (ref: cb58)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : C-41
+Expiry  : Unknown
+UUID    : e54ce68c797b4846b9aee3f5818ecb58
+Scanned By: yc128
+```
+
+<a href="./archive/00112_000.jpg">
+	<img src="./lowres/00112_000.jpg" alt="SantaColor SantaColor 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### [C-41] Wolfen NC500 (ref: 91c1)
@@ -2275,10 +2360,10 @@ Rank  Username            Contributions
 3     @ob.skura           16    
 4     b0baspace           14    
 5     @SirBrentsworth     13    
-6     lilyu.xyz           9     
-7     benikum             6     
-8     @recycling.film     5     
-9     yc128               4     
+6     yc128               11    
+7     lilyu.xyz           9     
+8     benikum             6     
+9     @recycling.film     5     
 10    Henry Gunn          4     
 11    @seklerek           2     
 12    @ftfilmphotos       2     

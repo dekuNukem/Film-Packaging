@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jul 29 2025
+Last Updated: Jul 30 2025
 
-# of items: 183
+# of items: 190
 ```
 
 -----
@@ -97,14 +97,15 @@ Last Updated: Jul 29 2025
 - [[2025] Lomography Lomochrome Turquoise (ref: 0d90)](#2025-lomography-lomochrome-turquoise-ref-0d90)
 - [[2025] Kodak ColorPlus (ref: 79ca)](#2025-kodak-colorplus-ref-79ca)
 - [[2025] Ilford HP5 Plus (ref: efad)](#2025-ilford-hp5-plus-ref-efad)
-- [[2025] HARMAN PHOENIX (ref: 8eb4)](#2025-harman-phoenix-ref-8eb4)
+- [[2025] Harman Phoenix (ref: 8eb4)](#2025-harman-phoenix-ref-8eb4)
 - [[2025] Kodak Tri-X (ref: 88c5)](#2025-kodak-tri-x-ref-88c5)
 - [[2025] Three Film Rolls 5207 (ref: 0292)](#2025-three-film-rolls-5207-ref-0292)
 - [[2026] Rollei Retro 80S (ref: e6c0)](#2026-rollei-retro-80s-ref-e6c0)
+- [[2026] Ilford FP4 Plus (ref: 76e7)](#2026-ilford-fp4-plus-ref-76e7)
 - [[2026] Alien Film 5207/250D (ref: 8820)](#2026-alien-film-5207250d-ref-8820)
 - [[2026] Fujifilm 200 (ref: 5b41)](#2026-fujifilm-200-ref-5b41)
 - [[2026] Kodak Gold (ref: 3e7f)](#2026-kodak-gold-ref-3e7f)
-- [[2026] HARMAN PHOENIX (ref: 637f)](#2026-harman-phoenix-ref-637f)
+- [[2026] Harman Phoenix (ref: 637f)](#2026-harman-phoenix-ref-637f)
 - [[2026] Kodak ColorPlus (ref: 6637)](#2026-kodak-colorplus-ref-6637)
 - [[2026] CineStill 800T (ref: b3ff)](#2026-cinestill-800t-ref-b3ff)
 - [[2026] Ilford HP5 Plus (ref: 1a5d)](#2026-ilford-hp5-plus-ref-1a5d)
@@ -118,6 +119,8 @@ Last Updated: Jul 29 2025
 - [[2027] Kosmo Foto Mono (ref: b74f)](#2027-kosmo-foto-mono-ref-b74f)
 - [[2027] Rollei Infrared (ref: eae2)](#2027-rollei-infrared-ref-eae2)
 - [[2027] Lomography Lomochrome Purple (ref: 068f)](#2027-lomography-lomochrome-purple-ref-068f)
+- [[2027] Harman Phoenix II (ref: f686)](#2027-harman-phoenix-ii-ref-f686)
+- [[2027] Harman Phoenix II (ref: 40df)](#2027-harman-phoenix-ii-ref-40df)
 - [[2027] Rollei Infrared (ref: 4f54)](#2027-rollei-infrared-ref-4f54)
 - [[2028] Foma Fomapan (ref: 84a5)](#2028-foma-fomapan-ref-84a5)
 - [[2028] Rollei SUPERPAN (ref: ee8f)](#2028-rollei-superpan-ref-ee8f)
@@ -128,6 +131,7 @@ Last Updated: Jul 29 2025
 - [[Unknown] AGFA Autolith Repo (ref: 8e68)](#unknown-agfa-autolith-repo-ref-8e68)
 - [[Unknown] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#unknown-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
 - [[Unknown] Perutz Superomnia (ref: c90d)](#unknown-perutz-superomnia-ref-c90d)
+- [[Unknown] SantaColor SantaColor (ref: cb58)](#unknown-santacolor-santacolor-ref-cb58)
 
 
 -----
@@ -1691,7 +1695,7 @@ Scanned By: dekuNukem
 	<img src="./lowres/00016_001.jpg" alt="Ilford HP5 Plus 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
-#### [2025] HARMAN PHOENIX (ref: 8eb4)
+#### [2025] Harman Phoenix (ref: 8eb4)
 
 ```
 ISO     : 200
@@ -1703,14 +1707,14 @@ Scanned By: yc128
 ```
 
 <a href="./archive/00076_000.jpg">
-	<img src="./lowres/00076_000.jpg" alt="HARMAN PHOENIX 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00076_000.jpg" alt="Harman Phoenix 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: a7a70b20b4224baeb85c732245eb31d1`↓
 
 <a href="./archive/00076_001.jpg">
-	<img src="./lowres/00076_001.jpg" alt="HARMAN PHOENIX 35mm film_box_inside" loading="lazy" height="500" />
+	<img src="./lowres/00076_001.jpg" alt="Harman Phoenix 35mm film_box_inside" loading="lazy" height="500" />
 </a>
 
 #### [2025] Kodak Tri-X (ref: 88c5)
@@ -1765,6 +1769,28 @@ Scanned By: dekuNukem
 	<img src="./lowres/00005_001.jpg" alt="Rollei Retro 80S 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
+#### [2026] Ilford FP4 Plus (ref: 76e7)
+
+```
+ISO     : 125
+Format  : 120
+Process : BW
+Expiry  : 202604
+UUID    : c6c88d6d009048e9ac3721bdc7f076e7
+Scanned By: yc128
+```
+
+<a href="./archive/00111_000.jpg">
+	<img src="./lowres/00111_000.jpg" alt="Ilford FP4 Plus 120 film_box_outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 95c6d78d0b0540a9ba70dc769609a112`↓
+
+<a href="./archive/00111_001.jpg">
+	<img src="./lowres/00111_001.jpg" alt="Ilford FP4 Plus 120 film_box_inside" loading="lazy" width="500" />
+</a>
+
 #### [2026] Alien Film 5207/250D (ref: 8820)
 
 ```
@@ -1810,7 +1836,7 @@ Scanned By: @SirBrentsworth
 	<img src="./lowres/00080_000.jpg" alt="Kodak Gold 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
-#### [2026] HARMAN PHOENIX (ref: 637f)
+#### [2026] Harman Phoenix (ref: 637f)
 
 ```
 ISO     : 200
@@ -1822,14 +1848,14 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00004_000.jpg">
-	<img src="./lowres/00004_000.jpg" alt="HARMAN PHOENIX 120 film_box_outside" loading="lazy" width="500" />
+	<img src="./lowres/00004_000.jpg" alt="Harman Phoenix 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: c5a0132ac51a488ba35ebd6cc48911e7`↓
 
 <a href="./archive/00004_001.jpg">
-	<img src="./lowres/00004_001.jpg" alt="HARMAN PHOENIX 120 film_box_inside" loading="lazy" width="500" />
+	<img src="./lowres/00004_001.jpg" alt="Harman Phoenix 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### [2026] Kodak ColorPlus (ref: 6637)
@@ -2069,6 +2095,50 @@ Scanned By: @SirBrentsworth
 	<img src="./lowres/00078_001.jpg" alt="Lomography Lomochrome Purple 35mm film_box_inside" loading="lazy" width="500" />
 </a>
 
+#### [2027] Harman Phoenix II (ref: f686)
+
+```
+ISO     : 200
+Format  : 120
+Process : C-41
+Expiry  : 202706
+UUID    : 42f9d40379814cf8b02c3f0daf74f686
+Scanned By: yc128
+```
+
+<a href="./archive/00109_000.jpg">
+	<img src="./lowres/00109_000.jpg" alt="Harman Phoenix II 120 film_box_outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: db80264f66ae451abd1b0cc6f34e3280`↓
+
+<a href="./archive/00109_001.jpg">
+	<img src="./lowres/00109_001.jpg" alt="Harman Phoenix II 120 film_box_inside" loading="lazy" width="500" />
+</a>
+
+#### [2027] Harman Phoenix II (ref: 40df)
+
+```
+ISO     : 200
+Format  : 35mm
+Process : C-41
+Expiry  : 202706
+UUID    : f12ed23e31e14008a969fe05f29940df
+Scanned By: yc128
+```
+
+<a href="./archive/00110_000.jpg">
+	<img src="./lowres/00110_000.jpg" alt="Harman Phoenix II 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: b6dcbe9ae6ea4aebabaf290f3160a553`↓
+
+<a href="./archive/00110_001.jpg">
+	<img src="./lowres/00110_001.jpg" alt="Harman Phoenix II 35mm film_box_inside" loading="lazy" height="500" />
+</a>
+
 #### [2027] Rollei Infrared (ref: 4f54)
 
 ```
@@ -2261,6 +2331,21 @@ Scanned By: lilyu.xyz
 	<img src="./lowres/00096_000.jpg" alt="Perutz Superomnia 9x12 film_box_outside" loading="lazy" width="500" />
 </a>
 
+#### [Unknown] SantaColor SantaColor (ref: cb58)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : C-41
+Expiry  : Unknown
+UUID    : e54ce68c797b4846b9aee3f5818ecb58
+Scanned By: yc128
+```
+
+<a href="./archive/00112_000.jpg">
+	<img src="./lowres/00112_000.jpg" alt="SantaColor SantaColor 35mm film_box_outside" loading="lazy" width="500" />
+</a>
+
 ## Want to Contribute?
 
 [Check out the guidelines!](../contribution_guide.md)
@@ -2275,10 +2360,10 @@ Rank  Username            Contributions
 3     @ob.skura           16    
 4     b0baspace           14    
 5     @SirBrentsworth     13    
-6     lilyu.xyz           9     
-7     benikum             6     
-8     @recycling.film     5     
-9     yc128               4     
+6     yc128               11    
+7     lilyu.xyz           9     
+8     benikum             6     
+9     @recycling.film     5     
 10    Henry Gunn          4     
 11    @seklerek           2     
 12    @ftfilmphotos       2     
