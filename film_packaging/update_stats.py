@@ -4,12 +4,12 @@ import datetime
 from shared import *
 from collections import Counter
 
-def get_ranked_counts_string(counts):
+def make_contributor_list(sorted_count_result):
     lines = []
-    lines.append(f"{'Username':<20}{'Contributions':<20}")
+    lines.append(f"{'Rank':<6}{'Username':<20}{'Contributions':<6}")
     lines.append('-' * 40)
-    for username, count in counts.items():
-        lines.append(f"{username:<20}{count:<20}")
+    for rank, (username, count) in enumerate(sorted_count_result.items(), start=1):
+        lines.append(f"{rank:<6}{username:<20}{count:<6}")
     return '\n'.join(lines)
 
 database_entries = []
@@ -76,7 +76,7 @@ def replace_lines(filename):
 		elif line.startswith(ITEMS_COUNT_STR):
 			output_lines.append(f"{ITEMS_COUNT_STR} {len(database_entries)}\n")
 		elif line.startswith(CONTRIBUTOR_LIST_STR):
-			output_lines.append(f"{CONTRIBUTOR_LIST_STR}\n\n```\n{get_ranked_counts_string(sorted_counts)}\n```\n")
+			output_lines.append(f"{CONTRIBUTOR_LIST_STR}\n\n```\n{make_contributor_list(sorted_counts)}\n```\n")
 		else:
 			output_lines.append(line)
 

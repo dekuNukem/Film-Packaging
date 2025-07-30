@@ -49,21 +49,21 @@ The collection is by no means complete or exhaustive, but it's a start!
 ## Contributor List
 
 ```
-Username            Contributions       
+Rank  Username            Contributions
 ----------------------------------------
-dekuNukem           89                  
-Nano_Burger         18                  
-@ob.skura           16                  
-b0baspace           14                  
-@SirBrentsworth     13                  
-lilyu.xyz           9                   
-benikum             6                   
-@recycling.film     5                   
-yc128               4                   
-Henry Gunn          4                   
-@seklerek           2                   
-@ftfilmphotos       2                   
-Yrikonchik          1                   
+1     dekuNukem           89    
+2     Nano_Burger         18    
+3     @ob.skura           16    
+4     b0baspace           14    
+5     @SirBrentsworth     13    
+6     lilyu.xyz           9     
+7     benikum             6     
+8     @recycling.film     5     
+9     yc128               4     
+10    Henry Gunn          4     
+11    @seklerek           2     
+12    @ftfilmphotos       2     
+13    Yrikonchik          1     
 ```
 
 ## Disclaimer
