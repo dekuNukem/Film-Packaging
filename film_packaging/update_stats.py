@@ -5,12 +5,18 @@ from shared import *
 from collections import Counter
 
 def make_contributor_list(sorted_count_result):
+    # Calculate the maximum username length and add 5
+    max_username_length = max(len(username) for username in sorted_count_result.keys()) + 5
+    
     lines = []
-    lines.append(f"{'Rank':<6}{'Username':<20}{'Contributions':<6}")
-    lines.append('-' * 40)
+    lines.append(f"{'Rank':<6}{'Username':<{max_username_length}}{'Contributions':<6}")
+    lines.append('-' * (max_username_length + 20))
+    
     for rank, (username, count) in enumerate(sorted_count_result.items(), start=1):
-        lines.append(f"{rank:<6}{username:<20}{count:<6}")
+        lines.append(f"{rank:<6}{username:<{max_username_length}}{count:<6}")
+    
     return '\n'.join(lines)
+
 
 database_entries = []
 

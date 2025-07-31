@@ -30,7 +30,7 @@ This project is fully open-source. [Click me for GitHub repo.](https://github.co
 
 ```
 Last Updated: Jul 31 2025
-# of items: 216
+# of items: 241
 ```
 
 Or Sort by...
@@ -49,24 +49,24 @@ The collection is by no means complete or exhaustive, but it's a start!
 ## Contributor List
 
 ```
-Rank  Username            Contributions
-----------------------------------------
-1     dekuNukem           89    
-2     Nano_Burger         18    
-3     @ob.skura           16    
-4     b0baspace           14    
-5     @SirBrentsworth     13    
-6     Pelicram            13    
-7     yc128               11    
-8     lilyu.xyz           9     
-9     The Compartmentalist9     
-10    benikum             6     
-11    @recycling.film     5     
-12    Henry Gunn          4     
-13    toader              4     
-14    @seklerek           2     
-15    @ftfilmphotos       2     
-16    Yrikonchik          1     
+Rank  Username                 Contributions
+---------------------------------------------
+1     dekuNukem                89    
+2     Pelicram                 38    
+3     Nano_Burger              18    
+4     @ob.skura                16    
+5     b0baspace                14    
+6     @SirBrentsworth          13    
+7     yc128                    11    
+8     lilyu.xyz                9     
+9     The Compartmentalist     9     
+10    benikum                  6     
+11    @recycling.film          5     
+12    Henry Gunn               4     
+13    toader                   4     
+14    @seklerek                2     
+15    @ftfilmphotos            2     
+16    Yrikonchik               1     
 ```
 
 ## Disclaimer

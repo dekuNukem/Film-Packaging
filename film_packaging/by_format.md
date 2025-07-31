@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Jul 31 2025
 
-# of items: 216
+# of items: 241
 ```
 
 -----
@@ -26,12 +26,15 @@ Last Updated: Jul 31 2025
 - [[110] Kodak Ektachrome (ref: 07c0)](#110-kodak-ektachrome-ref-07c0)
 - [[110] Kodak Gold (ref: f368)](#110-kodak-gold-ref-f368)
 - [[110] Kodak Kodachrome (ref: 3145)](#110-kodak-kodachrome-ref-3145)
+- [[110] Lomography Orca (ref: d506)](#110-lomography-orca-ref-d506)
+- [[110] Lomography Tiger (ref: 26dd)](#110-lomography-tiger-ref-26dd)
 - [[120] AGFA APX (ref: 12c7)](#120-agfa-apx-ref-12c7)
 - [[120] Alien Film 5207/250D (ref: 8820)](#120-alien-film-5207250d-ref-8820)
 - [[120] Bergger Pancro400 (ref: ad7b)](#120-bergger-pancro400-ref-ad7b)
 - [[120] CineStill 800T (ref: c86a)](#120-cinestill-800t-ref-c86a)
 - [[120] Efke IR 820 (ref: 43c9)](#120-efke-ir-820-ref-43c9)
 - [[120] Foma Fomapan (ref: 3e4f)](#120-foma-fomapan-ref-3e4f)
+- [[120] Foma Fomapan (ref: 65ad)](#120-foma-fomapan-ref-65ad)
 - [[120] Foma Fomapan21 (ref: 75d9)](#120-foma-fomapan21-ref-75d9)
 - [[120] Foma Ortho (ref: 89e7)](#120-foma-ortho-ref-89e7)
 - [[120] Fujifilm FUJICOLOR SUPERIA (ref: 0683)](#120-fujifilm-fujicolor-superia-ref-0683)
@@ -44,6 +47,7 @@ Last Updated: Jul 31 2025
 - [[120] Ilford Delta (ref: eb8d)](#120-ilford-delta-ref-eb8d)
 - [[120] Ilford Delta (ref: 920f)](#120-ilford-delta-ref-920f)
 - [[120] Ilford FP4 Plus (ref: 76e7)](#120-ilford-fp4-plus-ref-76e7)
+- [[120] Ilford HP5 Plus (ref: 11a8)](#120-ilford-hp5-plus-ref-11a8)
 - [[120] Ilford HP5 Plus (ref: efad)](#120-ilford-hp5-plus-ref-efad)
 - [[120] Ilford HP5 Plus (ref: 1a5d)](#120-ilford-hp5-plus-ref-1a5d)
 - [[120] Ilford SFX 200 (ref: 6057)](#120-ilford-sfx-200-ref-6057)
@@ -72,12 +76,13 @@ Last Updated: Jul 31 2025
 - [[35mm] Bergger Pancro400 (ref: f619)](#35mm-bergger-pancro400-ref-f619)
 - [[35mm] CineStill 800T (ref: b3ff)](#35mm-cinestill-800t-ref-b3ff)
 - [[35mm] Efiniti UXi super 200 (ref: 471a)](#35mm-efiniti-uxi-super-200-ref-471a)
-- [[35mm] Foma Fomapan (ref: 6a20)](#35mm-foma-fomapan-ref-6a20)
+- [[35mm] Foma Fomapan (ref: 0030)](#35mm-foma-fomapan-ref-0030)
 - [[35mm] Foma Fomapan (ref: 84a5)](#35mm-foma-fomapan-ref-84a5)
 - [[35mm] Fujifilm 200 (ref: 5b41)](#35mm-fujifilm-200-ref-5b41)
 - [[35mm] Fujifilm FUJICOLOR SUPER HR (ref: aaa0)](#35mm-fujifilm-fujicolor-super-hr-ref-aaa0)
 - [[35mm] Fujifilm Fujicolor 100 (ref: 013b)](#35mm-fujifilm-fujicolor-100-ref-013b)
 - [[35mm] Fujifilm Fujicolor Professional (ref: 28da)](#35mm-fujifilm-fujicolor-professional-ref-28da)
+- [[35mm] Fujifilm Fujicolor Superia (ref: d1b7)](#35mm-fujifilm-fujicolor-superia-ref-d1b7)
 - [[35mm] Fujifilm NPS (ref: 5e85)](#35mm-fujifilm-nps-ref-5e85)
 - [[35mm] Fujifilm Neopan SS Rapid (ref: 9db3)](#35mm-fujifilm-neopan-ss-rapid-ref-9db3)
 - [[35mm] Fujifilm Provia 100F (ref: 356d)](#35mm-fujifilm-provia-100f-ref-356d)
@@ -87,12 +92,15 @@ Last Updated: Jul 31 2025
 - [[35mm] Fujifilm Velvia 100F (ref: 32d4)](#35mm-fujifilm-velvia-100f-ref-32d4)
 - [[35mm] Harman Phoenix (ref: 8eb4)](#35mm-harman-phoenix-ref-8eb4)
 - [[35mm] Harman Phoenix II (ref: 40df)](#35mm-harman-phoenix-ii-ref-40df)
+- [[35mm] Hazenfilm Sorolla Chrome (ref: 889f)](#35mm-hazenfilm-sorolla-chrome-ref-889f)
 - [[35mm] Ilford Delta (ref: 9b54)](#35mm-ilford-delta-ref-9b54)
 - [[35mm] Ilford HP5 Plus (ref: c725)](#35mm-ilford-hp5-plus-ref-c725)
 - [[35mm] Ilford HP5 Plus (ref: df49)](#35mm-ilford-hp5-plus-ref-df49)
+- [[35mm] JCH Streetpan (ref: 6e58)](#35mm-jch-streetpan-ref-6e58)
 - [[35mm] Kentmere PAN (ref: d223)](#35mm-kentmere-pan-ref-d223)
 - [[35mm] Kentmere PAN (ref: c907)](#35mm-kentmere-pan-ref-c907)
 - [[35mm] Kentmere PAN (ref: 827e)](#35mm-kentmere-pan-ref-827e)
+- [[35mm] Kentmere PAN (ref: a327)](#35mm-kentmere-pan-ref-a327)
 - [[35mm] Kodak ColorPlus (ref: 79ca)](#35mm-kodak-colorplus-ref-79ca)
 - [[35mm] Kodak ColorPlus (ref: 6637)](#35mm-kodak-colorplus-ref-6637)
 - [[35mm] Kodak Ektachrome (ref: 3c96)](#35mm-kodak-ektachrome-ref-3c96)
@@ -119,25 +127,34 @@ Last Updated: Jul 31 2025
 - [[35mm] Kodak Portra (ref: 7d65)](#35mm-kodak-portra-ref-7d65)
 - [[35mm] Kodak Rapid Process Copy Film (ref: e66e)](#35mm-kodak-rapid-process-copy-film-ref-e66e)
 - [[35mm] Kodak TMAX (ref: 1dff)](#35mm-kodak-tmax-ref-1dff)
+- [[35mm] Kodak TMAX (ref: 521a)](#35mm-kodak-tmax-ref-521a)
+- [[35mm] Kodak TMAX (ref: 43a2)](#35mm-kodak-tmax-ref-43a2)
 - [[35mm] Kodak Technical Pan (ref: f4cf)](#35mm-kodak-technical-pan-ref-f4cf)
+- [[35mm] Kodak Tri-X (ref: c671)](#35mm-kodak-tri-x-ref-c671)
 - [[35mm] Kodak Ultra (ref: 69a1)](#35mm-kodak-ultra-ref-69a1)
 - [[35mm] Kodak UltraMax (ref: aaa6)](#35mm-kodak-ultramax-ref-aaa6)
+- [[35mm] Kodak Värikuvafilmi (ref: f9ff)](#35mm-kodak-värikuvafilmi-ref-f9ff)
+- [[35mm] Konica VX200 (ref: fe53)](#35mm-konica-vx200-ref-fe53)
 - [[35mm] Kosmo Foto Mono (ref: b74f)](#35mm-kosmo-foto-mono-ref-b74f)
 - [[35mm] Lloyds Pharmacy Colour Film (ref: 77d9)](#35mm-lloyds-pharmacy-colour-film-ref-77d9)
-- [[35mm] Lomography Babylon (ref: b982)](#35mm-lomography-babylon-ref-b982)
+- [[35mm] Lomography Babylon (ref: 7afa)](#35mm-lomography-babylon-ref-7afa)
+- [[35mm] Lomography Fantome (ref: 4340)](#35mm-lomography-fantome-ref-4340)
 - [[35mm] Lomography Lomochrome Purple (ref: 068f)](#35mm-lomography-lomochrome-purple-ref-068f)
 - [[35mm] Polaroid PolaBlue (ref: df66)](#35mm-polaroid-polablue-ref-df66)
 - [[35mm] Polaroid PolaChrome (ref: 3b60)](#35mm-polaroid-polachrome-ref-3b60)
 - [[35mm] Porst Color N21 (ref: 494a)](#35mm-porst-color-n21-ref-494a)
 - [[35mm] Rollei Infrared (ref: eae2)](#35mm-rollei-infrared-ref-eae2)
+- [[35mm] Rollei RPX 400 (ref: 2155)](#35mm-rollei-rpx-400-ref-2155)
 - [[35mm] Rollei SUPERPAN (ref: ee8f)](#35mm-rollei-superpan-ref-ee8f)
 - [[35mm] Rossmann Jahreszeiten Pack (ref: 7670)](#35mm-rossmann-jahreszeiten-pack-ref-7670)
 - [[35mm] Sakura Sakuracolor II (ref: 4f7d)](#35mm-sakura-sakuracolor-ii-ref-4f7d)
 - [[35mm] SantaColor SantaColor (ref: cb58)](#35mm-santacolor-santacolor-ref-cb58)
 - [[35mm] SantaColor SantaColor (ref: f3a7)](#35mm-santacolor-santacolor-ref-f3a7)
+- [[35mm] Svema Foto (ref: 26ad)](#35mm-svema-foto-ref-26ad)
 - [[35mm] Tasma OCh 50 (ref: 5c43)](#35mm-tasma-och-50-ref-5c43)
 - [[35mm] Three Film Rolls 5207 (ref: 0292)](#35mm-three-film-rolls-5207-ref-0292)
 - [[35mm] Wolfen NC500 (ref: 91c1)](#35mm-wolfen-nc500-ref-91c1)
+- [[35mm] Wolfen NP100 (ref: 71a6)](#35mm-wolfen-np100-ref-71a6)
 - [[35mm] York Photo Labs DXG 200 (ref: 4bf8)](#35mm-york-photo-labs-dxg-200-ref-4bf8)
 - [[620] Kodak Verichrome Pan (ref: 0195)](#620-kodak-verichrome-pan-ref-0195)
 - [[828] Kodak Ektachrome-X (ref: ae7e)](#828-kodak-ektachrome-x-ref-ae7e)
@@ -226,6 +243,36 @@ Scanned By: dekuNukem
 
 <a href="./archive/00026_002.jpg">
 	<img src="./lowres/00026_002.jpg" alt="Kodak Kodachrome 110 film_box_processing_envelope" loading="lazy" width="500" />
+</a>
+
+#### [110] Lomography Orca (ref: d506)
+
+```
+ISO     : 100
+Format  : 110
+Process : BW
+Expiry  : 202707
+UUID    : 6d10288df24748fa8944774857f3d506
+Scanned By: Pelicram
+```
+
+<a href="./archive/00134_000.jpg">
+	<img src="./lowres/00134_000.jpg" alt="Lomography Orca 110 film_box_outside" loading="lazy" height="500" />
+</a>
+
+#### [110] Lomography Tiger (ref: 26dd)
+
+```
+ISO     : 200
+Format  : 110
+Process : C-41
+Expiry  : 202609
+UUID    : e8a5b04ef68c43ae9e79df89123726dd
+Scanned By: Pelicram
+```
+
+<a href="./archive/00143_000.jpg">
+	<img src="./lowres/00143_000.jpg" alt="Lomography Tiger 110 film_box_outside" loading="lazy" height="500" />
 </a>
 
 #### [120] AGFA APX (ref: 12c7)
@@ -351,6 +398,28 @@ Scanned By: benikum
 
 <a href="./archive/00070_001.jpg">
 	<img src="./lowres/00070_001.jpg" alt="Foma Fomapan 120 film_box_inside" loading="lazy" width="500" />
+</a>
+
+#### [120] Foma Fomapan (ref: 65ad)
+
+```
+ISO     : 100
+Format  : 120
+Process : BW
+Expiry  : 202704
+UUID    : a0786cc1bc884f66bbb84118d55665ad
+Scanned By: Pelicram
+```
+
+<a href="./archive/00133_000.jpg">
+	<img src="./lowres/00133_000.jpg" alt="Foma Fomapan 120 film_box_outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 0d7f7062ffb34d0c91f0080e3749cbe4`↓
+
+<a href="./archive/00133_001.jpg">
+	<img src="./lowres/00133_001.jpg" alt="Foma Fomapan 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### [120] Foma Fomapan21 (ref: 75d9)
@@ -608,6 +677,28 @@ Scanned By: yc128
 
 <a href="./archive/00111_001.jpg">
 	<img src="./lowres/00111_001.jpg" alt="Ilford FP4 Plus 120 film_box_inside" loading="lazy" width="500" />
+</a>
+
+#### [120] Ilford HP5 Plus (ref: 11a8)
+
+```
+ISO     : 400
+Format  : 120
+Process : BW
+Expiry  : 201206
+UUID    : dbf3817f506a444b9d394745dba311a8
+Scanned By: Pelicram
+```
+
+<a href="./archive/00140_000.jpg">
+	<img src="./lowres/00140_000.jpg" alt="Ilford HP5 Plus 120 film_box_outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 17ab4481b81243c9bbc211688ba2336a`↓
+
+<a href="./archive/00140_001.jpg">
+	<img src="./lowres/00140_001.jpg" alt="Ilford HP5 Plus 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### [120] Ilford HP5 Plus (ref: efad)
@@ -1198,19 +1289,26 @@ Scanned By: dekuNukem
 	<img src="./lowres/00002_000.jpg" alt="Efiniti UXi super 200 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
-#### [35mm] Foma Fomapan (ref: 6a20)
+#### [35mm] Foma Fomapan (ref: 0030)
 
 ```
 ISO     : 100
 Format  : 35mm
 Process : BW
 Expiry  : 202707
-UUID    : 877d0ba6a1934609b620d0e767336a20
+UUID    : bf1734a1ea48495d92afb7d03bdf0030
 Scanned By: Pelicram
 ```
 
 <a href="./archive/00129_000.jpg">
 	<img src="./lowres/00129_000.jpg" alt="Foma Fomapan 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 01adf7d0b4df41f990c60d5cafb7f55f`↓
+
+<a href="./archive/00129_001.jpg">
+	<img src="./lowres/00129_001.jpg" alt="Foma Fomapan 35mm film_box_inside" loading="lazy" height="500" />
 </a>
 
 #### [35mm] Foma Fomapan (ref: 84a5)
@@ -1307,6 +1405,28 @@ Scanned By: The Compartmentalist
 
 <a href="./archive/00117_000.jpg">
 	<img src="./lowres/00117_000.jpg" alt="Fujifilm Fujicolor Professional 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+#### [35mm] Fujifilm Fujicolor Superia (ref: d1b7)
+
+```
+ISO     : 200
+Format  : 35mm
+Process : C-41
+Expiry  : 200007
+UUID    : 2b50b3d82a7340ffbe9bff871793d1b7
+Scanned By: Pelicram
+```
+
+<a href="./archive/00139_000.jpg">
+	<img src="./lowres/00139_000.jpg" alt="Fujifilm Fujicolor Superia 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: a193a13c20a24dada68357552593974f`↓
+
+<a href="./archive/00139_001.jpg">
+	<img src="./lowres/00139_001.jpg" alt="Fujifilm Fujicolor Superia 35mm film_box_inside" loading="lazy" height="500" />
 </a>
 
 #### [35mm] Fujifilm NPS (ref: 5e85)
@@ -1486,6 +1606,21 @@ Scanned By: yc128
 	<img src="./lowres/00110_001.jpg" alt="Harman Phoenix II 35mm film_box_inside" loading="lazy" height="500" />
 </a>
 
+#### [35mm] Hazenfilm Sorolla Chrome (ref: 889f)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : E-6
+Expiry  : Unknown
+UUID    : 462e32d45cd740cf866732a73a00889f
+Scanned By: Pelicram
+```
+
+<a href="./archive/00137_000.jpg">
+	<img src="./lowres/00137_000.jpg" alt="Hazenfilm Sorolla Chrome 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
 #### [35mm] Ilford Delta (ref: 9b54)
 
 ```
@@ -1543,6 +1678,28 @@ Scanned By: @SirBrentsworth
 
 <a href="./archive/00083_001.jpg">
 	<img src="./lowres/00083_001.jpg" alt="Ilford HP5 Plus 35mm film_box_inside" loading="lazy" height="500" />
+</a>
+
+#### [35mm] JCH Streetpan (ref: 6e58)
+
+```
+ISO     : 400
+Format  : 35mm
+Process : BW
+Expiry  : 202502
+UUID    : 1873b4d20d2a47659ab15d0af4146e58
+Scanned By: Pelicram
+```
+
+<a href="./archive/00132_000.jpg">
+	<img src="./lowres/00132_000.jpg" alt="JCH Streetpan 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 19dfce255f604980b0f596b8895d923f`↓
+
+<a href="./archive/00132_001.jpg">
+	<img src="./lowres/00132_001.jpg" alt="JCH Streetpan 35mm film_box_inside" loading="lazy" height="500" />
 </a>
 
 #### [35mm] Kentmere PAN (ref: d223)
@@ -1609,6 +1766,28 @@ Scanned By: dekuNukem
 
 <a href="./archive/00015_001.jpg">
 	<img src="./lowres/00015_001.jpg" alt="Kentmere PAN 35mm film_box_inside" loading="lazy" width="500" />
+</a>
+
+#### [35mm] Kentmere PAN (ref: a327)
+
+```
+ISO     : 400
+Format  : 35mm
+Process : BW
+Expiry  : 202907
+UUID    : 58f2bea3a3204a1dafebf2881d99a327
+Scanned By: Pelicram
+```
+
+<a href="./archive/00145_000.jpg">
+	<img src="./lowres/00145_000.jpg" alt="Kentmere PAN 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: c771fff8ecbb4c9b981f3606dd4fa428`↓
+
+<a href="./archive/00145_001.jpg">
+	<img src="./lowres/00145_001.jpg" alt="Kentmere PAN 35mm film_box_inside" loading="lazy" height="500" />
 </a>
 
 #### [35mm] Kodak ColorPlus (ref: 79ca)
@@ -2162,6 +2341,36 @@ Scanned By: Nano_Burger
 	<img src="./lowres/00104_002.jpg" alt="Kodak TMAX 35mm film_box_leaflet" loading="lazy" height="500" />
 </a>
 
+#### [35mm] Kodak TMAX (ref: 521a)
+
+```
+ISO     : 3200
+Format  : 35mm
+Process : BW
+Expiry  : 202604
+UUID    : 39fa3ae0251e4cdbaf8240602537521a
+Scanned By: Pelicram
+```
+
+<a href="./archive/00144_000.jpg">
+	<img src="./lowres/00144_000.jpg" alt="Kodak TMAX 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+#### [35mm] Kodak TMAX (ref: 43a2)
+
+```
+ISO     : 3200
+Format  : 35mm
+Process : BW
+Expiry  : 202608
+UUID    : 8f91948e930f491a8684337e32d443a2
+Scanned By: Pelicram
+```
+
+<a href="./archive/00142_000.jpg">
+	<img src="./lowres/00142_000.jpg" alt="Kodak TMAX 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
 #### [35mm] Kodak Technical Pan (ref: f4cf)
 
 ```
@@ -2182,6 +2391,21 @@ Scanned By: Nano_Burger
 
 <a href="./archive/00106_001.jpg">
 	<img src="./lowres/00106_001.jpg" alt="Kodak Technical Pan 35mm film_box_inside" loading="lazy" height="500" />
+</a>
+
+#### [35mm] Kodak Tri-X (ref: c671)
+
+```
+ISO     : 400
+Format  : 35mm
+Process : BW
+Expiry  : 202609
+UUID    : 0417faf4f5be42538db49741140bc671
+Scanned By: Pelicram
+```
+
+<a href="./archive/00135_000.jpg">
+	<img src="./lowres/00135_000.jpg" alt="Kodak Tri-X 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
 #### [35mm] Kodak Ultra (ref: 69a1)
@@ -2214,6 +2438,43 @@ Scanned By: @SirBrentsworth
 	<img src="./lowres/00079_000.jpg" alt="Kodak UltraMax 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
+#### [35mm] Kodak Värikuvafilmi (ref: f9ff)
+
+```
+ISO     : 200
+Format  : 35mm
+Process : C-41
+Expiry  : 200112
+UUID    : b8795d19697a453c8f27fde773eaf9ff
+Scanned By: Pelicram
+```
+
+<a href="./archive/00146_000.jpg">
+	<img src="./lowres/00146_000.jpg" alt="Kodak Värikuvafilmi 35mm film_box_outside" loading="lazy" width="500" />
+</a>
+
+#### [35mm] Konica VX200 (ref: fe53)
+
+```
+ISO     : 200
+Format  : 35mm
+Process : C-41
+Expiry  : 200303
+UUID    : dd3a6c347560484295ca09c86e3dfe53
+Scanned By: Pelicram
+```
+
+<a href="./archive/00138_000.jpg">
+	<img src="./lowres/00138_000.jpg" alt="Konica VX200 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 9f45eb2e52134da79a732605103a6f39`↓
+
+<a href="./archive/00138_001.jpg">
+	<img src="./lowres/00138_001.jpg" alt="Konica VX200 35mm film_box_inside" loading="lazy" height="500" />
+</a>
+
 #### [35mm] Kosmo Foto Mono (ref: b74f)
 
 ```
@@ -2244,19 +2505,34 @@ Scanned By: dekuNukem
 	<img src="./lowres/00013_000.jpg" alt="Lloyds Pharmacy Colour Film 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
-#### [35mm] Lomography Babylon (ref: b982)
+#### [35mm] Lomography Babylon (ref: 7afa)
 
 ```
 ISO     : 13
 Format  : 35mm
 Process : BW
-Expiry  : Unknown
-UUID    : 538219da0dbe438db035dc815b7eb982
+Expiry  : 202509
+UUID    : 9d7f531c7a764f9689228ab477297afa
 Scanned By: Pelicram
 ```
 
-<a href="./archive/00130_000.jpg">
-	<img src="./lowres/00130_000.jpg" alt="Lomography Babylon 35mm film_box_outside" loading="lazy" width="500" />
+<a href="./archive/00147_000.jpg">
+	<img src="./lowres/00147_000.jpg" alt="Lomography Babylon 35mm film_box_outside" loading="lazy" width="500" />
+</a>
+
+#### [35mm] Lomography Fantome (ref: 4340)
+
+```
+ISO     : 8
+Format  : 35mm
+Process : BW
+Expiry  : 202601
+UUID    : 538e7611233a4cc3bd733763bf694340
+Scanned By: Pelicram
+```
+
+<a href="./archive/00141_000.jpg">
+	<img src="./lowres/00141_000.jpg" alt="Lomography Fantome 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### [35mm] Lomography Lomochrome Purple (ref: 068f)
@@ -2355,6 +2631,28 @@ Scanned By: @ob.skura
 	<img src="./lowres/00047_001.jpg" alt="Rollei Infrared 35mm film_box_inside" loading="lazy" height="500" />
 </a>
 
+#### [35mm] Rollei RPX 400 (ref: 2155)
+
+```
+ISO     : 400
+Format  : 35mm
+Process : BW
+Expiry  : 202808
+UUID    : 19ef81d6d03844b088250c7b54032155
+Scanned By: Pelicram
+```
+
+<a href="./archive/00136_000.jpg">
+	<img src="./lowres/00136_000.jpg" alt="Rollei RPX 400 35mm film_box_outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 962831862dbc4da89c8b979e5fb6584b`↓
+
+<a href="./archive/00136_001.jpg">
+	<img src="./lowres/00136_001.jpg" alt="Rollei RPX 400 35mm film_box_inside" loading="lazy" width="500" />
+</a>
+
 #### [35mm] Rollei SUPERPAN (ref: ee8f)
 
 ```
@@ -2437,6 +2735,21 @@ Scanned By: Pelicram
 	<img src="./lowres/00128_000.jpg" alt="SantaColor SantaColor 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
+#### [35mm] Svema Foto (ref: 26ad)
+
+```
+ISO     : 400
+Format  : 35mm
+Process : BW
+Expiry  : 202604
+UUID    : 6e9f27ffcfea4f298be7d33d7f3826ad
+Scanned By: Pelicram
+```
+
+<a href="./archive/00130_000.jpg">
+	<img src="./lowres/00130_000.jpg" alt="Svema Foto 35mm film_box_outside" loading="lazy" width="500" />
+</a>
+
 #### [35mm] Tasma OCh 50 (ref: 5c43)
 
 ```
@@ -2480,6 +2793,21 @@ Scanned By: @ob.skura
 
 <a href="./archive/00049_000.jpg">
 	<img src="./lowres/00049_000.jpg" alt="Wolfen NC500 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+#### [35mm] Wolfen NP100 (ref: 71a6)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : BW
+Expiry  : 202712
+UUID    : 898148fa3a754866a407bbecec4a71a6
+Scanned By: Pelicram
+```
+
+<a href="./archive/00131_000.jpg">
+	<img src="./lowres/00131_000.jpg" alt="Wolfen NP100 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### [35mm] York Photo Labs DXG 200 (ref: 4bf8)
@@ -2697,24 +3025,24 @@ Scanned By: dekuNukem
 ## Contributor List
 
 ```
-Rank  Username            Contributions
-----------------------------------------
-1     dekuNukem           89    
-2     Nano_Burger         18    
-3     @ob.skura           16    
-4     b0baspace           14    
-5     @SirBrentsworth     13    
-6     Pelicram            13    
-7     yc128               11    
-8     lilyu.xyz           9     
-9     The Compartmentalist9     
-10    benikum             6     
-11    @recycling.film     5     
-12    Henry Gunn          4     
-13    toader              4     
-14    @seklerek           2     
-15    @ftfilmphotos       2     
-16    Yrikonchik          1     
+Rank  Username                 Contributions
+---------------------------------------------
+1     dekuNukem                89    
+2     Pelicram                 38    
+3     Nano_Burger              18    
+4     @ob.skura                16    
+5     b0baspace                14    
+6     @SirBrentsworth          13    
+7     yc128                    11    
+8     lilyu.xyz                9     
+9     The Compartmentalist     9     
+10    benikum                  6     
+11    @recycling.film          5     
+12    Henry Gunn               4     
+13    toader                   4     
+14    @seklerek                2     
+15    @ftfilmphotos            2     
+16    Yrikonchik               1     
 ```
 
 ## Questions or Comments?
