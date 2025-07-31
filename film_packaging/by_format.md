@@ -1256,7 +1256,7 @@ Scanned By: Pelicram
 ```
 
 <a href="./archive/00148_000.jpg">
-	<img src="./lowres/00148_000.jpg" alt="Agfa Isopan ISS 35mm film_box_outside" loading="lazy" width="0" />
+	<img src="./lowres/00148_000.jpg" alt="Agfa Isopan ISS 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### [35mm] Alfo ALFOcolor PR-G (ref: 94b9)

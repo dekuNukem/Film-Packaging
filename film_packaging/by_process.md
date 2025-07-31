@@ -330,7 +330,7 @@ Scanned By: Pelicram
 ```
 
 <a href="./archive/00148_000.jpg">
-	<img src="./lowres/00148_000.jpg" alt="Agfa Isopan ISS 35mm film_box_outside" loading="lazy" width="0" />
+	<img src="./lowres/00148_000.jpg" alt="Agfa Isopan ISS 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### [BW] Alien Film 5222/XX (ref: 3e49)
