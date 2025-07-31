@@ -130,6 +130,9 @@ if len(this_author) > 0:
 convert_keys_to_int(database_entries)
 ingest_file_list = sorted(os.listdir(ingest_dir_path), reverse=len(sys.argv) > 1)
 
+for item in ingest_file_list:
+    print(item)
+
 for fname in ingest_file_list:
     if not (fname.lower().endswith('.jpeg') or fname.lower().endswith('.jpg')):
         continue

@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Jul 31 2025
 
-# of items: 203
+# of items: 216
 ```
 
 -----
@@ -32,13 +32,17 @@ Last Updated: Jul 31 2025
 - [Agfa Agfapan Rapid (ref: 5e7b)](#agfa-agfapan-rapid-ref-5e7b)
 - [Alien Film 5207/250D (ref: 8820)](#alien-film-5207250d-ref-8820)
 - [Alien Film 5222/XX (ref: 3e49)](#alien-film-5222xx-ref-3e49)
+- [Bergger Pancro400 (ref: ad7b)](#bergger-pancro400-ref-ad7b)
+- [Bergger Pancro400 (ref: f619)](#bergger-pancro400-ref-f619)
 - [CineStill 800T (ref: c86a)](#cinestill-800t-ref-c86a)
 - [CineStill 800T (ref: b3ff)](#cinestill-800t-ref-b3ff)
 - [Efiniti UXi super 200 (ref: 471a)](#efiniti-uxi-super-200-ref-471a)
 - [Efke IR 820 (ref: 43c9)](#efke-ir-820-ref-43c9)
 - [Foma Fomapan (ref: 3e4f)](#foma-fomapan-ref-3e4f)
+- [Foma Fomapan (ref: 6a20)](#foma-fomapan-ref-6a20)
 - [Foma Fomapan (ref: 84a5)](#foma-fomapan-ref-84a5)
 - [Foma Fomapan21 (ref: 75d9)](#foma-fomapan21-ref-75d9)
+- [Foma Ortho (ref: 89e7)](#foma-ortho-ref-89e7)
 - [Fujifilm 200 (ref: 5b41)](#fujifilm-200-ref-5b41)
 - [Fujifilm FUJICOLOR SUPER HR (ref: aaa0)](#fujifilm-fujicolor-super-hr-ref-aaa0)
 - [Fujifilm FUJICOLOR SUPERIA (ref: 0683)](#fujifilm-fujicolor-superia-ref-0683)
@@ -61,6 +65,8 @@ Last Updated: Jul 31 2025
 - [Harman Phoenix II (ref: f686)](#harman-phoenix-ii-ref-f686)
 - [Harman Phoenix II (ref: 40df)](#harman-phoenix-ii-ref-40df)
 - [Ilford Delta (ref: eb8d)](#ilford-delta-ref-eb8d)
+- [Ilford Delta (ref: 920f)](#ilford-delta-ref-920f)
+- [Ilford Delta (ref: 9b54)](#ilford-delta-ref-9b54)
 - [Ilford FP4 Plus (ref: 76e7)](#ilford-fp4-plus-ref-76e7)
 - [Ilford HP5 Plus (ref: c725)](#ilford-hp5-plus-ref-c725)
 - [Ilford HP5 Plus (ref: efad)](#ilford-hp5-plus-ref-efad)
@@ -121,6 +127,7 @@ Last Updated: Jul 31 2025
 - [Kosmo Foto Mono (ref: b74f)](#kosmo-foto-mono-ref-b74f)
 - [Lloyds Pharmacy APS Film (ref: c7cf)](#lloyds-pharmacy-aps-film-ref-c7cf)
 - [Lloyds Pharmacy Colour Film (ref: 77d9)](#lloyds-pharmacy-colour-film-ref-77d9)
+- [Lomography Babylon (ref: b982)](#lomography-babylon-ref-b982)
 - [Lomography Lomochrome Purple (ref: 068f)](#lomography-lomochrome-purple-ref-068f)
 - [Lomography Lomochrome Turquoise (ref: 0d90)](#lomography-lomochrome-turquoise-ref-0d90)
 - [Perutz Superomnia (ref: c90d)](#perutz-superomnia-ref-c90d)
@@ -137,6 +144,7 @@ Last Updated: Jul 31 2025
 - [Rossmann Jahreszeiten Pack (ref: 7670)](#rossmann-jahreszeiten-pack-ref-7670)
 - [Sakura Sakuracolor II (ref: 4f7d)](#sakura-sakuracolor-ii-ref-4f7d)
 - [SantaColor SantaColor (ref: cb58)](#santacolor-santacolor-ref-cb58)
+- [SantaColor SantaColor (ref: f3a7)](#santacolor-santacolor-ref-f3a7)
 - [Shanghai GP3 (ref: 52aa)](#shanghai-gp3-ref-52aa)
 - [Tasma OCh 50 (ref: 5c43)](#tasma-och-50-ref-5c43)
 - [Three Film Rolls 5207 (ref: 0292)](#three-film-rolls-5207-ref-0292)
@@ -294,7 +302,7 @@ Format  : 35mm
 Process : BW
 Expiry  : 196902
 UUID    : b2470c1734d344698f6e1c01eaa85e7b
-Scanned By: nnnnnnnnnnno
+Scanned By: The Compartmentalist
 ```
 
 <a href="./archive/00115_000.jpg">
@@ -329,6 +337,50 @@ Scanned By: dekuNukem
 
 <a href="./archive/00057_000.jpg">
 	<img src="./lowres/00057_000.jpg" alt="Alien Film 5222/XX 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+#### Bergger Pancro400 (ref: ad7b)
+
+```
+ISO     : 400
+Format  : 120
+Process : BW
+Expiry  : 202603
+UUID    : 73396128854a4c6ab3723a549225ad7b
+Scanned By: Pelicram
+```
+
+<a href="./archive/00124_000.jpg">
+	<img src="./lowres/00124_000.jpg" alt="Bergger Pancro400 120 film_box_outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 5643e1130f1949c48dfdeddc7c7a955f`↓
+
+<a href="./archive/00124_001.jpg">
+	<img src="./lowres/00124_001.jpg" alt="Bergger Pancro400 120 film_box_inside" loading="lazy" width="500" />
+</a>
+
+#### Bergger Pancro400 (ref: f619)
+
+```
+ISO     : 400
+Format  : 35mm
+Process : BW
+Expiry  : 202612
+UUID    : 0d9fee6b29f445f089acde3247d1f619
+Scanned By: Pelicram
+```
+
+<a href="./archive/00123_000.jpg">
+	<img src="./lowres/00123_000.jpg" alt="Bergger Pancro400 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 29d10e873e704093bd65148f288f968b`↓
+
+<a href="./archive/00123_001.jpg">
+	<img src="./lowres/00123_001.jpg" alt="Bergger Pancro400 35mm film_box_inside" loading="lazy" height="500" />
 </a>
 
 #### CineStill 800T (ref: c86a)
@@ -434,6 +486,21 @@ Scanned By: benikum
 	<img src="./lowres/00070_001.jpg" alt="Foma Fomapan 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
+#### Foma Fomapan (ref: 6a20)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : BW
+Expiry  : 202707
+UUID    : 877d0ba6a1934609b620d0e767336a20
+Scanned By: Pelicram
+```
+
+<a href="./archive/00129_000.jpg">
+	<img src="./lowres/00129_000.jpg" alt="Foma Fomapan 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
 #### Foma Fomapan (ref: 84a5)
 
 ```
@@ -469,6 +536,28 @@ Scanned By: benikum
 
 <a href="./archive/00074_000.jpg">
 	<img src="./lowres/00074_000.jpg" alt="Foma Fomapan21 120 film_box_outside" loading="lazy" width="500" />
+</a>
+
+#### Foma Ortho (ref: 89e7)
+
+```
+ISO     : 400
+Format  : 120
+Process : BW
+Expiry  : 202604
+UUID    : 4c97e2b7413b42278b0fd129c1c589e7
+Scanned By: Pelicram
+```
+
+<a href="./archive/00127_000.jpg">
+	<img src="./lowres/00127_000.jpg" alt="Foma Ortho 120 film_box_outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 728d195752464a448163dbb0ad4e8aa0`↓
+
+<a href="./archive/00127_001.jpg">
+	<img src="./lowres/00127_001.jpg" alt="Foma Ortho 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### Fujifilm 200 (ref: 5b41)
@@ -618,7 +707,7 @@ Format  : 35mm
 Process : C-41
 Expiry  : 201202
 UUID    : cb85af928a7f454e9673960e22b428da
-Scanned By: nnnnnnnnnnno
+Scanned By: The Compartmentalist
 ```
 
 <a href="./archive/00117_000.jpg">
@@ -655,7 +744,7 @@ Format  : 35mm
 Process : BW
 Expiry  : 197502
 UUID    : 1c541b4c837944d788eab8986f349db3
-Scanned By: nnnnnnnnnnno
+Scanned By: The Compartmentalist
 ```
 
 <a href="./archive/00118_000.jpg">
@@ -700,7 +789,7 @@ Format  : 35mm
 Process : E-6
 Expiry  : 199801
 UUID    : d4fdfa0d829f4fcab984381a31f2a59b
-Scanned By: nnnnnnnnnnno
+Scanned By: The Compartmentalist
 ```
 
 <a href="./archive/00116_000.jpg">
@@ -946,6 +1035,50 @@ Scanned By: @ob.skura
 
 <a href="./archive/00048_001.jpg">
 	<img src="./lowres/00048_001.jpg" alt="Ilford Delta 120 film_box_inside" loading="lazy" width="500" />
+</a>
+
+#### Ilford Delta (ref: 920f)
+
+```
+ISO     : 3200
+Format  : 120
+Process : BW
+Expiry  : 202505
+UUID    : 78d1111d1b234dcfb272c00d7935920f
+Scanned By: Pelicram
+```
+
+<a href="./archive/00125_000.jpg">
+	<img src="./lowres/00125_000.jpg" alt="Ilford Delta 120 film_box_outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 06dcb1f1f350482ba935ad30bd5a42b6`↓
+
+<a href="./archive/00125_001.jpg">
+	<img src="./lowres/00125_001.jpg" alt="Ilford Delta 120 film_box_inside" loading="lazy" width="500" />
+</a>
+
+#### Ilford Delta (ref: 9b54)
+
+```
+ISO     : 3200
+Format  : 35mm
+Process : BW
+Expiry  : 202706
+UUID    : d6f377dbe74745a0aacdf51ce7669b54
+Scanned By: Pelicram
+```
+
+<a href="./archive/00126_000.jpg">
+	<img src="./lowres/00126_000.jpg" alt="Ilford Delta 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 3921b5a404564bb2b4231bf59d22e6d3`↓
+
+<a href="./archive/00126_001.jpg">
+	<img src="./lowres/00126_001.jpg" alt="Ilford Delta 35mm film_box_inside" loading="lazy" height="500" />
 </a>
 
 #### Ilford FP4 Plus (ref: 76e7)
@@ -1369,7 +1502,7 @@ Format  : 828
 Process : E-4
 Expiry  : 197203
 UUID    : 4ee1eec740dd4838a83384cc19c6ae7e
-Scanned By: nnnnnnnnnnno
+Scanned By: The Compartmentalist
 ```
 
 <a href="./archive/00120_000.jpg">
@@ -1384,7 +1517,7 @@ Format  : 35mm
 Process : E-4
 Expiry  : 197306
 UUID    : 6a81b1428cfe46c8b9cf187fb672aec5
-Scanned By: nnnnnnnnnnno
+Scanned By: The Compartmentalist
 ```
 
 <a href="./archive/00119_000.jpg">
@@ -1765,7 +1898,7 @@ Format  : 35mm
 Process : K-14
 Expiry  : 198303
 UUID    : 6239a04366d74208a9010cd231688833
-Scanned By: nnnnnnnnnnno
+Scanned By: The Compartmentalist
 ```
 
 <a href="./archive/00121_000.jpg">
@@ -2149,6 +2282,21 @@ Scanned By: dekuNukem
 	<img src="./lowres/00013_000.jpg" alt="Lloyds Pharmacy Colour Film 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
+#### Lomography Babylon (ref: b982)
+
+```
+ISO     : 13
+Format  : 35mm
+Process : BW
+Expiry  : Unknown
+UUID    : 538219da0dbe438db035dc815b7eb982
+Scanned By: Pelicram
+```
+
+<a href="./archive/00130_000.jpg">
+	<img src="./lowres/00130_000.jpg" alt="Lomography Babylon 35mm film_box_outside" loading="lazy" width="500" />
+</a>
+
 #### Lomography Lomochrome Purple (ref: 068f)
 
 ```
@@ -2430,7 +2578,7 @@ Format  : 35mm
 Process : C-41
 Expiry  : 197802
 UUID    : 0143ad8539d84710845f4d2dc82e4f7d
-Scanned By: nnnnnnnnnnno
+Scanned By: The Compartmentalist
 ```
 
 <a href="./archive/00122_000.jpg">
@@ -2443,13 +2591,28 @@ Scanned By: nnnnnnnnnnno
 ISO     : 100
 Format  : 35mm
 Process : C-41
-Expiry  : Unknown
+Expiry  : 202509
 UUID    : e54ce68c797b4846b9aee3f5818ecb58
 Scanned By: yc128
 ```
 
 <a href="./archive/00112_000.jpg">
 	<img src="./lowres/00112_000.jpg" alt="SantaColor SantaColor 35mm film_box_outside" loading="lazy" width="500" />
+</a>
+
+#### SantaColor SantaColor (ref: f3a7)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : C-41
+Expiry  : 202509
+UUID    : 0a141b49a84a4b06a18355308940f3a7
+Scanned By: Pelicram
+```
+
+<a href="./archive/00128_000.jpg">
+	<img src="./lowres/00128_000.jpg" alt="SantaColor SantaColor 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### Shanghai GP3 (ref: 52aa)
@@ -2541,16 +2704,17 @@ Rank  Username            Contributions
 3     @ob.skura           16    
 4     b0baspace           14    
 5     @SirBrentsworth     13    
-6     yc128               11    
-7     lilyu.xyz           9     
-8     nnnnnnnnnnno        9     
-9     benikum             6     
-10    @recycling.film     5     
-11    Henry Gunn          4     
-12    toader              4     
-13    @seklerek           2     
-14    @ftfilmphotos       2     
-15    Yrikonchik          1     
+6     Pelicram            13    
+7     yc128               11    
+8     lilyu.xyz           9     
+9     The Compartmentalist9     
+10    benikum             6     
+11    @recycling.film     5     
+12    Henry Gunn          4     
+13    toader              4     
+14    @seklerek           2     
+15    @ftfilmphotos       2     
+16    Yrikonchik          1     
 ```
 
 ## Questions or Comments?

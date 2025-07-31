@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Jul 31 2025
 
-# of items: 203
+# of items: 216
 ```
 
 -----
@@ -103,14 +103,19 @@ Last Updated: Jul 31 2025
 - [[2024] Alien Film 5222/XX (ref: 3e49)](#2024-alien-film-5222xx-ref-3e49)
 - [[2024] Shanghai GP3 (ref: 52aa)](#2024-shanghai-gp3-ref-52aa)
 - [[2024] Ilford Delta (ref: eb8d)](#2024-ilford-delta-ref-eb8d)
+- [[2025] Ilford Delta (ref: 920f)](#2025-ilford-delta-ref-920f)
 - [[2025] Kodak Portra (ref: 7d65)](#2025-kodak-portra-ref-7d65)
 - [[2025] Lomography Lomochrome Turquoise (ref: 0d90)](#2025-lomography-lomochrome-turquoise-ref-0d90)
 - [[2025] Kodak ColorPlus (ref: 79ca)](#2025-kodak-colorplus-ref-79ca)
+- [[2025] SantaColor SantaColor (ref: cb58)](#2025-santacolor-santacolor-ref-cb58)
+- [[2025] SantaColor SantaColor (ref: f3a7)](#2025-santacolor-santacolor-ref-f3a7)
 - [[2025] Ilford HP5 Plus (ref: efad)](#2025-ilford-hp5-plus-ref-efad)
 - [[2025] Harman Phoenix (ref: 8eb4)](#2025-harman-phoenix-ref-8eb4)
 - [[2025] Kodak Tri-X (ref: 88c5)](#2025-kodak-tri-x-ref-88c5)
 - [[2025] Three Film Rolls 5207 (ref: 0292)](#2025-three-film-rolls-5207-ref-0292)
 - [[2026] Rollei Retro 80S (ref: e6c0)](#2026-rollei-retro-80s-ref-e6c0)
+- [[2026] Bergger Pancro400 (ref: ad7b)](#2026-bergger-pancro400-ref-ad7b)
+- [[2026] Foma Ortho (ref: 89e7)](#2026-foma-ortho-ref-89e7)
 - [[2026] Ilford FP4 Plus (ref: 76e7)](#2026-ilford-fp4-plus-ref-76e7)
 - [[2026] Alien Film 5207/250D (ref: 8820)](#2026-alien-film-5207250d-ref-8820)
 - [[2026] Fujifilm 200 (ref: 5b41)](#2026-fujifilm-200-ref-5b41)
@@ -122,6 +127,7 @@ Last Updated: Jul 31 2025
 - [[2026] Kentmere PAN (ref: d223)](#2026-kentmere-pan-ref-d223)
 - [[2026] Kodak Ektar (ref: 3498)](#2026-kodak-ektar-ref-3498)
 - [[2026] Kodak Gold (ref: 933f)](#2026-kodak-gold-ref-933f)
+- [[2026] Bergger Pancro400 (ref: f619)](#2026-bergger-pancro400-ref-f619)
 - [[2026] Wolfen NC500 (ref: 91c1)](#2026-wolfen-nc500-ref-91c1)
 - [[2027] Foma Fomapan (ref: 3e4f)](#2027-foma-fomapan-ref-3e4f)
 - [[2027] Kodak UltraMax (ref: aaa6)](#2027-kodak-ultramax-ref-aaa6)
@@ -131,6 +137,8 @@ Last Updated: Jul 31 2025
 - [[2027] Lomography Lomochrome Purple (ref: 068f)](#2027-lomography-lomochrome-purple-ref-068f)
 - [[2027] Harman Phoenix II (ref: f686)](#2027-harman-phoenix-ii-ref-f686)
 - [[2027] Harman Phoenix II (ref: 40df)](#2027-harman-phoenix-ii-ref-40df)
+- [[2027] Ilford Delta (ref: 9b54)](#2027-ilford-delta-ref-9b54)
+- [[2027] Foma Fomapan (ref: 6a20)](#2027-foma-fomapan-ref-6a20)
 - [[2027] Rollei Infrared (ref: 4f54)](#2027-rollei-infrared-ref-4f54)
 - [[2028] Foma Fomapan (ref: 84a5)](#2028-foma-fomapan-ref-84a5)
 - [[2028] Rollei SUPERPAN (ref: ee8f)](#2028-rollei-superpan-ref-ee8f)
@@ -140,8 +148,8 @@ Last Updated: Jul 31 2025
 - [[2029] Kentmere PAN (ref: 827e)](#2029-kentmere-pan-ref-827e)
 - [[Unknown] AGFA Autolith Repo (ref: 8e68)](#unknown-agfa-autolith-repo-ref-8e68)
 - [[Unknown] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#unknown-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
+- [[Unknown] Lomography Babylon (ref: b982)](#unknown-lomography-babylon-ref-b982)
 - [[Unknown] Perutz Superomnia (ref: c90d)](#unknown-perutz-superomnia-ref-c90d)
-- [[Unknown] SantaColor SantaColor (ref: cb58)](#unknown-santacolor-santacolor-ref-cb58)
 
 
 -----
@@ -206,7 +214,7 @@ Format  : 35mm
 Process : BW
 Expiry  : 196902
 UUID    : b2470c1734d344698f6e1c01eaa85e7b
-Scanned By: nnnnnnnnnnno
+Scanned By: The Compartmentalist
 ```
 
 <a href="./archive/00115_000.jpg">
@@ -280,7 +288,7 @@ Format  : 828
 Process : E-4
 Expiry  : 197203
 UUID    : 4ee1eec740dd4838a83384cc19c6ae7e
-Scanned By: nnnnnnnnnnno
+Scanned By: The Compartmentalist
 ```
 
 <a href="./archive/00120_000.jpg">
@@ -295,7 +303,7 @@ Format  : 35mm
 Process : E-4
 Expiry  : 197306
 UUID    : 6a81b1428cfe46c8b9cf187fb672aec5
-Scanned By: nnnnnnnnnnno
+Scanned By: The Compartmentalist
 ```
 
 <a href="./archive/00119_000.jpg">
@@ -411,7 +419,7 @@ Format  : 35mm
 Process : BW
 Expiry  : 197502
 UUID    : 1c541b4c837944d788eab8986f349db3
-Scanned By: nnnnnnnnnnno
+Scanned By: The Compartmentalist
 ```
 
 <a href="./archive/00118_000.jpg">
@@ -513,7 +521,7 @@ Format  : 35mm
 Process : C-41
 Expiry  : 197802
 UUID    : 0143ad8539d84710845f4d2dc82e4f7d
-Scanned By: nnnnnnnnnnno
+Scanned By: The Compartmentalist
 ```
 
 <a href="./archive/00122_000.jpg">
@@ -572,7 +580,7 @@ Format  : 35mm
 Process : K-14
 Expiry  : 198303
 UUID    : 6239a04366d74208a9010cd231688833
-Scanned By: nnnnnnnnnnno
+Scanned By: The Compartmentalist
 ```
 
 <a href="./archive/00121_000.jpg">
@@ -961,7 +969,7 @@ Format  : 35mm
 Process : E-6
 Expiry  : 199801
 UUID    : d4fdfa0d829f4fcab984381a31f2a59b
-Scanned By: nnnnnnnnnnno
+Scanned By: The Compartmentalist
 ```
 
 <a href="./archive/00116_000.jpg">
@@ -1587,7 +1595,7 @@ Format  : 35mm
 Process : C-41
 Expiry  : 201202
 UUID    : cb85af928a7f454e9673960e22b428da
-Scanned By: nnnnnnnnnnno
+Scanned By: The Compartmentalist
 ```
 
 <a href="./archive/00117_000.jpg">
@@ -1802,6 +1810,28 @@ Scanned By: @ob.skura
 	<img src="./lowres/00048_001.jpg" alt="Ilford Delta 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
+#### [2025] Ilford Delta (ref: 920f)
+
+```
+ISO     : 3200
+Format  : 120
+Process : BW
+Expiry  : 202505
+UUID    : 78d1111d1b234dcfb272c00d7935920f
+Scanned By: Pelicram
+```
+
+<a href="./archive/00125_000.jpg">
+	<img src="./lowres/00125_000.jpg" alt="Ilford Delta 120 film_box_outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 06dcb1f1f350482ba935ad30bd5a42b6`↓
+
+<a href="./archive/00125_001.jpg">
+	<img src="./lowres/00125_001.jpg" alt="Ilford Delta 120 film_box_inside" loading="lazy" width="500" />
+</a>
+
 #### [2025] Kodak Portra (ref: 7d65)
 
 ```
@@ -1852,6 +1882,36 @@ Scanned By: @SirBrentsworth
 
 <a href="./archive/00084_000.jpg">
 	<img src="./lowres/00084_000.jpg" alt="Kodak ColorPlus 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+#### [2025] SantaColor SantaColor (ref: cb58)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : C-41
+Expiry  : 202509
+UUID    : e54ce68c797b4846b9aee3f5818ecb58
+Scanned By: yc128
+```
+
+<a href="./archive/00112_000.jpg">
+	<img src="./lowres/00112_000.jpg" alt="SantaColor SantaColor 35mm film_box_outside" loading="lazy" width="500" />
+</a>
+
+#### [2025] SantaColor SantaColor (ref: f3a7)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : C-41
+Expiry  : 202509
+UUID    : 0a141b49a84a4b06a18355308940f3a7
+Scanned By: Pelicram
+```
+
+<a href="./archive/00128_000.jpg">
+	<img src="./lowres/00128_000.jpg" alt="SantaColor SantaColor 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### [2025] Ilford HP5 Plus (ref: efad)
@@ -1948,6 +2008,50 @@ Scanned By: dekuNukem
 
 <a href="./archive/00005_001.jpg">
 	<img src="./lowres/00005_001.jpg" alt="Rollei Retro 80S 120 film_box_inside" loading="lazy" width="500" />
+</a>
+
+#### [2026] Bergger Pancro400 (ref: ad7b)
+
+```
+ISO     : 400
+Format  : 120
+Process : BW
+Expiry  : 202603
+UUID    : 73396128854a4c6ab3723a549225ad7b
+Scanned By: Pelicram
+```
+
+<a href="./archive/00124_000.jpg">
+	<img src="./lowres/00124_000.jpg" alt="Bergger Pancro400 120 film_box_outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 5643e1130f1949c48dfdeddc7c7a955f`↓
+
+<a href="./archive/00124_001.jpg">
+	<img src="./lowres/00124_001.jpg" alt="Bergger Pancro400 120 film_box_inside" loading="lazy" width="500" />
+</a>
+
+#### [2026] Foma Ortho (ref: 89e7)
+
+```
+ISO     : 400
+Format  : 120
+Process : BW
+Expiry  : 202604
+UUID    : 4c97e2b7413b42278b0fd129c1c589e7
+Scanned By: Pelicram
+```
+
+<a href="./archive/00127_000.jpg">
+	<img src="./lowres/00127_000.jpg" alt="Foma Ortho 120 film_box_outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 728d195752464a448163dbb0ad4e8aa0`↓
+
+<a href="./archive/00127_001.jpg">
+	<img src="./lowres/00127_001.jpg" alt="Foma Ortho 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### [2026] Ilford FP4 Plus (ref: 76e7)
@@ -2150,6 +2254,28 @@ Scanned By: dekuNukem
 	<img src="./lowres/00021_000.jpg" alt="Kodak Gold 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
+#### [2026] Bergger Pancro400 (ref: f619)
+
+```
+ISO     : 400
+Format  : 35mm
+Process : BW
+Expiry  : 202612
+UUID    : 0d9fee6b29f445f089acde3247d1f619
+Scanned By: Pelicram
+```
+
+<a href="./archive/00123_000.jpg">
+	<img src="./lowres/00123_000.jpg" alt="Bergger Pancro400 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 29d10e873e704093bd65148f288f968b`↓
+
+<a href="./archive/00123_001.jpg">
+	<img src="./lowres/00123_001.jpg" alt="Bergger Pancro400 35mm film_box_inside" loading="lazy" height="500" />
+</a>
+
 #### [2026] Wolfen NC500 (ref: 91c1)
 
 ```
@@ -2318,6 +2444,43 @@ Scanned By: yc128
 
 <a href="./archive/00110_001.jpg">
 	<img src="./lowres/00110_001.jpg" alt="Harman Phoenix II 35mm film_box_inside" loading="lazy" height="500" />
+</a>
+
+#### [2027] Ilford Delta (ref: 9b54)
+
+```
+ISO     : 3200
+Format  : 35mm
+Process : BW
+Expiry  : 202706
+UUID    : d6f377dbe74745a0aacdf51ce7669b54
+Scanned By: Pelicram
+```
+
+<a href="./archive/00126_000.jpg">
+	<img src="./lowres/00126_000.jpg" alt="Ilford Delta 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 3921b5a404564bb2b4231bf59d22e6d3`↓
+
+<a href="./archive/00126_001.jpg">
+	<img src="./lowres/00126_001.jpg" alt="Ilford Delta 35mm film_box_inside" loading="lazy" height="500" />
+</a>
+
+#### [2027] Foma Fomapan (ref: 6a20)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : BW
+Expiry  : 202707
+UUID    : 877d0ba6a1934609b620d0e767336a20
+Scanned By: Pelicram
+```
+
+<a href="./archive/00129_000.jpg">
+	<img src="./lowres/00129_000.jpg" alt="Foma Fomapan 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
 #### [2027] Rollei Infrared (ref: 4f54)
@@ -2497,6 +2660,21 @@ Scanned By: Nano_Burger
 	<img src="./lowres/00099_000.jpg" alt="Kodak Eastman High Contrast Panchromatic 7369 16mm film_box_outside" loading="lazy" width="500" />
 </a>
 
+#### [Unknown] Lomography Babylon (ref: b982)
+
+```
+ISO     : 13
+Format  : 35mm
+Process : BW
+Expiry  : Unknown
+UUID    : 538219da0dbe438db035dc815b7eb982
+Scanned By: Pelicram
+```
+
+<a href="./archive/00130_000.jpg">
+	<img src="./lowres/00130_000.jpg" alt="Lomography Babylon 35mm film_box_outside" loading="lazy" width="500" />
+</a>
+
 #### [Unknown] Perutz Superomnia (ref: c90d)
 
 ```
@@ -2510,21 +2688,6 @@ Scanned By: lilyu.xyz
 
 <a href="./archive/00096_000.jpg">
 	<img src="./lowres/00096_000.jpg" alt="Perutz Superomnia 9x12 film_box_outside" loading="lazy" width="500" />
-</a>
-
-#### [Unknown] SantaColor SantaColor (ref: cb58)
-
-```
-ISO     : 100
-Format  : 35mm
-Process : C-41
-Expiry  : Unknown
-UUID    : e54ce68c797b4846b9aee3f5818ecb58
-Scanned By: yc128
-```
-
-<a href="./archive/00112_000.jpg">
-	<img src="./lowres/00112_000.jpg" alt="SantaColor SantaColor 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 ## Want to Contribute?
@@ -2541,16 +2704,17 @@ Rank  Username            Contributions
 3     @ob.skura           16    
 4     b0baspace           14    
 5     @SirBrentsworth     13    
-6     yc128               11    
-7     lilyu.xyz           9     
-8     nnnnnnnnnnno        9     
-9     benikum             6     
-10    @recycling.film     5     
-11    Henry Gunn          4     
-12    toader              4     
-13    @seklerek           2     
-14    @ftfilmphotos       2     
-15    Yrikonchik          1     
+6     Pelicram            13    
+7     yc128               11    
+8     lilyu.xyz           9     
+9     The Compartmentalist9     
+10    benikum             6     
+11    @recycling.film     5     
+12    Henry Gunn          4     
+13    toader              4     
+14    @seklerek           2     
+15    @ftfilmphotos       2     
+16    Yrikonchik          1     
 ```
 
 ## Questions or Comments?
