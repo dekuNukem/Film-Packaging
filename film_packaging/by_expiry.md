@@ -17,25 +17,31 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Jul 31 2025
 
-# of items: 194
+# of items: 203
 ```
 
 -----
 
 - [[1946] AGFA Isopan FF (ref: 3700)](#1946-agfa-isopan-ff-ref-3700)
-- [[1963] Kodak Ektachrome (ref: ce7f)](#1963-kodak-ektachrome-ref-ce7f)
+- [[1963] Kodak High Speed Ektachrome (ref: ce7f)](#1963-kodak-high-speed-ektachrome-ref-ce7f)
 - [[1964] ADOX KB17 (ref: 2c95)](#1964-adox-kb17-ref-2c95)
-- [[1970] Kodak Ektachrome (ref: ec3d)](#1970-kodak-ektachrome-ref-ec3d)
+- [[1969] Agfa Agfapan Rapid (ref: 5e7b)](#1969-agfa-agfapan-rapid-ref-5e7b)
+- [[1970] Kodak High Speed Ektachrome (ref: ec3d)](#1970-kodak-high-speed-ektachrome-ref-ec3d)
 - [[1971] Kodak Verichrome Pan (ref: 0195)](#1971-kodak-verichrome-pan-ref-0195)
 - [[1971] Foma Fomapan21 (ref: 75d9)](#1971-foma-fomapan21-ref-75d9)
+- [[1972] Kodak Ektachrome-X (ref: ae7e)](#1972-kodak-ektachrome-x-ref-ae7e)
+- [[1973] Kodak Ektachrome-X (ref: aec5)](#1973-kodak-ektachrome-x-ref-aec5)
 - [[1974] GAF Color Slide Film (ref: dea6)](#1974-gaf-color-slide-film-ref-dea6)
 - [[1974] Kodak Kodacolor-X (ref: a4b1)](#1974-kodak-kodacolor-x-ref-a4b1)
 - [[1974] Porst Color N21 (ref: 494a)](#1974-porst-color-n21-ref-494a)
+- [[1975] Fujifilm Neopan SS Rapid (ref: 9db3)](#1975-fujifilm-neopan-ss-rapid-ref-9db3)
 - [[1975] Kodak Kodacolor-X (ref: 5302)](#1975-kodak-kodacolor-x-ref-5302)
-- [[1977] Kodak Ektachrome (ref: b8f8)](#1977-kodak-ektachrome-ref-b8f8)
+- [[1977] Kodak High Speed Ektachrome (ref: b8f8)](#1977-kodak-high-speed-ektachrome-ref-b8f8)
 - [[1978] Kodak Kodachrome (ref: 6477)](#1978-kodak-kodachrome-ref-6477)
+- [[1978] Sakura Sakuracolor II (ref: 4f7d)](#1978-sakura-sakuracolor-ii-ref-4f7d)
 - [[1979] Kodak Ektachrome (ref: 07c0)](#1979-kodak-ektachrome-ref-07c0)
 - [[1979] Kodak Kodachrome (ref: 3145)](#1979-kodak-kodachrome-ref-3145)
+- [[1983] Kodak Kodachrome (ref: 8833)](#1983-kodak-kodachrome-ref-8833)
 - [[1987] Kodak Kodacolor VR (ref: 035f)](#1987-kodak-kodacolor-vr-ref-035f)
 - [[1988] Kodak Technical Pan 6415 (ref: 03be)](#1988-kodak-technical-pan-6415-ref-03be)
 - [[1988] Kodak Gold (ref: f368)](#1988-kodak-gold-ref-f368)
@@ -53,6 +59,7 @@ Last Updated: Jul 31 2025
 - [[1995] Kodak Technical Pan (ref: f4cf)](#1995-kodak-technical-pan-ref-f4cf)
 - [[1995] Kodak Ektachrome Elite (ref: 26ef)](#1995-kodak-ektachrome-elite-ref-26ef)
 - [[1996] Polaroid 665 (ref: e054)](#1996-polaroid-665-ref-e054)
+- [[1998] Fujifilm Sensia (ref: a59b)](#1998-fujifilm-sensia-ref-a59b)
 - [[1998] Klick XD200 (ref: 44d7)](#1998-klick-xd200-ref-44d7)
 - [[1998] Fujifilm Fujicolor NPL 160 (ref: d10b)](#1998-fujifilm-fujicolor-npl-160-ref-d10b)
 - [[2000] Konica Infrared 750nm (ref: 2d93)](#2000-konica-infrared-750nm-ref-2d93)
@@ -83,6 +90,7 @@ Last Updated: Jul 31 2025
 - [[2008] Kodak High Speed Infrared (ref: 883e)](#2008-kodak-high-speed-infrared-ref-883e)
 - [[2009] Lloyds Pharmacy Colour Film (ref: 77d9)](#2009-lloyds-pharmacy-colour-film-ref-77d9)
 - [[2010] Fujifilm Fujicolor 100 (ref: 013b)](#2010-fujifilm-fujicolor-100-ref-013b)
+- [[2012] Fujifilm Fujicolor Professional (ref: 28da)](#2012-fujifilm-fujicolor-professional-ref-28da)
 - [[2013] Efke IR 820 (ref: 43c9)](#2013-efke-ir-820-ref-43c9)
 - [[2013] Kodak Portra (ref: ce56)](#2013-kodak-portra-ref-ce56)
 - [[2013] Ilford SFX 200 (ref: 6057)](#2013-ilford-sfx-200-ref-6057)
@@ -153,7 +161,7 @@ Scanned By: Nano_Burger
 	<img src="./lowres/00101_000.jpg" alt="AGFA Isopan FF 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
-#### [1963] Kodak Ektachrome (ref: ce7f)
+#### [1963] Kodak High Speed Ektachrome (ref: ce7f)
 
 ```
 ISO     : 160
@@ -165,7 +173,7 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00017_000.jpg">
-	<img src="./lowres/00017_000.jpg" alt="Kodak Ektachrome 120 film_box_outside" loading="lazy" width="500" />
+	<img src="./lowres/00017_000.jpg" alt="Kodak High Speed Ektachrome 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### [1964] ADOX KB17 (ref: 2c95)
@@ -190,7 +198,22 @@ Scanned By: dekuNukem
 	<img src="./lowres/00065_001.jpg" alt="ADOX KB17 35mm film_box_inside" loading="lazy" width="500" />
 </a>
 
-#### [1970] Kodak Ektachrome (ref: ec3d)
+#### [1969] Agfa Agfapan Rapid (ref: 5e7b)
+
+```
+ISO     : 40
+Format  : 35mm
+Process : BW
+Expiry  : 196902
+UUID    : b2470c1734d344698f6e1c01eaa85e7b
+Scanned By: nnnnnnnnnnno
+```
+
+<a href="./archive/00115_000.jpg">
+	<img src="./lowres/00115_000.jpg" alt="Agfa Agfapan Rapid 35mm film_box_outside" loading="lazy" width="500" />
+</a>
+
+#### [1970] Kodak High Speed Ektachrome (ref: ec3d)
 
 ```
 ISO     : 160
@@ -202,21 +225,21 @@ Scanned By: @ob.skura
 ```
 
 <a href="./archive/00045_000.jpg">
-	<img src="./lowres/00045_000.jpg" alt="Kodak Ektachrome 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00045_000.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: 1fc1082f5b524367820b31b7669e86cd`↓
 
 <a href="./archive/00045_001.jpg">
-	<img src="./lowres/00045_001.jpg" alt="Kodak Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
+	<img src="./lowres/00045_001.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
 </a>
 
 
 `UUID: 6b248d300438476aa38c9b6bce04fc87`↓
 
 <a href="./archive/00045_002.jpg">
-	<img src="./lowres/00045_002.jpg" alt="Kodak Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
+	<img src="./lowres/00045_002.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
 </a>
 
 #### [1971] Kodak Verichrome Pan (ref: 0195)
@@ -247,6 +270,36 @@ Scanned By: benikum
 
 <a href="./archive/00074_000.jpg">
 	<img src="./lowres/00074_000.jpg" alt="Foma Fomapan21 120 film_box_outside" loading="lazy" width="500" />
+</a>
+
+#### [1972] Kodak Ektachrome-X (ref: ae7e)
+
+```
+ISO     : 64
+Format  : 828
+Process : E-4
+Expiry  : 197203
+UUID    : 4ee1eec740dd4838a83384cc19c6ae7e
+Scanned By: nnnnnnnnnnno
+```
+
+<a href="./archive/00120_000.jpg">
+	<img src="./lowres/00120_000.jpg" alt="Kodak Ektachrome-X 828 film_box_outside" loading="lazy" height="500" />
+</a>
+
+#### [1973] Kodak Ektachrome-X (ref: aec5)
+
+```
+ISO     : 64
+Format  : 35mm
+Process : E-4
+Expiry  : 197306
+UUID    : 6a81b1428cfe46c8b9cf187fb672aec5
+Scanned By: nnnnnnnnnnno
+```
+
+<a href="./archive/00119_000.jpg">
+	<img src="./lowres/00119_000.jpg" alt="Kodak Ektachrome-X 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
 #### [1974] GAF Color Slide Film (ref: dea6)
@@ -350,6 +403,21 @@ Scanned By: @ob.skura
 	<img src="./lowres/00046_001.jpg" alt="Porst Color N21 35mm film_box_leaflet" loading="lazy" width="500" />
 </a>
 
+#### [1975] Fujifilm Neopan SS Rapid (ref: 9db3)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : BW
+Expiry  : 197502
+UUID    : 1c541b4c837944d788eab8986f349db3
+Scanned By: nnnnnnnnnnno
+```
+
+<a href="./archive/00118_000.jpg">
+	<img src="./lowres/00118_000.jpg" alt="Fujifilm Neopan SS Rapid 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
 #### [1975] Kodak Kodacolor-X (ref: 5302)
 
 ```
@@ -365,7 +433,7 @@ Scanned By: dekuNukem
 	<img src="./lowres/00024_000.jpg" alt="Kodak Kodacolor-X 126 film_box_outside" loading="lazy" width="500" />
 </a>
 
-#### [1977] Kodak Ektachrome (ref: b8f8)
+#### [1977] Kodak High Speed Ektachrome (ref: b8f8)
 
 ```
 ISO     : 125
@@ -377,21 +445,21 @@ Scanned By: Henry Gunn
 ```
 
 <a href="./archive/00107_000.jpg">
-	<img src="./lowres/00107_000.jpg" alt="Kodak Ektachrome 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00107_000.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: 6d7d9f75f74b4caebbb7a7c6e27c663b`↓
 
 <a href="./archive/00107_001.jpg">
-	<img src="./lowres/00107_001.jpg" alt="Kodak Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
+	<img src="./lowres/00107_001.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
 </a>
 
 
 `UUID: e582ca2ca6ec44e49e9d9e96a56b930e`↓
 
 <a href="./archive/00107_002.jpg">
-	<img src="./lowres/00107_002.jpg" alt="Kodak Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
+	<img src="./lowres/00107_002.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
 </a>
 
 #### [1978] Kodak Kodachrome (ref: 6477)
@@ -437,6 +505,21 @@ Scanned By: dekuNukem
 	<img src="./lowres/00035_004.jpg" alt="Kodak Kodachrome 35mm film_box_processing_envelope" loading="lazy" width="500" />
 </a>
 
+#### [1978] Sakura Sakuracolor II (ref: 4f7d)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : C-41
+Expiry  : 197802
+UUID    : 0143ad8539d84710845f4d2dc82e4f7d
+Scanned By: nnnnnnnnnnno
+```
+
+<a href="./archive/00122_000.jpg">
+	<img src="./lowres/00122_000.jpg" alt="Sakura Sakuracolor II 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
 #### [1979] Kodak Ektachrome (ref: 07c0)
 
 ```
@@ -479,6 +562,21 @@ Scanned By: dekuNukem
 
 <a href="./archive/00026_002.jpg">
 	<img src="./lowres/00026_002.jpg" alt="Kodak Kodachrome 110 film_box_processing_envelope" loading="lazy" width="500" />
+</a>
+
+#### [1983] Kodak Kodachrome (ref: 8833)
+
+```
+ISO     : 25
+Format  : 35mm
+Process : K-14
+Expiry  : 198303
+UUID    : 6239a04366d74208a9010cd231688833
+Scanned By: nnnnnnnnnnno
+```
+
+<a href="./archive/00121_000.jpg">
+	<img src="./lowres/00121_000.jpg" alt="Kodak Kodachrome 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
 #### [1987] Kodak Kodacolor VR (ref: 035f)
@@ -853,6 +951,28 @@ Scanned By: dekuNukem
 
 <a href="./archive/00018_000.jpg">
 	<img src="./lowres/00018_000.jpg" alt="Polaroid 665 Pack Film film_box_outside" loading="lazy" width="500" />
+</a>
+
+#### [1998] Fujifilm Sensia (ref: a59b)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : E-6
+Expiry  : 199801
+UUID    : d4fdfa0d829f4fcab984381a31f2a59b
+Scanned By: nnnnnnnnnnno
+```
+
+<a href="./archive/00116_000.jpg">
+	<img src="./lowres/00116_000.jpg" alt="Fujifilm Sensia 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 4f21cef93ed3401caed74619ffa2b595`↓
+
+<a href="./archive/00116_001.jpg">
+	<img src="./lowres/00116_001.jpg" alt="Fujifilm Sensia 35mm film_box_inside" loading="lazy" height="500" />
 </a>
 
 #### [1998] Klick XD200 (ref: 44d7)
@@ -1457,6 +1577,21 @@ Scanned By: b0baspace
 
 <a href="./archive/00040_000.jpg">
 	<img src="./lowres/00040_000.jpg" alt="Fujifilm Fujicolor 100 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+#### [2012] Fujifilm Fujicolor Professional (ref: 28da)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : C-41
+Expiry  : 201202
+UUID    : cb85af928a7f454e9673960e22b428da
+Scanned By: nnnnnnnnnnno
+```
+
+<a href="./archive/00117_000.jpg">
+	<img src="./lowres/00117_000.jpg" alt="Fujifilm Fujicolor Professional 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
 #### [2013] Efke IR 820 (ref: 43c9)
@@ -2408,13 +2543,14 @@ Rank  Username            Contributions
 5     @SirBrentsworth     13    
 6     yc128               11    
 7     lilyu.xyz           9     
-8     benikum             6     
-9     @recycling.film     5     
-10    Henry Gunn          4     
-11    toader              4     
-12    @seklerek           2     
-13    @ftfilmphotos       2     
-14    Yrikonchik          1     
+8     nnnnnnnnnnno        9     
+9     benikum             6     
+10    @recycling.film     5     
+11    Henry Gunn          4     
+12    toader              4     
+13    @seklerek           2     
+14    @ftfilmphotos       2     
+15    Yrikonchik          1     
 ```
 
 ## Questions or Comments?

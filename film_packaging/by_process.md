@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Jul 31 2025
 
-# of items: 194
+# of items: 203
 ```
 
 -----
@@ -28,11 +28,13 @@ Last Updated: Jul 31 2025
 - [[BW] AGFA APX (ref: 5276)](#bw-agfa-apx-ref-5276)
 - [[BW] AGFA Autolith Repo (ref: 8e68)](#bw-agfa-autolith-repo-ref-8e68)
 - [[BW] AGFA Isopan FF (ref: 3700)](#bw-agfa-isopan-ff-ref-3700)
+- [[BW] Agfa Agfapan Rapid (ref: 5e7b)](#bw-agfa-agfapan-rapid-ref-5e7b)
 - [[BW] Alien Film 5222/XX (ref: 3e49)](#bw-alien-film-5222xx-ref-3e49)
 - [[BW] Efke IR 820 (ref: 43c9)](#bw-efke-ir-820-ref-43c9)
 - [[BW] Foma Fomapan (ref: 3e4f)](#bw-foma-fomapan-ref-3e4f)
 - [[BW] Foma Fomapan (ref: 84a5)](#bw-foma-fomapan-ref-84a5)
 - [[BW] Foma Fomapan21 (ref: 75d9)](#bw-foma-fomapan21-ref-75d9)
+- [[BW] Fujifilm Neopan SS Rapid (ref: 9db3)](#bw-fujifilm-neopan-ss-rapid-ref-9db3)
 - [[BW] Ilford Delta (ref: eb8d)](#bw-ilford-delta-ref-eb8d)
 - [[BW] Ilford FP4 Plus (ref: 76e7)](#bw-ilford-fp4-plus-ref-76e7)
 - [[BW] Ilford HP5 Plus (ref: c725)](#bw-ilford-hp5-plus-ref-c725)
@@ -75,6 +77,7 @@ Last Updated: Jul 31 2025
 - [[C-41] Fujifilm FUJICOLOR SUPERIA (ref: 0683)](#c-41-fujifilm-fujicolor-superia-ref-0683)
 - [[C-41] Fujifilm Fujicolor 100 (ref: 013b)](#c-41-fujifilm-fujicolor-100-ref-013b)
 - [[C-41] Fujifilm Fujicolor NPL 160 (ref: d10b)](#c-41-fujifilm-fujicolor-npl-160-ref-d10b)
+- [[C-41] Fujifilm Fujicolor Professional (ref: 28da)](#c-41-fujifilm-fujicolor-professional-ref-28da)
 - [[C-41] Fujifilm NPS (ref: 5e85)](#c-41-fujifilm-nps-ref-5e85)
 - [[C-41] Fujifilm Pro 400H (ref: 66e3)](#c-41-fujifilm-pro-400h-ref-66e3)
 - [[C-41] Fujifilm Superia Reala (ref: a7de)](#c-41-fujifilm-superia-reala-ref-a7de)
@@ -106,15 +109,19 @@ Last Updated: Jul 31 2025
 - [[C-41] Lomography Lomochrome Purple (ref: 068f)](#c-41-lomography-lomochrome-purple-ref-068f)
 - [[C-41] Lomography Lomochrome Turquoise (ref: 0d90)](#c-41-lomography-lomochrome-turquoise-ref-0d90)
 - [[C-41] Rossmann Jahreszeiten Pack (ref: 7670)](#c-41-rossmann-jahreszeiten-pack-ref-7670)
+- [[C-41] Sakura Sakuracolor II (ref: 4f7d)](#c-41-sakura-sakuracolor-ii-ref-4f7d)
 - [[C-41] SantaColor SantaColor (ref: cb58)](#c-41-santacolor-santacolor-ref-cb58)
 - [[C-41] Wolfen NC500 (ref: 91c1)](#c-41-wolfen-nc500-ref-91c1)
 - [[C-41] York Photo Labs DXG 200 (ref: 4bf8)](#c-41-york-photo-labs-dxg-200-ref-4bf8)
 - [[D-97] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#d-97-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
-- [[E-2] Kodak Ektachrome (ref: ce7f)](#e-2-kodak-ektachrome-ref-ce7f)
-- [[E-4] Kodak Ektachrome (ref: ec3d)](#e-4-kodak-ektachrome-ref-ec3d)
-- [[E-4] Kodak Ektachrome (ref: b8f8)](#e-4-kodak-ektachrome-ref-b8f8)
+- [[E-2] Kodak High Speed Ektachrome (ref: ce7f)](#e-2-kodak-high-speed-ektachrome-ref-ce7f)
+- [[E-4] Kodak Ektachrome-X (ref: ae7e)](#e-4-kodak-ektachrome-x-ref-ae7e)
+- [[E-4] Kodak Ektachrome-X (ref: aec5)](#e-4-kodak-ektachrome-x-ref-aec5)
+- [[E-4] Kodak High Speed Ektachrome (ref: ec3d)](#e-4-kodak-high-speed-ektachrome-ref-ec3d)
+- [[E-4] Kodak High Speed Ektachrome (ref: b8f8)](#e-4-kodak-high-speed-ektachrome-ref-b8f8)
 - [[E-6] Fujifilm Fujichrome Professional 100D (ref: 439d)](#e-6-fujifilm-fujichrome-professional-100d-ref-439d)
 - [[E-6] Fujifilm Provia 100F (ref: 356d)](#e-6-fujifilm-provia-100f-ref-356d)
+- [[E-6] Fujifilm Sensia (ref: a59b)](#e-6-fujifilm-sensia-ref-a59b)
 - [[E-6] Fujifilm Velvia (ref: 3182)](#e-6-fujifilm-velvia-ref-3182)
 - [[E-6] Fujifilm Velvia 100F (ref: f7fb)](#e-6-fujifilm-velvia-100f-ref-f7fb)
 - [[E-6] Fujifilm Velvia 100F (ref: 32d4)](#e-6-fujifilm-velvia-100f-ref-32d4)
@@ -132,6 +139,7 @@ Last Updated: Jul 31 2025
 - [[Instant] Polaroid PolaChrome (ref: 3b60)](#instant-polaroid-polachrome-ref-3b60)
 - [[K-14] Kodak Kodachrome (ref: 6477)](#k-14-kodak-kodachrome-ref-6477)
 - [[K-14] Kodak Kodachrome (ref: 3145)](#k-14-kodak-kodachrome-ref-3145)
+- [[K-14] Kodak Kodachrome (ref: 8833)](#k-14-kodak-kodachrome-ref-8833)
 - [[K-14] Kodak Kodachrome (ref: 3206)](#k-14-kodak-kodachrome-ref-3206)
 - [[Unknown] Kodak Ektachrome (ref: 07c0)](#unknown-kodak-ektachrome-ref-07c0)
 
@@ -263,6 +271,21 @@ Scanned By: Nano_Burger
 	<img src="./lowres/00101_000.jpg" alt="AGFA Isopan FF 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
+#### [BW] Agfa Agfapan Rapid (ref: 5e7b)
+
+```
+ISO     : 40
+Format  : 35mm
+Process : BW
+Expiry  : 196902
+UUID    : b2470c1734d344698f6e1c01eaa85e7b
+Scanned By: nnnnnnnnnnno
+```
+
+<a href="./archive/00115_000.jpg">
+	<img src="./lowres/00115_000.jpg" alt="Agfa Agfapan Rapid 35mm film_box_outside" loading="lazy" width="500" />
+</a>
+
 #### [BW] Alien Film 5222/XX (ref: 3e49)
 
 ```
@@ -357,6 +380,21 @@ Scanned By: benikum
 
 <a href="./archive/00074_000.jpg">
 	<img src="./lowres/00074_000.jpg" alt="Foma Fomapan21 120 film_box_outside" loading="lazy" width="500" />
+</a>
+
+#### [BW] Fujifilm Neopan SS Rapid (ref: 9db3)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : BW
+Expiry  : 197502
+UUID    : 1c541b4c837944d788eab8986f349db3
+Scanned By: nnnnnnnnnnno
+```
+
+<a href="./archive/00118_000.jpg">
+	<img src="./lowres/00118_000.jpg" alt="Fujifilm Neopan SS Rapid 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
 #### [BW] Ilford Delta (ref: eb8d)
@@ -1234,6 +1272,21 @@ Scanned By: dekuNukem
 	<img src="./lowres/00034_002.jpg" alt="Fujifilm Fujicolor NPL 160 120 film_box_leaflet" loading="lazy" height="500" />
 </a>
 
+#### [C-41] Fujifilm Fujicolor Professional (ref: 28da)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : C-41
+Expiry  : 201202
+UUID    : cb85af928a7f454e9673960e22b428da
+Scanned By: nnnnnnnnnnno
+```
+
+<a href="./archive/00117_000.jpg">
+	<img src="./lowres/00117_000.jpg" alt="Fujifilm Fujicolor Professional 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
 #### [C-41] Fujifilm NPS (ref: 5e85)
 
 ```
@@ -1797,6 +1850,21 @@ Scanned By: benikum
 	<img src="./lowres/00072_000.jpg" alt="Rossmann Jahreszeiten Pack 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
+#### [C-41] Sakura Sakuracolor II (ref: 4f7d)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : C-41
+Expiry  : 197802
+UUID    : 0143ad8539d84710845f4d2dc82e4f7d
+Scanned By: nnnnnnnnnnno
+```
+
+<a href="./archive/00122_000.jpg">
+	<img src="./lowres/00122_000.jpg" alt="Sakura Sakuracolor II 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
 #### [C-41] SantaColor SantaColor (ref: cb58)
 
 ```
@@ -1857,7 +1925,7 @@ Scanned By: Nano_Burger
 	<img src="./lowres/00099_000.jpg" alt="Kodak Eastman High Contrast Panchromatic 7369 16mm film_box_outside" loading="lazy" width="500" />
 </a>
 
-#### [E-2] Kodak Ektachrome (ref: ce7f)
+#### [E-2] Kodak High Speed Ektachrome (ref: ce7f)
 
 ```
 ISO     : 160
@@ -1869,10 +1937,40 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00017_000.jpg">
-	<img src="./lowres/00017_000.jpg" alt="Kodak Ektachrome 120 film_box_outside" loading="lazy" width="500" />
+	<img src="./lowres/00017_000.jpg" alt="Kodak High Speed Ektachrome 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
-#### [E-4] Kodak Ektachrome (ref: ec3d)
+#### [E-4] Kodak Ektachrome-X (ref: ae7e)
+
+```
+ISO     : 64
+Format  : 828
+Process : E-4
+Expiry  : 197203
+UUID    : 4ee1eec740dd4838a83384cc19c6ae7e
+Scanned By: nnnnnnnnnnno
+```
+
+<a href="./archive/00120_000.jpg">
+	<img src="./lowres/00120_000.jpg" alt="Kodak Ektachrome-X 828 film_box_outside" loading="lazy" height="500" />
+</a>
+
+#### [E-4] Kodak Ektachrome-X (ref: aec5)
+
+```
+ISO     : 64
+Format  : 35mm
+Process : E-4
+Expiry  : 197306
+UUID    : 6a81b1428cfe46c8b9cf187fb672aec5
+Scanned By: nnnnnnnnnnno
+```
+
+<a href="./archive/00119_000.jpg">
+	<img src="./lowres/00119_000.jpg" alt="Kodak Ektachrome-X 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+#### [E-4] Kodak High Speed Ektachrome (ref: ec3d)
 
 ```
 ISO     : 160
@@ -1884,24 +1982,24 @@ Scanned By: @ob.skura
 ```
 
 <a href="./archive/00045_000.jpg">
-	<img src="./lowres/00045_000.jpg" alt="Kodak Ektachrome 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00045_000.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: 1fc1082f5b524367820b31b7669e86cd`↓
 
 <a href="./archive/00045_001.jpg">
-	<img src="./lowres/00045_001.jpg" alt="Kodak Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
+	<img src="./lowres/00045_001.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
 </a>
 
 
 `UUID: 6b248d300438476aa38c9b6bce04fc87`↓
 
 <a href="./archive/00045_002.jpg">
-	<img src="./lowres/00045_002.jpg" alt="Kodak Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
+	<img src="./lowres/00045_002.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
 </a>
 
-#### [E-4] Kodak Ektachrome (ref: b8f8)
+#### [E-4] Kodak High Speed Ektachrome (ref: b8f8)
 
 ```
 ISO     : 125
@@ -1913,21 +2011,21 @@ Scanned By: Henry Gunn
 ```
 
 <a href="./archive/00107_000.jpg">
-	<img src="./lowres/00107_000.jpg" alt="Kodak Ektachrome 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00107_000.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: 6d7d9f75f74b4caebbb7a7c6e27c663b`↓
 
 <a href="./archive/00107_001.jpg">
-	<img src="./lowres/00107_001.jpg" alt="Kodak Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
+	<img src="./lowres/00107_001.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
 </a>
 
 
 `UUID: e582ca2ca6ec44e49e9d9e96a56b930e`↓
 
 <a href="./archive/00107_002.jpg">
-	<img src="./lowres/00107_002.jpg" alt="Kodak Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
+	<img src="./lowres/00107_002.jpg" alt="Kodak High Speed Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
 </a>
 
 #### [E-6] Fujifilm Fujichrome Professional 100D (ref: 439d)
@@ -1972,6 +2070,28 @@ Scanned By: @seklerek
 
 <a href="./archive/00055_000.jpg">
 	<img src="./lowres/00055_000.jpg" alt="Fujifilm Provia 100F 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+#### [E-6] Fujifilm Sensia (ref: a59b)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : E-6
+Expiry  : 199801
+UUID    : d4fdfa0d829f4fcab984381a31f2a59b
+Scanned By: nnnnnnnnnnno
+```
+
+<a href="./archive/00116_000.jpg">
+	<img src="./lowres/00116_000.jpg" alt="Fujifilm Sensia 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 4f21cef93ed3401caed74619ffa2b595`↓
+
+<a href="./archive/00116_001.jpg">
+	<img src="./lowres/00116_001.jpg" alt="Fujifilm Sensia 35mm film_box_inside" loading="lazy" height="500" />
 </a>
 
 #### [E-6] Fujifilm Velvia (ref: 3182)
@@ -2362,6 +2482,21 @@ Scanned By: dekuNukem
 	<img src="./lowres/00026_002.jpg" alt="Kodak Kodachrome 110 film_box_processing_envelope" loading="lazy" width="500" />
 </a>
 
+#### [K-14] Kodak Kodachrome (ref: 8833)
+
+```
+ISO     : 25
+Format  : 35mm
+Process : K-14
+Expiry  : 198303
+UUID    : 6239a04366d74208a9010cd231688833
+Scanned By: nnnnnnnnnnno
+```
+
+<a href="./archive/00121_000.jpg">
+	<img src="./lowres/00121_000.jpg" alt="Kodak Kodachrome 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
 #### [K-14] Kodak Kodachrome (ref: 3206)
 
 ```
@@ -2408,13 +2543,14 @@ Rank  Username            Contributions
 5     @SirBrentsworth     13    
 6     yc128               11    
 7     lilyu.xyz           9     
-8     benikum             6     
-9     @recycling.film     5     
-10    Henry Gunn          4     
-11    toader              4     
-12    @seklerek           2     
-13    @ftfilmphotos       2     
-14    Yrikonchik          1     
+8     nnnnnnnnnnno        9     
+9     benikum             6     
+10    @recycling.film     5     
+11    Henry Gunn          4     
+12    toader              4     
+13    @seklerek           2     
+14    @ftfilmphotos       2     
+15    Yrikonchik          1     
 ```
 
 ## Questions or Comments?
