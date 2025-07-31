@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Jul 31 2025
 
-# of items: 241
+# of items: 254
 ```
 
 -----
@@ -29,6 +29,7 @@ Last Updated: Jul 31 2025
 - [[BW] AGFA Autolith Repo (ref: 8e68)](#bw-agfa-autolith-repo-ref-8e68)
 - [[BW] AGFA Isopan FF (ref: 3700)](#bw-agfa-isopan-ff-ref-3700)
 - [[BW] Agfa Agfapan Rapid (ref: 5e7b)](#bw-agfa-agfapan-rapid-ref-5e7b)
+- [[BW] Agfa Isopan ISS (ref: 75fa)](#bw-agfa-isopan-iss-ref-75fa)
 - [[BW] Alien Film 5222/XX (ref: 3e49)](#bw-alien-film-5222xx-ref-3e49)
 - [[BW] Bergger Pancro400 (ref: ad7b)](#bw-bergger-pancro400-ref-ad7b)
 - [[BW] Bergger Pancro400 (ref: f619)](#bw-bergger-pancro400-ref-f619)
@@ -88,6 +89,8 @@ Last Updated: Jul 31 2025
 - [[C-22] Porst Color N21 (ref: 494a)](#c-22-porst-color-n21-ref-494a)
 - [[C-41] AGFA ULTRA 50 (ref: 4faa)](#c-41-agfa-ultra-50-ref-4faa)
 - [[C-41] AGFA Vista (ref: d3af)](#c-41-agfa-vista-ref-d3af)
+- [[C-41] Agfa Agfacolor XRG (ref: 689e)](#c-41-agfa-agfacolor-xrg-ref-689e)
+- [[C-41] Alfo ALFOcolor PR-G (ref: 94b9)](#c-41-alfo-alfocolor-pr-g-ref-94b9)
 - [[C-41] CineStill 800T (ref: c86a)](#c-41-cinestill-800t-ref-c86a)
 - [[C-41] CineStill 800T (ref: b3ff)](#c-41-cinestill-800t-ref-b3ff)
 - [[C-41] Efiniti UXi super 200 (ref: 471a)](#c-41-efiniti-uxi-super-200-ref-471a)
@@ -97,6 +100,7 @@ Last Updated: Jul 31 2025
 - [[C-41] Fujifilm Fujicolor 100 (ref: 013b)](#c-41-fujifilm-fujicolor-100-ref-013b)
 - [[C-41] Fujifilm Fujicolor NPL 160 (ref: d10b)](#c-41-fujifilm-fujicolor-npl-160-ref-d10b)
 - [[C-41] Fujifilm Fujicolor Professional (ref: 28da)](#c-41-fujifilm-fujicolor-professional-ref-28da)
+- [[C-41] Fujifilm Fujicolor SuperHG (ref: ee94)](#c-41-fujifilm-fujicolor-superhg-ref-ee94)
 - [[C-41] Fujifilm Fujicolor Superia (ref: d1b7)](#c-41-fujifilm-fujicolor-superia-ref-d1b7)
 - [[C-41] Fujifilm NPS (ref: 5e85)](#c-41-fujifilm-nps-ref-5e85)
 - [[C-41] Fujifilm Pro 400H (ref: 66e3)](#c-41-fujifilm-pro-400h-ref-66e3)
@@ -114,12 +118,14 @@ Last Updated: Jul 31 2025
 - [[C-41] Kodak Ektacolor Pro Gold (ref: c3f8)](#c-41-kodak-ektacolor-pro-gold-ref-c3f8)
 - [[C-41] Kodak Ektar (ref: 3498)](#c-41-kodak-ektar-ref-3498)
 - [[C-41] Kodak Gold (ref: f368)](#c-41-kodak-gold-ref-f368)
+- [[C-41] Kodak Gold (ref: 2f8d)](#c-41-kodak-gold-ref-2f8d)
 - [[C-41] Kodak Gold (ref: ea58)](#c-41-kodak-gold-ref-ea58)
 - [[C-41] Kodak Gold (ref: 3e7f)](#c-41-kodak-gold-ref-3e7f)
 - [[C-41] Kodak Gold (ref: 933f)](#c-41-kodak-gold-ref-933f)
 - [[C-41] Kodak Gold (ref: 855e)](#c-41-kodak-gold-ref-855e)
 - [[C-41] Kodak Gold Ultra (ref: 1358)](#c-41-kodak-gold-ultra-ref-1358)
 - [[C-41] Kodak Kodacolor VR (ref: 035f)](#c-41-kodak-kodacolor-vr-ref-035f)
+- [[C-41] Kodak Kodacolor VR Plus (ref: f8bf)](#c-41-kodak-kodacolor-vr-plus-ref-f8bf)
 - [[C-41] Kodak Portra (ref: ce56)](#c-41-kodak-portra-ref-ce56)
 - [[C-41] Kodak Portra (ref: 7d65)](#c-41-kodak-portra-ref-7d65)
 - [[C-41] Kodak Ultra (ref: 69a1)](#c-41-kodak-ultra-ref-69a1)
@@ -167,6 +173,7 @@ Last Updated: Jul 31 2025
 - [[K-14] Kodak Kodachrome (ref: 8833)](#k-14-kodak-kodachrome-ref-8833)
 - [[K-14] Kodak Kodachrome (ref: 3206)](#k-14-kodak-kodachrome-ref-3206)
 - [[Unknown] Kodak Ektachrome (ref: 07c0)](#unknown-kodak-ektachrome-ref-07c0)
+- [[Unknown] Kodak Ektachrome (ref: 8f62)](#unknown-kodak-ektachrome-ref-8f62)
 
 
 -----
@@ -309,6 +316,21 @@ Scanned By: The Compartmentalist
 
 <a href="./archive/00115_000.jpg">
 	<img src="./lowres/00115_000.jpg" alt="Agfa Agfapan Rapid 35mm film_box_outside" loading="lazy" width="500" />
+</a>
+
+#### [BW] Agfa Isopan ISS (ref: 75fa)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : BW
+Expiry  : 196311
+UUID    : cdcaa912ee0142c3b76eb1500e2375fa
+Scanned By: Pelicram
+```
+
+<a href="./archive/00148_000.jpg">
+	<img src="./lowres/00148_000.jpg" alt="Agfa Isopan ISS 35mm film_box_outside" loading="lazy" width="0" />
 </a>
 
 #### [BW] Alien Film 5222/XX (ref: 3e49)
@@ -1490,6 +1512,43 @@ Scanned By: dekuNukem
 	<img src="./lowres/00014_001.jpg" alt="AGFA Vista 35mm film_box_inside" loading="lazy" width="500" />
 </a>
 
+#### [C-41] Agfa Agfacolor XRG (ref: 689e)
+
+```
+ISO     : 200
+Format  : 35mm
+Process : C-41
+Expiry  : 200503
+UUID    : 86136eea89d14e15b60dfcdf45b1689e
+Scanned By: stefanie
+```
+
+<a href="./archive/00152_000.jpg">
+	<img src="./lowres/00152_000.jpg" alt="Agfa Agfacolor XRG 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 5598d8aac5844772a87d019a7d37e9f6`↓
+
+<a href="./archive/00152_001.jpg">
+	<img src="./lowres/00152_001.jpg" alt="Agfa Agfacolor XRG 35mm film_box_inside" loading="lazy" height="500" />
+</a>
+
+#### [C-41] Alfo ALFOcolor PR-G (ref: 94b9)
+
+```
+ISO     : 1600
+Format  : 35mm
+Process : C-41
+Expiry  : 199308
+UUID    : cc723aa89e9e43ec8ac1ebd18efa94b9
+Scanned By: stefanie
+```
+
+<a href="./archive/00151_000.jpg">
+	<img src="./lowres/00151_000.jpg" alt="Alfo ALFOcolor PR-G 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
 #### [C-41] CineStill 800T (ref: c86a)
 
 ```
@@ -1672,6 +1731,28 @@ Scanned By: The Compartmentalist
 
 <a href="./archive/00117_000.jpg">
 	<img src="./lowres/00117_000.jpg" alt="Fujifilm Fujicolor Professional 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+#### [C-41] Fujifilm Fujicolor SuperHG (ref: ee94)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : C-41
+Expiry  : 199407
+UUID    : 9233714654ff481089c2d4ff1334ee94
+Scanned By: stefanie
+```
+
+<a href="./archive/00150_000.jpg">
+	<img src="./lowres/00150_000.jpg" alt="Fujifilm Fujicolor SuperHG 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 302969081f4442239212b8e123d38378`↓
+
+<a href="./archive/00150_001.jpg">
+	<img src="./lowres/00150_001.jpg" alt="Fujifilm Fujicolor SuperHG 35mm film_box_inside" loading="lazy" height="500" />
 </a>
 
 #### [C-41] Fujifilm Fujicolor Superia (ref: d1b7)
@@ -1999,6 +2080,21 @@ Scanned By: dekuNukem
 	<img src="./lowres/00068_000.jpg" alt="Kodak Gold 110 film_box_outside" loading="lazy" width="500" />
 </a>
 
+#### [C-41] Kodak Gold (ref: 2f8d)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : C-41
+Expiry  : 199905
+UUID    : c56f944bf87d40dcac75cf41aeb82f8d
+Scanned By: stefanie
+```
+
+<a href="./archive/00149_000.jpg">
+	<img src="./lowres/00149_000.jpg" alt="Kodak Gold 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
 #### [C-41] Kodak Gold (ref: ea58)
 
 ```
@@ -2108,6 +2204,21 @@ Scanned By: @ftfilmphotos
 
 <a href="./archive/00097_001.jpg">
 	<img src="./lowres/00097_001.jpg" alt="Kodak Kodacolor VR 35mm film_box_inside" loading="lazy" height="500" />
+</a>
+
+#### [C-41] Kodak Kodacolor VR Plus (ref: f8bf)
+
+```
+ISO     : 400
+Format  : 35mm
+Process : C-41
+Expiry  : 201203
+UUID    : faf0a44eece541a9b701feb772f4f8bf
+Scanned By: stefanie
+```
+
+<a href="./archive/00153_000.jpg">
+	<img src="./lowres/00153_000.jpg" alt="Kodak Kodacolor VR Plus 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### [C-41] Kodak Portra (ref: ce56)
@@ -2656,7 +2767,7 @@ Scanned By: @seklerek
 ISO     : 100
 Format  : 35mm
 Process : E-6
-Expiry  : Unknown
+Expiry  : 202608
 UUID    : 462e32d45cd740cf866732a73a00889f
 Scanned By: Pelicram
 ```
@@ -3018,6 +3129,49 @@ Scanned By: dekuNukem
 	<img src="./lowres/00025_000.jpg" alt="Kodak Ektachrome 110 film_box_outside" loading="lazy" width="500" />
 </a>
 
+#### [Unknown] Kodak Ektachrome (ref: 8f62)
+
+```
+ISO     : 160
+Format  : Super 8
+Process : Unknown
+Expiry  : 198011
+UUID    : 6032680a3aba41b39c600d7e23998f62
+Scanned By: stefanie
+```
+
+<a href="./archive/00154_000.jpg">
+	<img src="./lowres/00154_000.jpg" alt="Kodak Ektachrome Super 8 film_box_outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 28c6f19bd37e4199a072687d11b19961`↓
+
+<a href="./archive/00154_001.jpg">
+	<img src="./lowres/00154_001.jpg" alt="Kodak Ektachrome Super 8 film_box_leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 5d06a8833e0e44e8ab8d53bc0ce11095`↓
+
+<a href="./archive/00154_002.jpg">
+	<img src="./lowres/00154_002.jpg" alt="Kodak Ektachrome Super 8 film_box_leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 870ff01807e949a7b361cdad01dddf7f`↓
+
+<a href="./archive/00154_003.jpg">
+	<img src="./lowres/00154_003.jpg" alt="Kodak Ektachrome Super 8 film_box_processing_envelope" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 31df442b386446679540b0cf52c92fd7`↓
+
+<a href="./archive/00154_004.jpg">
+	<img src="./lowres/00154_004.jpg" alt="Kodak Ektachrome Super 8 film_box_processing_envelope" loading="lazy" width="500" />
+</a>
+
 ## Want to Contribute?
 
 [Check out the guidelines!](../contribution_guide.md)
@@ -3028,21 +3182,22 @@ Scanned By: dekuNukem
 Rank  Username                 Contributions
 ---------------------------------------------
 1     dekuNukem                89    
-2     Pelicram                 38    
+2     Pelicram                 39    
 3     Nano_Burger              18    
 4     @ob.skura                16    
 5     b0baspace                14    
 6     @SirBrentsworth          13    
-7     yc128                    11    
-8     lilyu.xyz                9     
-9     The Compartmentalist     9     
-10    benikum                  6     
-11    @recycling.film          5     
-12    Henry Gunn               4     
-13    toader                   4     
-14    @seklerek                2     
-15    @ftfilmphotos            2     
-16    Yrikonchik               1     
+7     stefanie                 12    
+8     yc128                    11    
+9     lilyu.xyz                9     
+10    The Compartmentalist     9     
+11    benikum                  6     
+12    @recycling.film          5     
+13    Henry Gunn               4     
+14    toader                   4     
+15    @seklerek                2     
+16    @ftfilmphotos            2     
+17    Yrikonchik               1     
 ```
 
 ## Questions or Comments?

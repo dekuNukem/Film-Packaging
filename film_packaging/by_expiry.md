@@ -17,13 +17,14 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Jul 31 2025
 
-# of items: 241
+# of items: 254
 ```
 
 -----
 
 - [[1946] AGFA Isopan FF (ref: 3700)](#1946-agfa-isopan-ff-ref-3700)
 - [[1963] Kodak High Speed Ektachrome (ref: ce7f)](#1963-kodak-high-speed-ektachrome-ref-ce7f)
+- [[1963] Agfa Isopan ISS (ref: 75fa)](#1963-agfa-isopan-iss-ref-75fa)
 - [[1964] ADOX KB17 (ref: 2c95)](#1964-adox-kb17-ref-2c95)
 - [[1969] Agfa Agfapan Rapid (ref: 5e7b)](#1969-agfa-agfapan-rapid-ref-5e7b)
 - [[1970] Kodak High Speed Ektachrome (ref: ec3d)](#1970-kodak-high-speed-ektachrome-ref-ec3d)
@@ -41,6 +42,7 @@ Last Updated: Jul 31 2025
 - [[1978] Sakura Sakuracolor II (ref: 4f7d)](#1978-sakura-sakuracolor-ii-ref-4f7d)
 - [[1979] Kodak Ektachrome (ref: 07c0)](#1979-kodak-ektachrome-ref-07c0)
 - [[1979] Kodak Kodachrome (ref: 3145)](#1979-kodak-kodachrome-ref-3145)
+- [[1980] Kodak Ektachrome (ref: 8f62)](#1980-kodak-ektachrome-ref-8f62)
 - [[1983] Kodak Kodachrome (ref: 8833)](#1983-kodak-kodachrome-ref-8833)
 - [[1987] Kodak Kodacolor VR (ref: 035f)](#1987-kodak-kodacolor-vr-ref-035f)
 - [[1988] Kodak Technical Pan 6415 (ref: 03be)](#1988-kodak-technical-pan-6415-ref-03be)
@@ -55,6 +57,8 @@ Last Updated: Jul 31 2025
 - [[1992] Polaroid PolaChrome (ref: 3b60)](#1992-polaroid-polachrome-ref-3b60)
 - [[1992] Kodak Ektachrome (ref: b21e)](#1992-kodak-ektachrome-ref-b21e)
 - [[1992] Fujifilm Fujichrome Professional 100D (ref: 439d)](#1992-fujifilm-fujichrome-professional-100d-ref-439d)
+- [[1993] Alfo ALFOcolor PR-G (ref: 94b9)](#1993-alfo-alfocolor-pr-g-ref-94b9)
+- [[1994] Fujifilm Fujicolor SuperHG (ref: ee94)](#1994-fujifilm-fujicolor-superhg-ref-ee94)
 - [[1994] York Photo Labs DXG 200 (ref: 4bf8)](#1994-york-photo-labs-dxg-200-ref-4bf8)
 - [[1995] Kodak Technical Pan (ref: f4cf)](#1995-kodak-technical-pan-ref-f4cf)
 - [[1995] Kodak Ektachrome Elite (ref: 26ef)](#1995-kodak-ektachrome-elite-ref-26ef)
@@ -62,6 +66,7 @@ Last Updated: Jul 31 2025
 - [[1998] Fujifilm Sensia (ref: a59b)](#1998-fujifilm-sensia-ref-a59b)
 - [[1998] Klick XD200 (ref: 44d7)](#1998-klick-xd200-ref-44d7)
 - [[1998] Fujifilm Fujicolor NPL 160 (ref: d10b)](#1998-fujifilm-fujicolor-npl-160-ref-d10b)
+- [[1999] Kodak Gold (ref: 2f8d)](#1999-kodak-gold-ref-2f8d)
 - [[2000] Konica Infrared 750nm (ref: 2d93)](#2000-konica-infrared-750nm-ref-2d93)
 - [[2000] Kodak Rapid Process Copy Film (ref: e66e)](#2000-kodak-rapid-process-copy-film-ref-e66e)
 - [[2000] Fujifilm Fujicolor Superia (ref: d1b7)](#2000-fujifilm-fujicolor-superia-ref-d1b7)
@@ -77,6 +82,7 @@ Last Updated: Jul 31 2025
 - [[2003] Konica VX200 (ref: fe53)](#2003-konica-vx200-ref-fe53)
 - [[2003] Fujifilm NPS (ref: 5e85)](#2003-fujifilm-nps-ref-5e85)
 - [[2003] AGFA Vista (ref: d3af)](#2003-agfa-vista-ref-d3af)
+- [[2005] Agfa Agfacolor XRG (ref: 689e)](#2005-agfa-agfacolor-xrg-ref-689e)
 - [[2005] Kodak Ultra (ref: 69a1)](#2005-kodak-ultra-ref-69a1)
 - [[2006] Polaroid 669 (ref: 3566)](#2006-polaroid-669-ref-3566)
 - [[2006] Fujifilm Velvia 100F (ref: f7fb)](#2006-fujifilm-velvia-100f-ref-f7fb)
@@ -94,6 +100,7 @@ Last Updated: Jul 31 2025
 - [[2009] Lloyds Pharmacy Colour Film (ref: 77d9)](#2009-lloyds-pharmacy-colour-film-ref-77d9)
 - [[2010] Fujifilm Fujicolor 100 (ref: 013b)](#2010-fujifilm-fujicolor-100-ref-013b)
 - [[2012] Fujifilm Fujicolor Professional (ref: 28da)](#2012-fujifilm-fujicolor-professional-ref-28da)
+- [[2012] Kodak Kodacolor VR Plus (ref: f8bf)](#2012-kodak-kodacolor-vr-plus-ref-f8bf)
 - [[2012] Ilford HP5 Plus (ref: 11a8)](#2012-ilford-hp5-plus-ref-11a8)
 - [[2013] Efke IR 820 (ref: 43c9)](#2013-efke-ir-820-ref-43c9)
 - [[2013] Kodak Portra (ref: ce56)](#2013-kodak-portra-ref-ce56)
@@ -130,6 +137,7 @@ Last Updated: Jul 31 2025
 - [[2026] Fujifilm 200 (ref: 5b41)](#2026-fujifilm-200-ref-5b41)
 - [[2026] Kodak Gold (ref: 3e7f)](#2026-kodak-gold-ref-3e7f)
 - [[2026] Harman Phoenix (ref: 637f)](#2026-harman-phoenix-ref-637f)
+- [[2026] Hazenfilm Sorolla Chrome (ref: 889f)](#2026-hazenfilm-sorolla-chrome-ref-889f)
 - [[2026] Kodak ColorPlus (ref: 6637)](#2026-kodak-colorplus-ref-6637)
 - [[2026] Kodak TMAX (ref: 43a2)](#2026-kodak-tmax-ref-43a2)
 - [[2026] CineStill 800T (ref: b3ff)](#2026-cinestill-800t-ref-b3ff)
@@ -164,7 +172,6 @@ Last Updated: Jul 31 2025
 - [[2029] Kentmere PAN (ref: 827e)](#2029-kentmere-pan-ref-827e)
 - [[2029] Kentmere PAN (ref: a327)](#2029-kentmere-pan-ref-a327)
 - [[Unknown] AGFA Autolith Repo (ref: 8e68)](#unknown-agfa-autolith-repo-ref-8e68)
-- [[Unknown] Hazenfilm Sorolla Chrome (ref: 889f)](#unknown-hazenfilm-sorolla-chrome-ref-889f)
 - [[Unknown] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#unknown-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
 - [[Unknown] Perutz Superomnia (ref: c90d)](#unknown-perutz-superomnia-ref-c90d)
 
@@ -199,6 +206,21 @@ Scanned By: dekuNukem
 
 <a href="./archive/00017_000.jpg">
 	<img src="./lowres/00017_000.jpg" alt="Kodak High Speed Ektachrome 120 film_box_outside" loading="lazy" width="500" />
+</a>
+
+#### [1963] Agfa Isopan ISS (ref: 75fa)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : BW
+Expiry  : 196311
+UUID    : cdcaa912ee0142c3b76eb1500e2375fa
+Scanned By: Pelicram
+```
+
+<a href="./archive/00148_000.jpg">
+	<img src="./lowres/00148_000.jpg" alt="Agfa Isopan ISS 35mm film_box_outside" loading="lazy" width="0" />
 </a>
 
 #### [1964] ADOX KB17 (ref: 2c95)
@@ -589,6 +611,49 @@ Scanned By: dekuNukem
 	<img src="./lowres/00026_002.jpg" alt="Kodak Kodachrome 110 film_box_processing_envelope" loading="lazy" width="500" />
 </a>
 
+#### [1980] Kodak Ektachrome (ref: 8f62)
+
+```
+ISO     : 160
+Format  : Super 8
+Process : Unknown
+Expiry  : 198011
+UUID    : 6032680a3aba41b39c600d7e23998f62
+Scanned By: stefanie
+```
+
+<a href="./archive/00154_000.jpg">
+	<img src="./lowres/00154_000.jpg" alt="Kodak Ektachrome Super 8 film_box_outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 28c6f19bd37e4199a072687d11b19961`↓
+
+<a href="./archive/00154_001.jpg">
+	<img src="./lowres/00154_001.jpg" alt="Kodak Ektachrome Super 8 film_box_leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 5d06a8833e0e44e8ab8d53bc0ce11095`↓
+
+<a href="./archive/00154_002.jpg">
+	<img src="./lowres/00154_002.jpg" alt="Kodak Ektachrome Super 8 film_box_leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 870ff01807e949a7b361cdad01dddf7f`↓
+
+<a href="./archive/00154_003.jpg">
+	<img src="./lowres/00154_003.jpg" alt="Kodak Ektachrome Super 8 film_box_processing_envelope" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 31df442b386446679540b0cf52c92fd7`↓
+
+<a href="./archive/00154_004.jpg">
+	<img src="./lowres/00154_004.jpg" alt="Kodak Ektachrome Super 8 film_box_processing_envelope" loading="lazy" width="500" />
+</a>
+
 #### [1983] Kodak Kodachrome (ref: 8833)
 
 ```
@@ -904,6 +969,43 @@ Scanned By: dekuNukem
 	<img src="./lowres/00032_002.jpg" alt="Fujifilm Fujichrome Professional 100D 120 film_box_leaflet" loading="lazy" height="500" />
 </a>
 
+#### [1993] Alfo ALFOcolor PR-G (ref: 94b9)
+
+```
+ISO     : 1600
+Format  : 35mm
+Process : C-41
+Expiry  : 199308
+UUID    : cc723aa89e9e43ec8ac1ebd18efa94b9
+Scanned By: stefanie
+```
+
+<a href="./archive/00151_000.jpg">
+	<img src="./lowres/00151_000.jpg" alt="Alfo ALFOcolor PR-G 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+#### [1994] Fujifilm Fujicolor SuperHG (ref: ee94)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : C-41
+Expiry  : 199407
+UUID    : 9233714654ff481089c2d4ff1334ee94
+Scanned By: stefanie
+```
+
+<a href="./archive/00150_000.jpg">
+	<img src="./lowres/00150_000.jpg" alt="Fujifilm Fujicolor SuperHG 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 302969081f4442239212b8e123d38378`↓
+
+<a href="./archive/00150_001.jpg">
+	<img src="./lowres/00150_001.jpg" alt="Fujifilm Fujicolor SuperHG 35mm film_box_inside" loading="lazy" height="500" />
+</a>
+
 #### [1994] York Photo Labs DXG 200 (ref: 4bf8)
 
 ```
@@ -1042,6 +1144,21 @@ Scanned By: dekuNukem
 
 <a href="./archive/00034_002.jpg">
 	<img src="./lowres/00034_002.jpg" alt="Fujifilm Fujicolor NPL 160 120 film_box_leaflet" loading="lazy" height="500" />
+</a>
+
+#### [1999] Kodak Gold (ref: 2f8d)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : C-41
+Expiry  : 199905
+UUID    : c56f944bf87d40dcac75cf41aeb82f8d
+Scanned By: stefanie
+```
+
+<a href="./archive/00149_000.jpg">
+	<img src="./lowres/00149_000.jpg" alt="Kodak Gold 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
 #### [2000] Konica Infrared 750nm (ref: 2d93)
@@ -1381,6 +1498,28 @@ Scanned By: dekuNukem
 	<img src="./lowres/00014_001.jpg" alt="AGFA Vista 35mm film_box_inside" loading="lazy" width="500" />
 </a>
 
+#### [2005] Agfa Agfacolor XRG (ref: 689e)
+
+```
+ISO     : 200
+Format  : 35mm
+Process : C-41
+Expiry  : 200503
+UUID    : 86136eea89d14e15b60dfcdf45b1689e
+Scanned By: stefanie
+```
+
+<a href="./archive/00152_000.jpg">
+	<img src="./lowres/00152_000.jpg" alt="Agfa Agfacolor XRG 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 5598d8aac5844772a87d019a7d37e9f6`↓
+
+<a href="./archive/00152_001.jpg">
+	<img src="./lowres/00152_001.jpg" alt="Agfa Agfacolor XRG 35mm film_box_inside" loading="lazy" height="500" />
+</a>
+
 #### [2005] Kodak Ultra (ref: 69a1)
 
 ```
@@ -1676,6 +1815,21 @@ Scanned By: The Compartmentalist
 
 <a href="./archive/00117_000.jpg">
 	<img src="./lowres/00117_000.jpg" alt="Fujifilm Fujicolor Professional 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+#### [2012] Kodak Kodacolor VR Plus (ref: f8bf)
+
+```
+ISO     : 400
+Format  : 35mm
+Process : C-41
+Expiry  : 201203
+UUID    : faf0a44eece541a9b701feb772f4f8bf
+Scanned By: stefanie
+```
+
+<a href="./archive/00153_000.jpg">
+	<img src="./lowres/00153_000.jpg" alt="Kodak Kodacolor VR Plus 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### [2012] Ilford HP5 Plus (ref: 11a8)
@@ -2321,6 +2475,21 @@ Scanned By: dekuNukem
 
 <a href="./archive/00004_001.jpg">
 	<img src="./lowres/00004_001.jpg" alt="Harman Phoenix 120 film_box_inside" loading="lazy" width="500" />
+</a>
+
+#### [2026] Hazenfilm Sorolla Chrome (ref: 889f)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : E-6
+Expiry  : 202608
+UUID    : 462e32d45cd740cf866732a73a00889f
+Scanned By: Pelicram
+```
+
+<a href="./archive/00137_000.jpg">
+	<img src="./lowres/00137_000.jpg" alt="Hazenfilm Sorolla Chrome 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
 #### [2026] Kodak ColorPlus (ref: 6637)
@@ -2973,21 +3142,6 @@ Scanned By: Nano_Burger
 	<img src="./lowres/00098_000.jpg" alt="AGFA Autolith Repo 9x12 film_box_outside" loading="lazy" width="500" />
 </a>
 
-#### [Unknown] Hazenfilm Sorolla Chrome (ref: 889f)
-
-```
-ISO     : 100
-Format  : 35mm
-Process : E-6
-Expiry  : Unknown
-UUID    : 462e32d45cd740cf866732a73a00889f
-Scanned By: Pelicram
-```
-
-<a href="./archive/00137_000.jpg">
-	<img src="./lowres/00137_000.jpg" alt="Hazenfilm Sorolla Chrome 35mm film_box_outside" loading="lazy" height="500" />
-</a>
-
 #### [Unknown] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)
 
 ```
@@ -3028,21 +3182,22 @@ Scanned By: lilyu.xyz
 Rank  Username                 Contributions
 ---------------------------------------------
 1     dekuNukem                89    
-2     Pelicram                 38    
+2     Pelicram                 39    
 3     Nano_Burger              18    
 4     @ob.skura                16    
 5     b0baspace                14    
 6     @SirBrentsworth          13    
-7     yc128                    11    
-8     lilyu.xyz                9     
-9     The Compartmentalist     9     
-10    benikum                  6     
-11    @recycling.film          5     
-12    Henry Gunn               4     
-13    toader                   4     
-14    @seklerek                2     
-15    @ftfilmphotos            2     
-16    Yrikonchik               1     
+7     stefanie                 12    
+8     yc128                    11    
+9     lilyu.xyz                9     
+10    The Compartmentalist     9     
+11    benikum                  6     
+12    @recycling.film          5     
+13    Henry Gunn               4     
+14    toader                   4     
+15    @seklerek                2     
+16    @ftfilmphotos            2     
+17    Yrikonchik               1     
 ```
 
 ## Questions or Comments?

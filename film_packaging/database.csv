@@ -225,7 +225,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 135,0,film_box_outside,Kodak,Tri-X,35mm,400,BW,202609,1753988794,9e5fe20dd21f79507b7b1a99c9b2d3b0,0417faf4f5be42538db49741140bc671,00135_000.jpg,Pelicram
 136,0,film_box_outside,Rollei,RPX 400,35mm,400,BW,202808,1753988855,c8733929469e3989b26e38f41f416db4,19ef81d6d03844b088250c7b54032155,00136_000.jpg,Pelicram
 136,1,film_box_inside,Rollei,RPX 400,35mm,400,BW,202808,1753988857,b85b1f949765058a36df21250552c984,962831862dbc4da89c8b979e5fb6584b,00136_001.jpg,Pelicram
-137,0,film_box_outside,Hazenfilm,Sorolla Chrome,35mm,100,E-6,Unknown,1753988927,92804cf1383f6231f1059338ec793f7e,462e32d45cd740cf866732a73a00889f,00137_000.jpg,Pelicram
+137,0,film_box_outside,Hazenfilm,Sorolla Chrome,35mm,100,E-6,202608,1753988927,92804cf1383f6231f1059338ec793f7e,462e32d45cd740cf866732a73a00889f,00137_000.jpg,Pelicram
 138,0,film_box_outside,Konica,VX200,35mm,200,C-41,200303,1753988966,84070030a3a366263d25e090186e3434,dd3a6c347560484295ca09c86e3dfe53,00138_000.jpg,Pelicram
 138,1,film_box_inside,Konica,VX200,35mm,200,C-41,200303,1753988969,74ecfe146d9ad8c7e4f06829836f1faa,9f45eb2e52134da79a732605103a6f39,00138_001.jpg,Pelicram
 139,0,film_box_outside,Fujifilm,Fujicolor Superia,35mm,200,C-41,200007,1753989032,2b0f1ce56ed21dbbdfd52a96dc5aaeaa,2b50b3d82a7340ffbe9bff871793d1b7,00139_000.jpg,Pelicram
@@ -240,3 +240,16 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 145,1,film_box_inside,Kentmere,PAN,35mm,400,BW,202907,1753989276,ed6caca95e9ec4edb46cae11e269dd87,c771fff8ecbb4c9b981f3606dd4fa428,00145_001.jpg,Pelicram
 146,0,film_box_outside,Kodak,Värikuvafilmi,35mm,200,C-41,200112,1753989376,088ec288d1472fa10dce64d71e51aed8,b8795d19697a453c8f27fde773eaf9ff,00146_000.jpg,Pelicram
 147,0,film_box_outside,Lomography,Babylon,35mm,13,BW,202509,1753989404,1d674d9a0c1a2691a4e62ad495c55eed,9d7f531c7a764f9689228ab477297afa,00147_000.jpg,Pelicram
+148,0,film_box_outside,Agfa,Isopan ISS,35mm,100,BW,196311,1753990168,9c71c3d1b13034fa98a3c4cdf8cb78b9,cdcaa912ee0142c3b76eb1500e2375fa,00148_000.jpg,Pelicram
+149,0,film_box_outside,Kodak,Gold,35mm,100,C-41,199905,1753991067,40aa38330d0d6cfa4d7bfac32da52d4a,c56f944bf87d40dcac75cf41aeb82f8d,00149_000.jpg,stefanie
+150,0,film_box_outside,Fujifilm,Fujicolor SuperHG,35mm,100,C-41,199407,1753991100,2108de6e018afcfaf99bb9d5fdbafbea,9233714654ff481089c2d4ff1334ee94,00150_000.jpg,stefanie
+150,1,film_box_inside,Fujifilm,Fujicolor SuperHG,35mm,100,C-41,199407,1753991102,404419cd9914d9be9beff07d17dd18cc,302969081f4442239212b8e123d38378,00150_001.jpg,stefanie
+151,0,film_box_outside,Alfo,ALFOcolor PR-G,35mm,1600,C-41,199308,1753991226,f673e8a49e6bb09c76a86a8e053295b5,cc723aa89e9e43ec8ac1ebd18efa94b9,00151_000.jpg,stefanie
+152,0,film_box_outside,Agfa,Agfacolor XRG,35mm,200,C-41,200503,1753991293,ab9b380f73157e29cece410bcf774529,86136eea89d14e15b60dfcdf45b1689e,00152_000.jpg,stefanie
+152,1,film_box_inside,Agfa,Agfacolor XRG,35mm,200,C-41,200503,1753991296,92ef6a04efba1d4fcc3c1e01cf35e1c7,5598d8aac5844772a87d019a7d37e9f6,00152_001.jpg,stefanie
+153,0,film_box_outside,Kodak,Kodacolor VR Plus,35mm,400,C-41,201203,1753991336,21e56cc1a11e3225f11771f03988ee63,faf0a44eece541a9b701feb772f4f8bf,00153_000.jpg,stefanie
+154,0,film_box_outside,Kodak,Ektachrome,Super 8,160,Unknown,198011,1753991791,2b11a632fe93ca22801ea60a2c313c4e,6032680a3aba41b39c600d7e23998f62,00154_000.jpg,stefanie
+154,1,film_box_leaflet,Kodak,Ektachrome,Super 8,160,Unknown,198011,1753991793,4f3fd31575d1da543e3308d81dcd4040,28c6f19bd37e4199a072687d11b19961,00154_001.jpg,stefanie
+154,2,film_box_leaflet,Kodak,Ektachrome,Super 8,160,Unknown,198011,1753991796,4166922268f826d30b7f95edc16be00a,5d06a8833e0e44e8ab8d53bc0ce11095,00154_002.jpg,stefanie
+154,3,film_box_processing_envelope,Kodak,Ektachrome,Super 8,160,Unknown,198011,1753991800,e92ef35683fc722bc86a3271c108c716,870ff01807e949a7b361cdad01dddf7f,00154_003.jpg,stefanie
+154,4,film_box_processing_envelope,Kodak,Ektachrome,Super 8,160,Unknown,198011,1753991802,c0ac003b8ed9bfc15c827f704b4f0ca1,31df442b386446679540b0cf52c92fd7,00154_004.jpg,stefanie
