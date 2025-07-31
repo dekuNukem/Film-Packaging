@@ -39,6 +39,7 @@ Or Sort by...
 * [Expiry Date](./film_packaging/by_expiry.md)
 * [Film Format](./film_packaging/by_format.md)
 * [Photographic Process](./film_packaging/by_process.md)
+* [Contributor](./film_packaging/by_user.md)
 
 The collection is by no means complete or exhaustive, but it's a start!
 

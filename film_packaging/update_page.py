@@ -184,3 +184,7 @@ write_to_file("./by_format.md", out_str)
 sorted_db_by_brand = sorted(database_entries, key=operator.itemgetter(ITEM_PROCESS_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_EXPIRY_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
 out_str = make_md("PROCESS TYPE", sorted_db_by_brand, ftk=ITEM_PROCESS_KEY, ftf=None)
 write_to_file("./by_process.md", out_str)
+
+sorted_db_by_brand = sorted(database_entries, key=operator.itemgetter(ITEM_AUTHOR_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_EXPIRY_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
+out_str = make_md("CONTRIBUTOR", sorted_db_by_brand, ftk=ITEM_AUTHOR_KEY, ftf=None)
+write_to_file("./by_user.md", out_str)
