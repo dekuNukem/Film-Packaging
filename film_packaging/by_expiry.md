@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jul 30 2025
+Last Updated: Jul 31 2025
 
-# of items: 190
+# of items: 194
 ```
 
 -----
@@ -51,6 +51,7 @@ Last Updated: Jul 30 2025
 - [[1992] Fujifilm Fujichrome Professional 100D (ref: 439d)](#1992-fujifilm-fujichrome-professional-100d-ref-439d)
 - [[1994] York Photo Labs DXG 200 (ref: 4bf8)](#1994-york-photo-labs-dxg-200-ref-4bf8)
 - [[1995] Kodak Technical Pan (ref: f4cf)](#1995-kodak-technical-pan-ref-f4cf)
+- [[1995] Kodak Ektachrome Elite (ref: 26ef)](#1995-kodak-ektachrome-elite-ref-26ef)
 - [[1996] Polaroid 665 (ref: e054)](#1996-polaroid-665-ref-e054)
 - [[1998] Klick XD200 (ref: 44d7)](#1998-klick-xd200-ref-44d7)
 - [[1998] Fujifilm Fujicolor NPL 160 (ref: d10b)](#1998-fujifilm-fujicolor-npl-160-ref-d10b)
@@ -63,6 +64,7 @@ Last Updated: Jul 30 2025
 - [[2001] AGFA ULTRA 50 (ref: 4faa)](#2001-agfa-ultra-50-ref-4faa)
 - [[2001] Kodak Gold (ref: ea58)](#2001-kodak-gold-ref-ea58)
 - [[2002] Fujifilm FUJICOLOR SUPERIA (ref: 0683)](#2002-fujifilm-fujicolor-superia-ref-0683)
+- [[2002] Kodak Ektachrome (ref: 5d9f)](#2002-kodak-ektachrome-ref-5d9f)
 - [[2003] Fujifilm NPS (ref: 5e85)](#2003-fujifilm-nps-ref-5e85)
 - [[2003] AGFA Vista (ref: d3af)](#2003-agfa-vista-ref-d3af)
 - [[2005] Kodak Ultra (ref: 69a1)](#2005-kodak-ultra-ref-69a1)
@@ -816,6 +818,28 @@ Scanned By: Nano_Burger
 	<img src="./lowres/00106_001.jpg" alt="Kodak Technical Pan 35mm film_box_inside" loading="lazy" height="500" />
 </a>
 
+#### [1995] Kodak Ektachrome Elite (ref: 26ef)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : E-6
+Expiry  : 199511
+UUID    : 175cf2b69fe3413093d9d7f9ea0d26ef
+Scanned By: toader
+```
+
+<a href="./archive/00114_000.jpg">
+	<img src="./lowres/00114_000.jpg" alt="Kodak Ektachrome Elite 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 89d1b19f3e364f55adc2523a07ed9ddb`↓
+
+<a href="./archive/00114_001.jpg">
+	<img src="./lowres/00114_001.jpg" alt="Kodak Ektachrome Elite 35mm film_box_inside" loading="lazy" height="500" />
+</a>
+
 #### [1996] Polaroid 665 (ref: e054)
 
 ```
@@ -1085,6 +1109,28 @@ Scanned By: dekuNukem
 
 <a href="./archive/00012_001.jpg">
 	<img src="./lowres/00012_001.jpg" alt="Fujifilm FUJICOLOR SUPERIA 120 film_box_inside" loading="lazy" width="500" />
+</a>
+
+#### [2002] Kodak Ektachrome (ref: 5d9f)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : E-6
+Expiry  : 200208
+UUID    : b17b7b46926e49ae88a7b74904245d9f
+Scanned By: toader
+```
+
+<a href="./archive/00113_000.jpg">
+	<img src="./lowres/00113_000.jpg" alt="Kodak Ektachrome 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 1ac536af04e3459fa3389050a3c93bee`↓
+
+<a href="./archive/00113_001.jpg">
+	<img src="./lowres/00113_001.jpg" alt="Kodak Ektachrome 35mm film_box_inside" loading="lazy" height="500" />
 </a>
 
 #### [2003] Fujifilm NPS (ref: 5e85)
@@ -2365,9 +2411,10 @@ Rank  Username            Contributions
 8     benikum             6     
 9     @recycling.film     5     
 10    Henry Gunn          4     
-11    @seklerek           2     
-12    @ftfilmphotos       2     
-13    Yrikonchik          1     
+11    toader              4     
+12    @seklerek           2     
+13    @ftfilmphotos       2     
+14    Yrikonchik          1     
 ```
 
 ## Questions or Comments?

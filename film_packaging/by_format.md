@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jul 30 2025
+Last Updated: Jul 31 2025
 
-# of items: 190
+# of items: 194
 ```
 
 -----
@@ -89,6 +89,8 @@ Last Updated: Jul 30 2025
 - [[35mm] Kodak Ektachrome (ref: b8f8)](#35mm-kodak-ektachrome-ref-b8f8)
 - [[35mm] Kodak Ektachrome (ref: 3c96)](#35mm-kodak-ektachrome-ref-3c96)
 - [[35mm] Kodak Ektachrome (ref: b21e)](#35mm-kodak-ektachrome-ref-b21e)
+- [[35mm] Kodak Ektachrome (ref: 5d9f)](#35mm-kodak-ektachrome-ref-5d9f)
+- [[35mm] Kodak Ektachrome Elite (ref: 26ef)](#35mm-kodak-ektachrome-elite-ref-26ef)
 - [[35mm] Kodak Ektar (ref: 3498)](#35mm-kodak-ektar-ref-3498)
 - [[35mm] Kodak Elite Chrome (ref: 523c)](#35mm-kodak-elite-chrome-ref-523c)
 - [[35mm] Kodak Gold (ref: ea58)](#35mm-kodak-gold-ref-ea58)
@@ -1540,6 +1542,50 @@ Scanned By: b0baspace
 	<img src="./lowres/00052_002.jpg" alt="Kodak Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
 </a>
 
+#### [35mm] Kodak Ektachrome (ref: 5d9f)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : E-6
+Expiry  : 200208
+UUID    : b17b7b46926e49ae88a7b74904245d9f
+Scanned By: toader
+```
+
+<a href="./archive/00113_000.jpg">
+	<img src="./lowres/00113_000.jpg" alt="Kodak Ektachrome 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 1ac536af04e3459fa3389050a3c93bee`↓
+
+<a href="./archive/00113_001.jpg">
+	<img src="./lowres/00113_001.jpg" alt="Kodak Ektachrome 35mm film_box_inside" loading="lazy" height="500" />
+</a>
+
+#### [35mm] Kodak Ektachrome Elite (ref: 26ef)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : E-6
+Expiry  : 199511
+UUID    : 175cf2b69fe3413093d9d7f9ea0d26ef
+Scanned By: toader
+```
+
+<a href="./archive/00114_000.jpg">
+	<img src="./lowres/00114_000.jpg" alt="Kodak Ektachrome Elite 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 89d1b19f3e364f55adc2523a07ed9ddb`↓
+
+<a href="./archive/00114_001.jpg">
+	<img src="./lowres/00114_001.jpg" alt="Kodak Ektachrome Elite 35mm film_box_inside" loading="lazy" height="500" />
+</a>
+
 #### [35mm] Kodak Ektar (ref: 3498)
 
 ```
@@ -2365,9 +2411,10 @@ Rank  Username            Contributions
 8     benikum             6     
 9     @recycling.film     5     
 10    Henry Gunn          4     
-11    @seklerek           2     
-12    @ftfilmphotos       2     
-13    Yrikonchik          1     
+11    toader              4     
+12    @seklerek           2     
+13    @ftfilmphotos       2     
+14    Yrikonchik          1     
 ```
 
 ## Questions or Comments?

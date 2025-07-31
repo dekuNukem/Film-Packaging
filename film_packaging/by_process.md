@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jul 30 2025
+Last Updated: Jul 31 2025
 
-# of items: 190
+# of items: 194
 ```
 
 -----
@@ -120,6 +120,8 @@ Last Updated: Jul 30 2025
 - [[E-6] Fujifilm Velvia 100F (ref: 32d4)](#e-6-fujifilm-velvia-100f-ref-32d4)
 - [[E-6] Kodak Ektachrome (ref: 3c96)](#e-6-kodak-ektachrome-ref-3c96)
 - [[E-6] Kodak Ektachrome (ref: b21e)](#e-6-kodak-ektachrome-ref-b21e)
+- [[E-6] Kodak Ektachrome (ref: 5d9f)](#e-6-kodak-ektachrome-ref-5d9f)
+- [[E-6] Kodak Ektachrome Elite (ref: 26ef)](#e-6-kodak-ektachrome-elite-ref-26ef)
 - [[E-6] Kodak Elite Chrome (ref: 523c)](#e-6-kodak-elite-chrome-ref-523c)
 - [[ECN-2] Alien Film 5207/250D (ref: 8820)](#ecn-2-alien-film-5207250d-ref-8820)
 - [[ECN-2] Three Film Rolls 5207 (ref: 0292)](#ecn-2-three-film-rolls-5207-ref-0292)
@@ -2103,6 +2105,50 @@ Scanned By: b0baspace
 	<img src="./lowres/00052_002.jpg" alt="Kodak Ektachrome 35mm film_box_leaflet" loading="lazy" height="500" />
 </a>
 
+#### [E-6] Kodak Ektachrome (ref: 5d9f)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : E-6
+Expiry  : 200208
+UUID    : b17b7b46926e49ae88a7b74904245d9f
+Scanned By: toader
+```
+
+<a href="./archive/00113_000.jpg">
+	<img src="./lowres/00113_000.jpg" alt="Kodak Ektachrome 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 1ac536af04e3459fa3389050a3c93bee`↓
+
+<a href="./archive/00113_001.jpg">
+	<img src="./lowres/00113_001.jpg" alt="Kodak Ektachrome 35mm film_box_inside" loading="lazy" height="500" />
+</a>
+
+#### [E-6] Kodak Ektachrome Elite (ref: 26ef)
+
+```
+ISO     : 100
+Format  : 35mm
+Process : E-6
+Expiry  : 199511
+UUID    : 175cf2b69fe3413093d9d7f9ea0d26ef
+Scanned By: toader
+```
+
+<a href="./archive/00114_000.jpg">
+	<img src="./lowres/00114_000.jpg" alt="Kodak Ektachrome Elite 35mm film_box_outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 89d1b19f3e364f55adc2523a07ed9ddb`↓
+
+<a href="./archive/00114_001.jpg">
+	<img src="./lowres/00114_001.jpg" alt="Kodak Ektachrome Elite 35mm film_box_inside" loading="lazy" height="500" />
+</a>
+
 #### [E-6] Kodak Elite Chrome (ref: 523c)
 
 ```
@@ -2365,9 +2411,10 @@ Rank  Username            Contributions
 8     benikum             6     
 9     @recycling.film     5     
 10    Henry Gunn          4     
-11    @seklerek           2     
-12    @ftfilmphotos       2     
-13    Yrikonchik          1     
+11    toader              4     
+12    @seklerek           2     
+13    @ftfilmphotos       2     
+14    Yrikonchik          1     
 ```
 
 ## Questions or Comments?
