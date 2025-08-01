@@ -23,15 +23,15 @@ Last Updated: Jul 31 2025
 -----
 
 - [ADOX KB17 (ref: 2c95)](#adox-kb17-ref-2c95)
-- [AGFA APX (ref: 12c7)](#agfa-apx-ref-12c7)
-- [AGFA APX (ref: 5276)](#agfa-apx-ref-5276)
-- [AGFA Autolith Repo (ref: 8e68)](#agfa-autolith-repo-ref-8e68)
-- [AGFA Isopan FF (ref: 3700)](#agfa-isopan-ff-ref-3700)
-- [AGFA ULTRA 50 (ref: 4faa)](#agfa-ultra-50-ref-4faa)
-- [AGFA Vista (ref: d3af)](#agfa-vista-ref-d3af)
+- [Agfa APX (ref: 12c7)](#agfa-apx-ref-12c7)
+- [Agfa APX (ref: 5276)](#agfa-apx-ref-5276)
 - [Agfa Agfacolor XRG (ref: 689e)](#agfa-agfacolor-xrg-ref-689e)
 - [Agfa Agfapan Rapid (ref: 5e7b)](#agfa-agfapan-rapid-ref-5e7b)
+- [Agfa Autolith Repo (ref: 8e68)](#agfa-autolith-repo-ref-8e68)
+- [Agfa Isopan FF (ref: 3700)](#agfa-isopan-ff-ref-3700)
 - [Agfa Isopan ISS (ref: 75fa)](#agfa-isopan-iss-ref-75fa)
+- [Agfa ULTRA 50 (ref: 4faa)](#agfa-ultra-50-ref-4faa)
+- [Agfa Vista (ref: d3af)](#agfa-vista-ref-d3af)
 - [Alfo ALFOcolor PR-G (ref: 94b9)](#alfo-alfocolor-pr-g-ref-94b9)
 - [Alien Film 5207/250D (ref: 8820)](#alien-film-5207250d-ref-8820)
 - [Alien Film 5222/XX (ref: 3e49)](#alien-film-5222xx-ref-3e49)
@@ -48,14 +48,14 @@ Last Updated: Jul 31 2025
 - [Foma Fomapan21 (ref: 75d9)](#foma-fomapan21-ref-75d9)
 - [Foma Ortho (ref: 89e7)](#foma-ortho-ref-89e7)
 - [Fujifilm 200 (ref: 5b41)](#fujifilm-200-ref-5b41)
-- [Fujifilm FUJICOLOR SUPER HR (ref: aaa0)](#fujifilm-fujicolor-super-hr-ref-aaa0)
-- [Fujifilm FUJICOLOR SUPERIA (ref: 0683)](#fujifilm-fujicolor-superia-ref-0683)
 - [Fujifilm Fujichrome Professional 100D (ref: 439d)](#fujifilm-fujichrome-professional-100d-ref-439d)
 - [Fujifilm Fujicolor 100 (ref: 013b)](#fujifilm-fujicolor-100-ref-013b)
 - [Fujifilm Fujicolor NPL 160 (ref: d10b)](#fujifilm-fujicolor-npl-160-ref-d10b)
 - [Fujifilm Fujicolor Professional (ref: 28da)](#fujifilm-fujicolor-professional-ref-28da)
+- [Fujifilm Fujicolor Super HR (ref: aaa0)](#fujifilm-fujicolor-super-hr-ref-aaa0)
 - [Fujifilm Fujicolor SuperHG (ref: ee94)](#fujifilm-fujicolor-superhg-ref-ee94)
 - [Fujifilm Fujicolor Superia (ref: d1b7)](#fujifilm-fujicolor-superia-ref-d1b7)
+- [Fujifilm Fujicolor Superia (ref: 0683)](#fujifilm-fujicolor-superia-ref-0683)
 - [Fujifilm NPS (ref: 5e85)](#fujifilm-nps-ref-5e85)
 - [Fujifilm Neopan SS Rapid (ref: 9db3)](#fujifilm-neopan-ss-rapid-ref-9db3)
 - [Fujifilm Pro 400H (ref: 66e3)](#fujifilm-pro-400h-ref-66e3)
@@ -200,7 +200,7 @@ Scanned By: dekuNukem
 	<img src="./lowres/00065_001.jpg" alt="ADOX KB17 35mm film_box_inside" loading="lazy" width="500" />
 </a>
 
-#### AGFA APX (ref: 12c7)
+#### Agfa APX (ref: 12c7)
 
 ```
 ISO     : 100
@@ -212,17 +212,17 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00011_000.jpg">
-	<img src="./lowres/00011_000.jpg" alt="AGFA APX 120 film_box_outside" loading="lazy" width="500" />
+	<img src="./lowres/00011_000.jpg" alt="Agfa APX 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: dd262792b6a446dcab73a07738f8a8dd`↓
 
 <a href="./archive/00011_001.jpg">
-	<img src="./lowres/00011_001.jpg" alt="AGFA APX 120 film_box_inside" loading="lazy" width="500" />
+	<img src="./lowres/00011_001.jpg" alt="Agfa APX 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
-#### AGFA APX (ref: 5276)
+#### Agfa APX (ref: 5276)
 
 ```
 ISO     : 100
@@ -234,88 +234,14 @@ Scanned By: lilyu.xyz
 ```
 
 <a href="./archive/00093_000.jpg">
-	<img src="./lowres/00093_000.jpg" alt="AGFA APX 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00093_000.jpg" alt="Agfa APX 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: 286ea2dbf5394a36b8f013b9aaa33a46`↓
 
 <a href="./archive/00093_001.jpg">
-	<img src="./lowres/00093_001.jpg" alt="AGFA APX 35mm film_box_inside" loading="lazy" height="500" />
-</a>
-
-#### AGFA Autolith Repo (ref: 8e68)
-
-```
-ISO     : Unknown
-Format  : 9x12
-Process : BW
-Expiry  : Unknown
-UUID    : 952823ad9ef14c75a83ac8e230b38e68
-Scanned By: Nano_Burger
-```
-
-<a href="./archive/00098_000.jpg">
-	<img src="./lowres/00098_000.jpg" alt="AGFA Autolith Repo 9x12 film_box_outside" loading="lazy" width="500" />
-</a>
-
-#### AGFA Isopan FF (ref: 3700)
-
-```
-ISO     : 8
-Format  : 35mm
-Process : BW
-Expiry  : 194610
-UUID    : 9ea6437ea85442048ffe63b8b64c3700
-Scanned By: Nano_Burger
-```
-
-<a href="./archive/00101_000.jpg">
-	<img src="./lowres/00101_000.jpg" alt="AGFA Isopan FF 35mm film_box_outside" loading="lazy" width="500" />
-</a>
-
-#### AGFA ULTRA 50 (ref: 4faa)
-
-```
-ISO     : 50
-Format  : 35mm
-Process : C-41
-Expiry  : 200110
-UUID    : d10e846ba5154f1d940ed7009a904faa
-Scanned By: dekuNukem
-```
-
-<a href="./archive/00010_000.jpg">
-	<img src="./lowres/00010_000.jpg" alt="AGFA ULTRA 50 35mm film_box_outside" loading="lazy" width="500" />
-</a>
-
-
-`UUID: 8594d11f816c45b6a18dd122f8e38fc0`↓
-
-<a href="./archive/00010_001.jpg">
-	<img src="./lowres/00010_001.jpg" alt="AGFA ULTRA 50 35mm film_box_inside" loading="lazy" width="500" />
-</a>
-
-#### AGFA Vista (ref: d3af)
-
-```
-ISO     : 200
-Format  : 35mm
-Process : C-41
-Expiry  : 200312
-UUID    : f1e50745927f4b7cb16af36fd30dd3af
-Scanned By: dekuNukem
-```
-
-<a href="./archive/00014_000.jpg">
-	<img src="./lowres/00014_000.jpg" alt="AGFA Vista 35mm film_box_outside" loading="lazy" width="500" />
-</a>
-
-
-`UUID: 300a430fc19f4eeeb4892e58d3c3cd56`↓
-
-<a href="./archive/00014_001.jpg">
-	<img src="./lowres/00014_001.jpg" alt="AGFA Vista 35mm film_box_inside" loading="lazy" width="500" />
+	<img src="./lowres/00093_001.jpg" alt="Agfa APX 35mm film_box_inside" loading="lazy" height="500" />
 </a>
 
 #### Agfa Agfacolor XRG (ref: 689e)
@@ -355,6 +281,36 @@ Scanned By: The Compartmentalist
 	<img src="./lowres/00115_000.jpg" alt="Agfa Agfapan Rapid 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
+#### Agfa Autolith Repo (ref: 8e68)
+
+```
+ISO     : Unknown
+Format  : 9x12
+Process : BW
+Expiry  : Unknown
+UUID    : 952823ad9ef14c75a83ac8e230b38e68
+Scanned By: Nano_Burger
+```
+
+<a href="./archive/00098_000.jpg">
+	<img src="./lowres/00098_000.jpg" alt="Agfa Autolith Repo 9x12 film_box_outside" loading="lazy" width="500" />
+</a>
+
+#### Agfa Isopan FF (ref: 3700)
+
+```
+ISO     : 8
+Format  : 35mm
+Process : BW
+Expiry  : 194610
+UUID    : 9ea6437ea85442048ffe63b8b64c3700
+Scanned By: Nano_Burger
+```
+
+<a href="./archive/00101_000.jpg">
+	<img src="./lowres/00101_000.jpg" alt="Agfa Isopan FF 35mm film_box_outside" loading="lazy" width="500" />
+</a>
+
 #### Agfa Isopan ISS (ref: 75fa)
 
 ```
@@ -368,6 +324,50 @@ Scanned By: Pelicram
 
 <a href="./archive/00148_000.jpg">
 	<img src="./lowres/00148_000.jpg" alt="Agfa Isopan ISS 35mm film_box_outside" loading="lazy" width="500" />
+</a>
+
+#### Agfa ULTRA 50 (ref: 4faa)
+
+```
+ISO     : 50
+Format  : 35mm
+Process : C-41
+Expiry  : 200110
+UUID    : d10e846ba5154f1d940ed7009a904faa
+Scanned By: dekuNukem
+```
+
+<a href="./archive/00010_000.jpg">
+	<img src="./lowres/00010_000.jpg" alt="Agfa ULTRA 50 35mm film_box_outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 8594d11f816c45b6a18dd122f8e38fc0`↓
+
+<a href="./archive/00010_001.jpg">
+	<img src="./lowres/00010_001.jpg" alt="Agfa ULTRA 50 35mm film_box_inside" loading="lazy" width="500" />
+</a>
+
+#### Agfa Vista (ref: d3af)
+
+```
+ISO     : 200
+Format  : 35mm
+Process : C-41
+Expiry  : 200312
+UUID    : f1e50745927f4b7cb16af36fd30dd3af
+Scanned By: dekuNukem
+```
+
+<a href="./archive/00014_000.jpg">
+	<img src="./lowres/00014_000.jpg" alt="Agfa Vista 35mm film_box_outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 300a430fc19f4eeeb4892e58d3c3cd56`↓
+
+<a href="./archive/00014_001.jpg">
+	<img src="./lowres/00014_001.jpg" alt="Agfa Vista 35mm film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### Alfo ALFOcolor PR-G (ref: 94b9)
@@ -680,57 +680,6 @@ Scanned By: Yrikonchik
 	<img src="./lowres/00073_000.jpg" alt="Fujifilm 200 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
-#### Fujifilm FUJICOLOR SUPER HR (ref: aaa0)
-
-```
-ISO     : 200
-Format  : 35mm
-Process : C-41
-Expiry  : 199002
-UUID    : 2d27c9a865aa4de19ad8dc0bcdc8aaa0
-Scanned By: dekuNukem
-```
-
-<a href="./archive/00007_000.jpg">
-	<img src="./lowres/00007_000.jpg" alt="Fujifilm FUJICOLOR SUPER HR 35mm film_box_outside" loading="lazy" width="500" />
-</a>
-
-
-`UUID: a179b7257aaf455fa69df546545457f6`↓
-
-<a href="./archive/00007_001.jpg">
-	<img src="./lowres/00007_001.jpg" alt="Fujifilm FUJICOLOR SUPER HR 35mm film_box_leaflet" loading="lazy" height="500" />
-</a>
-
-
-`UUID: e5688fcb7e8943a987ca6b882275ca7b`↓
-
-<a href="./archive/00007_002.jpg">
-	<img src="./lowres/00007_002.jpg" alt="Fujifilm FUJICOLOR SUPER HR 35mm film_box_leaflet" loading="lazy" height="500" />
-</a>
-
-#### Fujifilm FUJICOLOR SUPERIA (ref: 0683)
-
-```
-ISO     : 400
-Format  : 120
-Process : C-41
-Expiry  : 200205
-UUID    : c3d9e51d22e241f69133be30d5a00683
-Scanned By: dekuNukem
-```
-
-<a href="./archive/00012_000.jpg">
-	<img src="./lowres/00012_000.jpg" alt="Fujifilm FUJICOLOR SUPERIA 120 film_box_outside" loading="lazy" width="500" />
-</a>
-
-
-`UUID: 5cd39510c35f4b9cbae3089311db118f`↓
-
-<a href="./archive/00012_001.jpg">
-	<img src="./lowres/00012_001.jpg" alt="Fujifilm FUJICOLOR SUPERIA 120 film_box_inside" loading="lazy" width="500" />
-</a>
-
 #### Fujifilm Fujichrome Professional 100D (ref: 439d)
 
 ```
@@ -819,6 +768,35 @@ Scanned By: The Compartmentalist
 	<img src="./lowres/00117_000.jpg" alt="Fujifilm Fujicolor Professional 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
+#### Fujifilm Fujicolor Super HR (ref: aaa0)
+
+```
+ISO     : 200
+Format  : 35mm
+Process : C-41
+Expiry  : 199002
+UUID    : 2d27c9a865aa4de19ad8dc0bcdc8aaa0
+Scanned By: dekuNukem
+```
+
+<a href="./archive/00007_000.jpg">
+	<img src="./lowres/00007_000.jpg" alt="Fujifilm Fujicolor Super HR 35mm film_box_outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: a179b7257aaf455fa69df546545457f6`↓
+
+<a href="./archive/00007_001.jpg">
+	<img src="./lowres/00007_001.jpg" alt="Fujifilm Fujicolor Super HR 35mm film_box_leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: e5688fcb7e8943a987ca6b882275ca7b`↓
+
+<a href="./archive/00007_002.jpg">
+	<img src="./lowres/00007_002.jpg" alt="Fujifilm Fujicolor Super HR 35mm film_box_leaflet" loading="lazy" height="500" />
+</a>
+
 #### Fujifilm Fujicolor SuperHG (ref: ee94)
 
 ```
@@ -861,6 +839,28 @@ Scanned By: Pelicram
 
 <a href="./archive/00139_001.jpg">
 	<img src="./lowres/00139_001.jpg" alt="Fujifilm Fujicolor Superia 35mm film_box_inside" loading="lazy" height="500" />
+</a>
+
+#### Fujifilm Fujicolor Superia (ref: 0683)
+
+```
+ISO     : 400
+Format  : 120
+Process : C-41
+Expiry  : 200205
+UUID    : c3d9e51d22e241f69133be30d5a00683
+Scanned By: dekuNukem
+```
+
+<a href="./archive/00012_000.jpg">
+	<img src="./lowres/00012_000.jpg" alt="Fujifilm Fujicolor Superia 120 film_box_outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 5cd39510c35f4b9cbae3089311db118f`↓
+
+<a href="./archive/00012_001.jpg">
+	<img src="./lowres/00012_001.jpg" alt="Fujifilm Fujicolor Superia 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### Fujifilm NPS (ref: 5e85)

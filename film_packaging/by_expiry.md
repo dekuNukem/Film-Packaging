@@ -22,7 +22,7 @@ Last Updated: Jul 31 2025
 
 -----
 
-- [[1946] AGFA Isopan FF (ref: 3700)](#1946-agfa-isopan-ff-ref-3700)
+- [[1946] Agfa Isopan FF (ref: 3700)](#1946-agfa-isopan-ff-ref-3700)
 - [[1963] Kodak High Speed Ektachrome (ref: ce7f)](#1963-kodak-high-speed-ektachrome-ref-ce7f)
 - [[1963] Agfa Isopan ISS (ref: 75fa)](#1963-agfa-isopan-iss-ref-75fa)
 - [[1964] ADOX KB17 (ref: 2c95)](#1964-adox-kb17-ref-2c95)
@@ -47,7 +47,7 @@ Last Updated: Jul 31 2025
 - [[1987] Kodak Kodacolor VR (ref: 035f)](#1987-kodak-kodacolor-vr-ref-035f)
 - [[1988] Kodak Technical Pan 6415 (ref: 03be)](#1988-kodak-technical-pan-6415-ref-03be)
 - [[1988] Kodak Gold (ref: f368)](#1988-kodak-gold-ref-f368)
-- [[1990] Fujifilm FUJICOLOR SUPER HR (ref: aaa0)](#1990-fujifilm-fujicolor-super-hr-ref-aaa0)
+- [[1990] Fujifilm Fujicolor Super HR (ref: aaa0)](#1990-fujifilm-fujicolor-super-hr-ref-aaa0)
 - [[1990] Kodak High Speed Infrared (ref: 4294)](#1990-kodak-high-speed-infrared-ref-4294)
 - [[1990] Kodak Ektachrome (ref: 3c96)](#1990-kodak-ektachrome-ref-3c96)
 - [[1991] Konica Infrared 750nm (ref: e696)](#1991-konica-infrared-750nm-ref-e696)
@@ -74,14 +74,14 @@ Last Updated: Jul 31 2025
 - [[2001] Fujifilm Velvia (ref: 3182)](#2001-fujifilm-velvia-ref-3182)
 - [[2001] Kodak Gold Ultra (ref: 1358)](#2001-kodak-gold-ultra-ref-1358)
 - [[2001] Kodak Elite Chrome (ref: 523c)](#2001-kodak-elite-chrome-ref-523c)
-- [[2001] AGFA ULTRA 50 (ref: 4faa)](#2001-agfa-ultra-50-ref-4faa)
+- [[2001] Agfa ULTRA 50 (ref: 4faa)](#2001-agfa-ultra-50-ref-4faa)
 - [[2001] Kodak Gold (ref: ea58)](#2001-kodak-gold-ref-ea58)
 - [[2001] Kodak Värikuvafilmi (ref: f9ff)](#2001-kodak-värikuvafilmi-ref-f9ff)
-- [[2002] Fujifilm FUJICOLOR SUPERIA (ref: 0683)](#2002-fujifilm-fujicolor-superia-ref-0683)
+- [[2002] Fujifilm Fujicolor Superia (ref: 0683)](#2002-fujifilm-fujicolor-superia-ref-0683)
 - [[2002] Kodak Ektachrome (ref: 5d9f)](#2002-kodak-ektachrome-ref-5d9f)
 - [[2003] Konica VX200 (ref: fe53)](#2003-konica-vx200-ref-fe53)
 - [[2003] Fujifilm NPS (ref: 5e85)](#2003-fujifilm-nps-ref-5e85)
-- [[2003] AGFA Vista (ref: d3af)](#2003-agfa-vista-ref-d3af)
+- [[2003] Agfa Vista (ref: d3af)](#2003-agfa-vista-ref-d3af)
 - [[2005] Agfa Agfacolor XRG (ref: 689e)](#2005-agfa-agfacolor-xrg-ref-689e)
 - [[2005] Kodak Ultra (ref: 69a1)](#2005-kodak-ultra-ref-69a1)
 - [[2006] Polaroid 669 (ref: 3566)](#2006-polaroid-669-ref-3566)
@@ -95,7 +95,7 @@ Last Updated: Jul 31 2025
 - [[2007] Fujifilm Superia Reala (ref: a7de)](#2007-fujifilm-superia-reala-ref-a7de)
 - [[2007] Kodak Kodachrome (ref: 3206)](#2007-kodak-kodachrome-ref-3206)
 - [[2007] Lloyds Pharmacy APS Film (ref: c7cf)](#2007-lloyds-pharmacy-aps-film-ref-c7cf)
-- [[2008] AGFA APX (ref: 12c7)](#2008-agfa-apx-ref-12c7)
+- [[2008] Agfa APX (ref: 12c7)](#2008-agfa-apx-ref-12c7)
 - [[2008] Kodak High Speed Infrared (ref: 883e)](#2008-kodak-high-speed-infrared-ref-883e)
 - [[2009] Lloyds Pharmacy Colour Film (ref: 77d9)](#2009-lloyds-pharmacy-colour-film-ref-77d9)
 - [[2010] Fujifilm Fujicolor 100 (ref: 013b)](#2010-fujifilm-fujicolor-100-ref-013b)
@@ -165,20 +165,20 @@ Last Updated: Jul 31 2025
 - [[2027] Wolfen NP100 (ref: 71a6)](#2027-wolfen-np100-ref-71a6)
 - [[2028] Foma Fomapan (ref: 84a5)](#2028-foma-fomapan-ref-84a5)
 - [[2028] Rollei SUPERPAN (ref: ee8f)](#2028-rollei-superpan-ref-ee8f)
-- [[2028] AGFA APX (ref: 5276)](#2028-agfa-apx-ref-5276)
+- [[2028] Agfa APX (ref: 5276)](#2028-agfa-apx-ref-5276)
 - [[2028] Ilford HP5 Plus (ref: df49)](#2028-ilford-hp5-plus-ref-df49)
 - [[2028] Rollei RPX 400 (ref: 2155)](#2028-rollei-rpx-400-ref-2155)
 - [[2028] Kentmere PAN (ref: c907)](#2028-kentmere-pan-ref-c907)
 - [[2029] Kentmere PAN (ref: 827e)](#2029-kentmere-pan-ref-827e)
 - [[2029] Kentmere PAN (ref: a327)](#2029-kentmere-pan-ref-a327)
-- [[Unknown] AGFA Autolith Repo (ref: 8e68)](#unknown-agfa-autolith-repo-ref-8e68)
+- [[Unknown] Agfa Autolith Repo (ref: 8e68)](#unknown-agfa-autolith-repo-ref-8e68)
 - [[Unknown] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#unknown-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
 - [[Unknown] Perutz Superomnia (ref: c90d)](#unknown-perutz-superomnia-ref-c90d)
 
 
 -----
 
-#### [1946] AGFA Isopan FF (ref: 3700)
+#### [1946] Agfa Isopan FF (ref: 3700)
 
 ```
 ISO     : 8
@@ -190,7 +190,7 @@ Scanned By: Nano_Burger
 ```
 
 <a href="./archive/00101_000.jpg">
-	<img src="./lowres/00101_000.jpg" alt="AGFA Isopan FF 35mm film_box_outside" loading="lazy" width="500" />
+	<img src="./lowres/00101_000.jpg" alt="Agfa Isopan FF 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### [1963] Kodak High Speed Ektachrome (ref: ce7f)
@@ -735,7 +735,7 @@ Scanned By: dekuNukem
 	<img src="./lowres/00068_000.jpg" alt="Kodak Gold 110 film_box_outside" loading="lazy" width="500" />
 </a>
 
-#### [1990] Fujifilm FUJICOLOR SUPER HR (ref: aaa0)
+#### [1990] Fujifilm Fujicolor Super HR (ref: aaa0)
 
 ```
 ISO     : 200
@@ -747,21 +747,21 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00007_000.jpg">
-	<img src="./lowres/00007_000.jpg" alt="Fujifilm FUJICOLOR SUPER HR 35mm film_box_outside" loading="lazy" width="500" />
+	<img src="./lowres/00007_000.jpg" alt="Fujifilm Fujicolor Super HR 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: a179b7257aaf455fa69df546545457f6`↓
 
 <a href="./archive/00007_001.jpg">
-	<img src="./lowres/00007_001.jpg" alt="Fujifilm FUJICOLOR SUPER HR 35mm film_box_leaflet" loading="lazy" height="500" />
+	<img src="./lowres/00007_001.jpg" alt="Fujifilm Fujicolor Super HR 35mm film_box_leaflet" loading="lazy" height="500" />
 </a>
 
 
 `UUID: e5688fcb7e8943a987ca6b882275ca7b`↓
 
 <a href="./archive/00007_002.jpg">
-	<img src="./lowres/00007_002.jpg" alt="Fujifilm FUJICOLOR SUPER HR 35mm film_box_leaflet" loading="lazy" height="500" />
+	<img src="./lowres/00007_002.jpg" alt="Fujifilm Fujicolor Super HR 35mm film_box_leaflet" loading="lazy" height="500" />
 </a>
 
 #### [1990] Kodak High Speed Infrared (ref: 4294)
@@ -1329,7 +1329,7 @@ Scanned By: @ob.skura
 	<img src="./lowres/00042_000.jpg" alt="Kodak Elite Chrome 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
-#### [2001] AGFA ULTRA 50 (ref: 4faa)
+#### [2001] Agfa ULTRA 50 (ref: 4faa)
 
 ```
 ISO     : 50
@@ -1341,14 +1341,14 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00010_000.jpg">
-	<img src="./lowres/00010_000.jpg" alt="AGFA ULTRA 50 35mm film_box_outside" loading="lazy" width="500" />
+	<img src="./lowres/00010_000.jpg" alt="Agfa ULTRA 50 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 8594d11f816c45b6a18dd122f8e38fc0`↓
 
 <a href="./archive/00010_001.jpg">
-	<img src="./lowres/00010_001.jpg" alt="AGFA ULTRA 50 35mm film_box_inside" loading="lazy" width="500" />
+	<img src="./lowres/00010_001.jpg" alt="Agfa ULTRA 50 35mm film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### [2001] Kodak Gold (ref: ea58)
@@ -1388,7 +1388,7 @@ Scanned By: Pelicram
 	<img src="./lowres/00146_000.jpg" alt="Kodak Värikuvafilmi 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
-#### [2002] Fujifilm FUJICOLOR SUPERIA (ref: 0683)
+#### [2002] Fujifilm Fujicolor Superia (ref: 0683)
 
 ```
 ISO     : 400
@@ -1400,14 +1400,14 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00012_000.jpg">
-	<img src="./lowres/00012_000.jpg" alt="Fujifilm FUJICOLOR SUPERIA 120 film_box_outside" loading="lazy" width="500" />
+	<img src="./lowres/00012_000.jpg" alt="Fujifilm Fujicolor Superia 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 5cd39510c35f4b9cbae3089311db118f`↓
 
 <a href="./archive/00012_001.jpg">
-	<img src="./lowres/00012_001.jpg" alt="Fujifilm FUJICOLOR SUPERIA 120 film_box_inside" loading="lazy" width="500" />
+	<img src="./lowres/00012_001.jpg" alt="Fujifilm Fujicolor Superia 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### [2002] Kodak Ektachrome (ref: 5d9f)
@@ -1476,7 +1476,7 @@ Scanned By: b0baspace
 	<img src="./lowres/00053_001.jpg" alt="Fujifilm NPS 35mm film_box_inside" loading="lazy" height="500" />
 </a>
 
-#### [2003] AGFA Vista (ref: d3af)
+#### [2003] Agfa Vista (ref: d3af)
 
 ```
 ISO     : 200
@@ -1488,14 +1488,14 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00014_000.jpg">
-	<img src="./lowres/00014_000.jpg" alt="AGFA Vista 35mm film_box_outside" loading="lazy" width="500" />
+	<img src="./lowres/00014_000.jpg" alt="Agfa Vista 35mm film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 300a430fc19f4eeeb4892e58d3c3cd56`↓
 
 <a href="./archive/00014_001.jpg">
-	<img src="./lowres/00014_001.jpg" alt="AGFA Vista 35mm film_box_inside" loading="lazy" width="500" />
+	<img src="./lowres/00014_001.jpg" alt="Agfa Vista 35mm film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### [2005] Agfa Agfacolor XRG (ref: 689e)
@@ -1728,7 +1728,7 @@ Scanned By: dekuNukem
 	<img src="./lowres/00067_000.jpg" alt="Lloyds Pharmacy APS Film APS film_box_outside" loading="lazy" height="500" />
 </a>
 
-#### [2008] AGFA APX (ref: 12c7)
+#### [2008] Agfa APX (ref: 12c7)
 
 ```
 ISO     : 100
@@ -1740,14 +1740,14 @@ Scanned By: dekuNukem
 ```
 
 <a href="./archive/00011_000.jpg">
-	<img src="./lowres/00011_000.jpg" alt="AGFA APX 120 film_box_outside" loading="lazy" width="500" />
+	<img src="./lowres/00011_000.jpg" alt="Agfa APX 120 film_box_outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: dd262792b6a446dcab73a07738f8a8dd`↓
 
 <a href="./archive/00011_001.jpg">
-	<img src="./lowres/00011_001.jpg" alt="AGFA APX 120 film_box_inside" loading="lazy" width="500" />
+	<img src="./lowres/00011_001.jpg" alt="Agfa APX 120 film_box_inside" loading="lazy" width="500" />
 </a>
 
 #### [2008] Kodak High Speed Infrared (ref: 883e)
@@ -2995,7 +2995,7 @@ Scanned By: benikum
 	<img src="./lowres/00071_001.jpg" alt="Rollei SUPERPAN 35mm film_box_inside" loading="lazy" height="500" />
 </a>
 
-#### [2028] AGFA APX (ref: 5276)
+#### [2028] Agfa APX (ref: 5276)
 
 ```
 ISO     : 100
@@ -3007,14 +3007,14 @@ Scanned By: lilyu.xyz
 ```
 
 <a href="./archive/00093_000.jpg">
-	<img src="./lowres/00093_000.jpg" alt="AGFA APX 35mm film_box_outside" loading="lazy" height="500" />
+	<img src="./lowres/00093_000.jpg" alt="Agfa APX 35mm film_box_outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: 286ea2dbf5394a36b8f013b9aaa33a46`↓
 
 <a href="./archive/00093_001.jpg">
-	<img src="./lowres/00093_001.jpg" alt="AGFA APX 35mm film_box_inside" loading="lazy" height="500" />
+	<img src="./lowres/00093_001.jpg" alt="Agfa APX 35mm film_box_inside" loading="lazy" height="500" />
 </a>
 
 #### [2028] Ilford HP5 Plus (ref: df49)
@@ -3127,7 +3127,7 @@ Scanned By: Pelicram
 	<img src="./lowres/00145_001.jpg" alt="Kentmere PAN 35mm film_box_inside" loading="lazy" height="500" />
 </a>
 
-#### [Unknown] AGFA Autolith Repo (ref: 8e68)
+#### [Unknown] Agfa Autolith Repo (ref: 8e68)
 
 ```
 ISO     : Unknown
@@ -3139,7 +3139,7 @@ Scanned By: Nano_Burger
 ```
 
 <a href="./archive/00098_000.jpg">
-	<img src="./lowres/00098_000.jpg" alt="AGFA Autolith Repo 9x12 film_box_outside" loading="lazy" width="500" />
+	<img src="./lowres/00098_000.jpg" alt="Agfa Autolith Repo 9x12 film_box_outside" loading="lazy" width="500" />
 </a>
 
 #### [Unknown] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)
