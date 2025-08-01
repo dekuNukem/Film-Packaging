@@ -132,7 +132,7 @@ def render_two_cols(info: dict, col_width: int = 22) -> str:
     line1 = col("Format", fmt) + col("Process", proc)
     line2 = col("ISO   ", iso) + col("Expiry ", exp_fmt)
     line3 = col("Added ", added_fmt) + col("Author ", author)
-    line4 = f"UUID: {uuid}\n"
+    line4 = f"UUID  : {uuid}\n"
     return "\n".join([line1, line2, line3, line4])
 
 # -----------
