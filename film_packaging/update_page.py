@@ -15,7 +15,7 @@ def make_description_string(this_entry, keyname):
     return f"{attri_disp_name:8}: {this_entry[keyname]}\n"
 
 def make_alt_text(this_entry):
-    return f"{this_entry[ITEM_BRAND_KEY]} {this_entry[ITEM_PRODUCT_NAME_KEY]} {this_entry[ITEM_FORMAT_KEY]} {this_entry[ITEM_TYPE_KEY]}"
+    return f"{this_entry[ITEM_BRAND_KEY]} {this_entry[ITEM_PRODUCT_NAME_KEY]} {this_entry[ITEM_FORMAT_KEY]} {this_entry[ITEM_TYPE_KEY].replace("_", " ")}"
 
 def make_subtitle(this_entry, foretext_key=None, foretext_func=None):
     front_bit = ""
@@ -101,6 +101,40 @@ Get in touch by joining [the Discord chatroom](https://discord.gg/yvBx7dVG4B), o
 
 """
 
+from datetime import datetime, UTC
+
+def render_two_cols(info: dict, col_width: int = 20) -> str:
+    # Parse/format dates
+    exp = info.get("expiry_date", "")
+    if len(exp) == 6 and exp.isdigit():
+        exp_fmt = f"{exp[:4]}-{exp[4:]}"
+    else:
+        exp_fmt = exp  # fallback as-is
+
+    try:
+        ts = int(info.get("date_added", 0))
+        added_fmt = datetime.fromtimestamp(ts, UTC).strftime("%Y-%m-%d")
+    except Exception:
+        added_fmt = ""
+
+    # Field values
+    fmt = info.get(ITEM_FORMAT_KEY, "")
+    proc = info.get(ITEM_PROCESS_KEY, "")
+    iso = info.get(ITEM_ISO_KEY, "")
+    author = info.get(ITEM_AUTHOR_KEY, "")
+    uuid = info.get(ITEM_UUID_KEY, "")
+
+    # Helper to make one column padded to col_width
+    def col(label, value):
+        return f"{label}: {value}".ljust(col_width)
+
+    # Build the lines
+    line1 = col("Format", fmt) + col("Process", proc)
+    line2 = col("ISO   ", iso) + col("Expiry ", exp_fmt)
+    line3 = col("Added ", added_fmt) + col("Author ", author)
+    line4 = f"UUID: {uuid}\n"
+    return "\n".join([line1, line2, line3, line4])
+
 # -----------
 
 def make_md(sort_name, sorted_dbase, ftk=None, ftf=None):
@@ -127,12 +161,7 @@ def make_md(sort_name, sorted_dbase, ftk=None, ftf=None):
         if int(item[ITEM_SUBINDEX_KEY]) == 0:
             description += f"#### {make_subtitle(item, foretext_key=ftk, foretext_func=ftf)}\n"
             description += "\n```\n"
-            description += make_description_string(item, ITEM_ISO_KEY)
-            description += make_description_string(item, ITEM_FORMAT_KEY)
-            description += make_description_string(item, ITEM_PROCESS_KEY)
-            description += make_description_string(item, ITEM_EXPIRY_KEY)
-            description += make_description_string(item, ITEM_UUID_KEY)
-            description += make_description_string(item, ITEM_AUTHOR_KEY)
+            description += render_two_cols(item)
             description += "```\n"
             description += make_lazy_load_image_link(lowres_path, image_path, item)
         else:
