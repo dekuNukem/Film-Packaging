@@ -103,7 +103,7 @@ Get in touch by joining [the Discord chatroom](https://discord.gg/yvBx7dVG4B), o
 
 from datetime import datetime, UTC
 
-def render_two_cols(info: dict, col_width: int = 22) -> str:
+def render_two_cols(info: dict, col_width: int = 20) -> str:
     # Parse/format dates
     exp = info.get("expiry_date", "")
     if len(exp) == 6 and exp.isdigit():
@@ -129,9 +129,9 @@ def render_two_cols(info: dict, col_width: int = 22) -> str:
         return f"{label}: {value}".ljust(col_width)
 
     # Build the lines
-    line1 = col("Format", fmt) + col("Process", proc)
-    line2 = col("ISO   ", iso) + col("Expiry ", exp_fmt)
-    line3 = col("Added ", added_fmt) + col("Author ", author)
+    line1 = col("Format", fmt) + col("|  Process", proc)
+    line2 = col("ISO   ", iso) + col("|  Expiry ", exp_fmt)
+    line3 = col("Added ", added_fmt) + col("|  Author ", author)
     line4 = f"UUID  : {uuid}\n"
     return "\n".join([line1, line2, line3, line4])
 
