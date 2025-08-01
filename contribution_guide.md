@@ -39,7 +39,7 @@ Each box is different, but generally you can:
 
 * Look inside the box
 * Locate the corner with the fold-over
-* Cut straight along its edge
+* Unfold (or cut) along the edge
 
 ![title](resources/fold.png)
 
