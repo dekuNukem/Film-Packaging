@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jul 31 2025
+Last Updated: Aug 02 2025
 
-# of items: 254
+# of items: 263
 ```
 
 -----
@@ -98,6 +98,7 @@ Last Updated: Jul 31 2025
 - [Kodak Ektachrome (ref: 3c96)](#kodak-ektachrome-ref-3c96)
 - [Kodak Ektachrome (ref: b21e)](#kodak-ektachrome-ref-b21e)
 - [Kodak Ektachrome (ref: 5d9f)](#kodak-ektachrome-ref-5d9f)
+- [Kodak Ektachrome E100 (ref: ae10)](#kodak-ektachrome-e100-ref-ae10)
 - [Kodak Ektachrome Elite (ref: 26ef)](#kodak-ektachrome-elite-ref-26ef)
 - [Kodak Ektachrome-X (ref: ae7e)](#kodak-ektachrome-x-ref-ae7e)
 - [Kodak Ektachrome-X (ref: aec5)](#kodak-ektachrome-x-ref-aec5)
@@ -154,6 +155,8 @@ Last Updated: Jul 31 2025
 - [Perutz Superomnia (ref: c90d)](#perutz-superomnia-ref-c90d)
 - [Polaroid 665 (ref: e054)](#polaroid-665-ref-e054)
 - [Polaroid 669 (ref: 3566)](#polaroid-669-ref-3566)
+- [Polaroid Color 600 Film Round Frame (ref: d985)](#polaroid-color-600-film-round-frame-ref-d985)
+- [Polaroid Color SX-70 Film (ref: dc7f)](#polaroid-color-sx-70-film-ref-dc7f)
 - [Polaroid GridFilm (ref: 8deb)](#polaroid-gridfilm-ref-8deb)
 - [Polaroid PolaBlue (ref: df66)](#polaroid-polablue-ref-df66)
 - [Polaroid PolaChrome (ref: 3b60)](#polaroid-polachrome-ref-3b60)
@@ -1593,6 +1596,19 @@ UUID  : b17b7b46926e49ae88a7b74904245d9f
 	<img src="./lowres/00113_001.jpg" alt="Kodak Ektachrome 35mm film box inside" loading="lazy" height="500" />
 </a>
 
+#### Kodak Ektachrome E100 (ref: ae10)
+
+```
+Format: 35mm        |  Process: E-6     
+ISO   : 100         |  Expiry : 2027-02 
+Added : 2025-08-02  |  Author : toader  
+UUID  : 829cd9dd98cd489f8bff71e403c1ae10
+```
+
+<a href="./archive/00155_000.jpg">
+	<img src="./lowres/00155_000.jpg" alt="Kodak Ektachrome E100 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### Kodak Ektachrome Elite (ref: 26ef)
 
 ```
@@ -2552,6 +2568,74 @@ UUID  : bb62de3a22c04f699c780aeae7c83566
 	<img src="./lowres/00020_000.jpg" alt="Polaroid 669 Pack Film film box outside" loading="lazy" width="500" />
 </a>
 
+#### Polaroid Color 600 Film Round Frame (ref: d985)
+
+```
+Format: Integral Film|  Process: Instant 
+ISO   : 640         |  Expiry : 2024-12 
+Added : 2025-08-02  |  Author : toader  
+UUID  : e798fdd114be4a018cb7651bba94d985
+```
+
+<a href="./archive/00157_000.jpg">
+	<img src="./lowres/00157_000.jpg" alt="Polaroid Color 600 Film Round Frame Integral Film film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: b9ec4052b0d548ef90f77d7fc99d0ccb`↓
+
+<a href="./archive/00157_001.jpg">
+	<img src="./lowres/00157_001.jpg" alt="Polaroid Color 600 Film Round Frame Integral Film film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 95b81cc72d3646d6966a2341510333aa`↓
+
+<a href="./archive/00157_002.jpg">
+	<img src="./lowres/00157_002.jpg" alt="Polaroid Color 600 Film Round Frame Integral Film film box inside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 038f964e849d4fd1a0c6f1aeb6dd4b0e`↓
+
+<a href="./archive/00157_003.jpg">
+	<img src="./lowres/00157_003.jpg" alt="Polaroid Color 600 Film Round Frame Integral Film film box inside" loading="lazy" height="500" />
+</a>
+
+#### Polaroid Color SX-70 Film (ref: dc7f)
+
+```
+Format: Integral Film|  Process: Instant 
+ISO   : 160         |  Expiry : 2025-04 
+Added : 2025-08-02  |  Author : toader  
+UUID  : b4af154cea6f40c0aa1d4154d0c2dc7f
+```
+
+<a href="./archive/00156_000.jpg">
+	<img src="./lowres/00156_000.jpg" alt="Polaroid Color SX-70 Film Integral Film film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 5ce2d6b8b1894bf7b67c5a9fdd635a6e`↓
+
+<a href="./archive/00156_001.jpg">
+	<img src="./lowres/00156_001.jpg" alt="Polaroid Color SX-70 Film Integral Film film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 170151c0a84e459db08a9b3718b67743`↓
+
+<a href="./archive/00156_002.jpg">
+	<img src="./lowres/00156_002.jpg" alt="Polaroid Color SX-70 Film Integral Film film box inside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 3c3020e2767a48b88a7dd8662a0ec06d`↓
+
+<a href="./archive/00156_003.jpg">
+	<img src="./lowres/00156_003.jpg" alt="Polaroid Color SX-70 Film Integral Film film box inside" loading="lazy" height="500" />
+</a>
+
 #### Polaroid GridFilm (ref: 8deb)
 
 ```
@@ -2883,14 +2967,14 @@ Rank  Username                 Contributions
 4     @ob.skura                16    
 5     b0baspace                14    
 6     @SirBrentsworth          13    
-7     stefanie                 12    
-8     yc128                    11    
-9     lilyu.xyz                9     
-10    The Compartmentalist     9     
-11    benikum                  6     
-12    @recycling.film          5     
-13    Henry Gunn               4     
-14    toader                   4     
+7     toader                   13    
+8     stefanie                 12    
+9     yc128                    11    
+10    lilyu.xyz                9     
+11    The Compartmentalist     9     
+12    benikum                  6     
+13    @recycling.film          5     
+14    Henry Gunn               4     
 15    @seklerek                2     
 16    @ftfilmphotos            2     
 17    Yrikonchik               1     

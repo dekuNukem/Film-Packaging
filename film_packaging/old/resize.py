@@ -2,7 +2,7 @@ import os
 from PIL import Image
 
 # Define the maximum allowed dimension
-MAX_DIMENSION = 4500
+MAX_DIMENSION = 5000
 SIZE_LIMIT_BYTES = 4 * 1024 * 1024  # 4MB in bytes
 
 # Get all .jpg and .jpeg files in the current directory
@@ -27,10 +27,11 @@ for file in image_files:
                 
                 # Resize and save the image
                 img_resized = img.resize(new_size, Image.LANCZOS)
-                img_resized.save(file, quality=90)
+                img_resized.save(file, quality=90, optimize=True)
                 print(f"Resized: {file} to {new_size}")
             else:
-                print(f"Skipped (size OK): {file}")
+                img.save(file, quality=90, optimize=True)
+                print(f"Re-saved at 90%: {file}")
 
     except Exception as e:
         print(f"Error processing {file}: {e}")

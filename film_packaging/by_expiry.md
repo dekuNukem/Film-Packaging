@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jul 31 2025
+Last Updated: Aug 02 2025
 
-# of items: 254
+# of items: 263
 ```
 
 -----
@@ -114,7 +114,9 @@ Last Updated: Jul 31 2025
 - [[2024] Alien Film 5222/XX (ref: 3e49)](#2024-alien-film-5222xx-ref-3e49)
 - [[2024] Shanghai GP3 (ref: 52aa)](#2024-shanghai-gp3-ref-52aa)
 - [[2024] Ilford Delta (ref: eb8d)](#2024-ilford-delta-ref-eb8d)
+- [[2024] Polaroid Color 600 Film Round Frame (ref: d985)](#2024-polaroid-color-600-film-round-frame-ref-d985)
 - [[2025] JCH Streetpan (ref: 6e58)](#2025-jch-streetpan-ref-6e58)
+- [[2025] Polaroid Color SX-70 Film (ref: dc7f)](#2025-polaroid-color-sx-70-film-ref-dc7f)
 - [[2025] Ilford Delta (ref: 920f)](#2025-ilford-delta-ref-920f)
 - [[2025] Kodak Portra (ref: 7d65)](#2025-kodak-portra-ref-7d65)
 - [[2025] Lomography Lomochrome Turquoise (ref: 0d90)](#2025-lomography-lomochrome-turquoise-ref-0d90)
@@ -149,6 +151,7 @@ Last Updated: Jul 31 2025
 - [[2026] Kodak Gold (ref: 933f)](#2026-kodak-gold-ref-933f)
 - [[2026] Bergger Pancro400 (ref: f619)](#2026-bergger-pancro400-ref-f619)
 - [[2026] Wolfen NC500 (ref: 91c1)](#2026-wolfen-nc500-ref-91c1)
+- [[2027] Kodak Ektachrome E100 (ref: ae10)](#2027-kodak-ektachrome-e100-ref-ae10)
 - [[2027] Foma Fomapan (ref: 3e4f)](#2027-foma-fomapan-ref-3e4f)
 - [[2027] Kodak UltraMax (ref: aaa6)](#2027-kodak-ultramax-ref-aaa6)
 - [[2027] Foma Fomapan (ref: 65ad)](#2027-foma-fomapan-ref-65ad)
@@ -1878,6 +1881,40 @@ UUID  : e39c5eca4e3e4e5badfa00ee512deb8d
 	<img src="./lowres/00048_001.jpg" alt="Ilford Delta 120 film box inside" loading="lazy" width="500" />
 </a>
 
+#### [2024] Polaroid Color 600 Film Round Frame (ref: d985)
+
+```
+Format: Integral Film|  Process: Instant 
+ISO   : 640         |  Expiry : 2024-12 
+Added : 2025-08-02  |  Author : toader  
+UUID  : e798fdd114be4a018cb7651bba94d985
+```
+
+<a href="./archive/00157_000.jpg">
+	<img src="./lowres/00157_000.jpg" alt="Polaroid Color 600 Film Round Frame Integral Film film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: b9ec4052b0d548ef90f77d7fc99d0ccb`↓
+
+<a href="./archive/00157_001.jpg">
+	<img src="./lowres/00157_001.jpg" alt="Polaroid Color 600 Film Round Frame Integral Film film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 95b81cc72d3646d6966a2341510333aa`↓
+
+<a href="./archive/00157_002.jpg">
+	<img src="./lowres/00157_002.jpg" alt="Polaroid Color 600 Film Round Frame Integral Film film box inside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 038f964e849d4fd1a0c6f1aeb6dd4b0e`↓
+
+<a href="./archive/00157_003.jpg">
+	<img src="./lowres/00157_003.jpg" alt="Polaroid Color 600 Film Round Frame Integral Film film box inside" loading="lazy" height="500" />
+</a>
+
 #### [2025] JCH Streetpan (ref: 6e58)
 
 ```
@@ -1896,6 +1933,40 @@ UUID  : 1873b4d20d2a47659ab15d0af4146e58
 
 <a href="./archive/00132_001.jpg">
 	<img src="./lowres/00132_001.jpg" alt="JCH Streetpan 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### [2025] Polaroid Color SX-70 Film (ref: dc7f)
+
+```
+Format: Integral Film|  Process: Instant 
+ISO   : 160         |  Expiry : 2025-04 
+Added : 2025-08-02  |  Author : toader  
+UUID  : b4af154cea6f40c0aa1d4154d0c2dc7f
+```
+
+<a href="./archive/00156_000.jpg">
+	<img src="./lowres/00156_000.jpg" alt="Polaroid Color SX-70 Film Integral Film film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 5ce2d6b8b1894bf7b67c5a9fdd635a6e`↓
+
+<a href="./archive/00156_001.jpg">
+	<img src="./lowres/00156_001.jpg" alt="Polaroid Color SX-70 Film Integral Film film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 170151c0a84e459db08a9b3718b67743`↓
+
+<a href="./archive/00156_002.jpg">
+	<img src="./lowres/00156_002.jpg" alt="Polaroid Color SX-70 Film Integral Film film box inside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 3c3020e2767a48b88a7dd8662a0ec06d`↓
+
+<a href="./archive/00156_003.jpg">
+	<img src="./lowres/00156_003.jpg" alt="Polaroid Color SX-70 Film Integral Film film box inside" loading="lazy" height="500" />
 </a>
 
 #### [2025] Ilford Delta (ref: 920f)
@@ -2431,6 +2502,19 @@ UUID  : 6e3408d7e97247e380ea52077a7491c1
 	<img src="./lowres/00049_000.jpg" alt="Wolfen NC500 35mm film box outside" loading="lazy" height="500" />
 </a>
 
+#### [2027] Kodak Ektachrome E100 (ref: ae10)
+
+```
+Format: 35mm        |  Process: E-6     
+ISO   : 100         |  Expiry : 2027-02 
+Added : 2025-08-02  |  Author : toader  
+UUID  : 829cd9dd98cd489f8bff71e403c1ae10
+```
+
+<a href="./archive/00155_000.jpg">
+	<img src="./lowres/00155_000.jpg" alt="Kodak Ektachrome E100 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [2027] Foma Fomapan (ref: 3e4f)
 
 ```
@@ -2883,14 +2967,14 @@ Rank  Username                 Contributions
 4     @ob.skura                16    
 5     b0baspace                14    
 6     @SirBrentsworth          13    
-7     stefanie                 12    
-8     yc128                    11    
-9     lilyu.xyz                9     
-10    The Compartmentalist     9     
-11    benikum                  6     
-12    @recycling.film          5     
-13    Henry Gunn               4     
-14    toader                   4     
+7     toader                   13    
+8     stefanie                 12    
+9     yc128                    11    
+10    lilyu.xyz                9     
+11    The Compartmentalist     9     
+12    benikum                  6     
+13    @recycling.film          5     
+14    Henry Gunn               4     
 15    @seklerek                2     
 16    @ftfilmphotos            2     
 17    Yrikonchik               1     

@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jul 31 2025
+Last Updated: Aug 02 2025
 
-# of items: 254
+# of items: 263
 ```
 
 -----
@@ -110,6 +110,7 @@ Last Updated: Jul 31 2025
 - [[35mm] Kodak Ektachrome (ref: 3c96)](#35mm-kodak-ektachrome-ref-3c96)
 - [[35mm] Kodak Ektachrome (ref: b21e)](#35mm-kodak-ektachrome-ref-b21e)
 - [[35mm] Kodak Ektachrome (ref: 5d9f)](#35mm-kodak-ektachrome-ref-5d9f)
+- [[35mm] Kodak Ektachrome E100 (ref: ae10)](#35mm-kodak-ektachrome-e100-ref-ae10)
 - [[35mm] Kodak Ektachrome Elite (ref: 26ef)](#35mm-kodak-ektachrome-elite-ref-26ef)
 - [[35mm] Kodak Ektachrome-X (ref: aec5)](#35mm-kodak-ektachrome-x-ref-aec5)
 - [[35mm] Kodak Ektar (ref: 3498)](#35mm-kodak-ektar-ref-3498)
@@ -170,6 +171,8 @@ Last Updated: Jul 31 2025
 - [[APS] Klick APS Film (ref: 4b88)](#aps-klick-aps-film-ref-4b88)
 - [[APS] Kodak Advantix Ultra (ref: 566b)](#aps-kodak-advantix-ultra-ref-566b)
 - [[APS] Lloyds Pharmacy APS Film (ref: c7cf)](#aps-lloyds-pharmacy-aps-film-ref-c7cf)
+- [[Integral Film] Polaroid Color 600 Film Round Frame (ref: d985)](#integral-film-polaroid-color-600-film-round-frame-ref-d985)
+- [[Integral Film] Polaroid Color SX-70 Film (ref: dc7f)](#integral-film-polaroid-color-sx-70-film-ref-dc7f)
 - [[Integral Film] Polaroid GridFilm (ref: 8deb)](#integral-film-polaroid-gridfilm-ref-8deb)
 - [[Pack Film] Polaroid 665 (ref: e054)](#pack-film-polaroid-665-ref-e054)
 - [[Pack Film] Polaroid 669 (ref: 3566)](#pack-film-polaroid-669-ref-3566)
@@ -1798,6 +1801,19 @@ UUID  : b17b7b46926e49ae88a7b74904245d9f
 	<img src="./lowres/00113_001.jpg" alt="Kodak Ektachrome 35mm film box inside" loading="lazy" height="500" />
 </a>
 
+#### [35mm] Kodak Ektachrome E100 (ref: ae10)
+
+```
+Format: 35mm        |  Process: E-6     
+ISO   : 100         |  Expiry : 2027-02 
+Added : 2025-08-02  |  Author : toader  
+UUID  : 829cd9dd98cd489f8bff71e403c1ae10
+```
+
+<a href="./archive/00155_000.jpg">
+	<img src="./lowres/00155_000.jpg" alt="Kodak Ektachrome E100 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [35mm] Kodak Ektachrome Elite (ref: 26ef)
 
 ```
@@ -2767,6 +2783,74 @@ UUID  : 44bd7d4688e04d19a958d961c2abc7cf
 	<img src="./lowres/00067_000.jpg" alt="Lloyds Pharmacy APS Film APS film box outside" loading="lazy" height="500" />
 </a>
 
+#### [Integral Film] Polaroid Color 600 Film Round Frame (ref: d985)
+
+```
+Format: Integral Film|  Process: Instant 
+ISO   : 640         |  Expiry : 2024-12 
+Added : 2025-08-02  |  Author : toader  
+UUID  : e798fdd114be4a018cb7651bba94d985
+```
+
+<a href="./archive/00157_000.jpg">
+	<img src="./lowres/00157_000.jpg" alt="Polaroid Color 600 Film Round Frame Integral Film film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: b9ec4052b0d548ef90f77d7fc99d0ccb`↓
+
+<a href="./archive/00157_001.jpg">
+	<img src="./lowres/00157_001.jpg" alt="Polaroid Color 600 Film Round Frame Integral Film film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 95b81cc72d3646d6966a2341510333aa`↓
+
+<a href="./archive/00157_002.jpg">
+	<img src="./lowres/00157_002.jpg" alt="Polaroid Color 600 Film Round Frame Integral Film film box inside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 038f964e849d4fd1a0c6f1aeb6dd4b0e`↓
+
+<a href="./archive/00157_003.jpg">
+	<img src="./lowres/00157_003.jpg" alt="Polaroid Color 600 Film Round Frame Integral Film film box inside" loading="lazy" height="500" />
+</a>
+
+#### [Integral Film] Polaroid Color SX-70 Film (ref: dc7f)
+
+```
+Format: Integral Film|  Process: Instant 
+ISO   : 160         |  Expiry : 2025-04 
+Added : 2025-08-02  |  Author : toader  
+UUID  : b4af154cea6f40c0aa1d4154d0c2dc7f
+```
+
+<a href="./archive/00156_000.jpg">
+	<img src="./lowres/00156_000.jpg" alt="Polaroid Color SX-70 Film Integral Film film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 5ce2d6b8b1894bf7b67c5a9fdd635a6e`↓
+
+<a href="./archive/00156_001.jpg">
+	<img src="./lowres/00156_001.jpg" alt="Polaroid Color SX-70 Film Integral Film film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 170151c0a84e459db08a9b3718b67743`↓
+
+<a href="./archive/00156_002.jpg">
+	<img src="./lowres/00156_002.jpg" alt="Polaroid Color SX-70 Film Integral Film film box inside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 3c3020e2767a48b88a7dd8662a0ec06d`↓
+
+<a href="./archive/00156_003.jpg">
+	<img src="./lowres/00156_003.jpg" alt="Polaroid Color SX-70 Film Integral Film film box inside" loading="lazy" height="500" />
+</a>
+
 #### [Integral Film] Polaroid GridFilm (ref: 8deb)
 
 ```
@@ -2883,14 +2967,14 @@ Rank  Username                 Contributions
 4     @ob.skura                16    
 5     b0baspace                14    
 6     @SirBrentsworth          13    
-7     stefanie                 12    
-8     yc128                    11    
-9     lilyu.xyz                9     
-10    The Compartmentalist     9     
-11    benikum                  6     
-12    @recycling.film          5     
-13    Henry Gunn               4     
-14    toader                   4     
+7     toader                   13    
+8     stefanie                 12    
+9     yc128                    11    
+10    lilyu.xyz                9     
+11    The Compartmentalist     9     
+12    benikum                  6     
+13    @recycling.film          5     
+14    Henry Gunn               4     
 15    @seklerek                2     
 16    @ftfilmphotos            2     
 17    Yrikonchik               1     

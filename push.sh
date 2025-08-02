@@ -12,6 +12,8 @@ python3 make_lowres.py
 python3 update_page.py
 python3 update_stats.py
 
+cp ./to_add/resize.py ./old
+
 current_branch=$(git rev-parse --abbrev-ref HEAD)
 
 git add --all
