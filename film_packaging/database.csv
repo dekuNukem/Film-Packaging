@@ -189,8 +189,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 111,0,film_box_outside,Ilford,FP4 Plus,120,125,BW,202604,1753911177,56c56b0a08f22bb579fd2c61424bbee8,c6c88d6d009048e9ac3721bdc7f076e7,00111_000.jpg,yc128
 111,1,film_box_inside,Ilford,FP4 Plus,120,125,BW,202604,1753911179,a63d45d377629726f7519a3c80981a74,95c6d78d0b0540a9ba70dc769609a112,00111_001.jpg,yc128
 112,0,film_box_outside,SantaColor,SantaColor,35mm,100,C-41,202509,1753911376,be9d5a2427813193ee1c7761ef03306b,e54ce68c797b4846b9aee3f5818ecb58,00112_000.jpg,yc128
-113,0,film_box_outside,Kodak,Ektachrome,35mm,100,E-6,200208,1753921101,f16605d70311bb7a8a6165aeb15d8abc,b17b7b46926e49ae88a7b74904245d9f,00113_000.jpg,toader
-113,1,film_box_inside,Kodak,Ektachrome,35mm,100,E-6,200208,1753921126,4cbbcfea4d5cbd54c9aadf83202dbf44,1ac536af04e3459fa3389050a3c93bee,00113_001.jpg,toader
+113,0,film_box_outside,Kodak,Ektachrome 100 Plus,35mm,100,E-6,200208,1753921101,f16605d70311bb7a8a6165aeb15d8abc,b17b7b46926e49ae88a7b74904245d9f,00113_000.jpg,toader
+113,1,film_box_inside,Kodak,Ektachrome 100 Plus,35mm,100,E-6,200208,1753921126,4cbbcfea4d5cbd54c9aadf83202dbf44,1ac536af04e3459fa3389050a3c93bee,00113_001.jpg,toader
 114,0,film_box_outside,Kodak,Ektachrome Elite,35mm,100,E-6,199511,1753921168,866cafae699ccb031c49a1295e583f91,175cf2b69fe3413093d9d7f9ea0d26ef,00114_000.jpg,toader
 114,1,film_box_inside,Kodak,Ektachrome Elite,35mm,100,E-6,199511,1753921170,7b1dd6ccf0d9ecdde69b9dca34977c9c,89d1b19f3e364f55adc2523a07ed9ddb,00114_001.jpg,toader
 115,0,film_box_outside,Agfa,Agfapan Rapid,35mm,40,BW,196902,1753984184,c271faf0fbbe18f8c552e3424e0757b5,b2470c1734d344698f6e1c01eaa85e7b,00115_000.jpg,The Compartmentalist
