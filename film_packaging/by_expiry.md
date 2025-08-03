@@ -54,8 +54,8 @@ Last Updated: Aug 03 2025
 - [[1991] Konica Infrared 750nm (ref: e696)](#1991-konica-infrared-750nm-ref-e696)
 - [[1991] Tasma OCh 50 (ref: 5c43)](#1991-tasma-och-50-ref-5c43)
 - [[1991] Kodak TMAX (ref: 1dff)](#1991-kodak-tmax-ref-1dff)
-- [[1992] Polaroid PolaBlue (ref: df66)](#1992-polaroid-polablue-ref-df66)
-- [[1992] Polaroid PolaChrome (ref: 3b60)](#1992-polaroid-polachrome-ref-3b60)
+- [[1992] Polaroid PolaBlue 35mm (ref: df66)](#1992-polaroid-polablue-35mm-ref-df66)
+- [[1992] Polaroid PolaChrome 35mm (ref: 3b60)](#1992-polaroid-polachrome-35mm-ref-3b60)
 - [[1992] Kodak Ektachrome (ref: b21e)](#1992-kodak-ektachrome-ref-b21e)
 - [[1992] Fujifilm Fujichrome Professional 100D (ref: 439d)](#1992-fujifilm-fujichrome-professional-100d-ref-439d)
 - [[1993] Alfo ALFOcolor PR-G (ref: 94b9)](#1993-alfo-alfocolor-pr-g-ref-94b9)
@@ -867,7 +867,7 @@ UUID  : 9e4ea1efa5a54938985fdf8901951dff
 	<img src="./lowres/00104_002.jpg" alt="Kodak TMAX 35mm film box leaflet" loading="lazy" height="500" />
 </a>
 
-#### [1992] Polaroid PolaBlue (ref: df66)
+#### [1992] Polaroid PolaBlue 35mm (ref: df66)
 
 ```
 Format: 35mm         |  Process: Instant  
@@ -877,10 +877,10 @@ UUID  : 8236180d686f4e9ca4aa8e6fc397df66
 ```
 
 <a href="./archive/00019_000.jpg">
-	<img src="./lowres/00019_000.jpg" alt="Polaroid PolaBlue 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00019_000.jpg" alt="Polaroid PolaBlue 35mm 35mm film box outside" loading="lazy" height="500" />
 </a>
 
-#### [1992] Polaroid PolaChrome (ref: 3b60)
+#### [1992] Polaroid PolaChrome 35mm (ref: 3b60)
 
 ```
 Format: 35mm         |  Process: Instant  
@@ -890,7 +890,7 @@ UUID  : b0041b1e44a64f6591d49e918e033b60
 ```
 
 <a href="./archive/00029_000.jpg">
-	<img src="./lowres/00029_000.jpg" alt="Polaroid PolaChrome 35mm film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00029_000.jpg" alt="Polaroid PolaChrome 35mm 35mm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [1992] Kodak Ektachrome (ref: b21e)

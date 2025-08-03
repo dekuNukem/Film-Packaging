@@ -171,8 +171,8 @@ Last Updated: Aug 03 2025
 - [[Instant] Polaroid Color 600 Film Round Frame (ref: d985)](#instant-polaroid-color-600-film-round-frame-ref-d985)
 - [[Instant] Polaroid Color SX-70 Film (ref: dc7f)](#instant-polaroid-color-sx-70-film-ref-dc7f)
 - [[Instant] Polaroid GridFilm (ref: 8deb)](#instant-polaroid-gridfilm-ref-8deb)
-- [[Instant] Polaroid PolaBlue (ref: df66)](#instant-polaroid-polablue-ref-df66)
-- [[Instant] Polaroid PolaChrome (ref: 3b60)](#instant-polaroid-polachrome-ref-3b60)
+- [[Instant] Polaroid PolaBlue 35mm (ref: df66)](#instant-polaroid-polablue-35mm-ref-df66)
+- [[Instant] Polaroid PolaChrome 35mm (ref: 3b60)](#instant-polaroid-polachrome-35mm-ref-3b60)
 - [[Instant] Polaroid PolaPan 35mm (ref: 9825)](#instant-polaroid-polapan-35mm-ref-9825)
 - [[Instant] Polaroid Polacolor 679 (ref: 625c)](#instant-polaroid-polacolor-679-ref-625c)
 - [[K-14] Kodak Kodachrome (ref: 6477)](#k-14-kodak-kodachrome-ref-6477)
@@ -2815,7 +2815,7 @@ UUID  : 4f1aabf29f724c9ea3b2bee414b08deb
 	<img src="./lowres/00031_003.jpg" alt="Polaroid GridFilm Integral Film film box inside" loading="lazy" width="500" />
 </a>
 
-#### [Instant] Polaroid PolaBlue (ref: df66)
+#### [Instant] Polaroid PolaBlue 35mm (ref: df66)
 
 ```
 Format: 35mm         |  Process: Instant  
@@ -2825,10 +2825,10 @@ UUID  : 8236180d686f4e9ca4aa8e6fc397df66
 ```
 
 <a href="./archive/00019_000.jpg">
-	<img src="./lowres/00019_000.jpg" alt="Polaroid PolaBlue 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00019_000.jpg" alt="Polaroid PolaBlue 35mm 35mm film box outside" loading="lazy" height="500" />
 </a>
 
-#### [Instant] Polaroid PolaChrome (ref: 3b60)
+#### [Instant] Polaroid PolaChrome 35mm (ref: 3b60)
 
 ```
 Format: 35mm         |  Process: Instant  
@@ -2838,7 +2838,7 @@ UUID  : b0041b1e44a64f6591d49e918e033b60
 ```
 
 <a href="./archive/00029_000.jpg">
-	<img src="./lowres/00029_000.jpg" alt="Polaroid PolaChrome 35mm film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00029_000.jpg" alt="Polaroid PolaChrome 35mm 35mm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [Instant] Polaroid PolaPan 35mm (ref: 9825)

@@ -31,7 +31,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 16,1,film_box_inside,Ilford,HP5 Plus,120,400,BW,202511,1736012719,72114f54b27f19218eb3633195e26cb9,1d938d2d844d498caf9fe2bc83618dda,00016_001.jpg,dekuNukem
 17,0,film_box_outside,Kodak,High Speed Ektachrome,120,160,E-2,196301,1736012891,2290616ea75d47f89f83ffae0b7f3312,ec7cf78858fc48c59e5a0875ec74ce7f,00017_000.jpg,dekuNukem
 18,0,film_box_outside,Polaroid,665,Pack Film,80,Instant,199608,1736023755,1bcecb1b015e966a2c56b57937610221,311d896d68b74b1193afcfa129c5e054,00018_000.jpg,dekuNukem
-19,0,film_box_outside,Polaroid,PolaBlue,35mm,12,Instant,199208,1736023839,859db4fa936272430f29a27d3d3cb689,8236180d686f4e9ca4aa8e6fc397df66,00019_000.jpg,dekuNukem
+19,0,film_box_outside,Polaroid,PolaBlue 35mm,35mm,12,Instant,199208,1736023839,859db4fa936272430f29a27d3d3cb689,8236180d686f4e9ca4aa8e6fc397df66,00019_000.jpg,dekuNukem
 20,0,film_box_outside,Polaroid,669,Pack Film,80,Instant,200603,1736023886,b0cd45b17c81925263d5d7993a2202a4,bb62de3a22c04f699c780aeae7c83566,00020_000.jpg,dekuNukem
 21,0,film_box_outside,Kodak,Gold,35mm,200,C-41,202611,1736023928,5f33dbc02c379946e4359cc9eb88a597,e8aefc10fa0d43cebbac73bdcf10933f,00021_000.jpg,dekuNukem
 22,0,film_box_outside,Fujifilm,Pro 400H,120,400,C-41,201809,1736023971,49a08247ec78404771de7e39ebb6c7a9,0d89ecf11f3c46deb52171aa909566e3,00022_000.jpg,dekuNukem
@@ -46,7 +46,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 27,2,film_box_leaflet,Kodak,Ektacolor Pro Gold,220,160,C-41,200007,1736024586,15167b9ca91f10e70ea76d1dab7cf407,c13296cf46f04c1dba4ef93110f3ca71,00027_002.jpg,dekuNukem
 27,3,film_box_leaflet,Kodak,Ektacolor Pro Gold,220,160,C-41,200007,1736024592,3f90912ae1dcdc4af530b6c5d2e7d3ea,53e024b9a272410888a6d44549f7ceb0,00027_003.jpg,dekuNukem
 28,0,film_box_outside,Kodak,Tri-X,120,400,BW,202512,1736024650,45ee2f6b24a06945012c0f9f7ae4b7bd,f7f99b9d46a4491c9cbfda4f030f88c5,00028_000.jpg,dekuNukem
-29,0,film_box_outside,Polaroid,PolaChrome,35mm,40,Instant,199209,1736046040,09cfddc8dd7ae52d17cf02ac07a839f6,b0041b1e44a64f6591d49e918e033b60,00029_000.jpg,dekuNukem
+29,0,film_box_outside,Polaroid,PolaChrome 35mm,35mm,40,Instant,199209,1736046040,09cfddc8dd7ae52d17cf02ac07a839f6,b0041b1e44a64f6591d49e918e033b60,00029_000.jpg,dekuNukem
 30,0,film_box_outside,Rollei,Infrared,120,200,BW,202708,1736046075,eb1ea2f258d651e5036a96b6be331bfc,b7bb7d65979543d0a8e5c9179d734f54,00030_000.jpg,dekuNukem
 31,0,film_box_outside,Polaroid,GridFilm,Integral Film,640,Instant,200610,1736046197,5f1b719a68bd00716ca5d8577ab310c1,4f1aabf29f724c9ea3b2bee414b08deb,00031_000.jpg,dekuNukem
 31,1,film_box_outside,Polaroid,GridFilm,Integral Film,640,Instant,200610,1736046204,8c0a0413f57a2a74c7808fbac96c0d1a,1dda008c9a844e1b9b64527511fdc282,00031_001.jpg,dekuNukem

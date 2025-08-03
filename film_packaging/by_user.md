@@ -152,8 +152,8 @@ Last Updated: Aug 03 2025
 - [[dekuNukem] Polaroid 669 (ref: 3566)](#dekunukem-polaroid-669-ref-3566)
 - [[dekuNukem] Polaroid 87 (ref: 62ef)](#dekunukem-polaroid-87-ref-62ef)
 - [[dekuNukem] Polaroid GridFilm (ref: 8deb)](#dekunukem-polaroid-gridfilm-ref-8deb)
-- [[dekuNukem] Polaroid PolaBlue (ref: df66)](#dekunukem-polaroid-polablue-ref-df66)
-- [[dekuNukem] Polaroid PolaChrome (ref: 3b60)](#dekunukem-polaroid-polachrome-ref-3b60)
+- [[dekuNukem] Polaroid PolaBlue 35mm (ref: df66)](#dekunukem-polaroid-polablue-35mm-ref-df66)
+- [[dekuNukem] Polaroid PolaChrome 35mm (ref: 3b60)](#dekunukem-polaroid-polachrome-35mm-ref-3b60)
 - [[dekuNukem] Polaroid PolaPan 35mm (ref: 9825)](#dekunukem-polaroid-polapan-35mm-ref-9825)
 - [[dekuNukem] Polaroid Polacolor 679 (ref: 625c)](#dekunukem-polaroid-polacolor-679-ref-625c)
 - [[dekuNukem] Rollei Infrared (ref: 4f54)](#dekunukem-rollei-infrared-ref-4f54)
@@ -2470,7 +2470,7 @@ UUID  : 4f1aabf29f724c9ea3b2bee414b08deb
 	<img src="./lowres/00031_003.jpg" alt="Polaroid GridFilm Integral Film film box inside" loading="lazy" width="500" />
 </a>
 
-#### [dekuNukem] Polaroid PolaBlue (ref: df66)
+#### [dekuNukem] Polaroid PolaBlue 35mm (ref: df66)
 
 ```
 Format: 35mm         |  Process: Instant  
@@ -2480,10 +2480,10 @@ UUID  : 8236180d686f4e9ca4aa8e6fc397df66
 ```
 
 <a href="./archive/00019_000.jpg">
-	<img src="./lowres/00019_000.jpg" alt="Polaroid PolaBlue 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00019_000.jpg" alt="Polaroid PolaBlue 35mm 35mm film box outside" loading="lazy" height="500" />
 </a>
 
-#### [dekuNukem] Polaroid PolaChrome (ref: 3b60)
+#### [dekuNukem] Polaroid PolaChrome 35mm (ref: 3b60)
 
 ```
 Format: 35mm         |  Process: Instant  
@@ -2493,7 +2493,7 @@ UUID  : b0041b1e44a64f6591d49e918e033b60
 ```
 
 <a href="./archive/00029_000.jpg">
-	<img src="./lowres/00029_000.jpg" alt="Polaroid PolaChrome 35mm film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00029_000.jpg" alt="Polaroid PolaChrome 35mm 35mm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [dekuNukem] Polaroid PolaPan 35mm (ref: 9825)

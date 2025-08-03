@@ -160,8 +160,8 @@ Last Updated: Aug 03 2025
 - [Polaroid Color 600 Film Round Frame (ref: d985)](#polaroid-color-600-film-round-frame-ref-d985)
 - [Polaroid Color SX-70 Film (ref: dc7f)](#polaroid-color-sx-70-film-ref-dc7f)
 - [Polaroid GridFilm (ref: 8deb)](#polaroid-gridfilm-ref-8deb)
-- [Polaroid PolaBlue (ref: df66)](#polaroid-polablue-ref-df66)
-- [Polaroid PolaChrome (ref: 3b60)](#polaroid-polachrome-ref-3b60)
+- [Polaroid PolaBlue 35mm (ref: df66)](#polaroid-polablue-35mm-ref-df66)
+- [Polaroid PolaChrome 35mm (ref: 3b60)](#polaroid-polachrome-35mm-ref-3b60)
 - [Polaroid PolaPan 35mm (ref: 9825)](#polaroid-polapan-35mm-ref-9825)
 - [Polaroid Polacolor 679 (ref: 625c)](#polaroid-polacolor-679-ref-625c)
 - [Porst Color N21 (ref: 494a)](#porst-color-n21-ref-494a)
@@ -2707,7 +2707,7 @@ UUID  : 4f1aabf29f724c9ea3b2bee414b08deb
 	<img src="./lowres/00031_003.jpg" alt="Polaroid GridFilm Integral Film film box inside" loading="lazy" width="500" />
 </a>
 
-#### Polaroid PolaBlue (ref: df66)
+#### Polaroid PolaBlue 35mm (ref: df66)
 
 ```
 Format: 35mm         |  Process: Instant  
@@ -2717,10 +2717,10 @@ UUID  : 8236180d686f4e9ca4aa8e6fc397df66
 ```
 
 <a href="./archive/00019_000.jpg">
-	<img src="./lowres/00019_000.jpg" alt="Polaroid PolaBlue 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00019_000.jpg" alt="Polaroid PolaBlue 35mm 35mm film box outside" loading="lazy" height="500" />
 </a>
 
-#### Polaroid PolaChrome (ref: 3b60)
+#### Polaroid PolaChrome 35mm (ref: 3b60)
 
 ```
 Format: 35mm         |  Process: Instant  
@@ -2730,7 +2730,7 @@ UUID  : b0041b1e44a64f6591d49e918e033b60
 ```
 
 <a href="./archive/00029_000.jpg">
-	<img src="./lowres/00029_000.jpg" alt="Polaroid PolaChrome 35mm film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00029_000.jpg" alt="Polaroid PolaChrome 35mm 35mm film box outside" loading="lazy" width="500" />
 </a>
 
 #### Polaroid PolaPan 35mm (ref: 9825)

@@ -148,8 +148,8 @@ Last Updated: Aug 03 2025
 - [[35mm] Lomography Babylon (ref: 7afa)](#35mm-lomography-babylon-ref-7afa)
 - [[35mm] Lomography Fantome (ref: 4340)](#35mm-lomography-fantome-ref-4340)
 - [[35mm] Lomography Lomochrome Purple (ref: 068f)](#35mm-lomography-lomochrome-purple-ref-068f)
-- [[35mm] Polaroid PolaBlue (ref: df66)](#35mm-polaroid-polablue-ref-df66)
-- [[35mm] Polaroid PolaChrome (ref: 3b60)](#35mm-polaroid-polachrome-ref-3b60)
+- [[35mm] Polaroid PolaBlue 35mm (ref: df66)](#35mm-polaroid-polablue-35mm-ref-df66)
+- [[35mm] Polaroid PolaChrome 35mm (ref: 3b60)](#35mm-polaroid-polachrome-35mm-ref-3b60)
 - [[35mm] Polaroid PolaPan 35mm (ref: 9825)](#35mm-polaroid-polapan-35mm-ref-9825)
 - [[35mm] Porst Color N21 (ref: 494a)](#35mm-porst-color-n21-ref-494a)
 - [[35mm] Rollei Infrared (ref: eae2)](#35mm-rollei-infrared-ref-eae2)
@@ -2453,7 +2453,7 @@ UUID  : b02540ba4b454a639f8096f9474d068f
 	<img src="./lowres/00078_001.jpg" alt="Lomography Lomochrome Purple 35mm film box inside" loading="lazy" width="500" />
 </a>
 
-#### [35mm] Polaroid PolaBlue (ref: df66)
+#### [35mm] Polaroid PolaBlue 35mm (ref: df66)
 
 ```
 Format: 35mm         |  Process: Instant  
@@ -2463,10 +2463,10 @@ UUID  : 8236180d686f4e9ca4aa8e6fc397df66
 ```
 
 <a href="./archive/00019_000.jpg">
-	<img src="./lowres/00019_000.jpg" alt="Polaroid PolaBlue 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00019_000.jpg" alt="Polaroid PolaBlue 35mm 35mm film box outside" loading="lazy" height="500" />
 </a>
 
-#### [35mm] Polaroid PolaChrome (ref: 3b60)
+#### [35mm] Polaroid PolaChrome 35mm (ref: 3b60)
 
 ```
 Format: 35mm         |  Process: Instant  
@@ -2476,7 +2476,7 @@ UUID  : b0041b1e44a64f6591d49e918e033b60
 ```
 
 <a href="./archive/00029_000.jpg">
-	<img src="./lowres/00029_000.jpg" alt="Polaroid PolaChrome 35mm film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00029_000.jpg" alt="Polaroid PolaChrome 35mm 35mm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [35mm] Polaroid PolaPan 35mm (ref: 9825)
