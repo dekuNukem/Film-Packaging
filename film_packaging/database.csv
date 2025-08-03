@@ -262,3 +262,15 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 157,1,film_box_outside,Polaroid,Color 600 Film Round Frame,Integral Film,640,Instant,202412,1754120159,cd206563bad1a85f47282de26471aede,b9ec4052b0d548ef90f77d7fc99d0ccb,00157_001.jpg,toader
 157,2,film_box_inside,Polaroid,Color 600 Film Round Frame,Integral Film,640,Instant,202412,1754120162,a9c22b3816082f27021c2cbfa5d43ac8,95b81cc72d3646d6966a2341510333aa,00157_002.jpg,toader
 157,3,film_box_inside,Polaroid,Color 600 Film Round Frame,Integral Film,640,Instant,202412,1754120165,b4a779e913298da563415977be144fff,038f964e849d4fd1a0c6f1aeb6dd4b0e,00157_003.jpg,toader
+158,0,film_box_outside,Polaroid,87,Pack Film,3000,Instant,200607,1754246674,2a1cacca4d52591a209443df17ef1082,5a63521777ca4f788d01aac5f94862ef,00158_000.jpg,dekuNukem
+158,1,film_box_inside,Polaroid,87,Pack Film,3000,Instant,200607,1754246676,a55d1dfe3e9fa40d00023dbf1eb19336,55178f72127944e898f8804ac2663c79,00158_001.jpg,dekuNukem
+159,0,film_box_outside,Polaroid,PolaPan 35mm,35mm,125,Instant,198804,1754246725,a3882561c3d017185121a9af85dc46c5,24a8ae46c50049afb35fc44e956a9825,00159_000.jpg,dekuNukem
+159,1,film_box_leaflet,Polaroid,PolaPan 35mm,35mm,125,Instant,198804,1754246729,436d69e5a74cf96f2d586aca15010d09,a650b451e12b4e1fabb05b4f1f23fb29,00159_001.jpg,dekuNukem
+159,2,film_box_leaflet,Polaroid,PolaPan 35mm,35mm,125,Instant,198804,1754246734,32042712b543a5a509c034fe5d17843f,30abcb19f7ce46d39021fb057efb95f6,00159_002.jpg,dekuNukem
+159,3,film_box_leaflet,Polaroid,PolaPan 35mm,35mm,125,Instant,198804,1754246736,2b32d3bd7e848353d7fa5385b8181a55,61e5cb43037441ca9a06dd2a4883833c,00159_003.jpg,dekuNukem
+159,4,film_box_leaflet,Polaroid,PolaPan 35mm,35mm,125,Instant,198804,1754246739,9637b9481082ba050dce3f207ea5082d,d4369d4ac7bc432cb5bf9acdb0d835d7,00159_004.jpg,dekuNukem
+160,0,film_box_outside,Kodak,Ektachrome E100VS,120,100,E-6,201004,1754246786,25f3caecc18b1f4d7b343e10813cb265,e8673d04cee440bd9c065a37a485a8d3,00160_000.jpg,dekuNukem
+161,0,film_box_outside,Polaroid,Polacolor 679,Pack Film,100,Instant,199806,1754246997,5c747d08a6d8607ed325031cb5e13829,5844215c1fc74612b6118648b845625c,00161_000.jpg,dekuNukem
+161,1,film_box_outside,Polaroid,Polacolor 679,Pack Film,100,Instant,199806,1754247000,13e923bedc057ac6d69cb9de6d66ff6e,cca2cc887edb44adb3b00fc9b6cb0dfd,00161_001.jpg,dekuNukem
+161,2,film_box_inside,Polaroid,Polacolor 679,Pack Film,100,Instant,199806,1754247004,3f3eb9a7a39dfc57e5fef2c8efe7c46c,35d7f44a3b59463fabb387917d8f4808,00161_002.jpg,dekuNukem
+161,3,film_box_inside,Polaroid,Polacolor 679,Pack Film,100,Instant,199806,1754247009,2c98a302b4608e4356737f3eab61b680,cc5370f8b582460ebd5a9e27380bd3d2,00161_003.jpg,dekuNukem

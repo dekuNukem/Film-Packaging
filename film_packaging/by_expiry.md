@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 02 2025
+Last Updated: Aug 03 2025
 
-# of items: 263
+# of items: 275
 ```
 
 -----
@@ -45,6 +45,7 @@ Last Updated: Aug 02 2025
 - [[1980] Kodak Ektachrome (ref: 8f62)](#1980-kodak-ektachrome-ref-8f62)
 - [[1983] Kodak Kodachrome (ref: 8833)](#1983-kodak-kodachrome-ref-8833)
 - [[1987] Kodak Kodacolor VR (ref: 035f)](#1987-kodak-kodacolor-vr-ref-035f)
+- [[1988] Polaroid PolaPan 35mm (ref: 9825)](#1988-polaroid-polapan-35mm-ref-9825)
 - [[1988] Kodak Technical Pan 6415 (ref: 03be)](#1988-kodak-technical-pan-6415-ref-03be)
 - [[1988] Kodak Gold (ref: f368)](#1988-kodak-gold-ref-f368)
 - [[1990] Fujifilm Fujicolor Super HR (ref: aaa0)](#1990-fujifilm-fujicolor-super-hr-ref-aaa0)
@@ -65,6 +66,7 @@ Last Updated: Aug 02 2025
 - [[1996] Polaroid 665 (ref: e054)](#1996-polaroid-665-ref-e054)
 - [[1998] Fujifilm Sensia (ref: a59b)](#1998-fujifilm-sensia-ref-a59b)
 - [[1998] Klick XD200 (ref: 44d7)](#1998-klick-xd200-ref-44d7)
+- [[1998] Polaroid Polacolor 679 (ref: 625c)](#1998-polaroid-polacolor-679-ref-625c)
 - [[1998] Fujifilm Fujicolor NPL 160 (ref: d10b)](#1998-fujifilm-fujicolor-npl-160-ref-d10b)
 - [[1999] Kodak Gold (ref: 2f8d)](#1999-kodak-gold-ref-2f8d)
 - [[2000] Konica Infrared 750nm (ref: 2d93)](#2000-konica-infrared-750nm-ref-2d93)
@@ -87,6 +89,7 @@ Last Updated: Aug 02 2025
 - [[2006] Polaroid 669 (ref: 3566)](#2006-polaroid-669-ref-3566)
 - [[2006] Fujifilm Velvia 100F (ref: f7fb)](#2006-fujifilm-velvia-100f-ref-f7fb)
 - [[2006] Rossmann Jahreszeiten Pack (ref: 7670)](#2006-rossmann-jahreszeiten-pack-ref-7670)
+- [[2006] Polaroid 87 (ref: 62ef)](#2006-polaroid-87-ref-62ef)
 - [[2006] Kodak Advantix Ultra (ref: 566b)](#2006-kodak-advantix-ultra-ref-566b)
 - [[2006] Jessops Diamond Everyday (ref: 67d3)](#2006-jessops-diamond-everyday-ref-67d3)
 - [[2006] Klick APS Film (ref: 4b88)](#2006-klick-aps-film-ref-4b88)
@@ -98,6 +101,7 @@ Last Updated: Aug 02 2025
 - [[2008] Agfa APX (ref: 12c7)](#2008-agfa-apx-ref-12c7)
 - [[2008] Kodak High Speed Infrared (ref: 883e)](#2008-kodak-high-speed-infrared-ref-883e)
 - [[2009] Lloyds Pharmacy Colour Film (ref: 77d9)](#2009-lloyds-pharmacy-colour-film-ref-77d9)
+- [[2010] Kodak Ektachrome E100VS (ref: a8d3)](#2010-kodak-ektachrome-e100vs-ref-a8d3)
 - [[2010] Fujifilm Fujicolor 100 (ref: 013b)](#2010-fujifilm-fujicolor-100-ref-013b)
 - [[2012] Fujifilm Fujicolor Professional (ref: 28da)](#2012-fujifilm-fujicolor-professional-ref-28da)
 - [[2012] Kodak Kodacolor VR Plus (ref: f8bf)](#2012-kodak-kodacolor-vr-plus-ref-f8bf)
@@ -648,6 +652,47 @@ UUID  : a26daa2cb6e44957af3d978bc67e035f
 	<img src="./lowres/00097_001.jpg" alt="Kodak Kodacolor VR 35mm film box inside" loading="lazy" height="500" />
 </a>
 
+#### [1988] Polaroid PolaPan 35mm (ref: 9825)
+
+```
+Format: 35mm         |  Process: Instant  
+ISO   : 125          |  Expiry : 1988-04  
+Added : 2025-08-03   |  Author : dekuNukem
+UUID  : 24a8ae46c50049afb35fc44e956a9825
+```
+
+<a href="./archive/00159_000.jpg">
+	<img src="./lowres/00159_000.jpg" alt="Polaroid PolaPan 35mm 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: a650b451e12b4e1fabb05b4f1f23fb29`↓
+
+<a href="./archive/00159_001.jpg">
+	<img src="./lowres/00159_001.jpg" alt="Polaroid PolaPan 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 30abcb19f7ce46d39021fb057efb95f6`↓
+
+<a href="./archive/00159_002.jpg">
+	<img src="./lowres/00159_002.jpg" alt="Polaroid PolaPan 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 61e5cb43037441ca9a06dd2a4883833c`↓
+
+<a href="./archive/00159_003.jpg">
+	<img src="./lowres/00159_003.jpg" alt="Polaroid PolaPan 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+
+`UUID: d4369d4ac7bc432cb5bf9acdb0d835d7`↓
+
+<a href="./archive/00159_004.jpg">
+	<img src="./lowres/00159_004.jpg" alt="Polaroid PolaPan 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
 #### [1988] Kodak Technical Pan 6415 (ref: 03be)
 
 ```
@@ -1032,6 +1077,40 @@ UUID  : 2276628aa2794442ae81221329fc44d7
 
 <a href="./archive/00062_000.jpg">
 	<img src="./lowres/00062_000.jpg" alt="Klick XD200 110 film box outside" loading="lazy" width="500" />
+</a>
+
+#### [1998] Polaroid Polacolor 679 (ref: 625c)
+
+```
+Format: Pack Film    |  Process: Instant  
+ISO   : 100          |  Expiry : 1998-06  
+Added : 2025-08-03   |  Author : dekuNukem
+UUID  : 5844215c1fc74612b6118648b845625c
+```
+
+<a href="./archive/00161_000.jpg">
+	<img src="./lowres/00161_000.jpg" alt="Polaroid Polacolor 679 Pack Film film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: cca2cc887edb44adb3b00fc9b6cb0dfd`↓
+
+<a href="./archive/00161_001.jpg">
+	<img src="./lowres/00161_001.jpg" alt="Polaroid Polacolor 679 Pack Film film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 35d7f44a3b59463fabb387917d8f4808`↓
+
+<a href="./archive/00161_002.jpg">
+	<img src="./lowres/00161_002.jpg" alt="Polaroid Polacolor 679 Pack Film film box inside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: cc5370f8b582460ebd5a9e27380bd3d2`↓
+
+<a href="./archive/00161_003.jpg">
+	<img src="./lowres/00161_003.jpg" alt="Polaroid Polacolor 679 Pack Film film box inside" loading="lazy" height="500" />
 </a>
 
 #### [1998] Fujifilm Fujicolor NPL 160 (ref: d10b)
@@ -1453,6 +1532,26 @@ UUID  : b09413c4c1f44fceaa31ea8e50bf7670
 	<img src="./lowres/00072_000.jpg" alt="Rossmann Jahreszeiten Pack 35mm film box outside" loading="lazy" height="500" />
 </a>
 
+#### [2006] Polaroid 87 (ref: 62ef)
+
+```
+Format: Pack Film    |  Process: Instant  
+ISO   : 3000         |  Expiry : 2006-07  
+Added : 2025-08-03   |  Author : dekuNukem
+UUID  : 5a63521777ca4f788d01aac5f94862ef
+```
+
+<a href="./archive/00158_000.jpg">
+	<img src="./lowres/00158_000.jpg" alt="Polaroid 87 Pack Film film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 55178f72127944e898f8804ac2663c79`↓
+
+<a href="./archive/00158_001.jpg">
+	<img src="./lowres/00158_001.jpg" alt="Polaroid 87 Pack Film film box inside" loading="lazy" height="500" />
+</a>
+
 #### [2006] Kodak Advantix Ultra (ref: 566b)
 
 ```
@@ -1636,6 +1735,19 @@ UUID  : c58dda071d1741fda90e20b4252277d9
 
 <a href="./archive/00013_000.jpg">
 	<img src="./lowres/00013_000.jpg" alt="Lloyds Pharmacy Colour Film 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+#### [2010] Kodak Ektachrome E100VS (ref: a8d3)
+
+```
+Format: 120          |  Process: E-6      
+ISO   : 100          |  Expiry : 2010-04  
+Added : 2025-08-03   |  Author : dekuNukem
+UUID  : e8673d04cee440bd9c065a37a485a8d3
+```
+
+<a href="./archive/00160_000.jpg">
+	<img src="./lowres/00160_000.jpg" alt="Kodak Ektachrome E100VS 120 film box outside" loading="lazy" height="500" />
 </a>
 
 #### [2010] Fujifilm Fujicolor 100 (ref: 013b)
@@ -2961,7 +3073,7 @@ UUID  : b220e7d5dbee49898fbd1d42ee67c90d
 ```
 Rank  Username                 Contributions
 ---------------------------------------------
-1     dekuNukem                89    
+1     dekuNukem                101   
 2     Pelicram                 39    
 3     Nano_Burger              18    
 4     @ob.skura                16    

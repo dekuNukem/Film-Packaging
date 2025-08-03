@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 02 2025
+Last Updated: Aug 03 2025
 
-# of items: 263
+# of items: 275
 ```
 
 -----
@@ -99,6 +99,7 @@ Last Updated: Aug 02 2025
 - [Kodak Ektachrome (ref: b21e)](#kodak-ektachrome-ref-b21e)
 - [Kodak Ektachrome 100 Plus (ref: 5d9f)](#kodak-ektachrome-100-plus-ref-5d9f)
 - [Kodak Ektachrome E100 (ref: ae10)](#kodak-ektachrome-e100-ref-ae10)
+- [Kodak Ektachrome E100VS (ref: a8d3)](#kodak-ektachrome-e100vs-ref-a8d3)
 - [Kodak Ektachrome Elite (ref: 26ef)](#kodak-ektachrome-elite-ref-26ef)
 - [Kodak Ektachrome-X (ref: ae7e)](#kodak-ektachrome-x-ref-ae7e)
 - [Kodak Ektachrome-X (ref: aec5)](#kodak-ektachrome-x-ref-aec5)
@@ -155,11 +156,14 @@ Last Updated: Aug 02 2025
 - [Perutz Superomnia (ref: c90d)](#perutz-superomnia-ref-c90d)
 - [Polaroid 665 (ref: e054)](#polaroid-665-ref-e054)
 - [Polaroid 669 (ref: 3566)](#polaroid-669-ref-3566)
+- [Polaroid 87 (ref: 62ef)](#polaroid-87-ref-62ef)
 - [Polaroid Color 600 Film Round Frame (ref: d985)](#polaroid-color-600-film-round-frame-ref-d985)
 - [Polaroid Color SX-70 Film (ref: dc7f)](#polaroid-color-sx-70-film-ref-dc7f)
 - [Polaroid GridFilm (ref: 8deb)](#polaroid-gridfilm-ref-8deb)
 - [Polaroid PolaBlue (ref: df66)](#polaroid-polablue-ref-df66)
 - [Polaroid PolaChrome (ref: 3b60)](#polaroid-polachrome-ref-3b60)
+- [Polaroid PolaPan 35mm (ref: 9825)](#polaroid-polapan-35mm-ref-9825)
+- [Polaroid Polacolor 679 (ref: 625c)](#polaroid-polacolor-679-ref-625c)
 - [Porst Color N21 (ref: 494a)](#porst-color-n21-ref-494a)
 - [Rollei Infrared (ref: eae2)](#rollei-infrared-ref-eae2)
 - [Rollei Infrared (ref: 4f54)](#rollei-infrared-ref-4f54)
@@ -1609,6 +1613,19 @@ UUID  : 829cd9dd98cd489f8bff71e403c1ae10
 	<img src="./lowres/00155_000.jpg" alt="Kodak Ektachrome E100 35mm film box outside" loading="lazy" height="500" />
 </a>
 
+#### Kodak Ektachrome E100VS (ref: a8d3)
+
+```
+Format: 120          |  Process: E-6      
+ISO   : 100          |  Expiry : 2010-04  
+Added : 2025-08-03   |  Author : dekuNukem
+UUID  : e8673d04cee440bd9c065a37a485a8d3
+```
+
+<a href="./archive/00160_000.jpg">
+	<img src="./lowres/00160_000.jpg" alt="Kodak Ektachrome E100VS 120 film box outside" loading="lazy" height="500" />
+</a>
+
 #### Kodak Ektachrome Elite (ref: 26ef)
 
 ```
@@ -2568,6 +2585,26 @@ UUID  : bb62de3a22c04f699c780aeae7c83566
 	<img src="./lowres/00020_000.jpg" alt="Polaroid 669 Pack Film film box outside" loading="lazy" width="500" />
 </a>
 
+#### Polaroid 87 (ref: 62ef)
+
+```
+Format: Pack Film    |  Process: Instant  
+ISO   : 3000         |  Expiry : 2006-07  
+Added : 2025-08-03   |  Author : dekuNukem
+UUID  : 5a63521777ca4f788d01aac5f94862ef
+```
+
+<a href="./archive/00158_000.jpg">
+	<img src="./lowres/00158_000.jpg" alt="Polaroid 87 Pack Film film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 55178f72127944e898f8804ac2663c79`↓
+
+<a href="./archive/00158_001.jpg">
+	<img src="./lowres/00158_001.jpg" alt="Polaroid 87 Pack Film film box inside" loading="lazy" height="500" />
+</a>
+
 #### Polaroid Color 600 Film Round Frame (ref: d985)
 
 ```
@@ -2694,6 +2731,81 @@ UUID  : b0041b1e44a64f6591d49e918e033b60
 
 <a href="./archive/00029_000.jpg">
 	<img src="./lowres/00029_000.jpg" alt="Polaroid PolaChrome 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+#### Polaroid PolaPan 35mm (ref: 9825)
+
+```
+Format: 35mm         |  Process: Instant  
+ISO   : 125          |  Expiry : 1988-04  
+Added : 2025-08-03   |  Author : dekuNukem
+UUID  : 24a8ae46c50049afb35fc44e956a9825
+```
+
+<a href="./archive/00159_000.jpg">
+	<img src="./lowres/00159_000.jpg" alt="Polaroid PolaPan 35mm 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: a650b451e12b4e1fabb05b4f1f23fb29`↓
+
+<a href="./archive/00159_001.jpg">
+	<img src="./lowres/00159_001.jpg" alt="Polaroid PolaPan 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 30abcb19f7ce46d39021fb057efb95f6`↓
+
+<a href="./archive/00159_002.jpg">
+	<img src="./lowres/00159_002.jpg" alt="Polaroid PolaPan 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 61e5cb43037441ca9a06dd2a4883833c`↓
+
+<a href="./archive/00159_003.jpg">
+	<img src="./lowres/00159_003.jpg" alt="Polaroid PolaPan 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+
+`UUID: d4369d4ac7bc432cb5bf9acdb0d835d7`↓
+
+<a href="./archive/00159_004.jpg">
+	<img src="./lowres/00159_004.jpg" alt="Polaroid PolaPan 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+#### Polaroid Polacolor 679 (ref: 625c)
+
+```
+Format: Pack Film    |  Process: Instant  
+ISO   : 100          |  Expiry : 1998-06  
+Added : 2025-08-03   |  Author : dekuNukem
+UUID  : 5844215c1fc74612b6118648b845625c
+```
+
+<a href="./archive/00161_000.jpg">
+	<img src="./lowres/00161_000.jpg" alt="Polaroid Polacolor 679 Pack Film film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: cca2cc887edb44adb3b00fc9b6cb0dfd`↓
+
+<a href="./archive/00161_001.jpg">
+	<img src="./lowres/00161_001.jpg" alt="Polaroid Polacolor 679 Pack Film film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 35d7f44a3b59463fabb387917d8f4808`↓
+
+<a href="./archive/00161_002.jpg">
+	<img src="./lowres/00161_002.jpg" alt="Polaroid Polacolor 679 Pack Film film box inside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: cc5370f8b582460ebd5a9e27380bd3d2`↓
+
+<a href="./archive/00161_003.jpg">
+	<img src="./lowres/00161_003.jpg" alt="Polaroid Polacolor 679 Pack Film film box inside" loading="lazy" height="500" />
 </a>
 
 #### Porst Color N21 (ref: 494a)
@@ -2961,7 +3073,7 @@ UUID  : 46037fb6c55244b6ae47c55d0e454bf8
 ```
 Rank  Username                 Contributions
 ---------------------------------------------
-1     dekuNukem                89    
+1     dekuNukem                101   
 2     Pelicram                 39    
 3     Nano_Burger              18    
 4     @ob.skura                16    

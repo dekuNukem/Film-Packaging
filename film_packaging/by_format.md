@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 02 2025
+Last Updated: Aug 03 2025
 
-# of items: 263
+# of items: 275
 ```
 
 -----
@@ -51,6 +51,7 @@ Last Updated: Aug 02 2025
 - [[120] Ilford HP5 Plus (ref: efad)](#120-ilford-hp5-plus-ref-efad)
 - [[120] Ilford HP5 Plus (ref: 1a5d)](#120-ilford-hp5-plus-ref-1a5d)
 - [[120] Ilford SFX 200 (ref: 6057)](#120-ilford-sfx-200-ref-6057)
+- [[120] Kodak Ektachrome E100VS (ref: a8d3)](#120-kodak-ektachrome-e100vs-ref-a8d3)
 - [[120] Kodak High Speed Ektachrome (ref: ce7f)](#120-kodak-high-speed-ektachrome-ref-ce7f)
 - [[120] Kodak Kodacolor-X (ref: a4b1)](#120-kodak-kodacolor-x-ref-a4b1)
 - [[120] Kodak TMAX (ref: b3b1)](#120-kodak-tmax-ref-b3b1)
@@ -149,6 +150,7 @@ Last Updated: Aug 02 2025
 - [[35mm] Lomography Lomochrome Purple (ref: 068f)](#35mm-lomography-lomochrome-purple-ref-068f)
 - [[35mm] Polaroid PolaBlue (ref: df66)](#35mm-polaroid-polablue-ref-df66)
 - [[35mm] Polaroid PolaChrome (ref: 3b60)](#35mm-polaroid-polachrome-ref-3b60)
+- [[35mm] Polaroid PolaPan 35mm (ref: 9825)](#35mm-polaroid-polapan-35mm-ref-9825)
 - [[35mm] Porst Color N21 (ref: 494a)](#35mm-porst-color-n21-ref-494a)
 - [[35mm] Rollei Infrared (ref: eae2)](#35mm-rollei-infrared-ref-eae2)
 - [[35mm] Rollei RPX 400 (ref: 2155)](#35mm-rollei-rpx-400-ref-2155)
@@ -176,6 +178,8 @@ Last Updated: Aug 02 2025
 - [[Integral Film] Polaroid GridFilm (ref: 8deb)](#integral-film-polaroid-gridfilm-ref-8deb)
 - [[Pack Film] Polaroid 665 (ref: e054)](#pack-film-polaroid-665-ref-e054)
 - [[Pack Film] Polaroid 669 (ref: 3566)](#pack-film-polaroid-669-ref-3566)
+- [[Pack Film] Polaroid 87 (ref: 62ef)](#pack-film-polaroid-87-ref-62ef)
+- [[Pack Film] Polaroid Polacolor 679 (ref: 625c)](#pack-film-polaroid-polacolor-679-ref-625c)
 - [[Super 8] Kodak Ektachrome (ref: 8f62)](#super-8-kodak-ektachrome-ref-8f62)
 
 
@@ -717,6 +721,19 @@ UUID  : 7856b5442362453caa67628c93be6057
 
 <a href="./archive/00009_001.jpg">
 	<img src="./lowres/00009_001.jpg" alt="Ilford SFX 200 120 film box inside" loading="lazy" width="500" />
+</a>
+
+#### [120] Kodak Ektachrome E100VS (ref: a8d3)
+
+```
+Format: 120          |  Process: E-6      
+ISO   : 100          |  Expiry : 2010-04  
+Added : 2025-08-03   |  Author : dekuNukem
+UUID  : e8673d04cee440bd9c065a37a485a8d3
+```
+
+<a href="./archive/00160_000.jpg">
+	<img src="./lowres/00160_000.jpg" alt="Kodak Ektachrome E100VS 120 film box outside" loading="lazy" height="500" />
 </a>
 
 #### [120] Kodak High Speed Ektachrome (ref: ce7f)
@@ -2462,6 +2479,47 @@ UUID  : b0041b1e44a64f6591d49e918e033b60
 	<img src="./lowres/00029_000.jpg" alt="Polaroid PolaChrome 35mm film box outside" loading="lazy" width="500" />
 </a>
 
+#### [35mm] Polaroid PolaPan 35mm (ref: 9825)
+
+```
+Format: 35mm         |  Process: Instant  
+ISO   : 125          |  Expiry : 1988-04  
+Added : 2025-08-03   |  Author : dekuNukem
+UUID  : 24a8ae46c50049afb35fc44e956a9825
+```
+
+<a href="./archive/00159_000.jpg">
+	<img src="./lowres/00159_000.jpg" alt="Polaroid PolaPan 35mm 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: a650b451e12b4e1fabb05b4f1f23fb29`↓
+
+<a href="./archive/00159_001.jpg">
+	<img src="./lowres/00159_001.jpg" alt="Polaroid PolaPan 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 30abcb19f7ce46d39021fb057efb95f6`↓
+
+<a href="./archive/00159_002.jpg">
+	<img src="./lowres/00159_002.jpg" alt="Polaroid PolaPan 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 61e5cb43037441ca9a06dd2a4883833c`↓
+
+<a href="./archive/00159_003.jpg">
+	<img src="./lowres/00159_003.jpg" alt="Polaroid PolaPan 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+
+`UUID: d4369d4ac7bc432cb5bf9acdb0d835d7`↓
+
+<a href="./archive/00159_004.jpg">
+	<img src="./lowres/00159_004.jpg" alt="Polaroid PolaPan 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
 #### [35mm] Porst Color N21 (ref: 494a)
 
 ```
@@ -2911,6 +2969,60 @@ UUID  : bb62de3a22c04f699c780aeae7c83566
 	<img src="./lowres/00020_000.jpg" alt="Polaroid 669 Pack Film film box outside" loading="lazy" width="500" />
 </a>
 
+#### [Pack Film] Polaroid 87 (ref: 62ef)
+
+```
+Format: Pack Film    |  Process: Instant  
+ISO   : 3000         |  Expiry : 2006-07  
+Added : 2025-08-03   |  Author : dekuNukem
+UUID  : 5a63521777ca4f788d01aac5f94862ef
+```
+
+<a href="./archive/00158_000.jpg">
+	<img src="./lowres/00158_000.jpg" alt="Polaroid 87 Pack Film film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 55178f72127944e898f8804ac2663c79`↓
+
+<a href="./archive/00158_001.jpg">
+	<img src="./lowres/00158_001.jpg" alt="Polaroid 87 Pack Film film box inside" loading="lazy" height="500" />
+</a>
+
+#### [Pack Film] Polaroid Polacolor 679 (ref: 625c)
+
+```
+Format: Pack Film    |  Process: Instant  
+ISO   : 100          |  Expiry : 1998-06  
+Added : 2025-08-03   |  Author : dekuNukem
+UUID  : 5844215c1fc74612b6118648b845625c
+```
+
+<a href="./archive/00161_000.jpg">
+	<img src="./lowres/00161_000.jpg" alt="Polaroid Polacolor 679 Pack Film film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: cca2cc887edb44adb3b00fc9b6cb0dfd`↓
+
+<a href="./archive/00161_001.jpg">
+	<img src="./lowres/00161_001.jpg" alt="Polaroid Polacolor 679 Pack Film film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 35d7f44a3b59463fabb387917d8f4808`↓
+
+<a href="./archive/00161_002.jpg">
+	<img src="./lowres/00161_002.jpg" alt="Polaroid Polacolor 679 Pack Film film box inside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: cc5370f8b582460ebd5a9e27380bd3d2`↓
+
+<a href="./archive/00161_003.jpg">
+	<img src="./lowres/00161_003.jpg" alt="Polaroid Polacolor 679 Pack Film film box inside" loading="lazy" height="500" />
+</a>
+
 #### [Super 8] Kodak Ektachrome (ref: 8f62)
 
 ```
@@ -2961,7 +3073,7 @@ UUID  : 6032680a3aba41b39c600d7e23998f62
 ```
 Rank  Username                 Contributions
 ---------------------------------------------
-1     dekuNukem                89    
+1     dekuNukem                101   
 2     Pelicram                 39    
 3     Nano_Burger              18    
 4     @ob.skura                16    
