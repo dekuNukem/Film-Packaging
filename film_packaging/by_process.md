@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Aug 04 2025
 
-# of items: 281
+# of items: 285
 ```
 
 -----
@@ -2883,6 +2883,34 @@ UUID  : b0041b1e44a64f6591d49e918e033b60
 	<img src="./lowres/00029_000.jpg" alt="Polaroid PolaChrome 35mm 35mm film box outside" loading="lazy" width="500" />
 </a>
 
+
+`UUID: 1d0b621cf6f44481b941423f04103243`↓
+
+<a href="./archive/00029_001.jpg">
+	<img src="./lowres/00029_001.jpg" alt="Polaroid PolaChrome 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+
+`UUID: ca6b169f6ec949a4a77874ccee054951`↓
+
+<a href="./archive/00029_002.jpg">
+	<img src="./lowres/00029_002.jpg" alt="Polaroid PolaChrome 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 705197bbfdc24b92a581a8070d4ee0d2`↓
+
+<a href="./archive/00029_003.jpg">
+	<img src="./lowres/00029_003.jpg" alt="Polaroid PolaChrome 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 67abf5aa56574fafab78e2ade2112475`↓
+
+<a href="./archive/00029_004.jpg">
+	<img src="./lowres/00029_004.jpg" alt="Polaroid PolaChrome 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
 #### [Instant] Polaroid PolaPan 35mm (ref: 9825)
 
 ```
@@ -3115,7 +3143,7 @@ UUID  : 6032680a3aba41b39c600d7e23998f62
 ```
 Rank  Username                 Contributions
 ---------------------------------------------
-1     dekuNukem                107   
+1     dekuNukem                111   
 2     Pelicram                 39    
 3     Nano_Burger              18    
 4     @ob.skura                16    

@@ -30,7 +30,7 @@ This project is fully open-source. [Click me for GitHub repo.](https://github.co
 
 ```
 Last Updated: Aug 04 2025
-# of items: 281
+# of items: 285
 ```
 
 Or Sort by...
@@ -52,7 +52,7 @@ The collection is by no means complete or exhaustive, but it's a start!
 ```
 Rank  Username                 Contributions
 ---------------------------------------------
-1     dekuNukem                107   
+1     dekuNukem                111   
 2     Pelicram                 39    
 3     Nano_Burger              18    
 4     @ob.skura                16    
