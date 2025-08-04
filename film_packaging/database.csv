@@ -31,7 +31,13 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 16,1,film_box_inside,Ilford,HP5 Plus,120,400,BW,202511,1736012719,72114f54b27f19218eb3633195e26cb9,1d938d2d844d498caf9fe2bc83618dda,00016_001.jpg,dekuNukem
 17,0,film_box_outside,Kodak,High Speed Ektachrome,120,160,E-2,196301,1736012891,2290616ea75d47f89f83ffae0b7f3312,ec7cf78858fc48c59e5a0875ec74ce7f,00017_000.jpg,dekuNukem
 18,0,film_box_outside,Polaroid,665,Pack Film,80,Instant,199608,1736023755,1bcecb1b015e966a2c56b57937610221,311d896d68b74b1193afcfa129c5e054,00018_000.jpg,dekuNukem
-19,0,film_box_outside,Polaroid,PolaBlue 35mm,35mm,12,Instant,199208,1736023839,859db4fa936272430f29a27d3d3cb689,8236180d686f4e9ca4aa8e6fc397df66,00019_000.jpg,dekuNukem
+19,0,film_box_outside,Polaroid,PolaBlue 35mm,35mm,8,Instant,199208,1736023839,859db4fa936272430f29a27d3d3cb689,8236180d686f4e9ca4aa8e6fc397df66,00019_000.jpg,dekuNukem
+19,1,film_box_leaflet,Polaroid,PolaBlue 35mm,35mm,8,Instant,199208,1754271877,68885cc5c89b33c14b10aef5bdb1143d,6f0d7187f2aa4396ab9879964db7a22a,00019_001.jpg,dekuNukem
+19,2,film_box_leaflet,Polaroid,PolaBlue 35mm,35mm,8,Instant,199208,1754271880,dc0ea81b45be3eab4e7145c5464daf9e,69c6bc7256f542acadde9fa0441c8c8f,00019_002.jpg,dekuNukem
+19,3,film_box_leaflet,Polaroid,PolaBlue 35mm,35mm,8,Instant,199208,1754271886,ac6707774fd3f9b9efb7bc7859c70234,6a168a96e48f45c5b2e4e730e1644fb4,00019_003.jpg,dekuNukem
+19,4,film_box_leaflet,Polaroid,PolaBlue 35mm,35mm,8,Instant,199208,1754271887,93e65f5cd6b19124a608cf55528ccda5,21253e4311ae4a25b46ba931aa78f266,00019_004.jpg,dekuNukem
+19,5,film_box_leaflet,Polaroid,PolaBlue 35mm,35mm,8,Instant,199208,1754271889,d7a57dc00df9d0350cabb26309c04538,de72b5b522a749fbb6aa280253eea1bd,00019_005.jpg,dekuNukem
+19,6,film_box_leaflet,Polaroid,PolaBlue 35mm,35mm,8,Instant,199208,1754271891,b47f7ef97e14d914765547787ba526f0,e48473352ab04761b968bdcae19a1ab5,00019_006.jpg,dekuNukem
 20,0,film_box_outside,Polaroid,669,Pack Film,80,Instant,200603,1736023886,b0cd45b17c81925263d5d7993a2202a4,bb62de3a22c04f699c780aeae7c83566,00020_000.jpg,dekuNukem
 21,0,film_box_outside,Kodak,Gold,35mm,200,C-41,202611,1736023928,5f33dbc02c379946e4359cc9eb88a597,e8aefc10fa0d43cebbac73bdcf10933f,00021_000.jpg,dekuNukem
 22,0,film_box_outside,Fujifilm,Pro 400H,120,400,C-41,201809,1736023971,49a08247ec78404771de7e39ebb6c7a9,0d89ecf11f3c46deb52171aa909566e3,00022_000.jpg,dekuNukem

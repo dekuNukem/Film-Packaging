@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 03 2025
+Last Updated: Aug 04 2025
 
-# of items: 275
+# of items: 281
 ```
 
 -----
@@ -2819,13 +2819,55 @@ UUID  : 4f1aabf29f724c9ea3b2bee414b08deb
 
 ```
 Format: 35mm         |  Process: Instant  
-ISO   : 12           |  Expiry : 1992-08  
+ISO   : 8            |  Expiry : 1992-08  
 Added : 2025-01-04   |  Author : dekuNukem
 UUID  : 8236180d686f4e9ca4aa8e6fc397df66
 ```
 
 <a href="./archive/00019_000.jpg">
 	<img src="./lowres/00019_000.jpg" alt="Polaroid PolaBlue 35mm 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 6f0d7187f2aa4396ab9879964db7a22a`↓
+
+<a href="./archive/00019_001.jpg">
+	<img src="./lowres/00019_001.jpg" alt="Polaroid PolaBlue 35mm 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 69c6bc7256f542acadde9fa0441c8c8f`↓
+
+<a href="./archive/00019_002.jpg">
+	<img src="./lowres/00019_002.jpg" alt="Polaroid PolaBlue 35mm 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 6a168a96e48f45c5b2e4e730e1644fb4`↓
+
+<a href="./archive/00019_003.jpg">
+	<img src="./lowres/00019_003.jpg" alt="Polaroid PolaBlue 35mm 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 21253e4311ae4a25b46ba931aa78f266`↓
+
+<a href="./archive/00019_004.jpg">
+	<img src="./lowres/00019_004.jpg" alt="Polaroid PolaBlue 35mm 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: de72b5b522a749fbb6aa280253eea1bd`↓
+
+<a href="./archive/00019_005.jpg">
+	<img src="./lowres/00019_005.jpg" alt="Polaroid PolaBlue 35mm 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: e48473352ab04761b968bdcae19a1ab5`↓
+
+<a href="./archive/00019_006.jpg">
+	<img src="./lowres/00019_006.jpg" alt="Polaroid PolaBlue 35mm 35mm film box leaflet" loading="lazy" height="500" />
 </a>
 
 #### [Instant] Polaroid PolaChrome 35mm (ref: 3b60)
@@ -3073,7 +3115,7 @@ UUID  : 6032680a3aba41b39c600d7e23998f62
 ```
 Rank  Username                 Contributions
 ---------------------------------------------
-1     dekuNukem                101   
+1     dekuNukem                107   
 2     Pelicram                 39    
 3     Nano_Burger              18    
 4     @ob.skura                16    

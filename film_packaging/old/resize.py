@@ -8,6 +8,14 @@ SIZE_LIMIT_BYTES = 4 * 1024 * 1024  # 4MB in bytes
 # Get all .jpg and .jpeg files in the current directory
 image_files = [f for f in os.listdir('.') if f.lower().endswith(('.jpg', '.jpeg'))]
 
+if len(image_files) == 0:
+    exit()
+
+try:
+    jpeg_quality = int(input("Enter JPEG quality (default 90): "))
+except ValueError:
+    jpeg_quality = 90
+
 for file in image_files:
     try:
         
@@ -27,11 +35,11 @@ for file in image_files:
                 
                 # Resize and save the image
                 img_resized = img.resize(new_size, Image.LANCZOS)
-                img_resized.save(file, quality=90, optimize=True)
+                img_resized.save(file, quality=jpeg_quality, optimize=True)
                 print(f"Resized: {file} to {new_size}")
             else:
-                img.save(file, quality=90, optimize=True)
-                print(f"Re-saved at 90%: {file}")
+                img.save(file, quality=jpeg_quality, optimize=True)
+                print(f"Re-saved at {jpeg_quality}%: {file}")
 
     except Exception as e:
         print(f"Error processing {file}: {e}")
