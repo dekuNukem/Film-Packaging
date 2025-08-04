@@ -126,8 +126,8 @@ Last Updated: Aug 04 2025
 - [Kodak Kodacolor VR Plus (ref: f8bf)](#kodak-kodacolor-vr-plus-ref-f8bf)
 - [Kodak Kodacolor-X (ref: a4b1)](#kodak-kodacolor-x-ref-a4b1)
 - [Kodak Kodacolor-X (ref: 5302)](#kodak-kodacolor-x-ref-5302)
-- [Kodak Portra (ref: ce56)](#kodak-portra-ref-ce56)
-- [Kodak Portra (ref: 7d65)](#kodak-portra-ref-7d65)
+- [Kodak Portra 160 (ref: ce56)](#kodak-portra-160-ref-ce56)
+- [Kodak Portra 800 (ref: 7d65)](#kodak-portra-800-ref-7d65)
 - [Kodak Rapid Process Copy Film (ref: e66e)](#kodak-rapid-process-copy-film-ref-e66e)
 - [Kodak TMAX (ref: 1dff)](#kodak-tmax-ref-1dff)
 - [Kodak TMAX (ref: b3b1)](#kodak-tmax-ref-b3b1)
@@ -2118,7 +2118,7 @@ UUID  : 5a3d2ba8ff7649c9b3450d7069445302
 	<img src="./lowres/00024_000.jpg" alt="Kodak Kodacolor-X 126 film box outside" loading="lazy" width="500" />
 </a>
 
-#### Kodak Portra (ref: ce56)
+#### Kodak Portra 160 (ref: ce56)
 
 ```
 Format: 35mm         |  Process: C-41     
@@ -2128,10 +2128,10 @@ UUID  : 9131fb90db70475dbad5f63f1448ce56
 ```
 
 <a href="./archive/00089_000.jpg">
-	<img src="./lowres/00089_000.jpg" alt="Kodak Portra 35mm film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00089_000.jpg" alt="Kodak Portra 160 35mm film box outside" loading="lazy" width="500" />
 </a>
 
-#### Kodak Portra (ref: 7d65)
+#### Kodak Portra 800 (ref: 7d65)
 
 ```
 Format: 35mm         |  Process: C-41     
@@ -2141,14 +2141,14 @@ UUID  : 7ebac9d7fb8c4ff9b7fbabcaec1d7d65
 ```
 
 <a href="./archive/00088_000.jpg">
-	<img src="./lowres/00088_000.jpg" alt="Kodak Portra 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00088_000.jpg" alt="Kodak Portra 800 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### Kodak Rapid Process Copy Film (ref: e66e)
 
 ```
 Format: 35mm         |  Process: BW       
-ISO   : Unknown      |  Expiry : 2000-06  
+ISO   : 0.06         |  Expiry : 2000-06  
 Added : 2025-07-29   |  Author : Nano_Burger
 UUID  : 396a3645cb9a40a4b0a6dd2fd854e66e
 ```

@@ -44,8 +44,8 @@ Last Updated: Aug 04 2025
 - [[@recycling.film] Fujifilm Superia Reala (ref: a7de)](#recyclingfilm-fujifilm-superia-reala-ref-a7de)
 - [[@recycling.film] Ilford HP5 Plus (ref: c725)](#recyclingfilm-ilford-hp5-plus-ref-c725)
 - [[@recycling.film] Kodak ColorPlus (ref: 6637)](#recyclingfilm-kodak-colorplus-ref-6637)
-- [[@recycling.film] Kodak Portra (ref: ce56)](#recyclingfilm-kodak-portra-ref-ce56)
-- [[@recycling.film] Kodak Portra (ref: 7d65)](#recyclingfilm-kodak-portra-ref-7d65)
+- [[@recycling.film] Kodak Portra 160 (ref: ce56)](#recyclingfilm-kodak-portra-160-ref-ce56)
+- [[@recycling.film] Kodak Portra 800 (ref: 7d65)](#recyclingfilm-kodak-portra-800-ref-7d65)
 - [[@seklerek] Fujifilm Provia 100F (ref: 356d)](#seklerek-fujifilm-provia-100f-ref-356d)
 - [[@seklerek] Fujifilm Velvia 100F (ref: 32d4)](#seklerek-fujifilm-velvia-100f-ref-32d4)
 - [[Henry Gunn] Kodak High Speed Ektachrome (ref: b8f8)](#henry-gunn-kodak-high-speed-ektachrome-ref-b8f8)
@@ -555,7 +555,7 @@ UUID  : bd00cd25958d4108a7501bf4be9d6637
 	<img src="./lowres/00091_000.jpg" alt="Kodak ColorPlus 35mm film box outside" loading="lazy" height="500" />
 </a>
 
-#### [@recycling.film] Kodak Portra (ref: ce56)
+#### [@recycling.film] Kodak Portra 160 (ref: ce56)
 
 ```
 Format: 35mm         |  Process: C-41     
@@ -565,10 +565,10 @@ UUID  : 9131fb90db70475dbad5f63f1448ce56
 ```
 
 <a href="./archive/00089_000.jpg">
-	<img src="./lowres/00089_000.jpg" alt="Kodak Portra 35mm film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00089_000.jpg" alt="Kodak Portra 160 35mm film box outside" loading="lazy" width="500" />
 </a>
 
-#### [@recycling.film] Kodak Portra (ref: 7d65)
+#### [@recycling.film] Kodak Portra 800 (ref: 7d65)
 
 ```
 Format: 35mm         |  Process: C-41     
@@ -578,7 +578,7 @@ UUID  : 7ebac9d7fb8c4ff9b7fbabcaec1d7d65
 ```
 
 <a href="./archive/00088_000.jpg">
-	<img src="./lowres/00088_000.jpg" alt="Kodak Portra 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00088_000.jpg" alt="Kodak Portra 800 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [@seklerek] Fujifilm Provia 100F (ref: 356d)
@@ -757,7 +757,7 @@ UUID  : 77352e93d73748eca98cff7b30d7883e
 
 ```
 Format: 35mm         |  Process: BW       
-ISO   : Unknown      |  Expiry : 2000-06  
+ISO   : 0.06         |  Expiry : 2000-06  
 Added : 2025-07-29   |  Author : Nano_Burger
 UUID  : 396a3645cb9a40a4b0a6dd2fd854e66e
 ```

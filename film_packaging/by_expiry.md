@@ -107,7 +107,7 @@ Last Updated: Aug 04 2025
 - [[2012] Kodak Kodacolor VR Plus (ref: f8bf)](#2012-kodak-kodacolor-vr-plus-ref-f8bf)
 - [[2012] Ilford HP5 Plus (ref: 11a8)](#2012-ilford-hp5-plus-ref-11a8)
 - [[2013] Efke IR 820 (ref: 43c9)](#2013-efke-ir-820-ref-43c9)
-- [[2013] Kodak Portra (ref: ce56)](#2013-kodak-portra-ref-ce56)
+- [[2013] Kodak Portra 160 (ref: ce56)](#2013-kodak-portra-160-ref-ce56)
 - [[2013] Ilford SFX 200 (ref: 6057)](#2013-ilford-sfx-200-ref-6057)
 - [[2013] Efiniti UXi super 200 (ref: 471a)](#2013-efiniti-uxi-super-200-ref-471a)
 - [[2018] CineStill 800T (ref: c86a)](#2018-cinestill-800t-ref-c86a)
@@ -122,7 +122,7 @@ Last Updated: Aug 04 2025
 - [[2025] JCH Streetpan (ref: 6e58)](#2025-jch-streetpan-ref-6e58)
 - [[2025] Polaroid Color SX-70 Film (ref: dc7f)](#2025-polaroid-color-sx-70-film-ref-dc7f)
 - [[2025] Ilford Delta (ref: 920f)](#2025-ilford-delta-ref-920f)
-- [[2025] Kodak Portra (ref: 7d65)](#2025-kodak-portra-ref-7d65)
+- [[2025] Kodak Portra 800 (ref: 7d65)](#2025-kodak-portra-800-ref-7d65)
 - [[2025] Lomography Lomochrome Turquoise (ref: 0d90)](#2025-lomography-lomochrome-turquoise-ref-0d90)
 - [[2025] Kodak ColorPlus (ref: 79ca)](#2025-kodak-colorplus-ref-79ca)
 - [[2025] Lomography Babylon (ref: 7afa)](#2025-lomography-babylon-ref-7afa)
@@ -1212,7 +1212,7 @@ UUID  : 63b2857f2df549878446cc1963362d93
 
 ```
 Format: 35mm         |  Process: BW       
-ISO   : Unknown      |  Expiry : 2000-06  
+ISO   : 0.06         |  Expiry : 2000-06  
 Added : 2025-07-29   |  Author : Nano_Burger
 UUID  : 396a3645cb9a40a4b0a6dd2fd854e66e
 ```
@@ -1871,7 +1871,7 @@ UUID  : 716e410a3823476e9befa704361f43c9
 	<img src="./lowres/00038_001.jpg" alt="Efke IR 820 120 film box inside" loading="lazy" width="500" />
 </a>
 
-#### [2013] Kodak Portra (ref: ce56)
+#### [2013] Kodak Portra 160 (ref: ce56)
 
 ```
 Format: 35mm         |  Process: C-41     
@@ -1881,7 +1881,7 @@ UUID  : 9131fb90db70475dbad5f63f1448ce56
 ```
 
 <a href="./archive/00089_000.jpg">
-	<img src="./lowres/00089_000.jpg" alt="Kodak Portra 35mm film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00089_000.jpg" alt="Kodak Portra 160 35mm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [2013] Ilford SFX 200 (ref: 6057)
@@ -2143,7 +2143,7 @@ UUID  : 78d1111d1b234dcfb272c00d7935920f
 	<img src="./lowres/00125_001.jpg" alt="Ilford Delta 120 film box inside" loading="lazy" width="500" />
 </a>
 
-#### [2025] Kodak Portra (ref: 7d65)
+#### [2025] Kodak Portra 800 (ref: 7d65)
 
 ```
 Format: 35mm         |  Process: C-41     
@@ -2153,7 +2153,7 @@ UUID  : 7ebac9d7fb8c4ff9b7fbabcaec1d7d65
 ```
 
 <a href="./archive/00088_000.jpg">
-	<img src="./lowres/00088_000.jpg" alt="Kodak Portra 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00088_000.jpg" alt="Kodak Portra 800 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [2025] Lomography Lomochrome Turquoise (ref: 0d90)

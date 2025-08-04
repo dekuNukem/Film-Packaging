@@ -131,8 +131,8 @@ Last Updated: Aug 04 2025
 - [[35mm] Kodak Kodachrome (ref: 3206)](#35mm-kodak-kodachrome-ref-3206)
 - [[35mm] Kodak Kodacolor VR (ref: 035f)](#35mm-kodak-kodacolor-vr-ref-035f)
 - [[35mm] Kodak Kodacolor VR Plus (ref: f8bf)](#35mm-kodak-kodacolor-vr-plus-ref-f8bf)
-- [[35mm] Kodak Portra (ref: ce56)](#35mm-kodak-portra-ref-ce56)
-- [[35mm] Kodak Portra (ref: 7d65)](#35mm-kodak-portra-ref-7d65)
+- [[35mm] Kodak Portra 160 (ref: ce56)](#35mm-kodak-portra-160-ref-ce56)
+- [[35mm] Kodak Portra 800 (ref: 7d65)](#35mm-kodak-portra-800-ref-7d65)
 - [[35mm] Kodak Rapid Process Copy Film (ref: e66e)](#35mm-kodak-rapid-process-copy-film-ref-e66e)
 - [[35mm] Kodak TMAX (ref: 1dff)](#35mm-kodak-tmax-ref-1dff)
 - [[35mm] Kodak TMAX (ref: 521a)](#35mm-kodak-tmax-ref-521a)
@@ -2183,7 +2183,7 @@ UUID  : faf0a44eece541a9b701feb772f4f8bf
 	<img src="./lowres/00153_000.jpg" alt="Kodak Kodacolor VR Plus 35mm film box outside" loading="lazy" width="500" />
 </a>
 
-#### [35mm] Kodak Portra (ref: ce56)
+#### [35mm] Kodak Portra 160 (ref: ce56)
 
 ```
 Format: 35mm         |  Process: C-41     
@@ -2193,10 +2193,10 @@ UUID  : 9131fb90db70475dbad5f63f1448ce56
 ```
 
 <a href="./archive/00089_000.jpg">
-	<img src="./lowres/00089_000.jpg" alt="Kodak Portra 35mm film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00089_000.jpg" alt="Kodak Portra 160 35mm film box outside" loading="lazy" width="500" />
 </a>
 
-#### [35mm] Kodak Portra (ref: 7d65)
+#### [35mm] Kodak Portra 800 (ref: 7d65)
 
 ```
 Format: 35mm         |  Process: C-41     
@@ -2206,14 +2206,14 @@ UUID  : 7ebac9d7fb8c4ff9b7fbabcaec1d7d65
 ```
 
 <a href="./archive/00088_000.jpg">
-	<img src="./lowres/00088_000.jpg" alt="Kodak Portra 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00088_000.jpg" alt="Kodak Portra 800 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [35mm] Kodak Rapid Process Copy Film (ref: e66e)
 
 ```
 Format: 35mm         |  Process: BW       
-ISO   : Unknown      |  Expiry : 2000-06  
+ISO   : 0.06         |  Expiry : 2000-06  
 Added : 2025-07-29   |  Author : Nano_Burger
 UUID  : 396a3645cb9a40a4b0a6dd2fd854e66e
 ```

@@ -151,8 +151,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 85,1,film_box_inside,CineStill,800T,35mm,800,C-41,202609,1753147346,8f60346377c883e78f43fa3d50fdbb0c,fbd9b946fd4d46f8a45a46112dcd16ae,00085_001.jpg,@SirBrentsworth
 86,0,film_box_outside,Kodak,Gold,35mm,200,C-41,202704,1753147686,968a9e9686fc431f793eb296862fbbef,856af2ca15fd4a0bad0df6eb29a2855e,00086_000.jpg,@SirBrentsworth
 87,0,film_box_outside,Fujifilm,Superia Reala,35mm,100,C-41,200704,1753717134,b158259530002d50f2cd627759efab94,bab5fa204b25431a9872c4ce8e9aa7de,00087_000.jpg,@recycling.film
-88,0,film_box_outside,Kodak,Portra,35mm,800,C-41,202506,1753717168,da2ad339cc4f9bd279844809c2ec7576,7ebac9d7fb8c4ff9b7fbabcaec1d7d65,00088_000.jpg,@recycling.film
-89,0,film_box_outside,Kodak,Portra,35mm,160,C-41,201308,1753717208,172b90d1c20e0d94009226ce47ce704b,9131fb90db70475dbad5f63f1448ce56,00089_000.jpg,@recycling.film
+88,0,film_box_outside,Kodak,Portra 800,35mm,800,C-41,202506,1753717168,da2ad339cc4f9bd279844809c2ec7576,7ebac9d7fb8c4ff9b7fbabcaec1d7d65,00088_000.jpg,@recycling.film
+89,0,film_box_outside,Kodak,Portra 160,35mm,160,C-41,201308,1753717208,172b90d1c20e0d94009226ce47ce704b,9131fb90db70475dbad5f63f1448ce56,00089_000.jpg,@recycling.film
 90,0,film_box_outside,Ilford,HP5 Plus,35mm,400,BW,202208,1753717259,b5bba9a78992d38ff924146a1c7f8434,fcbc3377fa3d4ca9b58779f86ed7c725,00090_000.jpg,@recycling.film
 91,0,film_box_outside,Kodak,ColorPlus,35mm,200,C-41,202608,1753717282,5419c8a441057cbc926e90686e3b829c,bd00cd25958d4108a7501bf4be9d6637,00091_000.jpg,@recycling.film
 92,0,film_box_outside,Foma,Fomapan,35mm,200,BW,202801,1753731469,20ff99b8b0298fabd12e8bf5a84503cd,c3d51159b481435b90dbe2411de784a5,00092_000.jpg,lilyu.xyz
@@ -179,9 +179,9 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 104,0,film_box_outside,Kodak,TMAX,35mm,3200,BW,199107,1753806754,ac5429feb30a24ba6c40190526b17391,9e4ea1efa5a54938985fdf8901951dff,00104_000.jpg,Nano_Burger
 104,1,film_box_leaflet,Kodak,TMAX,35mm,3200,BW,199107,1753806756,234ca8fe1ca792fd25d9edd22fccddc7,b9d1b08379d9482bbc799101f6881f12,00104_001.jpg,Nano_Burger
 104,2,film_box_leaflet,Kodak,TMAX,35mm,3200,BW,199107,1753806758,1ff153d650b4779322e2e05afbc2b19b,a6740f1fc4df4b80a8a4dee83a26c04b,00104_002.jpg,Nano_Burger
-105,0,film_box_outside,Kodak,Rapid Process Copy Film,35mm,Unknown,BW,200006,1753806928,2f2ecdfadc0e5287ff6b6903f47b0483,396a3645cb9a40a4b0a6dd2fd854e66e,00105_000.jpg,Nano_Burger
-105,1,film_box_outside,Kodak,Rapid Process Copy Film,35mm,Unknown,BW,200006,1753806930,af2e66b90c07f0781b43de22e0ea7971,bab6cc70d0044171a1afcf33b6cb5556,00105_001.jpg,Nano_Burger
-105,2,film_box_inside,Kodak,Rapid Process Copy Film,35mm,Unknown,BW,200006,1753806932,4462f9084b30b81925a55853d6e3a146,fc2e102fecae4f2dbd04fd341fdb7afd,00105_002.jpg,Nano_Burger
+105,0,film_box_outside,Kodak,Rapid Process Copy Film,35mm,0.06,BW,200006,1753806928,2f2ecdfadc0e5287ff6b6903f47b0483,396a3645cb9a40a4b0a6dd2fd854e66e,00105_000.jpg,Nano_Burger
+105,1,film_box_outside,Kodak,Rapid Process Copy Film,35mm,0.06,BW,200006,1753806930,af2e66b90c07f0781b43de22e0ea7971,bab6cc70d0044171a1afcf33b6cb5556,00105_001.jpg,Nano_Burger
+105,2,film_box_inside,Kodak,Rapid Process Copy Film,35mm,0.06,BW,200006,1753806932,4462f9084b30b81925a55853d6e3a146,fc2e102fecae4f2dbd04fd341fdb7afd,00105_002.jpg,Nano_Burger
 106,0,film_box_outside,Kodak,Technical Pan,35mm,25,BW,199504,1753807209,edf0e6c4d6dab0f5413bac5d5ac388cc,e65b4252384141028ee037892c6bf4cf,00106_000.jpg,Nano_Burger
 106,1,film_box_inside,Kodak,Technical Pan,35mm,25,BW,199504,1753807211,63ecb32036c0bc56a4b21add8f7ccc44,fd713c7576534f62832529c13f74996b,00106_001.jpg,Nano_Burger
 107,0,film_box_outside,Kodak,High Speed Ektachrome,35mm,125,E-4,197701,1753826107,fea879cbc8e97ee86f99a9b5baf6053f,86470a73e4b5436b97ffb272be6bb8f8,00107_000.jpg,Henry Gunn
