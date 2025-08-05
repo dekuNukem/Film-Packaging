@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 04 2025
+Last Updated: Aug 05 2025
 
-# of items: 285
+# of items: 287
 ```
 
 -----
@@ -153,6 +153,8 @@ Last Updated: Aug 04 2025
 - [Lomography Lomochrome Turquoise (ref: 0d90)](#lomography-lomochrome-turquoise-ref-0d90)
 - [Lomography Orca (ref: d506)](#lomography-orca-ref-d506)
 - [Lomography Tiger (ref: 26dd)](#lomography-tiger-ref-26dd)
+- [Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#minolta-minolta-16-color-film-for-prints-ref-a2ff)
+- [ORWO NP 20 SL (ref: b16c)](#orwo-np-20-sl-ref-b16c)
 - [Perutz Superomnia (ref: c90d)](#perutz-superomnia-ref-c90d)
 - [Polaroid 665 (ref: e054)](#polaroid-665-ref-e054)
 - [Polaroid 669 (ref: 3566)](#polaroid-669-ref-3566)
@@ -2546,6 +2548,32 @@ UUID  : e8a5b04ef68c43ae9e79df89123726dd
 	<img src="./lowres/00143_000.jpg" alt="Lomography Tiger 110 film box outside" loading="lazy" height="500" />
 </a>
 
+#### Minolta Minolta 16 Color Film For Prints (ref: a2ff)
+
+```
+Format: 16mm         |  Process: C-41     
+ISO   : 100          |  Expiry : 1992-06  
+Added : 2025-08-05   |  Author : The Compartmentalist
+UUID  : a2cfc71ac0e24ea58f4e3350423aa2ff
+```
+
+<a href="./archive/00162_000.jpg">
+	<img src="./lowres/00162_000.jpg" alt="Minolta Minolta 16 Color Film For Prints 16mm film box outside" loading="lazy" width="500" />
+</a>
+
+#### ORWO NP 20 SL (ref: b16c)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 80           |  Expiry : 1992-12  
+Added : 2025-08-05   |  Author : The Compartmentalist
+UUID  : 9791c2074fdd4340a1463312ed77b16c
+```
+
+<a href="./archive/00163_000.jpg">
+	<img src="./lowres/00163_000.jpg" alt="ORWO NP 20 SL 35mm film box outside" loading="lazy" width="500" />
+</a>
+
 #### Perutz Superomnia (ref: c90d)
 
 ```
@@ -3152,8 +3180,8 @@ Rank  Username                 Contributions
 7     toader                   13    
 8     stefanie                 12    
 9     yc128                    11    
-10    lilyu.xyz                9     
-11    The Compartmentalist     9     
+10    The Compartmentalist     11    
+11    lilyu.xyz                9     
 12    benikum                  6     
 13    @recycling.film          5     
 14    Henry Gunn               4     

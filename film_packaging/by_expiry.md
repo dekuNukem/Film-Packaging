@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 04 2025
+Last Updated: Aug 05 2025
 
-# of items: 285
+# of items: 287
 ```
 
 -----
@@ -54,10 +54,12 @@ Last Updated: Aug 04 2025
 - [[1991] Konica Infrared 750nm (ref: e696)](#1991-konica-infrared-750nm-ref-e696)
 - [[1991] Tasma OCh 50 (ref: 5c43)](#1991-tasma-och-50-ref-5c43)
 - [[1991] Kodak TMAX (ref: 1dff)](#1991-kodak-tmax-ref-1dff)
+- [[1992] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#1992-minolta-minolta-16-color-film-for-prints-ref-a2ff)
 - [[1992] Polaroid PolaBlue 35mm (ref: df66)](#1992-polaroid-polablue-35mm-ref-df66)
 - [[1992] Polaroid PolaChrome 35mm (ref: 3b60)](#1992-polaroid-polachrome-35mm-ref-3b60)
 - [[1992] Kodak Ektachrome (ref: b21e)](#1992-kodak-ektachrome-ref-b21e)
 - [[1992] Fujifilm Fujichrome Professional 100D (ref: 439d)](#1992-fujifilm-fujichrome-professional-100d-ref-439d)
+- [[1992] ORWO NP 20 SL (ref: b16c)](#1992-orwo-np-20-sl-ref-b16c)
 - [[1993] Alfo ALFOcolor PR-G (ref: 94b9)](#1993-alfo-alfocolor-pr-g-ref-94b9)
 - [[1994] Fujifilm Fujicolor SuperHG (ref: ee94)](#1994-fujifilm-fujicolor-superhg-ref-ee94)
 - [[1994] York Photo Labs DXG 200 (ref: 4bf8)](#1994-york-photo-labs-dxg-200-ref-4bf8)
@@ -867,6 +869,19 @@ UUID  : 9e4ea1efa5a54938985fdf8901951dff
 	<img src="./lowres/00104_002.jpg" alt="Kodak TMAX 35mm film box leaflet" loading="lazy" height="500" />
 </a>
 
+#### [1992] Minolta Minolta 16 Color Film For Prints (ref: a2ff)
+
+```
+Format: 16mm         |  Process: C-41     
+ISO   : 100          |  Expiry : 1992-06  
+Added : 2025-08-05   |  Author : The Compartmentalist
+UUID  : a2cfc71ac0e24ea58f4e3350423aa2ff
+```
+
+<a href="./archive/00162_000.jpg">
+	<img src="./lowres/00162_000.jpg" alt="Minolta Minolta 16 Color Film For Prints 16mm film box outside" loading="lazy" width="500" />
+</a>
+
 #### [1992] Polaroid PolaBlue 35mm (ref: df66)
 
 ```
@@ -1015,6 +1030,19 @@ UUID  : 5dcdd19ddf654415b7eac69183e7439d
 
 <a href="./archive/00032_002.jpg">
 	<img src="./lowres/00032_002.jpg" alt="Fujifilm Fujichrome Professional 100D 120 film box leaflet" loading="lazy" height="500" />
+</a>
+
+#### [1992] ORWO NP 20 SL (ref: b16c)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 80           |  Expiry : 1992-12  
+Added : 2025-08-05   |  Author : The Compartmentalist
+UUID  : 9791c2074fdd4340a1463312ed77b16c
+```
+
+<a href="./archive/00163_000.jpg">
+	<img src="./lowres/00163_000.jpg" alt="ORWO NP 20 SL 35mm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [1993] Alfo ALFOcolor PR-G (ref: 94b9)
@@ -3152,8 +3180,8 @@ Rank  Username                 Contributions
 7     toader                   13    
 8     stefanie                 12    
 9     yc128                    11    
-10    lilyu.xyz                9     
-11    The Compartmentalist     9     
+10    The Compartmentalist     11    
+11    lilyu.xyz                9     
 12    benikum                  6     
 13    @recycling.film          5     
 14    Henry Gunn               4     

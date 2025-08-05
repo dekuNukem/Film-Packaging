@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 04 2025
+Last Updated: Aug 05 2025
 
-# of items: 285
+# of items: 287
 ```
 
 -----
@@ -66,6 +66,7 @@ Last Updated: Aug 04 2025
 - [[126] Kodak Kodacolor-X (ref: 5302)](#126-kodak-kodacolor-x-ref-5302)
 - [[127] Shanghai GP3 (ref: 52aa)](#127-shanghai-gp3-ref-52aa)
 - [[16mm] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#16mm-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
+- [[16mm] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#16mm-minolta-minolta-16-color-film-for-prints-ref-a2ff)
 - [[220] Kodak Ektacolor Pro Gold (ref: c3f8)](#220-kodak-ektacolor-pro-gold-ref-c3f8)
 - [[35mm] ADOX KB17 (ref: 2c95)](#35mm-adox-kb17-ref-2c95)
 - [[35mm] Agfa APX (ref: 5276)](#35mm-agfa-apx-ref-5276)
@@ -148,6 +149,7 @@ Last Updated: Aug 04 2025
 - [[35mm] Lomography Babylon (ref: 7afa)](#35mm-lomography-babylon-ref-7afa)
 - [[35mm] Lomography Fantome (ref: 4340)](#35mm-lomography-fantome-ref-4340)
 - [[35mm] Lomography Lomochrome Purple (ref: 068f)](#35mm-lomography-lomochrome-purple-ref-068f)
+- [[35mm] ORWO NP 20 SL (ref: b16c)](#35mm-orwo-np-20-sl-ref-b16c)
 - [[35mm] Polaroid PolaBlue 35mm (ref: df66)](#35mm-polaroid-polablue-35mm-ref-df66)
 - [[35mm] Polaroid PolaChrome 35mm (ref: 3b60)](#35mm-polaroid-polachrome-35mm-ref-3b60)
 - [[35mm] Polaroid PolaPan 35mm (ref: 9825)](#35mm-polaroid-polapan-35mm-ref-9825)
@@ -1000,6 +1002,19 @@ UUID  : 46cc0a179fc34cb4832e1d3336bafaec
 
 <a href="./archive/00099_000.jpg">
 	<img src="./lowres/00099_000.jpg" alt="Kodak Eastman High Contrast Panchromatic 7369 16mm film box outside" loading="lazy" width="500" />
+</a>
+
+#### [16mm] Minolta Minolta 16 Color Film For Prints (ref: a2ff)
+
+```
+Format: 16mm         |  Process: C-41     
+ISO   : 100          |  Expiry : 1992-06  
+Added : 2025-08-05   |  Author : The Compartmentalist
+UUID  : a2cfc71ac0e24ea58f4e3350423aa2ff
+```
+
+<a href="./archive/00162_000.jpg">
+	<img src="./lowres/00162_000.jpg" alt="Minolta Minolta 16 Color Film For Prints 16mm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [220] Kodak Ektacolor Pro Gold (ref: c3f8)
@@ -2453,6 +2468,19 @@ UUID  : b02540ba4b454a639f8096f9474d068f
 	<img src="./lowres/00078_001.jpg" alt="Lomography Lomochrome Purple 35mm film box inside" loading="lazy" width="500" />
 </a>
 
+#### [35mm] ORWO NP 20 SL (ref: b16c)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 80           |  Expiry : 1992-12  
+Added : 2025-08-05   |  Author : The Compartmentalist
+UUID  : 9791c2074fdd4340a1463312ed77b16c
+```
+
+<a href="./archive/00163_000.jpg">
+	<img src="./lowres/00163_000.jpg" alt="ORWO NP 20 SL 35mm film box outside" loading="lazy" width="500" />
+</a>
+
 #### [35mm] Polaroid PolaBlue 35mm (ref: df66)
 
 ```
@@ -3152,8 +3180,8 @@ Rank  Username                 Contributions
 7     toader                   13    
 8     stefanie                 12    
 9     yc128                    11    
-10    lilyu.xyz                9     
-11    The Compartmentalist     9     
+10    The Compartmentalist     11    
+11    lilyu.xyz                9     
 12    benikum                  6     
 13    @recycling.film          5     
 14    Henry Gunn               4     
