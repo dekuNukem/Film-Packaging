@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 05 2025
+Last Updated: Aug 06 2025
 
-# of items: 287
+# of items: 288
 ```
 
 -----
@@ -71,6 +71,7 @@ Last Updated: Aug 05 2025
 - [Harman Phoenix II (ref: f686)](#harman-phoenix-ii-ref-f686)
 - [Harman Phoenix II (ref: 40df)](#harman-phoenix-ii-ref-40df)
 - [Hazenfilm Sorolla Chrome (ref: 889f)](#hazenfilm-sorolla-chrome-ref-889f)
+- [Hope Film Bubble (ref: 41f4)](#hope-film-bubble-ref-41f4)
 - [Ilford Delta (ref: eb8d)](#ilford-delta-ref-eb8d)
 - [Ilford Delta (ref: 920f)](#ilford-delta-ref-920f)
 - [Ilford Delta (ref: 9b54)](#ilford-delta-ref-9b54)
@@ -1088,6 +1089,19 @@ UUID  : 462e32d45cd740cf866732a73a00889f
 
 <a href="./archive/00137_000.jpg">
 	<img src="./lowres/00137_000.jpg" alt="Hazenfilm Sorolla Chrome 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### Hope Film Bubble (ref: 41f4)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2026-12  
+Added : 2025-08-06   |  Author : @Hol.m35 
+UUID  : b09848420a1a4d76b099d82d76bc41f4
+```
+
+<a href="./archive/00164_000.jpg">
+	<img src="./lowres/00164_000.jpg" alt="Hope Film Bubble 35mm film box outside" loading="lazy" width="500" />
 </a>
 
 #### Ilford Delta (ref: eb8d)
@@ -3188,6 +3202,7 @@ Rank  Username                 Contributions
 15    @seklerek                2     
 16    @ftfilmphotos            2     
 17    Yrikonchik               1     
+18    @Hol.m35                 1     
 ```
 
 ## Questions or Comments?

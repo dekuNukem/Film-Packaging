@@ -15,13 +15,14 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 05 2025
+Last Updated: Aug 06 2025
 
-# of items: 287
+# of items: 288
 ```
 
 -----
 
+- [[@Hol.m35] Hope Film Bubble (ref: 41f4)](#holm35-hope-film-bubble-ref-41f4)
 - [[@SirBrentsworth] CineStill 800T (ref: b3ff)](#sirbrentsworth-cinestill-800t-ref-b3ff)
 - [[@SirBrentsworth] Ilford HP5 Plus (ref: df49)](#sirbrentsworth-ilford-hp5-plus-ref-df49)
 - [[@SirBrentsworth] Kentmere PAN (ref: c907)](#sirbrentsworth-kentmere-pan-ref-c907)
@@ -186,6 +187,19 @@ Last Updated: Aug 05 2025
 
 
 -----
+
+#### [@Hol.m35] Hope Film Bubble (ref: 41f4)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2026-12  
+Added : 2025-08-06   |  Author : @Hol.m35 
+UUID  : b09848420a1a4d76b099d82d76bc41f4
+```
+
+<a href="./archive/00164_000.jpg">
+	<img src="./lowres/00164_000.jpg" alt="Hope Film Bubble 35mm film box outside" loading="lazy" width="500" />
+</a>
 
 #### [@SirBrentsworth] CineStill 800T (ref: b3ff)
 
@@ -3188,6 +3202,7 @@ Rank  Username                 Contributions
 15    @seklerek                2     
 16    @ftfilmphotos            2     
 17    Yrikonchik               1     
+18    @Hol.m35                 1     
 ```
 
 ## Questions or Comments?
