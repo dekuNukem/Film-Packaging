@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 06 2025
+Last Updated: Aug 07 2025
 
-# of items: 288
+# of items: 289
 ```
 
 -----
@@ -134,6 +134,7 @@ Last Updated: Aug 06 2025
 - [[2025] Harman Phoenix (ref: 8eb4)](#2025-harman-phoenix-ref-8eb4)
 - [[2025] Kodak Tri-X (ref: 88c5)](#2025-kodak-tri-x-ref-88c5)
 - [[2025] Three Film Rolls 5207 (ref: 0292)](#2025-three-film-rolls-5207-ref-0292)
+- [[2026] Fujifilm Superia X-Tra (ref: 6b8a)](#2026-fujifilm-superia-x-tra-ref-6b8a)
 - [[2026] Lomography Fantome (ref: 4340)](#2026-lomography-fantome-ref-4340)
 - [[2026] Rollei Retro 80S (ref: e6c0)](#2026-rollei-retro-80s-ref-e6c0)
 - [[2026] Bergger Pancro400 (ref: ad7b)](#2026-bergger-pancro400-ref-ad7b)
@@ -2351,6 +2352,19 @@ UUID  : 4de0f5e76dd748c488fa81be23340292
 	<img src="./lowres/00059_000.jpg" alt="Three Film Rolls 5207 35mm film box outside" loading="lazy" height="500" />
 </a>
 
+#### [2026] Fujifilm Superia X-Tra (ref: 6b8a)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2026-01  
+Added : 2025-08-07   |  Author : @Hol.m35 
+UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
+```
+
+<a href="./archive/00165_000.jpg">
+	<img src="./lowres/00165_000.jpg" alt="Fujifilm Superia X-Tra 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [2026] Lomography Fantome (ref: 4340)
 
 ```
@@ -3201,8 +3215,8 @@ Rank  Username                 Contributions
 14    Henry Gunn               4     
 15    @seklerek                2     
 16    @ftfilmphotos            2     
-17    Yrikonchik               1     
-18    @Hol.m35                 1     
+17    @Hol.m35                 2     
+18    Yrikonchik               1     
 ```
 
 ## Questions or Comments?

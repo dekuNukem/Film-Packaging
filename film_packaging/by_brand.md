@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 06 2025
+Last Updated: Aug 07 2025
 
-# of items: 288
+# of items: 289
 ```
 
 -----
@@ -62,6 +62,7 @@ Last Updated: Aug 06 2025
 - [Fujifilm Provia 100F (ref: 356d)](#fujifilm-provia-100f-ref-356d)
 - [Fujifilm Sensia (ref: a59b)](#fujifilm-sensia-ref-a59b)
 - [Fujifilm Superia Reala (ref: a7de)](#fujifilm-superia-reala-ref-a7de)
+- [Fujifilm Superia X-Tra (ref: 6b8a)](#fujifilm-superia-x-tra-ref-6b8a)
 - [Fujifilm Velvia (ref: 3182)](#fujifilm-velvia-ref-3182)
 - [Fujifilm Velvia 100F (ref: f7fb)](#fujifilm-velvia-100f-ref-f7fb)
 - [Fujifilm Velvia 100F (ref: 32d4)](#fujifilm-velvia-100f-ref-32d4)
@@ -895,6 +896,19 @@ UUID  : bab5fa204b25431a9872c4ce8e9aa7de
 
 <a href="./archive/00087_000.jpg">
 	<img src="./lowres/00087_000.jpg" alt="Fujifilm Superia Reala 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### Fujifilm Superia X-Tra (ref: 6b8a)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2026-01  
+Added : 2025-08-07   |  Author : @Hol.m35 
+UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
+```
+
+<a href="./archive/00165_000.jpg">
+	<img src="./lowres/00165_000.jpg" alt="Fujifilm Superia X-Tra 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### Fujifilm Velvia (ref: 3182)
@@ -3201,8 +3215,8 @@ Rank  Username                 Contributions
 14    Henry Gunn               4     
 15    @seklerek                2     
 16    @ftfilmphotos            2     
-17    Yrikonchik               1     
-18    @Hol.m35                 1     
+17    @Hol.m35                 2     
+18    Yrikonchik               1     
 ```
 
 ## Questions or Comments?
