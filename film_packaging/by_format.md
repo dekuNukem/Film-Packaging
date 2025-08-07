@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Aug 07 2025
 
-# of items: 289
+# of items: 290
 ```
 
 -----
@@ -79,6 +79,7 @@ Last Updated: Aug 07 2025
 - [[35mm] Alfo ALFOcolor PR-G (ref: 94b9)](#35mm-alfo-alfocolor-pr-g-ref-94b9)
 - [[35mm] Alien Film 5222/XX (ref: 3e49)](#35mm-alien-film-5222xx-ref-3e49)
 - [[35mm] Bergger Pancro400 (ref: f619)](#35mm-bergger-pancro400-ref-f619)
+- [[35mm] Boots Colour Print Film (ref: a30f)](#35mm-boots-colour-print-film-ref-a30f)
 - [[35mm] CineStill 800T (ref: b3ff)](#35mm-cinestill-800t-ref-b3ff)
 - [[35mm] Efiniti UXi super 200 (ref: 471a)](#35mm-efiniti-uxi-super-200-ref-471a)
 - [[35mm] Foma Fomapan (ref: 0030)](#35mm-foma-fomapan-ref-0030)
@@ -1236,6 +1237,19 @@ UUID  : 0d9fee6b29f445f089acde3247d1f619
 
 <a href="./archive/00123_001.jpg">
 	<img src="./lowres/00123_001.jpg" alt="Bergger Pancro400 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### [35mm] Boots Colour Print Film (ref: a30f)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2013-02  
+Added : 2025-08-07   |  Author : @hol.m35 
+UUID  : bd601340027a4c9daa7e219b414fa30f
+```
+
+<a href="./archive/00166_000.jpg">
+	<img src="./lowres/00166_000.jpg" alt="Boots Colour Print Film 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [35mm] CineStill 800T (ref: b3ff)
@@ -3217,6 +3231,7 @@ Rank  Username                 Contributions
 16    @ftfilmphotos            2     
 17    @Hol.m35                 2     
 18    Yrikonchik               1     
+19    @hol.m35                 1     
 ```
 
 ## Questions or Comments?

@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Aug 07 2025
 
-# of items: 289
+# of items: 290
 ```
 
 -----
@@ -34,6 +34,7 @@ Last Updated: Aug 07 2025
 - [[@SirBrentsworth] Kodak UltraMax (ref: aaa6)](#sirbrentsworth-kodak-ultramax-ref-aaa6)
 - [[@SirBrentsworth] Lomography Lomochrome Purple (ref: 068f)](#sirbrentsworth-lomography-lomochrome-purple-ref-068f)
 - [[@ftfilmphotos] Kodak Kodacolor VR (ref: 035f)](#ftfilmphotos-kodak-kodacolor-vr-ref-035f)
+- [[@hol.m35] Boots Colour Print Film (ref: a30f)](#holm35-boots-colour-print-film-ref-a30f)
 - [[@ob.skura] Fujifilm Velvia (ref: 3182)](#obskura-fujifilm-velvia-ref-3182)
 - [[@ob.skura] Ilford Delta (ref: eb8d)](#obskura-ilford-delta-ref-eb8d)
 - [[@ob.skura] Kodak Elite Chrome (ref: 523c)](#obskura-kodak-elite-chrome-ref-523c)
@@ -378,6 +379,19 @@ UUID  : a26daa2cb6e44957af3d978bc67e035f
 
 <a href="./archive/00097_001.jpg">
 	<img src="./lowres/00097_001.jpg" alt="Kodak Kodacolor VR 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### [@hol.m35] Boots Colour Print Film (ref: a30f)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2013-02  
+Added : 2025-08-07   |  Author : @hol.m35 
+UUID  : bd601340027a4c9daa7e219b414fa30f
+```
+
+<a href="./archive/00166_000.jpg">
+	<img src="./lowres/00166_000.jpg" alt="Boots Colour Print Film 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [@ob.skura] Fujifilm Velvia (ref: 3182)
@@ -3217,6 +3231,7 @@ Rank  Username                 Contributions
 16    @ftfilmphotos            2     
 17    @Hol.m35                 2     
 18    Yrikonchik               1     
+19    @hol.m35                 1     
 ```
 
 ## Questions or Comments?

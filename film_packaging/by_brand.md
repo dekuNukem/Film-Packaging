@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Aug 07 2025
 
-# of items: 289
+# of items: 290
 ```
 
 -----
@@ -37,6 +37,7 @@ Last Updated: Aug 07 2025
 - [Alien Film 5222/XX (ref: 3e49)](#alien-film-5222xx-ref-3e49)
 - [Bergger Pancro400 (ref: ad7b)](#bergger-pancro400-ref-ad7b)
 - [Bergger Pancro400 (ref: f619)](#bergger-pancro400-ref-f619)
+- [Boots Colour Print Film (ref: a30f)](#boots-colour-print-film-ref-a30f)
 - [CineStill 800T (ref: c86a)](#cinestill-800t-ref-c86a)
 - [CineStill 800T (ref: b3ff)](#cinestill-800t-ref-b3ff)
 - [Efiniti UXi super 200 (ref: 471a)](#efiniti-uxi-super-200-ref-471a)
@@ -438,6 +439,19 @@ UUID  : 0d9fee6b29f445f089acde3247d1f619
 
 <a href="./archive/00123_001.jpg">
 	<img src="./lowres/00123_001.jpg" alt="Bergger Pancro400 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### Boots Colour Print Film (ref: a30f)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2013-02  
+Added : 2025-08-07   |  Author : @hol.m35 
+UUID  : bd601340027a4c9daa7e219b414fa30f
+```
+
+<a href="./archive/00166_000.jpg">
+	<img src="./lowres/00166_000.jpg" alt="Boots Colour Print Film 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### CineStill 800T (ref: c86a)
@@ -3217,6 +3231,7 @@ Rank  Username                 Contributions
 16    @ftfilmphotos            2     
 17    @Hol.m35                 2     
 18    Yrikonchik               1     
+19    @hol.m35                 1     
 ```
 
 ## Questions or Comments?

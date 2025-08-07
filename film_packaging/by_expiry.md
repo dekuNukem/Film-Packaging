@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Aug 07 2025
 
-# of items: 289
+# of items: 290
 ```
 
 -----
@@ -108,6 +108,7 @@ Last Updated: Aug 07 2025
 - [[2012] Fujifilm Fujicolor Professional (ref: 28da)](#2012-fujifilm-fujicolor-professional-ref-28da)
 - [[2012] Kodak Kodacolor VR Plus (ref: f8bf)](#2012-kodak-kodacolor-vr-plus-ref-f8bf)
 - [[2012] Ilford HP5 Plus (ref: 11a8)](#2012-ilford-hp5-plus-ref-11a8)
+- [[2013] Boots Colour Print Film (ref: a30f)](#2013-boots-colour-print-film-ref-a30f)
 - [[2013] Efke IR 820 (ref: 43c9)](#2013-efke-ir-820-ref-43c9)
 - [[2013] Kodak Portra 160 (ref: ce56)](#2013-kodak-portra-160-ref-ce56)
 - [[2013] Ilford SFX 200 (ref: 6057)](#2013-ilford-sfx-200-ref-6057)
@@ -1909,6 +1910,19 @@ UUID  : dbf3817f506a444b9d394745dba311a8
 	<img src="./lowres/00140_001.jpg" alt="Ilford HP5 Plus 120 film box inside" loading="lazy" width="500" />
 </a>
 
+#### [2013] Boots Colour Print Film (ref: a30f)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2013-02  
+Added : 2025-08-07   |  Author : @hol.m35 
+UUID  : bd601340027a4c9daa7e219b414fa30f
+```
+
+<a href="./archive/00166_000.jpg">
+	<img src="./lowres/00166_000.jpg" alt="Boots Colour Print Film 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [2013] Efke IR 820 (ref: 43c9)
 
 ```
@@ -3217,6 +3231,7 @@ Rank  Username                 Contributions
 16    @ftfilmphotos            2     
 17    @Hol.m35                 2     
 18    Yrikonchik               1     
+19    @hol.m35                 1     
 ```
 
 ## Questions or Comments?

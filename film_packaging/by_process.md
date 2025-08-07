@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Aug 07 2025
 
-# of items: 289
+# of items: 290
 ```
 
 -----
@@ -92,6 +92,7 @@ Last Updated: Aug 07 2025
 - [[C-41] Agfa ULTRA 50 (ref: 4faa)](#c-41-agfa-ultra-50-ref-4faa)
 - [[C-41] Agfa Vista (ref: d3af)](#c-41-agfa-vista-ref-d3af)
 - [[C-41] Alfo ALFOcolor PR-G (ref: 94b9)](#c-41-alfo-alfocolor-pr-g-ref-94b9)
+- [[C-41] Boots Colour Print Film (ref: a30f)](#c-41-boots-colour-print-film-ref-a30f)
 - [[C-41] CineStill 800T (ref: c86a)](#c-41-cinestill-800t-ref-c86a)
 - [[C-41] CineStill 800T (ref: b3ff)](#c-41-cinestill-800t-ref-b3ff)
 - [[C-41] Efiniti UXi super 200 (ref: 471a)](#c-41-efiniti-uxi-super-200-ref-471a)
@@ -1433,6 +1434,19 @@ UUID  : cc723aa89e9e43ec8ac1ebd18efa94b9
 
 <a href="./archive/00151_000.jpg">
 	<img src="./lowres/00151_000.jpg" alt="Alfo ALFOcolor PR-G 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [C-41] Boots Colour Print Film (ref: a30f)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2013-02  
+Added : 2025-08-07   |  Author : @hol.m35 
+UUID  : bd601340027a4c9daa7e219b414fa30f
+```
+
+<a href="./archive/00166_000.jpg">
+	<img src="./lowres/00166_000.jpg" alt="Boots Colour Print Film 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [C-41] CineStill 800T (ref: c86a)
@@ -3217,6 +3231,7 @@ Rank  Username                 Contributions
 16    @ftfilmphotos            2     
 17    @Hol.m35                 2     
 18    Yrikonchik               1     
+19    @hol.m35                 1     
 ```
 
 ## Questions or Comments?
