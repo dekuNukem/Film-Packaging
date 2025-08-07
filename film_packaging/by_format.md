@@ -1244,7 +1244,7 @@ UUID  : 0d9fee6b29f445f089acde3247d1f619
 ```
 Format: 35mm         |  Process: C-41     
 ISO   : 200          |  Expiry : 2013-02  
-Added : 2025-08-07   |  Author : @hol.m35 
+Added : 2025-08-07   |  Author : @Hol.m35 
 UUID  : bd601340027a4c9daa7e219b414fa30f
 ```
 
@@ -3227,11 +3227,10 @@ Rank  Username                 Contributions
 12    benikum                  6     
 13    @recycling.film          5     
 14    Henry Gunn               4     
-15    @seklerek                2     
-16    @ftfilmphotos            2     
-17    @Hol.m35                 2     
+15    @Hol.m35                 3     
+16    @seklerek                2     
+17    @ftfilmphotos            2     
 18    Yrikonchik               1     
-19    @hol.m35                 1     
 ```
 
 ## Questions or Comments?
