@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Aug 07 2025
 
-# of items: 292
+# of items: 293
 ```
 
 -----
@@ -99,6 +99,7 @@ Last Updated: Aug 07 2025
 - [[The Compartmentalist] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#the-compartmentalist-minolta-minolta-16-color-film-for-prints-ref-a2ff)
 - [[The Compartmentalist] ORWO NP 20 SL (ref: b16c)](#the-compartmentalist-orwo-np-20-sl-ref-b16c)
 - [[The Compartmentalist] Sakura Sakuracolor II (ref: 4f7d)](#the-compartmentalist-sakura-sakuracolor-ii-ref-4f7d)
+- [[TheSelousScout] Reto Amber D400 (ref: 08ad)](#theselousscout-reto-amber-d400-ref-08ad)
 - [[Yrikonchik] Fujifilm 200 (ref: 5b41)](#yrikonchik-fujifilm-200-ref-5b41)
 - [[b0baspace] Fujifilm Fujicolor 100 (ref: 013b)](#b0baspace-fujifilm-fujicolor-100-ref-013b)
 - [[b0baspace] Fujifilm NPS (ref: 5e85)](#b0baspace-fujifilm-nps-ref-5e85)
@@ -1456,6 +1457,19 @@ UUID  : 0143ad8539d84710845f4d2dc82e4f7d
 
 <a href="./archive/00122_000.jpg">
 	<img src="./lowres/00122_000.jpg" alt="Sakura Sakuracolor II 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [TheSelousScout] Reto Amber D400 (ref: 08ad)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2024-12  
+Added : 2025-08-07   |  Author : TheSelousScout
+UUID  : 075938ec54de4c4bbee63671e4c208ad
+```
+
+<a href="./archive/00168_000.jpg">
+	<img src="./lowres/00168_000.jpg" alt="Reto Amber D400 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [Yrikonchik] Fujifilm 200 (ref: 5b41)
@@ -3252,6 +3266,7 @@ Rank  Username                 Contributions
 16    @seklerek                2     
 17    @ftfilmphotos            2     
 18    Yrikonchik               1     
+19    TheSelousScout           1     
 ```
 
 ## Questions or Comments?

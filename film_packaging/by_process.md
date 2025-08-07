@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Aug 07 2025
 
-# of items: 292
+# of items: 293
 ```
 
 -----
@@ -142,6 +142,7 @@ Last Updated: Aug 07 2025
 - [[C-41] Lomography Lomochrome Turquoise (ref: 0d90)](#c-41-lomography-lomochrome-turquoise-ref-0d90)
 - [[C-41] Lomography Tiger (ref: 26dd)](#c-41-lomography-tiger-ref-26dd)
 - [[C-41] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#c-41-minolta-minolta-16-color-film-for-prints-ref-a2ff)
+- [[C-41] Reto Amber D400 (ref: 08ad)](#c-41-reto-amber-d400-ref-08ad)
 - [[C-41] Rossmann Jahreszeiten Pack (ref: 7670)](#c-41-rossmann-jahreszeiten-pack-ref-7670)
 - [[C-41] Sakura Sakuracolor II (ref: 4f7d)](#c-41-sakura-sakuracolor-ii-ref-4f7d)
 - [[C-41] SantaColor SantaColor (ref: cb58)](#c-41-santacolor-santacolor-ref-cb58)
@@ -2262,6 +2263,19 @@ UUID  : a2cfc71ac0e24ea58f4e3350423aa2ff
 	<img src="./lowres/00162_000.jpg" alt="Minolta Minolta 16 Color Film For Prints 16mm film box outside" loading="lazy" width="500" />
 </a>
 
+#### [C-41] Reto Amber D400 (ref: 08ad)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2024-12  
+Added : 2025-08-07   |  Author : TheSelousScout
+UUID  : 075938ec54de4c4bbee63671e4c208ad
+```
+
+<a href="./archive/00168_000.jpg">
+	<img src="./lowres/00168_000.jpg" alt="Reto Amber D400 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [C-41] Rossmann Jahreszeiten Pack (ref: 7670)
 
 ```
@@ -3252,6 +3266,7 @@ Rank  Username                 Contributions
 16    @seklerek                2     
 17    @ftfilmphotos            2     
 18    Yrikonchik               1     
+19    TheSelousScout           1     
 ```
 
 ## Questions or Comments?

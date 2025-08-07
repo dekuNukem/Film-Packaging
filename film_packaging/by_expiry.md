@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Aug 07 2025
 
-# of items: 292
+# of items: 293
 ```
 
 -----
@@ -122,6 +122,7 @@ Last Updated: Aug 07 2025
 - [[2024] Shanghai GP3 (ref: 52aa)](#2024-shanghai-gp3-ref-52aa)
 - [[2024] Ilford Delta (ref: eb8d)](#2024-ilford-delta-ref-eb8d)
 - [[2024] Polaroid Color 600 Film Round Frame (ref: d985)](#2024-polaroid-color-600-film-round-frame-ref-d985)
+- [[2024] Reto Amber D400 (ref: 08ad)](#2024-reto-amber-d400-ref-08ad)
 - [[2025] JCH Streetpan (ref: 6e58)](#2025-jch-streetpan-ref-6e58)
 - [[2025] Polaroid Color SX-70 Film (ref: dc7f)](#2025-polaroid-color-sx-70-film-ref-dc7f)
 - [[2025] Ilford Delta (ref: 920f)](#2025-ilford-delta-ref-920f)
@@ -2142,6 +2143,19 @@ UUID  : e798fdd114be4a018cb7651bba94d985
 	<img src="./lowres/00157_003.jpg" alt="Polaroid Color 600 Film Round Frame Integral Film film box inside" loading="lazy" height="500" />
 </a>
 
+#### [2024] Reto Amber D400 (ref: 08ad)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2024-12  
+Added : 2025-08-07   |  Author : TheSelousScout
+UUID  : 075938ec54de4c4bbee63671e4c208ad
+```
+
+<a href="./archive/00168_000.jpg">
+	<img src="./lowres/00168_000.jpg" alt="Reto Amber D400 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [2025] JCH Streetpan (ref: 6e58)
 
 ```
@@ -3252,6 +3266,7 @@ Rank  Username                 Contributions
 16    @seklerek                2     
 17    @ftfilmphotos            2     
 18    Yrikonchik               1     
+19    TheSelousScout           1     
 ```
 
 ## Questions or Comments?

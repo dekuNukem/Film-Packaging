@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Aug 07 2025
 
-# of items: 292
+# of items: 293
 ```
 
 -----
@@ -171,6 +171,7 @@ Last Updated: Aug 07 2025
 - [Polaroid PolaPan 35mm (ref: 9825)](#polaroid-polapan-35mm-ref-9825)
 - [Polaroid Polacolor 679 (ref: 625c)](#polaroid-polacolor-679-ref-625c)
 - [Porst Color N21 (ref: 494a)](#porst-color-n21-ref-494a)
+- [Reto Amber D400 (ref: 08ad)](#reto-amber-d400-ref-08ad)
 - [Rollei Infrared (ref: eae2)](#rollei-infrared-ref-eae2)
 - [Rollei Infrared (ref: 4f54)](#rollei-infrared-ref-4f54)
 - [Rollei RPX 400 (ref: 2155)](#rollei-rpx-400-ref-2155)
@@ -2982,6 +2983,19 @@ UUID  : e08418889f714c9dbda0858718e0494a
 	<img src="./lowres/00046_001.jpg" alt="Porst Color N21 35mm film box leaflet" loading="lazy" width="500" />
 </a>
 
+#### Reto Amber D400 (ref: 08ad)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2024-12  
+Added : 2025-08-07   |  Author : TheSelousScout
+UUID  : 075938ec54de4c4bbee63671e4c208ad
+```
+
+<a href="./archive/00168_000.jpg">
+	<img src="./lowres/00168_000.jpg" alt="Reto Amber D400 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### Rollei Infrared (ref: eae2)
 
 ```
@@ -3252,6 +3266,7 @@ Rank  Username                 Contributions
 16    @seklerek                2     
 17    @ftfilmphotos            2     
 18    Yrikonchik               1     
+19    TheSelousScout           1     
 ```
 
 ## Questions or Comments?
