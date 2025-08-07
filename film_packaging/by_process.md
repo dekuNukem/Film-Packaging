@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Aug 07 2025
 
-# of items: 290
+# of items: 292
 ```
 
 -----
@@ -156,6 +156,7 @@ Last Updated: Aug 07 2025
 - [[E-4] Kodak High Speed Ektachrome (ref: b8f8)](#e-4-kodak-high-speed-ektachrome-ref-b8f8)
 - [[E-6] Fujifilm Fujichrome Professional 100D (ref: 439d)](#e-6-fujifilm-fujichrome-professional-100d-ref-439d)
 - [[E-6] Fujifilm Provia 100F (ref: 356d)](#e-6-fujifilm-provia-100f-ref-356d)
+- [[E-6] Fujifilm Provia 100F (ref: df27)](#e-6-fujifilm-provia-100f-ref-df27)
 - [[E-6] Fujifilm Sensia (ref: a59b)](#e-6-fujifilm-sensia-ref-a59b)
 - [[E-6] Fujifilm Velvia (ref: 3182)](#e-6-fujifilm-velvia-ref-3182)
 - [[E-6] Fujifilm Velvia 100F (ref: f7fb)](#e-6-fujifilm-velvia-100f-ref-f7fb)
@@ -1189,6 +1190,13 @@ UUID  : b7bb7d65979543d0a8e5c9179d734f54
 
 <a href="./archive/00030_000.jpg">
 	<img src="./lowres/00030_000.jpg" alt="Rollei Infrared 120 film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: a950a24ab9da4b23b33e0b4b9d28d5d5`↓
+
+<a href="./archive/00030_001.jpg">
+	<img src="./lowres/00030_001.jpg" alt="Rollei Infrared 120 film box outside" loading="lazy" height="500" />
 </a>
 
 #### [BW] Rollei RPX 400 (ref: 2155)
@@ -2478,6 +2486,19 @@ UUID  : a3603dbdd8ca49b893c8ce2bc76f356d
 	<img src="./lowres/00055_000.jpg" alt="Fujifilm Provia 100F 35mm film box outside" loading="lazy" height="500" />
 </a>
 
+#### [E-6] Fujifilm Provia 100F (ref: df27)
+
+```
+Format: 35mm         |  Process: E-6      
+ISO   : 100          |  Expiry : 2026-10  
+Added : 2025-08-07   |  Author : The Compartmentalist
+UUID  : 480a75f9978b4fba84c81a8a9e95df27
+```
+
+<a href="./archive/00167_000.jpg">
+	<img src="./lowres/00167_000.jpg" alt="Fujifilm Provia 100F 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [E-6] Fujifilm Sensia (ref: a59b)
 
 ```
@@ -3218,11 +3239,11 @@ Rank  Username                 Contributions
 3     Nano_Burger              18    
 4     @ob.skura                16    
 5     b0baspace                14    
-6     @SirBrentsworth          13    
-7     toader                   13    
-8     stefanie                 12    
-9     yc128                    11    
-10    The Compartmentalist     11    
+6     The Compartmentalist     13    
+7     @SirBrentsworth          13    
+8     toader                   13    
+9     stefanie                 12    
+10    yc128                    11    
 11    lilyu.xyz                9     
 12    benikum                  6     
 13    @recycling.film          5     
