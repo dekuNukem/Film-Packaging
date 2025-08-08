@@ -29,8 +29,8 @@ This project is fully open-source. [Click me for GitHub repo.](https://github.co
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 07 2025
-# of items: 293
+Last Updated: Aug 08 2025
+# of items: 297
 ```
 
 Or Sort by...
@@ -53,7 +53,7 @@ The collection is by no means complete or exhaustive, but it's a start!
 Rank  Username                 Contributions
 ---------------------------------------------
 1     dekuNukem                111   
-2     Pelicram                 39    
+2     Pelicram                 41    
 3     Nano_Burger              18    
 4     @ob.skura                16    
 5     b0baspace                14    
@@ -67,10 +67,10 @@ Rank  Username                 Contributions
 13    @recycling.film          5     
 14    Henry Gunn               4     
 15    @Hol.m35                 3     
-16    @seklerek                2     
-17    @ftfilmphotos            2     
-18    Yrikonchik               1     
-19    TheSelousScout           1     
+16    TheSelousScout           3     
+17    @seklerek                2     
+18    @ftfilmphotos            2     
+19    Yrikonchik               1     
 ```
 
 ## Disclaimer

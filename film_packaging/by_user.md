@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 07 2025
+Last Updated: Aug 08 2025
 
-# of items: 293
+# of items: 297
 ```
 
 -----
@@ -85,6 +85,7 @@ Last Updated: Aug 07 2025
 - [[Pelicram] Lomography Orca (ref: d506)](#pelicram-lomography-orca-ref-d506)
 - [[Pelicram] Lomography Tiger (ref: 26dd)](#pelicram-lomography-tiger-ref-26dd)
 - [[Pelicram] Rollei RPX 400 (ref: 2155)](#pelicram-rollei-rpx-400-ref-2155)
+- [[Pelicram] Rollei Retro 80S (ref: e23d)](#pelicram-rollei-retro-80s-ref-e23d)
 - [[Pelicram] SantaColor SantaColor (ref: f3a7)](#pelicram-santacolor-santacolor-ref-f3a7)
 - [[Pelicram] Svema Foto (ref: 26ad)](#pelicram-svema-foto-ref-26ad)
 - [[Pelicram] Wolfen NP100 (ref: 71a6)](#pelicram-wolfen-np100-ref-71a6)
@@ -99,6 +100,7 @@ Last Updated: Aug 07 2025
 - [[The Compartmentalist] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#the-compartmentalist-minolta-minolta-16-color-film-for-prints-ref-a2ff)
 - [[The Compartmentalist] ORWO NP 20 SL (ref: b16c)](#the-compartmentalist-orwo-np-20-sl-ref-b16c)
 - [[The Compartmentalist] Sakura Sakuracolor II (ref: 4f7d)](#the-compartmentalist-sakura-sakuracolor-ii-ref-4f7d)
+- [[TheSelousScout] Ilford XP2 Super (ref: 622a)](#theselousscout-ilford-xp2-super-ref-622a)
 - [[TheSelousScout] Reto Amber D400 (ref: 08ad)](#theselousscout-reto-amber-d400-ref-08ad)
 - [[Yrikonchik] Fujifilm 200 (ref: 5b41)](#yrikonchik-fujifilm-200-ref-5b41)
 - [[b0baspace] Fujifilm Fujicolor 100 (ref: 013b)](#b0baspace-fujifilm-fujicolor-100-ref-013b)
@@ -1263,6 +1265,26 @@ UUID  : 19ef81d6d03844b088250c7b54032155
 	<img src="./lowres/00136_001.jpg" alt="Rollei RPX 400 35mm film box inside" loading="lazy" width="500" />
 </a>
 
+#### [Pelicram] Rollei Retro 80S (ref: e23d)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 80           |  Expiry : 2025-09  
+Added : 2025-08-08   |  Author : Pelicram 
+UUID  : 406a06d6d4df49cfa27378242ef6e23d
+```
+
+<a href="./archive/00169_000.jpg">
+	<img src="./lowres/00169_000.jpg" alt="Rollei Retro 80S 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 1dea328c77d74bf19135dc04194df311`↓
+
+<a href="./archive/00169_001.jpg">
+	<img src="./lowres/00169_001.jpg" alt="Rollei Retro 80S 35mm film box inside" loading="lazy" height="500" />
+</a>
+
 #### [Pelicram] SantaColor SantaColor (ref: f3a7)
 
 ```
@@ -1457,6 +1479,26 @@ UUID  : 0143ad8539d84710845f4d2dc82e4f7d
 
 <a href="./archive/00122_000.jpg">
 	<img src="./lowres/00122_000.jpg" alt="Sakura Sakuracolor II 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [TheSelousScout] Ilford XP2 Super (ref: 622a)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2027-09  
+Added : 2025-08-08   |  Author : TheSelousScout
+UUID  : 5863564ab1ef43a4b41fb5312dd0622a
+```
+
+<a href="./archive/00170_000.jpg">
+	<img src="./lowres/00170_000.jpg" alt="Ilford XP2 Super 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 2e9c0e4f84414bb192512b4ce5b1e212`↓
+
+<a href="./archive/00170_001.jpg">
+	<img src="./lowres/00170_001.jpg" alt="Ilford XP2 Super 35mm film box inside" loading="lazy" height="500" />
 </a>
 
 #### [TheSelousScout] Reto Amber D400 (ref: 08ad)
@@ -3249,7 +3291,7 @@ UUID  : e54ce68c797b4846b9aee3f5818ecb58
 Rank  Username                 Contributions
 ---------------------------------------------
 1     dekuNukem                111   
-2     Pelicram                 39    
+2     Pelicram                 41    
 3     Nano_Burger              18    
 4     @ob.skura                16    
 5     b0baspace                14    
@@ -3263,10 +3305,10 @@ Rank  Username                 Contributions
 13    @recycling.film          5     
 14    Henry Gunn               4     
 15    @Hol.m35                 3     
-16    @seklerek                2     
-17    @ftfilmphotos            2     
-18    Yrikonchik               1     
-19    TheSelousScout           1     
+16    TheSelousScout           3     
+17    @seklerek                2     
+18    @ftfilmphotos            2     
+19    Yrikonchik               1     
 ```
 
 ## Questions or Comments?

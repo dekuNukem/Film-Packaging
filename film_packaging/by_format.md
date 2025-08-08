@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 07 2025
+Last Updated: Aug 08 2025
 
-# of items: 293
+# of items: 297
 ```
 
 -----
@@ -106,6 +106,7 @@ Last Updated: Aug 07 2025
 - [[35mm] Ilford Delta (ref: 9b54)](#35mm-ilford-delta-ref-9b54)
 - [[35mm] Ilford HP5 Plus (ref: c725)](#35mm-ilford-hp5-plus-ref-c725)
 - [[35mm] Ilford HP5 Plus (ref: df49)](#35mm-ilford-hp5-plus-ref-df49)
+- [[35mm] Ilford XP2 Super (ref: 622a)](#35mm-ilford-xp2-super-ref-622a)
 - [[35mm] JCH Streetpan (ref: 6e58)](#35mm-jch-streetpan-ref-6e58)
 - [[35mm] Kentmere PAN (ref: d223)](#35mm-kentmere-pan-ref-d223)
 - [[35mm] Kentmere PAN (ref: c907)](#35mm-kentmere-pan-ref-c907)
@@ -161,6 +162,7 @@ Last Updated: Aug 07 2025
 - [[35mm] Reto Amber D400 (ref: 08ad)](#35mm-reto-amber-d400-ref-08ad)
 - [[35mm] Rollei Infrared (ref: eae2)](#35mm-rollei-infrared-ref-eae2)
 - [[35mm] Rollei RPX 400 (ref: 2155)](#35mm-rollei-rpx-400-ref-2155)
+- [[35mm] Rollei Retro 80S (ref: e23d)](#35mm-rollei-retro-80s-ref-e23d)
 - [[35mm] Rollei SUPERPAN (ref: ee8f)](#35mm-rollei-superpan-ref-ee8f)
 - [[35mm] Rossmann Jahreszeiten Pack (ref: 7670)](#35mm-rossmann-jahreszeiten-pack-ref-7670)
 - [[35mm] Sakura Sakuracolor II (ref: 4f7d)](#35mm-sakura-sakuracolor-ii-ref-4f7d)
@@ -1704,6 +1706,26 @@ UUID  : 8db6d8343d544c21bfd539c32525df49
 	<img src="./lowres/00083_001.jpg" alt="Ilford HP5 Plus 35mm film box inside" loading="lazy" height="500" />
 </a>
 
+#### [35mm] Ilford XP2 Super (ref: 622a)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2027-09  
+Added : 2025-08-08   |  Author : TheSelousScout
+UUID  : 5863564ab1ef43a4b41fb5312dd0622a
+```
+
+<a href="./archive/00170_000.jpg">
+	<img src="./lowres/00170_000.jpg" alt="Ilford XP2 Super 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 2e9c0e4f84414bb192512b4ce5b1e212`↓
+
+<a href="./archive/00170_001.jpg">
+	<img src="./lowres/00170_001.jpg" alt="Ilford XP2 Super 35mm film box inside" loading="lazy" height="500" />
+</a>
+
 #### [35mm] JCH Streetpan (ref: 6e58)
 
 ```
@@ -2755,6 +2777,26 @@ UUID  : 19ef81d6d03844b088250c7b54032155
 	<img src="./lowres/00136_001.jpg" alt="Rollei RPX 400 35mm film box inside" loading="lazy" width="500" />
 </a>
 
+#### [35mm] Rollei Retro 80S (ref: e23d)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 80           |  Expiry : 2025-09  
+Added : 2025-08-08   |  Author : Pelicram 
+UUID  : 406a06d6d4df49cfa27378242ef6e23d
+```
+
+<a href="./archive/00169_000.jpg">
+	<img src="./lowres/00169_000.jpg" alt="Rollei Retro 80S 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 1dea328c77d74bf19135dc04194df311`↓
+
+<a href="./archive/00169_001.jpg">
+	<img src="./lowres/00169_001.jpg" alt="Rollei Retro 80S 35mm film box inside" loading="lazy" height="500" />
+</a>
+
 #### [35mm] Rollei SUPERPAN (ref: ee8f)
 
 ```
@@ -3249,7 +3291,7 @@ UUID  : 6032680a3aba41b39c600d7e23998f62
 Rank  Username                 Contributions
 ---------------------------------------------
 1     dekuNukem                111   
-2     Pelicram                 39    
+2     Pelicram                 41    
 3     Nano_Burger              18    
 4     @ob.skura                16    
 5     b0baspace                14    
@@ -3263,10 +3305,10 @@ Rank  Username                 Contributions
 13    @recycling.film          5     
 14    Henry Gunn               4     
 15    @Hol.m35                 3     
-16    @seklerek                2     
-17    @ftfilmphotos            2     
-18    Yrikonchik               1     
-19    TheSelousScout           1     
+16    TheSelousScout           3     
+17    @seklerek                2     
+18    @ftfilmphotos            2     
+19    Yrikonchik               1     
 ```
 
 ## Questions or Comments?

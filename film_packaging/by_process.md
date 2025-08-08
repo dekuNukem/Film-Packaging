@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 07 2025
+Last Updated: Aug 08 2025
 
-# of items: 293
+# of items: 297
 ```
 
 -----
@@ -79,6 +79,7 @@ Last Updated: Aug 07 2025
 - [[BW] Rollei Infrared (ref: eae2)](#bw-rollei-infrared-ref-eae2)
 - [[BW] Rollei Infrared (ref: 4f54)](#bw-rollei-infrared-ref-4f54)
 - [[BW] Rollei RPX 400 (ref: 2155)](#bw-rollei-rpx-400-ref-2155)
+- [[BW] Rollei Retro 80S (ref: e23d)](#bw-rollei-retro-80s-ref-e23d)
 - [[BW] Rollei Retro 80S (ref: e6c0)](#bw-rollei-retro-80s-ref-e6c0)
 - [[BW] Rollei SUPERPAN (ref: ee8f)](#bw-rollei-superpan-ref-ee8f)
 - [[BW] Shanghai GP3 (ref: 52aa)](#bw-shanghai-gp3-ref-52aa)
@@ -113,6 +114,7 @@ Last Updated: Aug 07 2025
 - [[C-41] Harman Phoenix II (ref: f686)](#c-41-harman-phoenix-ii-ref-f686)
 - [[C-41] Harman Phoenix II (ref: 40df)](#c-41-harman-phoenix-ii-ref-40df)
 - [[C-41] Hope Film Bubble (ref: 41f4)](#c-41-hope-film-bubble-ref-41f4)
+- [[C-41] Ilford XP2 Super (ref: 622a)](#c-41-ilford-xp2-super-ref-622a)
 - [[C-41] Jessops Diamond Everyday (ref: 67d3)](#c-41-jessops-diamond-everyday-ref-67d3)
 - [[C-41] Klick APS Film (ref: 4b88)](#c-41-klick-aps-film-ref-4b88)
 - [[C-41] Klick XD200 (ref: 44d7)](#c-41-klick-xd200-ref-44d7)
@@ -1220,6 +1222,26 @@ UUID  : 19ef81d6d03844b088250c7b54032155
 	<img src="./lowres/00136_001.jpg" alt="Rollei RPX 400 35mm film box inside" loading="lazy" width="500" />
 </a>
 
+#### [BW] Rollei Retro 80S (ref: e23d)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 80           |  Expiry : 2025-09  
+Added : 2025-08-08   |  Author : Pelicram 
+UUID  : 406a06d6d4df49cfa27378242ef6e23d
+```
+
+<a href="./archive/00169_000.jpg">
+	<img src="./lowres/00169_000.jpg" alt="Rollei Retro 80S 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 1dea328c77d74bf19135dc04194df311`↓
+
+<a href="./archive/00169_001.jpg">
+	<img src="./lowres/00169_001.jpg" alt="Rollei Retro 80S 35mm film box inside" loading="lazy" height="500" />
+</a>
+
 #### [BW] Rollei Retro 80S (ref: e6c0)
 
 ```
@@ -1814,6 +1836,26 @@ UUID  : b09848420a1a4d76b099d82d76bc41f4
 
 <a href="./archive/00164_000.jpg">
 	<img src="./lowres/00164_000.jpg" alt="Hope Film Bubble 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+#### [C-41] Ilford XP2 Super (ref: 622a)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2027-09  
+Added : 2025-08-08   |  Author : TheSelousScout
+UUID  : 5863564ab1ef43a4b41fb5312dd0622a
+```
+
+<a href="./archive/00170_000.jpg">
+	<img src="./lowres/00170_000.jpg" alt="Ilford XP2 Super 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 2e9c0e4f84414bb192512b4ce5b1e212`↓
+
+<a href="./archive/00170_001.jpg">
+	<img src="./lowres/00170_001.jpg" alt="Ilford XP2 Super 35mm film box inside" loading="lazy" height="500" />
 </a>
 
 #### [C-41] Jessops Diamond Everyday (ref: 67d3)
@@ -3249,7 +3291,7 @@ UUID  : 6032680a3aba41b39c600d7e23998f62
 Rank  Username                 Contributions
 ---------------------------------------------
 1     dekuNukem                111   
-2     Pelicram                 39    
+2     Pelicram                 41    
 3     Nano_Burger              18    
 4     @ob.skura                16    
 5     b0baspace                14    
@@ -3263,10 +3305,10 @@ Rank  Username                 Contributions
 13    @recycling.film          5     
 14    Henry Gunn               4     
 15    @Hol.m35                 3     
-16    @seklerek                2     
-17    @ftfilmphotos            2     
-18    Yrikonchik               1     
-19    TheSelousScout           1     
+16    TheSelousScout           3     
+17    @seklerek                2     
+18    @ftfilmphotos            2     
+19    Yrikonchik               1     
 ```
 
 ## Questions or Comments?

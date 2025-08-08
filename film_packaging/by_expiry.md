@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 07 2025
+Last Updated: Aug 08 2025
 
-# of items: 293
+# of items: 297
 ```
 
 -----
@@ -130,6 +130,7 @@ Last Updated: Aug 07 2025
 - [[2025] Lomography Lomochrome Turquoise (ref: 0d90)](#2025-lomography-lomochrome-turquoise-ref-0d90)
 - [[2025] Kodak ColorPlus (ref: 79ca)](#2025-kodak-colorplus-ref-79ca)
 - [[2025] Lomography Babylon (ref: 7afa)](#2025-lomography-babylon-ref-7afa)
+- [[2025] Rollei Retro 80S (ref: e23d)](#2025-rollei-retro-80s-ref-e23d)
 - [[2025] SantaColor SantaColor (ref: cb58)](#2025-santacolor-santacolor-ref-cb58)
 - [[2025] SantaColor SantaColor (ref: f3a7)](#2025-santacolor-santacolor-ref-f3a7)
 - [[2025] Ilford HP5 Plus (ref: efad)](#2025-ilford-hp5-plus-ref-efad)
@@ -176,6 +177,7 @@ Last Updated: Aug 07 2025
 - [[2027] Foma Fomapan (ref: 0030)](#2027-foma-fomapan-ref-0030)
 - [[2027] Lomography Orca (ref: d506)](#2027-lomography-orca-ref-d506)
 - [[2027] Rollei Infrared (ref: 4f54)](#2027-rollei-infrared-ref-4f54)
+- [[2027] Ilford XP2 Super (ref: 622a)](#2027-ilford-xp2-super-ref-622a)
 - [[2027] Wolfen NP100 (ref: 71a6)](#2027-wolfen-np100-ref-71a6)
 - [[2028] Foma Fomapan (ref: 84a5)](#2028-foma-fomapan-ref-84a5)
 - [[2028] Rollei SUPERPAN (ref: ee8f)](#2028-rollei-superpan-ref-ee8f)
@@ -2289,6 +2291,26 @@ UUID  : 9d7f531c7a764f9689228ab477297afa
 	<img src="./lowres/00147_000.jpg" alt="Lomography Babylon 35mm film box outside" loading="lazy" width="500" />
 </a>
 
+#### [2025] Rollei Retro 80S (ref: e23d)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 80           |  Expiry : 2025-09  
+Added : 2025-08-08   |  Author : Pelicram 
+UUID  : 406a06d6d4df49cfa27378242ef6e23d
+```
+
+<a href="./archive/00169_000.jpg">
+	<img src="./lowres/00169_000.jpg" alt="Rollei Retro 80S 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 1dea328c77d74bf19135dc04194df311`↓
+
+<a href="./archive/00169_001.jpg">
+	<img src="./lowres/00169_001.jpg" alt="Rollei Retro 80S 35mm film box inside" loading="lazy" height="500" />
+</a>
+
 #### [2025] SantaColor SantaColor (ref: cb58)
 
 ```
@@ -3027,6 +3049,26 @@ UUID  : b7bb7d65979543d0a8e5c9179d734f54
 	<img src="./lowres/00030_001.jpg" alt="Rollei Infrared 120 film box outside" loading="lazy" height="500" />
 </a>
 
+#### [2027] Ilford XP2 Super (ref: 622a)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2027-09  
+Added : 2025-08-08   |  Author : TheSelousScout
+UUID  : 5863564ab1ef43a4b41fb5312dd0622a
+```
+
+<a href="./archive/00170_000.jpg">
+	<img src="./lowres/00170_000.jpg" alt="Ilford XP2 Super 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 2e9c0e4f84414bb192512b4ce5b1e212`↓
+
+<a href="./archive/00170_001.jpg">
+	<img src="./lowres/00170_001.jpg" alt="Ilford XP2 Super 35mm film box inside" loading="lazy" height="500" />
+</a>
+
 #### [2027] Wolfen NP100 (ref: 71a6)
 
 ```
@@ -3249,7 +3291,7 @@ UUID  : b220e7d5dbee49898fbd1d42ee67c90d
 Rank  Username                 Contributions
 ---------------------------------------------
 1     dekuNukem                111   
-2     Pelicram                 39    
+2     Pelicram                 41    
 3     Nano_Burger              18    
 4     @ob.skura                16    
 5     b0baspace                14    
@@ -3263,10 +3305,10 @@ Rank  Username                 Contributions
 13    @recycling.film          5     
 14    Henry Gunn               4     
 15    @Hol.m35                 3     
-16    @seklerek                2     
-17    @ftfilmphotos            2     
-18    Yrikonchik               1     
-19    TheSelousScout           1     
+16    TheSelousScout           3     
+17    @seklerek                2     
+18    @ftfilmphotos            2     
+19    Yrikonchik               1     
 ```
 
 ## Questions or Comments?

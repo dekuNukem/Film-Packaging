@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 07 2025
+Last Updated: Aug 08 2025
 
-# of items: 293
+# of items: 297
 ```
 
 -----
@@ -85,6 +85,7 @@ Last Updated: Aug 07 2025
 - [Ilford HP5 Plus (ref: 1a5d)](#ilford-hp5-plus-ref-1a5d)
 - [Ilford HP5 Plus (ref: df49)](#ilford-hp5-plus-ref-df49)
 - [Ilford SFX 200 (ref: 6057)](#ilford-sfx-200-ref-6057)
+- [Ilford XP2 Super (ref: 622a)](#ilford-xp2-super-ref-622a)
 - [JCH Streetpan (ref: 6e58)](#jch-streetpan-ref-6e58)
 - [Jessops Diamond Everyday (ref: 67d3)](#jessops-diamond-everyday-ref-67d3)
 - [Kentmere PAN (ref: d223)](#kentmere-pan-ref-d223)
@@ -175,6 +176,7 @@ Last Updated: Aug 07 2025
 - [Rollei Infrared (ref: eae2)](#rollei-infrared-ref-eae2)
 - [Rollei Infrared (ref: 4f54)](#rollei-infrared-ref-4f54)
 - [Rollei RPX 400 (ref: 2155)](#rollei-rpx-400-ref-2155)
+- [Rollei Retro 80S (ref: e23d)](#rollei-retro-80s-ref-e23d)
 - [Rollei Retro 80S (ref: e6c0)](#rollei-retro-80s-ref-e6c0)
 - [Rollei SUPERPAN (ref: ee8f)](#rollei-superpan-ref-ee8f)
 - [Rossmann Jahreszeiten Pack (ref: 7670)](#rossmann-jahreszeiten-pack-ref-7670)
@@ -1338,6 +1340,26 @@ UUID  : 7856b5442362453caa67628c93be6057
 
 <a href="./archive/00009_001.jpg">
 	<img src="./lowres/00009_001.jpg" alt="Ilford SFX 200 120 film box inside" loading="lazy" width="500" />
+</a>
+
+#### Ilford XP2 Super (ref: 622a)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2027-09  
+Added : 2025-08-08   |  Author : TheSelousScout
+UUID  : 5863564ab1ef43a4b41fb5312dd0622a
+```
+
+<a href="./archive/00170_000.jpg">
+	<img src="./lowres/00170_000.jpg" alt="Ilford XP2 Super 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 2e9c0e4f84414bb192512b4ce5b1e212`↓
+
+<a href="./archive/00170_001.jpg">
+	<img src="./lowres/00170_001.jpg" alt="Ilford XP2 Super 35mm film box inside" loading="lazy" height="500" />
 </a>
 
 #### JCH Streetpan (ref: 6e58)
@@ -3056,6 +3078,26 @@ UUID  : 19ef81d6d03844b088250c7b54032155
 	<img src="./lowres/00136_001.jpg" alt="Rollei RPX 400 35mm film box inside" loading="lazy" width="500" />
 </a>
 
+#### Rollei Retro 80S (ref: e23d)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 80           |  Expiry : 2025-09  
+Added : 2025-08-08   |  Author : Pelicram 
+UUID  : 406a06d6d4df49cfa27378242ef6e23d
+```
+
+<a href="./archive/00169_000.jpg">
+	<img src="./lowres/00169_000.jpg" alt="Rollei Retro 80S 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 1dea328c77d74bf19135dc04194df311`↓
+
+<a href="./archive/00169_001.jpg">
+	<img src="./lowres/00169_001.jpg" alt="Rollei Retro 80S 35mm film box inside" loading="lazy" height="500" />
+</a>
+
 #### Rollei Retro 80S (ref: e6c0)
 
 ```
@@ -3249,7 +3291,7 @@ UUID  : 46037fb6c55244b6ae47c55d0e454bf8
 Rank  Username                 Contributions
 ---------------------------------------------
 1     dekuNukem                111   
-2     Pelicram                 39    
+2     Pelicram                 41    
 3     Nano_Burger              18    
 4     @ob.skura                16    
 5     b0baspace                14    
@@ -3263,10 +3305,10 @@ Rank  Username                 Contributions
 13    @recycling.film          5     
 14    Henry Gunn               4     
 15    @Hol.m35                 3     
-16    @seklerek                2     
-17    @ftfilmphotos            2     
-18    Yrikonchik               1     
-19    TheSelousScout           1     
+16    TheSelousScout           3     
+17    @seklerek                2     
+18    @ftfilmphotos            2     
+19    Yrikonchik               1     
 ```
 
 ## Questions or Comments?

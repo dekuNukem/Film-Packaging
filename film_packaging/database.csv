@@ -292,3 +292,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 166,0,film_box_outside,Boots,Colour Print Film,35mm,200,C-41,201302,1754577851,96029452cd95be1af4030d008117585f,bd601340027a4c9daa7e219b414fa30f,00166_000.jpg,@Hol.m35
 167,0,film_box_outside,Fujifilm,Provia 100F,35mm,100,E-6,202610,1754578311,c2200d932ac8d8b894ce65cc1bd188d5,480a75f9978b4fba84c81a8a9e95df27,00167_000.jpg,The Compartmentalist
 168,0,film_box_outside,Reto,Amber D400,35mm,400,C-41,202412,1754593829,a596f09ea6b6ac79938297f7402b89c4,075938ec54de4c4bbee63671e4c208ad,00168_000.jpg,TheSelousScout
+169,0,film_box_outside,Rollei,Retro 80S,35mm,80,BW,202509,1754665604,b3d5a20967e30a6314a03273205e61ed,406a06d6d4df49cfa27378242ef6e23d,00169_000.jpg,Pelicram
+169,1,film_box_inside,Rollei,Retro 80S,35mm,80,BW,202509,1754665606,cfdbfc707dffb07dfc00a48700d0a81c,1dea328c77d74bf19135dc04194df311,00169_001.jpg,Pelicram
+170,0,film_box_outside,Ilford,XP2 Super,35mm,400,C-41,202709,1754696970,ae5b95641389af4a3c73316fcbde65ac,5863564ab1ef43a4b41fb5312dd0622a,00170_000.jpg,TheSelousScout
+170,1,film_box_inside,Ilford,XP2 Super,35mm,400,C-41,202709,1754696971,5619bb09ccca5518b0b0e75ec952365d,2e9c0e4f84414bb192512b4ce5b1e212,00170_001.jpg,TheSelousScout
