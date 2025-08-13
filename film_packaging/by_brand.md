@@ -15,14 +15,15 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 08 2025
+Last Updated: Aug 13 2025
 
-# of items: 297
+# of items: 300
 ```
 
 -----
 
 - [ADOX KB17 (ref: 2c95)](#adox-kb17-ref-2c95)
+- [Adox HR 50 (ref: 4da7)](#adox-hr-50-ref-4da7)
 - [Agfa APX (ref: 12c7)](#agfa-apx-ref-12c7)
 - [Agfa APX (ref: 5276)](#agfa-apx-ref-5276)
 - [Agfa Agfacolor XRG (ref: 689e)](#agfa-agfacolor-xrg-ref-689e)
@@ -46,6 +47,7 @@ Last Updated: Aug 08 2025
 - [Foma Fomapan (ref: 65ad)](#foma-fomapan-ref-65ad)
 - [Foma Fomapan (ref: 0030)](#foma-fomapan-ref-0030)
 - [Foma Fomapan (ref: 84a5)](#foma-fomapan-ref-84a5)
+- [Foma Fomapan (ref: 60ee)](#foma-fomapan-ref-60ee)
 - [Foma Fomapan21 (ref: 75d9)](#foma-fomapan21-ref-75d9)
 - [Foma Ortho (ref: 89e7)](#foma-ortho-ref-89e7)
 - [Fujifilm 200 (ref: 5b41)](#fujifilm-200-ref-5b41)
@@ -212,6 +214,26 @@ UUID  : 14047842e1a641268bfd4d01fcf02c95
 
 <a href="./archive/00065_001.jpg">
 	<img src="./lowres/00065_001.jpg" alt="ADOX KB17 35mm film box inside" loading="lazy" width="500" />
+</a>
+
+#### Adox HR 50 (ref: 4da7)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 50           |  Expiry : 2027-07  
+Added : 2025-08-13   |  Author : Pelicram 
+UUID  : a504b8da97b642908de921d1053d4da7
+```
+
+<a href="./archive/00171_000.jpg">
+	<img src="./lowres/00171_000.jpg" alt="Adox HR 50 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: f5e745758ed2479ea297dce9275f3508`↓
+
+<a href="./archive/00171_001.jpg">
+	<img src="./lowres/00171_001.jpg" alt="Adox HR 50 35mm film box inside" loading="lazy" height="500" />
 </a>
 
 #### Agfa APX (ref: 12c7)
@@ -609,6 +631,19 @@ UUID  : c3d51159b481435b90dbe2411de784a5
 
 <a href="./archive/00092_001.jpg">
 	<img src="./lowres/00092_001.jpg" alt="Foma Fomapan 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### Foma Fomapan (ref: 60ee)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 200          |  Expiry : 2028-05  
+Added : 2025-08-13   |  Author : Pelicram 
+UUID  : 840026a068594c3389b34374204f60ee
+```
+
+<a href="./archive/00172_000.jpg">
+	<img src="./lowres/00172_000.jpg" alt="Foma Fomapan 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### Foma Fomapan21 (ref: 75d9)
@@ -3291,7 +3326,7 @@ UUID  : 46037fb6c55244b6ae47c55d0e454bf8
 Rank  Username                 Contributions
 ---------------------------------------------
 1     dekuNukem                111   
-2     Pelicram                 41    
+2     Pelicram                 44    
 3     Nano_Burger              18    
 4     @ob.skura                16    
 5     b0baspace                14    

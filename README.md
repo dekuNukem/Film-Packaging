@@ -29,8 +29,8 @@ This project is fully open-source. [Click me for GitHub repo.](https://github.co
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 08 2025
-# of items: 297
+Last Updated: Aug 13 2025
+# of items: 300
 ```
 
 Or Sort by...
@@ -53,7 +53,7 @@ The collection is by no means complete or exhaustive, but it's a start!
 Rank  Username                 Contributions
 ---------------------------------------------
 1     dekuNukem                111   
-2     Pelicram                 41    
+2     Pelicram                 44    
 3     Nano_Burger              18    
 4     @ob.skura                16    
 5     b0baspace                14    

@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 08 2025
+Last Updated: Aug 13 2025
 
-# of items: 297
+# of items: 300
 ```
 
 -----
@@ -69,6 +69,7 @@ Last Updated: Aug 08 2025
 - [[16mm] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#16mm-minolta-minolta-16-color-film-for-prints-ref-a2ff)
 - [[220] Kodak Ektacolor Pro Gold (ref: c3f8)](#220-kodak-ektacolor-pro-gold-ref-c3f8)
 - [[35mm] ADOX KB17 (ref: 2c95)](#35mm-adox-kb17-ref-2c95)
+- [[35mm] Adox HR 50 (ref: 4da7)](#35mm-adox-hr-50-ref-4da7)
 - [[35mm] Agfa APX (ref: 5276)](#35mm-agfa-apx-ref-5276)
 - [[35mm] Agfa Agfacolor XRG (ref: 689e)](#35mm-agfa-agfacolor-xrg-ref-689e)
 - [[35mm] Agfa Agfapan Rapid (ref: 5e7b)](#35mm-agfa-agfapan-rapid-ref-5e7b)
@@ -84,6 +85,7 @@ Last Updated: Aug 08 2025
 - [[35mm] Efiniti UXi super 200 (ref: 471a)](#35mm-efiniti-uxi-super-200-ref-471a)
 - [[35mm] Foma Fomapan (ref: 0030)](#35mm-foma-fomapan-ref-0030)
 - [[35mm] Foma Fomapan (ref: 84a5)](#35mm-foma-fomapan-ref-84a5)
+- [[35mm] Foma Fomapan (ref: 60ee)](#35mm-foma-fomapan-ref-60ee)
 - [[35mm] Fujifilm 200 (ref: 5b41)](#35mm-fujifilm-200-ref-5b41)
 - [[35mm] Fujifilm Fujicolor 100 (ref: 013b)](#35mm-fujifilm-fujicolor-100-ref-013b)
 - [[35mm] Fujifilm Fujicolor Professional (ref: 28da)](#35mm-fujifilm-fujicolor-professional-ref-28da)
@@ -1085,6 +1087,26 @@ UUID  : 14047842e1a641268bfd4d01fcf02c95
 	<img src="./lowres/00065_001.jpg" alt="ADOX KB17 35mm film box inside" loading="lazy" width="500" />
 </a>
 
+#### [35mm] Adox HR 50 (ref: 4da7)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 50           |  Expiry : 2027-07  
+Added : 2025-08-13   |  Author : Pelicram 
+UUID  : a504b8da97b642908de921d1053d4da7
+```
+
+<a href="./archive/00171_000.jpg">
+	<img src="./lowres/00171_000.jpg" alt="Adox HR 50 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: f5e745758ed2479ea297dce9275f3508`↓
+
+<a href="./archive/00171_001.jpg">
+	<img src="./lowres/00171_001.jpg" alt="Adox HR 50 35mm film box inside" loading="lazy" height="500" />
+</a>
+
 #### [35mm] Agfa APX (ref: 5276)
 
 ```
@@ -1334,6 +1356,19 @@ UUID  : c3d51159b481435b90dbe2411de784a5
 
 <a href="./archive/00092_001.jpg">
 	<img src="./lowres/00092_001.jpg" alt="Foma Fomapan 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### [35mm] Foma Fomapan (ref: 60ee)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 200          |  Expiry : 2028-05  
+Added : 2025-08-13   |  Author : Pelicram 
+UUID  : 840026a068594c3389b34374204f60ee
+```
+
+<a href="./archive/00172_000.jpg">
+	<img src="./lowres/00172_000.jpg" alt="Foma Fomapan 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [35mm] Fujifilm 200 (ref: 5b41)
@@ -3291,7 +3326,7 @@ UUID  : 6032680a3aba41b39c600d7e23998f62
 Rank  Username                 Contributions
 ---------------------------------------------
 1     dekuNukem                111   
-2     Pelicram                 41    
+2     Pelicram                 44    
 3     Nano_Burger              18    
 4     @ob.skura                16    
 5     b0baspace                14    

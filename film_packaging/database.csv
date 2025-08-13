@@ -296,3 +296,6 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 169,1,film_box_inside,Rollei,Retro 80S,35mm,80,BW,202509,1754665606,cfdbfc707dffb07dfc00a48700d0a81c,1dea328c77d74bf19135dc04194df311,00169_001.jpg,Pelicram
 170,0,film_box_outside,Ilford,XP2 Super,35mm,400,C-41,202709,1754696970,ae5b95641389af4a3c73316fcbde65ac,5863564ab1ef43a4b41fb5312dd0622a,00170_000.jpg,TheSelousScout
 170,1,film_box_inside,Ilford,XP2 Super,35mm,400,C-41,202709,1754696971,5619bb09ccca5518b0b0e75ec952365d,2e9c0e4f84414bb192512b4ce5b1e212,00170_001.jpg,TheSelousScout
+171,0,film_box_outside,Adox,HR 50,35mm,50,BW,202707,1755093421,b7f57209010598503486db95b11f39db,a504b8da97b642908de921d1053d4da7,00171_000.jpg,Pelicram
+171,1,film_box_inside,Adox,HR 50,35mm,50,BW,202707,1755093423,5dd0288ea160ba95f7d09a70547de0ca,f5e745758ed2479ea297dce9275f3508,00171_001.jpg,Pelicram
+172,0,film_box_outside,Foma,Fomapan,35mm,200,BW,202805,1755093471,feea4b4b2c4e7fbbcb06fbe7d2c1520e,840026a068594c3389b34374204f60ee,00172_000.jpg,Pelicram

@@ -15,15 +15,16 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 08 2025
+Last Updated: Aug 13 2025
 
-# of items: 297
+# of items: 300
 ```
 
 -----
 
 - [[AR-1] GAF Color Slide Film (ref: dea6)](#ar-1-gaf-color-slide-film-ref-dea6)
 - [[BW] ADOX KB17 (ref: 2c95)](#bw-adox-kb17-ref-2c95)
+- [[BW] Adox HR 50 (ref: 4da7)](#bw-adox-hr-50-ref-4da7)
 - [[BW] Agfa APX (ref: 12c7)](#bw-agfa-apx-ref-12c7)
 - [[BW] Agfa APX (ref: 5276)](#bw-agfa-apx-ref-5276)
 - [[BW] Agfa Agfapan Rapid (ref: 5e7b)](#bw-agfa-agfapan-rapid-ref-5e7b)
@@ -38,6 +39,7 @@ Last Updated: Aug 08 2025
 - [[BW] Foma Fomapan (ref: 65ad)](#bw-foma-fomapan-ref-65ad)
 - [[BW] Foma Fomapan (ref: 0030)](#bw-foma-fomapan-ref-0030)
 - [[BW] Foma Fomapan (ref: 84a5)](#bw-foma-fomapan-ref-84a5)
+- [[BW] Foma Fomapan (ref: 60ee)](#bw-foma-fomapan-ref-60ee)
 - [[BW] Foma Fomapan21 (ref: 75d9)](#bw-foma-fomapan21-ref-75d9)
 - [[BW] Foma Ortho (ref: 89e7)](#bw-foma-ortho-ref-89e7)
 - [[BW] Fujifilm Neopan SS Rapid (ref: 9db3)](#bw-fujifilm-neopan-ss-rapid-ref-9db3)
@@ -239,6 +241,26 @@ UUID  : 14047842e1a641268bfd4d01fcf02c95
 
 <a href="./archive/00065_001.jpg">
 	<img src="./lowres/00065_001.jpg" alt="ADOX KB17 35mm film box inside" loading="lazy" width="500" />
+</a>
+
+#### [BW] Adox HR 50 (ref: 4da7)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 50           |  Expiry : 2027-07  
+Added : 2025-08-13   |  Author : Pelicram 
+UUID  : a504b8da97b642908de921d1053d4da7
+```
+
+<a href="./archive/00171_000.jpg">
+	<img src="./lowres/00171_000.jpg" alt="Adox HR 50 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: f5e745758ed2479ea297dce9275f3508`↓
+
+<a href="./archive/00171_001.jpg">
+	<img src="./lowres/00171_001.jpg" alt="Adox HR 50 35mm film box inside" loading="lazy" height="500" />
 </a>
 
 #### [BW] Agfa APX (ref: 12c7)
@@ -484,6 +506,19 @@ UUID  : c3d51159b481435b90dbe2411de784a5
 
 <a href="./archive/00092_001.jpg">
 	<img src="./lowres/00092_001.jpg" alt="Foma Fomapan 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### [BW] Foma Fomapan (ref: 60ee)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 200          |  Expiry : 2028-05  
+Added : 2025-08-13   |  Author : Pelicram 
+UUID  : 840026a068594c3389b34374204f60ee
+```
+
+<a href="./archive/00172_000.jpg">
+	<img src="./lowres/00172_000.jpg" alt="Foma Fomapan 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [BW] Foma Fomapan21 (ref: 75d9)
@@ -3291,7 +3326,7 @@ UUID  : 6032680a3aba41b39c600d7e23998f62
 Rank  Username                 Contributions
 ---------------------------------------------
 1     dekuNukem                111   
-2     Pelicram                 41    
+2     Pelicram                 44    
 3     Nano_Burger              18    
 4     @ob.skura                16    
 5     b0baspace                14    

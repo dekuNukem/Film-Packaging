@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 08 2025
+Last Updated: Aug 13 2025
 
-# of items: 297
+# of items: 300
 ```
 
 -----
@@ -62,11 +62,13 @@ Last Updated: Aug 08 2025
 - [[Nano_Burger] Kodak Rapid Process Copy Film (ref: e66e)](#nano_burger-kodak-rapid-process-copy-film-ref-e66e)
 - [[Nano_Burger] Kodak TMAX (ref: 1dff)](#nano_burger-kodak-tmax-ref-1dff)
 - [[Nano_Burger] Kodak Technical Pan (ref: f4cf)](#nano_burger-kodak-technical-pan-ref-f4cf)
+- [[Pelicram] Adox HR 50 (ref: 4da7)](#pelicram-adox-hr-50-ref-4da7)
 - [[Pelicram] Agfa Isopan ISS (ref: 75fa)](#pelicram-agfa-isopan-iss-ref-75fa)
 - [[Pelicram] Bergger Pancro400 (ref: ad7b)](#pelicram-bergger-pancro400-ref-ad7b)
 - [[Pelicram] Bergger Pancro400 (ref: f619)](#pelicram-bergger-pancro400-ref-f619)
 - [[Pelicram] Foma Fomapan (ref: 65ad)](#pelicram-foma-fomapan-ref-65ad)
 - [[Pelicram] Foma Fomapan (ref: 0030)](#pelicram-foma-fomapan-ref-0030)
+- [[Pelicram] Foma Fomapan (ref: 60ee)](#pelicram-foma-fomapan-ref-60ee)
 - [[Pelicram] Foma Ortho (ref: 89e7)](#pelicram-foma-ortho-ref-89e7)
 - [[Pelicram] Fujifilm Fujicolor Superia (ref: d1b7)](#pelicram-fujifilm-fujicolor-superia-ref-d1b7)
 - [[Pelicram] Hazenfilm Sorolla Chrome (ref: 889f)](#pelicram-hazenfilm-sorolla-chrome-ref-889f)
@@ -875,6 +877,26 @@ UUID  : e65b4252384141028ee037892c6bf4cf
 	<img src="./lowres/00106_001.jpg" alt="Kodak Technical Pan 35mm film box inside" loading="lazy" height="500" />
 </a>
 
+#### [Pelicram] Adox HR 50 (ref: 4da7)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 50           |  Expiry : 2027-07  
+Added : 2025-08-13   |  Author : Pelicram 
+UUID  : a504b8da97b642908de921d1053d4da7
+```
+
+<a href="./archive/00171_000.jpg">
+	<img src="./lowres/00171_000.jpg" alt="Adox HR 50 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: f5e745758ed2479ea297dce9275f3508`↓
+
+<a href="./archive/00171_001.jpg">
+	<img src="./lowres/00171_001.jpg" alt="Adox HR 50 35mm film box inside" loading="lazy" height="500" />
+</a>
+
 #### [Pelicram] Agfa Isopan ISS (ref: 75fa)
 
 ```
@@ -966,6 +988,19 @@ UUID  : bf1734a1ea48495d92afb7d03bdf0030
 
 <a href="./archive/00129_001.jpg">
 	<img src="./lowres/00129_001.jpg" alt="Foma Fomapan 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### [Pelicram] Foma Fomapan (ref: 60ee)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 200          |  Expiry : 2028-05  
+Added : 2025-08-13   |  Author : Pelicram 
+UUID  : 840026a068594c3389b34374204f60ee
+```
+
+<a href="./archive/00172_000.jpg">
+	<img src="./lowres/00172_000.jpg" alt="Foma Fomapan 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [Pelicram] Foma Ortho (ref: 89e7)
@@ -3291,7 +3326,7 @@ UUID  : e54ce68c797b4846b9aee3f5818ecb58
 Rank  Username                 Contributions
 ---------------------------------------------
 1     dekuNukem                111   
-2     Pelicram                 41    
+2     Pelicram                 44    
 3     Nano_Burger              18    
 4     @ob.skura                16    
 5     b0baspace                14    
