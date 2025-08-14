@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 13 2025
+Last Updated: Aug 14 2025
 
-# of items: 300
+# of items: 319
 ```
 
 -----
@@ -29,6 +29,7 @@ Last Updated: Aug 13 2025
 - [Agfa Agfacolor XRG (ref: 689e)](#agfa-agfacolor-xrg-ref-689e)
 - [Agfa Agfapan Rapid (ref: 5e7b)](#agfa-agfapan-rapid-ref-5e7b)
 - [Agfa Autolith Repo (ref: 8e68)](#agfa-autolith-repo-ref-8e68)
+- [Agfa Fine-Grain Plenachrome (ref: e5d4)](#agfa-fine-grain-plenachrome-ref-e5d4)
 - [Agfa Isopan FF (ref: 3700)](#agfa-isopan-ff-ref-3700)
 - [Agfa Isopan ISS (ref: 75fa)](#agfa-isopan-iss-ref-75fa)
 - [Agfa ULTRA 50 (ref: 4faa)](#agfa-ultra-50-ref-4faa)
@@ -51,9 +52,11 @@ Last Updated: Aug 13 2025
 - [Foma Fomapan21 (ref: 75d9)](#foma-fomapan21-ref-75d9)
 - [Foma Ortho (ref: 89e7)](#foma-ortho-ref-89e7)
 - [Fujifilm 200 (ref: 5b41)](#fujifilm-200-ref-5b41)
+- [Fujifilm Fujichrome 64T Type II Professional (ref: 74a1)](#fujifilm-fujichrome-64t-type-ii-professional-ref-74a1)
 - [Fujifilm Fujichrome Professional 100D (ref: 439d)](#fujifilm-fujichrome-professional-100d-ref-439d)
 - [Fujifilm Fujicolor 100 (ref: 013b)](#fujifilm-fujicolor-100-ref-013b)
 - [Fujifilm Fujicolor NPL 160 (ref: d10b)](#fujifilm-fujicolor-npl-160-ref-d10b)
+- [Fujifilm Fujicolor Natura 1600 (ref: 2e06)](#fujifilm-fujicolor-natura-1600-ref-2e06)
 - [Fujifilm Fujicolor Professional (ref: 28da)](#fujifilm-fujicolor-professional-ref-28da)
 - [Fujifilm Fujicolor Super HR (ref: aaa0)](#fujifilm-fujicolor-super-hr-ref-aaa0)
 - [Fujifilm Fujicolor SuperHG (ref: ee94)](#fujifilm-fujicolor-superhg-ref-ee94)
@@ -100,11 +103,13 @@ Last Updated: Aug 13 2025
 - [Kodak ColorPlus (ref: 79ca)](#kodak-colorplus-ref-79ca)
 - [Kodak ColorPlus (ref: 6637)](#kodak-colorplus-ref-6637)
 - [Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
+- [Kodak Eastman Tri-X Reversal Film 7278 (ref: 8468)](#kodak-eastman-tri-x-reversal-film-7278-ref-8468)
 - [Kodak Ektachrome (ref: 07c0)](#kodak-ektachrome-ref-07c0)
 - [Kodak Ektachrome (ref: 8f62)](#kodak-ektachrome-ref-8f62)
 - [Kodak Ektachrome (ref: 3c96)](#kodak-ektachrome-ref-3c96)
 - [Kodak Ektachrome (ref: b21e)](#kodak-ektachrome-ref-b21e)
 - [Kodak Ektachrome 100 Plus (ref: 5d9f)](#kodak-ektachrome-100-plus-ref-5d9f)
+- [Kodak Ektachrome 64T (ref: 8f4f)](#kodak-ektachrome-64t-ref-8f4f)
 - [Kodak Ektachrome E100 (ref: ae10)](#kodak-ektachrome-e100-ref-ae10)
 - [Kodak Ektachrome E100VS (ref: a8d3)](#kodak-ektachrome-e100vs-ref-a8d3)
 - [Kodak Ektachrome Elite (ref: 26ef)](#kodak-ektachrome-elite-ref-26ef)
@@ -113,6 +118,7 @@ Last Updated: Aug 13 2025
 - [Kodak Ektacolor Pro Gold (ref: c3f8)](#kodak-ektacolor-pro-gold-ref-c3f8)
 - [Kodak Ektar (ref: 3498)](#kodak-ektar-ref-3498)
 - [Kodak Elite Chrome (ref: 523c)](#kodak-elite-chrome-ref-523c)
+- [Kodak Elite Chrome (ref: 3943)](#kodak-elite-chrome-ref-3943)
 - [Kodak Gold (ref: f368)](#kodak-gold-ref-f368)
 - [Kodak Gold (ref: 2f8d)](#kodak-gold-ref-2f8d)
 - [Kodak Gold (ref: ea58)](#kodak-gold-ref-ea58)
@@ -120,6 +126,7 @@ Last Updated: Aug 13 2025
 - [Kodak Gold (ref: 933f)](#kodak-gold-ref-933f)
 - [Kodak Gold (ref: 855e)](#kodak-gold-ref-855e)
 - [Kodak Gold Ultra (ref: 1358)](#kodak-gold-ultra-ref-1358)
+- [Kodak High Contrast Copy Film (ref: db52)](#kodak-high-contrast-copy-film-ref-db52)
 - [Kodak High Speed Ektachrome (ref: ce7f)](#kodak-high-speed-ektachrome-ref-ce7f)
 - [Kodak High Speed Ektachrome (ref: ec3d)](#kodak-high-speed-ektachrome-ref-ec3d)
 - [Kodak High Speed Ektachrome (ref: b8f8)](#kodak-high-speed-ektachrome-ref-b8f8)
@@ -134,7 +141,9 @@ Last Updated: Aug 13 2025
 - [Kodak Kodacolor-X (ref: a4b1)](#kodak-kodacolor-x-ref-a4b1)
 - [Kodak Kodacolor-X (ref: 5302)](#kodak-kodacolor-x-ref-5302)
 - [Kodak Portra 160 (ref: ce56)](#kodak-portra-160-ref-ce56)
+- [Kodak Portra 400NC (ref: b8de)](#kodak-portra-400nc-ref-b8de)
 - [Kodak Portra 800 (ref: 7d65)](#kodak-portra-800-ref-7d65)
+- [Kodak Professional Microfilm Type I (ref: a444)](#kodak-professional-microfilm-type-i-ref-a444)
 - [Kodak Rapid Process Copy Film (ref: e66e)](#kodak-rapid-process-copy-film-ref-e66e)
 - [Kodak TMAX (ref: 1dff)](#kodak-tmax-ref-1dff)
 - [Kodak TMAX (ref: b3b1)](#kodak-tmax-ref-b3b1)
@@ -150,6 +159,7 @@ Last Updated: Aug 13 2025
 - [Kodak Värikuvafilmi (ref: f9ff)](#kodak-värikuvafilmi-ref-f9ff)
 - [Konica Infrared 750nm (ref: e696)](#konica-infrared-750nm-ref-e696)
 - [Konica Infrared 750nm (ref: 2d93)](#konica-infrared-750nm-ref-2d93)
+- [Konica Konica Color II (ref: fb5b)](#konica-konica-color-ii-ref-fb5b)
 - [Konica VX200 (ref: fe53)](#konica-vx200-ref-fe53)
 - [Kosmo Foto Mono (ref: b74f)](#kosmo-foto-mono-ref-b74f)
 - [Lloyds Pharmacy APS Film (ref: c7cf)](#lloyds-pharmacy-aps-film-ref-c7cf)
@@ -171,6 +181,7 @@ Last Updated: Aug 13 2025
 - [Polaroid GridFilm (ref: 8deb)](#polaroid-gridfilm-ref-8deb)
 - [Polaroid PolaBlue 35mm (ref: df66)](#polaroid-polablue-35mm-ref-df66)
 - [Polaroid PolaChrome 35mm (ref: 3b60)](#polaroid-polachrome-35mm-ref-3b60)
+- [Polaroid PolaChrome 35mm (ref: b202)](#polaroid-polachrome-35mm-ref-b202)
 - [Polaroid PolaPan 35mm (ref: 9825)](#polaroid-polapan-35mm-ref-9825)
 - [Polaroid Polacolor 679 (ref: 625c)](#polaroid-polacolor-679-ref-625c)
 - [Porst Color N21 (ref: 494a)](#porst-color-n21-ref-494a)
@@ -225,15 +236,15 @@ Added : 2025-08-13   |  Author : Pelicram
 UUID  : a504b8da97b642908de921d1053d4da7
 ```
 
-<a href="./archive/00171_000.jpg">
-	<img src="./lowres/00171_000.jpg" alt="Adox HR 50 35mm film box outside" loading="lazy" height="500" />
+<a href="./archive/00182_000.jpg">
+	<img src="./lowres/00182_000.jpg" alt="Adox HR 50 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: f5e745758ed2479ea297dce9275f3508`↓
 
-<a href="./archive/00171_001.jpg">
-	<img src="./lowres/00171_001.jpg" alt="Adox HR 50 35mm film box inside" loading="lazy" height="500" />
+<a href="./archive/00182_001.jpg">
+	<img src="./lowres/00182_001.jpg" alt="Adox HR 50 35mm film box inside" loading="lazy" height="500" />
 </a>
 
 #### Agfa APX (ref: 12c7)
@@ -320,6 +331,26 @@ UUID  : 952823ad9ef14c75a83ac8e230b38e68
 
 <a href="./archive/00098_000.jpg">
 	<img src="./lowres/00098_000.jpg" alt="Agfa Autolith Repo 9x12 film box outside" loading="lazy" width="500" />
+</a>
+
+#### Agfa Fine-Grain Plenachrome (ref: e5d4)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : Unknown      |  Expiry : 1941-01  
+Added : 2025-08-14   |  Author : Camera.Riley
+UUID  : 66a105cd605748d78884e5c305a4e5d4
+```
+
+<a href="./archive/00179_000.jpg">
+	<img src="./lowres/00179_000.jpg" alt="Agfa Fine-Grain Plenachrome 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: c199fff31c474139afcea6ed0b66ff7e`↓
+
+<a href="./archive/00179_001.jpg">
+	<img src="./lowres/00179_001.jpg" alt="Agfa Fine-Grain Plenachrome 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### Agfa Isopan FF (ref: 3700)
@@ -642,8 +673,8 @@ Added : 2025-08-13   |  Author : Pelicram
 UUID  : 840026a068594c3389b34374204f60ee
 ```
 
-<a href="./archive/00172_000.jpg">
-	<img src="./lowres/00172_000.jpg" alt="Foma Fomapan 35mm film box outside" loading="lazy" height="500" />
+<a href="./archive/00183_000.jpg">
+	<img src="./lowres/00183_000.jpg" alt="Foma Fomapan 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### Foma Fomapan21 (ref: 75d9)
@@ -690,6 +721,19 @@ UUID  : fe02d85cb9294ee2ba64e8543ce65b41
 
 <a href="./archive/00073_000.jpg">
 	<img src="./lowres/00073_000.jpg" alt="Fujifilm 200 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### Fujifilm Fujichrome 64T Type II Professional (ref: 74a1)
+
+```
+Format: 35mm         |  Process: E-6      
+ISO   : 64           |  Expiry : 2001-10  
+Added : 2025-08-14   |  Author : Camera.Riley
+UUID  : f3d8be37c34a4055823836987a0a74a1
+```
+
+<a href="./archive/00171_000.jpg">
+	<img src="./lowres/00171_000.jpg" alt="Fujifilm Fujichrome 64T Type II Professional 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### Fujifilm Fujichrome Professional 100D (ref: 439d)
@@ -757,6 +801,33 @@ UUID  : ce40cc432d9e445b987fdd72fd88d10b
 
 <a href="./archive/00034_002.jpg">
 	<img src="./lowres/00034_002.jpg" alt="Fujifilm Fujicolor NPL 160 120 film box leaflet" loading="lazy" height="500" />
+</a>
+
+#### Fujifilm Fujicolor Natura 1600 (ref: 2e06)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 1600         |  Expiry : 2014-11  
+Added : 2025-08-14   |  Author : Camera.Riley
+UUID  : 8abda51b18d84ec4939df489457d2e06
+```
+
+<a href="./archive/00177_000.jpg">
+	<img src="./lowres/00177_000.jpg" alt="Fujifilm Fujicolor Natura 1600 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 85bc1b0ff9694798a9f92915ab267978`↓
+
+<a href="./archive/00177_001.jpg">
+	<img src="./lowres/00177_001.jpg" alt="Fujifilm Fujicolor Natura 1600 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: dd126451b04a42b19a705cec886addf0`↓
+
+<a href="./archive/00177_002.jpg">
+	<img src="./lowres/00177_002.jpg" alt="Fujifilm Fujicolor Natura 1600 35mm film box outside" loading="lazy" width="500" />
 </a>
 
 #### Fujifilm Fujicolor Professional (ref: 28da)
@@ -1595,6 +1666,19 @@ UUID  : 46cc0a179fc34cb4832e1d3336bafaec
 	<img src="./lowres/00099_000.jpg" alt="Kodak Eastman High Contrast Panchromatic 7369 16mm film box outside" loading="lazy" width="500" />
 </a>
 
+#### Kodak Eastman Tri-X Reversal Film 7278 (ref: 8468)
+
+```
+Format: 16mm         |  Process: BW       
+ISO   : 200          |  Expiry : Unknown  
+Added : 2025-08-14   |  Author : Camera.Riley
+UUID  : e214a4d756ac48c4ac6dbe515fd38468
+```
+
+<a href="./archive/00176_000.jpg">
+	<img src="./lowres/00176_000.jpg" alt="Kodak Eastman Tri-X Reversal Film 7278 16mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### Kodak Ektachrome (ref: 07c0)
 
 ```
@@ -1714,6 +1798,26 @@ UUID  : b17b7b46926e49ae88a7b74904245d9f
 
 <a href="./archive/00113_001.jpg">
 	<img src="./lowres/00113_001.jpg" alt="Kodak Ektachrome 100 Plus 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### Kodak Ektachrome 64T (ref: 8f4f)
+
+```
+Format: 35mm         |  Process: E-6      
+ISO   : 64           |  Expiry : 1998-10  
+Added : 2025-08-14   |  Author : Camera.Riley
+UUID  : 25961b13fd6943a9b7dd77b2eba18f4f
+```
+
+<a href="./archive/00180_000.jpg">
+	<img src="./lowres/00180_000.jpg" alt="Kodak Ektachrome 64T 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 78441115e27d4fe8a442ce240ec160ef`↓
+
+<a href="./archive/00180_001.jpg">
+	<img src="./lowres/00180_001.jpg" alt="Kodak Ektachrome 64T 35mm film box inside" loading="lazy" height="500" />
 </a>
 
 #### Kodak Ektachrome E100 (ref: ae10)
@@ -1848,6 +1952,26 @@ UUID  : e0b3ec957ade47a99d5cd5abe2a4523c
 	<img src="./lowres/00042_000.jpg" alt="Kodak Elite Chrome 35mm film box outside" loading="lazy" height="500" />
 </a>
 
+#### Kodak Elite Chrome (ref: 3943)
+
+```
+Format: 35mm         |  Process: E-6      
+ISO   : 400          |  Expiry : 2007-10  
+Added : 2025-08-14   |  Author : Camera.Riley
+UUID  : c9ba81252c5f438ca70922a2b5703943
+```
+
+<a href="./archive/00178_000.jpg">
+	<img src="./lowres/00178_000.jpg" alt="Kodak Elite Chrome 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 7c1650085c4146e0bec821475e25219f`↓
+
+<a href="./archive/00178_001.jpg">
+	<img src="./lowres/00178_001.jpg" alt="Kodak Elite Chrome 35mm film box outside" loading="lazy" width="500" />
+</a>
+
 #### Kodak Gold (ref: f368)
 
 ```
@@ -1951,6 +2075,40 @@ UUID  : c2dc7711cd38434da5cfea8750f61358
 
 <a href="./archive/00094_001.jpg">
 	<img src="./lowres/00094_001.jpg" alt="Kodak Gold Ultra 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### Kodak High Contrast Copy Film (ref: db52)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : Unknown      |  Expiry : 1970-09  
+Added : 2025-08-14   |  Author : Camera.Riley
+UUID  : 7a518ce06cc242f9a5af067c1ffedb52
+```
+
+<a href="./archive/00181_000.jpg">
+	<img src="./lowres/00181_000.jpg" alt="Kodak High Contrast Copy Film 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: c18af4a6fe504e6bab7aaa0cdccb02a1`↓
+
+<a href="./archive/00181_001.jpg">
+	<img src="./lowres/00181_001.jpg" alt="Kodak High Contrast Copy Film 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 312da1e64f2f416f9b394ea7e4e34e86`↓
+
+<a href="./archive/00181_002.jpg">
+	<img src="./lowres/00181_002.jpg" alt="Kodak High Contrast Copy Film 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 917cdc09fdc9435c90eb61f470def180`↓
+
+<a href="./archive/00181_003.jpg">
+	<img src="./lowres/00181_003.jpg" alt="Kodak High Contrast Copy Film 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### Kodak High Speed Ektachrome (ref: ce7f)
@@ -2247,6 +2405,19 @@ UUID  : 9131fb90db70475dbad5f63f1448ce56
 	<img src="./lowres/00089_000.jpg" alt="Kodak Portra 160 35mm film box outside" loading="lazy" width="500" />
 </a>
 
+#### Kodak Portra 400NC (ref: b8de)
+
+```
+Format: 70mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2006-08  
+Added : 2025-08-14   |  Author : Camera.Riley
+UUID  : 88ebc10c01ea46238c48e65157ddb8de
+```
+
+<a href="./archive/00175_000.jpg">
+	<img src="./lowres/00175_000.jpg" alt="Kodak Portra 400NC 70mm film box outside" loading="lazy" width="500" />
+</a>
+
 #### Kodak Portra 800 (ref: 7d65)
 
 ```
@@ -2258,6 +2429,19 @@ UUID  : 7ebac9d7fb8c4ff9b7fbabcaec1d7d65
 
 <a href="./archive/00088_000.jpg">
 	<img src="./lowres/00088_000.jpg" alt="Kodak Portra 800 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### Kodak Professional Microfilm Type I (ref: a444)
+
+```
+Format: 35mm         |  Process: Unknown  
+ISO   : Unknown      |  Expiry : 2013-12  
+Added : 2025-08-14   |  Author : Camera.Riley
+UUID  : 90304019395a4c62bb9c6fe1cb2ba444
+```
+
+<a href="./archive/00172_000.jpg">
+	<img src="./lowres/00172_000.jpg" alt="Kodak Professional Microfilm Type I 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### Kodak Rapid Process Copy Film (ref: e66e)
@@ -2509,6 +2693,19 @@ UUID  : 63b2857f2df549878446cc1963362d93
 
 <a href="./archive/00036_000.jpg">
 	<img src="./lowres/00036_000.jpg" alt="Konica Infrared 750nm 120 film box outside" loading="lazy" width="500" />
+</a>
+
+#### Konica Konica Color II (ref: fb5b)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 100          |  Expiry : 1985-01  
+Added : 2025-08-14   |  Author : Camera.Riley
+UUID  : 34d91c79c1704ac49f5376ca6424fb5b
+```
+
+<a href="./archive/00173_000.jpg">
+	<img src="./lowres/00173_000.jpg" alt="Konica Konica Color II 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### Konica VX200 (ref: fe53)
@@ -2945,6 +3142,19 @@ UUID  : b0041b1e44a64f6591d49e918e033b60
 	<img src="./lowres/00029_004.jpg" alt="Polaroid PolaChrome 35mm 35mm film box leaflet" loading="lazy" width="500" />
 </a>
 
+#### Polaroid PolaChrome 35mm (ref: b202)
+
+```
+Format: 35mm         |  Process: Instant  
+ISO   : 40           |  Expiry : 1993-08  
+Added : 2025-08-14   |  Author : Camera.Riley
+UUID  : 30947745f405445e88808deab9a4b202
+```
+
+<a href="./archive/00174_000.jpg">
+	<img src="./lowres/00174_000.jpg" alt="Polaroid PolaChrome 35mm 35mm film box outside" loading="lazy" width="500" />
+</a>
+
 #### Polaroid PolaPan 35mm (ref: 9825)
 
 ```
@@ -3327,23 +3537,24 @@ Rank  Username                 Contributions
 ---------------------------------------------
 1     dekuNukem                111   
 2     Pelicram                 44    
-3     Nano_Burger              18    
-4     @ob.skura                16    
-5     b0baspace                14    
-6     The Compartmentalist     13    
-7     @SirBrentsworth          13    
-8     toader                   13    
-9     stefanie                 12    
-10    yc128                    11    
-11    lilyu.xyz                9     
-12    benikum                  6     
-13    @recycling.film          5     
-14    Henry Gunn               4     
-15    @Hol.m35                 3     
-16    TheSelousScout           3     
-17    @seklerek                2     
-18    @ftfilmphotos            2     
-19    Yrikonchik               1     
+3     Camera.Riley             19    
+4     Nano_Burger              18    
+5     @ob.skura                16    
+6     b0baspace                14    
+7     The Compartmentalist     13    
+8     @SirBrentsworth          13    
+9     toader                   13    
+10    stefanie                 12    
+11    yc128                    11    
+12    lilyu.xyz                9     
+13    benikum                  6     
+14    @recycling.film          5     
+15    Henry Gunn               4     
+16    @Hol.m35                 3     
+17    TheSelousScout           3     
+18    @seklerek                2     
+19    @ftfilmphotos            2     
+20    Yrikonchik               1     
 ```
 
 ## Questions or Comments?

@@ -296,6 +296,25 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 169,1,film_box_inside,Rollei,Retro 80S,35mm,80,BW,202509,1754665606,cfdbfc707dffb07dfc00a48700d0a81c,1dea328c77d74bf19135dc04194df311,00169_001.jpg,Pelicram
 170,0,film_box_outside,Ilford,XP2 Super,35mm,400,C-41,202709,1754696970,ae5b95641389af4a3c73316fcbde65ac,5863564ab1ef43a4b41fb5312dd0622a,00170_000.jpg,TheSelousScout
 170,1,film_box_inside,Ilford,XP2 Super,35mm,400,C-41,202709,1754696971,5619bb09ccca5518b0b0e75ec952365d,2e9c0e4f84414bb192512b4ce5b1e212,00170_001.jpg,TheSelousScout
-171,0,film_box_outside,Adox,HR 50,35mm,50,BW,202707,1755093421,b7f57209010598503486db95b11f39db,a504b8da97b642908de921d1053d4da7,00171_000.jpg,Pelicram
-171,1,film_box_inside,Adox,HR 50,35mm,50,BW,202707,1755093423,5dd0288ea160ba95f7d09a70547de0ca,f5e745758ed2479ea297dce9275f3508,00171_001.jpg,Pelicram
-172,0,film_box_outside,Foma,Fomapan,35mm,200,BW,202805,1755093471,feea4b4b2c4e7fbbcb06fbe7d2c1520e,840026a068594c3389b34374204f60ee,00172_000.jpg,Pelicram
+171,0,film_box_outside,Fujifilm,Fujichrome 64T Type II Professional,35mm,64,E-6,200110,1755192487,7948e1a2c06e3632af8c14a6a46df828,f3d8be37c34a4055823836987a0a74a1,00171_000.jpg,Camera.Riley
+172,0,film_box_outside,Kodak,Professional Microfilm Type I,35mm,Unknown,Unknown,201312,1755192642,9df8e95ddf1b265671dc0d0d25d3e372,90304019395a4c62bb9c6fe1cb2ba444,00172_000.jpg,Camera.Riley
+173,0,film_box_outside,Konica,Konica Color II,35mm,100,C-41,198501,1755192672,598acbc7dc74fbc3202b697c5468fa7d,34d91c79c1704ac49f5376ca6424fb5b,00173_000.jpg,Camera.Riley
+174,0,film_box_outside,Polaroid,PolaChrome 35mm,35mm,40,Instant,199308,1755192749,2d0a0286bd5dffc458b191d4917aa298,30947745f405445e88808deab9a4b202,00174_000.jpg,Camera.Riley
+175,0,film_box_outside,Kodak,Portra 400NC,70mm,400,C-41,200608,1755192809,ff42f35565bf45fa43e696f90b77b2f0,88ebc10c01ea46238c48e65157ddb8de,00175_000.jpg,Camera.Riley
+176,0,film_box_outside,Kodak,Eastman Tri-X Reversal Film 7278,16mm,200,BW,Unknown,1755193025,bb21e4fae04ae70db02fd0ec5e96855b,e214a4d756ac48c4ac6dbe515fd38468,00176_000.jpg,Camera.Riley
+177,0,film_box_outside,Fujifilm,Fujicolor Natura 1600,35mm,1600,C-41,201411,1755193278,4ee002ce81eeff1e0552a02f00ccae2f,8abda51b18d84ec4939df489457d2e06,00177_000.jpg,Camera.Riley
+177,1,film_box_outside,Fujifilm,Fujicolor Natura 1600,35mm,1600,C-41,201411,1755193281,b4f908eaa5d0b55d5e2b54db50df7db4,85bc1b0ff9694798a9f92915ab267978,00177_001.jpg,Camera.Riley
+177,2,film_box_outside,Fujifilm,Fujicolor Natura 1600,35mm,1600,C-41,201411,1755193283,92a764bd9e78df1cac8cbf423894082d,dd126451b04a42b19a705cec886addf0,00177_002.jpg,Camera.Riley
+178,0,film_box_outside,Kodak,Elite Chrome,35mm,400,E-6,200710,1755193412,391ec6843bb1741e23ffefe9f87cb202,c9ba81252c5f438ca70922a2b5703943,00178_000.jpg,Camera.Riley
+178,1,film_box_outside,Kodak,Elite Chrome,35mm,400,E-6,200710,1755193416,9b2731f9f218bf5fce57e66c4c031a95,7c1650085c4146e0bec821475e25219f,00178_001.jpg,Camera.Riley
+179,0,film_box_outside,Agfa,Fine-Grain Plenachrome,35mm,Unknown,BW,194101,1755193770,e07f70b8165038b754306723f512de5a,66a105cd605748d78884e5c305a4e5d4,00179_000.jpg,Camera.Riley
+179,1,film_box_outside,Agfa,Fine-Grain Plenachrome,35mm,Unknown,BW,194101,1755193773,430114486b20b471c72b2556e1c59005,c199fff31c474139afcea6ed0b66ff7e,00179_001.jpg,Camera.Riley
+180,0,film_box_outside,Kodak,Ektachrome 64T,35mm,64,E-6,199810,1755193921,326684b431560143a4debb8cdd85336c,25961b13fd6943a9b7dd77b2eba18f4f,00180_000.jpg,Camera.Riley
+180,1,film_box_inside,Kodak,Ektachrome 64T,35mm,64,E-6,199810,1755193923,523c62b40f20c8ae1e8dd6af932e861a,78441115e27d4fe8a442ce240ec160ef,00180_001.jpg,Camera.Riley
+181,0,film_box_outside,Kodak,High Contrast Copy Film,35mm,Unknown,BW,197009,1755194034,6e396933e8b5b14066f6d5d0517b8e74,7a518ce06cc242f9a5af067c1ffedb52,00181_000.jpg,Camera.Riley
+181,1,film_box_outside,Kodak,High Contrast Copy Film,35mm,Unknown,BW,197009,1755194037,ace929801046101bbd7bbb8e6ba49521,c18af4a6fe504e6bab7aaa0cdccb02a1,00181_001.jpg,Camera.Riley
+181,2,film_box_outside,Kodak,High Contrast Copy Film,35mm,Unknown,BW,197009,1755194041,529de222396dd55f8645c725eab850de,312da1e64f2f416f9b394ea7e4e34e86,00181_002.jpg,Camera.Riley
+181,3,film_box_outside,Kodak,High Contrast Copy Film,35mm,Unknown,BW,197009,1755194043,ecb999a097faaf287f0575a0c87a8246,917cdc09fdc9435c90eb61f470def180,00181_003.jpg,Camera.Riley
+182,0,film_box_outside,Adox,HR 50,35mm,50,BW,202707,1755093421,b7f57209010598503486db95b11f39db,a504b8da97b642908de921d1053d4da7,00182_000.jpg,Pelicram
+182,1,film_box_inside,Adox,HR 50,35mm,50,BW,202707,1755093423,5dd0288ea160ba95f7d09a70547de0ca,f5e745758ed2479ea297dce9275f3508,00182_001.jpg,Pelicram
+183,0,film_box_outside,Foma,Fomapan,35mm,200,BW,202805,1755093471,feea4b4b2c4e7fbbcb06fbe7d2c1520e,840026a068594c3389b34374204f60ee,00183_000.jpg,Pelicram
