@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 14 2025
+Last Updated: Aug 15 2025
 
-# of items: 319
+# of items: 324
 ```
 
 -----
@@ -89,6 +89,7 @@ Last Updated: Aug 14 2025
 - [[2001] Kodak Värikuvafilmi (ref: f9ff)](#2001-kodak-värikuvafilmi-ref-f9ff)
 - [[2002] Fujifilm Fujicolor Superia (ref: 0683)](#2002-fujifilm-fujicolor-superia-ref-0683)
 - [[2002] Kodak Ektachrome 100 Plus (ref: 5d9f)](#2002-kodak-ektachrome-100-plus-ref-5d9f)
+- [[2002] Kirkland Signature Color Print Film (ref: 0441)](#2002-kirkland-signature-color-print-film-ref-0441)
 - [[2003] Konica VX200 (ref: fe53)](#2003-konica-vx200-ref-fe53)
 - [[2003] Fujifilm NPS (ref: 5e85)](#2003-fujifilm-nps-ref-5e85)
 - [[2003] Agfa Vista (ref: d3af)](#2003-agfa-vista-ref-d3af)
@@ -180,6 +181,7 @@ Last Updated: Aug 14 2025
 - [[2027] Kodak Gold (ref: 855e)](#2027-kodak-gold-ref-855e)
 - [[2027] Kosmo Foto Mono (ref: b74f)](#2027-kosmo-foto-mono-ref-b74f)
 - [[2027] Rollei Infrared (ref: eae2)](#2027-rollei-infrared-ref-eae2)
+- [[2027] Foma Ortho 400 (ref: c559)](#2027-foma-ortho-400-ref-c559)
 - [[2027] Lomography Lomochrome Purple (ref: 068f)](#2027-lomography-lomochrome-purple-ref-068f)
 - [[2027] Harman Phoenix II (ref: f686)](#2027-harman-phoenix-ii-ref-f686)
 - [[2027] Harman Phoenix II (ref: 40df)](#2027-harman-phoenix-ii-ref-40df)
@@ -199,9 +201,11 @@ Last Updated: Aug 14 2025
 - [[2028] Kentmere PAN (ref: c907)](#2028-kentmere-pan-ref-c907)
 - [[2029] Kentmere PAN (ref: 827e)](#2029-kentmere-pan-ref-827e)
 - [[2029] Kentmere PAN (ref: a327)](#2029-kentmere-pan-ref-a327)
+- [[2030] Kentmere PAN 200 (ref: 0e32)](#2030-kentmere-pan-200-ref-0e32)
 - [[Unknown] Agfa Autolith Repo (ref: 8e68)](#unknown-agfa-autolith-repo-ref-8e68)
 - [[Unknown] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#unknown-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
 - [[Unknown] Kodak Eastman Tri-X Reversal Film 7278 (ref: 8468)](#unknown-kodak-eastman-tri-x-reversal-film-7278-ref-8468)
+- [[Unknown] Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#unknown-mutascan-kodak-vision3-500t5219-ref-5150)
 - [[Unknown] Perutz Superomnia (ref: c90d)](#unknown-perutz-superomnia-ref-c90d)
 
 
@@ -1629,6 +1633,19 @@ UUID  : b17b7b46926e49ae88a7b74904245d9f
 
 <a href="./archive/00113_001.jpg">
 	<img src="./lowres/00113_001.jpg" alt="Kodak Ektachrome 100 Plus 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### [2002] Kirkland Signature Color Print Film (ref: 0441)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2002-12  
+Added : 2025-08-15   |  Author : midnight_cowboy_1894
+UUID  : 7f4a0fbd6be7494ab097f7f816700441
+```
+
+<a href="./archive/00184_000.jpg">
+	<img src="./lowres/00184_000.jpg" alt="Kirkland Signature Color Print Film 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [2003] Konica VX200 (ref: fe53)
@@ -3115,6 +3132,26 @@ UUID  : 9ef642a09d294cbfad7e040a701deae2
 	<img src="./lowres/00047_001.jpg" alt="Rollei Infrared 35mm film box inside" loading="lazy" height="500" />
 </a>
 
+#### [2027] Foma Ortho 400 (ref: c559)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 400          |  Expiry : 2027-05  
+Added : 2025-08-15   |  Author : Pelicram 
+UUID  : 676655ff95914769b0869d71d824c559
+```
+
+<a href="./archive/00187_000.jpg">
+	<img src="./lowres/00187_000.jpg" alt="Foma Ortho 400 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 51e4fc9142fa45039f5d4a5d823f1ab5`↓
+
+<a href="./archive/00187_001.jpg">
+	<img src="./lowres/00187_001.jpg" alt="Foma Ortho 400 35mm film box inside" loading="lazy" height="500" />
+</a>
+
 #### [2027] Lomography Lomochrome Purple (ref: 068f)
 
 ```
@@ -3474,6 +3511,19 @@ UUID  : 58f2bea3a3204a1dafebf2881d99a327
 	<img src="./lowres/00145_001.jpg" alt="Kentmere PAN 35mm film box inside" loading="lazy" height="500" />
 </a>
 
+#### [2030] Kentmere PAN 200 (ref: 0e32)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 200          |  Expiry : 2030-04  
+Added : 2025-08-15   |  Author : Pelicram 
+UUID  : b0e988456d7444b1b879dc6ca4a80e32
+```
+
+<a href="./archive/00186_000.jpg">
+	<img src="./lowres/00186_000.jpg" alt="Kentmere PAN 200 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [Unknown] Agfa Autolith Repo (ref: 8e68)
 
 ```
@@ -3513,6 +3563,19 @@ UUID  : e214a4d756ac48c4ac6dbe515fd38468
 	<img src="./lowres/00176_000.jpg" alt="Kodak Eastman Tri-X Reversal Film 7278 16mm film box outside" loading="lazy" height="500" />
 </a>
 
+#### [Unknown] Mutascan Kodak Vision3 500T/5219 (ref: 5150)
+
+```
+Format: 35mm         |  Process: ECN-2    
+ISO   : 500          |  Expiry : Unknown  
+Added : 2025-08-15   |  Author : Pelicram 
+UUID  : e4d2af3a69704509a07e108fcb4b5150
+```
+
+<a href="./archive/00185_000.jpg">
+	<img src="./lowres/00185_000.jpg" alt="Mutascan Kodak Vision3 500T/5219 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [Unknown] Perutz Superomnia (ref: c90d)
 
 ```
@@ -3536,7 +3599,7 @@ UUID  : b220e7d5dbee49898fbd1d42ee67c90d
 Rank  Username                 Contributions
 ---------------------------------------------
 1     dekuNukem                111   
-2     Pelicram                 44    
+2     Pelicram                 48    
 3     Camera.Riley             19    
 4     Nano_Burger              18    
 5     @ob.skura                16    
@@ -3555,6 +3618,7 @@ Rank  Username                 Contributions
 18    @seklerek                2     
 19    @ftfilmphotos            2     
 20    Yrikonchik               1     
+21    midnight_cowboy_1894     1     
 ```
 
 ## Questions or Comments?

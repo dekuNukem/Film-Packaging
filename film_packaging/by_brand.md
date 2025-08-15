@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 14 2025
+Last Updated: Aug 15 2025
 
-# of items: 319
+# of items: 324
 ```
 
 -----
@@ -51,6 +51,7 @@ Last Updated: Aug 14 2025
 - [Foma Fomapan (ref: 60ee)](#foma-fomapan-ref-60ee)
 - [Foma Fomapan21 (ref: 75d9)](#foma-fomapan21-ref-75d9)
 - [Foma Ortho (ref: 89e7)](#foma-ortho-ref-89e7)
+- [Foma Ortho 400 (ref: c559)](#foma-ortho-400-ref-c559)
 - [Fujifilm 200 (ref: 5b41)](#fujifilm-200-ref-5b41)
 - [Fujifilm Fujichrome 64T Type II Professional (ref: 74a1)](#fujifilm-fujichrome-64t-type-ii-professional-ref-74a1)
 - [Fujifilm Fujichrome Professional 100D (ref: 439d)](#fujifilm-fujichrome-professional-100d-ref-439d)
@@ -97,6 +98,8 @@ Last Updated: Aug 14 2025
 - [Kentmere PAN (ref: c907)](#kentmere-pan-ref-c907)
 - [Kentmere PAN (ref: 827e)](#kentmere-pan-ref-827e)
 - [Kentmere PAN (ref: a327)](#kentmere-pan-ref-a327)
+- [Kentmere PAN 200 (ref: 0e32)](#kentmere-pan-200-ref-0e32)
+- [Kirkland Signature Color Print Film (ref: 0441)](#kirkland-signature-color-print-film-ref-0441)
 - [Klick APS Film (ref: 4b88)](#klick-aps-film-ref-4b88)
 - [Klick XD200 (ref: 44d7)](#klick-xd200-ref-44d7)
 - [Kodak Advantix Ultra (ref: 566b)](#kodak-advantix-ultra-ref-566b)
@@ -171,6 +174,7 @@ Last Updated: Aug 14 2025
 - [Lomography Orca (ref: d506)](#lomography-orca-ref-d506)
 - [Lomography Tiger (ref: 26dd)](#lomography-tiger-ref-26dd)
 - [Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#minolta-minolta-16-color-film-for-prints-ref-a2ff)
+- [Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#mutascan-kodak-vision3-500t5219-ref-5150)
 - [ORWO NP 20 SL (ref: b16c)](#orwo-np-20-sl-ref-b16c)
 - [Perutz Superomnia (ref: c90d)](#perutz-superomnia-ref-c90d)
 - [Polaroid 665 (ref: e054)](#polaroid-665-ref-e054)
@@ -708,6 +712,26 @@ UUID  : 4c97e2b7413b42278b0fd129c1c589e7
 
 <a href="./archive/00127_001.jpg">
 	<img src="./lowres/00127_001.jpg" alt="Foma Ortho 120 film box inside" loading="lazy" width="500" />
+</a>
+
+#### Foma Ortho 400 (ref: c559)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 400          |  Expiry : 2027-05  
+Added : 2025-08-15   |  Author : Pelicram 
+UUID  : 676655ff95914769b0869d71d824c559
+```
+
+<a href="./archive/00187_000.jpg">
+	<img src="./lowres/00187_000.jpg" alt="Foma Ortho 400 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 51e4fc9142fa45039f5d4a5d823f1ab5`↓
+
+<a href="./archive/00187_001.jpg">
+	<img src="./lowres/00187_001.jpg" alt="Foma Ortho 400 35mm film box inside" loading="lazy" height="500" />
 </a>
 
 #### Fujifilm 200 (ref: 5b41)
@@ -1579,6 +1603,32 @@ UUID  : 58f2bea3a3204a1dafebf2881d99a327
 
 <a href="./archive/00145_001.jpg">
 	<img src="./lowres/00145_001.jpg" alt="Kentmere PAN 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### Kentmere PAN 200 (ref: 0e32)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 200          |  Expiry : 2030-04  
+Added : 2025-08-15   |  Author : Pelicram 
+UUID  : b0e988456d7444b1b879dc6ca4a80e32
+```
+
+<a href="./archive/00186_000.jpg">
+	<img src="./lowres/00186_000.jpg" alt="Kentmere PAN 200 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### Kirkland Signature Color Print Film (ref: 0441)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2002-12  
+Added : 2025-08-15   |  Author : midnight_cowboy_1894
+UUID  : 7f4a0fbd6be7494ab097f7f816700441
+```
+
+<a href="./archive/00184_000.jpg">
+	<img src="./lowres/00184_000.jpg" alt="Kirkland Signature Color Print Film 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### Klick APS Film (ref: 4b88)
@@ -2872,6 +2922,19 @@ UUID  : a2cfc71ac0e24ea58f4e3350423aa2ff
 	<img src="./lowres/00162_000.jpg" alt="Minolta Minolta 16 Color Film For Prints 16mm film box outside" loading="lazy" width="500" />
 </a>
 
+#### Mutascan Kodak Vision3 500T/5219 (ref: 5150)
+
+```
+Format: 35mm         |  Process: ECN-2    
+ISO   : 500          |  Expiry : Unknown  
+Added : 2025-08-15   |  Author : Pelicram 
+UUID  : e4d2af3a69704509a07e108fcb4b5150
+```
+
+<a href="./archive/00185_000.jpg">
+	<img src="./lowres/00185_000.jpg" alt="Mutascan Kodak Vision3 500T/5219 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### ORWO NP 20 SL (ref: b16c)
 
 ```
@@ -3536,7 +3599,7 @@ UUID  : 46037fb6c55244b6ae47c55d0e454bf8
 Rank  Username                 Contributions
 ---------------------------------------------
 1     dekuNukem                111   
-2     Pelicram                 44    
+2     Pelicram                 48    
 3     Camera.Riley             19    
 4     Nano_Burger              18    
 5     @ob.skura                16    
@@ -3555,6 +3618,7 @@ Rank  Username                 Contributions
 18    @seklerek                2     
 19    @ftfilmphotos            2     
 20    Yrikonchik               1     
+21    midnight_cowboy_1894     1     
 ```
 
 ## Questions or Comments?

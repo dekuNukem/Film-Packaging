@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 14 2025
+Last Updated: Aug 15 2025
 
-# of items: 319
+# of items: 324
 ```
 
 -----
@@ -88,6 +88,7 @@ Last Updated: Aug 14 2025
 - [[35mm] Foma Fomapan (ref: 0030)](#35mm-foma-fomapan-ref-0030)
 - [[35mm] Foma Fomapan (ref: 84a5)](#35mm-foma-fomapan-ref-84a5)
 - [[35mm] Foma Fomapan (ref: 60ee)](#35mm-foma-fomapan-ref-60ee)
+- [[35mm] Foma Ortho 400 (ref: c559)](#35mm-foma-ortho-400-ref-c559)
 - [[35mm] Fujifilm 200 (ref: 5b41)](#35mm-fujifilm-200-ref-5b41)
 - [[35mm] Fujifilm Fujichrome 64T Type II Professional (ref: 74a1)](#35mm-fujifilm-fujichrome-64t-type-ii-professional-ref-74a1)
 - [[35mm] Fujifilm Fujicolor 100 (ref: 013b)](#35mm-fujifilm-fujicolor-100-ref-013b)
@@ -118,6 +119,8 @@ Last Updated: Aug 14 2025
 - [[35mm] Kentmere PAN (ref: c907)](#35mm-kentmere-pan-ref-c907)
 - [[35mm] Kentmere PAN (ref: 827e)](#35mm-kentmere-pan-ref-827e)
 - [[35mm] Kentmere PAN (ref: a327)](#35mm-kentmere-pan-ref-a327)
+- [[35mm] Kentmere PAN 200 (ref: 0e32)](#35mm-kentmere-pan-200-ref-0e32)
+- [[35mm] Kirkland Signature Color Print Film (ref: 0441)](#35mm-kirkland-signature-color-print-film-ref-0441)
 - [[35mm] Kodak ColorPlus (ref: 79ca)](#35mm-kodak-colorplus-ref-79ca)
 - [[35mm] Kodak ColorPlus (ref: 6637)](#35mm-kodak-colorplus-ref-6637)
 - [[35mm] Kodak Ektachrome (ref: 3c96)](#35mm-kodak-ektachrome-ref-3c96)
@@ -165,6 +168,7 @@ Last Updated: Aug 14 2025
 - [[35mm] Lomography Babylon (ref: 7afa)](#35mm-lomography-babylon-ref-7afa)
 - [[35mm] Lomography Fantome (ref: 4340)](#35mm-lomography-fantome-ref-4340)
 - [[35mm] Lomography Lomochrome Purple (ref: 068f)](#35mm-lomography-lomochrome-purple-ref-068f)
+- [[35mm] Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#35mm-mutascan-kodak-vision3-500t5219-ref-5150)
 - [[35mm] ORWO NP 20 SL (ref: b16c)](#35mm-orwo-np-20-sl-ref-b16c)
 - [[35mm] Polaroid PolaBlue 35mm (ref: df66)](#35mm-polaroid-polablue-35mm-ref-df66)
 - [[35mm] Polaroid PolaChrome 35mm (ref: 3b60)](#35mm-polaroid-polachrome-35mm-ref-3b60)
@@ -1415,6 +1419,26 @@ UUID  : 840026a068594c3389b34374204f60ee
 	<img src="./lowres/00183_000.jpg" alt="Foma Fomapan 35mm film box outside" loading="lazy" height="500" />
 </a>
 
+#### [35mm] Foma Ortho 400 (ref: c559)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 400          |  Expiry : 2027-05  
+Added : 2025-08-15   |  Author : Pelicram 
+UUID  : 676655ff95914769b0869d71d824c559
+```
+
+<a href="./archive/00187_000.jpg">
+	<img src="./lowres/00187_000.jpg" alt="Foma Ortho 400 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 51e4fc9142fa45039f5d4a5d823f1ab5`↓
+
+<a href="./archive/00187_001.jpg">
+	<img src="./lowres/00187_001.jpg" alt="Foma Ortho 400 35mm film box inside" loading="lazy" height="500" />
+</a>
+
 #### [35mm] Fujifilm 200 (ref: 5b41)
 
 ```
@@ -1943,6 +1967,32 @@ UUID  : 58f2bea3a3204a1dafebf2881d99a327
 
 <a href="./archive/00145_001.jpg">
 	<img src="./lowres/00145_001.jpg" alt="Kentmere PAN 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### [35mm] Kentmere PAN 200 (ref: 0e32)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 200          |  Expiry : 2030-04  
+Added : 2025-08-15   |  Author : Pelicram 
+UUID  : b0e988456d7444b1b879dc6ca4a80e32
+```
+
+<a href="./archive/00186_000.jpg">
+	<img src="./lowres/00186_000.jpg" alt="Kentmere PAN 200 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [35mm] Kirkland Signature Color Print Film (ref: 0441)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2002-12  
+Added : 2025-08-15   |  Author : midnight_cowboy_1894
+UUID  : 7f4a0fbd6be7494ab097f7f816700441
+```
+
+<a href="./archive/00184_000.jpg">
+	<img src="./lowres/00184_000.jpg" alt="Kirkland Signature Color Print Film 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [35mm] Kodak ColorPlus (ref: 79ca)
@@ -2773,6 +2823,19 @@ UUID  : b02540ba4b454a639f8096f9474d068f
 	<img src="./lowres/00078_001.jpg" alt="Lomography Lomochrome Purple 35mm film box inside" loading="lazy" width="500" />
 </a>
 
+#### [35mm] Mutascan Kodak Vision3 500T/5219 (ref: 5150)
+
+```
+Format: 35mm         |  Process: ECN-2    
+ISO   : 500          |  Expiry : Unknown  
+Added : 2025-08-15   |  Author : Pelicram 
+UUID  : e4d2af3a69704509a07e108fcb4b5150
+```
+
+<a href="./archive/00185_000.jpg">
+	<img src="./lowres/00185_000.jpg" alt="Mutascan Kodak Vision3 500T/5219 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [35mm] ORWO NP 20 SL (ref: b16c)
 
 ```
@@ -3536,7 +3599,7 @@ UUID  : 6032680a3aba41b39c600d7e23998f62
 Rank  Username                 Contributions
 ---------------------------------------------
 1     dekuNukem                111   
-2     Pelicram                 44    
+2     Pelicram                 48    
 3     Camera.Riley             19    
 4     Nano_Burger              18    
 5     @ob.skura                16    
@@ -3555,6 +3618,7 @@ Rank  Username                 Contributions
 18    @seklerek                2     
 19    @ftfilmphotos            2     
 20    Yrikonchik               1     
+21    midnight_cowboy_1894     1     
 ```
 
 ## Questions or Comments?

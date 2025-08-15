@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 14 2025
+Last Updated: Aug 15 2025
 
-# of items: 319
+# of items: 324
 ```
 
 -----
@@ -81,6 +81,7 @@ Last Updated: Aug 14 2025
 - [[Pelicram] Foma Fomapan (ref: 0030)](#pelicram-foma-fomapan-ref-0030)
 - [[Pelicram] Foma Fomapan (ref: 60ee)](#pelicram-foma-fomapan-ref-60ee)
 - [[Pelicram] Foma Ortho (ref: 89e7)](#pelicram-foma-ortho-ref-89e7)
+- [[Pelicram] Foma Ortho 400 (ref: c559)](#pelicram-foma-ortho-400-ref-c559)
 - [[Pelicram] Fujifilm Fujicolor Superia (ref: d1b7)](#pelicram-fujifilm-fujicolor-superia-ref-d1b7)
 - [[Pelicram] Hazenfilm Sorolla Chrome (ref: 889f)](#pelicram-hazenfilm-sorolla-chrome-ref-889f)
 - [[Pelicram] Ilford Delta (ref: 920f)](#pelicram-ilford-delta-ref-920f)
@@ -88,6 +89,7 @@ Last Updated: Aug 14 2025
 - [[Pelicram] Ilford HP5 Plus (ref: 11a8)](#pelicram-ilford-hp5-plus-ref-11a8)
 - [[Pelicram] JCH Streetpan (ref: 6e58)](#pelicram-jch-streetpan-ref-6e58)
 - [[Pelicram] Kentmere PAN (ref: a327)](#pelicram-kentmere-pan-ref-a327)
+- [[Pelicram] Kentmere PAN 200 (ref: 0e32)](#pelicram-kentmere-pan-200-ref-0e32)
 - [[Pelicram] Kodak TMAX (ref: 521a)](#pelicram-kodak-tmax-ref-521a)
 - [[Pelicram] Kodak TMAX (ref: 43a2)](#pelicram-kodak-tmax-ref-43a2)
 - [[Pelicram] Kodak Tri-X (ref: c671)](#pelicram-kodak-tri-x-ref-c671)
@@ -97,6 +99,7 @@ Last Updated: Aug 14 2025
 - [[Pelicram] Lomography Fantome (ref: 4340)](#pelicram-lomography-fantome-ref-4340)
 - [[Pelicram] Lomography Orca (ref: d506)](#pelicram-lomography-orca-ref-d506)
 - [[Pelicram] Lomography Tiger (ref: 26dd)](#pelicram-lomography-tiger-ref-26dd)
+- [[Pelicram] Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#pelicram-mutascan-kodak-vision3-500t5219-ref-5150)
 - [[Pelicram] Rollei RPX 400 (ref: 2155)](#pelicram-rollei-rpx-400-ref-2155)
 - [[Pelicram] Rollei Retro 80S (ref: e23d)](#pelicram-rollei-retro-80s-ref-e23d)
 - [[Pelicram] SantaColor SantaColor (ref: f3a7)](#pelicram-santacolor-santacolor-ref-f3a7)
@@ -186,6 +189,7 @@ Last Updated: Aug 14 2025
 - [[lilyu.xyz] Kodak Gold (ref: ea58)](#lilyuxyz-kodak-gold-ref-ea58)
 - [[lilyu.xyz] Kodak Gold Ultra (ref: 1358)](#lilyuxyz-kodak-gold-ultra-ref-1358)
 - [[lilyu.xyz] Perutz Superomnia (ref: c90d)](#lilyuxyz-perutz-superomnia-ref-c90d)
+- [[midnight_cowboy_1894] Kirkland Signature Color Print Film (ref: 0441)](#midnight_cowboy_1894-kirkland-signature-color-print-film-ref-0441)
 - [[stefanie] Agfa Agfacolor XRG (ref: 689e)](#stefanie-agfa-agfacolor-xrg-ref-689e)
 - [[stefanie] Alfo ALFOcolor PR-G (ref: 94b9)](#stefanie-alfo-alfocolor-pr-g-ref-94b9)
 - [[stefanie] Fujifilm Fujicolor SuperHG (ref: ee94)](#stefanie-fujifilm-fujicolor-superhg-ref-ee94)
@@ -1233,6 +1237,26 @@ UUID  : 4c97e2b7413b42278b0fd129c1c589e7
 	<img src="./lowres/00127_001.jpg" alt="Foma Ortho 120 film box inside" loading="lazy" width="500" />
 </a>
 
+#### [Pelicram] Foma Ortho 400 (ref: c559)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 400          |  Expiry : 2027-05  
+Added : 2025-08-15   |  Author : Pelicram 
+UUID  : 676655ff95914769b0869d71d824c559
+```
+
+<a href="./archive/00187_000.jpg">
+	<img src="./lowres/00187_000.jpg" alt="Foma Ortho 400 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 51e4fc9142fa45039f5d4a5d823f1ab5`↓
+
+<a href="./archive/00187_001.jpg">
+	<img src="./lowres/00187_001.jpg" alt="Foma Ortho 400 35mm film box inside" loading="lazy" height="500" />
+</a>
+
 #### [Pelicram] Fujifilm Fujicolor Superia (ref: d1b7)
 
 ```
@@ -1366,6 +1390,19 @@ UUID  : 58f2bea3a3204a1dafebf2881d99a327
 	<img src="./lowres/00145_001.jpg" alt="Kentmere PAN 35mm film box inside" loading="lazy" height="500" />
 </a>
 
+#### [Pelicram] Kentmere PAN 200 (ref: 0e32)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 200          |  Expiry : 2030-04  
+Added : 2025-08-15   |  Author : Pelicram 
+UUID  : b0e988456d7444b1b879dc6ca4a80e32
+```
+
+<a href="./archive/00186_000.jpg">
+	<img src="./lowres/00186_000.jpg" alt="Kentmere PAN 200 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [Pelicram] Kodak TMAX (ref: 521a)
 
 ```
@@ -1488,6 +1525,19 @@ UUID  : e8a5b04ef68c43ae9e79df89123726dd
 
 <a href="./archive/00143_000.jpg">
 	<img src="./lowres/00143_000.jpg" alt="Lomography Tiger 110 film box outside" loading="lazy" height="500" />
+</a>
+
+#### [Pelicram] Mutascan Kodak Vision3 500T/5219 (ref: 5150)
+
+```
+Format: 35mm         |  Process: ECN-2    
+ISO   : 500          |  Expiry : Unknown  
+Added : 2025-08-15   |  Author : Pelicram 
+UUID  : e4d2af3a69704509a07e108fcb4b5150
+```
+
+<a href="./archive/00185_000.jpg">
+	<img src="./lowres/00185_000.jpg" alt="Mutascan Kodak Vision3 500T/5219 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [Pelicram] Rollei RPX 400 (ref: 2155)
@@ -3172,6 +3222,19 @@ UUID  : b220e7d5dbee49898fbd1d42ee67c90d
 	<img src="./lowres/00096_000.jpg" alt="Perutz Superomnia 9x12 film box outside" loading="lazy" width="500" />
 </a>
 
+#### [midnight_cowboy_1894] Kirkland Signature Color Print Film (ref: 0441)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2002-12  
+Added : 2025-08-15   |  Author : midnight_cowboy_1894
+UUID  : 7f4a0fbd6be7494ab097f7f816700441
+```
+
+<a href="./archive/00184_000.jpg">
+	<img src="./lowres/00184_000.jpg" alt="Kirkland Signature Color Print Film 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [stefanie] Agfa Agfacolor XRG (ref: 689e)
 
 ```
@@ -3536,7 +3599,7 @@ UUID  : e54ce68c797b4846b9aee3f5818ecb58
 Rank  Username                 Contributions
 ---------------------------------------------
 1     dekuNukem                111   
-2     Pelicram                 44    
+2     Pelicram                 48    
 3     Camera.Riley             19    
 4     Nano_Burger              18    
 5     @ob.skura                16    
@@ -3555,6 +3618,7 @@ Rank  Username                 Contributions
 18    @seklerek                2     
 19    @ftfilmphotos            2     
 20    Yrikonchik               1     
+21    midnight_cowboy_1894     1     
 ```
 
 ## Questions or Comments?

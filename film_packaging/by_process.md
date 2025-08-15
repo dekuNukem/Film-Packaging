@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 14 2025
+Last Updated: Aug 15 2025
 
-# of items: 319
+# of items: 324
 ```
 
 -----
@@ -43,6 +43,7 @@ Last Updated: Aug 14 2025
 - [[BW] Foma Fomapan (ref: 60ee)](#bw-foma-fomapan-ref-60ee)
 - [[BW] Foma Fomapan21 (ref: 75d9)](#bw-foma-fomapan21-ref-75d9)
 - [[BW] Foma Ortho (ref: 89e7)](#bw-foma-ortho-ref-89e7)
+- [[BW] Foma Ortho 400 (ref: c559)](#bw-foma-ortho-400-ref-c559)
 - [[BW] Fujifilm Neopan SS Rapid (ref: 9db3)](#bw-fujifilm-neopan-ss-rapid-ref-9db3)
 - [[BW] Ilford Delta (ref: eb8d)](#bw-ilford-delta-ref-eb8d)
 - [[BW] Ilford Delta (ref: 920f)](#bw-ilford-delta-ref-920f)
@@ -59,6 +60,7 @@ Last Updated: Aug 14 2025
 - [[BW] Kentmere PAN (ref: c907)](#bw-kentmere-pan-ref-c907)
 - [[BW] Kentmere PAN (ref: 827e)](#bw-kentmere-pan-ref-827e)
 - [[BW] Kentmere PAN (ref: a327)](#bw-kentmere-pan-ref-a327)
+- [[BW] Kentmere PAN 200 (ref: 0e32)](#bw-kentmere-pan-200-ref-0e32)
 - [[BW] Kodak Eastman Tri-X Reversal Film 7278 (ref: 8468)](#bw-kodak-eastman-tri-x-reversal-film-7278-ref-8468)
 - [[BW] Kodak High Contrast Copy Film (ref: db52)](#bw-kodak-high-contrast-copy-film-ref-db52)
 - [[BW] Kodak High Speed Infrared (ref: 4294)](#bw-kodak-high-speed-infrared-ref-4294)
@@ -122,6 +124,7 @@ Last Updated: Aug 14 2025
 - [[C-41] Hope Film Bubble (ref: 41f4)](#c-41-hope-film-bubble-ref-41f4)
 - [[C-41] Ilford XP2 Super (ref: 622a)](#c-41-ilford-xp2-super-ref-622a)
 - [[C-41] Jessops Diamond Everyday (ref: 67d3)](#c-41-jessops-diamond-everyday-ref-67d3)
+- [[C-41] Kirkland Signature Color Print Film (ref: 0441)](#c-41-kirkland-signature-color-print-film-ref-0441)
 - [[C-41] Klick APS Film (ref: 4b88)](#c-41-klick-aps-film-ref-4b88)
 - [[C-41] Klick XD200 (ref: 44d7)](#c-41-klick-xd200-ref-44d7)
 - [[C-41] Kodak Advantix Ultra (ref: 566b)](#c-41-kodak-advantix-ultra-ref-566b)
@@ -184,6 +187,7 @@ Last Updated: Aug 14 2025
 - [[E-6] Kodak Elite Chrome (ref: 523c)](#e-6-kodak-elite-chrome-ref-523c)
 - [[E-6] Kodak Elite Chrome (ref: 3943)](#e-6-kodak-elite-chrome-ref-3943)
 - [[ECN-2] Alien Film 5207/250D (ref: 8820)](#ecn-2-alien-film-5207250d-ref-8820)
+- [[ECN-2] Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#ecn-2-mutascan-kodak-vision3-500t5219-ref-5150)
 - [[ECN-2] Three Film Rolls 5207 (ref: 0292)](#ecn-2-three-film-rolls-5207-ref-0292)
 - [[Instant] Polaroid 665 (ref: e054)](#instant-polaroid-665-ref-e054)
 - [[Instant] Polaroid 669 (ref: 3566)](#instant-polaroid-669-ref-3566)
@@ -585,6 +589,26 @@ UUID  : 4c97e2b7413b42278b0fd129c1c589e7
 	<img src="./lowres/00127_001.jpg" alt="Foma Ortho 120 film box inside" loading="lazy" width="500" />
 </a>
 
+#### [BW] Foma Ortho 400 (ref: c559)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 400          |  Expiry : 2027-05  
+Added : 2025-08-15   |  Author : Pelicram 
+UUID  : 676655ff95914769b0869d71d824c559
+```
+
+<a href="./archive/00187_000.jpg">
+	<img src="./lowres/00187_000.jpg" alt="Foma Ortho 400 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 51e4fc9142fa45039f5d4a5d823f1ab5`↓
+
+<a href="./archive/00187_001.jpg">
+	<img src="./lowres/00187_001.jpg" alt="Foma Ortho 400 35mm film box inside" loading="lazy" height="500" />
+</a>
+
 #### [BW] Fujifilm Neopan SS Rapid (ref: 9db3)
 
 ```
@@ -889,6 +913,19 @@ UUID  : 58f2bea3a3204a1dafebf2881d99a327
 
 <a href="./archive/00145_001.jpg">
 	<img src="./lowres/00145_001.jpg" alt="Kentmere PAN 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### [BW] Kentmere PAN 200 (ref: 0e32)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 200          |  Expiry : 2030-04  
+Added : 2025-08-15   |  Author : Pelicram 
+UUID  : b0e988456d7444b1b879dc6ca4a80e32
+```
+
+<a href="./archive/00186_000.jpg">
+	<img src="./lowres/00186_000.jpg" alt="Kentmere PAN 200 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [BW] Kodak Eastman Tri-X Reversal Film 7278 (ref: 8468)
@@ -2011,6 +2048,19 @@ UUID  : b53e5c167866448d812a4dc8e85967d3
 	<img src="./lowres/00033_000.jpg" alt="Jessops Diamond Everyday APS film box outside" loading="lazy" height="500" />
 </a>
 
+#### [C-41] Kirkland Signature Color Print Film (ref: 0441)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2002-12  
+Added : 2025-08-15   |  Author : midnight_cowboy_1894
+UUID  : 7f4a0fbd6be7494ab097f7f816700441
+```
+
+<a href="./archive/00184_000.jpg">
+	<img src="./lowres/00184_000.jpg" alt="Kirkland Signature Color Print Film 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [C-41] Klick APS Film (ref: 4b88)
 
 ```
@@ -3020,6 +3070,19 @@ UUID  : aedc4b00bd174e0baf7c744ed21d8820
 	<img src="./lowres/00001_000.jpg" alt="Alien Film 5207/250D 120 film box outside" loading="lazy" width="500" />
 </a>
 
+#### [ECN-2] Mutascan Kodak Vision3 500T/5219 (ref: 5150)
+
+```
+Format: 35mm         |  Process: ECN-2    
+ISO   : 500          |  Expiry : Unknown  
+Added : 2025-08-15   |  Author : Pelicram 
+UUID  : e4d2af3a69704509a07e108fcb4b5150
+```
+
+<a href="./archive/00185_000.jpg">
+	<img src="./lowres/00185_000.jpg" alt="Mutascan Kodak Vision3 500T/5219 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [ECN-2] Three Film Rolls 5207 (ref: 0292)
 
 ```
@@ -3536,7 +3599,7 @@ UUID  : 90304019395a4c62bb9c6fe1cb2ba444
 Rank  Username                 Contributions
 ---------------------------------------------
 1     dekuNukem                111   
-2     Pelicram                 44    
+2     Pelicram                 48    
 3     Camera.Riley             19    
 4     Nano_Burger              18    
 5     @ob.skura                16    
@@ -3555,6 +3618,7 @@ Rank  Username                 Contributions
 18    @seklerek                2     
 19    @ftfilmphotos            2     
 20    Yrikonchik               1     
+21    midnight_cowboy_1894     1     
 ```
 
 ## Questions or Comments?
