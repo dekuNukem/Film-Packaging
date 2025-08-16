@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Aug 16 2025
 
-# of items: 329
+# of items: 333
 ```
 
 -----
@@ -67,6 +67,8 @@ Last Updated: Aug 16 2025
 - [[BW] Kodak High Contrast Copy Film (ref: db52)](#bw-kodak-high-contrast-copy-film-ref-db52)
 - [[BW] Kodak High Speed Infrared (ref: 4294)](#bw-kodak-high-speed-infrared-ref-4294)
 - [[BW] Kodak High Speed Infrared (ref: 883e)](#bw-kodak-high-speed-infrared-ref-883e)
+- [[BW] Kodak Panatomic-X (ref: 8d69)](#bw-kodak-panatomic-x-ref-8d69)
+- [[BW] Kodak Panatomic-X (ref: 35f6)](#bw-kodak-panatomic-x-ref-35f6)
 - [[BW] Kodak Rapid Process Copy Film (ref: e66e)](#bw-kodak-rapid-process-copy-film-ref-e66e)
 - [[BW] Kodak TMAX (ref: 1dff)](#bw-kodak-tmax-ref-1dff)
 - [[BW] Kodak TMAX (ref: b3b1)](#bw-kodak-tmax-ref-b3b1)
@@ -1057,6 +1059,46 @@ UUID  : 77352e93d73748eca98cff7b30d7883e
 
 <a href="./archive/00103_001.jpg">
 	<img src="./lowres/00103_001.jpg" alt="Kodak High Speed Infrared 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### [BW] Kodak Panatomic-X (ref: 8d69)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 32           |  Expiry : 1976-12  
+Added : 2025-08-16   |  Author : u/ReeeSchmidtyWerber
+UUID  : 386384f6be954ddc8ab42f3bcb1d8d69
+```
+
+<a href="./archive/00193_000.jpg">
+	<img src="./lowres/00193_000.jpg" alt="Kodak Panatomic-X 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [BW] Kodak Panatomic-X (ref: 35f6)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 32           |  Expiry : 1977013  
+Added : 2025-08-16   |  Author : u/ReeeSchmidtyWerber
+UUID  : 475b6bf4c66141b48fc73ace756435f6
+```
+
+<a href="./archive/00192_000.jpg">
+	<img src="./lowres/00192_000.jpg" alt="Kodak Panatomic-X 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 662f12bfdc864efb861dd9ede2973332`↓
+
+<a href="./archive/00192_001.jpg">
+	<img src="./lowres/00192_001.jpg" alt="Kodak Panatomic-X 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 85fea329b0a34765987a30d8a728a8e0`↓
+
+<a href="./archive/00192_002.jpg">
+	<img src="./lowres/00192_002.jpg" alt="Kodak Panatomic-X 35mm film box leaflet" loading="lazy" height="500" />
 </a>
 
 #### [BW] Kodak Rapid Process Copy Film (ref: e66e)
@@ -3677,12 +3719,13 @@ Rank  Username                      Contributions
 14    @recycling.film               5     
 15    Kraksen                       5     
 16    Henry Gunn                    4     
-17    @Hol.m35                      3     
-18    TheSelousScout                3     
-19    @seklerek                     2     
-20    @ftfilmphotos                 2     
-21    Yrikonchik                    1     
-22    @ad.astra.per.aspera.1894     1     
+17    u/ReeeSchmidtyWerber          4     
+18    @Hol.m35                      3     
+19    TheSelousScout                3     
+20    @seklerek                     2     
+21    @ftfilmphotos                 2     
+22    Yrikonchik                    1     
+23    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?

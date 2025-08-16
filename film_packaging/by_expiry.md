@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Aug 16 2025
 
-# of items: 329
+# of items: 333
 ```
 
 -----
@@ -39,7 +39,9 @@ Last Updated: Aug 16 2025
 - [[1974] Porst Color N21 (ref: 494a)](#1974-porst-color-n21-ref-494a)
 - [[1975] Fujifilm Neopan SS Rapid (ref: 9db3)](#1975-fujifilm-neopan-ss-rapid-ref-9db3)
 - [[1975] Kodak Kodacolor-X (ref: 5302)](#1975-kodak-kodacolor-x-ref-5302)
+- [[1976] Kodak Panatomic-X (ref: 8d69)](#1976-kodak-panatomic-x-ref-8d69)
 - [[1977] Kodak High Speed Ektachrome (ref: b8f8)](#1977-kodak-high-speed-ektachrome-ref-b8f8)
+- [[1977] Kodak Panatomic-X (ref: 35f6)](#1977-kodak-panatomic-x-ref-35f6)
 - [[1978] Kodak Kodachrome (ref: 6477)](#1978-kodak-kodachrome-ref-6477)
 - [[1978] Sakura Sakuracolor II (ref: 4f7d)](#1978-sakura-sakuracolor-ii-ref-4f7d)
 - [[1979] Kodak Ektachrome (ref: 07c0)](#1979-kodak-ektachrome-ref-07c0)
@@ -541,6 +543,19 @@ UUID  : 5a3d2ba8ff7649c9b3450d7069445302
 	<img src="./lowres/00024_000.jpg" alt="Kodak Kodacolor-X 126 film box outside" loading="lazy" width="500" />
 </a>
 
+#### [1976] Kodak Panatomic-X (ref: 8d69)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 32           |  Expiry : 1976-12  
+Added : 2025-08-16   |  Author : u/ReeeSchmidtyWerber
+UUID  : 386384f6be954ddc8ab42f3bcb1d8d69
+```
+
+<a href="./archive/00193_000.jpg">
+	<img src="./lowres/00193_000.jpg" alt="Kodak Panatomic-X 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [1977] Kodak High Speed Ektachrome (ref: b8f8)
 
 ```
@@ -566,6 +581,33 @@ UUID  : 86470a73e4b5436b97ffb272be6bb8f8
 
 <a href="./archive/00107_002.jpg">
 	<img src="./lowres/00107_002.jpg" alt="Kodak High Speed Ektachrome 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
+#### [1977] Kodak Panatomic-X (ref: 35f6)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 32           |  Expiry : 1977013  
+Added : 2025-08-16   |  Author : u/ReeeSchmidtyWerber
+UUID  : 475b6bf4c66141b48fc73ace756435f6
+```
+
+<a href="./archive/00192_000.jpg">
+	<img src="./lowres/00192_000.jpg" alt="Kodak Panatomic-X 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 662f12bfdc864efb861dd9ede2973332`↓
+
+<a href="./archive/00192_001.jpg">
+	<img src="./lowres/00192_001.jpg" alt="Kodak Panatomic-X 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 85fea329b0a34765987a30d8a728a8e0`↓
+
+<a href="./archive/00192_002.jpg">
+	<img src="./lowres/00192_002.jpg" alt="Kodak Panatomic-X 35mm film box leaflet" loading="lazy" height="500" />
 </a>
 
 #### [1978] Kodak Kodachrome (ref: 6477)
@@ -3677,12 +3719,13 @@ Rank  Username                      Contributions
 14    @recycling.film               5     
 15    Kraksen                       5     
 16    Henry Gunn                    4     
-17    @Hol.m35                      3     
-18    TheSelousScout                3     
-19    @seklerek                     2     
-20    @ftfilmphotos                 2     
-21    Yrikonchik                    1     
-22    @ad.astra.per.aspera.1894     1     
+17    u/ReeeSchmidtyWerber          4     
+18    @Hol.m35                      3     
+19    TheSelousScout                3     
+20    @seklerek                     2     
+21    @ftfilmphotos                 2     
+22    Yrikonchik                    1     
+23    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?

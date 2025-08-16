@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Aug 16 2025
 
-# of items: 329
+# of items: 333
 ```
 
 -----
@@ -205,6 +205,8 @@ Last Updated: Aug 16 2025
 - [[toader] Kodak Ektachrome Elite (ref: 26ef)](#toader-kodak-ektachrome-elite-ref-26ef)
 - [[toader] Polaroid Color 600 Film Round Frame (ref: d985)](#toader-polaroid-color-600-film-round-frame-ref-d985)
 - [[toader] Polaroid Color SX-70 Film (ref: dc7f)](#toader-polaroid-color-sx-70-film-ref-dc7f)
+- [[u/ReeeSchmidtyWerber] Kodak Panatomic-X (ref: 8d69)](#ureeeschmidtywerber-kodak-panatomic-x-ref-8d69)
+- [[u/ReeeSchmidtyWerber] Kodak Panatomic-X (ref: 35f6)](#ureeeschmidtywerber-kodak-panatomic-x-ref-35f6)
 - [[yc128] Harman Phoenix (ref: 8eb4)](#yc128-harman-phoenix-ref-8eb4)
 - [[yc128] Harman Phoenix II (ref: f686)](#yc128-harman-phoenix-ii-ref-f686)
 - [[yc128] Harman Phoenix II (ref: 40df)](#yc128-harman-phoenix-ii-ref-40df)
@@ -3539,6 +3541,46 @@ UUID  : b4af154cea6f40c0aa1d4154d0c2dc7f
 	<img src="./lowres/00156_003.jpg" alt="Polaroid Color SX-70 Film Integral Film film box inside" loading="lazy" height="500" />
 </a>
 
+#### [u/ReeeSchmidtyWerber] Kodak Panatomic-X (ref: 8d69)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 32           |  Expiry : 1976-12  
+Added : 2025-08-16   |  Author : u/ReeeSchmidtyWerber
+UUID  : 386384f6be954ddc8ab42f3bcb1d8d69
+```
+
+<a href="./archive/00193_000.jpg">
+	<img src="./lowres/00193_000.jpg" alt="Kodak Panatomic-X 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [u/ReeeSchmidtyWerber] Kodak Panatomic-X (ref: 35f6)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 32           |  Expiry : 1977013  
+Added : 2025-08-16   |  Author : u/ReeeSchmidtyWerber
+UUID  : 475b6bf4c66141b48fc73ace756435f6
+```
+
+<a href="./archive/00192_000.jpg">
+	<img src="./lowres/00192_000.jpg" alt="Kodak Panatomic-X 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 662f12bfdc864efb861dd9ede2973332`↓
+
+<a href="./archive/00192_001.jpg">
+	<img src="./lowres/00192_001.jpg" alt="Kodak Panatomic-X 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 85fea329b0a34765987a30d8a728a8e0`↓
+
+<a href="./archive/00192_002.jpg">
+	<img src="./lowres/00192_002.jpg" alt="Kodak Panatomic-X 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
 #### [yc128] Harman Phoenix (ref: 8eb4)
 
 ```
@@ -3677,12 +3719,13 @@ Rank  Username                      Contributions
 14    @recycling.film               5     
 15    Kraksen                       5     
 16    Henry Gunn                    4     
-17    @Hol.m35                      3     
-18    TheSelousScout                3     
-19    @seklerek                     2     
-20    @ftfilmphotos                 2     
-21    Yrikonchik                    1     
-22    @ad.astra.per.aspera.1894     1     
+17    u/ReeeSchmidtyWerber          4     
+18    @Hol.m35                      3     
+19    TheSelousScout                3     
+20    @seklerek                     2     
+21    @ftfilmphotos                 2     
+22    Yrikonchik                    1     
+23    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?
