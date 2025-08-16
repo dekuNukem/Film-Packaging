@@ -323,3 +323,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 186,0,film_box_outside,Kentmere,PAN 200,35mm,200,BW,203004,1755220858,ce26ffebd0384dc2eb058e34bfc931cc,b0e988456d7444b1b879dc6ca4a80e32,00186_000.jpg,Pelicram
 187,0,film_box_outside,Foma,Ortho 400,35mm,400,BW,202705,1755220892,36af09c99ab36c1b682accc9eb108d53,676655ff95914769b0869d71d824c559,00187_000.jpg,Pelicram
 187,1,film_box_inside,Foma,Ortho 400,35mm,400,BW,202705,1755220897,3ff41118b1a690e496458415553d900e,51e4fc9142fa45039f5d4a5d823f1ab5,00187_001.jpg,Pelicram
+188,0,film_box_outside,Marix,Professional Negative Movie Color Film,35mm,320,C-41,202612,1755360838,74615810c8d4db6b8cb787f50b8ce23f,715e5119d4b941d98ce52bcd8596c457,00188_000.jpg,Kraksen
+189,0,film_box_outside,Kodak,Black & White +,35mm,400,C-41,200407,1755361020,2beccc5d8929a16412060d5f203d7cc8,8ae6d75c042c48318fa711a412b72ff3,00189_000.jpg,Kraksen
+190,0,film_box_outside,Agfa,Agfapan APX 400,35mm,400,BW,200601,1755361060,8c59a7b830988db71fae92d8a6dac024,7dd80a6f50584141ba1752071b9419bc,00190_000.jpg,Kraksen
+190,1,film_box_inside,Agfa,Agfapan APX 400,35mm,400,BW,200601,1755361062,df75862e3eb1cb585f3180c57017413b,4ecb4b290f4845c196358776429baaec,00190_001.jpg,Kraksen
+191,0,film_box_outside,Agfa,Agfapan APX 100,35mm,100,BW,200507,1755361106,507ee8f6c27c66b9119da086ab914538,e00a9a59b3d74a1d85ff4331bc73e271,00191_000.jpg,Kraksen

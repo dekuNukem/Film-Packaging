@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 15 2025
+Last Updated: Aug 16 2025
 
-# of items: 324
+# of items: 329
 ```
 
 -----
@@ -65,6 +65,10 @@ Last Updated: Aug 15 2025
 - [[Camera.Riley] Polaroid PolaChrome 35mm (ref: b202)](#camerariley-polaroid-polachrome-35mm-ref-b202)
 - [[Henry Gunn] Kodak High Speed Ektachrome (ref: b8f8)](#henry-gunn-kodak-high-speed-ektachrome-ref-b8f8)
 - [[Henry Gunn] Tasma OCh 50 (ref: 5c43)](#henry-gunn-tasma-och-50-ref-5c43)
+- [[Kraksen] Agfa Agfapan APX 100 (ref: e271)](#kraksen-agfa-agfapan-apx-100-ref-e271)
+- [[Kraksen] Agfa Agfapan APX 400 (ref: 19bc)](#kraksen-agfa-agfapan-apx-400-ref-19bc)
+- [[Kraksen] Kodak Black & White + (ref: 2ff3)](#kraksen-kodak-black-white-ref-2ff3)
+- [[Kraksen] Marix Professional Negative Movie Color Film (ref: c457)](#kraksen-marix-professional-negative-movie-color-film-ref-c457)
 - [[Nano_Burger] Agfa Autolith Repo (ref: 8e68)](#nano_burger-agfa-autolith-repo-ref-8e68)
 - [[Nano_Burger] Agfa Isopan FF (ref: 3700)](#nano_burger-agfa-isopan-ff-ref-3700)
 - [[Nano_Burger] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#nano_burger-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
@@ -922,6 +926,65 @@ UUID  : 58211887217046be9d2dfcce8d0c5c43
 
 <a href="./archive/00108_000.jpg">
 	<img src="./lowres/00108_000.jpg" alt="Tasma OCh 50 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+#### [Kraksen] Agfa Agfapan APX 100 (ref: e271)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 100          |  Expiry : 2005-07  
+Added : 2025-08-16   |  Author : Kraksen  
+UUID  : e00a9a59b3d74a1d85ff4331bc73e271
+```
+
+<a href="./archive/00191_000.jpg">
+	<img src="./lowres/00191_000.jpg" alt="Agfa Agfapan APX 100 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [Kraksen] Agfa Agfapan APX 400 (ref: 19bc)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 400          |  Expiry : 2006-01  
+Added : 2025-08-16   |  Author : Kraksen  
+UUID  : 7dd80a6f50584141ba1752071b9419bc
+```
+
+<a href="./archive/00190_000.jpg">
+	<img src="./lowres/00190_000.jpg" alt="Agfa Agfapan APX 400 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 4ecb4b290f4845c196358776429baaec`↓
+
+<a href="./archive/00190_001.jpg">
+	<img src="./lowres/00190_001.jpg" alt="Agfa Agfapan APX 400 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### [Kraksen] Kodak Black & White + (ref: 2ff3)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2004-07  
+Added : 2025-08-16   |  Author : Kraksen  
+UUID  : 8ae6d75c042c48318fa711a412b72ff3
+```
+
+<a href="./archive/00189_000.jpg">
+	<img src="./lowres/00189_000.jpg" alt="Kodak Black & White + 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [Kraksen] Marix Professional Negative Movie Color Film (ref: c457)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 320          |  Expiry : 2026-12  
+Added : 2025-08-16   |  Author : Kraksen  
+UUID  : 715e5119d4b941d98ce52bcd8596c457
+```
+
+<a href="./archive/00188_000.jpg">
+	<img src="./lowres/00188_000.jpg" alt="Marix Professional Negative Movie Color Film 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [Nano_Burger] Agfa Autolith Repo (ref: 8e68)
@@ -3612,13 +3675,14 @@ Rank  Username                      Contributions
 12    lilyu.xyz                     9     
 13    benikum                       6     
 14    @recycling.film               5     
-15    Henry Gunn                    4     
-16    @Hol.m35                      3     
-17    TheSelousScout                3     
-18    @seklerek                     2     
-19    @ftfilmphotos                 2     
-20    Yrikonchik                    1     
-21    @ad.astra.per.aspera.1894     1     
+15    Kraksen                       5     
+16    Henry Gunn                    4     
+17    @Hol.m35                      3     
+18    TheSelousScout                3     
+19    @seklerek                     2     
+20    @ftfilmphotos                 2     
+21    Yrikonchik                    1     
+22    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?

@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 15 2025
+Last Updated: Aug 16 2025
 
-# of items: 324
+# of items: 329
 ```
 
 -----
@@ -27,6 +27,8 @@ Last Updated: Aug 15 2025
 - [Agfa APX (ref: 12c7)](#agfa-apx-ref-12c7)
 - [Agfa APX (ref: 5276)](#agfa-apx-ref-5276)
 - [Agfa Agfacolor XRG (ref: 689e)](#agfa-agfacolor-xrg-ref-689e)
+- [Agfa Agfapan APX 100 (ref: e271)](#agfa-agfapan-apx-100-ref-e271)
+- [Agfa Agfapan APX 400 (ref: 19bc)](#agfa-agfapan-apx-400-ref-19bc)
 - [Agfa Agfapan Rapid (ref: 5e7b)](#agfa-agfapan-rapid-ref-5e7b)
 - [Agfa Autolith Repo (ref: 8e68)](#agfa-autolith-repo-ref-8e68)
 - [Agfa Fine-Grain Plenachrome (ref: e5d4)](#agfa-fine-grain-plenachrome-ref-e5d4)
@@ -103,6 +105,7 @@ Last Updated: Aug 15 2025
 - [Klick APS Film (ref: 4b88)](#klick-aps-film-ref-4b88)
 - [Klick XD200 (ref: 44d7)](#klick-xd200-ref-44d7)
 - [Kodak Advantix Ultra (ref: 566b)](#kodak-advantix-ultra-ref-566b)
+- [Kodak Black & White + (ref: 2ff3)](#kodak-black-white-ref-2ff3)
 - [Kodak ColorPlus (ref: 79ca)](#kodak-colorplus-ref-79ca)
 - [Kodak ColorPlus (ref: 6637)](#kodak-colorplus-ref-6637)
 - [Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
@@ -173,6 +176,7 @@ Last Updated: Aug 15 2025
 - [Lomography Lomochrome Turquoise (ref: 0d90)](#lomography-lomochrome-turquoise-ref-0d90)
 - [Lomography Orca (ref: d506)](#lomography-orca-ref-d506)
 - [Lomography Tiger (ref: 26dd)](#lomography-tiger-ref-26dd)
+- [Marix Professional Negative Movie Color Film (ref: c457)](#marix-professional-negative-movie-color-film-ref-c457)
 - [Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#minolta-minolta-16-color-film-for-prints-ref-a2ff)
 - [Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#mutascan-kodak-vision3-500t5219-ref-5150)
 - [ORWO NP 20 SL (ref: b16c)](#orwo-np-20-sl-ref-b16c)
@@ -309,6 +313,39 @@ UUID  : 86136eea89d14e15b60dfcdf45b1689e
 
 <a href="./archive/00152_001.jpg">
 	<img src="./lowres/00152_001.jpg" alt="Agfa Agfacolor XRG 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### Agfa Agfapan APX 100 (ref: e271)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 100          |  Expiry : 2005-07  
+Added : 2025-08-16   |  Author : Kraksen  
+UUID  : e00a9a59b3d74a1d85ff4331bc73e271
+```
+
+<a href="./archive/00191_000.jpg">
+	<img src="./lowres/00191_000.jpg" alt="Agfa Agfapan APX 100 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### Agfa Agfapan APX 400 (ref: 19bc)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 400          |  Expiry : 2006-01  
+Added : 2025-08-16   |  Author : Kraksen  
+UUID  : 7dd80a6f50584141ba1752071b9419bc
+```
+
+<a href="./archive/00190_000.jpg">
+	<img src="./lowres/00190_000.jpg" alt="Agfa Agfapan APX 400 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 4ecb4b290f4845c196358776429baaec`↓
+
+<a href="./archive/00190_001.jpg">
+	<img src="./lowres/00190_001.jpg" alt="Agfa Agfapan APX 400 35mm film box inside" loading="lazy" height="500" />
 </a>
 
 #### Agfa Agfapan Rapid (ref: 5e7b)
@@ -1677,6 +1714,19 @@ UUID  : 041622f239024ffb8b75c367619a566b
 	<img src="./lowres/00066_000.jpg" alt="Kodak Advantix Ultra APS film box outside" loading="lazy" width="500" />
 </a>
 
+#### Kodak Black & White + (ref: 2ff3)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2004-07  
+Added : 2025-08-16   |  Author : Kraksen  
+UUID  : 8ae6d75c042c48318fa711a412b72ff3
+```
+
+<a href="./archive/00189_000.jpg">
+	<img src="./lowres/00189_000.jpg" alt="Kodak Black & White + 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### Kodak ColorPlus (ref: 79ca)
 
 ```
@@ -2909,6 +2959,19 @@ UUID  : e8a5b04ef68c43ae9e79df89123726dd
 	<img src="./lowres/00143_000.jpg" alt="Lomography Tiger 110 film box outside" loading="lazy" height="500" />
 </a>
 
+#### Marix Professional Negative Movie Color Film (ref: c457)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 320          |  Expiry : 2026-12  
+Added : 2025-08-16   |  Author : Kraksen  
+UUID  : 715e5119d4b941d98ce52bcd8596c457
+```
+
+<a href="./archive/00188_000.jpg">
+	<img src="./lowres/00188_000.jpg" alt="Marix Professional Negative Movie Color Film 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### Minolta Minolta 16 Color Film For Prints (ref: a2ff)
 
 ```
@@ -3612,13 +3675,14 @@ Rank  Username                      Contributions
 12    lilyu.xyz                     9     
 13    benikum                       6     
 14    @recycling.film               5     
-15    Henry Gunn                    4     
-16    @Hol.m35                      3     
-17    TheSelousScout                3     
-18    @seklerek                     2     
-19    @ftfilmphotos                 2     
-20    Yrikonchik                    1     
-21    @ad.astra.per.aspera.1894     1     
+15    Kraksen                       5     
+16    Henry Gunn                    4     
+17    @Hol.m35                      3     
+18    TheSelousScout                3     
+19    @seklerek                     2     
+20    @ftfilmphotos                 2     
+21    Yrikonchik                    1     
+22    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?

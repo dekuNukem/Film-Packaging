@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 15 2025
+Last Updated: Aug 16 2025
 
-# of items: 324
+# of items: 329
 ```
 
 -----
@@ -93,8 +93,11 @@ Last Updated: Aug 15 2025
 - [[2003] Konica VX200 (ref: fe53)](#2003-konica-vx200-ref-fe53)
 - [[2003] Fujifilm NPS (ref: 5e85)](#2003-fujifilm-nps-ref-5e85)
 - [[2003] Agfa Vista (ref: d3af)](#2003-agfa-vista-ref-d3af)
+- [[2004] Kodak Black & White + (ref: 2ff3)](#2004-kodak-black-white-ref-2ff3)
 - [[2005] Agfa Agfacolor XRG (ref: 689e)](#2005-agfa-agfacolor-xrg-ref-689e)
+- [[2005] Agfa Agfapan APX 100 (ref: e271)](#2005-agfa-agfapan-apx-100-ref-e271)
 - [[2005] Kodak Ultra (ref: 69a1)](#2005-kodak-ultra-ref-69a1)
+- [[2006] Agfa Agfapan APX 400 (ref: 19bc)](#2006-agfa-agfapan-apx-400-ref-19bc)
 - [[2006] Polaroid 669 (ref: 3566)](#2006-polaroid-669-ref-3566)
 - [[2006] Fujifilm Velvia 100F (ref: f7fb)](#2006-fujifilm-velvia-100f-ref-f7fb)
 - [[2006] Rossmann Jahreszeiten Pack (ref: 7670)](#2006-rossmann-jahreszeiten-pack-ref-7670)
@@ -173,6 +176,7 @@ Last Updated: Aug 15 2025
 - [[2026] Kodak Gold (ref: 933f)](#2026-kodak-gold-ref-933f)
 - [[2026] Bergger Pancro400 (ref: f619)](#2026-bergger-pancro400-ref-f619)
 - [[2026] Hope Film Bubble (ref: 41f4)](#2026-hope-film-bubble-ref-41f4)
+- [[2026] Marix Professional Negative Movie Color Film (ref: c457)](#2026-marix-professional-negative-movie-color-film-ref-c457)
 - [[2026] Wolfen NC500 (ref: 91c1)](#2026-wolfen-nc500-ref-91c1)
 - [[2027] Kodak Ektachrome E100 (ref: ae10)](#2027-kodak-ektachrome-e100-ref-ae10)
 - [[2027] Foma Fomapan (ref: 3e4f)](#2027-foma-fomapan-ref-3e4f)
@@ -1708,6 +1712,19 @@ UUID  : f1e50745927f4b7cb16af36fd30dd3af
 	<img src="./lowres/00014_001.jpg" alt="Agfa Vista 35mm film box inside" loading="lazy" width="500" />
 </a>
 
+#### [2004] Kodak Black & White + (ref: 2ff3)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2004-07  
+Added : 2025-08-16   |  Author : Kraksen  
+UUID  : 8ae6d75c042c48318fa711a412b72ff3
+```
+
+<a href="./archive/00189_000.jpg">
+	<img src="./lowres/00189_000.jpg" alt="Kodak Black & White + 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [2005] Agfa Agfacolor XRG (ref: 689e)
 
 ```
@@ -1728,6 +1745,19 @@ UUID  : 86136eea89d14e15b60dfcdf45b1689e
 	<img src="./lowres/00152_001.jpg" alt="Agfa Agfacolor XRG 35mm film box inside" loading="lazy" height="500" />
 </a>
 
+#### [2005] Agfa Agfapan APX 100 (ref: e271)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 100          |  Expiry : 2005-07  
+Added : 2025-08-16   |  Author : Kraksen  
+UUID  : e00a9a59b3d74a1d85ff4331bc73e271
+```
+
+<a href="./archive/00191_000.jpg">
+	<img src="./lowres/00191_000.jpg" alt="Agfa Agfapan APX 100 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [2005] Kodak Ultra (ref: 69a1)
 
 ```
@@ -1739,6 +1769,26 @@ UUID  : 77dfbdf80e3a4950b40c7ea8c1e369a1
 
 <a href="./archive/00043_000.jpg">
 	<img src="./lowres/00043_000.jpg" alt="Kodak Ultra 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [2006] Agfa Agfapan APX 400 (ref: 19bc)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 400          |  Expiry : 2006-01  
+Added : 2025-08-16   |  Author : Kraksen  
+UUID  : 7dd80a6f50584141ba1752071b9419bc
+```
+
+<a href="./archive/00190_000.jpg">
+	<img src="./lowres/00190_000.jpg" alt="Agfa Agfapan APX 400 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 4ecb4b290f4845c196358776429baaec`↓
+
+<a href="./archive/00190_001.jpg">
+	<img src="./lowres/00190_001.jpg" alt="Agfa Agfapan APX 400 35mm film box inside" loading="lazy" height="500" />
 </a>
 
 #### [2006] Polaroid 669 (ref: 3566)
@@ -3007,6 +3057,19 @@ UUID  : b09848420a1a4d76b099d82d76bc41f4
 	<img src="./lowres/00164_000.jpg" alt="Hope Film Bubble 35mm film box outside" loading="lazy" width="500" />
 </a>
 
+#### [2026] Marix Professional Negative Movie Color Film (ref: c457)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 320          |  Expiry : 2026-12  
+Added : 2025-08-16   |  Author : Kraksen  
+UUID  : 715e5119d4b941d98ce52bcd8596c457
+```
+
+<a href="./archive/00188_000.jpg">
+	<img src="./lowres/00188_000.jpg" alt="Marix Professional Negative Movie Color Film 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [2026] Wolfen NC500 (ref: 91c1)
 
 ```
@@ -3612,13 +3675,14 @@ Rank  Username                      Contributions
 12    lilyu.xyz                     9     
 13    benikum                       6     
 14    @recycling.film               5     
-15    Henry Gunn                    4     
-16    @Hol.m35                      3     
-17    TheSelousScout                3     
-18    @seklerek                     2     
-19    @ftfilmphotos                 2     
-20    Yrikonchik                    1     
-21    @ad.astra.per.aspera.1894     1     
+15    Kraksen                       5     
+16    Henry Gunn                    4     
+17    @Hol.m35                      3     
+18    TheSelousScout                3     
+19    @seklerek                     2     
+20    @ftfilmphotos                 2     
+21    Yrikonchik                    1     
+22    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?

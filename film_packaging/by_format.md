@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 15 2025
+Last Updated: Aug 16 2025
 
-# of items: 324
+# of items: 329
 ```
 
 -----
@@ -73,6 +73,8 @@ Last Updated: Aug 15 2025
 - [[35mm] Adox HR 50 (ref: 4da7)](#35mm-adox-hr-50-ref-4da7)
 - [[35mm] Agfa APX (ref: 5276)](#35mm-agfa-apx-ref-5276)
 - [[35mm] Agfa Agfacolor XRG (ref: 689e)](#35mm-agfa-agfacolor-xrg-ref-689e)
+- [[35mm] Agfa Agfapan APX 100 (ref: e271)](#35mm-agfa-agfapan-apx-100-ref-e271)
+- [[35mm] Agfa Agfapan APX 400 (ref: 19bc)](#35mm-agfa-agfapan-apx-400-ref-19bc)
 - [[35mm] Agfa Agfapan Rapid (ref: 5e7b)](#35mm-agfa-agfapan-rapid-ref-5e7b)
 - [[35mm] Agfa Fine-Grain Plenachrome (ref: e5d4)](#35mm-agfa-fine-grain-plenachrome-ref-e5d4)
 - [[35mm] Agfa Isopan FF (ref: 3700)](#35mm-agfa-isopan-ff-ref-3700)
@@ -121,6 +123,7 @@ Last Updated: Aug 15 2025
 - [[35mm] Kentmere PAN (ref: a327)](#35mm-kentmere-pan-ref-a327)
 - [[35mm] Kentmere PAN 200 (ref: 0e32)](#35mm-kentmere-pan-200-ref-0e32)
 - [[35mm] Kirkland Signature Color Print Film (ref: 0441)](#35mm-kirkland-signature-color-print-film-ref-0441)
+- [[35mm] Kodak Black & White + (ref: 2ff3)](#35mm-kodak-black-white-ref-2ff3)
 - [[35mm] Kodak ColorPlus (ref: 79ca)](#35mm-kodak-colorplus-ref-79ca)
 - [[35mm] Kodak ColorPlus (ref: 6637)](#35mm-kodak-colorplus-ref-6637)
 - [[35mm] Kodak Ektachrome (ref: 3c96)](#35mm-kodak-ektachrome-ref-3c96)
@@ -168,6 +171,7 @@ Last Updated: Aug 15 2025
 - [[35mm] Lomography Babylon (ref: 7afa)](#35mm-lomography-babylon-ref-7afa)
 - [[35mm] Lomography Fantome (ref: 4340)](#35mm-lomography-fantome-ref-4340)
 - [[35mm] Lomography Lomochrome Purple (ref: 068f)](#35mm-lomography-lomochrome-purple-ref-068f)
+- [[35mm] Marix Professional Negative Movie Color Film (ref: c457)](#35mm-marix-professional-negative-movie-color-film-ref-c457)
 - [[35mm] Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#35mm-mutascan-kodak-vision3-500t5219-ref-5150)
 - [[35mm] ORWO NP 20 SL (ref: b16c)](#35mm-orwo-np-20-sl-ref-b16c)
 - [[35mm] Polaroid PolaBlue 35mm (ref: df66)](#35mm-polaroid-polablue-35mm-ref-df66)
@@ -1175,6 +1179,39 @@ UUID  : 86136eea89d14e15b60dfcdf45b1689e
 	<img src="./lowres/00152_001.jpg" alt="Agfa Agfacolor XRG 35mm film box inside" loading="lazy" height="500" />
 </a>
 
+#### [35mm] Agfa Agfapan APX 100 (ref: e271)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 100          |  Expiry : 2005-07  
+Added : 2025-08-16   |  Author : Kraksen  
+UUID  : e00a9a59b3d74a1d85ff4331bc73e271
+```
+
+<a href="./archive/00191_000.jpg">
+	<img src="./lowres/00191_000.jpg" alt="Agfa Agfapan APX 100 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [35mm] Agfa Agfapan APX 400 (ref: 19bc)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 400          |  Expiry : 2006-01  
+Added : 2025-08-16   |  Author : Kraksen  
+UUID  : 7dd80a6f50584141ba1752071b9419bc
+```
+
+<a href="./archive/00190_000.jpg">
+	<img src="./lowres/00190_000.jpg" alt="Agfa Agfapan APX 400 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 4ecb4b290f4845c196358776429baaec`↓
+
+<a href="./archive/00190_001.jpg">
+	<img src="./lowres/00190_001.jpg" alt="Agfa Agfapan APX 400 35mm film box inside" loading="lazy" height="500" />
+</a>
+
 #### [35mm] Agfa Agfapan Rapid (ref: 5e7b)
 
 ```
@@ -1993,6 +2030,19 @@ UUID  : 7f4a0fbd6be7494ab097f7f816700441
 
 <a href="./archive/00184_000.jpg">
 	<img src="./lowres/00184_000.jpg" alt="Kirkland Signature Color Print Film 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [35mm] Kodak Black & White + (ref: 2ff3)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2004-07  
+Added : 2025-08-16   |  Author : Kraksen  
+UUID  : 8ae6d75c042c48318fa711a412b72ff3
+```
+
+<a href="./archive/00189_000.jpg">
+	<img src="./lowres/00189_000.jpg" alt="Kodak Black & White + 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [35mm] Kodak ColorPlus (ref: 79ca)
@@ -2823,6 +2873,19 @@ UUID  : b02540ba4b454a639f8096f9474d068f
 	<img src="./lowres/00078_001.jpg" alt="Lomography Lomochrome Purple 35mm film box inside" loading="lazy" width="500" />
 </a>
 
+#### [35mm] Marix Professional Negative Movie Color Film (ref: c457)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 320          |  Expiry : 2026-12  
+Added : 2025-08-16   |  Author : Kraksen  
+UUID  : 715e5119d4b941d98ce52bcd8596c457
+```
+
+<a href="./archive/00188_000.jpg">
+	<img src="./lowres/00188_000.jpg" alt="Marix Professional Negative Movie Color Film 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [35mm] Mutascan Kodak Vision3 500T/5219 (ref: 5150)
 
 ```
@@ -3612,13 +3675,14 @@ Rank  Username                      Contributions
 12    lilyu.xyz                     9     
 13    benikum                       6     
 14    @recycling.film               5     
-15    Henry Gunn                    4     
-16    @Hol.m35                      3     
-17    TheSelousScout                3     
-18    @seklerek                     2     
-19    @ftfilmphotos                 2     
-20    Yrikonchik                    1     
-21    @ad.astra.per.aspera.1894     1     
+15    Kraksen                       5     
+16    Henry Gunn                    4     
+17    @Hol.m35                      3     
+18    TheSelousScout                3     
+19    @seklerek                     2     
+20    @ftfilmphotos                 2     
+21    Yrikonchik                    1     
+22    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?
