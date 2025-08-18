@@ -340,7 +340,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 197,1,film_box_inside,Fujifilm,Superia X-TRA,35mm,400,C-41,200304,1755545369,f5008937df9315d7962945bce472aa1c,560832b2cfff4e60930fd3116f1ccffc,00197_001.jpg,@recycling.film
 198,0,film_box_outside,Agfa,APX 25,35mm,25,BW,Unknown,1755545698,27ad57aa3ca522d612b6ac738705e752,4ef7e8e28d2c4c589d24d9e12135805f,00198_000.jpg,@recycling.film
 198,1,film_box_inside,Agfa,APX 25,35mm,25,BW,Unknown,1755545700,16a2ba4bbbd976ad58844c424c1a10df,757b2d5a25cc41aab1220ff909f90fb0,00198_001.jpg,@recycling.film
-199,0,film_box_outside,Fujifilm,Superia,35mm,200,C-41,200906,1755545868,2d96e359b279ebe6410019d3c0a203fa,a57061210f17463fae293851f2130d8e,00199_000.jpg,]@recycling.film
-200,0,film_box_outside,Kodak,Portra 400,35mm,400,C-41,201406,1755545893,79c457df3928692908e5d2876e29c3d3,5bdddffe29bd464cab4630d85485cf9c,00200_000.jpg,]@recycling.film
-201,0,film_box_outside,Kodak,UltraMax,35mm,400,C-41,202607,1755545921,f022a384a1f1742610c0b94f0c0e0ab1,d14bbf440f3a4ac9aa4169c8bba7e4ad,00201_000.jpg,]@recycling.film
-202,0,film_box_outside,Fujifilm,Fujicolor C200,35mm,200,C-41,202003,1755545969,d79572d5d8db840ed9eb5f7c63c0b151,271054727291471392db72d5556f2ff8,00202_000.jpg,]@recycling.film
+199,0,film_box_outside,Fujifilm,Superia,35mm,200,C-41,200906,1755545868,2d96e359b279ebe6410019d3c0a203fa,a57061210f17463fae293851f2130d8e,00199_000.jpg,@recycling.film
+200,0,film_box_outside,Kodak,Portra 400,35mm,400,C-41,201406,1755545893,79c457df3928692908e5d2876e29c3d3,5bdddffe29bd464cab4630d85485cf9c,00200_000.jpg,@recycling.film
+201,0,film_box_outside,Kodak,UltraMax,35mm,400,C-41,202607,1755545921,f022a384a1f1742610c0b94f0c0e0ab1,d14bbf440f3a4ac9aa4169c8bba7e4ad,00201_000.jpg,@recycling.film
+202,0,film_box_outside,Fujifilm,Fujicolor C200,35mm,200,C-41,202003,1755545969,d79572d5d8db840ed9eb5f7c63c0b151,271054727291471392db72d5556f2ff8,00202_000.jpg,@recycling.film

@@ -1597,7 +1597,7 @@ UUID  : 27d88b35933b4ede958b5b5b5b42013b
 ```
 Format: 35mm         |  Process: C-41     
 ISO   : 200          |  Expiry : 2020-03  
-Added : 2025-08-18   |  Author : ]@recycling.film
+Added : 2025-08-18   |  Author : @recycling.film
 UUID  : 271054727291471392db72d5556f2ff8
 ```
 
@@ -1796,7 +1796,7 @@ UUID  : d4fdfa0d829f4fcab984381a31f2a59b
 ```
 Format: 35mm         |  Process: C-41     
 ISO   : 200          |  Expiry : 2009-06  
-Added : 2025-08-18   |  Author : ]@recycling.film
+Added : 2025-08-18   |  Author : @recycling.film
 UUID  : a57061210f17463fae293851f2130d8e
 ```
 
@@ -2758,7 +2758,7 @@ UUID  : 9131fb90db70475dbad5f63f1448ce56
 ```
 Format: 35mm         |  Process: C-41     
 ISO   : 400          |  Expiry : 2014-06  
-Added : 2025-08-18   |  Author : ]@recycling.film
+Added : 2025-08-18   |  Author : @recycling.film
 UUID  : 5bdddffe29bd464cab4630d85485cf9c
 ```
 
@@ -2923,7 +2923,7 @@ UUID  : 77dfbdf80e3a4950b40c7ea8c1e369a1
 ```
 Format: 35mm         |  Process: C-41     
 ISO   : 400          |  Expiry : 2026-07  
-Added : 2025-08-18   |  Author : ]@recycling.film
+Added : 2025-08-18   |  Author : @recycling.film
 UUID  : d14bbf440f3a4ac9aa4169c8bba7e4ad
 ```
 
@@ -3858,23 +3858,22 @@ Rank  Username                      Contributions
 6     b0baspace                     14    
 7     The Compartmentalist          13    
 8     @SirBrentsworth               13    
-9     toader                        13    
-10    stefanie                      12    
-11    yc128                         11    
-12    @recycling.film               9     
+9     @recycling.film               13    
+10    toader                        13    
+11    stefanie                      12    
+12    yc128                         11    
 13    lilyu.xyz                     9     
 14    benikum                       6     
 15    Kraksen                       5     
 16    Henry Gunn                    4     
 17    u/ReeeSchmidtyWerber          4     
 18    lt_col_tall                   4     
-19    ]@recycling.film              4     
-20    @Hol.m35                      3     
-21    TheSelousScout                3     
-22    @seklerek                     2     
-23    @ftfilmphotos                 2     
-24    Yrikonchik                    1     
-25    @ad.astra.per.aspera.1894     1     
+19    @Hol.m35                      3     
+20    TheSelousScout                3     
+21    @seklerek                     2     
+22    @ftfilmphotos                 2     
+23    Yrikonchik                    1     
+24    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?

@@ -60,23 +60,22 @@ Rank  Username                      Contributions
 6     b0baspace                     14    
 7     The Compartmentalist          13    
 8     @SirBrentsworth               13    
-9     toader                        13    
-10    stefanie                      12    
-11    yc128                         11    
-12    @recycling.film               9     
+9     @recycling.film               13    
+10    toader                        13    
+11    stefanie                      12    
+12    yc128                         11    
 13    lilyu.xyz                     9     
 14    benikum                       6     
 15    Kraksen                       5     
 16    Henry Gunn                    4     
 17    u/ReeeSchmidtyWerber          4     
 18    lt_col_tall                   4     
-19    ]@recycling.film              4     
-20    @Hol.m35                      3     
-21    TheSelousScout                3     
-22    @seklerek                     2     
-23    @ftfilmphotos                 2     
-24    Yrikonchik                    1     
-25    @ad.astra.per.aspera.1894     1     
+19    @Hol.m35                      3     
+20    TheSelousScout                3     
+21    @seklerek                     2     
+22    @ftfilmphotos                 2     
+23    Yrikonchik                    1     
+24    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Disclaimer
