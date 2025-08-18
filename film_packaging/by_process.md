@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Aug 18 2025
 
-# of items: 335
+# of items: 345
 ```
 
 -----
@@ -27,6 +27,7 @@ Last Updated: Aug 18 2025
 - [[BW] Adox HR 50 (ref: 4da7)](#bw-adox-hr-50-ref-4da7)
 - [[BW] Agfa APX (ref: 12c7)](#bw-agfa-apx-ref-12c7)
 - [[BW] Agfa APX (ref: 5276)](#bw-agfa-apx-ref-5276)
+- [[BW] Agfa APX 25 (ref: 805f)](#bw-agfa-apx-25-ref-805f)
 - [[BW] Agfa Agfapan APX 100 (ref: e271)](#bw-agfa-agfapan-apx-100-ref-e271)
 - [[BW] Agfa Agfapan APX 400 (ref: 19bc)](#bw-agfa-agfapan-apx-400-ref-19bc)
 - [[BW] Agfa Agfapan Rapid (ref: 5e7b)](#bw-agfa-agfapan-rapid-ref-5e7b)
@@ -37,6 +38,7 @@ Last Updated: Aug 18 2025
 - [[BW] Alien Film 5222/XX (ref: 3e49)](#bw-alien-film-5222xx-ref-3e49)
 - [[BW] Bergger Pancro400 (ref: ad7b)](#bw-bergger-pancro400-ref-ad7b)
 - [[BW] Bergger Pancro400 (ref: f619)](#bw-bergger-pancro400-ref-f619)
+- [[BW] CatLABS X Film 320 Pro (ref: 1c69)](#bw-catlabs-x-film-320-pro-ref-1c69)
 - [[BW] Efke IR 820 (ref: 43c9)](#bw-efke-ir-820-ref-43c9)
 - [[BW] Foma Fomapan (ref: 3e4f)](#bw-foma-fomapan-ref-3e4f)
 - [[BW] Foma Fomapan (ref: 65ad)](#bw-foma-fomapan-ref-65ad)
@@ -110,6 +112,7 @@ Last Updated: Aug 18 2025
 - [[C-41] Efiniti UXi super 200 (ref: 471a)](#c-41-efiniti-uxi-super-200-ref-471a)
 - [[C-41] Fujifilm 200 (ref: 5b41)](#c-41-fujifilm-200-ref-5b41)
 - [[C-41] Fujifilm Fujicolor 100 (ref: 013b)](#c-41-fujifilm-fujicolor-100-ref-013b)
+- [[C-41] Fujifilm Fujicolor C200 (ref: 2ff8)](#c-41-fujifilm-fujicolor-c200-ref-2ff8)
 - [[C-41] Fujifilm Fujicolor NPL 160 (ref: d10b)](#c-41-fujifilm-fujicolor-npl-160-ref-d10b)
 - [[C-41] Fujifilm Fujicolor Natura 1600 (ref: 2e06)](#c-41-fujifilm-fujicolor-natura-1600-ref-2e06)
 - [[C-41] Fujifilm Fujicolor Professional (ref: 28da)](#c-41-fujifilm-fujicolor-professional-ref-28da)
@@ -119,7 +122,9 @@ Last Updated: Aug 18 2025
 - [[C-41] Fujifilm Fujicolor Superia (ref: 0683)](#c-41-fujifilm-fujicolor-superia-ref-0683)
 - [[C-41] Fujifilm NPS (ref: 5e85)](#c-41-fujifilm-nps-ref-5e85)
 - [[C-41] Fujifilm Pro 400H (ref: 66e3)](#c-41-fujifilm-pro-400h-ref-66e3)
+- [[C-41] Fujifilm Superia (ref: 0d8e)](#c-41-fujifilm-superia-ref-0d8e)
 - [[C-41] Fujifilm Superia Reala (ref: a7de)](#c-41-fujifilm-superia-reala-ref-a7de)
+- [[C-41] Fujifilm Superia X-TRA (ref: 713b)](#c-41-fujifilm-superia-x-tra-ref-713b)
 - [[C-41] Fujifilm Superia X-Tra (ref: 6b8a)](#c-41-fujifilm-superia-x-tra-ref-6b8a)
 - [[C-41] Harman Phoenix (ref: 8eb4)](#c-41-harman-phoenix-ref-8eb4)
 - [[C-41] Harman Phoenix (ref: 637f)](#c-41-harman-phoenix-ref-637f)
@@ -147,9 +152,11 @@ Last Updated: Aug 18 2025
 - [[C-41] Kodak Kodacolor VR (ref: 035f)](#c-41-kodak-kodacolor-vr-ref-035f)
 - [[C-41] Kodak Kodacolor VR Plus (ref: f8bf)](#c-41-kodak-kodacolor-vr-plus-ref-f8bf)
 - [[C-41] Kodak Portra 160 (ref: ce56)](#c-41-kodak-portra-160-ref-ce56)
+- [[C-41] Kodak Portra 400 (ref: cf9c)](#c-41-kodak-portra-400-ref-cf9c)
 - [[C-41] Kodak Portra 400NC (ref: b8de)](#c-41-kodak-portra-400nc-ref-b8de)
 - [[C-41] Kodak Portra 800 (ref: 7d65)](#c-41-kodak-portra-800-ref-7d65)
 - [[C-41] Kodak Ultra (ref: 69a1)](#c-41-kodak-ultra-ref-69a1)
+- [[C-41] Kodak UltraMax (ref: e4ad)](#c-41-kodak-ultramax-ref-e4ad)
 - [[C-41] Kodak UltraMax (ref: aaa6)](#c-41-kodak-ultramax-ref-aaa6)
 - [[C-41] Kodak Värikuvafilmi (ref: f9ff)](#c-41-kodak-värikuvafilmi-ref-f9ff)
 - [[C-41] Konica Konica Color II (ref: fb5b)](#c-41-konica-konica-color-ii-ref-fb5b)
@@ -326,6 +333,26 @@ UUID  : ecf4e081ccf64a9a8606601f9f665276
 	<img src="./lowres/00093_001.jpg" alt="Agfa APX 35mm film box inside" loading="lazy" height="500" />
 </a>
 
+#### [BW] Agfa APX 25 (ref: 805f)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 25           |  Expiry : Unknown  
+Added : 2025-08-18   |  Author : @recycling.film
+UUID  : 4ef7e8e28d2c4c589d24d9e12135805f
+```
+
+<a href="./archive/00198_000.jpg">
+	<img src="./lowres/00198_000.jpg" alt="Agfa APX 25 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 757b2d5a25cc41aab1220ff909f90fb0`↓
+
+<a href="./archive/00198_001.jpg">
+	<img src="./lowres/00198_001.jpg" alt="Agfa APX 25 35mm film box inside" loading="lazy" height="500" />
+</a>
+
 #### [BW] Agfa Agfapan APX 100 (ref: e271)
 
 ```
@@ -482,6 +509,26 @@ UUID  : 0d9fee6b29f445f089acde3247d1f619
 
 <a href="./archive/00123_001.jpg">
 	<img src="./lowres/00123_001.jpg" alt="Bergger Pancro400 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### [BW] CatLABS X Film 320 Pro (ref: 1c69)
+
+```
+Format: 120          |  Process: BW       
+ISO   : 320          |  Expiry : 2026-12  
+Added : 2025-08-18   |  Author : lt_col_tall
+UUID  : b5423225b6b2496eaf713a5a38731c69
+```
+
+<a href="./archive/00196_000.jpg">
+	<img src="./lowres/00196_000.jpg" alt="CatLABS X Film 320 Pro 120 film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 3fa90851d420466183f638184ce9a49a`↓
+
+<a href="./archive/00196_001.jpg">
+	<img src="./lowres/00196_001.jpg" alt="CatLABS X Film 320 Pro 120 film box outside" loading="lazy" width="500" />
 </a>
 
 #### [BW] Efke IR 820 (ref: 43c9)
@@ -1790,6 +1837,19 @@ UUID  : 27d88b35933b4ede958b5b5b5b42013b
 	<img src="./lowres/00040_000.jpg" alt="Fujifilm Fujicolor 100 35mm film box outside" loading="lazy" height="500" />
 </a>
 
+#### [C-41] Fujifilm Fujicolor C200 (ref: 2ff8)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2020-03  
+Added : 2025-08-18   |  Author : ]@recycling.film
+UUID  : 271054727291471392db72d5556f2ff8
+```
+
+<a href="./archive/00202_000.jpg">
+	<img src="./lowres/00202_000.jpg" alt="Fujifilm Fujicolor C200 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [C-41] Fujifilm Fujicolor NPL 160 (ref: d10b)
 
 ```
@@ -1977,6 +2037,19 @@ UUID  : 0d89ecf11f3c46deb52171aa909566e3
 	<img src="./lowres/00022_000.jpg" alt="Fujifilm Pro 400H 120 film box outside" loading="lazy" height="500" />
 </a>
 
+#### [C-41] Fujifilm Superia (ref: 0d8e)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2009-06  
+Added : 2025-08-18   |  Author : ]@recycling.film
+UUID  : a57061210f17463fae293851f2130d8e
+```
+
+<a href="./archive/00199_000.jpg">
+	<img src="./lowres/00199_000.jpg" alt="Fujifilm Superia 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [C-41] Fujifilm Superia Reala (ref: a7de)
 
 ```
@@ -1988,6 +2061,26 @@ UUID  : bab5fa204b25431a9872c4ce8e9aa7de
 
 <a href="./archive/00087_000.jpg">
 	<img src="./lowres/00087_000.jpg" alt="Fujifilm Superia Reala 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [C-41] Fujifilm Superia X-TRA (ref: 713b)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2003-04  
+Added : 2025-08-18   |  Author : @recycling.film
+UUID  : 89750d8a18fe4e238c76b97b4578713b
+```
+
+<a href="./archive/00197_000.jpg">
+	<img src="./lowres/00197_000.jpg" alt="Fujifilm Superia X-TRA 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 560832b2cfff4e60930fd3116f1ccffc`↓
+
+<a href="./archive/00197_001.jpg">
+	<img src="./lowres/00197_001.jpg" alt="Fujifilm Superia X-TRA 35mm film box inside" loading="lazy" height="500" />
 </a>
 
 #### [C-41] Fujifilm Superia X-Tra (ref: 6b8a)
@@ -2425,6 +2518,19 @@ UUID  : 9131fb90db70475dbad5f63f1448ce56
 	<img src="./lowres/00089_000.jpg" alt="Kodak Portra 160 35mm film box outside" loading="lazy" width="500" />
 </a>
 
+#### [C-41] Kodak Portra 400 (ref: cf9c)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2014-06  
+Added : 2025-08-18   |  Author : ]@recycling.film
+UUID  : 5bdddffe29bd464cab4630d85485cf9c
+```
+
+<a href="./archive/00200_000.jpg">
+	<img src="./lowres/00200_000.jpg" alt="Kodak Portra 400 35mm film box outside" loading="lazy" width="500" />
+</a>
+
 #### [C-41] Kodak Portra 400NC (ref: b8de)
 
 ```
@@ -2462,6 +2568,19 @@ UUID  : 77dfbdf80e3a4950b40c7ea8c1e369a1
 
 <a href="./archive/00043_000.jpg">
 	<img src="./lowres/00043_000.jpg" alt="Kodak Ultra 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [C-41] Kodak UltraMax (ref: e4ad)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2026-07  
+Added : 2025-08-18   |  Author : ]@recycling.film
+UUID  : d14bbf440f3a4ac9aa4169c8bba7e4ad
+```
+
+<a href="./archive/00201_000.jpg">
+	<img src="./lowres/00201_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [C-41] Kodak UltraMax (ref: aaa6)
@@ -3742,19 +3861,20 @@ Rank  Username                      Contributions
 9     toader                        13    
 10    stefanie                      12    
 11    yc128                         11    
-12    lilyu.xyz                     9     
-13    benikum                       6     
-14    @recycling.film               5     
+12    @recycling.film               9     
+13    lilyu.xyz                     9     
+14    benikum                       6     
 15    Kraksen                       5     
 16    Henry Gunn                    4     
 17    u/ReeeSchmidtyWerber          4     
-18    @Hol.m35                      3     
-19    TheSelousScout                3     
-20    @seklerek                     2     
-21    @ftfilmphotos                 2     
-22    lt_col_tall                   2     
-23    Yrikonchik                    1     
-24    @ad.astra.per.aspera.1894     1     
+18    lt_col_tall                   4     
+19    ]@recycling.film              4     
+20    @Hol.m35                      3     
+21    TheSelousScout                3     
+22    @seklerek                     2     
+23    @ftfilmphotos                 2     
+24    Yrikonchik                    1     
+25    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?

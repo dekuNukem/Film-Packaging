@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Aug 18 2025
 
-# of items: 335
+# of items: 345
 ```
 
 -----
@@ -93,6 +93,7 @@ Last Updated: Aug 18 2025
 - [[2002] Kodak Ektachrome 100 Plus (ref: 5d9f)](#2002-kodak-ektachrome-100-plus-ref-5d9f)
 - [[2002] Kirkland Signature Color Print Film (ref: 0441)](#2002-kirkland-signature-color-print-film-ref-0441)
 - [[2003] Konica VX200 (ref: fe53)](#2003-konica-vx200-ref-fe53)
+- [[2003] Fujifilm Superia X-TRA (ref: 713b)](#2003-fujifilm-superia-x-tra-ref-713b)
 - [[2003] Fujifilm NPS (ref: 5e85)](#2003-fujifilm-nps-ref-5e85)
 - [[2003] Agfa Vista (ref: d3af)](#2003-agfa-vista-ref-d3af)
 - [[2004] Kodak Black & White + (ref: 2ff3)](#2004-kodak-black-white-ref-2ff3)
@@ -116,6 +117,7 @@ Last Updated: Aug 18 2025
 - [[2007] Kodak Elite Chrome (ref: 3943)](#2007-kodak-elite-chrome-ref-3943)
 - [[2008] Agfa APX (ref: 12c7)](#2008-agfa-apx-ref-12c7)
 - [[2008] Kodak High Speed Infrared (ref: 883e)](#2008-kodak-high-speed-infrared-ref-883e)
+- [[2009] Fujifilm Superia (ref: 0d8e)](#2009-fujifilm-superia-ref-0d8e)
 - [[2009] Lloyds Pharmacy Colour Film (ref: 77d9)](#2009-lloyds-pharmacy-colour-film-ref-77d9)
 - [[2010] Kodak Ektachrome E100VS (ref: a8d3)](#2010-kodak-ektachrome-e100vs-ref-a8d3)
 - [[2010] Fujifilm Fujicolor 100 (ref: 013b)](#2010-fujifilm-fujicolor-100-ref-013b)
@@ -128,9 +130,11 @@ Last Updated: Aug 18 2025
 - [[2013] Ilford SFX 200 (ref: 6057)](#2013-ilford-sfx-200-ref-6057)
 - [[2013] Efiniti UXi super 200 (ref: 471a)](#2013-efiniti-uxi-super-200-ref-471a)
 - [[2013] Kodak Professional Microfilm Type I (ref: a444)](#2013-kodak-professional-microfilm-type-i-ref-a444)
+- [[2014] Kodak Portra 400 (ref: cf9c)](#2014-kodak-portra-400-ref-cf9c)
 - [[2014] Fujifilm Fujicolor Natura 1600 (ref: 2e06)](#2014-fujifilm-fujicolor-natura-1600-ref-2e06)
 - [[2018] CineStill 800T (ref: c86a)](#2018-cinestill-800t-ref-c86a)
 - [[2018] Fujifilm Pro 400H (ref: 66e3)](#2018-fujifilm-pro-400h-ref-66e3)
+- [[2020] Fujifilm Fujicolor C200 (ref: 2ff8)](#2020-fujifilm-fujicolor-c200-ref-2ff8)
 - [[2020] Fujifilm Provia 100F (ref: 356d)](#2020-fujifilm-provia-100f-ref-356d)
 - [[2022] Ilford HP5 Plus (ref: c725)](#2022-ilford-hp5-plus-ref-c725)
 - [[2023] Kodak TMAX (ref: b3b1)](#2023-kodak-tmax-ref-b3b1)
@@ -164,6 +168,7 @@ Last Updated: Aug 18 2025
 - [[2026] Alien Film 5207/250D (ref: 8820)](#2026-alien-film-5207250d-ref-8820)
 - [[2026] Fujifilm 200 (ref: 5b41)](#2026-fujifilm-200-ref-5b41)
 - [[2026] Kodak Gold (ref: 3e7f)](#2026-kodak-gold-ref-3e7f)
+- [[2026] Kodak UltraMax (ref: e4ad)](#2026-kodak-ultramax-ref-e4ad)
 - [[2026] Harman Phoenix (ref: 637f)](#2026-harman-phoenix-ref-637f)
 - [[2026] Hazenfilm Sorolla Chrome (ref: 889f)](#2026-hazenfilm-sorolla-chrome-ref-889f)
 - [[2026] Kodak ColorPlus (ref: 6637)](#2026-kodak-colorplus-ref-6637)
@@ -177,6 +182,7 @@ Last Updated: Aug 18 2025
 - [[2026] Fujifilm Provia 100F (ref: df27)](#2026-fujifilm-provia-100f-ref-df27)
 - [[2026] Kodak Gold (ref: 933f)](#2026-kodak-gold-ref-933f)
 - [[2026] Bergger Pancro400 (ref: f619)](#2026-bergger-pancro400-ref-f619)
+- [[2026] CatLABS X Film 320 Pro (ref: 1c69)](#2026-catlabs-x-film-320-pro-ref-1c69)
 - [[2026] Hope Film Bubble (ref: 41f4)](#2026-hope-film-bubble-ref-41f4)
 - [[2026] Marix Professional Negative Movie Color Film (ref: c457)](#2026-marix-professional-negative-movie-color-film-ref-c457)
 - [[2026] Wolfen NC500 (ref: 91c1)](#2026-wolfen-nc500-ref-91c1)
@@ -210,6 +216,7 @@ Last Updated: Aug 18 2025
 - [[2029] Kentmere PAN (ref: 827e)](#2029-kentmere-pan-ref-827e)
 - [[2029] Kentmere PAN (ref: a327)](#2029-kentmere-pan-ref-a327)
 - [[2030] Kentmere PAN 200 (ref: 0e32)](#2030-kentmere-pan-200-ref-0e32)
+- [[Unknown] Agfa APX 25 (ref: 805f)](#unknown-agfa-apx-25-ref-805f)
 - [[Unknown] Agfa Autolith Repo (ref: 8e68)](#unknown-agfa-autolith-repo-ref-8e68)
 - [[Unknown] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#unknown-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
 - [[Unknown] Kodak Eastman Tri-X Reversal Film 7278 (ref: 8468)](#unknown-kodak-eastman-tri-x-reversal-film-7278-ref-8468)
@@ -1716,6 +1723,26 @@ UUID  : dd3a6c347560484295ca09c86e3dfe53
 	<img src="./lowres/00138_001.jpg" alt="Konica VX200 35mm film box inside" loading="lazy" height="500" />
 </a>
 
+#### [2003] Fujifilm Superia X-TRA (ref: 713b)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2003-04  
+Added : 2025-08-18   |  Author : @recycling.film
+UUID  : 89750d8a18fe4e238c76b97b4578713b
+```
+
+<a href="./archive/00197_000.jpg">
+	<img src="./lowres/00197_000.jpg" alt="Fujifilm Superia X-TRA 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 560832b2cfff4e60930fd3116f1ccffc`↓
+
+<a href="./archive/00197_001.jpg">
+	<img src="./lowres/00197_001.jpg" alt="Fujifilm Superia X-TRA 35mm film box inside" loading="lazy" height="500" />
+</a>
+
 #### [2003] Fujifilm NPS (ref: 5e85)
 
 ```
@@ -2099,6 +2126,19 @@ UUID  : 77352e93d73748eca98cff7b30d7883e
 	<img src="./lowres/00103_001.jpg" alt="Kodak High Speed Infrared 35mm film box inside" loading="lazy" height="500" />
 </a>
 
+#### [2009] Fujifilm Superia (ref: 0d8e)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2009-06  
+Added : 2025-08-18   |  Author : ]@recycling.film
+UUID  : a57061210f17463fae293851f2130d8e
+```
+
+<a href="./archive/00199_000.jpg">
+	<img src="./lowres/00199_000.jpg" alt="Fujifilm Superia 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [2009] Lloyds Pharmacy Colour Film (ref: 77d9)
 
 ```
@@ -2276,6 +2316,19 @@ UUID  : 90304019395a4c62bb9c6fe1cb2ba444
 	<img src="./lowres/00172_000.jpg" alt="Kodak Professional Microfilm Type I 35mm film box outside" loading="lazy" height="500" />
 </a>
 
+#### [2014] Kodak Portra 400 (ref: cf9c)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2014-06  
+Added : 2025-08-18   |  Author : ]@recycling.film
+UUID  : 5bdddffe29bd464cab4630d85485cf9c
+```
+
+<a href="./archive/00200_000.jpg">
+	<img src="./lowres/00200_000.jpg" alt="Kodak Portra 400 35mm film box outside" loading="lazy" width="500" />
+</a>
+
 #### [2014] Fujifilm Fujicolor Natura 1600 (ref: 2e06)
 
 ```
@@ -2334,6 +2387,19 @@ UUID  : 0d89ecf11f3c46deb52171aa909566e3
 
 <a href="./archive/00022_000.jpg">
 	<img src="./lowres/00022_000.jpg" alt="Fujifilm Pro 400H 120 film box outside" loading="lazy" height="500" />
+</a>
+
+#### [2020] Fujifilm Fujicolor C200 (ref: 2ff8)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2020-03  
+Added : 2025-08-18   |  Author : ]@recycling.film
+UUID  : 271054727291471392db72d5556f2ff8
+```
+
+<a href="./archive/00202_000.jpg">
+	<img src="./lowres/00202_000.jpg" alt="Fujifilm Fujicolor C200 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [2020] Fujifilm Provia 100F (ref: 356d)
@@ -2884,6 +2950,19 @@ UUID  : d2e434e91001465dbea2d815d5e23e7f
 	<img src="./lowres/00080_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" height="500" />
 </a>
 
+#### [2026] Kodak UltraMax (ref: e4ad)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2026-07  
+Added : 2025-08-18   |  Author : ]@recycling.film
+UUID  : d14bbf440f3a4ac9aa4169c8bba7e4ad
+```
+
+<a href="./archive/00201_000.jpg">
+	<img src="./lowres/00201_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [2026] Harman Phoenix (ref: 637f)
 
 ```
@@ -3086,6 +3165,26 @@ UUID  : 0d9fee6b29f445f089acde3247d1f619
 
 <a href="./archive/00123_001.jpg">
 	<img src="./lowres/00123_001.jpg" alt="Bergger Pancro400 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### [2026] CatLABS X Film 320 Pro (ref: 1c69)
+
+```
+Format: 120          |  Process: BW       
+ISO   : 320          |  Expiry : 2026-12  
+Added : 2025-08-18   |  Author : lt_col_tall
+UUID  : b5423225b6b2496eaf713a5a38731c69
+```
+
+<a href="./archive/00196_000.jpg">
+	<img src="./lowres/00196_000.jpg" alt="CatLABS X Film 320 Pro 120 film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 3fa90851d420466183f638184ce9a49a`↓
+
+<a href="./archive/00196_001.jpg">
+	<img src="./lowres/00196_001.jpg" alt="CatLABS X Film 320 Pro 120 film box outside" loading="lazy" width="500" />
 </a>
 
 #### [2026] Hope Film Bubble (ref: 41f4)
@@ -3657,6 +3756,26 @@ UUID  : b0e988456d7444b1b879dc6ca4a80e32
 	<img src="./lowres/00186_000.jpg" alt="Kentmere PAN 200 35mm film box outside" loading="lazy" height="500" />
 </a>
 
+#### [Unknown] Agfa APX 25 (ref: 805f)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 25           |  Expiry : Unknown  
+Added : 2025-08-18   |  Author : @recycling.film
+UUID  : 4ef7e8e28d2c4c589d24d9e12135805f
+```
+
+<a href="./archive/00198_000.jpg">
+	<img src="./lowres/00198_000.jpg" alt="Agfa APX 25 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 757b2d5a25cc41aab1220ff909f90fb0`↓
+
+<a href="./archive/00198_001.jpg">
+	<img src="./lowres/00198_001.jpg" alt="Agfa APX 25 35mm film box inside" loading="lazy" height="500" />
+</a>
+
 #### [Unknown] Agfa Autolith Repo (ref: 8e68)
 
 ```
@@ -3742,19 +3861,20 @@ Rank  Username                      Contributions
 9     toader                        13    
 10    stefanie                      12    
 11    yc128                         11    
-12    lilyu.xyz                     9     
-13    benikum                       6     
-14    @recycling.film               5     
+12    @recycling.film               9     
+13    lilyu.xyz                     9     
+14    benikum                       6     
 15    Kraksen                       5     
 16    Henry Gunn                    4     
 17    u/ReeeSchmidtyWerber          4     
-18    @Hol.m35                      3     
-19    TheSelousScout                3     
-20    @seklerek                     2     
-21    @ftfilmphotos                 2     
-22    lt_col_tall                   2     
-23    Yrikonchik                    1     
-24    @ad.astra.per.aspera.1894     1     
+18    lt_col_tall                   4     
+19    ]@recycling.film              4     
+20    @Hol.m35                      3     
+21    TheSelousScout                3     
+22    @seklerek                     2     
+23    @ftfilmphotos                 2     
+24    Yrikonchik                    1     
+25    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?
