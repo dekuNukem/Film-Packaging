@@ -29,7 +29,7 @@ Any will do, mine is more than 20 years old.
 
 ## Preparation
 
-You need to **take apart the box** while **minimizing damage**.
+Ideally, you should **take apart the box** while **minimizing damage**.
 
 Each box is different, but generally you can:
 
