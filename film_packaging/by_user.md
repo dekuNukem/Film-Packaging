@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 16 2025
+Last Updated: Aug 18 2025
 
-# of items: 333
+# of items: 335
 ```
 
 -----
@@ -194,6 +194,8 @@ Last Updated: Aug 16 2025
 - [[lilyu.xyz] Kodak Gold (ref: ea58)](#lilyuxyz-kodak-gold-ref-ea58)
 - [[lilyu.xyz] Kodak Gold Ultra (ref: 1358)](#lilyuxyz-kodak-gold-ultra-ref-1358)
 - [[lilyu.xyz] Perutz Superomnia (ref: c90d)](#lilyuxyz-perutz-superomnia-ref-c90d)
+- [[lt_col_tall] Reflx Lab 250D (ref: 1a3e)](#lt_col_tall-reflx-lab-250d-ref-1a3e)
+- [[lt_col_tall] Reflx Lab Pro 100 (ref: 1311)](#lt_col_tall-reflx-lab-pro-100-ref-1311)
 - [[stefanie] Agfa Agfacolor XRG (ref: 689e)](#stefanie-agfa-agfacolor-xrg-ref-689e)
 - [[stefanie] Alfo ALFOcolor PR-G (ref: 94b9)](#stefanie-alfo-alfocolor-pr-g-ref-94b9)
 - [[stefanie] Fujifilm Fujicolor SuperHG (ref: ee94)](#stefanie-fujifilm-fujicolor-superhg-ref-ee94)
@@ -3300,6 +3302,32 @@ UUID  : b220e7d5dbee49898fbd1d42ee67c90d
 	<img src="./lowres/00096_000.jpg" alt="Perutz Superomnia 9x12 film box outside" loading="lazy" width="500" />
 </a>
 
+#### [lt_col_tall] Reflx Lab 250D (ref: 1a3e)
+
+```
+Format: 120          |  Process: ECN-2    
+ISO   : 250          |  Expiry : 2027-12  
+Added : 2025-08-18   |  Author : lt_col_tall
+UUID  : ce8b081c148f43f7921e2fb4d7aa1a3e
+```
+
+<a href="./archive/00194_000.jpg">
+	<img src="./lowres/00194_000.jpg" alt="Reflx Lab 250D 120 film box outside" loading="lazy" width="500" />
+</a>
+
+#### [lt_col_tall] Reflx Lab Pro 100 (ref: 1311)
+
+```
+Format: 220          |  Process: C-41     
+ISO   : 100          |  Expiry : 2027-12  
+Added : 2025-08-18   |  Author : lt_col_tall
+UUID  : f7bc85a093744f3084883876ecc51311
+```
+
+<a href="./archive/00195_000.jpg">
+	<img src="./lowres/00195_000.jpg" alt="Reflx Lab Pro 100 220 film box outside" loading="lazy" width="500" />
+</a>
+
 #### [stefanie] Agfa Agfacolor XRG (ref: 689e)
 
 ```
@@ -3724,8 +3752,9 @@ Rank  Username                      Contributions
 19    TheSelousScout                3     
 20    @seklerek                     2     
 21    @ftfilmphotos                 2     
-22    Yrikonchik                    1     
-23    @ad.astra.per.aspera.1894     1     
+22    lt_col_tall                   2     
+23    Yrikonchik                    1     
+24    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?

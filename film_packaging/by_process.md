@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 16 2025
+Last Updated: Aug 18 2025
 
-# of items: 333
+# of items: 335
 ```
 
 -----
@@ -161,6 +161,7 @@ Last Updated: Aug 16 2025
 - [[C-41] Lomography Tiger (ref: 26dd)](#c-41-lomography-tiger-ref-26dd)
 - [[C-41] Marix Professional Negative Movie Color Film (ref: c457)](#c-41-marix-professional-negative-movie-color-film-ref-c457)
 - [[C-41] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#c-41-minolta-minolta-16-color-film-for-prints-ref-a2ff)
+- [[C-41] Reflx Lab Pro 100 (ref: 1311)](#c-41-reflx-lab-pro-100-ref-1311)
 - [[C-41] Reto Amber D400 (ref: 08ad)](#c-41-reto-amber-d400-ref-08ad)
 - [[C-41] Rossmann Jahreszeiten Pack (ref: 7670)](#c-41-rossmann-jahreszeiten-pack-ref-7670)
 - [[C-41] Sakura Sakuracolor II (ref: 4f7d)](#c-41-sakura-sakuracolor-ii-ref-4f7d)
@@ -194,6 +195,7 @@ Last Updated: Aug 16 2025
 - [[E-6] Kodak Elite Chrome (ref: 3943)](#e-6-kodak-elite-chrome-ref-3943)
 - [[ECN-2] Alien Film 5207/250D (ref: 8820)](#ecn-2-alien-film-5207250d-ref-8820)
 - [[ECN-2] Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#ecn-2-mutascan-kodak-vision3-500t5219-ref-5150)
+- [[ECN-2] Reflx Lab 250D (ref: 1a3e)](#ecn-2-reflx-lab-250d-ref-1a3e)
 - [[ECN-2] Three Film Rolls 5207 (ref: 0292)](#ecn-2-three-film-rolls-5207-ref-0292)
 - [[Instant] Polaroid 665 (ref: e054)](#instant-polaroid-665-ref-e054)
 - [[Instant] Polaroid 669 (ref: 3566)](#instant-polaroid-669-ref-3566)
@@ -2626,6 +2628,19 @@ UUID  : a2cfc71ac0e24ea58f4e3350423aa2ff
 	<img src="./lowres/00162_000.jpg" alt="Minolta Minolta 16 Color Film For Prints 16mm film box outside" loading="lazy" width="500" />
 </a>
 
+#### [C-41] Reflx Lab Pro 100 (ref: 1311)
+
+```
+Format: 220          |  Process: C-41     
+ISO   : 100          |  Expiry : 2027-12  
+Added : 2025-08-18   |  Author : lt_col_tall
+UUID  : f7bc85a093744f3084883876ecc51311
+```
+
+<a href="./archive/00195_000.jpg">
+	<img src="./lowres/00195_000.jpg" alt="Reflx Lab Pro 100 220 film box outside" loading="lazy" width="500" />
+</a>
+
 #### [C-41] Reto Amber D400 (ref: 08ad)
 
 ```
@@ -3188,6 +3203,19 @@ UUID  : e4d2af3a69704509a07e108fcb4b5150
 	<img src="./lowres/00185_000.jpg" alt="Mutascan Kodak Vision3 500T/5219 35mm film box outside" loading="lazy" height="500" />
 </a>
 
+#### [ECN-2] Reflx Lab 250D (ref: 1a3e)
+
+```
+Format: 120          |  Process: ECN-2    
+ISO   : 250          |  Expiry : 2027-12  
+Added : 2025-08-18   |  Author : lt_col_tall
+UUID  : ce8b081c148f43f7921e2fb4d7aa1a3e
+```
+
+<a href="./archive/00194_000.jpg">
+	<img src="./lowres/00194_000.jpg" alt="Reflx Lab 250D 120 film box outside" loading="lazy" width="500" />
+</a>
+
 #### [ECN-2] Three Film Rolls 5207 (ref: 0292)
 
 ```
@@ -3724,8 +3752,9 @@ Rank  Username                      Contributions
 19    TheSelousScout                3     
 20    @seklerek                     2     
 21    @ftfilmphotos                 2     
-22    Yrikonchik                    1     
-23    @ad.astra.per.aspera.1894     1     
+22    lt_col_tall                   2     
+23    Yrikonchik                    1     
+24    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?

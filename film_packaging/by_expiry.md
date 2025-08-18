@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 16 2025
+Last Updated: Aug 18 2025
 
-# of items: 333
+# of items: 335
 ```
 
 -----
@@ -197,6 +197,8 @@ Last Updated: Aug 16 2025
 - [[2027] Lomography Orca (ref: d506)](#2027-lomography-orca-ref-d506)
 - [[2027] Rollei Infrared (ref: 4f54)](#2027-rollei-infrared-ref-4f54)
 - [[2027] Ilford XP2 Super (ref: 622a)](#2027-ilford-xp2-super-ref-622a)
+- [[2027] Reflx Lab 250D (ref: 1a3e)](#2027-reflx-lab-250d-ref-1a3e)
+- [[2027] Reflx Lab Pro 100 (ref: 1311)](#2027-reflx-lab-pro-100-ref-1311)
 - [[2027] Wolfen NP100 (ref: 71a6)](#2027-wolfen-np100-ref-71a6)
 - [[2028] Foma Fomapan (ref: 84a5)](#2028-foma-fomapan-ref-84a5)
 - [[2028] Rollei SUPERPAN (ref: ee8f)](#2028-rollei-superpan-ref-ee8f)
@@ -3430,6 +3432,32 @@ UUID  : 5863564ab1ef43a4b41fb5312dd0622a
 	<img src="./lowres/00170_001.jpg" alt="Ilford XP2 Super 35mm film box inside" loading="lazy" height="500" />
 </a>
 
+#### [2027] Reflx Lab 250D (ref: 1a3e)
+
+```
+Format: 120          |  Process: ECN-2    
+ISO   : 250          |  Expiry : 2027-12  
+Added : 2025-08-18   |  Author : lt_col_tall
+UUID  : ce8b081c148f43f7921e2fb4d7aa1a3e
+```
+
+<a href="./archive/00194_000.jpg">
+	<img src="./lowres/00194_000.jpg" alt="Reflx Lab 250D 120 film box outside" loading="lazy" width="500" />
+</a>
+
+#### [2027] Reflx Lab Pro 100 (ref: 1311)
+
+```
+Format: 220          |  Process: C-41     
+ISO   : 100          |  Expiry : 2027-12  
+Added : 2025-08-18   |  Author : lt_col_tall
+UUID  : f7bc85a093744f3084883876ecc51311
+```
+
+<a href="./archive/00195_000.jpg">
+	<img src="./lowres/00195_000.jpg" alt="Reflx Lab Pro 100 220 film box outside" loading="lazy" width="500" />
+</a>
+
 #### [2027] Wolfen NP100 (ref: 71a6)
 
 ```
@@ -3724,8 +3752,9 @@ Rank  Username                      Contributions
 19    TheSelousScout                3     
 20    @seklerek                     2     
 21    @ftfilmphotos                 2     
-22    Yrikonchik                    1     
-23    @ad.astra.per.aspera.1894     1     
+22    lt_col_tall                   2     
+23    Yrikonchik                    1     
+24    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?

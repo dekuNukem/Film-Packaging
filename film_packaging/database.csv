@@ -332,3 +332,5 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 192,1,film_box_leaflet,Kodak,Panatomic-X,35mm,32,BW,1977013,1755376238,d64988b35b09e98b900cd03f20cafa40,662f12bfdc864efb861dd9ede2973332,00192_001.jpg,u/ReeeSchmidtyWerber
 192,2,film_box_leaflet,Kodak,Panatomic-X,35mm,32,BW,1977013,1755376232,2f6830e6609d76e999e4716f971b6851,85fea329b0a34765987a30d8a728a8e0,00192_002.jpg,u/ReeeSchmidtyWerber
 193,0,film_box_outside,Kodak,Panatomic-X,35mm,32,BW,197612,1755376273,0671709467ae19f79bfa0bc32dfdf636,386384f6be954ddc8ab42f3bcb1d8d69,00193_000.jpg,u/ReeeSchmidtyWerber
+194,0,film_box_outside,Reflx Lab,250D,120,250,ECN-2,202712,1755534611,e23cfbd4ef8ee9f433c4eb495cfebe3e,ce8b081c148f43f7921e2fb4d7aa1a3e,00194_000.jpg,lt_col_tall
+195,0,film_box_outside,Reflx Lab,Pro 100,220,100,C-41,202712,1755534652,fdd9f12b81ff00bd53fbbcd343621de0,f7bc85a093744f3084883876ecc51311,00195_000.jpg,lt_col_tall

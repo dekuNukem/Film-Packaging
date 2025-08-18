@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 16 2025
+Last Updated: Aug 18 2025
 
-# of items: 333
+# of items: 335
 ```
 
 -----
@@ -60,6 +60,7 @@ Last Updated: Aug 16 2025
 - [[120] Konica Infrared 750nm (ref: e696)](#120-konica-infrared-750nm-ref-e696)
 - [[120] Konica Infrared 750nm (ref: 2d93)](#120-konica-infrared-750nm-ref-2d93)
 - [[120] Lomography Lomochrome Turquoise (ref: 0d90)](#120-lomography-lomochrome-turquoise-ref-0d90)
+- [[120] Reflx Lab 250D (ref: 1a3e)](#120-reflx-lab-250d-ref-1a3e)
 - [[120] Rollei Infrared (ref: 4f54)](#120-rollei-infrared-ref-4f54)
 - [[120] Rollei Retro 80S (ref: e6c0)](#120-rollei-retro-80s-ref-e6c0)
 - [[126] GAF Color Slide Film (ref: dea6)](#126-gaf-color-slide-film-ref-dea6)
@@ -69,6 +70,7 @@ Last Updated: Aug 16 2025
 - [[16mm] Kodak Eastman Tri-X Reversal Film 7278 (ref: 8468)](#16mm-kodak-eastman-tri-x-reversal-film-7278-ref-8468)
 - [[16mm] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#16mm-minolta-minolta-16-color-film-for-prints-ref-a2ff)
 - [[220] Kodak Ektacolor Pro Gold (ref: c3f8)](#220-kodak-ektacolor-pro-gold-ref-c3f8)
+- [[220] Reflx Lab Pro 100 (ref: 1311)](#220-reflx-lab-pro-100-ref-1311)
 - [[35mm] ADOX KB17 (ref: 2c95)](#35mm-adox-kb17-ref-2c95)
 - [[35mm] Adox HR 50 (ref: 4da7)](#35mm-adox-hr-50-ref-4da7)
 - [[35mm] Agfa APX (ref: 5276)](#35mm-agfa-apx-ref-5276)
@@ -914,6 +916,19 @@ UUID  : 99643a4fc27b4ff298e834fc72970d90
 	<img src="./lowres/00008_001.jpg" alt="Lomography Lomochrome Turquoise 120 film box inside" loading="lazy" width="500" />
 </a>
 
+#### [120] Reflx Lab 250D (ref: 1a3e)
+
+```
+Format: 120          |  Process: ECN-2    
+ISO   : 250          |  Expiry : 2027-12  
+Added : 2025-08-18   |  Author : lt_col_tall
+UUID  : ce8b081c148f43f7921e2fb4d7aa1a3e
+```
+
+<a href="./archive/00194_000.jpg">
+	<img src="./lowres/00194_000.jpg" alt="Reflx Lab 250D 120 film box outside" loading="lazy" width="500" />
+</a>
+
 #### [120] Rollei Infrared (ref: 4f54)
 
 ```
@@ -1099,6 +1114,19 @@ UUID  : 7456456d09c844c8ab046abd9c17c3f8
 
 <a href="./archive/00027_003.jpg">
 	<img src="./lowres/00027_003.jpg" alt="Kodak Ektacolor Pro Gold 220 film box leaflet" loading="lazy" height="500" />
+</a>
+
+#### [220] Reflx Lab Pro 100 (ref: 1311)
+
+```
+Format: 220          |  Process: C-41     
+ISO   : 100          |  Expiry : 2027-12  
+Added : 2025-08-18   |  Author : lt_col_tall
+UUID  : f7bc85a093744f3084883876ecc51311
+```
+
+<a href="./archive/00195_000.jpg">
+	<img src="./lowres/00195_000.jpg" alt="Reflx Lab Pro 100 220 film box outside" loading="lazy" width="500" />
 </a>
 
 #### [35mm] ADOX KB17 (ref: 2c95)
@@ -3724,8 +3752,9 @@ Rank  Username                      Contributions
 19    TheSelousScout                3     
 20    @seklerek                     2     
 21    @ftfilmphotos                 2     
-22    Yrikonchik                    1     
-23    @ad.astra.per.aspera.1894     1     
+22    lt_col_tall                   2     
+23    Yrikonchik                    1     
+24    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?
