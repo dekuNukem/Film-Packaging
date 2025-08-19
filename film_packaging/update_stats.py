@@ -1,6 +1,7 @@
 import os
 import sys
 import datetime
+import activity_summary
 from shared import *
 from collections import Counter
 
@@ -16,7 +17,6 @@ def make_contributor_list(sorted_count_result):
         lines.append(f"{rank:<6}{username:<{max_username_length}}{count:<6}")
     
     return '\n'.join(lines)
-
 
 database_entries = []
 
@@ -95,6 +95,45 @@ def replace_lines(filename):
 
 	print(f"Stats updated! {filename}")
 
+def update_activity(filename):
+	in_file = open(filename, encoding='utf8')
+	text_lines = in_file.readlines()
+	in_file.close()
+
+	ACTIVITY_SECTION_STR = "## Recent Activities"
+
+	clean_lines = []
+	is_in_cl = False
+	backtick_count = 0
+	for line in text_lines:
+		if line.startswith(ACTIVITY_SECTION_STR):
+			clean_lines.append(ACTIVITY_SECTION_STR)
+			is_in_cl = True
+		if is_in_cl and line.startswith("```"):
+			backtick_count += 1
+		if backtick_count == 2:
+			is_in_cl = False
+			backtick_count = 99
+			continue
+		if is_in_cl is False:
+			clean_lines.append(line)
+
+	output_lines = []
+	activity_str = activity_summary.recent_activity_summary(database_csv_path).lstrip("\r\n")
+
+	for line in clean_lines:
+		if line.startswith(ACTIVITY_SECTION_STR):
+			output_lines.append(f"{ACTIVITY_SECTION_STR}\n\n```\n{activity_str}\n```\n")
+		else:
+			output_lines.append(line)
+
+	out_file = open(filename, 'w', encoding='utf8')
+	out_file.writelines(output_lines)
+	out_file.close()
+
+	print(f"Activities updated! {filename}")
+
+update_activity("../README.md")
 replace_lines("../README.md")
 
 matching_files = [filename for filename in os.listdir('.') if os.path.isfile(filename) and filename.startswith('by_') and filename.endswith('.md')]

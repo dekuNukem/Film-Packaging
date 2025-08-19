@@ -3,7 +3,7 @@
 Welcome! Here you can find high-resolution scans of:
 
 * Photographic Film Packaging
-* In-box Instruction Manuals / Leaflets / Processing Envelopes
+* Instruction Manuals / Leaflets / Processing Envelopes
 * Old & new, popular & obscure.
 
 ![title](resources/title.jpg)
@@ -18,7 +18,7 @@ Its preservation helps document history, inspire modern designs, and support res
 
 Thanks! [Please follow the contribution guide](contribution_guide.md).
 
-This project is fully open-source. [Click me for GitHub repo.](https://github.com/dekuNukem/Film-Packaging)
+This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/dekuNukem/Film-Packaging)
 
 ## Browse Archive
 
@@ -30,7 +30,6 @@ This project is fully open-source. [Click me for GitHub repo.](https://github.co
 
 ```
 Last Updated: Aug 19 2025
-
 Unique items: 207
 Total scans : 356
 ```
@@ -42,8 +41,6 @@ Or Sort by...
 * [Film Format](./film_packaging/by_format.md)
 * [Photographic Process](./film_packaging/by_process.md)
 * [Contributor](./film_packaging/by_user.md)
-
-The collection is by no means complete or exhaustive, but it's a start!
 
 ## Database
 
@@ -79,6 +76,56 @@ Rank  Username                      Contributions
 23    @ftfilmphotos                 2     
 24    Yrikonchik                    1     
 25    @ad.astra.per.aspera.1894     1     
+```
+
+## Recent Activities
+
+```
+2025-08-19
+  - @ellafridalindblom: Defender Portrait HGS
+  - @ellafridalindblom: Foton Fotopan F
+  - @ellafridalindblom: Fujifilm Superia X-TRA
+  - @ellafridalindblom: Hands On Film Midnight 1600
+  - @ellafridalindblom: Hasselblad Hassel-plåtar E.R.Orto
+  - @ellafridalindblom: Illingworth's Fleet H&D
+  - @ellafridalindblom: Kodak Ektachrome Slide Duplicating Film
+
+2025-08-18
+  - @recycling.film: Agfa APX 25
+  - @recycling.film: Fujifilm Fujicolor C200
+  - @recycling.film: Fujifilm Superia
+  - @recycling.film: Fujifilm Superia X-TRA
+  - @recycling.film: Kodak Portra 400
+  - @recycling.film: Kodak UltraMax
+  - lt_col_tall: CatLABS X Film 320 Pro
+  - lt_col_tall: Reflx Lab 250D
+  - lt_col_tall: Reflx Lab Pro 100
+
+2025-08-16
+  - Kraksen: Agfa Agfapan APX 100
+  - Kraksen: Agfa Agfapan APX 400
+  - Kraksen: Kodak Black & White +
+  - Kraksen: Marix Professional Negative Movie Color Film
+  - u/ReeeSchmidtyWerber: Kodak Panatomic-X
+
+2025-08-15
+  - @ad.astra.per.aspera.1894: Kirkland Signature Color Print Film
+  - Pelicram: Foma Ortho 400
+  - Pelicram: Kentmere PAN 200
+  - Pelicram: Mutascan Kodak Vision3 500T/5219
+
+2025-08-14
+  - Camera.Riley: Agfa Fine-Grain Plenachrome
+  - Camera.Riley: Fujifilm Fujichrome 64T Type II Professional
+  - Camera.Riley: Fujifilm Fujicolor Natura 1600
+  - Camera.Riley: Kodak Eastman Tri-X Reversal Film 7278
+  - Camera.Riley: Kodak Ektachrome 64T
+  - Camera.Riley: Kodak Elite Chrome
+  - Camera.Riley: Kodak High Contrast Copy Film
+  - Camera.Riley: Kodak Portra 400NC
+  - Camera.Riley: Kodak Professional Microfilm Type I
+  - Camera.Riley: Konica Konica Color II
+  - Camera.Riley: Polaroid PolaChrome 35mm
 ```
 
 ## Disclaimer

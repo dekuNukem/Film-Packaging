@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Aug 19 2025
-
-# of items: 
+Unique items: 207
+Total scans : 356
 ```
 
 -----

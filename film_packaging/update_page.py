@@ -72,9 +72,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: 
-
-# of items: 
+Last Updated:
+Unique items:
+Total scans :
 ```
 
 -----
