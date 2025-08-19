@@ -1,4 +1,4 @@
-index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expiry_date,date_added,md5,uuid,filename,author,notes,box_type,quantity
+index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expiry_date,date_added,md5,uuid,filename,author,notes,item_subtype,quantity
 0,0,film_box_outside,Ilford,HP5 Plus,120,400,BW,202609,1736009233,11798276f80340be9e48e26e7e5b48df,36151f6b7cc045c2b43d7f5cbee41a5d,00000_000.jpg,dekuNukem,,Single Pack,N/A
 0,1,film_box_inside,Ilford,HP5 Plus,120,400,BW,202609,1736009786,6845d3cf182b8bc58c6c7eb052d4407f,3d64b751d4dd412889855a65731d5f25,00000_001.jpg,dekuNukem,,Single Pack,N/A
 1,0,film_box_outside,Alien Film,5207/250D,120,250,ECN-2,202606,1736009864,09a33a28cd3b4a4488b95c04617bd91e,aedc4b00bd174e0baf7c744ed21d8820,00001_000.jpg,dekuNukem,,Single Pack,N/A

@@ -18,7 +18,7 @@ ITEM_FILE_NAME_KEY = 'filename'
 ITEM_AUTHOR_KEY = "author"
 
 ITEM_NOTES_KEY = 'notes'
-ITEM_BOX_TYPE_KEY = 'box_type' # single_pack, multipack_3, bulk_roll, etc
+ITEM_SUB_TYPE_KEY = 'item_subtype' # single_pack, multipack_3, bulk_roll, etc
 ITEM_QUANTITY_KEY = 'quantity' # 24exp, 36exp, 100ft, etc
 
 alert_color = 'cyan'
@@ -73,7 +73,7 @@ this_key.notes = "single_box_outside, single_box_outside, leaflet, etc"
 record_key_list.append(this_key)
 
 this_key = my_attribute()
-this_key.db_name = ITEM_BOX_TYPE_KEY
+this_key.db_name = ITEM_SUB_TYPE_KEY
 this_key.display_name = "Box Type"
 this_key.no_need_to_ask = False
 this_key.list_existing = True

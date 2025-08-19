@@ -123,7 +123,7 @@ def render_two_cols(info: dict, col_width: int = 21) -> str:
     iso = info.get(ITEM_ISO_KEY, "")
     author = info.get(ITEM_AUTHOR_KEY, "")
     uuid = info.get(ITEM_UUID_KEY, "")
-    box_type = info.get(ITEM_BOX_TYPE_KEY, "")
+    box_type = info.get(ITEM_SUB_TYPE_KEY, "")
     quantity = info.get(ITEM_QUANTITY_KEY, "")
     notes = info.get(ITEM_NOTES_KEY, "")
 
