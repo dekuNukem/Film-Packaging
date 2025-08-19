@@ -32,11 +32,11 @@ except Exception as e:
 convert_keys_to_int(database_entries)
 
 authors_list = []
-key_name = "author"
+unique_film_count = 0
 for item in database_entries:
-	if key_name not in item:
-		continue
-	authors_list.append(item[key_name])
+	authors_list.append(item[ITEM_AUTHOR_KEY])
+	if item[ITEM_SUBINDEX_KEY] == 0:
+		unique_film_count += 1
 
 result = Counter(authors_list)
 sorted_counts = Counter(dict(sorted(result.items(), key=lambda x: x[1], reverse=True)))
@@ -51,7 +51,8 @@ def replace_lines(filename):
 	formatted_date = utc_datetime.strftime('%b %d %Y')
 
 	LAST_UPDATED_STR = "Last Updated:"
-	ITEMS_COUNT_STR = "# of items:"
+	UNIQUE_ITEM_STR = "Unique items:"
+	TOTAL_SCAN_COUNT_STR = "Total scans :"
 	CONTRIBUTOR_LIST_STR = "## Contributor List"
 
 	clean_lines = []
@@ -79,8 +80,10 @@ def replace_lines(filename):
 	for line in clean_lines:
 		if line.startswith(LAST_UPDATED_STR):
 			output_lines.append(f"{LAST_UPDATED_STR} {formatted_date}\n")
-		elif line.startswith(ITEMS_COUNT_STR):
-			output_lines.append(f"{ITEMS_COUNT_STR} {len(database_entries)}\n")
+		elif line.startswith(TOTAL_SCAN_COUNT_STR):
+			output_lines.append(f"{TOTAL_SCAN_COUNT_STR} {len(database_entries)}\n")
+		elif line.startswith(UNIQUE_ITEM_STR):
+			output_lines.append(f"{UNIQUE_ITEM_STR} {unique_film_count}\n")
 		elif line.startswith(CONTRIBUTOR_LIST_STR):
 			output_lines.append(f"{CONTRIBUTOR_LIST_STR}\n\n```\n{make_contributor_list(sorted_counts)}\n```\n")
 		else:

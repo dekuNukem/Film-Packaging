@@ -17,7 +17,7 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ```
 Last Updated: Aug 19 2025
 
-# of items: 356
+# of items: 
 ```
 
 -----

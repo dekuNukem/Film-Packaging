@@ -30,7 +30,9 @@ This project is fully open-source. [Click me for GitHub repo.](https://github.co
 
 ```
 Last Updated: Aug 19 2025
-# of items: 356
+
+Unique items: 207
+Total scans : 356
 ```
 
 Or Sort by...
