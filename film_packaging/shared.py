@@ -16,6 +16,11 @@ ITEM_EXPIRY_KEY = 'expiry_date'
 CHECKSUM_KEY = "md5"
 ITEM_FILE_NAME_KEY = 'filename'
 ITEM_AUTHOR_KEY = "author"
+
+ITEM_NOTES_KEY = 'notes'
+ITEM_BOX_TYPE_KEY = 'box_type'
+# single_pack_generic, single_pack_10exp, single_pack_24exp, single_pack_36exp, multipack_3, bulk_roll, etc
+
 alert_color = 'cyan'
 
 database_csv_path = "./database.csv"
@@ -65,6 +70,14 @@ this_key.display_name = "Item Type"
 this_key.no_need_to_ask = False
 this_key.list_existing = True
 this_key.notes = "single_box_outside, single_box_outside, leaflet, etc"
+record_key_list.append(this_key)
+
+this_key = my_attribute()
+this_key.db_name = ITEM_BOX_TYPE_KEY
+this_key.display_name = "Box Type"
+this_key.no_need_to_ask = False
+this_key.list_existing = True
+this_key.notes = ""
 record_key_list.append(this_key)
 
 this_key = my_attribute()
