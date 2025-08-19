@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 18 2025
+Last Updated: Aug 19 2025
 
-# of items: 345
+# of items: 356
 ```
 
 -----
@@ -38,10 +38,12 @@ Last Updated: Aug 18 2025
 - [[120] Foma Fomapan (ref: 65ad)](#120-foma-fomapan-ref-65ad)
 - [[120] Foma Fomapan21 (ref: 75d9)](#120-foma-fomapan21-ref-75d9)
 - [[120] Foma Ortho (ref: 89e7)](#120-foma-ortho-ref-89e7)
+- [[120] Foton Fotopan F (ref: 0ad6)](#120-foton-fotopan-f-ref-0ad6)
 - [[120] Fujifilm Fujichrome Professional 100D (ref: 439d)](#120-fujifilm-fujichrome-professional-100d-ref-439d)
 - [[120] Fujifilm Fujicolor NPL 160 (ref: d10b)](#120-fujifilm-fujicolor-npl-160-ref-d10b)
 - [[120] Fujifilm Fujicolor Superia (ref: 0683)](#120-fujifilm-fujicolor-superia-ref-0683)
 - [[120] Fujifilm Pro 400H (ref: 66e3)](#120-fujifilm-pro-400h-ref-66e3)
+- [[120] Fujifilm Superia X-TRA (ref: 7980)](#120-fujifilm-superia-x-tra-ref-7980)
 - [[120] Fujifilm Velvia 100F (ref: f7fb)](#120-fujifilm-velvia-100f-ref-f7fb)
 - [[120] Harman Phoenix (ref: 637f)](#120-harman-phoenix-ref-637f)
 - [[120] Harman Phoenix II (ref: f686)](#120-harman-phoenix-ii-ref-f686)
@@ -68,6 +70,7 @@ Last Updated: Aug 18 2025
 - [[126] GAF Color Slide Film (ref: dea6)](#126-gaf-color-slide-film-ref-dea6)
 - [[126] Kodak Kodacolor-X (ref: 5302)](#126-kodak-kodacolor-x-ref-5302)
 - [[127] Shanghai GP3 (ref: 52aa)](#127-shanghai-gp3-ref-52aa)
+- [[12x16.5cm] Defender Portrait HGS (ref: d69c)](#12x165cm-defender-portrait-hgs-ref-d69c)
 - [[16mm] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#16mm-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
 - [[16mm] Kodak Eastman Tri-X Reversal Film 7278 (ref: 8468)](#16mm-kodak-eastman-tri-x-reversal-film-7278-ref-8468)
 - [[16mm] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#16mm-minolta-minolta-16-color-film-for-prints-ref-a2ff)
@@ -114,8 +117,9 @@ Last Updated: Aug 18 2025
 - [[35mm] Fujifilm Superia (ref: 0d8e)](#35mm-fujifilm-superia-ref-0d8e)
 - [[35mm] Fujifilm Superia Reala (ref: a7de)](#35mm-fujifilm-superia-reala-ref-a7de)
 - [[35mm] Fujifilm Superia X-TRA (ref: 713b)](#35mm-fujifilm-superia-x-tra-ref-713b)
-- [[35mm] Fujifilm Superia X-Tra (ref: 6b8a)](#35mm-fujifilm-superia-x-tra-ref-6b8a)
+- [[35mm] Fujifilm Superia X-TRA (ref: 6b8a)](#35mm-fujifilm-superia-x-tra-ref-6b8a)
 - [[35mm] Fujifilm Velvia 100F (ref: 32d4)](#35mm-fujifilm-velvia-100f-ref-32d4)
+- [[35mm] Hands On Film Midnight 1600 (ref: 4411)](#35mm-hands-on-film-midnight-1600-ref-4411)
 - [[35mm] Harman Phoenix (ref: 8eb4)](#35mm-harman-phoenix-ref-8eb4)
 - [[35mm] Harman Phoenix II (ref: 40df)](#35mm-harman-phoenix-ii-ref-40df)
 - [[35mm] Hazenfilm Sorolla Chrome (ref: 889f)](#35mm-hazenfilm-sorolla-chrome-ref-889f)
@@ -140,6 +144,7 @@ Last Updated: Aug 18 2025
 - [[35mm] Kodak Ektachrome 64T (ref: 8f4f)](#35mm-kodak-ektachrome-64t-ref-8f4f)
 - [[35mm] Kodak Ektachrome E100 (ref: ae10)](#35mm-kodak-ektachrome-e100-ref-ae10)
 - [[35mm] Kodak Ektachrome Elite 100 (ref: 26ef)](#35mm-kodak-ektachrome-elite-100-ref-26ef)
+- [[35mm] Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#35mm-kodak-ektachrome-slide-duplicating-film-ref-d53a)
 - [[35mm] Kodak Ektachrome-X (ref: aec5)](#35mm-kodak-ektachrome-x-ref-aec5)
 - [[35mm] Kodak Ektar 100 (ref: 3498)](#35mm-kodak-ektar-100-ref-3498)
 - [[35mm] Kodak Elite Chrome (ref: 523c)](#35mm-kodak-elite-chrome-ref-523c)
@@ -205,6 +210,8 @@ Last Updated: Aug 18 2025
 - [[35mm] Wolfen NC500 (ref: 91c1)](#35mm-wolfen-nc500-ref-91c1)
 - [[35mm] Wolfen NP100 (ref: 71a6)](#35mm-wolfen-np100-ref-71a6)
 - [[35mm] York Photo Labs DXG 200 (ref: 4bf8)](#35mm-york-photo-labs-dxg-200-ref-4bf8)
+- [[6.5x9] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#65x9-hasselblad-hassel-plåtar-erorto-ref-ec67)
+- [[6.5x9] Illingworth's Fleet H&D (ref: 54fe)](#65x9-illingworths-fleet-h-d-ref-54fe)
 - [[620] Kodak Verichrome Pan (ref: 0195)](#620-kodak-verichrome-pan-ref-0195)
 - [[70mm] Kodak Portra 400NC (ref: b8de)](#70mm-kodak-portra-400nc-ref-b8de)
 - [[828] Kodak Ektachrome-X (ref: ae7e)](#828-kodak-ektachrome-x-ref-ae7e)
@@ -520,6 +527,20 @@ UUID  : 4c97e2b7413b42278b0fd129c1c589e7
 	<img src="./lowres/00127_001.jpg" alt="Foma Ortho 120 film box inside" loading="lazy" width="500" />
 </a>
 
+#### [120] Foton Fotopan F (ref: 0ad6)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 50           |  Expiry  : 1969-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-08-19   |  Author  : @ellafridalindblom
+UUID  : f2002785f14a4aba9fd1da2386890ad6
+```
+
+<a href="./archive/00205_000.jpg">
+	<img src="./lowres/00205_000.jpg" alt="Foton Fotopan F 120 film box outside" loading="lazy" height="500" />
+</a>
+
 #### [120] Fujifilm Fujichrome Professional 100D (ref: 439d)
 
 ```
@@ -609,6 +630,27 @@ UUID  : 0d89ecf11f3c46deb52171aa909566e3
 
 <a href="./archive/00022_000.jpg">
 	<img src="./lowres/00022_000.jpg" alt="Fujifilm Pro 400H 120 film box outside" loading="lazy" height="500" />
+</a>
+
+#### [120] Fujifilm Superia X-TRA (ref: 7980)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2004-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-08-19   |  Author  : @ellafridalindblom
+UUID  : 9e774f36e4d34b3c81a30a5b44da7980
+```
+
+<a href="./archive/00209_000.jpg">
+	<img src="./lowres/00209_000.jpg" alt="Fujifilm Superia X-TRA 120 film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 434f763fea0d4c4c9dc5aeb2eb10e8aa`↓
+
+<a href="./archive/00209_001.jpg">
+	<img src="./lowres/00209_001.jpg" alt="Fujifilm Superia X-TRA 120 film box inside" loading="lazy" height="500" />
 </a>
 
 #### [120] Fujifilm Velvia 100F (ref: f7fb)
@@ -1127,6 +1169,27 @@ UUID  : 0e16f7ae50164c658acd22b8d62e52aa
 
 <a href="./archive/00050_000.jpg">
 	<img src="./lowres/00050_000.jpg" alt="Shanghai GP3 127 film box outside" loading="lazy" width="500" />
+</a>
+
+#### [12x16.5cm] Defender Portrait HGS (ref: d69c)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-08-19   |  Author  : @ellafridalindblom
+UUID  : 24c9c3108671446dae824d00093fd69c
+```
+
+<a href="./archive/00208_000.jpg">
+	<img src="./lowres/00208_000.jpg" alt="Defender Portrait HGS 12x16.5cm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 5782545b9d15462e93943f2b62f605f5`↓
+
+<a href="./archive/00208_001.jpg">
+	<img src="./lowres/00208_001.jpg" alt="Defender Portrait HGS 12x16.5cm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [16mm] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)
@@ -1969,7 +2032,7 @@ UUID  : 89750d8a18fe4e238c76b97b4578713b
 	<img src="./lowres/00197_001.jpg" alt="Fujifilm Superia X-TRA 35mm film box inside" loading="lazy" height="500" />
 </a>
 
-#### [35mm] Fujifilm Superia X-Tra (ref: 6b8a)
+#### [35mm] Fujifilm Superia X-TRA (ref: 6b8a)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -1980,7 +2043,7 @@ UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
 ```
 
 <a href="./archive/00165_000.jpg">
-	<img src="./lowres/00165_000.jpg" alt="Fujifilm Superia X-Tra 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00165_000.jpg" alt="Fujifilm Superia X-TRA 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [35mm] Fujifilm Velvia 100F (ref: 32d4)
@@ -1995,6 +2058,20 @@ UUID  : ce5c1d786286427ba5633091b06432d4
 
 <a href="./archive/00056_000.jpg">
 	<img src="./lowres/00056_000.jpg" alt="Fujifilm Velvia 100F 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [35mm] Hands On Film Midnight 1600 (ref: 4411)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 1600         |  Expiry  : 2026-05 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-19   |  Author  : @ellafridalindblom
+UUID  : 515a9a246a8e4eed87d77142623a4411
+```
+
+<a href="./archive/00206_000.jpg">
+	<img src="./lowres/00206_000.jpg" alt="Hands On Film Midnight 1600 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [35mm] Harman Phoenix (ref: 8eb4)
@@ -2443,6 +2520,34 @@ UUID  : 175cf2b69fe3413093d9d7f9ea0d26ef
 
 <a href="./archive/00114_001.jpg">
 	<img src="./lowres/00114_001.jpg" alt="Kodak Ektachrome Elite 100 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### [35mm] Kodak Ektachrome Slide Duplicating Film (ref: d53a)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : Unknown      |  Expiry  : 1999-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-19   |  Author  : @ellafridalindblom
+UUID  : 59aa1c52cf434a60976debe684a3d53a
+```
+
+<a href="./archive/00203_000.jpg">
+	<img src="./lowres/00203_000.jpg" alt="Kodak Ektachrome Slide Duplicating Film 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: a15217b7a9c34d25a71276e952a8dce0`↓
+
+<a href="./archive/00203_001.jpg">
+	<img src="./lowres/00203_001.jpg" alt="Kodak Ektachrome Slide Duplicating Film 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 70ffb21210374c97a9fa3b819e9b3a1a`↓
+
+<a href="./archive/00203_002.jpg">
+	<img src="./lowres/00203_002.jpg" alt="Kodak Ektachrome Slide Duplicating Film 35mm film box leaflet" loading="lazy" height="500" />
 </a>
 
 #### [35mm] Kodak Ektachrome-X (ref: aec5)
@@ -3677,6 +3782,34 @@ UUID  : 46037fb6c55244b6ae47c55d0e454bf8
 	<img src="./lowres/00051_000.jpg" alt="York Photo Labs DXG 200 35mm film box outside" loading="lazy" width="500" />
 </a>
 
+#### [6.5x9] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)
+
+```
+Format: 6.5x9        |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-08-19   |  Author  : @ellafridalindblom
+UUID  : 1056543f30334a238387be8abe2dec67
+```
+
+<a href="./archive/00204_000.jpg">
+	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plåtar E.R.Orto 6.5x9 film box outside" loading="lazy" width="500" />
+</a>
+
+#### [6.5x9] Illingworth's Fleet H&D (ref: 54fe)
+
+```
+Format: 6.5x9        |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-08-19   |  Author  : @ellafridalindblom
+UUID  : bec584ee60f3462381719b3e908f54fe
+```
+
+<a href="./archive/00207_000.jpg">
+	<img src="./lowres/00207_000.jpg" alt="Illingworth's Fleet H&D 6.5x9 film box outside" loading="lazy" width="500" />
+</a>
+
 #### [620] Kodak Verichrome Pan (ref: 0195)
 
 ```
@@ -4062,18 +4195,19 @@ Rank  Username                      Contributions
 10    toader                        13    
 11    stefanie                      12    
 12    yc128                         11    
-13    lilyu.xyz                     9     
-14    benikum                       6     
-15    Kraksen                       5     
-16    Henry Gunn                    4     
-17    u/ReeeSchmidtyWerber          4     
-18    lt_col_tall                   4     
-19    @Hol.m35                      3     
-20    TheSelousScout                3     
-21    @seklerek                     2     
-22    @ftfilmphotos                 2     
-23    Yrikonchik                    1     
-24    @ad.astra.per.aspera.1894     1     
+13    @ellafridalindblom            11    
+14    lilyu.xyz                     9     
+15    benikum                       6     
+16    Kraksen                       5     
+17    Henry Gunn                    4     
+18    u/ReeeSchmidtyWerber          4     
+19    lt_col_tall                   4     
+20    @Hol.m35                      3     
+21    TheSelousScout                3     
+22    @seklerek                     2     
+23    @ftfilmphotos                 2     
+24    Yrikonchik                    1     
+25    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?

@@ -37,6 +37,7 @@ class my_attribute:
         self.no_need_to_ask = False
         self.list_existing = False
         self.notes = ""
+        self.accept_empty = False
 
     def __str__(self):
         return (
@@ -141,6 +142,7 @@ this_key.db_name = ITEM_NOTES_KEY
 this_key.display_name = "Additional Notes"
 this_key.no_need_to_ask = False
 this_key.list_existing = False
+this_key.accept_empty = True
 this_key.notes = "press enter if none"
 record_key_list.append(this_key)
 

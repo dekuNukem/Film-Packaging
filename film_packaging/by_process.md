@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 18 2025
+Last Updated: Aug 19 2025
 
-# of items: 345
+# of items: 356
 ```
 
 -----
@@ -39,6 +39,7 @@ Last Updated: Aug 18 2025
 - [[BW] Bergger Pancro400 (ref: ad7b)](#bw-bergger-pancro400-ref-ad7b)
 - [[BW] Bergger Pancro400 (ref: f619)](#bw-bergger-pancro400-ref-f619)
 - [[BW] CatLABS X Film 320 Pro (ref: 1c69)](#bw-catlabs-x-film-320-pro-ref-1c69)
+- [[BW] Defender Portrait HGS (ref: d69c)](#bw-defender-portrait-hgs-ref-d69c)
 - [[BW] Efke IR 820 (ref: 43c9)](#bw-efke-ir-820-ref-43c9)
 - [[BW] Foma Fomapan (ref: 3e4f)](#bw-foma-fomapan-ref-3e4f)
 - [[BW] Foma Fomapan (ref: 65ad)](#bw-foma-fomapan-ref-65ad)
@@ -48,7 +49,9 @@ Last Updated: Aug 18 2025
 - [[BW] Foma Fomapan21 (ref: 75d9)](#bw-foma-fomapan21-ref-75d9)
 - [[BW] Foma Ortho (ref: 89e7)](#bw-foma-ortho-ref-89e7)
 - [[BW] Foma Ortho 400 (ref: c559)](#bw-foma-ortho-400-ref-c559)
+- [[BW] Foton Fotopan F (ref: 0ad6)](#bw-foton-fotopan-f-ref-0ad6)
 - [[BW] Fujifilm Neopan SS Rapid (ref: 9db3)](#bw-fujifilm-neopan-ss-rapid-ref-9db3)
+- [[BW] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#bw-hasselblad-hassel-plåtar-erorto-ref-ec67)
 - [[BW] Ilford Delta 100 (ref: eb8d)](#bw-ilford-delta-100-ref-eb8d)
 - [[BW] Ilford Delta 3200 (ref: 920f)](#bw-ilford-delta-3200-ref-920f)
 - [[BW] Ilford Delta 3200 (ref: 9b54)](#bw-ilford-delta-3200-ref-9b54)
@@ -59,6 +62,7 @@ Last Updated: Aug 18 2025
 - [[BW] Ilford HP5 Plus (ref: 1a5d)](#bw-ilford-hp5-plus-ref-1a5d)
 - [[BW] Ilford HP5 Plus (ref: df49)](#bw-ilford-hp5-plus-ref-df49)
 - [[BW] Ilford SFX 200 (ref: 6057)](#bw-ilford-sfx-200-ref-6057)
+- [[BW] Illingworth's Fleet H&D (ref: 54fe)](#bw-illingworths-fleet-h-d-ref-54fe)
 - [[BW] JCH Streetpan (ref: 6e58)](#bw-jch-streetpan-ref-6e58)
 - [[BW] Kentmere PAN 100 (ref: c907)](#bw-kentmere-pan-100-ref-c907)
 - [[BW] Kentmere PAN 200 (ref: 0e32)](#bw-kentmere-pan-200-ref-0e32)
@@ -126,7 +130,9 @@ Last Updated: Aug 18 2025
 - [[C-41] Fujifilm Superia (ref: 0d8e)](#c-41-fujifilm-superia-ref-0d8e)
 - [[C-41] Fujifilm Superia Reala (ref: a7de)](#c-41-fujifilm-superia-reala-ref-a7de)
 - [[C-41] Fujifilm Superia X-TRA (ref: 713b)](#c-41-fujifilm-superia-x-tra-ref-713b)
-- [[C-41] Fujifilm Superia X-Tra (ref: 6b8a)](#c-41-fujifilm-superia-x-tra-ref-6b8a)
+- [[C-41] Fujifilm Superia X-TRA (ref: 7980)](#c-41-fujifilm-superia-x-tra-ref-7980)
+- [[C-41] Fujifilm Superia X-TRA (ref: 6b8a)](#c-41-fujifilm-superia-x-tra-ref-6b8a)
+- [[C-41] Hands On Film Midnight 1600 (ref: 4411)](#c-41-hands-on-film-midnight-1600-ref-4411)
 - [[C-41] Harman Phoenix (ref: 8eb4)](#c-41-harman-phoenix-ref-8eb4)
 - [[C-41] Harman Phoenix (ref: 637f)](#c-41-harman-phoenix-ref-637f)
 - [[C-41] Harman Phoenix II (ref: f686)](#c-41-harman-phoenix-ii-ref-f686)
@@ -199,6 +205,7 @@ Last Updated: Aug 18 2025
 - [[E-6] Kodak Ektachrome E100 (ref: ae10)](#e-6-kodak-ektachrome-e100-ref-ae10)
 - [[E-6] Kodak Ektachrome E100VS (ref: a8d3)](#e-6-kodak-ektachrome-e100vs-ref-a8d3)
 - [[E-6] Kodak Ektachrome Elite 100 (ref: 26ef)](#e-6-kodak-ektachrome-elite-100-ref-26ef)
+- [[E-6] Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#e-6-kodak-ektachrome-slide-duplicating-film-ref-d53a)
 - [[E-6] Kodak Elite Chrome (ref: 523c)](#e-6-kodak-elite-chrome-ref-523c)
 - [[E-6] Kodak Elite Chrome (ref: 3943)](#e-6-kodak-elite-chrome-ref-3943)
 - [[ECN-2] Alien Film 5207/250D (ref: 8820)](#ecn-2-alien-film-5207250d-ref-8820)
@@ -548,6 +555,27 @@ UUID  : b5423225b6b2496eaf713a5a38731c69
 	<img src="./lowres/00196_001.jpg" alt="CatLABS X Film 320 Pro 120 film box outside" loading="lazy" width="500" />
 </a>
 
+#### [BW] Defender Portrait HGS (ref: d69c)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-08-19   |  Author  : @ellafridalindblom
+UUID  : 24c9c3108671446dae824d00093fd69c
+```
+
+<a href="./archive/00208_000.jpg">
+	<img src="./lowres/00208_000.jpg" alt="Defender Portrait HGS 12x16.5cm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 5782545b9d15462e93943f2b62f605f5`↓
+
+<a href="./archive/00208_001.jpg">
+	<img src="./lowres/00208_001.jpg" alt="Defender Portrait HGS 12x16.5cm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [BW] Efke IR 820 (ref: 43c9)
 
 ```
@@ -723,6 +751,20 @@ UUID  : 676655ff95914769b0869d71d824c559
 	<img src="./lowres/00187_001.jpg" alt="Foma Ortho 400 35mm film box inside" loading="lazy" height="500" />
 </a>
 
+#### [BW] Foton Fotopan F (ref: 0ad6)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 50           |  Expiry  : 1969-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-08-19   |  Author  : @ellafridalindblom
+UUID  : f2002785f14a4aba9fd1da2386890ad6
+```
+
+<a href="./archive/00205_000.jpg">
+	<img src="./lowres/00205_000.jpg" alt="Foton Fotopan F 120 film box outside" loading="lazy" height="500" />
+</a>
+
 #### [BW] Fujifilm Neopan SS Rapid (ref: 9db3)
 
 ```
@@ -735,6 +777,20 @@ UUID  : 1c541b4c837944d788eab8986f349db3
 
 <a href="./archive/00118_000.jpg">
 	<img src="./lowres/00118_000.jpg" alt="Fujifilm Neopan SS Rapid 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [BW] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)
+
+```
+Format: 6.5x9        |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-08-19   |  Author  : @ellafridalindblom
+UUID  : 1056543f30334a238387be8abe2dec67
+```
+
+<a href="./archive/00204_000.jpg">
+	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plåtar E.R.Orto 6.5x9 film box outside" loading="lazy" width="500" />
 </a>
 
 #### [BW] Ilford Delta 100 (ref: eb8d)
@@ -938,6 +994,20 @@ UUID  : 7856b5442362453caa67628c93be6057
 
 <a href="./archive/00009_001.jpg">
 	<img src="./lowres/00009_001.jpg" alt="Ilford SFX 200 120 film box inside" loading="lazy" width="500" />
+</a>
+
+#### [BW] Illingworth's Fleet H&D (ref: 54fe)
+
+```
+Format: 6.5x9        |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-08-19   |  Author  : @ellafridalindblom
+UUID  : bec584ee60f3462381719b3e908f54fe
+```
+
+<a href="./archive/00207_000.jpg">
+	<img src="./lowres/00207_000.jpg" alt="Illingworth's Fleet H&D 6.5x9 film box outside" loading="lazy" width="500" />
 </a>
 
 #### [BW] JCH Streetpan (ref: 6e58)
@@ -2200,7 +2270,28 @@ UUID  : 89750d8a18fe4e238c76b97b4578713b
 	<img src="./lowres/00197_001.jpg" alt="Fujifilm Superia X-TRA 35mm film box inside" loading="lazy" height="500" />
 </a>
 
-#### [C-41] Fujifilm Superia X-Tra (ref: 6b8a)
+#### [C-41] Fujifilm Superia X-TRA (ref: 7980)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2004-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-08-19   |  Author  : @ellafridalindblom
+UUID  : 9e774f36e4d34b3c81a30a5b44da7980
+```
+
+<a href="./archive/00209_000.jpg">
+	<img src="./lowres/00209_000.jpg" alt="Fujifilm Superia X-TRA 120 film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 434f763fea0d4c4c9dc5aeb2eb10e8aa`↓
+
+<a href="./archive/00209_001.jpg">
+	<img src="./lowres/00209_001.jpg" alt="Fujifilm Superia X-TRA 120 film box inside" loading="lazy" height="500" />
+</a>
+
+#### [C-41] Fujifilm Superia X-TRA (ref: 6b8a)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -2211,7 +2302,21 @@ UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
 ```
 
 <a href="./archive/00165_000.jpg">
-	<img src="./lowres/00165_000.jpg" alt="Fujifilm Superia X-Tra 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00165_000.jpg" alt="Fujifilm Superia X-TRA 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [C-41] Hands On Film Midnight 1600 (ref: 4411)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 1600         |  Expiry  : 2026-05 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-19   |  Author  : @ellafridalindblom
+UUID  : 515a9a246a8e4eed87d77142623a4411
+```
+
+<a href="./archive/00206_000.jpg">
+	<img src="./lowres/00206_000.jpg" alt="Hands On Film Midnight 1600 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [C-41] Harman Phoenix (ref: 8eb4)
@@ -3453,6 +3558,34 @@ UUID  : 175cf2b69fe3413093d9d7f9ea0d26ef
 	<img src="./lowres/00114_001.jpg" alt="Kodak Ektachrome Elite 100 35mm film box inside" loading="lazy" height="500" />
 </a>
 
+#### [E-6] Kodak Ektachrome Slide Duplicating Film (ref: d53a)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : Unknown      |  Expiry  : 1999-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-19   |  Author  : @ellafridalindblom
+UUID  : 59aa1c52cf434a60976debe684a3d53a
+```
+
+<a href="./archive/00203_000.jpg">
+	<img src="./lowres/00203_000.jpg" alt="Kodak Ektachrome Slide Duplicating Film 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: a15217b7a9c34d25a71276e952a8dce0`↓
+
+<a href="./archive/00203_001.jpg">
+	<img src="./lowres/00203_001.jpg" alt="Kodak Ektachrome Slide Duplicating Film 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 70ffb21210374c97a9fa3b819e9b3a1a`↓
+
+<a href="./archive/00203_002.jpg">
+	<img src="./lowres/00203_002.jpg" alt="Kodak Ektachrome Slide Duplicating Film 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
 #### [E-6] Kodak Elite Chrome (ref: 523c)
 
 ```
@@ -4062,18 +4195,19 @@ Rank  Username                      Contributions
 10    toader                        13    
 11    stefanie                      12    
 12    yc128                         11    
-13    lilyu.xyz                     9     
-14    benikum                       6     
-15    Kraksen                       5     
-16    Henry Gunn                    4     
-17    u/ReeeSchmidtyWerber          4     
-18    lt_col_tall                   4     
-19    @Hol.m35                      3     
-20    TheSelousScout                3     
-21    @seklerek                     2     
-22    @ftfilmphotos                 2     
-23    Yrikonchik                    1     
-24    @ad.astra.per.aspera.1894     1     
+13    @ellafridalindblom            11    
+14    lilyu.xyz                     9     
+15    benikum                       6     
+16    Kraksen                       5     
+17    Henry Gunn                    4     
+18    u/ReeeSchmidtyWerber          4     
+19    lt_col_tall                   4     
+20    @Hol.m35                      3     
+21    TheSelousScout                3     
+22    @seklerek                     2     
+23    @ftfilmphotos                 2     
+24    Yrikonchik                    1     
+25    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?

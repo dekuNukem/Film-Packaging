@@ -15,15 +15,15 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 18 2025
+Last Updated: Aug 19 2025
 
-# of items: 345
+# of items: 356
 ```
 
 -----
 
 - [[@Hol.m35] Boots Colour Print Film (ref: a30f)](#holm35-boots-colour-print-film-ref-a30f)
-- [[@Hol.m35] Fujifilm Superia X-Tra (ref: 6b8a)](#holm35-fujifilm-superia-x-tra-ref-6b8a)
+- [[@Hol.m35] Fujifilm Superia X-TRA (ref: 6b8a)](#holm35-fujifilm-superia-x-tra-ref-6b8a)
 - [[@Hol.m35] Hope Film Bubble (ref: 41f4)](#holm35-hope-film-bubble-ref-41f4)
 - [[@SirBrentsworth] CineStill 800T (ref: b3ff)](#sirbrentsworth-cinestill-800t-ref-b3ff)
 - [[@SirBrentsworth] Ilford HP5 Plus (ref: df49)](#sirbrentsworth-ilford-hp5-plus-ref-df49)
@@ -35,6 +35,13 @@ Last Updated: Aug 18 2025
 - [[@SirBrentsworth] Kodak UltraMax (ref: aaa6)](#sirbrentsworth-kodak-ultramax-ref-aaa6)
 - [[@SirBrentsworth] Lomography Lomochrome Purple (ref: 068f)](#sirbrentsworth-lomography-lomochrome-purple-ref-068f)
 - [[@ad.astra.per.aspera.1894] Kirkland Signature Color Print Film (ref: 0441)](#adastraperaspera1894-kirkland-signature-color-print-film-ref-0441)
+- [[@ellafridalindblom] Defender Portrait HGS (ref: d69c)](#ellafridalindblom-defender-portrait-hgs-ref-d69c)
+- [[@ellafridalindblom] Foton Fotopan F (ref: 0ad6)](#ellafridalindblom-foton-fotopan-f-ref-0ad6)
+- [[@ellafridalindblom] Fujifilm Superia X-TRA (ref: 7980)](#ellafridalindblom-fujifilm-superia-x-tra-ref-7980)
+- [[@ellafridalindblom] Hands On Film Midnight 1600 (ref: 4411)](#ellafridalindblom-hands-on-film-midnight-1600-ref-4411)
+- [[@ellafridalindblom] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#ellafridalindblom-hasselblad-hassel-plåtar-erorto-ref-ec67)
+- [[@ellafridalindblom] Illingworth's Fleet H&D (ref: 54fe)](#ellafridalindblom-illingworths-fleet-h-d-ref-54fe)
+- [[@ellafridalindblom] Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#ellafridalindblom-kodak-ektachrome-slide-duplicating-film-ref-d53a)
 - [[@ftfilmphotos] Kodak Kodacolor VR (ref: 035f)](#ftfilmphotos-kodak-kodacolor-vr-ref-035f)
 - [[@ob.skura] Fujifilm Fujichrome Velvia (ref: 3182)](#obskura-fujifilm-fujichrome-velvia-ref-3182)
 - [[@ob.skura] Ilford Delta 100 (ref: eb8d)](#obskura-ilford-delta-100-ref-eb8d)
@@ -240,7 +247,7 @@ UUID  : bd601340027a4c9daa7e219b414fa30f
 	<img src="./lowres/00166_000.jpg" alt="Boots Colour Print Film 35mm film box outside" loading="lazy" height="500" />
 </a>
 
-#### [@Hol.m35] Fujifilm Superia X-Tra (ref: 6b8a)
+#### [@Hol.m35] Fujifilm Superia X-TRA (ref: 6b8a)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -251,7 +258,7 @@ UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
 ```
 
 <a href="./archive/00165_000.jpg">
-	<img src="./lowres/00165_000.jpg" alt="Fujifilm Superia X-Tra 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00165_000.jpg" alt="Fujifilm Superia X-TRA 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [@Hol.m35] Hope Film Bubble (ref: 41f4)
@@ -434,6 +441,132 @@ UUID  : 7f4a0fbd6be7494ab097f7f816700441
 
 <a href="./archive/00184_000.jpg">
 	<img src="./lowres/00184_000.jpg" alt="Kirkland Signature Color Print Film 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@ellafridalindblom] Defender Portrait HGS (ref: d69c)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-08-19   |  Author  : @ellafridalindblom
+UUID  : 24c9c3108671446dae824d00093fd69c
+```
+
+<a href="./archive/00208_000.jpg">
+	<img src="./lowres/00208_000.jpg" alt="Defender Portrait HGS 12x16.5cm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 5782545b9d15462e93943f2b62f605f5`↓
+
+<a href="./archive/00208_001.jpg">
+	<img src="./lowres/00208_001.jpg" alt="Defender Portrait HGS 12x16.5cm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@ellafridalindblom] Foton Fotopan F (ref: 0ad6)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 50           |  Expiry  : 1969-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-08-19   |  Author  : @ellafridalindblom
+UUID  : f2002785f14a4aba9fd1da2386890ad6
+```
+
+<a href="./archive/00205_000.jpg">
+	<img src="./lowres/00205_000.jpg" alt="Foton Fotopan F 120 film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@ellafridalindblom] Fujifilm Superia X-TRA (ref: 7980)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2004-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-08-19   |  Author  : @ellafridalindblom
+UUID  : 9e774f36e4d34b3c81a30a5b44da7980
+```
+
+<a href="./archive/00209_000.jpg">
+	<img src="./lowres/00209_000.jpg" alt="Fujifilm Superia X-TRA 120 film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 434f763fea0d4c4c9dc5aeb2eb10e8aa`↓
+
+<a href="./archive/00209_001.jpg">
+	<img src="./lowres/00209_001.jpg" alt="Fujifilm Superia X-TRA 120 film box inside" loading="lazy" height="500" />
+</a>
+
+#### [@ellafridalindblom] Hands On Film Midnight 1600 (ref: 4411)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 1600         |  Expiry  : 2026-05 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-19   |  Author  : @ellafridalindblom
+UUID  : 515a9a246a8e4eed87d77142623a4411
+```
+
+<a href="./archive/00206_000.jpg">
+	<img src="./lowres/00206_000.jpg" alt="Hands On Film Midnight 1600 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@ellafridalindblom] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)
+
+```
+Format: 6.5x9        |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-08-19   |  Author  : @ellafridalindblom
+UUID  : 1056543f30334a238387be8abe2dec67
+```
+
+<a href="./archive/00204_000.jpg">
+	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plåtar E.R.Orto 6.5x9 film box outside" loading="lazy" width="500" />
+</a>
+
+#### [@ellafridalindblom] Illingworth's Fleet H&D (ref: 54fe)
+
+```
+Format: 6.5x9        |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-08-19   |  Author  : @ellafridalindblom
+UUID  : bec584ee60f3462381719b3e908f54fe
+```
+
+<a href="./archive/00207_000.jpg">
+	<img src="./lowres/00207_000.jpg" alt="Illingworth's Fleet H&D 6.5x9 film box outside" loading="lazy" width="500" />
+</a>
+
+#### [@ellafridalindblom] Kodak Ektachrome Slide Duplicating Film (ref: d53a)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : Unknown      |  Expiry  : 1999-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-19   |  Author  : @ellafridalindblom
+UUID  : 59aa1c52cf434a60976debe684a3d53a
+```
+
+<a href="./archive/00203_000.jpg">
+	<img src="./lowres/00203_000.jpg" alt="Kodak Ektachrome Slide Duplicating Film 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: a15217b7a9c34d25a71276e952a8dce0`↓
+
+<a href="./archive/00203_001.jpg">
+	<img src="./lowres/00203_001.jpg" alt="Kodak Ektachrome Slide Duplicating Film 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 70ffb21210374c97a9fa3b819e9b3a1a`↓
+
+<a href="./archive/00203_002.jpg">
+	<img src="./lowres/00203_002.jpg" alt="Kodak Ektachrome Slide Duplicating Film 35mm film box leaflet" loading="lazy" height="500" />
 </a>
 
 #### [@ftfilmphotos] Kodak Kodacolor VR (ref: 035f)
@@ -4062,18 +4195,19 @@ Rank  Username                      Contributions
 10    toader                        13    
 11    stefanie                      12    
 12    yc128                         11    
-13    lilyu.xyz                     9     
-14    benikum                       6     
-15    Kraksen                       5     
-16    Henry Gunn                    4     
-17    u/ReeeSchmidtyWerber          4     
-18    lt_col_tall                   4     
-19    @Hol.m35                      3     
-20    TheSelousScout                3     
-21    @seklerek                     2     
-22    @ftfilmphotos                 2     
-23    Yrikonchik                    1     
-24    @ad.astra.per.aspera.1894     1     
+13    @ellafridalindblom            11    
+14    lilyu.xyz                     9     
+15    benikum                       6     
+16    Kraksen                       5     
+17    Henry Gunn                    4     
+18    u/ReeeSchmidtyWerber          4     
+19    lt_col_tall                   4     
+20    @Hol.m35                      3     
+21    TheSelousScout                3     
+22    @seklerek                     2     
+23    @ftfilmphotos                 2     
+24    Yrikonchik                    1     
+25    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?
