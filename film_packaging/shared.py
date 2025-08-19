@@ -18,8 +18,8 @@ ITEM_FILE_NAME_KEY = 'filename'
 ITEM_AUTHOR_KEY = "author"
 
 ITEM_NOTES_KEY = 'notes'
-ITEM_BOX_TYPE_KEY = 'box_type'
-# single_pack_generic, single_pack_10exp, single_pack_24exp, single_pack_36exp, multipack_3, bulk_roll, etc
+ITEM_BOX_TYPE_KEY = 'box_type' # single_pack, multipack_3, bulk_roll, etc
+ITEM_QUANTITY_KEY = 'quantity' # 24exp, 36exp, 100ft, etc
 
 alert_color = 'cyan'
 
@@ -81,6 +81,14 @@ this_key.notes = ""
 record_key_list.append(this_key)
 
 this_key = my_attribute()
+this_key.db_name = ITEM_QUANTITY_KEY
+this_key.display_name = "Quantity"
+this_key.no_need_to_ask = False
+this_key.list_existing = True
+this_key.notes = "24exp, 100ft, etc"
+record_key_list.append(this_key)
+
+this_key = my_attribute()
 this_key.db_name = ITEM_BRAND_KEY
 this_key.display_name = "Brand"
 this_key.no_need_to_ask = False
@@ -126,6 +134,14 @@ this_key.display_name = "Expiry"
 this_key.no_need_to_ask = False
 this_key.list_existing = False
 this_key.notes = "YYYYMM"
+record_key_list.append(this_key)
+
+this_key = my_attribute()
+this_key.db_name = ITEM_NOTES_KEY
+this_key.display_name = "Additional Notes"
+this_key.no_need_to_ask = False
+this_key.list_existing = False
+this_key.notes = "press enter if none"
 record_key_list.append(this_key)
 
 this_key = my_attribute()
@@ -193,7 +209,6 @@ def save_csv(entries, csv_path=database_csv_path):
     csv_writer.writeheader()
     csv_writer.writerows(entries)
     csv_out_file.close()
-
 
 from PIL import Image
 
