@@ -27,17 +27,17 @@ Last Updated: Aug 18 2025
 - [[@Hol.m35] Hope Film Bubble (ref: 41f4)](#holm35-hope-film-bubble-ref-41f4)
 - [[@SirBrentsworth] CineStill 800T (ref: b3ff)](#sirbrentsworth-cinestill-800t-ref-b3ff)
 - [[@SirBrentsworth] Ilford HP5 Plus (ref: df49)](#sirbrentsworth-ilford-hp5-plus-ref-df49)
-- [[@SirBrentsworth] Kentmere PAN (ref: c907)](#sirbrentsworth-kentmere-pan-ref-c907)
+- [[@SirBrentsworth] Kentmere PAN 100 (ref: c907)](#sirbrentsworth-kentmere-pan-100-ref-c907)
 - [[@SirBrentsworth] Kodak ColorPlus (ref: 79ca)](#sirbrentsworth-kodak-colorplus-ref-79ca)
-- [[@SirBrentsworth] Kodak Ektar (ref: 3498)](#sirbrentsworth-kodak-ektar-ref-3498)
+- [[@SirBrentsworth] Kodak Ektar 100 (ref: 3498)](#sirbrentsworth-kodak-ektar-100-ref-3498)
 - [[@SirBrentsworth] Kodak Gold (ref: 3e7f)](#sirbrentsworth-kodak-gold-ref-3e7f)
 - [[@SirBrentsworth] Kodak Gold (ref: 855e)](#sirbrentsworth-kodak-gold-ref-855e)
 - [[@SirBrentsworth] Kodak UltraMax (ref: aaa6)](#sirbrentsworth-kodak-ultramax-ref-aaa6)
 - [[@SirBrentsworth] Lomography Lomochrome Purple (ref: 068f)](#sirbrentsworth-lomography-lomochrome-purple-ref-068f)
 - [[@ad.astra.per.aspera.1894] Kirkland Signature Color Print Film (ref: 0441)](#adastraperaspera1894-kirkland-signature-color-print-film-ref-0441)
 - [[@ftfilmphotos] Kodak Kodacolor VR (ref: 035f)](#ftfilmphotos-kodak-kodacolor-vr-ref-035f)
-- [[@ob.skura] Fujifilm Velvia (ref: 3182)](#obskura-fujifilm-velvia-ref-3182)
-- [[@ob.skura] Ilford Delta (ref: eb8d)](#obskura-ilford-delta-ref-eb8d)
+- [[@ob.skura] Fujifilm Fujichrome Velvia (ref: 3182)](#obskura-fujifilm-fujichrome-velvia-ref-3182)
+- [[@ob.skura] Ilford Delta 100 (ref: eb8d)](#obskura-ilford-delta-100-ref-eb8d)
 - [[@ob.skura] Kodak Elite Chrome (ref: 523c)](#obskura-kodak-elite-chrome-ref-523c)
 - [[@ob.skura] Kodak High Speed Ektachrome (ref: ec3d)](#obskura-kodak-high-speed-ektachrome-ref-ec3d)
 - [[@ob.skura] Kodak Ultra (ref: 69a1)](#obskura-kodak-ultra-ref-69a1)
@@ -78,11 +78,11 @@ Last Updated: Aug 18 2025
 - [[Nano_Burger] Agfa Autolith Repo (ref: 8e68)](#nano_burger-agfa-autolith-repo-ref-8e68)
 - [[Nano_Burger] Agfa Isopan FF (ref: 3700)](#nano_burger-agfa-isopan-ff-ref-3700)
 - [[Nano_Burger] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#nano_burger-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
-- [[Nano_Burger] Kodak Ektachrome (ref: 3c96)](#nano_burger-kodak-ektachrome-ref-3c96)
+- [[Nano_Burger] Kodak Ektachrome 400 (ref: 3c96)](#nano_burger-kodak-ektachrome-400-ref-3c96)
 - [[Nano_Burger] Kodak High Speed Infrared (ref: 4294)](#nano_burger-kodak-high-speed-infrared-ref-4294)
 - [[Nano_Burger] Kodak High Speed Infrared (ref: 883e)](#nano_burger-kodak-high-speed-infrared-ref-883e)
 - [[Nano_Burger] Kodak Rapid Process Copy Film (ref: e66e)](#nano_burger-kodak-rapid-process-copy-film-ref-e66e)
-- [[Nano_Burger] Kodak TMAX (ref: 1dff)](#nano_burger-kodak-tmax-ref-1dff)
+- [[Nano_Burger] Kodak TMAX P3200 (ref: 1dff)](#nano_burger-kodak-tmax-p3200-ref-1dff)
 - [[Nano_Burger] Kodak Technical Pan (ref: f4cf)](#nano_burger-kodak-technical-pan-ref-f4cf)
 - [[Pelicram] Adox HR 50 (ref: 4da7)](#pelicram-adox-hr-50-ref-4da7)
 - [[Pelicram] Agfa Isopan ISS (ref: 75fa)](#pelicram-agfa-isopan-iss-ref-75fa)
@@ -95,15 +95,15 @@ Last Updated: Aug 18 2025
 - [[Pelicram] Foma Ortho 400 (ref: c559)](#pelicram-foma-ortho-400-ref-c559)
 - [[Pelicram] Fujifilm Fujicolor Superia (ref: d1b7)](#pelicram-fujifilm-fujicolor-superia-ref-d1b7)
 - [[Pelicram] Hazenfilm Sorolla Chrome (ref: 889f)](#pelicram-hazenfilm-sorolla-chrome-ref-889f)
-- [[Pelicram] Ilford Delta (ref: 920f)](#pelicram-ilford-delta-ref-920f)
-- [[Pelicram] Ilford Delta (ref: 9b54)](#pelicram-ilford-delta-ref-9b54)
+- [[Pelicram] Ilford Delta 3200 (ref: 920f)](#pelicram-ilford-delta-3200-ref-920f)
+- [[Pelicram] Ilford Delta 3200 (ref: 9b54)](#pelicram-ilford-delta-3200-ref-9b54)
 - [[Pelicram] Ilford HP5 Plus (ref: 11a8)](#pelicram-ilford-hp5-plus-ref-11a8)
 - [[Pelicram] JCH Streetpan (ref: 6e58)](#pelicram-jch-streetpan-ref-6e58)
-- [[Pelicram] Kentmere PAN (ref: a327)](#pelicram-kentmere-pan-ref-a327)
 - [[Pelicram] Kentmere PAN 200 (ref: 0e32)](#pelicram-kentmere-pan-200-ref-0e32)
-- [[Pelicram] Kodak TMAX (ref: 521a)](#pelicram-kodak-tmax-ref-521a)
-- [[Pelicram] Kodak TMAX (ref: 43a2)](#pelicram-kodak-tmax-ref-43a2)
-- [[Pelicram] Kodak Tri-X (ref: c671)](#pelicram-kodak-tri-x-ref-c671)
+- [[Pelicram] Kentmere PAN 400 (ref: a327)](#pelicram-kentmere-pan-400-ref-a327)
+- [[Pelicram] Kodak TMAX P3200 (ref: 521a)](#pelicram-kodak-tmax-p3200-ref-521a)
+- [[Pelicram] Kodak TMAX P3200 (ref: 43a2)](#pelicram-kodak-tmax-p3200-ref-43a2)
+- [[Pelicram] Kodak Tri-X 400 (ref: c671)](#pelicram-kodak-tri-x-400-ref-c671)
 - [[Pelicram] Kodak Värikuvafilmi (ref: f9ff)](#pelicram-kodak-värikuvafilmi-ref-f9ff)
 - [[Pelicram] Konica VX200 (ref: fe53)](#pelicram-konica-vx200-ref-fe53)
 - [[Pelicram] Lomography Babylon (ref: 7afa)](#pelicram-lomography-babylon-ref-7afa)
@@ -123,7 +123,7 @@ Last Updated: Aug 18 2025
 - [[The Compartmentalist] Fujifilm Sensia (ref: a59b)](#the-compartmentalist-fujifilm-sensia-ref-a59b)
 - [[The Compartmentalist] Kodak Ektachrome-X (ref: ae7e)](#the-compartmentalist-kodak-ektachrome-x-ref-ae7e)
 - [[The Compartmentalist] Kodak Ektachrome-X (ref: aec5)](#the-compartmentalist-kodak-ektachrome-x-ref-aec5)
-- [[The Compartmentalist] Kodak Kodachrome (ref: 8833)](#the-compartmentalist-kodak-kodachrome-ref-8833)
+- [[The Compartmentalist] Kodak Kodachrome 25 (ref: 8833)](#the-compartmentalist-kodak-kodachrome-25-ref-8833)
 - [[The Compartmentalist] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#the-compartmentalist-minolta-minolta-16-color-film-for-prints-ref-a2ff)
 - [[The Compartmentalist] ORWO NP 20 SL (ref: b16c)](#the-compartmentalist-orwo-np-20-sl-ref-b16c)
 - [[The Compartmentalist] Sakura Sakuracolor II (ref: 4f7d)](#the-compartmentalist-sakura-sakuracolor-ii-ref-4f7d)
@@ -131,14 +131,14 @@ Last Updated: Aug 18 2025
 - [[TheSelousScout] Reto Amber D400 (ref: 08ad)](#theselousscout-reto-amber-d400-ref-08ad)
 - [[Yrikonchik] Fujifilm 200 (ref: 5b41)](#yrikonchik-fujifilm-200-ref-5b41)
 - [[b0baspace] Fujifilm Fujicolor 100 (ref: 013b)](#b0baspace-fujifilm-fujicolor-100-ref-013b)
-- [[b0baspace] Fujifilm NPS (ref: 5e85)](#b0baspace-fujifilm-nps-ref-5e85)
+- [[b0baspace] Fujifilm NPS 160 (ref: 5e85)](#b0baspace-fujifilm-nps-160-ref-5e85)
 - [[b0baspace] GAF Color Slide Film (ref: dea6)](#b0baspace-gaf-color-slide-film-ref-dea6)
-- [[b0baspace] Kodak Ektachrome (ref: b21e)](#b0baspace-kodak-ektachrome-ref-b21e)
+- [[b0baspace] Kodak Ektachrome 200 (ref: b21e)](#b0baspace-kodak-ektachrome-200-ref-b21e)
 - [[b0baspace] Kodak Verichrome Pan (ref: 0195)](#b0baspace-kodak-verichrome-pan-ref-0195)
 - [[b0baspace] York Photo Labs DXG 200 (ref: 4bf8)](#b0baspace-york-photo-labs-dxg-200-ref-4bf8)
 - [[benikum] Foma Fomapan (ref: 3e4f)](#benikum-foma-fomapan-ref-3e4f)
 - [[benikum] Foma Fomapan21 (ref: 75d9)](#benikum-foma-fomapan21-ref-75d9)
-- [[benikum] Rollei SUPERPAN (ref: ee8f)](#benikum-rollei-superpan-ref-ee8f)
+- [[benikum] Rollei SUPERPAN 200 (ref: ee8f)](#benikum-rollei-superpan-200-ref-ee8f)
 - [[benikum] Rossmann Jahreszeiten Pack (ref: 7670)](#benikum-rossmann-jahreszeiten-pack-ref-7670)
 - [[dekuNukem] ADOX KB17 (ref: 2c95)](#dekunukem-adox-kb17-ref-2c95)
 - [[dekuNukem] Agfa APX (ref: 12c7)](#dekunukem-agfa-apx-ref-12c7)
@@ -147,7 +147,7 @@ Last Updated: Aug 18 2025
 - [[dekuNukem] Alien Film 5207/250D (ref: 8820)](#dekunukem-alien-film-5207250d-ref-8820)
 - [[dekuNukem] Alien Film 5222/XX (ref: 3e49)](#dekunukem-alien-film-5222xx-ref-3e49)
 - [[dekuNukem] CineStill 800T (ref: c86a)](#dekunukem-cinestill-800t-ref-c86a)
-- [[dekuNukem] Efiniti UXi super 200 (ref: 471a)](#dekunukem-efiniti-uxi-super-200-ref-471a)
+- [[dekuNukem] Efiniti UXi Super 200 (ref: 471a)](#dekunukem-efiniti-uxi-super-200-ref-471a)
 - [[dekuNukem] Efke IR 820 (ref: 43c9)](#dekunukem-efke-ir-820-ref-43c9)
 - [[dekuNukem] Fujifilm Fujichrome Professional 100D (ref: 439d)](#dekunukem-fujifilm-fujichrome-professional-100d-ref-439d)
 - [[dekuNukem] Fujifilm Fujicolor NPL 160 (ref: d10b)](#dekunukem-fujifilm-fujicolor-npl-160-ref-d10b)
@@ -160,25 +160,25 @@ Last Updated: Aug 18 2025
 - [[dekuNukem] Ilford HP5 Plus (ref: 1a5d)](#dekunukem-ilford-hp5-plus-ref-1a5d)
 - [[dekuNukem] Ilford SFX 200 (ref: 6057)](#dekunukem-ilford-sfx-200-ref-6057)
 - [[dekuNukem] Jessops Diamond Everyday (ref: 67d3)](#dekunukem-jessops-diamond-everyday-ref-67d3)
-- [[dekuNukem] Kentmere PAN (ref: d223)](#dekunukem-kentmere-pan-ref-d223)
-- [[dekuNukem] Kentmere PAN (ref: 827e)](#dekunukem-kentmere-pan-ref-827e)
+- [[dekuNukem] Kentmere PAN 400 (ref: d223)](#dekunukem-kentmere-pan-400-ref-d223)
+- [[dekuNukem] Kentmere PAN 400 (ref: 827e)](#dekunukem-kentmere-pan-400-ref-827e)
 - [[dekuNukem] Klick APS Film (ref: 4b88)](#dekunukem-klick-aps-film-ref-4b88)
 - [[dekuNukem] Klick XD200 (ref: 44d7)](#dekunukem-klick-xd200-ref-44d7)
 - [[dekuNukem] Kodak Advantix Ultra (ref: 566b)](#dekunukem-kodak-advantix-ultra-ref-566b)
-- [[dekuNukem] Kodak Ektachrome (ref: 07c0)](#dekunukem-kodak-ektachrome-ref-07c0)
+- [[dekuNukem] Kodak Ektachrome 64 (ref: 07c0)](#dekunukem-kodak-ektachrome-64-ref-07c0)
 - [[dekuNukem] Kodak Ektachrome E100VS (ref: a8d3)](#dekunukem-kodak-ektachrome-e100vs-ref-a8d3)
 - [[dekuNukem] Kodak Ektacolor Pro Gold (ref: c3f8)](#dekunukem-kodak-ektacolor-pro-gold-ref-c3f8)
-- [[dekuNukem] Kodak Gold (ref: f368)](#dekunukem-kodak-gold-ref-f368)
-- [[dekuNukem] Kodak Gold (ref: 933f)](#dekunukem-kodak-gold-ref-933f)
+- [[dekuNukem] Kodak Gold 200 (ref: 933f)](#dekunukem-kodak-gold-200-ref-933f)
 - [[dekuNukem] Kodak High Speed Ektachrome (ref: ce7f)](#dekunukem-kodak-high-speed-ektachrome-ref-ce7f)
-- [[dekuNukem] Kodak Kodachrome (ref: 6477)](#dekunukem-kodak-kodachrome-ref-6477)
-- [[dekuNukem] Kodak Kodachrome (ref: 3145)](#dekunukem-kodak-kodachrome-ref-3145)
-- [[dekuNukem] Kodak Kodachrome (ref: 3206)](#dekunukem-kodak-kodachrome-ref-3206)
+- [[dekuNukem] Kodak Kodachrome 25 (ref: 6477)](#dekunukem-kodak-kodachrome-25-ref-6477)
+- [[dekuNukem] Kodak Kodachrome 64 (ref: 3145)](#dekunukem-kodak-kodachrome-64-ref-3145)
+- [[dekuNukem] Kodak Kodachrome 64 (ref: 3206)](#dekunukem-kodak-kodachrome-64-ref-3206)
+- [[dekuNukem] Kodak Kodacolor Gold 200 (ref: f368)](#dekunukem-kodak-kodacolor-gold-200-ref-f368)
 - [[dekuNukem] Kodak Kodacolor-X (ref: a4b1)](#dekunukem-kodak-kodacolor-x-ref-a4b1)
 - [[dekuNukem] Kodak Kodacolor-X (ref: 5302)](#dekunukem-kodak-kodacolor-x-ref-5302)
-- [[dekuNukem] Kodak TMAX (ref: b3b1)](#dekunukem-kodak-tmax-ref-b3b1)
+- [[dekuNukem] Kodak TMAX 100 (ref: b3b1)](#dekunukem-kodak-tmax-100-ref-b3b1)
 - [[dekuNukem] Kodak Technical Pan 6415 (ref: 03be)](#dekunukem-kodak-technical-pan-6415-ref-03be)
-- [[dekuNukem] Kodak Tri-X (ref: 88c5)](#dekunukem-kodak-tri-x-ref-88c5)
+- [[dekuNukem] Kodak Tri-X 400 (ref: 88c5)](#dekunukem-kodak-tri-x-400-ref-88c5)
 - [[dekuNukem] Konica Infrared 750nm (ref: e696)](#dekunukem-konica-infrared-750nm-ref-e696)
 - [[dekuNukem] Konica Infrared 750nm (ref: 2d93)](#dekunukem-konica-infrared-750nm-ref-2d93)
 - [[dekuNukem] Lloyds Pharmacy APS Film (ref: c7cf)](#dekunukem-lloyds-pharmacy-aps-film-ref-c7cf)
@@ -198,20 +198,20 @@ Last Updated: Aug 18 2025
 - [[lilyu.xyz] Agfa APX (ref: 5276)](#lilyuxyz-agfa-apx-ref-5276)
 - [[lilyu.xyz] Foma Fomapan (ref: 84a5)](#lilyuxyz-foma-fomapan-ref-84a5)
 - [[lilyu.xyz] Kodak Gold (ref: ea58)](#lilyuxyz-kodak-gold-ref-ea58)
-- [[lilyu.xyz] Kodak Gold Ultra (ref: 1358)](#lilyuxyz-kodak-gold-ultra-ref-1358)
+- [[lilyu.xyz] Kodak Gold Ultra 400 (ref: 1358)](#lilyuxyz-kodak-gold-ultra-400-ref-1358)
 - [[lilyu.xyz] Perutz Superomnia (ref: c90d)](#lilyuxyz-perutz-superomnia-ref-c90d)
 - [[lt_col_tall] CatLABS X Film 320 Pro (ref: 1c69)](#lt_col_tall-catlabs-x-film-320-pro-ref-1c69)
 - [[lt_col_tall] Reflx Lab 250D (ref: 1a3e)](#lt_col_tall-reflx-lab-250d-ref-1a3e)
 - [[lt_col_tall] Reflx Lab Pro 100 (ref: 1311)](#lt_col_tall-reflx-lab-pro-100-ref-1311)
 - [[stefanie] Agfa Agfacolor XRG (ref: 689e)](#stefanie-agfa-agfacolor-xrg-ref-689e)
 - [[stefanie] Alfo ALFOcolor PR-G (ref: 94b9)](#stefanie-alfo-alfocolor-pr-g-ref-94b9)
-- [[stefanie] Fujifilm Fujicolor SuperHG (ref: ee94)](#stefanie-fujifilm-fujicolor-superhg-ref-ee94)
+- [[stefanie] Fujifilm Fujicolor Super HG (ref: ee94)](#stefanie-fujifilm-fujicolor-super-hg-ref-ee94)
 - [[stefanie] Kodak Ektachrome (ref: 8f62)](#stefanie-kodak-ektachrome-ref-8f62)
 - [[stefanie] Kodak Gold (ref: 2f8d)](#stefanie-kodak-gold-ref-2f8d)
 - [[stefanie] Kodak Kodacolor VR Plus (ref: f8bf)](#stefanie-kodak-kodacolor-vr-plus-ref-f8bf)
 - [[toader] Kodak Ektachrome 100 Plus (ref: 5d9f)](#toader-kodak-ektachrome-100-plus-ref-5d9f)
 - [[toader] Kodak Ektachrome E100 (ref: ae10)](#toader-kodak-ektachrome-e100-ref-ae10)
-- [[toader] Kodak Ektachrome Elite (ref: 26ef)](#toader-kodak-ektachrome-elite-ref-26ef)
+- [[toader] Kodak Ektachrome Elite 100 (ref: 26ef)](#toader-kodak-ektachrome-elite-100-ref-26ef)
 - [[toader] Polaroid Color 600 Film Round Frame (ref: d985)](#toader-polaroid-color-600-film-round-frame-ref-d985)
 - [[toader] Polaroid Color SX-70 Film (ref: dc7f)](#toader-polaroid-color-sx-70-film-ref-dc7f)
 - [[u/ReeeSchmidtyWerber] Kodak Panatomic-X (ref: 8d69)](#ureeeschmidtywerber-kodak-panatomic-x-ref-8d69)
@@ -229,9 +229,10 @@ Last Updated: Aug 18 2025
 #### [@Hol.m35] Boots Colour Print Film (ref: a30f)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 200          |  Expiry : 2013-02  
-Added : 2025-08-07   |  Author : @Hol.m35 
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2013-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-07   |  Author  : @Hol.m35
 UUID  : bd601340027a4c9daa7e219b414fa30f
 ```
 
@@ -242,9 +243,10 @@ UUID  : bd601340027a4c9daa7e219b414fa30f
 #### [@Hol.m35] Fujifilm Superia X-Tra (ref: 6b8a)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 400          |  Expiry : 2026-01  
-Added : 2025-08-07   |  Author : @Hol.m35 
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2026-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-07   |  Author  : @Hol.m35
 UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
 ```
 
@@ -255,9 +257,10 @@ UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
 #### [@Hol.m35] Hope Film Bubble (ref: 41f4)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 200          |  Expiry : 2026-12  
-Added : 2025-08-06   |  Author : @Hol.m35 
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2026-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-08-06   |  Author  : @Hol.m35
 UUID  : b09848420a1a4d76b099d82d76bc41f4
 ```
 
@@ -268,9 +271,10 @@ UUID  : b09848420a1a4d76b099d82d76bc41f4
 #### [@SirBrentsworth] CineStill 800T (ref: b3ff)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 800          |  Expiry : 2026-09  
-Added : 2025-07-22   |  Author : @SirBrentsworth
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2026-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : 81978ca6f6d048b3a759dffdb80fb3ff
 ```
 
@@ -288,9 +292,10 @@ UUID  : 81978ca6f6d048b3a759dffdb80fb3ff
 #### [@SirBrentsworth] Ilford HP5 Plus (ref: df49)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 400          |  Expiry : 2028-06  
-Added : 2025-07-22   |  Author : @SirBrentsworth
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2028-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : 8db6d8343d544c21bfd539c32525df49
 ```
 
@@ -305,32 +310,34 @@ UUID  : 8db6d8343d544c21bfd539c32525df49
 	<img src="./lowres/00083_001.jpg" alt="Ilford HP5 Plus 35mm film box inside" loading="lazy" height="500" />
 </a>
 
-#### [@SirBrentsworth] Kentmere PAN (ref: c907)
+#### [@SirBrentsworth] Kentmere PAN 100 (ref: c907)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 100          |  Expiry : 2028-11  
-Added : 2025-07-22   |  Author : @SirBrentsworth
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2028-11 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : c4c934a23c59430f8b99c71a9322c907
 ```
 
 <a href="./archive/00082_000.jpg">
-	<img src="./lowres/00082_000.jpg" alt="Kentmere PAN 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00082_000.jpg" alt="Kentmere PAN 100 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: c91fc253637a47dc8507a7dab7d38475`↓
 
 <a href="./archive/00082_001.jpg">
-	<img src="./lowres/00082_001.jpg" alt="Kentmere PAN 35mm film box inside" loading="lazy" height="500" />
+	<img src="./lowres/00082_001.jpg" alt="Kentmere PAN 100 35mm film box inside" loading="lazy" height="500" />
 </a>
 
 #### [@SirBrentsworth] Kodak ColorPlus (ref: 79ca)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 200          |  Expiry : 2025-08  
-Added : 2025-07-22   |  Author : @SirBrentsworth
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2025-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : 087223fc24654e3882a4596e3cea79ca
 ```
 
@@ -338,25 +345,27 @@ UUID  : 087223fc24654e3882a4596e3cea79ca
 	<img src="./lowres/00084_000.jpg" alt="Kodak ColorPlus 35mm film box outside" loading="lazy" height="500" />
 </a>
 
-#### [@SirBrentsworth] Kodak Ektar (ref: 3498)
+#### [@SirBrentsworth] Kodak Ektar 100 (ref: 3498)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 100          |  Expiry : 2026-09  
-Added : 2025-07-22   |  Author : @SirBrentsworth
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2026-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : 8552091a80a844a5aec3e9b8185e3498
 ```
 
 <a href="./archive/00081_000.jpg">
-	<img src="./lowres/00081_000.jpg" alt="Kodak Ektar 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00081_000.jpg" alt="Kodak Ektar 100 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [@SirBrentsworth] Kodak Gold (ref: 3e7f)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 200          |  Expiry : 2026-06  
-Added : 2025-07-22   |  Author : @SirBrentsworth
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2026-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : d2e434e91001465dbea2d815d5e23e7f
 ```
 
@@ -367,9 +376,10 @@ UUID  : d2e434e91001465dbea2d815d5e23e7f
 #### [@SirBrentsworth] Kodak Gold (ref: 855e)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 200          |  Expiry : 2027-04  
-Added : 2025-07-22   |  Author : @SirBrentsworth
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2027-04 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : 856af2ca15fd4a0bad0df6eb29a2855e
 ```
 
@@ -380,9 +390,10 @@ UUID  : 856af2ca15fd4a0bad0df6eb29a2855e
 #### [@SirBrentsworth] Kodak UltraMax (ref: aaa6)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 400          |  Expiry : 2027-03  
-Added : 2025-07-22   |  Author : @SirBrentsworth
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : 8b0e255948ad4bbc8689d371569caaa6
 ```
 
@@ -393,9 +404,10 @@ UUID  : 8b0e255948ad4bbc8689d371569caaa6
 #### [@SirBrentsworth] Lomography Lomochrome Purple (ref: 068f)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 100-400      |  Expiry : 2027-05  
-Added : 2025-07-22   |  Author : @SirBrentsworth
+Format: 35mm         |  Process : C-41    
+ISO   : 100-400      |  Expiry  : 2027-05 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : b02540ba4b454a639f8096f9474d068f
 ```
 
@@ -413,9 +425,10 @@ UUID  : b02540ba4b454a639f8096f9474d068f
 #### [@ad.astra.per.aspera.1894] Kirkland Signature Color Print Film (ref: 0441)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 200          |  Expiry : 2002-12  
-Added : 2025-08-15   |  Author : @ad.astra.per.aspera.1894
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2002-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-08-15   |  Author  : @ad.astra.per.aspera.1894
 UUID  : 7f4a0fbd6be7494ab097f7f816700441
 ```
 
@@ -426,9 +439,10 @@ UUID  : 7f4a0fbd6be7494ab097f7f816700441
 #### [@ftfilmphotos] Kodak Kodacolor VR (ref: 035f)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 200          |  Expiry : 1987-06  
-Added : 2025-07-28   |  Author : @ftfilmphotos
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 1987-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-28   |  Author  : @ftfilmphotos
 UUID  : a26daa2cb6e44957af3d978bc67e035f
 ```
 
@@ -443,59 +457,62 @@ UUID  : a26daa2cb6e44957af3d978bc67e035f
 	<img src="./lowres/00097_001.jpg" alt="Kodak Kodacolor VR 35mm film box inside" loading="lazy" height="500" />
 </a>
 
-#### [@ob.skura] Fujifilm Velvia (ref: 3182)
+#### [@ob.skura] Fujifilm Fujichrome Velvia (ref: 3182)
 
 ```
-Format: 35mm         |  Process: E-6      
-ISO   : 50           |  Expiry : 2001-01  
-Added : 2025-01-14   |  Author : @ob.skura
+Format: 35mm         |  Process : E-6     
+ISO   : 50           |  Expiry  : 2001-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-01-14   |  Author  : @ob.skura
 UUID  : 9b9ee1c1c0e94d968674987799d33182
 ```
 
 <a href="./archive/00044_000.jpg">
-	<img src="./lowres/00044_000.jpg" alt="Fujifilm Velvia 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00044_000.jpg" alt="Fujifilm Fujichrome Velvia 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: 2e2e20a0b57542e4908ad9fc825e7e76`↓
 
 <a href="./archive/00044_001.jpg">
-	<img src="./lowres/00044_001.jpg" alt="Fujifilm Velvia 35mm film box leaflet" loading="lazy" height="500" />
+	<img src="./lowres/00044_001.jpg" alt="Fujifilm Fujichrome Velvia 35mm film box leaflet" loading="lazy" height="500" />
 </a>
 
 
 `UUID: 03951cb49c8a44229aa4b5760744fc6f`↓
 
 <a href="./archive/00044_002.jpg">
-	<img src="./lowres/00044_002.jpg" alt="Fujifilm Velvia 35mm film box leaflet" loading="lazy" height="500" />
+	<img src="./lowres/00044_002.jpg" alt="Fujifilm Fujichrome Velvia 35mm film box leaflet" loading="lazy" height="500" />
 </a>
 
-#### [@ob.skura] Ilford Delta (ref: eb8d)
+#### [@ob.skura] Ilford Delta 100 (ref: eb8d)
 
 ```
-Format: 120          |  Process: BW       
-ISO   : 100          |  Expiry : 2024-08  
-Added : 2025-01-21   |  Author : @ob.skura
+Format: 120          |  Process : BW      
+ISO   : 100          |  Expiry  : 2024-08 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-01-21   |  Author  : @ob.skura
 UUID  : e39c5eca4e3e4e5badfa00ee512deb8d
 ```
 
 <a href="./archive/00048_000.jpg">
-	<img src="./lowres/00048_000.jpg" alt="Ilford Delta 120 film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00048_000.jpg" alt="Ilford Delta 100 120 film box outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: e4c76c5b957347178af448f4aa6001d0`↓
 
 <a href="./archive/00048_001.jpg">
-	<img src="./lowres/00048_001.jpg" alt="Ilford Delta 120 film box inside" loading="lazy" width="500" />
+	<img src="./lowres/00048_001.jpg" alt="Ilford Delta 100 120 film box inside" loading="lazy" width="500" />
 </a>
 
 #### [@ob.skura] Kodak Elite Chrome (ref: 523c)
 
 ```
-Format: 35mm         |  Process: E-6      
-ISO   : 100          |  Expiry : 2001-08  
-Added : 2025-01-14   |  Author : @ob.skura
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2001-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-01-14   |  Author  : @ob.skura
 UUID  : e0b3ec957ade47a99d5cd5abe2a4523c
 ```
 
@@ -506,9 +523,10 @@ UUID  : e0b3ec957ade47a99d5cd5abe2a4523c
 #### [@ob.skura] Kodak High Speed Ektachrome (ref: ec3d)
 
 ```
-Format: 35mm         |  Process: E-4      
-ISO   : 160          |  Expiry : 1970-06  
-Added : 2025-01-14   |  Author : @ob.skura
+Format: 35mm         |  Process : E-4     
+ISO   : 160          |  Expiry  : 1970-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-01-14   |  Author  : @ob.skura
 UUID  : 9702189f65de43c59fce151094a7ec3d
 ```
 
@@ -533,9 +551,10 @@ UUID  : 9702189f65de43c59fce151094a7ec3d
 #### [@ob.skura] Kodak Ultra (ref: 69a1)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 400          |  Expiry : 2005-12  
-Added : 2025-01-14   |  Author : @ob.skura
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2005-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-01-14   |  Author  : @ob.skura
 UUID  : 77dfbdf80e3a4950b40c7ea8c1e369a1
 ```
 
@@ -546,9 +565,10 @@ UUID  : 77dfbdf80e3a4950b40c7ea8c1e369a1
 #### [@ob.skura] Porst Color N21 (ref: 494a)
 
 ```
-Format: 35mm         |  Process: C-22     
-ISO   : 100          |  Expiry : 1974-01  
-Added : 2025-01-14   |  Author : @ob.skura
+Format: 35mm         |  Process : C-22    
+ISO   : 100          |  Expiry  : 1974-01 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-01-14   |  Author  : @ob.skura
 UUID  : e08418889f714c9dbda0858718e0494a
 ```
 
@@ -566,9 +586,10 @@ UUID  : e08418889f714c9dbda0858718e0494a
 #### [@ob.skura] Rollei Infrared (ref: eae2)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 200          |  Expiry : 2027-04  
-Added : 2025-01-21   |  Author : @ob.skura
+Format: 35mm         |  Process : BW      
+ISO   : 200          |  Expiry  : 2027-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-01-21   |  Author  : @ob.skura
 UUID  : 9ef642a09d294cbfad7e040a701deae2
 ```
 
@@ -586,9 +607,10 @@ UUID  : 9ef642a09d294cbfad7e040a701deae2
 #### [@ob.skura] Shanghai GP3 (ref: 52aa)
 
 ```
-Format: 127          |  Process: BW       
-ISO   : 100          |  Expiry : 2024-07  
-Added : 2025-01-21   |  Author : @ob.skura
+Format: 127          |  Process : BW      
+ISO   : 100          |  Expiry  : 2024-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-01-21   |  Author  : @ob.skura
 UUID  : 0e16f7ae50164c658acd22b8d62e52aa
 ```
 
@@ -599,9 +621,10 @@ UUID  : 0e16f7ae50164c658acd22b8d62e52aa
 #### [@ob.skura] Wolfen NC500 (ref: 91c1)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 400          |  Expiry : 2026-12  
-Added : 2025-01-21   |  Author : @ob.skura
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2026-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-01-21   |  Author  : @ob.skura
 UUID  : 6e3408d7e97247e380ea52077a7491c1
 ```
 
@@ -612,9 +635,10 @@ UUID  : 6e3408d7e97247e380ea52077a7491c1
 #### [@recycling.film] Agfa APX 25 (ref: 805f)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 25           |  Expiry : Unknown  
-Added : 2025-08-18   |  Author : @recycling.film
+Format: 35mm         |  Process : BW      
+ISO   : 25           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-18   |  Author  : @recycling.film
 UUID  : 4ef7e8e28d2c4c589d24d9e12135805f
 ```
 
@@ -632,9 +656,10 @@ UUID  : 4ef7e8e28d2c4c589d24d9e12135805f
 #### [@recycling.film] Fujifilm Fujicolor C200 (ref: 2ff8)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 200          |  Expiry : 2020-03  
-Added : 2025-08-18   |  Author : @recycling.film
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2020-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-18   |  Author  : @recycling.film
 UUID  : 271054727291471392db72d5556f2ff8
 ```
 
@@ -645,9 +670,10 @@ UUID  : 271054727291471392db72d5556f2ff8
 #### [@recycling.film] Fujifilm Superia (ref: 0d8e)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 200          |  Expiry : 2009-06  
-Added : 2025-08-18   |  Author : @recycling.film
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2009-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-18   |  Author  : @recycling.film
 UUID  : a57061210f17463fae293851f2130d8e
 ```
 
@@ -658,9 +684,10 @@ UUID  : a57061210f17463fae293851f2130d8e
 #### [@recycling.film] Fujifilm Superia Reala (ref: a7de)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 100          |  Expiry : 2007-04  
-Added : 2025-07-28   |  Author : @recycling.film
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2007-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-28   |  Author  : @recycling.film
 UUID  : bab5fa204b25431a9872c4ce8e9aa7de
 ```
 
@@ -671,9 +698,10 @@ UUID  : bab5fa204b25431a9872c4ce8e9aa7de
 #### [@recycling.film] Fujifilm Superia X-TRA (ref: 713b)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 400          |  Expiry : 2003-04  
-Added : 2025-08-18   |  Author : @recycling.film
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2003-04 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-08-18   |  Author  : @recycling.film
 UUID  : 89750d8a18fe4e238c76b97b4578713b
 ```
 
@@ -691,9 +719,10 @@ UUID  : 89750d8a18fe4e238c76b97b4578713b
 #### [@recycling.film] Ilford HP5 Plus (ref: c725)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 400          |  Expiry : 2022-08  
-Added : 2025-07-28   |  Author : @recycling.film
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2022-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-28   |  Author  : @recycling.film
 UUID  : fcbc3377fa3d4ca9b58779f86ed7c725
 ```
 
@@ -704,9 +733,10 @@ UUID  : fcbc3377fa3d4ca9b58779f86ed7c725
 #### [@recycling.film] Kodak ColorPlus (ref: 6637)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 200          |  Expiry : 2026-08  
-Added : 2025-07-28   |  Author : @recycling.film
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2026-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-28   |  Author  : @recycling.film
 UUID  : bd00cd25958d4108a7501bf4be9d6637
 ```
 
@@ -717,9 +747,10 @@ UUID  : bd00cd25958d4108a7501bf4be9d6637
 #### [@recycling.film] Kodak Portra 160 (ref: ce56)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 160          |  Expiry : 2013-08  
-Added : 2025-07-28   |  Author : @recycling.film
+Format: 35mm         |  Process : C-41    
+ISO   : 160          |  Expiry  : 2013-08 
+Type  : Multi-Pack-5 |  Quantity: 36exp   
+Added : 2025-07-28   |  Author  : @recycling.film
 UUID  : 9131fb90db70475dbad5f63f1448ce56
 ```
 
@@ -730,9 +761,10 @@ UUID  : 9131fb90db70475dbad5f63f1448ce56
 #### [@recycling.film] Kodak Portra 400 (ref: cf9c)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 400          |  Expiry : 2014-06  
-Added : 2025-08-18   |  Author : @recycling.film
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2014-06 
+Type  : Multi-Pack-5 |  Quantity: 36exp   
+Added : 2025-08-18   |  Author  : @recycling.film
 UUID  : 5bdddffe29bd464cab4630d85485cf9c
 ```
 
@@ -743,9 +775,10 @@ UUID  : 5bdddffe29bd464cab4630d85485cf9c
 #### [@recycling.film] Kodak Portra 800 (ref: 7d65)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 800          |  Expiry : 2025-06  
-Added : 2025-07-28   |  Author : @recycling.film
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2025-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-28   |  Author  : @recycling.film
 UUID  : 7ebac9d7fb8c4ff9b7fbabcaec1d7d65
 ```
 
@@ -756,9 +789,10 @@ UUID  : 7ebac9d7fb8c4ff9b7fbabcaec1d7d65
 #### [@recycling.film] Kodak UltraMax (ref: e4ad)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 400          |  Expiry : 2026-07  
-Added : 2025-08-18   |  Author : @recycling.film
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2026-07 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-08-18   |  Author  : @recycling.film
 UUID  : d14bbf440f3a4ac9aa4169c8bba7e4ad
 ```
 
@@ -769,9 +803,10 @@ UUID  : d14bbf440f3a4ac9aa4169c8bba7e4ad
 #### [@seklerek] Fujifilm Provia 100F (ref: 356d)
 
 ```
-Format: 35mm         |  Process: E-6      
-ISO   : 100          |  Expiry : 2020-09  
-Added : 2025-02-21   |  Author : @seklerek
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2020-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-02-21   |  Author  : @seklerek
 UUID  : a3603dbdd8ca49b893c8ce2bc76f356d
 ```
 
@@ -782,9 +817,10 @@ UUID  : a3603dbdd8ca49b893c8ce2bc76f356d
 #### [@seklerek] Fujifilm Velvia 100F (ref: 32d4)
 
 ```
-Format: 35mm         |  Process: E-6      
-ISO   : 100          |  Expiry : 2007-03  
-Added : 2025-02-21   |  Author : @seklerek
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2007-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-02-21   |  Author  : @seklerek
 UUID  : ce5c1d786286427ba5633091b06432d4
 ```
 
@@ -795,9 +831,10 @@ UUID  : ce5c1d786286427ba5633091b06432d4
 #### [Camera.Riley] Agfa Fine-Grain Plenachrome (ref: e5d4)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : Unknown      |  Expiry : 1941-01  
-Added : 2025-08-14   |  Author : Camera.Riley
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1941-01 
+Type  : Bulk Roll    |  Quantity: 27.5ft  
+Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : 66a105cd605748d78884e5c305a4e5d4
 ```
 
@@ -815,9 +852,10 @@ UUID  : 66a105cd605748d78884e5c305a4e5d4
 #### [Camera.Riley] Fujifilm Fujichrome 64T Type II Professional (ref: 74a1)
 
 ```
-Format: 35mm         |  Process: E-6      
-ISO   : 64           |  Expiry : 2001-10  
-Added : 2025-08-14   |  Author : Camera.Riley
+Format: 35mm         |  Process : E-6     
+ISO   : 64           |  Expiry  : 2001-10 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : f3d8be37c34a4055823836987a0a74a1
 ```
 
@@ -828,9 +866,10 @@ UUID  : f3d8be37c34a4055823836987a0a74a1
 #### [Camera.Riley] Fujifilm Fujicolor Natura 1600 (ref: 2e06)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 1600         |  Expiry : 2014-11  
-Added : 2025-08-14   |  Author : Camera.Riley
+Format: 35mm         |  Process : C-41    
+ISO   : 1600         |  Expiry  : 2014-11 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : 8abda51b18d84ec4939df489457d2e06
 ```
 
@@ -855,9 +894,10 @@ UUID  : 8abda51b18d84ec4939df489457d2e06
 #### [Camera.Riley] Kodak Eastman Tri-X Reversal Film 7278 (ref: 8468)
 
 ```
-Format: 16mm         |  Process: BW       
-ISO   : 200          |  Expiry : Unknown  
-Added : 2025-08-14   |  Author : Camera.Riley
+Format: 16mm         |  Process : BW      
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : e214a4d756ac48c4ac6dbe515fd38468
 ```
 
@@ -868,9 +908,10 @@ UUID  : e214a4d756ac48c4ac6dbe515fd38468
 #### [Camera.Riley] Kodak Ektachrome 64T (ref: 8f4f)
 
 ```
-Format: 35mm         |  Process: E-6      
-ISO   : 64           |  Expiry : 1998-10  
-Added : 2025-08-14   |  Author : Camera.Riley
+Format: 35mm         |  Process : E-6     
+ISO   : 64           |  Expiry  : 1998-10 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : 25961b13fd6943a9b7dd77b2eba18f4f
 ```
 
@@ -888,9 +929,10 @@ UUID  : 25961b13fd6943a9b7dd77b2eba18f4f
 #### [Camera.Riley] Kodak Elite Chrome (ref: 3943)
 
 ```
-Format: 35mm         |  Process: E-6      
-ISO   : 400          |  Expiry : 2007-10  
-Added : 2025-08-14   |  Author : Camera.Riley
+Format: 35mm         |  Process : E-6     
+ISO   : 400          |  Expiry  : 2007-10 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : c9ba81252c5f438ca70922a2b5703943
 ```
 
@@ -908,9 +950,10 @@ UUID  : c9ba81252c5f438ca70922a2b5703943
 #### [Camera.Riley] Kodak High Contrast Copy Film (ref: db52)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : Unknown      |  Expiry : 1970-09  
-Added : 2025-08-14   |  Author : Camera.Riley
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1970-09 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : 7a518ce06cc242f9a5af067c1ffedb52
 ```
 
@@ -942,9 +985,10 @@ UUID  : 7a518ce06cc242f9a5af067c1ffedb52
 #### [Camera.Riley] Kodak Portra 400NC (ref: b8de)
 
 ```
-Format: 70mm         |  Process: C-41     
-ISO   : 400          |  Expiry : 2006-08  
-Added : 2025-08-14   |  Author : Camera.Riley
+Format: 70mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2006-08 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : 88ebc10c01ea46238c48e65157ddb8de
 ```
 
@@ -955,9 +999,10 @@ UUID  : 88ebc10c01ea46238c48e65157ddb8de
 #### [Camera.Riley] Kodak Professional Microfilm Type I (ref: a444)
 
 ```
-Format: 35mm         |  Process: Unknown  
-ISO   : Unknown      |  Expiry : 2013-12  
-Added : 2025-08-14   |  Author : Camera.Riley
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 2013-12 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : 90304019395a4c62bb9c6fe1cb2ba444
 ```
 
@@ -968,9 +1013,10 @@ UUID  : 90304019395a4c62bb9c6fe1cb2ba444
 #### [Camera.Riley] Konica Konica Color II (ref: fb5b)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 100          |  Expiry : 1985-01  
-Added : 2025-08-14   |  Author : Camera.Riley
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1985-01 
+Type  : Bulk Roll    |  Quantity: 110ft   
+Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : 34d91c79c1704ac49f5376ca6424fb5b
 ```
 
@@ -981,9 +1027,10 @@ UUID  : 34d91c79c1704ac49f5376ca6424fb5b
 #### [Camera.Riley] Polaroid PolaChrome 35mm (ref: b202)
 
 ```
-Format: 35mm         |  Process: Instant  
-ISO   : 40           |  Expiry : 1993-08  
-Added : 2025-08-14   |  Author : Camera.Riley
+Format: 35mm         |  Process : Instant 
+ISO   : 40           |  Expiry  : 1993-08 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : 30947745f405445e88808deab9a4b202
 ```
 
@@ -994,9 +1041,10 @@ UUID  : 30947745f405445e88808deab9a4b202
 #### [Henry Gunn] Kodak High Speed Ektachrome (ref: b8f8)
 
 ```
-Format: 35mm         |  Process: E-4      
-ISO   : 125          |  Expiry : 1977-01  
-Added : 2025-07-29   |  Author : Henry Gunn
+Format: 35mm         |  Process : E-4     
+ISO   : 125          |  Expiry  : 1977-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-29   |  Author  : Henry Gunn
 UUID  : 86470a73e4b5436b97ffb272be6bb8f8
 ```
 
@@ -1021,9 +1069,10 @@ UUID  : 86470a73e4b5436b97ffb272be6bb8f8
 #### [Henry Gunn] Tasma OCh 50 (ref: 5c43)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 50           |  Expiry : 1991-05  
-Added : 2025-07-29   |  Author : Henry Gunn
+Format: 35mm         |  Process : BW      
+ISO   : 50           |  Expiry  : 1991-05 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-29   |  Author  : Henry Gunn
 UUID  : 58211887217046be9d2dfcce8d0c5c43
 ```
 
@@ -1034,9 +1083,10 @@ UUID  : 58211887217046be9d2dfcce8d0c5c43
 #### [Kraksen] Agfa Agfapan APX 100 (ref: e271)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 100          |  Expiry : 2005-07  
-Added : 2025-08-16   |  Author : Kraksen  
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2005-07 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-08-16   |  Author  : Kraksen 
 UUID  : e00a9a59b3d74a1d85ff4331bc73e271
 ```
 
@@ -1047,9 +1097,10 @@ UUID  : e00a9a59b3d74a1d85ff4331bc73e271
 #### [Kraksen] Agfa Agfapan APX 400 (ref: 19bc)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 400          |  Expiry : 2006-01  
-Added : 2025-08-16   |  Author : Kraksen  
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2006-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-16   |  Author  : Kraksen 
 UUID  : 7dd80a6f50584141ba1752071b9419bc
 ```
 
@@ -1067,9 +1118,10 @@ UUID  : 7dd80a6f50584141ba1752071b9419bc
 #### [Kraksen] Kodak Black & White + (ref: 2ff3)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 400          |  Expiry : 2004-07  
-Added : 2025-08-16   |  Author : Kraksen  
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2004-07 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-08-16   |  Author  : Kraksen 
 UUID  : 8ae6d75c042c48318fa711a412b72ff3
 ```
 
@@ -1080,9 +1132,10 @@ UUID  : 8ae6d75c042c48318fa711a412b72ff3
 #### [Kraksen] Marix Professional Negative Movie Color Film (ref: c457)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 320          |  Expiry : 2026-12  
-Added : 2025-08-16   |  Author : Kraksen  
+Format: 35mm         |  Process : C-41    
+ISO   : 320          |  Expiry  : 2026-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-16   |  Author  : Kraksen 
 UUID  : 715e5119d4b941d98ce52bcd8596c457
 ```
 
@@ -1093,9 +1146,10 @@ UUID  : 715e5119d4b941d98ce52bcd8596c457
 #### [Nano_Burger] Agfa Autolith Repo (ref: 8e68)
 
 ```
-Format: 9x12         |  Process: BW       
-ISO   : Unknown      |  Expiry : Unknown  
-Added : 2025-07-29   |  Author : Nano_Burger
+Format: 9x12         |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : 952823ad9ef14c75a83ac8e230b38e68
 ```
 
@@ -1106,9 +1160,10 @@ UUID  : 952823ad9ef14c75a83ac8e230b38e68
 #### [Nano_Burger] Agfa Isopan FF (ref: 3700)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 8            |  Expiry : 1946-10  
-Added : 2025-07-29   |  Author : Nano_Burger
+Format: 35mm         |  Process : BW      
+ISO   : 8            |  Expiry  : 1946-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : 9ea6437ea85442048ffe63b8b64c3700
 ```
 
@@ -1119,9 +1174,10 @@ UUID  : 9ea6437ea85442048ffe63b8b64c3700
 #### [Nano_Burger] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)
 
 ```
-Format: 16mm         |  Process: D-97     
-ISO   : Unknown      |  Expiry : Unknown  
-Added : 2025-07-29   |  Author : Nano_Burger
+Format: 16mm         |  Process : D-97    
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 100ft   
+Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : 46cc0a179fc34cb4832e1d3336bafaec
 ```
 
@@ -1129,32 +1185,34 @@ UUID  : 46cc0a179fc34cb4832e1d3336bafaec
 	<img src="./lowres/00099_000.jpg" alt="Kodak Eastman High Contrast Panchromatic 7369 16mm film box outside" loading="lazy" width="500" />
 </a>
 
-#### [Nano_Burger] Kodak Ektachrome (ref: 3c96)
+#### [Nano_Burger] Kodak Ektachrome 400 (ref: 3c96)
 
 ```
-Format: 35mm         |  Process: E-6      
-ISO   : 400          |  Expiry : 1990-11  
-Added : 2025-07-29   |  Author : Nano_Burger
+Format: 35mm         |  Process : E-6     
+ISO   : 400          |  Expiry  : 1990-11 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : 2330da9237ad4dbaac0028199f363c96
 ```
 
 <a href="./archive/00100_000.jpg">
-	<img src="./lowres/00100_000.jpg" alt="Kodak Ektachrome 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00100_000.jpg" alt="Kodak Ektachrome 400 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: c8ecef6f805d4a7eab60f82855687e17`↓
 
 <a href="./archive/00100_001.jpg">
-	<img src="./lowres/00100_001.jpg" alt="Kodak Ektachrome 35mm film box inside" loading="lazy" height="500" />
+	<img src="./lowres/00100_001.jpg" alt="Kodak Ektachrome 400 35mm film box inside" loading="lazy" height="500" />
 </a>
 
 #### [Nano_Burger] Kodak High Speed Infrared (ref: 4294)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 80           |  Expiry : 1990-03  
-Added : 2025-07-29   |  Author : Nano_Burger
+Format: 35mm         |  Process : BW      
+ISO   : 80           |  Expiry  : 1990-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : 7b611fc399af469a80ac1a0124c84294
 ```
 
@@ -1179,9 +1237,10 @@ UUID  : 7b611fc399af469a80ac1a0124c84294
 #### [Nano_Burger] Kodak High Speed Infrared (ref: 883e)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 80           |  Expiry : 2008-10  
-Added : 2025-07-29   |  Author : Nano_Burger
+Format: 35mm         |  Process : BW      
+ISO   : 80           |  Expiry  : 2008-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : 77352e93d73748eca98cff7b30d7883e
 ```
 
@@ -1199,9 +1258,10 @@ UUID  : 77352e93d73748eca98cff7b30d7883e
 #### [Nano_Burger] Kodak Rapid Process Copy Film (ref: e66e)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 0.06         |  Expiry : 2000-06  
-Added : 2025-07-29   |  Author : Nano_Burger
+Format: 35mm         |  Process : BW      
+ISO   : 0.06         |  Expiry  : 2000-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : 396a3645cb9a40a4b0a6dd2fd854e66e
 ```
 
@@ -1223,39 +1283,41 @@ UUID  : 396a3645cb9a40a4b0a6dd2fd854e66e
 	<img src="./lowres/00105_002.jpg" alt="Kodak Rapid Process Copy Film 35mm film box inside" loading="lazy" height="500" />
 </a>
 
-#### [Nano_Burger] Kodak TMAX (ref: 1dff)
+#### [Nano_Burger] Kodak TMAX P3200 (ref: 1dff)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 3200         |  Expiry : 1991-07  
-Added : 2025-07-29   |  Author : Nano_Burger
+Format: 35mm         |  Process : BW      
+ISO   : 3200         |  Expiry  : 1991-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : 9e4ea1efa5a54938985fdf8901951dff
 ```
 
 <a href="./archive/00104_000.jpg">
-	<img src="./lowres/00104_000.jpg" alt="Kodak TMAX 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00104_000.jpg" alt="Kodak TMAX P3200 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: b9d1b08379d9482bbc799101f6881f12`↓
 
 <a href="./archive/00104_001.jpg">
-	<img src="./lowres/00104_001.jpg" alt="Kodak TMAX 35mm film box leaflet" loading="lazy" height="500" />
+	<img src="./lowres/00104_001.jpg" alt="Kodak TMAX P3200 35mm film box leaflet" loading="lazy" height="500" />
 </a>
 
 
 `UUID: a6740f1fc4df4b80a8a4dee83a26c04b`↓
 
 <a href="./archive/00104_002.jpg">
-	<img src="./lowres/00104_002.jpg" alt="Kodak TMAX 35mm film box leaflet" loading="lazy" height="500" />
+	<img src="./lowres/00104_002.jpg" alt="Kodak TMAX P3200 35mm film box leaflet" loading="lazy" height="500" />
 </a>
 
 #### [Nano_Burger] Kodak Technical Pan (ref: f4cf)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 25           |  Expiry : 1995-04  
-Added : 2025-07-29   |  Author : Nano_Burger
+Format: 35mm         |  Process : BW      
+ISO   : 25           |  Expiry  : 1995-04 
+Type  : Bulk Roll    |  Quantity: 150ft   
+Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : e65b4252384141028ee037892c6bf4cf
 ```
 
@@ -1273,9 +1335,10 @@ UUID  : e65b4252384141028ee037892c6bf4cf
 #### [Pelicram] Adox HR 50 (ref: 4da7)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 50           |  Expiry : 2027-07  
-Added : 2025-08-13   |  Author : Pelicram 
+Format: 35mm         |  Process : BW      
+ISO   : 50           |  Expiry  : 2027-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-13   |  Author  : Pelicram
 UUID  : a504b8da97b642908de921d1053d4da7
 ```
 
@@ -1293,9 +1356,10 @@ UUID  : a504b8da97b642908de921d1053d4da7
 #### [Pelicram] Agfa Isopan ISS (ref: 75fa)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 100          |  Expiry : 1963-11  
-Added : 2025-07-31   |  Author : Pelicram 
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 1963-11 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-07-31   |  Author  : Pelicram
 UUID  : cdcaa912ee0142c3b76eb1500e2375fa
 ```
 
@@ -1306,9 +1370,10 @@ UUID  : cdcaa912ee0142c3b76eb1500e2375fa
 #### [Pelicram] Bergger Pancro400 (ref: ad7b)
 
 ```
-Format: 120          |  Process: BW       
-ISO   : 400          |  Expiry : 2026-03  
-Added : 2025-07-31   |  Author : Pelicram 
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2026-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 73396128854a4c6ab3723a549225ad7b
 ```
 
@@ -1326,9 +1391,10 @@ UUID  : 73396128854a4c6ab3723a549225ad7b
 #### [Pelicram] Bergger Pancro400 (ref: f619)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 400          |  Expiry : 2026-12  
-Added : 2025-07-31   |  Author : Pelicram 
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2026-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 0d9fee6b29f445f089acde3247d1f619
 ```
 
@@ -1346,9 +1412,10 @@ UUID  : 0d9fee6b29f445f089acde3247d1f619
 #### [Pelicram] Foma Fomapan (ref: 65ad)
 
 ```
-Format: 120          |  Process: BW       
-ISO   : 100          |  Expiry : 2027-04  
-Added : 2025-07-31   |  Author : Pelicram 
+Format: 120          |  Process : BW      
+ISO   : 100          |  Expiry  : 2027-04 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-07-31   |  Author  : Pelicram
 UUID  : a0786cc1bc884f66bbb84118d55665ad
 ```
 
@@ -1366,9 +1433,10 @@ UUID  : a0786cc1bc884f66bbb84118d55665ad
 #### [Pelicram] Foma Fomapan (ref: 0030)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 100          |  Expiry : 2027-07  
-Added : 2025-07-31   |  Author : Pelicram 
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2027-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : Pelicram
 UUID  : bf1734a1ea48495d92afb7d03bdf0030
 ```
 
@@ -1386,9 +1454,10 @@ UUID  : bf1734a1ea48495d92afb7d03bdf0030
 #### [Pelicram] Foma Fomapan (ref: 60ee)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 200          |  Expiry : 2028-05  
-Added : 2025-08-13   |  Author : Pelicram 
+Format: 35mm         |  Process : BW      
+ISO   : 200          |  Expiry  : 2028-05 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2025-08-13   |  Author  : Pelicram
 UUID  : 840026a068594c3389b34374204f60ee
 ```
 
@@ -1399,9 +1468,10 @@ UUID  : 840026a068594c3389b34374204f60ee
 #### [Pelicram] Foma Ortho (ref: 89e7)
 
 ```
-Format: 120          |  Process: BW       
-ISO   : 400          |  Expiry : 2026-04  
-Added : 2025-07-31   |  Author : Pelicram 
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2026-04 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 4c97e2b7413b42278b0fd129c1c589e7
 ```
 
@@ -1419,9 +1489,10 @@ UUID  : 4c97e2b7413b42278b0fd129c1c589e7
 #### [Pelicram] Foma Ortho 400 (ref: c559)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 400          |  Expiry : 2027-05  
-Added : 2025-08-15   |  Author : Pelicram 
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2027-05 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-15   |  Author  : Pelicram
 UUID  : 676655ff95914769b0869d71d824c559
 ```
 
@@ -1439,9 +1510,10 @@ UUID  : 676655ff95914769b0869d71d824c559
 #### [Pelicram] Fujifilm Fujicolor Superia (ref: d1b7)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 200          |  Expiry : 2000-07  
-Added : 2025-07-31   |  Author : Pelicram 
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2000-07 
+Type  : Multi-Pack-3 |  Quantity: 24exp   
+Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 2b50b3d82a7340ffbe9bff871793d1b7
 ```
 
@@ -1459,9 +1531,10 @@ UUID  : 2b50b3d82a7340ffbe9bff871793d1b7
 #### [Pelicram] Hazenfilm Sorolla Chrome (ref: 889f)
 
 ```
-Format: 35mm         |  Process: E-6      
-ISO   : 100          |  Expiry : 2026-08  
-Added : 2025-07-31   |  Author : Pelicram 
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2026-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 462e32d45cd740cf866732a73a00889f
 ```
 
@@ -1469,52 +1542,55 @@ UUID  : 462e32d45cd740cf866732a73a00889f
 	<img src="./lowres/00137_000.jpg" alt="Hazenfilm Sorolla Chrome 35mm film box outside" loading="lazy" height="500" />
 </a>
 
-#### [Pelicram] Ilford Delta (ref: 920f)
+#### [Pelicram] Ilford Delta 3200 (ref: 920f)
 
 ```
-Format: 120          |  Process: BW       
-ISO   : 3200         |  Expiry : 2025-05  
-Added : 2025-07-31   |  Author : Pelicram 
+Format: 120          |  Process : BW      
+ISO   : 3200         |  Expiry  : 2025-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 78d1111d1b234dcfb272c00d7935920f
 ```
 
 <a href="./archive/00125_000.jpg">
-	<img src="./lowres/00125_000.jpg" alt="Ilford Delta 120 film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00125_000.jpg" alt="Ilford Delta 3200 120 film box outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 06dcb1f1f350482ba935ad30bd5a42b6`↓
 
 <a href="./archive/00125_001.jpg">
-	<img src="./lowres/00125_001.jpg" alt="Ilford Delta 120 film box inside" loading="lazy" width="500" />
+	<img src="./lowres/00125_001.jpg" alt="Ilford Delta 3200 120 film box inside" loading="lazy" width="500" />
 </a>
 
-#### [Pelicram] Ilford Delta (ref: 9b54)
+#### [Pelicram] Ilford Delta 3200 (ref: 9b54)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 3200         |  Expiry : 2027-06  
-Added : 2025-07-31   |  Author : Pelicram 
+Format: 35mm         |  Process : BW      
+ISO   : 3200         |  Expiry  : 2027-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : Pelicram
 UUID  : d6f377dbe74745a0aacdf51ce7669b54
 ```
 
 <a href="./archive/00126_000.jpg">
-	<img src="./lowres/00126_000.jpg" alt="Ilford Delta 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00126_000.jpg" alt="Ilford Delta 3200 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: 3921b5a404564bb2b4231bf59d22e6d3`↓
 
 <a href="./archive/00126_001.jpg">
-	<img src="./lowres/00126_001.jpg" alt="Ilford Delta 35mm film box inside" loading="lazy" height="500" />
+	<img src="./lowres/00126_001.jpg" alt="Ilford Delta 3200 35mm film box inside" loading="lazy" height="500" />
 </a>
 
 #### [Pelicram] Ilford HP5 Plus (ref: 11a8)
 
 ```
-Format: 120          |  Process: BW       
-ISO   : 400          |  Expiry : 2012-06  
-Added : 2025-07-31   |  Author : Pelicram 
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2012-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-07-31   |  Author  : Pelicram
 UUID  : dbf3817f506a444b9d394745dba311a8
 ```
 
@@ -1532,9 +1608,10 @@ UUID  : dbf3817f506a444b9d394745dba311a8
 #### [Pelicram] JCH Streetpan (ref: 6e58)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 400          |  Expiry : 2025-02  
-Added : 2025-07-31   |  Author : Pelicram 
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2025-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 1873b4d20d2a47659ab15d0af4146e58
 ```
 
@@ -1549,32 +1626,13 @@ UUID  : 1873b4d20d2a47659ab15d0af4146e58
 	<img src="./lowres/00132_001.jpg" alt="JCH Streetpan 35mm film box inside" loading="lazy" height="500" />
 </a>
 
-#### [Pelicram] Kentmere PAN (ref: a327)
-
-```
-Format: 35mm         |  Process: BW       
-ISO   : 400          |  Expiry : 2029-07  
-Added : 2025-07-31   |  Author : Pelicram 
-UUID  : 58f2bea3a3204a1dafebf2881d99a327
-```
-
-<a href="./archive/00145_000.jpg">
-	<img src="./lowres/00145_000.jpg" alt="Kentmere PAN 35mm film box outside" loading="lazy" height="500" />
-</a>
-
-
-`UUID: c771fff8ecbb4c9b981f3606dd4fa428`↓
-
-<a href="./archive/00145_001.jpg">
-	<img src="./lowres/00145_001.jpg" alt="Kentmere PAN 35mm film box inside" loading="lazy" height="500" />
-</a>
-
 #### [Pelicram] Kentmere PAN 200 (ref: 0e32)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 200          |  Expiry : 2030-04  
-Added : 2025-08-15   |  Author : Pelicram 
+Format: 35mm         |  Process : BW      
+ISO   : 200          |  Expiry  : 2030-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-15   |  Author  : Pelicram
 UUID  : b0e988456d7444b1b879dc6ca4a80e32
 ```
 
@@ -1582,51 +1640,76 @@ UUID  : b0e988456d7444b1b879dc6ca4a80e32
 	<img src="./lowres/00186_000.jpg" alt="Kentmere PAN 200 35mm film box outside" loading="lazy" height="500" />
 </a>
 
-#### [Pelicram] Kodak TMAX (ref: 521a)
+#### [Pelicram] Kentmere PAN 400 (ref: a327)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 3200         |  Expiry : 2026-04  
-Added : 2025-07-31   |  Author : Pelicram 
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2029-07 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-07-31   |  Author  : Pelicram
+UUID  : 58f2bea3a3204a1dafebf2881d99a327
+```
+
+<a href="./archive/00145_000.jpg">
+	<img src="./lowres/00145_000.jpg" alt="Kentmere PAN 400 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: c771fff8ecbb4c9b981f3606dd4fa428`↓
+
+<a href="./archive/00145_001.jpg">
+	<img src="./lowres/00145_001.jpg" alt="Kentmere PAN 400 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### [Pelicram] Kodak TMAX P3200 (ref: 521a)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 3200         |  Expiry  : 2026-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 39fa3ae0251e4cdbaf8240602537521a
 ```
 
 <a href="./archive/00144_000.jpg">
-	<img src="./lowres/00144_000.jpg" alt="Kodak TMAX 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00144_000.jpg" alt="Kodak TMAX P3200 35mm film box outside" loading="lazy" height="500" />
 </a>
 
-#### [Pelicram] Kodak TMAX (ref: 43a2)
+#### [Pelicram] Kodak TMAX P3200 (ref: 43a2)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 3200         |  Expiry : 2026-08  
-Added : 2025-07-31   |  Author : Pelicram 
+Format: 35mm         |  Process : BW      
+ISO   : 3200         |  Expiry  : 2026-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 8f91948e930f491a8684337e32d443a2
 ```
 
 <a href="./archive/00142_000.jpg">
-	<img src="./lowres/00142_000.jpg" alt="Kodak TMAX 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00142_000.jpg" alt="Kodak TMAX P3200 35mm film box outside" loading="lazy" height="500" />
 </a>
 
-#### [Pelicram] Kodak Tri-X (ref: c671)
+#### [Pelicram] Kodak Tri-X 400 (ref: c671)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 400          |  Expiry : 2026-09  
-Added : 2025-07-31   |  Author : Pelicram 
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2026-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 0417faf4f5be42538db49741140bc671
 ```
 
 <a href="./archive/00135_000.jpg">
-	<img src="./lowres/00135_000.jpg" alt="Kodak Tri-X 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00135_000.jpg" alt="Kodak Tri-X 400 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [Pelicram] Kodak Värikuvafilmi (ref: f9ff)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 200          |  Expiry : 2001-12  
-Added : 2025-07-31   |  Author : Pelicram 
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2001-12 
+Type  : Multi-Pack-2 |  Quantity: 24exp   
+Added : 2025-07-31   |  Author  : Pelicram
 UUID  : b8795d19697a453c8f27fde773eaf9ff
 ```
 
@@ -1637,9 +1720,10 @@ UUID  : b8795d19697a453c8f27fde773eaf9ff
 #### [Pelicram] Konica VX200 (ref: fe53)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 200          |  Expiry : 2003-03  
-Added : 2025-07-31   |  Author : Pelicram 
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2003-03 
+Type  : Multi-Pack-3 |  Quantity: 24exp   
+Added : 2025-07-31   |  Author  : Pelicram
 UUID  : dd3a6c347560484295ca09c86e3dfe53
 ```
 
@@ -1657,9 +1741,10 @@ UUID  : dd3a6c347560484295ca09c86e3dfe53
 #### [Pelicram] Lomography Babylon (ref: 7afa)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 13           |  Expiry : 2025-09  
-Added : 2025-07-31   |  Author : Pelicram 
+Format: 35mm         |  Process : BW      
+ISO   : 13           |  Expiry  : 2025-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 9d7f531c7a764f9689228ab477297afa
 ```
 
@@ -1670,9 +1755,10 @@ UUID  : 9d7f531c7a764f9689228ab477297afa
 #### [Pelicram] Lomography Fantome (ref: 4340)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 8            |  Expiry : 2026-01  
-Added : 2025-07-31   |  Author : Pelicram 
+Format: 35mm         |  Process : BW      
+ISO   : 8            |  Expiry  : 2026-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 538e7611233a4cc3bd733763bf694340
 ```
 
@@ -1683,9 +1769,10 @@ UUID  : 538e7611233a4cc3bd733763bf694340
 #### [Pelicram] Lomography Orca (ref: d506)
 
 ```
-Format: 110          |  Process: BW       
-ISO   : 100          |  Expiry : 2027-07  
-Added : 2025-07-31   |  Author : Pelicram 
+Format: 110          |  Process : BW      
+ISO   : 100          |  Expiry  : 2027-07 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 6d10288df24748fa8944774857f3d506
 ```
 
@@ -1696,9 +1783,10 @@ UUID  : 6d10288df24748fa8944774857f3d506
 #### [Pelicram] Lomography Tiger (ref: 26dd)
 
 ```
-Format: 110          |  Process: C-41     
-ISO   : 200          |  Expiry : 2026-09  
-Added : 2025-07-31   |  Author : Pelicram 
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2026-09 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-07-31   |  Author  : Pelicram
 UUID  : e8a5b04ef68c43ae9e79df89123726dd
 ```
 
@@ -1709,9 +1797,10 @@ UUID  : e8a5b04ef68c43ae9e79df89123726dd
 #### [Pelicram] Mutascan Kodak Vision3 500T/5219 (ref: 5150)
 
 ```
-Format: 35mm         |  Process: ECN-2    
-ISO   : 500          |  Expiry : Unknown  
-Added : 2025-08-15   |  Author : Pelicram 
+Format: 35mm         |  Process : ECN-2   
+ISO   : 500          |  Expiry  : Unknown 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2025-08-15   |  Author  : Pelicram
 UUID  : e4d2af3a69704509a07e108fcb4b5150
 ```
 
@@ -1722,9 +1811,10 @@ UUID  : e4d2af3a69704509a07e108fcb4b5150
 #### [Pelicram] Rollei RPX 400 (ref: 2155)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 400          |  Expiry : 2028-08  
-Added : 2025-07-31   |  Author : Pelicram 
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2028-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 19ef81d6d03844b088250c7b54032155
 ```
 
@@ -1742,9 +1832,10 @@ UUID  : 19ef81d6d03844b088250c7b54032155
 #### [Pelicram] Rollei Retro 80S (ref: e23d)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 80           |  Expiry : 2025-09  
-Added : 2025-08-08   |  Author : Pelicram 
+Format: 35mm         |  Process : BW      
+ISO   : 80           |  Expiry  : 2025-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-08   |  Author  : Pelicram
 UUID  : 406a06d6d4df49cfa27378242ef6e23d
 ```
 
@@ -1762,9 +1853,10 @@ UUID  : 406a06d6d4df49cfa27378242ef6e23d
 #### [Pelicram] SantaColor SantaColor (ref: f3a7)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 100          |  Expiry : 2025-09  
-Added : 2025-07-31   |  Author : Pelicram 
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2025-09 
+Type  : Multi-Pack-5 |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 0a141b49a84a4b06a18355308940f3a7
 ```
 
@@ -1775,9 +1867,10 @@ UUID  : 0a141b49a84a4b06a18355308940f3a7
 #### [Pelicram] Svema Foto (ref: 26ad)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 400          |  Expiry : 2026-04  
-Added : 2025-07-31   |  Author : Pelicram 
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2026-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 6e9f27ffcfea4f298be7d33d7f3826ad
 ```
 
@@ -1788,9 +1881,10 @@ UUID  : 6e9f27ffcfea4f298be7d33d7f3826ad
 #### [Pelicram] Wolfen NP100 (ref: 71a6)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 100          |  Expiry : 2027-12  
-Added : 2025-07-31   |  Author : Pelicram 
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2027-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 898148fa3a754866a407bbecec4a71a6
 ```
 
@@ -1801,9 +1895,10 @@ UUID  : 898148fa3a754866a407bbecec4a71a6
 #### [The Compartmentalist] Agfa Agfapan Rapid (ref: 5e7b)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 40           |  Expiry : 1969-02  
-Added : 2025-07-31   |  Author : The Compartmentalist
+Format: 35mm         |  Process : BW      
+ISO   : 40           |  Expiry  : 1969-02 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-07-31   |  Author  : The Compartmentalist
 UUID  : b2470c1734d344698f6e1c01eaa85e7b
 ```
 
@@ -1814,9 +1909,10 @@ UUID  : b2470c1734d344698f6e1c01eaa85e7b
 #### [The Compartmentalist] Fujifilm Fujicolor Professional (ref: 28da)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 100          |  Expiry : 2012-02  
-Added : 2025-07-31   |  Author : The Compartmentalist
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2012-02 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-07-31   |  Author  : The Compartmentalist
 UUID  : cb85af928a7f454e9673960e22b428da
 ```
 
@@ -1827,9 +1923,10 @@ UUID  : cb85af928a7f454e9673960e22b428da
 #### [The Compartmentalist] Fujifilm Neopan SS Rapid (ref: 9db3)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 100          |  Expiry : 1975-02  
-Added : 2025-07-31   |  Author : The Compartmentalist
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 1975-02 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-07-31   |  Author  : The Compartmentalist
 UUID  : 1c541b4c837944d788eab8986f349db3
 ```
 
@@ -1840,9 +1937,10 @@ UUID  : 1c541b4c837944d788eab8986f349db3
 #### [The Compartmentalist] Fujifilm Provia 100F (ref: df27)
 
 ```
-Format: 35mm         |  Process: E-6      
-ISO   : 100          |  Expiry : 2026-10  
-Added : 2025-08-07   |  Author : The Compartmentalist
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2026-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-07   |  Author  : The Compartmentalist
 UUID  : 480a75f9978b4fba84c81a8a9e95df27
 ```
 
@@ -1853,9 +1951,10 @@ UUID  : 480a75f9978b4fba84c81a8a9e95df27
 #### [The Compartmentalist] Fujifilm Sensia (ref: a59b)
 
 ```
-Format: 35mm         |  Process: E-6      
-ISO   : 100          |  Expiry : 1998-01  
-Added : 2025-07-31   |  Author : The Compartmentalist
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 1998-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : The Compartmentalist
 UUID  : d4fdfa0d829f4fcab984381a31f2a59b
 ```
 
@@ -1873,9 +1972,10 @@ UUID  : d4fdfa0d829f4fcab984381a31f2a59b
 #### [The Compartmentalist] Kodak Ektachrome-X (ref: ae7e)
 
 ```
-Format: 828          |  Process: E-4      
-ISO   : 64           |  Expiry : 1972-03  
-Added : 2025-07-31   |  Author : The Compartmentalist
+Format: 828          |  Process : E-4     
+ISO   : 64           |  Expiry  : 1972-03 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-07-31   |  Author  : The Compartmentalist
 UUID  : 4ee1eec740dd4838a83384cc19c6ae7e
 ```
 
@@ -1886,9 +1986,10 @@ UUID  : 4ee1eec740dd4838a83384cc19c6ae7e
 #### [The Compartmentalist] Kodak Ektachrome-X (ref: aec5)
 
 ```
-Format: 35mm         |  Process: E-4      
-ISO   : 64           |  Expiry : 1973-06  
-Added : 2025-07-31   |  Author : The Compartmentalist
+Format: 35mm         |  Process : E-4     
+ISO   : 64           |  Expiry  : 1973-06 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-07-31   |  Author  : The Compartmentalist
 UUID  : 6a81b1428cfe46c8b9cf187fb672aec5
 ```
 
@@ -1896,25 +1997,27 @@ UUID  : 6a81b1428cfe46c8b9cf187fb672aec5
 	<img src="./lowres/00119_000.jpg" alt="Kodak Ektachrome-X 35mm film box outside" loading="lazy" height="500" />
 </a>
 
-#### [The Compartmentalist] Kodak Kodachrome (ref: 8833)
+#### [The Compartmentalist] Kodak Kodachrome 25 (ref: 8833)
 
 ```
-Format: 35mm         |  Process: K-14     
-ISO   : 25           |  Expiry : 1983-03  
-Added : 2025-07-31   |  Author : The Compartmentalist
+Format: 35mm         |  Process : K-14    
+ISO   : 25           |  Expiry  : 1983-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : The Compartmentalist
 UUID  : 6239a04366d74208a9010cd231688833
 ```
 
 <a href="./archive/00121_000.jpg">
-	<img src="./lowres/00121_000.jpg" alt="Kodak Kodachrome 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00121_000.jpg" alt="Kodak Kodachrome 25 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [The Compartmentalist] Minolta Minolta 16 Color Film For Prints (ref: a2ff)
 
 ```
-Format: 16mm         |  Process: C-41     
-ISO   : 100          |  Expiry : 1992-06  
-Added : 2025-08-05   |  Author : The Compartmentalist
+Format: 16mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1992-06 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-08-05   |  Author  : The Compartmentalist
 UUID  : a2cfc71ac0e24ea58f4e3350423aa2ff
 ```
 
@@ -1925,9 +2028,10 @@ UUID  : a2cfc71ac0e24ea58f4e3350423aa2ff
 #### [The Compartmentalist] ORWO NP 20 SL (ref: b16c)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 80           |  Expiry : 1992-12  
-Added : 2025-08-05   |  Author : The Compartmentalist
+Format: 35mm         |  Process : BW      
+ISO   : 80           |  Expiry  : 1992-12 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-08-05   |  Author  : The Compartmentalist
 UUID  : 9791c2074fdd4340a1463312ed77b16c
 ```
 
@@ -1945,9 +2049,10 @@ UUID  : 9791c2074fdd4340a1463312ed77b16c
 #### [The Compartmentalist] Sakura Sakuracolor II (ref: 4f7d)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 100          |  Expiry : 1978-02  
-Added : 2025-07-31   |  Author : The Compartmentalist
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1978-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : The Compartmentalist
 UUID  : 0143ad8539d84710845f4d2dc82e4f7d
 ```
 
@@ -1958,9 +2063,10 @@ UUID  : 0143ad8539d84710845f4d2dc82e4f7d
 #### [TheSelousScout] Ilford XP2 Super (ref: 622a)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 400          |  Expiry : 2027-09  
-Added : 2025-08-08   |  Author : TheSelousScout
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-08   |  Author  : TheSelousScout
 UUID  : 5863564ab1ef43a4b41fb5312dd0622a
 ```
 
@@ -1978,9 +2084,10 @@ UUID  : 5863564ab1ef43a4b41fb5312dd0622a
 #### [TheSelousScout] Reto Amber D400 (ref: 08ad)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 400          |  Expiry : 2024-12  
-Added : 2025-08-07   |  Author : TheSelousScout
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2024-12 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2025-08-07   |  Author  : TheSelousScout
 UUID  : 075938ec54de4c4bbee63671e4c208ad
 ```
 
@@ -1991,9 +2098,10 @@ UUID  : 075938ec54de4c4bbee63671e4c208ad
 #### [Yrikonchik] Fujifilm 200 (ref: 5b41)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 200          |  Expiry : 2026-06  
-Added : 2025-06-05   |  Author : Yrikonchik
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2026-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-06-05   |  Author  : Yrikonchik
 UUID  : fe02d85cb9294ee2ba64e8543ce65b41
 ```
 
@@ -2004,9 +2112,10 @@ UUID  : fe02d85cb9294ee2ba64e8543ce65b41
 #### [b0baspace] Fujifilm Fujicolor 100 (ref: 013b)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 100          |  Expiry : 2010-07  
-Added : 2025-01-12   |  Author : b0baspace
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2010-07 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-01-12   |  Author  : b0baspace
 UUID  : 27d88b35933b4ede958b5b5b5b42013b
 ```
 
@@ -2014,32 +2123,34 @@ UUID  : 27d88b35933b4ede958b5b5b5b42013b
 	<img src="./lowres/00040_000.jpg" alt="Fujifilm Fujicolor 100 35mm film box outside" loading="lazy" height="500" />
 </a>
 
-#### [b0baspace] Fujifilm NPS (ref: 5e85)
+#### [b0baspace] Fujifilm NPS 160 (ref: 5e85)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 160          |  Expiry : 2003-08  
-Added : 2025-02-04   |  Author : b0baspace
+Format: 35mm         |  Process : C-41    
+ISO   : 160          |  Expiry  : 2003-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-02-04   |  Author  : b0baspace
 UUID  : 576142521c2f4fe5abc387032bcc5e85
 ```
 
 <a href="./archive/00053_000.jpg">
-	<img src="./lowres/00053_000.jpg" alt="Fujifilm NPS 35mm film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00053_000.jpg" alt="Fujifilm NPS 160 35mm film box outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: a11cf7e8abea41a8854da816157269c4`↓
 
 <a href="./archive/00053_001.jpg">
-	<img src="./lowres/00053_001.jpg" alt="Fujifilm NPS 35mm film box inside" loading="lazy" height="500" />
+	<img src="./lowres/00053_001.jpg" alt="Fujifilm NPS 160 35mm film box inside" loading="lazy" height="500" />
 </a>
 
 #### [b0baspace] GAF Color Slide Film (ref: dea6)
 
 ```
-Format: 126          |  Process: AR-1     
-ISO   : 64           |  Expiry : 1974-01  
-Added : 2025-02-04   |  Author : b0baspace
+Format: 126          |  Process : AR-1    
+ISO   : 64           |  Expiry  : 1974-01 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-02-04   |  Author  : b0baspace
 UUID  : c426ea17398c4c549c6a2720103adea6
 ```
 
@@ -2082,39 +2193,41 @@ UUID  : c426ea17398c4c549c6a2720103adea6
 	<img src="./lowres/00054_005.jpg" alt="GAF Color Slide Film 126 film box processing envelope" loading="lazy" width="500" />
 </a>
 
-#### [b0baspace] Kodak Ektachrome (ref: b21e)
+#### [b0baspace] Kodak Ektachrome 200 (ref: b21e)
 
 ```
-Format: 35mm         |  Process: E-6      
-ISO   : 200          |  Expiry : 1992-10  
-Added : 2025-02-04   |  Author : b0baspace
+Format: 35mm         |  Process : E-6     
+ISO   : 200          |  Expiry  : 1992-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-02-04   |  Author  : b0baspace
 UUID  : 7d8346073bbe4d6a84e57cc2bb28b21e
 ```
 
 <a href="./archive/00052_000.jpg">
-	<img src="./lowres/00052_000.jpg" alt="Kodak Ektachrome 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00052_000.jpg" alt="Kodak Ektachrome 200 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: cbae471aa4184cbeabc5b1f8b49f8943`↓
 
 <a href="./archive/00052_001.jpg">
-	<img src="./lowres/00052_001.jpg" alt="Kodak Ektachrome 35mm film box leaflet" loading="lazy" height="500" />
+	<img src="./lowres/00052_001.jpg" alt="Kodak Ektachrome 200 35mm film box leaflet" loading="lazy" height="500" />
 </a>
 
 
 `UUID: c6c1d49626e14661a700da5b26e07ca8`↓
 
 <a href="./archive/00052_002.jpg">
-	<img src="./lowres/00052_002.jpg" alt="Kodak Ektachrome 35mm film box leaflet" loading="lazy" height="500" />
+	<img src="./lowres/00052_002.jpg" alt="Kodak Ektachrome 200 35mm film box leaflet" loading="lazy" height="500" />
 </a>
 
 #### [b0baspace] Kodak Verichrome Pan (ref: 0195)
 
 ```
-Format: 620          |  Process: BW       
-ISO   : 125          |  Expiry : 1971-03  
-Added : 2025-01-12   |  Author : b0baspace
+Format: 620          |  Process : BW      
+ISO   : 125          |  Expiry  : 1971-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-01-12   |  Author  : b0baspace
 UUID  : 75c7c232d44949c3b1d766b0d2580195
 ```
 
@@ -2125,9 +2238,10 @@ UUID  : 75c7c232d44949c3b1d766b0d2580195
 #### [b0baspace] York Photo Labs DXG 200 (ref: 4bf8)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 200          |  Expiry : 1994-09  
-Added : 2025-02-04   |  Author : b0baspace
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 1994-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-02-04   |  Author  : b0baspace
 UUID  : 46037fb6c55244b6ae47c55d0e454bf8
 ```
 
@@ -2138,9 +2252,10 @@ UUID  : 46037fb6c55244b6ae47c55d0e454bf8
 #### [benikum] Foma Fomapan (ref: 3e4f)
 
 ```
-Format: 120          |  Process: BW       
-ISO   : 200          |  Expiry : 2027-03  
-Added : 2025-06-05   |  Author : benikum  
+Format: 120          |  Process : BW      
+ISO   : 200          |  Expiry  : 2027-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-06-05   |  Author  : benikum 
 UUID  : 7be1cb0047f14034a7386cd7b1843e4f
 ```
 
@@ -2158,9 +2273,10 @@ UUID  : 7be1cb0047f14034a7386cd7b1843e4f
 #### [benikum] Foma Fomapan21 (ref: 75d9)
 
 ```
-Format: 120          |  Process: BW       
-ISO   : 100          |  Expiry : 1971-04  
-Added : 2025-06-21   |  Author : benikum  
+Format: 120          |  Process : BW      
+ISO   : 100          |  Expiry  : 1971-04 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-06-21   |  Author  : benikum 
 UUID  : 098e510bfaa14be39697b9d8218475d9
 ```
 
@@ -2168,32 +2284,34 @@ UUID  : 098e510bfaa14be39697b9d8218475d9
 	<img src="./lowres/00074_000.jpg" alt="Foma Fomapan21 120 film box outside" loading="lazy" width="500" />
 </a>
 
-#### [benikum] Rollei SUPERPAN (ref: ee8f)
+#### [benikum] Rollei SUPERPAN 200 (ref: ee8f)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 200          |  Expiry : 2028-01  
-Added : 2025-06-05   |  Author : benikum  
+Format: 35mm         |  Process : BW      
+ISO   : 200          |  Expiry  : 2028-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-06-05   |  Author  : benikum 
 UUID  : f22d3e1e2f70453f87aea4b67db3ee8f
 ```
 
 <a href="./archive/00071_000.jpg">
-	<img src="./lowres/00071_000.jpg" alt="Rollei SUPERPAN 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00071_000.jpg" alt="Rollei SUPERPAN 200 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: 7c96a37e3f0f4550876f507554b2a6dd`↓
 
 <a href="./archive/00071_001.jpg">
-	<img src="./lowres/00071_001.jpg" alt="Rollei SUPERPAN 35mm film box inside" loading="lazy" height="500" />
+	<img src="./lowres/00071_001.jpg" alt="Rollei SUPERPAN 200 35mm film box inside" loading="lazy" height="500" />
 </a>
 
 #### [benikum] Rossmann Jahreszeiten Pack (ref: 7670)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 100          |  Expiry : 2006-05  
-Added : 2025-06-05   |  Author : benikum  
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2006-05 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2025-06-05   |  Author  : benikum 
 UUID  : b09413c4c1f44fceaa31ea8e50bf7670
 ```
 
@@ -2204,9 +2322,10 @@ UUID  : b09413c4c1f44fceaa31ea8e50bf7670
 #### [dekuNukem] ADOX KB17 (ref: 2c95)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 40           |  Expiry : 1964-01  
-Added : 2025-05-24   |  Author : dekuNukem
+Format: 35mm         |  Process : BW      
+ISO   : 40           |  Expiry  : 1964-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 14047842e1a641268bfd4d01fcf02c95
 ```
 
@@ -2224,9 +2343,10 @@ UUID  : 14047842e1a641268bfd4d01fcf02c95
 #### [dekuNukem] Agfa APX (ref: 12c7)
 
 ```
-Format: 120          |  Process: BW       
-ISO   : 100          |  Expiry : 2008-07  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 120          |  Process : BW      
+ISO   : 100          |  Expiry  : 2008-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : a20bbca534454915a6970b6ede2212c7
 ```
 
@@ -2244,9 +2364,10 @@ UUID  : a20bbca534454915a6970b6ede2212c7
 #### [dekuNukem] Agfa ULTRA 50 (ref: 4faa)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 50           |  Expiry : 2001-10  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 35mm         |  Process : C-41    
+ISO   : 50           |  Expiry  : 2001-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : d10e846ba5154f1d940ed7009a904faa
 ```
 
@@ -2264,9 +2385,10 @@ UUID  : d10e846ba5154f1d940ed7009a904faa
 #### [dekuNukem] Agfa Vista (ref: d3af)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 200          |  Expiry : 2003-12  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2003-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : f1e50745927f4b7cb16af36fd30dd3af
 ```
 
@@ -2284,9 +2406,10 @@ UUID  : f1e50745927f4b7cb16af36fd30dd3af
 #### [dekuNukem] Alien Film 5207/250D (ref: 8820)
 
 ```
-Format: 120          |  Process: ECN-2    
-ISO   : 250          |  Expiry : 2026-06  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 120          |  Process : ECN-2   
+ISO   : 250          |  Expiry  : 2026-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : aedc4b00bd174e0baf7c744ed21d8820
 ```
 
@@ -2297,9 +2420,10 @@ UUID  : aedc4b00bd174e0baf7c744ed21d8820
 #### [dekuNukem] Alien Film 5222/XX (ref: 3e49)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 250          |  Expiry : 2024-06  
-Added : 2025-05-24   |  Author : dekuNukem
+Format: 35mm         |  Process : BW      
+ISO   : 250          |  Expiry  : 2024-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 9984ed6c13cd4be496e7e4b58e313e49
 ```
 
@@ -2310,9 +2434,10 @@ UUID  : 9984ed6c13cd4be496e7e4b58e313e49
 #### [dekuNukem] CineStill 800T (ref: c86a)
 
 ```
-Format: 120          |  Process: C-41     
-ISO   : 800          |  Expiry : 2018-03  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 120          |  Process : C-41    
+ISO   : 800          |  Expiry  : 2018-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 53253eca96d841f5b98bfb3590fec86a
 ```
 
@@ -2327,25 +2452,27 @@ UUID  : 53253eca96d841f5b98bfb3590fec86a
 	<img src="./lowres/00006_001.jpg" alt="CineStill 800T 120 film box inside" loading="lazy" width="500" />
 </a>
 
-#### [dekuNukem] Efiniti UXi super 200 (ref: 471a)
+#### [dekuNukem] Efiniti UXi Super 200 (ref: 471a)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 200          |  Expiry : 2013-10  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2013-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : cde1122dafbc47088a11d9ee12b6471a
 ```
 
 <a href="./archive/00002_000.jpg">
-	<img src="./lowres/00002_000.jpg" alt="Efiniti UXi super 200 35mm film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00002_000.jpg" alt="Efiniti UXi Super 200 35mm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [dekuNukem] Efke IR 820 (ref: 43c9)
 
 ```
-Format: 120          |  Process: BW       
-ISO   : 100          |  Expiry : 2013-03  
-Added : 2025-01-05   |  Author : dekuNukem
+Format: 120          |  Process : BW      
+ISO   : 100          |  Expiry  : 2013-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : 716e410a3823476e9befa704361f43c9
 ```
 
@@ -2363,9 +2490,10 @@ UUID  : 716e410a3823476e9befa704361f43c9
 #### [dekuNukem] Fujifilm Fujichrome Professional 100D (ref: 439d)
 
 ```
-Format: 120          |  Process: E-6      
-ISO   : 100          |  Expiry : 1992-12  
-Added : 2025-01-05   |  Author : dekuNukem
+Format: 120          |  Process : E-6     
+ISO   : 100          |  Expiry  : 1992-12 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : 5dcdd19ddf654415b7eac69183e7439d
 ```
 
@@ -2390,9 +2518,10 @@ UUID  : 5dcdd19ddf654415b7eac69183e7439d
 #### [dekuNukem] Fujifilm Fujicolor NPL 160 (ref: d10b)
 
 ```
-Format: 120          |  Process: C-41     
-ISO   : 160          |  Expiry : 1998-07  
-Added : 2025-01-05   |  Author : dekuNukem
+Format: 120          |  Process : C-41    
+ISO   : 160          |  Expiry  : 1998-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : ce40cc432d9e445b987fdd72fd88d10b
 ```
 
@@ -2417,9 +2546,10 @@ UUID  : ce40cc432d9e445b987fdd72fd88d10b
 #### [dekuNukem] Fujifilm Fujicolor Super HR (ref: aaa0)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 200          |  Expiry : 1990-02  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 1990-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 2d27c9a865aa4de19ad8dc0bcdc8aaa0
 ```
 
@@ -2444,9 +2574,10 @@ UUID  : 2d27c9a865aa4de19ad8dc0bcdc8aaa0
 #### [dekuNukem] Fujifilm Fujicolor Superia (ref: 0683)
 
 ```
-Format: 120          |  Process: C-41     
-ISO   : 400          |  Expiry : 2002-05  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2002-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : c3d9e51d22e241f69133be30d5a00683
 ```
 
@@ -2464,9 +2595,10 @@ UUID  : c3d9e51d22e241f69133be30d5a00683
 #### [dekuNukem] Fujifilm Pro 400H (ref: 66e3)
 
 ```
-Format: 120          |  Process: C-41     
-ISO   : 400          |  Expiry : 2018-09  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2018-09 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 0d89ecf11f3c46deb52171aa909566e3
 ```
 
@@ -2477,9 +2609,10 @@ UUID  : 0d89ecf11f3c46deb52171aa909566e3
 #### [dekuNukem] Fujifilm Velvia 100F (ref: f7fb)
 
 ```
-Format: 120          |  Process: E-6      
-ISO   : 100          |  Expiry : 2006-04  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 120          |  Process : E-6     
+ISO   : 100          |  Expiry  : 2006-04 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 0fef128c3b17437eb25d5c4f0520f7fb
 ```
 
@@ -2490,9 +2623,10 @@ UUID  : 0fef128c3b17437eb25d5c4f0520f7fb
 #### [dekuNukem] Harman Phoenix (ref: 637f)
 
 ```
-Format: 120          |  Process: C-41     
-ISO   : 200          |  Expiry : 2026-08  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 120          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2026-08 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 0b11ba38c9a34f58a2f13d696b05637f
 ```
 
@@ -2503,9 +2637,10 @@ UUID  : 0b11ba38c9a34f58a2f13d696b05637f
 #### [dekuNukem] Ilford HP5 Plus (ref: efad)
 
 ```
-Format: 120          |  Process: BW       
-ISO   : 400          |  Expiry : 2025-11  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2025-11 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : ddf9b76e633f43718144af7dcb89efad
 ```
 
@@ -2523,9 +2658,10 @@ UUID  : ddf9b76e633f43718144af7dcb89efad
 #### [dekuNukem] Ilford HP5 Plus (ref: 1a5d)
 
 ```
-Format: 120          |  Process: BW       
-ISO   : 400          |  Expiry : 2026-09  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2026-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 36151f6b7cc045c2b43d7f5cbee41a5d
 ```
 
@@ -2543,9 +2679,10 @@ UUID  : 36151f6b7cc045c2b43d7f5cbee41a5d
 #### [dekuNukem] Ilford SFX 200 (ref: 6057)
 
 ```
-Format: 120          |  Process: BW       
-ISO   : 200          |  Expiry : 2013-09  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 120          |  Process : BW      
+ISO   : 200          |  Expiry  : 2013-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 7856b5442362453caa67628c93be6057
 ```
 
@@ -2563,9 +2700,10 @@ UUID  : 7856b5442362453caa67628c93be6057
 #### [dekuNukem] Jessops Diamond Everyday (ref: 67d3)
 
 ```
-Format: APS          |  Process: C-41     
-ISO   : 200          |  Expiry : 2006-10  
-Added : 2025-01-05   |  Author : dekuNukem
+Format: APS          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2006-10 
+Type  : Single Pack  |  Quantity: 40exp   
+Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : b53e5c167866448d812a4dc8e85967d3
 ```
 
@@ -2573,52 +2711,55 @@ UUID  : b53e5c167866448d812a4dc8e85967d3
 	<img src="./lowres/00033_000.jpg" alt="Jessops Diamond Everyday APS film box outside" loading="lazy" height="500" />
 </a>
 
-#### [dekuNukem] Kentmere PAN (ref: d223)
+#### [dekuNukem] Kentmere PAN 400 (ref: d223)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 400          |  Expiry : 2026-09  
-Added : 2025-05-24   |  Author : dekuNukem
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2026-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : e876f866f1e9430494356ad098c7d223
 ```
 
 <a href="./archive/00058_000.jpg">
-	<img src="./lowres/00058_000.jpg" alt="Kentmere PAN 35mm film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00058_000.jpg" alt="Kentmere PAN 400 35mm film box outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: ecc653f10f124afe9b4225edb7e06587`↓
 
 <a href="./archive/00058_001.jpg">
-	<img src="./lowres/00058_001.jpg" alt="Kentmere PAN 35mm film box inside" loading="lazy" width="500" />
+	<img src="./lowres/00058_001.jpg" alt="Kentmere PAN 400 35mm film box inside" loading="lazy" width="500" />
 </a>
 
-#### [dekuNukem] Kentmere PAN (ref: 827e)
+#### [dekuNukem] Kentmere PAN 400 (ref: 827e)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 400          |  Expiry : 2029-06  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2029-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : d2cf9753f6fd49a78404c72d848a827e
 ```
 
 <a href="./archive/00015_000.jpg">
-	<img src="./lowres/00015_000.jpg" alt="Kentmere PAN 35mm film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00015_000.jpg" alt="Kentmere PAN 400 35mm film box outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 3514628a650741c8abb104047d809f55`↓
 
 <a href="./archive/00015_001.jpg">
-	<img src="./lowres/00015_001.jpg" alt="Kentmere PAN 35mm film box inside" loading="lazy" width="500" />
+	<img src="./lowres/00015_001.jpg" alt="Kentmere PAN 400 35mm film box inside" loading="lazy" width="500" />
 </a>
 
 #### [dekuNukem] Klick APS Film (ref: 4b88)
 
 ```
-Format: APS          |  Process: C-41     
-ISO   : 200          |  Expiry : 2006-10  
-Added : 2025-05-24   |  Author : dekuNukem
+Format: APS          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2006-10 
+Type  : Single Pack  |  Quantity: 25exp   
+Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 1dc3d9dbb8bb42b4acfbfbe0737a4b88
 ```
 
@@ -2636,9 +2777,10 @@ UUID  : 1dc3d9dbb8bb42b4acfbfbe0737a4b88
 #### [dekuNukem] Klick XD200 (ref: 44d7)
 
 ```
-Format: 110          |  Process: C-41     
-ISO   : 200          |  Expiry : 1998-02  
-Added : 2025-05-24   |  Author : dekuNukem
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 1998-02 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 2276628aa2794442ae81221329fc44d7
 ```
 
@@ -2649,9 +2791,10 @@ UUID  : 2276628aa2794442ae81221329fc44d7
 #### [dekuNukem] Kodak Advantix Ultra (ref: 566b)
 
 ```
-Format: APS          |  Process: C-41     
-ISO   : 200          |  Expiry : 2006-08  
-Added : 2025-05-24   |  Author : dekuNukem
+Format: APS          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2006-08 
+Type  : Single Pack  |  Quantity: 25exp   
+Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 041622f239024ffb8b75c367619a566b
 ```
 
@@ -2659,25 +2802,27 @@ UUID  : 041622f239024ffb8b75c367619a566b
 	<img src="./lowres/00066_000.jpg" alt="Kodak Advantix Ultra APS film box outside" loading="lazy" width="500" />
 </a>
 
-#### [dekuNukem] Kodak Ektachrome (ref: 07c0)
+#### [dekuNukem] Kodak Ektachrome 64 (ref: 07c0)
 
 ```
-Format: 110          |  Process: Unknown  
-ISO   : 64           |  Expiry : 1979-10  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 110          |  Process : Unknown 
+ISO   : 64           |  Expiry  : 1979-10 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 8131d8c6fbf14016be9c17a2586b07c0
 ```
 
 <a href="./archive/00025_000.jpg">
-	<img src="./lowres/00025_000.jpg" alt="Kodak Ektachrome 110 film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00025_000.jpg" alt="Kodak Ektachrome 64 110 film box outside" loading="lazy" width="500" />
 </a>
 
 #### [dekuNukem] Kodak Ektachrome E100VS (ref: a8d3)
 
 ```
-Format: 120          |  Process: E-6      
-ISO   : 100          |  Expiry : 2010-04  
-Added : 2025-08-03   |  Author : dekuNukem
+Format: 120          |  Process : E-6     
+ISO   : 100          |  Expiry  : 2010-04 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-08-03   |  Author  : dekuNukem
 UUID  : e8673d04cee440bd9c065a37a485a8d3
 ```
 
@@ -2688,9 +2833,10 @@ UUID  : e8673d04cee440bd9c065a37a485a8d3
 #### [dekuNukem] Kodak Ektacolor Pro Gold (ref: c3f8)
 
 ```
-Format: 220          |  Process: C-41     
-ISO   : 160          |  Expiry : 2000-07  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 220          |  Process : C-41    
+ISO   : 160          |  Expiry  : 2000-07 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 7456456d09c844c8ab046abd9c17c3f8
 ```
 
@@ -2719,38 +2865,27 @@ UUID  : 7456456d09c844c8ab046abd9c17c3f8
 	<img src="./lowres/00027_003.jpg" alt="Kodak Ektacolor Pro Gold 220 film box leaflet" loading="lazy" height="500" />
 </a>
 
-#### [dekuNukem] Kodak Gold (ref: f368)
+#### [dekuNukem] Kodak Gold 200 (ref: 933f)
 
 ```
-Format: 110          |  Process: C-41     
-ISO   : 200          |  Expiry : 1988-12  
-Added : 2025-05-24   |  Author : dekuNukem
-UUID  : 78bfeed667154d819902ec92d7dcf368
-```
-
-<a href="./archive/00068_000.jpg">
-	<img src="./lowres/00068_000.jpg" alt="Kodak Gold 110 film box outside" loading="lazy" width="500" />
-</a>
-
-#### [dekuNukem] Kodak Gold (ref: 933f)
-
-```
-Format: 35mm         |  Process: C-41     
-ISO   : 200          |  Expiry : 2026-11  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 120          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2026-11 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : e8aefc10fa0d43cebbac73bdcf10933f
 ```
 
 <a href="./archive/00021_000.jpg">
-	<img src="./lowres/00021_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00021_000.jpg" alt="Kodak Gold 200 120 film box outside" loading="lazy" width="500" />
 </a>
 
 #### [dekuNukem] Kodak High Speed Ektachrome (ref: ce7f)
 
 ```
-Format: 120          |  Process: E-2      
-ISO   : 160          |  Expiry : 1963-01  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 120          |  Process : E-2     
+ISO   : 160          |  Expiry  : 1963-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : ec7cf78858fc48c59e5a0875ec74ce7f
 ```
 
@@ -2758,93 +2893,111 @@ UUID  : ec7cf78858fc48c59e5a0875ec74ce7f
 	<img src="./lowres/00017_000.jpg" alt="Kodak High Speed Ektachrome 120 film box outside" loading="lazy" width="500" />
 </a>
 
-#### [dekuNukem] Kodak Kodachrome (ref: 6477)
+#### [dekuNukem] Kodak Kodachrome 25 (ref: 6477)
 
 ```
-Format: 35mm         |  Process: K-14     
-ISO   : 25           |  Expiry : 1978-01  
-Added : 2025-01-05   |  Author : dekuNukem
+Format: 35mm         |  Process : K-14    
+ISO   : 25           |  Expiry  : 1978-01 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : 483191da2aa742bba3343cbe9f296477
 ```
 
 <a href="./archive/00035_000.jpg">
-	<img src="./lowres/00035_000.jpg" alt="Kodak Kodachrome 35mm film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00035_000.jpg" alt="Kodak Kodachrome 25 35mm film box outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 71a9b098894d4f00a8006ba4b37783b8`↓
 
 <a href="./archive/00035_001.jpg">
-	<img src="./lowres/00035_001.jpg" alt="Kodak Kodachrome 35mm film box leaflet" loading="lazy" height="500" />
+	<img src="./lowres/00035_001.jpg" alt="Kodak Kodachrome 25 35mm film box leaflet" loading="lazy" height="500" />
 </a>
 
 
 `UUID: 547384566f7d4aff89c18059a11e7f0b`↓
 
 <a href="./archive/00035_002.jpg">
-	<img src="./lowres/00035_002.jpg" alt="Kodak Kodachrome 35mm film box leaflet" loading="lazy" height="500" />
+	<img src="./lowres/00035_002.jpg" alt="Kodak Kodachrome 25 35mm film box leaflet" loading="lazy" height="500" />
 </a>
 
 
 `UUID: a64a927ad3a348ae9eeb445a9725acfa`↓
 
 <a href="./archive/00035_003.jpg">
-	<img src="./lowres/00035_003.jpg" alt="Kodak Kodachrome 35mm film box processing envelope" loading="lazy" width="500" />
+	<img src="./lowres/00035_003.jpg" alt="Kodak Kodachrome 25 35mm film box processing envelope" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 754d321490a3453981be592ac6221b8d`↓
 
 <a href="./archive/00035_004.jpg">
-	<img src="./lowres/00035_004.jpg" alt="Kodak Kodachrome 35mm film box processing envelope" loading="lazy" width="500" />
+	<img src="./lowres/00035_004.jpg" alt="Kodak Kodachrome 25 35mm film box processing envelope" loading="lazy" width="500" />
 </a>
 
-#### [dekuNukem] Kodak Kodachrome (ref: 3145)
+#### [dekuNukem] Kodak Kodachrome 64 (ref: 3145)
 
 ```
-Format: 110          |  Process: K-14     
-ISO   : 64           |  Expiry : 1979-10  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 110          |  Process : K-14    
+ISO   : 64           |  Expiry  : 1979-10 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 68c945b76fc14ab699b944a3c7b93145
 ```
 
 <a href="./archive/00026_000.jpg">
-	<img src="./lowres/00026_000.jpg" alt="Kodak Kodachrome 110 film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00026_000.jpg" alt="Kodak Kodachrome 64 110 film box outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 54ea8372830b463391dec9cc43789bdf`↓
 
 <a href="./archive/00026_001.jpg">
-	<img src="./lowres/00026_001.jpg" alt="Kodak Kodachrome 110 film box processing envelope" loading="lazy" width="500" />
+	<img src="./lowres/00026_001.jpg" alt="Kodak Kodachrome 64 110 film box processing envelope" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 045746d5a421440487c431bf74ad0091`↓
 
 <a href="./archive/00026_002.jpg">
-	<img src="./lowres/00026_002.jpg" alt="Kodak Kodachrome 110 film box processing envelope" loading="lazy" width="500" />
+	<img src="./lowres/00026_002.jpg" alt="Kodak Kodachrome 64 110 film box processing envelope" loading="lazy" width="500" />
 </a>
 
-#### [dekuNukem] Kodak Kodachrome (ref: 3206)
+#### [dekuNukem] Kodak Kodachrome 64 (ref: 3206)
 
 ```
-Format: 35mm         |  Process: K-14     
-ISO   : 64           |  Expiry : 2007-05  
-Added : 2025-05-24   |  Author : dekuNukem
+Format: 35mm         |  Process : K-14    
+ISO   : 64           |  Expiry  : 2007-05 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : dc9c151b87de48339e564e6692663206
 ```
 
 <a href="./archive/00060_000.jpg">
-	<img src="./lowres/00060_000.jpg" alt="Kodak Kodachrome 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00060_000.jpg" alt="Kodak Kodachrome 64 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [dekuNukem] Kodak Kodacolor Gold 200 (ref: f368)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 1988-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-05-24   |  Author  : dekuNukem
+UUID  : 78bfeed667154d819902ec92d7dcf368
+```
+
+<a href="./archive/00068_000.jpg">
+	<img src="./lowres/00068_000.jpg" alt="Kodak Kodacolor Gold 200 110 film box outside" loading="lazy" width="500" />
 </a>
 
 #### [dekuNukem] Kodak Kodacolor-X (ref: a4b1)
 
 ```
-Format: 120          |  Process: C-22     
-ISO   : 80           |  Expiry : 1974-01  
-Added : 2025-05-24   |  Author : dekuNukem
+Format: 120          |  Process : C-22    
+ISO   : 80           |  Expiry  : 1974-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 01bfcffd1db54d6eadefbc1442f7a4b1
 ```
 
@@ -2869,9 +3022,10 @@ UUID  : 01bfcffd1db54d6eadefbc1442f7a4b1
 #### [dekuNukem] Kodak Kodacolor-X (ref: 5302)
 
 ```
-Format: 126          |  Process: C-22     
-ISO   : 80           |  Expiry : 1975-05  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 126          |  Process : C-22    
+ISO   : 80           |  Expiry  : 1975-05 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 5a3d2ba8ff7649c9b3450d7069445302
 ```
 
@@ -2879,25 +3033,27 @@ UUID  : 5a3d2ba8ff7649c9b3450d7069445302
 	<img src="./lowres/00024_000.jpg" alt="Kodak Kodacolor-X 126 film box outside" loading="lazy" width="500" />
 </a>
 
-#### [dekuNukem] Kodak TMAX (ref: b3b1)
+#### [dekuNukem] Kodak TMAX 100 (ref: b3b1)
 
 ```
-Format: 120          |  Process: BW       
-ISO   : 100          |  Expiry : 2023-07  
-Added : 2025-05-24   |  Author : dekuNukem
+Format: 120          |  Process : BW      
+ISO   : 100          |  Expiry  : 2023-07 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 9a43d0c373354e1989ea7bb7a43db3b1
 ```
 
 <a href="./archive/00069_000.jpg">
-	<img src="./lowres/00069_000.jpg" alt="Kodak TMAX 120 film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00069_000.jpg" alt="Kodak TMAX 100 120 film box outside" loading="lazy" height="500" />
 </a>
 
 #### [dekuNukem] Kodak Technical Pan 6415 (ref: 03be)
 
 ```
-Format: 120          |  Process: BW       
-ISO   : 25           |  Expiry : 1988-05  
-Added : 2025-01-05   |  Author : dekuNukem
+Format: 120          |  Process : BW      
+ISO   : 25           |  Expiry  : 1988-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : 3a03860d64d2400caee97955197703be
 ```
 
@@ -2919,25 +3075,27 @@ UUID  : 3a03860d64d2400caee97955197703be
 	<img src="./lowres/00037_002.jpg" alt="Kodak Technical Pan 6415 120 film box leaflet" loading="lazy" height="500" />
 </a>
 
-#### [dekuNukem] Kodak Tri-X (ref: 88c5)
+#### [dekuNukem] Kodak Tri-X 400 (ref: 88c5)
 
 ```
-Format: 120          |  Process: BW       
-ISO   : 400          |  Expiry : 2025-12  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2025-12 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : f7f99b9d46a4491c9cbfda4f030f88c5
 ```
 
 <a href="./archive/00028_000.jpg">
-	<img src="./lowres/00028_000.jpg" alt="Kodak Tri-X 120 film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00028_000.jpg" alt="Kodak Tri-X 400 120 film box outside" loading="lazy" height="500" />
 </a>
 
 #### [dekuNukem] Konica Infrared 750nm (ref: e696)
 
 ```
-Format: 120          |  Process: BW       
-ISO   : 32           |  Expiry : 1991-02  
-Added : 2025-01-05   |  Author : dekuNukem
+Format: 120          |  Process : BW      
+ISO   : 32           |  Expiry  : 1991-02 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : 79a0275aee8e43e895b5794a8538e696
 ```
 
@@ -2955,9 +3113,10 @@ UUID  : 79a0275aee8e43e895b5794a8538e696
 #### [dekuNukem] Konica Infrared 750nm (ref: 2d93)
 
 ```
-Format: 120          |  Process: BW       
-ISO   : 32           |  Expiry : 2000-03  
-Added : 2025-01-05   |  Author : dekuNukem
+Format: 120          |  Process : BW      
+ISO   : 32           |  Expiry  : 2000-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : 63b2857f2df549878446cc1963362d93
 ```
 
@@ -2968,9 +3127,10 @@ UUID  : 63b2857f2df549878446cc1963362d93
 #### [dekuNukem] Lloyds Pharmacy APS Film (ref: c7cf)
 
 ```
-Format: APS          |  Process: C-41     
-ISO   : 200          |  Expiry : 2007-08  
-Added : 2025-05-24   |  Author : dekuNukem
+Format: APS          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2007-08 
+Type  : Single Pack  |  Quantity: 40exp   
+Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 44bd7d4688e04d19a958d961c2abc7cf
 ```
 
@@ -2981,9 +3141,10 @@ UUID  : 44bd7d4688e04d19a958d961c2abc7cf
 #### [dekuNukem] Lloyds Pharmacy Colour Film (ref: 77d9)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 200          |  Expiry : 2009-07  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2009-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : c58dda071d1741fda90e20b4252277d9
 ```
 
@@ -2994,9 +3155,10 @@ UUID  : c58dda071d1741fda90e20b4252277d9
 #### [dekuNukem] Lomography Lomochrome Turquoise (ref: 0d90)
 
 ```
-Format: 120          |  Process: C-41     
-ISO   : 100-400      |  Expiry : 2025-07  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 120          |  Process : C-41    
+ISO   : 100-400      |  Expiry  : 2025-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 99643a4fc27b4ff298e834fc72970d90
 ```
 
@@ -3014,9 +3176,10 @@ UUID  : 99643a4fc27b4ff298e834fc72970d90
 #### [dekuNukem] Polaroid 665 (ref: e054)
 
 ```
-Format: Pack Film    |  Process: Instant  
-ISO   : 80           |  Expiry : 1996-08  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: Pack Film    |  Process : Instant 
+ISO   : 80           |  Expiry  : 1996-08 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 311d896d68b74b1193afcfa129c5e054
 ```
 
@@ -3027,9 +3190,10 @@ UUID  : 311d896d68b74b1193afcfa129c5e054
 #### [dekuNukem] Polaroid 669 (ref: 3566)
 
 ```
-Format: Pack Film    |  Process: Instant  
-ISO   : 80           |  Expiry : 2006-03  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: Pack Film    |  Process : Instant 
+ISO   : 80           |  Expiry  : 2006-03 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : bb62de3a22c04f699c780aeae7c83566
 ```
 
@@ -3040,9 +3204,10 @@ UUID  : bb62de3a22c04f699c780aeae7c83566
 #### [dekuNukem] Polaroid 87 (ref: 62ef)
 
 ```
-Format: Pack Film    |  Process: Instant  
-ISO   : 3000         |  Expiry : 2006-07  
-Added : 2025-08-03   |  Author : dekuNukem
+Format: Pack Film    |  Process : Instant 
+ISO   : 3000         |  Expiry  : 2006-07 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2025-08-03   |  Author  : dekuNukem
 UUID  : 5a63521777ca4f788d01aac5f94862ef
 ```
 
@@ -3060,9 +3225,10 @@ UUID  : 5a63521777ca4f788d01aac5f94862ef
 #### [dekuNukem] Polaroid GridFilm (ref: 8deb)
 
 ```
-Format: Integral Film|  Process: Instant  
-ISO   : 640          |  Expiry : 2006-10  
-Added : 2025-01-05   |  Author : dekuNukem
+Format: Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2006-10 
+Type  : Multi-Pack-2 |  Quantity: 10exp   
+Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : 4f1aabf29f724c9ea3b2bee414b08deb
 ```
 
@@ -3094,9 +3260,10 @@ UUID  : 4f1aabf29f724c9ea3b2bee414b08deb
 #### [dekuNukem] Polaroid PolaBlue 35mm (ref: df66)
 
 ```
-Format: 35mm         |  Process: Instant  
-ISO   : 8            |  Expiry : 1992-08  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 35mm         |  Process : Instant 
+ISO   : 8            |  Expiry  : 1992-08 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 8236180d686f4e9ca4aa8e6fc397df66
 ```
 
@@ -3149,9 +3316,10 @@ UUID  : 8236180d686f4e9ca4aa8e6fc397df66
 #### [dekuNukem] Polaroid PolaChrome 35mm (ref: 3b60)
 
 ```
-Format: 35mm         |  Process: Instant  
-ISO   : 40           |  Expiry : 1992-09  
-Added : 2025-01-05   |  Author : dekuNukem
+Format: 35mm         |  Process : Instant 
+ISO   : 40           |  Expiry  : 1992-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : b0041b1e44a64f6591d49e918e033b60
 ```
 
@@ -3190,9 +3358,10 @@ UUID  : b0041b1e44a64f6591d49e918e033b60
 #### [dekuNukem] Polaroid PolaPan 35mm (ref: 9825)
 
 ```
-Format: 35mm         |  Process: Instant  
-ISO   : 125          |  Expiry : 1988-04  
-Added : 2025-08-03   |  Author : dekuNukem
+Format: 35mm         |  Process : Instant 
+ISO   : 125          |  Expiry  : 1988-04 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-08-03   |  Author  : dekuNukem
 UUID  : 24a8ae46c50049afb35fc44e956a9825
 ```
 
@@ -3231,9 +3400,10 @@ UUID  : 24a8ae46c50049afb35fc44e956a9825
 #### [dekuNukem] Polaroid Polacolor 679 (ref: 625c)
 
 ```
-Format: Pack Film    |  Process: Instant  
-ISO   : 100          |  Expiry : 1998-06  
-Added : 2025-08-03   |  Author : dekuNukem
+Format: Pack Film    |  Process : Instant 
+ISO   : 100          |  Expiry  : 1998-06 
+Type  : Multi-Pack-2 |  Quantity: 10exp   
+Added : 2025-08-03   |  Author  : dekuNukem
 UUID  : 5844215c1fc74612b6118648b845625c
 ```
 
@@ -3265,9 +3435,10 @@ UUID  : 5844215c1fc74612b6118648b845625c
 #### [dekuNukem] Rollei Infrared (ref: 4f54)
 
 ```
-Format: 120          |  Process: BW       
-ISO   : 200          |  Expiry : 2027-08  
-Added : 2025-01-05   |  Author : dekuNukem
+Format: 120          |  Process : BW      
+ISO   : 200          |  Expiry  : 2027-08 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : b7bb7d65979543d0a8e5c9179d734f54
 ```
 
@@ -3278,9 +3449,10 @@ UUID  : b7bb7d65979543d0a8e5c9179d734f54
 #### [dekuNukem] Rollei Retro 80S (ref: e6c0)
 
 ```
-Format: 120          |  Process: BW       
-ISO   : 80           |  Expiry : 2026-02  
-Added : 2025-01-04   |  Author : dekuNukem
+Format: 120          |  Process : BW      
+ISO   : 80           |  Expiry  : 2026-02 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : fb2ccfebcf2f4a17afe00acaaea5e6c0
 ```
 
@@ -3298,9 +3470,10 @@ UUID  : fb2ccfebcf2f4a17afe00acaaea5e6c0
 #### [dekuNukem] Three Film Rolls 5207 (ref: 0292)
 
 ```
-Format: 35mm         |  Process: ECN-2    
-ISO   : 250          |  Expiry : 2025-12  
-Added : 2025-05-24   |  Author : dekuNukem
+Format: 35mm         |  Process : ECN-2   
+ISO   : 250          |  Expiry  : 2025-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 4de0f5e76dd748c488fa81be23340292
 ```
 
@@ -3311,9 +3484,10 @@ UUID  : 4de0f5e76dd748c488fa81be23340292
 #### [lilyu.xyz] Agfa APX (ref: 5276)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 100          |  Expiry : 2028-05  
-Added : 2025-07-28   |  Author : lilyu.xyz
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2028-05 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-28   |  Author  : lilyu.xyz
 UUID  : ecf4e081ccf64a9a8606601f9f665276
 ```
 
@@ -3331,9 +3505,10 @@ UUID  : ecf4e081ccf64a9a8606601f9f665276
 #### [lilyu.xyz] Foma Fomapan (ref: 84a5)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 200          |  Expiry : 2028-01  
-Added : 2025-07-28   |  Author : lilyu.xyz
+Format: 35mm         |  Process : BW      
+ISO   : 200          |  Expiry  : 2028-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-28   |  Author  : lilyu.xyz
 UUID  : c3d51159b481435b90dbe2411de784a5
 ```
 
@@ -3351,9 +3526,10 @@ UUID  : c3d51159b481435b90dbe2411de784a5
 #### [lilyu.xyz] Kodak Gold (ref: ea58)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 100          |  Expiry : 2001-10  
-Added : 2025-07-28   |  Author : lilyu.xyz
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2001-10 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2025-07-28   |  Author  : lilyu.xyz
 UUID  : e45118f7bd5e4ae682e5747a81f0ea58
 ```
 
@@ -3368,32 +3544,34 @@ UUID  : e45118f7bd5e4ae682e5747a81f0ea58
 	<img src="./lowres/00095_001.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="500" />
 </a>
 
-#### [lilyu.xyz] Kodak Gold Ultra (ref: 1358)
+#### [lilyu.xyz] Kodak Gold Ultra 400 (ref: 1358)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 400          |  Expiry : 2001-01  
-Added : 2025-07-28   |  Author : lilyu.xyz
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2001-01 
+Type  : Multi-Pack-2 |  Quantity: 24exp   
+Added : 2025-07-28   |  Author  : lilyu.xyz
 UUID  : c2dc7711cd38434da5cfea8750f61358
 ```
 
 <a href="./archive/00094_000.jpg">
-	<img src="./lowres/00094_000.jpg" alt="Kodak Gold Ultra 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00094_000.jpg" alt="Kodak Gold Ultra 400 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: 1501f7eec7f34d3788b6c7b94a4134df`↓
 
 <a href="./archive/00094_001.jpg">
-	<img src="./lowres/00094_001.jpg" alt="Kodak Gold Ultra 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00094_001.jpg" alt="Kodak Gold Ultra 400 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [lilyu.xyz] Perutz Superomnia (ref: c90d)
 
 ```
-Format: 9x12         |  Process: BW       
-ISO   : 125          |  Expiry : Unknown  
-Added : 2025-07-28   |  Author : lilyu.xyz
+Format: 9x12         |  Process : BW      
+ISO   : 125          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-07-28   |  Author  : lilyu.xyz
 UUID  : b220e7d5dbee49898fbd1d42ee67c90d
 ```
 
@@ -3404,9 +3582,10 @@ UUID  : b220e7d5dbee49898fbd1d42ee67c90d
 #### [lt_col_tall] CatLABS X Film 320 Pro (ref: 1c69)
 
 ```
-Format: 120          |  Process: BW       
-ISO   : 320          |  Expiry : 2026-12  
-Added : 2025-08-18   |  Author : lt_col_tall
+Format: 120          |  Process : BW      
+ISO   : 320          |  Expiry  : 2026-12 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-08-18   |  Author  : lt_col_tall
 UUID  : b5423225b6b2496eaf713a5a38731c69
 ```
 
@@ -3424,9 +3603,10 @@ UUID  : b5423225b6b2496eaf713a5a38731c69
 #### [lt_col_tall] Reflx Lab 250D (ref: 1a3e)
 
 ```
-Format: 120          |  Process: ECN-2    
-ISO   : 250          |  Expiry : 2027-12  
-Added : 2025-08-18   |  Author : lt_col_tall
+Format: 120          |  Process : ECN-2   
+ISO   : 250          |  Expiry  : 2027-12 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-08-18   |  Author  : lt_col_tall
 UUID  : ce8b081c148f43f7921e2fb4d7aa1a3e
 ```
 
@@ -3437,9 +3617,10 @@ UUID  : ce8b081c148f43f7921e2fb4d7aa1a3e
 #### [lt_col_tall] Reflx Lab Pro 100 (ref: 1311)
 
 ```
-Format: 220          |  Process: C-41     
-ISO   : 100          |  Expiry : 2027-12  
-Added : 2025-08-18   |  Author : lt_col_tall
+Format: 220          |  Process : C-41    
+ISO   : 100          |  Expiry  : 2027-12 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-08-18   |  Author  : lt_col_tall
 UUID  : f7bc85a093744f3084883876ecc51311
 ```
 
@@ -3450,9 +3631,10 @@ UUID  : f7bc85a093744f3084883876ecc51311
 #### [stefanie] Agfa Agfacolor XRG (ref: 689e)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 200          |  Expiry : 2005-03  
-Added : 2025-07-31   |  Author : stefanie 
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2005-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : stefanie
 UUID  : 86136eea89d14e15b60dfcdf45b1689e
 ```
 
@@ -3470,9 +3652,10 @@ UUID  : 86136eea89d14e15b60dfcdf45b1689e
 #### [stefanie] Alfo ALFOcolor PR-G (ref: 94b9)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 1600         |  Expiry : 1993-08  
-Added : 2025-07-31   |  Author : stefanie 
+Format: 35mm         |  Process : C-41    
+ISO   : 1600         |  Expiry  : 1993-08 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-07-31   |  Author  : stefanie
 UUID  : cc723aa89e9e43ec8ac1ebd18efa94b9
 ```
 
@@ -3480,32 +3663,34 @@ UUID  : cc723aa89e9e43ec8ac1ebd18efa94b9
 	<img src="./lowres/00151_000.jpg" alt="Alfo ALFOcolor PR-G 35mm film box outside" loading="lazy" height="500" />
 </a>
 
-#### [stefanie] Fujifilm Fujicolor SuperHG (ref: ee94)
+#### [stefanie] Fujifilm Fujicolor Super HG (ref: ee94)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 100          |  Expiry : 1994-07  
-Added : 2025-07-31   |  Author : stefanie 
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1994-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : stefanie
 UUID  : 9233714654ff481089c2d4ff1334ee94
 ```
 
 <a href="./archive/00150_000.jpg">
-	<img src="./lowres/00150_000.jpg" alt="Fujifilm Fujicolor SuperHG 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00150_000.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: 302969081f4442239212b8e123d38378`↓
 
 <a href="./archive/00150_001.jpg">
-	<img src="./lowres/00150_001.jpg" alt="Fujifilm Fujicolor SuperHG 35mm film box inside" loading="lazy" height="500" />
+	<img src="./lowres/00150_001.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box inside" loading="lazy" height="500" />
 </a>
 
 #### [stefanie] Kodak Ektachrome (ref: 8f62)
 
 ```
-Format: Super 8      |  Process: Unknown  
-ISO   : 160          |  Expiry : 1980-11  
-Added : 2025-07-31   |  Author : stefanie 
+Format: Super 8      |  Process : Unknown 
+ISO   : 160          |  Expiry  : 1980-11 
+Type  : Single Pack  |  Quantity: 50ft    
+Added : 2025-07-31   |  Author  : stefanie
 UUID  : 6032680a3aba41b39c600d7e23998f62
 ```
 
@@ -3544,9 +3729,10 @@ UUID  : 6032680a3aba41b39c600d7e23998f62
 #### [stefanie] Kodak Gold (ref: 2f8d)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 100          |  Expiry : 1999-05  
-Added : 2025-07-31   |  Author : stefanie 
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1999-05 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : stefanie
 UUID  : c56f944bf87d40dcac75cf41aeb82f8d
 ```
 
@@ -3557,9 +3743,10 @@ UUID  : c56f944bf87d40dcac75cf41aeb82f8d
 #### [stefanie] Kodak Kodacolor VR Plus (ref: f8bf)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 400          |  Expiry : 2012-03  
-Added : 2025-07-31   |  Author : stefanie 
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2012-03 
+Type  : Multi-Pack-2 |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : stefanie
 UUID  : faf0a44eece541a9b701feb772f4f8bf
 ```
 
@@ -3570,9 +3757,10 @@ UUID  : faf0a44eece541a9b701feb772f4f8bf
 #### [toader] Kodak Ektachrome 100 Plus (ref: 5d9f)
 
 ```
-Format: 35mm         |  Process: E-6      
-ISO   : 100          |  Expiry : 2002-08  
-Added : 2025-07-31   |  Author : toader   
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2002-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : toader  
 UUID  : b17b7b46926e49ae88a7b74904245d9f
 ```
 
@@ -3590,9 +3778,10 @@ UUID  : b17b7b46926e49ae88a7b74904245d9f
 #### [toader] Kodak Ektachrome E100 (ref: ae10)
 
 ```
-Format: 35mm         |  Process: E-6      
-ISO   : 100          |  Expiry : 2027-02  
-Added : 2025-08-02   |  Author : toader   
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2027-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-02   |  Author  : toader  
 UUID  : 829cd9dd98cd489f8bff71e403c1ae10
 ```
 
@@ -3600,32 +3789,34 @@ UUID  : 829cd9dd98cd489f8bff71e403c1ae10
 	<img src="./lowres/00155_000.jpg" alt="Kodak Ektachrome E100 35mm film box outside" loading="lazy" height="500" />
 </a>
 
-#### [toader] Kodak Ektachrome Elite (ref: 26ef)
+#### [toader] Kodak Ektachrome Elite 100 (ref: 26ef)
 
 ```
-Format: 35mm         |  Process: E-6      
-ISO   : 100          |  Expiry : 1995-11  
-Added : 2025-07-31   |  Author : toader   
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 1995-11 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-07-31   |  Author  : toader  
 UUID  : 175cf2b69fe3413093d9d7f9ea0d26ef
 ```
 
 <a href="./archive/00114_000.jpg">
-	<img src="./lowres/00114_000.jpg" alt="Kodak Ektachrome Elite 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00114_000.jpg" alt="Kodak Ektachrome Elite 100 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: 89d1b19f3e364f55adc2523a07ed9ddb`↓
 
 <a href="./archive/00114_001.jpg">
-	<img src="./lowres/00114_001.jpg" alt="Kodak Ektachrome Elite 35mm film box inside" loading="lazy" height="500" />
+	<img src="./lowres/00114_001.jpg" alt="Kodak Ektachrome Elite 100 35mm film box inside" loading="lazy" height="500" />
 </a>
 
 #### [toader] Polaroid Color 600 Film Round Frame (ref: d985)
 
 ```
-Format: Integral Film|  Process: Instant  
-ISO   : 640          |  Expiry : 2024-12  
-Added : 2025-08-02   |  Author : toader   
+Format: Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2024-12 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-08-02   |  Author  : toader  
 UUID  : e798fdd114be4a018cb7651bba94d985
 ```
 
@@ -3657,9 +3848,10 @@ UUID  : e798fdd114be4a018cb7651bba94d985
 #### [toader] Polaroid Color SX-70 Film (ref: dc7f)
 
 ```
-Format: Integral Film|  Process: Instant  
-ISO   : 160          |  Expiry : 2025-04  
-Added : 2025-08-02   |  Author : toader   
+Format: Integral Film|  Process : Instant 
+ISO   : 160          |  Expiry  : 2025-04 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-08-02   |  Author  : toader  
 UUID  : b4af154cea6f40c0aa1d4154d0c2dc7f
 ```
 
@@ -3691,9 +3883,10 @@ UUID  : b4af154cea6f40c0aa1d4154d0c2dc7f
 #### [u/ReeeSchmidtyWerber] Kodak Panatomic-X (ref: 8d69)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 32           |  Expiry : 1976-12  
-Added : 2025-08-16   |  Author : u/ReeeSchmidtyWerber
+Format: 35mm         |  Process : BW      
+ISO   : 32           |  Expiry  : 1976-12 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2025-08-16   |  Author  : u/ReeeSchmidtyWerber
 UUID  : 386384f6be954ddc8ab42f3bcb1d8d69
 ```
 
@@ -3704,9 +3897,10 @@ UUID  : 386384f6be954ddc8ab42f3bcb1d8d69
 #### [u/ReeeSchmidtyWerber] Kodak Panatomic-X (ref: 35f6)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 32           |  Expiry : 1977013  
-Added : 2025-08-16   |  Author : u/ReeeSchmidtyWerber
+Format: 35mm         |  Process : BW      
+ISO   : 32           |  Expiry  : 1977013 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-08-16   |  Author  : u/ReeeSchmidtyWerber
 UUID  : 475b6bf4c66141b48fc73ace756435f6
 ```
 
@@ -3731,9 +3925,10 @@ UUID  : 475b6bf4c66141b48fc73ace756435f6
 #### [yc128] Harman Phoenix (ref: 8eb4)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 200          |  Expiry : 2025-12  
-Added : 2025-06-25   |  Author : yc128    
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2025-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-06-25   |  Author  : yc128   
 UUID  : 2fe522ef01b84a9aa6263807135f8eb4
 ```
 
@@ -3758,9 +3953,10 @@ UUID  : 2fe522ef01b84a9aa6263807135f8eb4
 #### [yc128] Harman Phoenix II (ref: f686)
 
 ```
-Format: 120          |  Process: C-41     
-ISO   : 200          |  Expiry : 2027-06  
-Added : 2025-07-30   |  Author : yc128    
+Format: 120          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2027-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-07-30   |  Author  : yc128   
 UUID  : 42f9d40379814cf8b02c3f0daf74f686
 ```
 
@@ -3778,9 +3974,10 @@ UUID  : 42f9d40379814cf8b02c3f0daf74f686
 #### [yc128] Harman Phoenix II (ref: 40df)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 200          |  Expiry : 2027-06  
-Added : 2025-07-30   |  Author : yc128    
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2027-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-30   |  Author  : yc128   
 UUID  : f12ed23e31e14008a969fe05f29940df
 ```
 
@@ -3798,9 +3995,10 @@ UUID  : f12ed23e31e14008a969fe05f29940df
 #### [yc128] Ilford FP4 Plus (ref: 76e7)
 
 ```
-Format: 120          |  Process: BW       
-ISO   : 125          |  Expiry : 2026-04  
-Added : 2025-07-30   |  Author : yc128    
+Format: 120          |  Process : BW      
+ISO   : 125          |  Expiry  : 2026-04 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-07-30   |  Author  : yc128   
 UUID  : c6c88d6d009048e9ac3721bdc7f076e7
 ```
 
@@ -3818,9 +4016,10 @@ UUID  : c6c88d6d009048e9ac3721bdc7f076e7
 #### [yc128] Kosmo Foto Mono (ref: b74f)
 
 ```
-Format: 35mm         |  Process: BW       
-ISO   : 100          |  Expiry : 2027-04  
-Added : 2025-06-25   |  Author : yc128    
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2027-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-06-25   |  Author  : yc128   
 UUID  : 678648d080ba4e3e8f8e3bd7f429b74f
 ```
 
@@ -3831,9 +4030,10 @@ UUID  : 678648d080ba4e3e8f8e3bd7f429b74f
 #### [yc128] SantaColor SantaColor (ref: cb58)
 
 ```
-Format: 35mm         |  Process: C-41     
-ISO   : 100          |  Expiry : 2025-09  
-Added : 2025-07-30   |  Author : yc128    
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2025-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-30   |  Author  : yc128   
 UUID  : e54ce68c797b4846b9aee3f5818ecb58
 ```
 

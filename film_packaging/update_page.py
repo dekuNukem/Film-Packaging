@@ -123,17 +123,21 @@ def render_two_cols(info: dict, col_width: int = 21) -> str:
     iso = info.get(ITEM_ISO_KEY, "")
     author = info.get(ITEM_AUTHOR_KEY, "")
     uuid = info.get(ITEM_UUID_KEY, "")
+    box_type = info.get(ITEM_BOX_TYPE_KEY, "")
+    quantity = info.get(ITEM_QUANTITY_KEY, "")
+    notes = info.get(ITEM_NOTES_KEY, "")
 
     # Helper to make one column padded to col_width
     def col(label, value):
         return f"{label}: {value}".ljust(col_width)
 
     # Build the lines
-    line1 = col("Format", fmt) + col("|  Process", proc)
-    line2 = col("ISO   ", iso) + col("|  Expiry ", exp_fmt)
-    line3 = col("Added ", added_fmt) + col("|  Author ", author)
-    line4 = f"UUID  : {uuid}\n"
-    return "\n".join([line1, line2, line3, line4])
+    line1 = col("Format", fmt) + col("|  Process ", proc)
+    line2 = col("ISO   ", iso) + col("|  Expiry  ", exp_fmt)
+    line3 = col("Type  ", box_type) + col("|  Quantity", quantity)
+    line4 = col("Added ", added_fmt) + col("|  Author  ", author)
+    line5 = f"UUID  : {uuid}\n"
+    return "\n".join([line1, line2, line3, line4, line5])
 
 # -----------
 
@@ -198,22 +202,26 @@ try:
 except Exception as e:
     print("csv read exception:", e)
 
-sorted_db_by_brand = sorted(database_entries, key=operator.itemgetter(ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_EXPIRY_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
-out_str = make_md("BRAND", sorted_db_by_brand)
+sorted_db = sorted(database_entries, key=operator.itemgetter(ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_EXPIRY_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
+out_str = make_md("BRAND", sorted_db)
 write_to_file("./by_brand.md", out_str)
 
-sorted_db_by_brand = sorted(database_entries, key=operator.itemgetter(ITEM_EXPIRY_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
-out_str = make_md("EXPIRY DATE", sorted_db_by_brand, ftk=ITEM_EXPIRY_KEY, ftf=expiry_func)
+sorted_db = sorted(database_entries, key=operator.itemgetter(ITEM_EXPIRY_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
+out_str = make_md("EXPIRY DATE", sorted_db, ftk=ITEM_EXPIRY_KEY, ftf=expiry_func)
 write_to_file("./by_expiry.md", out_str)
 
-sorted_db_by_brand = sorted(database_entries, key=operator.itemgetter(ITEM_FORMAT_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_EXPIRY_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
-out_str = make_md("FILM FORMAT", sorted_db_by_brand, ftk=ITEM_FORMAT_KEY, ftf=None)
+sorted_db = sorted(database_entries, key=operator.itemgetter(ITEM_FORMAT_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_EXPIRY_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
+out_str = make_md("FILM FORMAT", sorted_db, ftk=ITEM_FORMAT_KEY, ftf=None)
 write_to_file("./by_format.md", out_str)
 
-sorted_db_by_brand = sorted(database_entries, key=operator.itemgetter(ITEM_PROCESS_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_EXPIRY_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
-out_str = make_md("PROCESS TYPE", sorted_db_by_brand, ftk=ITEM_PROCESS_KEY, ftf=None)
+sorted_db = sorted(database_entries, key=operator.itemgetter(ITEM_PROCESS_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_EXPIRY_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
+out_str = make_md("PROCESS TYPE", sorted_db, ftk=ITEM_PROCESS_KEY, ftf=None)
 write_to_file("./by_process.md", out_str)
 
-sorted_db_by_brand = sorted(database_entries, key=operator.itemgetter(ITEM_AUTHOR_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_EXPIRY_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
-out_str = make_md("CONTRIBUTOR", sorted_db_by_brand, ftk=ITEM_AUTHOR_KEY, ftf=None)
+sorted_db = sorted(database_entries, key=operator.itemgetter(ITEM_AUTHOR_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_EXPIRY_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
+out_str = make_md("CONTRIBUTOR", sorted_db, ftk=ITEM_AUTHOR_KEY, ftf=None)
 write_to_file("./by_user.md", out_str)
+
+sorted_db = sorted(database_entries, key=operator.itemgetter(ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
+out_str = make_md("INDEX", sorted_db, ftk=ITEM_INDEX_KEY, ftf=None)
+write_to_file("./by_index.md", out_str)
