@@ -420,7 +420,7 @@ UUID  : b2470c1734d344698f6e1c01eaa85e7b
 ```
 Format: 9x12cm       |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 12exp   
+Type  : Single Pack  |  Quantity: 12 Sheets
 Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : 952823ad9ef14c75a83ac8e230b38e68
 ```
@@ -560,7 +560,7 @@ UUID  : b5423225b6b2496eaf713a5a38731c69
 ```
 Format: 12x16.5cm    |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 12exp   
+Type  : Single Pack  |  Quantity: 12 Sheets
 Added : 2025-08-19   |  Author  : @ellafridalindblom
 UUID  : 24c9c3108671446dae824d00093fd69c
 ```
@@ -784,7 +784,7 @@ UUID  : 1c541b4c837944d788eab8986f349db3
 ```
 Format: 6.5x9cm      |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 12exp   
+Type  : Single Pack  |  Quantity: 12 Sheets
 Added : 2025-08-19   |  Author  : @ellafridalindblom
 UUID  : 1056543f30334a238387be8abe2dec67
 ```
@@ -1001,7 +1001,7 @@ UUID  : 7856b5442362453caa67628c93be6057
 ```
 Format: 6.5x9cm      |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 12exp   
+Type  : Single Pack  |  Quantity: 12 Sheets
 Added : 2025-08-19   |  Author  : @ellafridalindblom
 UUID  : bec584ee60f3462381719b3e908f54fe
 ```
@@ -1582,7 +1582,7 @@ UUID  : 9791c2074fdd4340a1463312ed77b16c
 ```
 Format: 9x12cm       |  Process : BW      
 ISO   : 125          |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 12exp   
+Type  : Single Pack  |  Quantity: 12 Sheets
 Added : 2025-07-28   |  Author  : lilyu.xyz
 UUID  : b220e7d5dbee49898fbd1d42ee67c90d
 ```
