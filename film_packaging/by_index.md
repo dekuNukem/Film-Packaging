@@ -2070,7 +2070,7 @@ UUID  : e45118f7bd5e4ae682e5747a81f0ea58
 #### [96] Perutz Superomnia (ref: c90d)
 
 ```
-Format: 9x12         |  Process : BW      
+Format: 9x12cm       |  Process : BW      
 ISO   : 125          |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 12exp   
 Added : 2025-07-28   |  Author  : lilyu.xyz
@@ -2078,7 +2078,7 @@ UUID  : b220e7d5dbee49898fbd1d42ee67c90d
 ```
 
 <a href="./archive/00096_000.jpg">
-	<img src="./lowres/00096_000.jpg" alt="Perutz Superomnia 9x12 film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00096_000.jpg" alt="Perutz Superomnia 9x12cm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [97] Kodak Kodacolor VR (ref: 035f)
@@ -2105,7 +2105,7 @@ UUID  : a26daa2cb6e44957af3d978bc67e035f
 #### [98] Agfa Autolith Repo (ref: 8e68)
 
 ```
-Format: 9x12         |  Process : BW      
+Format: 9x12cm       |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 12exp   
 Added : 2025-07-29   |  Author  : Nano_Burger
@@ -2113,7 +2113,7 @@ UUID  : 952823ad9ef14c75a83ac8e230b38e68
 ```
 
 <a href="./archive/00098_000.jpg">
-	<img src="./lowres/00098_000.jpg" alt="Agfa Autolith Repo 9x12 film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00098_000.jpg" alt="Agfa Autolith Repo 9x12cm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [99] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)
@@ -4079,7 +4079,7 @@ UUID  : 59aa1c52cf434a60976debe684a3d53a
 #### [204] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)
 
 ```
-Format: 6.5x9        |  Process : BW      
+Format: 6.5x9cm      |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 12exp   
 Added : 2025-08-19   |  Author  : @ellafridalindblom
@@ -4087,7 +4087,7 @@ UUID  : 1056543f30334a238387be8abe2dec67
 ```
 
 <a href="./archive/00204_000.jpg">
-	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plåtar E.R.Orto 6.5x9 film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plåtar E.R.Orto 6.5x9cm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [205] Foton Fotopan F (ref: 0ad6)
@@ -4121,7 +4121,7 @@ UUID  : 515a9a246a8e4eed87d77142623a4411
 #### [207] Illingworth's Fleet H&D (ref: 54fe)
 
 ```
-Format: 6.5x9        |  Process : BW      
+Format: 6.5x9cm      |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 12exp   
 Added : 2025-08-19   |  Author  : @ellafridalindblom
@@ -4129,7 +4129,7 @@ UUID  : bec584ee60f3462381719b3e908f54fe
 ```
 
 <a href="./archive/00207_000.jpg">
-	<img src="./lowres/00207_000.jpg" alt="Illingworth's Fleet H&D 6.5x9 film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00207_000.jpg" alt="Illingworth's Fleet H&D 6.5x9cm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [208] Defender Portrait HGS (ref: d69c)

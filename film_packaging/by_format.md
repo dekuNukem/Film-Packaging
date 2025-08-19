@@ -210,13 +210,13 @@ Last Updated: Aug 19 2025
 - [[35mm] Wolfen NC500 (ref: 91c1)](#35mm-wolfen-nc500-ref-91c1)
 - [[35mm] Wolfen NP100 (ref: 71a6)](#35mm-wolfen-np100-ref-71a6)
 - [[35mm] York Photo Labs DXG 200 (ref: 4bf8)](#35mm-york-photo-labs-dxg-200-ref-4bf8)
-- [[6.5x9] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#65x9-hasselblad-hassel-plåtar-erorto-ref-ec67)
-- [[6.5x9] Illingworth's Fleet H&D (ref: 54fe)](#65x9-illingworths-fleet-h-d-ref-54fe)
+- [[6.5x9cm] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#65x9cm-hasselblad-hassel-plåtar-erorto-ref-ec67)
+- [[6.5x9cm] Illingworth's Fleet H&D (ref: 54fe)](#65x9cm-illingworths-fleet-h-d-ref-54fe)
 - [[620] Kodak Verichrome Pan (ref: 0195)](#620-kodak-verichrome-pan-ref-0195)
 - [[70mm] Kodak Portra 400NC (ref: b8de)](#70mm-kodak-portra-400nc-ref-b8de)
 - [[828] Kodak Ektachrome-X (ref: ae7e)](#828-kodak-ektachrome-x-ref-ae7e)
-- [[9x12] Agfa Autolith Repo (ref: 8e68)](#9x12-agfa-autolith-repo-ref-8e68)
-- [[9x12] Perutz Superomnia (ref: c90d)](#9x12-perutz-superomnia-ref-c90d)
+- [[9x12cm] Agfa Autolith Repo (ref: 8e68)](#9x12cm-agfa-autolith-repo-ref-8e68)
+- [[9x12cm] Perutz Superomnia (ref: c90d)](#9x12cm-perutz-superomnia-ref-c90d)
 - [[APS] Jessops Diamond Everyday (ref: 67d3)](#aps-jessops-diamond-everyday-ref-67d3)
 - [[APS] Klick APS Film (ref: 4b88)](#aps-klick-aps-film-ref-4b88)
 - [[APS] Kodak Advantix Ultra (ref: 566b)](#aps-kodak-advantix-ultra-ref-566b)
@@ -3782,10 +3782,10 @@ UUID  : 46037fb6c55244b6ae47c55d0e454bf8
 	<img src="./lowres/00051_000.jpg" alt="York Photo Labs DXG 200 35mm film box outside" loading="lazy" width="500" />
 </a>
 
-#### [6.5x9] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)
+#### [6.5x9cm] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)
 
 ```
-Format: 6.5x9        |  Process : BW      
+Format: 6.5x9cm      |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 12exp   
 Added : 2025-08-19   |  Author  : @ellafridalindblom
@@ -3793,13 +3793,13 @@ UUID  : 1056543f30334a238387be8abe2dec67
 ```
 
 <a href="./archive/00204_000.jpg">
-	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plåtar E.R.Orto 6.5x9 film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plåtar E.R.Orto 6.5x9cm film box outside" loading="lazy" width="500" />
 </a>
 
-#### [6.5x9] Illingworth's Fleet H&D (ref: 54fe)
+#### [6.5x9cm] Illingworth's Fleet H&D (ref: 54fe)
 
 ```
-Format: 6.5x9        |  Process : BW      
+Format: 6.5x9cm      |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 12exp   
 Added : 2025-08-19   |  Author  : @ellafridalindblom
@@ -3807,7 +3807,7 @@ UUID  : bec584ee60f3462381719b3e908f54fe
 ```
 
 <a href="./archive/00207_000.jpg">
-	<img src="./lowres/00207_000.jpg" alt="Illingworth's Fleet H&D 6.5x9 film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00207_000.jpg" alt="Illingworth's Fleet H&D 6.5x9cm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [620] Kodak Verichrome Pan (ref: 0195)
@@ -3852,10 +3852,10 @@ UUID  : 4ee1eec740dd4838a83384cc19c6ae7e
 	<img src="./lowres/00120_000.jpg" alt="Kodak Ektachrome-X 828 film box outside" loading="lazy" height="500" />
 </a>
 
-#### [9x12] Agfa Autolith Repo (ref: 8e68)
+#### [9x12cm] Agfa Autolith Repo (ref: 8e68)
 
 ```
-Format: 9x12         |  Process : BW      
+Format: 9x12cm       |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 12exp   
 Added : 2025-07-29   |  Author  : Nano_Burger
@@ -3863,13 +3863,13 @@ UUID  : 952823ad9ef14c75a83ac8e230b38e68
 ```
 
 <a href="./archive/00098_000.jpg">
-	<img src="./lowres/00098_000.jpg" alt="Agfa Autolith Repo 9x12 film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00098_000.jpg" alt="Agfa Autolith Repo 9x12cm film box outside" loading="lazy" width="500" />
 </a>
 
-#### [9x12] Perutz Superomnia (ref: c90d)
+#### [9x12cm] Perutz Superomnia (ref: c90d)
 
 ```
-Format: 9x12         |  Process : BW      
+Format: 9x12cm       |  Process : BW      
 ISO   : 125          |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 12exp   
 Added : 2025-07-28   |  Author  : lilyu.xyz
@@ -3877,7 +3877,7 @@ UUID  : b220e7d5dbee49898fbd1d42ee67c90d
 ```
 
 <a href="./archive/00096_000.jpg">
-	<img src="./lowres/00096_000.jpg" alt="Perutz Superomnia 9x12 film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00096_000.jpg" alt="Perutz Superomnia 9x12cm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [APS] Jessops Diamond Everyday (ref: 67d3)

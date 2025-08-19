@@ -411,7 +411,7 @@ UUID  : b2470c1734d344698f6e1c01eaa85e7b
 #### Agfa Autolith Repo (ref: 8e68)
 
 ```
-Format: 9x12         |  Process : BW      
+Format: 9x12cm       |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 12exp   
 Added : 2025-07-29   |  Author  : Nano_Burger
@@ -419,7 +419,7 @@ UUID  : 952823ad9ef14c75a83ac8e230b38e68
 ```
 
 <a href="./archive/00098_000.jpg">
-	<img src="./lowres/00098_000.jpg" alt="Agfa Autolith Repo 9x12 film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00098_000.jpg" alt="Agfa Autolith Repo 9x12cm film box outside" loading="lazy" width="500" />
 </a>
 
 #### Agfa Fine-Grain Plenachrome (ref: e5d4)
@@ -1531,7 +1531,7 @@ UUID  : f12ed23e31e14008a969fe05f29940df
 #### Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)
 
 ```
-Format: 6.5x9        |  Process : BW      
+Format: 6.5x9cm      |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 12exp   
 Added : 2025-08-19   |  Author  : @ellafridalindblom
@@ -1539,7 +1539,7 @@ UUID  : 1056543f30334a238387be8abe2dec67
 ```
 
 <a href="./archive/00204_000.jpg">
-	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plåtar E.R.Orto 6.5x9 film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plåtar E.R.Orto 6.5x9cm film box outside" loading="lazy" width="500" />
 </a>
 
 #### Hazenfilm Sorolla Chrome (ref: 889f)
@@ -1797,7 +1797,7 @@ UUID  : 5863564ab1ef43a4b41fb5312dd0622a
 #### Illingworth's Fleet H&D (ref: 54fe)
 
 ```
-Format: 6.5x9        |  Process : BW      
+Format: 6.5x9cm      |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 12exp   
 Added : 2025-08-19   |  Author  : @ellafridalindblom
@@ -1805,7 +1805,7 @@ UUID  : bec584ee60f3462381719b3e908f54fe
 ```
 
 <a href="./archive/00207_000.jpg">
-	<img src="./lowres/00207_000.jpg" alt="Illingworth's Fleet H&D 6.5x9 film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00207_000.jpg" alt="Illingworth's Fleet H&D 6.5x9cm film box outside" loading="lazy" width="500" />
 </a>
 
 #### JCH Streetpan (ref: 6e58)
@@ -3477,7 +3477,7 @@ UUID  : 9791c2074fdd4340a1463312ed77b16c
 #### Perutz Superomnia (ref: c90d)
 
 ```
-Format: 9x12         |  Process : BW      
+Format: 9x12cm       |  Process : BW      
 ISO   : 125          |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 12exp   
 Added : 2025-07-28   |  Author  : lilyu.xyz
@@ -3485,7 +3485,7 @@ UUID  : b220e7d5dbee49898fbd1d42ee67c90d
 ```
 
 <a href="./archive/00096_000.jpg">
-	<img src="./lowres/00096_000.jpg" alt="Perutz Superomnia 9x12 film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00096_000.jpg" alt="Perutz Superomnia 9x12cm film box outside" loading="lazy" width="500" />
 </a>
 
 #### Polaroid 665 (ref: e054)

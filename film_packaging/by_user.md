@@ -516,7 +516,7 @@ UUID  : 515a9a246a8e4eed87d77142623a4411
 #### [@ellafridalindblom] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)
 
 ```
-Format: 6.5x9        |  Process : BW      
+Format: 6.5x9cm      |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 12exp   
 Added : 2025-08-19   |  Author  : @ellafridalindblom
@@ -524,13 +524,13 @@ UUID  : 1056543f30334a238387be8abe2dec67
 ```
 
 <a href="./archive/00204_000.jpg">
-	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plåtar E.R.Orto 6.5x9 film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plåtar E.R.Orto 6.5x9cm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [@ellafridalindblom] Illingworth's Fleet H&D (ref: 54fe)
 
 ```
-Format: 6.5x9        |  Process : BW      
+Format: 6.5x9cm      |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 12exp   
 Added : 2025-08-19   |  Author  : @ellafridalindblom
@@ -538,7 +538,7 @@ UUID  : bec584ee60f3462381719b3e908f54fe
 ```
 
 <a href="./archive/00207_000.jpg">
-	<img src="./lowres/00207_000.jpg" alt="Illingworth's Fleet H&D 6.5x9 film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00207_000.jpg" alt="Illingworth's Fleet H&D 6.5x9cm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [@ellafridalindblom] Kodak Ektachrome Slide Duplicating Film (ref: d53a)
@@ -1279,7 +1279,7 @@ UUID  : 715e5119d4b941d98ce52bcd8596c457
 #### [Nano_Burger] Agfa Autolith Repo (ref: 8e68)
 
 ```
-Format: 9x12         |  Process : BW      
+Format: 9x12cm       |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 12exp   
 Added : 2025-07-29   |  Author  : Nano_Burger
@@ -1287,7 +1287,7 @@ UUID  : 952823ad9ef14c75a83ac8e230b38e68
 ```
 
 <a href="./archive/00098_000.jpg">
-	<img src="./lowres/00098_000.jpg" alt="Agfa Autolith Repo 9x12 film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00098_000.jpg" alt="Agfa Autolith Repo 9x12cm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [Nano_Burger] Agfa Isopan FF (ref: 3700)
@@ -3701,7 +3701,7 @@ UUID  : c2dc7711cd38434da5cfea8750f61358
 #### [lilyu.xyz] Perutz Superomnia (ref: c90d)
 
 ```
-Format: 9x12         |  Process : BW      
+Format: 9x12cm       |  Process : BW      
 ISO   : 125          |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 12exp   
 Added : 2025-07-28   |  Author  : lilyu.xyz
@@ -3709,7 +3709,7 @@ UUID  : b220e7d5dbee49898fbd1d42ee67c90d
 ```
 
 <a href="./archive/00096_000.jpg">
-	<img src="./lowres/00096_000.jpg" alt="Perutz Superomnia 9x12 film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00096_000.jpg" alt="Perutz Superomnia 9x12cm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [lt_col_tall] CatLABS X Film 320 Pro (ref: 1c69)

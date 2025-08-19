@@ -168,10 +168,10 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 94,1,film_box_outside,Kodak,Gold Ultra 400,35mm,400,C-41,200101,1753731810,8a071528e6fcba018f81bc4b484c4225,1501f7eec7f34d3788b6c7b94a4134df,00094_001.jpg,lilyu.xyz,,Multi-Pack-2,24exp
 95,0,film_box_outside,Kodak,Gold,35mm,100,C-41,200110,1753731929,5fe577cc84535a38d448b9fc1bbb96d1,e45118f7bd5e4ae682e5747a81f0ea58,00095_000.jpg,lilyu.xyz,,Multi-Pack-3,36exp
 95,1,film_box_outside,Kodak,Gold,35mm,100,C-41,200110,1753731932,abaa3fb1849e5ab30d6f680bf7a8f45d,86ebec2c1a1d41359d84654d24dbac69,00095_001.jpg,lilyu.xyz,,Multi-Pack-3,36exp
-96,0,film_box_outside,Perutz,Superomnia,9x12,125,BW,Unknown,1753732169,ba2ba538dca88814672ad9b3ae56afae,b220e7d5dbee49898fbd1d42ee67c90d,00096_000.jpg,lilyu.xyz,,Single Pack,12exp
+96,0,film_box_outside,Perutz,Superomnia,9x12cm,125,BW,Unknown,1753732169,ba2ba538dca88814672ad9b3ae56afae,b220e7d5dbee49898fbd1d42ee67c90d,00096_000.jpg,lilyu.xyz,,Single Pack,12exp
 97,0,film_box_outside,Kodak,Kodacolor VR,35mm,200,C-41,198706,1753733441,938c04b11d33d81cc89a86364e066b59,a26daa2cb6e44957af3d978bc67e035f,00097_000.jpg,@ftfilmphotos,,Single Pack,36exp
 97,1,film_box_inside,Kodak,Kodacolor VR,35mm,200,C-41,198706,1753733443,2a4004a7c43dc26dea3cb7d8cf9bda13,185225c336bc491683c7a1806458c4e8,00097_001.jpg,@ftfilmphotos,,Single Pack,36exp
-98,0,film_box_outside,Agfa,Autolith Repo,9x12,Unknown,BW,Unknown,1753805828,6789121d99d9989091817dbb6b2bd70e,952823ad9ef14c75a83ac8e230b38e68,00098_000.jpg,Nano_Burger,,Single Pack,12exp
+98,0,film_box_outside,Agfa,Autolith Repo,9x12cm,Unknown,BW,Unknown,1753805828,6789121d99d9989091817dbb6b2bd70e,952823ad9ef14c75a83ac8e230b38e68,00098_000.jpg,Nano_Burger,,Single Pack,12exp
 99,0,film_box_outside,Kodak,Eastman High Contrast Panchromatic 7369,16mm,Unknown,D-97,Unknown,1753806037,6d0096c9a06103f8eca2a5530f80c50e,46cc0a179fc34cb4832e1d3336bafaec,00099_000.jpg,Nano_Burger,,Single Pack,100ft
 100,0,film_box_outside,Kodak,Ektachrome 400,35mm,400,E-6,199011,1753806162,74a6bb6020e861b2b9ba601fbade402d,2330da9237ad4dbaac0028199f363c96,00100_000.jpg,Nano_Burger,,Single Pack,24exp
 100,1,film_box_inside,Kodak,Ektachrome 400,35mm,400,E-6,199011,1753806164,af7f386a903d43e38935e47c2dda7a94,c8ecef6f805d4a7eab60f82855687e17,00100_001.jpg,Nano_Burger,,Single Pack,24exp
@@ -347,10 +347,10 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 203,0,film_box_outside,Kodak,Ektachrome Slide Duplicating Film,35mm,Unknown,E-6,199912,1755622270,579296ce3e3576673aa546eb7a532d17,59aa1c52cf434a60976debe684a3d53a,00203_000.jpg,@ellafridalindblom,none,Single Pack,36exp
 203,1,film_box_leaflet,Kodak,Ektachrome Slide Duplicating Film,35mm,Unknown,E-6,199912,1755622272,13a65606ba4420ef6e91b500dc4fe7a1,a15217b7a9c34d25a71276e952a8dce0,00203_001.jpg,@ellafridalindblom,none,Single Pack,36exp
 203,2,film_box_leaflet,Kodak,Ektachrome Slide Duplicating Film,35mm,Unknown,E-6,199912,1755622275,2e494c91a7a1118923e2a87fe89ad6e3,70ffb21210374c97a9fa3b819e9b3a1a,00203_002.jpg,@ellafridalindblom,none,Single Pack,36exp
-204,0,film_box_outside,Hasselblad,Hassel-plåtar E.R.Orto,6.5x9,Unknown,BW,Unknown,1755622804,f60c23638bd575445cb15aef258a89c9,1056543f30334a238387be8abe2dec67,00204_000.jpg,@ellafridalindblom,,Single Pack,12exp
+204,0,film_box_outside,Hasselblad,Hassel-plåtar E.R.Orto,6.5x9cm,Unknown,BW,Unknown,1755622804,f60c23638bd575445cb15aef258a89c9,1056543f30334a238387be8abe2dec67,00204_000.jpg,@ellafridalindblom,,Single Pack,12exp
 205,0,film_box_outside,Foton,Fotopan F,120,50,BW,196901,1755622881,b2b02788118bc9a2946a9bc51cbeff2f,f2002785f14a4aba9fd1da2386890ad6,00205_000.jpg,@ellafridalindblom,,Single Pack,N/A
 206,0,film_box_outside,Hands On Film,Midnight 1600,35mm,1600,C-41,202605,1755623017,ac47654987998794890686ebc8787857,515a9a246a8e4eed87d77142623a4411,00206_000.jpg,@ellafridalindblom,,Single Pack,36exp
-207,0,film_box_outside,Illingworth's,Fleet H&D,6.5x9,Unknown,BW,Unknown,1755623225,45cdd5811d134b09da38f20647df15ba,bec584ee60f3462381719b3e908f54fe,00207_000.jpg,@ellafridalindblom,,Single Pack,12exp
+207,0,film_box_outside,Illingworth's,Fleet H&D,6.5x9cm,Unknown,BW,Unknown,1755623225,45cdd5811d134b09da38f20647df15ba,bec584ee60f3462381719b3e908f54fe,00207_000.jpg,@ellafridalindblom,,Single Pack,12exp
 208,0,film_box_outside,Defender,Portrait HGS,12x16.5cm,Unknown,BW,Unknown,1755623333,55b76f00c9fba48b3bf2ee8f57cd4298,24c9c3108671446dae824d00093fd69c,00208_000.jpg,@ellafridalindblom,,Single Pack,12exp
 208,1,film_box_outside,Defender,Portrait HGS,12x16.5cm,Unknown,BW,Unknown,1755623384,0a133bf936b2c3b183e7dcd9b929c064,5782545b9d15462e93943f2b62f605f5,00208_001.jpg,@ellafridalindblom,,Single Pack,12exp
 209,0,film_box_outside,Fujifilm,Superia X-TRA,120,400,C-41,200406,1755623514,eb660227bcc16107e765d9145af7e16c,9e774f36e4d34b3c81a30a5b44da7980,00209_000.jpg,@ellafridalindblom,,Single Pack,N/A
