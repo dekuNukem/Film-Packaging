@@ -10,7 +10,7 @@ import hashlib
 from PIL import Image
 from shared import *
 
-author_name_this_session = AUTHOR_NAME_MYSELF
+author_name_this_session = "Unknown"
 database_entries = []
 
 def get_md5_str(filepath):
@@ -123,9 +123,12 @@ try:
 except Exception as e:
     print("csv read exception:", e)
 
-this_author = get_answer("Author name this session? (Press Enter for myself)\nAdd args to reverse order\n", accept_empty=True)
-if len(this_author) > 0:
-    author_name_this_session = this_author
+latest_author = database_entries[-1][ITEM_AUTHOR_KEY]
+user_answer = get_answer(f"Author name this session? (Press Enter for {latest_author})\nAdd args to reverse order\n", accept_empty=True)
+if len(user_answer) == 0:
+    author_name_this_session = latest_author
+else:
+    author_name_this_session = user_answer
 
 convert_keys_to_int(database_entries)
 ingest_file_list = sorted(os.listdir(ingest_dir_path), reverse=len(sys.argv) > 1)

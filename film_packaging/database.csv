@@ -259,11 +259,11 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 152,0,film_box_outside,Agfa,Agfacolor XRG,35mm,200,C-41,200503,1753991293,ab9b380f73157e29cece410bcf774529,86136eea89d14e15b60dfcdf45b1689e,00152_000.jpg,stefanie,,Single Pack,36exp
 152,1,film_box_inside,Agfa,Agfacolor XRG,35mm,200,C-41,200503,1753991296,92ef6a04efba1d4fcc3c1e01cf35e1c7,5598d8aac5844772a87d019a7d37e9f6,00152_001.jpg,stefanie,,Single Pack,36exp
 153,0,film_box_outside,Kodak,Kodacolor VR Plus,35mm,400,C-41,201203,1753991336,21e56cc1a11e3225f11771f03988ee63,faf0a44eece541a9b701feb772f4f8bf,00153_000.jpg,stefanie,,Multi-Pack-2,36exp
-154,0,film_box_outside,Kodak,Ektachrome,Super 8,160,Unknown,198011,1753991791,2b11a632fe93ca22801ea60a2c313c4e,6032680a3aba41b39c600d7e23998f62,00154_000.jpg,stefanie,,Single Pack,50ft
-154,1,film_box_leaflet,Kodak,Ektachrome,Super 8,160,Unknown,198011,1753991793,4f3fd31575d1da543e3308d81dcd4040,28c6f19bd37e4199a072687d11b19961,00154_001.jpg,stefanie,,Single Pack,50ft
-154,2,film_box_leaflet,Kodak,Ektachrome,Super 8,160,Unknown,198011,1753991796,4166922268f826d30b7f95edc16be00a,5d06a8833e0e44e8ab8d53bc0ce11095,00154_002.jpg,stefanie,,Single Pack,50ft
-154,3,film_box_processing_envelope,Kodak,Ektachrome,Super 8,160,Unknown,198011,1753991800,e92ef35683fc722bc86a3271c108c716,870ff01807e949a7b361cdad01dddf7f,00154_003.jpg,stefanie,,Single Pack,50ft
-154,4,film_box_processing_envelope,Kodak,Ektachrome,Super 8,160,Unknown,198011,1753991802,c0ac003b8ed9bfc15c827f704b4f0ca1,31df442b386446679540b0cf52c92fd7,00154_004.jpg,stefanie,,Single Pack,50ft
+154,0,film_box_outside,Kodak,Ektachrome 160 Movie Film Type A,Super 8,160,Unknown,198011,1753991791,2b11a632fe93ca22801ea60a2c313c4e,6032680a3aba41b39c600d7e23998f62,00154_000.jpg,stefanie,,Single Pack,50ft
+154,1,film_box_leaflet,Kodak,Ektachrome 160 Movie Film Type A,Super 8,160,Unknown,198011,1753991793,4f3fd31575d1da543e3308d81dcd4040,28c6f19bd37e4199a072687d11b19961,00154_001.jpg,stefanie,,Single Pack,50ft
+154,2,film_box_leaflet,Kodak,Ektachrome 160 Movie Film Type A,Super 8,160,Unknown,198011,1753991796,4166922268f826d30b7f95edc16be00a,5d06a8833e0e44e8ab8d53bc0ce11095,00154_002.jpg,stefanie,,Single Pack,50ft
+154,3,film_box_processing_envelope,Kodak,Ektachrome 160 Movie Film Type A,Super 8,160,Unknown,198011,1753991800,e92ef35683fc722bc86a3271c108c716,870ff01807e949a7b361cdad01dddf7f,00154_003.jpg,stefanie,,Single Pack,50ft
+154,4,film_box_processing_envelope,Kodak,Ektachrome 160 Movie Film Type A,Super 8,160,Unknown,198011,1753991802,c0ac003b8ed9bfc15c827f704b4f0ca1,31df442b386446679540b0cf52c92fd7,00154_004.jpg,stefanie,,Single Pack,50ft
 155,0,film_box_outside,Kodak,Ektachrome E100,35mm,100,E-6,202702,1754119896,c435419f4cb4ab3d440feb1645e4416e,829cd9dd98cd489f8bff71e403c1ae10,00155_000.jpg,toader,,Single Pack,36exp
 156,0,film_box_outside,Polaroid,Color SX-70 Film,Integral Film,160,Instant,202504,1754120107,716bf1b0a4b8b2088af6cf0a83a62bd4,b4af154cea6f40c0aa1d4154d0c2dc7f,00156_000.jpg,toader,,Single Pack,8exp
 156,1,film_box_outside,Polaroid,Color SX-70 Film,Integral Film,160,Instant,202504,1754120109,9b4151542c13754ad750b016d0e1c5ca,5ce2d6b8b1894bf7b67c5a9fdd635a6e,00156_001.jpg,toader,,Single Pack,8exp
@@ -381,3 +381,23 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 233,0,film_box_outside,Kodak,Gold,35mm,200,C-41,202306,1755692093,7f60824f9a7faf5450641af3901854dc,e0db5edb5d3046e99d019b901088d48d,00233_000.jpg,@photos.by.qi,,Single Pack,36exp
 234,0,film_box_outside,Kodak,MAX,35mm,400,C-41,200703,1755692221,a2a9f55c887fcbf0f319ed4b72c4ca17,5d0c054ebc17452397de86653bf42361,00234_000.jpg,@photos.by.qi,,Multi-Pack-3,24exp
 235,0,film_box_outside,Kodak,UltraMax,35mm,400,C-41,202303,1755692300,e566c88508a1a9c274a8183ba9cbc277,1a68334cdfc146b98a7fa95672e33b23,00235_000.jpg,@photos.by.qi,,Multi-Pack-3,24exp
+236,0,film_box_outside,Lomochrome,Metropolis,35mm,100,C-41,202303,1755702704,9507345bd3797b7fa11805e6af2bafdf,eba9730505104dfd8c12254eeafd5546,00236_000.jpg,@photos.by.qi,,Single Pack,36exp
+236,1,film_box_inside,Lomochrome,Metropolis,35mm,100,C-41,202303,1755702705,b204bb53cf7ab113bf37aabceb1eb09d,415e6aeb12db4efbba5f290d09d7beba,00236_001.jpg,@photos.by.qi,,Single Pack,36exp
+237,0,film_box_outside,Kodak,Vericolor III,120,160,C-41,200009,1755702942,e4b7bbc2a1900e8051618e109fa8f61a,bcb6ab106d2941429eaf1088c1194b3e,00237_000.jpg,@photos.by.qi,,Multi-Pack-5,N/A
+237,1,film_box_outside,Kodak,Vericolor III,120,160,C-41,200009,1755702943,16c3f736d14ef0125d68e354d8c41726,e4c84e87bd66459cbea1954dc32b5920,00237_001.jpg,@photos.by.qi,,Multi-Pack-5,N/A
+237,2,film_box_inside,Kodak,Vericolor III,120,160,C-41,200009,1755702947,7a1644c21094a775f8d6802240f4b347,6cbb4abac86e407d99055015b4719e95,00237_002.jpg,@photos.by.qi,,Multi-Pack-5,N/A
+237,3,film_box_inside,Kodak,Vericolor III,120,160,C-41,200009,1755702953,09c4b999ae85531bb850dced9361d003,ed6cc093b4e44b8b81bb19f6d1e6a4f2,00237_003.jpg,@photos.by.qi,,Multi-Pack-5,N/A
+238,0,film_box_outside,Kodak,Vericolor 400 Plus,120,400,C-41,199810,1755703075,6b73452b3aed4dee445d90d1257da62b,8b882b8198ca4aeb8180b8743269bd88,00238_000.jpg,@photos.by.qi,,Multi-Pack-5,N/A
+238,1,film_box_inside,Kodak,Vericolor 400 Plus,120,400,C-41,199810,1755703077,31fc4de19951a235031bc7db7956b0c2,07052f2a4fd8445aa344c21b79c06d9d,00238_001.jpg,@photos.by.qi,,Multi-Pack-5,N/A
+238,2,film_box_inside,Kodak,Vericolor 400 Plus,120,400,C-41,199810,1755703082,06ab4ae8337703ba8a9e07b934f6c212,8a605cec4f594f37823796472cfb7005,00238_002.jpg,@photos.by.qi,,Multi-Pack-5,N/A
+238,3,film_box_outside,Kodak,Vericolor 400 Plus,120,400,C-41,199810,1755703087,3c20ed59cfa824685483be9dc8f448d1,cb3839d18fe44552bb710d82020a7743,00238_003.jpg,@photos.by.qi,,Multi-Pack-5,N/A
+239,0,film_box_outside,Kodak,ProImage 100,35mm,100,C-41,202301,1755703185,c75c6cf3bc05fc026ac0cdb9d198276e,76cf680b7e1a407f92eb84541d21fe32,00239_000.jpg,@photos.by.qi,,Multi-Pack-5,36exp
+240,0,film_box_outside,Kodak,Portra 800,120,800,C-41,202210,1755703268,c41daaea4cc1587551d0b6bd12c3b35d,3663afb2b2d340d3a5c9e0d0e9f021f9,00240_000.jpg,@photos.by.qi,,Multi-Pack-5,N/A
+240,1,film_box_outside,Kodak,Portra 800,120,800,C-41,202210,1755703270,8936b5b5df4435e1d18b47cb63a5636b,63ef586862154b94aeccdbdb4227ad5c,00240_001.jpg,@photos.by.qi,,Multi-Pack-5,N/A
+241,0,film_box_outside,Kodak,UltraMax,35mm,400,C-41,202412,1755703342,e4a194b389b7f19e423429d984aabeaf,05d59d140f584adcaf97f6acb69f3c02,00241_000.jpg,@photos.by.qi,,Single Pack,36exp
+241,1,film_box_outside,Kodak,UltraMax,35mm,400,C-41,202412,1755703347,54a7de080c856c8fe61d89b9c22822e6,6ed0486400df45eab9b7465642ecee9d,00241_001.jpg,@photos.by.qi,,Single Pack,36exp
+242,0,film_box_outside,Kodak,Portra 400VC,35mm,400,C-41,200904,1755703467,ac5d699ead9b51915104720a6db03871,2152a58cb08c463ea298a61858ff7669,00242_000.jpg,@photos.by.qi,,Multi-Pack-5,36exp
+243,0,film_box_outside,Kodak,Portra 400VC,120,400,C-41,200412,1755703560,f5d2bd9186be78aa0ac37f353d422da8,348bccb01edc4a6ea9a2f5c4d88cb67b,00243_000.jpg,@photos.by.qi,,Multi-Pack-5,N/A
+243,1,film_box_outside,Kodak,Portra 400VC,120,400,C-41,200412,1755703562,63411e73a57d5ad22dd4646306c57578,154cd3f3c85944ab87c33eaad232c3b6,00243_001.jpg,@photos.by.qi,,Multi-Pack-5,N/A
+243,2,film_box_inside,Kodak,Portra 400VC,120,400,C-41,200412,1755703564,88fb633a59fc5063f9a488ae01fd365f,de89359102c54df797bee4229920e191,00243_002.jpg,@photos.by.qi,,Multi-Pack-5,N/A
+243,3,film_box_inside,Kodak,Portra 400VC,120,400,C-41,200412,1755703569,c0feff074e9f8d02a2f498cc05f8cadd,c4a365adef6546cf945a04e9a6088a02,00243_003.jpg,@photos.by.qi,,Multi-Pack-5,N/A

@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Aug 20 2025
-Unique items: 233
-Total scans : 382
+Unique items: 241
+Total scans : 402
 ```
 
 -----
@@ -47,7 +47,7 @@ Total scans : 382
 - [[1978] Sakura Sakuracolor II (ref: 4f7d)](#1978-sakura-sakuracolor-ii-ref-4f7d)
 - [[1979] Kodak Ektachrome 64 (ref: 07c0)](#1979-kodak-ektachrome-64-ref-07c0)
 - [[1979] Kodak Kodachrome 64 (ref: 3145)](#1979-kodak-kodachrome-64-ref-3145)
-- [[1980] Kodak Ektachrome (ref: 8f62)](#1980-kodak-ektachrome-ref-8f62)
+- [[1980] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)](#1980-kodak-ektachrome-160-movie-film-type-a-ref-8f62)
 - [[1983] Kodak Kodachrome 25 (ref: 8833)](#1983-kodak-kodachrome-25-ref-8833)
 - [[1985] Konica Konica Color II (ref: fb5b)](#1985-konica-konica-color-ii-ref-fb5b)
 - [[1987] Kodak Kodacolor VR (ref: 035f)](#1987-kodak-kodacolor-vr-ref-035f)
@@ -78,12 +78,14 @@ Total scans : 382
 - [[1998] Polaroid Polacolor 679 (ref: 625c)](#1998-polaroid-polacolor-679-ref-625c)
 - [[1998] Fujifilm Fujicolor NPL 160 (ref: d10b)](#1998-fujifilm-fujicolor-npl-160-ref-d10b)
 - [[1998] Kodak Ektachrome 64T (ref: 8f4f)](#1998-kodak-ektachrome-64t-ref-8f4f)
+- [[1998] Kodak Vericolor 400 Plus (ref: bd88)](#1998-kodak-vericolor-400-plus-ref-bd88)
 - [[1999] Kodak Gold (ref: 2f8d)](#1999-kodak-gold-ref-2f8d)
 - [[1999] Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#1999-kodak-ektachrome-slide-duplicating-film-ref-d53a)
 - [[2000] Konica Infrared 750nm (ref: 2d93)](#2000-konica-infrared-750nm-ref-2d93)
 - [[2000] Kodak Rapid Process Copy Film (ref: e66e)](#2000-kodak-rapid-process-copy-film-ref-e66e)
 - [[2000] Fujifilm Fujicolor Superia (ref: d1b7)](#2000-fujifilm-fujicolor-superia-ref-d1b7)
 - [[2000] Kodak Ektacolor Pro Gold (ref: c3f8)](#2000-kodak-ektacolor-pro-gold-ref-c3f8)
+- [[2000] Kodak Vericolor III (ref: 4b3e)](#2000-kodak-vericolor-iii-ref-4b3e)
 - [[2001] Fujifilm Fujichrome Velvia (ref: 3182)](#2001-fujifilm-fujichrome-velvia-ref-3182)
 - [[2001] Kodak Gold Ultra 400 (ref: 1358)](#2001-kodak-gold-ultra-400-ref-1358)
 - [[2001] Kodak Elite Chrome (ref: 523c)](#2001-kodak-elite-chrome-ref-523c)
@@ -103,6 +105,7 @@ Total scans : 382
 - [[2003] Agfa Vista (ref: d3af)](#2003-agfa-vista-ref-d3af)
 - [[2004] Fujifilm Superia X-TRA (ref: 7980)](#2004-fujifilm-superia-x-tra-ref-7980)
 - [[2004] Kodak Black & White + (ref: 2ff3)](#2004-kodak-black-white-ref-2ff3)
+- [[2004] Kodak Portra 400VC (ref: b67b)](#2004-kodak-portra-400vc-ref-b67b)
 - [[2005] Fujifilm Superia X-TRA (ref: 0446)](#2005-fujifilm-superia-x-tra-ref-0446)
 - [[2005] Agfa Agfacolor XRG (ref: 689e)](#2005-agfa-agfacolor-xrg-ref-689e)
 - [[2005] Agfa Agfapan APX 100 (ref: e271)](#2005-agfa-agfapan-apx-100-ref-e271)
@@ -125,6 +128,7 @@ Total scans : 382
 - [[2007] Kodak Elite Chrome (ref: 3943)](#2007-kodak-elite-chrome-ref-3943)
 - [[2008] Agfa APX (ref: 12c7)](#2008-agfa-apx-ref-12c7)
 - [[2008] Kodak High Speed Infrared (ref: 883e)](#2008-kodak-high-speed-infrared-ref-883e)
+- [[2009] Kodak Portra 400VC (ref: 7669)](#2009-kodak-portra-400vc-ref-7669)
 - [[2009] Fujifilm Superia (ref: 0d8e)](#2009-fujifilm-superia-ref-0d8e)
 - [[2009] Lloyds Pharmacy Colour Film (ref: 77d9)](#2009-lloyds-pharmacy-colour-film-ref-77d9)
 - [[2010] Fujifilm Superia Reala (ref: a624)](#2010-fujifilm-superia-reala-ref-a624)
@@ -154,7 +158,10 @@ Total scans : 382
 - [[2022] Film Never Die Kiro (ref: 796d)](#2022-film-never-die-kiro-ref-796d)
 - [[2022] Ilford HP5 Plus (ref: c725)](#2022-ilford-hp5-plus-ref-c725)
 - [[2022] Lomography Lomochrome Purple (ref: 8b00)](#2022-lomography-lomochrome-purple-ref-8b00)
+- [[2022] Kodak Portra 800 (ref: 21f9)](#2022-kodak-portra-800-ref-21f9)
+- [[2023] Kodak ProImage 100 (ref: fe32)](#2023-kodak-proimage-100-ref-fe32)
 - [[2023] Kodak UltraMax (ref: 3b23)](#2023-kodak-ultramax-ref-3b23)
+- [[2023] Lomochrome Metropolis (ref: 5546)](#2023-lomochrome-metropolis-ref-5546)
 - [[2023] Kodak Gold (ref: d48d)](#2023-kodak-gold-ref-d48d)
 - [[2023] Kodak TMAX 100 (ref: b3b1)](#2023-kodak-tmax-100-ref-b3b1)
 - [[2023] Fujifilm Fujicolor C200 (ref: a0de)](#2023-fujifilm-fujicolor-c200-ref-a0de)
@@ -164,6 +171,7 @@ Total scans : 382
 - [[2024] Fujifilm Superia X-TRA (ref: 8923)](#2024-fujifilm-superia-x-tra-ref-8923)
 - [[2024] Ilford Delta 100 (ref: eb8d)](#2024-ilford-delta-100-ref-eb8d)
 - [[2024] Kodak Ektachrome E100 (ref: 94ff)](#2024-kodak-ektachrome-e100-ref-94ff)
+- [[2024] Kodak UltraMax (ref: 3c02)](#2024-kodak-ultramax-ref-3c02)
 - [[2024] Polaroid Color 600 Film Round Frame (ref: d985)](#2024-polaroid-color-600-film-round-frame-ref-d985)
 - [[2024] Reto Amber D400 (ref: 08ad)](#2024-reto-amber-d400-ref-08ad)
 - [[2025] JCH Streetpan (ref: 6e58)](#2025-jch-streetpan-ref-6e58)
@@ -784,7 +792,7 @@ UUID  : 68c945b76fc14ab699b944a3c7b93145
 	<img src="./lowres/00026_002.jpg" alt="Kodak Kodachrome 64 110 film box processing envelope" loading="lazy" width="500" />
 </a>
 
-#### [1980] Kodak Ektachrome (ref: 8f62)
+#### [1980] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)
 
 ```
 Format: Super 8      |  Process : Unknown 
@@ -795,35 +803,35 @@ UUID  : 6032680a3aba41b39c600d7e23998f62
 ```
 
 <a href="./archive/00154_000.jpg">
-	<img src="./lowres/00154_000.jpg" alt="Kodak Ektachrome Super 8 film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00154_000.jpg" alt="Kodak Ektachrome 160 Movie Film Type A Super 8 film box outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 28c6f19bd37e4199a072687d11b19961`↓
 
 <a href="./archive/00154_001.jpg">
-	<img src="./lowres/00154_001.jpg" alt="Kodak Ektachrome Super 8 film box leaflet" loading="lazy" height="500" />
+	<img src="./lowres/00154_001.jpg" alt="Kodak Ektachrome 160 Movie Film Type A Super 8 film box leaflet" loading="lazy" height="500" />
 </a>
 
 
 `UUID: 5d06a8833e0e44e8ab8d53bc0ce11095`↓
 
 <a href="./archive/00154_002.jpg">
-	<img src="./lowres/00154_002.jpg" alt="Kodak Ektachrome Super 8 film box leaflet" loading="lazy" height="500" />
+	<img src="./lowres/00154_002.jpg" alt="Kodak Ektachrome 160 Movie Film Type A Super 8 film box leaflet" loading="lazy" height="500" />
 </a>
 
 
 `UUID: 870ff01807e949a7b361cdad01dddf7f`↓
 
 <a href="./archive/00154_003.jpg">
-	<img src="./lowres/00154_003.jpg" alt="Kodak Ektachrome Super 8 film box processing envelope" loading="lazy" width="500" />
+	<img src="./lowres/00154_003.jpg" alt="Kodak Ektachrome 160 Movie Film Type A Super 8 film box processing envelope" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 31df442b386446679540b0cf52c92fd7`↓
 
 <a href="./archive/00154_004.jpg">
-	<img src="./lowres/00154_004.jpg" alt="Kodak Ektachrome Super 8 film box processing envelope" loading="lazy" width="500" />
+	<img src="./lowres/00154_004.jpg" alt="Kodak Ektachrome 160 Movie Film Type A Super 8 film box processing envelope" loading="lazy" width="500" />
 </a>
 
 #### [1983] Kodak Kodachrome 25 (ref: 8833)
@@ -1519,6 +1527,41 @@ UUID  : 25961b13fd6943a9b7dd77b2eba18f4f
 	<img src="./lowres/00180_001.jpg" alt="Kodak Ektachrome 64T 35mm film box inside" loading="lazy" height="500" />
 </a>
 
+#### [1998] Kodak Vericolor 400 Plus (ref: bd88)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 1998-10 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 8b882b8198ca4aeb8180b8743269bd88
+```
+
+<a href="./archive/00238_000.jpg">
+	<img src="./lowres/00238_000.jpg" alt="Kodak Vericolor 400 Plus 120 film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 07052f2a4fd8445aa344c21b79c06d9d`↓
+
+<a href="./archive/00238_001.jpg">
+	<img src="./lowres/00238_001.jpg" alt="Kodak Vericolor 400 Plus 120 film box inside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 8a605cec4f594f37823796472cfb7005`↓
+
+<a href="./archive/00238_002.jpg">
+	<img src="./lowres/00238_002.jpg" alt="Kodak Vericolor 400 Plus 120 film box inside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: cb3839d18fe44552bb710d82020a7743`↓
+
+<a href="./archive/00238_003.jpg">
+	<img src="./lowres/00238_003.jpg" alt="Kodak Vericolor 400 Plus 120 film box outside" loading="lazy" width="500" />
+</a>
+
 #### [1999] Kodak Gold (ref: 2f8d)
 
 ```
@@ -1657,6 +1700,41 @@ UUID  : 7456456d09c844c8ab046abd9c17c3f8
 
 <a href="./archive/00027_003.jpg">
 	<img src="./lowres/00027_003.jpg" alt="Kodak Ektacolor Pro Gold 220 film box leaflet" loading="lazy" height="500" />
+</a>
+
+#### [2000] Kodak Vericolor III (ref: 4b3e)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 160          |  Expiry  : 2000-09 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : bcb6ab106d2941429eaf1088c1194b3e
+```
+
+<a href="./archive/00237_000.jpg">
+	<img src="./lowres/00237_000.jpg" alt="Kodak Vericolor III 120 film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: e4c84e87bd66459cbea1954dc32b5920`↓
+
+<a href="./archive/00237_001.jpg">
+	<img src="./lowres/00237_001.jpg" alt="Kodak Vericolor III 120 film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 6cbb4abac86e407d99055015b4719e95`↓
+
+<a href="./archive/00237_002.jpg">
+	<img src="./lowres/00237_002.jpg" alt="Kodak Vericolor III 120 film box inside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: ed6cc093b4e44b8b81bb19f6d1e6a4f2`↓
+
+<a href="./archive/00237_003.jpg">
+	<img src="./lowres/00237_003.jpg" alt="Kodak Vericolor III 120 film box inside" loading="lazy" height="500" />
 </a>
 
 #### [2001] Fujifilm Fujichrome Velvia (ref: 3182)
@@ -2007,6 +2085,41 @@ UUID  : 8ae6d75c042c48318fa711a412b72ff3
 
 <a href="./archive/00189_000.jpg">
 	<img src="./lowres/00189_000.jpg" alt="Kodak Black & White + 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [2004] Kodak Portra 400VC (ref: b67b)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2004-12 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 348bccb01edc4a6ea9a2f5c4d88cb67b
+```
+
+<a href="./archive/00243_000.jpg">
+	<img src="./lowres/00243_000.jpg" alt="Kodak Portra 400VC 120 film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 154cd3f3c85944ab87c33eaad232c3b6`↓
+
+<a href="./archive/00243_001.jpg">
+	<img src="./lowres/00243_001.jpg" alt="Kodak Portra 400VC 120 film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: de89359102c54df797bee4229920e191`↓
+
+<a href="./archive/00243_002.jpg">
+	<img src="./lowres/00243_002.jpg" alt="Kodak Portra 400VC 120 film box inside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: c4a365adef6546cf945a04e9a6088a02`↓
+
+<a href="./archive/00243_003.jpg">
+	<img src="./lowres/00243_003.jpg" alt="Kodak Portra 400VC 120 film box inside" loading="lazy" width="500" />
 </a>
 
 #### [2005] Fujifilm Superia X-TRA (ref: 0446)
@@ -2385,6 +2498,20 @@ UUID  : 77352e93d73748eca98cff7b30d7883e
 
 <a href="./archive/00103_001.jpg">
 	<img src="./lowres/00103_001.jpg" alt="Kodak High Speed Infrared 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### [2009] Kodak Portra 400VC (ref: 7669)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2009-04 
+Type  : Multi-Pack-5 |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 2152a58cb08c463ea298a61858ff7669
+```
+
+<a href="./archive/00242_000.jpg">
+	<img src="./lowres/00242_000.jpg" alt="Kodak Portra 400VC 35mm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [2009] Fujifilm Superia (ref: 0d8e)
@@ -2835,6 +2962,41 @@ UUID  : 5589454d652e4771b024a9901acb8b00
 	<img src="./lowres/00226_000.jpg" alt="Lomography Lomochrome Purple 35mm film box outside" loading="lazy" width="500" />
 </a>
 
+#### [2022] Kodak Portra 800 (ref: 21f9)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 800          |  Expiry  : 2022-10 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 3663afb2b2d340d3a5c9e0d0e9f021f9
+```
+
+<a href="./archive/00240_000.jpg">
+	<img src="./lowres/00240_000.jpg" alt="Kodak Portra 800 120 film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 63ef586862154b94aeccdbdb4227ad5c`↓
+
+<a href="./archive/00240_001.jpg">
+	<img src="./lowres/00240_001.jpg" alt="Kodak Portra 800 120 film box outside" loading="lazy" width="500" />
+</a>
+
+#### [2023] Kodak ProImage 100 (ref: fe32)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2023-01 
+Type  : Multi-Pack-5 |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 76cf680b7e1a407f92eb84541d21fe32
+```
+
+<a href="./archive/00239_000.jpg">
+	<img src="./lowres/00239_000.jpg" alt="Kodak ProImage 100 35mm film box outside" loading="lazy" width="500" />
+</a>
+
 #### [2023] Kodak UltraMax (ref: 3b23)
 
 ```
@@ -2847,6 +3009,27 @@ UUID  : 1a68334cdfc146b98a7fa95672e33b23
 
 <a href="./archive/00235_000.jpg">
 	<img src="./lowres/00235_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [2023] Lomochrome Metropolis (ref: 5546)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2023-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : eba9730505104dfd8c12254eeafd5546
+```
+
+<a href="./archive/00236_000.jpg">
+	<img src="./lowres/00236_000.jpg" alt="Lomochrome Metropolis 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 415e6aeb12db4efbba5f290d09d7beba`↓
+
+<a href="./archive/00236_001.jpg">
+	<img src="./lowres/00236_001.jpg" alt="Lomochrome Metropolis 35mm film box inside" loading="lazy" width="500" />
 </a>
 
 #### [2023] Kodak Gold (ref: d48d)
@@ -2980,6 +3163,27 @@ UUID  : 1d1d6ca155874b6dba4333cf6f6194ff
 
 <a href="./archive/00223_000.jpg">
 	<img src="./lowres/00223_000.jpg" alt="Kodak Ektachrome E100 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [2024] Kodak UltraMax (ref: 3c02)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2024-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 05d59d140f584adcaf97f6acb69f3c02
+```
+
+<a href="./archive/00241_000.jpg">
+	<img src="./lowres/00241_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 6ed0486400df45eab9b7465642ecee9d`↓
+
+<a href="./archive/00241_001.jpg">
+	<img src="./lowres/00241_001.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [2024] Polaroid Color 600 Film Round Frame (ref: d985)
@@ -4575,7 +4779,7 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     111   
 2     Pelicram                      48    
-3     @photos.by.qi                 26    
+3     @photos.by.qi                 46    
 4     Camera.Riley                  19    
 5     Nano_Burger                   18    
 6     @ob.skura                     16    

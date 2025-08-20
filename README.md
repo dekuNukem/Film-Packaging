@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Aug 20 2025
-Unique items: 233
-Total scans : 382
+Unique items: 241
+Total scans : 402
 ```
 
 Or Sort by...
@@ -53,7 +53,7 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     111   
 2     Pelicram                      48    
-3     @photos.by.qi                 26    
+3     @photos.by.qi                 46    
 4     Camera.Riley                  19    
 5     Nano_Burger                   18    
 6     @ob.skura                     16    
@@ -103,7 +103,13 @@ Rank  Username                      Contributions
   - @photos.by.qi: Kodak Ektar 100
   - @photos.by.qi: Kodak Gold
   - @photos.by.qi: Kodak MAX
+  - @photos.by.qi: Kodak Portra 400VC
+  - @photos.by.qi: Kodak Portra 800
+  - @photos.by.qi: Kodak ProImage 100
   - @photos.by.qi: Kodak UltraMax
+  - @photos.by.qi: Kodak Vericolor 400 Plus
+  - @photos.by.qi: Kodak Vericolor III
+  - @photos.by.qi: Lomochrome Metropolis
   - @photos.by.qi: Lomography Lomochrome Color 92
   - @photos.by.qi: Lomography Lomochrome Purple
   - @photos.by.qi: Space Cat Film Mars 250D
