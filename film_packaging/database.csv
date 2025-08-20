@@ -381,8 +381,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 233,0,film_box_outside,Kodak,Gold,35mm,200,C-41,202306,1755692093,7f60824f9a7faf5450641af3901854dc,e0db5edb5d3046e99d019b901088d48d,00233_000.jpg,@photos.by.qi,,Single Pack,36exp
 234,0,film_box_outside,Kodak,MAX,35mm,400,C-41,200703,1755692221,a2a9f55c887fcbf0f319ed4b72c4ca17,5d0c054ebc17452397de86653bf42361,00234_000.jpg,@photos.by.qi,,Multi-Pack-3,24exp
 235,0,film_box_outside,Kodak,UltraMax,35mm,400,C-41,202303,1755692300,e566c88508a1a9c274a8183ba9cbc277,1a68334cdfc146b98a7fa95672e33b23,00235_000.jpg,@photos.by.qi,,Multi-Pack-3,24exp
-236,0,film_box_outside,Lomochrome,Metropolis,35mm,100,C-41,202303,1755702704,9507345bd3797b7fa11805e6af2bafdf,eba9730505104dfd8c12254eeafd5546,00236_000.jpg,@photos.by.qi,,Single Pack,36exp
-236,1,film_box_inside,Lomochrome,Metropolis,35mm,100,C-41,202303,1755702705,b204bb53cf7ab113bf37aabceb1eb09d,415e6aeb12db4efbba5f290d09d7beba,00236_001.jpg,@photos.by.qi,,Single Pack,36exp
+236,0,film_box_outside,Lomography,Lomochrome Metropolis,35mm,100,C-41,202303,1755702704,9507345bd3797b7fa11805e6af2bafdf,eba9730505104dfd8c12254eeafd5546,00236_000.jpg,@photos.by.qi,,Single Pack,36exp
+236,1,film_box_inside,Lomography,Lomochrome Metropolis,35mm,100,C-41,202303,1755702705,b204bb53cf7ab113bf37aabceb1eb09d,415e6aeb12db4efbba5f290d09d7beba,00236_001.jpg,@photos.by.qi,,Single Pack,36exp
 237,0,film_box_outside,Kodak,Vericolor III,120,160,C-41,200009,1755702942,e4b7bbc2a1900e8051618e109fa8f61a,bcb6ab106d2941429eaf1088c1194b3e,00237_000.jpg,@photos.by.qi,,Multi-Pack-5,N/A
 237,1,film_box_outside,Kodak,Vericolor III,120,160,C-41,200009,1755702943,16c3f736d14ef0125d68e354d8c41726,e4c84e87bd66459cbea1954dc32b5920,00237_001.jpg,@photos.by.qi,,Multi-Pack-5,N/A
 237,2,film_box_inside,Kodak,Vericolor III,120,160,C-41,200009,1755702947,7a1644c21094a775f8d6802240f4b347,6cbb4abac86e407d99055015b4719e95,00237_002.jpg,@photos.by.qi,,Multi-Pack-5,N/A

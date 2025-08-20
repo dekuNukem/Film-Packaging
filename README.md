@@ -117,8 +117,8 @@ Rank  Username                      Contributions
   - @photos.by.qi: Kodak UltraMax
   - @photos.by.qi: Kodak Vericolor 400 Plus
   - @photos.by.qi: Kodak Vericolor III
-  - @photos.by.qi: Lomochrome Metropolis
   - @photos.by.qi: Lomography Lomochrome Color 92
+  - @photos.by.qi: Lomography Lomochrome Metropolis
   - @photos.by.qi: Lomography Lomochrome Purple
   - @photos.by.qi: Space Cat Film Mars 250D
   - @photos.by.qi: Walkens Speed 400

@@ -255,7 +255,7 @@ Total scans : 428
 - [[233] Kodak Gold (ref: d48d)](#233-kodak-gold-ref-d48d)
 - [[234] Kodak MAX (ref: 2361)](#234-kodak-max-ref-2361)
 - [[235] Kodak UltraMax (ref: 3b23)](#235-kodak-ultramax-ref-3b23)
-- [[236] Lomochrome Metropolis (ref: 5546)](#236-lomochrome-metropolis-ref-5546)
+- [[236] Lomography Lomochrome Metropolis (ref: 5546)](#236-lomography-lomochrome-metropolis-ref-5546)
 - [[237] Kodak Vericolor III (ref: 4b3e)](#237-kodak-vericolor-iii-ref-4b3e)
 - [[238] Kodak Vericolor 400 Plus (ref: bd88)](#238-kodak-vericolor-400-plus-ref-bd88)
 - [[239] Kodak ProImage 100 (ref: fe32)](#239-kodak-proimage-100-ref-fe32)
@@ -4586,7 +4586,7 @@ UUID  : 1a68334cdfc146b98a7fa95672e33b23
 	<img src="./lowres/00235_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" height="500" />
 </a>
 
-#### [236] Lomochrome Metropolis (ref: 5546)
+#### [236] Lomography Lomochrome Metropolis (ref: 5546)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -4597,14 +4597,14 @@ UUID  : eba9730505104dfd8c12254eeafd5546
 ```
 
 <a href="./archive/00236_000.jpg">
-	<img src="./lowres/00236_000.jpg" alt="Lomochrome Metropolis 35mm film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00236_000.jpg" alt="Lomography Lomochrome Metropolis 35mm film box outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 415e6aeb12db4efbba5f290d09d7beba`↓
 
 <a href="./archive/00236_001.jpg">
-	<img src="./lowres/00236_001.jpg" alt="Lomochrome Metropolis 35mm film box inside" loading="lazy" width="500" />
+	<img src="./lowres/00236_001.jpg" alt="Lomography Lomochrome Metropolis 35mm film box inside" loading="lazy" width="500" />
 </a>
 
 #### [237] Kodak Vericolor III (ref: 4b3e)

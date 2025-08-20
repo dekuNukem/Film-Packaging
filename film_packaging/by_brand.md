@@ -229,10 +229,10 @@ Total scans : 428
 - [Kosmo Foto Mono (ref: b74f)](#kosmo-foto-mono-ref-b74f)
 - [Lloyds Pharmacy APS Film (ref: c7cf)](#lloyds-pharmacy-aps-film-ref-c7cf)
 - [Lloyds Pharmacy Colour Film (ref: 77d9)](#lloyds-pharmacy-colour-film-ref-77d9)
-- [Lomochrome Metropolis (ref: 5546)](#lomochrome-metropolis-ref-5546)
 - [Lomography Babylon (ref: 7afa)](#lomography-babylon-ref-7afa)
 - [Lomography Fantome (ref: 4340)](#lomography-fantome-ref-4340)
 - [Lomography Lomochrome Color 92 (ref: 12b4)](#lomography-lomochrome-color-92-ref-12b4)
+- [Lomography Lomochrome Metropolis (ref: 5546)](#lomography-lomochrome-metropolis-ref-5546)
 - [Lomography Lomochrome Purple (ref: 8b00)](#lomography-lomochrome-purple-ref-8b00)
 - [Lomography Lomochrome Purple (ref: 068f)](#lomography-lomochrome-purple-ref-068f)
 - [Lomography Lomochrome Turquoise (ref: 0d90)](#lomography-lomochrome-turquoise-ref-0d90)
@@ -4131,27 +4131,6 @@ UUID  : c58dda071d1741fda90e20b4252277d9
 	<img src="./lowres/00013_000.jpg" alt="Lloyds Pharmacy Colour Film 35mm film box outside" loading="lazy" width="500" />
 </a>
 
-#### Lomochrome Metropolis (ref: 5546)
-
-```
-Format: 35mm         |  Process : C-41    
-ISO   : 100          |  Expiry  : 2023-03 
-Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-08-20   |  Author  : @photos.by.qi
-UUID  : eba9730505104dfd8c12254eeafd5546
-```
-
-<a href="./archive/00236_000.jpg">
-	<img src="./lowres/00236_000.jpg" alt="Lomochrome Metropolis 35mm film box outside" loading="lazy" width="500" />
-</a>
-
-
-`UUID: 415e6aeb12db4efbba5f290d09d7beba`↓
-
-<a href="./archive/00236_001.jpg">
-	<img src="./lowres/00236_001.jpg" alt="Lomochrome Metropolis 35mm film box inside" loading="lazy" width="500" />
-</a>
-
 #### Lomography Babylon (ref: 7afa)
 
 ```
@@ -4192,6 +4171,27 @@ UUID  : 81d185de4ddf494785362046cada12b4
 
 <a href="./archive/00225_000.jpg">
 	<img src="./lowres/00225_000.jpg" alt="Lomography Lomochrome Color 92 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+#### Lomography Lomochrome Metropolis (ref: 5546)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2023-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : eba9730505104dfd8c12254eeafd5546
+```
+
+<a href="./archive/00236_000.jpg">
+	<img src="./lowres/00236_000.jpg" alt="Lomography Lomochrome Metropolis 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 415e6aeb12db4efbba5f290d09d7beba`↓
+
+<a href="./archive/00236_001.jpg">
+	<img src="./lowres/00236_001.jpg" alt="Lomography Lomochrome Metropolis 35mm film box inside" loading="lazy" width="500" />
 </a>
 
 #### Lomography Lomochrome Purple (ref: 8b00)

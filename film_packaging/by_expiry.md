@@ -168,7 +168,7 @@ Total scans : 428
 - [[2022] Fujifilm Pro 400H (ref: ff20)](#2022-fujifilm-pro-400h-ref-ff20)
 - [[2023] Kodak ProImage 100 (ref: fe32)](#2023-kodak-proimage-100-ref-fe32)
 - [[2023] Kodak UltraMax (ref: 3b23)](#2023-kodak-ultramax-ref-3b23)
-- [[2023] Lomochrome Metropolis (ref: 5546)](#2023-lomochrome-metropolis-ref-5546)
+- [[2023] Lomography Lomochrome Metropolis (ref: 5546)](#2023-lomography-lomochrome-metropolis-ref-5546)
 - [[2023] CineStill 50D (ref: 3452)](#2023-cinestill-50d-ref-3452)
 - [[2023] Kodak Gold (ref: d48d)](#2023-kodak-gold-ref-d48d)
 - [[2023] Kodak TMAX 100 (ref: b3b1)](#2023-kodak-tmax-100-ref-b3b1)
@@ -3172,7 +3172,7 @@ UUID  : 1a68334cdfc146b98a7fa95672e33b23
 	<img src="./lowres/00235_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" height="500" />
 </a>
 
-#### [2023] Lomochrome Metropolis (ref: 5546)
+#### [2023] Lomography Lomochrome Metropolis (ref: 5546)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -3183,14 +3183,14 @@ UUID  : eba9730505104dfd8c12254eeafd5546
 ```
 
 <a href="./archive/00236_000.jpg">
-	<img src="./lowres/00236_000.jpg" alt="Lomochrome Metropolis 35mm film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00236_000.jpg" alt="Lomography Lomochrome Metropolis 35mm film box outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: 415e6aeb12db4efbba5f290d09d7beba`↓
 
 <a href="./archive/00236_001.jpg">
-	<img src="./lowres/00236_001.jpg" alt="Lomochrome Metropolis 35mm film box inside" loading="lazy" width="500" />
+	<img src="./lowres/00236_001.jpg" alt="Lomography Lomochrome Metropolis 35mm film box inside" loading="lazy" width="500" />
 </a>
 
 #### [2023] CineStill 50D (ref: 3452)
