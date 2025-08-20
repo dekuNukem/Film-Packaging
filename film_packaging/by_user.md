@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 19 2025
-Unique items: 207
-Total scans : 356
+Last Updated: Aug 20 2025
+Unique items: 226
+Total scans : 375
 ```
 
 -----
@@ -52,6 +52,25 @@ Total scans : 356
 - [[@ob.skura] Rollei Infrared (ref: eae2)](#obskura-rollei-infrared-ref-eae2)
 - [[@ob.skura] Shanghai GP3 (ref: 52aa)](#obskura-shanghai-gp3-ref-52aa)
 - [[@ob.skura] Wolfen NC500 (ref: 91c1)](#obskura-wolfen-nc500-ref-91c1)
+- [[@photos.by.qi] Building 2 200T (ref: c025)](#photosbyqi-building-2-200t-ref-c025)
+- [[@photos.by.qi] Building 2 250D (ref: 7d4f)](#photosbyqi-building-2-250d-ref-7d4f)
+- [[@photos.by.qi] Building 2 500T (ref: 70d9)](#photosbyqi-building-2-500t-ref-70d9)
+- [[@photos.by.qi] Building 2 50D (ref: e548)](#photosbyqi-building-2-50d-ref-e548)
+- [[@photos.by.qi] Ferrania Solaris (ref: a929)](#photosbyqi-ferrania-solaris-ref-a929)
+- [[@photos.by.qi] Film Never Die IRO (ref: 2a22)](#photosbyqi-film-never-die-iro-ref-2a22)
+- [[@photos.by.qi] Film Never Die Kiro (ref: 796d)](#photosbyqi-film-never-die-kiro-ref-796d)
+- [[@photos.by.qi] Fujifilm 400 (ref: 82be)](#photosbyqi-fujifilm-400-ref-82be)
+- [[@photos.by.qi] Fujifilm Fujicolor 100 (ref: b3c9)](#photosbyqi-fujifilm-fujicolor-100-ref-b3c9)
+- [[@photos.by.qi] Fujifilm Fujicolor C200 (ref: a0de)](#photosbyqi-fujifilm-fujicolor-c200-ref-a0de)
+- [[@photos.by.qi] Fujifilm Fujicolor Pro400 (ref: 1b8d)](#photosbyqi-fujifilm-fujicolor-pro400-ref-1b8d)
+- [[@photos.by.qi] Fujifilm Fujicolor Professional (ref: 02f7)](#photosbyqi-fujifilm-fujicolor-professional-ref-02f7)
+- [[@photos.by.qi] Fujifilm Fujicolor Super G (ref: 55ff)](#photosbyqi-fujifilm-fujicolor-super-g-ref-55ff)
+- [[@photos.by.qi] Kodak Ektachrome E100 (ref: 94ff)](#photosbyqi-kodak-ektachrome-e100-ref-94ff)
+- [[@photos.by.qi] Kodak Ektar 100 (ref: 95ec)](#photosbyqi-kodak-ektar-100-ref-95ec)
+- [[@photos.by.qi] Lomography Lomochrome Color 92 (ref: 12b4)](#photosbyqi-lomography-lomochrome-color-92-ref-12b4)
+- [[@photos.by.qi] Lomography Lomochrome Purple (ref: 8b00)](#photosbyqi-lomography-lomochrome-purple-ref-8b00)
+- [[@photos.by.qi] Space Cat Film Mars 250D (ref: 5027)](#photosbyqi-space-cat-film-mars-250d-ref-5027)
+- [[@photos.by.qi] Walkens Speed 400 (ref: 740f)](#photosbyqi-walkens-speed-400-ref-740f)
 - [[@recycling.film] Agfa APX 25 (ref: 805f)](#recyclingfilm-agfa-apx-25-ref-805f)
 - [[@recycling.film] Fujifilm Fujicolor C200 (ref: 2ff8)](#recyclingfilm-fujifilm-fujicolor-c200-ref-2ff8)
 - [[@recycling.film] Fujifilm Superia (ref: 0d8e)](#recyclingfilm-fujifilm-superia-ref-0d8e)
@@ -763,6 +782,272 @@ UUID  : 6e3408d7e97247e380ea52077a7491c1
 
 <a href="./archive/00049_000.jpg">
 	<img src="./lowres/00049_000.jpg" alt="Wolfen NC500 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@photos.by.qi] Building 2 200T (ref: c025)
+
+```
+Format: 35mm         |  Process : ECN-2   
+ISO   : 200          |  Expiry  : 2021-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 4e05091526684626b09f6f957dd9c025
+```
+
+<a href="./archive/00210_000.jpg">
+	<img src="./lowres/00210_000.jpg" alt="Building 2 200T 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@photos.by.qi] Building 2 250D (ref: 7d4f)
+
+```
+Format: 35mm         |  Process : ECN-2   
+ISO   : 250          |  Expiry  : 2020-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 693d77ba06bc4823bd4f43112d957d4f
+```
+
+<a href="./archive/00211_000.jpg">
+	<img src="./lowres/00211_000.jpg" alt="Building 2 250D 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@photos.by.qi] Building 2 500T (ref: 70d9)
+
+```
+Format: 35mm         |  Process : ECN-2   
+ISO   : 500          |  Expiry  : 2021-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 2e9e8e40ac154f4f9ac497837e2470d9
+```
+
+<a href="./archive/00212_000.jpg">
+	<img src="./lowres/00212_000.jpg" alt="Building 2 500T 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@photos.by.qi] Building 2 50D (ref: e548)
+
+```
+Format: 35mm         |  Process : ECN-2   
+ISO   : 50           |  Expiry  : 2021-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : f0c8cbdc08d146ba8690d19a70dbe548
+```
+
+<a href="./archive/00213_000.jpg">
+	<img src="./lowres/00213_000.jpg" alt="Building 2 50D 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@photos.by.qi] Ferrania Solaris (ref: a929)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 37936bef9f314a45b9ed57f7091fa929
+```
+
+<a href="./archive/00214_000.jpg">
+	<img src="./lowres/00214_000.jpg" alt="Ferrania Solaris 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@photos.by.qi] Film Never Die IRO (ref: 2a22)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2022-05 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 03b12b9d23dc4e059a9149ca4f682a22
+```
+
+<a href="./archive/00215_000.jpg">
+	<img src="./lowres/00215_000.jpg" alt="Film Never Die IRO 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+#### [@photos.by.qi] Film Never Die Kiro (ref: 796d)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2022-05 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : a6bb919bc40b4000a753bf9d3367796d
+```
+
+<a href="./archive/00216_000.jpg">
+	<img src="./lowres/00216_000.jpg" alt="Film Never Die Kiro 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+#### [@photos.by.qi] Fujifilm 400 (ref: 82be)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2025-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : f3193ccd9b9d4a929904a6a2e8b682be
+```
+
+<a href="./archive/00222_000.jpg">
+	<img src="./lowres/00222_000.jpg" alt="Fujifilm 400 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@photos.by.qi] Fujifilm Fujicolor 100 (ref: b3c9)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2025-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : ac13f69474544179a4a2513e8641b3c9
+```
+
+<a href="./archive/00217_000.jpg">
+	<img src="./lowres/00217_000.jpg" alt="Fujifilm Fujicolor 100 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@photos.by.qi] Fujifilm Fujicolor C200 (ref: a0de)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2023-10 
+Type  : Multi-Pack-2 |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : b290e4b860364420924596fc3330a0de
+```
+
+<a href="./archive/00220_000.jpg">
+	<img src="./lowres/00220_000.jpg" alt="Fujifilm Fujicolor C200 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@photos.by.qi] Fujifilm Fujicolor Pro400 (ref: 1b8d)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2003-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 0b59ba932e214f03a5069488e9651b8d
+```
+
+<a href="./archive/00221_000.jpg">
+	<img src="./lowres/00221_000.jpg" alt="Fujifilm Fujicolor Pro400 120 film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@photos.by.qi] Fujifilm Fujicolor Professional (ref: 02f7)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2019-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 8f934c948478459386443596e74c02f7
+```
+
+<a href="./archive/00219_000.jpg">
+	<img src="./lowres/00219_000.jpg" alt="Fujifilm Fujicolor Professional 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@photos.by.qi] Fujifilm Fujicolor Super G (ref: 55ff)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 100          |  Expiry  : 2003-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 331bb2ddb04f4cd8ab637f79324e55ff
+```
+
+<a href="./archive/00218_000.jpg">
+	<img src="./lowres/00218_000.jpg" alt="Fujifilm Fujicolor Super G 120 film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@photos.by.qi] Kodak Ektachrome E100 (ref: 94ff)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2024-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 1d1d6ca155874b6dba4333cf6f6194ff
+```
+
+<a href="./archive/00223_000.jpg">
+	<img src="./lowres/00223_000.jpg" alt="Kodak Ektachrome E100 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@photos.by.qi] Kodak Ektar 100 (ref: 95ec)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2024-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : eef92f5fa5b244518890b1ba52b895ec
+```
+
+<a href="./archive/00224_000.jpg">
+	<img src="./lowres/00224_000.jpg" alt="Kodak Ektar 100 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@photos.by.qi] Lomography Lomochrome Color 92 (ref: 12b4)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2026-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 81d185de4ddf494785362046cada12b4
+```
+
+<a href="./archive/00225_000.jpg">
+	<img src="./lowres/00225_000.jpg" alt="Lomography Lomochrome Color 92 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+#### [@photos.by.qi] Lomography Lomochrome Purple (ref: 8b00)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2022-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 5589454d652e4771b024a9901acb8b00
+```
+
+<a href="./archive/00226_000.jpg">
+	<img src="./lowres/00226_000.jpg" alt="Lomography Lomochrome Purple 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+#### [@photos.by.qi] Space Cat Film Mars 250D (ref: 5027)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 250          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 1595b93966854178a03bc6d0de705027
+```
+
+<a href="./archive/00227_000.jpg">
+	<img src="./lowres/00227_000.jpg" alt="Space Cat Film Mars 250D 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+#### [@photos.by.qi] Walkens Speed 400 (ref: 740f)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 198465748a5e41f8ad634fffa08a740f
+```
+
+<a href="./archive/00228_000.jpg">
+	<img src="./lowres/00228_000.jpg" alt="Walkens Speed 400 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [@recycling.film] Agfa APX 25 (ref: 805f)
@@ -4186,28 +4471,29 @@ Rank  Username                      Contributions
 1     dekuNukem                     111   
 2     Pelicram                      48    
 3     Camera.Riley                  19    
-4     Nano_Burger                   18    
-5     @ob.skura                     16    
-6     b0baspace                     14    
-7     The Compartmentalist          13    
-8     @SirBrentsworth               13    
-9     @recycling.film               13    
-10    toader                        13    
-11    stefanie                      12    
-12    yc128                         11    
-13    @ellafridalindblom            11    
-14    lilyu.xyz                     9     
-15    benikum                       6     
-16    Kraksen                       5     
-17    Henry Gunn                    4     
-18    u/ReeeSchmidtyWerber          4     
-19    lt_col_tall                   4     
-20    @Hol.m35                      3     
-21    TheSelousScout                3     
-22    @seklerek                     2     
-23    @ftfilmphotos                 2     
-24    Yrikonchik                    1     
-25    @ad.astra.per.aspera.1894     1     
+4     @photos.by.qi                 19    
+5     Nano_Burger                   18    
+6     @ob.skura                     16    
+7     b0baspace                     14    
+8     The Compartmentalist          13    
+9     @SirBrentsworth               13    
+10    @recycling.film               13    
+11    toader                        13    
+12    stefanie                      12    
+13    yc128                         11    
+14    @ellafridalindblom            11    
+15    lilyu.xyz                     9     
+16    benikum                       6     
+17    Kraksen                       5     
+18    Henry Gunn                    4     
+19    u/ReeeSchmidtyWerber          4     
+20    lt_col_tall                   4     
+21    @Hol.m35                      3     
+22    TheSelousScout                3     
+23    @seklerek                     2     
+24    @ftfilmphotos                 2     
+25    Yrikonchik                    1     
+26    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?

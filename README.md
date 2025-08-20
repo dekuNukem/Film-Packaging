@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 19 2025
-Unique items: 207
-Total scans : 356
+Last Updated: Aug 20 2025
+Unique items: 226
+Total scans : 375
 ```
 
 Or Sort by...
@@ -54,33 +54,55 @@ Rank  Username                      Contributions
 1     dekuNukem                     111   
 2     Pelicram                      48    
 3     Camera.Riley                  19    
-4     Nano_Burger                   18    
-5     @ob.skura                     16    
-6     b0baspace                     14    
-7     The Compartmentalist          13    
-8     @SirBrentsworth               13    
-9     @recycling.film               13    
-10    toader                        13    
-11    stefanie                      12    
-12    yc128                         11    
-13    @ellafridalindblom            11    
-14    lilyu.xyz                     9     
-15    benikum                       6     
-16    Kraksen                       5     
-17    Henry Gunn                    4     
-18    u/ReeeSchmidtyWerber          4     
-19    lt_col_tall                   4     
-20    @Hol.m35                      3     
-21    TheSelousScout                3     
-22    @seklerek                     2     
-23    @ftfilmphotos                 2     
-24    Yrikonchik                    1     
-25    @ad.astra.per.aspera.1894     1     
+4     @photos.by.qi                 19    
+5     Nano_Burger                   18    
+6     @ob.skura                     16    
+7     b0baspace                     14    
+8     The Compartmentalist          13    
+9     @SirBrentsworth               13    
+10    @recycling.film               13    
+11    toader                        13    
+12    stefanie                      12    
+13    yc128                         11    
+14    @ellafridalindblom            11    
+15    lilyu.xyz                     9     
+16    benikum                       6     
+17    Kraksen                       5     
+18    Henry Gunn                    4     
+19    u/ReeeSchmidtyWerber          4     
+20    lt_col_tall                   4     
+21    @Hol.m35                      3     
+22    TheSelousScout                3     
+23    @seklerek                     2     
+24    @ftfilmphotos                 2     
+25    Yrikonchik                    1     
+26    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Recent Activities
 
 ```
+2025-08-20
+  - @photos.by.qi: Building 2 200T
+  - @photos.by.qi: Building 2 250D
+  - @photos.by.qi: Building 2 500T
+  - @photos.by.qi: Building 2 50D
+  - @photos.by.qi: Ferrania Solaris
+  - @photos.by.qi: Film Never Die IRO
+  - @photos.by.qi: Film Never Die Kiro
+  - @photos.by.qi: Fujifilm 400
+  - @photos.by.qi: Fujifilm Fujicolor 100
+  - @photos.by.qi: Fujifilm Fujicolor C200
+  - @photos.by.qi: Fujifilm Fujicolor Pro400
+  - @photos.by.qi: Fujifilm Fujicolor Professional
+  - @photos.by.qi: Fujifilm Fujicolor Super G
+  - @photos.by.qi: Kodak Ektachrome E100
+  - @photos.by.qi: Kodak Ektar 100
+  - @photos.by.qi: Lomography Lomochrome Color 92
+  - @photos.by.qi: Lomography Lomochrome Purple
+  - @photos.by.qi: Space Cat Film Mars 250D
+  - @photos.by.qi: Walkens Speed 400
+
 2025-08-19
   - @ellafridalindblom: Defender Portrait HGS
   - @ellafridalindblom: Foton Fotopan F
@@ -113,19 +135,6 @@ Rank  Username                      Contributions
   - Pelicram: Foma Ortho 400
   - Pelicram: Kentmere PAN 200
   - Pelicram: Mutascan Kodak Vision3 500T/5219
-
-2025-08-14
-  - Camera.Riley: Agfa Fine-Grain Plenachrome
-  - Camera.Riley: Fujifilm Fujichrome 64T Type II Professional
-  - Camera.Riley: Fujifilm Fujicolor Natura 1600
-  - Camera.Riley: Kodak Eastman Tri-X Reversal Film 7278
-  - Camera.Riley: Kodak Ektachrome 64T
-  - Camera.Riley: Kodak Elite Chrome
-  - Camera.Riley: Kodak High Contrast Copy Film
-  - Camera.Riley: Kodak Portra 400NC
-  - Camera.Riley: Kodak Professional Microfilm Type I
-  - Camera.Riley: Konica Konica Color II
-  - Camera.Riley: Polaroid PolaChrome 35mm
 ```
 
 ## Disclaimer
