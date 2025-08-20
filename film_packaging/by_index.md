@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Aug 20 2025
-Unique items: 241
-Total scans : 402
+Unique items: 255
+Total scans : 428
 ```
 
 -----
@@ -263,6 +263,20 @@ Total scans : 402
 - [[241] Kodak UltraMax (ref: 3c02)](#241-kodak-ultramax-ref-3c02)
 - [[242] Kodak Portra 400VC (ref: 7669)](#242-kodak-portra-400vc-ref-7669)
 - [[243] Kodak Portra 400VC (ref: b67b)](#243-kodak-portra-400vc-ref-b67b)
+- [[244] Kodak Portra 400 (ref: 8b1c)](#244-kodak-portra-400-ref-8b1c)
+- [[245] Kodak Portra 400 (ref: c869)](#245-kodak-portra-400-ref-c869)
+- [[246] Kodak Portra 400 (ref: 9f18)](#246-kodak-portra-400-ref-9f18)
+- [[247] Fujifilm Pro 400H (ref: 48ed)](#247-fujifilm-pro-400h-ref-48ed)
+- [[248] Fujifilm Provia 400X (ref: 3c08)](#248-fujifilm-provia-400x-ref-3c08)
+- [[249] Fujifilm Pro 400H (ref: dc37)](#249-fujifilm-pro-400h-ref-dc37)
+- [[250] Fujifilm Pro 400H (ref: ff20)](#250-fujifilm-pro-400h-ref-ff20)
+- [[251] Kodak Ektar 100 (ref: 4631)](#251-kodak-ektar-100-ref-4631)
+- [[252] Kodak Gold (ref: 6587)](#252-kodak-gold-ref-6587)
+- [[253] Kodak Gold II (ref: 61d0)](#253-kodak-gold-ii-ref-61d0)
+- [[254] CineStill 50D (ref: 3452)](#254-cinestill-50d-ref-3452)
+- [[255] CineStill 400D (ref: 88dc)](#255-cinestill-400d-ref-88dc)
+- [[256] CineStill BWXX (ref: 66eb)](#256-cinestill-bwxx-ref-66eb)
+- [[257] Agfa Vista Plus (ref: f08a)](#257-agfa-vista-plus-ref-f08a)
 
 
 -----
@@ -4768,6 +4782,286 @@ UUID  : 348bccb01edc4a6ea9a2f5c4d88cb67b
 	<img src="./lowres/00243_003.jpg" alt="Kodak Portra 400VC 120 film box inside" loading="lazy" width="500" />
 </a>
 
+#### [244] Kodak Portra 400 (ref: 8b1c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2024-12 
+Type  : Multi-Pack-5 |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 282ef0c08f374148afc8a5efaf5b8b1c
+```
+
+<a href="./archive/00244_000.jpg">
+	<img src="./lowres/00244_000.jpg" alt="Kodak Portra 400 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+#### [245] Kodak Portra 400 (ref: c869)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2026-10 
+Type  : Multi-Pack-5 |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 848f67976c48465a8c245ba2a4d0c869
+```
+
+<a href="./archive/00245_000.jpg">
+	<img src="./lowres/00245_000.jpg" alt="Kodak Portra 400 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+#### [246] Kodak Portra 400 (ref: 9f18)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2024-08 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 12ee41c6f8fe493fbda516802e039f18
+```
+
+<a href="./archive/00246_000.jpg">
+	<img src="./lowres/00246_000.jpg" alt="Kodak Portra 400 120 film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 6407fec85c4344a1bbc2ae930e51ae8e`↓
+
+<a href="./archive/00246_001.jpg">
+	<img src="./lowres/00246_001.jpg" alt="Kodak Portra 400 120 film box outside" loading="lazy" width="500" />
+</a>
+
+#### [247] Fujifilm Pro 400H (ref: 48ed)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2007-10 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : fae60be8fc0745c3965f24b1778e48ed
+```
+
+<a href="./archive/00247_000.jpg">
+	<img src="./lowres/00247_000.jpg" alt="Fujifilm Pro 400H 120 film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: a305e39dc3f041d1bf59e7dc2504835c`↓
+
+<a href="./archive/00247_001.jpg">
+	<img src="./lowres/00247_001.jpg" alt="Fujifilm Pro 400H 120 film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: a10a19f268084ce881ab55f247f1035f`↓
+
+<a href="./archive/00247_002.jpg">
+	<img src="./lowres/00247_002.jpg" alt="Fujifilm Pro 400H 120 film box inside" loading="lazy" width="500" />
+</a>
+
+#### [248] Fujifilm Provia 400X (ref: 3c08)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 400          |  Expiry  : 2014-12 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 3a84e3b505004d069104ff0042d03c08
+```
+
+<a href="./archive/00248_000.jpg">
+	<img src="./lowres/00248_000.jpg" alt="Fujifilm Provia 400X 120 film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: db24477938104d81beddac492c8d637e`↓
+
+<a href="./archive/00248_001.jpg">
+	<img src="./lowres/00248_001.jpg" alt="Fujifilm Provia 400X 120 film box outside" loading="lazy" width="500" />
+</a>
+
+#### [249] Fujifilm Pro 400H (ref: dc37)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2009-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 9934366ea7a04b65b3c300352fa8dc37
+```
+
+<a href="./archive/00249_000.jpg">
+	<img src="./lowres/00249_000.jpg" alt="Fujifilm Pro 400H 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: df9f856987284644858ab4590872c133`↓
+
+<a href="./archive/00249_001.jpg">
+	<img src="./lowres/00249_001.jpg" alt="Fujifilm Pro 400H 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### [250] Fujifilm Pro 400H (ref: ff20)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2022-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 3167bab31b134176a6d637dc1491ff20
+```
+
+<a href="./archive/00250_000.jpg">
+	<img src="./lowres/00250_000.jpg" alt="Fujifilm Pro 400H 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [251] Kodak Ektar 100 (ref: 4631)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 100          |  Expiry  : 2022-04 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 22bb063ec2ca4f2ea5b9f4be4dce4631
+```
+
+<a href="./archive/00251_000.jpg">
+	<img src="./lowres/00251_000.jpg" alt="Kodak Ektar 100 120 film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 5ee59977ab8f4902b82e22de1767d131`↓
+
+<a href="./archive/00251_001.jpg">
+	<img src="./lowres/00251_001.jpg" alt="Kodak Ektar 100 120 film box outside" loading="lazy" width="500" />
+</a>
+
+#### [252] Kodak Gold (ref: 6587)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2024-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 99836199940848569bab40a438546587
+```
+
+<a href="./archive/00252_000.jpg">
+	<img src="./lowres/00252_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: b9bddee9f550460c837c5489aff72400`↓
+
+<a href="./archive/00252_001.jpg">
+	<img src="./lowres/00252_001.jpg" alt="Kodak Gold 35mm film box processing envelope" loading="lazy" height="500" />
+</a>
+
+#### [253] Kodak Gold II (ref: 61d0)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 1993-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 63fd3851483d457d9fdc15b2d24461d0
+```
+
+<a href="./archive/00253_000.jpg">
+	<img src="./lowres/00253_000.jpg" alt="Kodak Gold II 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 49bb438bb4a94d07b07d1bd3178a38d8`↓
+
+<a href="./archive/00253_001.jpg">
+	<img src="./lowres/00253_001.jpg" alt="Kodak Gold II 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### [254] CineStill 50D (ref: 3452)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 50           |  Expiry  : 2023-05 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 9213a1fbffc44178878f7bd9c5d33452
+```
+
+<a href="./archive/00254_000.jpg">
+	<img src="./lowres/00254_000.jpg" alt="CineStill 50D 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 219350408c3c45c7b9c23de73db1ed40`↓
+
+<a href="./archive/00254_001.jpg">
+	<img src="./lowres/00254_001.jpg" alt="CineStill 50D 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### [255] CineStill 400D (ref: 88dc)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2024-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 9e2bc75381ca4ca68e59dbf6c3a388dc
+```
+
+<a href="./archive/00255_000.jpg">
+	<img src="./lowres/00255_000.jpg" alt="CineStill 400D 120 film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 42d565d0fdbc4e12bcc11d172b36f779`↓
+
+<a href="./archive/00255_001.jpg">
+	<img src="./lowres/00255_001.jpg" alt="CineStill 400D 120 film box inside" loading="lazy" height="500" />
+</a>
+
+#### [256] CineStill BWXX (ref: 66eb)
+
+```
+Format: 120          |  Process : D96     
+ISO   : 200-400      |  Expiry  : 2023-10 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : e4493fbb55e044edaaca55ecd22366eb
+```
+
+<a href="./archive/00256_000.jpg">
+	<img src="./lowres/00256_000.jpg" alt="CineStill BWXX 120 film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 6e4b285456d1438ab0cdad81440b9761`↓
+
+<a href="./archive/00256_001.jpg">
+	<img src="./lowres/00256_001.jpg" alt="CineStill BWXX 120 film box inside" loading="lazy" height="500" />
+</a>
+
+#### [257] Agfa Vista Plus (ref: f08a)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2019-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : b1c4d56515954c8d98bd0b8f9591f08a
+```
+
+<a href="./archive/00257_000.jpg">
+	<img src="./lowres/00257_000.jpg" alt="Agfa Vista Plus 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 0088411d14c547aa96ea5d28bf04d9ea`↓
+
+<a href="./archive/00257_001.jpg">
+	<img src="./lowres/00257_001.jpg" alt="Agfa Vista Plus 35mm film box inside" loading="lazy" height="500" />
+</a>
+
 ## Want to Contribute?
 
 [Check out the guidelines!](../contribution_guide.md)
@@ -4778,8 +5072,8 @@ UUID  : 348bccb01edc4a6ea9a2f5c4d88cb67b
 Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     111   
-2     Pelicram                      48    
-3     @photos.by.qi                 46    
+2     @photos.by.qi                 72    
+3     Pelicram                      48    
 4     Camera.Riley                  19    
 5     Nano_Burger                   18    
 6     @ob.skura                     16    

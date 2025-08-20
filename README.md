@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Aug 20 2025
-Unique items: 241
-Total scans : 402
+Unique items: 255
+Total scans : 428
 ```
 
 Or Sort by...
@@ -52,8 +52,8 @@ Or Sort by...
 Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     111   
-2     Pelicram                      48    
-3     @photos.by.qi                 46    
+2     @photos.by.qi                 72    
+3     Pelicram                      48    
 4     Camera.Riley                  19    
 5     Nano_Burger                   18    
 6     @ob.skura                     16    
@@ -83,10 +83,14 @@ Rank  Username                      Contributions
 
 ```
 2025-08-20
+  - @photos.by.qi: Agfa Vista Plus
   - @photos.by.qi: Building 2 200T
   - @photos.by.qi: Building 2 250D
   - @photos.by.qi: Building 2 500T
   - @photos.by.qi: Building 2 50D
+  - @photos.by.qi: CineStill 400D
+  - @photos.by.qi: CineStill 50D
+  - @photos.by.qi: CineStill BWXX
   - @photos.by.qi: Ferrania Solaris
   - @photos.by.qi: Film Never Die IRO
   - @photos.by.qi: Film Never Die Kiro
@@ -96,13 +100,17 @@ Rank  Username                      Contributions
   - @photos.by.qi: Fujifilm Fujicolor Pro400
   - @photos.by.qi: Fujifilm Fujicolor Professional
   - @photos.by.qi: Fujifilm Fujicolor Super G
+  - @photos.by.qi: Fujifilm Pro 400H
+  - @photos.by.qi: Fujifilm Provia 400X
   - @photos.by.qi: Fujifilm Superia
   - @photos.by.qi: Fujifilm Superia Reala
   - @photos.by.qi: Fujifilm Superia X-TRA
   - @photos.by.qi: Kodak Ektachrome E100
   - @photos.by.qi: Kodak Ektar 100
   - @photos.by.qi: Kodak Gold
+  - @photos.by.qi: Kodak Gold II
   - @photos.by.qi: Kodak MAX
+  - @photos.by.qi: Kodak Portra 400
   - @photos.by.qi: Kodak Portra 400VC
   - @photos.by.qi: Kodak Portra 800
   - @photos.by.qi: Kodak ProImage 100
