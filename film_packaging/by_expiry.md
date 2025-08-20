@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Aug 20 2025
-Unique items: 226
-Total scans : 375
+Unique items: 233
+Total scans : 382
 ```
 
 -----
@@ -98,10 +98,12 @@ Total scans : 375
 - [[2003] Fujifilm Superia X-TRA (ref: 713b)](#2003-fujifilm-superia-x-tra-ref-713b)
 - [[2003] Fujifilm Fujicolor Super G (ref: 55ff)](#2003-fujifilm-fujicolor-super-g-ref-55ff)
 - [[2003] Fujifilm Fujicolor Pro400 (ref: 1b8d)](#2003-fujifilm-fujicolor-pro400-ref-1b8d)
+- [[2003] Fujifilm Superia (ref: 9272)](#2003-fujifilm-superia-ref-9272)
 - [[2003] Fujifilm NPS 160 (ref: 5e85)](#2003-fujifilm-nps-160-ref-5e85)
 - [[2003] Agfa Vista (ref: d3af)](#2003-agfa-vista-ref-d3af)
 - [[2004] Fujifilm Superia X-TRA (ref: 7980)](#2004-fujifilm-superia-x-tra-ref-7980)
 - [[2004] Kodak Black & White + (ref: 2ff3)](#2004-kodak-black-white-ref-2ff3)
+- [[2005] Fujifilm Superia X-TRA (ref: 0446)](#2005-fujifilm-superia-x-tra-ref-0446)
 - [[2005] Agfa Agfacolor XRG (ref: 689e)](#2005-agfa-agfacolor-xrg-ref-689e)
 - [[2005] Agfa Agfapan APX 100 (ref: e271)](#2005-agfa-agfapan-apx-100-ref-e271)
 - [[2005] Kodak Ultra (ref: 69a1)](#2005-kodak-ultra-ref-69a1)
@@ -116,6 +118,7 @@ Total scans : 375
 - [[2006] Klick APS Film (ref: 4b88)](#2006-klick-aps-film-ref-4b88)
 - [[2006] Polaroid GridFilm (ref: 8deb)](#2006-polaroid-gridfilm-ref-8deb)
 - [[2007] Fujifilm Velvia 100F (ref: 32d4)](#2007-fujifilm-velvia-100f-ref-32d4)
+- [[2007] Kodak MAX (ref: 2361)](#2007-kodak-max-ref-2361)
 - [[2007] Fujifilm Superia Reala (ref: a7de)](#2007-fujifilm-superia-reala-ref-a7de)
 - [[2007] Kodak Kodachrome 64 (ref: 3206)](#2007-kodak-kodachrome-64-ref-3206)
 - [[2007] Lloyds Pharmacy APS Film (ref: c7cf)](#2007-lloyds-pharmacy-aps-film-ref-c7cf)
@@ -124,6 +127,7 @@ Total scans : 375
 - [[2008] Kodak High Speed Infrared (ref: 883e)](#2008-kodak-high-speed-infrared-ref-883e)
 - [[2009] Fujifilm Superia (ref: 0d8e)](#2009-fujifilm-superia-ref-0d8e)
 - [[2009] Lloyds Pharmacy Colour Film (ref: 77d9)](#2009-lloyds-pharmacy-colour-film-ref-77d9)
+- [[2010] Fujifilm Superia Reala (ref: a624)](#2010-fujifilm-superia-reala-ref-a624)
 - [[2010] Kodak Ektachrome E100VS (ref: a8d3)](#2010-kodak-ektachrome-e100vs-ref-a8d3)
 - [[2010] Fujifilm Fujicolor 100 (ref: 013b)](#2010-fujifilm-fujicolor-100-ref-013b)
 - [[2012] Fujifilm Fujicolor Professional (ref: 28da)](#2012-fujifilm-fujicolor-professional-ref-28da)
@@ -150,11 +154,14 @@ Total scans : 375
 - [[2022] Film Never Die Kiro (ref: 796d)](#2022-film-never-die-kiro-ref-796d)
 - [[2022] Ilford HP5 Plus (ref: c725)](#2022-ilford-hp5-plus-ref-c725)
 - [[2022] Lomography Lomochrome Purple (ref: 8b00)](#2022-lomography-lomochrome-purple-ref-8b00)
+- [[2023] Kodak UltraMax (ref: 3b23)](#2023-kodak-ultramax-ref-3b23)
+- [[2023] Kodak Gold (ref: d48d)](#2023-kodak-gold-ref-d48d)
 - [[2023] Kodak TMAX 100 (ref: b3b1)](#2023-kodak-tmax-100-ref-b3b1)
 - [[2023] Fujifilm Fujicolor C200 (ref: a0de)](#2023-fujifilm-fujicolor-c200-ref-a0de)
 - [[2024] Kodak Ektar 100 (ref: 95ec)](#2024-kodak-ektar-100-ref-95ec)
 - [[2024] Alien Film 5222/XX (ref: 3e49)](#2024-alien-film-5222xx-ref-3e49)
 - [[2024] Shanghai GP3 (ref: 52aa)](#2024-shanghai-gp3-ref-52aa)
+- [[2024] Fujifilm Superia X-TRA (ref: 8923)](#2024-fujifilm-superia-x-tra-ref-8923)
 - [[2024] Ilford Delta 100 (ref: eb8d)](#2024-ilford-delta-100-ref-eb8d)
 - [[2024] Kodak Ektachrome E100 (ref: 94ff)](#2024-kodak-ektachrome-e100-ref-94ff)
 - [[2024] Polaroid Color 600 Film Round Frame (ref: d985)](#2024-polaroid-color-600-film-round-frame-ref-d985)
@@ -1911,6 +1918,20 @@ UUID  : 0b59ba932e214f03a5069488e9651b8d
 	<img src="./lowres/00221_000.jpg" alt="Fujifilm Fujicolor Pro400 120 film box outside" loading="lazy" height="500" />
 </a>
 
+#### [2003] Fujifilm Superia (ref: 9272)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2003-07 
+Type  : Multi-Pack-2 |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 2acd2ce4aefb44b4a4c72b130edb9272
+```
+
+<a href="./archive/00229_000.jpg">
+	<img src="./lowres/00229_000.jpg" alt="Fujifilm Superia 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [2003] Fujifilm NPS 160 (ref: 5e85)
 
 ```
@@ -1986,6 +2007,20 @@ UUID  : 8ae6d75c042c48318fa711a412b72ff3
 
 <a href="./archive/00189_000.jpg">
 	<img src="./lowres/00189_000.jpg" alt="Kodak Black & White + 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [2005] Fujifilm Superia X-TRA (ref: 0446)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2005-02 
+Type  : Multi-Pack-3 |  Quantity: 24exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 16351828954846229e7a4ca1193d0446
+```
+
+<a href="./archive/00232_000.jpg">
+	<img src="./lowres/00232_000.jpg" alt="Fujifilm Superia X-TRA 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [2005] Agfa Agfacolor XRG (ref: 689e)
@@ -2233,6 +2268,20 @@ UUID  : ce5c1d786286427ba5633091b06432d4
 	<img src="./lowres/00056_000.jpg" alt="Fujifilm Velvia 100F 35mm film box outside" loading="lazy" height="500" />
 </a>
 
+#### [2007] Kodak MAX (ref: 2361)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2007-03 
+Type  : Multi-Pack-3 |  Quantity: 24exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 5d0c054ebc17452397de86653bf42361
+```
+
+<a href="./archive/00234_000.jpg">
+	<img src="./lowres/00234_000.jpg" alt="Kodak MAX 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [2007] Fujifilm Superia Reala (ref: a7de)
 
 ```
@@ -2364,6 +2413,20 @@ UUID  : c58dda071d1741fda90e20b4252277d9
 
 <a href="./archive/00013_000.jpg">
 	<img src="./lowres/00013_000.jpg" alt="Lloyds Pharmacy Colour Film 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+#### [2010] Fujifilm Superia Reala (ref: a624)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2010-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 47af4374c1474eb3b20cb1894b43a624
+```
+
+<a href="./archive/00230_000.jpg">
+	<img src="./lowres/00230_000.jpg" alt="Fujifilm Superia Reala 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [2010] Kodak Ektachrome E100VS (ref: a8d3)
@@ -2772,6 +2835,34 @@ UUID  : 5589454d652e4771b024a9901acb8b00
 	<img src="./lowres/00226_000.jpg" alt="Lomography Lomochrome Purple 35mm film box outside" loading="lazy" width="500" />
 </a>
 
+#### [2023] Kodak UltraMax (ref: 3b23)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2023-03 
+Type  : Multi-Pack-3 |  Quantity: 24exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 1a68334cdfc146b98a7fa95672e33b23
+```
+
+<a href="./archive/00235_000.jpg">
+	<img src="./lowres/00235_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [2023] Kodak Gold (ref: d48d)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2023-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : e0db5edb5d3046e99d019b901088d48d
+```
+
+<a href="./archive/00233_000.jpg">
+	<img src="./lowres/00233_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [2023] Kodak TMAX 100 (ref: b3b1)
 
 ```
@@ -2840,6 +2931,20 @@ UUID  : 0e16f7ae50164c658acd22b8d62e52aa
 
 <a href="./archive/00050_000.jpg">
 	<img src="./lowres/00050_000.jpg" alt="Shanghai GP3 127 film box outside" loading="lazy" width="500" />
+</a>
+
+#### [2024] Fujifilm Superia X-TRA (ref: 8923)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2024-08 
+Type  : Multi-Pack-2 |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : de6b17f5230e4052b6b166977a418923
+```
+
+<a href="./archive/00231_000.jpg">
+	<img src="./lowres/00231_000.jpg" alt="Fujifilm Superia X-TRA 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [2024] Ilford Delta 100 (ref: eb8d)
@@ -4470,8 +4575,8 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     111   
 2     Pelicram                      48    
-3     Camera.Riley                  19    
-4     @photos.by.qi                 19    
+3     @photos.by.qi                 26    
+4     Camera.Riley                  19    
 5     Nano_Burger                   18    
 6     @ob.skura                     16    
 7     b0baspace                     14    

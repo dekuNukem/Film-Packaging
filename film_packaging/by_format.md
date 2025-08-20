@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Aug 20 2025
-Unique items: 226
-Total scans : 375
+Unique items: 233
+Total scans : 382
 ```
 
 -----
@@ -127,9 +127,13 @@ Total scans : 375
 - [[35mm] Fujifilm Provia 100F (ref: 356d)](#35mm-fujifilm-provia-100f-ref-356d)
 - [[35mm] Fujifilm Provia 100F (ref: df27)](#35mm-fujifilm-provia-100f-ref-df27)
 - [[35mm] Fujifilm Sensia (ref: a59b)](#35mm-fujifilm-sensia-ref-a59b)
+- [[35mm] Fujifilm Superia (ref: 9272)](#35mm-fujifilm-superia-ref-9272)
 - [[35mm] Fujifilm Superia (ref: 0d8e)](#35mm-fujifilm-superia-ref-0d8e)
 - [[35mm] Fujifilm Superia Reala (ref: a7de)](#35mm-fujifilm-superia-reala-ref-a7de)
+- [[35mm] Fujifilm Superia Reala (ref: a624)](#35mm-fujifilm-superia-reala-ref-a624)
 - [[35mm] Fujifilm Superia X-TRA (ref: 713b)](#35mm-fujifilm-superia-x-tra-ref-713b)
+- [[35mm] Fujifilm Superia X-TRA (ref: 0446)](#35mm-fujifilm-superia-x-tra-ref-0446)
+- [[35mm] Fujifilm Superia X-TRA (ref: 8923)](#35mm-fujifilm-superia-x-tra-ref-8923)
 - [[35mm] Fujifilm Superia X-TRA (ref: 6b8a)](#35mm-fujifilm-superia-x-tra-ref-6b8a)
 - [[35mm] Fujifilm Velvia 100F (ref: 32d4)](#35mm-fujifilm-velvia-100f-ref-32d4)
 - [[35mm] Hands On Film Midnight 1600 (ref: 4411)](#35mm-hands-on-film-midnight-1600-ref-4411)
@@ -166,6 +170,7 @@ Total scans : 375
 - [[35mm] Kodak Elite Chrome (ref: 3943)](#35mm-kodak-elite-chrome-ref-3943)
 - [[35mm] Kodak Gold (ref: 2f8d)](#35mm-kodak-gold-ref-2f8d)
 - [[35mm] Kodak Gold (ref: ea58)](#35mm-kodak-gold-ref-ea58)
+- [[35mm] Kodak Gold (ref: d48d)](#35mm-kodak-gold-ref-d48d)
 - [[35mm] Kodak Gold (ref: 3e7f)](#35mm-kodak-gold-ref-3e7f)
 - [[35mm] Kodak Gold (ref: 855e)](#35mm-kodak-gold-ref-855e)
 - [[35mm] Kodak Gold Ultra 400 (ref: 1358)](#35mm-kodak-gold-ultra-400-ref-1358)
@@ -179,6 +184,7 @@ Total scans : 375
 - [[35mm] Kodak Kodachrome 64 (ref: 3206)](#35mm-kodak-kodachrome-64-ref-3206)
 - [[35mm] Kodak Kodacolor VR (ref: 035f)](#35mm-kodak-kodacolor-vr-ref-035f)
 - [[35mm] Kodak Kodacolor VR Plus (ref: f8bf)](#35mm-kodak-kodacolor-vr-plus-ref-f8bf)
+- [[35mm] Kodak MAX (ref: 2361)](#35mm-kodak-max-ref-2361)
 - [[35mm] Kodak Panatomic-X (ref: 8d69)](#35mm-kodak-panatomic-x-ref-8d69)
 - [[35mm] Kodak Panatomic-X (ref: 35f6)](#35mm-kodak-panatomic-x-ref-35f6)
 - [[35mm] Kodak Portra 160 (ref: ce56)](#35mm-kodak-portra-160-ref-ce56)
@@ -192,6 +198,7 @@ Total scans : 375
 - [[35mm] Kodak Technical Pan (ref: f4cf)](#35mm-kodak-technical-pan-ref-f4cf)
 - [[35mm] Kodak Tri-X 400 (ref: c671)](#35mm-kodak-tri-x-400-ref-c671)
 - [[35mm] Kodak Ultra (ref: 69a1)](#35mm-kodak-ultra-ref-69a1)
+- [[35mm] Kodak UltraMax (ref: 3b23)](#35mm-kodak-ultramax-ref-3b23)
 - [[35mm] Kodak UltraMax (ref: e4ad)](#35mm-kodak-ultramax-ref-e4ad)
 - [[35mm] Kodak UltraMax (ref: aaa6)](#35mm-kodak-ultramax-ref-aaa6)
 - [[35mm] Kodak Värikuvafilmi (ref: f9ff)](#35mm-kodak-värikuvafilmi-ref-f9ff)
@@ -2184,6 +2191,20 @@ UUID  : d4fdfa0d829f4fcab984381a31f2a59b
 	<img src="./lowres/00116_001.jpg" alt="Fujifilm Sensia 35mm film box inside" loading="lazy" height="500" />
 </a>
 
+#### [35mm] Fujifilm Superia (ref: 9272)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2003-07 
+Type  : Multi-Pack-2 |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 2acd2ce4aefb44b4a4c72b130edb9272
+```
+
+<a href="./archive/00229_000.jpg">
+	<img src="./lowres/00229_000.jpg" alt="Fujifilm Superia 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [35mm] Fujifilm Superia (ref: 0d8e)
 
 ```
@@ -2212,6 +2233,20 @@ UUID  : bab5fa204b25431a9872c4ce8e9aa7de
 	<img src="./lowres/00087_000.jpg" alt="Fujifilm Superia Reala 35mm film box outside" loading="lazy" height="500" />
 </a>
 
+#### [35mm] Fujifilm Superia Reala (ref: a624)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2010-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 47af4374c1474eb3b20cb1894b43a624
+```
+
+<a href="./archive/00230_000.jpg">
+	<img src="./lowres/00230_000.jpg" alt="Fujifilm Superia Reala 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [35mm] Fujifilm Superia X-TRA (ref: 713b)
 
 ```
@@ -2231,6 +2266,34 @@ UUID  : 89750d8a18fe4e238c76b97b4578713b
 
 <a href="./archive/00197_001.jpg">
 	<img src="./lowres/00197_001.jpg" alt="Fujifilm Superia X-TRA 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### [35mm] Fujifilm Superia X-TRA (ref: 0446)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2005-02 
+Type  : Multi-Pack-3 |  Quantity: 24exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 16351828954846229e7a4ca1193d0446
+```
+
+<a href="./archive/00232_000.jpg">
+	<img src="./lowres/00232_000.jpg" alt="Fujifilm Superia X-TRA 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [35mm] Fujifilm Superia X-TRA (ref: 8923)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2024-08 
+Type  : Multi-Pack-2 |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : de6b17f5230e4052b6b166977a418923
+```
+
+<a href="./archive/00231_000.jpg">
+	<img src="./lowres/00231_000.jpg" alt="Fujifilm Superia X-TRA 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [35mm] Fujifilm Superia X-TRA (ref: 6b8a)
@@ -2877,6 +2940,20 @@ UUID  : e45118f7bd5e4ae682e5747a81f0ea58
 	<img src="./lowres/00095_001.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="500" />
 </a>
 
+#### [35mm] Kodak Gold (ref: d48d)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2023-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : e0db5edb5d3046e99d019b901088d48d
+```
+
+<a href="./archive/00233_000.jpg">
+	<img src="./lowres/00233_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [35mm] Kodak Gold (ref: 3e7f)
 
 ```
@@ -3171,6 +3248,20 @@ UUID  : faf0a44eece541a9b701feb772f4f8bf
 	<img src="./lowres/00153_000.jpg" alt="Kodak Kodacolor VR Plus 35mm film box outside" loading="lazy" width="500" />
 </a>
 
+#### [35mm] Kodak MAX (ref: 2361)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2007-03 
+Type  : Multi-Pack-3 |  Quantity: 24exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 5d0c054ebc17452397de86653bf42361
+```
+
+<a href="./archive/00234_000.jpg">
+	<img src="./lowres/00234_000.jpg" alt="Kodak MAX 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [35mm] Kodak Panatomic-X (ref: 8d69)
 
 ```
@@ -3400,6 +3491,20 @@ UUID  : 77dfbdf80e3a4950b40c7ea8c1e369a1
 
 <a href="./archive/00043_000.jpg">
 	<img src="./lowres/00043_000.jpg" alt="Kodak Ultra 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [35mm] Kodak UltraMax (ref: 3b23)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2023-03 
+Type  : Multi-Pack-3 |  Quantity: 24exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 1a68334cdfc146b98a7fa95672e33b23
+```
+
+<a href="./archive/00235_000.jpg">
+	<img src="./lowres/00235_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [35mm] Kodak UltraMax (ref: e4ad)
@@ -4470,8 +4575,8 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     111   
 2     Pelicram                      48    
-3     Camera.Riley                  19    
-4     @photos.by.qi                 19    
+3     @photos.by.qi                 26    
+4     Camera.Riley                  19    
 5     Nano_Burger                   18    
 6     @ob.skura                     16    
 7     b0baspace                     14    

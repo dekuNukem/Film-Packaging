@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Aug 20 2025
-Unique items: 226
-Total scans : 375
+Unique items: 233
+Total scans : 382
 ```
 
 -----
@@ -65,8 +65,15 @@ Total scans : 375
 - [[@photos.by.qi] Fujifilm Fujicolor Pro400 (ref: 1b8d)](#photosbyqi-fujifilm-fujicolor-pro400-ref-1b8d)
 - [[@photos.by.qi] Fujifilm Fujicolor Professional (ref: 02f7)](#photosbyqi-fujifilm-fujicolor-professional-ref-02f7)
 - [[@photos.by.qi] Fujifilm Fujicolor Super G (ref: 55ff)](#photosbyqi-fujifilm-fujicolor-super-g-ref-55ff)
+- [[@photos.by.qi] Fujifilm Superia (ref: 9272)](#photosbyqi-fujifilm-superia-ref-9272)
+- [[@photos.by.qi] Fujifilm Superia Reala (ref: a624)](#photosbyqi-fujifilm-superia-reala-ref-a624)
+- [[@photos.by.qi] Fujifilm Superia X-TRA (ref: 0446)](#photosbyqi-fujifilm-superia-x-tra-ref-0446)
+- [[@photos.by.qi] Fujifilm Superia X-TRA (ref: 8923)](#photosbyqi-fujifilm-superia-x-tra-ref-8923)
 - [[@photos.by.qi] Kodak Ektachrome E100 (ref: 94ff)](#photosbyqi-kodak-ektachrome-e100-ref-94ff)
 - [[@photos.by.qi] Kodak Ektar 100 (ref: 95ec)](#photosbyqi-kodak-ektar-100-ref-95ec)
+- [[@photos.by.qi] Kodak Gold (ref: d48d)](#photosbyqi-kodak-gold-ref-d48d)
+- [[@photos.by.qi] Kodak MAX (ref: 2361)](#photosbyqi-kodak-max-ref-2361)
+- [[@photos.by.qi] Kodak UltraMax (ref: 3b23)](#photosbyqi-kodak-ultramax-ref-3b23)
 - [[@photos.by.qi] Lomography Lomochrome Color 92 (ref: 12b4)](#photosbyqi-lomography-lomochrome-color-92-ref-12b4)
 - [[@photos.by.qi] Lomography Lomochrome Purple (ref: 8b00)](#photosbyqi-lomography-lomochrome-purple-ref-8b00)
 - [[@photos.by.qi] Space Cat Film Mars 250D (ref: 5027)](#photosbyqi-space-cat-film-mars-250d-ref-5027)
@@ -966,6 +973,62 @@ UUID  : 331bb2ddb04f4cd8ab637f79324e55ff
 	<img src="./lowres/00218_000.jpg" alt="Fujifilm Fujicolor Super G 120 film box outside" loading="lazy" height="500" />
 </a>
 
+#### [@photos.by.qi] Fujifilm Superia (ref: 9272)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2003-07 
+Type  : Multi-Pack-2 |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 2acd2ce4aefb44b4a4c72b130edb9272
+```
+
+<a href="./archive/00229_000.jpg">
+	<img src="./lowres/00229_000.jpg" alt="Fujifilm Superia 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@photos.by.qi] Fujifilm Superia Reala (ref: a624)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2010-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 47af4374c1474eb3b20cb1894b43a624
+```
+
+<a href="./archive/00230_000.jpg">
+	<img src="./lowres/00230_000.jpg" alt="Fujifilm Superia Reala 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@photos.by.qi] Fujifilm Superia X-TRA (ref: 0446)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2005-02 
+Type  : Multi-Pack-3 |  Quantity: 24exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 16351828954846229e7a4ca1193d0446
+```
+
+<a href="./archive/00232_000.jpg">
+	<img src="./lowres/00232_000.jpg" alt="Fujifilm Superia X-TRA 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@photos.by.qi] Fujifilm Superia X-TRA (ref: 8923)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2024-08 
+Type  : Multi-Pack-2 |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : de6b17f5230e4052b6b166977a418923
+```
+
+<a href="./archive/00231_000.jpg">
+	<img src="./lowres/00231_000.jpg" alt="Fujifilm Superia X-TRA 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [@photos.by.qi] Kodak Ektachrome E100 (ref: 94ff)
 
 ```
@@ -992,6 +1055,48 @@ UUID  : eef92f5fa5b244518890b1ba52b895ec
 
 <a href="./archive/00224_000.jpg">
 	<img src="./lowres/00224_000.jpg" alt="Kodak Ektar 100 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@photos.by.qi] Kodak Gold (ref: d48d)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2023-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : e0db5edb5d3046e99d019b901088d48d
+```
+
+<a href="./archive/00233_000.jpg">
+	<img src="./lowres/00233_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@photos.by.qi] Kodak MAX (ref: 2361)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2007-03 
+Type  : Multi-Pack-3 |  Quantity: 24exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 5d0c054ebc17452397de86653bf42361
+```
+
+<a href="./archive/00234_000.jpg">
+	<img src="./lowres/00234_000.jpg" alt="Kodak MAX 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@photos.by.qi] Kodak UltraMax (ref: 3b23)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2023-03 
+Type  : Multi-Pack-3 |  Quantity: 24exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 1a68334cdfc146b98a7fa95672e33b23
+```
+
+<a href="./archive/00235_000.jpg">
+	<img src="./lowres/00235_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [@photos.by.qi] Lomography Lomochrome Color 92 (ref: 12b4)
@@ -4470,8 +4575,8 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     111   
 2     Pelicram                      48    
-3     Camera.Riley                  19    
-4     @photos.by.qi                 19    
+3     @photos.by.qi                 26    
+4     Camera.Riley                  19    
 5     Nano_Burger                   18    
 6     @ob.skura                     16    
 7     b0baspace                     14    

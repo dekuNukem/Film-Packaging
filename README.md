@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Aug 20 2025
-Unique items: 226
-Total scans : 375
+Unique items: 233
+Total scans : 382
 ```
 
 Or Sort by...
@@ -53,8 +53,8 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     111   
 2     Pelicram                      48    
-3     Camera.Riley                  19    
-4     @photos.by.qi                 19    
+3     @photos.by.qi                 26    
+4     Camera.Riley                  19    
 5     Nano_Burger                   18    
 6     @ob.skura                     16    
 7     b0baspace                     14    
@@ -96,8 +96,14 @@ Rank  Username                      Contributions
   - @photos.by.qi: Fujifilm Fujicolor Pro400
   - @photos.by.qi: Fujifilm Fujicolor Professional
   - @photos.by.qi: Fujifilm Fujicolor Super G
+  - @photos.by.qi: Fujifilm Superia
+  - @photos.by.qi: Fujifilm Superia Reala
+  - @photos.by.qi: Fujifilm Superia X-TRA
   - @photos.by.qi: Kodak Ektachrome E100
   - @photos.by.qi: Kodak Ektar 100
+  - @photos.by.qi: Kodak Gold
+  - @photos.by.qi: Kodak MAX
+  - @photos.by.qi: Kodak UltraMax
   - @photos.by.qi: Lomography Lomochrome Color 92
   - @photos.by.qi: Lomography Lomochrome Purple
   - @photos.by.qi: Space Cat Film Mars 250D
