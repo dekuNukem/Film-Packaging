@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 20 2025
-Unique items: 255
-Total scans : 428
+Last Updated: Aug 21 2025
+Unique items: 257
+Total scans : 432
 ```
 
 -----
@@ -243,6 +243,8 @@ Total scans : 428
 - [[35mm] Porst Color N21 (ref: 494a)](#35mm-porst-color-n21-ref-494a)
 - [[35mm] Reto Amber D400 (ref: 08ad)](#35mm-reto-amber-d400-ref-08ad)
 - [[35mm] Rollei Infrared (ref: eae2)](#35mm-rollei-infrared-ref-eae2)
+- [[35mm] Rollei RPX 100 (ref: 7cd1)](#35mm-rollei-rpx-100-ref-7cd1)
+- [[35mm] Rollei RPX 400 (ref: c097)](#35mm-rollei-rpx-400-ref-c097)
 - [[35mm] Rollei RPX 400 (ref: 2155)](#35mm-rollei-rpx-400-ref-2155)
 - [[35mm] Rollei Retro 80S (ref: e23d)](#35mm-rollei-retro-80s-ref-e23d)
 - [[35mm] Rollei SUPERPAN 200 (ref: ee8f)](#35mm-rollei-superpan-200-ref-ee8f)
@@ -4439,6 +4441,48 @@ UUID  : 9ef642a09d294cbfad7e040a701deae2
 	<img src="./lowres/00047_001.jpg" alt="Rollei Infrared 35mm film box inside" loading="lazy" height="500" />
 </a>
 
+#### [35mm] Rollei RPX 100 (ref: 7cd1)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2021-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-21   |  Author  : Pelicram
+UUID  : 201ce1e1831a483ab7fd569cc50e7cd1
+```
+
+<a href="./archive/00258_000.jpg">
+	<img src="./lowres/00258_000.jpg" alt="Rollei RPX 100 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: f8b9f798c2d34459955fd96c84c414b3`↓
+
+<a href="./archive/00258_001.jpg">
+	<img src="./lowres/00258_001.jpg" alt="Rollei RPX 100 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### [35mm] Rollei RPX 400 (ref: c097)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2022-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-21   |  Author  : Pelicram
+UUID  : 1b741df3125e4a77bd28c50ce3dcc097
+```
+
+<a href="./archive/00259_000.jpg">
+	<img src="./lowres/00259_000.jpg" alt="Rollei RPX 400 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 8fbb971a033b4a848831c97822b67601`↓
+
+<a href="./archive/00259_001.jpg">
+	<img src="./lowres/00259_001.jpg" alt="Rollei RPX 400 35mm film box inside" loading="lazy" height="500" />
+</a>
+
 #### [35mm] Rollei RPX 400 (ref: 2155)
 
 ```
@@ -5073,7 +5117,7 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     111   
 2     @photos.by.qi                 72    
-3     Pelicram                      48    
+3     Pelicram                      52    
 4     Camera.Riley                  19    
 5     Nano_Burger                   18    
 6     @ob.skura                     16    

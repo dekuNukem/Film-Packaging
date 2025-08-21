@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 20 2025
-Unique items: 255
-Total scans : 428
+Last Updated: Aug 21 2025
+Unique items: 257
+Total scans : 432
 ```
 
 -----
@@ -159,11 +159,13 @@ Total scans : 428
 - [[2021] Building 2 200T (ref: c025)](#2021-building-2-200t-ref-c025)
 - [[2021] Building 2 500T (ref: 70d9)](#2021-building-2-500t-ref-70d9)
 - [[2021] Building 2 50D (ref: e548)](#2021-building-2-50d-ref-e548)
+- [[2021] Rollei RPX 100 (ref: 7cd1)](#2021-rollei-rpx-100-ref-7cd1)
 - [[2022] Kodak Ektar 100 (ref: 4631)](#2022-kodak-ektar-100-ref-4631)
 - [[2022] Film Never Die IRO (ref: 2a22)](#2022-film-never-die-iro-ref-2a22)
 - [[2022] Film Never Die Kiro (ref: 796d)](#2022-film-never-die-kiro-ref-796d)
 - [[2022] Ilford HP5 Plus (ref: c725)](#2022-ilford-hp5-plus-ref-c725)
 - [[2022] Lomography Lomochrome Purple (ref: 8b00)](#2022-lomography-lomochrome-purple-ref-8b00)
+- [[2022] Rollei RPX 400 (ref: c097)](#2022-rollei-rpx-400-ref-c097)
 - [[2022] Kodak Portra 800 (ref: 21f9)](#2022-kodak-portra-800-ref-21f9)
 - [[2022] Fujifilm Pro 400H (ref: ff20)](#2022-fujifilm-pro-400h-ref-ff20)
 - [[2023] Kodak ProImage 100 (ref: fe32)](#2023-kodak-proimage-100-ref-fe32)
@@ -3032,6 +3034,27 @@ UUID  : f0c8cbdc08d146ba8690d19a70dbe548
 	<img src="./lowres/00213_000.jpg" alt="Building 2 50D 35mm film box outside" loading="lazy" height="500" />
 </a>
 
+#### [2021] Rollei RPX 100 (ref: 7cd1)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2021-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-21   |  Author  : Pelicram
+UUID  : 201ce1e1831a483ab7fd569cc50e7cd1
+```
+
+<a href="./archive/00258_000.jpg">
+	<img src="./lowres/00258_000.jpg" alt="Rollei RPX 100 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: f8b9f798c2d34459955fd96c84c414b3`↓
+
+<a href="./archive/00258_001.jpg">
+	<img src="./lowres/00258_001.jpg" alt="Rollei RPX 100 35mm film box inside" loading="lazy" height="500" />
+</a>
+
 #### [2022] Kodak Ektar 100 (ref: 4631)
 
 ```
@@ -3107,6 +3130,27 @@ UUID  : 5589454d652e4771b024a9901acb8b00
 
 <a href="./archive/00226_000.jpg">
 	<img src="./lowres/00226_000.jpg" alt="Lomography Lomochrome Purple 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+#### [2022] Rollei RPX 400 (ref: c097)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2022-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-21   |  Author  : Pelicram
+UUID  : 1b741df3125e4a77bd28c50ce3dcc097
+```
+
+<a href="./archive/00259_000.jpg">
+	<img src="./lowres/00259_000.jpg" alt="Rollei RPX 400 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 8fbb971a033b4a848831c97822b67601`↓
+
+<a href="./archive/00259_001.jpg">
+	<img src="./lowres/00259_001.jpg" alt="Rollei RPX 400 35mm film box inside" loading="lazy" height="500" />
 </a>
 
 #### [2022] Kodak Portra 800 (ref: 21f9)
@@ -5073,7 +5117,7 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     111   
 2     @photos.by.qi                 72    
-3     Pelicram                      48    
+3     Pelicram                      52    
 4     Camera.Riley                  19    
 5     Nano_Burger                   18    
 6     @ob.skura                     16    

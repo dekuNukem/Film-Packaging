@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 20 2025
-Unique items: 255
-Total scans : 428
+Last Updated: Aug 21 2025
+Unique items: 257
+Total scans : 432
 ```
 
 Or Sort by...
@@ -53,7 +53,7 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     111   
 2     @photos.by.qi                 72    
-3     Pelicram                      48    
+3     Pelicram                      52    
 4     Camera.Riley                  19    
 5     Nano_Burger                   18    
 6     @ob.skura                     16    
@@ -82,6 +82,10 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-08-21
+  - Pelicram: Rollei RPX 100
+  - Pelicram: Rollei RPX 400
+
 2025-08-20
   - @photos.by.qi: Agfa Vista Plus
   - @photos.by.qi: Building 2 200T
@@ -149,12 +153,6 @@ Rank  Username                      Contributions
   - Kraksen: Kodak Black & White +
   - Kraksen: Marix Professional Negative Movie Color Film
   - u/ReeeSchmidtyWerber: Kodak Panatomic-X
-
-2025-08-15
-  - @ad.astra.per.aspera.1894: Kirkland Signature Color Print Film
-  - Pelicram: Foma Ortho 400
-  - Pelicram: Kentmere PAN 200
-  - Pelicram: Mutascan Kodak Vision3 500T/5219
 ```
 
 ## Disclaimer

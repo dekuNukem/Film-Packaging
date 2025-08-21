@@ -427,3 +427,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 256,1,film_box_inside,CineStill,BWXX,120,200-400,D96,202310,1755730756,0df4154215b696fc7dace9e67cf4a277,6e4b285456d1438ab0cdad81440b9761,00256_001.jpg,@photos.by.qi,,Single Pack,N/A
 257,0,film_box_outside,Agfa,Vista Plus,35mm,200,C-41,201901,1755730811,b0289a372c231456fc85f3148f06e41e,b1c4d56515954c8d98bd0b8f9591f08a,00257_000.jpg,@photos.by.qi,,Single Pack,36exp
 257,1,film_box_inside,Agfa,Vista Plus,35mm,200,C-41,201901,1755730813,4e418e6d077550afe690e0a1f2062240,0088411d14c547aa96ea5d28bf04d9ea,00257_001.jpg,@photos.by.qi,,Single Pack,36exp
+258,0,film_box_outside,Rollei,RPX 100,35mm,100,BW,202111,1755802438,497eec1366d364b3f788db1609b48730,201ce1e1831a483ab7fd569cc50e7cd1,00258_000.jpg,Pelicram,,Single Pack,36exp
+258,1,film_box_inside,Rollei,RPX 100,35mm,100,BW,202111,1755802440,7bdd1e3645a9856741d79783c33a8f8b,f8b9f798c2d34459955fd96c84c414b3,00258_001.jpg,Pelicram,,Single Pack,36exp
+259,0,film_box_outside,Rollei,RPX 400,35mm,400,BW,202209,1755802472,eb5edee5b811b8ea02540a2c1c1714d2,1b741df3125e4a77bd28c50ce3dcc097,00259_000.jpg,Pelicram,,Single Pack,36exp
+259,1,film_box_inside,Rollei,RPX 400,35mm,400,BW,202209,1755802474,b0fdedb64bf3c21f220c53a729d643f4,8fbb971a033b4a848831c97822b67601,00259_001.jpg,Pelicram,,Single Pack,36exp
