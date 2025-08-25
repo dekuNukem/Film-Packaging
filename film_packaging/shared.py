@@ -221,14 +221,20 @@ def get_image_dimensions(file_path):
     except Exception:
         return (0, 0)
 
-def get_longest_side(file_path):
+def get_resized_dimensions(file_path, max_size=500):
     width, height = get_image_dimensions(file_path)
-    
-    if width >= height:
-        longest_side = "width"
-        length = min(width, 500)
-    else:
-        longest_side = "height"
-        length = min(height, 500)
 
-    return longest_side, length
+    if width == 0 or height == 0:
+        return (0, 0)
+
+    longest_side = max(width, height)
+
+    # No resizing needed
+    if longest_side <= max_size:
+        return (width, height)
+
+    scale = max_size / longest_side
+    new_width = int(width * scale)
+    new_height = int(height * scale)
+
+    return (new_width, new_height)
