@@ -222,6 +222,6 @@ sorted_db = sorted(database_entries, key=operator.itemgetter(ITEM_AUTHOR_KEY, IT
 out_str = make_md("CONTRIBUTOR", sorted_db, ftk=ITEM_AUTHOR_KEY, ftf=None)
 write_to_file("./by_user.md", out_str)
 
-sorted_db = sorted(database_entries, key=operator.itemgetter(ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
-out_str = make_md("INDEX", sorted_db, ftk=ITEM_INDEX_KEY, ftf=None)
-write_to_file("./by_index.md", out_str)
+# sorted_db = sorted(database_entries, key=operator.itemgetter(ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
+# out_str = make_md("INDEX", sorted_db, ftk=ITEM_INDEX_KEY, ftf=None)
+# write_to_file("./by_index.md", out_str)
