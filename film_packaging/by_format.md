@@ -46,7 +46,6 @@ Total scans : 432
 - [[120] Fujifilm Fujicolor Pro400 (ref: 1b8d)](#120-fujifilm-fujicolor-pro400-ref-1b8d)
 - [[120] Fujifilm Fujicolor Super G (ref: 55ff)](#120-fujifilm-fujicolor-super-g-ref-55ff)
 - [[120] Fujifilm Fujicolor Superia (ref: 0683)](#120-fujifilm-fujicolor-superia-ref-0683)
-- [[120] Fujifilm Pro 400H (ref: 48ed)](#120-fujifilm-pro-400h-ref-48ed)
 - [[120] Fujifilm Pro 400H (ref: 66e3)](#120-fujifilm-pro-400h-ref-66e3)
 - [[120] Fujifilm Provia 400X (ref: 3c08)](#120-fujifilm-provia-400x-ref-3c08)
 - [[120] Fujifilm Superia X-TRA (ref: 7980)](#120-fujifilm-superia-x-tra-ref-7980)
@@ -86,6 +85,7 @@ Total scans : 432
 - [[16mm] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#16mm-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
 - [[16mm] Kodak Eastman Tri-X Reversal Film 7278 (ref: 8468)](#16mm-kodak-eastman-tri-x-reversal-film-7278-ref-8468)
 - [[16mm] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#16mm-minolta-minolta-16-color-film-for-prints-ref-a2ff)
+- [[220] Fujifilm Pro 400H (ref: 48ed)](#220-fujifilm-pro-400h-ref-48ed)
 - [[220] Kodak Ektacolor Pro Gold (ref: c3f8)](#220-kodak-ektacolor-pro-gold-ref-c3f8)
 - [[220] Reflx Lab Pro 100 (ref: 1311)](#220-reflx-lab-pro-100-ref-1311)
 - [[35mm] ADOX KB17 (ref: 2c95)](#35mm-adox-kb17-ref-2c95)
@@ -736,34 +736,6 @@ UUID  : c3d9e51d22e241f69133be30d5a00683
 
 <a href="./archive/00012_001.jpg">
 	<img src="./lowres/00012_001.jpg" alt="Fujifilm Fujicolor Superia 120 film box inside" loading="lazy" width="500" />
-</a>
-
-#### [120] Fujifilm Pro 400H (ref: 48ed)
-
-```
-Format: 120          |  Process : C-41    
-ISO   : 400          |  Expiry  : 2007-10 
-Type  : Multi-Pack-5 |  Quantity: N/A     
-Added : 2025-08-20   |  Author  : @photos.by.qi
-UUID  : fae60be8fc0745c3965f24b1778e48ed
-```
-
-<a href="./archive/00247_000.jpg">
-	<img src="./lowres/00247_000.jpg" alt="Fujifilm Pro 400H 120 film box outside" loading="lazy" height="500" />
-</a>
-
-
-`UUID: a305e39dc3f041d1bf59e7dc2504835c`↓
-
-<a href="./archive/00247_001.jpg">
-	<img src="./lowres/00247_001.jpg" alt="Fujifilm Pro 400H 120 film box outside" loading="lazy" width="500" />
-</a>
-
-
-`UUID: a10a19f268084ce881ab55f247f1035f`↓
-
-<a href="./archive/00247_002.jpg">
-	<img src="./lowres/00247_002.jpg" alt="Fujifilm Pro 400H 120 film box inside" loading="lazy" width="500" />
 </a>
 
 #### [120] Fujifilm Pro 400H (ref: 66e3)
@@ -1569,6 +1541,34 @@ UUID  : a2cfc71ac0e24ea58f4e3350423aa2ff
 
 <a href="./archive/00162_000.jpg">
 	<img src="./lowres/00162_000.jpg" alt="Minolta Minolta 16 Color Film For Prints 16mm film box outside" loading="lazy" width="500" />
+</a>
+
+#### [220] Fujifilm Pro 400H (ref: 48ed)
+
+```
+Format: 220          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2007-10 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : fae60be8fc0745c3965f24b1778e48ed
+```
+
+<a href="./archive/00247_000.jpg">
+	<img src="./lowres/00247_000.jpg" alt="Fujifilm Pro 400H 220 film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: a305e39dc3f041d1bf59e7dc2504835c`↓
+
+<a href="./archive/00247_001.jpg">
+	<img src="./lowres/00247_001.jpg" alt="Fujifilm Pro 400H 220 film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: a10a19f268084ce881ab55f247f1035f`↓
+
+<a href="./archive/00247_002.jpg">
+	<img src="./lowres/00247_002.jpg" alt="Fujifilm Pro 400H 220 film box inside" loading="lazy" width="500" />
 </a>
 
 #### [220] Kodak Ektacolor Pro Gold (ref: c3f8)

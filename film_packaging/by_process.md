@@ -2491,7 +2491,7 @@ UUID  : 576142521c2f4fe5abc387032bcc5e85
 #### [C-41] Fujifilm Pro 400H (ref: 48ed)
 
 ```
-Format: 120          |  Process : C-41    
+Format: 220          |  Process : C-41    
 ISO   : 400          |  Expiry  : 2007-10 
 Type  : Multi-Pack-5 |  Quantity: N/A     
 Added : 2025-08-20   |  Author  : @photos.by.qi
@@ -2499,21 +2499,21 @@ UUID  : fae60be8fc0745c3965f24b1778e48ed
 ```
 
 <a href="./archive/00247_000.jpg">
-	<img src="./lowres/00247_000.jpg" alt="Fujifilm Pro 400H 120 film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00247_000.jpg" alt="Fujifilm Pro 400H 220 film box outside" loading="lazy" height="500" />
 </a>
 
 
 `UUID: a305e39dc3f041d1bf59e7dc2504835c`↓
 
 <a href="./archive/00247_001.jpg">
-	<img src="./lowres/00247_001.jpg" alt="Fujifilm Pro 400H 120 film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00247_001.jpg" alt="Fujifilm Pro 400H 220 film box outside" loading="lazy" width="500" />
 </a>
 
 
 `UUID: a10a19f268084ce881ab55f247f1035f`↓
 
 <a href="./archive/00247_002.jpg">
-	<img src="./lowres/00247_002.jpg" alt="Fujifilm Pro 400H 120 film box inside" loading="lazy" width="500" />
+	<img src="./lowres/00247_002.jpg" alt="Fujifilm Pro 400H 220 film box inside" loading="lazy" width="500" />
 </a>
 
 #### [C-41] Fujifilm Pro 400H (ref: dc37)

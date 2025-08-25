@@ -405,9 +405,9 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 245,0,film_box_outside,Kodak,Portra 400,35mm,400,C-41,202610,1755703966,9db645dc47490d4011ab21e4279c1ce5,848f67976c48465a8c245ba2a4d0c869,00245_000.jpg,@photos.by.qi,,Multi-Pack-5,36exp
 246,0,film_box_outside,Kodak,Portra 400,120,400,C-41,202408,1755703995,a7f8ffa2ccea0e7e6b508aa833cc8c6a,12ee41c6f8fe493fbda516802e039f18,00246_000.jpg,@photos.by.qi,,Multi-Pack-5,N/A
 246,1,film_box_outside,Kodak,Portra 400,120,400,C-41,202408,1755703997,497436f93e6aa48b8b4138b45248e4aa,6407fec85c4344a1bbc2ae930e51ae8e,00246_001.jpg,@photos.by.qi,,Multi-Pack-5,N/A
-247,0,film_box_outside,Fujifilm,Pro 400H,120,400,C-41,200710,1755730112,383261069f343cd566ddb9261cf2da2e,fae60be8fc0745c3965f24b1778e48ed,00247_000.jpg,@photos.by.qi,,Multi-Pack-5,N/A
-247,1,film_box_outside,Fujifilm,Pro 400H,120,400,C-41,200710,1755730114,b98f9e83a48b407aa896dcc7ada47408,a305e39dc3f041d1bf59e7dc2504835c,00247_001.jpg,@photos.by.qi,,Multi-Pack-5,N/A
-247,2,film_box_inside,Fujifilm,Pro 400H,120,400,C-41,200710,1755730118,ad8d1f6919fdeb7615a66f6d331bb328,a10a19f268084ce881ab55f247f1035f,00247_002.jpg,@photos.by.qi,,Multi-Pack-5,N/A
+247,0,film_box_outside,Fujifilm,Pro 400H,220,400,C-41,200710,1755730112,383261069f343cd566ddb9261cf2da2e,fae60be8fc0745c3965f24b1778e48ed,00247_000.jpg,@photos.by.qi,,Multi-Pack-5,N/A
+247,1,film_box_outside,Fujifilm,Pro 400H,220,400,C-41,200710,1755730114,b98f9e83a48b407aa896dcc7ada47408,a305e39dc3f041d1bf59e7dc2504835c,00247_001.jpg,@photos.by.qi,,Multi-Pack-5,N/A
+247,2,film_box_inside,Fujifilm,Pro 400H,220,400,C-41,200710,1755730118,ad8d1f6919fdeb7615a66f6d331bb328,a10a19f268084ce881ab55f247f1035f,00247_002.jpg,@photos.by.qi,,Multi-Pack-5,N/A
 248,0,film_box_outside,Fujifilm,Provia 400X,120,400,E-6,201412,1755730195,32a08ab0115d4c893596d808a46aa9f4,3a84e3b505004d069104ff0042d03c08,00248_000.jpg,@photos.by.qi,,Multi-Pack-5,N/A
 248,1,film_box_outside,Fujifilm,Provia 400X,120,400,E-6,201412,1755730197,8852c8881d0b9605a6b030dbf0b18567,db24477938104d81beddac492c8d637e,00248_001.jpg,@photos.by.qi,,Multi-Pack-5,N/A
 249,0,film_box_outside,Fujifilm,Pro 400H,35mm,400,C-41,200901,1755730274,3934dc80e49a8031c1ddd3c8c527550b,9934366ea7a04b65b3c300352fa8dc37,00249_000.jpg,@photos.by.qi,,Single Pack,36exp
