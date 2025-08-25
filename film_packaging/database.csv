@@ -344,9 +344,9 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 200,0,film_box_outside,Kodak,Portra 400,35mm,400,C-41,201406,1755545893,79c457df3928692908e5d2876e29c3d3,5bdddffe29bd464cab4630d85485cf9c,00200_000.jpg,@recycling.film,,Multi-Pack-5,36exp
 201,0,film_box_outside,Kodak,UltraMax,35mm,400,C-41,202607,1755545921,f022a384a1f1742610c0b94f0c0e0ab1,d14bbf440f3a4ac9aa4169c8bba7e4ad,00201_000.jpg,@recycling.film,,Single Pack,24exp
 202,0,film_box_outside,Fujifilm,Fujicolor C200,35mm,200,C-41,202003,1755545969,d79572d5d8db840ed9eb5f7c63c0b151,271054727291471392db72d5556f2ff8,00202_000.jpg,@recycling.film,,Single Pack,36exp
-203,0,film_box_outside,Kodak,Ektachrome Slide Duplicating Film,35mm,Unknown,E-6,199912,1755622270,579296ce3e3576673aa546eb7a532d17,59aa1c52cf434a60976debe684a3d53a,00203_000.jpg,@ellafridalindblom,none,Single Pack,36exp
-203,1,film_box_leaflet,Kodak,Ektachrome Slide Duplicating Film,35mm,Unknown,E-6,199912,1755622272,13a65606ba4420ef6e91b500dc4fe7a1,a15217b7a9c34d25a71276e952a8dce0,00203_001.jpg,@ellafridalindblom,none,Single Pack,36exp
-203,2,film_box_leaflet,Kodak,Ektachrome Slide Duplicating Film,35mm,Unknown,E-6,199912,1755622275,2e494c91a7a1118923e2a87fe89ad6e3,70ffb21210374c97a9fa3b819e9b3a1a,00203_002.jpg,@ellafridalindblom,none,Single Pack,36exp
+203,0,film_box_outside,Kodak,Ektachrome Slide Duplicating Film,35mm,Unknown,E-6,199912,1755622270,579296ce3e3576673aa546eb7a532d17,59aa1c52cf434a60976debe684a3d53a,00203_000.jpg,@ellafridalindblom,,Single Pack,36exp
+203,1,film_box_leaflet,Kodak,Ektachrome Slide Duplicating Film,35mm,Unknown,E-6,199912,1755622272,13a65606ba4420ef6e91b500dc4fe7a1,a15217b7a9c34d25a71276e952a8dce0,00203_001.jpg,@ellafridalindblom,,Single Pack,36exp
+203,2,film_box_leaflet,Kodak,Ektachrome Slide Duplicating Film,35mm,Unknown,E-6,199912,1755622275,2e494c91a7a1118923e2a87fe89ad6e3,70ffb21210374c97a9fa3b819e9b3a1a,00203_002.jpg,@ellafridalindblom,,Single Pack,36exp
 204,0,film_box_outside,Hasselblad,Hassel-plåtar E.R.Orto,6.5x9cm,Unknown,BW,Unknown,1755622804,f60c23638bd575445cb15aef258a89c9,1056543f30334a238387be8abe2dec67,00204_000.jpg,@ellafridalindblom,,Single Pack,12 Sheets
 205,0,film_box_outside,Foton,Fotopan F,120,50,BW,196901,1755622881,b2b02788118bc9a2946a9bc51cbeff2f,f2002785f14a4aba9fd1da2386890ad6,00205_000.jpg,@ellafridalindblom,,Single Pack,N/A
 206,0,film_box_outside,Hands On Film,Midnight 1600,35mm,1600,C-41,202605,1755623017,ac47654987998794890686ebc8787857,515a9a246a8e4eed87d77142623a4411,00206_000.jpg,@ellafridalindblom,,Single Pack,36exp
