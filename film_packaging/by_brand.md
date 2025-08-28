@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 21 2025
-Unique items: 257
-Total scans : 432
+Last Updated: Aug 28 2025
+Unique items: 262
+Total scans : 441
 ```
 
 -----
@@ -148,6 +148,7 @@ Total scans : 432
 - [Kodak Eastman Tri-X Reversal Film 7278 (ref: 8468)](#kodak-eastman-tri-x-reversal-film-7278-ref-8468)
 - [Kodak Ektachrome 100 Plus (ref: 5d9f)](#kodak-ektachrome-100-plus-ref-5d9f)
 - [Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)](#kodak-ektachrome-160-movie-film-type-a-ref-8f62)
+- [Kodak Ektachrome 200 (ref: f372)](#kodak-ektachrome-200-ref-f372)
 - [Kodak Ektachrome 200 (ref: b21e)](#kodak-ektachrome-200-ref-b21e)
 - [Kodak Ektachrome 400 (ref: 3c96)](#kodak-ektachrome-400-ref-3c96)
 - [Kodak Ektachrome 64 (ref: 07c0)](#kodak-ektachrome-64-ref-07c0)
@@ -156,6 +157,7 @@ Total scans : 432
 - [Kodak Ektachrome E100 (ref: ae10)](#kodak-ektachrome-e100-ref-ae10)
 - [Kodak Ektachrome E100VS (ref: a8d3)](#kodak-ektachrome-e100vs-ref-a8d3)
 - [Kodak Ektachrome Elite 100 (ref: 26ef)](#kodak-ektachrome-elite-100-ref-26ef)
+- [Kodak Ektachrome Slide Duplicating Film (ref: 596a)](#kodak-ektachrome-slide-duplicating-film-ref-596a)
 - [Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#kodak-ektachrome-slide-duplicating-film-ref-d53a)
 - [Kodak Ektachrome-X (ref: ae7e)](#kodak-ektachrome-x-ref-ae7e)
 - [Kodak Ektachrome-X (ref: aec5)](#kodak-ektachrome-x-ref-aec5)
@@ -177,6 +179,7 @@ Total scans : 432
 - [Kodak High Contrast Copy Film (ref: db52)](#kodak-high-contrast-copy-film-ref-db52)
 - [Kodak High Speed Ektachrome (ref: ce7f)](#kodak-high-speed-ektachrome-ref-ce7f)
 - [Kodak High Speed Ektachrome (ref: ec3d)](#kodak-high-speed-ektachrome-ref-ec3d)
+- [Kodak High Speed Ektachrome (ref: be8f)](#kodak-high-speed-ektachrome-ref-be8f)
 - [Kodak High Speed Ektachrome (ref: b8f8)](#kodak-high-speed-ektachrome-ref-b8f8)
 - [Kodak High Speed Infrared (ref: 4294)](#kodak-high-speed-infrared-ref-4294)
 - [Kodak High Speed Infrared (ref: 883e)](#kodak-high-speed-infrared-ref-883e)
@@ -185,6 +188,7 @@ Total scans : 432
 - [Kodak Kodachrome 64 (ref: 3145)](#kodak-kodachrome-64-ref-3145)
 - [Kodak Kodachrome 64 (ref: 3206)](#kodak-kodachrome-64-ref-3206)
 - [Kodak Kodacolor Gold 200 (ref: f368)](#kodak-kodacolor-gold-200-ref-f368)
+- [Kodak Kodacolor II (ref: 7310)](#kodak-kodacolor-ii-ref-7310)
 - [Kodak Kodacolor VR (ref: 035f)](#kodak-kodacolor-vr-ref-035f)
 - [Kodak Kodacolor VR Plus (ref: f8bf)](#kodak-kodacolor-vr-plus-ref-f8bf)
 - [Kodak Kodacolor-X (ref: a4b1)](#kodak-kodacolor-x-ref-a4b1)
@@ -256,6 +260,7 @@ Total scans : 432
 - [Polaroid Polacolor 679 (ref: 625c)](#polaroid-polacolor-679-ref-625c)
 - [Porst Color N21 (ref: 494a)](#porst-color-n21-ref-494a)
 - [Reflx Lab 250D (ref: 1a3e)](#reflx-lab-250d-ref-1a3e)
+- [Reflx Lab Pro 100 (ref: 8bec)](#reflx-lab-pro-100-ref-8bec)
 - [Reflx Lab Pro 100 (ref: 1311)](#reflx-lab-pro-100-ref-1311)
 - [Reto Amber D400 (ref: 08ad)](#reto-amber-d400-ref-08ad)
 - [Rollei Infrared (ref: eae2)](#rollei-infrared-ref-eae2)
@@ -2593,6 +2598,34 @@ UUID  : 6032680a3aba41b39c600d7e23998f62
 	<img src="./lowres/00154_004.jpg" alt="Kodak Ektachrome 160 Movie Film Type A Super 8 film box processing envelope" loading="lazy" width="500" height="191">
 </a>
 
+#### Kodak Ektachrome 200 (ref: f372)
+
+```
+Format: 126          |  Process : E-6     
+ISO   : 200          |  Expiry  : 1978-11 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-08-28   |  Author  : The Compartmentalist
+UUID  : fef4be09ea484eecb10a13282d18f372
+```
+
+<a href="./archive/00261_000.jpg">
+	<img src="./lowres/00261_000.jpg" alt="Kodak Ektachrome 200 126 film box outside" loading="lazy" width="444" height="499">
+</a>
+
+
+`UUID: 201fc821d3354cd7a82b0e1554ac06e4`↓
+
+<a href="./archive/00261_001.jpg">
+	<img src="./lowres/00261_001.jpg" alt="Kodak Ektachrome 200 126 film box leaflet" loading="lazy" width="482" height="499">
+</a>
+
+
+`UUID: 8a9d6009b1724610bbea230b5b2bdc73`↓
+
+<a href="./archive/00261_002.jpg">
+	<img src="./lowres/00261_002.jpg" alt="Kodak Ektachrome 200 126 film box leaflet" loading="lazy" width="483" height="500">
+</a>
+
 #### Kodak Ektachrome 200 (ref: b21e)
 
 ```
@@ -2738,6 +2771,20 @@ UUID  : 175cf2b69fe3413093d9d7f9ea0d26ef
 
 <a href="./archive/00114_001.jpg">
 	<img src="./lowres/00114_001.jpg" alt="Kodak Ektachrome Elite 100 35mm film box inside" loading="lazy" width="441" height="500">
+</a>
+
+#### Kodak Ektachrome Slide Duplicating Film (ref: 596a)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : Unknown      |  Expiry  : 1998-04 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2025-08-28   |  Author  : The Compartmentalist
+UUID  : 82095e23320f4581be4672fd5559596a
+```
+
+<a href="./archive/00260_000.jpg">
+	<img src="./lowres/00260_000.jpg" alt="Kodak Ektachrome Slide Duplicating Film 35mm film box outside" loading="lazy" width="500" height="306">
 </a>
 
 #### Kodak Ektachrome Slide Duplicating Film (ref: d53a)
@@ -3146,6 +3193,34 @@ UUID  : 9702189f65de43c59fce151094a7ec3d
 	<img src="./lowres/00045_002.jpg" alt="Kodak High Speed Ektachrome 35mm film box leaflet" loading="lazy" width="182" height="500">
 </a>
 
+#### Kodak High Speed Ektachrome (ref: be8f)
+
+```
+Format: 120          |  Process : E-4     
+ISO   : 160          |  Expiry  : 1974-12 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-08-28   |  Author  : The Compartmentalist
+UUID  : 221130722e5d4ecfb94b4c1326dcbe8f
+```
+
+<a href="./archive/00262_000.jpg">
+	<img src="./lowres/00262_000.jpg" alt="Kodak High Speed Ektachrome 120 film box outside" loading="lazy" width="500" height="480">
+</a>
+
+
+`UUID: 92d31dfc11894fdbbaa954ad3a06fdec`↓
+
+<a href="./archive/00262_001.jpg">
+	<img src="./lowres/00262_001.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="173" height="499">
+</a>
+
+
+`UUID: 240477250c92463e90e7887b069dcb03`↓
+
+<a href="./archive/00262_002.jpg">
+	<img src="./lowres/00262_002.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="184" height="500">
+</a>
+
 #### Kodak High Speed Ektachrome (ref: b8f8)
 
 ```
@@ -3333,6 +3408,20 @@ UUID  : 78bfeed667154d819902ec92d7dcf368
 
 <a href="./archive/00068_000.jpg">
 	<img src="./lowres/00068_000.jpg" alt="Kodak Kodacolor Gold 200 110 film box outside" loading="lazy" width="500" height="404">
+</a>
+
+#### Kodak Kodacolor II (ref: 7310)
+
+```
+Format: 126          |  Process : C-41    
+ISO   : 100          |  Expiry  : 1983-10 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-08-28   |  Author  : The Compartmentalist
+UUID  : 08c1609b39a64daf8be1373ea99c7310
+```
+
+<a href="./archive/00263_000.jpg">
+	<img src="./lowres/00263_000.jpg" alt="Kodak Kodacolor II 126 film box outside" loading="lazy" width="440" height="499">
 </a>
 
 #### Kodak Kodacolor VR (ref: 035f)
@@ -4728,6 +4817,20 @@ UUID  : ce8b081c148f43f7921e2fb4d7aa1a3e
 	<img src="./lowres/00194_000.jpg" alt="Reflx Lab 250D 120 film box outside" loading="lazy" width="500" height="419">
 </a>
 
+#### Reflx Lab Pro 100 (ref: 8bec)
+
+```
+Format: 127          |  Process : C-41    
+ISO   : 100          |  Expiry  : 2027-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-08-28   |  Author  : The Compartmentalist
+UUID  : a361e3b88dde4e0482027e58f12d8bec
+```
+
+<a href="./archive/00264_000.jpg">
+	<img src="./lowres/00264_000.jpg" alt="Reflx Lab Pro 100 127 film box outside" loading="lazy" width="500" height="400">
+</a>
+
 #### Reflx Lab Pro 100 (ref: 1311)
 
 ```
@@ -5118,11 +5221,11 @@ Rank  Username                      Contributions
 1     dekuNukem                     111   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
-4     Camera.Riley                  19    
-5     Nano_Burger                   18    
-6     @ob.skura                     16    
-7     b0baspace                     14    
-8     The Compartmentalist          13    
+4     The Compartmentalist          22    
+5     Camera.Riley                  19    
+6     Nano_Burger                   18    
+7     @ob.skura                     16    
+8     b0baspace                     14    
 9     @SirBrentsworth               13    
 10    @recycling.film               13    
 11    toader                        13    

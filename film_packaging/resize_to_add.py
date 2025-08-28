@@ -1,7 +1,7 @@
 import os
 from PIL import Image
 
-MAX_DIMENSION = 5000
+MAX_DIMENSION = 6000
 SIZE_LIMIT_BYTES = 4 * 1024 * 1024  # 4MB
 
 target_dir = './to_add'
@@ -11,10 +11,12 @@ image_files = [os.path.join(target_dir, f) for f in os.listdir(target_dir) if f.
 if len(image_files) == 0:
     exit()
 
+DEFAULT_JPEG_QUALITY = 80
+
 try:
-    jpeg_quality = int(input("Enter JPEG quality (default 90): "))
+    jpeg_quality = int(input(f"Enter JPEG quality (default {DEFAULT_JPEG_QUALITY}): "))
 except Exception:
-    jpeg_quality = 90
+    jpeg_quality = DEFAULT_JPEG_QUALITY
 
 for file in image_files:
     try:

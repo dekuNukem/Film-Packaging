@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 21 2025
-Unique items: 257
-Total scans : 432
+Last Updated: Aug 28 2025
+Unique items: 262
+Total scans : 441
 ```
 
 -----
@@ -38,6 +38,7 @@ Total scans : 432
 - [[1974] GAF Color Slide Film (ref: dea6)](#1974-gaf-color-slide-film-ref-dea6)
 - [[1974] Kodak Kodacolor-X (ref: a4b1)](#1974-kodak-kodacolor-x-ref-a4b1)
 - [[1974] Porst Color N21 (ref: 494a)](#1974-porst-color-n21-ref-494a)
+- [[1974] Kodak High Speed Ektachrome (ref: be8f)](#1974-kodak-high-speed-ektachrome-ref-be8f)
 - [[1975] Fujifilm Neopan SS Rapid (ref: 9db3)](#1975-fujifilm-neopan-ss-rapid-ref-9db3)
 - [[1975] Kodak Kodacolor-X (ref: 5302)](#1975-kodak-kodacolor-x-ref-5302)
 - [[1976] Kodak Panatomic-X (ref: 8d69)](#1976-kodak-panatomic-x-ref-8d69)
@@ -45,10 +46,12 @@ Total scans : 432
 - [[1977] Kodak Panatomic-X (ref: 35f6)](#1977-kodak-panatomic-x-ref-35f6)
 - [[1978] Kodak Kodachrome 25 (ref: 6477)](#1978-kodak-kodachrome-25-ref-6477)
 - [[1978] Sakura Sakuracolor II (ref: 4f7d)](#1978-sakura-sakuracolor-ii-ref-4f7d)
+- [[1978] Kodak Ektachrome 200 (ref: f372)](#1978-kodak-ektachrome-200-ref-f372)
 - [[1979] Kodak Ektachrome 64 (ref: 07c0)](#1979-kodak-ektachrome-64-ref-07c0)
 - [[1979] Kodak Kodachrome 64 (ref: 3145)](#1979-kodak-kodachrome-64-ref-3145)
 - [[1980] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)](#1980-kodak-ektachrome-160-movie-film-type-a-ref-8f62)
 - [[1983] Kodak Kodachrome 25 (ref: 8833)](#1983-kodak-kodachrome-25-ref-8833)
+- [[1983] Kodak Kodacolor II (ref: 7310)](#1983-kodak-kodacolor-ii-ref-7310)
 - [[1985] Konica Konica Color II (ref: fb5b)](#1985-konica-konica-color-ii-ref-fb5b)
 - [[1987] Kodak Kodacolor VR (ref: 035f)](#1987-kodak-kodacolor-vr-ref-035f)
 - [[1988] Polaroid PolaPan 35mm (ref: 9825)](#1988-polaroid-polapan-35mm-ref-9825)
@@ -76,6 +79,7 @@ Total scans : 432
 - [[1996] Polaroid 665 (ref: e054)](#1996-polaroid-665-ref-e054)
 - [[1998] Fujifilm Sensia (ref: a59b)](#1998-fujifilm-sensia-ref-a59b)
 - [[1998] Klick XD200 (ref: 44d7)](#1998-klick-xd200-ref-44d7)
+- [[1998] Kodak Ektachrome Slide Duplicating Film (ref: 596a)](#1998-kodak-ektachrome-slide-duplicating-film-ref-596a)
 - [[1998] Polaroid Polacolor 679 (ref: 625c)](#1998-polaroid-polacolor-679-ref-625c)
 - [[1998] Fujifilm Fujicolor NPL 160 (ref: d10b)](#1998-fujifilm-fujicolor-npl-160-ref-d10b)
 - [[1998] Kodak Ektachrome 64T (ref: 8f4f)](#1998-kodak-ektachrome-64t-ref-8f4f)
@@ -246,6 +250,7 @@ Total scans : 432
 - [[2027] Rollei Infrared (ref: eae2)](#2027-rollei-infrared-ref-eae2)
 - [[2027] Foma Ortho 400 (ref: c559)](#2027-foma-ortho-400-ref-c559)
 - [[2027] Lomography Lomochrome Purple (ref: 068f)](#2027-lomography-lomochrome-purple-ref-068f)
+- [[2027] Reflx Lab Pro 100 (ref: 8bec)](#2027-reflx-lab-pro-100-ref-8bec)
 - [[2027] Harman Phoenix II (ref: f686)](#2027-harman-phoenix-ii-ref-f686)
 - [[2027] Harman Phoenix II (ref: 40df)](#2027-harman-phoenix-ii-ref-40df)
 - [[2027] Ilford Delta 3200 (ref: 9b54)](#2027-ilford-delta-3200-ref-9b54)
@@ -612,6 +617,34 @@ UUID  : e08418889f714c9dbda0858718e0494a
 	<img src="./lowres/00046_001.jpg" alt="Porst Color N21 35mm film box leaflet" loading="lazy" width="500" height="426">
 </a>
 
+#### [1974] Kodak High Speed Ektachrome (ref: be8f)
+
+```
+Format: 120          |  Process : E-4     
+ISO   : 160          |  Expiry  : 1974-12 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-08-28   |  Author  : The Compartmentalist
+UUID  : 221130722e5d4ecfb94b4c1326dcbe8f
+```
+
+<a href="./archive/00262_000.jpg">
+	<img src="./lowres/00262_000.jpg" alt="Kodak High Speed Ektachrome 120 film box outside" loading="lazy" width="500" height="480">
+</a>
+
+
+`UUID: 92d31dfc11894fdbbaa954ad3a06fdec`↓
+
+<a href="./archive/00262_001.jpg">
+	<img src="./lowres/00262_001.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="173" height="499">
+</a>
+
+
+`UUID: 240477250c92463e90e7887b069dcb03`↓
+
+<a href="./archive/00262_002.jpg">
+	<img src="./lowres/00262_002.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="184" height="500">
+</a>
+
 #### [1975] Fujifilm Neopan SS Rapid (ref: 9db3)
 
 ```
@@ -766,6 +799,34 @@ UUID  : 0143ad8539d84710845f4d2dc82e4f7d
 	<img src="./lowres/00122_000.jpg" alt="Sakura Sakuracolor II 35mm film box outside" loading="lazy" width="395" height="500">
 </a>
 
+#### [1978] Kodak Ektachrome 200 (ref: f372)
+
+```
+Format: 126          |  Process : E-6     
+ISO   : 200          |  Expiry  : 1978-11 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-08-28   |  Author  : The Compartmentalist
+UUID  : fef4be09ea484eecb10a13282d18f372
+```
+
+<a href="./archive/00261_000.jpg">
+	<img src="./lowres/00261_000.jpg" alt="Kodak Ektachrome 200 126 film box outside" loading="lazy" width="444" height="499">
+</a>
+
+
+`UUID: 201fc821d3354cd7a82b0e1554ac06e4`↓
+
+<a href="./archive/00261_001.jpg">
+	<img src="./lowres/00261_001.jpg" alt="Kodak Ektachrome 200 126 film box leaflet" loading="lazy" width="482" height="499">
+</a>
+
+
+`UUID: 8a9d6009b1724610bbea230b5b2bdc73`↓
+
+<a href="./archive/00261_002.jpg">
+	<img src="./lowres/00261_002.jpg" alt="Kodak Ektachrome 200 126 film box leaflet" loading="lazy" width="483" height="500">
+</a>
+
 #### [1979] Kodak Ektachrome 64 (ref: 07c0)
 
 ```
@@ -862,6 +923,20 @@ UUID  : 6239a04366d74208a9010cd231688833
 
 <a href="./archive/00121_000.jpg">
 	<img src="./lowres/00121_000.jpg" alt="Kodak Kodachrome 25 35mm film box outside" loading="lazy" width="408" height="499">
+</a>
+
+#### [1983] Kodak Kodacolor II (ref: 7310)
+
+```
+Format: 126          |  Process : C-41    
+ISO   : 100          |  Expiry  : 1983-10 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-08-28   |  Author  : The Compartmentalist
+UUID  : 08c1609b39a64daf8be1373ea99c7310
+```
+
+<a href="./archive/00263_000.jpg">
+	<img src="./lowres/00263_000.jpg" alt="Kodak Kodacolor II 126 film box outside" loading="lazy" width="440" height="499">
 </a>
 
 #### [1985] Konica Konica Color II (ref: fb5b)
@@ -1478,6 +1553,20 @@ UUID  : 2276628aa2794442ae81221329fc44d7
 
 <a href="./archive/00062_000.jpg">
 	<img src="./lowres/00062_000.jpg" alt="Klick XD200 110 film box outside" loading="lazy" width="500" height="386">
+</a>
+
+#### [1998] Kodak Ektachrome Slide Duplicating Film (ref: 596a)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : Unknown      |  Expiry  : 1998-04 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2025-08-28   |  Author  : The Compartmentalist
+UUID  : 82095e23320f4581be4672fd5559596a
+```
+
+<a href="./archive/00260_000.jpg">
+	<img src="./lowres/00260_000.jpg" alt="Kodak Ektachrome Slide Duplicating Film 35mm film box outside" loading="lazy" width="500" height="306">
 </a>
 
 #### [1998] Polaroid Polacolor 679 (ref: 625c)
@@ -4525,6 +4614,20 @@ UUID  : b02540ba4b454a639f8096f9474d068f
 	<img src="./lowres/00078_001.jpg" alt="Lomography Lomochrome Purple 35mm film box inside" loading="lazy" width="500" height="381">
 </a>
 
+#### [2027] Reflx Lab Pro 100 (ref: 8bec)
+
+```
+Format: 127          |  Process : C-41    
+ISO   : 100          |  Expiry  : 2027-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-08-28   |  Author  : The Compartmentalist
+UUID  : a361e3b88dde4e0482027e58f12d8bec
+```
+
+<a href="./archive/00264_000.jpg">
+	<img src="./lowres/00264_000.jpg" alt="Reflx Lab Pro 100 127 film box outside" loading="lazy" width="500" height="400">
+</a>
+
 #### [2027] Harman Phoenix II (ref: f686)
 
 ```
@@ -5118,11 +5221,11 @@ Rank  Username                      Contributions
 1     dekuNukem                     111   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
-4     Camera.Riley                  19    
-5     Nano_Burger                   18    
-6     @ob.skura                     16    
-7     b0baspace                     14    
-8     The Compartmentalist          13    
+4     The Compartmentalist          22    
+5     Camera.Riley                  19    
+6     Nano_Burger                   18    
+7     @ob.skura                     16    
+8     b0baspace                     14    
 9     @SirBrentsworth               13    
 10    @recycling.film               13    
 11    toader                        13    

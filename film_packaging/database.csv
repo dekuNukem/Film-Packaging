@@ -431,3 +431,12 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 258,1,film_box_inside,Rollei,RPX 100,35mm,100,BW,202111,1755802440,7bdd1e3645a9856741d79783c33a8f8b,f8b9f798c2d34459955fd96c84c414b3,00258_001.jpg,Pelicram,,Single Pack,36exp
 259,0,film_box_outside,Rollei,RPX 400,35mm,400,BW,202209,1755802472,eb5edee5b811b8ea02540a2c1c1714d2,1b741df3125e4a77bd28c50ce3dcc097,00259_000.jpg,Pelicram,,Single Pack,36exp
 259,1,film_box_inside,Rollei,RPX 400,35mm,400,BW,202209,1755802474,b0fdedb64bf3c21f220c53a729d643f4,8fbb971a033b4a848831c97822b67601,00259_001.jpg,Pelicram,,Single Pack,36exp
+260,0,film_box_outside,Kodak,Ektachrome Slide Duplicating Film,35mm,Unknown,E-6,199804,1756377240,28a74fce06ffcf79c88774d44751492b,82095e23320f4581be4672fd5559596a,00260_000.jpg,The Compartmentalist,,Bulk Roll,100ft
+261,0,film_box_outside,Kodak,Ektachrome 200,126,200,E-6,197811,1756377444,879313719086755155dae15bc152bd0f,fef4be09ea484eecb10a13282d18f372,00261_000.jpg,The Compartmentalist,,Single Pack,20exp
+261,1,film_box_leaflet,Kodak,Ektachrome 200,126,200,E-6,197811,1756377446,0932b9dcc420783f103c8c9ed077ee5f,201fc821d3354cd7a82b0e1554ac06e4,00261_001.jpg,The Compartmentalist,,Single Pack,20exp
+261,2,film_box_leaflet,Kodak,Ektachrome 200,126,200,E-6,197811,1756377449,566a897a637adcd333d08a0484079d45,8a9d6009b1724610bbea230b5b2bdc73,00261_002.jpg,The Compartmentalist,,Single Pack,20exp
+262,0,film_box_outside,Kodak,High Speed Ektachrome,120,160,E-4,197412,1756377569,acf6750ef5310586ed126c53ab1f86cb,221130722e5d4ecfb94b4c1326dcbe8f,00262_000.jpg,The Compartmentalist,,Single Pack,N/A
+262,1,film_box_leaflet,Kodak,High Speed Ektachrome,120,160,E-4,197412,1756377572,b40880ebbc4c00a446c7de25f53faa55,92d31dfc11894fdbbaa954ad3a06fdec,00262_001.jpg,The Compartmentalist,,Single Pack,N/A
+262,2,film_box_leaflet,Kodak,High Speed Ektachrome,120,160,E-4,197412,1756377575,20ca3487615874eb3bf3693a35951db7,240477250c92463e90e7887b069dcb03,00262_002.jpg,The Compartmentalist,,Single Pack,N/A
+263,0,film_box_outside,Kodak,Kodacolor II,126,100,C-41,198310,1756377734,9c7ff440274491d658aed3748b8aaa71,08c1609b39a64daf8be1373ea99c7310,00263_000.jpg,The Compartmentalist,,Single Pack,24exp
+264,0,film_box_outside,Reflx Lab,Pro 100,127,100,C-41,202705,1756377783,9ca21cc5fc17bb95455734c93fbbefae,a361e3b88dde4e0482027e58f12d8bec,00264_000.jpg,The Compartmentalist,,Single Pack,N/A

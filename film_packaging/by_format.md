@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 21 2025
-Unique items: 257
-Total scans : 432
+Last Updated: Aug 28 2025
+Unique items: 262
+Total scans : 441
 ```
 
 -----
@@ -63,6 +63,7 @@ Total scans : 432
 - [[120] Kodak Ektar 100 (ref: 4631)](#120-kodak-ektar-100-ref-4631)
 - [[120] Kodak Gold 200 (ref: 933f)](#120-kodak-gold-200-ref-933f)
 - [[120] Kodak High Speed Ektachrome (ref: ce7f)](#120-kodak-high-speed-ektachrome-ref-ce7f)
+- [[120] Kodak High Speed Ektachrome (ref: be8f)](#120-kodak-high-speed-ektachrome-ref-be8f)
 - [[120] Kodak Kodacolor-X (ref: a4b1)](#120-kodak-kodacolor-x-ref-a4b1)
 - [[120] Kodak Portra 400 (ref: 9f18)](#120-kodak-portra-400-ref-9f18)
 - [[120] Kodak Portra 400VC (ref: b67b)](#120-kodak-portra-400vc-ref-b67b)
@@ -79,7 +80,10 @@ Total scans : 432
 - [[120] Rollei Infrared (ref: 4f54)](#120-rollei-infrared-ref-4f54)
 - [[120] Rollei Retro 80S (ref: e6c0)](#120-rollei-retro-80s-ref-e6c0)
 - [[126] GAF Color Slide Film (ref: dea6)](#126-gaf-color-slide-film-ref-dea6)
+- [[126] Kodak Ektachrome 200 (ref: f372)](#126-kodak-ektachrome-200-ref-f372)
+- [[126] Kodak Kodacolor II (ref: 7310)](#126-kodak-kodacolor-ii-ref-7310)
 - [[126] Kodak Kodacolor-X (ref: 5302)](#126-kodak-kodacolor-x-ref-5302)
+- [[127] Reflx Lab Pro 100 (ref: 8bec)](#127-reflx-lab-pro-100-ref-8bec)
 - [[127] Shanghai GP3 (ref: 52aa)](#127-shanghai-gp3-ref-52aa)
 - [[12x16.5cm] Defender Portrait HGS (ref: d69c)](#12x165cm-defender-portrait-hgs-ref-d69c)
 - [[16mm] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#16mm-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
@@ -176,6 +180,7 @@ Total scans : 432
 - [[35mm] Kodak Ektachrome E100 (ref: 94ff)](#35mm-kodak-ektachrome-e100-ref-94ff)
 - [[35mm] Kodak Ektachrome E100 (ref: ae10)](#35mm-kodak-ektachrome-e100-ref-ae10)
 - [[35mm] Kodak Ektachrome Elite 100 (ref: 26ef)](#35mm-kodak-ektachrome-elite-100-ref-26ef)
+- [[35mm] Kodak Ektachrome Slide Duplicating Film (ref: 596a)](#35mm-kodak-ektachrome-slide-duplicating-film-ref-596a)
 - [[35mm] Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#35mm-kodak-ektachrome-slide-duplicating-film-ref-d53a)
 - [[35mm] Kodak Ektachrome-X (ref: aec5)](#35mm-kodak-ektachrome-x-ref-aec5)
 - [[35mm] Kodak Ektar 100 (ref: 95ec)](#35mm-kodak-ektar-100-ref-95ec)
@@ -1060,6 +1065,34 @@ UUID  : ec7cf78858fc48c59e5a0875ec74ce7f
 	<img src="./lowres/00017_000.jpg" alt="Kodak High Speed Ektachrome 120 film box outside" loading="lazy" width="500" height="500">
 </a>
 
+#### [120] Kodak High Speed Ektachrome (ref: be8f)
+
+```
+Format: 120          |  Process : E-4     
+ISO   : 160          |  Expiry  : 1974-12 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-08-28   |  Author  : The Compartmentalist
+UUID  : 221130722e5d4ecfb94b4c1326dcbe8f
+```
+
+<a href="./archive/00262_000.jpg">
+	<img src="./lowres/00262_000.jpg" alt="Kodak High Speed Ektachrome 120 film box outside" loading="lazy" width="500" height="480">
+</a>
+
+
+`UUID: 92d31dfc11894fdbbaa954ad3a06fdec`↓
+
+<a href="./archive/00262_001.jpg">
+	<img src="./lowres/00262_001.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="173" height="499">
+</a>
+
+
+`UUID: 240477250c92463e90e7887b069dcb03`↓
+
+<a href="./archive/00262_002.jpg">
+	<img src="./lowres/00262_002.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="184" height="500">
+</a>
+
 #### [120] Kodak Kodacolor-X (ref: a4b1)
 
 ```
@@ -1452,6 +1485,48 @@ UUID  : c426ea17398c4c549c6a2720103adea6
 	<img src="./lowres/00054_005.jpg" alt="GAF Color Slide Film 126 film box processing envelope" loading="lazy" width="500" height="133">
 </a>
 
+#### [126] Kodak Ektachrome 200 (ref: f372)
+
+```
+Format: 126          |  Process : E-6     
+ISO   : 200          |  Expiry  : 1978-11 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-08-28   |  Author  : The Compartmentalist
+UUID  : fef4be09ea484eecb10a13282d18f372
+```
+
+<a href="./archive/00261_000.jpg">
+	<img src="./lowres/00261_000.jpg" alt="Kodak Ektachrome 200 126 film box outside" loading="lazy" width="444" height="499">
+</a>
+
+
+`UUID: 201fc821d3354cd7a82b0e1554ac06e4`↓
+
+<a href="./archive/00261_001.jpg">
+	<img src="./lowres/00261_001.jpg" alt="Kodak Ektachrome 200 126 film box leaflet" loading="lazy" width="482" height="499">
+</a>
+
+
+`UUID: 8a9d6009b1724610bbea230b5b2bdc73`↓
+
+<a href="./archive/00261_002.jpg">
+	<img src="./lowres/00261_002.jpg" alt="Kodak Ektachrome 200 126 film box leaflet" loading="lazy" width="483" height="500">
+</a>
+
+#### [126] Kodak Kodacolor II (ref: 7310)
+
+```
+Format: 126          |  Process : C-41    
+ISO   : 100          |  Expiry  : 1983-10 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-08-28   |  Author  : The Compartmentalist
+UUID  : 08c1609b39a64daf8be1373ea99c7310
+```
+
+<a href="./archive/00263_000.jpg">
+	<img src="./lowres/00263_000.jpg" alt="Kodak Kodacolor II 126 film box outside" loading="lazy" width="440" height="499">
+</a>
+
 #### [126] Kodak Kodacolor-X (ref: 5302)
 
 ```
@@ -1464,6 +1539,20 @@ UUID  : 5a3d2ba8ff7649c9b3450d7069445302
 
 <a href="./archive/00024_000.jpg">
 	<img src="./lowres/00024_000.jpg" alt="Kodak Kodacolor-X 126 film box outside" loading="lazy" width="500" height="471">
+</a>
+
+#### [127] Reflx Lab Pro 100 (ref: 8bec)
+
+```
+Format: 127          |  Process : C-41    
+ISO   : 100          |  Expiry  : 2027-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-08-28   |  Author  : The Compartmentalist
+UUID  : a361e3b88dde4e0482027e58f12d8bec
+```
+
+<a href="./archive/00264_000.jpg">
+	<img src="./lowres/00264_000.jpg" alt="Reflx Lab Pro 100 127 film box outside" loading="lazy" width="500" height="400">
 </a>
 
 #### [127] Shanghai GP3 (ref: 52aa)
@@ -3158,6 +3247,20 @@ UUID  : 175cf2b69fe3413093d9d7f9ea0d26ef
 
 <a href="./archive/00114_001.jpg">
 	<img src="./lowres/00114_001.jpg" alt="Kodak Ektachrome Elite 100 35mm film box inside" loading="lazy" width="441" height="500">
+</a>
+
+#### [35mm] Kodak Ektachrome Slide Duplicating Film (ref: 596a)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : Unknown      |  Expiry  : 1998-04 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2025-08-28   |  Author  : The Compartmentalist
+UUID  : 82095e23320f4581be4672fd5559596a
+```
+
+<a href="./archive/00260_000.jpg">
+	<img src="./lowres/00260_000.jpg" alt="Kodak Ektachrome Slide Duplicating Film 35mm film box outside" loading="lazy" width="500" height="306">
 </a>
 
 #### [35mm] Kodak Ektachrome Slide Duplicating Film (ref: d53a)
@@ -5118,11 +5221,11 @@ Rank  Username                      Contributions
 1     dekuNukem                     111   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
-4     Camera.Riley                  19    
-5     Nano_Burger                   18    
-6     @ob.skura                     16    
-7     b0baspace                     14    
-8     The Compartmentalist          13    
+4     The Compartmentalist          22    
+5     Camera.Riley                  19    
+6     Nano_Burger                   18    
+7     @ob.skura                     16    
+8     b0baspace                     14    
 9     @SirBrentsworth               13    
 10    @recycling.film               13    
 11    toader                        13    

@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 21 2025
-Unique items: 257
-Total scans : 432
+Last Updated: Aug 28 2025
+Unique items: 262
+Total scans : 441
 ```
 
 Or Sort by...
@@ -54,11 +54,11 @@ Rank  Username                      Contributions
 1     dekuNukem                     111   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
-4     Camera.Riley                  19    
-5     Nano_Burger                   18    
-6     @ob.skura                     16    
-7     b0baspace                     14    
-8     The Compartmentalist          13    
+4     The Compartmentalist          22    
+5     Camera.Riley                  19    
+6     Nano_Burger                   18    
+7     @ob.skura                     16    
+8     b0baspace                     14    
 9     @SirBrentsworth               13    
 10    @recycling.film               13    
 11    toader                        13    
@@ -82,6 +82,13 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-08-28
+  - The Compartmentalist: Kodak Ektachrome 200
+  - The Compartmentalist: Kodak Ektachrome Slide Duplicating Film
+  - The Compartmentalist: Kodak High Speed Ektachrome
+  - The Compartmentalist: Kodak Kodacolor II
+  - The Compartmentalist: Reflx Lab Pro 100
+
 2025-08-21
   - Pelicram: Rollei RPX 100
   - Pelicram: Rollei RPX 400
@@ -146,13 +153,6 @@ Rank  Username                      Contributions
   - lt_col_tall: CatLABS X Film 320 Pro
   - lt_col_tall: Reflx Lab 250D
   - lt_col_tall: Reflx Lab Pro 100
-
-2025-08-16
-  - Kraksen: Agfa Agfapan APX 100
-  - Kraksen: Agfa Agfapan APX 400
-  - Kraksen: Kodak Black & White +
-  - Kraksen: Marix Professional Negative Movie Color Film
-  - u/ReeeSchmidtyWerber: Kodak Panatomic-X
 ```
 
 ## Disclaimer

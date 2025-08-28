@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 21 2025
-Unique items: 257
-Total scans : 432
+Last Updated: Aug 28 2025
+Unique items: 262
+Total scans : 441
 ```
 
 -----
@@ -178,11 +178,16 @@ Total scans : 432
 - [[The Compartmentalist] Fujifilm Neopan SS Rapid (ref: 9db3)](#the-compartmentalist-fujifilm-neopan-ss-rapid-ref-9db3)
 - [[The Compartmentalist] Fujifilm Provia 100F (ref: df27)](#the-compartmentalist-fujifilm-provia-100f-ref-df27)
 - [[The Compartmentalist] Fujifilm Sensia (ref: a59b)](#the-compartmentalist-fujifilm-sensia-ref-a59b)
+- [[The Compartmentalist] Kodak Ektachrome 200 (ref: f372)](#the-compartmentalist-kodak-ektachrome-200-ref-f372)
+- [[The Compartmentalist] Kodak Ektachrome Slide Duplicating Film (ref: 596a)](#the-compartmentalist-kodak-ektachrome-slide-duplicating-film-ref-596a)
 - [[The Compartmentalist] Kodak Ektachrome-X (ref: ae7e)](#the-compartmentalist-kodak-ektachrome-x-ref-ae7e)
 - [[The Compartmentalist] Kodak Ektachrome-X (ref: aec5)](#the-compartmentalist-kodak-ektachrome-x-ref-aec5)
+- [[The Compartmentalist] Kodak High Speed Ektachrome (ref: be8f)](#the-compartmentalist-kodak-high-speed-ektachrome-ref-be8f)
 - [[The Compartmentalist] Kodak Kodachrome 25 (ref: 8833)](#the-compartmentalist-kodak-kodachrome-25-ref-8833)
+- [[The Compartmentalist] Kodak Kodacolor II (ref: 7310)](#the-compartmentalist-kodak-kodacolor-ii-ref-7310)
 - [[The Compartmentalist] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#the-compartmentalist-minolta-minolta-16-color-film-for-prints-ref-a2ff)
 - [[The Compartmentalist] ORWO NP 20 SL (ref: b16c)](#the-compartmentalist-orwo-np-20-sl-ref-b16c)
+- [[The Compartmentalist] Reflx Lab Pro 100 (ref: 8bec)](#the-compartmentalist-reflx-lab-pro-100-ref-8bec)
 - [[The Compartmentalist] Sakura Sakuracolor II (ref: 4f7d)](#the-compartmentalist-sakura-sakuracolor-ii-ref-4f7d)
 - [[TheSelousScout] Ilford XP2 Super (ref: 622a)](#theselousscout-ilford-xp2-super-ref-622a)
 - [[TheSelousScout] Reto Amber D400 (ref: 08ad)](#theselousscout-reto-amber-d400-ref-08ad)
@@ -3034,6 +3039,48 @@ UUID  : d4fdfa0d829f4fcab984381a31f2a59b
 	<img src="./lowres/00116_001.jpg" alt="Fujifilm Sensia 35mm film box inside" loading="lazy" width="418" height="500">
 </a>
 
+#### [The Compartmentalist] Kodak Ektachrome 200 (ref: f372)
+
+```
+Format: 126          |  Process : E-6     
+ISO   : 200          |  Expiry  : 1978-11 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-08-28   |  Author  : The Compartmentalist
+UUID  : fef4be09ea484eecb10a13282d18f372
+```
+
+<a href="./archive/00261_000.jpg">
+	<img src="./lowres/00261_000.jpg" alt="Kodak Ektachrome 200 126 film box outside" loading="lazy" width="444" height="499">
+</a>
+
+
+`UUID: 201fc821d3354cd7a82b0e1554ac06e4`↓
+
+<a href="./archive/00261_001.jpg">
+	<img src="./lowres/00261_001.jpg" alt="Kodak Ektachrome 200 126 film box leaflet" loading="lazy" width="482" height="499">
+</a>
+
+
+`UUID: 8a9d6009b1724610bbea230b5b2bdc73`↓
+
+<a href="./archive/00261_002.jpg">
+	<img src="./lowres/00261_002.jpg" alt="Kodak Ektachrome 200 126 film box leaflet" loading="lazy" width="483" height="500">
+</a>
+
+#### [The Compartmentalist] Kodak Ektachrome Slide Duplicating Film (ref: 596a)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : Unknown      |  Expiry  : 1998-04 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2025-08-28   |  Author  : The Compartmentalist
+UUID  : 82095e23320f4581be4672fd5559596a
+```
+
+<a href="./archive/00260_000.jpg">
+	<img src="./lowres/00260_000.jpg" alt="Kodak Ektachrome Slide Duplicating Film 35mm film box outside" loading="lazy" width="500" height="306">
+</a>
+
 #### [The Compartmentalist] Kodak Ektachrome-X (ref: ae7e)
 
 ```
@@ -3062,6 +3109,34 @@ UUID  : 6a81b1428cfe46c8b9cf187fb672aec5
 	<img src="./lowres/00119_000.jpg" alt="Kodak Ektachrome-X 35mm film box outside" loading="lazy" width="411" height="500">
 </a>
 
+#### [The Compartmentalist] Kodak High Speed Ektachrome (ref: be8f)
+
+```
+Format: 120          |  Process : E-4     
+ISO   : 160          |  Expiry  : 1974-12 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-08-28   |  Author  : The Compartmentalist
+UUID  : 221130722e5d4ecfb94b4c1326dcbe8f
+```
+
+<a href="./archive/00262_000.jpg">
+	<img src="./lowres/00262_000.jpg" alt="Kodak High Speed Ektachrome 120 film box outside" loading="lazy" width="500" height="480">
+</a>
+
+
+`UUID: 92d31dfc11894fdbbaa954ad3a06fdec`↓
+
+<a href="./archive/00262_001.jpg">
+	<img src="./lowres/00262_001.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="173" height="499">
+</a>
+
+
+`UUID: 240477250c92463e90e7887b069dcb03`↓
+
+<a href="./archive/00262_002.jpg">
+	<img src="./lowres/00262_002.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="184" height="500">
+</a>
+
 #### [The Compartmentalist] Kodak Kodachrome 25 (ref: 8833)
 
 ```
@@ -3074,6 +3149,20 @@ UUID  : 6239a04366d74208a9010cd231688833
 
 <a href="./archive/00121_000.jpg">
 	<img src="./lowres/00121_000.jpg" alt="Kodak Kodachrome 25 35mm film box outside" loading="lazy" width="408" height="499">
+</a>
+
+#### [The Compartmentalist] Kodak Kodacolor II (ref: 7310)
+
+```
+Format: 126          |  Process : C-41    
+ISO   : 100          |  Expiry  : 1983-10 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-08-28   |  Author  : The Compartmentalist
+UUID  : 08c1609b39a64daf8be1373ea99c7310
+```
+
+<a href="./archive/00263_000.jpg">
+	<img src="./lowres/00263_000.jpg" alt="Kodak Kodacolor II 126 film box outside" loading="lazy" width="440" height="499">
 </a>
 
 #### [The Compartmentalist] Minolta Minolta 16 Color Film For Prints (ref: a2ff)
@@ -3102,6 +3191,20 @@ UUID  : 9791c2074fdd4340a1463312ed77b16c
 
 <a href="./archive/00163_000.jpg">
 	<img src="./lowres/00163_000.jpg" alt="ORWO NP 20 SL 35mm film box outside" loading="lazy" width="500" height="489">
+</a>
+
+#### [The Compartmentalist] Reflx Lab Pro 100 (ref: 8bec)
+
+```
+Format: 127          |  Process : C-41    
+ISO   : 100          |  Expiry  : 2027-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-08-28   |  Author  : The Compartmentalist
+UUID  : a361e3b88dde4e0482027e58f12d8bec
+```
+
+<a href="./archive/00264_000.jpg">
+	<img src="./lowres/00264_000.jpg" alt="Reflx Lab Pro 100 127 film box outside" loading="lazy" width="500" height="400">
 </a>
 
 
@@ -5118,11 +5221,11 @@ Rank  Username                      Contributions
 1     dekuNukem                     111   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
-4     Camera.Riley                  19    
-5     Nano_Burger                   18    
-6     @ob.skura                     16    
-7     b0baspace                     14    
-8     The Compartmentalist          13    
+4     The Compartmentalist          22    
+5     Camera.Riley                  19    
+6     Nano_Burger                   18    
+7     @ob.skura                     16    
+8     b0baspace                     14    
 9     @SirBrentsworth               13    
 10    @recycling.film               13    
 11    toader                        13    
