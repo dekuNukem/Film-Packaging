@@ -163,6 +163,8 @@ The images are provided for reference and educational purposes.
 
 The designs may be protected under copyright and trademark laws. Use at your own risk.
 
+The MIT License applies only to the non-image source codes.
+
 ## Questions or Comments?
 
 Get in touch by joining [the Discord chatroom](https://discord.gg/yvBx7dVG4B), or email `skate.huddle-6r@icloud.com` !
