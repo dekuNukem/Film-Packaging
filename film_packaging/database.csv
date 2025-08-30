@@ -237,8 +237,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 136,0,film_box_outside,Rollei,RPX 400,35mm,400,BW,202808,1753988855,c8733929469e3989b26e38f41f416db4,19ef81d6d03844b088250c7b54032155,00136_000.jpg,Pelicram,,Single Pack,36exp
 136,1,film_box_inside,Rollei,RPX 400,35mm,400,BW,202808,1753988857,b85b1f949765058a36df21250552c984,962831862dbc4da89c8b979e5fb6584b,00136_001.jpg,Pelicram,,Single Pack,36exp
 137,0,film_box_outside,Hazenfilm,Sorolla Chrome,35mm,100,E-6,202608,1753988927,92804cf1383f6231f1059338ec793f7e,462e32d45cd740cf866732a73a00889f,00137_000.jpg,Pelicram,,Single Pack,36exp
-138,0,film_box_outside,Konica,VX200,35mm,200,C-41,200303,1753988966,84070030a3a366263d25e090186e3434,dd3a6c347560484295ca09c86e3dfe53,00138_000.jpg,Pelicram,,Multi-Pack-3,24exp
-138,1,film_box_inside,Konica,VX200,35mm,200,C-41,200303,1753988969,74ecfe146d9ad8c7e4f06829836f1faa,9f45eb2e52134da79a732605103a6f39,00138_001.jpg,Pelicram,,Multi-Pack-3,24exp
+138,0,film_box_outside,Konica,KonicaColor VX 200,35mm,200,C-41,200303,1753988966,84070030a3a366263d25e090186e3434,dd3a6c347560484295ca09c86e3dfe53,00138_000.jpg,Pelicram,,Multi-Pack-3,24exp
+138,1,film_box_inside,Konica,KonicaColor VX 200,35mm,200,C-41,200303,1753988969,74ecfe146d9ad8c7e4f06829836f1faa,9f45eb2e52134da79a732605103a6f39,00138_001.jpg,Pelicram,,Multi-Pack-3,24exp
 139,0,film_box_outside,Fujifilm,Fujicolor Superia,35mm,200,C-41,200007,1753989032,2b0f1ce56ed21dbbdfd52a96dc5aaeaa,2b50b3d82a7340ffbe9bff871793d1b7,00139_000.jpg,Pelicram,,Multi-Pack-3,24exp
 139,1,film_box_inside,Fujifilm,Fujicolor Superia,35mm,200,C-41,200007,1753989035,d21b34a8c75c1d95219438e8ee338e02,a193a13c20a24dada68357552593974f,00139_001.jpg,Pelicram,,Multi-Pack-3,24exp
 140,0,film_box_outside,Ilford,HP5 Plus,120,400,BW,201206,1753989060,7a445c7d3b74282404f974c78debf78e,dbf3817f506a444b9d394745dba311a8,00140_000.jpg,Pelicram,,Single Pack,N/A
@@ -440,3 +440,30 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 262,2,film_box_leaflet,Kodak,High Speed Ektachrome,120,160,E-4,197412,1756377575,20ca3487615874eb3bf3693a35951db7,240477250c92463e90e7887b069dcb03,00262_002.jpg,The Compartmentalist,,Single Pack,N/A
 263,0,film_box_outside,Kodak,Kodacolor II,126,100,C-41,198310,1756377734,9c7ff440274491d658aed3748b8aaa71,08c1609b39a64daf8be1373ea99c7310,00263_000.jpg,The Compartmentalist,,Single Pack,24exp
 264,0,film_box_outside,Reflx Lab,Pro 100,127,100,C-41,202705,1756377783,9ca21cc5fc17bb95455734c93fbbefae,a361e3b88dde4e0482027e58f12d8bec,00264_000.jpg,The Compartmentalist,,Single Pack,N/A
+265,0,film_box_outside,Premium,Super XG,35mm,100,C-41,199112,1756512338,b58e5c9bf010af50e70cbfbf06c9fe53,592592a0182a47dda6390cfc4fd18ccd,00265_000.jpg,dekuNukem,,Single Pack,36exp
+265,1,film_box_inside,Premium,Super XG,35mm,100,C-41,199112,1756512348,7e9d1af7ebca7cb5e849c3d1805ad5eb,6a35a7c39a2e4083bc5faa53fb5abd4e,00265_001.jpg,dekuNukem,,Single Pack,36exp
+266,0,film_box_outside,Lloyds Pharmacy,Colour Film,35mm,200,C-41,200407,1756512436,2f46484634d1a91cad6ea660f82613fc,c4d16975eee44b9185b17cf0c0e4074c,00266_000.jpg,dekuNukem,,Single Pack,36exp
+267,0,film_box_outside,Konica,Centuria 200,35mm,200,C-41,200305,1756512490,e9739940dc7205dc577c8d4ec9639201,2f575e07049946ea981e1d53eb4ee155,00267_000.jpg,dekuNukem,,Single Pack,24exp
+267,1,film_box_inside,Konica,Centuria 200,35mm,200,C-41,200305,1756512494,80f542f61d05a7ec6e37564f15a0168e,037c5e1f5185418c96aae0a01cf726a3,00267_001.jpg,dekuNukem,,Single Pack,24exp
+268,0,film_box_outside,Max Spielmann,Maxi Color,35mm,400,C-41,199708,1756512557,1f564f2b3166652f0453d713cabcbb49,0953325be5e54102b7615a7a5f82bf60,00268_000.jpg,dekuNukem,,Single Pack,24exp
+269,0,film_box_outside,Konica,KonicaColor VX 100,35mm,100,C-41,199806,1756512623,4dfcab9c44b8c43d6a16a2523e658323,daee9d73b6d14f768e414b87260c8350,00269_000.jpg,dekuNukem,,Single Pack,24exp
+269,1,film_box_inside,Konica,KonicaColor VX 100,35mm,100,C-41,199806,1756512625,f2298681ebb1fcad7e51c3c39f211132,2e481382168c430c8a923e5a2aa60e05,00269_001.jpg,dekuNukem,,Single Pack,24exp
+270,0,film_box_outside,Klick,400ASA,35mm,400,C-41,200702,1756512788,b1b456228d5c48abd4785a130cbfb473,42f73c1448634cdb856d014e59098779,00270_000.jpg,dekuNukem,,Single Pack,24exp
+270,1,film_box_inside,Klick,400ASA,35mm,400,C-41,200702,1756512815,6b3c17a348273d858a5b6bf0b2de31f1,f65991d851c249318d64793e8e7defeb,00270_001.jpg,dekuNukem,,Single Pack,24exp
+271,0,film_box_outside,Kodak,Plus-X Pan,35mm,125,BW,197001,1756512851,2d646c4a74653f5e325fb546dba7b5f2,66f3d693560540d5b5a4cbfb3a91f5cc,00271_000.jpg,dekuNukem,,Single Pack,36exp
+272,0,film_box_outside,Agfa,AgfaColor CT 18,35mm,50,Unknown,196707,1756513233,43806fd680b4f43c8da032a459df9f55,0e445a9b612a487b90df4e94a3831fef,00272_000.jpg,dekuNukem,,Single Pack,20exp
+272,1,film_box_leaflet,Agfa,AgfaColor CT 18,35mm,50,Unknown,196707,1756513236,e67b479fe4dbde53f6bf542292217b60,a873cb888fb747898307b01aefc735f5,00272_001.jpg,dekuNukem,,Single Pack,20exp
+272,2,film_box_leaflet,Agfa,AgfaColor CT 18,35mm,50,Unknown,196707,1756513242,83aa33b8437d56b392321f52da0cfd33,9b5f0876d6bb4d049b1a352116b1edfa,00272_002.jpg,dekuNukem,,Single Pack,20exp
+272,3,film_box_leaflet,Agfa,AgfaColor CT 18,35mm,50,Unknown,196707,1756513246,fdb175fca22a0d3c79e582d461939e2d,60fd9b682b714bda937f1489895e3f04,00272_003.jpg,dekuNukem,,Single Pack,20exp
+272,4,film_box_leaflet,Agfa,AgfaColor CT 18,35mm,50,Unknown,196707,1756513248,8260c4adcb70c58473a6075285721863,b2c42b0d1fca464e8813d18e3e709abe,00272_004.jpg,dekuNukem,,Single Pack,20exp
+272,5,film_box_processing_envelope,Agfa,AgfaColor CT 18,35mm,50,Unknown,196707,1756513252,c9d721c58f0773497f19e6b3595661fb,92d1c329ca9c4714bfe7ae4ccca5cc86,00272_005.jpg,dekuNukem,,Single Pack,20exp
+272,6,film_box_processing_envelope,Agfa,AgfaColor CT 18,35mm,50,Unknown,196707,1756513255,237f7e56bb1c7a374b48b1e5470a4731,bb549196d49a4992afdb1a15e70f51b8,00272_006.jpg,dekuNukem,,Single Pack,20exp
+273,0,film_box_outside,Kodak,TMAX 400,35mm,400,BW,199109,1756513293,72a666546e827faa550f70306addfadc,c3e0b9bbf7a94fe28d6c2fc3cab2a34d,00273_000.jpg,dekuNukem,,Single Pack,36exp
+273,1,film_box_leaflet,Kodak,TMAX 400,35mm,400,BW,199109,1756513295,e4ff3557731dab7094bebb64d7b6d680,92e90ab4cddd4e9d92981ba28f810803,00273_001.jpg,dekuNukem,,Single Pack,36exp
+273,2,film_box_leaflet,Kodak,TMAX 400,35mm,400,BW,199109,1756513299,c1165b09284cc0add821c170e99f810e,c6b25c061c1649c1a5fd09059473a330,00273_002.jpg,dekuNukem,,Single Pack,36exp
+274,0,film_box_outside,Kodak,Ektachrome Elite 200,35mm,200,E-6,199708,1756513348,bf379156dee5c123ba00f4d36eaff006,5f3a81c10cdb46baa28b1b1fbc56a391,00274_000.jpg,dekuNukem,,Single Pack,36exp
+274,1,film_box_inside,Kodak,Ektachrome Elite 200,35mm,200,E-6,199708,1756513352,60c9204941d7866036637c51f251d21d,4c120316ad9f4fedb57d57138d37d0e1,00274_001.jpg,dekuNukem,,Single Pack,36exp
+275,0,film_box_outside,Kodak,Ektachrome 100HC,35mm,100,E-6,199411,1756513755,6933ef9ae7314e4ed4112f13868beaea,c7c26bb546634d47ae7fc5aa68b33ab9,00275_000.jpg,dekuNukem,,Single Pack,36exp
+275,1,film_box_inside,Kodak,Ektachrome 100HC,35mm,100,E-6,199411,1756513756,aede321bc7700c04514964e5362c4252,de18a3dd00a744a3973965244938320f,00275_001.jpg,dekuNukem,,Single Pack,36exp
+276,0,film_box_outside,Kodak,Ektachrome 100HC,35mm,100,E-6,199411,1756513843,44434d4f3580e9693f0b1e7e86c495e6,064dbfe80ca84ac99329c252bce0775a,00276_000.jpg,dekuNukem,,Single Pack,36exp
+276,1,film_box_inside,Kodak,Ektachrome 100HC,35mm,100,E-6,199411,1756513845,d073d7aa36c36fbfdb03a17d80ac4621,3c397dbea68649edb38d6464d6516746,00276_001.jpg,dekuNukem,,Single Pack,36exp

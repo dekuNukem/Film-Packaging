@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 28 2025
-Unique items: 262
-Total scans : 441
+Last Updated: Aug 30 2025
+Unique items: 274
+Total scans : 468
 ```
 
 Or Sort by...
@@ -51,7 +51,7 @@ Or Sort by...
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     111   
+1     dekuNukem                     138   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     The Compartmentalist          22    
@@ -82,6 +82,19 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-08-30
+  - dekuNukem: Agfa AgfaColor CT 18
+  - dekuNukem: Klick 400ASA
+  - dekuNukem: Kodak Ektachrome 100HC
+  - dekuNukem: Kodak Ektachrome Elite 200
+  - dekuNukem: Kodak Plus-X Pan
+  - dekuNukem: Kodak TMAX 400
+  - dekuNukem: Konica Centuria 200
+  - dekuNukem: Konica KonicaColor VX 100
+  - dekuNukem: Lloyds Pharmacy Colour Film
+  - dekuNukem: Max Spielmann Maxi Color
+  - dekuNukem: Premium Super XG
+
 2025-08-28
   - The Compartmentalist: Kodak Ektachrome 200
   - The Compartmentalist: Kodak Ektachrome Slide Duplicating Film
@@ -142,17 +155,6 @@ Rank  Username                      Contributions
   - @ellafridalindblom: Hasselblad Hassel-plåtar E.R.Orto
   - @ellafridalindblom: Illingworth's Fleet H&D
   - @ellafridalindblom: Kodak Ektachrome Slide Duplicating Film
-
-2025-08-18
-  - @recycling.film: Agfa APX 25
-  - @recycling.film: Fujifilm Fujicolor C200
-  - @recycling.film: Fujifilm Superia
-  - @recycling.film: Fujifilm Superia X-TRA
-  - @recycling.film: Kodak Portra 400
-  - @recycling.film: Kodak UltraMax
-  - lt_col_tall: CatLABS X Film 320 Pro
-  - lt_col_tall: Reflx Lab 250D
-  - lt_col_tall: Reflx Lab Pro 100
 ```
 
 ## Disclaimer

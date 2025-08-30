@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 28 2025
-Unique items: 262
-Total scans : 441
+Last Updated: Aug 30 2025
+Unique items: 274
+Total scans : 468
 ```
 
 -----
@@ -160,7 +160,7 @@ Total scans : 441
 - [[Pelicram] Kodak TMAX P3200 (ref: 43a2)](#pelicram-kodak-tmax-p3200-ref-43a2)
 - [[Pelicram] Kodak Tri-X 400 (ref: c671)](#pelicram-kodak-tri-x-400-ref-c671)
 - [[Pelicram] Kodak Värikuvafilmi (ref: f9ff)](#pelicram-kodak-värikuvafilmi-ref-f9ff)
-- [[Pelicram] Konica VX200 (ref: fe53)](#pelicram-konica-vx200-ref-fe53)
+- [[Pelicram] Konica KonicaColor VX 200 (ref: fe53)](#pelicram-konica-konicacolor-vx-200-ref-fe53)
 - [[Pelicram] Lomography Babylon (ref: 7afa)](#pelicram-lomography-babylon-ref-7afa)
 - [[Pelicram] Lomography Fantome (ref: 4340)](#pelicram-lomography-fantome-ref-4340)
 - [[Pelicram] Lomography Orca (ref: d506)](#pelicram-lomography-orca-ref-d506)
@@ -204,6 +204,7 @@ Total scans : 441
 - [[benikum] Rossmann Jahreszeiten Pack (ref: 7670)](#benikum-rossmann-jahreszeiten-pack-ref-7670)
 - [[dekuNukem] ADOX KB17 (ref: 2c95)](#dekunukem-adox-kb17-ref-2c95)
 - [[dekuNukem] Agfa APX (ref: 12c7)](#dekunukem-agfa-apx-ref-12c7)
+- [[dekuNukem] Agfa AgfaColor CT 18 (ref: 1fef)](#dekunukem-agfa-agfacolor-ct-18-ref-1fef)
 - [[dekuNukem] Agfa ULTRA 50 (ref: 4faa)](#dekunukem-agfa-ultra-50-ref-4faa)
 - [[dekuNukem] Agfa Vista (ref: d3af)](#dekunukem-agfa-vista-ref-d3af)
 - [[dekuNukem] Alien Film 5207/250D (ref: 8820)](#dekunukem-alien-film-5207250d-ref-8820)
@@ -224,11 +225,15 @@ Total scans : 441
 - [[dekuNukem] Jessops Diamond Everyday (ref: 67d3)](#dekunukem-jessops-diamond-everyday-ref-67d3)
 - [[dekuNukem] Kentmere PAN 400 (ref: d223)](#dekunukem-kentmere-pan-400-ref-d223)
 - [[dekuNukem] Kentmere PAN 400 (ref: 827e)](#dekunukem-kentmere-pan-400-ref-827e)
+- [[dekuNukem] Klick 400ASA (ref: 8779)](#dekunukem-klick-400asa-ref-8779)
 - [[dekuNukem] Klick APS Film (ref: 4b88)](#dekunukem-klick-aps-film-ref-4b88)
 - [[dekuNukem] Klick XD200 (ref: 44d7)](#dekunukem-klick-xd200-ref-44d7)
 - [[dekuNukem] Kodak Advantix Ultra (ref: 566b)](#dekunukem-kodak-advantix-ultra-ref-566b)
+- [[dekuNukem] Kodak Ektachrome 100HC (ref: 3ab9)](#dekunukem-kodak-ektachrome-100hc-ref-3ab9)
+- [[dekuNukem] Kodak Ektachrome 100HC (ref: 775a)](#dekunukem-kodak-ektachrome-100hc-ref-775a)
 - [[dekuNukem] Kodak Ektachrome 64 (ref: 07c0)](#dekunukem-kodak-ektachrome-64-ref-07c0)
 - [[dekuNukem] Kodak Ektachrome E100VS (ref: a8d3)](#dekunukem-kodak-ektachrome-e100vs-ref-a8d3)
+- [[dekuNukem] Kodak Ektachrome Elite 200 (ref: a391)](#dekunukem-kodak-ektachrome-elite-200-ref-a391)
 - [[dekuNukem] Kodak Ektacolor Pro Gold (ref: c3f8)](#dekunukem-kodak-ektacolor-pro-gold-ref-c3f8)
 - [[dekuNukem] Kodak Gold 200 (ref: 933f)](#dekunukem-kodak-gold-200-ref-933f)
 - [[dekuNukem] Kodak High Speed Ektachrome (ref: ce7f)](#dekunukem-kodak-high-speed-ektachrome-ref-ce7f)
@@ -238,14 +243,20 @@ Total scans : 441
 - [[dekuNukem] Kodak Kodacolor Gold 200 (ref: f368)](#dekunukem-kodak-kodacolor-gold-200-ref-f368)
 - [[dekuNukem] Kodak Kodacolor-X (ref: a4b1)](#dekunukem-kodak-kodacolor-x-ref-a4b1)
 - [[dekuNukem] Kodak Kodacolor-X (ref: 5302)](#dekunukem-kodak-kodacolor-x-ref-5302)
+- [[dekuNukem] Kodak Plus-X Pan (ref: f5cc)](#dekunukem-kodak-plus-x-pan-ref-f5cc)
 - [[dekuNukem] Kodak TMAX 100 (ref: b3b1)](#dekunukem-kodak-tmax-100-ref-b3b1)
+- [[dekuNukem] Kodak TMAX 400 (ref: a34d)](#dekunukem-kodak-tmax-400-ref-a34d)
 - [[dekuNukem] Kodak Technical Pan 6415 (ref: 03be)](#dekunukem-kodak-technical-pan-6415-ref-03be)
 - [[dekuNukem] Kodak Tri-X 400 (ref: 88c5)](#dekunukem-kodak-tri-x-400-ref-88c5)
+- [[dekuNukem] Konica Centuria 200 (ref: e155)](#dekunukem-konica-centuria-200-ref-e155)
 - [[dekuNukem] Konica Infrared 750nm (ref: e696)](#dekunukem-konica-infrared-750nm-ref-e696)
 - [[dekuNukem] Konica Infrared 750nm (ref: 2d93)](#dekunukem-konica-infrared-750nm-ref-2d93)
+- [[dekuNukem] Konica KonicaColor VX 100 (ref: 8350)](#dekunukem-konica-konicacolor-vx-100-ref-8350)
 - [[dekuNukem] Lloyds Pharmacy APS Film (ref: c7cf)](#dekunukem-lloyds-pharmacy-aps-film-ref-c7cf)
+- [[dekuNukem] Lloyds Pharmacy Colour Film (ref: 074c)](#dekunukem-lloyds-pharmacy-colour-film-ref-074c)
 - [[dekuNukem] Lloyds Pharmacy Colour Film (ref: 77d9)](#dekunukem-lloyds-pharmacy-colour-film-ref-77d9)
 - [[dekuNukem] Lomography Lomochrome Turquoise (ref: 0d90)](#dekunukem-lomography-lomochrome-turquoise-ref-0d90)
+- [[dekuNukem] Max Spielmann Maxi Color (ref: bf60)](#dekunukem-max-spielmann-maxi-color-ref-bf60)
 - [[dekuNukem] Polaroid 665 (ref: e054)](#dekunukem-polaroid-665-ref-e054)
 - [[dekuNukem] Polaroid 669 (ref: 3566)](#dekunukem-polaroid-669-ref-3566)
 - [[dekuNukem] Polaroid 87 (ref: 62ef)](#dekunukem-polaroid-87-ref-62ef)
@@ -254,6 +265,7 @@ Total scans : 441
 - [[dekuNukem] Polaroid PolaChrome 35mm (ref: 3b60)](#dekunukem-polaroid-polachrome-35mm-ref-3b60)
 - [[dekuNukem] Polaroid PolaPan 35mm (ref: 9825)](#dekunukem-polaroid-polapan-35mm-ref-9825)
 - [[dekuNukem] Polaroid Polacolor 679 (ref: 625c)](#dekunukem-polaroid-polacolor-679-ref-625c)
+- [[dekuNukem] Premium Super XG (ref: 8ccd)](#dekunukem-premium-super-xg-ref-8ccd)
 - [[dekuNukem] Rollei Infrared (ref: 4f54)](#dekunukem-rollei-infrared-ref-4f54)
 - [[dekuNukem] Rollei Retro 80S (ref: e6c0)](#dekunukem-rollei-retro-80s-ref-e6c0)
 - [[dekuNukem] Three Film Rolls 5207 (ref: 0292)](#dekunukem-three-film-rolls-5207-ref-0292)
@@ -2745,7 +2757,7 @@ UUID  : b8795d19697a453c8f27fde773eaf9ff
 	<img src="./lowres/00146_000.jpg" alt="Kodak Värikuvafilmi 35mm film box outside" loading="lazy" width="500" height="484">
 </a>
 
-#### [Pelicram] Konica VX200 (ref: fe53)
+#### [Pelicram] Konica KonicaColor VX 200 (ref: fe53)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -2756,14 +2768,14 @@ UUID  : dd3a6c347560484295ca09c86e3dfe53
 ```
 
 <a href="./archive/00138_000.jpg">
-	<img src="./lowres/00138_000.jpg" alt="Konica VX200 35mm film box outside" loading="lazy" width="487" height="500">
+	<img src="./lowres/00138_000.jpg" alt="Konica KonicaColor VX 200 35mm film box outside" loading="lazy" width="487" height="500">
 </a>
 
 
 `UUID: 9f45eb2e52134da79a732605103a6f39`↓
 
 <a href="./archive/00138_001.jpg">
-	<img src="./lowres/00138_001.jpg" alt="Konica VX200 35mm film box inside" loading="lazy" width="487" height="500">
+	<img src="./lowres/00138_001.jpg" alt="Konica KonicaColor VX 200 35mm film box inside" loading="lazy" width="487" height="500">
 </a>
 
 #### [Pelicram] Lomography Babylon (ref: 7afa)
@@ -3529,6 +3541,62 @@ UUID  : a20bbca534454915a6970b6ede2212c7
 	<img src="./lowres/00011_001.jpg" alt="Agfa APX 120 film box inside" loading="lazy" width="500" height="402">
 </a>
 
+#### [dekuNukem] Agfa AgfaColor CT 18 (ref: 1fef)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 50           |  Expiry  : 1967-07 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-08-30   |  Author  : dekuNukem
+UUID  : 0e445a9b612a487b90df4e94a3831fef
+```
+
+<a href="./archive/00272_000.jpg">
+	<img src="./lowres/00272_000.jpg" alt="Agfa AgfaColor CT 18 35mm film box outside" loading="lazy" width="500" height="453">
+</a>
+
+
+`UUID: a873cb888fb747898307b01aefc735f5`↓
+
+<a href="./archive/00272_001.jpg">
+	<img src="./lowres/00272_001.jpg" alt="Agfa AgfaColor CT 18 35mm film box leaflet" loading="lazy" width="481" height="500">
+</a>
+
+
+`UUID: 9b5f0876d6bb4d049b1a352116b1edfa`↓
+
+<a href="./archive/00272_002.jpg">
+	<img src="./lowres/00272_002.jpg" alt="Agfa AgfaColor CT 18 35mm film box leaflet" loading="lazy" width="467" height="500">
+</a>
+
+
+`UUID: 60fd9b682b714bda937f1489895e3f04`↓
+
+<a href="./archive/00272_003.jpg">
+	<img src="./lowres/00272_003.jpg" alt="Agfa AgfaColor CT 18 35mm film box leaflet" loading="lazy" width="448" height="499">
+</a>
+
+
+`UUID: b2c42b0d1fca464e8813d18e3e709abe`↓
+
+<a href="./archive/00272_004.jpg">
+	<img src="./lowres/00272_004.jpg" alt="Agfa AgfaColor CT 18 35mm film box leaflet" loading="lazy" width="451" height="500">
+</a>
+
+
+`UUID: 92d1c329ca9c4714bfe7ae4ccca5cc86`↓
+
+<a href="./archive/00272_005.jpg">
+	<img src="./lowres/00272_005.jpg" alt="Agfa AgfaColor CT 18 35mm film box processing envelope" loading="lazy" width="500" height="381">
+</a>
+
+
+`UUID: bb549196d49a4992afdb1a15e70f51b8`↓
+
+<a href="./archive/00272_006.jpg">
+	<img src="./lowres/00272_006.jpg" alt="Agfa AgfaColor CT 18 35mm film box processing envelope" loading="lazy" width="500" height="340">
+</a>
+
 #### [dekuNukem] Agfa ULTRA 50 (ref: 4faa)
 
 ```
@@ -3921,6 +3989,27 @@ UUID  : d2cf9753f6fd49a78404c72d848a827e
 	<img src="./lowres/00015_001.jpg" alt="Kentmere PAN 400 35mm film box inside" loading="lazy" width="500" height="338">
 </a>
 
+#### [dekuNukem] Klick 400ASA (ref: 8779)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2007-02 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-08-30   |  Author  : dekuNukem
+UUID  : 42f73c1448634cdb856d014e59098779
+```
+
+<a href="./archive/00270_000.jpg">
+	<img src="./lowres/00270_000.jpg" alt="Klick 400ASA 35mm film box outside" loading="lazy" width="431" height="500">
+</a>
+
+
+`UUID: f65991d851c249318d64793e8e7defeb`↓
+
+<a href="./archive/00270_001.jpg">
+	<img src="./lowres/00270_001.jpg" alt="Klick 400ASA 35mm film box inside" loading="lazy" width="434" height="500">
+</a>
+
 #### [dekuNukem] Klick APS Film (ref: 4b88)
 
 ```
@@ -3970,6 +4059,48 @@ UUID  : 041622f239024ffb8b75c367619a566b
 	<img src="./lowres/00066_000.jpg" alt="Kodak Advantix Ultra APS film box outside" loading="lazy" width="500" height="389">
 </a>
 
+#### [dekuNukem] Kodak Ektachrome 100HC (ref: 3ab9)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 1994-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-30   |  Author  : dekuNukem
+UUID  : c7c26bb546634d47ae7fc5aa68b33ab9
+```
+
+<a href="./archive/00275_000.jpg">
+	<img src="./lowres/00275_000.jpg" alt="Kodak Ektachrome 100HC 35mm film box outside" loading="lazy" width="433" height="500">
+</a>
+
+
+`UUID: de18a3dd00a744a3973965244938320f`↓
+
+<a href="./archive/00275_001.jpg">
+	<img src="./lowres/00275_001.jpg" alt="Kodak Ektachrome 100HC 35mm film box inside" loading="lazy" width="441" height="500">
+</a>
+
+#### [dekuNukem] Kodak Ektachrome 100HC (ref: 775a)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 1994-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-30   |  Author  : dekuNukem
+UUID  : 064dbfe80ca84ac99329c252bce0775a
+```
+
+<a href="./archive/00276_000.jpg">
+	<img src="./lowres/00276_000.jpg" alt="Kodak Ektachrome 100HC 35mm film box outside" loading="lazy" width="435" height="500">
+</a>
+
+
+`UUID: 3c397dbea68649edb38d6464d6516746`↓
+
+<a href="./archive/00276_001.jpg">
+	<img src="./lowres/00276_001.jpg" alt="Kodak Ektachrome 100HC 35mm film box inside" loading="lazy" width="441" height="500">
+</a>
+
 #### [dekuNukem] Kodak Ektachrome 64 (ref: 07c0)
 
 ```
@@ -3996,6 +4127,27 @@ UUID  : e8673d04cee440bd9c065a37a485a8d3
 
 <a href="./archive/00160_000.jpg">
 	<img src="./lowres/00160_000.jpg" alt="Kodak Ektachrome E100VS 120 film box outside" loading="lazy" width="391" height="500">
+</a>
+
+#### [dekuNukem] Kodak Ektachrome Elite 200 (ref: a391)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 200          |  Expiry  : 1997-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-30   |  Author  : dekuNukem
+UUID  : 5f3a81c10cdb46baa28b1b1fbc56a391
+```
+
+<a href="./archive/00274_000.jpg">
+	<img src="./lowres/00274_000.jpg" alt="Kodak Ektachrome Elite 200 35mm film box outside" loading="lazy" width="456" height="500">
+</a>
+
+
+`UUID: 4c120316ad9f4fedb57d57138d37d0e1`↓
+
+<a href="./archive/00274_001.jpg">
+	<img src="./lowres/00274_001.jpg" alt="Kodak Ektachrome Elite 200 35mm film box inside" loading="lazy" width="466" height="500">
 </a>
 
 #### [dekuNukem] Kodak Ektacolor Pro Gold (ref: c3f8)
@@ -4201,6 +4353,20 @@ UUID  : 5a3d2ba8ff7649c9b3450d7069445302
 	<img src="./lowres/00024_000.jpg" alt="Kodak Kodacolor-X 126 film box outside" loading="lazy" width="500" height="471">
 </a>
 
+#### [dekuNukem] Kodak Plus-X Pan (ref: f5cc)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 125          |  Expiry  : 1970-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-30   |  Author  : dekuNukem
+UUID  : 66f3d693560540d5b5a4cbfb3a91f5cc
+```
+
+<a href="./archive/00271_000.jpg">
+	<img src="./lowres/00271_000.jpg" alt="Kodak Plus-X Pan 35mm film box outside" loading="lazy" width="434" height="500">
+</a>
+
 #### [dekuNukem] Kodak TMAX 100 (ref: b3b1)
 
 ```
@@ -4213,6 +4379,34 @@ UUID  : 9a43d0c373354e1989ea7bb7a43db3b1
 
 <a href="./archive/00069_000.jpg">
 	<img src="./lowres/00069_000.jpg" alt="Kodak TMAX 100 120 film box outside" loading="lazy" width="381" height="500">
+</a>
+
+#### [dekuNukem] Kodak TMAX 400 (ref: a34d)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 1991-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-30   |  Author  : dekuNukem
+UUID  : c3e0b9bbf7a94fe28d6c2fc3cab2a34d
+```
+
+<a href="./archive/00273_000.jpg">
+	<img src="./lowres/00273_000.jpg" alt="Kodak TMAX 400 35mm film box outside" loading="lazy" width="363" height="500">
+</a>
+
+
+`UUID: 92e90ab4cddd4e9d92981ba28f810803`↓
+
+<a href="./archive/00273_001.jpg">
+	<img src="./lowres/00273_001.jpg" alt="Kodak TMAX 400 35mm film box leaflet" loading="lazy" width="188" height="499">
+</a>
+
+
+`UUID: c6b25c061c1649c1a5fd09059473a330`↓
+
+<a href="./archive/00273_002.jpg">
+	<img src="./lowres/00273_002.jpg" alt="Kodak TMAX 400 35mm film box leaflet" loading="lazy" width="169" height="500">
 </a>
 
 #### [dekuNukem] Kodak Technical Pan 6415 (ref: 03be)
@@ -4257,6 +4451,27 @@ UUID  : f7f99b9d46a4491c9cbfda4f030f88c5
 	<img src="./lowres/00028_000.jpg" alt="Kodak Tri-X 400 120 film box outside" loading="lazy" width="408" height="500">
 </a>
 
+#### [dekuNukem] Konica Centuria 200 (ref: e155)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2003-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-08-30   |  Author  : dekuNukem
+UUID  : 2f575e07049946ea981e1d53eb4ee155
+```
+
+<a href="./archive/00267_000.jpg">
+	<img src="./lowres/00267_000.jpg" alt="Konica Centuria 200 35mm film box outside" loading="lazy" width="458" height="499">
+</a>
+
+
+`UUID: 037c5e1f5185418c96aae0a01cf726a3`↓
+
+<a href="./archive/00267_001.jpg">
+	<img src="./lowres/00267_001.jpg" alt="Konica Centuria 200 35mm film box inside" loading="lazy" width="455" height="500">
+</a>
+
 #### [dekuNukem] Konica Infrared 750nm (ref: e696)
 
 ```
@@ -4292,6 +4507,27 @@ UUID  : 63b2857f2df549878446cc1963362d93
 	<img src="./lowres/00036_000.jpg" alt="Konica Infrared 750nm 120 film box outside" loading="lazy" width="500" height="302">
 </a>
 
+#### [dekuNukem] Konica KonicaColor VX 100 (ref: 8350)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1998-06 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-08-30   |  Author  : dekuNukem
+UUID  : daee9d73b6d14f768e414b87260c8350
+```
+
+<a href="./archive/00269_000.jpg">
+	<img src="./lowres/00269_000.jpg" alt="Konica KonicaColor VX 100 35mm film box outside" loading="lazy" width="455" height="500">
+</a>
+
+
+`UUID: 2e481382168c430c8a923e5a2aa60e05`↓
+
+<a href="./archive/00269_001.jpg">
+	<img src="./lowres/00269_001.jpg" alt="Konica KonicaColor VX 100 35mm film box inside" loading="lazy" width="439" height="500">
+</a>
+
 #### [dekuNukem] Lloyds Pharmacy APS Film (ref: c7cf)
 
 ```
@@ -4304,6 +4540,20 @@ UUID  : 44bd7d4688e04d19a958d961c2abc7cf
 
 <a href="./archive/00067_000.jpg">
 	<img src="./lowres/00067_000.jpg" alt="Lloyds Pharmacy APS Film APS film box outside" loading="lazy" width="418" height="500">
+</a>
+
+#### [dekuNukem] Lloyds Pharmacy Colour Film (ref: 074c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2004-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-30   |  Author  : dekuNukem
+UUID  : c4d16975eee44b9185b17cf0c0e4074c
+```
+
+<a href="./archive/00266_000.jpg">
+	<img src="./lowres/00266_000.jpg" alt="Lloyds Pharmacy Colour Film 35mm film box outside" loading="lazy" width="406" height="499">
 </a>
 
 #### [dekuNukem] Lloyds Pharmacy Colour Film (ref: 77d9)
@@ -4339,6 +4589,20 @@ UUID  : 99643a4fc27b4ff298e834fc72970d90
 
 <a href="./archive/00008_001.jpg">
 	<img src="./lowres/00008_001.jpg" alt="Lomography Lomochrome Turquoise 120 film box inside" loading="lazy" width="500" height="298">
+</a>
+
+#### [dekuNukem] Max Spielmann Maxi Color (ref: bf60)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 1997-08 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-08-30   |  Author  : dekuNukem
+UUID  : 0953325be5e54102b7615a7a5f82bf60
+```
+
+<a href="./archive/00268_000.jpg">
+	<img src="./lowres/00268_000.jpg" alt="Max Spielmann Maxi Color 35mm film box outside" loading="lazy" width="453" height="500">
 </a>
 
 #### [dekuNukem] Polaroid 665 (ref: e054)
@@ -4598,6 +4862,27 @@ UUID  : 5844215c1fc74612b6118648b845625c
 
 <a href="./archive/00161_003.jpg">
 	<img src="./lowres/00161_003.jpg" alt="Polaroid Polacolor 679 Pack Film film box inside" loading="lazy" width="351" height="500">
+</a>
+
+#### [dekuNukem] Premium Super XG (ref: 8ccd)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1991-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-30   |  Author  : dekuNukem
+UUID  : 592592a0182a47dda6390cfc4fd18ccd
+```
+
+<a href="./archive/00265_000.jpg">
+	<img src="./lowres/00265_000.jpg" alt="Premium Super XG 35mm film box outside" loading="lazy" width="500" height="453">
+</a>
+
+
+`UUID: 6a35a7c39a2e4083bc5faa53fb5abd4e`↓
+
+<a href="./archive/00265_001.jpg">
+	<img src="./lowres/00265_001.jpg" alt="Premium Super XG 35mm film box inside" loading="lazy" width="500" height="440">
 </a>
 
 #### [dekuNukem] Rollei Infrared (ref: 4f54)
@@ -5218,7 +5503,7 @@ UUID  : e54ce68c797b4846b9aee3f5818ecb58
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     111   
+1     dekuNukem                     138   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     The Compartmentalist          22    

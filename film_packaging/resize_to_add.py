@@ -1,12 +1,12 @@
 import os
 from PIL import Image
 
-MAX_DIMENSION = 6000
+MAX_DIMENSION = 6500
 SIZE_LIMIT_BYTES = 4 * 1024 * 1024  # 4MB
 
 target_dir = './to_add'
 
-image_files = [os.path.join(target_dir, f) for f in os.listdir(target_dir) if f.lower().endswith(('.jpg', '.jpeg'))]
+image_files = [os.path.join(target_dir, f) for f in os.listdir(target_dir) if f.lower().endswith(('.jpg', '.jpeg', ".png"))]
 
 if len(image_files) == 0:
     exit()
