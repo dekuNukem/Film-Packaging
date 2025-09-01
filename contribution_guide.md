@@ -16,7 +16,7 @@ Your film packaging should be:
 	* Not missing significant portions of the box
 * Unique
 	* [Take a look at the archive page](./film_packaging/by_brand.md)
-	* It should be **`NOT exactly the same`** as existing entries
+	* It should be **`NOT exactly the same`** as an existing entry
 	* OR **`in better condition than`** an existing entry so it can be replaced
 
 Feel free to submit if those requirements are met!
@@ -48,7 +48,7 @@ Each box is different, but generally you can:
 ## Scanning
 
 * Scan at 800 / 1200 **DPI** (Dots per inch)
-* JPEG format, 90% - 95% quality.
+* JPEG format, ~90% quality.
 * **Longest side** should have at **least 4000 pixels**.
 
 ------
@@ -76,7 +76,8 @@ You can submit via the means below, I'll review and update once received.
 
 * Zip all your scans
 * Send via [WeTransfer](https://wetransfer.com/) to `skate.huddle-6r@icloud.com`
-	* **Include your nickname/real name/social media handle**!
+	* **Include a name in the comment**!
+	* Nickname/real name/social media handle
 	* Used to credit you in the database
 
 ### Discord
