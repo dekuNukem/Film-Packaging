@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 01 2025
-Unique items: 275
-Total scans : 470
+Unique items: 279
+Total scans : 476
 ```
 
 -----
@@ -40,6 +40,7 @@ Total scans : 470
 - [[1974] GAF Color Slide Film (ref: dea6)](#1974-gaf-color-slide-film-ref-dea6)
 - [[1974] Kodak Kodacolor-X (ref: a4b1)](#1974-kodak-kodacolor-x-ref-a4b1)
 - [[1974] Porst Color N21 (ref: 494a)](#1974-porst-color-n21-ref-494a)
+- [[1974] Kodak Kodacolor-X (ref: 0ce5)](#1974-kodak-kodacolor-x-ref-0ce5)
 - [[1974] Kodak High Speed Ektachrome (ref: be8f)](#1974-kodak-high-speed-ektachrome-ref-be8f)
 - [[1975] Fujifilm Neopan SS Rapid (ref: 9db3)](#1975-fujifilm-neopan-ss-rapid-ref-9db3)
 - [[1975] Kodak Kodacolor-X (ref: 5302)](#1975-kodak-kodacolor-x-ref-5302)
@@ -106,6 +107,7 @@ Total scans : 470
 - [[2001] Agfa ULTRA 50 (ref: 4faa)](#2001-agfa-ultra-50-ref-4faa)
 - [[2001] Fujifilm Fujichrome 64T Type II Professional (ref: 74a1)](#2001-fujifilm-fujichrome-64t-type-ii-professional-ref-74a1)
 - [[2001] Kodak Gold (ref: ea58)](#2001-kodak-gold-ref-ea58)
+- [[2001] Kodak Ektachrome 400X (ref: 5b82)](#2001-kodak-ektachrome-400x-ref-5b82)
 - [[2001] Kodak Värikuvafilmi (ref: f9ff)](#2001-kodak-värikuvafilmi-ref-f9ff)
 - [[2002] Fujifilm Fujicolor Superia (ref: 0683)](#2002-fujifilm-fujicolor-superia-ref-0683)
 - [[2002] Kodak Ektachrome 100 Plus (ref: 5d9f)](#2002-kodak-ektachrome-100-plus-ref-5d9f)
@@ -125,6 +127,7 @@ Total scans : 470
 - [[2005] Fujifilm Superia X-TRA (ref: 0446)](#2005-fujifilm-superia-x-tra-ref-0446)
 - [[2005] Agfa Agfacolor XRG (ref: 689e)](#2005-agfa-agfacolor-xrg-ref-689e)
 - [[2005] Agfa Agfapan APX 100 (ref: e271)](#2005-agfa-agfapan-apx-100-ref-e271)
+- [[2005] Kodak Ektachrome 100 Plus (ref: 0183)](#2005-kodak-ektachrome-100-plus-ref-0183)
 - [[2005] Kodak Ultra (ref: 69a1)](#2005-kodak-ultra-ref-69a1)
 - [[2006] Agfa Agfapan APX 400 (ref: 19bc)](#2006-agfa-agfapan-apx-400-ref-19bc)
 - [[2006] Polaroid 669 (ref: 3566)](#2006-polaroid-669-ref-3566)
@@ -136,6 +139,7 @@ Total scans : 470
 - [[2006] Jessops Diamond Everyday (ref: 67d3)](#2006-jessops-diamond-everyday-ref-67d3)
 - [[2006] Klick APS Film (ref: 4b88)](#2006-klick-aps-film-ref-4b88)
 - [[2006] Polaroid GridFilm (ref: 8deb)](#2006-polaroid-gridfilm-ref-8deb)
+- [[2006] Fujifilm Fujichrome Provia 100F (ref: 1b4b)](#2006-fujifilm-fujichrome-provia-100f-ref-1b4b)
 - [[2007] Klick 400ASA (ref: 8779)](#2007-klick-400asa-ref-8779)
 - [[2007] Fujifilm Velvia 100F (ref: 32d4)](#2007-fujifilm-velvia-100f-ref-32d4)
 - [[2007] Kodak MAX (ref: 2361)](#2007-kodak-max-ref-2361)
@@ -698,6 +702,20 @@ UUID  : e08418889f714c9dbda0858718e0494a
 
 <a href="./archive/00046_001.jpg">
 	<img src="./lowres/00046_001.jpg" alt="Porst Color N21 35mm film box leaflet" loading="lazy" width="500" height="426">
+</a>
+
+#### [1974] Kodak Kodacolor-X (ref: 0ce5)
+
+```
+Format: 126          |  Process : C-22    
+ISO   : 80           |  Expiry  : 1974-09 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-09-01   |  Author  : dekuNukem
+UUID  : 818038affb2c4137a33e5de403510ce5
+```
+
+<a href="./archive/00280_000.jpg">
+	<img src="./lowres/00280_000.jpg" alt="Kodak Kodacolor-X 126 film box outside" loading="lazy" width="500" height="447">
 </a>
 
 #### [1974] Kodak High Speed Ektachrome (ref: be8f)
@@ -2212,6 +2230,27 @@ UUID  : e45118f7bd5e4ae682e5747a81f0ea58
 	<img src="./lowres/00095_001.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="500" height="393">
 </a>
 
+#### [2001] Kodak Ektachrome 400X (ref: 5b82)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 400          |  Expiry  : 2001-11 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-09-01   |  Author  : dekuNukem
+UUID  : 877e28be6f7240898a95616c39a95b82
+```
+
+<a href="./archive/00278_000.jpg">
+	<img src="./lowres/00278_000.jpg" alt="Kodak Ektachrome 400X 120 film box outside" loading="lazy" width="411" height="500">
+</a>
+
+
+`UUID: b17891fbab094a19b7da26c8ac2b40b4`↓
+
+<a href="./archive/00278_001.jpg">
+	<img src="./lowres/00278_001.jpg" alt="Kodak Ektachrome 400X 120 film box inside" loading="lazy" width="411" height="500">
+</a>
+
 #### [2001] Kodak Värikuvafilmi (ref: f9ff)
 
 ```
@@ -2562,6 +2601,27 @@ UUID  : e00a9a59b3d74a1d85ff4331bc73e271
 	<img src="./lowres/00191_000.jpg" alt="Agfa Agfapan APX 100 35mm film box outside" loading="lazy" width="422" height="499">
 </a>
 
+#### [2005] Kodak Ektachrome 100 Plus (ref: 0183)
+
+```
+Format: 220          |  Process : E-6     
+ISO   : 100          |  Expiry  : 2005-08 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-09-01   |  Author  : dekuNukem
+UUID  : 389f8e8d270647eda7b0b7d2ab060183
+```
+
+<a href="./archive/00279_000.jpg">
+	<img src="./lowres/00279_000.jpg" alt="Kodak Ektachrome 100 Plus 220 film box outside" loading="lazy" width="372" height="500">
+</a>
+
+
+`UUID: 8a7459e9d8894fa8872872fea7032a9d`↓
+
+<a href="./archive/00279_001.jpg">
+	<img src="./lowres/00279_001.jpg" alt="Kodak Ektachrome 100 Plus 220 film box inside" loading="lazy" width="500" height="391">
+</a>
+
 #### [2005] Kodak Ultra (ref: 69a1)
 
 ```
@@ -2756,6 +2816,20 @@ UUID  : 4f1aabf29f724c9ea3b2bee414b08deb
 
 <a href="./archive/00031_003.jpg">
 	<img src="./lowres/00031_003.jpg" alt="Polaroid GridFilm Integral Film film box inside" loading="lazy" width="500" height="340">
+</a>
+
+#### [2006] Fujifilm Fujichrome Provia 100F (ref: 1b4b)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 100          |  Expiry  : 2006-12 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-09-01   |  Author  : dekuNukem
+UUID  : c7a59b3560b04f3a93f2ee26d1b21b4b
+```
+
+<a href="./archive/00281_000.jpg">
+	<img src="./lowres/00281_000.jpg" alt="Fujifilm Fujichrome Provia 100F 120 film box outside" loading="lazy" width="400" height="499">
 </a>
 
 #### [2007] Klick 400ASA (ref: 8779)
@@ -5525,7 +5599,7 @@ UUID  : 198465748a5e41f8ad634fffa08a740f
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     138   
+1     dekuNukem                     144   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     The Compartmentalist          22    

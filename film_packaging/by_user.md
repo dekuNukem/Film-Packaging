@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 01 2025
-Unique items: 275
-Total scans : 470
+Unique items: 279
+Total scans : 476
 ```
 
 -----
@@ -214,6 +214,7 @@ Total scans : 470
 - [[dekuNukem] Efiniti UXi Super 200 (ref: 471a)](#dekunukem-efiniti-uxi-super-200-ref-471a)
 - [[dekuNukem] Efke IR 820 (ref: 43c9)](#dekunukem-efke-ir-820-ref-43c9)
 - [[dekuNukem] Fujifilm Fujichrome Professional 100D (ref: 439d)](#dekunukem-fujifilm-fujichrome-professional-100d-ref-439d)
+- [[dekuNukem] Fujifilm Fujichrome Provia 100F (ref: 1b4b)](#dekunukem-fujifilm-fujichrome-provia-100f-ref-1b4b)
 - [[dekuNukem] Fujifilm Fujicolor NPL 160 (ref: d10b)](#dekunukem-fujifilm-fujicolor-npl-160-ref-d10b)
 - [[dekuNukem] Fujifilm Fujicolor Super HR (ref: aaa0)](#dekunukem-fujifilm-fujicolor-super-hr-ref-aaa0)
 - [[dekuNukem] Fujifilm Fujicolor Superia (ref: 0683)](#dekunukem-fujifilm-fujicolor-superia-ref-0683)
@@ -230,8 +231,10 @@ Total scans : 470
 - [[dekuNukem] Klick APS Film (ref: 4b88)](#dekunukem-klick-aps-film-ref-4b88)
 - [[dekuNukem] Klick XD200 (ref: 44d7)](#dekunukem-klick-xd200-ref-44d7)
 - [[dekuNukem] Kodak Advantix Ultra (ref: 566b)](#dekunukem-kodak-advantix-ultra-ref-566b)
+- [[dekuNukem] Kodak Ektachrome 100 Plus (ref: 0183)](#dekunukem-kodak-ektachrome-100-plus-ref-0183)
 - [[dekuNukem] Kodak Ektachrome 100HC (ref: 3ab9)](#dekunukem-kodak-ektachrome-100hc-ref-3ab9)
 - [[dekuNukem] Kodak Ektachrome 100HC (ref: 775a)](#dekunukem-kodak-ektachrome-100hc-ref-775a)
+- [[dekuNukem] Kodak Ektachrome 400X (ref: 5b82)](#dekunukem-kodak-ektachrome-400x-ref-5b82)
 - [[dekuNukem] Kodak Ektachrome 64 (ref: 07c0)](#dekunukem-kodak-ektachrome-64-ref-07c0)
 - [[dekuNukem] Kodak Ektachrome E100VS (ref: a8d3)](#dekunukem-kodak-ektachrome-e100vs-ref-a8d3)
 - [[dekuNukem] Kodak Ektachrome Elite 200 (ref: a391)](#dekunukem-kodak-ektachrome-elite-200-ref-a391)
@@ -243,6 +246,7 @@ Total scans : 470
 - [[dekuNukem] Kodak Kodachrome 64 (ref: 3206)](#dekunukem-kodak-kodachrome-64-ref-3206)
 - [[dekuNukem] Kodak Kodacolor Gold 200 (ref: f368)](#dekunukem-kodak-kodacolor-gold-200-ref-f368)
 - [[dekuNukem] Kodak Kodacolor-X (ref: a4b1)](#dekunukem-kodak-kodacolor-x-ref-a4b1)
+- [[dekuNukem] Kodak Kodacolor-X (ref: 0ce5)](#dekunukem-kodak-kodacolor-x-ref-0ce5)
 - [[dekuNukem] Kodak Kodacolor-X (ref: 5302)](#dekunukem-kodak-kodacolor-x-ref-5302)
 - [[dekuNukem] Kodak Plus-X Pan (ref: f5cc)](#dekunukem-kodak-plus-x-pan-ref-f5cc)
 - [[dekuNukem] Kodak TMAX 100 (ref: b3b1)](#dekunukem-kodak-tmax-100-ref-b3b1)
@@ -3773,6 +3777,20 @@ UUID  : 5dcdd19ddf654415b7eac69183e7439d
 	<img src="./lowres/00032_002.jpg" alt="Fujifilm Fujichrome Professional 100D 120 film box leaflet" loading="lazy" width="305" height="500">
 </a>
 
+#### [dekuNukem] Fujifilm Fujichrome Provia 100F (ref: 1b4b)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 100          |  Expiry  : 2006-12 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-09-01   |  Author  : dekuNukem
+UUID  : c7a59b3560b04f3a93f2ee26d1b21b4b
+```
+
+<a href="./archive/00281_000.jpg">
+	<img src="./lowres/00281_000.jpg" alt="Fujifilm Fujichrome Provia 100F 120 film box outside" loading="lazy" width="400" height="499">
+</a>
+
 #### [dekuNukem] Fujifilm Fujicolor NPL 160 (ref: d10b)
 
 ```
@@ -4081,6 +4099,27 @@ UUID  : 041622f239024ffb8b75c367619a566b
 	<img src="./lowres/00066_000.jpg" alt="Kodak Advantix Ultra APS film box outside" loading="lazy" width="500" height="389">
 </a>
 
+#### [dekuNukem] Kodak Ektachrome 100 Plus (ref: 0183)
+
+```
+Format: 220          |  Process : E-6     
+ISO   : 100          |  Expiry  : 2005-08 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-09-01   |  Author  : dekuNukem
+UUID  : 389f8e8d270647eda7b0b7d2ab060183
+```
+
+<a href="./archive/00279_000.jpg">
+	<img src="./lowres/00279_000.jpg" alt="Kodak Ektachrome 100 Plus 220 film box outside" loading="lazy" width="372" height="500">
+</a>
+
+
+`UUID: 8a7459e9d8894fa8872872fea7032a9d`↓
+
+<a href="./archive/00279_001.jpg">
+	<img src="./lowres/00279_001.jpg" alt="Kodak Ektachrome 100 Plus 220 film box inside" loading="lazy" width="500" height="391">
+</a>
+
 #### [dekuNukem] Kodak Ektachrome 100HC (ref: 3ab9)
 
 ```
@@ -4121,6 +4160,27 @@ UUID  : 064dbfe80ca84ac99329c252bce0775a
 
 <a href="./archive/00276_001.jpg">
 	<img src="./lowres/00276_001.jpg" alt="Kodak Ektachrome 100HC 35mm film box inside" loading="lazy" width="441" height="500">
+</a>
+
+#### [dekuNukem] Kodak Ektachrome 400X (ref: 5b82)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 400          |  Expiry  : 2001-11 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-09-01   |  Author  : dekuNukem
+UUID  : 877e28be6f7240898a95616c39a95b82
+```
+
+<a href="./archive/00278_000.jpg">
+	<img src="./lowres/00278_000.jpg" alt="Kodak Ektachrome 400X 120 film box outside" loading="lazy" width="411" height="500">
+</a>
+
+
+`UUID: b17891fbab094a19b7da26c8ac2b40b4`↓
+
+<a href="./archive/00278_001.jpg">
+	<img src="./lowres/00278_001.jpg" alt="Kodak Ektachrome 400X 120 film box inside" loading="lazy" width="411" height="500">
 </a>
 
 #### [dekuNukem] Kodak Ektachrome 64 (ref: 07c0)
@@ -4359,6 +4419,20 @@ UUID  : 01bfcffd1db54d6eadefbc1442f7a4b1
 
 <a href="./archive/00064_002.jpg">
 	<img src="./lowres/00064_002.jpg" alt="Kodak Kodacolor-X 120 film box leaflet" loading="lazy" width="213" height="499">
+</a>
+
+#### [dekuNukem] Kodak Kodacolor-X (ref: 0ce5)
+
+```
+Format: 126          |  Process : C-22    
+ISO   : 80           |  Expiry  : 1974-09 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-09-01   |  Author  : dekuNukem
+UUID  : 818038affb2c4137a33e5de403510ce5
+```
+
+<a href="./archive/00280_000.jpg">
+	<img src="./lowres/00280_000.jpg" alt="Kodak Kodacolor-X 126 film box outside" loading="lazy" width="500" height="447">
 </a>
 
 #### [dekuNukem] Kodak Kodacolor-X (ref: 5302)
@@ -5525,7 +5599,7 @@ UUID  : e54ce68c797b4846b9aee3f5818ecb58
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     138   
+1     dekuNukem                     144   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     The Compartmentalist          22    

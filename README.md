@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Sep 01 2025
-Unique items: 275
-Total scans : 470
+Unique items: 279
+Total scans : 476
 ```
 
 Or Sort by...
@@ -51,7 +51,7 @@ Or Sort by...
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     138   
+1     dekuNukem                     144   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     The Compartmentalist          22    
@@ -84,6 +84,10 @@ Rank  Username                      Contributions
 ```
 2025-09-01
   - @recycling.film: Fujifilm FP-100C
+  - dekuNukem: Fujifilm Fujichrome Provia 100F
+  - dekuNukem: Kodak Ektachrome 100 Plus
+  - dekuNukem: Kodak Ektachrome 400X
+  - dekuNukem: Kodak Kodacolor-X
 
 2025-08-30
   - dekuNukem: Agfa AgfaColor CT 18

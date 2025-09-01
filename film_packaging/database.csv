@@ -469,3 +469,9 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 276,1,film_box_inside,Kodak,Ektachrome 100HC,35mm,100,E-6,199411,1756513845,d073d7aa36c36fbfdb03a17d80ac4621,3c397dbea68649edb38d6464d6516746,00276_001.jpg,dekuNukem,,Single Pack,36exp
 277,0,film_box_outside,Fujifilm,FP-100C,Pack Film,100,Instant,201501,1756725620,7d4d389d889c7c59f83b83894cad6c8e,9bf3702e732a42adb54727a565645cda,00277_000.jpg,@recycling.film,,Single Pack,10exp
 277,1,film_box_inside,Fujifilm,FP-100C,Pack Film,100,Instant,201501,1756725621,d31caecdb036c6f5d2dcd60b15febabb,bfb832790e754aa0ba98a030969ab95d,00277_001.jpg,@recycling.film,,Single Pack,10exp
+278,0,film_box_outside,Kodak,Ektachrome 400X,120,400,E-6,200111,1756748213,7afefc6b863c1ca99daa226393c43e25,877e28be6f7240898a95616c39a95b82,00278_000.jpg,dekuNukem,,Multi-Pack-5,N/A
+278,1,film_box_inside,Kodak,Ektachrome 400X,120,400,E-6,200111,1756748230,7c598c4cffa860626252a8617404a4bd,b17891fbab094a19b7da26c8ac2b40b4,00278_001.jpg,dekuNukem,,Multi-Pack-5,N/A
+279,0,film_box_outside,Kodak,Ektachrome 100 Plus,220,100,E-6,200508,1756748275,c3c86ab2504b64d0a5c551a67f4528ba,389f8e8d270647eda7b0b7d2ab060183,00279_000.jpg,dekuNukem,,Multi-Pack-5,N/A
+279,1,film_box_inside,Kodak,Ektachrome 100 Plus,220,100,E-6,200508,1756748277,00aba548e576bbd52a4dccb799c2c289,8a7459e9d8894fa8872872fea7032a9d,00279_001.jpg,dekuNukem,,Multi-Pack-5,N/A
+280,0,film_box_outside,Kodak,Kodacolor-X,126,80,C-22,197409,1756748351,7a49f515b92c13fadb124cfbc6cb3821,818038affb2c4137a33e5de403510ce5,00280_000.jpg,dekuNukem,,Single Pack,12exp
+281,0,film_box_outside,Fujifilm,Fujichrome Provia 100F,120,100,E-6,200612,1756748396,76d2bb988d07ec780fe23702e4612fbb,c7a59b3560b04f3a93f2ee26d1b21b4b,00281_000.jpg,dekuNukem,Japanese version?,Multi-Pack-5,N/A
