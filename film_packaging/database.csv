@@ -40,8 +40,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 19,6,film_box_leaflet,Polaroid,PolaBlue 35mm,35mm,8,Instant,199208,1754271891,b47f7ef97e14d914765547787ba526f0,e48473352ab04761b968bdcae19a1ab5,00019_006.jpg,dekuNukem,,Single Pack,12exp
 20,0,film_box_outside,Polaroid,669,Pack Film,80,Instant,200603,1736023886,b0cd45b17c81925263d5d7993a2202a4,bb62de3a22c04f699c780aeae7c83566,00020_000.jpg,dekuNukem,,Single Pack,20exp
 21,0,film_box_outside,Kodak,Gold 200,120,200,C-41,202611,1736023928,5f33dbc02c379946e4359cc9eb88a597,e8aefc10fa0d43cebbac73bdcf10933f,00021_000.jpg,dekuNukem,,Multi-Pack-5,N/A
-22,0,film_box_outside,Fujifilm,Pro 400H,120,400,C-41,201809,1736023971,49a08247ec78404771de7e39ebb6c7a9,0d89ecf11f3c46deb52171aa909566e3,00022_000.jpg,dekuNukem,,Multi-Pack-5,N/A
-23,0,film_box_outside,Fujifilm,Velvia 100F,120,100,E-6,200604,1736024062,8213c32039517c81dada2b71e2aa9700,0fef128c3b17437eb25d5c4f0520f7fb,00023_000.jpg,dekuNukem,,Multi-Pack-5,N/A
+22,0,film_box_outside,Fujifilm,Fujicolor Pro 400H,120,400,C-41,201809,1736023971,49a08247ec78404771de7e39ebb6c7a9,0d89ecf11f3c46deb52171aa909566e3,00022_000.jpg,dekuNukem,,Multi-Pack-5,N/A
+23,0,film_box_outside,Fujifilm,Fujichrome Velvia 100F,120,100,E-6,200604,1736024062,8213c32039517c81dada2b71e2aa9700,0fef128c3b17437eb25d5c4f0520f7fb,00023_000.jpg,dekuNukem,,Multi-Pack-5,N/A
 24,0,film_box_outside,Kodak,Kodacolor-X,126,80,C-22,197505,1736024127,1590b8adf1455a9ffebc900f7ac7d11a,5a3d2ba8ff7649c9b3450d7069445302,00024_000.jpg,dekuNukem,,Single Pack,20exp
 25,0,film_box_outside,Kodak,Ektachrome 64,110,64,Unknown,197910,1736024383,1ae62f8e86e136b5c71afe68b8defa69,8131d8c6fbf14016be9c17a2586b07c0,00025_000.jpg,dekuNukem,,Single Pack,20exp
 26,0,film_box_outside,Kodak,Kodachrome 64,110,64,K-14,197910,1736024463,0d0fd5d7580c1e347aaa9649dd41c3b4,68c945b76fc14ab699b944a3c7b93145,00026_000.jpg,dekuNukem,,Single Pack,20exp
@@ -105,16 +105,16 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 52,0,film_box_outside,Kodak,Ektachrome 200,35mm,200,E-6,199210,1738666510,79c7448cdff749dc1e8d624091326c8e,7d8346073bbe4d6a84e57cc2bb28b21e,00052_000.jpg,b0baspace,,Single Pack,36exp
 52,1,film_box_leaflet,Kodak,Ektachrome 200,35mm,200,E-6,199210,1738666514,577319e12485b0ac53ad68f0bf5008a8,cbae471aa4184cbeabc5b1f8b49f8943,00052_001.jpg,b0baspace,,Single Pack,36exp
 52,2,film_box_leaflet,Kodak,Ektachrome 200,35mm,200,E-6,199210,1738666518,1d647ed12e669816e2427340c3c4b382,c6c1d49626e14661a700da5b26e07ca8,00052_002.jpg,b0baspace,,Single Pack,36exp
-53,0,film_box_outside,Fujifilm,NPS 160,35mm,160,C-41,200308,1738666571,2fe5f5494ea53c47ccfc5842e22b5f0c,576142521c2f4fe5abc387032bcc5e85,00053_000.jpg,b0baspace,,Single Pack,36exp
-53,1,film_box_inside,Fujifilm,NPS 160,35mm,160,C-41,200308,1738666573,716cc556f2d4c05cf3aa13bc0a12ebf1,a11cf7e8abea41a8854da816157269c4,00053_001.jpg,b0baspace,,Single Pack,36exp
+53,0,film_box_outside,Fujifilm,Fujicolor NPS 160,35mm,160,C-41,200308,1738666571,2fe5f5494ea53c47ccfc5842e22b5f0c,576142521c2f4fe5abc387032bcc5e85,00053_000.jpg,b0baspace,,Single Pack,36exp
+53,1,film_box_inside,Fujifilm,Fujicolor NPS 160,35mm,160,C-41,200308,1738666573,716cc556f2d4c05cf3aa13bc0a12ebf1,a11cf7e8abea41a8854da816157269c4,00053_001.jpg,b0baspace,,Single Pack,36exp
 54,0,film_box_outside,GAF,Color Slide Film,126,64,AR-1,197401,1738666701,2aa9c283a4fe5958e3d9faa7aedd746e,c426ea17398c4c549c6a2720103adea6,00054_000.jpg,b0baspace,,Single Pack,20exp
 54,1,film_box_leaflet,GAF,Color Slide Film,126,64,AR-1,197401,1738666704,1cdf0ec6f40a3a84cf002aa5e6aad8f1,f8987f712bca4daaae3f732500332332,00054_001.jpg,b0baspace,,Single Pack,20exp
 54,2,film_box_leaflet,GAF,Color Slide Film,126,64,AR-1,197401,1738666712,f27b881e2e7cbd67ac8fd04b3dfd29bf,02c9a3b0b9f547c4ab3cabb2d1173fdf,00054_002.jpg,b0baspace,,Single Pack,20exp
 54,3,film_box_processing_envelope,GAF,Color Slide Film,126,64,E-6,197401,1738666715,b6a970a887b41d0c86f4dc791f36ccc7,a332a7492f2b4a708c8a0ead5b9af986,00054_003.jpg,b0baspace,,Single Pack,20exp
 54,4,film_box_processing_envelope,GAF,Color Slide Film,126,64,E-6,197401,1738666720,0edf8ea5072e53d2f672b4bc72f7f7ac,dd9347600c9a47299504239d1038f0dd,00054_004.jpg,b0baspace,,Single Pack,20exp
 54,5,film_box_processing_envelope,GAF,Color Slide Film,126,64,E-6,197401,1738666725,11f70dda11017d8dfa2fee782d76e230,90cc6194552d42dd873d9af54a9bc283,00054_005.jpg,b0baspace,,Single Pack,20exp
-55,0,film_box_outside,Fujifilm,Provia 100F,35mm,100,E-6,202009,1740175404,11a02661d9dfda0ff824e02e1abacdf9,a3603dbdd8ca49b893c8ce2bc76f356d,00055_000.jpg,@seklerek,,Single Pack,36exp
-56,0,film_box_outside,Fujifilm,Velvia 100F,35mm,100,E-6,200703,1740175436,e855ec9f9e45b8d363b7a6fffb8e6d00,ce5c1d786286427ba5633091b06432d4,00056_000.jpg,@seklerek,,Single Pack,36exp
+55,0,film_box_outside,Fujifilm,Fujichrome Provia 100F,35mm,100,E-6,202009,1740175404,11a02661d9dfda0ff824e02e1abacdf9,a3603dbdd8ca49b893c8ce2bc76f356d,00055_000.jpg,@seklerek,,Single Pack,36exp
+56,0,film_box_outside,Fujifilm,Fujichrome Velvia 100F,35mm,100,E-6,200703,1740175436,e855ec9f9e45b8d363b7a6fffb8e6d00,ce5c1d786286427ba5633091b06432d4,00056_000.jpg,@seklerek,,Single Pack,36exp
 57,0,film_box_outside,Alien Film,5222/XX,35mm,250,BW,202406,1748116820,7e12b1520d94a257ab94ae5e9ba8f64d,9984ed6c13cd4be496e7e4b58e313e49,00057_000.jpg,dekuNukem,,Single Pack,36exp
 58,0,film_box_outside,Kentmere,PAN 400,35mm,400,BW,202609,1748116856,353c31068a9fe6d21d1d75fa71f1b9ea,e876f866f1e9430494356ad098c7d223,00058_000.jpg,dekuNukem,,Single Pack,36exp
 58,1,film_box_inside,Kentmere,PAN 400,35mm,400,BW,202609,1748116859,65e0277a51cb91495e6fe34b0b1f05e3,ecc653f10f124afe9b4225edb7e06587,00058_001.jpg,dekuNukem,,Single Pack,36exp
@@ -155,7 +155,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 85,0,film_box_outside,CineStill,800T,35mm,800,C-41,202609,1753147336,0ba99732b61ff1a127b414c76150da29,81978ca6f6d048b3a759dffdb80fb3ff,00085_000.jpg,@SirBrentsworth,,Single Pack,36exp
 85,1,film_box_inside,CineStill,800T,35mm,800,C-41,202609,1753147346,8f60346377c883e78f43fa3d50fdbb0c,fbd9b946fd4d46f8a45a46112dcd16ae,00085_001.jpg,@SirBrentsworth,,Single Pack,36exp
 86,0,film_box_outside,Kodak,Gold,35mm,200,C-41,202704,1753147686,968a9e9686fc431f793eb296862fbbef,856af2ca15fd4a0bad0df6eb29a2855e,00086_000.jpg,@SirBrentsworth,,Multi-Pack-3,36exp
-87,0,film_box_outside,Fujifilm,Superia Reala,35mm,100,C-41,200704,1753717134,b158259530002d50f2cd627759efab94,bab5fa204b25431a9872c4ce8e9aa7de,00087_000.jpg,@recycling.film,,Single Pack,36exp
+87,0,film_box_outside,Fujifilm,Fujicolor Superia Reala,35mm,100,C-41,200704,1753717134,b158259530002d50f2cd627759efab94,bab5fa204b25431a9872c4ce8e9aa7de,00087_000.jpg,@recycling.film,,Single Pack,36exp
 88,0,film_box_outside,Kodak,Portra 800,35mm,800,C-41,202506,1753717168,da2ad339cc4f9bd279844809c2ec7576,7ebac9d7fb8c4ff9b7fbabcaec1d7d65,00088_000.jpg,@recycling.film,,Single Pack,36exp
 89,0,film_box_outside,Kodak,Portra 160,35mm,160,C-41,201308,1753717208,172b90d1c20e0d94009226ce47ce704b,9131fb90db70475dbad5f63f1448ce56,00089_000.jpg,@recycling.film,,Multi-Pack-5,36exp
 90,0,film_box_outside,Ilford,HP5 Plus,35mm,400,BW,202208,1753717259,b5bba9a78992d38ff924146a1c7f8434,fcbc3377fa3d4ca9b58779f86ed7c725,00090_000.jpg,@recycling.film,,Single Pack,36exp
@@ -205,8 +205,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 114,0,film_box_outside,Kodak,Ektachrome Elite 100,35mm,100,E-6,199511,1753921168,866cafae699ccb031c49a1295e583f91,175cf2b69fe3413093d9d7f9ea0d26ef,00114_000.jpg,toader,,Single Pack,24exp
 114,1,film_box_inside,Kodak,Ektachrome Elite 100,35mm,100,E-6,199511,1753921170,7b1dd6ccf0d9ecdde69b9dca34977c9c,89d1b19f3e364f55adc2523a07ed9ddb,00114_001.jpg,toader,,Single Pack,24exp
 115,0,film_box_outside,Agfa,Agfapan Rapid,35mm,40,BW,196902,1753984184,c271faf0fbbe18f8c552e3424e0757b5,b2470c1734d344698f6e1c01eaa85e7b,00115_000.jpg,The Compartmentalist,,Single Pack,12exp
-116,0,film_box_outside,Fujifilm,Sensia,35mm,100,E-6,199801,1753984208,9a3a461d947d1797d9082e839572aa9c,d4fdfa0d829f4fcab984381a31f2a59b,00116_000.jpg,The Compartmentalist,,Single Pack,36exp
-116,1,film_box_inside,Fujifilm,Sensia,35mm,100,E-6,199801,1753984212,a41aa55b1c6c063eb0077e68dc0cc9ac,4f21cef93ed3401caed74619ffa2b595,00116_001.jpg,The Compartmentalist,,Single Pack,36exp
+116,0,film_box_outside,Fujifilm,Fujichrome Sensia,35mm,100,E-6,199801,1753984208,9a3a461d947d1797d9082e839572aa9c,d4fdfa0d829f4fcab984381a31f2a59b,00116_000.jpg,The Compartmentalist,,Single Pack,36exp
+116,1,film_box_inside,Fujifilm,Fujichrome Sensia,35mm,100,E-6,199801,1753984212,a41aa55b1c6c063eb0077e68dc0cc9ac,4f21cef93ed3401caed74619ffa2b595,00116_001.jpg,The Compartmentalist,,Single Pack,36exp
 117,0,film_box_outside,Fujifilm,Fujicolor Professional,35mm,100,C-41,201202,1753984324,fcd1d1e1fdf374f9f13af00cdd13c35c,cb85af928a7f454e9673960e22b428da,00117_000.jpg,The Compartmentalist,,Single Pack,24exp
 118,0,film_box_outside,Fujifilm,Neopan SS Rapid,35mm,100,BW,197502,1753984391,57713c63518f11e20c1f915d5c95d2ae,1c541b4c837944d788eab8986f349db3,00118_000.jpg,The Compartmentalist,,Single Pack,12exp
 119,0,film_box_outside,Kodak,Ektachrome-X,35mm,64,E-4,197306,1753984526,d6ad79e59ac09fcb76ddd952b3280cb4,6a81b1428cfe46c8b9cf187fb672aec5,00119_000.jpg,The Compartmentalist,,Single Pack,20exp
@@ -288,9 +288,9 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 162,0,film_box_outside,Minolta,Minolta 16 Color Film For Prints,16mm,100,C-41,199206,1754377746,9b437d6cfc11f96bb5d0ff4c35071636,a2cfc71ac0e24ea58f4e3350423aa2ff,00162_000.jpg,The Compartmentalist,,Single Pack,20exp
 163,0,film_box_outside,ORWO,NP 20 SL,35mm,80,BW,199212,1754377817,44a5c7123fd19e04c598191d99698c07,9791c2074fdd4340a1463312ed77b16c,00163_000.jpg,The Compartmentalist,,Single Pack,12exp
 164,0,film_box_outside,Hope Film,Bubble,35mm,200,C-41,202612,1754471755,4632bc00c996d5d90c28cd2147b86e81,b09848420a1a4d76b099d82d76bc41f4,00164_000.jpg,@Hol.m35,,Single Pack,24exp
-165,0,film_box_outside,Fujifilm,Superia X-TRA,35mm,400,C-41,202601,1754558012,ce1c94e5185543c9ba077787401f9157,64b5e2e7f9a841d2a99c8f1bd8766b8a,00165_000.jpg,@Hol.m35,,Single Pack,36exp
+165,0,film_box_outside,Fujifilm,Fujicolor Superia X-TRA,35mm,400,C-41,202601,1754558012,ce1c94e5185543c9ba077787401f9157,64b5e2e7f9a841d2a99c8f1bd8766b8a,00165_000.jpg,@Hol.m35,,Single Pack,36exp
 166,0,film_box_outside,Boots,Colour Print Film,35mm,200,C-41,201302,1754577851,96029452cd95be1af4030d008117585f,bd601340027a4c9daa7e219b414fa30f,00166_000.jpg,@Hol.m35,,Single Pack,36exp
-167,0,film_box_outside,Fujifilm,Provia 100F,35mm,100,E-6,202610,1754578311,c2200d932ac8d8b894ce65cc1bd188d5,480a75f9978b4fba84c81a8a9e95df27,00167_000.jpg,The Compartmentalist,,Single Pack,36exp
+167,0,film_box_outside,Fujifilm,Fujichrome Provia 100F,35mm,100,E-6,202610,1754578311,c2200d932ac8d8b894ce65cc1bd188d5,480a75f9978b4fba84c81a8a9e95df27,00167_000.jpg,The Compartmentalist,,Single Pack,36exp
 168,0,film_box_outside,Reto,Amber D400,35mm,400,C-41,202412,1754593829,a596f09ea6b6ac79938297f7402b89c4,075938ec54de4c4bbee63671e4c208ad,00168_000.jpg,TheSelousScout,,Single Pack,27exp
 169,0,film_box_outside,Rollei,Retro 80S,35mm,80,BW,202509,1754665604,b3d5a20967e30a6314a03273205e61ed,406a06d6d4df49cfa27378242ef6e23d,00169_000.jpg,Pelicram,,Single Pack,36exp
 169,1,film_box_inside,Rollei,Retro 80S,35mm,80,BW,202509,1754665606,cfdbfc707dffb07dfc00a48700d0a81c,1dea328c77d74bf19135dc04194df311,00169_001.jpg,Pelicram,,Single Pack,36exp
@@ -336,11 +336,11 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 195,0,film_box_outside,Reflx Lab,Pro 100,220,100,C-41,202712,1755534652,fdd9f12b81ff00bd53fbbcd343621de0,f7bc85a093744f3084883876ecc51311,00195_000.jpg,lt_col_tall,,Single Pack,N/A
 196,0,film_box_outside,CatLABS,X Film 320 Pro,120,320,BW,202612,1755545267,14af431cb16cbc69e0a0ee908ea7286a,b5423225b6b2496eaf713a5a38731c69,00196_000.jpg,lt_col_tall,,Single Pack,N/A
 196,1,film_box_outside,CatLABS,X Film 320 Pro,120,320,BW,202612,1755545269,fd243c668bdbf74941ae7ea6fc7bee72,3fa90851d420466183f638184ce9a49a,00196_001.jpg,lt_col_tall,,Single Pack,N/A
-197,0,film_box_outside,Fujifilm,Superia X-TRA,35mm,400,C-41,200304,1755545367,daf8223be0f4ef2171db0702190700b6,89750d8a18fe4e238c76b97b4578713b,00197_000.jpg,@recycling.film,,Single Pack,24exp
-197,1,film_box_inside,Fujifilm,Superia X-TRA,35mm,400,C-41,200304,1755545369,f5008937df9315d7962945bce472aa1c,560832b2cfff4e60930fd3116f1ccffc,00197_001.jpg,@recycling.film,,Single Pack,24exp
+197,0,film_box_outside,Fujifilm,Fujicolor Superia X-TRA,35mm,400,C-41,200304,1755545367,daf8223be0f4ef2171db0702190700b6,89750d8a18fe4e238c76b97b4578713b,00197_000.jpg,@recycling.film,,Single Pack,24exp
+197,1,film_box_inside,Fujifilm,Fujicolor Superia X-TRA,35mm,400,C-41,200304,1755545369,f5008937df9315d7962945bce472aa1c,560832b2cfff4e60930fd3116f1ccffc,00197_001.jpg,@recycling.film,,Single Pack,24exp
 198,0,film_box_outside,Agfa,APX 25,35mm,25,BW,Unknown,1755545698,27ad57aa3ca522d612b6ac738705e752,4ef7e8e28d2c4c589d24d9e12135805f,00198_000.jpg,@recycling.film,,Single Pack,36exp
 198,1,film_box_inside,Agfa,APX 25,35mm,25,BW,Unknown,1755545700,16a2ba4bbbd976ad58844c424c1a10df,757b2d5a25cc41aab1220ff909f90fb0,00198_001.jpg,@recycling.film,,Single Pack,36exp
-199,0,film_box_outside,Fujifilm,Superia,35mm,200,C-41,200906,1755545868,2d96e359b279ebe6410019d3c0a203fa,a57061210f17463fae293851f2130d8e,00199_000.jpg,@recycling.film,,Single Pack,36exp
+199,0,film_box_outside,Fujifilm,Fujicolor Superia,35mm,200,C-41,200906,1755545868,2d96e359b279ebe6410019d3c0a203fa,a57061210f17463fae293851f2130d8e,00199_000.jpg,@recycling.film,,Single Pack,36exp
 200,0,film_box_outside,Kodak,Portra 400,35mm,400,C-41,201406,1755545893,79c457df3928692908e5d2876e29c3d3,5bdddffe29bd464cab4630d85485cf9c,00200_000.jpg,@recycling.film,,Multi-Pack-5,36exp
 201,0,film_box_outside,Kodak,UltraMax,35mm,400,C-41,202607,1755545921,f022a384a1f1742610c0b94f0c0e0ab1,d14bbf440f3a4ac9aa4169c8bba7e4ad,00201_000.jpg,@recycling.film,,Single Pack,24exp
 202,0,film_box_outside,Fujifilm,Fujicolor C200,35mm,200,C-41,202003,1755545969,d79572d5d8db840ed9eb5f7c63c0b151,271054727291471392db72d5556f2ff8,00202_000.jpg,@recycling.film,,Single Pack,36exp
@@ -353,8 +353,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 207,0,film_box_outside,Illingworth's,Fleet H&D,6.5x9cm,Unknown,BW,Unknown,1755623225,45cdd5811d134b09da38f20647df15ba,bec584ee60f3462381719b3e908f54fe,00207_000.jpg,@ellafridalindblom,,Single Pack,12 Sheets
 208,0,film_box_outside,Defender,Portrait HGS,12x16.5cm,Unknown,BW,Unknown,1755623333,55b76f00c9fba48b3bf2ee8f57cd4298,24c9c3108671446dae824d00093fd69c,00208_000.jpg,@ellafridalindblom,,Single Pack,12 Sheets
 208,1,film_box_outside,Defender,Portrait HGS,12x16.5cm,Unknown,BW,Unknown,1755623384,0a133bf936b2c3b183e7dcd9b929c064,5782545b9d15462e93943f2b62f605f5,00208_001.jpg,@ellafridalindblom,,Single Pack,12 Sheets
-209,0,film_box_outside,Fujifilm,Superia X-TRA,120,400,C-41,200406,1755623514,eb660227bcc16107e765d9145af7e16c,9e774f36e4d34b3c81a30a5b44da7980,00209_000.jpg,@ellafridalindblom,,Single Pack,N/A
-209,1,film_box_inside,Fujifilm,Superia X-TRA,120,400,C-41,200406,1755623518,9521e9d2ef6161e1b3b1a0d0e33456f9,434f763fea0d4c4c9dc5aeb2eb10e8aa,00209_001.jpg,@ellafridalindblom,,Single Pack,N/A
+209,0,film_box_outside,Fujifilm,Fujicolor Superia X-TRA,120,400,C-41,200406,1755623514,eb660227bcc16107e765d9145af7e16c,9e774f36e4d34b3c81a30a5b44da7980,00209_000.jpg,@ellafridalindblom,,Single Pack,N/A
+209,1,film_box_inside,Fujifilm,Fujicolor Superia X-TRA,120,400,C-41,200406,1755623518,9521e9d2ef6161e1b3b1a0d0e33456f9,434f763fea0d4c4c9dc5aeb2eb10e8aa,00209_001.jpg,@ellafridalindblom,,Single Pack,N/A
 210,0,film_box_outside,Building 2,200T,35mm,200,ECN-2,202106,1755689969,b71e1169fee584c0770e5b40c5900614,4e05091526684626b09f6f957dd9c025,00210_000.jpg,@photos.by.qi,,Single Pack,36exp
 211,0,film_box_outside,Building 2,250D,35mm,250,ECN-2,202012,1755690284,8da50ad5b5d6afb4b68dd938e9a1910d,693d77ba06bc4823bd4f43112d957d4f,00211_000.jpg,@photos.by.qi,,Single Pack,36exp
 212,0,film_box_outside,Building 2,500T,35mm,500,ECN-2,202106,1755690389,09917e4970780fd200cff3b6ec2f280e,2e9e8e40ac154f4f9ac497837e2470d9,00212_000.jpg,@photos.by.qi,,Single Pack,36exp
@@ -374,10 +374,10 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 226,0,film_box_outside,Lomography,Lomochrome Purple,35mm,100,C-41,202208,1755691070,edfa79c6016c88fb612ac654a21914e6,5589454d652e4771b024a9901acb8b00,00226_000.jpg,@photos.by.qi,,Single Pack,36exp
 227,0,film_box_outside,Space Cat Film,Mars 250D,35mm,250,C-41,Unknown,1755691173,6a327fe56881299fe3763f67b832f8b2,1595b93966854178a03bc6d0de705027,00227_000.jpg,@photos.by.qi,,Single Pack,36exp
 228,0,film_box_outside,Walkens,Speed 400,35mm,400,C-41,Unknown,1755691243,508685fceb0f63a7cd6b384581bbdb23,198465748a5e41f8ad634fffa08a740f,00228_000.jpg,@photos.by.qi,,Single Pack,36exp
-229,0,film_box_outside,Fujifilm,Superia,35mm,200,C-41,200307,1755691930,9805964f8c78cf5b9d7e1de8666de067,2acd2ce4aefb44b4a4c72b130edb9272,00229_000.jpg,@photos.by.qi,,Multi-Pack-2,36exp
-230,0,film_box_outside,Fujifilm,Superia Reala,35mm,100,C-41,201004,1755691976,b14b75b5454e34f76159121e0ba5f89f,47af4374c1474eb3b20cb1894b43a624,00230_000.jpg,@photos.by.qi,,Single Pack,36exp
-231,0,film_box_outside,Fujifilm,Superia X-TRA,35mm,400,C-41,202408,1755692018,55967fb50db51a3d470bca77900f490d,de6b17f5230e4052b6b166977a418923,00231_000.jpg,@photos.by.qi,,Multi-Pack-2,36exp
-232,0,film_box_outside,Fujifilm,Superia X-TRA,35mm,400,C-41,200502,1755692063,9e3dac3a2c93f4571762fec0b53cf3a3,16351828954846229e7a4ca1193d0446,00232_000.jpg,@photos.by.qi,,Multi-Pack-3,24exp
+229,0,film_box_outside,Fujifilm,Fujicolor Superia,35mm,200,C-41,200307,1755691930,9805964f8c78cf5b9d7e1de8666de067,2acd2ce4aefb44b4a4c72b130edb9272,00229_000.jpg,@photos.by.qi,,Multi-Pack-2,36exp
+230,0,film_box_outside,Fujifilm,Fujicolor Superia Reala,35mm,100,C-41,201004,1755691976,b14b75b5454e34f76159121e0ba5f89f,47af4374c1474eb3b20cb1894b43a624,00230_000.jpg,@photos.by.qi,,Single Pack,36exp
+231,0,film_box_outside,Fujifilm,Fujicolor Superia X-TRA,35mm,400,C-41,202408,1755692018,55967fb50db51a3d470bca77900f490d,de6b17f5230e4052b6b166977a418923,00231_000.jpg,@photos.by.qi,,Multi-Pack-2,36exp
+232,0,film_box_outside,Fujifilm,Fujicolor Superia X-TRA,35mm,400,C-41,200502,1755692063,9e3dac3a2c93f4571762fec0b53cf3a3,16351828954846229e7a4ca1193d0446,00232_000.jpg,@photos.by.qi,,Multi-Pack-3,24exp
 233,0,film_box_outside,Kodak,Gold,35mm,200,C-41,202306,1755692093,7f60824f9a7faf5450641af3901854dc,e0db5edb5d3046e99d019b901088d48d,00233_000.jpg,@photos.by.qi,,Single Pack,36exp
 234,0,film_box_outside,Kodak,MAX,35mm,400,C-41,200703,1755692221,a2a9f55c887fcbf0f319ed4b72c4ca17,5d0c054ebc17452397de86653bf42361,00234_000.jpg,@photos.by.qi,,Multi-Pack-3,24exp
 235,0,film_box_outside,Kodak,UltraMax,35mm,400,C-41,202303,1755692300,e566c88508a1a9c274a8183ba9cbc277,1a68334cdfc146b98a7fa95672e33b23,00235_000.jpg,@photos.by.qi,,Multi-Pack-3,24exp
@@ -405,14 +405,14 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 245,0,film_box_outside,Kodak,Portra 400,35mm,400,C-41,202610,1755703966,9db645dc47490d4011ab21e4279c1ce5,848f67976c48465a8c245ba2a4d0c869,00245_000.jpg,@photos.by.qi,,Multi-Pack-5,36exp
 246,0,film_box_outside,Kodak,Portra 400,120,400,C-41,202408,1755703995,a7f8ffa2ccea0e7e6b508aa833cc8c6a,12ee41c6f8fe493fbda516802e039f18,00246_000.jpg,@photos.by.qi,,Multi-Pack-5,N/A
 246,1,film_box_outside,Kodak,Portra 400,120,400,C-41,202408,1755703997,497436f93e6aa48b8b4138b45248e4aa,6407fec85c4344a1bbc2ae930e51ae8e,00246_001.jpg,@photos.by.qi,,Multi-Pack-5,N/A
-247,0,film_box_outside,Fujifilm,Pro 400H,220,400,C-41,200710,1755730112,383261069f343cd566ddb9261cf2da2e,fae60be8fc0745c3965f24b1778e48ed,00247_000.jpg,@photos.by.qi,,Multi-Pack-5,N/A
-247,1,film_box_outside,Fujifilm,Pro 400H,220,400,C-41,200710,1755730114,b98f9e83a48b407aa896dcc7ada47408,a305e39dc3f041d1bf59e7dc2504835c,00247_001.jpg,@photos.by.qi,,Multi-Pack-5,N/A
-247,2,film_box_inside,Fujifilm,Pro 400H,220,400,C-41,200710,1755730118,ad8d1f6919fdeb7615a66f6d331bb328,a10a19f268084ce881ab55f247f1035f,00247_002.jpg,@photos.by.qi,,Multi-Pack-5,N/A
-248,0,film_box_outside,Fujifilm,Provia 400X,120,400,E-6,201412,1755730195,32a08ab0115d4c893596d808a46aa9f4,3a84e3b505004d069104ff0042d03c08,00248_000.jpg,@photos.by.qi,,Multi-Pack-5,N/A
-248,1,film_box_outside,Fujifilm,Provia 400X,120,400,E-6,201412,1755730197,8852c8881d0b9605a6b030dbf0b18567,db24477938104d81beddac492c8d637e,00248_001.jpg,@photos.by.qi,,Multi-Pack-5,N/A
-249,0,film_box_outside,Fujifilm,Pro 400H,35mm,400,C-41,200901,1755730274,3934dc80e49a8031c1ddd3c8c527550b,9934366ea7a04b65b3c300352fa8dc37,00249_000.jpg,@photos.by.qi,,Single Pack,36exp
-249,1,film_box_inside,Fujifilm,Pro 400H,35mm,400,C-41,200901,1755730304,d482755c15c6501556f91202f81c9329,df9f856987284644858ab4590872c133,00249_001.jpg,@photos.by.qi,,Single Pack,36exp
-250,0,film_box_outside,Fujifilm,Pro 400H,35mm,400,C-41,202211,1755730338,bf266d385e4c8c5c52bf1fe9ed301f87,3167bab31b134176a6d637dc1491ff20,00250_000.jpg,@photos.by.qi,,Single Pack,36exp
+247,0,film_box_outside,Fujifilm,Fujicolor Pro 400H,220,400,C-41,200710,1755730112,383261069f343cd566ddb9261cf2da2e,fae60be8fc0745c3965f24b1778e48ed,00247_000.jpg,@photos.by.qi,,Multi-Pack-5,N/A
+247,1,film_box_outside,Fujifilm,Fujicolor Pro 400H,220,400,C-41,200710,1755730114,b98f9e83a48b407aa896dcc7ada47408,a305e39dc3f041d1bf59e7dc2504835c,00247_001.jpg,@photos.by.qi,,Multi-Pack-5,N/A
+247,2,film_box_inside,Fujifilm,Fujicolor Pro 400H,220,400,C-41,200710,1755730118,ad8d1f6919fdeb7615a66f6d331bb328,a10a19f268084ce881ab55f247f1035f,00247_002.jpg,@photos.by.qi,,Multi-Pack-5,N/A
+248,0,film_box_outside,Fujifilm,Fujichrome Provia 400X,120,400,E-6,201412,1755730195,32a08ab0115d4c893596d808a46aa9f4,3a84e3b505004d069104ff0042d03c08,00248_000.jpg,@photos.by.qi,,Multi-Pack-5,N/A
+248,1,film_box_outside,Fujifilm,Fujichrome Provia 400X,120,400,E-6,201412,1755730197,8852c8881d0b9605a6b030dbf0b18567,db24477938104d81beddac492c8d637e,00248_001.jpg,@photos.by.qi,,Multi-Pack-5,N/A
+249,0,film_box_outside,Fujifilm,Fujicolor Pro 400H,35mm,400,C-41,200901,1755730274,3934dc80e49a8031c1ddd3c8c527550b,9934366ea7a04b65b3c300352fa8dc37,00249_000.jpg,@photos.by.qi,,Single Pack,36exp
+249,1,film_box_inside,Fujifilm,Fujicolor Pro 400H,35mm,400,C-41,200901,1755730304,d482755c15c6501556f91202f81c9329,df9f856987284644858ab4590872c133,00249_001.jpg,@photos.by.qi,,Single Pack,36exp
+250,0,film_box_outside,Fujifilm,Fujicolor Pro 400H,35mm,400,C-41,202211,1755730338,bf266d385e4c8c5c52bf1fe9ed301f87,3167bab31b134176a6d637dc1491ff20,00250_000.jpg,@photos.by.qi,,Single Pack,36exp
 251,0,film_box_outside,Kodak,Ektar 100,120,100,C-41,202204,1755730441,bc1d30e53cc5bb8dcf52a17889635048,22bb063ec2ca4f2ea5b9f4be4dce4631,00251_000.jpg,@photos.by.qi,,Multi-Pack-5,N/A
 251,1,film_box_outside,Kodak,Ektar 100,120,100,C-41,202204,1755730442,14ec90e21199e4829fc02ac57e865bcd,5ee59977ab8f4902b82e22de1767d131,00251_001.jpg,@photos.by.qi,,Multi-Pack-5,N/A
 252,0,film_box_outside,Kodak,Gold,35mm,200,C-41,202409,1755730494,604fe1eb21d466692b0688da4395424b,99836199940848569bab40a438546587,00252_000.jpg,@photos.by.qi,,Single Pack,36exp

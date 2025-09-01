@@ -76,13 +76,24 @@ Total scans : 476
 - [Fujifilm Fujichrome 64T Type II Professional (ref: 74a1)](#fujifilm-fujichrome-64t-type-ii-professional-ref-74a1)
 - [Fujifilm Fujichrome Professional 100D (ref: 439d)](#fujifilm-fujichrome-professional-100d-ref-439d)
 - [Fujifilm Fujichrome Provia 100F (ref: 1b4b)](#fujifilm-fujichrome-provia-100f-ref-1b4b)
+- [Fujifilm Fujichrome Provia 100F (ref: 356d)](#fujifilm-fujichrome-provia-100f-ref-356d)
+- [Fujifilm Fujichrome Provia 100F (ref: df27)](#fujifilm-fujichrome-provia-100f-ref-df27)
+- [Fujifilm Fujichrome Provia 400X (ref: 3c08)](#fujifilm-fujichrome-provia-400x-ref-3c08)
+- [Fujifilm Fujichrome Sensia (ref: a59b)](#fujifilm-fujichrome-sensia-ref-a59b)
 - [Fujifilm Fujichrome Velvia (ref: 3182)](#fujifilm-fujichrome-velvia-ref-3182)
+- [Fujifilm Fujichrome Velvia 100F (ref: f7fb)](#fujifilm-fujichrome-velvia-100f-ref-f7fb)
+- [Fujifilm Fujichrome Velvia 100F (ref: 32d4)](#fujifilm-fujichrome-velvia-100f-ref-32d4)
 - [Fujifilm Fujicolor 100 (ref: 013b)](#fujifilm-fujicolor-100-ref-013b)
 - [Fujifilm Fujicolor 100 (ref: b3c9)](#fujifilm-fujicolor-100-ref-b3c9)
 - [Fujifilm Fujicolor C200 (ref: 2ff8)](#fujifilm-fujicolor-c200-ref-2ff8)
 - [Fujifilm Fujicolor C200 (ref: a0de)](#fujifilm-fujicolor-c200-ref-a0de)
 - [Fujifilm Fujicolor NPL 160 (ref: d10b)](#fujifilm-fujicolor-npl-160-ref-d10b)
+- [Fujifilm Fujicolor NPS 160 (ref: 5e85)](#fujifilm-fujicolor-nps-160-ref-5e85)
 - [Fujifilm Fujicolor Natura 1600 (ref: 2e06)](#fujifilm-fujicolor-natura-1600-ref-2e06)
+- [Fujifilm Fujicolor Pro 400H (ref: 48ed)](#fujifilm-fujicolor-pro-400h-ref-48ed)
+- [Fujifilm Fujicolor Pro 400H (ref: dc37)](#fujifilm-fujicolor-pro-400h-ref-dc37)
+- [Fujifilm Fujicolor Pro 400H (ref: 66e3)](#fujifilm-fujicolor-pro-400h-ref-66e3)
+- [Fujifilm Fujicolor Pro 400H (ref: ff20)](#fujifilm-fujicolor-pro-400h-ref-ff20)
 - [Fujifilm Fujicolor Pro400 (ref: 1b8d)](#fujifilm-fujicolor-pro400-ref-1b8d)
 - [Fujifilm Fujicolor Professional (ref: 28da)](#fujifilm-fujicolor-professional-ref-28da)
 - [Fujifilm Fujicolor Professional (ref: 02f7)](#fujifilm-fujicolor-professional-ref-02f7)
@@ -91,27 +102,16 @@ Total scans : 476
 - [Fujifilm Fujicolor Super HR (ref: aaa0)](#fujifilm-fujicolor-super-hr-ref-aaa0)
 - [Fujifilm Fujicolor Superia (ref: d1b7)](#fujifilm-fujicolor-superia-ref-d1b7)
 - [Fujifilm Fujicolor Superia (ref: 0683)](#fujifilm-fujicolor-superia-ref-0683)
-- [Fujifilm NPS 160 (ref: 5e85)](#fujifilm-nps-160-ref-5e85)
+- [Fujifilm Fujicolor Superia (ref: 9272)](#fujifilm-fujicolor-superia-ref-9272)
+- [Fujifilm Fujicolor Superia (ref: 0d8e)](#fujifilm-fujicolor-superia-ref-0d8e)
+- [Fujifilm Fujicolor Superia Reala (ref: a7de)](#fujifilm-fujicolor-superia-reala-ref-a7de)
+- [Fujifilm Fujicolor Superia Reala (ref: a624)](#fujifilm-fujicolor-superia-reala-ref-a624)
+- [Fujifilm Fujicolor Superia X-TRA (ref: 713b)](#fujifilm-fujicolor-superia-x-tra-ref-713b)
+- [Fujifilm Fujicolor Superia X-TRA (ref: 7980)](#fujifilm-fujicolor-superia-x-tra-ref-7980)
+- [Fujifilm Fujicolor Superia X-TRA (ref: 0446)](#fujifilm-fujicolor-superia-x-tra-ref-0446)
+- [Fujifilm Fujicolor Superia X-TRA (ref: 8923)](#fujifilm-fujicolor-superia-x-tra-ref-8923)
+- [Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)](#fujifilm-fujicolor-superia-x-tra-ref-6b8a)
 - [Fujifilm Neopan SS Rapid (ref: 9db3)](#fujifilm-neopan-ss-rapid-ref-9db3)
-- [Fujifilm Pro 400H (ref: 48ed)](#fujifilm-pro-400h-ref-48ed)
-- [Fujifilm Pro 400H (ref: dc37)](#fujifilm-pro-400h-ref-dc37)
-- [Fujifilm Pro 400H (ref: 66e3)](#fujifilm-pro-400h-ref-66e3)
-- [Fujifilm Pro 400H (ref: ff20)](#fujifilm-pro-400h-ref-ff20)
-- [Fujifilm Provia 100F (ref: 356d)](#fujifilm-provia-100f-ref-356d)
-- [Fujifilm Provia 100F (ref: df27)](#fujifilm-provia-100f-ref-df27)
-- [Fujifilm Provia 400X (ref: 3c08)](#fujifilm-provia-400x-ref-3c08)
-- [Fujifilm Sensia (ref: a59b)](#fujifilm-sensia-ref-a59b)
-- [Fujifilm Superia (ref: 9272)](#fujifilm-superia-ref-9272)
-- [Fujifilm Superia (ref: 0d8e)](#fujifilm-superia-ref-0d8e)
-- [Fujifilm Superia Reala (ref: a7de)](#fujifilm-superia-reala-ref-a7de)
-- [Fujifilm Superia Reala (ref: a624)](#fujifilm-superia-reala-ref-a624)
-- [Fujifilm Superia X-TRA (ref: 713b)](#fujifilm-superia-x-tra-ref-713b)
-- [Fujifilm Superia X-TRA (ref: 7980)](#fujifilm-superia-x-tra-ref-7980)
-- [Fujifilm Superia X-TRA (ref: 0446)](#fujifilm-superia-x-tra-ref-0446)
-- [Fujifilm Superia X-TRA (ref: 8923)](#fujifilm-superia-x-tra-ref-8923)
-- [Fujifilm Superia X-TRA (ref: 6b8a)](#fujifilm-superia-x-tra-ref-6b8a)
-- [Fujifilm Velvia 100F (ref: f7fb)](#fujifilm-velvia-100f-ref-f7fb)
-- [Fujifilm Velvia 100F (ref: 32d4)](#fujifilm-velvia-100f-ref-32d4)
 - [GAF Color Slide Film (ref: dea6)](#gaf-color-slide-film-ref-dea6)
 - [Hands On Film Midnight 1600 (ref: 4411)](#hands-on-film-midnight-1600-ref-4411)
 - [Harman Phoenix (ref: 8eb4)](#harman-phoenix-ref-8eb4)
@@ -1313,6 +1313,76 @@ UUID  : c7a59b3560b04f3a93f2ee26d1b21b4b
 	<img src="./lowres/00281_000.jpg" alt="Fujifilm Fujichrome Provia 100F 120 film box outside" loading="lazy" width="400" height="499">
 </a>
 
+#### Fujifilm Fujichrome Provia 100F (ref: 356d)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2020-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-02-21   |  Author  : @seklerek
+UUID  : a3603dbdd8ca49b893c8ce2bc76f356d
+```
+
+<a href="./archive/00055_000.jpg">
+	<img src="./lowres/00055_000.jpg" alt="Fujifilm Fujichrome Provia 100F 35mm film box outside" loading="lazy" width="432" height="500">
+</a>
+
+#### Fujifilm Fujichrome Provia 100F (ref: df27)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2026-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-07   |  Author  : The Compartmentalist
+UUID  : 480a75f9978b4fba84c81a8a9e95df27
+```
+
+<a href="./archive/00167_000.jpg">
+	<img src="./lowres/00167_000.jpg" alt="Fujifilm Fujichrome Provia 100F 35mm film box outside" loading="lazy" width="421" height="500">
+</a>
+
+#### Fujifilm Fujichrome Provia 400X (ref: 3c08)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 400          |  Expiry  : 2014-12 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 3a84e3b505004d069104ff0042d03c08
+```
+
+<a href="./archive/00248_000.jpg">
+	<img src="./lowres/00248_000.jpg" alt="Fujifilm Fujichrome Provia 400X 120 film box outside" loading="lazy" width="500" height="437">
+</a>
+
+
+`UUID: db24477938104d81beddac492c8d637e`↓
+
+<a href="./archive/00248_001.jpg">
+	<img src="./lowres/00248_001.jpg" alt="Fujifilm Fujichrome Provia 400X 120 film box outside" loading="lazy" width="500" height="220">
+</a>
+
+#### Fujifilm Fujichrome Sensia (ref: a59b)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 1998-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : The Compartmentalist
+UUID  : d4fdfa0d829f4fcab984381a31f2a59b
+```
+
+<a href="./archive/00116_000.jpg">
+	<img src="./lowres/00116_000.jpg" alt="Fujifilm Fujichrome Sensia 35mm film box outside" loading="lazy" width="424" height="500">
+</a>
+
+
+`UUID: 4f21cef93ed3401caed74619ffa2b595`↓
+
+<a href="./archive/00116_001.jpg">
+	<img src="./lowres/00116_001.jpg" alt="Fujifilm Fujichrome Sensia 35mm film box inside" loading="lazy" width="418" height="500">
+</a>
+
 #### Fujifilm Fujichrome Velvia (ref: 3182)
 
 ```
@@ -1339,6 +1409,34 @@ UUID  : 9b9ee1c1c0e94d968674987799d33182
 
 <a href="./archive/00044_002.jpg">
 	<img src="./lowres/00044_002.jpg" alt="Fujifilm Fujichrome Velvia 35mm film box leaflet" loading="lazy" width="267" height="500">
+</a>
+
+#### Fujifilm Fujichrome Velvia 100F (ref: f7fb)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 100          |  Expiry  : 2006-04 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-01-04   |  Author  : dekuNukem
+UUID  : 0fef128c3b17437eb25d5c4f0520f7fb
+```
+
+<a href="./archive/00023_000.jpg">
+	<img src="./lowres/00023_000.jpg" alt="Fujifilm Fujichrome Velvia 100F 120 film box outside" loading="lazy" width="397" height="500">
+</a>
+
+#### Fujifilm Fujichrome Velvia 100F (ref: 32d4)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2007-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-02-21   |  Author  : @seklerek
+UUID  : ce5c1d786286427ba5633091b06432d4
+```
+
+<a href="./archive/00056_000.jpg">
+	<img src="./lowres/00056_000.jpg" alt="Fujifilm Fujichrome Velvia 100F 35mm film box outside" loading="lazy" width="424" height="500">
 </a>
 
 #### Fujifilm Fujicolor 100 (ref: 013b)
@@ -1425,6 +1523,27 @@ UUID  : ce40cc432d9e445b987fdd72fd88d10b
 	<img src="./lowres/00034_002.jpg" alt="Fujifilm Fujicolor NPL 160 120 film box leaflet" loading="lazy" width="460" height="500">
 </a>
 
+#### Fujifilm Fujicolor NPS 160 (ref: 5e85)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 160          |  Expiry  : 2003-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-02-04   |  Author  : b0baspace
+UUID  : 576142521c2f4fe5abc387032bcc5e85
+```
+
+<a href="./archive/00053_000.jpg">
+	<img src="./lowres/00053_000.jpg" alt="Fujifilm Fujicolor NPS 160 35mm film box outside" loading="lazy" width="500" height="500">
+</a>
+
+
+`UUID: a11cf7e8abea41a8854da816157269c4`↓
+
+<a href="./archive/00053_001.jpg">
+	<img src="./lowres/00053_001.jpg" alt="Fujifilm Fujicolor NPS 160 35mm film box inside" loading="lazy" width="449" height="500">
+</a>
+
 #### Fujifilm Fujicolor Natura 1600 (ref: 2e06)
 
 ```
@@ -1451,6 +1570,83 @@ UUID  : 8abda51b18d84ec4939df489457d2e06
 
 <a href="./archive/00177_002.jpg">
 	<img src="./lowres/00177_002.jpg" alt="Fujifilm Fujicolor Natura 1600 35mm film box outside" loading="lazy" width="500" height="258">
+</a>
+
+#### Fujifilm Fujicolor Pro 400H (ref: 48ed)
+
+```
+Format: 220          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2007-10 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : fae60be8fc0745c3965f24b1778e48ed
+```
+
+<a href="./archive/00247_000.jpg">
+	<img src="./lowres/00247_000.jpg" alt="Fujifilm Fujicolor Pro 400H 220 film box outside" loading="lazy" width="484" height="500">
+</a>
+
+
+`UUID: a305e39dc3f041d1bf59e7dc2504835c`↓
+
+<a href="./archive/00247_001.jpg">
+	<img src="./lowres/00247_001.jpg" alt="Fujifilm Fujicolor Pro 400H 220 film box outside" loading="lazy" width="500" height="265">
+</a>
+
+
+`UUID: a10a19f268084ce881ab55f247f1035f`↓
+
+<a href="./archive/00247_002.jpg">
+	<img src="./lowres/00247_002.jpg" alt="Fujifilm Fujicolor Pro 400H 220 film box inside" loading="lazy" width="500" height="440">
+</a>
+
+#### Fujifilm Fujicolor Pro 400H (ref: dc37)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2009-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 9934366ea7a04b65b3c300352fa8dc37
+```
+
+<a href="./archive/00249_000.jpg">
+	<img src="./lowres/00249_000.jpg" alt="Fujifilm Fujicolor Pro 400H 35mm film box outside" loading="lazy" width="431" height="499">
+</a>
+
+
+`UUID: df9f856987284644858ab4590872c133`↓
+
+<a href="./archive/00249_001.jpg">
+	<img src="./lowres/00249_001.jpg" alt="Fujifilm Fujicolor Pro 400H 35mm film box inside" loading="lazy" width="431" height="499">
+</a>
+
+#### Fujifilm Fujicolor Pro 400H (ref: 66e3)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2018-09 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-01-04   |  Author  : dekuNukem
+UUID  : 0d89ecf11f3c46deb52171aa909566e3
+```
+
+<a href="./archive/00022_000.jpg">
+	<img src="./lowres/00022_000.jpg" alt="Fujifilm Fujicolor Pro 400H 120 film box outside" loading="lazy" width="408" height="500">
+</a>
+
+#### Fujifilm Fujicolor Pro 400H (ref: ff20)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2022-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 3167bab31b134176a6d637dc1491ff20
+```
+
+<a href="./archive/00250_000.jpg">
+	<img src="./lowres/00250_000.jpg" alt="Fujifilm Fujicolor Pro 400H 35mm film box outside" loading="lazy" width="420" height="499">
 </a>
 
 #### Fujifilm Fujicolor Pro400 (ref: 1b8d)
@@ -1600,25 +1796,144 @@ UUID  : c3d9e51d22e241f69133be30d5a00683
 	<img src="./lowres/00012_001.jpg" alt="Fujifilm Fujicolor Superia 120 film box inside" loading="lazy" width="500" height="500">
 </a>
 
-#### Fujifilm NPS 160 (ref: 5e85)
+#### Fujifilm Fujicolor Superia (ref: 9272)
 
 ```
 Format: 35mm         |  Process : C-41    
-ISO   : 160          |  Expiry  : 2003-08 
-Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-02-04   |  Author  : b0baspace
-UUID  : 576142521c2f4fe5abc387032bcc5e85
+ISO   : 200          |  Expiry  : 2003-07 
+Type  : Multi-Pack-2 |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 2acd2ce4aefb44b4a4c72b130edb9272
 ```
 
-<a href="./archive/00053_000.jpg">
-	<img src="./lowres/00053_000.jpg" alt="Fujifilm NPS 160 35mm film box outside" loading="lazy" width="500" height="500">
+<a href="./archive/00229_000.jpg">
+	<img src="./lowres/00229_000.jpg" alt="Fujifilm Fujicolor Superia 35mm film box outside" loading="lazy" width="312" height="500">
+</a>
+
+#### Fujifilm Fujicolor Superia (ref: 0d8e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2009-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-18   |  Author  : @recycling.film
+UUID  : a57061210f17463fae293851f2130d8e
+```
+
+<a href="./archive/00199_000.jpg">
+	<img src="./lowres/00199_000.jpg" alt="Fujifilm Fujicolor Superia 35mm film box outside" loading="lazy" width="426" height="500">
+</a>
+
+#### Fujifilm Fujicolor Superia Reala (ref: a7de)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2007-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-28   |  Author  : @recycling.film
+UUID  : bab5fa204b25431a9872c4ce8e9aa7de
+```
+
+<a href="./archive/00087_000.jpg">
+	<img src="./lowres/00087_000.jpg" alt="Fujifilm Fujicolor Superia Reala 35mm film box outside" loading="lazy" width="430" height="500">
+</a>
+
+#### Fujifilm Fujicolor Superia Reala (ref: a624)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2010-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 47af4374c1474eb3b20cb1894b43a624
+```
+
+<a href="./archive/00230_000.jpg">
+	<img src="./lowres/00230_000.jpg" alt="Fujifilm Fujicolor Superia Reala 35mm film box outside" loading="lazy" width="431" height="500">
+</a>
+
+#### Fujifilm Fujicolor Superia X-TRA (ref: 713b)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2003-04 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-08-18   |  Author  : @recycling.film
+UUID  : 89750d8a18fe4e238c76b97b4578713b
+```
+
+<a href="./archive/00197_000.jpg">
+	<img src="./lowres/00197_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box outside" loading="lazy" width="412" height="499">
 </a>
 
 
-`UUID: a11cf7e8abea41a8854da816157269c4`↓
+`UUID: 560832b2cfff4e60930fd3116f1ccffc`↓
 
-<a href="./archive/00053_001.jpg">
-	<img src="./lowres/00053_001.jpg" alt="Fujifilm NPS 160 35mm film box inside" loading="lazy" width="449" height="500">
+<a href="./archive/00197_001.jpg">
+	<img src="./lowres/00197_001.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box inside" loading="lazy" width="425" height="500">
+</a>
+
+#### Fujifilm Fujicolor Superia X-TRA (ref: 7980)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2004-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-08-19   |  Author  : @ellafridalindblom
+UUID  : 9e774f36e4d34b3c81a30a5b44da7980
+```
+
+<a href="./archive/00209_000.jpg">
+	<img src="./lowres/00209_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 120 film box outside" loading="lazy" width="500" height="495">
+</a>
+
+
+`UUID: 434f763fea0d4c4c9dc5aeb2eb10e8aa`↓
+
+<a href="./archive/00209_001.jpg">
+	<img src="./lowres/00209_001.jpg" alt="Fujifilm Fujicolor Superia X-TRA 120 film box inside" loading="lazy" width="485" height="499">
+</a>
+
+#### Fujifilm Fujicolor Superia X-TRA (ref: 0446)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2005-02 
+Type  : Multi-Pack-3 |  Quantity: 24exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : 16351828954846229e7a4ca1193d0446
+```
+
+<a href="./archive/00232_000.jpg">
+	<img src="./lowres/00232_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box outside" loading="lazy" width="306" height="500">
+</a>
+
+#### Fujifilm Fujicolor Superia X-TRA (ref: 8923)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2024-08 
+Type  : Multi-Pack-2 |  Quantity: 36exp   
+Added : 2025-08-20   |  Author  : @photos.by.qi
+UUID  : de6b17f5230e4052b6b166977a418923
+```
+
+<a href="./archive/00231_000.jpg">
+	<img src="./lowres/00231_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box outside" loading="lazy" width="464" height="500">
+</a>
+
+#### Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2026-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-07   |  Author  : @Hol.m35
+UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
+```
+
+<a href="./archive/00165_000.jpg">
+	<img src="./lowres/00165_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box outside" loading="lazy" width="460" height="499">
 </a>
 
 #### Fujifilm Neopan SS Rapid (ref: 9db3)
@@ -1633,321 +1948,6 @@ UUID  : 1c541b4c837944d788eab8986f349db3
 
 <a href="./archive/00118_000.jpg">
 	<img src="./lowres/00118_000.jpg" alt="Fujifilm Neopan SS Rapid 35mm film box outside" loading="lazy" width="369" height="500">
-</a>
-
-#### Fujifilm Pro 400H (ref: 48ed)
-
-```
-Format: 220          |  Process : C-41    
-ISO   : 400          |  Expiry  : 2007-10 
-Type  : Multi-Pack-5 |  Quantity: N/A     
-Added : 2025-08-20   |  Author  : @photos.by.qi
-UUID  : fae60be8fc0745c3965f24b1778e48ed
-```
-
-<a href="./archive/00247_000.jpg">
-	<img src="./lowres/00247_000.jpg" alt="Fujifilm Pro 400H 220 film box outside" loading="lazy" width="484" height="500">
-</a>
-
-
-`UUID: a305e39dc3f041d1bf59e7dc2504835c`↓
-
-<a href="./archive/00247_001.jpg">
-	<img src="./lowres/00247_001.jpg" alt="Fujifilm Pro 400H 220 film box outside" loading="lazy" width="500" height="265">
-</a>
-
-
-`UUID: a10a19f268084ce881ab55f247f1035f`↓
-
-<a href="./archive/00247_002.jpg">
-	<img src="./lowres/00247_002.jpg" alt="Fujifilm Pro 400H 220 film box inside" loading="lazy" width="500" height="440">
-</a>
-
-#### Fujifilm Pro 400H (ref: dc37)
-
-```
-Format: 35mm         |  Process : C-41    
-ISO   : 400          |  Expiry  : 2009-01 
-Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-08-20   |  Author  : @photos.by.qi
-UUID  : 9934366ea7a04b65b3c300352fa8dc37
-```
-
-<a href="./archive/00249_000.jpg">
-	<img src="./lowres/00249_000.jpg" alt="Fujifilm Pro 400H 35mm film box outside" loading="lazy" width="431" height="499">
-</a>
-
-
-`UUID: df9f856987284644858ab4590872c133`↓
-
-<a href="./archive/00249_001.jpg">
-	<img src="./lowres/00249_001.jpg" alt="Fujifilm Pro 400H 35mm film box inside" loading="lazy" width="431" height="499">
-</a>
-
-#### Fujifilm Pro 400H (ref: 66e3)
-
-```
-Format: 120          |  Process : C-41    
-ISO   : 400          |  Expiry  : 2018-09 
-Type  : Multi-Pack-5 |  Quantity: N/A     
-Added : 2025-01-04   |  Author  : dekuNukem
-UUID  : 0d89ecf11f3c46deb52171aa909566e3
-```
-
-<a href="./archive/00022_000.jpg">
-	<img src="./lowres/00022_000.jpg" alt="Fujifilm Pro 400H 120 film box outside" loading="lazy" width="408" height="500">
-</a>
-
-#### Fujifilm Pro 400H (ref: ff20)
-
-```
-Format: 35mm         |  Process : C-41    
-ISO   : 400          |  Expiry  : 2022-11 
-Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-08-20   |  Author  : @photos.by.qi
-UUID  : 3167bab31b134176a6d637dc1491ff20
-```
-
-<a href="./archive/00250_000.jpg">
-	<img src="./lowres/00250_000.jpg" alt="Fujifilm Pro 400H 35mm film box outside" loading="lazy" width="420" height="499">
-</a>
-
-#### Fujifilm Provia 100F (ref: 356d)
-
-```
-Format: 35mm         |  Process : E-6     
-ISO   : 100          |  Expiry  : 2020-09 
-Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-02-21   |  Author  : @seklerek
-UUID  : a3603dbdd8ca49b893c8ce2bc76f356d
-```
-
-<a href="./archive/00055_000.jpg">
-	<img src="./lowres/00055_000.jpg" alt="Fujifilm Provia 100F 35mm film box outside" loading="lazy" width="432" height="500">
-</a>
-
-#### Fujifilm Provia 100F (ref: df27)
-
-```
-Format: 35mm         |  Process : E-6     
-ISO   : 100          |  Expiry  : 2026-10 
-Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-08-07   |  Author  : The Compartmentalist
-UUID  : 480a75f9978b4fba84c81a8a9e95df27
-```
-
-<a href="./archive/00167_000.jpg">
-	<img src="./lowres/00167_000.jpg" alt="Fujifilm Provia 100F 35mm film box outside" loading="lazy" width="421" height="500">
-</a>
-
-#### Fujifilm Provia 400X (ref: 3c08)
-
-```
-Format: 120          |  Process : E-6     
-ISO   : 400          |  Expiry  : 2014-12 
-Type  : Multi-Pack-5 |  Quantity: N/A     
-Added : 2025-08-20   |  Author  : @photos.by.qi
-UUID  : 3a84e3b505004d069104ff0042d03c08
-```
-
-<a href="./archive/00248_000.jpg">
-	<img src="./lowres/00248_000.jpg" alt="Fujifilm Provia 400X 120 film box outside" loading="lazy" width="500" height="437">
-</a>
-
-
-`UUID: db24477938104d81beddac492c8d637e`↓
-
-<a href="./archive/00248_001.jpg">
-	<img src="./lowres/00248_001.jpg" alt="Fujifilm Provia 400X 120 film box outside" loading="lazy" width="500" height="220">
-</a>
-
-#### Fujifilm Sensia (ref: a59b)
-
-```
-Format: 35mm         |  Process : E-6     
-ISO   : 100          |  Expiry  : 1998-01 
-Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-07-31   |  Author  : The Compartmentalist
-UUID  : d4fdfa0d829f4fcab984381a31f2a59b
-```
-
-<a href="./archive/00116_000.jpg">
-	<img src="./lowres/00116_000.jpg" alt="Fujifilm Sensia 35mm film box outside" loading="lazy" width="424" height="500">
-</a>
-
-
-`UUID: 4f21cef93ed3401caed74619ffa2b595`↓
-
-<a href="./archive/00116_001.jpg">
-	<img src="./lowres/00116_001.jpg" alt="Fujifilm Sensia 35mm film box inside" loading="lazy" width="418" height="500">
-</a>
-
-#### Fujifilm Superia (ref: 9272)
-
-```
-Format: 35mm         |  Process : C-41    
-ISO   : 200          |  Expiry  : 2003-07 
-Type  : Multi-Pack-2 |  Quantity: 36exp   
-Added : 2025-08-20   |  Author  : @photos.by.qi
-UUID  : 2acd2ce4aefb44b4a4c72b130edb9272
-```
-
-<a href="./archive/00229_000.jpg">
-	<img src="./lowres/00229_000.jpg" alt="Fujifilm Superia 35mm film box outside" loading="lazy" width="312" height="500">
-</a>
-
-#### Fujifilm Superia (ref: 0d8e)
-
-```
-Format: 35mm         |  Process : C-41    
-ISO   : 200          |  Expiry  : 2009-06 
-Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-08-18   |  Author  : @recycling.film
-UUID  : a57061210f17463fae293851f2130d8e
-```
-
-<a href="./archive/00199_000.jpg">
-	<img src="./lowres/00199_000.jpg" alt="Fujifilm Superia 35mm film box outside" loading="lazy" width="426" height="500">
-</a>
-
-#### Fujifilm Superia Reala (ref: a7de)
-
-```
-Format: 35mm         |  Process : C-41    
-ISO   : 100          |  Expiry  : 2007-04 
-Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-07-28   |  Author  : @recycling.film
-UUID  : bab5fa204b25431a9872c4ce8e9aa7de
-```
-
-<a href="./archive/00087_000.jpg">
-	<img src="./lowres/00087_000.jpg" alt="Fujifilm Superia Reala 35mm film box outside" loading="lazy" width="430" height="500">
-</a>
-
-#### Fujifilm Superia Reala (ref: a624)
-
-```
-Format: 35mm         |  Process : C-41    
-ISO   : 100          |  Expiry  : 2010-04 
-Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-08-20   |  Author  : @photos.by.qi
-UUID  : 47af4374c1474eb3b20cb1894b43a624
-```
-
-<a href="./archive/00230_000.jpg">
-	<img src="./lowres/00230_000.jpg" alt="Fujifilm Superia Reala 35mm film box outside" loading="lazy" width="431" height="500">
-</a>
-
-#### Fujifilm Superia X-TRA (ref: 713b)
-
-```
-Format: 35mm         |  Process : C-41    
-ISO   : 400          |  Expiry  : 2003-04 
-Type  : Single Pack  |  Quantity: 24exp   
-Added : 2025-08-18   |  Author  : @recycling.film
-UUID  : 89750d8a18fe4e238c76b97b4578713b
-```
-
-<a href="./archive/00197_000.jpg">
-	<img src="./lowres/00197_000.jpg" alt="Fujifilm Superia X-TRA 35mm film box outside" loading="lazy" width="412" height="499">
-</a>
-
-
-`UUID: 560832b2cfff4e60930fd3116f1ccffc`↓
-
-<a href="./archive/00197_001.jpg">
-	<img src="./lowres/00197_001.jpg" alt="Fujifilm Superia X-TRA 35mm film box inside" loading="lazy" width="425" height="500">
-</a>
-
-#### Fujifilm Superia X-TRA (ref: 7980)
-
-```
-Format: 120          |  Process : C-41    
-ISO   : 400          |  Expiry  : 2004-06 
-Type  : Single Pack  |  Quantity: N/A     
-Added : 2025-08-19   |  Author  : @ellafridalindblom
-UUID  : 9e774f36e4d34b3c81a30a5b44da7980
-```
-
-<a href="./archive/00209_000.jpg">
-	<img src="./lowres/00209_000.jpg" alt="Fujifilm Superia X-TRA 120 film box outside" loading="lazy" width="500" height="495">
-</a>
-
-
-`UUID: 434f763fea0d4c4c9dc5aeb2eb10e8aa`↓
-
-<a href="./archive/00209_001.jpg">
-	<img src="./lowres/00209_001.jpg" alt="Fujifilm Superia X-TRA 120 film box inside" loading="lazy" width="485" height="499">
-</a>
-
-#### Fujifilm Superia X-TRA (ref: 0446)
-
-```
-Format: 35mm         |  Process : C-41    
-ISO   : 400          |  Expiry  : 2005-02 
-Type  : Multi-Pack-3 |  Quantity: 24exp   
-Added : 2025-08-20   |  Author  : @photos.by.qi
-UUID  : 16351828954846229e7a4ca1193d0446
-```
-
-<a href="./archive/00232_000.jpg">
-	<img src="./lowres/00232_000.jpg" alt="Fujifilm Superia X-TRA 35mm film box outside" loading="lazy" width="306" height="500">
-</a>
-
-#### Fujifilm Superia X-TRA (ref: 8923)
-
-```
-Format: 35mm         |  Process : C-41    
-ISO   : 400          |  Expiry  : 2024-08 
-Type  : Multi-Pack-2 |  Quantity: 36exp   
-Added : 2025-08-20   |  Author  : @photos.by.qi
-UUID  : de6b17f5230e4052b6b166977a418923
-```
-
-<a href="./archive/00231_000.jpg">
-	<img src="./lowres/00231_000.jpg" alt="Fujifilm Superia X-TRA 35mm film box outside" loading="lazy" width="464" height="500">
-</a>
-
-#### Fujifilm Superia X-TRA (ref: 6b8a)
-
-```
-Format: 35mm         |  Process : C-41    
-ISO   : 400          |  Expiry  : 2026-01 
-Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-08-07   |  Author  : @Hol.m35
-UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
-```
-
-<a href="./archive/00165_000.jpg">
-	<img src="./lowres/00165_000.jpg" alt="Fujifilm Superia X-TRA 35mm film box outside" loading="lazy" width="460" height="499">
-</a>
-
-#### Fujifilm Velvia 100F (ref: f7fb)
-
-```
-Format: 120          |  Process : E-6     
-ISO   : 100          |  Expiry  : 2006-04 
-Type  : Multi-Pack-5 |  Quantity: N/A     
-Added : 2025-01-04   |  Author  : dekuNukem
-UUID  : 0fef128c3b17437eb25d5c4f0520f7fb
-```
-
-<a href="./archive/00023_000.jpg">
-	<img src="./lowres/00023_000.jpg" alt="Fujifilm Velvia 100F 120 film box outside" loading="lazy" width="397" height="500">
-</a>
-
-#### Fujifilm Velvia 100F (ref: 32d4)
-
-```
-Format: 35mm         |  Process : E-6     
-ISO   : 100          |  Expiry  : 2007-03 
-Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-02-21   |  Author  : @seklerek
-UUID  : ce5c1d786286427ba5633091b06432d4
-```
-
-<a href="./archive/00056_000.jpg">
-	<img src="./lowres/00056_000.jpg" alt="Fujifilm Velvia 100F 35mm film box outside" loading="lazy" width="424" height="500">
 </a>
 
 #### GAF Color Slide Film (ref: dea6)

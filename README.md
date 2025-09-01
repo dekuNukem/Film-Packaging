@@ -126,16 +126,16 @@ Rank  Username                      Contributions
   - @photos.by.qi: Film Never Die IRO
   - @photos.by.qi: Film Never Die Kiro
   - @photos.by.qi: Fujifilm 400
+  - @photos.by.qi: Fujifilm Fujichrome Provia 400X
   - @photos.by.qi: Fujifilm Fujicolor 100
   - @photos.by.qi: Fujifilm Fujicolor C200
+  - @photos.by.qi: Fujifilm Fujicolor Pro 400H
   - @photos.by.qi: Fujifilm Fujicolor Pro400
   - @photos.by.qi: Fujifilm Fujicolor Professional
   - @photos.by.qi: Fujifilm Fujicolor Super G
-  - @photos.by.qi: Fujifilm Pro 400H
-  - @photos.by.qi: Fujifilm Provia 400X
-  - @photos.by.qi: Fujifilm Superia
-  - @photos.by.qi: Fujifilm Superia Reala
-  - @photos.by.qi: Fujifilm Superia X-TRA
+  - @photos.by.qi: Fujifilm Fujicolor Superia
+  - @photos.by.qi: Fujifilm Fujicolor Superia Reala
+  - @photos.by.qi: Fujifilm Fujicolor Superia X-TRA
   - @photos.by.qi: Kodak Ektachrome E100
   - @photos.by.qi: Kodak Ektar 100
   - @photos.by.qi: Kodak Gold

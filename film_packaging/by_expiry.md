@@ -86,7 +86,7 @@ Total scans : 476
 - [[1996] Polaroid 665 (ref: e054)](#1996-polaroid-665-ref-e054)
 - [[1997] Kodak Ektachrome Elite 200 (ref: a391)](#1997-kodak-ektachrome-elite-200-ref-a391)
 - [[1997] Max Spielmann Maxi Color (ref: bf60)](#1997-max-spielmann-maxi-color-ref-bf60)
-- [[1998] Fujifilm Sensia (ref: a59b)](#1998-fujifilm-sensia-ref-a59b)
+- [[1998] Fujifilm Fujichrome Sensia (ref: a59b)](#1998-fujifilm-fujichrome-sensia-ref-a59b)
 - [[1998] Klick XD200 (ref: 44d7)](#1998-klick-xd200-ref-44d7)
 - [[1998] Kodak Ektachrome Slide Duplicating Film (ref: 596a)](#1998-kodak-ektachrome-slide-duplicating-film-ref-596a)
 - [[1998] Konica KonicaColor VX 100 (ref: 8350)](#1998-konica-konicacolor-vx-100-ref-8350)
@@ -113,25 +113,25 @@ Total scans : 476
 - [[2002] Kodak Ektachrome 100 Plus (ref: 5d9f)](#2002-kodak-ektachrome-100-plus-ref-5d9f)
 - [[2002] Kirkland Signature Color Print Film (ref: 0441)](#2002-kirkland-signature-color-print-film-ref-0441)
 - [[2003] Konica KonicaColor VX 200 (ref: fe53)](#2003-konica-konicacolor-vx-200-ref-fe53)
-- [[2003] Fujifilm Superia X-TRA (ref: 713b)](#2003-fujifilm-superia-x-tra-ref-713b)
+- [[2003] Fujifilm Fujicolor Superia X-TRA (ref: 713b)](#2003-fujifilm-fujicolor-superia-x-tra-ref-713b)
 - [[2003] Fujifilm Fujicolor Super G (ref: 55ff)](#2003-fujifilm-fujicolor-super-g-ref-55ff)
 - [[2003] Konica Centuria 200 (ref: e155)](#2003-konica-centuria-200-ref-e155)
 - [[2003] Fujifilm Fujicolor Pro400 (ref: 1b8d)](#2003-fujifilm-fujicolor-pro400-ref-1b8d)
-- [[2003] Fujifilm Superia (ref: 9272)](#2003-fujifilm-superia-ref-9272)
-- [[2003] Fujifilm NPS 160 (ref: 5e85)](#2003-fujifilm-nps-160-ref-5e85)
+- [[2003] Fujifilm Fujicolor Superia (ref: 9272)](#2003-fujifilm-fujicolor-superia-ref-9272)
+- [[2003] Fujifilm Fujicolor NPS 160 (ref: 5e85)](#2003-fujifilm-fujicolor-nps-160-ref-5e85)
 - [[2003] Agfa Vista (ref: d3af)](#2003-agfa-vista-ref-d3af)
-- [[2004] Fujifilm Superia X-TRA (ref: 7980)](#2004-fujifilm-superia-x-tra-ref-7980)
+- [[2004] Fujifilm Fujicolor Superia X-TRA (ref: 7980)](#2004-fujifilm-fujicolor-superia-x-tra-ref-7980)
 - [[2004] Kodak Black & White + (ref: 2ff3)](#2004-kodak-black-white-ref-2ff3)
 - [[2004] Lloyds Pharmacy Colour Film (ref: 074c)](#2004-lloyds-pharmacy-colour-film-ref-074c)
 - [[2004] Kodak Portra 400VC (ref: b67b)](#2004-kodak-portra-400vc-ref-b67b)
-- [[2005] Fujifilm Superia X-TRA (ref: 0446)](#2005-fujifilm-superia-x-tra-ref-0446)
+- [[2005] Fujifilm Fujicolor Superia X-TRA (ref: 0446)](#2005-fujifilm-fujicolor-superia-x-tra-ref-0446)
 - [[2005] Agfa Agfacolor XRG (ref: 689e)](#2005-agfa-agfacolor-xrg-ref-689e)
 - [[2005] Agfa Agfapan APX 100 (ref: e271)](#2005-agfa-agfapan-apx-100-ref-e271)
 - [[2005] Kodak Ektachrome 100 Plus (ref: 0183)](#2005-kodak-ektachrome-100-plus-ref-0183)
 - [[2005] Kodak Ultra (ref: 69a1)](#2005-kodak-ultra-ref-69a1)
 - [[2006] Agfa Agfapan APX 400 (ref: 19bc)](#2006-agfa-agfapan-apx-400-ref-19bc)
 - [[2006] Polaroid 669 (ref: 3566)](#2006-polaroid-669-ref-3566)
-- [[2006] Fujifilm Velvia 100F (ref: f7fb)](#2006-fujifilm-velvia-100f-ref-f7fb)
+- [[2006] Fujifilm Fujichrome Velvia 100F (ref: f7fb)](#2006-fujifilm-fujichrome-velvia-100f-ref-f7fb)
 - [[2006] Rossmann Jahreszeiten Pack (ref: 7670)](#2006-rossmann-jahreszeiten-pack-ref-7670)
 - [[2006] Polaroid 87 (ref: 62ef)](#2006-polaroid-87-ref-62ef)
 - [[2006] Kodak Advantix Ultra (ref: 566b)](#2006-kodak-advantix-ultra-ref-566b)
@@ -141,20 +141,20 @@ Total scans : 476
 - [[2006] Polaroid GridFilm (ref: 8deb)](#2006-polaroid-gridfilm-ref-8deb)
 - [[2006] Fujifilm Fujichrome Provia 100F (ref: 1b4b)](#2006-fujifilm-fujichrome-provia-100f-ref-1b4b)
 - [[2007] Klick 400ASA (ref: 8779)](#2007-klick-400asa-ref-8779)
-- [[2007] Fujifilm Velvia 100F (ref: 32d4)](#2007-fujifilm-velvia-100f-ref-32d4)
+- [[2007] Fujifilm Fujichrome Velvia 100F (ref: 32d4)](#2007-fujifilm-fujichrome-velvia-100f-ref-32d4)
 - [[2007] Kodak MAX (ref: 2361)](#2007-kodak-max-ref-2361)
-- [[2007] Fujifilm Superia Reala (ref: a7de)](#2007-fujifilm-superia-reala-ref-a7de)
+- [[2007] Fujifilm Fujicolor Superia Reala (ref: a7de)](#2007-fujifilm-fujicolor-superia-reala-ref-a7de)
 - [[2007] Kodak Kodachrome 64 (ref: 3206)](#2007-kodak-kodachrome-64-ref-3206)
 - [[2007] Lloyds Pharmacy APS Film (ref: c7cf)](#2007-lloyds-pharmacy-aps-film-ref-c7cf)
-- [[2007] Fujifilm Pro 400H (ref: 48ed)](#2007-fujifilm-pro-400h-ref-48ed)
+- [[2007] Fujifilm Fujicolor Pro 400H (ref: 48ed)](#2007-fujifilm-fujicolor-pro-400h-ref-48ed)
 - [[2007] Kodak Elite Chrome (ref: 3943)](#2007-kodak-elite-chrome-ref-3943)
 - [[2008] Agfa APX (ref: 12c7)](#2008-agfa-apx-ref-12c7)
 - [[2008] Kodak High Speed Infrared (ref: 883e)](#2008-kodak-high-speed-infrared-ref-883e)
-- [[2009] Fujifilm Pro 400H (ref: dc37)](#2009-fujifilm-pro-400h-ref-dc37)
+- [[2009] Fujifilm Fujicolor Pro 400H (ref: dc37)](#2009-fujifilm-fujicolor-pro-400h-ref-dc37)
 - [[2009] Kodak Portra 400VC (ref: 7669)](#2009-kodak-portra-400vc-ref-7669)
-- [[2009] Fujifilm Superia (ref: 0d8e)](#2009-fujifilm-superia-ref-0d8e)
+- [[2009] Fujifilm Fujicolor Superia (ref: 0d8e)](#2009-fujifilm-fujicolor-superia-ref-0d8e)
 - [[2009] Lloyds Pharmacy Colour Film (ref: 77d9)](#2009-lloyds-pharmacy-colour-film-ref-77d9)
-- [[2010] Fujifilm Superia Reala (ref: a624)](#2010-fujifilm-superia-reala-ref-a624)
+- [[2010] Fujifilm Fujicolor Superia Reala (ref: a624)](#2010-fujifilm-fujicolor-superia-reala-ref-a624)
 - [[2010] Kodak Ektachrome E100VS (ref: a8d3)](#2010-kodak-ektachrome-e100vs-ref-a8d3)
 - [[2010] Fujifilm Fujicolor 100 (ref: 013b)](#2010-fujifilm-fujicolor-100-ref-013b)
 - [[2012] Fujifilm Fujicolor Professional (ref: 28da)](#2012-fujifilm-fujicolor-professional-ref-28da)
@@ -168,14 +168,14 @@ Total scans : 476
 - [[2013] Kodak Professional Microfilm Type I (ref: a444)](#2013-kodak-professional-microfilm-type-i-ref-a444)
 - [[2014] Kodak Portra 400 (ref: cf9c)](#2014-kodak-portra-400-ref-cf9c)
 - [[2014] Fujifilm Fujicolor Natura 1600 (ref: 2e06)](#2014-fujifilm-fujicolor-natura-1600-ref-2e06)
-- [[2014] Fujifilm Provia 400X (ref: 3c08)](#2014-fujifilm-provia-400x-ref-3c08)
+- [[2014] Fujifilm Fujichrome Provia 400X (ref: 3c08)](#2014-fujifilm-fujichrome-provia-400x-ref-3c08)
 - [[2015] Fujifilm FP-100C (ref: 5cda)](#2015-fujifilm-fp-100c-ref-5cda)
 - [[2018] CineStill 800T (ref: c86a)](#2018-cinestill-800t-ref-c86a)
-- [[2018] Fujifilm Pro 400H (ref: 66e3)](#2018-fujifilm-pro-400h-ref-66e3)
+- [[2018] Fujifilm Fujicolor Pro 400H (ref: 66e3)](#2018-fujifilm-fujicolor-pro-400h-ref-66e3)
 - [[2019] Agfa Vista Plus (ref: f08a)](#2019-agfa-vista-plus-ref-f08a)
 - [[2019] Fujifilm Fujicolor Professional (ref: 02f7)](#2019-fujifilm-fujicolor-professional-ref-02f7)
 - [[2020] Fujifilm Fujicolor C200 (ref: 2ff8)](#2020-fujifilm-fujicolor-c200-ref-2ff8)
-- [[2020] Fujifilm Provia 100F (ref: 356d)](#2020-fujifilm-provia-100f-ref-356d)
+- [[2020] Fujifilm Fujichrome Provia 100F (ref: 356d)](#2020-fujifilm-fujichrome-provia-100f-ref-356d)
 - [[2020] Building 2 250D (ref: 7d4f)](#2020-building-2-250d-ref-7d4f)
 - [[2021] Building 2 200T (ref: c025)](#2021-building-2-200t-ref-c025)
 - [[2021] Building 2 500T (ref: 70d9)](#2021-building-2-500t-ref-70d9)
@@ -188,7 +188,7 @@ Total scans : 476
 - [[2022] Lomography Lomochrome Purple (ref: 8b00)](#2022-lomography-lomochrome-purple-ref-8b00)
 - [[2022] Rollei RPX 400 (ref: c097)](#2022-rollei-rpx-400-ref-c097)
 - [[2022] Kodak Portra 800 (ref: 21f9)](#2022-kodak-portra-800-ref-21f9)
-- [[2022] Fujifilm Pro 400H (ref: ff20)](#2022-fujifilm-pro-400h-ref-ff20)
+- [[2022] Fujifilm Fujicolor Pro 400H (ref: ff20)](#2022-fujifilm-fujicolor-pro-400h-ref-ff20)
 - [[2023] Kodak ProImage 100 (ref: fe32)](#2023-kodak-proimage-100-ref-fe32)
 - [[2023] Kodak UltraMax (ref: 3b23)](#2023-kodak-ultramax-ref-3b23)
 - [[2023] Lomography Lomochrome Metropolis (ref: 5546)](#2023-lomography-lomochrome-metropolis-ref-5546)
@@ -201,7 +201,7 @@ Total scans : 476
 - [[2024] Alien Film 5222/XX (ref: 3e49)](#2024-alien-film-5222xx-ref-3e49)
 - [[2024] CineStill 400D (ref: 88dc)](#2024-cinestill-400d-ref-88dc)
 - [[2024] Shanghai GP3 (ref: 52aa)](#2024-shanghai-gp3-ref-52aa)
-- [[2024] Fujifilm Superia X-TRA (ref: 8923)](#2024-fujifilm-superia-x-tra-ref-8923)
+- [[2024] Fujifilm Fujicolor Superia X-TRA (ref: 8923)](#2024-fujifilm-fujicolor-superia-x-tra-ref-8923)
 - [[2024] Ilford Delta 100 (ref: eb8d)](#2024-ilford-delta-100-ref-eb8d)
 - [[2024] Kodak Portra 400 (ref: 9f18)](#2024-kodak-portra-400-ref-9f18)
 - [[2024] Kodak Gold (ref: 6587)](#2024-kodak-gold-ref-6587)
@@ -226,7 +226,7 @@ Total scans : 476
 - [[2025] Harman Phoenix (ref: 8eb4)](#2025-harman-phoenix-ref-8eb4)
 - [[2025] Kodak Tri-X 400 (ref: 88c5)](#2025-kodak-tri-x-400-ref-88c5)
 - [[2025] Three Film Rolls 5207 (ref: 0292)](#2025-three-film-rolls-5207-ref-0292)
-- [[2026] Fujifilm Superia X-TRA (ref: 6b8a)](#2026-fujifilm-superia-x-tra-ref-6b8a)
+- [[2026] Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)](#2026-fujifilm-fujicolor-superia-x-tra-ref-6b8a)
 - [[2026] Lomography Fantome (ref: 4340)](#2026-lomography-fantome-ref-4340)
 - [[2026] Rollei Retro 80S (ref: e6c0)](#2026-rollei-retro-80s-ref-e6c0)
 - [[2026] Bergger Pancro400 (ref: ad7b)](#2026-bergger-pancro400-ref-ad7b)
@@ -250,7 +250,7 @@ Total scans : 476
 - [[2026] Kodak Ektar 100 (ref: 3498)](#2026-kodak-ektar-100-ref-3498)
 - [[2026] Kodak Tri-X 400 (ref: c671)](#2026-kodak-tri-x-400-ref-c671)
 - [[2026] Lomography Tiger (ref: 26dd)](#2026-lomography-tiger-ref-26dd)
-- [[2026] Fujifilm Provia 100F (ref: df27)](#2026-fujifilm-provia-100f-ref-df27)
+- [[2026] Fujifilm Fujichrome Provia 100F (ref: df27)](#2026-fujifilm-fujichrome-provia-100f-ref-df27)
 - [[2026] Kodak Portra 400 (ref: c869)](#2026-kodak-portra-400-ref-c869)
 - [[2026] Kodak Gold 200 (ref: 933f)](#2026-kodak-gold-200-ref-933f)
 - [[2026] Bergger Pancro400 (ref: f619)](#2026-bergger-pancro400-ref-f619)
@@ -1747,7 +1747,7 @@ UUID  : 0953325be5e54102b7615a7a5f82bf60
 	<img src="./lowres/00268_000.jpg" alt="Max Spielmann Maxi Color 35mm film box outside" loading="lazy" width="453" height="500">
 </a>
 
-#### [1998] Fujifilm Sensia (ref: a59b)
+#### [1998] Fujifilm Fujichrome Sensia (ref: a59b)
 
 ```
 Format: 35mm         |  Process : E-6     
@@ -1758,14 +1758,14 @@ UUID  : d4fdfa0d829f4fcab984381a31f2a59b
 ```
 
 <a href="./archive/00116_000.jpg">
-	<img src="./lowres/00116_000.jpg" alt="Fujifilm Sensia 35mm film box outside" loading="lazy" width="424" height="500">
+	<img src="./lowres/00116_000.jpg" alt="Fujifilm Fujichrome Sensia 35mm film box outside" loading="lazy" width="424" height="500">
 </a>
 
 
 `UUID: 4f21cef93ed3401caed74619ffa2b595`↓
 
 <a href="./archive/00116_001.jpg">
-	<img src="./lowres/00116_001.jpg" alt="Fujifilm Sensia 35mm film box inside" loading="lazy" width="418" height="500">
+	<img src="./lowres/00116_001.jpg" alt="Fujifilm Fujichrome Sensia 35mm film box inside" loading="lazy" width="418" height="500">
 </a>
 
 #### [1998] Klick XD200 (ref: 44d7)
@@ -2342,7 +2342,7 @@ UUID  : dd3a6c347560484295ca09c86e3dfe53
 	<img src="./lowres/00138_001.jpg" alt="Konica KonicaColor VX 200 35mm film box inside" loading="lazy" width="487" height="500">
 </a>
 
-#### [2003] Fujifilm Superia X-TRA (ref: 713b)
+#### [2003] Fujifilm Fujicolor Superia X-TRA (ref: 713b)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -2353,14 +2353,14 @@ UUID  : 89750d8a18fe4e238c76b97b4578713b
 ```
 
 <a href="./archive/00197_000.jpg">
-	<img src="./lowres/00197_000.jpg" alt="Fujifilm Superia X-TRA 35mm film box outside" loading="lazy" width="412" height="499">
+	<img src="./lowres/00197_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box outside" loading="lazy" width="412" height="499">
 </a>
 
 
 `UUID: 560832b2cfff4e60930fd3116f1ccffc`↓
 
 <a href="./archive/00197_001.jpg">
-	<img src="./lowres/00197_001.jpg" alt="Fujifilm Superia X-TRA 35mm film box inside" loading="lazy" width="425" height="500">
+	<img src="./lowres/00197_001.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box inside" loading="lazy" width="425" height="500">
 </a>
 
 #### [2003] Fujifilm Fujicolor Super G (ref: 55ff)
@@ -2412,7 +2412,7 @@ UUID  : 0b59ba932e214f03a5069488e9651b8d
 	<img src="./lowres/00221_000.jpg" alt="Fujifilm Fujicolor Pro400 120 film box outside" loading="lazy" width="488" height="500">
 </a>
 
-#### [2003] Fujifilm Superia (ref: 9272)
+#### [2003] Fujifilm Fujicolor Superia (ref: 9272)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -2423,10 +2423,10 @@ UUID  : 2acd2ce4aefb44b4a4c72b130edb9272
 ```
 
 <a href="./archive/00229_000.jpg">
-	<img src="./lowres/00229_000.jpg" alt="Fujifilm Superia 35mm film box outside" loading="lazy" width="312" height="500">
+	<img src="./lowres/00229_000.jpg" alt="Fujifilm Fujicolor Superia 35mm film box outside" loading="lazy" width="312" height="500">
 </a>
 
-#### [2003] Fujifilm NPS 160 (ref: 5e85)
+#### [2003] Fujifilm Fujicolor NPS 160 (ref: 5e85)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -2437,14 +2437,14 @@ UUID  : 576142521c2f4fe5abc387032bcc5e85
 ```
 
 <a href="./archive/00053_000.jpg">
-	<img src="./lowres/00053_000.jpg" alt="Fujifilm NPS 160 35mm film box outside" loading="lazy" width="500" height="500">
+	<img src="./lowres/00053_000.jpg" alt="Fujifilm Fujicolor NPS 160 35mm film box outside" loading="lazy" width="500" height="500">
 </a>
 
 
 `UUID: a11cf7e8abea41a8854da816157269c4`↓
 
 <a href="./archive/00053_001.jpg">
-	<img src="./lowres/00053_001.jpg" alt="Fujifilm NPS 160 35mm film box inside" loading="lazy" width="449" height="500">
+	<img src="./lowres/00053_001.jpg" alt="Fujifilm Fujicolor NPS 160 35mm film box inside" loading="lazy" width="449" height="500">
 </a>
 
 #### [2003] Agfa Vista (ref: d3af)
@@ -2468,7 +2468,7 @@ UUID  : f1e50745927f4b7cb16af36fd30dd3af
 	<img src="./lowres/00014_001.jpg" alt="Agfa Vista 35mm film box inside" loading="lazy" width="500" height="338">
 </a>
 
-#### [2004] Fujifilm Superia X-TRA (ref: 7980)
+#### [2004] Fujifilm Fujicolor Superia X-TRA (ref: 7980)
 
 ```
 Format: 120          |  Process : C-41    
@@ -2479,14 +2479,14 @@ UUID  : 9e774f36e4d34b3c81a30a5b44da7980
 ```
 
 <a href="./archive/00209_000.jpg">
-	<img src="./lowres/00209_000.jpg" alt="Fujifilm Superia X-TRA 120 film box outside" loading="lazy" width="500" height="495">
+	<img src="./lowres/00209_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 120 film box outside" loading="lazy" width="500" height="495">
 </a>
 
 
 `UUID: 434f763fea0d4c4c9dc5aeb2eb10e8aa`↓
 
 <a href="./archive/00209_001.jpg">
-	<img src="./lowres/00209_001.jpg" alt="Fujifilm Superia X-TRA 120 film box inside" loading="lazy" width="485" height="499">
+	<img src="./lowres/00209_001.jpg" alt="Fujifilm Fujicolor Superia X-TRA 120 film box inside" loading="lazy" width="485" height="499">
 </a>
 
 #### [2004] Kodak Black & White + (ref: 2ff3)
@@ -2552,7 +2552,7 @@ UUID  : 348bccb01edc4a6ea9a2f5c4d88cb67b
 	<img src="./lowres/00243_003.jpg" alt="Kodak Portra 400VC 120 film box inside" loading="lazy" width="500" height="401">
 </a>
 
-#### [2005] Fujifilm Superia X-TRA (ref: 0446)
+#### [2005] Fujifilm Fujicolor Superia X-TRA (ref: 0446)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -2563,7 +2563,7 @@ UUID  : 16351828954846229e7a4ca1193d0446
 ```
 
 <a href="./archive/00232_000.jpg">
-	<img src="./lowres/00232_000.jpg" alt="Fujifilm Superia X-TRA 35mm film box outside" loading="lazy" width="306" height="500">
+	<img src="./lowres/00232_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box outside" loading="lazy" width="306" height="500">
 </a>
 
 #### [2005] Agfa Agfacolor XRG (ref: 689e)
@@ -2671,7 +2671,7 @@ UUID  : bb62de3a22c04f699c780aeae7c83566
 	<img src="./lowres/00020_000.jpg" alt="Polaroid 669 Pack Film film box outside" loading="lazy" width="500" height="362">
 </a>
 
-#### [2006] Fujifilm Velvia 100F (ref: f7fb)
+#### [2006] Fujifilm Fujichrome Velvia 100F (ref: f7fb)
 
 ```
 Format: 120          |  Process : E-6     
@@ -2682,7 +2682,7 @@ UUID  : 0fef128c3b17437eb25d5c4f0520f7fb
 ```
 
 <a href="./archive/00023_000.jpg">
-	<img src="./lowres/00023_000.jpg" alt="Fujifilm Velvia 100F 120 film box outside" loading="lazy" width="397" height="500">
+	<img src="./lowres/00023_000.jpg" alt="Fujifilm Fujichrome Velvia 100F 120 film box outside" loading="lazy" width="397" height="500">
 </a>
 
 #### [2006] Rossmann Jahreszeiten Pack (ref: 7670)
@@ -2853,7 +2853,7 @@ UUID  : 42f73c1448634cdb856d014e59098779
 	<img src="./lowres/00270_001.jpg" alt="Klick 400ASA 35mm film box inside" loading="lazy" width="434" height="500">
 </a>
 
-#### [2007] Fujifilm Velvia 100F (ref: 32d4)
+#### [2007] Fujifilm Fujichrome Velvia 100F (ref: 32d4)
 
 ```
 Format: 35mm         |  Process : E-6     
@@ -2864,7 +2864,7 @@ UUID  : ce5c1d786286427ba5633091b06432d4
 ```
 
 <a href="./archive/00056_000.jpg">
-	<img src="./lowres/00056_000.jpg" alt="Fujifilm Velvia 100F 35mm film box outside" loading="lazy" width="424" height="500">
+	<img src="./lowres/00056_000.jpg" alt="Fujifilm Fujichrome Velvia 100F 35mm film box outside" loading="lazy" width="424" height="500">
 </a>
 
 #### [2007] Kodak MAX (ref: 2361)
@@ -2881,7 +2881,7 @@ UUID  : 5d0c054ebc17452397de86653bf42361
 	<img src="./lowres/00234_000.jpg" alt="Kodak MAX 35mm film box outside" loading="lazy" width="327" height="500">
 </a>
 
-#### [2007] Fujifilm Superia Reala (ref: a7de)
+#### [2007] Fujifilm Fujicolor Superia Reala (ref: a7de)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -2892,7 +2892,7 @@ UUID  : bab5fa204b25431a9872c4ce8e9aa7de
 ```
 
 <a href="./archive/00087_000.jpg">
-	<img src="./lowres/00087_000.jpg" alt="Fujifilm Superia Reala 35mm film box outside" loading="lazy" width="430" height="500">
+	<img src="./lowres/00087_000.jpg" alt="Fujifilm Fujicolor Superia Reala 35mm film box outside" loading="lazy" width="430" height="500">
 </a>
 
 #### [2007] Kodak Kodachrome 64 (ref: 3206)
@@ -2923,7 +2923,7 @@ UUID  : 44bd7d4688e04d19a958d961c2abc7cf
 	<img src="./lowres/00067_000.jpg" alt="Lloyds Pharmacy APS Film APS film box outside" loading="lazy" width="418" height="500">
 </a>
 
-#### [2007] Fujifilm Pro 400H (ref: 48ed)
+#### [2007] Fujifilm Fujicolor Pro 400H (ref: 48ed)
 
 ```
 Format: 220          |  Process : C-41    
@@ -2934,21 +2934,21 @@ UUID  : fae60be8fc0745c3965f24b1778e48ed
 ```
 
 <a href="./archive/00247_000.jpg">
-	<img src="./lowres/00247_000.jpg" alt="Fujifilm Pro 400H 220 film box outside" loading="lazy" width="484" height="500">
+	<img src="./lowres/00247_000.jpg" alt="Fujifilm Fujicolor Pro 400H 220 film box outside" loading="lazy" width="484" height="500">
 </a>
 
 
 `UUID: a305e39dc3f041d1bf59e7dc2504835c`↓
 
 <a href="./archive/00247_001.jpg">
-	<img src="./lowres/00247_001.jpg" alt="Fujifilm Pro 400H 220 film box outside" loading="lazy" width="500" height="265">
+	<img src="./lowres/00247_001.jpg" alt="Fujifilm Fujicolor Pro 400H 220 film box outside" loading="lazy" width="500" height="265">
 </a>
 
 
 `UUID: a10a19f268084ce881ab55f247f1035f`↓
 
 <a href="./archive/00247_002.jpg">
-	<img src="./lowres/00247_002.jpg" alt="Fujifilm Pro 400H 220 film box inside" loading="lazy" width="500" height="440">
+	<img src="./lowres/00247_002.jpg" alt="Fujifilm Fujicolor Pro 400H 220 film box inside" loading="lazy" width="500" height="440">
 </a>
 
 #### [2007] Kodak Elite Chrome (ref: 3943)
@@ -3014,7 +3014,7 @@ UUID  : 77352e93d73748eca98cff7b30d7883e
 	<img src="./lowres/00103_001.jpg" alt="Kodak High Speed Infrared 35mm film box inside" loading="lazy" width="466" height="500">
 </a>
 
-#### [2009] Fujifilm Pro 400H (ref: dc37)
+#### [2009] Fujifilm Fujicolor Pro 400H (ref: dc37)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -3025,14 +3025,14 @@ UUID  : 9934366ea7a04b65b3c300352fa8dc37
 ```
 
 <a href="./archive/00249_000.jpg">
-	<img src="./lowres/00249_000.jpg" alt="Fujifilm Pro 400H 35mm film box outside" loading="lazy" width="431" height="499">
+	<img src="./lowres/00249_000.jpg" alt="Fujifilm Fujicolor Pro 400H 35mm film box outside" loading="lazy" width="431" height="499">
 </a>
 
 
 `UUID: df9f856987284644858ab4590872c133`↓
 
 <a href="./archive/00249_001.jpg">
-	<img src="./lowres/00249_001.jpg" alt="Fujifilm Pro 400H 35mm film box inside" loading="lazy" width="431" height="499">
+	<img src="./lowres/00249_001.jpg" alt="Fujifilm Fujicolor Pro 400H 35mm film box inside" loading="lazy" width="431" height="499">
 </a>
 
 #### [2009] Kodak Portra 400VC (ref: 7669)
@@ -3049,7 +3049,7 @@ UUID  : 2152a58cb08c463ea298a61858ff7669
 	<img src="./lowres/00242_000.jpg" alt="Kodak Portra 400VC 35mm film box outside" loading="lazy" width="500" height="377">
 </a>
 
-#### [2009] Fujifilm Superia (ref: 0d8e)
+#### [2009] Fujifilm Fujicolor Superia (ref: 0d8e)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -3060,7 +3060,7 @@ UUID  : a57061210f17463fae293851f2130d8e
 ```
 
 <a href="./archive/00199_000.jpg">
-	<img src="./lowres/00199_000.jpg" alt="Fujifilm Superia 35mm film box outside" loading="lazy" width="426" height="500">
+	<img src="./lowres/00199_000.jpg" alt="Fujifilm Fujicolor Superia 35mm film box outside" loading="lazy" width="426" height="500">
 </a>
 
 #### [2009] Lloyds Pharmacy Colour Film (ref: 77d9)
@@ -3077,7 +3077,7 @@ UUID  : c58dda071d1741fda90e20b4252277d9
 	<img src="./lowres/00013_000.jpg" alt="Lloyds Pharmacy Colour Film 35mm film box outside" loading="lazy" width="500" height="395">
 </a>
 
-#### [2010] Fujifilm Superia Reala (ref: a624)
+#### [2010] Fujifilm Fujicolor Superia Reala (ref: a624)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -3088,7 +3088,7 @@ UUID  : 47af4374c1474eb3b20cb1894b43a624
 ```
 
 <a href="./archive/00230_000.jpg">
-	<img src="./lowres/00230_000.jpg" alt="Fujifilm Superia Reala 35mm film box outside" loading="lazy" width="431" height="500">
+	<img src="./lowres/00230_000.jpg" alt="Fujifilm Fujicolor Superia Reala 35mm film box outside" loading="lazy" width="431" height="500">
 </a>
 
 #### [2010] Kodak Ektachrome E100VS (ref: a8d3)
@@ -3308,7 +3308,7 @@ UUID  : 8abda51b18d84ec4939df489457d2e06
 	<img src="./lowres/00177_002.jpg" alt="Fujifilm Fujicolor Natura 1600 35mm film box outside" loading="lazy" width="500" height="258">
 </a>
 
-#### [2014] Fujifilm Provia 400X (ref: 3c08)
+#### [2014] Fujifilm Fujichrome Provia 400X (ref: 3c08)
 
 ```
 Format: 120          |  Process : E-6     
@@ -3319,14 +3319,14 @@ UUID  : 3a84e3b505004d069104ff0042d03c08
 ```
 
 <a href="./archive/00248_000.jpg">
-	<img src="./lowres/00248_000.jpg" alt="Fujifilm Provia 400X 120 film box outside" loading="lazy" width="500" height="437">
+	<img src="./lowres/00248_000.jpg" alt="Fujifilm Fujichrome Provia 400X 120 film box outside" loading="lazy" width="500" height="437">
 </a>
 
 
 `UUID: db24477938104d81beddac492c8d637e`↓
 
 <a href="./archive/00248_001.jpg">
-	<img src="./lowres/00248_001.jpg" alt="Fujifilm Provia 400X 120 film box outside" loading="lazy" width="500" height="220">
+	<img src="./lowres/00248_001.jpg" alt="Fujifilm Fujichrome Provia 400X 120 film box outside" loading="lazy" width="500" height="220">
 </a>
 
 #### [2015] Fujifilm FP-100C (ref: 5cda)
@@ -3371,7 +3371,7 @@ UUID  : 53253eca96d841f5b98bfb3590fec86a
 	<img src="./lowres/00006_001.jpg" alt="CineStill 800T 120 film box inside" loading="lazy" width="500" height="335">
 </a>
 
-#### [2018] Fujifilm Pro 400H (ref: 66e3)
+#### [2018] Fujifilm Fujicolor Pro 400H (ref: 66e3)
 
 ```
 Format: 120          |  Process : C-41    
@@ -3382,7 +3382,7 @@ UUID  : 0d89ecf11f3c46deb52171aa909566e3
 ```
 
 <a href="./archive/00022_000.jpg">
-	<img src="./lowres/00022_000.jpg" alt="Fujifilm Pro 400H 120 film box outside" loading="lazy" width="408" height="500">
+	<img src="./lowres/00022_000.jpg" alt="Fujifilm Fujicolor Pro 400H 120 film box outside" loading="lazy" width="408" height="500">
 </a>
 
 #### [2019] Agfa Vista Plus (ref: f08a)
@@ -3434,7 +3434,7 @@ UUID  : 271054727291471392db72d5556f2ff8
 	<img src="./lowres/00202_000.jpg" alt="Fujifilm Fujicolor C200 35mm film box outside" loading="lazy" width="419" height="500">
 </a>
 
-#### [2020] Fujifilm Provia 100F (ref: 356d)
+#### [2020] Fujifilm Fujichrome Provia 100F (ref: 356d)
 
 ```
 Format: 35mm         |  Process : E-6     
@@ -3445,7 +3445,7 @@ UUID  : a3603dbdd8ca49b893c8ce2bc76f356d
 ```
 
 <a href="./archive/00055_000.jpg">
-	<img src="./lowres/00055_000.jpg" alt="Fujifilm Provia 100F 35mm film box outside" loading="lazy" width="432" height="500">
+	<img src="./lowres/00055_000.jpg" alt="Fujifilm Fujichrome Provia 100F 35mm film box outside" loading="lazy" width="432" height="500">
 </a>
 
 #### [2020] Building 2 250D (ref: 7d4f)
@@ -3644,7 +3644,7 @@ UUID  : 3663afb2b2d340d3a5c9e0d0e9f021f9
 	<img src="./lowres/00240_001.jpg" alt="Kodak Portra 800 120 film box outside" loading="lazy" width="500" height="335">
 </a>
 
-#### [2022] Fujifilm Pro 400H (ref: ff20)
+#### [2022] Fujifilm Fujicolor Pro 400H (ref: ff20)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -3655,7 +3655,7 @@ UUID  : 3167bab31b134176a6d637dc1491ff20
 ```
 
 <a href="./archive/00250_000.jpg">
-	<img src="./lowres/00250_000.jpg" alt="Fujifilm Pro 400H 35mm film box outside" loading="lazy" width="420" height="499">
+	<img src="./lowres/00250_000.jpg" alt="Fujifilm Fujicolor Pro 400H 35mm film box outside" loading="lazy" width="420" height="499">
 </a>
 
 #### [2023] Kodak ProImage 100 (ref: fe32)
@@ -3854,7 +3854,7 @@ UUID  : 0e16f7ae50164c658acd22b8d62e52aa
 	<img src="./lowres/00050_000.jpg" alt="Shanghai GP3 127 film box outside" loading="lazy" width="500" height="400">
 </a>
 
-#### [2024] Fujifilm Superia X-TRA (ref: 8923)
+#### [2024] Fujifilm Fujicolor Superia X-TRA (ref: 8923)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -3865,7 +3865,7 @@ UUID  : de6b17f5230e4052b6b166977a418923
 ```
 
 <a href="./archive/00231_000.jpg">
-	<img src="./lowres/00231_000.jpg" alt="Fujifilm Superia X-TRA 35mm film box outside" loading="lazy" width="464" height="500">
+	<img src="./lowres/00231_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box outside" loading="lazy" width="464" height="500">
 </a>
 
 #### [2024] Ilford Delta 100 (ref: eb8d)
@@ -4316,7 +4316,7 @@ UUID  : 4de0f5e76dd748c488fa81be23340292
 	<img src="./lowres/00059_000.jpg" alt="Three Film Rolls 5207 35mm film box outside" loading="lazy" width="452" height="500">
 </a>
 
-#### [2026] Fujifilm Superia X-TRA (ref: 6b8a)
+#### [2026] Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -4327,7 +4327,7 @@ UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
 ```
 
 <a href="./archive/00165_000.jpg">
-	<img src="./lowres/00165_000.jpg" alt="Fujifilm Superia X-TRA 35mm film box outside" loading="lazy" width="460" height="499">
+	<img src="./lowres/00165_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box outside" loading="lazy" width="460" height="499">
 </a>
 
 #### [2026] Lomography Fantome (ref: 4340)
@@ -4708,7 +4708,7 @@ UUID  : e8a5b04ef68c43ae9e79df89123726dd
 	<img src="./lowres/00143_000.jpg" alt="Lomography Tiger 110 film box outside" loading="lazy" width="317" height="500">
 </a>
 
-#### [2026] Fujifilm Provia 100F (ref: df27)
+#### [2026] Fujifilm Fujichrome Provia 100F (ref: df27)
 
 ```
 Format: 35mm         |  Process : E-6     
@@ -4719,7 +4719,7 @@ UUID  : 480a75f9978b4fba84c81a8a9e95df27
 ```
 
 <a href="./archive/00167_000.jpg">
-	<img src="./lowres/00167_000.jpg" alt="Fujifilm Provia 100F 35mm film box outside" loading="lazy" width="421" height="500">
+	<img src="./lowres/00167_000.jpg" alt="Fujifilm Fujichrome Provia 100F 35mm film box outside" loading="lazy" width="421" height="500">
 </a>
 
 #### [2026] Kodak Portra 400 (ref: c869)
