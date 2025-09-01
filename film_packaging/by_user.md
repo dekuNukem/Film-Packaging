@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 30 2025
-Unique items: 274
-Total scans : 468
+Last Updated: Sep 01 2025
+Unique items: 275
+Total scans : 470
 ```
 
 -----
@@ -101,6 +101,7 @@ Total scans : 468
 - [[@photos.by.qi] Space Cat Film Mars 250D (ref: 5027)](#photosbyqi-space-cat-film-mars-250d-ref-5027)
 - [[@photos.by.qi] Walkens Speed 400 (ref: 740f)](#photosbyqi-walkens-speed-400-ref-740f)
 - [[@recycling.film] Agfa APX 25 (ref: 805f)](#recyclingfilm-agfa-apx-25-ref-805f)
+- [[@recycling.film] Fujifilm FP-100C (ref: 5cda)](#recyclingfilm-fujifilm-fp-100c-ref-5cda)
 - [[@recycling.film] Fujifilm Fujicolor C200 (ref: 2ff8)](#recyclingfilm-fujifilm-fujicolor-c200-ref-2ff8)
 - [[@recycling.film] Fujifilm Superia (ref: 0d8e)](#recyclingfilm-fujifilm-superia-ref-0d8e)
 - [[@recycling.film] Fujifilm Superia Reala (ref: a7de)](#recyclingfilm-fujifilm-superia-reala-ref-a7de)
@@ -1691,6 +1692,27 @@ UUID  : 4ef7e8e28d2c4c589d24d9e12135805f
 
 <a href="./archive/00198_001.jpg">
 	<img src="./lowres/00198_001.jpg" alt="Agfa APX 25 35mm film box inside" loading="lazy" width="420" height="500">
+</a>
+
+#### [@recycling.film] Fujifilm FP-100C (ref: 5cda)
+
+```
+Format: Pack Film    |  Process : Instant 
+ISO   : 100          |  Expiry  : 2015-01 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2025-09-01   |  Author  : @recycling.film
+UUID  : 9bf3702e732a42adb54727a565645cda
+```
+
+<a href="./archive/00277_000.jpg">
+	<img src="./lowres/00277_000.jpg" alt="Fujifilm FP-100C Pack Film film box outside" loading="lazy" width="500" height="353">
+</a>
+
+
+`UUID: bfb832790e754aa0ba98a030969ab95d`↓
+
+<a href="./archive/00277_001.jpg">
+	<img src="./lowres/00277_001.jpg" alt="Fujifilm FP-100C Pack Film film box inside" loading="lazy" width="500" height="353">
 </a>
 
 #### [@recycling.film] Fujifilm Fujicolor C200 (ref: 2ff8)
@@ -5510,9 +5532,9 @@ Rank  Username                      Contributions
 5     Camera.Riley                  19    
 6     Nano_Burger                   18    
 7     @ob.skura                     16    
-8     b0baspace                     14    
-9     @SirBrentsworth               13    
-10    @recycling.film               13    
+8     @recycling.film               15    
+9     b0baspace                     14    
+10    @SirBrentsworth               13    
 11    toader                        13    
 12    stefanie                      12    
 13    yc128                         11    

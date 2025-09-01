@@ -467,3 +467,5 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 275,1,film_box_inside,Kodak,Ektachrome 100HC,35mm,100,E-6,199411,1756513756,aede321bc7700c04514964e5362c4252,de18a3dd00a744a3973965244938320f,00275_001.jpg,dekuNukem,,Single Pack,36exp
 276,0,film_box_outside,Kodak,Ektachrome 100HC,35mm,100,E-6,199411,1756513843,44434d4f3580e9693f0b1e7e86c495e6,064dbfe80ca84ac99329c252bce0775a,00276_000.jpg,dekuNukem,,Single Pack,36exp
 276,1,film_box_inside,Kodak,Ektachrome 100HC,35mm,100,E-6,199411,1756513845,d073d7aa36c36fbfdb03a17d80ac4621,3c397dbea68649edb38d6464d6516746,00276_001.jpg,dekuNukem,,Single Pack,36exp
+277,0,film_box_outside,Fujifilm,FP-100C,Pack Film,100,Instant,201501,1756725620,7d4d389d889c7c59f83b83894cad6c8e,9bf3702e732a42adb54727a565645cda,00277_000.jpg,@recycling.film,,Single Pack,10exp
+277,1,film_box_inside,Fujifilm,FP-100C,Pack Film,100,Instant,201501,1756725621,d31caecdb036c6f5d2dcd60b15febabb,bfb832790e754aa0ba98a030969ab95d,00277_001.jpg,@recycling.film,,Single Pack,10exp

@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 30 2025
-Unique items: 274
-Total scans : 468
+Last Updated: Sep 01 2025
+Unique items: 275
+Total scans : 470
 ```
 
 -----
@@ -291,6 +291,7 @@ Total scans : 468
 - [[Integral Film] Polaroid Color 600 Film Round Frame (ref: d985)](#integral-film-polaroid-color-600-film-round-frame-ref-d985)
 - [[Integral Film] Polaroid Color SX-70 Film (ref: dc7f)](#integral-film-polaroid-color-sx-70-film-ref-dc7f)
 - [[Integral Film] Polaroid GridFilm (ref: 8deb)](#integral-film-polaroid-gridfilm-ref-8deb)
+- [[Pack Film] Fujifilm FP-100C (ref: 5cda)](#pack-film-fujifilm-fp-100c-ref-5cda)
 - [[Pack Film] Polaroid 665 (ref: e054)](#pack-film-polaroid-665-ref-e054)
 - [[Pack Film] Polaroid 669 (ref: 3566)](#pack-film-polaroid-669-ref-3566)
 - [[Pack Film] Polaroid 87 (ref: 62ef)](#pack-film-polaroid-87-ref-62ef)
@@ -5368,6 +5369,27 @@ UUID  : 4f1aabf29f724c9ea3b2bee414b08deb
 	<img src="./lowres/00031_003.jpg" alt="Polaroid GridFilm Integral Film film box inside" loading="lazy" width="500" height="340">
 </a>
 
+#### [Pack Film] Fujifilm FP-100C (ref: 5cda)
+
+```
+Format: Pack Film    |  Process : Instant 
+ISO   : 100          |  Expiry  : 2015-01 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2025-09-01   |  Author  : @recycling.film
+UUID  : 9bf3702e732a42adb54727a565645cda
+```
+
+<a href="./archive/00277_000.jpg">
+	<img src="./lowres/00277_000.jpg" alt="Fujifilm FP-100C Pack Film film box outside" loading="lazy" width="500" height="353">
+</a>
+
+
+`UUID: bfb832790e754aa0ba98a030969ab95d`↓
+
+<a href="./archive/00277_001.jpg">
+	<img src="./lowres/00277_001.jpg" alt="Fujifilm FP-100C Pack Film film box inside" loading="lazy" width="500" height="353">
+</a>
+
 #### [Pack Film] Polaroid 665 (ref: e054)
 
 ```
@@ -5510,9 +5532,9 @@ Rank  Username                      Contributions
 5     Camera.Riley                  19    
 6     Nano_Burger                   18    
 7     @ob.skura                     16    
-8     b0baspace                     14    
-9     @SirBrentsworth               13    
-10    @recycling.film               13    
+8     @recycling.film               15    
+9     b0baspace                     14    
+10    @SirBrentsworth               13    
 11    toader                        13    
 12    stefanie                      12    
 13    yc128                         11    

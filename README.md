@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 30 2025
-Unique items: 274
-Total scans : 468
+Last Updated: Sep 01 2025
+Unique items: 275
+Total scans : 470
 ```
 
 Or Sort by...
@@ -58,9 +58,9 @@ Rank  Username                      Contributions
 5     Camera.Riley                  19    
 6     Nano_Burger                   18    
 7     @ob.skura                     16    
-8     b0baspace                     14    
-9     @SirBrentsworth               13    
-10    @recycling.film               13    
+8     @recycling.film               15    
+9     b0baspace                     14    
+10    @SirBrentsworth               13    
 11    toader                        13    
 12    stefanie                      12    
 13    yc128                         11    
@@ -82,6 +82,9 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-09-01
+  - @recycling.film: Fujifilm FP-100C
+
 2025-08-30
   - dekuNukem: Agfa AgfaColor CT 18
   - dekuNukem: Klick 400ASA
@@ -146,15 +149,6 @@ Rank  Username                      Contributions
   - @photos.by.qi: Lomography Lomochrome Purple
   - @photos.by.qi: Space Cat Film Mars 250D
   - @photos.by.qi: Walkens Speed 400
-
-2025-08-19
-  - @ellafridalindblom: Defender Portrait HGS
-  - @ellafridalindblom: Foton Fotopan F
-  - @ellafridalindblom: Fujifilm Superia X-TRA
-  - @ellafridalindblom: Hands On Film Midnight 1600
-  - @ellafridalindblom: Hasselblad Hassel-plåtar E.R.Orto
-  - @ellafridalindblom: Illingworth's Fleet H&D
-  - @ellafridalindblom: Kodak Ektachrome Slide Duplicating Film
 ```
 
 ## Disclaimer

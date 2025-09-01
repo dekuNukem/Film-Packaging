@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 30 2025
-Unique items: 274
-Total scans : 468
+Last Updated: Sep 01 2025
+Unique items: 275
+Total scans : 470
 ```
 
 -----
@@ -165,6 +165,7 @@ Total scans : 468
 - [[2014] Kodak Portra 400 (ref: cf9c)](#2014-kodak-portra-400-ref-cf9c)
 - [[2014] Fujifilm Fujicolor Natura 1600 (ref: 2e06)](#2014-fujifilm-fujicolor-natura-1600-ref-2e06)
 - [[2014] Fujifilm Provia 400X (ref: 3c08)](#2014-fujifilm-provia-400x-ref-3c08)
+- [[2015] Fujifilm FP-100C (ref: 5cda)](#2015-fujifilm-fp-100c-ref-5cda)
 - [[2018] CineStill 800T (ref: c86a)](#2018-cinestill-800t-ref-c86a)
 - [[2018] Fujifilm Pro 400H (ref: 66e3)](#2018-fujifilm-pro-400h-ref-66e3)
 - [[2019] Agfa Vista Plus (ref: f08a)](#2019-agfa-vista-plus-ref-f08a)
@@ -3254,6 +3255,27 @@ UUID  : 3a84e3b505004d069104ff0042d03c08
 	<img src="./lowres/00248_001.jpg" alt="Fujifilm Provia 400X 120 film box outside" loading="lazy" width="500" height="220">
 </a>
 
+#### [2015] Fujifilm FP-100C (ref: 5cda)
+
+```
+Format: Pack Film    |  Process : Instant 
+ISO   : 100          |  Expiry  : 2015-01 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2025-09-01   |  Author  : @recycling.film
+UUID  : 9bf3702e732a42adb54727a565645cda
+```
+
+<a href="./archive/00277_000.jpg">
+	<img src="./lowres/00277_000.jpg" alt="Fujifilm FP-100C Pack Film film box outside" loading="lazy" width="500" height="353">
+</a>
+
+
+`UUID: bfb832790e754aa0ba98a030969ab95d`↓
+
+<a href="./archive/00277_001.jpg">
+	<img src="./lowres/00277_001.jpg" alt="Fujifilm FP-100C Pack Film film box inside" loading="lazy" width="500" height="353">
+</a>
+
 #### [2018] CineStill 800T (ref: c86a)
 
 ```
@@ -5510,9 +5532,9 @@ Rank  Username                      Contributions
 5     Camera.Riley                  19    
 6     Nano_Burger                   18    
 7     @ob.skura                     16    
-8     b0baspace                     14    
-9     @SirBrentsworth               13    
-10    @recycling.film               13    
+8     @recycling.film               15    
+9     b0baspace                     14    
+10    @SirBrentsworth               13    
 11    toader                        13    
 12    stefanie                      12    
 13    yc128                         11    
