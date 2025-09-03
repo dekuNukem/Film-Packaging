@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 01 2025
-Unique items: 279
-Total scans : 476
+Last Updated: Sep 03 2025
+Unique items: 291
+Total scans : 493
 ```
 
 -----
@@ -32,13 +32,18 @@ Total scans : 476
 - [[BW] Agfa Agfapan APX 400 (ref: 19bc)](#bw-agfa-agfapan-apx-400-ref-19bc)
 - [[BW] Agfa Agfapan Rapid (ref: 5e7b)](#bw-agfa-agfapan-rapid-ref-5e7b)
 - [[BW] Agfa Autolith Repo (ref: 8e68)](#bw-agfa-autolith-repo-ref-8e68)
+- [[BW] Agfa Extra Rapid Platten (ref: 7418)](#bw-agfa-extra-rapid-platten-ref-7418)
 - [[BW] Agfa Fine-Grain Plenachrome (ref: e5d4)](#bw-agfa-fine-grain-plenachrome-ref-e5d4)
 - [[BW] Agfa Isopan FF (ref: 3700)](#bw-agfa-isopan-ff-ref-3700)
 - [[BW] Agfa Isopan ISS (ref: 75fa)](#bw-agfa-isopan-iss-ref-75fa)
+- [[BW] Agfa Trockenplatten (ref: 0937)](#bw-agfa-trockenplatten-ref-0937)
+- [[BW] Agfa Trockenplatten (ref: 41a8)](#bw-agfa-trockenplatten-ref-41a8)
 - [[BW] Alien Film 5222/XX (ref: 3e49)](#bw-alien-film-5222xx-ref-3e49)
 - [[BW] Bergger Pancro400 (ref: ad7b)](#bw-bergger-pancro400-ref-ad7b)
 - [[BW] Bergger Pancro400 (ref: f619)](#bw-bergger-pancro400-ref-f619)
 - [[BW] CatLABS X Film 320 Pro (ref: 1c69)](#bw-catlabs-x-film-320-pro-ref-1c69)
+- [[BW] Defender Extra Fast Panchromatic (ref: 348b)](#bw-defender-extra-fast-panchromatic-ref-348b)
+- [[BW] Defender Extra Special Fast Panchromatic (ref: afcf)](#bw-defender-extra-special-fast-panchromatic-ref-afcf)
 - [[BW] Defender Portrait HGS (ref: d69c)](#bw-defender-portrait-hgs-ref-d69c)
 - [[BW] Efke IR 820 (ref: 43c9)](#bw-efke-ir-820-ref-43c9)
 - [[BW] Foma Fomapan (ref: 3e4f)](#bw-foma-fomapan-ref-3e4f)
@@ -50,7 +55,9 @@ Total scans : 476
 - [[BW] Foma Ortho (ref: 89e7)](#bw-foma-ortho-ref-89e7)
 - [[BW] Foma Ortho 400 (ref: c559)](#bw-foma-ortho-400-ref-c559)
 - [[BW] Foton Fotopan F (ref: 0ad6)](#bw-foton-fotopan-f-ref-0ad6)
+- [[BW] Fujifilm Neopan 400 (ref: c088)](#bw-fujifilm-neopan-400-ref-c088)
 - [[BW] Fujifilm Neopan SS Rapid (ref: 9db3)](#bw-fujifilm-neopan-ss-rapid-ref-9db3)
+- [[BW] Gevaert Ultra Panchro Normal (ref: 1ff6)](#bw-gevaert-ultra-panchro-normal-ref-1ff6)
 - [[BW] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#bw-hasselblad-hassel-plåtar-erorto-ref-ec67)
 - [[BW] Ilford Delta 100 (ref: eb8d)](#bw-ilford-delta-100-ref-eb8d)
 - [[BW] Ilford Delta 3200 (ref: 920f)](#bw-ilford-delta-3200-ref-920f)
@@ -89,6 +96,7 @@ Total scans : 476
 - [[BW] Kodak Tri-X 400 (ref: c671)](#bw-kodak-tri-x-400-ref-c671)
 - [[BW] Kodak Verichrome Pan (ref: 0195)](#bw-kodak-verichrome-pan-ref-0195)
 - [[BW] Konica Infrared 750nm (ref: e696)](#bw-konica-infrared-750nm-ref-e696)
+- [[BW] Konica Infrared 750nm (ref: 6b0e)](#bw-konica-infrared-750nm-ref-6b0e)
 - [[BW] Konica Infrared 750nm (ref: 2d93)](#bw-konica-infrared-750nm-ref-2d93)
 - [[BW] Kosmo Foto Mono (ref: b74f)](#bw-kosmo-foto-mono-ref-b74f)
 - [[BW] Lomography Babylon (ref: 7afa)](#bw-lomography-babylon-ref-7afa)
@@ -96,6 +104,7 @@ Total scans : 476
 - [[BW] Lomography Orca (ref: d506)](#bw-lomography-orca-ref-d506)
 - [[BW] ORWO NP 20 SL (ref: b16c)](#bw-orwo-np-20-sl-ref-b16c)
 - [[BW] Perutz Superomnia (ref: c90d)](#bw-perutz-superomnia-ref-c90d)
+- [[BW] Phöbus-Platten Sheet Film (ref: d505)](#bw-phöbus-platten-sheet-film-ref-d505)
 - [[BW] Rollei Infrared (ref: eae2)](#bw-rollei-infrared-ref-eae2)
 - [[BW] Rollei Infrared (ref: 4f54)](#bw-rollei-infrared-ref-4f54)
 - [[BW] Rollei RPX 100 (ref: 7cd1)](#bw-rollei-rpx-100-ref-7cd1)
@@ -128,6 +137,7 @@ Total scans : 476
 - [[C-41] Film Never Die Kiro (ref: 796d)](#c-41-film-never-die-kiro-ref-796d)
 - [[C-41] Fujifilm 200 (ref: 5b41)](#c-41-fujifilm-200-ref-5b41)
 - [[C-41] Fujifilm 400 (ref: 82be)](#c-41-fujifilm-400-ref-82be)
+- [[C-41] Fujifilm Fujichrome Sensia 100 (ref: a859)](#c-41-fujifilm-fujichrome-sensia-100-ref-a859)
 - [[C-41] Fujifilm Fujicolor 100 (ref: 013b)](#c-41-fujifilm-fujicolor-100-ref-013b)
 - [[C-41] Fujifilm Fujicolor 100 (ref: b3c9)](#c-41-fujifilm-fujicolor-100-ref-b3c9)
 - [[C-41] Fujifilm Fujicolor C200 (ref: 2ff8)](#c-41-fujifilm-fujicolor-c200-ref-2ff8)
@@ -213,6 +223,7 @@ Total scans : 476
 - [[C-41] Konica Konica Color II (ref: fb5b)](#c-41-konica-konica-color-ii-ref-fb5b)
 - [[C-41] Konica KonicaColor VX 100 (ref: 8350)](#c-41-konica-konicacolor-vx-100-ref-8350)
 - [[C-41] Konica KonicaColor VX 200 (ref: fe53)](#c-41-konica-konicacolor-vx-200-ref-fe53)
+- [[C-41] Konica Minolta Commercial Color Film (ref: e903)](#c-41-konica-minolta-commercial-color-film-ref-e903)
 - [[C-41] Lloyds Pharmacy APS Film (ref: c7cf)](#c-41-lloyds-pharmacy-aps-film-ref-c7cf)
 - [[C-41] Lloyds Pharmacy Colour Film (ref: 074c)](#c-41-lloyds-pharmacy-colour-film-ref-074c)
 - [[C-41] Lloyds Pharmacy Colour Film (ref: 77d9)](#c-41-lloyds-pharmacy-colour-film-ref-77d9)
@@ -252,6 +263,7 @@ Total scans : 476
 - [[E-6] Fujifilm Fujichrome Provia 100F (ref: df27)](#e-6-fujifilm-fujichrome-provia-100f-ref-df27)
 - [[E-6] Fujifilm Fujichrome Provia 400X (ref: 3c08)](#e-6-fujifilm-fujichrome-provia-400x-ref-3c08)
 - [[E-6] Fujifilm Fujichrome Sensia (ref: a59b)](#e-6-fujifilm-fujichrome-sensia-ref-a59b)
+- [[E-6] Fujifilm Fujichrome Sensia 200 (ref: 3a01)](#e-6-fujifilm-fujichrome-sensia-200-ref-3a01)
 - [[E-6] Fujifilm Fujichrome Velvia (ref: 3182)](#e-6-fujifilm-fujichrome-velvia-ref-3182)
 - [[E-6] Fujifilm Fujichrome Velvia 100F (ref: f7fb)](#e-6-fujifilm-fujichrome-velvia-100f-ref-f7fb)
 - [[E-6] Fujifilm Fujichrome Velvia 100F (ref: 32d4)](#e-6-fujifilm-fujichrome-velvia-100f-ref-32d4)
@@ -501,6 +513,20 @@ UUID  : 952823ad9ef14c75a83ac8e230b38e68
 	<img src="./lowres/00098_000.jpg" alt="Agfa Autolith Repo 9x12cm film box outside" loading="lazy" width="500" height="370">
 </a>
 
+#### [BW] Agfa Extra Rapid Platten (ref: 7418)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-09-03   |  Author  : @ellafridalindblom
+UUID  : b3c3d2e18aed443fb89465bd6f257418
+```
+
+<a href="./archive/00287_000.jpg">
+	<img src="./lowres/00287_000.jpg" alt="Agfa Extra Rapid Platten 9x12cm film box outside" loading="lazy" width="500" height="413">
+</a>
+
 #### [BW] Agfa Fine-Grain Plenachrome (ref: e5d4)
 
 ```
@@ -548,6 +574,41 @@ UUID  : cdcaa912ee0142c3b76eb1500e2375fa
 
 <a href="./archive/00148_000.jpg">
 	<img src="./lowres/00148_000.jpg" alt="Agfa Isopan ISS 35mm film box outside" loading="lazy" width="500" height="406">
+</a>
+
+#### [BW] Agfa Trockenplatten (ref: 0937)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-09-03   |  Author  : @ellafridalindblom
+UUID  : ad700b1b71964ee3a1f2aaa78d8a0937
+```
+
+<a href="./archive/00283_000.jpg">
+	<img src="./lowres/00283_000.jpg" alt="Agfa Trockenplatten 9x12cm film box outside" loading="lazy" width="500" height="396">
+</a>
+
+#### [BW] Agfa Trockenplatten (ref: 41a8)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unkonwn 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-09-03   |  Author  : @ellafridalindblom
+UUID  : 80d64fa269454c5589109c68a40541a8
+```
+
+<a href="./archive/00286_000.jpg">
+	<img src="./lowres/00286_000.jpg" alt="Agfa Trockenplatten 9x12cm film box outside" loading="lazy" width="500" height="376">
+</a>
+
+
+`UUID: 90348c8ca8bf424eb54a73d1f129afb1`↓
+
+<a href="./archive/00286_001.jpg">
+	<img src="./lowres/00286_001.jpg" alt="Agfa Trockenplatten 9x12cm film box outside" loading="lazy" width="373" height="500">
 </a>
 
 #### [BW] Alien Film 5222/XX (ref: 3e49)
@@ -625,6 +686,34 @@ UUID  : b5423225b6b2496eaf713a5a38731c69
 
 <a href="./archive/00196_001.jpg">
 	<img src="./lowres/00196_001.jpg" alt="CatLABS X Film 320 Pro 120 film box outside" loading="lazy" width="500" height="422">
+</a>
+
+#### [BW] Defender Extra Fast Panchromatic (ref: 348b)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-09-03   |  Author  : @ellafridalindblom
+UUID  : 0d51ddb121144fe6a26519a75517348b
+```
+
+<a href="./archive/00284_000.jpg">
+	<img src="./lowres/00284_000.jpg" alt="Defender Extra Fast Panchromatic 12x16.5cm film box outside" loading="lazy" width="383" height="500">
+</a>
+
+#### [BW] Defender Extra Special Fast Panchromatic (ref: afcf)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-09-03   |  Author  : @ellafridalindblom
+UUID  : bacfd600baf843a694225c99ed99afcf
+```
+
+<a href="./archive/00285_000.jpg">
+	<img src="./lowres/00285_000.jpg" alt="Defender Extra Special Fast Panchromatic 12x16.5cm film box outside" loading="lazy" width="374" height="500">
 </a>
 
 #### [BW] Defender Portrait HGS (ref: d69c)
@@ -837,6 +926,27 @@ UUID  : f2002785f14a4aba9fd1da2386890ad6
 	<img src="./lowres/00205_000.jpg" alt="Foton Fotopan F 120 film box outside" loading="lazy" width="495" height="500">
 </a>
 
+#### [BW] Fujifilm Neopan 400 (ref: c088)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2004-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-03   |  Author  : @ellafridalindblom
+UUID  : 93700c4c5c904b40b9c311614ebac088
+```
+
+<a href="./archive/00289_000.jpg">
+	<img src="./lowres/00289_000.jpg" alt="Fujifilm Neopan 400 35mm film box outside" loading="lazy" width="482" height="499">
+</a>
+
+
+`UUID: 95ed7ff9054943edb1339bc4c06ee17e`↓
+
+<a href="./archive/00289_001.jpg">
+	<img src="./lowres/00289_001.jpg" alt="Fujifilm Neopan 400 35mm film box inside" loading="lazy" width="472" height="499">
+</a>
+
 #### [BW] Fujifilm Neopan SS Rapid (ref: 9db3)
 
 ```
@@ -849,6 +959,20 @@ UUID  : 1c541b4c837944d788eab8986f349db3
 
 <a href="./archive/00118_000.jpg">
 	<img src="./lowres/00118_000.jpg" alt="Fujifilm Neopan SS Rapid 35mm film box outside" loading="lazy" width="369" height="500">
+</a>
+
+#### [BW] Gevaert Ultra Panchro Normal (ref: 1ff6)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 800          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-09-03   |  Author  : @ellafridalindblom
+UUID  : 9a6b4771688d43c58b96c254e43d1ff6
+```
+
+<a href="./archive/00288_000.jpg">
+	<img src="./lowres/00288_000.jpg" alt="Gevaert Ultra Panchro Normal 12x16.5cm film box outside" loading="lazy" width="379" height="500">
 </a>
 
 #### [BW] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)
@@ -1607,6 +1731,34 @@ UUID  : 79a0275aee8e43e895b5794a8538e696
 	<img src="./lowres/00039_001.jpg" alt="Konica Infrared 750nm 120 film box leaflet" loading="lazy" width="281" height="499">
 </a>
 
+#### [BW] Konica Infrared 750nm (ref: 6b0e)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 32           |  Expiry  : 1993-02 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-03   |  Author  : @ellafridalindblom
+UUID  : 25b1c5f73455417384b6ef1a78b06b0e
+```
+
+<a href="./archive/00293_000.jpg">
+	<img src="./lowres/00293_000.jpg" alt="Konica Infrared 750nm 120 film box outside" loading="lazy" width="500" height="421">
+</a>
+
+
+`UUID: 7b9dbba78af944b1a37dfe6112cdd9b0`↓
+
+<a href="./archive/00293_001.jpg">
+	<img src="./lowres/00293_001.jpg" alt="Konica Infrared 750nm 120 film box leaflet" loading="lazy" width="244" height="500">
+</a>
+
+
+`UUID: 685cd88d9a3244ad8de01af68f32c144`↓
+
+<a href="./archive/00293_002.jpg">
+	<img src="./lowres/00293_002.jpg" alt="Konica Infrared 750nm 120 film box leaflet" loading="lazy" width="244" height="500">
+</a>
+
 #### [BW] Konica Infrared 750nm (ref: 2d93)
 
 ```
@@ -1703,6 +1855,20 @@ UUID  : b220e7d5dbee49898fbd1d42ee67c90d
 
 <a href="./archive/00096_000.jpg">
 	<img src="./lowres/00096_000.jpg" alt="Perutz Superomnia 9x12cm film box outside" loading="lazy" width="500" height="367">
+</a>
+
+#### [BW] Phöbus-Platten Sheet Film (ref: d505)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-09-03   |  Author  : @ellafridalindblom
+UUID  : d9b0fa92fbbb494085ce494cc407d505
+```
+
+<a href="./archive/00282_000.jpg">
+	<img src="./lowres/00282_000.jpg" alt="Phöbus-Platten Sheet Film 12x16.5cm film box outside" loading="lazy" width="500" height="419">
 </a>
 
 #### [BW] Rollei Infrared (ref: eae2)
@@ -2284,6 +2450,20 @@ UUID  : f3193ccd9b9d4a929904a6a2e8b682be
 
 <a href="./archive/00222_000.jpg">
 	<img src="./lowres/00222_000.jpg" alt="Fujifilm 400 35mm film box outside" loading="lazy" width="425" height="500">
+</a>
+
+#### [C-41] Fujifilm Fujichrome Sensia 100 (ref: a859)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2004-06 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2025-09-03   |  Author  : @ellafridalindblom
+UUID  : ae2418a073074872aa2c46534649a859
+```
+
+<a href="./archive/00292_000.jpg">
+	<img src="./lowres/00292_000.jpg" alt="Fujifilm Fujichrome Sensia 100 35mm film box outside" loading="lazy" width="500" height="461">
 </a>
 
 #### [C-41] Fujifilm Fujicolor 100 (ref: 013b)
@@ -3798,6 +3978,20 @@ UUID  : dd3a6c347560484295ca09c86e3dfe53
 	<img src="./lowres/00138_001.jpg" alt="Konica KonicaColor VX 200 35mm film box inside" loading="lazy" width="487" height="500">
 </a>
 
+#### [C-41] Konica Minolta Commercial Color Film (ref: e903)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2007-02 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-03   |  Author  : @ellafridalindblom
+UUID  : 0b703dc8e8c74e8b9dd3215fa370e903
+```
+
+<a href="./archive/00291_000.jpg">
+	<img src="./lowres/00291_000.jpg" alt="Konica Minolta Commercial Color Film 35mm film box outside" loading="lazy" width="451" height="500">
+</a>
+
 #### [C-41] Lloyds Pharmacy APS Film (ref: c7cf)
 
 ```
@@ -4447,6 +4641,27 @@ UUID  : d4fdfa0d829f4fcab984381a31f2a59b
 
 <a href="./archive/00116_001.jpg">
 	<img src="./lowres/00116_001.jpg" alt="Fujifilm Fujichrome Sensia 35mm film box inside" loading="lazy" width="418" height="500">
+</a>
+
+#### [E-6] Fujifilm Fujichrome Sensia 200 (ref: 3a01)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 200          |  Expiry  : 2004-05 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-03   |  Author  : @ellafridalindblom
+UUID  : 50c87b98fb1245c189e746556f6b3a01
+```
+
+<a href="./archive/00290_000.jpg">
+	<img src="./lowres/00290_000.jpg" alt="Fujifilm Fujichrome Sensia 200 35mm film box outside" loading="lazy" width="462" height="500">
+</a>
+
+
+`UUID: 5ea770cbc81f42758f9e01cf960f01b3`↓
+
+<a href="./archive/00290_001.jpg">
+	<img src="./lowres/00290_001.jpg" alt="Fujifilm Fujichrome Sensia 200 35mm film box inside" loading="lazy" width="445" height="500">
 </a>
 
 #### [E-6] Fujifilm Fujichrome Velvia (ref: 3182)
@@ -5602,17 +5817,17 @@ Rank  Username                      Contributions
 1     dekuNukem                     144   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
-4     The Compartmentalist          22    
-5     Camera.Riley                  19    
-6     Nano_Burger                   18    
-7     @ob.skura                     16    
-8     @recycling.film               15    
-9     b0baspace                     14    
-10    @SirBrentsworth               13    
-11    toader                        13    
-12    stefanie                      12    
-13    yc128                         11    
-14    @ellafridalindblom            11    
+4     @ellafridalindblom            28    
+5     The Compartmentalist          22    
+6     Camera.Riley                  19    
+7     Nano_Burger                   18    
+8     @ob.skura                     16    
+9     @recycling.film               15    
+10    b0baspace                     14    
+11    @SirBrentsworth               13    
+12    toader                        13    
+13    stefanie                      12    
+14    yc128                         11    
 15    lilyu.xyz                     9     
 16    benikum                       6     
 17    Kraksen                       5     

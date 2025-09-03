@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 01 2025
-Unique items: 279
-Total scans : 476
+Last Updated: Sep 03 2025
+Unique items: 291
+Total scans : 493
 ```
 
 Or Sort by...
@@ -54,17 +54,17 @@ Rank  Username                      Contributions
 1     dekuNukem                     144   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
-4     The Compartmentalist          22    
-5     Camera.Riley                  19    
-6     Nano_Burger                   18    
-7     @ob.skura                     16    
-8     @recycling.film               15    
-9     b0baspace                     14    
-10    @SirBrentsworth               13    
-11    toader                        13    
-12    stefanie                      12    
-13    yc128                         11    
-14    @ellafridalindblom            11    
+4     @ellafridalindblom            28    
+5     The Compartmentalist          22    
+6     Camera.Riley                  19    
+7     Nano_Burger                   18    
+8     @ob.skura                     16    
+9     @recycling.film               15    
+10    b0baspace                     14    
+11    @SirBrentsworth               13    
+12    toader                        13    
+13    stefanie                      12    
+14    yc128                         11    
 15    lilyu.xyz                     9     
 16    benikum                       6     
 17    Kraksen                       5     
@@ -82,6 +82,19 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-09-03
+  - @ellafridalindblom: Agfa Extra Rapid Platten
+  - @ellafridalindblom: Agfa Trockenplatten
+  - @ellafridalindblom: Defender Extra Fast Panchromatic
+  - @ellafridalindblom: Defender Extra Special Fast Panchromatic
+  - @ellafridalindblom: Fujifilm Fujichrome Sensia 100
+  - @ellafridalindblom: Fujifilm Fujichrome Sensia 200
+  - @ellafridalindblom: Fujifilm Neopan 400
+  - @ellafridalindblom: Gevaert Ultra Panchro Normal
+  - @ellafridalindblom: Konica Infrared 750nm
+  - @ellafridalindblom: Konica Minolta Commercial Color Film
+  - @ellafridalindblom: Phöbus-Platten Sheet Film
+
 2025-09-01
   - @recycling.film: Fujifilm FP-100C
   - dekuNukem: Fujifilm Fujichrome Provia 100F
@@ -112,47 +125,6 @@ Rank  Username                      Contributions
 2025-08-21
   - Pelicram: Rollei RPX 100
   - Pelicram: Rollei RPX 400
-
-2025-08-20
-  - @photos.by.qi: Agfa Vista Plus
-  - @photos.by.qi: Building 2 200T
-  - @photos.by.qi: Building 2 250D
-  - @photos.by.qi: Building 2 500T
-  - @photos.by.qi: Building 2 50D
-  - @photos.by.qi: CineStill 400D
-  - @photos.by.qi: CineStill 50D
-  - @photos.by.qi: CineStill BWXX
-  - @photos.by.qi: Ferrania Solaris
-  - @photos.by.qi: Film Never Die IRO
-  - @photos.by.qi: Film Never Die Kiro
-  - @photos.by.qi: Fujifilm 400
-  - @photos.by.qi: Fujifilm Fujichrome Provia 400X
-  - @photos.by.qi: Fujifilm Fujicolor 100
-  - @photos.by.qi: Fujifilm Fujicolor C200
-  - @photos.by.qi: Fujifilm Fujicolor Pro 400H
-  - @photos.by.qi: Fujifilm Fujicolor Pro400
-  - @photos.by.qi: Fujifilm Fujicolor Professional
-  - @photos.by.qi: Fujifilm Fujicolor Super G
-  - @photos.by.qi: Fujifilm Fujicolor Superia
-  - @photos.by.qi: Fujifilm Fujicolor Superia Reala
-  - @photos.by.qi: Fujifilm Fujicolor Superia X-TRA
-  - @photos.by.qi: Kodak Ektachrome E100
-  - @photos.by.qi: Kodak Ektar 100
-  - @photos.by.qi: Kodak Gold
-  - @photos.by.qi: Kodak Gold II
-  - @photos.by.qi: Kodak MAX
-  - @photos.by.qi: Kodak Portra 400
-  - @photos.by.qi: Kodak Portra 400VC
-  - @photos.by.qi: Kodak Portra 800
-  - @photos.by.qi: Kodak ProImage 100
-  - @photos.by.qi: Kodak UltraMax
-  - @photos.by.qi: Kodak Vericolor 400 Plus
-  - @photos.by.qi: Kodak Vericolor III
-  - @photos.by.qi: Lomography Lomochrome Color 92
-  - @photos.by.qi: Lomography Lomochrome Metropolis
-  - @photos.by.qi: Lomography Lomochrome Purple
-  - @photos.by.qi: Space Cat Film Mars 250D
-  - @photos.by.qi: Walkens Speed 400
 ```
 
 ## Disclaimer

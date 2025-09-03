@@ -475,3 +475,20 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 279,1,film_box_inside,Kodak,Ektachrome 100 Plus,220,100,E-6,200508,1756748277,00aba548e576bbd52a4dccb799c2c289,8a7459e9d8894fa8872872fea7032a9d,00279_001.jpg,dekuNukem,,Multi-Pack-5,N/A
 280,0,film_box_outside,Kodak,Kodacolor-X,126,80,C-22,197409,1756748351,7a49f515b92c13fadb124cfbc6cb3821,818038affb2c4137a33e5de403510ce5,00280_000.jpg,dekuNukem,,Single Pack,12exp
 281,0,film_box_outside,Fujifilm,Fujichrome Provia 100F,120,100,E-6,200612,1756748396,76d2bb988d07ec780fe23702e4612fbb,c7a59b3560b04f3a93f2ee26d1b21b4b,00281_000.jpg,dekuNukem,Japanese version?,Multi-Pack-5,N/A
+282,0,film_box_outside,Phöbus-Platten,Sheet Film,12x16.5cm,Unknown,BW,Unknown,1756896181,d6cf988da2a5eec0f0b1edba00276831,d9b0fa92fbbb494085ce494cc407d505,00282_000.jpg,@ellafridalindblom,,Single Pack,12 Sheets
+283,0,film_box_outside,Agfa,Trockenplatten,9x12cm,Unknown,BW,Unknown,1756896347,06c5d21cf63a7f2be51d0e196e31509a,ad700b1b71964ee3a1f2aaa78d8a0937,00283_000.jpg,@ellafridalindblom,,Single Pack,12 Sheets
+284,0,film_box_outside,Defender,Extra Fast Panchromatic,12x16.5cm,Unknown,BW,Unknown,1756896520,e6d7a286c01c07a7a1bb7671e3ce2ef7,0d51ddb121144fe6a26519a75517348b,00284_000.jpg,@ellafridalindblom,,Single Pack,12 Sheets
+285,0,film_box_outside,Defender,Extra Special Fast Panchromatic,12x16.5cm,Unknown,BW,Unknown,1756896590,a52b425dd6e0289cf1e88fd966949ecf,bacfd600baf843a694225c99ed99afcf,00285_000.jpg,@ellafridalindblom,,Single Pack,12 Sheets
+286,0,film_box_outside,Agfa,Trockenplatten,9x12cm,Unknown,BW,Unkonwn,1756896636,ce67af968945c849c7de1d57998e6206,80d64fa269454c5589109c68a40541a8,00286_000.jpg,@ellafridalindblom,,Single Pack,12 Sheets
+286,1,film_box_outside,Agfa,Trockenplatten,9x12cm,Unknown,BW,Unkonwn,1756896653,8507dd2bfad99f7f2bbe3d35bb38cf0d,90348c8ca8bf424eb54a73d1f129afb1,00286_001.jpg,@ellafridalindblom,,Single Pack,12 Sheets
+287,0,film_box_outside,Agfa,Extra Rapid Platten,9x12cm,Unknown,BW,Unknown,1756896702,4ff019690276cfc536ae1d34a4a30560,b3c3d2e18aed443fb89465bd6f257418,00287_000.jpg,@ellafridalindblom,,Single Pack,12 Sheets
+288,0,film_box_outside,Gevaert,Ultra Panchro Normal,12x16.5cm,800,BW,Unknown,1756896832,74b0fabf52bd6c70319aa972a6143b79,9a6b4771688d43c58b96c254e43d1ff6,00288_000.jpg,@ellafridalindblom,,Single Pack,12 Sheets
+289,0,film_box_outside,Fujifilm,Neopan 400,35mm,400,BW,200401,1756896922,0834f6fb5b6fcb8cc1fce43b635d6733,93700c4c5c904b40b9c311614ebac088,00289_000.jpg,@ellafridalindblom,,Single Pack,36exp
+289,1,film_box_inside,Fujifilm,Neopan 400,35mm,400,BW,200401,1756896924,88015f3d4ea74c48151fffc5059818b3,95ed7ff9054943edb1339bc4c06ee17e,00289_001.jpg,@ellafridalindblom,,Single Pack,36exp
+290,0,film_box_outside,Fujifilm,Fujichrome Sensia 200,35mm,200,E-6,200405,1756897121,2d1c6f24ec02412dad10a29913057353,50c87b98fb1245c189e746556f6b3a01,00290_000.jpg,@ellafridalindblom,,Single Pack,36exp
+290,1,film_box_inside,Fujifilm,Fujichrome Sensia 200,35mm,200,E-6,200405,1756897126,00a2fa24962eef4e17f9997e56c7c4cc,5ea770cbc81f42758f9e01cf960f01b3,00290_001.jpg,@ellafridalindblom,,Single Pack,36exp
+291,0,film_box_outside,Konica Minolta,Commercial Color Film,35mm,100,C-41,200702,1756897372,4760b2caace8231ad5db0c00f210d530,0b703dc8e8c74e8b9dd3215fa370e903,00291_000.jpg,@ellafridalindblom,,Single Pack,24exp
+292,0,film_box_outside,Fujifilm,Fujichrome Sensia 100,35mm,100,C-41,200406,1756897420,52e9fed4d8fb09631c69a8e51865cf5c,ae2418a073074872aa2c46534649a859,00292_000.jpg,@ellafridalindblom,,Multi-Pack-3,36exp
+293,0,film_box_outside,Konica,Infrared 750nm,120,32,BW,199302,1756897752,d454f31b4db257d61aba5d6bf645cc69,25b1c5f73455417384b6ef1a78b06b0e,00293_000.jpg,@ellafridalindblom,,Single Pack,N/A
+293,1,film_box_leaflet,Konica,Infrared 750nm,120,32,BW,199302,1756897755,c60c4689c9eacede777c262a1ffc6c6c,7b9dbba78af944b1a37dfe6112cdd9b0,00293_001.jpg,@ellafridalindblom,,Single Pack,N/A
+293,2,film_box_leaflet,Konica,Infrared 750nm,120,32,BW,199302,1756897759,47264b2d42b4a16efb459d441c49d0cd,685cd88d9a3244ad8de01af68f32c144,00293_002.jpg,@ellafridalindblom,,Single Pack,N/A

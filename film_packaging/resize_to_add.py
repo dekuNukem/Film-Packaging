@@ -6,7 +6,12 @@ SIZE_LIMIT_BYTES = 4 * 1024 * 1024  # 4MB
 
 target_dir = './to_add'
 
-image_files = [os.path.join(target_dir, f) for f in os.listdir(target_dir) if f.lower().endswith(('.jpg', '.jpeg', ".png"))]
+# Accept .jpg, .jpeg, and .png
+image_files = [
+    os.path.join(target_dir, f)
+    for f in os.listdir(target_dir)
+    if f.lower().endswith(('.jpg', '.jpeg', '.png'))
+]
 
 if len(image_files) == 0:
     exit()
@@ -20,7 +25,6 @@ except Exception:
 
 for file in image_files:
     try:
-        
         if os.path.getsize(file) < SIZE_LIMIT_BYTES:
             print(f"Skipped (under 4MB): {file}")
             continue
@@ -32,13 +36,22 @@ for file in image_files:
             if max_dim > MAX_DIMENSION:
                 scale = MAX_DIMENSION / max_dim
                 new_size = (int(width * scale), int(height * scale))
-                
-                img_resized = img.resize(new_size, Image.LANCZOS)
-                img_resized.save(file, quality=jpeg_quality, optimize=True)
-                print(f"Resized: {file} to {new_size} at {jpeg_quality}% quality")
-            else:
-                img.save(file, quality=jpeg_quality, optimize=True)
-                print(f"Re-saved {file} at {jpeg_quality}% quality")
+                img = img.resize(new_size, Image.LANCZOS)
+
+            # Ensure RGB (JPEG doesn't support transparency or palette)
+            if img.mode in ("RGBA", "P"):
+                img = img.convert("RGB")
+
+            # Always save as JPEG (overwrite original file with .jpg extension)
+            out_file = os.path.splitext(file)[0] + ".jpg"
+            img.save(out_file, "JPEG", quality=jpeg_quality, optimize=True)
+
+            print(f"Processed {file} -> {out_file} ({img.size}) at {jpeg_quality}% quality")
+
+        # If original was a PNG, delete it after successful conversion
+        if file.lower().endswith(".png"):
+            os.remove(file)
+            print(f"Deleted original PNG: {file}")
 
     except Exception as e:
         print(f"Error processing {file}: {e}")
