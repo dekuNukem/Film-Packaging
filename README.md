@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Sep 03 2025
-Unique items: 291
-Total scans : 493
+Unique items: 294
+Total scans : 506
 ```
 
 Or Sort by...
@@ -53,7 +53,7 @@ Or Sort by...
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     144   
+1     dekuNukem                     157   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    
@@ -96,6 +96,9 @@ Rank  Username                      Contributions
   - @ellafridalindblom: Konica Infrared 750nm
   - @ellafridalindblom: Konica Minolta Commercial Color Film
   - @ellafridalindblom: Phöbus-Platten Sheet Film
+  - dekuNukem: Kodak Ektachrome 400
+  - dekuNukem: Kodak Ektachrome Professional
+  - dekuNukem: Kodak Ektachrome Professional Type B
 
 2025-09-01
   - @recycling.film: Fujifilm FP-100C

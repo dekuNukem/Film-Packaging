@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 03 2025
-Unique items: 291
-Total scans : 493
+Unique items: 294
+Total scans : 506
 ```
 
 -----
@@ -41,17 +41,20 @@ Total scans : 493
 - [[1974] Kodak Kodacolor-X (ref: a4b1)](#1974-kodak-kodacolor-x-ref-a4b1)
 - [[1974] Porst Color N21 (ref: 494a)](#1974-porst-color-n21-ref-494a)
 - [[1974] Kodak Kodacolor-X (ref: 0ce5)](#1974-kodak-kodacolor-x-ref-0ce5)
+- [[1974] Kodak Ektachrome Professional Type B (ref: 1d9d)](#1974-kodak-ektachrome-professional-type-b-ref-1d9d)
 - [[1974] Kodak High Speed Ektachrome (ref: be8f)](#1974-kodak-high-speed-ektachrome-ref-be8f)
 - [[1975] Fujifilm Neopan SS Rapid (ref: 9db3)](#1975-fujifilm-neopan-ss-rapid-ref-9db3)
 - [[1975] Kodak Kodacolor-X (ref: 5302)](#1975-kodak-kodacolor-x-ref-5302)
 - [[1976] Kodak Panatomic-X (ref: 8d69)](#1976-kodak-panatomic-x-ref-8d69)
 - [[1977] Kodak High Speed Ektachrome (ref: b8f8)](#1977-kodak-high-speed-ektachrome-ref-b8f8)
 - [[1977] Kodak Panatomic-X (ref: 35f6)](#1977-kodak-panatomic-x-ref-35f6)
+- [[1977] Kodak Ektachrome Professional (ref: 02a1)](#1977-kodak-ektachrome-professional-ref-02a1)
 - [[1978] Kodak Kodachrome 25 (ref: 6477)](#1978-kodak-kodachrome-25-ref-6477)
 - [[1978] Sakura Sakuracolor II (ref: 4f7d)](#1978-sakura-sakuracolor-ii-ref-4f7d)
 - [[1978] Kodak Ektachrome 200 (ref: f372)](#1978-kodak-ektachrome-200-ref-f372)
 - [[1979] Kodak Ektachrome 64 (ref: 07c0)](#1979-kodak-ektachrome-64-ref-07c0)
 - [[1979] Kodak Kodachrome 64 (ref: 3145)](#1979-kodak-kodachrome-64-ref-3145)
+- [[1980] Kodak Ektachrome 400 (ref: 2b94)](#1980-kodak-ektachrome-400-ref-2b94)
 - [[1980] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)](#1980-kodak-ektachrome-160-movie-film-type-a-ref-8f62)
 - [[1983] Kodak Kodachrome 25 (ref: 8833)](#1983-kodak-kodachrome-25-ref-8833)
 - [[1983] Kodak Kodacolor II (ref: 7310)](#1983-kodak-kodacolor-ii-ref-7310)
@@ -730,6 +733,48 @@ UUID  : 818038affb2c4137a33e5de403510ce5
 	<img src="./lowres/00280_000.jpg" alt="Kodak Kodacolor-X 126 film box outside" loading="lazy" width="500" height="447">
 </a>
 
+#### [1974] Kodak Ektachrome Professional Type B (ref: 1d9d)
+
+```
+Format: 120          |  Process : E-3     
+ISO   : 32           |  Expiry  : 1974-11 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-03   |  Author  : dekuNukem
+UUID  : 666d8c45723a458199b88976a68e1d9d
+```
+
+<a href="./archive/00296_000.jpg">
+	<img src="./lowres/00296_000.jpg" alt="Kodak Ektachrome Professional Type B 120 film box outside" loading="lazy" width="500" height="366">
+</a>
+
+
+`UUID: f334a74bb5b94b8f9b24bda99e8ef2ab`↓
+
+<a href="./archive/00296_001.jpg">
+	<img src="./lowres/00296_001.jpg" alt="Kodak Ektachrome Professional Type B 120 film box leaflet" loading="lazy" width="292" height="500">
+</a>
+
+
+`UUID: 5b61ba8200934d8b8f89c63c03d389f1`↓
+
+<a href="./archive/00296_002.jpg">
+	<img src="./lowres/00296_002.jpg" alt="Kodak Ektachrome Professional Type B 120 film box leaflet" loading="lazy" width="296" height="500">
+</a>
+
+
+`UUID: 349ef3a2ea8244f78955530ca905e8c9`↓
+
+<a href="./archive/00296_003.jpg">
+	<img src="./lowres/00296_003.jpg" alt="Kodak Ektachrome Professional Type B 120 film box leaflet" loading="lazy" width="319" height="500">
+</a>
+
+
+`UUID: b7c2b191e72e4ae297c4c78d98585957`↓
+
+<a href="./archive/00296_004.jpg">
+	<img src="./lowres/00296_004.jpg" alt="Kodak Ektachrome Professional Type B 120 film box leaflet" loading="lazy" width="314" height="500">
+</a>
+
 #### [1974] Kodak High Speed Ektachrome (ref: be8f)
 
 ```
@@ -856,6 +901,48 @@ UUID  : 475b6bf4c66141b48fc73ace756435f6
 	<img src="./lowres/00192_002.jpg" alt="Kodak Panatomic-X 35mm film box leaflet" loading="lazy" width="174" height="500">
 </a>
 
+#### [1977] Kodak Ektachrome Professional (ref: 02a1)
+
+```
+Format: 120          |  Process : E-3     
+ISO   : 50           |  Expiry  : 1977-12 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-03   |  Author  : dekuNukem
+UUID  : aa971cf96ee94671899aff23564902a1
+```
+
+<a href="./archive/00295_000.jpg">
+	<img src="./lowres/00295_000.jpg" alt="Kodak Ektachrome Professional 120 film box outside" loading="lazy" width="500" height="355">
+</a>
+
+
+`UUID: 39df14e1dcee4f79bf2cb7ddb03265a8`↓
+
+<a href="./archive/00295_001.jpg">
+	<img src="./lowres/00295_001.jpg" alt="Kodak Ektachrome Professional 120 film box leaflet" loading="lazy" width="315" height="500">
+</a>
+
+
+`UUID: fc04a897f24546cc9a6751b83c8e93ff`↓
+
+<a href="./archive/00295_002.jpg">
+	<img src="./lowres/00295_002.jpg" alt="Kodak Ektachrome Professional 120 film box leaflet" loading="lazy" width="319" height="500">
+</a>
+
+
+`UUID: 3dd8f1463a874d57bc90793c0245a9f4`↓
+
+<a href="./archive/00295_003.jpg">
+	<img src="./lowres/00295_003.jpg" alt="Kodak Ektachrome Professional 120 film box leaflet" loading="lazy" width="298" height="500">
+</a>
+
+
+`UUID: 2d2b3b0808304c8fa9c8810ea8dcc6e4`↓
+
+<a href="./archive/00295_004.jpg">
+	<img src="./lowres/00295_004.jpg" alt="Kodak Ektachrome Professional 120 film box leaflet" loading="lazy" width="298" height="500">
+</a>
+
 #### [1978] Kodak Kodachrome 25 (ref: 6477)
 
 ```
@@ -980,6 +1067,34 @@ UUID  : 68c945b76fc14ab699b944a3c7b93145
 
 <a href="./archive/00026_002.jpg">
 	<img src="./lowres/00026_002.jpg" alt="Kodak Kodachrome 64 110 film box processing envelope" loading="lazy" width="500" height="309">
+</a>
+
+#### [1980] Kodak Ektachrome 400 (ref: 2b94)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 400          |  Expiry  : 1980-10 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-03   |  Author  : dekuNukem
+UUID  : 7c96865a4b554505b46710b016fd2b94
+```
+
+<a href="./archive/00294_000.jpg">
+	<img src="./lowres/00294_000.jpg" alt="Kodak Ektachrome 400 120 film box outside" loading="lazy" width="500" height="423">
+</a>
+
+
+`UUID: 53dbbb4bb5fe48e88ed62f5f595f7bab`↓
+
+<a href="./archive/00294_001.jpg">
+	<img src="./lowres/00294_001.jpg" alt="Kodak Ektachrome 400 120 film box leaflet" loading="lazy" width="200" height="500">
+</a>
+
+
+`UUID: 8d4656fd04a842ddafb29997f55ccb69`↓
+
+<a href="./archive/00294_002.jpg">
+	<img src="./lowres/00294_002.jpg" alt="Kodak Ektachrome 400 120 film box leaflet" loading="lazy" width="177" height="500">
 </a>
 
 #### [1980] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)
@@ -5814,7 +5929,7 @@ UUID  : 80d64fa269454c5589109c68a40541a8
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     144   
+1     dekuNukem                     157   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    

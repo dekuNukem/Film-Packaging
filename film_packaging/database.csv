@@ -492,3 +492,16 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 293,0,film_box_outside,Konica,Infrared 750nm,120,32,BW,199302,1756897752,d454f31b4db257d61aba5d6bf645cc69,25b1c5f73455417384b6ef1a78b06b0e,00293_000.jpg,@ellafridalindblom,,Single Pack,N/A
 293,1,film_box_leaflet,Konica,Infrared 750nm,120,32,BW,199302,1756897755,c60c4689c9eacede777c262a1ffc6c6c,7b9dbba78af944b1a37dfe6112cdd9b0,00293_001.jpg,@ellafridalindblom,,Single Pack,N/A
 293,2,film_box_leaflet,Konica,Infrared 750nm,120,32,BW,199302,1756897759,47264b2d42b4a16efb459d441c49d0cd,685cd88d9a3244ad8de01af68f32c144,00293_002.jpg,@ellafridalindblom,,Single Pack,N/A
+294,0,film_box_outside,Kodak,Ektachrome 400,120,400,E-6,198010,1756942177,6064d56e2295b560182598831eafb4a8,7c96865a4b554505b46710b016fd2b94,00294_000.jpg,dekuNukem,,Single Pack,N/A
+294,1,film_box_leaflet,Kodak,Ektachrome 400,120,400,E-6,198010,1756942186,2929f8c7dc76427f009db28f115e4cea,53dbbb4bb5fe48e88ed62f5f595f7bab,00294_001.jpg,dekuNukem,,Single Pack,N/A
+294,2,film_box_leaflet,Kodak,Ektachrome 400,120,400,E-6,198010,1756942189,9336cca4d4e075ba923c702989786b9c,8d4656fd04a842ddafb29997f55ccb69,00294_002.jpg,dekuNukem,,Single Pack,N/A
+295,0,film_box_outside,Kodak,Ektachrome Professional,120,50,E-3,197712,1756942295,404125f1c921e45cea3399f3f9b5a636,aa971cf96ee94671899aff23564902a1,00295_000.jpg,dekuNukem,,Single Pack,N/A
+295,1,film_box_leaflet,Kodak,Ektachrome Professional,120,50,E-3,197712,1756942298,c45f29339a9a7cc4682024680adddbfc,39df14e1dcee4f79bf2cb7ddb03265a8,00295_001.jpg,dekuNukem,,Single Pack,N/A
+295,2,film_box_leaflet,Kodak,Ektachrome Professional,120,50,E-3,197712,1756942301,5ed652bdeb19a3e1462c3e8a03912535,fc04a897f24546cc9a6751b83c8e93ff,00295_002.jpg,dekuNukem,,Single Pack,N/A
+295,3,film_box_leaflet,Kodak,Ektachrome Professional,120,50,E-3,197712,1756942304,99136a865f6b884a50558782f3f4b527,3dd8f1463a874d57bc90793c0245a9f4,00295_003.jpg,dekuNukem,,Single Pack,N/A
+295,4,film_box_leaflet,Kodak,Ektachrome Professional,120,50,E-3,197712,1756942308,a87c4e43fa2c8aedcdb2dc8b801f2606,2d2b3b0808304c8fa9c8810ea8dcc6e4,00295_004.jpg,dekuNukem,,Single Pack,N/A
+296,0,film_box_outside,Kodak,Ektachrome Professional Type B,120,32,E-3,197411,1756942394,58929897e950695bc0be2452d62b8cdc,666d8c45723a458199b88976a68e1d9d,00296_000.jpg,dekuNukem,,Single Pack,N/A
+296,1,film_box_leaflet,Kodak,Ektachrome Professional Type B,120,32,E-3,197411,1756942402,5726f9d1472adc6b0ad9514dd90ef2f0,f334a74bb5b94b8f9b24bda99e8ef2ab,00296_001.jpg,dekuNukem,,Single Pack,N/A
+296,2,film_box_leaflet,Kodak,Ektachrome Professional Type B,120,32,E-3,197411,1756942408,5210ed2c3df974e278d6327c3650b4c8,5b61ba8200934d8b8f89c63c03d389f1,00296_002.jpg,dekuNukem,,Single Pack,N/A
+296,3,film_box_leaflet,Kodak,Ektachrome Professional Type B,120,32,E-3,197411,1756942411,17d9fccbf50b1f9568515865a4391ed6,349ef3a2ea8244f78955530ca905e8c9,00296_003.jpg,dekuNukem,,Single Pack,N/A
+296,4,film_box_leaflet,Kodak,Ektachrome Professional Type B,120,32,E-3,197411,1756942413,dec814b18a98220fce4cefd1bb8a0624,b7c2b191e72e4ae297c4c78d98585957,00296_004.jpg,dekuNukem,,Single Pack,N/A

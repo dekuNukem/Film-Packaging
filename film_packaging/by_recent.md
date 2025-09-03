@@ -16,12 +16,15 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 03 2025
-Unique items: 291
-Total scans : 493
+Unique items: 294
+Total scans : 506
 ```
 
 -----
 
+- [[2025-09-03] Kodak Ektachrome Professional Type B (ref: 1d9d)](#2025-09-03-kodak-ektachrome-professional-type-b-ref-1d9d)
+- [[2025-09-03] Kodak Ektachrome Professional (ref: 02a1)](#2025-09-03-kodak-ektachrome-professional-ref-02a1)
+- [[2025-09-03] Kodak Ektachrome 400 (ref: 2b94)](#2025-09-03-kodak-ektachrome-400-ref-2b94)
 - [[2025-09-03] Konica Infrared 750nm (ref: 6b0e)](#2025-09-03-konica-infrared-750nm-ref-6b0e)
 - [[2025-09-03] Fujifilm Fujichrome Sensia 100 (ref: a859)](#2025-09-03-fujifilm-fujichrome-sensia-100-ref-a859)
 - [[2025-09-03] Konica Minolta Commercial Color Film (ref: e903)](#2025-09-03-konica-minolta-commercial-color-film-ref-e903)
@@ -316,6 +319,118 @@ Total scans : 493
 
 
 -----
+
+
+`UUID: b7c2b191e72e4ae297c4c78d98585957`↓
+
+<a href="./archive/00296_004.jpg">
+	<img src="./lowres/00296_004.jpg" alt="Kodak Ektachrome Professional Type B 120 film box leaflet" loading="lazy" width="314" height="500">
+</a>
+
+
+`UUID: 349ef3a2ea8244f78955530ca905e8c9`↓
+
+<a href="./archive/00296_003.jpg">
+	<img src="./lowres/00296_003.jpg" alt="Kodak Ektachrome Professional Type B 120 film box leaflet" loading="lazy" width="319" height="500">
+</a>
+
+
+`UUID: 5b61ba8200934d8b8f89c63c03d389f1`↓
+
+<a href="./archive/00296_002.jpg">
+	<img src="./lowres/00296_002.jpg" alt="Kodak Ektachrome Professional Type B 120 film box leaflet" loading="lazy" width="296" height="500">
+</a>
+
+
+`UUID: f334a74bb5b94b8f9b24bda99e8ef2ab`↓
+
+<a href="./archive/00296_001.jpg">
+	<img src="./lowres/00296_001.jpg" alt="Kodak Ektachrome Professional Type B 120 film box leaflet" loading="lazy" width="292" height="500">
+</a>
+
+#### [2025-09-03] Kodak Ektachrome Professional Type B (ref: 1d9d)
+
+```
+Format: 120          |  Process : E-3     
+ISO   : 32           |  Expiry  : 1974-11 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-03   |  Author  : dekuNukem
+UUID  : 666d8c45723a458199b88976a68e1d9d
+```
+
+<a href="./archive/00296_000.jpg">
+	<img src="./lowres/00296_000.jpg" alt="Kodak Ektachrome Professional Type B 120 film box outside" loading="lazy" width="500" height="366">
+</a>
+
+
+`UUID: 2d2b3b0808304c8fa9c8810ea8dcc6e4`↓
+
+<a href="./archive/00295_004.jpg">
+	<img src="./lowres/00295_004.jpg" alt="Kodak Ektachrome Professional 120 film box leaflet" loading="lazy" width="298" height="500">
+</a>
+
+
+`UUID: 3dd8f1463a874d57bc90793c0245a9f4`↓
+
+<a href="./archive/00295_003.jpg">
+	<img src="./lowres/00295_003.jpg" alt="Kodak Ektachrome Professional 120 film box leaflet" loading="lazy" width="298" height="500">
+</a>
+
+
+`UUID: fc04a897f24546cc9a6751b83c8e93ff`↓
+
+<a href="./archive/00295_002.jpg">
+	<img src="./lowres/00295_002.jpg" alt="Kodak Ektachrome Professional 120 film box leaflet" loading="lazy" width="319" height="500">
+</a>
+
+
+`UUID: 39df14e1dcee4f79bf2cb7ddb03265a8`↓
+
+<a href="./archive/00295_001.jpg">
+	<img src="./lowres/00295_001.jpg" alt="Kodak Ektachrome Professional 120 film box leaflet" loading="lazy" width="315" height="500">
+</a>
+
+#### [2025-09-03] Kodak Ektachrome Professional (ref: 02a1)
+
+```
+Format: 120          |  Process : E-3     
+ISO   : 50           |  Expiry  : 1977-12 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-03   |  Author  : dekuNukem
+UUID  : aa971cf96ee94671899aff23564902a1
+```
+
+<a href="./archive/00295_000.jpg">
+	<img src="./lowres/00295_000.jpg" alt="Kodak Ektachrome Professional 120 film box outside" loading="lazy" width="500" height="355">
+</a>
+
+
+`UUID: 8d4656fd04a842ddafb29997f55ccb69`↓
+
+<a href="./archive/00294_002.jpg">
+	<img src="./lowres/00294_002.jpg" alt="Kodak Ektachrome 400 120 film box leaflet" loading="lazy" width="177" height="500">
+</a>
+
+
+`UUID: 53dbbb4bb5fe48e88ed62f5f595f7bab`↓
+
+<a href="./archive/00294_001.jpg">
+	<img src="./lowres/00294_001.jpg" alt="Kodak Ektachrome 400 120 film box leaflet" loading="lazy" width="200" height="500">
+</a>
+
+#### [2025-09-03] Kodak Ektachrome 400 (ref: 2b94)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 400          |  Expiry  : 1980-10 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-03   |  Author  : dekuNukem
+UUID  : 7c96865a4b554505b46710b016fd2b94
+```
+
+<a href="./archive/00294_000.jpg">
+	<img src="./lowres/00294_000.jpg" alt="Kodak Ektachrome 400 120 film box outside" loading="lazy" width="500" height="423">
+</a>
 
 
 `UUID: 685cd88d9a3244ad8de01af68f32c144`↓
@@ -5814,7 +5929,7 @@ UUID  : 36151f6b7cc045c2b43d7f5cbee41a5d
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     144   
+1     dekuNukem                     157   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    
