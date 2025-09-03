@@ -188,7 +188,7 @@ Total scans : 493
 - [[Pelicram] Wolfen NP100 (ref: 71a6)](#pelicram-wolfen-np100-ref-71a6)
 - [[The Compartmentalist] Agfa Agfapan Rapid (ref: 5e7b)](#the-compartmentalist-agfa-agfapan-rapid-ref-5e7b)
 - [[The Compartmentalist] Fujifilm Fujichrome Provia 100F (ref: df27)](#the-compartmentalist-fujifilm-fujichrome-provia-100f-ref-df27)
-- [[The Compartmentalist] Fujifilm Fujichrome Sensia (ref: a59b)](#the-compartmentalist-fujifilm-fujichrome-sensia-ref-a59b)
+- [[The Compartmentalist] Fujifilm Fujichrome Sensia 100 (ref: a59b)](#the-compartmentalist-fujifilm-fujichrome-sensia-100-ref-a59b)
 - [[The Compartmentalist] Fujifilm Fujicolor Professional (ref: 28da)](#the-compartmentalist-fujifilm-fujicolor-professional-ref-28da)
 - [[The Compartmentalist] Fujifilm Neopan SS Rapid (ref: 9db3)](#the-compartmentalist-fujifilm-neopan-ss-rapid-ref-9db3)
 - [[The Compartmentalist] Kodak Ektachrome 200 (ref: f372)](#the-compartmentalist-kodak-ektachrome-200-ref-f372)
@@ -3243,7 +3243,7 @@ UUID  : 480a75f9978b4fba84c81a8a9e95df27
 	<img src="./lowres/00167_000.jpg" alt="Fujifilm Fujichrome Provia 100F 35mm film box outside" loading="lazy" width="421" height="500">
 </a>
 
-#### [The Compartmentalist] Fujifilm Fujichrome Sensia (ref: a59b)
+#### [The Compartmentalist] Fujifilm Fujichrome Sensia 100 (ref: a59b)
 
 ```
 Format: 35mm         |  Process : E-6     
@@ -3254,14 +3254,14 @@ UUID  : d4fdfa0d829f4fcab984381a31f2a59b
 ```
 
 <a href="./archive/00116_000.jpg">
-	<img src="./lowres/00116_000.jpg" alt="Fujifilm Fujichrome Sensia 35mm film box outside" loading="lazy" width="424" height="500">
+	<img src="./lowres/00116_000.jpg" alt="Fujifilm Fujichrome Sensia 100 35mm film box outside" loading="lazy" width="424" height="500">
 </a>
 
 
 `UUID: 4f21cef93ed3401caed74619ffa2b595`↓
 
 <a href="./archive/00116_001.jpg">
-	<img src="./lowres/00116_001.jpg" alt="Fujifilm Fujichrome Sensia 35mm film box inside" loading="lazy" width="418" height="500">
+	<img src="./lowres/00116_001.jpg" alt="Fujifilm Fujichrome Sensia 100 35mm film box inside" loading="lazy" width="418" height="500">
 </a>
 
 #### [The Compartmentalist] Fujifilm Fujicolor Professional (ref: 28da)

@@ -222,6 +222,17 @@ sorted_db = sorted(database_entries, key=operator.itemgetter(ITEM_AUTHOR_KEY, IT
 out_str = make_md("CONTRIBUTOR", sorted_db, ftk=ITEM_AUTHOR_KEY, ftf=None)
 write_to_file("./by_user.md", out_str)
 
-# sorted_db = sorted(database_entries, key=operator.itemgetter(ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
-# out_str = make_md("INDEX", sorted_db, ftk=ITEM_INDEX_KEY, ftf=None)
-# write_to_file("./by_index.md", out_str)
+from datetime import datetime
+
+def timestamp_to_date(ts):
+    try:
+        ts = int(ts)
+        if not isinstance(ts, (int, float)) or ts <= 0:
+            return "unknown"
+        return datetime.utcfromtimestamp(ts).strftime("%Y-%m-%d")
+    except Exception:
+        return "unknown"
+
+sorted_db = sorted(database_entries, key=operator.itemgetter(DATE_ADDED_KEY, ITEM_AUTHOR_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_EXPIRY_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY), reverse=True)
+out_str = make_md("DATE ADDED", sorted_db, ftk=DATE_ADDED_KEY, ftf=timestamp_to_date)
+write_to_file("./by_recent.md", out_str)

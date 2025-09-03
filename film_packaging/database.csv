@@ -205,8 +205,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 114,0,film_box_outside,Kodak,Ektachrome Elite 100,35mm,100,E-6,199511,1753921168,866cafae699ccb031c49a1295e583f91,175cf2b69fe3413093d9d7f9ea0d26ef,00114_000.jpg,toader,,Single Pack,24exp
 114,1,film_box_inside,Kodak,Ektachrome Elite 100,35mm,100,E-6,199511,1753921170,7b1dd6ccf0d9ecdde69b9dca34977c9c,89d1b19f3e364f55adc2523a07ed9ddb,00114_001.jpg,toader,,Single Pack,24exp
 115,0,film_box_outside,Agfa,Agfapan Rapid,35mm,40,BW,196902,1753984184,c271faf0fbbe18f8c552e3424e0757b5,b2470c1734d344698f6e1c01eaa85e7b,00115_000.jpg,The Compartmentalist,,Single Pack,12exp
-116,0,film_box_outside,Fujifilm,Fujichrome Sensia,35mm,100,E-6,199801,1753984208,9a3a461d947d1797d9082e839572aa9c,d4fdfa0d829f4fcab984381a31f2a59b,00116_000.jpg,The Compartmentalist,,Single Pack,36exp
-116,1,film_box_inside,Fujifilm,Fujichrome Sensia,35mm,100,E-6,199801,1753984212,a41aa55b1c6c063eb0077e68dc0cc9ac,4f21cef93ed3401caed74619ffa2b595,00116_001.jpg,The Compartmentalist,,Single Pack,36exp
+116,0,film_box_outside,Fujifilm,Fujichrome Sensia 100,35mm,100,E-6,199801,1753984208,9a3a461d947d1797d9082e839572aa9c,d4fdfa0d829f4fcab984381a31f2a59b,00116_000.jpg,The Compartmentalist,,Single Pack,36exp
+116,1,film_box_inside,Fujifilm,Fujichrome Sensia 100,35mm,100,E-6,199801,1753984212,a41aa55b1c6c063eb0077e68dc0cc9ac,4f21cef93ed3401caed74619ffa2b595,00116_001.jpg,The Compartmentalist,,Single Pack,36exp
 117,0,film_box_outside,Fujifilm,Fujicolor Professional,35mm,100,C-41,201202,1753984324,fcd1d1e1fdf374f9f13af00cdd13c35c,cb85af928a7f454e9673960e22b428da,00117_000.jpg,The Compartmentalist,,Single Pack,24exp
 118,0,film_box_outside,Fujifilm,Neopan SS Rapid,35mm,100,BW,197502,1753984391,57713c63518f11e20c1f915d5c95d2ae,1c541b4c837944d788eab8986f349db3,00118_000.jpg,The Compartmentalist,,Single Pack,12exp
 119,0,film_box_outside,Kodak,Ektachrome-X,35mm,64,E-4,197306,1753984526,d6ad79e59ac09fcb76ddd952b3280cb4,6a81b1428cfe46c8b9cf187fb672aec5,00119_000.jpg,The Compartmentalist,,Single Pack,20exp

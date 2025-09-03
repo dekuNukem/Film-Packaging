@@ -87,7 +87,7 @@ Total scans : 493
 - [[1996] Polaroid 665 (ref: e054)](#1996-polaroid-665-ref-e054)
 - [[1997] Kodak Ektachrome Elite 200 (ref: a391)](#1997-kodak-ektachrome-elite-200-ref-a391)
 - [[1997] Max Spielmann Maxi Color (ref: bf60)](#1997-max-spielmann-maxi-color-ref-bf60)
-- [[1998] Fujifilm Fujichrome Sensia (ref: a59b)](#1998-fujifilm-fujichrome-sensia-ref-a59b)
+- [[1998] Fujifilm Fujichrome Sensia 100 (ref: a59b)](#1998-fujifilm-fujichrome-sensia-100-ref-a59b)
 - [[1998] Klick XD200 (ref: 44d7)](#1998-klick-xd200-ref-44d7)
 - [[1998] Kodak Ektachrome Slide Duplicating Film (ref: 596a)](#1998-kodak-ektachrome-slide-duplicating-film-ref-596a)
 - [[1998] Konica KonicaColor VX 100 (ref: 8350)](#1998-konica-konicacolor-vx-100-ref-8350)
@@ -1787,7 +1787,7 @@ UUID  : 0953325be5e54102b7615a7a5f82bf60
 	<img src="./lowres/00268_000.jpg" alt="Max Spielmann Maxi Color 35mm film box outside" loading="lazy" width="453" height="500">
 </a>
 
-#### [1998] Fujifilm Fujichrome Sensia (ref: a59b)
+#### [1998] Fujifilm Fujichrome Sensia 100 (ref: a59b)
 
 ```
 Format: 35mm         |  Process : E-6     
@@ -1798,14 +1798,14 @@ UUID  : d4fdfa0d829f4fcab984381a31f2a59b
 ```
 
 <a href="./archive/00116_000.jpg">
-	<img src="./lowres/00116_000.jpg" alt="Fujifilm Fujichrome Sensia 35mm film box outside" loading="lazy" width="424" height="500">
+	<img src="./lowres/00116_000.jpg" alt="Fujifilm Fujichrome Sensia 100 35mm film box outside" loading="lazy" width="424" height="500">
 </a>
 
 
 `UUID: 4f21cef93ed3401caed74619ffa2b595`↓
 
 <a href="./archive/00116_001.jpg">
-	<img src="./lowres/00116_001.jpg" alt="Fujifilm Fujichrome Sensia 35mm film box inside" loading="lazy" width="418" height="500">
+	<img src="./lowres/00116_001.jpg" alt="Fujifilm Fujichrome Sensia 100 35mm film box inside" loading="lazy" width="418" height="500">
 </a>
 
 #### [1998] Klick XD200 (ref: 44d7)

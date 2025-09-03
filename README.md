@@ -41,6 +41,8 @@ Or Sort by...
 * [Film Format](./film_packaging/by_format.md)
 * [Photographic Process](./film_packaging/by_process.md)
 * [Contributor](./film_packaging/by_user.md)
+* [Date Added](./film_packaging/by_recent.md)
+
 
 ## Database
 

@@ -262,7 +262,7 @@ Total scans : 493
 - [[E-6] Fujifilm Fujichrome Provia 100F (ref: 356d)](#e-6-fujifilm-fujichrome-provia-100f-ref-356d)
 - [[E-6] Fujifilm Fujichrome Provia 100F (ref: df27)](#e-6-fujifilm-fujichrome-provia-100f-ref-df27)
 - [[E-6] Fujifilm Fujichrome Provia 400X (ref: 3c08)](#e-6-fujifilm-fujichrome-provia-400x-ref-3c08)
-- [[E-6] Fujifilm Fujichrome Sensia (ref: a59b)](#e-6-fujifilm-fujichrome-sensia-ref-a59b)
+- [[E-6] Fujifilm Fujichrome Sensia 100 (ref: a59b)](#e-6-fujifilm-fujichrome-sensia-100-ref-a59b)
 - [[E-6] Fujifilm Fujichrome Sensia 200 (ref: 3a01)](#e-6-fujifilm-fujichrome-sensia-200-ref-3a01)
 - [[E-6] Fujifilm Fujichrome Velvia (ref: 3182)](#e-6-fujifilm-fujichrome-velvia-ref-3182)
 - [[E-6] Fujifilm Fujichrome Velvia 100F (ref: f7fb)](#e-6-fujifilm-fujichrome-velvia-100f-ref-f7fb)
@@ -4622,7 +4622,7 @@ UUID  : 3a84e3b505004d069104ff0042d03c08
 	<img src="./lowres/00248_001.jpg" alt="Fujifilm Fujichrome Provia 400X 120 film box outside" loading="lazy" width="500" height="220">
 </a>
 
-#### [E-6] Fujifilm Fujichrome Sensia (ref: a59b)
+#### [E-6] Fujifilm Fujichrome Sensia 100 (ref: a59b)
 
 ```
 Format: 35mm         |  Process : E-6     
@@ -4633,14 +4633,14 @@ UUID  : d4fdfa0d829f4fcab984381a31f2a59b
 ```
 
 <a href="./archive/00116_000.jpg">
-	<img src="./lowres/00116_000.jpg" alt="Fujifilm Fujichrome Sensia 35mm film box outside" loading="lazy" width="424" height="500">
+	<img src="./lowres/00116_000.jpg" alt="Fujifilm Fujichrome Sensia 100 35mm film box outside" loading="lazy" width="424" height="500">
 </a>
 
 
 `UUID: 4f21cef93ed3401caed74619ffa2b595`↓
 
 <a href="./archive/00116_001.jpg">
-	<img src="./lowres/00116_001.jpg" alt="Fujifilm Fujichrome Sensia 35mm film box inside" loading="lazy" width="418" height="500">
+	<img src="./lowres/00116_001.jpg" alt="Fujifilm Fujichrome Sensia 100 35mm film box inside" loading="lazy" width="418" height="500">
 </a>
 
 #### [E-6] Fujifilm Fujichrome Sensia 200 (ref: 3a01)
