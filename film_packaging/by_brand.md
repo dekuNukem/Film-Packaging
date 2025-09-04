@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 03 2025
-Unique items: 294
-Total scans : 506
+Last Updated: Sep 04 2025
+Unique items: 295
+Total scans : 507
 ```
 
 -----
@@ -188,6 +188,7 @@ Total scans : 506
 - [Kodak Ektar 100 (ref: 3498)](#kodak-ektar-100-ref-3498)
 - [Kodak Elite Chrome (ref: 523c)](#kodak-elite-chrome-ref-523c)
 - [Kodak Elite Chrome (ref: 3943)](#kodak-elite-chrome-ref-3943)
+- [Kodak FarbWelt 400 (ref: e9b6)](#kodak-farbwelt-400-ref-e9b6)
 - [Kodak Gold (ref: 2f8d)](#kodak-gold-ref-2f8d)
 - [Kodak Gold (ref: ea58)](#kodak-gold-ref-ea58)
 - [Kodak Gold (ref: d48d)](#kodak-gold-ref-d48d)
@@ -3470,6 +3471,20 @@ UUID  : c9ba81252c5f438ca70922a2b5703943
 	<img src="./lowres/00178_001.jpg" alt="Kodak Elite Chrome 35mm film box outside" loading="lazy" width="500" height="430">
 </a>
 
+#### Kodak FarbWelt 400 (ref: e9b6)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2009-09 
+Type  : Multi-Pack-2 |  Quantity: 36exp   
+Added : 2025-09-04   |  Author  : dekuNukem
+UUID  : dc04ec32aeda4b9ba394437272fde9b6
+```
+
+<a href="./archive/00297_000.jpg">
+	<img src="./lowres/00297_000.jpg" alt="Kodak FarbWelt 400 35mm film box outside" loading="lazy" width="500" height="443">
+</a>
+
 #### Kodak Gold (ref: 2f8d)
 
 ```
@@ -5929,7 +5944,7 @@ UUID  : 46037fb6c55244b6ae47c55d0e454bf8
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     157   
+1     dekuNukem                     158   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    

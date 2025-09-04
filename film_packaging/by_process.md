@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 03 2025
-Unique items: 294
-Total scans : 506
+Last Updated: Sep 04 2025
+Unique items: 295
+Total scans : 507
 ```
 
 -----
@@ -186,6 +186,7 @@ Total scans : 506
 - [[C-41] Kodak Ektar 100 (ref: 4631)](#c-41-kodak-ektar-100-ref-4631)
 - [[C-41] Kodak Ektar 100 (ref: 95ec)](#c-41-kodak-ektar-100-ref-95ec)
 - [[C-41] Kodak Ektar 100 (ref: 3498)](#c-41-kodak-ektar-100-ref-3498)
+- [[C-41] Kodak FarbWelt 400 (ref: e9b6)](#c-41-kodak-farbwelt-400-ref-e9b6)
 - [[C-41] Kodak Gold (ref: 2f8d)](#c-41-kodak-gold-ref-2f8d)
 - [[C-41] Kodak Gold (ref: ea58)](#c-41-kodak-gold-ref-ea58)
 - [[C-41] Kodak Gold (ref: d48d)](#c-41-kodak-gold-ref-d48d)
@@ -3323,6 +3324,20 @@ UUID  : 8552091a80a844a5aec3e9b8185e3498
 	<img src="./lowres/00081_000.jpg" alt="Kodak Ektar 100 35mm film box outside" loading="lazy" width="447" height="500">
 </a>
 
+#### [C-41] Kodak FarbWelt 400 (ref: e9b6)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2009-09 
+Type  : Multi-Pack-2 |  Quantity: 36exp   
+Added : 2025-09-04   |  Author  : dekuNukem
+UUID  : dc04ec32aeda4b9ba394437272fde9b6
+```
+
+<a href="./archive/00297_000.jpg">
+	<img src="./lowres/00297_000.jpg" alt="Kodak FarbWelt 400 35mm film box outside" loading="lazy" width="500" height="443">
+</a>
+
 #### [C-41] Kodak Gold (ref: 2f8d)
 
 ```
@@ -5929,7 +5944,7 @@ UUID  : 8131d8c6fbf14016be9c17a2586b07c0
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     157   
+1     dekuNukem                     158   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    

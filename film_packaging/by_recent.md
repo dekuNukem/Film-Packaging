@@ -15,13 +15,14 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 03 2025
-Unique items: 294
-Total scans : 506
+Last Updated: Sep 04 2025
+Unique items: 295
+Total scans : 507
 ```
 
 -----
 
+- [[2025-09-04] Kodak FarbWelt 400 (ref: e9b6)](#2025-09-04-kodak-farbwelt-400-ref-e9b6)
 - [[2025-09-03] Kodak Ektachrome Professional Type B (ref: 1d9d)](#2025-09-03-kodak-ektachrome-professional-type-b-ref-1d9d)
 - [[2025-09-03] Kodak Ektachrome Professional (ref: 02a1)](#2025-09-03-kodak-ektachrome-professional-ref-02a1)
 - [[2025-09-03] Kodak Ektachrome 400 (ref: 2b94)](#2025-09-03-kodak-ektachrome-400-ref-2b94)
@@ -319,6 +320,20 @@ Total scans : 506
 
 
 -----
+
+#### [2025-09-04] Kodak FarbWelt 400 (ref: e9b6)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2009-09 
+Type  : Multi-Pack-2 |  Quantity: 36exp   
+Added : 2025-09-04   |  Author  : dekuNukem
+UUID  : dc04ec32aeda4b9ba394437272fde9b6
+```
+
+<a href="./archive/00297_000.jpg">
+	<img src="./lowres/00297_000.jpg" alt="Kodak FarbWelt 400 35mm film box outside" loading="lazy" width="500" height="443">
+</a>
 
 
 `UUID: b7c2b191e72e4ae297c4c78d98585957`↓
@@ -5929,7 +5944,7 @@ UUID  : 36151f6b7cc045c2b43d7f5cbee41a5d
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     157   
+1     dekuNukem                     158   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    

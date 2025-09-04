@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 03 2025
-Unique items: 294
-Total scans : 506
+Last Updated: Sep 04 2025
+Unique items: 295
+Total scans : 507
 ```
 
 -----
@@ -162,6 +162,7 @@ Total scans : 506
 - [[2009] Kodak Portra 400VC (ref: 7669)](#2009-kodak-portra-400vc-ref-7669)
 - [[2009] Fujifilm Fujicolor Superia (ref: 0d8e)](#2009-fujifilm-fujicolor-superia-ref-0d8e)
 - [[2009] Lloyds Pharmacy Colour Film (ref: 77d9)](#2009-lloyds-pharmacy-colour-film-ref-77d9)
+- [[2009] Kodak FarbWelt 400 (ref: e9b6)](#2009-kodak-farbwelt-400-ref-e9b6)
 - [[2010] Fujifilm Fujicolor Superia Reala (ref: a624)](#2010-fujifilm-fujicolor-superia-reala-ref-a624)
 - [[2010] Kodak Ektachrome E100VS (ref: a8d3)](#2010-kodak-ektachrome-e100vs-ref-a8d3)
 - [[2010] Fujifilm Fujicolor 100 (ref: 013b)](#2010-fujifilm-fujicolor-100-ref-013b)
@@ -3302,6 +3303,20 @@ UUID  : c58dda071d1741fda90e20b4252277d9
 	<img src="./lowres/00013_000.jpg" alt="Lloyds Pharmacy Colour Film 35mm film box outside" loading="lazy" width="500" height="395">
 </a>
 
+#### [2009] Kodak FarbWelt 400 (ref: e9b6)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2009-09 
+Type  : Multi-Pack-2 |  Quantity: 36exp   
+Added : 2025-09-04   |  Author  : dekuNukem
+UUID  : dc04ec32aeda4b9ba394437272fde9b6
+```
+
+<a href="./archive/00297_000.jpg">
+	<img src="./lowres/00297_000.jpg" alt="Kodak FarbWelt 400 35mm film box outside" loading="lazy" width="500" height="443">
+</a>
+
 #### [2010] Fujifilm Fujicolor Superia Reala (ref: a624)
 
 ```
@@ -5929,7 +5944,7 @@ UUID  : 80d64fa269454c5589109c68a40541a8
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     157   
+1     dekuNukem                     158   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    

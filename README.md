@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 03 2025
-Unique items: 294
-Total scans : 506
+Last Updated: Sep 04 2025
+Unique items: 295
+Total scans : 507
 ```
 
 Or Sort by...
@@ -53,7 +53,7 @@ Or Sort by...
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     157   
+1     dekuNukem                     158   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    
@@ -84,6 +84,9 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-09-04
+  - dekuNukem: Kodak FarbWelt 400
+
 2025-09-03
   - @ellafridalindblom: Agfa Extra Rapid Platten
   - @ellafridalindblom: Agfa Trockenplatten
@@ -126,10 +129,6 @@ Rank  Username                      Contributions
   - The Compartmentalist: Kodak High Speed Ektachrome
   - The Compartmentalist: Kodak Kodacolor II
   - The Compartmentalist: Reflx Lab Pro 100
-
-2025-08-21
-  - Pelicram: Rollei RPX 100
-  - Pelicram: Rollei RPX 400
 ```
 
 ## Disclaimer
