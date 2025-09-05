@@ -64,7 +64,7 @@ Total scans : 515
 - [[@ob.skura] Rollei Infrared (ref: eae2)](#obskura-rollei-infrared-ref-eae2)
 - [[@ob.skura] Shanghai GP3 (ref: 52aa)](#obskura-shanghai-gp3-ref-52aa)
 - [[@ob.skura] Wolfen NC500 (ref: 91c1)](#obskura-wolfen-nc500-ref-91c1)
-- [[@photos.by.qi] Agfa Vista Plus (ref: f08a)](#photosbyqi-agfa-vista-plus-ref-f08a)
+- [[@photos.by.qi] Agfa Vista Plus 200 (ref: f08a)](#photosbyqi-agfa-vista-plus-200-ref-f08a)
 - [[@photos.by.qi] Building 2 200T (ref: c025)](#photosbyqi-building-2-200t-ref-c025)
 - [[@photos.by.qi] Building 2 250D (ref: 7d4f)](#photosbyqi-building-2-250d-ref-7d4f)
 - [[@photos.by.qi] Building 2 500T (ref: 70d9)](#photosbyqi-building-2-500t-ref-70d9)
@@ -112,7 +112,7 @@ Total scans : 515
 - [[@photos.by.qi] Lomography Lomochrome Purple (ref: 8b00)](#photosbyqi-lomography-lomochrome-purple-ref-8b00)
 - [[@photos.by.qi] Space Cat Film Mars 250D (ref: 5027)](#photosbyqi-space-cat-film-mars-250d-ref-5027)
 - [[@photos.by.qi] Walkens Speed 400 (ref: 740f)](#photosbyqi-walkens-speed-400-ref-740f)
-- [[@recycling.film] Agfa APX 25 (ref: 805f)](#recyclingfilm-agfa-apx-25-ref-805f)
+- [[@recycling.film] Agfa Agfapan  APX 25 (ref: 805f)](#recyclingfilm-agfa-agfapan-apx-25-ref-805f)
 - [[@recycling.film] Fujifilm FP-100C (ref: 5cda)](#recyclingfilm-fujifilm-fp-100c-ref-5cda)
 - [[@recycling.film] Fujifilm Fujicolor C200 (ref: 2ff8)](#recyclingfilm-fujifilm-fujicolor-c200-ref-2ff8)
 - [[@recycling.film] Fujifilm Fujicolor Superia (ref: 0d8e)](#recyclingfilm-fujifilm-fujicolor-superia-ref-0d8e)
@@ -219,10 +219,10 @@ Total scans : 515
 - [[dekuNukem] Agfa APX (ref: 12c7)](#dekunukem-agfa-apx-ref-12c7)
 - [[dekuNukem] Agfa AgfaColor CT 18 (ref: 1fef)](#dekunukem-agfa-agfacolor-ct-18-ref-1fef)
 - [[dekuNukem] Agfa Agfacolor Optima 200 (ref: 393d)](#dekunukem-agfa-agfacolor-optima-200-ref-393d)
+- [[dekuNukem] Agfa Agfacolor ULTRA 50 (ref: 4faa)](#dekunukem-agfa-agfacolor-ultra-50-ref-4faa)
 - [[dekuNukem] Agfa Agfapan APX 400 (ref: 5855)](#dekunukem-agfa-agfapan-apx-400-ref-5855)
 - [[dekuNukem] Agfa Optima II 400 (ref: fdf0)](#dekunukem-agfa-optima-ii-400-ref-fdf0)
-- [[dekuNukem] Agfa ULTRA 50 (ref: 4faa)](#dekunukem-agfa-ultra-50-ref-4faa)
-- [[dekuNukem] Agfa Vista (ref: d3af)](#dekunukem-agfa-vista-ref-d3af)
+- [[dekuNukem] Agfa Vista 200 (ref: d3af)](#dekunukem-agfa-vista-200-ref-d3af)
 - [[dekuNukem] Alien Film 5207/250D (ref: 8820)](#dekunukem-alien-film-5207250d-ref-8820)
 - [[dekuNukem] Alien Film 5222/XX (ref: 3e49)](#dekunukem-alien-film-5222xx-ref-3e49)
 - [[dekuNukem] CineStill 800T (ref: c86a)](#dekunukem-cinestill-800t-ref-c86a)
@@ -302,7 +302,7 @@ Total scans : 515
 - [[lt_col_tall] CatLABS X Film 320 Pro (ref: 1c69)](#lt_col_tall-catlabs-x-film-320-pro-ref-1c69)
 - [[lt_col_tall] Reflx Lab 250D (ref: 1a3e)](#lt_col_tall-reflx-lab-250d-ref-1a3e)
 - [[lt_col_tall] Reflx Lab Pro 100 (ref: 1311)](#lt_col_tall-reflx-lab-pro-100-ref-1311)
-- [[stefanie] Agfa Agfacolor XRG (ref: 689e)](#stefanie-agfa-agfacolor-xrg-ref-689e)
+- [[stefanie] Agfa Agfacolor XRG 200 (ref: 689e)](#stefanie-agfa-agfacolor-xrg-200-ref-689e)
 - [[stefanie] Alfo ALFOcolor PR-G (ref: 94b9)](#stefanie-alfo-alfocolor-pr-g-ref-94b9)
 - [[stefanie] Fujifilm Fujicolor Super HG (ref: ee94)](#stefanie-fujifilm-fujicolor-super-hg-ref-ee94)
 - [[stefanie] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)](#stefanie-kodak-ektachrome-160-movie-film-type-a-ref-8f62)
@@ -364,7 +364,7 @@ UUID  : b09848420a1a4d76b099d82d76bc41f4
 ```
 
 <a href="./archive/00164_000.jpg">
-	<img src="./lowres/00164_000.jpg" alt="Hope Film Bubble 35mm film box outside" loading="lazy" width="500" height="400">
+	<img src="./lowres/00164_000.jpg" alt="Hope Film Bubble 35mm film box outside" loading="lazy" width="500" height="394">
 </a>
 
 #### [@SirBrentsworth] CineStill 800T (ref: b3ff)
@@ -399,7 +399,7 @@ UUID  : 8db6d8343d544c21bfd539c32525df49
 ```
 
 <a href="./archive/00083_000.jpg">
-	<img src="./lowres/00083_000.jpg" alt="Ilford HP5 Plus 35mm film box outside" loading="lazy" width="430" height="500">
+	<img src="./lowres/00083_000.jpg" alt="Ilford HP5 Plus 35mm film box outside" loading="lazy" width="430" height="499">
 </a>
 
 
@@ -497,7 +497,7 @@ UUID  : 8b0e255948ad4bbc8689d371569caaa6
 ```
 
 <a href="./archive/00079_000.jpg">
-	<img src="./lowres/00079_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="444" height="500">
+	<img src="./lowres/00079_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="443" height="499">
 </a>
 
 #### [@SirBrentsworth] Lomography Lomochrome Purple (ref: 068f)
@@ -1022,7 +1022,7 @@ UUID  : 9ef642a09d294cbfad7e040a701deae2
 ```
 
 <a href="./archive/00047_000.jpg">
-	<img src="./lowres/00047_000.jpg" alt="Rollei Infrared 35mm film box outside" loading="lazy" width="405" height="500">
+	<img src="./lowres/00047_000.jpg" alt="Rollei Infrared 35mm film box outside" loading="lazy" width="406" height="499">
 </a>
 
 
@@ -1060,7 +1060,7 @@ UUID  : 6e3408d7e97247e380ea52077a7491c1
 	<img src="./lowres/00049_000.jpg" alt="Wolfen NC500 35mm film box outside" loading="lazy" width="454" height="500">
 </a>
 
-#### [@photos.by.qi] Agfa Vista Plus (ref: f08a)
+#### [@photos.by.qi] Agfa Vista Plus 200 (ref: f08a)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -1071,14 +1071,14 @@ UUID  : b1c4d56515954c8d98bd0b8f9591f08a
 ```
 
 <a href="./archive/00257_000.jpg">
-	<img src="./lowres/00257_000.jpg" alt="Agfa Vista Plus 35mm film box outside" loading="lazy" width="410" height="499">
+	<img src="./lowres/00257_000.jpg" alt="Agfa Vista Plus 200 35mm film box outside" loading="lazy" width="410" height="499">
 </a>
 
 
 `UUID: 0088411d14c547aa96ea5d28bf04d9ea`↓
 
 <a href="./archive/00257_001.jpg">
-	<img src="./lowres/00257_001.jpg" alt="Agfa Vista Plus 35mm film box inside" loading="lazy" width="410" height="499">
+	<img src="./lowres/00257_001.jpg" alt="Agfa Vista Plus 200 35mm film box inside" loading="lazy" width="410" height="499">
 </a>
 
 #### [@photos.by.qi] Building 2 200T (ref: c025)
@@ -1900,7 +1900,7 @@ UUID  : 198465748a5e41f8ad634fffa08a740f
 	<img src="./lowres/00228_000.jpg" alt="Walkens Speed 400 35mm film box outside" loading="lazy" width="397" height="500">
 </a>
 
-#### [@recycling.film] Agfa APX 25 (ref: 805f)
+#### [@recycling.film] Agfa Agfapan  APX 25 (ref: 805f)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -1911,14 +1911,14 @@ UUID  : 4ef7e8e28d2c4c589d24d9e12135805f
 ```
 
 <a href="./archive/00198_000.jpg">
-	<img src="./lowres/00198_000.jpg" alt="Agfa APX 25 35mm film box outside" loading="lazy" width="423" height="500">
+	<img src="./lowres/00198_000.jpg" alt="Agfa Agfapan  APX 25 35mm film box outside" loading="lazy" width="423" height="500">
 </a>
 
 
 `UUID: 757b2d5a25cc41aab1220ff909f90fb0`↓
 
 <a href="./archive/00198_001.jpg">
-	<img src="./lowres/00198_001.jpg" alt="Agfa APX 25 35mm film box inside" loading="lazy" width="420" height="500">
+	<img src="./lowres/00198_001.jpg" alt="Agfa Agfapan  APX 25 35mm film box inside" loading="lazy" width="420" height="500">
 </a>
 
 #### [@recycling.film] Fujifilm FP-100C (ref: 5cda)
@@ -1981,7 +1981,7 @@ UUID  : bab5fa204b25431a9872c4ce8e9aa7de
 ```
 
 <a href="./archive/00087_000.jpg">
-	<img src="./lowres/00087_000.jpg" alt="Fujifilm Fujicolor Superia Reala 35mm film box outside" loading="lazy" width="430" height="500">
+	<img src="./lowres/00087_000.jpg" alt="Fujifilm Fujicolor Superia Reala 35mm film box outside" loading="lazy" width="430" height="499">
 </a>
 
 #### [@recycling.film] Fujifilm Fujicolor Superia X-TRA (ref: 713b)
@@ -2016,7 +2016,7 @@ UUID  : fcbc3377fa3d4ca9b58779f86ed7c725
 ```
 
 <a href="./archive/00090_000.jpg">
-	<img src="./lowres/00090_000.jpg" alt="Ilford HP5 Plus 35mm film box outside" loading="lazy" width="409" height="500">
+	<img src="./lowres/00090_000.jpg" alt="Ilford HP5 Plus 35mm film box outside" loading="lazy" width="408" height="500">
 </a>
 
 #### [@recycling.film] Kodak ColorPlus (ref: 6637)
@@ -2030,7 +2030,7 @@ UUID  : bd00cd25958d4108a7501bf4be9d6637
 ```
 
 <a href="./archive/00091_000.jpg">
-	<img src="./lowres/00091_000.jpg" alt="Kodak ColorPlus 35mm film box outside" loading="lazy" width="429" height="499">
+	<img src="./lowres/00091_000.jpg" alt="Kodak ColorPlus 35mm film box outside" loading="lazy" width="429" height="500">
 </a>
 
 #### [@recycling.film] Kodak Portra 160 (ref: ce56)
@@ -2114,7 +2114,7 @@ UUID  : ce5c1d786286427ba5633091b06432d4
 ```
 
 <a href="./archive/00056_000.jpg">
-	<img src="./lowres/00056_000.jpg" alt="Fujifilm Fujichrome Velvia 100F 35mm film box outside" loading="lazy" width="424" height="500">
+	<img src="./lowres/00056_000.jpg" alt="Fujifilm Fujichrome Velvia 100F 35mm film box outside" loading="lazy" width="425" height="499">
 </a>
 
 #### [Camera.Riley] Agfa Fine-Grain Plenachrome (ref: e5d4)
@@ -3710,7 +3710,7 @@ UUID  : 098e510bfaa14be39697b9d8218475d9
 ```
 
 <a href="./archive/00074_000.jpg">
-	<img src="./lowres/00074_000.jpg" alt="Foma Fomapan21 120 film box outside" loading="lazy" width="500" height="336">
+	<img src="./lowres/00074_000.jpg" alt="Foma Fomapan21 120 film box outside" loading="lazy" width="500" height="335">
 </a>
 
 #### [benikum] Rollei SUPERPAN 200 (ref: ee8f)
@@ -3724,7 +3724,7 @@ UUID  : f22d3e1e2f70453f87aea4b67db3ee8f
 ```
 
 <a href="./archive/00071_000.jpg">
-	<img src="./lowres/00071_000.jpg" alt="Rollei SUPERPAN 200 35mm film box outside" loading="lazy" width="429" height="499">
+	<img src="./lowres/00071_000.jpg" alt="Rollei SUPERPAN 200 35mm film box outside" loading="lazy" width="429" height="500">
 </a>
 
 
@@ -3867,6 +3867,27 @@ UUID  : e8465f64b1f84f32900d92caa25e393d
 	<img src="./lowres/00301_001.jpg" alt="Agfa Agfacolor Optima 200 120 film box inside" loading="lazy" width="500" height="373">
 </a>
 
+#### [dekuNukem] Agfa Agfacolor ULTRA 50 (ref: 4faa)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 50           |  Expiry  : 2001-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-01-04   |  Author  : dekuNukem
+UUID  : d10e846ba5154f1d940ed7009a904faa
+```
+
+<a href="./archive/00010_000.jpg">
+	<img src="./lowres/00010_000.jpg" alt="Agfa Agfacolor ULTRA 50 35mm film box outside" loading="lazy" width="438" height="500">
+</a>
+
+
+`UUID: 8594d11f816c45b6a18dd122f8e38fc0`↓
+
+<a href="./archive/00010_001.jpg">
+	<img src="./lowres/00010_001.jpg" alt="Agfa Agfacolor ULTRA 50 35mm film box inside" loading="lazy" width="453" height="500">
+</a>
+
 #### [dekuNukem] Agfa Agfapan APX 400 (ref: 5855)
 
 ```
@@ -3909,28 +3930,7 @@ UUID  : 4ae0df57aeb24746a0a7854da202fdf0
 	<img src="./lowres/00298_001.jpg" alt="Agfa Optima II 400 120 film box inside" loading="lazy" width="500" height="384">
 </a>
 
-#### [dekuNukem] Agfa ULTRA 50 (ref: 4faa)
-
-```
-Format: 35mm         |  Process : C-41    
-ISO   : 50           |  Expiry  : 2001-10 
-Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-01-04   |  Author  : dekuNukem
-UUID  : d10e846ba5154f1d940ed7009a904faa
-```
-
-<a href="./archive/00010_000.jpg">
-	<img src="./lowres/00010_000.jpg" alt="Agfa ULTRA 50 35mm film box outside" loading="lazy" width="500" height="385">
-</a>
-
-
-`UUID: 8594d11f816c45b6a18dd122f8e38fc0`↓
-
-<a href="./archive/00010_001.jpg">
-	<img src="./lowres/00010_001.jpg" alt="Agfa ULTRA 50 35mm film box inside" loading="lazy" width="500" height="406">
-</a>
-
-#### [dekuNukem] Agfa Vista (ref: d3af)
+#### [dekuNukem] Agfa Vista 200 (ref: d3af)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -3941,14 +3941,14 @@ UUID  : f1e50745927f4b7cb16af36fd30dd3af
 ```
 
 <a href="./archive/00014_000.jpg">
-	<img src="./lowres/00014_000.jpg" alt="Agfa Vista 35mm film box outside" loading="lazy" width="500" height="399">
+	<img src="./lowres/00014_000.jpg" alt="Agfa Vista 200 35mm film box outside" loading="lazy" width="438" height="500">
 </a>
 
 
 `UUID: 300a430fc19f4eeeb4892e58d3c3cd56`↓
 
 <a href="./archive/00014_001.jpg">
-	<img src="./lowres/00014_001.jpg" alt="Agfa Vista 35mm film box inside" loading="lazy" width="500" height="338">
+	<img src="./lowres/00014_001.jpg" alt="Agfa Vista 200 35mm film box inside" loading="lazy" width="440" height="500">
 </a>
 
 #### [dekuNukem] Alien Film 5207/250D (ref: 8820)
@@ -3962,7 +3962,7 @@ UUID  : aedc4b00bd174e0baf7c744ed21d8820
 ```
 
 <a href="./archive/00001_000.jpg">
-	<img src="./lowres/00001_000.jpg" alt="Alien Film 5207/250D 120 film box outside" loading="lazy" width="500" height="386">
+	<img src="./lowres/00001_000.jpg" alt="Alien Film 5207/250D 120 film box outside" loading="lazy" width="500" height="385">
 </a>
 
 #### [dekuNukem] Alien Film 5222/XX (ref: 3e49)
@@ -3976,7 +3976,7 @@ UUID  : 9984ed6c13cd4be496e7e4b58e313e49
 ```
 
 <a href="./archive/00057_000.jpg">
-	<img src="./lowres/00057_000.jpg" alt="Alien Film 5222/XX 35mm film box outside" loading="lazy" width="454" height="500">
+	<img src="./lowres/00057_000.jpg" alt="Alien Film 5222/XX 35mm film box outside" loading="lazy" width="455" height="500">
 </a>
 
 #### [dekuNukem] CineStill 800T (ref: c86a)
@@ -4011,7 +4011,7 @@ UUID  : cde1122dafbc47088a11d9ee12b6471a
 ```
 
 <a href="./archive/00002_000.jpg">
-	<img src="./lowres/00002_000.jpg" alt="Efiniti UXi Super 200 35mm film box outside" loading="lazy" width="500" height="335">
+	<img src="./lowres/00002_000.jpg" alt="Efiniti UXi Super 200 35mm film box outside" loading="lazy" width="457" height="500">
 </a>
 
 #### [dekuNukem] Efke IR 820 (ref: 43c9)
@@ -4025,7 +4025,7 @@ UUID  : 716e410a3823476e9befa704361f43c9
 ```
 
 <a href="./archive/00038_000.jpg">
-	<img src="./lowres/00038_000.jpg" alt="Efke IR 820 120 film box outside" loading="lazy" width="500" height="296">
+	<img src="./lowres/00038_000.jpg" alt="Efke IR 820 120 film box outside" loading="lazy" width="500" height="295">
 </a>
 
 
@@ -4130,7 +4130,7 @@ UUID  : 0d89ecf11f3c46deb52171aa909566e3
 ```
 
 <a href="./archive/00022_000.jpg">
-	<img src="./lowres/00022_000.jpg" alt="Fujifilm Fujicolor Pro 400H 120 film box outside" loading="lazy" width="408" height="500">
+	<img src="./lowres/00022_000.jpg" alt="Fujifilm Fujicolor Pro 400H 120 film box outside" loading="lazy" width="408" height="499">
 </a>
 
 #### [dekuNukem] Fujifilm Fujicolor Super HR (ref: aaa0)
@@ -4144,7 +4144,7 @@ UUID  : 2d27c9a865aa4de19ad8dc0bcdc8aaa0
 ```
 
 <a href="./archive/00007_000.jpg">
-	<img src="./lowres/00007_000.jpg" alt="Fujifilm Fujicolor Super HR 35mm film box outside" loading="lazy" width="500" height="335">
+	<img src="./lowres/00007_000.jpg" alt="Fujifilm Fujicolor Super HR 35mm film box outside" loading="lazy" width="478" height="500">
 </a>
 
 
@@ -4270,7 +4270,7 @@ UUID  : b53e5c167866448d812a4dc8e85967d3
 ```
 
 <a href="./archive/00033_000.jpg">
-	<img src="./lowres/00033_000.jpg" alt="Jessops Diamond Everyday APS film box outside" loading="lazy" width="420" height="500">
+	<img src="./lowres/00033_000.jpg" alt="Jessops Diamond Everyday APS film box outside" loading="lazy" width="420" height="499">
 </a>
 
 #### [dekuNukem] Kentmere PAN 400 (ref: d223)
@@ -4305,14 +4305,14 @@ UUID  : d2cf9753f6fd49a78404c72d848a827e
 ```
 
 <a href="./archive/00015_000.jpg">
-	<img src="./lowres/00015_000.jpg" alt="Kentmere PAN 400 35mm film box outside" loading="lazy" width="500" height="339">
+	<img src="./lowres/00015_000.jpg" alt="Kentmere PAN 400 35mm film box outside" loading="lazy" width="459" height="499">
 </a>
 
 
 `UUID: 3514628a650741c8abb104047d809f55`↓
 
 <a href="./archive/00015_001.jpg">
-	<img src="./lowres/00015_001.jpg" alt="Kentmere PAN 400 35mm film box inside" loading="lazy" width="500" height="338">
+	<img src="./lowres/00015_001.jpg" alt="Kentmere PAN 400 35mm film box inside" loading="lazy" width="433" height="500">
 </a>
 
 #### [dekuNukem] Klick 400ASA (ref: 8779)
@@ -4347,7 +4347,7 @@ UUID  : 1dc3d9dbb8bb42b4acfbfbe0737a4b88
 ```
 
 <a href="./archive/00063_000.jpg">
-	<img src="./lowres/00063_000.jpg" alt="Klick APS Film APS film box outside" loading="lazy" width="500" height="289">
+	<img src="./lowres/00063_000.jpg" alt="Klick APS Film APS film box outside" loading="lazy" width="500" height="288">
 </a>
 
 
@@ -4508,7 +4508,7 @@ UUID  : 8131d8c6fbf14016be9c17a2586b07c0
 ```
 
 <a href="./archive/00025_000.jpg">
-	<img src="./lowres/00025_000.jpg" alt="Kodak Ektachrome 64 110 film box outside" loading="lazy" width="500" height="419">
+	<img src="./lowres/00025_000.jpg" alt="Kodak Ektachrome 64 110 film box outside" loading="lazy" width="500" height="418">
 </a>
 
 #### [dekuNukem] Kodak Ektachrome E100VS (ref: a8d3)
@@ -4760,7 +4760,7 @@ UUID  : 68c945b76fc14ab699b944a3c7b93145
 ```
 
 <a href="./archive/00026_000.jpg">
-	<img src="./lowres/00026_000.jpg" alt="Kodak Kodachrome 64 110 film box outside" loading="lazy" width="500" height="399">
+	<img src="./lowres/00026_000.jpg" alt="Kodak Kodachrome 64 110 film box outside" loading="lazy" width="500" height="398">
 </a>
 
 
@@ -4788,7 +4788,7 @@ UUID  : dc9c151b87de48339e564e6692663206
 ```
 
 <a href="./archive/00060_000.jpg">
-	<img src="./lowres/00060_000.jpg" alt="Kodak Kodachrome 64 35mm film box outside" loading="lazy" width="450" height="500">
+	<img src="./lowres/00060_000.jpg" alt="Kodak Kodachrome 64 35mm film box outside" loading="lazy" width="450" height="499">
 </a>
 
 #### [dekuNukem] Kodak Kodacolor Gold 200 (ref: f368)
@@ -4802,7 +4802,7 @@ UUID  : 78bfeed667154d819902ec92d7dcf368
 ```
 
 <a href="./archive/00068_000.jpg">
-	<img src="./lowres/00068_000.jpg" alt="Kodak Kodacolor Gold 200 110 film box outside" loading="lazy" width="500" height="404">
+	<img src="./lowres/00068_000.jpg" alt="Kodak Kodacolor Gold 200 110 film box outside" loading="lazy" width="500" height="403">
 </a>
 
 #### [dekuNukem] Kodak Kodacolor-X (ref: a4b1)
@@ -4949,7 +4949,7 @@ UUID  : 3a03860d64d2400caee97955197703be
 ```
 
 <a href="./archive/00037_000.jpg">
-	<img src="./lowres/00037_000.jpg" alt="Kodak Technical Pan 6415 120 film box outside" loading="lazy" width="500" height="319">
+	<img src="./lowres/00037_000.jpg" alt="Kodak Technical Pan 6415 120 film box outside" loading="lazy" width="500" height="318">
 </a>
 
 
@@ -5096,7 +5096,7 @@ UUID  : c58dda071d1741fda90e20b4252277d9
 ```
 
 <a href="./archive/00013_000.jpg">
-	<img src="./lowres/00013_000.jpg" alt="Lloyds Pharmacy Colour Film 35mm film box outside" loading="lazy" width="500" height="395">
+	<img src="./lowres/00013_000.jpg" alt="Lloyds Pharmacy Colour Film 35mm film box outside" loading="lazy" width="428" height="500">
 </a>
 
 #### [dekuNukem] Lomography Lomochrome Turquoise (ref: 0d90)
@@ -5474,7 +5474,7 @@ UUID  : ecf4e081ccf64a9a8606601f9f665276
 ```
 
 <a href="./archive/00093_000.jpg">
-	<img src="./lowres/00093_000.jpg" alt="Agfa APX 35mm film box outside" loading="lazy" width="453" height="500">
+	<img src="./lowres/00093_000.jpg" alt="Agfa APX 35mm film box outside" loading="lazy" width="454" height="500">
 </a>
 
 
@@ -5495,7 +5495,7 @@ UUID  : c3d51159b481435b90dbe2411de784a5
 ```
 
 <a href="./archive/00092_000.jpg">
-	<img src="./lowres/00092_000.jpg" alt="Foma Fomapan 35mm film box outside" loading="lazy" width="407" height="500">
+	<img src="./lowres/00092_000.jpg" alt="Foma Fomapan 35mm film box outside" loading="lazy" width="408" height="500">
 </a>
 
 
@@ -5516,7 +5516,7 @@ UUID  : e45118f7bd5e4ae682e5747a81f0ea58
 ```
 
 <a href="./archive/00095_000.jpg">
-	<img src="./lowres/00095_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="500" height="394">
+	<img src="./lowres/00095_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="500" height="393">
 </a>
 
 
@@ -5537,7 +5537,7 @@ UUID  : c2dc7711cd38434da5cfea8750f61358
 ```
 
 <a href="./archive/00094_000.jpg">
-	<img src="./lowres/00094_000.jpg" alt="Kodak Gold Ultra 400 35mm film box outside" loading="lazy" width="300" height="499">
+	<img src="./lowres/00094_000.jpg" alt="Kodak Gold Ultra 400 35mm film box outside" loading="lazy" width="300" height="500">
 </a>
 
 
@@ -5610,7 +5610,7 @@ UUID  : f7bc85a093744f3084883876ecc51311
 	<img src="./lowres/00195_000.jpg" alt="Reflx Lab Pro 100 220 film box outside" loading="lazy" width="500" height="413">
 </a>
 
-#### [stefanie] Agfa Agfacolor XRG (ref: 689e)
+#### [stefanie] Agfa Agfacolor XRG 200 (ref: 689e)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -5621,14 +5621,14 @@ UUID  : 86136eea89d14e15b60dfcdf45b1689e
 ```
 
 <a href="./archive/00152_000.jpg">
-	<img src="./lowres/00152_000.jpg" alt="Agfa Agfacolor XRG 35mm film box outside" loading="lazy" width="435" height="500">
+	<img src="./lowres/00152_000.jpg" alt="Agfa Agfacolor XRG 200 35mm film box outside" loading="lazy" width="435" height="500">
 </a>
 
 
 `UUID: 5598d8aac5844772a87d019a7d37e9f6`↓
 
 <a href="./archive/00152_001.jpg">
-	<img src="./lowres/00152_001.jpg" alt="Agfa Agfacolor XRG 35mm film box inside" loading="lazy" width="404" height="500">
+	<img src="./lowres/00152_001.jpg" alt="Agfa Agfacolor XRG 200 35mm film box inside" loading="lazy" width="404" height="500">
 </a>
 
 #### [stefanie] Alfo ALFOcolor PR-G (ref: 94b9)
@@ -5915,7 +5915,7 @@ UUID  : 2fe522ef01b84a9aa6263807135f8eb4
 ```
 
 <a href="./archive/00076_000.jpg">
-	<img src="./lowres/00076_000.jpg" alt="Harman Phoenix 35mm film box outside" loading="lazy" width="424" height="500">
+	<img src="./lowres/00076_000.jpg" alt="Harman Phoenix 35mm film box outside" loading="lazy" width="425" height="499">
 </a>
 
 

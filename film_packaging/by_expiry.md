@@ -109,7 +109,7 @@ Total scans : 515
 - [[2001] Fujifilm Fujichrome Velvia (ref: 3182)](#2001-fujifilm-fujichrome-velvia-ref-3182)
 - [[2001] Kodak Gold Ultra 400 (ref: 1358)](#2001-kodak-gold-ultra-400-ref-1358)
 - [[2001] Kodak Elite Chrome (ref: 523c)](#2001-kodak-elite-chrome-ref-523c)
-- [[2001] Agfa ULTRA 50 (ref: 4faa)](#2001-agfa-ultra-50-ref-4faa)
+- [[2001] Agfa Agfacolor ULTRA 50 (ref: 4faa)](#2001-agfa-agfacolor-ultra-50-ref-4faa)
 - [[2001] Fujifilm Fujichrome 64T Type II Professional (ref: 74a1)](#2001-fujifilm-fujichrome-64t-type-ii-professional-ref-74a1)
 - [[2001] Kodak Gold (ref: ea58)](#2001-kodak-gold-ref-ea58)
 - [[2001] Kodak Ektachrome 400X (ref: 5b82)](#2001-kodak-ektachrome-400x-ref-5b82)
@@ -125,7 +125,7 @@ Total scans : 515
 - [[2003] Fujifilm Fujicolor Pro400 (ref: 1b8d)](#2003-fujifilm-fujicolor-pro400-ref-1b8d)
 - [[2003] Fujifilm Fujicolor Superia (ref: 9272)](#2003-fujifilm-fujicolor-superia-ref-9272)
 - [[2003] Fujifilm Fujicolor NPS 160 (ref: 5e85)](#2003-fujifilm-fujicolor-nps-160-ref-5e85)
-- [[2003] Agfa Vista (ref: d3af)](#2003-agfa-vista-ref-d3af)
+- [[2003] Agfa Vista 200 (ref: d3af)](#2003-agfa-vista-200-ref-d3af)
 - [[2004] Fujifilm Neopan 400 (ref: c088)](#2004-fujifilm-neopan-400-ref-c088)
 - [[2004] Fujifilm Fujichrome Sensia 200 (ref: 3a01)](#2004-fujifilm-fujichrome-sensia-200-ref-3a01)
 - [[2004] Fujifilm Fujichrome Sensia 100 (ref: a859)](#2004-fujifilm-fujichrome-sensia-100-ref-a859)
@@ -135,7 +135,7 @@ Total scans : 515
 - [[2004] Kodak Portra 400UC (ref: 5b9e)](#2004-kodak-portra-400uc-ref-5b9e)
 - [[2004] Kodak Portra 400VC (ref: b67b)](#2004-kodak-portra-400vc-ref-b67b)
 - [[2005] Fujifilm Fujicolor Superia X-TRA (ref: 0446)](#2005-fujifilm-fujicolor-superia-x-tra-ref-0446)
-- [[2005] Agfa Agfacolor XRG (ref: 689e)](#2005-agfa-agfacolor-xrg-ref-689e)
+- [[2005] Agfa Agfacolor XRG 200 (ref: 689e)](#2005-agfa-agfacolor-xrg-200-ref-689e)
 - [[2005] Agfa Agfapan APX 100 (ref: e271)](#2005-agfa-agfapan-apx-100-ref-e271)
 - [[2005] Agfa Agfapan APX 400 (ref: 5855)](#2005-agfa-agfapan-apx-400-ref-5855)
 - [[2005] Kodak Ektachrome 100 Plus (ref: 0183)](#2005-kodak-ektachrome-100-plus-ref-0183)
@@ -185,7 +185,7 @@ Total scans : 515
 - [[2015] Fujifilm FP-100C (ref: 5cda)](#2015-fujifilm-fp-100c-ref-5cda)
 - [[2018] CineStill 800T (ref: c86a)](#2018-cinestill-800t-ref-c86a)
 - [[2018] Fujifilm Fujicolor Pro 400H (ref: 66e3)](#2018-fujifilm-fujicolor-pro-400h-ref-66e3)
-- [[2019] Agfa Vista Plus (ref: f08a)](#2019-agfa-vista-plus-ref-f08a)
+- [[2019] Agfa Vista Plus 200 (ref: f08a)](#2019-agfa-vista-plus-200-ref-f08a)
 - [[2019] Fujifilm Fujicolor Professional (ref: 02f7)](#2019-fujifilm-fujicolor-professional-ref-02f7)
 - [[2020] Fujifilm Fujicolor C200 (ref: 2ff8)](#2020-fujifilm-fujicolor-c200-ref-2ff8)
 - [[2020] Fujifilm Fujichrome Provia 100F (ref: 356d)](#2020-fujifilm-fujichrome-provia-100f-ref-356d)
@@ -302,7 +302,7 @@ Total scans : 515
 - [[2029] Kentmere PAN 400 (ref: 827e)](#2029-kentmere-pan-400-ref-827e)
 - [[2029] Kentmere PAN 400 (ref: a327)](#2029-kentmere-pan-400-ref-a327)
 - [[2030] Kentmere PAN 200 (ref: 0e32)](#2030-kentmere-pan-200-ref-0e32)
-- [[Unknown] Agfa APX 25 (ref: 805f)](#unknown-agfa-apx-25-ref-805f)
+- [[Unknown] Agfa Agfapan  APX 25 (ref: 805f)](#unknown-agfa-agfapan-apx-25-ref-805f)
 - [[Unknown] Agfa Autolith Repo (ref: 8e68)](#unknown-agfa-autolith-repo-ref-8e68)
 - [[Unknown] Agfa Extra Rapid Platten (ref: 7418)](#unknown-agfa-extra-rapid-platten-ref-7418)
 - [[Unknown] Agfa Trockenplatten (ref: 0937)](#unknown-agfa-trockenplatten-ref-0937)
@@ -595,7 +595,7 @@ UUID  : 098e510bfaa14be39697b9d8218475d9
 ```
 
 <a href="./archive/00074_000.jpg">
-	<img src="./lowres/00074_000.jpg" alt="Foma Fomapan21 120 film box outside" loading="lazy" width="500" height="336">
+	<img src="./lowres/00074_000.jpg" alt="Foma Fomapan21 120 film box outside" loading="lazy" width="500" height="335">
 </a>
 
 #### [1972] Kodak Ektachrome-X (ref: ae7e)
@@ -1043,7 +1043,7 @@ UUID  : 8131d8c6fbf14016be9c17a2586b07c0
 ```
 
 <a href="./archive/00025_000.jpg">
-	<img src="./lowres/00025_000.jpg" alt="Kodak Ektachrome 64 110 film box outside" loading="lazy" width="500" height="419">
+	<img src="./lowres/00025_000.jpg" alt="Kodak Ektachrome 64 110 film box outside" loading="lazy" width="500" height="418">
 </a>
 
 #### [1979] Kodak Kodachrome 64 (ref: 3145)
@@ -1057,7 +1057,7 @@ UUID  : 68c945b76fc14ab699b944a3c7b93145
 ```
 
 <a href="./archive/00026_000.jpg">
-	<img src="./lowres/00026_000.jpg" alt="Kodak Kodachrome 64 110 film box outside" loading="lazy" width="500" height="399">
+	<img src="./lowres/00026_000.jpg" alt="Kodak Kodachrome 64 110 film box outside" loading="lazy" width="500" height="398">
 </a>
 
 
@@ -1260,7 +1260,7 @@ UUID  : 3a03860d64d2400caee97955197703be
 ```
 
 <a href="./archive/00037_000.jpg">
-	<img src="./lowres/00037_000.jpg" alt="Kodak Technical Pan 6415 120 film box outside" loading="lazy" width="500" height="319">
+	<img src="./lowres/00037_000.jpg" alt="Kodak Technical Pan 6415 120 film box outside" loading="lazy" width="500" height="318">
 </a>
 
 
@@ -1288,7 +1288,7 @@ UUID  : 78bfeed667154d819902ec92d7dcf368
 ```
 
 <a href="./archive/00068_000.jpg">
-	<img src="./lowres/00068_000.jpg" alt="Kodak Kodacolor Gold 200 110 film box outside" loading="lazy" width="500" height="404">
+	<img src="./lowres/00068_000.jpg" alt="Kodak Kodacolor Gold 200 110 film box outside" loading="lazy" width="500" height="403">
 </a>
 
 #### [1990] Fujifilm Fujicolor Super HR (ref: aaa0)
@@ -1302,7 +1302,7 @@ UUID  : 2d27c9a865aa4de19ad8dc0bcdc8aaa0
 ```
 
 <a href="./archive/00007_000.jpg">
-	<img src="./lowres/00007_000.jpg" alt="Fujifilm Fujicolor Super HR 35mm film box outside" loading="lazy" width="500" height="335">
+	<img src="./lowres/00007_000.jpg" alt="Fujifilm Fujicolor Super HR 35mm film box outside" loading="lazy" width="478" height="500">
 </a>
 
 
@@ -2331,7 +2331,7 @@ UUID  : c2dc7711cd38434da5cfea8750f61358
 ```
 
 <a href="./archive/00094_000.jpg">
-	<img src="./lowres/00094_000.jpg" alt="Kodak Gold Ultra 400 35mm film box outside" loading="lazy" width="300" height="499">
+	<img src="./lowres/00094_000.jpg" alt="Kodak Gold Ultra 400 35mm film box outside" loading="lazy" width="300" height="500">
 </a>
 
 
@@ -2355,7 +2355,7 @@ UUID  : e0b3ec957ade47a99d5cd5abe2a4523c
 	<img src="./lowres/00042_000.jpg" alt="Kodak Elite Chrome 35mm film box outside" loading="lazy" width="416" height="499">
 </a>
 
-#### [2001] Agfa ULTRA 50 (ref: 4faa)
+#### [2001] Agfa Agfacolor ULTRA 50 (ref: 4faa)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -2366,14 +2366,14 @@ UUID  : d10e846ba5154f1d940ed7009a904faa
 ```
 
 <a href="./archive/00010_000.jpg">
-	<img src="./lowres/00010_000.jpg" alt="Agfa ULTRA 50 35mm film box outside" loading="lazy" width="500" height="385">
+	<img src="./lowres/00010_000.jpg" alt="Agfa Agfacolor ULTRA 50 35mm film box outside" loading="lazy" width="438" height="500">
 </a>
 
 
 `UUID: 8594d11f816c45b6a18dd122f8e38fc0`↓
 
 <a href="./archive/00010_001.jpg">
-	<img src="./lowres/00010_001.jpg" alt="Agfa ULTRA 50 35mm film box inside" loading="lazy" width="500" height="406">
+	<img src="./lowres/00010_001.jpg" alt="Agfa Agfacolor ULTRA 50 35mm film box inside" loading="lazy" width="453" height="500">
 </a>
 
 #### [2001] Fujifilm Fujichrome 64T Type II Professional (ref: 74a1)
@@ -2401,7 +2401,7 @@ UUID  : e45118f7bd5e4ae682e5747a81f0ea58
 ```
 
 <a href="./archive/00095_000.jpg">
-	<img src="./lowres/00095_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="500" height="394">
+	<img src="./lowres/00095_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="500" height="393">
 </a>
 
 
@@ -2649,7 +2649,7 @@ UUID  : 576142521c2f4fe5abc387032bcc5e85
 	<img src="./lowres/00053_001.jpg" alt="Fujifilm Fujicolor NPS 160 35mm film box inside" loading="lazy" width="449" height="500">
 </a>
 
-#### [2003] Agfa Vista (ref: d3af)
+#### [2003] Agfa Vista 200 (ref: d3af)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -2660,14 +2660,14 @@ UUID  : f1e50745927f4b7cb16af36fd30dd3af
 ```
 
 <a href="./archive/00014_000.jpg">
-	<img src="./lowres/00014_000.jpg" alt="Agfa Vista 35mm film box outside" loading="lazy" width="500" height="399">
+	<img src="./lowres/00014_000.jpg" alt="Agfa Vista 200 35mm film box outside" loading="lazy" width="438" height="500">
 </a>
 
 
 `UUID: 300a430fc19f4eeeb4892e58d3c3cd56`↓
 
 <a href="./archive/00014_001.jpg">
-	<img src="./lowres/00014_001.jpg" alt="Agfa Vista 35mm film box inside" loading="lazy" width="500" height="338">
+	<img src="./lowres/00014_001.jpg" alt="Agfa Vista 200 35mm film box inside" loading="lazy" width="440" height="500">
 </a>
 
 #### [2004] Fujifilm Neopan 400 (ref: c088)
@@ -2845,7 +2845,7 @@ UUID  : 16351828954846229e7a4ca1193d0446
 	<img src="./lowres/00232_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box outside" loading="lazy" width="306" height="500">
 </a>
 
-#### [2005] Agfa Agfacolor XRG (ref: 689e)
+#### [2005] Agfa Agfacolor XRG 200 (ref: 689e)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -2856,14 +2856,14 @@ UUID  : 86136eea89d14e15b60dfcdf45b1689e
 ```
 
 <a href="./archive/00152_000.jpg">
-	<img src="./lowres/00152_000.jpg" alt="Agfa Agfacolor XRG 35mm film box outside" loading="lazy" width="435" height="500">
+	<img src="./lowres/00152_000.jpg" alt="Agfa Agfacolor XRG 200 35mm film box outside" loading="lazy" width="435" height="500">
 </a>
 
 
 `UUID: 5598d8aac5844772a87d019a7d37e9f6`↓
 
 <a href="./archive/00152_001.jpg">
-	<img src="./lowres/00152_001.jpg" alt="Agfa Agfacolor XRG 35mm film box inside" loading="lazy" width="404" height="500">
+	<img src="./lowres/00152_001.jpg" alt="Agfa Agfacolor XRG 200 35mm film box inside" loading="lazy" width="404" height="500">
 </a>
 
 #### [2005] Agfa Agfapan APX 100 (ref: e271)
@@ -3059,7 +3059,7 @@ UUID  : b53e5c167866448d812a4dc8e85967d3
 ```
 
 <a href="./archive/00033_000.jpg">
-	<img src="./lowres/00033_000.jpg" alt="Jessops Diamond Everyday APS film box outside" loading="lazy" width="420" height="500">
+	<img src="./lowres/00033_000.jpg" alt="Jessops Diamond Everyday APS film box outside" loading="lazy" width="420" height="499">
 </a>
 
 #### [2006] Klick APS Film (ref: 4b88)
@@ -3073,7 +3073,7 @@ UUID  : 1dc3d9dbb8bb42b4acfbfbe0737a4b88
 ```
 
 <a href="./archive/00063_000.jpg">
-	<img src="./lowres/00063_000.jpg" alt="Klick APS Film APS film box outside" loading="lazy" width="500" height="289">
+	<img src="./lowres/00063_000.jpg" alt="Klick APS Film APS film box outside" loading="lazy" width="500" height="288">
 </a>
 
 
@@ -3178,7 +3178,7 @@ UUID  : ce5c1d786286427ba5633091b06432d4
 ```
 
 <a href="./archive/00056_000.jpg">
-	<img src="./lowres/00056_000.jpg" alt="Fujifilm Fujichrome Velvia 100F 35mm film box outside" loading="lazy" width="424" height="500">
+	<img src="./lowres/00056_000.jpg" alt="Fujifilm Fujichrome Velvia 100F 35mm film box outside" loading="lazy" width="425" height="499">
 </a>
 
 #### [2007] Kodak MAX (ref: 2361)
@@ -3206,7 +3206,7 @@ UUID  : bab5fa204b25431a9872c4ce8e9aa7de
 ```
 
 <a href="./archive/00087_000.jpg">
-	<img src="./lowres/00087_000.jpg" alt="Fujifilm Fujicolor Superia Reala 35mm film box outside" loading="lazy" width="430" height="500">
+	<img src="./lowres/00087_000.jpg" alt="Fujifilm Fujicolor Superia Reala 35mm film box outside" loading="lazy" width="430" height="499">
 </a>
 
 #### [2007] Kodak Kodachrome 64 (ref: 3206)
@@ -3220,7 +3220,7 @@ UUID  : dc9c151b87de48339e564e6692663206
 ```
 
 <a href="./archive/00060_000.jpg">
-	<img src="./lowres/00060_000.jpg" alt="Kodak Kodachrome 64 35mm film box outside" loading="lazy" width="450" height="500">
+	<img src="./lowres/00060_000.jpg" alt="Kodak Kodachrome 64 35mm film box outside" loading="lazy" width="450" height="499">
 </a>
 
 #### [2007] Lloyds Pharmacy APS Film (ref: c7cf)
@@ -3388,7 +3388,7 @@ UUID  : c58dda071d1741fda90e20b4252277d9
 ```
 
 <a href="./archive/00013_000.jpg">
-	<img src="./lowres/00013_000.jpg" alt="Lloyds Pharmacy Colour Film 35mm film box outside" loading="lazy" width="500" height="395">
+	<img src="./lowres/00013_000.jpg" alt="Lloyds Pharmacy Colour Film 35mm film box outside" loading="lazy" width="428" height="500">
 </a>
 
 #### [2009] Kodak FarbWelt 400 (ref: e9b6)
@@ -3521,7 +3521,7 @@ UUID  : 716e410a3823476e9befa704361f43c9
 ```
 
 <a href="./archive/00038_000.jpg">
-	<img src="./lowres/00038_000.jpg" alt="Efke IR 820 120 film box outside" loading="lazy" width="500" height="296">
+	<img src="./lowres/00038_000.jpg" alt="Efke IR 820 120 film box outside" loading="lazy" width="500" height="295">
 </a>
 
 
@@ -3577,7 +3577,7 @@ UUID  : cde1122dafbc47088a11d9ee12b6471a
 ```
 
 <a href="./archive/00002_000.jpg">
-	<img src="./lowres/00002_000.jpg" alt="Efiniti UXi Super 200 35mm film box outside" loading="lazy" width="500" height="335">
+	<img src="./lowres/00002_000.jpg" alt="Efiniti UXi Super 200 35mm film box outside" loading="lazy" width="457" height="500">
 </a>
 
 #### [2013] Kodak Professional Microfilm Type I (ref: a444)
@@ -3710,10 +3710,10 @@ UUID  : 0d89ecf11f3c46deb52171aa909566e3
 ```
 
 <a href="./archive/00022_000.jpg">
-	<img src="./lowres/00022_000.jpg" alt="Fujifilm Fujicolor Pro 400H 120 film box outside" loading="lazy" width="408" height="500">
+	<img src="./lowres/00022_000.jpg" alt="Fujifilm Fujicolor Pro 400H 120 film box outside" loading="lazy" width="408" height="499">
 </a>
 
-#### [2019] Agfa Vista Plus (ref: f08a)
+#### [2019] Agfa Vista Plus 200 (ref: f08a)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -3724,14 +3724,14 @@ UUID  : b1c4d56515954c8d98bd0b8f9591f08a
 ```
 
 <a href="./archive/00257_000.jpg">
-	<img src="./lowres/00257_000.jpg" alt="Agfa Vista Plus 35mm film box outside" loading="lazy" width="410" height="499">
+	<img src="./lowres/00257_000.jpg" alt="Agfa Vista Plus 200 35mm film box outside" loading="lazy" width="410" height="499">
 </a>
 
 
 `UUID: 0088411d14c547aa96ea5d28bf04d9ea`↓
 
 <a href="./archive/00257_001.jpg">
-	<img src="./lowres/00257_001.jpg" alt="Agfa Vista Plus 35mm film box inside" loading="lazy" width="410" height="499">
+	<img src="./lowres/00257_001.jpg" alt="Agfa Vista Plus 200 35mm film box inside" loading="lazy" width="410" height="499">
 </a>
 
 #### [2019] Fujifilm Fujicolor Professional (ref: 02f7)
@@ -3913,7 +3913,7 @@ UUID  : fcbc3377fa3d4ca9b58779f86ed7c725
 ```
 
 <a href="./archive/00090_000.jpg">
-	<img src="./lowres/00090_000.jpg" alt="Ilford HP5 Plus 35mm film box outside" loading="lazy" width="409" height="500">
+	<img src="./lowres/00090_000.jpg" alt="Ilford HP5 Plus 35mm film box outside" loading="lazy" width="408" height="500">
 </a>
 
 #### [2022] Lomography Lomochrome Purple (ref: 8b00)
@@ -4144,7 +4144,7 @@ UUID  : 9984ed6c13cd4be496e7e4b58e313e49
 ```
 
 <a href="./archive/00057_000.jpg">
-	<img src="./lowres/00057_000.jpg" alt="Alien Film 5222/XX 35mm film box outside" loading="lazy" width="454" height="500">
+	<img src="./lowres/00057_000.jpg" alt="Alien Film 5222/XX 35mm film box outside" loading="lazy" width="455" height="500">
 </a>
 
 #### [2024] CineStill 400D (ref: 88dc)
@@ -4606,7 +4606,7 @@ UUID  : 2fe522ef01b84a9aa6263807135f8eb4
 ```
 
 <a href="./archive/00076_000.jpg">
-	<img src="./lowres/00076_000.jpg" alt="Harman Phoenix 35mm film box outside" loading="lazy" width="424" height="500">
+	<img src="./lowres/00076_000.jpg" alt="Harman Phoenix 35mm film box outside" loading="lazy" width="425" height="499">
 </a>
 
 
@@ -4823,7 +4823,7 @@ UUID  : aedc4b00bd174e0baf7c744ed21d8820
 ```
 
 <a href="./archive/00001_000.jpg">
-	<img src="./lowres/00001_000.jpg" alt="Alien Film 5207/250D 120 film box outside" loading="lazy" width="500" height="386">
+	<img src="./lowres/00001_000.jpg" alt="Alien Film 5207/250D 120 film box outside" loading="lazy" width="500" height="385">
 </a>
 
 #### [2026] Fujifilm 200 (ref: 5b41)
@@ -4914,7 +4914,7 @@ UUID  : bd00cd25958d4108a7501bf4be9d6637
 ```
 
 <a href="./archive/00091_000.jpg">
-	<img src="./lowres/00091_000.jpg" alt="Kodak ColorPlus 35mm film box outside" loading="lazy" width="429" height="499">
+	<img src="./lowres/00091_000.jpg" alt="Kodak ColorPlus 35mm film box outside" loading="lazy" width="429" height="500">
 </a>
 
 #### [2026] Kodak TMAX P3200 (ref: 43a2)
@@ -5131,7 +5131,7 @@ UUID  : b09848420a1a4d76b099d82d76bc41f4
 ```
 
 <a href="./archive/00164_000.jpg">
-	<img src="./lowres/00164_000.jpg" alt="Hope Film Bubble 35mm film box outside" loading="lazy" width="500" height="400">
+	<img src="./lowres/00164_000.jpg" alt="Hope Film Bubble 35mm film box outside" loading="lazy" width="500" height="394">
 </a>
 
 #### [2026] Marix Professional Negative Movie Color Film (ref: c457)
@@ -5208,7 +5208,7 @@ UUID  : 8b0e255948ad4bbc8689d371569caaa6
 ```
 
 <a href="./archive/00079_000.jpg">
-	<img src="./lowres/00079_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="444" height="500">
+	<img src="./lowres/00079_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="443" height="499">
 </a>
 
 #### [2027] Foma Fomapan (ref: 65ad)
@@ -5271,7 +5271,7 @@ UUID  : 9ef642a09d294cbfad7e040a701deae2
 ```
 
 <a href="./archive/00047_000.jpg">
-	<img src="./lowres/00047_000.jpg" alt="Rollei Infrared 35mm film box outside" loading="lazy" width="405" height="500">
+	<img src="./lowres/00047_000.jpg" alt="Rollei Infrared 35mm film box outside" loading="lazy" width="406" height="499">
 </a>
 
 
@@ -5551,7 +5551,7 @@ UUID  : c3d51159b481435b90dbe2411de784a5
 ```
 
 <a href="./archive/00092_000.jpg">
-	<img src="./lowres/00092_000.jpg" alt="Foma Fomapan 35mm film box outside" loading="lazy" width="407" height="500">
+	<img src="./lowres/00092_000.jpg" alt="Foma Fomapan 35mm film box outside" loading="lazy" width="408" height="500">
 </a>
 
 
@@ -5572,7 +5572,7 @@ UUID  : f22d3e1e2f70453f87aea4b67db3ee8f
 ```
 
 <a href="./archive/00071_000.jpg">
-	<img src="./lowres/00071_000.jpg" alt="Rollei SUPERPAN 200 35mm film box outside" loading="lazy" width="429" height="499">
+	<img src="./lowres/00071_000.jpg" alt="Rollei SUPERPAN 200 35mm film box outside" loading="lazy" width="429" height="500">
 </a>
 
 
@@ -5593,7 +5593,7 @@ UUID  : ecf4e081ccf64a9a8606601f9f665276
 ```
 
 <a href="./archive/00093_000.jpg">
-	<img src="./lowres/00093_000.jpg" alt="Agfa APX 35mm film box outside" loading="lazy" width="453" height="500">
+	<img src="./lowres/00093_000.jpg" alt="Agfa APX 35mm film box outside" loading="lazy" width="454" height="500">
 </a>
 
 
@@ -5628,7 +5628,7 @@ UUID  : 8db6d8343d544c21bfd539c32525df49
 ```
 
 <a href="./archive/00083_000.jpg">
-	<img src="./lowres/00083_000.jpg" alt="Ilford HP5 Plus 35mm film box outside" loading="lazy" width="430" height="500">
+	<img src="./lowres/00083_000.jpg" alt="Ilford HP5 Plus 35mm film box outside" loading="lazy" width="430" height="499">
 </a>
 
 
@@ -5691,14 +5691,14 @@ UUID  : d2cf9753f6fd49a78404c72d848a827e
 ```
 
 <a href="./archive/00015_000.jpg">
-	<img src="./lowres/00015_000.jpg" alt="Kentmere PAN 400 35mm film box outside" loading="lazy" width="500" height="339">
+	<img src="./lowres/00015_000.jpg" alt="Kentmere PAN 400 35mm film box outside" loading="lazy" width="459" height="499">
 </a>
 
 
 `UUID: 3514628a650741c8abb104047d809f55`↓
 
 <a href="./archive/00015_001.jpg">
-	<img src="./lowres/00015_001.jpg" alt="Kentmere PAN 400 35mm film box inside" loading="lazy" width="500" height="338">
+	<img src="./lowres/00015_001.jpg" alt="Kentmere PAN 400 35mm film box inside" loading="lazy" width="433" height="500">
 </a>
 
 #### [2029] Kentmere PAN 400 (ref: a327)
@@ -5736,7 +5736,7 @@ UUID  : b0e988456d7444b1b879dc6ca4a80e32
 	<img src="./lowres/00186_000.jpg" alt="Kentmere PAN 200 35mm film box outside" loading="lazy" width="437" height="499">
 </a>
 
-#### [Unknown] Agfa APX 25 (ref: 805f)
+#### [Unknown] Agfa Agfapan  APX 25 (ref: 805f)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -5747,14 +5747,14 @@ UUID  : 4ef7e8e28d2c4c589d24d9e12135805f
 ```
 
 <a href="./archive/00198_000.jpg">
-	<img src="./lowres/00198_000.jpg" alt="Agfa APX 25 35mm film box outside" loading="lazy" width="423" height="500">
+	<img src="./lowres/00198_000.jpg" alt="Agfa Agfapan  APX 25 35mm film box outside" loading="lazy" width="423" height="500">
 </a>
 
 
 `UUID: 757b2d5a25cc41aab1220ff909f90fb0`↓
 
 <a href="./archive/00198_001.jpg">
-	<img src="./lowres/00198_001.jpg" alt="Agfa APX 25 35mm film box inside" loading="lazy" width="420" height="500">
+	<img src="./lowres/00198_001.jpg" alt="Agfa Agfapan  APX 25 35mm film box inside" loading="lazy" width="420" height="500">
 </a>
 
 #### [Unknown] Agfa Autolith Repo (ref: 8e68)
