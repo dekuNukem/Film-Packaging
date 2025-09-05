@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 04 2025
-Unique items: 295
-Total scans : 507
+Last Updated: Sep 05 2025
+Unique items: 299
+Total scans : 515
 ```
 
 -----
@@ -29,6 +29,9 @@ Total scans : 507
 - [[110] Lomography Orca (ref: d506)](#110-lomography-orca-ref-d506)
 - [[110] Lomography Tiger (ref: 26dd)](#110-lomography-tiger-ref-26dd)
 - [[120] Agfa APX (ref: 12c7)](#120-agfa-apx-ref-12c7)
+- [[120] Agfa Agfacolor Optima 200 (ref: 393d)](#120-agfa-agfacolor-optima-200-ref-393d)
+- [[120] Agfa Agfapan APX 400 (ref: 5855)](#120-agfa-agfapan-apx-400-ref-5855)
+- [[120] Agfa Optima II 400 (ref: fdf0)](#120-agfa-optima-ii-400-ref-fdf0)
 - [[120] Alien Film 5207/250D (ref: 8820)](#120-alien-film-5207250d-ref-8820)
 - [[120] Bergger Pancro400 (ref: ad7b)](#120-bergger-pancro400-ref-ad7b)
 - [[120] CatLABS X Film 320 Pro (ref: 1c69)](#120-catlabs-x-film-320-pro-ref-1c69)
@@ -71,6 +74,7 @@ Total scans : 507
 - [[120] Kodak High Speed Ektachrome (ref: be8f)](#120-kodak-high-speed-ektachrome-ref-be8f)
 - [[120] Kodak Kodacolor-X (ref: a4b1)](#120-kodak-kodacolor-x-ref-a4b1)
 - [[120] Kodak Portra 400 (ref: 9f18)](#120-kodak-portra-400-ref-9f18)
+- [[120] Kodak Portra 400UC (ref: 5b9e)](#120-kodak-portra-400uc-ref-5b9e)
 - [[120] Kodak Portra 400VC (ref: b67b)](#120-kodak-portra-400vc-ref-b67b)
 - [[120] Kodak Portra 800 (ref: 21f9)](#120-kodak-portra-800-ref-21f9)
 - [[120] Kodak TMAX 100 (ref: b3b1)](#120-kodak-tmax-100-ref-b3b1)
@@ -438,6 +442,69 @@ UUID  : a20bbca534454915a6970b6ede2212c7
 
 <a href="./archive/00011_001.jpg">
 	<img src="./lowres/00011_001.jpg" alt="Agfa APX 120 film box inside" loading="lazy" width="500" height="402">
+</a>
+
+#### [120] Agfa Agfacolor Optima 200 (ref: 393d)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2000-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-05   |  Author  : dekuNukem
+UUID  : e8465f64b1f84f32900d92caa25e393d
+```
+
+<a href="./archive/00301_000.jpg">
+	<img src="./lowres/00301_000.jpg" alt="Agfa Agfacolor Optima 200 120 film box outside" loading="lazy" width="500" height="373">
+</a>
+
+
+`UUID: af2f0855d49849daa5b8fbde77c2ce5d`↓
+
+<a href="./archive/00301_001.jpg">
+	<img src="./lowres/00301_001.jpg" alt="Agfa Agfacolor Optima 200 120 film box inside" loading="lazy" width="500" height="373">
+</a>
+
+#### [120] Agfa Agfapan APX 400 (ref: 5855)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2005-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-05   |  Author  : dekuNukem
+UUID  : 4f4b0a2c13064863a1db469838095855
+```
+
+<a href="./archive/00300_000.jpg">
+	<img src="./lowres/00300_000.jpg" alt="Agfa Agfapan APX 400 120 film box outside" loading="lazy" width="500" height="374">
+</a>
+
+
+`UUID: a8ade8c85a504d288a6d5d7458843652`↓
+
+<a href="./archive/00300_001.jpg">
+	<img src="./lowres/00300_001.jpg" alt="Agfa Agfapan APX 400 120 film box inside" loading="lazy" width="500" height="384">
+</a>
+
+#### [120] Agfa Optima II 400 (ref: fdf0)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2002-02 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-05   |  Author  : dekuNukem
+UUID  : 4ae0df57aeb24746a0a7854da202fdf0
+```
+
+<a href="./archive/00298_000.jpg">
+	<img src="./lowres/00298_000.jpg" alt="Agfa Optima II 400 120 film box outside" loading="lazy" width="500" height="381">
+</a>
+
+
+`UUID: 14bad93245df4dbdbcdaacff90eafb1a`↓
+
+<a href="./archive/00298_001.jpg">
+	<img src="./lowres/00298_001.jpg" alt="Agfa Optima II 400 120 film box inside" loading="lazy" width="500" height="384">
 </a>
 
 #### [120] Alien Film 5207/250D (ref: 8820)
@@ -1320,6 +1387,27 @@ UUID  : 12ee41c6f8fe493fbda516802e039f18
 
 <a href="./archive/00246_001.jpg">
 	<img src="./lowres/00246_001.jpg" alt="Kodak Portra 400 120 film box outside" loading="lazy" width="500" height="338">
+</a>
+
+#### [120] Kodak Portra 400UC (ref: 5b9e)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2004-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-05   |  Author  : dekuNukem
+UUID  : 87e948a92b624ef996d2e1da3a7b5b9e
+```
+
+<a href="./archive/00299_000.jpg">
+	<img src="./lowres/00299_000.jpg" alt="Kodak Portra 400UC 120 film box processing envelope" loading="lazy" width="500" height="431">
+</a>
+
+
+`UUID: 4d0264c90bd7476099107ddfac1ec67f`↓
+
+<a href="./archive/00299_001.jpg">
+	<img src="./lowres/00299_001.jpg" alt="Kodak Portra 400UC 120 film box inside" loading="lazy" width="500" height="432">
 </a>
 
 #### [120] Kodak Portra 400VC (ref: b67b)
@@ -5944,7 +6032,7 @@ UUID  : 6032680a3aba41b39c600d7e23998f62
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     158   
+1     dekuNukem                     166   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    

@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 04 2025
-Unique items: 295
-Total scans : 507
+Last Updated: Sep 05 2025
+Unique items: 299
+Total scans : 515
 ```
 
 -----
@@ -101,6 +101,7 @@ Total scans : 507
 - [[1999] Kodak Gold (ref: 2f8d)](#1999-kodak-gold-ref-2f8d)
 - [[1999] Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#1999-kodak-ektachrome-slide-duplicating-film-ref-d53a)
 - [[2000] Konica Infrared 750nm (ref: 2d93)](#2000-konica-infrared-750nm-ref-2d93)
+- [[2000] Agfa Agfacolor Optima 200 (ref: 393d)](#2000-agfa-agfacolor-optima-200-ref-393d)
 - [[2000] Kodak Rapid Process Copy Film (ref: e66e)](#2000-kodak-rapid-process-copy-film-ref-e66e)
 - [[2000] Fujifilm Fujicolor Superia (ref: d1b7)](#2000-fujifilm-fujicolor-superia-ref-d1b7)
 - [[2000] Kodak Ektacolor Pro Gold (ref: c3f8)](#2000-kodak-ektacolor-pro-gold-ref-c3f8)
@@ -113,6 +114,7 @@ Total scans : 507
 - [[2001] Kodak Gold (ref: ea58)](#2001-kodak-gold-ref-ea58)
 - [[2001] Kodak Ektachrome 400X (ref: 5b82)](#2001-kodak-ektachrome-400x-ref-5b82)
 - [[2001] Kodak Värikuvafilmi (ref: f9ff)](#2001-kodak-värikuvafilmi-ref-f9ff)
+- [[2002] Agfa Optima II 400 (ref: fdf0)](#2002-agfa-optima-ii-400-ref-fdf0)
 - [[2002] Fujifilm Fujicolor Superia (ref: 0683)](#2002-fujifilm-fujicolor-superia-ref-0683)
 - [[2002] Kodak Ektachrome 100 Plus (ref: 5d9f)](#2002-kodak-ektachrome-100-plus-ref-5d9f)
 - [[2002] Kirkland Signature Color Print Film (ref: 0441)](#2002-kirkland-signature-color-print-film-ref-0441)
@@ -130,10 +132,12 @@ Total scans : 507
 - [[2004] Fujifilm Fujicolor Superia X-TRA (ref: 7980)](#2004-fujifilm-fujicolor-superia-x-tra-ref-7980)
 - [[2004] Kodak Black & White + (ref: 2ff3)](#2004-kodak-black-white-ref-2ff3)
 - [[2004] Lloyds Pharmacy Colour Film (ref: 074c)](#2004-lloyds-pharmacy-colour-film-ref-074c)
+- [[2004] Kodak Portra 400UC (ref: 5b9e)](#2004-kodak-portra-400uc-ref-5b9e)
 - [[2004] Kodak Portra 400VC (ref: b67b)](#2004-kodak-portra-400vc-ref-b67b)
 - [[2005] Fujifilm Fujicolor Superia X-TRA (ref: 0446)](#2005-fujifilm-fujicolor-superia-x-tra-ref-0446)
 - [[2005] Agfa Agfacolor XRG (ref: 689e)](#2005-agfa-agfacolor-xrg-ref-689e)
 - [[2005] Agfa Agfapan APX 100 (ref: e271)](#2005-agfa-agfapan-apx-100-ref-e271)
+- [[2005] Agfa Agfapan APX 400 (ref: 5855)](#2005-agfa-agfapan-apx-400-ref-5855)
 - [[2005] Kodak Ektachrome 100 Plus (ref: 0183)](#2005-kodak-ektachrome-100-plus-ref-0183)
 - [[2005] Kodak Ultra (ref: 69a1)](#2005-kodak-ultra-ref-69a1)
 - [[2006] Agfa Agfapan APX 400 (ref: 19bc)](#2006-agfa-agfapan-apx-400-ref-19bc)
@@ -2148,6 +2152,27 @@ UUID  : 63b2857f2df549878446cc1963362d93
 	<img src="./lowres/00036_000.jpg" alt="Konica Infrared 750nm 120 film box outside" loading="lazy" width="500" height="302">
 </a>
 
+#### [2000] Agfa Agfacolor Optima 200 (ref: 393d)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2000-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-05   |  Author  : dekuNukem
+UUID  : e8465f64b1f84f32900d92caa25e393d
+```
+
+<a href="./archive/00301_000.jpg">
+	<img src="./lowres/00301_000.jpg" alt="Agfa Agfacolor Optima 200 120 film box outside" loading="lazy" width="500" height="373">
+</a>
+
+
+`UUID: af2f0855d49849daa5b8fbde77c2ce5d`↓
+
+<a href="./archive/00301_001.jpg">
+	<img src="./lowres/00301_001.jpg" alt="Agfa Agfacolor Optima 200 120 film box inside" loading="lazy" width="500" height="373">
+</a>
+
 #### [2000] Kodak Rapid Process Copy Film (ref: e66e)
 
 ```
@@ -2419,6 +2444,27 @@ UUID  : b8795d19697a453c8f27fde773eaf9ff
 
 <a href="./archive/00146_000.jpg">
 	<img src="./lowres/00146_000.jpg" alt="Kodak Värikuvafilmi 35mm film box outside" loading="lazy" width="500" height="484">
+</a>
+
+#### [2002] Agfa Optima II 400 (ref: fdf0)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2002-02 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-05   |  Author  : dekuNukem
+UUID  : 4ae0df57aeb24746a0a7854da202fdf0
+```
+
+<a href="./archive/00298_000.jpg">
+	<img src="./lowres/00298_000.jpg" alt="Agfa Optima II 400 120 film box outside" loading="lazy" width="500" height="381">
+</a>
+
+
+`UUID: 14bad93245df4dbdbcdaacff90eafb1a`↓
+
+<a href="./archive/00298_001.jpg">
+	<img src="./lowres/00298_001.jpg" alt="Agfa Optima II 400 120 film box inside" loading="lazy" width="500" height="384">
 </a>
 
 #### [2002] Fujifilm Fujicolor Superia (ref: 0683)
@@ -2729,6 +2775,27 @@ UUID  : c4d16975eee44b9185b17cf0c0e4074c
 	<img src="./lowres/00266_000.jpg" alt="Lloyds Pharmacy Colour Film 35mm film box outside" loading="lazy" width="406" height="499">
 </a>
 
+#### [2004] Kodak Portra 400UC (ref: 5b9e)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2004-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-05   |  Author  : dekuNukem
+UUID  : 87e948a92b624ef996d2e1da3a7b5b9e
+```
+
+<a href="./archive/00299_000.jpg">
+	<img src="./lowres/00299_000.jpg" alt="Kodak Portra 400UC 120 film box processing envelope" loading="lazy" width="500" height="431">
+</a>
+
+
+`UUID: 4d0264c90bd7476099107ddfac1ec67f`↓
+
+<a href="./archive/00299_001.jpg">
+	<img src="./lowres/00299_001.jpg" alt="Kodak Portra 400UC 120 film box inside" loading="lazy" width="500" height="432">
+</a>
+
 #### [2004] Kodak Portra 400VC (ref: b67b)
 
 ```
@@ -2811,6 +2878,27 @@ UUID  : e00a9a59b3d74a1d85ff4331bc73e271
 
 <a href="./archive/00191_000.jpg">
 	<img src="./lowres/00191_000.jpg" alt="Agfa Agfapan APX 100 35mm film box outside" loading="lazy" width="422" height="499">
+</a>
+
+#### [2005] Agfa Agfapan APX 400 (ref: 5855)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2005-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-05   |  Author  : dekuNukem
+UUID  : 4f4b0a2c13064863a1db469838095855
+```
+
+<a href="./archive/00300_000.jpg">
+	<img src="./lowres/00300_000.jpg" alt="Agfa Agfapan APX 400 120 film box outside" loading="lazy" width="500" height="374">
+</a>
+
+
+`UUID: a8ade8c85a504d288a6d5d7458843652`↓
+
+<a href="./archive/00300_001.jpg">
+	<img src="./lowres/00300_001.jpg" alt="Agfa Agfapan APX 400 120 film box inside" loading="lazy" width="500" height="384">
 </a>
 
 #### [2005] Kodak Ektachrome 100 Plus (ref: 0183)
@@ -5944,7 +6032,7 @@ UUID  : 80d64fa269454c5589109c68a40541a8
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     158   
+1     dekuNukem                     166   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    

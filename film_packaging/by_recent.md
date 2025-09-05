@@ -15,13 +15,17 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 04 2025
-Unique items: 295
-Total scans : 507
+Last Updated: Sep 05 2025
+Unique items: 299
+Total scans : 515
 ```
 
 -----
 
+- [[2025-09-05] Agfa Agfacolor Optima 200 (ref: 393d)](#2025-09-05-agfa-agfacolor-optima-200-ref-393d)
+- [[2025-09-05] Agfa Agfapan APX 400 (ref: 5855)](#2025-09-05-agfa-agfapan-apx-400-ref-5855)
+- [[2025-09-05] Kodak Portra 400UC (ref: 5b9e)](#2025-09-05-kodak-portra-400uc-ref-5b9e)
+- [[2025-09-05] Agfa Optima II 400 (ref: fdf0)](#2025-09-05-agfa-optima-ii-400-ref-fdf0)
 - [[2025-09-04] Kodak FarbWelt 400 (ref: e9b6)](#2025-09-04-kodak-farbwelt-400-ref-e9b6)
 - [[2025-09-03] Kodak Ektachrome Professional Type B (ref: 1d9d)](#2025-09-03-kodak-ektachrome-professional-type-b-ref-1d9d)
 - [[2025-09-03] Kodak Ektachrome Professional (ref: 02a1)](#2025-09-03-kodak-ektachrome-professional-ref-02a1)
@@ -320,6 +324,90 @@ Total scans : 507
 
 
 -----
+
+
+`UUID: af2f0855d49849daa5b8fbde77c2ce5d`↓
+
+<a href="./archive/00301_001.jpg">
+	<img src="./lowres/00301_001.jpg" alt="Agfa Agfacolor Optima 200 120 film box inside" loading="lazy" width="500" height="373">
+</a>
+
+#### [2025-09-05] Agfa Agfacolor Optima 200 (ref: 393d)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2000-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-05   |  Author  : dekuNukem
+UUID  : e8465f64b1f84f32900d92caa25e393d
+```
+
+<a href="./archive/00301_000.jpg">
+	<img src="./lowres/00301_000.jpg" alt="Agfa Agfacolor Optima 200 120 film box outside" loading="lazy" width="500" height="373">
+</a>
+
+
+`UUID: a8ade8c85a504d288a6d5d7458843652`↓
+
+<a href="./archive/00300_001.jpg">
+	<img src="./lowres/00300_001.jpg" alt="Agfa Agfapan APX 400 120 film box inside" loading="lazy" width="500" height="384">
+</a>
+
+#### [2025-09-05] Agfa Agfapan APX 400 (ref: 5855)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2005-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-05   |  Author  : dekuNukem
+UUID  : 4f4b0a2c13064863a1db469838095855
+```
+
+<a href="./archive/00300_000.jpg">
+	<img src="./lowres/00300_000.jpg" alt="Agfa Agfapan APX 400 120 film box outside" loading="lazy" width="500" height="374">
+</a>
+
+
+`UUID: 4d0264c90bd7476099107ddfac1ec67f`↓
+
+<a href="./archive/00299_001.jpg">
+	<img src="./lowres/00299_001.jpg" alt="Kodak Portra 400UC 120 film box inside" loading="lazy" width="500" height="432">
+</a>
+
+#### [2025-09-05] Kodak Portra 400UC (ref: 5b9e)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2004-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-05   |  Author  : dekuNukem
+UUID  : 87e948a92b624ef996d2e1da3a7b5b9e
+```
+
+<a href="./archive/00299_000.jpg">
+	<img src="./lowres/00299_000.jpg" alt="Kodak Portra 400UC 120 film box processing envelope" loading="lazy" width="500" height="431">
+</a>
+
+
+`UUID: 14bad93245df4dbdbcdaacff90eafb1a`↓
+
+<a href="./archive/00298_001.jpg">
+	<img src="./lowres/00298_001.jpg" alt="Agfa Optima II 400 120 film box inside" loading="lazy" width="500" height="384">
+</a>
+
+#### [2025-09-05] Agfa Optima II 400 (ref: fdf0)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2002-02 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-05   |  Author  : dekuNukem
+UUID  : 4ae0df57aeb24746a0a7854da202fdf0
+```
+
+<a href="./archive/00298_000.jpg">
+	<img src="./lowres/00298_000.jpg" alt="Agfa Optima II 400 120 film box outside" loading="lazy" width="500" height="381">
+</a>
 
 #### [2025-09-04] Kodak FarbWelt 400 (ref: e9b6)
 
@@ -5944,7 +6032,7 @@ UUID  : 36151f6b7cc045c2b43d7f5cbee41a5d
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     158   
+1     dekuNukem                     166   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    

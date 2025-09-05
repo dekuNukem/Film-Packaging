@@ -506,3 +506,11 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 296,3,film_box_leaflet,Kodak,Ektachrome Professional Type B,120,32,E-3,197411,1756942411,17d9fccbf50b1f9568515865a4391ed6,349ef3a2ea8244f78955530ca905e8c9,00296_003.jpg,dekuNukem,,Single Pack,N/A
 296,4,film_box_leaflet,Kodak,Ektachrome Professional Type B,120,32,E-3,197411,1756942413,dec814b18a98220fce4cefd1bb8a0624,b7c2b191e72e4ae297c4c78d98585957,00296_004.jpg,dekuNukem,,Single Pack,N/A
 297,0,film_box_outside,Kodak,FarbWelt 400,35mm,400,C-41,200909,1757025833,3a2072765ae1732cb103129b67cb43f9,dc04ec32aeda4b9ba394437272fde9b6,00297_000.jpg,dekuNukem,,Multi-Pack-2,36exp
+298,0,film_box_outside,Agfa,Optima II 400,120,400,C-41,200202,1757115319,15172d990019748f685364bb4e1451ad,4ae0df57aeb24746a0a7854da202fdf0,00298_000.jpg,dekuNukem,,Single Pack,N/A
+298,1,film_box_inside,Agfa,Optima II 400,120,400,C-41,200202,1757115321,1e8bdddf3e2de6d3e3b63d5db54b361f,14bad93245df4dbdbcdaacff90eafb1a,00298_001.jpg,dekuNukem,,Single Pack,N/A
+299,0,film_box_processing_envelope,Kodak,Portra 400UC,120,400,C-41,200409,1757115389,eb1f8d61ba84dba9b5268e473365d369,87e948a92b624ef996d2e1da3a7b5b9e,00299_000.jpg,dekuNukem,"sample pack, not for resale.",Single Pack,N/A
+299,1,film_box_inside,Kodak,Portra 400UC,120,400,C-41,200409,1757115392,5a945e87ff042efc9f487779e4a0f916,4d0264c90bd7476099107ddfac1ec67f,00299_001.jpg,dekuNukem,"sample pack, not for resale.",Single Pack,N/A
+300,0,film_box_outside,Agfa,Agfapan APX 400,120,400,BW,200507,1757115437,28cf59410e58bc47446599483bc159ff,4f4b0a2c13064863a1db469838095855,00300_000.jpg,dekuNukem,,Single Pack,N/A
+300,1,film_box_inside,Agfa,Agfapan APX 400,120,400,BW,200507,1757115450,828414022a5ea5bbd7f71972ed8202bf,a8ade8c85a504d288a6d5d7458843652,00300_001.jpg,dekuNukem,,Single Pack,N/A
+301,0,film_box_outside,Agfa,Agfacolor Optima 200,120,200,C-41,200006,1757115499,32f28cae49006428c363ba070721dfa8,e8465f64b1f84f32900d92caa25e393d,00301_000.jpg,dekuNukem,,Single Pack,N/A
+301,1,film_box_inside,Agfa,Agfacolor Optima 200,120,200,C-41,200006,1757115504,dc8dacfeaef82f8c3a77f0b847ea2ee4,af2f0855d49849daa5b8fbde77c2ce5d,00301_001.jpg,dekuNukem,,Single Pack,N/A

@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 04 2025
-Unique items: 295
-Total scans : 507
+Last Updated: Sep 05 2025
+Unique items: 299
+Total scans : 515
 ```
 
 -----
@@ -29,6 +29,7 @@ Total scans : 507
 - [[BW] Agfa APX (ref: 5276)](#bw-agfa-apx-ref-5276)
 - [[BW] Agfa APX 25 (ref: 805f)](#bw-agfa-apx-25-ref-805f)
 - [[BW] Agfa Agfapan APX 100 (ref: e271)](#bw-agfa-agfapan-apx-100-ref-e271)
+- [[BW] Agfa Agfapan APX 400 (ref: 5855)](#bw-agfa-agfapan-apx-400-ref-5855)
 - [[BW] Agfa Agfapan APX 400 (ref: 19bc)](#bw-agfa-agfapan-apx-400-ref-19bc)
 - [[BW] Agfa Agfapan Rapid (ref: 5e7b)](#bw-agfa-agfapan-rapid-ref-5e7b)
 - [[BW] Agfa Autolith Repo (ref: 8e68)](#bw-agfa-autolith-repo-ref-8e68)
@@ -121,7 +122,9 @@ Total scans : 507
 - [[C-22] Kodak Kodacolor-X (ref: 0ce5)](#c-22-kodak-kodacolor-x-ref-0ce5)
 - [[C-22] Kodak Kodacolor-X (ref: 5302)](#c-22-kodak-kodacolor-x-ref-5302)
 - [[C-22] Porst Color N21 (ref: 494a)](#c-22-porst-color-n21-ref-494a)
+- [[C-41] Agfa Agfacolor Optima 200 (ref: 393d)](#c-41-agfa-agfacolor-optima-200-ref-393d)
 - [[C-41] Agfa Agfacolor XRG (ref: 689e)](#c-41-agfa-agfacolor-xrg-ref-689e)
+- [[C-41] Agfa Optima II 400 (ref: fdf0)](#c-41-agfa-optima-ii-400-ref-fdf0)
 - [[C-41] Agfa ULTRA 50 (ref: 4faa)](#c-41-agfa-ultra-50-ref-4faa)
 - [[C-41] Agfa Vista (ref: d3af)](#c-41-agfa-vista-ref-d3af)
 - [[C-41] Agfa Vista Plus (ref: f08a)](#c-41-agfa-vista-plus-ref-f08a)
@@ -207,6 +210,7 @@ Total scans : 507
 - [[C-41] Kodak Portra 400 (ref: 8b1c)](#c-41-kodak-portra-400-ref-8b1c)
 - [[C-41] Kodak Portra 400 (ref: c869)](#c-41-kodak-portra-400-ref-c869)
 - [[C-41] Kodak Portra 400NC (ref: b8de)](#c-41-kodak-portra-400nc-ref-b8de)
+- [[C-41] Kodak Portra 400UC (ref: 5b9e)](#c-41-kodak-portra-400uc-ref-5b9e)
 - [[C-41] Kodak Portra 400VC (ref: b67b)](#c-41-kodak-portra-400vc-ref-b67b)
 - [[C-41] Kodak Portra 400VC (ref: 7669)](#c-41-kodak-portra-400vc-ref-7669)
 - [[C-41] Kodak Portra 800 (ref: 21f9)](#c-41-kodak-portra-800-ref-21f9)
@@ -466,6 +470,27 @@ UUID  : e00a9a59b3d74a1d85ff4331bc73e271
 
 <a href="./archive/00191_000.jpg">
 	<img src="./lowres/00191_000.jpg" alt="Agfa Agfapan APX 100 35mm film box outside" loading="lazy" width="422" height="499">
+</a>
+
+#### [BW] Agfa Agfapan APX 400 (ref: 5855)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2005-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-05   |  Author  : dekuNukem
+UUID  : 4f4b0a2c13064863a1db469838095855
+```
+
+<a href="./archive/00300_000.jpg">
+	<img src="./lowres/00300_000.jpg" alt="Agfa Agfapan APX 400 120 film box outside" loading="lazy" width="500" height="374">
+</a>
+
+
+`UUID: a8ade8c85a504d288a6d5d7458843652`↓
+
+<a href="./archive/00300_001.jpg">
+	<img src="./lowres/00300_001.jpg" alt="Agfa Agfapan APX 400 120 film box inside" loading="lazy" width="500" height="384">
 </a>
 
 #### [BW] Agfa Agfapan APX 400 (ref: 19bc)
@@ -2176,6 +2201,27 @@ UUID  : e08418889f714c9dbda0858718e0494a
 	<img src="./lowres/00046_001.jpg" alt="Porst Color N21 35mm film box leaflet" loading="lazy" width="500" height="426">
 </a>
 
+#### [C-41] Agfa Agfacolor Optima 200 (ref: 393d)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2000-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-05   |  Author  : dekuNukem
+UUID  : e8465f64b1f84f32900d92caa25e393d
+```
+
+<a href="./archive/00301_000.jpg">
+	<img src="./lowres/00301_000.jpg" alt="Agfa Agfacolor Optima 200 120 film box outside" loading="lazy" width="500" height="373">
+</a>
+
+
+`UUID: af2f0855d49849daa5b8fbde77c2ce5d`↓
+
+<a href="./archive/00301_001.jpg">
+	<img src="./lowres/00301_001.jpg" alt="Agfa Agfacolor Optima 200 120 film box inside" loading="lazy" width="500" height="373">
+</a>
+
 #### [C-41] Agfa Agfacolor XRG (ref: 689e)
 
 ```
@@ -2195,6 +2241,27 @@ UUID  : 86136eea89d14e15b60dfcdf45b1689e
 
 <a href="./archive/00152_001.jpg">
 	<img src="./lowres/00152_001.jpg" alt="Agfa Agfacolor XRG 35mm film box inside" loading="lazy" width="404" height="500">
+</a>
+
+#### [C-41] Agfa Optima II 400 (ref: fdf0)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2002-02 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-05   |  Author  : dekuNukem
+UUID  : 4ae0df57aeb24746a0a7854da202fdf0
+```
+
+<a href="./archive/00298_000.jpg">
+	<img src="./lowres/00298_000.jpg" alt="Agfa Optima II 400 120 film box outside" loading="lazy" width="500" height="381">
+</a>
+
+
+`UUID: 14bad93245df4dbdbcdaacff90eafb1a`↓
+
+<a href="./archive/00298_001.jpg">
+	<img src="./lowres/00298_001.jpg" alt="Agfa Optima II 400 120 film box inside" loading="lazy" width="500" height="384">
 </a>
 
 #### [C-41] Agfa ULTRA 50 (ref: 4faa)
@@ -3658,6 +3725,27 @@ UUID  : 88ebc10c01ea46238c48e65157ddb8de
 
 <a href="./archive/00175_000.jpg">
 	<img src="./lowres/00175_000.jpg" alt="Kodak Portra 400NC 70mm film box outside" loading="lazy" width="500" height="500">
+</a>
+
+#### [C-41] Kodak Portra 400UC (ref: 5b9e)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2004-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-05   |  Author  : dekuNukem
+UUID  : 87e948a92b624ef996d2e1da3a7b5b9e
+```
+
+<a href="./archive/00299_000.jpg">
+	<img src="./lowres/00299_000.jpg" alt="Kodak Portra 400UC 120 film box processing envelope" loading="lazy" width="500" height="431">
+</a>
+
+
+`UUID: 4d0264c90bd7476099107ddfac1ec67f`↓
+
+<a href="./archive/00299_001.jpg">
+	<img src="./lowres/00299_001.jpg" alt="Kodak Portra 400UC 120 film box inside" loading="lazy" width="500" height="432">
 </a>
 
 #### [C-41] Kodak Portra 400VC (ref: b67b)
@@ -5944,7 +6032,7 @@ UUID  : 8131d8c6fbf14016be9c17a2586b07c0
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     158   
+1     dekuNukem                     166   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    

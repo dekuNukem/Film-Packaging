@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 04 2025
-Unique items: 295
-Total scans : 507
+Last Updated: Sep 05 2025
+Unique items: 299
+Total scans : 515
 ```
 
 -----
@@ -218,6 +218,9 @@ Total scans : 507
 - [[dekuNukem] ADOX KB17 (ref: 2c95)](#dekunukem-adox-kb17-ref-2c95)
 - [[dekuNukem] Agfa APX (ref: 12c7)](#dekunukem-agfa-apx-ref-12c7)
 - [[dekuNukem] Agfa AgfaColor CT 18 (ref: 1fef)](#dekunukem-agfa-agfacolor-ct-18-ref-1fef)
+- [[dekuNukem] Agfa Agfacolor Optima 200 (ref: 393d)](#dekunukem-agfa-agfacolor-optima-200-ref-393d)
+- [[dekuNukem] Agfa Agfapan APX 400 (ref: 5855)](#dekunukem-agfa-agfapan-apx-400-ref-5855)
+- [[dekuNukem] Agfa Optima II 400 (ref: fdf0)](#dekunukem-agfa-optima-ii-400-ref-fdf0)
 - [[dekuNukem] Agfa ULTRA 50 (ref: 4faa)](#dekunukem-agfa-ultra-50-ref-4faa)
 - [[dekuNukem] Agfa Vista (ref: d3af)](#dekunukem-agfa-vista-ref-d3af)
 - [[dekuNukem] Alien Film 5207/250D (ref: 8820)](#dekunukem-alien-film-5207250d-ref-8820)
@@ -265,6 +268,7 @@ Total scans : 507
 - [[dekuNukem] Kodak Kodacolor-X (ref: 0ce5)](#dekunukem-kodak-kodacolor-x-ref-0ce5)
 - [[dekuNukem] Kodak Kodacolor-X (ref: 5302)](#dekunukem-kodak-kodacolor-x-ref-5302)
 - [[dekuNukem] Kodak Plus-X Pan (ref: f5cc)](#dekunukem-kodak-plus-x-pan-ref-f5cc)
+- [[dekuNukem] Kodak Portra 400UC (ref: 5b9e)](#dekunukem-kodak-portra-400uc-ref-5b9e)
 - [[dekuNukem] Kodak TMAX 100 (ref: b3b1)](#dekunukem-kodak-tmax-100-ref-b3b1)
 - [[dekuNukem] Kodak TMAX 400 (ref: a34d)](#dekunukem-kodak-tmax-400-ref-a34d)
 - [[dekuNukem] Kodak Technical Pan 6415 (ref: 03be)](#dekunukem-kodak-technical-pan-6415-ref-03be)
@@ -3842,6 +3846,69 @@ UUID  : 0e445a9b612a487b90df4e94a3831fef
 	<img src="./lowres/00272_006.jpg" alt="Agfa AgfaColor CT 18 35mm film box processing envelope" loading="lazy" width="500" height="340">
 </a>
 
+#### [dekuNukem] Agfa Agfacolor Optima 200 (ref: 393d)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2000-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-05   |  Author  : dekuNukem
+UUID  : e8465f64b1f84f32900d92caa25e393d
+```
+
+<a href="./archive/00301_000.jpg">
+	<img src="./lowres/00301_000.jpg" alt="Agfa Agfacolor Optima 200 120 film box outside" loading="lazy" width="500" height="373">
+</a>
+
+
+`UUID: af2f0855d49849daa5b8fbde77c2ce5d`↓
+
+<a href="./archive/00301_001.jpg">
+	<img src="./lowres/00301_001.jpg" alt="Agfa Agfacolor Optima 200 120 film box inside" loading="lazy" width="500" height="373">
+</a>
+
+#### [dekuNukem] Agfa Agfapan APX 400 (ref: 5855)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2005-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-05   |  Author  : dekuNukem
+UUID  : 4f4b0a2c13064863a1db469838095855
+```
+
+<a href="./archive/00300_000.jpg">
+	<img src="./lowres/00300_000.jpg" alt="Agfa Agfapan APX 400 120 film box outside" loading="lazy" width="500" height="374">
+</a>
+
+
+`UUID: a8ade8c85a504d288a6d5d7458843652`↓
+
+<a href="./archive/00300_001.jpg">
+	<img src="./lowres/00300_001.jpg" alt="Agfa Agfapan APX 400 120 film box inside" loading="lazy" width="500" height="384">
+</a>
+
+#### [dekuNukem] Agfa Optima II 400 (ref: fdf0)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2002-02 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-05   |  Author  : dekuNukem
+UUID  : 4ae0df57aeb24746a0a7854da202fdf0
+```
+
+<a href="./archive/00298_000.jpg">
+	<img src="./lowres/00298_000.jpg" alt="Agfa Optima II 400 120 film box outside" loading="lazy" width="500" height="381">
+</a>
+
+
+`UUID: 14bad93245df4dbdbcdaacff90eafb1a`↓
+
+<a href="./archive/00298_001.jpg">
+	<img src="./lowres/00298_001.jpg" alt="Agfa Optima II 400 120 film box inside" loading="lazy" width="500" height="384">
+</a>
+
 #### [dekuNukem] Agfa ULTRA 50 (ref: 4faa)
 
 ```
@@ -4806,6 +4873,27 @@ UUID  : 66f3d693560540d5b5a4cbfb3a91f5cc
 
 <a href="./archive/00271_000.jpg">
 	<img src="./lowres/00271_000.jpg" alt="Kodak Plus-X Pan 35mm film box outside" loading="lazy" width="434" height="500">
+</a>
+
+#### [dekuNukem] Kodak Portra 400UC (ref: 5b9e)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2004-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-05   |  Author  : dekuNukem
+UUID  : 87e948a92b624ef996d2e1da3a7b5b9e
+```
+
+<a href="./archive/00299_000.jpg">
+	<img src="./lowres/00299_000.jpg" alt="Kodak Portra 400UC 120 film box processing envelope" loading="lazy" width="500" height="431">
+</a>
+
+
+`UUID: 4d0264c90bd7476099107ddfac1ec67f`↓
+
+<a href="./archive/00299_001.jpg">
+	<img src="./lowres/00299_001.jpg" alt="Kodak Portra 400UC 120 film box inside" loading="lazy" width="500" height="432">
 </a>
 
 #### [dekuNukem] Kodak TMAX 100 (ref: b3b1)
@@ -5944,7 +6032,7 @@ UUID  : e54ce68c797b4846b9aee3f5818ecb58
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     158   
+1     dekuNukem                     166   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    

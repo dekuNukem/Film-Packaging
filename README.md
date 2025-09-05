@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 04 2025
-Unique items: 295
-Total scans : 507
+Last Updated: Sep 05 2025
+Unique items: 299
+Total scans : 515
 ```
 
 Or Sort by...
@@ -53,7 +53,7 @@ Or Sort by...
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     158   
+1     dekuNukem                     166   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    
@@ -84,6 +84,12 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-09-05
+  - dekuNukem: Agfa Agfacolor Optima 200
+  - dekuNukem: Agfa Agfapan APX 400
+  - dekuNukem: Agfa Optima II 400
+  - dekuNukem: Kodak Portra 400UC
+
 2025-09-04
   - dekuNukem: Kodak FarbWelt 400
 
@@ -122,13 +128,6 @@ Rank  Username                      Contributions
   - dekuNukem: Lloyds Pharmacy Colour Film
   - dekuNukem: Max Spielmann Maxi Color
   - dekuNukem: Premium Super XG
-
-2025-08-28
-  - The Compartmentalist: Kodak Ektachrome 200
-  - The Compartmentalist: Kodak Ektachrome Slide Duplicating Film
-  - The Compartmentalist: Kodak High Speed Ektachrome
-  - The Compartmentalist: Kodak Kodacolor II
-  - The Compartmentalist: Reflx Lab Pro 100
 ```
 
 ## Disclaimer

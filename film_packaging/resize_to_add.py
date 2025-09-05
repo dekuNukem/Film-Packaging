@@ -10,7 +10,7 @@ target_dir = './to_add'
 image_files = [
     os.path.join(target_dir, f)
     for f in os.listdir(target_dir)
-    if f.lower().endswith(('.jpg', '.jpeg', '.png'))
+    if f.lower().endswith(('.jpg', '.jpeg', '.png', '.tif', '.tiff'))
 ]
 
 if len(image_files) == 0:
@@ -49,9 +49,9 @@ for file in image_files:
             print(f"Processed {file} -> {out_file} ({img.size}) at {jpeg_quality}% quality")
 
         # If original was a PNG, delete it after successful conversion
-        if file.lower().endswith(".png"):
+        if file.lower().endswith(('.png', '.tif', '.tiff')):
             os.remove(file)
-            print(f"Deleted original PNG: {file}")
+            print(f"Deleted original: {file}")
 
     except Exception as e:
         print(f"Error processing {file}: {e}")
