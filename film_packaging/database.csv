@@ -518,3 +518,10 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 303,0,film_box_outside,Kodak,High Speed Ektachrome,120,125,Unknown,197701,1757151658,dddca4f4630a69663a3960122049b094,ac9eab85f0874cf7aa5c67f0458e7533,00303_000.jpg,kaimon,Tungsten (3200K) EHB 120,Single Pack,N/A
 303,1,film_box_leaflet,Kodak,High Speed Ektachrome,120,125,Unknown,197701,1757151660,fc8706376ab4f0ce882e727c13ba41b2,304a86e18bd841ee86c30538fe4e1940,00303_001.jpg,kaimon,Tungsten (3200K) EHB 120,Single Pack,N/A
 303,2,film_box_leaflet,Kodak,High Speed Ektachrome,120,125,Unknown,197701,1757151662,8963e8be58a562680a1143914c2ea966,00e9096cb514470d8c00d2f66a652286,00303_002.jpg,kaimon,Tungsten (3200K) EHB 120,Single Pack,N/A
+304,0,film_box_outside,Ilford,FP4 Plus,35mm,125,BW,202809,1757152011,6be62072ad9a04780e05bca99d1813d7,c1bab96948014588adbde72665853bc0,00304_000.jpg,@toastergod101,,Single Pack,24exp
+304,1,film_box_inside,Ilford,FP4 Plus,35mm,125,BW,202809,1757152013,783402ec48c4ee378fde76adfeeb12fc,627cee08157e4e5c9277b0e02fe7eb6c,00304_001.jpg,@toastergod101,,Single Pack,24exp
+305,0,film_box_outside,Ilford,Delta 400,35mm,400,BW,202612,1757152054,9ec1a11dd3792e28d55905b148065448,3b21d893a52242f886e7057855d7f3da,00305_000.jpg,@toastergod101,,Single Pack,36exp
+305,1,film_box_inside,Ilford,Delta 400,35mm,400,BW,202612,1757152062,22f9959821e555ac2ac95af292e6f487,be7e29869fd34099b29753fc5dc86b02,00305_001.jpg,@toastergod101,,Single Pack,36exp
+306,0,film_box_outside,Harman,Red,35mm,125,C-41,202607,1757152101,09982a330120adfe04cf2f767e273829,3903165bcfbc43ad9a6ee42e7922da3a,00306_000.jpg,@toastergod101,,Single Pack,36exp
+306,1,film_box_inside,Harman,Red,35mm,125,C-41,202607,1757152103,8194ae2ea684966757153e1023783ab1,e4133b6a1709448dbe4efa97d028e25a,00306_001.jpg,@toastergod101,,Single Pack,36exp
+307,0,film_box_outside,Fujifilm,Instax Mini,Integral Film,800,Instant,202704,1757152196,3dc7a34913e84ff97468e772676b536e,b8ea314888b244f8ab8ace49c734e5e7,00307_000.jpg,@toastergod101,,Multi-Pack-2,10exp

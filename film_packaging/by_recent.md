@@ -16,12 +16,16 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 06 2025
-Unique items: 301
-Total scans : 519
+Unique items: 305
+Total scans : 526
 ```
 
 -----
 
+- [[2025-09-06] Fujifilm Instax Mini (ref: e5e7)](#2025-09-06-fujifilm-instax-mini-ref-e5e7)
+- [[2025-09-06] Harman Red (ref: da3a)](#2025-09-06-harman-red-ref-da3a)
+- [[2025-09-06] Ilford Delta 400 (ref: f3da)](#2025-09-06-ilford-delta-400-ref-f3da)
+- [[2025-09-06] Ilford FP4 Plus (ref: 3bc0)](#2025-09-06-ilford-fp4-plus-ref-3bc0)
 - [[2025-09-06] Kodak High Speed Ektachrome (ref: 7533)](#2025-09-06-kodak-high-speed-ektachrome-ref-7533)
 - [[2025-09-06] Ilford Ilfochrome (ref: ac24)](#2025-09-06-ilford-ilfochrome-ref-ac24)
 - [[2025-09-05] Agfa Agfacolor Optima 200 (ref: 393d)](#2025-09-05-agfa-agfacolor-optima-200-ref-393d)
@@ -326,6 +330,83 @@ Total scans : 519
 
 
 -----
+
+#### [2025-09-06] Fujifilm Instax Mini (ref: e5e7)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 800          |  Expiry  : 2027-04 
+Type  : Multi-Pack-2 |  Quantity: 10exp   
+Added : 2025-09-06   |  Author  : @toastergod101
+UUID  : b8ea314888b244f8ab8ace49c734e5e7
+```
+
+<a href="./archive/00307_000.jpg">
+	<img src="./lowres/00307_000.jpg" alt="Fujifilm Instax Mini Integral Film film box outside" loading="lazy" width="500" height="400">
+</a>
+
+
+`UUID: e4133b6a1709448dbe4efa97d028e25a`↓
+
+<a href="./archive/00306_001.jpg">
+	<img src="./lowres/00306_001.jpg" alt="Harman Red 35mm film box inside" loading="lazy" width="383" height="500">
+</a>
+
+#### [2025-09-06] Harman Red (ref: da3a)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 125          |  Expiry  : 2026-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-06   |  Author  : @toastergod101
+UUID  : 3903165bcfbc43ad9a6ee42e7922da3a
+```
+
+<a href="./archive/00306_000.jpg">
+	<img src="./lowres/00306_000.jpg" alt="Harman Red 35mm film box outside" loading="lazy" width="393" height="500">
+</a>
+
+
+`UUID: be7e29869fd34099b29753fc5dc86b02`↓
+
+<a href="./archive/00305_001.jpg">
+	<img src="./lowres/00305_001.jpg" alt="Ilford Delta 400 35mm film box inside" loading="lazy" width="402" height="500">
+</a>
+
+#### [2025-09-06] Ilford Delta 400 (ref: f3da)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2026-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-06   |  Author  : @toastergod101
+UUID  : 3b21d893a52242f886e7057855d7f3da
+```
+
+<a href="./archive/00305_000.jpg">
+	<img src="./lowres/00305_000.jpg" alt="Ilford Delta 400 35mm film box outside" loading="lazy" width="406" height="500">
+</a>
+
+
+`UUID: 627cee08157e4e5c9277b0e02fe7eb6c`↓
+
+<a href="./archive/00304_001.jpg">
+	<img src="./lowres/00304_001.jpg" alt="Ilford FP4 Plus 35mm film box inside" loading="lazy" width="443" height="500">
+</a>
+
+#### [2025-09-06] Ilford FP4 Plus (ref: 3bc0)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 125          |  Expiry  : 2028-09 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-06   |  Author  : @toastergod101
+UUID  : c1bab96948014588adbde72665853bc0
+```
+
+<a href="./archive/00304_000.jpg">
+	<img src="./lowres/00304_000.jpg" alt="Ilford FP4 Plus 35mm film box outside" loading="lazy" width="419" height="500">
+</a>
 
 
 `UUID: 00e9096cb514470d8c00d2f66a652286`↓
@@ -6091,18 +6172,19 @@ Rank  Username                      Contributions
 13    stefanie                      12    
 14    yc128                         11    
 15    lilyu.xyz                     9     
-16    benikum                       6     
-17    Kraksen                       5     
-18    Henry Gunn                    4     
-19    u/ReeeSchmidtyWerber          4     
-20    lt_col_tall                   4     
-21    kaimon                        4     
-22    @Hol.m35                      3     
-23    TheSelousScout                3     
-24    @seklerek                     2     
-25    @ftfilmphotos                 2     
-26    Yrikonchik                    1     
-27    @ad.astra.per.aspera.1894     1     
+16    @toastergod101                7     
+17    benikum                       6     
+18    Kraksen                       5     
+19    Henry Gunn                    4     
+20    u/ReeeSchmidtyWerber          4     
+21    lt_col_tall                   4     
+22    kaimon                        4     
+23    @Hol.m35                      3     
+24    TheSelousScout                3     
+25    @seklerek                     2     
+26    @ftfilmphotos                 2     
+27    Yrikonchik                    1     
+28    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?

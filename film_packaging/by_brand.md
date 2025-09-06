@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 06 2025
-Unique items: 301
-Total scans : 519
+Unique items: 305
+Total scans : 526
 ```
 
 -----
@@ -121,6 +121,7 @@ Total scans : 519
 - [Fujifilm Fujicolor Superia X-TRA (ref: 0446)](#fujifilm-fujicolor-superia-x-tra-ref-0446)
 - [Fujifilm Fujicolor Superia X-TRA (ref: 8923)](#fujifilm-fujicolor-superia-x-tra-ref-8923)
 - [Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)](#fujifilm-fujicolor-superia-x-tra-ref-6b8a)
+- [Fujifilm Instax Mini (ref: e5e7)](#fujifilm-instax-mini-ref-e5e7)
 - [Fujifilm Neopan 400 (ref: c088)](#fujifilm-neopan-400-ref-c088)
 - [Fujifilm Neopan SS Rapid (ref: 9db3)](#fujifilm-neopan-ss-rapid-ref-9db3)
 - [GAF Color Slide Film (ref: dea6)](#gaf-color-slide-film-ref-dea6)
@@ -130,13 +131,16 @@ Total scans : 519
 - [Harman Phoenix (ref: 637f)](#harman-phoenix-ref-637f)
 - [Harman Phoenix II (ref: f686)](#harman-phoenix-ii-ref-f686)
 - [Harman Phoenix II (ref: 40df)](#harman-phoenix-ii-ref-40df)
+- [Harman Red (ref: da3a)](#harman-red-ref-da3a)
 - [Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#hasselblad-hassel-plåtar-erorto-ref-ec67)
 - [Hazenfilm Sorolla Chrome (ref: 889f)](#hazenfilm-sorolla-chrome-ref-889f)
 - [Hope Film Bubble (ref: 41f4)](#hope-film-bubble-ref-41f4)
 - [Ilford Delta 100 (ref: eb8d)](#ilford-delta-100-ref-eb8d)
 - [Ilford Delta 3200 (ref: 920f)](#ilford-delta-3200-ref-920f)
 - [Ilford Delta 3200 (ref: 9b54)](#ilford-delta-3200-ref-9b54)
+- [Ilford Delta 400 (ref: f3da)](#ilford-delta-400-ref-f3da)
 - [Ilford FP4 Plus (ref: 76e7)](#ilford-fp4-plus-ref-76e7)
+- [Ilford FP4 Plus (ref: 3bc0)](#ilford-fp4-plus-ref-3bc0)
 - [Ilford HP5 Plus (ref: 11a8)](#ilford-hp5-plus-ref-11a8)
 - [Ilford HP5 Plus (ref: c725)](#ilford-hp5-plus-ref-c725)
 - [Ilford HP5 Plus (ref: efad)](#ilford-hp5-plus-ref-efad)
@@ -2133,6 +2137,20 @@ UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
 	<img src="./lowres/00165_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box outside" loading="lazy" width="460" height="499">
 </a>
 
+#### Fujifilm Instax Mini (ref: e5e7)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 800          |  Expiry  : 2027-04 
+Type  : Multi-Pack-2 |  Quantity: 10exp   
+Added : 2025-09-06   |  Author  : @toastergod101
+UUID  : b8ea314888b244f8ab8ace49c734e5e7
+```
+
+<a href="./archive/00307_000.jpg">
+	<img src="./lowres/00307_000.jpg" alt="Fujifilm Instax Mini Integral Film film box outside" loading="lazy" width="500" height="400">
+</a>
+
 #### Fujifilm Neopan 400 (ref: c088)
 
 ```
@@ -2329,6 +2347,27 @@ UUID  : f12ed23e31e14008a969fe05f29940df
 	<img src="./lowres/00110_001.jpg" alt="Harman Phoenix II 35mm film box inside" loading="lazy" width="426" height="500">
 </a>
 
+#### Harman Red (ref: da3a)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 125          |  Expiry  : 2026-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-06   |  Author  : @toastergod101
+UUID  : 3903165bcfbc43ad9a6ee42e7922da3a
+```
+
+<a href="./archive/00306_000.jpg">
+	<img src="./lowres/00306_000.jpg" alt="Harman Red 35mm film box outside" loading="lazy" width="393" height="500">
+</a>
+
+
+`UUID: e4133b6a1709448dbe4efa97d028e25a`↓
+
+<a href="./archive/00306_001.jpg">
+	<img src="./lowres/00306_001.jpg" alt="Harman Red 35mm film box inside" loading="lazy" width="383" height="500">
+</a>
+
 #### Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)
 
 ```
@@ -2434,6 +2473,27 @@ UUID  : d6f377dbe74745a0aacdf51ce7669b54
 	<img src="./lowres/00126_001.jpg" alt="Ilford Delta 3200 35mm film box inside" loading="lazy" width="435" height="500">
 </a>
 
+#### Ilford Delta 400 (ref: f3da)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2026-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-06   |  Author  : @toastergod101
+UUID  : 3b21d893a52242f886e7057855d7f3da
+```
+
+<a href="./archive/00305_000.jpg">
+	<img src="./lowres/00305_000.jpg" alt="Ilford Delta 400 35mm film box outside" loading="lazy" width="406" height="500">
+</a>
+
+
+`UUID: be7e29869fd34099b29753fc5dc86b02`↓
+
+<a href="./archive/00305_001.jpg">
+	<img src="./lowres/00305_001.jpg" alt="Ilford Delta 400 35mm film box inside" loading="lazy" width="402" height="500">
+</a>
+
 #### Ilford FP4 Plus (ref: 76e7)
 
 ```
@@ -2453,6 +2513,27 @@ UUID  : c6c88d6d009048e9ac3721bdc7f076e7
 
 <a href="./archive/00111_001.jpg">
 	<img src="./lowres/00111_001.jpg" alt="Ilford FP4 Plus 120 film box inside" loading="lazy" width="500" height="465">
+</a>
+
+#### Ilford FP4 Plus (ref: 3bc0)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 125          |  Expiry  : 2028-09 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-06   |  Author  : @toastergod101
+UUID  : c1bab96948014588adbde72665853bc0
+```
+
+<a href="./archive/00304_000.jpg">
+	<img src="./lowres/00304_000.jpg" alt="Ilford FP4 Plus 35mm film box outside" loading="lazy" width="419" height="500">
+</a>
+
+
+`UUID: 627cee08157e4e5c9277b0e02fe7eb6c`↓
+
+<a href="./archive/00304_001.jpg">
+	<img src="./lowres/00304_001.jpg" alt="Ilford FP4 Plus 35mm film box inside" loading="lazy" width="443" height="500">
 </a>
 
 #### Ilford HP5 Plus (ref: 11a8)
@@ -6091,18 +6172,19 @@ Rank  Username                      Contributions
 13    stefanie                      12    
 14    yc128                         11    
 15    lilyu.xyz                     9     
-16    benikum                       6     
-17    Kraksen                       5     
-18    Henry Gunn                    4     
-19    u/ReeeSchmidtyWerber          4     
-20    lt_col_tall                   4     
-21    kaimon                        4     
-22    @Hol.m35                      3     
-23    TheSelousScout                3     
-24    @seklerek                     2     
-25    @ftfilmphotos                 2     
-26    Yrikonchik                    1     
-27    @ad.astra.per.aspera.1894     1     
+16    @toastergod101                7     
+17    benikum                       6     
+18    Kraksen                       5     
+19    Henry Gunn                    4     
+20    u/ReeeSchmidtyWerber          4     
+21    lt_col_tall                   4     
+22    kaimon                        4     
+23    @Hol.m35                      3     
+24    TheSelousScout                3     
+25    @seklerek                     2     
+26    @ftfilmphotos                 2     
+27    Yrikonchik                    1     
+28    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?

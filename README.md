@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Sep 06 2025
-Unique items: 301
-Total scans : 519
+Unique items: 305
+Total scans : 526
 ```
 
 Or Sort by...
@@ -68,24 +68,29 @@ Rank  Username                      Contributions
 13    stefanie                      12    
 14    yc128                         11    
 15    lilyu.xyz                     9     
-16    benikum                       6     
-17    Kraksen                       5     
-18    Henry Gunn                    4     
-19    u/ReeeSchmidtyWerber          4     
-20    lt_col_tall                   4     
-21    kaimon                        4     
-22    @Hol.m35                      3     
-23    TheSelousScout                3     
-24    @seklerek                     2     
-25    @ftfilmphotos                 2     
-26    Yrikonchik                    1     
-27    @ad.astra.per.aspera.1894     1     
+16    @toastergod101                7     
+17    benikum                       6     
+18    Kraksen                       5     
+19    Henry Gunn                    4     
+20    u/ReeeSchmidtyWerber          4     
+21    lt_col_tall                   4     
+22    kaimon                        4     
+23    @Hol.m35                      3     
+24    TheSelousScout                3     
+25    @seklerek                     2     
+26    @ftfilmphotos                 2     
+27    Yrikonchik                    1     
+28    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Recent Activities
 
 ```
 2025-09-06
+  - @toastergod101: Fujifilm Instax Mini
+  - @toastergod101: Harman Red
+  - @toastergod101: Ilford Delta 400
+  - @toastergod101: Ilford FP4 Plus
   - kaimon: Ilford Ilfochrome
   - kaimon: Kodak High Speed Ektachrome
 

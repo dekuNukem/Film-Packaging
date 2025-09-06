@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 06 2025
-Unique items: 301
-Total scans : 519
+Unique items: 305
+Total scans : 526
 ```
 
 -----
@@ -254,6 +254,7 @@ Total scans : 519
 - [[2026] Alien Film 5207/250D (ref: 8820)](#2026-alien-film-5207250d-ref-8820)
 - [[2026] Fujifilm 200 (ref: 5b41)](#2026-fujifilm-200-ref-5b41)
 - [[2026] Kodak Gold (ref: 3e7f)](#2026-kodak-gold-ref-3e7f)
+- [[2026] Harman Red (ref: da3a)](#2026-harman-red-ref-da3a)
 - [[2026] Kodak UltraMax (ref: e4ad)](#2026-kodak-ultramax-ref-e4ad)
 - [[2026] Harman Phoenix (ref: 637f)](#2026-harman-phoenix-ref-637f)
 - [[2026] Hazenfilm Sorolla Chrome (ref: 889f)](#2026-hazenfilm-sorolla-chrome-ref-889f)
@@ -271,12 +272,14 @@ Total scans : 519
 - [[2026] Bergger Pancro400 (ref: f619)](#2026-bergger-pancro400-ref-f619)
 - [[2026] CatLABS X Film 320 Pro (ref: 1c69)](#2026-catlabs-x-film-320-pro-ref-1c69)
 - [[2026] Hope Film Bubble (ref: 41f4)](#2026-hope-film-bubble-ref-41f4)
+- [[2026] Ilford Delta 400 (ref: f3da)](#2026-ilford-delta-400-ref-f3da)
 - [[2026] Marix Professional Negative Movie Color Film (ref: c457)](#2026-marix-professional-negative-movie-color-film-ref-c457)
 - [[2026] Wolfen NC500 (ref: 91c1)](#2026-wolfen-nc500-ref-91c1)
 - [[2027] Kodak Ektachrome E100 (ref: ae10)](#2027-kodak-ektachrome-e100-ref-ae10)
 - [[2027] Foma Fomapan (ref: 3e4f)](#2027-foma-fomapan-ref-3e4f)
 - [[2027] Kodak UltraMax (ref: aaa6)](#2027-kodak-ultramax-ref-aaa6)
 - [[2027] Foma Fomapan (ref: 65ad)](#2027-foma-fomapan-ref-65ad)
+- [[2027] Fujifilm Instax Mini (ref: e5e7)](#2027-fujifilm-instax-mini-ref-e5e7)
 - [[2027] Kodak Gold (ref: 855e)](#2027-kodak-gold-ref-855e)
 - [[2027] Kosmo Foto Mono (ref: b74f)](#2027-kosmo-foto-mono-ref-b74f)
 - [[2027] Rollei Infrared (ref: eae2)](#2027-rollei-infrared-ref-eae2)
@@ -300,6 +303,7 @@ Total scans : 519
 - [[2028] Foma Fomapan (ref: 60ee)](#2028-foma-fomapan-ref-60ee)
 - [[2028] Ilford HP5 Plus (ref: df49)](#2028-ilford-hp5-plus-ref-df49)
 - [[2028] Rollei RPX 400 (ref: 2155)](#2028-rollei-rpx-400-ref-2155)
+- [[2028] Ilford FP4 Plus (ref: 3bc0)](#2028-ilford-fp4-plus-ref-3bc0)
 - [[2028] Kentmere PAN 100 (ref: c907)](#2028-kentmere-pan-100-ref-c907)
 - [[2029] Kentmere PAN 400 (ref: 827e)](#2029-kentmere-pan-400-ref-827e)
 - [[2029] Kentmere PAN 400 (ref: a327)](#2029-kentmere-pan-400-ref-a327)
@@ -4898,6 +4902,27 @@ UUID  : d2e434e91001465dbea2d815d5e23e7f
 	<img src="./lowres/00080_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="446" height="500">
 </a>
 
+#### [2026] Harman Red (ref: da3a)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 125          |  Expiry  : 2026-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-06   |  Author  : @toastergod101
+UUID  : 3903165bcfbc43ad9a6ee42e7922da3a
+```
+
+<a href="./archive/00306_000.jpg">
+	<img src="./lowres/00306_000.jpg" alt="Harman Red 35mm film box outside" loading="lazy" width="393" height="500">
+</a>
+
+
+`UUID: e4133b6a1709448dbe4efa97d028e25a`↓
+
+<a href="./archive/00306_001.jpg">
+	<img src="./lowres/00306_001.jpg" alt="Harman Red 35mm film box inside" loading="lazy" width="383" height="500">
+</a>
+
 #### [2026] Kodak UltraMax (ref: e4ad)
 
 ```
@@ -5178,6 +5203,27 @@ UUID  : b09848420a1a4d76b099d82d76bc41f4
 	<img src="./lowres/00164_000.jpg" alt="Hope Film Bubble 35mm film box outside" loading="lazy" width="500" height="394">
 </a>
 
+#### [2026] Ilford Delta 400 (ref: f3da)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2026-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-06   |  Author  : @toastergod101
+UUID  : 3b21d893a52242f886e7057855d7f3da
+```
+
+<a href="./archive/00305_000.jpg">
+	<img src="./lowres/00305_000.jpg" alt="Ilford Delta 400 35mm film box outside" loading="lazy" width="406" height="500">
+</a>
+
+
+`UUID: be7e29869fd34099b29753fc5dc86b02`↓
+
+<a href="./archive/00305_001.jpg">
+	<img src="./lowres/00305_001.jpg" alt="Ilford Delta 400 35mm film box inside" loading="lazy" width="402" height="500">
+</a>
+
 #### [2026] Marix Professional Negative Movie Color Film (ref: c457)
 
 ```
@@ -5274,6 +5320,20 @@ UUID  : a0786cc1bc884f66bbb84118d55665ad
 
 <a href="./archive/00133_001.jpg">
 	<img src="./lowres/00133_001.jpg" alt="Foma Fomapan 120 film box inside" loading="lazy" width="500" height="391">
+</a>
+
+#### [2027] Fujifilm Instax Mini (ref: e5e7)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 800          |  Expiry  : 2027-04 
+Type  : Multi-Pack-2 |  Quantity: 10exp   
+Added : 2025-09-06   |  Author  : @toastergod101
+UUID  : b8ea314888b244f8ab8ace49c734e5e7
+```
+
+<a href="./archive/00307_000.jpg">
+	<img src="./lowres/00307_000.jpg" alt="Fujifilm Instax Mini Integral Film film box outside" loading="lazy" width="500" height="400">
 </a>
 
 #### [2027] Kodak Gold (ref: 855e)
@@ -5703,6 +5763,27 @@ UUID  : 19ef81d6d03844b088250c7b54032155
 	<img src="./lowres/00136_001.jpg" alt="Rollei RPX 400 35mm film box inside" loading="lazy" width="500" height="436">
 </a>
 
+#### [2028] Ilford FP4 Plus (ref: 3bc0)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 125          |  Expiry  : 2028-09 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-06   |  Author  : @toastergod101
+UUID  : c1bab96948014588adbde72665853bc0
+```
+
+<a href="./archive/00304_000.jpg">
+	<img src="./lowres/00304_000.jpg" alt="Ilford FP4 Plus 35mm film box outside" loading="lazy" width="419" height="500">
+</a>
+
+
+`UUID: 627cee08157e4e5c9277b0e02fe7eb6c`↓
+
+<a href="./archive/00304_001.jpg">
+	<img src="./lowres/00304_001.jpg" alt="Ilford FP4 Plus 35mm film box inside" loading="lazy" width="443" height="500">
+</a>
+
 #### [2028] Kentmere PAN 100 (ref: c907)
 
 ```
@@ -6091,18 +6172,19 @@ Rank  Username                      Contributions
 13    stefanie                      12    
 14    yc128                         11    
 15    lilyu.xyz                     9     
-16    benikum                       6     
-17    Kraksen                       5     
-18    Henry Gunn                    4     
-19    u/ReeeSchmidtyWerber          4     
-20    lt_col_tall                   4     
-21    kaimon                        4     
-22    @Hol.m35                      3     
-23    TheSelousScout                3     
-24    @seklerek                     2     
-25    @ftfilmphotos                 2     
-26    Yrikonchik                    1     
-27    @ad.astra.per.aspera.1894     1     
+16    @toastergod101                7     
+17    benikum                       6     
+18    Kraksen                       5     
+19    Henry Gunn                    4     
+20    u/ReeeSchmidtyWerber          4     
+21    lt_col_tall                   4     
+22    kaimon                        4     
+23    @Hol.m35                      3     
+24    TheSelousScout                3     
+25    @seklerek                     2     
+26    @ftfilmphotos                 2     
+27    Yrikonchik                    1     
+28    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?
