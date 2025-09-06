@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 06 2025
-Unique items: 305
-Total scans : 526
+Unique items: 306
+Total scans : 529
 ```
 
 -----
@@ -235,6 +235,7 @@ Total scans : 526
 - [[dekuNukem] Fujifilm Fujichrome Professional 100D (ref: 439d)](#dekunukem-fujifilm-fujichrome-professional-100d-ref-439d)
 - [[dekuNukem] Fujifilm Fujichrome Provia 100F (ref: 1b4b)](#dekunukem-fujifilm-fujichrome-provia-100f-ref-1b4b)
 - [[dekuNukem] Fujifilm Fujichrome Velvia 100F (ref: f7fb)](#dekunukem-fujifilm-fujichrome-velvia-100f-ref-f7fb)
+- [[dekuNukem] Fujifilm Fujicolor HR100 (ref: 23c5)](#dekunukem-fujifilm-fujicolor-hr100-ref-23c5)
 - [[dekuNukem] Fujifilm Fujicolor NPL 160 (ref: d10b)](#dekunukem-fujifilm-fujicolor-npl-160-ref-d10b)
 - [[dekuNukem] Fujifilm Fujicolor Pro 400H (ref: 66e3)](#dekunukem-fujifilm-fujicolor-pro-400h-ref-66e3)
 - [[dekuNukem] Fujifilm Fujicolor Super HR (ref: aaa0)](#dekunukem-fujifilm-fujicolor-super-hr-ref-aaa0)
@@ -4174,6 +4175,34 @@ UUID  : 0fef128c3b17437eb25d5c4f0520f7fb
 	<img src="./lowres/00023_000.jpg" alt="Fujifilm Fujichrome Velvia 100F 120 film box outside" loading="lazy" width="397" height="500">
 </a>
 
+#### [dekuNukem] Fujifilm Fujicolor HR100 (ref: 23c5)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 100          |  Expiry  : 1986-02 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-06   |  Author  : dekuNukem
+UUID  : 934f2484197d41c7a5467b92a9ea23c5
+```
+
+<a href="./archive/00308_000.jpg">
+	<img src="./lowres/00308_000.jpg" alt="Fujifilm Fujicolor HR100 120 film box outside" loading="lazy" width="500" height="466">
+</a>
+
+
+`UUID: 172bc614704c4391bd34e58f0b27b279`↓
+
+<a href="./archive/00308_001.jpg">
+	<img src="./lowres/00308_001.jpg" alt="Fujifilm Fujicolor HR100 120 film box leaflet" loading="lazy" width="378" height="500">
+</a>
+
+
+`UUID: 3e4277ca388248c5a4ea7d11988bf3a6`↓
+
+<a href="./archive/00308_002.jpg">
+	<img src="./lowres/00308_002.jpg" alt="Fujifilm Fujicolor HR100 120 film box leaflet" loading="lazy" width="383" height="500">
+</a>
+
 #### [dekuNukem] Fujifilm Fujicolor NPL 160 (ref: d10b)
 
 ```
@@ -6157,7 +6186,7 @@ UUID  : e54ce68c797b4846b9aee3f5818ecb58
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     166   
+1     dekuNukem                     169   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    

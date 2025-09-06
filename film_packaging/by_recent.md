@@ -16,12 +16,13 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 06 2025
-Unique items: 305
-Total scans : 526
+Unique items: 306
+Total scans : 529
 ```
 
 -----
 
+- [[2025-09-06] Fujifilm Fujicolor HR100 (ref: 23c5)](#2025-09-06-fujifilm-fujicolor-hr100-ref-23c5)
 - [[2025-09-06] Fujifilm Instax Mini (ref: e5e7)](#2025-09-06-fujifilm-instax-mini-ref-e5e7)
 - [[2025-09-06] Harman Red (ref: da3a)](#2025-09-06-harman-red-ref-da3a)
 - [[2025-09-06] Ilford Delta 400 (ref: f3da)](#2025-09-06-ilford-delta-400-ref-f3da)
@@ -330,6 +331,34 @@ Total scans : 526
 
 
 -----
+
+
+`UUID: 3e4277ca388248c5a4ea7d11988bf3a6`↓
+
+<a href="./archive/00308_002.jpg">
+	<img src="./lowres/00308_002.jpg" alt="Fujifilm Fujicolor HR100 120 film box leaflet" loading="lazy" width="383" height="500">
+</a>
+
+
+`UUID: 172bc614704c4391bd34e58f0b27b279`↓
+
+<a href="./archive/00308_001.jpg">
+	<img src="./lowres/00308_001.jpg" alt="Fujifilm Fujicolor HR100 120 film box leaflet" loading="lazy" width="378" height="500">
+</a>
+
+#### [2025-09-06] Fujifilm Fujicolor HR100 (ref: 23c5)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 100          |  Expiry  : 1986-02 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-06   |  Author  : dekuNukem
+UUID  : 934f2484197d41c7a5467b92a9ea23c5
+```
+
+<a href="./archive/00308_000.jpg">
+	<img src="./lowres/00308_000.jpg" alt="Fujifilm Fujicolor HR100 120 film box outside" loading="lazy" width="500" height="466">
+</a>
 
 #### [2025-09-06] Fujifilm Instax Mini (ref: e5e7)
 
@@ -6157,7 +6186,7 @@ UUID  : 36151f6b7cc045c2b43d7f5cbee41a5d
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     166   
+1     dekuNukem                     169   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    

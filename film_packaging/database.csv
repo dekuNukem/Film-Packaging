@@ -525,3 +525,6 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 306,0,film_box_outside,Harman,Red,35mm,125,C-41,202607,1757152101,09982a330120adfe04cf2f767e273829,3903165bcfbc43ad9a6ee42e7922da3a,00306_000.jpg,@toastergod101,,Single Pack,36exp
 306,1,film_box_inside,Harman,Red,35mm,125,C-41,202607,1757152103,8194ae2ea684966757153e1023783ab1,e4133b6a1709448dbe4efa97d028e25a,00306_001.jpg,@toastergod101,,Single Pack,36exp
 307,0,film_box_outside,Fujifilm,Instax Mini,Integral Film,800,Instant,202704,1757152196,3dc7a34913e84ff97468e772676b536e,b8ea314888b244f8ab8ace49c734e5e7,00307_000.jpg,@toastergod101,,Multi-Pack-2,10exp
+308,0,film_box_outside,Fujifilm,Fujicolor HR100,120,100,C-41,198602,1757154576,fa8dc3bd018c5269354e81c0c9e06b75,934f2484197d41c7a5467b92a9ea23c5,00308_000.jpg,dekuNukem,,Single Pack,N/A
+308,1,film_box_leaflet,Fujifilm,Fujicolor HR100,120,100,C-41,198602,1757154577,577b24210b380517bee19d790a66afde,172bc614704c4391bd34e58f0b27b279,00308_001.jpg,dekuNukem,,Single Pack,N/A
+308,2,film_box_leaflet,Fujifilm,Fujicolor HR100,120,100,C-41,198602,1757154579,39a73eae0e1f523f0dffd7215b181126,3e4277ca388248c5a4ea7d11988bf3a6,00308_002.jpg,dekuNukem,,Single Pack,N/A

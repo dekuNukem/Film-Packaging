@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 06 2025
-Unique items: 305
-Total scans : 526
+Unique items: 306
+Total scans : 529
 ```
 
 -----
@@ -60,6 +60,7 @@ Total scans : 526
 - [[1983] Kodak Kodachrome 25 (ref: 8833)](#1983-kodak-kodachrome-25-ref-8833)
 - [[1983] Kodak Kodacolor II (ref: 7310)](#1983-kodak-kodacolor-ii-ref-7310)
 - [[1985] Konica Konica Color II (ref: fb5b)](#1985-konica-konica-color-ii-ref-fb5b)
+- [[1986] Fujifilm Fujicolor HR100 (ref: 23c5)](#1986-fujifilm-fujicolor-hr100-ref-23c5)
 - [[1987] Kodak Kodacolor VR (ref: 035f)](#1987-kodak-kodacolor-vr-ref-035f)
 - [[1988] Polaroid PolaPan 35mm (ref: 9825)](#1988-polaroid-polapan-35mm-ref-9825)
 - [[1988] Kodak Technical Pan 6415 (ref: 03be)](#1988-kodak-technical-pan-6415-ref-03be)
@@ -1218,6 +1219,34 @@ UUID  : 34d91c79c1704ac49f5376ca6424fb5b
 
 <a href="./archive/00173_000.jpg">
 	<img src="./lowres/00173_000.jpg" alt="Konica Konica Color II 35mm film box outside" loading="lazy" width="462" height="500">
+</a>
+
+#### [1986] Fujifilm Fujicolor HR100 (ref: 23c5)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 100          |  Expiry  : 1986-02 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-06   |  Author  : dekuNukem
+UUID  : 934f2484197d41c7a5467b92a9ea23c5
+```
+
+<a href="./archive/00308_000.jpg">
+	<img src="./lowres/00308_000.jpg" alt="Fujifilm Fujicolor HR100 120 film box outside" loading="lazy" width="500" height="466">
+</a>
+
+
+`UUID: 172bc614704c4391bd34e58f0b27b279`↓
+
+<a href="./archive/00308_001.jpg">
+	<img src="./lowres/00308_001.jpg" alt="Fujifilm Fujicolor HR100 120 film box leaflet" loading="lazy" width="378" height="500">
+</a>
+
+
+`UUID: 3e4277ca388248c5a4ea7d11988bf3a6`↓
+
+<a href="./archive/00308_002.jpg">
+	<img src="./lowres/00308_002.jpg" alt="Fujifilm Fujicolor HR100 120 film box leaflet" loading="lazy" width="383" height="500">
 </a>
 
 #### [1987] Kodak Kodacolor VR (ref: 035f)
@@ -6157,7 +6186,7 @@ UUID  : 80d64fa269454c5589109c68a40541a8
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     166   
+1     dekuNukem                     169   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    

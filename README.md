@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Sep 06 2025
-Unique items: 305
-Total scans : 526
+Unique items: 306
+Total scans : 529
 ```
 
 Or Sort by...
@@ -53,7 +53,7 @@ Or Sort by...
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     166   
+1     dekuNukem                     169   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    
@@ -91,6 +91,7 @@ Rank  Username                      Contributions
   - @toastergod101: Harman Red
   - @toastergod101: Ilford Delta 400
   - @toastergod101: Ilford FP4 Plus
+  - dekuNukem: Fujifilm Fujicolor HR100
   - kaimon: Ilford Ilfochrome
   - kaimon: Kodak High Speed Ektachrome
 
