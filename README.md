@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 05 2025
-Unique items: 299
-Total scans : 515
+Last Updated: Sep 06 2025
+Unique items: 301
+Total scans : 519
 ```
 
 Or Sort by...
@@ -73,17 +73,22 @@ Rank  Username                      Contributions
 18    Henry Gunn                    4     
 19    u/ReeeSchmidtyWerber          4     
 20    lt_col_tall                   4     
-21    @Hol.m35                      3     
-22    TheSelousScout                3     
-23    @seklerek                     2     
-24    @ftfilmphotos                 2     
-25    Yrikonchik                    1     
-26    @ad.astra.per.aspera.1894     1     
+21    kaimon                        4     
+22    @Hol.m35                      3     
+23    TheSelousScout                3     
+24    @seklerek                     2     
+25    @ftfilmphotos                 2     
+26    Yrikonchik                    1     
+27    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Recent Activities
 
 ```
+2025-09-06
+  - kaimon: Ilford Ilfochrome
+  - kaimon: Kodak High Speed Ektachrome
+
 2025-09-05
   - dekuNukem: Agfa Agfacolor Optima 200
   - dekuNukem: Agfa Agfapan APX 400
@@ -115,19 +120,6 @@ Rank  Username                      Contributions
   - dekuNukem: Kodak Ektachrome 100 Plus
   - dekuNukem: Kodak Ektachrome 400X
   - dekuNukem: Kodak Kodacolor-X
-
-2025-08-30
-  - dekuNukem: Agfa AgfaColor CT 18
-  - dekuNukem: Klick 400ASA
-  - dekuNukem: Kodak Ektachrome 100HC
-  - dekuNukem: Kodak Ektachrome Elite 200
-  - dekuNukem: Kodak Plus-X Pan
-  - dekuNukem: Kodak TMAX 400
-  - dekuNukem: Konica Centuria 200
-  - dekuNukem: Konica KonicaColor VX 100
-  - dekuNukem: Lloyds Pharmacy Colour Film
-  - dekuNukem: Max Spielmann Maxi Color
-  - dekuNukem: Premium Super XG
 ```
 
 ## Disclaimer

@@ -514,3 +514,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 300,1,film_box_inside,Agfa,Agfapan APX 400,120,400,BW,200507,1757115450,828414022a5ea5bbd7f71972ed8202bf,a8ade8c85a504d288a6d5d7458843652,00300_001.jpg,dekuNukem,,Single Pack,N/A
 301,0,film_box_outside,Agfa,Agfacolor Optima 200,120,200,C-41,200006,1757115499,32f28cae49006428c363ba070721dfa8,e8465f64b1f84f32900d92caa25e393d,00301_000.jpg,dekuNukem,,Single Pack,N/A
 301,1,film_box_inside,Agfa,Agfacolor Optima 200,120,200,C-41,200006,1757115504,dc8dacfeaef82f8c3a77f0b847ea2ee4,af2f0855d49849daa5b8fbde77c2ce5d,00301_001.jpg,dekuNukem,,Single Pack,N/A
+302,0,film_box_outside,Ilford,Ilfochrome,35mm,100,E-6,202605,1757151478,6c6fb64759780899f603ddbb5b86076a,e7713fa57cac41e3ae3f416f3ea5ac24,00302_000.jpg,kaimon,,Single Pack,36exp
+303,0,film_box_outside,Kodak,High Speed Ektachrome,120,125,Unknown,197701,1757151658,dddca4f4630a69663a3960122049b094,ac9eab85f0874cf7aa5c67f0458e7533,00303_000.jpg,kaimon,Tungsten (3200K) EHB 120,Single Pack,N/A
+303,1,film_box_leaflet,Kodak,High Speed Ektachrome,120,125,Unknown,197701,1757151660,fc8706376ab4f0ce882e727c13ba41b2,304a86e18bd841ee86c30538fe4e1940,00303_001.jpg,kaimon,Tungsten (3200K) EHB 120,Single Pack,N/A
+303,2,film_box_leaflet,Kodak,High Speed Ektachrome,120,125,Unknown,197701,1757151662,8963e8be58a562680a1143914c2ea966,00e9096cb514470d8c00d2f66a652286,00303_002.jpg,kaimon,Tungsten (3200K) EHB 120,Single Pack,N/A

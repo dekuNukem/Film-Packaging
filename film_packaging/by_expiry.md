@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 05 2025
-Unique items: 299
-Total scans : 515
+Last Updated: Sep 06 2025
+Unique items: 301
+Total scans : 519
 ```
 
 -----
@@ -47,6 +47,7 @@ Total scans : 515
 - [[1975] Kodak Kodacolor-X (ref: 5302)](#1975-kodak-kodacolor-x-ref-5302)
 - [[1976] Kodak Panatomic-X (ref: 8d69)](#1976-kodak-panatomic-x-ref-8d69)
 - [[1977] Kodak High Speed Ektachrome (ref: b8f8)](#1977-kodak-high-speed-ektachrome-ref-b8f8)
+- [[1977] Kodak High Speed Ektachrome (ref: 7533)](#1977-kodak-high-speed-ektachrome-ref-7533)
 - [[1977] Kodak Panatomic-X (ref: 35f6)](#1977-kodak-panatomic-x-ref-35f6)
 - [[1977] Kodak Ektachrome Professional (ref: 02a1)](#1977-kodak-ektachrome-professional-ref-02a1)
 - [[1978] Kodak Kodachrome 25 (ref: 6477)](#1978-kodak-kodachrome-25-ref-6477)
@@ -249,6 +250,7 @@ Total scans : 515
 - [[2026] Lomography Lomochrome Color 92 (ref: 12b4)](#2026-lomography-lomochrome-color-92-ref-12b4)
 - [[2026] Svema Foto (ref: 26ad)](#2026-svema-foto-ref-26ad)
 - [[2026] Hands On Film Midnight 1600 (ref: 4411)](#2026-hands-on-film-midnight-1600-ref-4411)
+- [[2026] Ilford Ilfochrome (ref: ac24)](#2026-ilford-ilfochrome-ref-ac24)
 - [[2026] Alien Film 5207/250D (ref: 8820)](#2026-alien-film-5207250d-ref-8820)
 - [[2026] Fujifilm 200 (ref: 5b41)](#2026-fujifilm-200-ref-5b41)
 - [[2026] Kodak Gold (ref: 3e7f)](#2026-kodak-gold-ref-3e7f)
@@ -876,6 +878,34 @@ UUID  : 86470a73e4b5436b97ffb272be6bb8f8
 
 <a href="./archive/00107_002.jpg">
 	<img src="./lowres/00107_002.jpg" alt="Kodak High Speed Ektachrome 35mm film box leaflet" loading="lazy" width="194" height="500">
+</a>
+
+#### [1977] Kodak High Speed Ektachrome (ref: 7533)
+
+```
+Format: 120          |  Process : Unknown 
+ISO   : 125          |  Expiry  : 1977-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-06   |  Author  : kaimon  
+UUID  : ac9eab85f0874cf7aa5c67f0458e7533
+```
+
+<a href="./archive/00303_000.jpg">
+	<img src="./lowres/00303_000.jpg" alt="Kodak High Speed Ektachrome 120 film box outside" loading="lazy" width="500" height="480">
+</a>
+
+
+`UUID: 304a86e18bd841ee86c30538fe4e1940`↓
+
+<a href="./archive/00303_001.jpg">
+	<img src="./lowres/00303_001.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="200" height="500">
+</a>
+
+
+`UUID: 00e9096cb514470d8c00d2f66a652286`↓
+
+<a href="./archive/00303_002.jpg">
+	<img src="./lowres/00303_002.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="188" height="500">
 </a>
 
 #### [1977] Kodak Panatomic-X (ref: 35f6)
@@ -4812,6 +4842,20 @@ UUID  : 515a9a246a8e4eed87d77142623a4411
 	<img src="./lowres/00206_000.jpg" alt="Hands On Film Midnight 1600 35mm film box outside" loading="lazy" width="473" height="500">
 </a>
 
+#### [2026] Ilford Ilfochrome (ref: ac24)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2026-05 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-06   |  Author  : kaimon  
+UUID  : e7713fa57cac41e3ae3f416f3ea5ac24
+```
+
+<a href="./archive/00302_000.jpg">
+	<img src="./lowres/00302_000.jpg" alt="Ilford Ilfochrome 35mm film box outside" loading="lazy" width="410" height="499">
+</a>
+
 #### [2026] Alien Film 5207/250D (ref: 8820)
 
 ```
@@ -6052,12 +6096,13 @@ Rank  Username                      Contributions
 18    Henry Gunn                    4     
 19    u/ReeeSchmidtyWerber          4     
 20    lt_col_tall                   4     
-21    @Hol.m35                      3     
-22    TheSelousScout                3     
-23    @seklerek                     2     
-24    @ftfilmphotos                 2     
-25    Yrikonchik                    1     
-26    @ad.astra.per.aspera.1894     1     
+21    kaimon                        4     
+22    @Hol.m35                      3     
+23    TheSelousScout                3     
+24    @seklerek                     2     
+25    @ftfilmphotos                 2     
+26    Yrikonchik                    1     
+27    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?

@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 05 2025
-Unique items: 299
-Total scans : 515
+Last Updated: Sep 06 2025
+Unique items: 301
+Total scans : 519
 ```
 
 -----
@@ -294,6 +294,8 @@ Total scans : 515
 - [[dekuNukem] Rollei Infrared (ref: 4f54)](#dekunukem-rollei-infrared-ref-4f54)
 - [[dekuNukem] Rollei Retro 80S (ref: e6c0)](#dekunukem-rollei-retro-80s-ref-e6c0)
 - [[dekuNukem] Three Film Rolls 5207 (ref: 0292)](#dekunukem-three-film-rolls-5207-ref-0292)
+- [[kaimon] Ilford Ilfochrome (ref: ac24)](#kaimon-ilford-ilfochrome-ref-ac24)
+- [[kaimon] Kodak High Speed Ektachrome (ref: 7533)](#kaimon-kodak-high-speed-ektachrome-ref-7533)
 - [[lilyu.xyz] Agfa APX (ref: 5276)](#lilyuxyz-agfa-apx-ref-5276)
 - [[lilyu.xyz] Foma Fomapan (ref: 84a5)](#lilyuxyz-foma-fomapan-ref-84a5)
 - [[lilyu.xyz] Kodak Gold (ref: ea58)](#lilyuxyz-kodak-gold-ref-ea58)
@@ -5463,6 +5465,48 @@ UUID  : 4de0f5e76dd748c488fa81be23340292
 	<img src="./lowres/00059_000.jpg" alt="Three Film Rolls 5207 35mm film box outside" loading="lazy" width="452" height="500">
 </a>
 
+#### [kaimon] Ilford Ilfochrome (ref: ac24)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2026-05 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-06   |  Author  : kaimon  
+UUID  : e7713fa57cac41e3ae3f416f3ea5ac24
+```
+
+<a href="./archive/00302_000.jpg">
+	<img src="./lowres/00302_000.jpg" alt="Ilford Ilfochrome 35mm film box outside" loading="lazy" width="410" height="499">
+</a>
+
+#### [kaimon] Kodak High Speed Ektachrome (ref: 7533)
+
+```
+Format: 120          |  Process : Unknown 
+ISO   : 125          |  Expiry  : 1977-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-06   |  Author  : kaimon  
+UUID  : ac9eab85f0874cf7aa5c67f0458e7533
+```
+
+<a href="./archive/00303_000.jpg">
+	<img src="./lowres/00303_000.jpg" alt="Kodak High Speed Ektachrome 120 film box outside" loading="lazy" width="500" height="480">
+</a>
+
+
+`UUID: 304a86e18bd841ee86c30538fe4e1940`↓
+
+<a href="./archive/00303_001.jpg">
+	<img src="./lowres/00303_001.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="200" height="500">
+</a>
+
+
+`UUID: 00e9096cb514470d8c00d2f66a652286`↓
+
+<a href="./archive/00303_002.jpg">
+	<img src="./lowres/00303_002.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="188" height="500">
+</a>
+
 #### [lilyu.xyz] Agfa APX (ref: 5276)
 
 ```
@@ -6052,12 +6096,13 @@ Rank  Username                      Contributions
 18    Henry Gunn                    4     
 19    u/ReeeSchmidtyWerber          4     
 20    lt_col_tall                   4     
-21    @Hol.m35                      3     
-22    TheSelousScout                3     
-23    @seklerek                     2     
-24    @ftfilmphotos                 2     
-25    Yrikonchik                    1     
-26    @ad.astra.per.aspera.1894     1     
+21    kaimon                        4     
+22    @Hol.m35                      3     
+23    TheSelousScout                3     
+24    @seklerek                     2     
+25    @ftfilmphotos                 2     
+26    Yrikonchik                    1     
+27    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?

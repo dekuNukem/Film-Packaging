@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 05 2025
-Unique items: 299
-Total scans : 515
+Last Updated: Sep 06 2025
+Unique items: 301
+Total scans : 519
 ```
 
 -----
@@ -72,6 +72,7 @@ Total scans : 515
 - [[120] Kodak Gold 200 (ref: 933f)](#120-kodak-gold-200-ref-933f)
 - [[120] Kodak High Speed Ektachrome (ref: ce7f)](#120-kodak-high-speed-ektachrome-ref-ce7f)
 - [[120] Kodak High Speed Ektachrome (ref: be8f)](#120-kodak-high-speed-ektachrome-ref-be8f)
+- [[120] Kodak High Speed Ektachrome (ref: 7533)](#120-kodak-high-speed-ektachrome-ref-7533)
 - [[120] Kodak Kodacolor-X (ref: a4b1)](#120-kodak-kodacolor-x-ref-a4b1)
 - [[120] Kodak Portra 400 (ref: 9f18)](#120-kodak-portra-400-ref-9f18)
 - [[120] Kodak Portra 400UC (ref: 5b9e)](#120-kodak-portra-400uc-ref-5b9e)
@@ -182,6 +183,7 @@ Total scans : 515
 - [[35mm] Ilford Delta 3200 (ref: 9b54)](#35mm-ilford-delta-3200-ref-9b54)
 - [[35mm] Ilford HP5 Plus (ref: c725)](#35mm-ilford-hp5-plus-ref-c725)
 - [[35mm] Ilford HP5 Plus (ref: df49)](#35mm-ilford-hp5-plus-ref-df49)
+- [[35mm] Ilford Ilfochrome (ref: ac24)](#35mm-ilford-ilfochrome-ref-ac24)
 - [[35mm] Ilford XP2 Super (ref: 622a)](#35mm-ilford-xp2-super-ref-622a)
 - [[35mm] JCH Streetpan (ref: 6e58)](#35mm-jch-streetpan-ref-6e58)
 - [[35mm] Kentmere PAN 100 (ref: c907)](#35mm-kentmere-pan-100-ref-c907)
@@ -1338,6 +1340,34 @@ UUID  : 221130722e5d4ecfb94b4c1326dcbe8f
 
 <a href="./archive/00262_002.jpg">
 	<img src="./lowres/00262_002.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="184" height="500">
+</a>
+
+#### [120] Kodak High Speed Ektachrome (ref: 7533)
+
+```
+Format: 120          |  Process : Unknown 
+ISO   : 125          |  Expiry  : 1977-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-06   |  Author  : kaimon  
+UUID  : ac9eab85f0874cf7aa5c67f0458e7533
+```
+
+<a href="./archive/00303_000.jpg">
+	<img src="./lowres/00303_000.jpg" alt="Kodak High Speed Ektachrome 120 film box outside" loading="lazy" width="500" height="480">
+</a>
+
+
+`UUID: 304a86e18bd841ee86c30538fe4e1940`↓
+
+<a href="./archive/00303_001.jpg">
+	<img src="./lowres/00303_001.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="200" height="500">
+</a>
+
+
+`UUID: 00e9096cb514470d8c00d2f66a652286`↓
+
+<a href="./archive/00303_002.jpg">
+	<img src="./lowres/00303_002.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="188" height="500">
 </a>
 
 #### [120] Kodak Kodacolor-X (ref: a4b1)
@@ -3410,6 +3440,20 @@ UUID  : 8db6d8343d544c21bfd539c32525df49
 
 <a href="./archive/00083_001.jpg">
 	<img src="./lowres/00083_001.jpg" alt="Ilford HP5 Plus 35mm film box inside" loading="lazy" width="434" height="500">
+</a>
+
+#### [35mm] Ilford Ilfochrome (ref: ac24)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2026-05 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-06   |  Author  : kaimon  
+UUID  : e7713fa57cac41e3ae3f416f3ea5ac24
+```
+
+<a href="./archive/00302_000.jpg">
+	<img src="./lowres/00302_000.jpg" alt="Ilford Ilfochrome 35mm film box outside" loading="lazy" width="410" height="499">
 </a>
 
 #### [35mm] Ilford XP2 Super (ref: 622a)
@@ -6052,12 +6096,13 @@ Rank  Username                      Contributions
 18    Henry Gunn                    4     
 19    u/ReeeSchmidtyWerber          4     
 20    lt_col_tall                   4     
-21    @Hol.m35                      3     
-22    TheSelousScout                3     
-23    @seklerek                     2     
-24    @ftfilmphotos                 2     
-25    Yrikonchik                    1     
-26    @ad.astra.per.aspera.1894     1     
+21    kaimon                        4     
+22    @Hol.m35                      3     
+23    TheSelousScout                3     
+24    @seklerek                     2     
+25    @ftfilmphotos                 2     
+26    Yrikonchik                    1     
+27    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?

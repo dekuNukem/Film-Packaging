@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 05 2025
-Unique items: 299
-Total scans : 515
+Last Updated: Sep 06 2025
+Unique items: 301
+Total scans : 519
 ```
 
 -----
@@ -275,6 +275,7 @@ Total scans : 515
 - [[E-6] Fujifilm Fujichrome Velvia 100F (ref: f7fb)](#e-6-fujifilm-fujichrome-velvia-100f-ref-f7fb)
 - [[E-6] Fujifilm Fujichrome Velvia 100F (ref: 32d4)](#e-6-fujifilm-fujichrome-velvia-100f-ref-32d4)
 - [[E-6] Hazenfilm Sorolla Chrome (ref: 889f)](#e-6-hazenfilm-sorolla-chrome-ref-889f)
+- [[E-6] Ilford Ilfochrome (ref: ac24)](#e-6-ilford-ilfochrome-ref-ac24)
 - [[E-6] Kodak Ektachrome 100 Plus (ref: 5d9f)](#e-6-kodak-ektachrome-100-plus-ref-5d9f)
 - [[E-6] Kodak Ektachrome 100 Plus (ref: 0183)](#e-6-kodak-ektachrome-100-plus-ref-0183)
 - [[E-6] Kodak Ektachrome 100HC (ref: 3ab9)](#e-6-kodak-ektachrome-100hc-ref-3ab9)
@@ -321,6 +322,7 @@ Total scans : 515
 - [[Unknown] Agfa AgfaColor CT 18 (ref: 1fef)](#unknown-agfa-agfacolor-ct-18-ref-1fef)
 - [[Unknown] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)](#unknown-kodak-ektachrome-160-movie-film-type-a-ref-8f62)
 - [[Unknown] Kodak Ektachrome 64 (ref: 07c0)](#unknown-kodak-ektachrome-64-ref-07c0)
+- [[Unknown] Kodak High Speed Ektachrome (ref: 7533)](#unknown-kodak-high-speed-ektachrome-ref-7533)
 
 
 -----
@@ -4945,6 +4947,20 @@ UUID  : 462e32d45cd740cf866732a73a00889f
 	<img src="./lowres/00137_000.jpg" alt="Hazenfilm Sorolla Chrome 35mm film box outside" loading="lazy" width="438" height="500">
 </a>
 
+#### [E-6] Ilford Ilfochrome (ref: ac24)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2026-05 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-06   |  Author  : kaimon  
+UUID  : e7713fa57cac41e3ae3f416f3ea5ac24
+```
+
+<a href="./archive/00302_000.jpg">
+	<img src="./lowres/00302_000.jpg" alt="Ilford Ilfochrome 35mm film box outside" loading="lazy" width="410" height="499">
+</a>
+
 #### [E-6] Kodak Ektachrome 100 Plus (ref: 5d9f)
 
 ```
@@ -6023,6 +6039,34 @@ UUID  : 8131d8c6fbf14016be9c17a2586b07c0
 	<img src="./lowres/00025_000.jpg" alt="Kodak Ektachrome 64 110 film box outside" loading="lazy" width="500" height="418">
 </a>
 
+#### [Unknown] Kodak High Speed Ektachrome (ref: 7533)
+
+```
+Format: 120          |  Process : Unknown 
+ISO   : 125          |  Expiry  : 1977-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-06   |  Author  : kaimon  
+UUID  : ac9eab85f0874cf7aa5c67f0458e7533
+```
+
+<a href="./archive/00303_000.jpg">
+	<img src="./lowres/00303_000.jpg" alt="Kodak High Speed Ektachrome 120 film box outside" loading="lazy" width="500" height="480">
+</a>
+
+
+`UUID: 304a86e18bd841ee86c30538fe4e1940`↓
+
+<a href="./archive/00303_001.jpg">
+	<img src="./lowres/00303_001.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="200" height="500">
+</a>
+
+
+`UUID: 00e9096cb514470d8c00d2f66a652286`↓
+
+<a href="./archive/00303_002.jpg">
+	<img src="./lowres/00303_002.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="188" height="500">
+</a>
+
 ## Want to Contribute?
 
 [Check out the guidelines!](../contribution_guide.md)
@@ -6052,12 +6096,13 @@ Rank  Username                      Contributions
 18    Henry Gunn                    4     
 19    u/ReeeSchmidtyWerber          4     
 20    lt_col_tall                   4     
-21    @Hol.m35                      3     
-22    TheSelousScout                3     
-23    @seklerek                     2     
-24    @ftfilmphotos                 2     
-25    Yrikonchik                    1     
-26    @ad.astra.per.aspera.1894     1     
+21    kaimon                        4     
+22    @Hol.m35                      3     
+23    TheSelousScout                3     
+24    @seklerek                     2     
+25    @ftfilmphotos                 2     
+26    Yrikonchik                    1     
+27    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?
