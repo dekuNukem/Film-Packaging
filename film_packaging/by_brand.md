@@ -77,7 +77,7 @@ Total scans : 543
 - [Foma Fomapan Creative 200 (ref: 3e4f)](#foma-fomapan-creative-200-ref-3e4f)
 - [Foma Fomapan Creative 200 (ref: 84a5)](#foma-fomapan-creative-200-ref-84a5)
 - [Foma Fomapan21 (ref: 75d9)](#foma-fomapan21-ref-75d9)
-- [Foma Ortho (ref: 89e7)](#foma-ortho-ref-89e7)
+- [Foma Ortho 400 (ref: 89e7)](#foma-ortho-400-ref-89e7)
 - [Foma Ortho 400 (ref: c559)](#foma-ortho-400-ref-c559)
 - [Foton Fotopan F (ref: 0ad6)](#foton-fotopan-f-ref-0ad6)
 - [Fujifilm 200 (ref: 5b41)](#fujifilm-200-ref-5b41)
@@ -1362,7 +1362,7 @@ UUID  : 098e510bfaa14be39697b9d8218475d9
 	<img src="./lowres/00074_000.jpg" alt="Foma Fomapan21 120 film box outside" loading="lazy" width="500" height="335">
 </a>
 
-#### Foma Ortho (ref: 89e7)
+#### Foma Ortho 400 (ref: 89e7)
 
 ```
 Format: 120          |  Process : BW      
@@ -1373,14 +1373,14 @@ UUID  : 4c97e2b7413b42278b0fd129c1c589e7
 ```
 
 <a href="./archive/00127_000.jpg">
-	<img src="./lowres/00127_000.jpg" alt="Foma Ortho 120 film box outside" loading="lazy" width="500" height="418">
+	<img src="./lowres/00127_000.jpg" alt="Foma Ortho 400 120 film box outside" loading="lazy" width="500" height="418">
 </a>
 
 
 `UUID: 728d195752464a448163dbb0ad4e8aa0`↓
 
 <a href="./archive/00127_001.jpg">
-	<img src="./lowres/00127_001.jpg" alt="Foma Ortho 120 film box inside" loading="lazy" width="500" height="412">
+	<img src="./lowres/00127_001.jpg" alt="Foma Ortho 400 120 film box inside" loading="lazy" width="500" height="412">
 </a>
 
 #### Foma Ortho 400 (ref: c559)

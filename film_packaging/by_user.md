@@ -163,7 +163,7 @@ Total scans : 543
 - [[Pelicram] Foma Fomapan 200 (ref: 60ee)](#pelicram-foma-fomapan-200-ref-60ee)
 - [[Pelicram] Foma Fomapan Classic 100 (ref: 65ad)](#pelicram-foma-fomapan-classic-100-ref-65ad)
 - [[Pelicram] Foma Fomapan Classic 100 (ref: 0030)](#pelicram-foma-fomapan-classic-100-ref-0030)
-- [[Pelicram] Foma Ortho (ref: 89e7)](#pelicram-foma-ortho-ref-89e7)
+- [[Pelicram] Foma Ortho 400 (ref: 89e7)](#pelicram-foma-ortho-400-ref-89e7)
 - [[Pelicram] Foma Ortho 400 (ref: c559)](#pelicram-foma-ortho-400-ref-c559)
 - [[Pelicram] Fujifilm Fujicolor Superia (ref: d1b7)](#pelicram-fujifilm-fujicolor-superia-ref-d1b7)
 - [[Pelicram] Hazenfilm Sorolla Chrome (ref: 889f)](#pelicram-hazenfilm-sorolla-chrome-ref-889f)
@@ -2846,7 +2846,7 @@ UUID  : bf1734a1ea48495d92afb7d03bdf0030
 	<img src="./lowres/00129_001.jpg" alt="Foma Fomapan Classic 100 35mm film box inside" loading="lazy" width="442" height="500">
 </a>
 
-#### [Pelicram] Foma Ortho (ref: 89e7)
+#### [Pelicram] Foma Ortho 400 (ref: 89e7)
 
 ```
 Format: 120          |  Process : BW      
@@ -2857,14 +2857,14 @@ UUID  : 4c97e2b7413b42278b0fd129c1c589e7
 ```
 
 <a href="./archive/00127_000.jpg">
-	<img src="./lowres/00127_000.jpg" alt="Foma Ortho 120 film box outside" loading="lazy" width="500" height="418">
+	<img src="./lowres/00127_000.jpg" alt="Foma Ortho 400 120 film box outside" loading="lazy" width="500" height="418">
 </a>
 
 
 `UUID: 728d195752464a448163dbb0ad4e8aa0`↓
 
 <a href="./archive/00127_001.jpg">
-	<img src="./lowres/00127_001.jpg" alt="Foma Ortho 120 film box inside" loading="lazy" width="500" height="412">
+	<img src="./lowres/00127_001.jpg" alt="Foma Ortho 400 120 film box inside" loading="lazy" width="500" height="412">
 </a>
 
 #### [Pelicram] Foma Ortho 400 (ref: c559)

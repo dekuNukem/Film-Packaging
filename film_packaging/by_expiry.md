@@ -250,7 +250,7 @@ Total scans : 543
 - [[2026] Lomography Fantome (ref: 4340)](#2026-lomography-fantome-ref-4340)
 - [[2026] Rollei Retro 80S (ref: e6c0)](#2026-rollei-retro-80s-ref-e6c0)
 - [[2026] Bergger Pancro400 (ref: ad7b)](#2026-bergger-pancro400-ref-ad7b)
-- [[2026] Foma Ortho (ref: 89e7)](#2026-foma-ortho-ref-89e7)
+- [[2026] Foma Ortho 400 (ref: 89e7)](#2026-foma-ortho-400-ref-89e7)
 - [[2026] Ilford FP4 Plus (ref: 76e7)](#2026-ilford-fp4-plus-ref-76e7)
 - [[2026] Kodak TMAX P3200 (ref: 521a)](#2026-kodak-tmax-p3200-ref-521a)
 - [[2026] Lomography Lomochrome Color 92 (ref: 12b4)](#2026-lomography-lomochrome-color-92-ref-12b4)
@@ -4883,7 +4883,7 @@ UUID  : 73396128854a4c6ab3723a549225ad7b
 	<img src="./lowres/00124_001.jpg" alt="Bergger Pancro400 120 film box inside" loading="lazy" width="500" height="444">
 </a>
 
-#### [2026] Foma Ortho (ref: 89e7)
+#### [2026] Foma Ortho 400 (ref: 89e7)
 
 ```
 Format: 120          |  Process : BW      
@@ -4894,14 +4894,14 @@ UUID  : 4c97e2b7413b42278b0fd129c1c589e7
 ```
 
 <a href="./archive/00127_000.jpg">
-	<img src="./lowres/00127_000.jpg" alt="Foma Ortho 120 film box outside" loading="lazy" width="500" height="418">
+	<img src="./lowres/00127_000.jpg" alt="Foma Ortho 400 120 film box outside" loading="lazy" width="500" height="418">
 </a>
 
 
 `UUID: 728d195752464a448163dbb0ad4e8aa0`↓
 
 <a href="./archive/00127_001.jpg">
-	<img src="./lowres/00127_001.jpg" alt="Foma Ortho 120 film box inside" loading="lazy" width="500" height="412">
+	<img src="./lowres/00127_001.jpg" alt="Foma Ortho 400 120 film box inside" loading="lazy" width="500" height="412">
 </a>
 
 #### [2026] Ilford FP4 Plus (ref: 76e7)

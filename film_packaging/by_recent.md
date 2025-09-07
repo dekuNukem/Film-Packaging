@@ -211,7 +211,7 @@ Total scans : 543
 - [[2025-07-31] Svema Foto 400 (ref: 26ad)](#2025-07-31-svema-foto-400-ref-26ad)
 - [[2025-07-31] Foma Fomapan Classic 100 (ref: 0030)](#2025-07-31-foma-fomapan-classic-100-ref-0030)
 - [[2025-07-31] SantaColor SantaColor (ref: f3a7)](#2025-07-31-santacolor-santacolor-ref-f3a7)
-- [[2025-07-31] Foma Ortho (ref: 89e7)](#2025-07-31-foma-ortho-ref-89e7)
+- [[2025-07-31] Foma Ortho 400 (ref: 89e7)](#2025-07-31-foma-ortho-400-ref-89e7)
 - [[2025-07-31] Ilford Delta 3200 Professional (ref: 9b54)](#2025-07-31-ilford-delta-3200-professional-ref-9b54)
 - [[2025-07-31] Ilford Delta 3200 Professional (ref: 920f)](#2025-07-31-ilford-delta-3200-professional-ref-920f)
 - [[2025-07-31] Bergger Pancro400 (ref: ad7b)](#2025-07-31-bergger-pancro400-ref-ad7b)
@@ -3977,10 +3977,10 @@ UUID  : 0a141b49a84a4b06a18355308940f3a7
 `UUID: 728d195752464a448163dbb0ad4e8aa0`↓
 
 <a href="./archive/00127_001.jpg">
-	<img src="./lowres/00127_001.jpg" alt="Foma Ortho 120 film box inside" loading="lazy" width="500" height="412">
+	<img src="./lowres/00127_001.jpg" alt="Foma Ortho 400 120 film box inside" loading="lazy" width="500" height="412">
 </a>
 
-#### [2025-07-31] Foma Ortho (ref: 89e7)
+#### [2025-07-31] Foma Ortho 400 (ref: 89e7)
 
 ```
 Format: 120          |  Process : BW      
@@ -3991,7 +3991,7 @@ UUID  : 4c97e2b7413b42278b0fd129c1c589e7
 ```
 
 <a href="./archive/00127_000.jpg">
-	<img src="./lowres/00127_000.jpg" alt="Foma Ortho 120 film box outside" loading="lazy" width="500" height="418">
+	<img src="./lowres/00127_000.jpg" alt="Foma Ortho 400 120 film box outside" loading="lazy" width="500" height="418">
 </a>
 
 

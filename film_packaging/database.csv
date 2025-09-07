@@ -221,8 +221,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 125,1,film_box_inside,Ilford,Delta 3200 Professional,120,3200,BW,202505,1753987006,acd8b1ea7089cef0e2578fe3236d6091,06dcb1f1f350482ba935ad30bd5a42b6,00125_001.jpg,Pelicram,,Single Pack,N/A
 126,0,film_box_outside,Ilford,Delta 3200 Professional,35mm,3200,BW,202706,1753987025,79c5c4473e617671924d4c1ae2231227,d6f377dbe74745a0aacdf51ce7669b54,00126_000.jpg,Pelicram,,Single Pack,36exp
 126,1,film_box_inside,Ilford,Delta 3200 Professional,35mm,3200,BW,202706,1753987027,b47713faf14a99d7a7579b01cbee6356,3921b5a404564bb2b4231bf59d22e6d3,00126_001.jpg,Pelicram,,Single Pack,36exp
-127,0,film_box_outside,Foma,Ortho,120,400,BW,202604,1753987430,39ec1b3dc6b1aa2c250ac3073ebebf0e,4c97e2b7413b42278b0fd129c1c589e7,00127_000.jpg,Pelicram,,Single Pack,N/A
-127,1,film_box_inside,Foma,Ortho,120,400,BW,202604,1753987433,0eea9c8b25539ddadd43a74dc2684177,728d195752464a448163dbb0ad4e8aa0,00127_001.jpg,Pelicram,,Single Pack,N/A
+127,0,film_box_outside,Foma,Ortho 400,120,400,BW,202604,1753987430,39ec1b3dc6b1aa2c250ac3073ebebf0e,4c97e2b7413b42278b0fd129c1c589e7,00127_000.jpg,Pelicram,,Single Pack,N/A
+127,1,film_box_inside,Foma,Ortho 400,120,400,BW,202604,1753987433,0eea9c8b25539ddadd43a74dc2684177,728d195752464a448163dbb0ad4e8aa0,00127_001.jpg,Pelicram,,Single Pack,N/A
 128,0,film_box_outside,SantaColor,SantaColor,35mm,100,C-41,202509,1753987468,93b211386347ccabc255d6bc09d92bff,0a141b49a84a4b06a18355308940f3a7,00128_000.jpg,Pelicram,,Multi-Pack-5,36exp
 129,0,film_box_outside,Foma,Fomapan Classic 100,35mm,100,BW,202707,1753988508,e86acef629c00a3aa95c82b6753a42f4,bf1734a1ea48495d92afb7d03bdf0030,00129_000.jpg,Pelicram,,Single Pack,36exp
 129,1,film_box_inside,Foma,Fomapan Classic 100,35mm,100,BW,202707,1753988510,8d59ba23852dfff38e6b78401fe0db70,01adf7d0b4df41f990c60d5cafb7f55f,00129_001.jpg,Pelicram,,Single Pack,36exp
