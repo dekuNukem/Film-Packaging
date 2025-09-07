@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 06 2025
-Unique items: 306
-Total scans : 529
+Last Updated: Sep 07 2025
+Unique items: 308
+Total scans : 533
 ```
 
 -----
@@ -56,7 +56,7 @@ Total scans : 529
 - [[@ellafridalindblom] Phöbus-Platten Sheet Film (ref: d505)](#ellafridalindblom-phöbus-platten-sheet-film-ref-d505)
 - [[@ftfilmphotos] Kodak Kodacolor VR (ref: 035f)](#ftfilmphotos-kodak-kodacolor-vr-ref-035f)
 - [[@ob.skura] Fujifilm Fujichrome Velvia (ref: 3182)](#obskura-fujifilm-fujichrome-velvia-ref-3182)
-- [[@ob.skura] Ilford Delta 100 (ref: eb8d)](#obskura-ilford-delta-100-ref-eb8d)
+- [[@ob.skura] Ilford Delta 100 Professional (ref: eb8d)](#obskura-ilford-delta-100-professional-ref-eb8d)
 - [[@ob.skura] Kodak Elite Chrome (ref: 523c)](#obskura-kodak-elite-chrome-ref-523c)
 - [[@ob.skura] Kodak High Speed Ektachrome (ref: ec3d)](#obskura-kodak-high-speed-ektachrome-ref-ec3d)
 - [[@ob.skura] Kodak Ultra (ref: 69a1)](#obskura-kodak-ultra-ref-69a1)
@@ -128,7 +128,7 @@ Total scans : 529
 - [[@seklerek] Fujifilm Fujichrome Velvia 100F (ref: 32d4)](#seklerek-fujifilm-fujichrome-velvia-100f-ref-32d4)
 - [[@toastergod101] Fujifilm Instax Mini (ref: e5e7)](#toastergod101-fujifilm-instax-mini-ref-e5e7)
 - [[@toastergod101] Harman Red (ref: da3a)](#toastergod101-harman-red-ref-da3a)
-- [[@toastergod101] Ilford Delta 400 (ref: f3da)](#toastergod101-ilford-delta-400-ref-f3da)
+- [[@toastergod101] Ilford Delta 400 Professional (ref: f3da)](#toastergod101-ilford-delta-400-professional-ref-f3da)
 - [[@toastergod101] Ilford FP4 Plus (ref: 3bc0)](#toastergod101-ilford-fp4-plus-ref-3bc0)
 - [[Camera.Riley] Agfa Fine-Grain Plenachrome (ref: e5d4)](#camerariley-agfa-fine-grain-plenachrome-ref-e5d4)
 - [[Camera.Riley] Fujifilm Fujichrome 64T Type II Professional (ref: 74a1)](#camerariley-fujifilm-fujichrome-64t-type-ii-professional-ref-74a1)
@@ -167,8 +167,8 @@ Total scans : 529
 - [[Pelicram] Foma Ortho 400 (ref: c559)](#pelicram-foma-ortho-400-ref-c559)
 - [[Pelicram] Fujifilm Fujicolor Superia (ref: d1b7)](#pelicram-fujifilm-fujicolor-superia-ref-d1b7)
 - [[Pelicram] Hazenfilm Sorolla Chrome (ref: 889f)](#pelicram-hazenfilm-sorolla-chrome-ref-889f)
-- [[Pelicram] Ilford Delta 3200 (ref: 920f)](#pelicram-ilford-delta-3200-ref-920f)
-- [[Pelicram] Ilford Delta 3200 (ref: 9b54)](#pelicram-ilford-delta-3200-ref-9b54)
+- [[Pelicram] Ilford Delta 3200 Professional (ref: 920f)](#pelicram-ilford-delta-3200-professional-ref-920f)
+- [[Pelicram] Ilford Delta 3200 Professional (ref: 9b54)](#pelicram-ilford-delta-3200-professional-ref-9b54)
 - [[Pelicram] Ilford HP5 Plus (ref: 11a8)](#pelicram-ilford-hp5-plus-ref-11a8)
 - [[Pelicram] JCH Streetpan (ref: 6e58)](#pelicram-jch-streetpan-ref-6e58)
 - [[Pelicram] Kentmere PAN 200 (ref: 0e32)](#pelicram-kentmere-pan-200-ref-0e32)
@@ -241,6 +241,8 @@ Total scans : 529
 - [[dekuNukem] Fujifilm Fujicolor Super HR (ref: aaa0)](#dekunukem-fujifilm-fujicolor-super-hr-ref-aaa0)
 - [[dekuNukem] Fujifilm Fujicolor Superia (ref: 0683)](#dekunukem-fujifilm-fujicolor-superia-ref-0683)
 - [[dekuNukem] Harman Phoenix (ref: 637f)](#dekunukem-harman-phoenix-ref-637f)
+- [[dekuNukem] Ilford Delta 100 Professional (ref: 93b9)](#dekunukem-ilford-delta-100-professional-ref-93b9)
+- [[dekuNukem] Ilford Delta 400 Professional (ref: 8f8b)](#dekunukem-ilford-delta-400-professional-ref-8f8b)
 - [[dekuNukem] Ilford HP5 Plus (ref: efad)](#dekunukem-ilford-hp5-plus-ref-efad)
 - [[dekuNukem] Ilford HP5 Plus (ref: 1a5d)](#dekunukem-ilford-hp5-plus-ref-1a5d)
 - [[dekuNukem] Ilford SFX 200 (ref: 6057)](#dekunukem-ilford-sfx-200-ref-6057)
@@ -920,7 +922,7 @@ UUID  : 9b9ee1c1c0e94d968674987799d33182
 	<img src="./lowres/00044_002.jpg" alt="Fujifilm Fujichrome Velvia 35mm film box leaflet" loading="lazy" width="267" height="500">
 </a>
 
-#### [@ob.skura] Ilford Delta 100 (ref: eb8d)
+#### [@ob.skura] Ilford Delta 100 Professional (ref: eb8d)
 
 ```
 Format: 120          |  Process : BW      
@@ -931,14 +933,14 @@ UUID  : e39c5eca4e3e4e5badfa00ee512deb8d
 ```
 
 <a href="./archive/00048_000.jpg">
-	<img src="./lowres/00048_000.jpg" alt="Ilford Delta 100 120 film box outside" loading="lazy" width="500" height="459">
+	<img src="./lowres/00048_000.jpg" alt="Ilford Delta 100 Professional 120 film box outside" loading="lazy" width="500" height="459">
 </a>
 
 
 `UUID: e4c76c5b957347178af448f4aa6001d0`↓
 
 <a href="./archive/00048_001.jpg">
-	<img src="./lowres/00048_001.jpg" alt="Ilford Delta 100 120 film box inside" loading="lazy" width="500" height="488">
+	<img src="./lowres/00048_001.jpg" alt="Ilford Delta 100 Professional 120 film box inside" loading="lazy" width="500" height="488">
 </a>
 
 #### [@ob.skura] Kodak Elite Chrome (ref: 523c)
@@ -2159,7 +2161,7 @@ UUID  : 3903165bcfbc43ad9a6ee42e7922da3a
 	<img src="./lowres/00306_001.jpg" alt="Harman Red 35mm film box inside" loading="lazy" width="383" height="500">
 </a>
 
-#### [@toastergod101] Ilford Delta 400 (ref: f3da)
+#### [@toastergod101] Ilford Delta 400 Professional (ref: f3da)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -2170,14 +2172,14 @@ UUID  : 3b21d893a52242f886e7057855d7f3da
 ```
 
 <a href="./archive/00305_000.jpg">
-	<img src="./lowres/00305_000.jpg" alt="Ilford Delta 400 35mm film box outside" loading="lazy" width="406" height="500">
+	<img src="./lowres/00305_000.jpg" alt="Ilford Delta 400 Professional 35mm film box outside" loading="lazy" width="406" height="500">
 </a>
 
 
 `UUID: be7e29869fd34099b29753fc5dc86b02`↓
 
 <a href="./archive/00305_001.jpg">
-	<img src="./lowres/00305_001.jpg" alt="Ilford Delta 400 35mm film box inside" loading="lazy" width="402" height="500">
+	<img src="./lowres/00305_001.jpg" alt="Ilford Delta 400 Professional 35mm film box inside" loading="lazy" width="402" height="500">
 </a>
 
 #### [@toastergod101] Ilford FP4 Plus (ref: 3bc0)
@@ -2915,7 +2917,7 @@ UUID  : 462e32d45cd740cf866732a73a00889f
 	<img src="./lowres/00137_000.jpg" alt="Hazenfilm Sorolla Chrome 35mm film box outside" loading="lazy" width="438" height="500">
 </a>
 
-#### [Pelicram] Ilford Delta 3200 (ref: 920f)
+#### [Pelicram] Ilford Delta 3200 Professional (ref: 920f)
 
 ```
 Format: 120          |  Process : BW      
@@ -2926,17 +2928,17 @@ UUID  : 78d1111d1b234dcfb272c00d7935920f
 ```
 
 <a href="./archive/00125_000.jpg">
-	<img src="./lowres/00125_000.jpg" alt="Ilford Delta 3200 120 film box outside" loading="lazy" width="500" height="450">
+	<img src="./lowres/00125_000.jpg" alt="Ilford Delta 3200 Professional 120 film box outside" loading="lazy" width="500" height="450">
 </a>
 
 
 `UUID: 06dcb1f1f350482ba935ad30bd5a42b6`↓
 
 <a href="./archive/00125_001.jpg">
-	<img src="./lowres/00125_001.jpg" alt="Ilford Delta 3200 120 film box inside" loading="lazy" width="500" height="447">
+	<img src="./lowres/00125_001.jpg" alt="Ilford Delta 3200 Professional 120 film box inside" loading="lazy" width="500" height="447">
 </a>
 
-#### [Pelicram] Ilford Delta 3200 (ref: 9b54)
+#### [Pelicram] Ilford Delta 3200 Professional (ref: 9b54)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -2947,14 +2949,14 @@ UUID  : d6f377dbe74745a0aacdf51ce7669b54
 ```
 
 <a href="./archive/00126_000.jpg">
-	<img src="./lowres/00126_000.jpg" alt="Ilford Delta 3200 35mm film box outside" loading="lazy" width="437" height="499">
+	<img src="./lowres/00126_000.jpg" alt="Ilford Delta 3200 Professional 35mm film box outside" loading="lazy" width="437" height="499">
 </a>
 
 
 `UUID: 3921b5a404564bb2b4231bf59d22e6d3`↓
 
 <a href="./archive/00126_001.jpg">
-	<img src="./lowres/00126_001.jpg" alt="Ilford Delta 3200 35mm film box inside" loading="lazy" width="435" height="500">
+	<img src="./lowres/00126_001.jpg" alt="Ilford Delta 3200 Professional 35mm film box inside" loading="lazy" width="435" height="500">
 </a>
 
 #### [Pelicram] Ilford HP5 Plus (ref: 11a8)
@@ -4306,6 +4308,48 @@ UUID  : 0b11ba38c9a34f58a2f13d696b05637f
 
 <a href="./archive/00004_000.jpg">
 	<img src="./lowres/00004_000.jpg" alt="Harman Phoenix 120 film box outside" loading="lazy" width="500" height="335">
+</a>
+
+#### [dekuNukem] Ilford Delta 100 Professional (ref: 93b9)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 100          |  Expiry  : 2005-02 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-07   |  Author  : dekuNukem
+UUID  : c2225dedcae040e7bb27a918c4ca93b9
+```
+
+<a href="./archive/00310_000.jpg">
+	<img src="./lowres/00310_000.jpg" alt="Ilford Delta 100 Professional 120 film box outside" loading="lazy" width="500" height="453">
+</a>
+
+
+`UUID: 999648311ef040049db316f49db239b0`↓
+
+<a href="./archive/00310_001.jpg">
+	<img src="./lowres/00310_001.jpg" alt="Ilford Delta 100 Professional 120 film box inside" loading="lazy" width="500" height="448">
+</a>
+
+#### [dekuNukem] Ilford Delta 400 Professional (ref: 8f8b)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2007-07 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-07   |  Author  : dekuNukem
+UUID  : f38dd0735c2e441088b421eec4678f8b
+```
+
+<a href="./archive/00309_000.jpg">
+	<img src="./lowres/00309_000.jpg" alt="Ilford Delta 400 Professional 35mm film box outside" loading="lazy" width="431" height="500">
+</a>
+
+
+`UUID: c32ca8b644b54348a71dab9414ec61d4`↓
+
+<a href="./archive/00309_001.jpg">
+	<img src="./lowres/00309_001.jpg" alt="Ilford Delta 400 Professional 35mm film box inside" loading="lazy" width="433" height="500">
 </a>
 
 #### [dekuNukem] Ilford HP5 Plus (ref: efad)
@@ -6186,7 +6230,7 @@ UUID  : e54ce68c797b4846b9aee3f5818ecb58
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     169   
+1     dekuNukem                     173   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    

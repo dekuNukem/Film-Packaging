@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 06 2025
-Unique items: 306
-Total scans : 529
+Last Updated: Sep 07 2025
+Unique items: 308
+Total scans : 533
 ```
 
 Or Sort by...
@@ -53,7 +53,7 @@ Or Sort by...
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     169   
+1     dekuNukem                     173   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    
@@ -86,10 +86,14 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-09-07
+  - dekuNukem: Ilford Delta 100 Professional
+  - dekuNukem: Ilford Delta 400 Professional
+
 2025-09-06
   - @toastergod101: Fujifilm Instax Mini
   - @toastergod101: Harman Red
-  - @toastergod101: Ilford Delta 400
+  - @toastergod101: Ilford Delta 400 Professional
   - @toastergod101: Ilford FP4 Plus
   - dekuNukem: Fujifilm Fujicolor HR100
   - kaimon: Ilford Ilfochrome
@@ -119,13 +123,6 @@ Rank  Username                      Contributions
   - dekuNukem: Kodak Ektachrome 400
   - dekuNukem: Kodak Ektachrome Professional
   - dekuNukem: Kodak Ektachrome Professional Type B
-
-2025-09-01
-  - @recycling.film: Fujifilm FP-100C
-  - dekuNukem: Fujifilm Fujichrome Provia 100F
-  - dekuNukem: Kodak Ektachrome 100 Plus
-  - dekuNukem: Kodak Ektachrome 400X
-  - dekuNukem: Kodak Kodacolor-X
 ```
 
 ## Disclaimer

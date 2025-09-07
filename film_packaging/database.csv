@@ -97,8 +97,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 46,1,film_box_leaflet,Porst,Color N21,35mm,100,C-22,197401,1736884076,e869423af5d6a26dbdbf3f4252c11516,e9bc17db34fa4b779e283c96c92b2359,00046_001.jpg,@ob.skura,,Single Pack,20exp
 47,0,film_box_outside,Rollei,Infrared,35mm,200,BW,202704,1737477709,494bf6d49706ed25c15d71a6715f8744,9ef642a09d294cbfad7e040a701deae2,00047_000.jpg,@ob.skura,,Single Pack,36exp
 47,1,film_box_inside,Rollei,Infrared,35mm,200,BW,202704,1737477712,2450d85c976246bcc14f8e0a459ff7ed,5bbaeaec47a046a683f87f266c73e71e,00047_001.jpg,@ob.skura,,Single Pack,36exp
-48,0,film_box_outside,Ilford,Delta 100,120,100,BW,202408,1737477814,2aaf2d853e3d4547d378376c00c3349f,e39c5eca4e3e4e5badfa00ee512deb8d,00048_000.jpg,@ob.skura,,Single Pack,N/A
-48,1,film_box_inside,Ilford,Delta 100,120,100,BW,202408,1737477817,5942428ddad82d7acb19eb41e715b3d1,e4c76c5b957347178af448f4aa6001d0,00048_001.jpg,@ob.skura,,Single Pack,N/A
+48,0,film_box_outside,Ilford,Delta 100 Professional,120,100,BW,202408,1737477814,2aaf2d853e3d4547d378376c00c3349f,e39c5eca4e3e4e5badfa00ee512deb8d,00048_000.jpg,@ob.skura,,Single Pack,N/A
+48,1,film_box_inside,Ilford,Delta 100 Professional,120,100,BW,202408,1737477817,5942428ddad82d7acb19eb41e715b3d1,e4c76c5b957347178af448f4aa6001d0,00048_001.jpg,@ob.skura,,Single Pack,N/A
 49,0,film_box_outside,Wolfen,NC500,35mm,400,C-41,202612,1737477883,306dda03514084ae946b4f48eee07906,6e3408d7e97247e380ea52077a7491c1,00049_000.jpg,@ob.skura,,Single Pack,36exp
 50,0,film_box_outside,Shanghai,GP3,127,100,BW,202407,1737477955,bc5026cd028d2eeb980c3b777415075e,0e16f7ae50164c658acd22b8d62e52aa,00050_000.jpg,@ob.skura,,Single Pack,N/A
 51,0,film_box_outside,York Photo Labs,DXG 200,35mm,200,C-41,199409,1738666458,9c6ef0a41cc09d618fc3d39429115193,46037fb6c55244b6ae47c55d0e454bf8,00051_000.jpg,b0baspace,,Single Pack,36exp
@@ -217,10 +217,10 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 123,1,film_box_inside,Bergger,Pancro400,35mm,400,BW,202612,1753986818,22970039e291b6291b6c27b3beaf1099,29d10e873e704093bd65148f288f968b,00123_001.jpg,Pelicram,,Single Pack,36exp
 124,0,film_box_outside,Bergger,Pancro400,120,400,BW,202603,1753986899,5e257bc424c6f38e0108ea7c400f2c86,73396128854a4c6ab3723a549225ad7b,00124_000.jpg,Pelicram,,Single Pack,N/A
 124,1,film_box_inside,Bergger,Pancro400,120,400,BW,202603,1753986901,8d94dd083a2c96955b53ffcb98a146a5,5643e1130f1949c48dfdeddc7c7a955f,00124_001.jpg,Pelicram,,Single Pack,N/A
-125,0,film_box_outside,Ilford,Delta 3200,120,3200,BW,202505,1753987003,91bae56e50f50b6a6d97870eea67a267,78d1111d1b234dcfb272c00d7935920f,00125_000.jpg,Pelicram,,Single Pack,N/A
-125,1,film_box_inside,Ilford,Delta 3200,120,3200,BW,202505,1753987006,acd8b1ea7089cef0e2578fe3236d6091,06dcb1f1f350482ba935ad30bd5a42b6,00125_001.jpg,Pelicram,,Single Pack,N/A
-126,0,film_box_outside,Ilford,Delta 3200,35mm,3200,BW,202706,1753987025,79c5c4473e617671924d4c1ae2231227,d6f377dbe74745a0aacdf51ce7669b54,00126_000.jpg,Pelicram,,Single Pack,36exp
-126,1,film_box_inside,Ilford,Delta 3200,35mm,3200,BW,202706,1753987027,b47713faf14a99d7a7579b01cbee6356,3921b5a404564bb2b4231bf59d22e6d3,00126_001.jpg,Pelicram,,Single Pack,36exp
+125,0,film_box_outside,Ilford,Delta 3200 Professional,120,3200,BW,202505,1753987003,91bae56e50f50b6a6d97870eea67a267,78d1111d1b234dcfb272c00d7935920f,00125_000.jpg,Pelicram,,Single Pack,N/A
+125,1,film_box_inside,Ilford,Delta 3200 Professional,120,3200,BW,202505,1753987006,acd8b1ea7089cef0e2578fe3236d6091,06dcb1f1f350482ba935ad30bd5a42b6,00125_001.jpg,Pelicram,,Single Pack,N/A
+126,0,film_box_outside,Ilford,Delta 3200 Professional,35mm,3200,BW,202706,1753987025,79c5c4473e617671924d4c1ae2231227,d6f377dbe74745a0aacdf51ce7669b54,00126_000.jpg,Pelicram,,Single Pack,36exp
+126,1,film_box_inside,Ilford,Delta 3200 Professional,35mm,3200,BW,202706,1753987027,b47713faf14a99d7a7579b01cbee6356,3921b5a404564bb2b4231bf59d22e6d3,00126_001.jpg,Pelicram,,Single Pack,36exp
 127,0,film_box_outside,Foma,Ortho,120,400,BW,202604,1753987430,39ec1b3dc6b1aa2c250ac3073ebebf0e,4c97e2b7413b42278b0fd129c1c589e7,00127_000.jpg,Pelicram,,Single Pack,N/A
 127,1,film_box_inside,Foma,Ortho,120,400,BW,202604,1753987433,0eea9c8b25539ddadd43a74dc2684177,728d195752464a448163dbb0ad4e8aa0,00127_001.jpg,Pelicram,,Single Pack,N/A
 128,0,film_box_outside,SantaColor,SantaColor,35mm,100,C-41,202509,1753987468,93b211386347ccabc255d6bc09d92bff,0a141b49a84a4b06a18355308940f3a7,00128_000.jpg,Pelicram,,Multi-Pack-5,36exp
@@ -520,11 +520,15 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 303,2,film_box_leaflet,Kodak,High Speed Ektachrome,120,125,Unknown,197701,1757151662,8963e8be58a562680a1143914c2ea966,00e9096cb514470d8c00d2f66a652286,00303_002.jpg,kaimon,Tungsten (3200K) EHB 120,Single Pack,N/A
 304,0,film_box_outside,Ilford,FP4 Plus,35mm,125,BW,202809,1757152011,6be62072ad9a04780e05bca99d1813d7,c1bab96948014588adbde72665853bc0,00304_000.jpg,@toastergod101,,Single Pack,24exp
 304,1,film_box_inside,Ilford,FP4 Plus,35mm,125,BW,202809,1757152013,783402ec48c4ee378fde76adfeeb12fc,627cee08157e4e5c9277b0e02fe7eb6c,00304_001.jpg,@toastergod101,,Single Pack,24exp
-305,0,film_box_outside,Ilford,Delta 400,35mm,400,BW,202612,1757152054,9ec1a11dd3792e28d55905b148065448,3b21d893a52242f886e7057855d7f3da,00305_000.jpg,@toastergod101,,Single Pack,36exp
-305,1,film_box_inside,Ilford,Delta 400,35mm,400,BW,202612,1757152062,22f9959821e555ac2ac95af292e6f487,be7e29869fd34099b29753fc5dc86b02,00305_001.jpg,@toastergod101,,Single Pack,36exp
+305,0,film_box_outside,Ilford,Delta 400 Professional,35mm,400,BW,202612,1757152054,9ec1a11dd3792e28d55905b148065448,3b21d893a52242f886e7057855d7f3da,00305_000.jpg,@toastergod101,,Single Pack,36exp
+305,1,film_box_inside,Ilford,Delta 400 Professional,35mm,400,BW,202612,1757152062,22f9959821e555ac2ac95af292e6f487,be7e29869fd34099b29753fc5dc86b02,00305_001.jpg,@toastergod101,,Single Pack,36exp
 306,0,film_box_outside,Harman,Red,35mm,125,C-41,202607,1757152101,09982a330120adfe04cf2f767e273829,3903165bcfbc43ad9a6ee42e7922da3a,00306_000.jpg,@toastergod101,,Single Pack,36exp
 306,1,film_box_inside,Harman,Red,35mm,125,C-41,202607,1757152103,8194ae2ea684966757153e1023783ab1,e4133b6a1709448dbe4efa97d028e25a,00306_001.jpg,@toastergod101,,Single Pack,36exp
 307,0,film_box_outside,Fujifilm,Instax Mini,Integral Film,800,Instant,202704,1757152196,3dc7a34913e84ff97468e772676b536e,b8ea314888b244f8ab8ace49c734e5e7,00307_000.jpg,@toastergod101,,Multi-Pack-2,10exp
 308,0,film_box_outside,Fujifilm,Fujicolor HR100,120,100,C-41,198602,1757154576,fa8dc3bd018c5269354e81c0c9e06b75,934f2484197d41c7a5467b92a9ea23c5,00308_000.jpg,dekuNukem,,Single Pack,N/A
 308,1,film_box_leaflet,Fujifilm,Fujicolor HR100,120,100,C-41,198602,1757154577,577b24210b380517bee19d790a66afde,172bc614704c4391bd34e58f0b27b279,00308_001.jpg,dekuNukem,,Single Pack,N/A
 308,2,film_box_leaflet,Fujifilm,Fujicolor HR100,120,100,C-41,198602,1757154579,39a73eae0e1f523f0dffd7215b181126,3e4277ca388248c5a4ea7d11988bf3a6,00308_002.jpg,dekuNukem,,Single Pack,N/A
+309,0,film_box_outside,Ilford,Delta 400 Professional,35mm,400,BW,200707,1757270183,91080b62f1e51062bfccc9f6f0d18c00,f38dd0735c2e441088b421eec4678f8b,00309_000.jpg,dekuNukem,,Single Pack,24exp
+309,1,film_box_inside,Ilford,Delta 400 Professional,35mm,400,BW,200707,1757270185,c3ae682fad72b9a058f5a19e14067f99,c32ca8b644b54348a71dab9414ec61d4,00309_001.jpg,dekuNukem,,Single Pack,24exp
+310,0,film_box_outside,Ilford,Delta 100 Professional,120,100,BW,200502,1757270210,9486041f7b3404203189e190b90ebf68,c2225dedcae040e7bb27a918c4ca93b9,00310_000.jpg,dekuNukem,,Single Pack,N/A
+310,1,film_box_inside,Ilford,Delta 100 Professional,120,100,BW,200502,1757270211,a58412d34ba686a599b57144a28b87d9,999648311ef040049db316f49db239b0,00310_001.jpg,dekuNukem,,Single Pack,N/A
