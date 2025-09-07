@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 07 2025
-Unique items: 308
-Total scans : 533
+Unique items: 314
+Total scans : 543
 ```
 
 -----
@@ -160,9 +160,9 @@ Total scans : 533
 - [[Pelicram] Agfa Isopan ISS (ref: 75fa)](#pelicram-agfa-isopan-iss-ref-75fa)
 - [[Pelicram] Bergger Pancro400 (ref: ad7b)](#pelicram-bergger-pancro400-ref-ad7b)
 - [[Pelicram] Bergger Pancro400 (ref: f619)](#pelicram-bergger-pancro400-ref-f619)
-- [[Pelicram] Foma Fomapan (ref: 65ad)](#pelicram-foma-fomapan-ref-65ad)
-- [[Pelicram] Foma Fomapan (ref: 0030)](#pelicram-foma-fomapan-ref-0030)
-- [[Pelicram] Foma Fomapan (ref: 60ee)](#pelicram-foma-fomapan-ref-60ee)
+- [[Pelicram] Foma Fomapan 200 (ref: 60ee)](#pelicram-foma-fomapan-200-ref-60ee)
+- [[Pelicram] Foma Fomapan Classic 100 (ref: 65ad)](#pelicram-foma-fomapan-classic-100-ref-65ad)
+- [[Pelicram] Foma Fomapan Classic 100 (ref: 0030)](#pelicram-foma-fomapan-classic-100-ref-0030)
 - [[Pelicram] Foma Ortho (ref: 89e7)](#pelicram-foma-ortho-ref-89e7)
 - [[Pelicram] Foma Ortho 400 (ref: c559)](#pelicram-foma-ortho-400-ref-c559)
 - [[Pelicram] Fujifilm Fujicolor Superia (ref: d1b7)](#pelicram-fujifilm-fujicolor-superia-ref-d1b7)
@@ -188,8 +188,14 @@ Total scans : 533
 - [[Pelicram] Rollei RPX 400 (ref: 2155)](#pelicram-rollei-rpx-400-ref-2155)
 - [[Pelicram] Rollei Retro 80S (ref: e23d)](#pelicram-rollei-retro-80s-ref-e23d)
 - [[Pelicram] SantaColor SantaColor (ref: f3a7)](#pelicram-santacolor-santacolor-ref-f3a7)
-- [[Pelicram] Svema Foto (ref: 26ad)](#pelicram-svema-foto-ref-26ad)
+- [[Pelicram] Svema Foto 400 (ref: 26ad)](#pelicram-svema-foto-400-ref-26ad)
 - [[Pelicram] Wolfen NP100 (ref: 71a6)](#pelicram-wolfen-np100-ref-71a6)
+- [[TBD01] Alien Film Aeronega (ref: d1c5)](#tbd01-alien-film-aeronega-ref-d1c5)
+- [[TBD01] Foma Fomapan Classic 100 (ref: 1731)](#tbd01-foma-fomapan-classic-100-ref-1731)
+- [[TBD01] Fujifilm Fujicolor Superia X-TRA 400 (ref: da37)](#tbd01-fujifilm-fujicolor-superia-x-tra-400-ref-da37)
+- [[TBD01] Lomography Color Negative Film (ref: 1529)](#tbd01-lomography-color-negative-film-ref-1529)
+- [[TBD01] Lomography Lomochrome Color'92 (ref: 9fdb)](#tbd01-lomography-lomochrome-color92-ref-9fdb)
+- [[TBD01] Svema Foto 200 (ref: 6991)](#tbd01-svema-foto-200-ref-6991)
 - [[The Compartmentalist] Agfa Agfapan Rapid (ref: 5e7b)](#the-compartmentalist-agfa-agfapan-rapid-ref-5e7b)
 - [[The Compartmentalist] Fujifilm Fujichrome Provia 100F (ref: df27)](#the-compartmentalist-fujifilm-fujichrome-provia-100f-ref-df27)
 - [[The Compartmentalist] Fujifilm Fujichrome Sensia 100 (ref: a59b)](#the-compartmentalist-fujifilm-fujichrome-sensia-100-ref-a59b)
@@ -215,7 +221,7 @@ Total scans : 533
 - [[b0baspace] Kodak Ektachrome 200 (ref: b21e)](#b0baspace-kodak-ektachrome-200-ref-b21e)
 - [[b0baspace] Kodak Verichrome Pan (ref: 0195)](#b0baspace-kodak-verichrome-pan-ref-0195)
 - [[b0baspace] York Photo Labs DXG 200 (ref: 4bf8)](#b0baspace-york-photo-labs-dxg-200-ref-4bf8)
-- [[benikum] Foma Fomapan (ref: 3e4f)](#benikum-foma-fomapan-ref-3e4f)
+- [[benikum] Foma Fomapan Creative 200 (ref: 3e4f)](#benikum-foma-fomapan-creative-200-ref-3e4f)
 - [[benikum] Foma Fomapan21 (ref: 75d9)](#benikum-foma-fomapan21-ref-75d9)
 - [[benikum] Rollei SUPERPAN 200 (ref: ee8f)](#benikum-rollei-superpan-200-ref-ee8f)
 - [[benikum] Rossmann Jahreszeiten Pack (ref: 7670)](#benikum-rossmann-jahreszeiten-pack-ref-7670)
@@ -304,7 +310,7 @@ Total scans : 533
 - [[kaimon] Ilford Ilfochrome (ref: ac24)](#kaimon-ilford-ilfochrome-ref-ac24)
 - [[kaimon] Kodak High Speed Ektachrome (ref: 7533)](#kaimon-kodak-high-speed-ektachrome-ref-7533)
 - [[lilyu.xyz] Agfa APX (ref: 5276)](#lilyuxyz-agfa-apx-ref-5276)
-- [[lilyu.xyz] Foma Fomapan (ref: 84a5)](#lilyuxyz-foma-fomapan-ref-84a5)
+- [[lilyu.xyz] Foma Fomapan Creative 200 (ref: 84a5)](#lilyuxyz-foma-fomapan-creative-200-ref-84a5)
 - [[lilyu.xyz] Kodak Gold (ref: ea58)](#lilyuxyz-kodak-gold-ref-ea58)
 - [[lilyu.xyz] Kodak Gold Ultra 400 (ref: 1358)](#lilyuxyz-kodak-gold-ultra-400-ref-1358)
 - [[lilyu.xyz] Perutz Superomnia (ref: c90d)](#lilyuxyz-perutz-superomnia-ref-c90d)
@@ -2784,49 +2790,7 @@ UUID  : 0d9fee6b29f445f089acde3247d1f619
 	<img src="./lowres/00123_001.jpg" alt="Bergger Pancro400 35mm film box inside" loading="lazy" width="435" height="500">
 </a>
 
-#### [Pelicram] Foma Fomapan (ref: 65ad)
-
-```
-Format: 120          |  Process : BW      
-ISO   : 100          |  Expiry  : 2027-04 
-Type  : Single Pack  |  Quantity: N/A     
-Added : 2025-07-31   |  Author  : Pelicram
-UUID  : a0786cc1bc884f66bbb84118d55665ad
-```
-
-<a href="./archive/00133_000.jpg">
-	<img src="./lowres/00133_000.jpg" alt="Foma Fomapan 120 film box outside" loading="lazy" width="500" height="391">
-</a>
-
-
-`UUID: 0d7f7062ffb34d0c91f0080e3749cbe4`↓
-
-<a href="./archive/00133_001.jpg">
-	<img src="./lowres/00133_001.jpg" alt="Foma Fomapan 120 film box inside" loading="lazy" width="500" height="391">
-</a>
-
-#### [Pelicram] Foma Fomapan (ref: 0030)
-
-```
-Format: 35mm         |  Process : BW      
-ISO   : 100          |  Expiry  : 2027-07 
-Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-07-31   |  Author  : Pelicram
-UUID  : bf1734a1ea48495d92afb7d03bdf0030
-```
-
-<a href="./archive/00129_000.jpg">
-	<img src="./lowres/00129_000.jpg" alt="Foma Fomapan 35mm film box outside" loading="lazy" width="438" height="500">
-</a>
-
-
-`UUID: 01adf7d0b4df41f990c60d5cafb7f55f`↓
-
-<a href="./archive/00129_001.jpg">
-	<img src="./lowres/00129_001.jpg" alt="Foma Fomapan 35mm film box inside" loading="lazy" width="442" height="500">
-</a>
-
-#### [Pelicram] Foma Fomapan (ref: 60ee)
+#### [Pelicram] Foma Fomapan 200 (ref: 60ee)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -2837,7 +2801,49 @@ UUID  : 840026a068594c3389b34374204f60ee
 ```
 
 <a href="./archive/00183_000.jpg">
-	<img src="./lowres/00183_000.jpg" alt="Foma Fomapan 35mm film box outside" loading="lazy" width="482" height="499">
+	<img src="./lowres/00183_000.jpg" alt="Foma Fomapan 200 35mm film box outside" loading="lazy" width="482" height="499">
+</a>
+
+#### [Pelicram] Foma Fomapan Classic 100 (ref: 65ad)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 100          |  Expiry  : 2027-04 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-07-31   |  Author  : Pelicram
+UUID  : a0786cc1bc884f66bbb84118d55665ad
+```
+
+<a href="./archive/00133_000.jpg">
+	<img src="./lowres/00133_000.jpg" alt="Foma Fomapan Classic 100 120 film box outside" loading="lazy" width="500" height="391">
+</a>
+
+
+`UUID: 0d7f7062ffb34d0c91f0080e3749cbe4`↓
+
+<a href="./archive/00133_001.jpg">
+	<img src="./lowres/00133_001.jpg" alt="Foma Fomapan Classic 100 120 film box inside" loading="lazy" width="500" height="391">
+</a>
+
+#### [Pelicram] Foma Fomapan Classic 100 (ref: 0030)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2027-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : Pelicram
+UUID  : bf1734a1ea48495d92afb7d03bdf0030
+```
+
+<a href="./archive/00129_000.jpg">
+	<img src="./lowres/00129_000.jpg" alt="Foma Fomapan Classic 100 35mm film box outside" loading="lazy" width="438" height="500">
+</a>
+
+
+`UUID: 01adf7d0b4df41f990c60d5cafb7f55f`↓
+
+<a href="./archive/00129_001.jpg">
+	<img src="./lowres/00129_001.jpg" alt="Foma Fomapan Classic 100 35mm film box inside" loading="lazy" width="442" height="500">
 </a>
 
 #### [Pelicram] Foma Ortho (ref: 89e7)
@@ -3281,7 +3287,7 @@ UUID  : 0a141b49a84a4b06a18355308940f3a7
 	<img src="./lowres/00128_000.jpg" alt="SantaColor SantaColor 35mm film box outside" loading="lazy" width="500" height="210">
 </a>
 
-#### [Pelicram] Svema Foto (ref: 26ad)
+#### [Pelicram] Svema Foto 400 (ref: 26ad)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -3292,7 +3298,7 @@ UUID  : 6e9f27ffcfea4f298be7d33d7f3826ad
 ```
 
 <a href="./archive/00130_000.jpg">
-	<img src="./lowres/00130_000.jpg" alt="Svema Foto 35mm film box outside" loading="lazy" width="500" height="441">
+	<img src="./lowres/00130_000.jpg" alt="Svema Foto 400 35mm film box outside" loading="lazy" width="500" height="441">
 </a>
 
 #### [Pelicram] Wolfen NP100 (ref: 71a6)
@@ -3307,6 +3313,118 @@ UUID  : 898148fa3a754866a407bbecec4a71a6
 
 <a href="./archive/00131_000.jpg">
 	<img src="./lowres/00131_000.jpg" alt="Wolfen NP100 35mm film box outside" loading="lazy" width="500" height="455">
+</a>
+
+#### [TBD01] Alien Film Aeronega (ref: d1c5)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 100          |  Expiry  : 2026-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-07   |  Author  : TBD01   
+UUID  : 46e2cf3d6d78474ca55da2c510d0d1c5
+```
+
+<a href="./archive/00311_000.jpg">
+	<img src="./lowres/00311_000.jpg" alt="Alien Film Aeronega 120 film box outside" loading="lazy" width="500" height="433">
+</a>
+
+#### [TBD01] Foma Fomapan Classic 100 (ref: 1731)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2025-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-07   |  Author  : TBD01   
+UUID  : 295bd5709b1e4dd88204bd2c67bd1731
+```
+
+<a href="./archive/00317_000.jpg">
+	<img src="./lowres/00317_000.jpg" alt="Foma Fomapan Classic 100 35mm film box outside" loading="lazy" width="406" height="499">
+</a>
+
+
+`UUID: cafaee7054534b7284726cab6f56c367`↓
+
+<a href="./archive/00317_001.jpg">
+	<img src="./lowres/00317_001.jpg" alt="Foma Fomapan Classic 100 35mm film box inside" loading="lazy" width="403" height="500">
+</a>
+
+#### [TBD01] Fujifilm Fujicolor Superia X-TRA 400 (ref: da37)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2006-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-07   |  Author  : TBD01   
+UUID  : 905002d5cdc24e36b190fb04a38cda37
+```
+
+<a href="./archive/00315_000.jpg">
+	<img src="./lowres/00315_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 400 120 film box outside" loading="lazy" width="468" height="500">
+</a>
+
+
+`UUID: 0e0ad3d8bf184fe4ba12b803f267b71e`↓
+
+<a href="./archive/00315_001.jpg">
+	<img src="./lowres/00315_001.jpg" alt="Fujifilm Fujicolor Superia X-TRA 400 120 film box inside" loading="lazy" width="472" height="500">
+</a>
+
+#### [TBD01] Lomography Color Negative Film (ref: 1529)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 800          |  Expiry  : 2027-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-07   |  Author  : TBD01   
+UUID  : e200ab98ca5746cbb6f3af1afb481529
+```
+
+<a href="./archive/00313_000.jpg">
+	<img src="./lowres/00313_000.jpg" alt="Lomography Color Negative Film 120 film box outside" loading="lazy" width="253" height="500">
+</a>
+
+
+`UUID: b59730221b5f438388c4a9cbcba44676`↓
+
+<a href="./archive/00313_001.jpg">
+	<img src="./lowres/00313_001.jpg" alt="Lomography Color Negative Film 120 film box inside" loading="lazy" width="256" height="500">
+</a>
+
+#### [TBD01] Lomography Lomochrome Color'92 (ref: 9fdb)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-04 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-07   |  Author  : TBD01   
+UUID  : 48a192dcc8f44c17a449dfccf8279fdb
+```
+
+<a href="./archive/00314_000.jpg">
+	<img src="./lowres/00314_000.jpg" alt="Lomography Lomochrome Color'92 120 film box outside" loading="lazy" width="277" height="500">
+</a>
+
+
+`UUID: d7e77f89cf4549d383b81dad410adff4`↓
+
+<a href="./archive/00314_001.jpg">
+	<img src="./lowres/00314_001.jpg" alt="Lomography Lomochrome Color'92 120 film box inside" loading="lazy" width="272" height="500">
+</a>
+
+#### [TBD01] Svema Foto 200 (ref: 6991)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 200          |  Expiry  : 2026-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-07   |  Author  : TBD01   
+UUID  : 031527052b0d4c4daf74708dde626991
+```
+
+<a href="./archive/00316_000.jpg">
+	<img src="./lowres/00316_000.jpg" alt="Svema Foto 200 35mm film box outside" loading="lazy" width="500" height="477">
 </a>
 
 #### [The Compartmentalist] Agfa Agfapan Rapid (ref: 5e7b)
@@ -3764,7 +3882,7 @@ UUID  : 46037fb6c55244b6ae47c55d0e454bf8
 	<img src="./lowres/00051_000.jpg" alt="York Photo Labs DXG 200 35mm film box outside" loading="lazy" width="500" height="500">
 </a>
 
-#### [benikum] Foma Fomapan (ref: 3e4f)
+#### [benikum] Foma Fomapan Creative 200 (ref: 3e4f)
 
 ```
 Format: 120          |  Process : BW      
@@ -3775,14 +3893,14 @@ UUID  : 7be1cb0047f14034a7386cd7b1843e4f
 ```
 
 <a href="./archive/00070_000.jpg">
-	<img src="./lowres/00070_000.jpg" alt="Foma Fomapan 120 film box outside" loading="lazy" width="500" height="387">
+	<img src="./lowres/00070_000.jpg" alt="Foma Fomapan Creative 200 120 film box outside" loading="lazy" width="500" height="387">
 </a>
 
 
 `UUID: b049b10ae15b40319e7b70fed1ccbd71`↓
 
 <a href="./archive/00070_001.jpg">
-	<img src="./lowres/00070_001.jpg" alt="Foma Fomapan 120 film box inside" loading="lazy" width="500" height="378">
+	<img src="./lowres/00070_001.jpg" alt="Foma Fomapan Creative 200 120 film box inside" loading="lazy" width="500" height="378">
 </a>
 
 #### [benikum] Foma Fomapan21 (ref: 75d9)
@@ -5682,7 +5800,7 @@ UUID  : ecf4e081ccf64a9a8606601f9f665276
 	<img src="./lowres/00093_001.jpg" alt="Agfa APX 35mm film box inside" loading="lazy" width="453" height="500">
 </a>
 
-#### [lilyu.xyz] Foma Fomapan (ref: 84a5)
+#### [lilyu.xyz] Foma Fomapan Creative 200 (ref: 84a5)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -5693,14 +5811,14 @@ UUID  : c3d51159b481435b90dbe2411de784a5
 ```
 
 <a href="./archive/00092_000.jpg">
-	<img src="./lowres/00092_000.jpg" alt="Foma Fomapan 35mm film box outside" loading="lazy" width="408" height="500">
+	<img src="./lowres/00092_000.jpg" alt="Foma Fomapan Creative 200 35mm film box outside" loading="lazy" width="408" height="500">
 </a>
 
 
 `UUID: ae13defc8e3d43e2988974430ea63335`↓
 
 <a href="./archive/00092_001.jpg">
-	<img src="./lowres/00092_001.jpg" alt="Foma Fomapan 35mm film box inside" loading="lazy" width="417" height="500">
+	<img src="./lowres/00092_001.jpg" alt="Foma Fomapan Creative 200 35mm film box inside" loading="lazy" width="417" height="500">
 </a>
 
 #### [lilyu.xyz] Kodak Gold (ref: ea58)
@@ -6244,20 +6362,21 @@ Rank  Username                      Contributions
 12    toader                        13    
 13    stefanie                      12    
 14    yc128                         11    
-15    lilyu.xyz                     9     
-16    @toastergod101                7     
-17    benikum                       6     
-18    Kraksen                       5     
-19    Henry Gunn                    4     
-20    u/ReeeSchmidtyWerber          4     
-21    lt_col_tall                   4     
-22    kaimon                        4     
-23    @Hol.m35                      3     
-24    TheSelousScout                3     
-25    @seklerek                     2     
-26    @ftfilmphotos                 2     
-27    Yrikonchik                    1     
-28    @ad.astra.per.aspera.1894     1     
+15    TBD01                         10    
+16    lilyu.xyz                     9     
+17    @toastergod101                7     
+18    benikum                       6     
+19    Kraksen                       5     
+20    Henry Gunn                    4     
+21    u/ReeeSchmidtyWerber          4     
+22    lt_col_tall                   4     
+23    kaimon                        4     
+24    @Hol.m35                      3     
+25    TheSelousScout                3     
+26    @seklerek                     2     
+27    @ftfilmphotos                 2     
+28    Yrikonchik                    1     
+29    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?

@@ -132,8 +132,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 67,0,film_box_outside,Lloyds Pharmacy,APS Film,APS,200,C-41,200708,1748117415,5249c678ba2a7e621d8ba1de6ebd72cb,44bd7d4688e04d19a958d961c2abc7cf,00067_000.jpg,dekuNukem,,Single Pack,40exp
 68,0,film_box_outside,Kodak,Kodacolor Gold 200,110,200,C-41,198812,1748117460,5b2922fabcf249c39cdfa7e498845068,78bfeed667154d819902ec92d7dcf368,00068_000.jpg,dekuNukem,,Single Pack,24exp
 69,0,film_box_outside,Kodak,TMAX 100,120,100,BW,202307,1748118443,6897b288dde15283820dc72852155481,9a43d0c373354e1989ea7bb7a43db3b1,00069_000.jpg,dekuNukem,,Multi-Pack-5,N/A
-70,0,film_box_outside,Foma,Fomapan,120,200,BW,202703,1749159167,642d9d7b4f2d9afc7bc7d5dc83e199a0,7be1cb0047f14034a7386cd7b1843e4f,00070_000.jpg,benikum,,Single Pack,N/A
-70,1,film_box_inside,Foma,Fomapan,120,200,BW,202703,1749159171,735522d2c35d1341f2730620d1b32a34,b049b10ae15b40319e7b70fed1ccbd71,00070_001.jpg,benikum,,Single Pack,N/A
+70,0,film_box_outside,Foma,Fomapan Creative 200,120,200,BW,202703,1749159167,642d9d7b4f2d9afc7bc7d5dc83e199a0,7be1cb0047f14034a7386cd7b1843e4f,00070_000.jpg,benikum,,Single Pack,N/A
+70,1,film_box_inside,Foma,Fomapan Creative 200,120,200,BW,202703,1749159171,735522d2c35d1341f2730620d1b32a34,b049b10ae15b40319e7b70fed1ccbd71,00070_001.jpg,benikum,,Single Pack,N/A
 71,0,film_box_outside,Rollei,SUPERPAN 200,35mm,200,BW,202801,1749159213,f9d841ec1f0f84ce22c5c05fdd1b3dcf,f22d3e1e2f70453f87aea4b67db3ee8f,00071_000.jpg,benikum,,Single Pack,36exp
 71,1,film_box_inside,Rollei,SUPERPAN 200,35mm,200,BW,202801,1749159215,12fb5fabda8fa16c180af524bdd385a1,7c96a37e3f0f4550876f507554b2a6dd,00071_001.jpg,benikum,,Single Pack,36exp
 72,0,film_box_outside,Rossmann,Jahreszeiten Pack,35mm,100,C-41,200605,1749159327,e775ab99adbc91a7fdcb14b2c5798c52,b09413c4c1f44fceaa31ea8e50bf7670,00072_000.jpg,benikum,,Multi-Pack-3,36exp
@@ -160,8 +160,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 89,0,film_box_outside,Kodak,Portra 160,35mm,160,C-41,201308,1753717208,172b90d1c20e0d94009226ce47ce704b,9131fb90db70475dbad5f63f1448ce56,00089_000.jpg,@recycling.film,,Multi-Pack-5,36exp
 90,0,film_box_outside,Ilford,HP5 Plus,35mm,400,BW,202208,1753717259,b5bba9a78992d38ff924146a1c7f8434,fcbc3377fa3d4ca9b58779f86ed7c725,00090_000.jpg,@recycling.film,,Single Pack,36exp
 91,0,film_box_outside,Kodak,ColorPlus,35mm,200,C-41,202608,1753717282,5419c8a441057cbc926e90686e3b829c,bd00cd25958d4108a7501bf4be9d6637,00091_000.jpg,@recycling.film,,Single Pack,36exp
-92,0,film_box_outside,Foma,Fomapan,35mm,200,BW,202801,1753731469,20ff99b8b0298fabd12e8bf5a84503cd,c3d51159b481435b90dbe2411de784a5,00092_000.jpg,lilyu.xyz,,Single Pack,36exp
-92,1,film_box_inside,Foma,Fomapan,35mm,200,BW,202801,1753731471,1350366d87ca4077b72b113cc28ebebb,ae13defc8e3d43e2988974430ea63335,00092_001.jpg,lilyu.xyz,,Single Pack,36exp
+92,0,film_box_outside,Foma,Fomapan Creative 200,35mm,200,BW,202801,1753731469,20ff99b8b0298fabd12e8bf5a84503cd,c3d51159b481435b90dbe2411de784a5,00092_000.jpg,lilyu.xyz,,Single Pack,36exp
+92,1,film_box_inside,Foma,Fomapan Creative 200,35mm,200,BW,202801,1753731471,1350366d87ca4077b72b113cc28ebebb,ae13defc8e3d43e2988974430ea63335,00092_001.jpg,lilyu.xyz,,Single Pack,36exp
 93,0,film_box_outside,Agfa,APX,35mm,100,BW,202805,1753731627,2b9bcef535c29f2f8f5df70206434efd,ecf4e081ccf64a9a8606601f9f665276,00093_000.jpg,lilyu.xyz,,Single Pack,36exp
 93,1,film_box_inside,Agfa,APX,35mm,100,BW,202805,1753731629,f37febff5c4f63b34d5de2b6a9e8d261,286ea2dbf5394a36b8f013b9aaa33a46,00093_001.jpg,lilyu.xyz,,Single Pack,36exp
 94,0,film_box_outside,Kodak,Gold Ultra 400,35mm,400,C-41,200101,1753731807,501da7adb6c98bc284bcad7ce510999b,c2dc7711cd38434da5cfea8750f61358,00094_000.jpg,lilyu.xyz,,Multi-Pack-2,24exp
@@ -224,14 +224,14 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 127,0,film_box_outside,Foma,Ortho,120,400,BW,202604,1753987430,39ec1b3dc6b1aa2c250ac3073ebebf0e,4c97e2b7413b42278b0fd129c1c589e7,00127_000.jpg,Pelicram,,Single Pack,N/A
 127,1,film_box_inside,Foma,Ortho,120,400,BW,202604,1753987433,0eea9c8b25539ddadd43a74dc2684177,728d195752464a448163dbb0ad4e8aa0,00127_001.jpg,Pelicram,,Single Pack,N/A
 128,0,film_box_outside,SantaColor,SantaColor,35mm,100,C-41,202509,1753987468,93b211386347ccabc255d6bc09d92bff,0a141b49a84a4b06a18355308940f3a7,00128_000.jpg,Pelicram,,Multi-Pack-5,36exp
-129,0,film_box_outside,Foma,Fomapan,35mm,100,BW,202707,1753988508,e86acef629c00a3aa95c82b6753a42f4,bf1734a1ea48495d92afb7d03bdf0030,00129_000.jpg,Pelicram,,Single Pack,36exp
-129,1,film_box_inside,Foma,Fomapan,35mm,100,BW,202707,1753988510,8d59ba23852dfff38e6b78401fe0db70,01adf7d0b4df41f990c60d5cafb7f55f,00129_001.jpg,Pelicram,,Single Pack,36exp
-130,0,film_box_outside,Svema,Foto,35mm,400,BW,202604,1753988560,2317871389f74180608b38e578035eab,6e9f27ffcfea4f298be7d33d7f3826ad,00130_000.jpg,Pelicram,,Single Pack,36exp
+129,0,film_box_outside,Foma,Fomapan Classic 100,35mm,100,BW,202707,1753988508,e86acef629c00a3aa95c82b6753a42f4,bf1734a1ea48495d92afb7d03bdf0030,00129_000.jpg,Pelicram,,Single Pack,36exp
+129,1,film_box_inside,Foma,Fomapan Classic 100,35mm,100,BW,202707,1753988510,8d59ba23852dfff38e6b78401fe0db70,01adf7d0b4df41f990c60d5cafb7f55f,00129_001.jpg,Pelicram,,Single Pack,36exp
+130,0,film_box_outside,Svema,Foto 400,35mm,400,BW,202604,1753988560,2317871389f74180608b38e578035eab,6e9f27ffcfea4f298be7d33d7f3826ad,00130_000.jpg,Pelicram,,Single Pack,36exp
 131,0,film_box_outside,Wolfen,NP100,35mm,100,BW,202712,1753988614,725c8e2513f871706144599592b7cade,898148fa3a754866a407bbecec4a71a6,00131_000.jpg,Pelicram,,Single Pack,36exp
 132,0,film_box_outside,JCH,Streetpan,35mm,400,BW,202502,1753988658,c3e826502f766540bc540a6827669a91,1873b4d20d2a47659ab15d0af4146e58,00132_000.jpg,Pelicram,,Single Pack,36exp
 132,1,film_box_inside,JCH,Streetpan,35mm,400,BW,202502,1753988666,f19707ee740101a45bc59bac436a3105,19dfce255f604980b0f596b8895d923f,00132_001.jpg,Pelicram,,Single Pack,36exp
-133,0,film_box_outside,Foma,Fomapan,120,100,BW,202704,1753988709,504cec2878a43ad365f4b8ac686337ca,a0786cc1bc884f66bbb84118d55665ad,00133_000.jpg,Pelicram,,Single Pack,N/A
-133,1,film_box_inside,Foma,Fomapan,120,100,BW,202704,1753988714,86d5df9642412def1f86be849469abea,0d7f7062ffb34d0c91f0080e3749cbe4,00133_001.jpg,Pelicram,,Single Pack,N/A
+133,0,film_box_outside,Foma,Fomapan Classic 100,120,100,BW,202704,1753988709,504cec2878a43ad365f4b8ac686337ca,a0786cc1bc884f66bbb84118d55665ad,00133_000.jpg,Pelicram,,Single Pack,N/A
+133,1,film_box_inside,Foma,Fomapan Classic 100,120,100,BW,202704,1753988714,86d5df9642412def1f86be849469abea,0d7f7062ffb34d0c91f0080e3749cbe4,00133_001.jpg,Pelicram,,Single Pack,N/A
 134,0,film_box_outside,Lomography,Orca,110,100,BW,202707,1753988762,9cfb382ee7935f390cca8d3e95cfc03c,6d10288df24748fa8944774857f3d506,00134_000.jpg,Pelicram,,Single Pack,24exp
 135,0,film_box_outside,Kodak,Tri-X 400,35mm,400,BW,202609,1753988794,9e5fe20dd21f79507b7b1a99c9b2d3b0,0417faf4f5be42538db49741140bc671,00135_000.jpg,Pelicram,,Single Pack,36exp
 136,0,film_box_outside,Rollei,RPX 400,35mm,400,BW,202808,1753988855,c8733929469e3989b26e38f41f416db4,19ef81d6d03844b088250c7b54032155,00136_000.jpg,Pelicram,,Single Pack,36exp
@@ -317,7 +317,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 181,3,film_box_outside,Kodak,High Contrast Copy Film,35mm,Unknown,BW,197009,1755194043,ecb999a097faaf287f0575a0c87a8246,917cdc09fdc9435c90eb61f470def180,00181_003.jpg,Camera.Riley,,Bulk Roll,100ft
 182,0,film_box_outside,Adox,HR 50,35mm,50,BW,202707,1755093421,b7f57209010598503486db95b11f39db,a504b8da97b642908de921d1053d4da7,00182_000.jpg,Pelicram,,Single Pack,36exp
 182,1,film_box_inside,Adox,HR 50,35mm,50,BW,202707,1755093423,5dd0288ea160ba95f7d09a70547de0ca,f5e745758ed2479ea297dce9275f3508,00182_001.jpg,Pelicram,,Single Pack,36exp
-183,0,film_box_outside,Foma,Fomapan,35mm,200,BW,202805,1755093471,feea4b4b2c4e7fbbcb06fbe7d2c1520e,840026a068594c3389b34374204f60ee,00183_000.jpg,Pelicram,,Bulk Roll,100ft
+183,0,film_box_outside,Foma,Fomapan 200,35mm,200,BW,202805,1755093471,feea4b4b2c4e7fbbcb06fbe7d2c1520e,840026a068594c3389b34374204f60ee,00183_000.jpg,Pelicram,,Bulk Roll,100ft
 184,0,film_box_outside,Kirkland Signature,Color Print Film,35mm,200,C-41,200212,1755216174,80213b1194dc15451594b5ca99ace0ce,7f4a0fbd6be7494ab097f7f816700441,00184_000.jpg,@ad.astra.per.aspera.1894,,Single Pack,24exp
 185,0,film_box_outside,Mutascan,Kodak Vision3 500T/5219,35mm,500,ECN-2,Unknown,1755220808,4493b252fe0635c93c273daa49c174f0,e4d2af3a69704509a07e108fcb4b5150,00185_000.jpg,Pelicram,,Bulk Roll,100ft
 186,0,film_box_outside,Kentmere,PAN 200,35mm,200,BW,203004,1755220858,ce26ffebd0384dc2eb058e34bfc931cc,b0e988456d7444b1b879dc6ca4a80e32,00186_000.jpg,Pelicram,,Single Pack,36exp
@@ -532,3 +532,13 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 309,1,film_box_inside,Ilford,Delta 400 Professional,35mm,400,BW,200707,1757270185,c3ae682fad72b9a058f5a19e14067f99,c32ca8b644b54348a71dab9414ec61d4,00309_001.jpg,dekuNukem,,Single Pack,24exp
 310,0,film_box_outside,Ilford,Delta 100 Professional,120,100,BW,200502,1757270210,9486041f7b3404203189e190b90ebf68,c2225dedcae040e7bb27a918c4ca93b9,00310_000.jpg,dekuNukem,,Single Pack,N/A
 310,1,film_box_inside,Ilford,Delta 100 Professional,120,100,BW,200502,1757270211,a58412d34ba686a599b57144a28b87d9,999648311ef040049db316f49db239b0,00310_001.jpg,dekuNukem,,Single Pack,N/A
+311,0,film_box_outside,Alien Film,Aeronega,120,100,C-41,202601,1757270710,31ab10d4b368bb34952f4f9148b4453e,46e2cf3d6d78474ca55da2c510d0d1c5,00311_000.jpg,TBD01,,Single Pack,N/A
+313,0,film_box_outside,Lomography,Color Negative Film,120,800,C-41,202709,1757270810,d88f88e76c48f298d7a969e8c63ff8c0,e200ab98ca5746cbb6f3af1afb481529,00313_000.jpg,TBD01,,Single Pack,N/A
+313,1,film_box_inside,Lomography,Color Negative Film,120,800,C-41,202709,1757270811,0d05a0f2c459a0379ea41aabdc54e495,b59730221b5f438388c4a9cbcba44676,00313_001.jpg,TBD01,,Single Pack,N/A
+314,0,film_box_outside,Lomography,Lomochrome Color'92,120,400,C-41,202704,1757270856,2ae7aedbdc228114e598e0b857210f0f,48a192dcc8f44c17a449dfccf8279fdb,00314_000.jpg,TBD01,,Single Pack,N/A
+314,1,film_box_inside,Lomography,Lomochrome Color'92,120,400,C-41,202704,1757270859,d661f9e08a6a822349bc7b193dbfc05b,d7e77f89cf4549d383b81dad410adff4,00314_001.jpg,TBD01,,Single Pack,N/A
+315,0,film_box_outside,Fujifilm,Fujicolor Superia X-TRA 400,120,400,C-41,200607,1757270897,305f5ca0ea6b417bfb70dae3f9ab3530,905002d5cdc24e36b190fb04a38cda37,00315_000.jpg,TBD01,,Single Pack,N/A
+315,1,film_box_inside,Fujifilm,Fujicolor Superia X-TRA 400,120,400,C-41,200607,1757270903,6efa2fe36a9c93f2065d650cd79e9143,0e0ad3d8bf184fe4ba12b803f267b71e,00315_001.jpg,TBD01,,Single Pack,N/A
+316,0,film_box_outside,Svema,Foto 200,35mm,200,BW,202604,1757270950,6c682a2f2dfa49db2a2dc9f835305047,031527052b0d4c4daf74708dde626991,00316_000.jpg,TBD01,,Single Pack,36exp
+317,0,film_box_outside,Foma,Fomapan Classic 100,35mm,100,BW,202503,1757271080,ec22f8aee708d3bcfa3a6880055091e3,295bd5709b1e4dd88204bd2c67bd1731,00317_000.jpg,TBD01,,Single Pack,36exp
+317,1,film_box_inside,Foma,Fomapan Classic 100,35mm,100,BW,202503,1757271082,223d0004d096b9d9a29d3ecd4ae7f1ed,cafaee7054534b7284726cab6f56c367,00317_001.jpg,TBD01,,Single Pack,36exp

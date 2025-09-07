@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Sep 07 2025
-Unique items: 308
-Total scans : 533
+Unique items: 314
+Total scans : 543
 ```
 
 Or Sort by...
@@ -67,20 +67,21 @@ Rank  Username                      Contributions
 12    toader                        13    
 13    stefanie                      12    
 14    yc128                         11    
-15    lilyu.xyz                     9     
-16    @toastergod101                7     
-17    benikum                       6     
-18    Kraksen                       5     
-19    Henry Gunn                    4     
-20    u/ReeeSchmidtyWerber          4     
-21    lt_col_tall                   4     
-22    kaimon                        4     
-23    @Hol.m35                      3     
-24    TheSelousScout                3     
-25    @seklerek                     2     
-26    @ftfilmphotos                 2     
-27    Yrikonchik                    1     
-28    @ad.astra.per.aspera.1894     1     
+15    TBD01                         10    
+16    lilyu.xyz                     9     
+17    @toastergod101                7     
+18    benikum                       6     
+19    Kraksen                       5     
+20    Henry Gunn                    4     
+21    u/ReeeSchmidtyWerber          4     
+22    lt_col_tall                   4     
+23    kaimon                        4     
+24    @Hol.m35                      3     
+25    TheSelousScout                3     
+26    @seklerek                     2     
+27    @ftfilmphotos                 2     
+28    Yrikonchik                    1     
+29    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Recent Activities
@@ -89,6 +90,12 @@ Rank  Username                      Contributions
 2025-09-07
   - dekuNukem: Ilford Delta 100 Professional
   - dekuNukem: Ilford Delta 400 Professional
+  - TBD01: Alien Film Aeronega
+  - TBD01: Foma Fomapan Classic 100
+  - TBD01: Fujifilm Fujicolor Superia X-TRA 400
+  - TBD01: Lomography Color Negative Film
+  - TBD01: Lomography Lomochrome Color'92
+  - TBD01: Svema Foto 200
 
 2025-09-06
   - @toastergod101: Fujifilm Instax Mini

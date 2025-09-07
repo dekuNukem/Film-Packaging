@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 07 2025
-Unique items: 308
-Total scans : 533
+Unique items: 314
+Total scans : 543
 ```
 
 -----
@@ -147,6 +147,7 @@ Total scans : 533
 - [[2006] Polaroid 669 (ref: 3566)](#2006-polaroid-669-ref-3566)
 - [[2006] Fujifilm Fujichrome Velvia 100F (ref: f7fb)](#2006-fujifilm-fujichrome-velvia-100f-ref-f7fb)
 - [[2006] Rossmann Jahreszeiten Pack (ref: 7670)](#2006-rossmann-jahreszeiten-pack-ref-7670)
+- [[2006] Fujifilm Fujicolor Superia X-TRA 400 (ref: da37)](#2006-fujifilm-fujicolor-superia-x-tra-400-ref-da37)
 - [[2006] Polaroid 87 (ref: 62ef)](#2006-polaroid-87-ref-62ef)
 - [[2006] Kodak Advantix Ultra (ref: 566b)](#2006-kodak-advantix-ultra-ref-566b)
 - [[2006] Kodak Portra 400NC (ref: b8de)](#2006-kodak-portra-400nc-ref-b8de)
@@ -228,6 +229,7 @@ Total scans : 533
 - [[2024] Polaroid Color 600 Film Round Frame (ref: d985)](#2024-polaroid-color-600-film-round-frame-ref-d985)
 - [[2024] Reto Amber D400 (ref: 08ad)](#2024-reto-amber-d400-ref-08ad)
 - [[2025] JCH Streetpan (ref: 6e58)](#2025-jch-streetpan-ref-6e58)
+- [[2025] Foma Fomapan Classic 100 (ref: 1731)](#2025-foma-fomapan-classic-100-ref-1731)
 - [[2025] Polaroid Color SX-70 Film (ref: dc7f)](#2025-polaroid-color-sx-70-film-ref-dc7f)
 - [[2025] Ilford Delta 3200 Professional (ref: 920f)](#2025-ilford-delta-3200-professional-ref-920f)
 - [[2025] Kodak Portra 800 (ref: 7d65)](#2025-kodak-portra-800-ref-7d65)
@@ -243,6 +245,7 @@ Total scans : 533
 - [[2025] Harman Phoenix (ref: 8eb4)](#2025-harman-phoenix-ref-8eb4)
 - [[2025] Kodak Tri-X 400 (ref: 88c5)](#2025-kodak-tri-x-400-ref-88c5)
 - [[2025] Three Film Rolls 5207 (ref: 0292)](#2025-three-film-rolls-5207-ref-0292)
+- [[2026] Alien Film Aeronega (ref: d1c5)](#2026-alien-film-aeronega-ref-d1c5)
 - [[2026] Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)](#2026-fujifilm-fujicolor-superia-x-tra-ref-6b8a)
 - [[2026] Lomography Fantome (ref: 4340)](#2026-lomography-fantome-ref-4340)
 - [[2026] Rollei Retro 80S (ref: e6c0)](#2026-rollei-retro-80s-ref-e6c0)
@@ -251,7 +254,8 @@ Total scans : 533
 - [[2026] Ilford FP4 Plus (ref: 76e7)](#2026-ilford-fp4-plus-ref-76e7)
 - [[2026] Kodak TMAX P3200 (ref: 521a)](#2026-kodak-tmax-p3200-ref-521a)
 - [[2026] Lomography Lomochrome Color 92 (ref: 12b4)](#2026-lomography-lomochrome-color-92-ref-12b4)
-- [[2026] Svema Foto (ref: 26ad)](#2026-svema-foto-ref-26ad)
+- [[2026] Svema Foto 200 (ref: 6991)](#2026-svema-foto-200-ref-6991)
+- [[2026] Svema Foto 400 (ref: 26ad)](#2026-svema-foto-400-ref-26ad)
 - [[2026] Hands On Film Midnight 1600 (ref: 4411)](#2026-hands-on-film-midnight-1600-ref-4411)
 - [[2026] Ilford Ilfochrome (ref: ac24)](#2026-ilford-ilfochrome-ref-ac24)
 - [[2026] Alien Film 5207/250D (ref: 8820)](#2026-alien-film-5207250d-ref-8820)
@@ -279,12 +283,13 @@ Total scans : 533
 - [[2026] Marix Professional Negative Movie Color Film (ref: c457)](#2026-marix-professional-negative-movie-color-film-ref-c457)
 - [[2026] Wolfen NC500 (ref: 91c1)](#2026-wolfen-nc500-ref-91c1)
 - [[2027] Kodak Ektachrome E100 (ref: ae10)](#2027-kodak-ektachrome-e100-ref-ae10)
-- [[2027] Foma Fomapan (ref: 3e4f)](#2027-foma-fomapan-ref-3e4f)
+- [[2027] Foma Fomapan Creative 200 (ref: 3e4f)](#2027-foma-fomapan-creative-200-ref-3e4f)
 - [[2027] Kodak UltraMax (ref: aaa6)](#2027-kodak-ultramax-ref-aaa6)
-- [[2027] Foma Fomapan (ref: 65ad)](#2027-foma-fomapan-ref-65ad)
+- [[2027] Foma Fomapan Classic 100 (ref: 65ad)](#2027-foma-fomapan-classic-100-ref-65ad)
 - [[2027] Fujifilm Instax Mini (ref: e5e7)](#2027-fujifilm-instax-mini-ref-e5e7)
 - [[2027] Kodak Gold (ref: 855e)](#2027-kodak-gold-ref-855e)
 - [[2027] Kosmo Foto Mono (ref: b74f)](#2027-kosmo-foto-mono-ref-b74f)
+- [[2027] Lomography Lomochrome Color'92 (ref: 9fdb)](#2027-lomography-lomochrome-color92-ref-9fdb)
 - [[2027] Rollei Infrared (ref: eae2)](#2027-rollei-infrared-ref-eae2)
 - [[2027] Foma Ortho 400 (ref: c559)](#2027-foma-ortho-400-ref-c559)
 - [[2027] Lomography Lomochrome Purple (ref: 068f)](#2027-lomography-lomochrome-purple-ref-068f)
@@ -293,17 +298,18 @@ Total scans : 533
 - [[2027] Harman Phoenix II (ref: 40df)](#2027-harman-phoenix-ii-ref-40df)
 - [[2027] Ilford Delta 3200 Professional (ref: 9b54)](#2027-ilford-delta-3200-professional-ref-9b54)
 - [[2027] Adox HR 50 (ref: 4da7)](#2027-adox-hr-50-ref-4da7)
-- [[2027] Foma Fomapan (ref: 0030)](#2027-foma-fomapan-ref-0030)
+- [[2027] Foma Fomapan Classic 100 (ref: 0030)](#2027-foma-fomapan-classic-100-ref-0030)
 - [[2027] Lomography Orca (ref: d506)](#2027-lomography-orca-ref-d506)
 - [[2027] Rollei Infrared (ref: 4f54)](#2027-rollei-infrared-ref-4f54)
 - [[2027] Ilford XP2 Super (ref: 622a)](#2027-ilford-xp2-super-ref-622a)
+- [[2027] Lomography Color Negative Film (ref: 1529)](#2027-lomography-color-negative-film-ref-1529)
 - [[2027] Reflx Lab 250D (ref: 1a3e)](#2027-reflx-lab-250d-ref-1a3e)
 - [[2027] Reflx Lab Pro 100 (ref: 1311)](#2027-reflx-lab-pro-100-ref-1311)
 - [[2027] Wolfen NP100 (ref: 71a6)](#2027-wolfen-np100-ref-71a6)
-- [[2028] Foma Fomapan (ref: 84a5)](#2028-foma-fomapan-ref-84a5)
+- [[2028] Foma Fomapan Creative 200 (ref: 84a5)](#2028-foma-fomapan-creative-200-ref-84a5)
 - [[2028] Rollei SUPERPAN 200 (ref: ee8f)](#2028-rollei-superpan-200-ref-ee8f)
 - [[2028] Agfa APX (ref: 5276)](#2028-agfa-apx-ref-5276)
-- [[2028] Foma Fomapan (ref: 60ee)](#2028-foma-fomapan-ref-60ee)
+- [[2028] Foma Fomapan 200 (ref: 60ee)](#2028-foma-fomapan-200-ref-60ee)
 - [[2028] Ilford HP5 Plus (ref: df49)](#2028-ilford-hp5-plus-ref-df49)
 - [[2028] Rollei RPX 400 (ref: 2155)](#2028-rollei-rpx-400-ref-2155)
 - [[2028] Ilford FP4 Plus (ref: 3bc0)](#2028-ilford-fp4-plus-ref-3bc0)
@@ -3085,6 +3091,27 @@ UUID  : b09413c4c1f44fceaa31ea8e50bf7670
 	<img src="./lowres/00072_000.jpg" alt="Rossmann Jahreszeiten Pack 35mm film box outside" loading="lazy" width="227" height="500">
 </a>
 
+#### [2006] Fujifilm Fujicolor Superia X-TRA 400 (ref: da37)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2006-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-07   |  Author  : TBD01   
+UUID  : 905002d5cdc24e36b190fb04a38cda37
+```
+
+<a href="./archive/00315_000.jpg">
+	<img src="./lowres/00315_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 400 120 film box outside" loading="lazy" width="468" height="500">
+</a>
+
+
+`UUID: 0e0ad3d8bf184fe4ba12b803f267b71e`↓
+
+<a href="./archive/00315_001.jpg">
+	<img src="./lowres/00315_001.jpg" alt="Fujifilm Fujicolor Superia X-TRA 400 120 film box inside" loading="lazy" width="472" height="500">
+</a>
+
 #### [2006] Polaroid 87 (ref: 62ef)
 
 ```
@@ -4485,6 +4512,27 @@ UUID  : 1873b4d20d2a47659ab15d0af4146e58
 	<img src="./lowres/00132_001.jpg" alt="JCH Streetpan 35mm film box inside" loading="lazy" width="437" height="499">
 </a>
 
+#### [2025] Foma Fomapan Classic 100 (ref: 1731)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2025-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-07   |  Author  : TBD01   
+UUID  : 295bd5709b1e4dd88204bd2c67bd1731
+```
+
+<a href="./archive/00317_000.jpg">
+	<img src="./lowres/00317_000.jpg" alt="Foma Fomapan Classic 100 35mm film box outside" loading="lazy" width="406" height="499">
+</a>
+
+
+`UUID: cafaee7054534b7284726cab6f56c367`↓
+
+<a href="./archive/00317_001.jpg">
+	<img src="./lowres/00317_001.jpg" alt="Foma Fomapan Classic 100 35mm film box inside" loading="lazy" width="403" height="500">
+</a>
+
 #### [2025] Polaroid Color SX-70 Film (ref: dc7f)
 
 ```
@@ -4751,6 +4799,20 @@ UUID  : 4de0f5e76dd748c488fa81be23340292
 	<img src="./lowres/00059_000.jpg" alt="Three Film Rolls 5207 35mm film box outside" loading="lazy" width="452" height="500">
 </a>
 
+#### [2026] Alien Film Aeronega (ref: d1c5)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 100          |  Expiry  : 2026-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-07   |  Author  : TBD01   
+UUID  : 46e2cf3d6d78474ca55da2c510d0d1c5
+```
+
+<a href="./archive/00311_000.jpg">
+	<img src="./lowres/00311_000.jpg" alt="Alien Film Aeronega 120 film box outside" loading="lazy" width="500" height="433">
+</a>
+
 #### [2026] Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)
 
 ```
@@ -4891,7 +4953,21 @@ UUID  : 81d185de4ddf494785362046cada12b4
 	<img src="./lowres/00225_000.jpg" alt="Lomography Lomochrome Color 92 35mm film box outside" loading="lazy" width="500" height="448">
 </a>
 
-#### [2026] Svema Foto (ref: 26ad)
+#### [2026] Svema Foto 200 (ref: 6991)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 200          |  Expiry  : 2026-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-07   |  Author  : TBD01   
+UUID  : 031527052b0d4c4daf74708dde626991
+```
+
+<a href="./archive/00316_000.jpg">
+	<img src="./lowres/00316_000.jpg" alt="Svema Foto 200 35mm film box outside" loading="lazy" width="500" height="477">
+</a>
+
+#### [2026] Svema Foto 400 (ref: 26ad)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -4902,7 +4978,7 @@ UUID  : 6e9f27ffcfea4f298be7d33d7f3826ad
 ```
 
 <a href="./archive/00130_000.jpg">
-	<img src="./lowres/00130_000.jpg" alt="Svema Foto 35mm film box outside" loading="lazy" width="500" height="441">
+	<img src="./lowres/00130_000.jpg" alt="Svema Foto 400 35mm film box outside" loading="lazy" width="500" height="441">
 </a>
 
 #### [2026] Hands On Film Midnight 1600 (ref: 4411)
@@ -5339,7 +5415,7 @@ UUID  : 829cd9dd98cd489f8bff71e403c1ae10
 	<img src="./lowres/00155_000.jpg" alt="Kodak Ektachrome E100 35mm film box outside" loading="lazy" width="451" height="500">
 </a>
 
-#### [2027] Foma Fomapan (ref: 3e4f)
+#### [2027] Foma Fomapan Creative 200 (ref: 3e4f)
 
 ```
 Format: 120          |  Process : BW      
@@ -5350,14 +5426,14 @@ UUID  : 7be1cb0047f14034a7386cd7b1843e4f
 ```
 
 <a href="./archive/00070_000.jpg">
-	<img src="./lowres/00070_000.jpg" alt="Foma Fomapan 120 film box outside" loading="lazy" width="500" height="387">
+	<img src="./lowres/00070_000.jpg" alt="Foma Fomapan Creative 200 120 film box outside" loading="lazy" width="500" height="387">
 </a>
 
 
 `UUID: b049b10ae15b40319e7b70fed1ccbd71`↓
 
 <a href="./archive/00070_001.jpg">
-	<img src="./lowres/00070_001.jpg" alt="Foma Fomapan 120 film box inside" loading="lazy" width="500" height="378">
+	<img src="./lowres/00070_001.jpg" alt="Foma Fomapan Creative 200 120 film box inside" loading="lazy" width="500" height="378">
 </a>
 
 #### [2027] Kodak UltraMax (ref: aaa6)
@@ -5374,7 +5450,7 @@ UUID  : 8b0e255948ad4bbc8689d371569caaa6
 	<img src="./lowres/00079_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="443" height="499">
 </a>
 
-#### [2027] Foma Fomapan (ref: 65ad)
+#### [2027] Foma Fomapan Classic 100 (ref: 65ad)
 
 ```
 Format: 120          |  Process : BW      
@@ -5385,14 +5461,14 @@ UUID  : a0786cc1bc884f66bbb84118d55665ad
 ```
 
 <a href="./archive/00133_000.jpg">
-	<img src="./lowres/00133_000.jpg" alt="Foma Fomapan 120 film box outside" loading="lazy" width="500" height="391">
+	<img src="./lowres/00133_000.jpg" alt="Foma Fomapan Classic 100 120 film box outside" loading="lazy" width="500" height="391">
 </a>
 
 
 `UUID: 0d7f7062ffb34d0c91f0080e3749cbe4`↓
 
 <a href="./archive/00133_001.jpg">
-	<img src="./lowres/00133_001.jpg" alt="Foma Fomapan 120 film box inside" loading="lazy" width="500" height="391">
+	<img src="./lowres/00133_001.jpg" alt="Foma Fomapan Classic 100 120 film box inside" loading="lazy" width="500" height="391">
 </a>
 
 #### [2027] Fujifilm Instax Mini (ref: e5e7)
@@ -5435,6 +5511,27 @@ UUID  : 678648d080ba4e3e8f8e3bd7f429b74f
 
 <a href="./archive/00077_000.jpg">
 	<img src="./lowres/00077_000.jpg" alt="Kosmo Foto Mono 35mm film box outside" loading="lazy" width="427" height="500">
+</a>
+
+#### [2027] Lomography Lomochrome Color'92 (ref: 9fdb)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-04 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-07   |  Author  : TBD01   
+UUID  : 48a192dcc8f44c17a449dfccf8279fdb
+```
+
+<a href="./archive/00314_000.jpg">
+	<img src="./lowres/00314_000.jpg" alt="Lomography Lomochrome Color'92 120 film box outside" loading="lazy" width="277" height="500">
+</a>
+
+
+`UUID: d7e77f89cf4549d383b81dad410adff4`↓
+
+<a href="./archive/00314_001.jpg">
+	<img src="./lowres/00314_001.jpg" alt="Lomography Lomochrome Color'92 120 film box inside" loading="lazy" width="272" height="500">
 </a>
 
 #### [2027] Rollei Infrared (ref: eae2)
@@ -5598,7 +5695,7 @@ UUID  : a504b8da97b642908de921d1053d4da7
 	<img src="./lowres/00182_001.jpg" alt="Adox HR 50 35mm film box inside" loading="lazy" width="457" height="500">
 </a>
 
-#### [2027] Foma Fomapan (ref: 0030)
+#### [2027] Foma Fomapan Classic 100 (ref: 0030)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -5609,14 +5706,14 @@ UUID  : bf1734a1ea48495d92afb7d03bdf0030
 ```
 
 <a href="./archive/00129_000.jpg">
-	<img src="./lowres/00129_000.jpg" alt="Foma Fomapan 35mm film box outside" loading="lazy" width="438" height="500">
+	<img src="./lowres/00129_000.jpg" alt="Foma Fomapan Classic 100 35mm film box outside" loading="lazy" width="438" height="500">
 </a>
 
 
 `UUID: 01adf7d0b4df41f990c60d5cafb7f55f`↓
 
 <a href="./archive/00129_001.jpg">
-	<img src="./lowres/00129_001.jpg" alt="Foma Fomapan 35mm film box inside" loading="lazy" width="442" height="500">
+	<img src="./lowres/00129_001.jpg" alt="Foma Fomapan Classic 100 35mm film box inside" loading="lazy" width="442" height="500">
 </a>
 
 #### [2027] Lomography Orca (ref: d506)
@@ -5675,6 +5772,27 @@ UUID  : 5863564ab1ef43a4b41fb5312dd0622a
 	<img src="./lowres/00170_001.jpg" alt="Ilford XP2 Super 35mm film box inside" loading="lazy" width="419" height="500">
 </a>
 
+#### [2027] Lomography Color Negative Film (ref: 1529)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 800          |  Expiry  : 2027-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-07   |  Author  : TBD01   
+UUID  : e200ab98ca5746cbb6f3af1afb481529
+```
+
+<a href="./archive/00313_000.jpg">
+	<img src="./lowres/00313_000.jpg" alt="Lomography Color Negative Film 120 film box outside" loading="lazy" width="253" height="500">
+</a>
+
+
+`UUID: b59730221b5f438388c4a9cbcba44676`↓
+
+<a href="./archive/00313_001.jpg">
+	<img src="./lowres/00313_001.jpg" alt="Lomography Color Negative Film 120 film box inside" loading="lazy" width="256" height="500">
+</a>
+
 #### [2027] Reflx Lab 250D (ref: 1a3e)
 
 ```
@@ -5717,7 +5835,7 @@ UUID  : 898148fa3a754866a407bbecec4a71a6
 	<img src="./lowres/00131_000.jpg" alt="Wolfen NP100 35mm film box outside" loading="lazy" width="500" height="455">
 </a>
 
-#### [2028] Foma Fomapan (ref: 84a5)
+#### [2028] Foma Fomapan Creative 200 (ref: 84a5)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -5728,14 +5846,14 @@ UUID  : c3d51159b481435b90dbe2411de784a5
 ```
 
 <a href="./archive/00092_000.jpg">
-	<img src="./lowres/00092_000.jpg" alt="Foma Fomapan 35mm film box outside" loading="lazy" width="408" height="500">
+	<img src="./lowres/00092_000.jpg" alt="Foma Fomapan Creative 200 35mm film box outside" loading="lazy" width="408" height="500">
 </a>
 
 
 `UUID: ae13defc8e3d43e2988974430ea63335`↓
 
 <a href="./archive/00092_001.jpg">
-	<img src="./lowres/00092_001.jpg" alt="Foma Fomapan 35mm film box inside" loading="lazy" width="417" height="500">
+	<img src="./lowres/00092_001.jpg" alt="Foma Fomapan Creative 200 35mm film box inside" loading="lazy" width="417" height="500">
 </a>
 
 #### [2028] Rollei SUPERPAN 200 (ref: ee8f)
@@ -5780,7 +5898,7 @@ UUID  : ecf4e081ccf64a9a8606601f9f665276
 	<img src="./lowres/00093_001.jpg" alt="Agfa APX 35mm film box inside" loading="lazy" width="453" height="500">
 </a>
 
-#### [2028] Foma Fomapan (ref: 60ee)
+#### [2028] Foma Fomapan 200 (ref: 60ee)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -5791,7 +5909,7 @@ UUID  : 840026a068594c3389b34374204f60ee
 ```
 
 <a href="./archive/00183_000.jpg">
-	<img src="./lowres/00183_000.jpg" alt="Foma Fomapan 35mm film box outside" loading="lazy" width="482" height="499">
+	<img src="./lowres/00183_000.jpg" alt="Foma Fomapan 200 35mm film box outside" loading="lazy" width="482" height="499">
 </a>
 
 #### [2028] Ilford HP5 Plus (ref: df49)
@@ -6244,20 +6362,21 @@ Rank  Username                      Contributions
 12    toader                        13    
 13    stefanie                      12    
 14    yc128                         11    
-15    lilyu.xyz                     9     
-16    @toastergod101                7     
-17    benikum                       6     
-18    Kraksen                       5     
-19    Henry Gunn                    4     
-20    u/ReeeSchmidtyWerber          4     
-21    lt_col_tall                   4     
-22    kaimon                        4     
-23    @Hol.m35                      3     
-24    TheSelousScout                3     
-25    @seklerek                     2     
-26    @ftfilmphotos                 2     
-27    Yrikonchik                    1     
-28    @ad.astra.per.aspera.1894     1     
+15    TBD01                         10    
+16    lilyu.xyz                     9     
+17    @toastergod101                7     
+18    benikum                       6     
+19    Kraksen                       5     
+20    Henry Gunn                    4     
+21    u/ReeeSchmidtyWerber          4     
+22    lt_col_tall                   4     
+23    kaimon                        4     
+24    @Hol.m35                      3     
+25    TheSelousScout                3     
+26    @seklerek                     2     
+27    @ftfilmphotos                 2     
+28    Yrikonchik                    1     
+29    @ad.astra.per.aspera.1894     1     
 ```
 
 ## Questions or Comments?
