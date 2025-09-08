@@ -542,7 +542,7 @@ UUID  : aedc4b00bd174e0baf7c744ed21d8820
 Format: 120          |  Process : C-41    
 ISO   : 100          |  Expiry  : 2026-01 
 Type  : Single Pack  |  Quantity: N/A     
-Added : 2025-09-07   |  Author  : TBD01   
+Added : 2025-09-07   |  Author  : @zruk_ts
 UUID  : 46e2cf3d6d78474ca55da2c510d0d1c5
 ```
 
@@ -990,7 +990,7 @@ UUID  : 9e774f36e4d34b3c81a30a5b44da7980
 Format: 120          |  Process : C-41    
 ISO   : 400          |  Expiry  : 2006-07 
 Type  : Single Pack  |  Quantity: N/A     
-Added : 2025-09-07   |  Author  : TBD01   
+Added : 2025-09-07   |  Author  : @zruk_ts
 UUID  : 905002d5cdc24e36b190fb04a38cda37
 ```
 
@@ -1788,7 +1788,7 @@ UUID  : 63b2857f2df549878446cc1963362d93
 Format: 120          |  Process : C-41    
 ISO   : 800          |  Expiry  : 2027-09 
 Type  : Single Pack  |  Quantity: N/A     
-Added : 2025-09-07   |  Author  : TBD01   
+Added : 2025-09-07   |  Author  : @zruk_ts
 UUID  : e200ab98ca5746cbb6f3af1afb481529
 ```
 
@@ -1809,7 +1809,7 @@ UUID  : e200ab98ca5746cbb6f3af1afb481529
 Format: 120          |  Process : C-41    
 ISO   : 400          |  Expiry  : 2027-04 
 Type  : Single Pack  |  Quantity: N/A     
-Added : 2025-09-07   |  Author  : TBD01   
+Added : 2025-09-07   |  Author  : @zruk_ts
 UUID  : 48a192dcc8f44c17a449dfccf8279fdb
 ```
 
@@ -2824,7 +2824,7 @@ UUID  : 840026a068594c3389b34374204f60ee
 Format: 35mm         |  Process : BW      
 ISO   : 100          |  Expiry  : 2025-03 
 Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-09-07   |  Author  : TBD01   
+Added : 2025-09-07   |  Author  : @zruk_ts
 UUID  : 295bd5709b1e4dd88204bd2c67bd1731
 ```
 
@@ -5757,7 +5757,7 @@ UUID  : 1595b93966854178a03bc6d0de705027
 Format: 35mm         |  Process : BW      
 ISO   : 200          |  Expiry  : 2026-04 
 Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-09-07   |  Author  : TBD01   
+Added : 2025-09-07   |  Author  : @zruk_ts
 UUID  : 031527052b0d4c4daf74708dde626991
 ```
 
@@ -6362,7 +6362,7 @@ Rank  Username                      Contributions
 12    toader                        13    
 13    stefanie                      12    
 14    yc128                         11    
-15    TBD01                         10    
+15    @zruk_ts                      10    
 16    lilyu.xyz                     9     
 17    @toastergod101                7     
 18    benikum                       6     

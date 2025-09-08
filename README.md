@@ -67,7 +67,7 @@ Rank  Username                      Contributions
 12    toader                        13    
 13    stefanie                      12    
 14    yc128                         11    
-15    TBD01                         10    
+15    @zruk_ts                      10    
 16    lilyu.xyz                     9     
 17    @toastergod101                7     
 18    benikum                       6     
@@ -88,14 +88,14 @@ Rank  Username                      Contributions
 
 ```
 2025-09-07
+  - @zruk_ts: Alien Film Aeronega
+  - @zruk_ts: Foma Fomapan Classic 100
+  - @zruk_ts: Fujifilm Fujicolor Superia X-TRA 400
+  - @zruk_ts: Lomography Color Negative Film
+  - @zruk_ts: Lomography Lomochrome Color'92
+  - @zruk_ts: Svema Foto 200
   - dekuNukem: Ilford Delta 100 Professional
   - dekuNukem: Ilford Delta 400 Professional
-  - TBD01: Alien Film Aeronega
-  - TBD01: Foma Fomapan Classic 100
-  - TBD01: Fujifilm Fujicolor Superia X-TRA 400
-  - TBD01: Lomography Color Negative Film
-  - TBD01: Lomography Lomochrome Color'92
-  - TBD01: Svema Foto 200
 
 2025-09-06
   - @toastergod101: Fujifilm Instax Mini

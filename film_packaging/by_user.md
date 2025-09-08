@@ -130,6 +130,12 @@ Total scans : 543
 - [[@toastergod101] Harman Red (ref: da3a)](#toastergod101-harman-red-ref-da3a)
 - [[@toastergod101] Ilford Delta 400 Professional (ref: f3da)](#toastergod101-ilford-delta-400-professional-ref-f3da)
 - [[@toastergod101] Ilford FP4 Plus (ref: 3bc0)](#toastergod101-ilford-fp4-plus-ref-3bc0)
+- [[@zruk_ts] Alien Film Aeronega (ref: d1c5)](#zruk_ts-alien-film-aeronega-ref-d1c5)
+- [[@zruk_ts] Foma Fomapan Classic 100 (ref: 1731)](#zruk_ts-foma-fomapan-classic-100-ref-1731)
+- [[@zruk_ts] Fujifilm Fujicolor Superia X-TRA 400 (ref: da37)](#zruk_ts-fujifilm-fujicolor-superia-x-tra-400-ref-da37)
+- [[@zruk_ts] Lomography Color Negative Film (ref: 1529)](#zruk_ts-lomography-color-negative-film-ref-1529)
+- [[@zruk_ts] Lomography Lomochrome Color'92 (ref: 9fdb)](#zruk_ts-lomography-lomochrome-color92-ref-9fdb)
+- [[@zruk_ts] Svema Foto 200 (ref: 6991)](#zruk_ts-svema-foto-200-ref-6991)
 - [[Camera.Riley] Agfa Fine-Grain Plenachrome (ref: e5d4)](#camerariley-agfa-fine-grain-plenachrome-ref-e5d4)
 - [[Camera.Riley] Fujifilm Fujichrome 64T Type II Professional (ref: 74a1)](#camerariley-fujifilm-fujichrome-64t-type-ii-professional-ref-74a1)
 - [[Camera.Riley] Fujifilm Fujicolor Natura 1600 (ref: 2e06)](#camerariley-fujifilm-fujicolor-natura-1600-ref-2e06)
@@ -190,12 +196,6 @@ Total scans : 543
 - [[Pelicram] SantaColor SantaColor (ref: f3a7)](#pelicram-santacolor-santacolor-ref-f3a7)
 - [[Pelicram] Svema Foto 400 (ref: 26ad)](#pelicram-svema-foto-400-ref-26ad)
 - [[Pelicram] Wolfen NP100 (ref: 71a6)](#pelicram-wolfen-np100-ref-71a6)
-- [[TBD01] Alien Film Aeronega (ref: d1c5)](#tbd01-alien-film-aeronega-ref-d1c5)
-- [[TBD01] Foma Fomapan Classic 100 (ref: 1731)](#tbd01-foma-fomapan-classic-100-ref-1731)
-- [[TBD01] Fujifilm Fujicolor Superia X-TRA 400 (ref: da37)](#tbd01-fujifilm-fujicolor-superia-x-tra-400-ref-da37)
-- [[TBD01] Lomography Color Negative Film (ref: 1529)](#tbd01-lomography-color-negative-film-ref-1529)
-- [[TBD01] Lomography Lomochrome Color'92 (ref: 9fdb)](#tbd01-lomography-lomochrome-color92-ref-9fdb)
-- [[TBD01] Svema Foto 200 (ref: 6991)](#tbd01-svema-foto-200-ref-6991)
 - [[The Compartmentalist] Agfa Agfapan Rapid (ref: 5e7b)](#the-compartmentalist-agfa-agfapan-rapid-ref-5e7b)
 - [[The Compartmentalist] Fujifilm Fujichrome Provia 100F (ref: df27)](#the-compartmentalist-fujifilm-fujichrome-provia-100f-ref-df27)
 - [[The Compartmentalist] Fujifilm Fujichrome Sensia 100 (ref: a59b)](#the-compartmentalist-fujifilm-fujichrome-sensia-100-ref-a59b)
@@ -2209,6 +2209,118 @@ UUID  : c1bab96948014588adbde72665853bc0
 	<img src="./lowres/00304_001.jpg" alt="Ilford FP4 Plus 35mm film box inside" loading="lazy" width="443" height="500">
 </a>
 
+#### [@zruk_ts] Alien Film Aeronega (ref: d1c5)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 100          |  Expiry  : 2026-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-07   |  Author  : @zruk_ts
+UUID  : 46e2cf3d6d78474ca55da2c510d0d1c5
+```
+
+<a href="./archive/00311_000.jpg">
+	<img src="./lowres/00311_000.jpg" alt="Alien Film Aeronega 120 film box outside" loading="lazy" width="500" height="433">
+</a>
+
+#### [@zruk_ts] Foma Fomapan Classic 100 (ref: 1731)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2025-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-07   |  Author  : @zruk_ts
+UUID  : 295bd5709b1e4dd88204bd2c67bd1731
+```
+
+<a href="./archive/00317_000.jpg">
+	<img src="./lowres/00317_000.jpg" alt="Foma Fomapan Classic 100 35mm film box outside" loading="lazy" width="406" height="499">
+</a>
+
+
+`UUID: cafaee7054534b7284726cab6f56c367`↓
+
+<a href="./archive/00317_001.jpg">
+	<img src="./lowres/00317_001.jpg" alt="Foma Fomapan Classic 100 35mm film box inside" loading="lazy" width="403" height="500">
+</a>
+
+#### [@zruk_ts] Fujifilm Fujicolor Superia X-TRA 400 (ref: da37)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2006-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-07   |  Author  : @zruk_ts
+UUID  : 905002d5cdc24e36b190fb04a38cda37
+```
+
+<a href="./archive/00315_000.jpg">
+	<img src="./lowres/00315_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 400 120 film box outside" loading="lazy" width="468" height="500">
+</a>
+
+
+`UUID: 0e0ad3d8bf184fe4ba12b803f267b71e`↓
+
+<a href="./archive/00315_001.jpg">
+	<img src="./lowres/00315_001.jpg" alt="Fujifilm Fujicolor Superia X-TRA 400 120 film box inside" loading="lazy" width="472" height="500">
+</a>
+
+#### [@zruk_ts] Lomography Color Negative Film (ref: 1529)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 800          |  Expiry  : 2027-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-07   |  Author  : @zruk_ts
+UUID  : e200ab98ca5746cbb6f3af1afb481529
+```
+
+<a href="./archive/00313_000.jpg">
+	<img src="./lowres/00313_000.jpg" alt="Lomography Color Negative Film 120 film box outside" loading="lazy" width="253" height="500">
+</a>
+
+
+`UUID: b59730221b5f438388c4a9cbcba44676`↓
+
+<a href="./archive/00313_001.jpg">
+	<img src="./lowres/00313_001.jpg" alt="Lomography Color Negative Film 120 film box inside" loading="lazy" width="256" height="500">
+</a>
+
+#### [@zruk_ts] Lomography Lomochrome Color'92 (ref: 9fdb)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-04 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-07   |  Author  : @zruk_ts
+UUID  : 48a192dcc8f44c17a449dfccf8279fdb
+```
+
+<a href="./archive/00314_000.jpg">
+	<img src="./lowres/00314_000.jpg" alt="Lomography Lomochrome Color'92 120 film box outside" loading="lazy" width="277" height="500">
+</a>
+
+
+`UUID: d7e77f89cf4549d383b81dad410adff4`↓
+
+<a href="./archive/00314_001.jpg">
+	<img src="./lowres/00314_001.jpg" alt="Lomography Lomochrome Color'92 120 film box inside" loading="lazy" width="272" height="500">
+</a>
+
+#### [@zruk_ts] Svema Foto 200 (ref: 6991)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 200          |  Expiry  : 2026-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-07   |  Author  : @zruk_ts
+UUID  : 031527052b0d4c4daf74708dde626991
+```
+
+<a href="./archive/00316_000.jpg">
+	<img src="./lowres/00316_000.jpg" alt="Svema Foto 200 35mm film box outside" loading="lazy" width="500" height="477">
+</a>
+
 #### [Camera.Riley] Agfa Fine-Grain Plenachrome (ref: e5d4)
 
 ```
@@ -3313,118 +3425,6 @@ UUID  : 898148fa3a754866a407bbecec4a71a6
 
 <a href="./archive/00131_000.jpg">
 	<img src="./lowres/00131_000.jpg" alt="Wolfen NP100 35mm film box outside" loading="lazy" width="500" height="455">
-</a>
-
-#### [TBD01] Alien Film Aeronega (ref: d1c5)
-
-```
-Format: 120          |  Process : C-41    
-ISO   : 100          |  Expiry  : 2026-01 
-Type  : Single Pack  |  Quantity: N/A     
-Added : 2025-09-07   |  Author  : TBD01   
-UUID  : 46e2cf3d6d78474ca55da2c510d0d1c5
-```
-
-<a href="./archive/00311_000.jpg">
-	<img src="./lowres/00311_000.jpg" alt="Alien Film Aeronega 120 film box outside" loading="lazy" width="500" height="433">
-</a>
-
-#### [TBD01] Foma Fomapan Classic 100 (ref: 1731)
-
-```
-Format: 35mm         |  Process : BW      
-ISO   : 100          |  Expiry  : 2025-03 
-Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-09-07   |  Author  : TBD01   
-UUID  : 295bd5709b1e4dd88204bd2c67bd1731
-```
-
-<a href="./archive/00317_000.jpg">
-	<img src="./lowres/00317_000.jpg" alt="Foma Fomapan Classic 100 35mm film box outside" loading="lazy" width="406" height="499">
-</a>
-
-
-`UUID: cafaee7054534b7284726cab6f56c367`↓
-
-<a href="./archive/00317_001.jpg">
-	<img src="./lowres/00317_001.jpg" alt="Foma Fomapan Classic 100 35mm film box inside" loading="lazy" width="403" height="500">
-</a>
-
-#### [TBD01] Fujifilm Fujicolor Superia X-TRA 400 (ref: da37)
-
-```
-Format: 120          |  Process : C-41    
-ISO   : 400          |  Expiry  : 2006-07 
-Type  : Single Pack  |  Quantity: N/A     
-Added : 2025-09-07   |  Author  : TBD01   
-UUID  : 905002d5cdc24e36b190fb04a38cda37
-```
-
-<a href="./archive/00315_000.jpg">
-	<img src="./lowres/00315_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 400 120 film box outside" loading="lazy" width="468" height="500">
-</a>
-
-
-`UUID: 0e0ad3d8bf184fe4ba12b803f267b71e`↓
-
-<a href="./archive/00315_001.jpg">
-	<img src="./lowres/00315_001.jpg" alt="Fujifilm Fujicolor Superia X-TRA 400 120 film box inside" loading="lazy" width="472" height="500">
-</a>
-
-#### [TBD01] Lomography Color Negative Film (ref: 1529)
-
-```
-Format: 120          |  Process : C-41    
-ISO   : 800          |  Expiry  : 2027-09 
-Type  : Single Pack  |  Quantity: N/A     
-Added : 2025-09-07   |  Author  : TBD01   
-UUID  : e200ab98ca5746cbb6f3af1afb481529
-```
-
-<a href="./archive/00313_000.jpg">
-	<img src="./lowres/00313_000.jpg" alt="Lomography Color Negative Film 120 film box outside" loading="lazy" width="253" height="500">
-</a>
-
-
-`UUID: b59730221b5f438388c4a9cbcba44676`↓
-
-<a href="./archive/00313_001.jpg">
-	<img src="./lowres/00313_001.jpg" alt="Lomography Color Negative Film 120 film box inside" loading="lazy" width="256" height="500">
-</a>
-
-#### [TBD01] Lomography Lomochrome Color'92 (ref: 9fdb)
-
-```
-Format: 120          |  Process : C-41    
-ISO   : 400          |  Expiry  : 2027-04 
-Type  : Single Pack  |  Quantity: N/A     
-Added : 2025-09-07   |  Author  : TBD01   
-UUID  : 48a192dcc8f44c17a449dfccf8279fdb
-```
-
-<a href="./archive/00314_000.jpg">
-	<img src="./lowres/00314_000.jpg" alt="Lomography Lomochrome Color'92 120 film box outside" loading="lazy" width="277" height="500">
-</a>
-
-
-`UUID: d7e77f89cf4549d383b81dad410adff4`↓
-
-<a href="./archive/00314_001.jpg">
-	<img src="./lowres/00314_001.jpg" alt="Lomography Lomochrome Color'92 120 film box inside" loading="lazy" width="272" height="500">
-</a>
-
-#### [TBD01] Svema Foto 200 (ref: 6991)
-
-```
-Format: 35mm         |  Process : BW      
-ISO   : 200          |  Expiry  : 2026-04 
-Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-09-07   |  Author  : TBD01   
-UUID  : 031527052b0d4c4daf74708dde626991
-```
-
-<a href="./archive/00316_000.jpg">
-	<img src="./lowres/00316_000.jpg" alt="Svema Foto 200 35mm film box outside" loading="lazy" width="500" height="477">
 </a>
 
 #### [The Compartmentalist] Agfa Agfapan Rapid (ref: 5e7b)
@@ -6362,7 +6362,7 @@ Rank  Username                      Contributions
 12    toader                        13    
 13    stefanie                      12    
 14    yc128                         11    
-15    TBD01                         10    
+15    @zruk_ts                      10    
 16    lilyu.xyz                     9     
 17    @toastergod101                7     
 18    benikum                       6     
