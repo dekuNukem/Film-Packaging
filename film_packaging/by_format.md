@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 10 2025
-Unique items: 316
-Total scans : 548
+Unique items: 317
+Total scans : 549
 ```
 
 -----
@@ -326,6 +326,7 @@ Total scans : 548
 - [[9x12cm] Perutz Superomnia (ref: c90d)](#9x12cm-perutz-superomnia-ref-c90d)
 - [[APS] Jessops Diamond Everyday (ref: 67d3)](#aps-jessops-diamond-everyday-ref-67d3)
 - [[APS] Klick APS Film (ref: 4b88)](#aps-klick-aps-film-ref-4b88)
+- [[APS] Kodak Advantix Ultra (ref: 030a)](#aps-kodak-advantix-ultra-ref-030a)
 - [[APS] Kodak Advantix Ultra (ref: 566b)](#aps-kodak-advantix-ultra-ref-566b)
 - [[APS] Lloyds Pharmacy APS Film (ref: c7cf)](#aps-lloyds-pharmacy-aps-film-ref-c7cf)
 - [[Integral Film] Fujifilm Instax Mini (ref: e5e7)](#integral-film-fujifilm-instax-mini-ref-e5e7)
@@ -6096,6 +6097,20 @@ UUID  : 1dc3d9dbb8bb42b4acfbfbe0737a4b88
 	<img src="./lowres/00063_001.jpg" alt="Klick APS Film APS film box inside" loading="lazy" width="500" height="268">
 </a>
 
+#### [APS] Kodak Advantix Ultra (ref: 030a)
+
+```
+Format: APS          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2003-07 
+Type  : Single Pack  |  Quantity: 40exp   
+Added : 2025-09-10   |  Author  : Aoi Yuki
+UUID  : 59358e7096174d7f926ed0aab9fd030a
+```
+
+<a href="./archive/00320_000.jpg">
+	<img src="./lowres/00320_000.jpg" alt="Kodak Advantix Ultra APS film box outside" loading="lazy" width="500" height="356">
+</a>
+
 #### [APS] Kodak Advantix Ultra (ref: 566b)
 
 ```
@@ -6428,6 +6443,7 @@ Rank  Username                      Contributions
 27    @ftfilmphotos                 2     
 28    Yrikonchik                    1     
 29    @ad.astra.per.aspera.1894     1     
+30    Aoi Yuki                      1     
 ```
 
 ## Questions or Comments?

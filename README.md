@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Sep 10 2025
-Unique items: 316
-Total scans : 548
+Unique items: 317
+Total scans : 549
 ```
 
 Or Sort by...
@@ -82,12 +82,14 @@ Rank  Username                      Contributions
 27    @ftfilmphotos                 2     
 28    Yrikonchik                    1     
 29    @ad.astra.per.aspera.1894     1     
+30    Aoi Yuki                      1     
 ```
 
 ## Recent Activities
 
 ```
 2025-09-10
+  - Aoi Yuki: Kodak Advantix Ultra
   - dekuNukem: Fujifilm Fujichrome Provia 400 Professional
   - dekuNukem: Fujifilm Fujichrome Provia 400F Professional
 

@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 10 2025
-Unique items: 316
-Total scans : 548
+Unique items: 317
+Total scans : 549
 ```
 
 -----
@@ -136,6 +136,7 @@ Total scans : 548
 - [[@zruk_ts] Lomography Color Negative Film (ref: 1529)](#zruk_ts-lomography-color-negative-film-ref-1529)
 - [[@zruk_ts] Lomography Lomochrome Color'92 (ref: 9fdb)](#zruk_ts-lomography-lomochrome-color92-ref-9fdb)
 - [[@zruk_ts] Svema Foto 200 (ref: 6991)](#zruk_ts-svema-foto-200-ref-6991)
+- [[Aoi Yuki] Kodak Advantix Ultra (ref: 030a)](#aoi-yuki-kodak-advantix-ultra-ref-030a)
 - [[Camera.Riley] Agfa Fine-Grain Plenachrome (ref: e5d4)](#camerariley-agfa-fine-grain-plenachrome-ref-e5d4)
 - [[Camera.Riley] Fujifilm Fujichrome 64T Type II Professional (ref: 74a1)](#camerariley-fujifilm-fujichrome-64t-type-ii-professional-ref-74a1)
 - [[Camera.Riley] Fujifilm Fujicolor Natura 1600 (ref: 2e06)](#camerariley-fujifilm-fujicolor-natura-1600-ref-2e06)
@@ -2321,6 +2322,20 @@ UUID  : 031527052b0d4c4daf74708dde626991
 
 <a href="./archive/00316_000.jpg">
 	<img src="./lowres/00316_000.jpg" alt="Svema Foto 200 35mm film box outside" loading="lazy" width="500" height="477">
+</a>
+
+#### [Aoi Yuki] Kodak Advantix Ultra (ref: 030a)
+
+```
+Format: APS          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2003-07 
+Type  : Single Pack  |  Quantity: 40exp   
+Added : 2025-09-10   |  Author  : Aoi Yuki
+UUID  : 59358e7096174d7f926ed0aab9fd030a
+```
+
+<a href="./archive/00320_000.jpg">
+	<img src="./lowres/00320_000.jpg" alt="Kodak Advantix Ultra APS film box outside" loading="lazy" width="500" height="356">
 </a>
 
 #### [Camera.Riley] Agfa Fine-Grain Plenachrome (ref: e5d4)
@@ -6428,6 +6443,7 @@ Rank  Username                      Contributions
 27    @ftfilmphotos                 2     
 28    Yrikonchik                    1     
 29    @ad.astra.per.aspera.1894     1     
+30    Aoi Yuki                      1     
 ```
 
 ## Questions or Comments?

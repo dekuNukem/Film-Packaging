@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 10 2025
-Unique items: 316
-Total scans : 548
+Unique items: 317
+Total scans : 549
 ```
 
 -----
@@ -128,6 +128,7 @@ Total scans : 548
 - [[2003] Konica Centuria 200 (ref: e155)](#2003-konica-centuria-200-ref-e155)
 - [[2003] Fujifilm Fujicolor Pro400 (ref: 1b8d)](#2003-fujifilm-fujicolor-pro400-ref-1b8d)
 - [[2003] Fujifilm Fujicolor Superia (ref: 9272)](#2003-fujifilm-fujicolor-superia-ref-9272)
+- [[2003] Kodak Advantix Ultra (ref: 030a)](#2003-kodak-advantix-ultra-ref-030a)
 - [[2003] Fujifilm Fujicolor NPS 160 (ref: 5e85)](#2003-fujifilm-fujicolor-nps-160-ref-5e85)
 - [[2003] Agfa Vista 200 (ref: d3af)](#2003-agfa-vista-200-ref-d3af)
 - [[2004] Fujifilm Neopan 400 (ref: c088)](#2004-fujifilm-neopan-400-ref-c088)
@@ -2748,6 +2749,20 @@ UUID  : 2acd2ce4aefb44b4a4c72b130edb9272
 
 <a href="./archive/00229_000.jpg">
 	<img src="./lowres/00229_000.jpg" alt="Fujifilm Fujicolor Superia 35mm film box outside" loading="lazy" width="312" height="500">
+</a>
+
+#### [2003] Kodak Advantix Ultra (ref: 030a)
+
+```
+Format: APS          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2003-07 
+Type  : Single Pack  |  Quantity: 40exp   
+Added : 2025-09-10   |  Author  : Aoi Yuki
+UUID  : 59358e7096174d7f926ed0aab9fd030a
+```
+
+<a href="./archive/00320_000.jpg">
+	<img src="./lowres/00320_000.jpg" alt="Kodak Advantix Ultra APS film box outside" loading="lazy" width="500" height="356">
 </a>
 
 #### [2003] Fujifilm Fujicolor NPS 160 (ref: 5e85)
@@ -6428,6 +6443,7 @@ Rank  Username                      Contributions
 27    @ftfilmphotos                 2     
 28    Yrikonchik                    1     
 29    @ad.astra.per.aspera.1894     1     
+30    Aoi Yuki                      1     
 ```
 
 ## Questions or Comments?

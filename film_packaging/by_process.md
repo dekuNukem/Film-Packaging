@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 10 2025
-Unique items: 316
-Total scans : 548
+Unique items: 317
+Total scans : 549
 ```
 
 -----
@@ -191,6 +191,7 @@ Total scans : 548
 - [[C-41] Klick 400ASA (ref: 8779)](#c-41-klick-400asa-ref-8779)
 - [[C-41] Klick APS Film (ref: 4b88)](#c-41-klick-aps-film-ref-4b88)
 - [[C-41] Klick XD200 (ref: 44d7)](#c-41-klick-xd200-ref-44d7)
+- [[C-41] Kodak Advantix Ultra (ref: 030a)](#c-41-kodak-advantix-ultra-ref-030a)
 - [[C-41] Kodak Advantix Ultra (ref: 566b)](#c-41-kodak-advantix-ultra-ref-566b)
 - [[C-41] Kodak Black & White + (ref: 2ff3)](#c-41-kodak-black-white-ref-2ff3)
 - [[C-41] Kodak ColorPlus (ref: 79ca)](#c-41-kodak-colorplus-ref-79ca)
@@ -3471,6 +3472,20 @@ UUID  : 2276628aa2794442ae81221329fc44d7
 	<img src="./lowres/00062_000.jpg" alt="Klick XD200 110 film box outside" loading="lazy" width="500" height="386">
 </a>
 
+#### [C-41] Kodak Advantix Ultra (ref: 030a)
+
+```
+Format: APS          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2003-07 
+Type  : Single Pack  |  Quantity: 40exp   
+Added : 2025-09-10   |  Author  : Aoi Yuki
+UUID  : 59358e7096174d7f926ed0aab9fd030a
+```
+
+<a href="./archive/00320_000.jpg">
+	<img src="./lowres/00320_000.jpg" alt="Kodak Advantix Ultra APS film box outside" loading="lazy" width="500" height="356">
+</a>
+
 #### [C-41] Kodak Advantix Ultra (ref: 566b)
 
 ```
@@ -6428,6 +6443,7 @@ Rank  Username                      Contributions
 27    @ftfilmphotos                 2     
 28    Yrikonchik                    1     
 29    @ad.astra.per.aspera.1894     1     
+30    Aoi Yuki                      1     
 ```
 
 ## Questions or Comments?

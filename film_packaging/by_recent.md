@@ -16,12 +16,13 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 10 2025
-Unique items: 316
-Total scans : 548
+Unique items: 317
+Total scans : 549
 ```
 
 -----
 
+- [[2025-09-10] Kodak Advantix Ultra (ref: 030a)](#2025-09-10-kodak-advantix-ultra-ref-030a)
 - [[2025-09-10] Fujifilm Fujichrome Provia 400F Professional (ref: 4591)](#2025-09-10-fujifilm-fujichrome-provia-400f-professional-ref-4591)
 - [[2025-09-10] Fujifilm Fujichrome Provia 400 Professional (ref: b7b2)](#2025-09-10-fujifilm-fujichrome-provia-400-professional-ref-b7b2)
 - [[2025-09-07] Foma Fomapan Classic 100 (ref: 1731)](#2025-09-07-foma-fomapan-classic-100-ref-1731)
@@ -341,6 +342,20 @@ Total scans : 548
 
 
 -----
+
+#### [2025-09-10] Kodak Advantix Ultra (ref: 030a)
+
+```
+Format: APS          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2003-07 
+Type  : Single Pack  |  Quantity: 40exp   
+Added : 2025-09-10   |  Author  : Aoi Yuki
+UUID  : 59358e7096174d7f926ed0aab9fd030a
+```
+
+<a href="./archive/00320_000.jpg">
+	<img src="./lowres/00320_000.jpg" alt="Kodak Advantix Ultra APS film box outside" loading="lazy" width="500" height="356">
+</a>
 
 
 `UUID: af8da0bc734f498f80c6423b2d78667b`↓
@@ -6428,6 +6443,7 @@ Rank  Username                      Contributions
 27    @ftfilmphotos                 2     
 28    Yrikonchik                    1     
 29    @ad.astra.per.aspera.1894     1     
+30    Aoi Yuki                      1     
 ```
 
 ## Questions or Comments?
