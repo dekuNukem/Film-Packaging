@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 07 2025
-Unique items: 314
-Total scans : 543
+Last Updated: Sep 10 2025
+Unique items: 316
+Total scans : 548
 ```
 
 -----
@@ -47,6 +47,8 @@ Total scans : 543
 - [[120] Foton Fotopan F (ref: 0ad6)](#120-foton-fotopan-f-ref-0ad6)
 - [[120] Fujifilm Fujichrome Professional 100D (ref: 439d)](#120-fujifilm-fujichrome-professional-100d-ref-439d)
 - [[120] Fujifilm Fujichrome Provia 100F (ref: 1b4b)](#120-fujifilm-fujichrome-provia-100f-ref-1b4b)
+- [[120] Fujifilm Fujichrome Provia 400 Professional (ref: b7b2)](#120-fujifilm-fujichrome-provia-400-professional-ref-b7b2)
+- [[120] Fujifilm Fujichrome Provia 400F Professional (ref: 4591)](#120-fujifilm-fujichrome-provia-400f-professional-ref-4591)
 - [[120] Fujifilm Fujichrome Provia 400X (ref: 3c08)](#120-fujifilm-fujichrome-provia-400x-ref-3c08)
 - [[120] Fujifilm Fujichrome Velvia 100F (ref: f7fb)](#120-fujifilm-fujichrome-velvia-100f-ref-f7fb)
 - [[120] Fujifilm Fujicolor HR100 (ref: 23c5)](#120-fujifilm-fujicolor-hr100-ref-23c5)
@@ -807,6 +809,55 @@ UUID  : c7a59b3560b04f3a93f2ee26d1b21b4b
 
 <a href="./archive/00281_000.jpg">
 	<img src="./lowres/00281_000.jpg" alt="Fujifilm Fujichrome Provia 100F 120 film box outside" loading="lazy" width="400" height="499">
+</a>
+
+#### [120] Fujifilm Fujichrome Provia 400 Professional (ref: b7b2)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 400          |  Expiry  : 1997-08 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-10   |  Author  : dekuNukem
+UUID  : eb3d804130c64e0f9486b1134bc7b7b2
+```
+
+<a href="./archive/00318_000.jpg">
+	<img src="./lowres/00318_000.jpg" alt="Fujifilm Fujichrome Provia 400 Professional 120 film box outside" loading="lazy" width="488" height="500">
+</a>
+
+
+`UUID: 022093eba4ed4f8fa2875519ad245735`↓
+
+<a href="./archive/00318_001.jpg">
+	<img src="./lowres/00318_001.jpg" alt="Fujifilm Fujichrome Provia 400 Professional 120 film box leaflet" loading="lazy" width="294" height="500">
+</a>
+
+
+`UUID: 16af66bb84f245a89c2bdb1c2d548ce2`↓
+
+<a href="./archive/00318_002.jpg">
+	<img src="./lowres/00318_002.jpg" alt="Fujifilm Fujichrome Provia 400 Professional 120 film box leaflet" loading="lazy" width="284" height="500">
+</a>
+
+#### [120] Fujifilm Fujichrome Provia 400F Professional (ref: 4591)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 400          |  Expiry  : 2003-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-10   |  Author  : dekuNukem
+UUID  : 41ebc0cc4fb746288adb198f58a84591
+```
+
+<a href="./archive/00319_000.jpg">
+	<img src="./lowres/00319_000.jpg" alt="Fujifilm Fujichrome Provia 400F Professional 120 film box outside" loading="lazy" width="484" height="500">
+</a>
+
+
+`UUID: af8da0bc734f498f80c6423b2d78667b`↓
+
+<a href="./archive/00319_001.jpg">
+	<img src="./lowres/00319_001.jpg" alt="Fujifilm Fujichrome Provia 400F Professional 120 film box inside" loading="lazy" width="494" height="500">
 </a>
 
 #### [120] Fujifilm Fujichrome Provia 400X (ref: 3c08)
@@ -6348,7 +6399,7 @@ UUID  : 6032680a3aba41b39c600d7e23998f62
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     173   
+1     dekuNukem                     178   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    

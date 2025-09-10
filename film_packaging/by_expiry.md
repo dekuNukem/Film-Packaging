@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 07 2025
-Unique items: 314
-Total scans : 543
+Last Updated: Sep 10 2025
+Unique items: 316
+Total scans : 548
 ```
 
 -----
@@ -90,6 +90,7 @@ Total scans : 543
 - [[1995] Kodak Technical Pan (ref: f4cf)](#1995-kodak-technical-pan-ref-f4cf)
 - [[1995] Kodak Ektachrome Elite 100 (ref: 26ef)](#1995-kodak-ektachrome-elite-100-ref-26ef)
 - [[1996] Polaroid 665 (ref: e054)](#1996-polaroid-665-ref-e054)
+- [[1997] Fujifilm Fujichrome Provia 400 Professional (ref: b7b2)](#1997-fujifilm-fujichrome-provia-400-professional-ref-b7b2)
 - [[1997] Kodak Ektachrome Elite 200 (ref: a391)](#1997-kodak-ektachrome-elite-200-ref-a391)
 - [[1997] Max Spielmann Maxi Color (ref: bf60)](#1997-max-spielmann-maxi-color-ref-bf60)
 - [[1998] Fujifilm Fujichrome Sensia 100 (ref: a59b)](#1998-fujifilm-fujichrome-sensia-100-ref-a59b)
@@ -122,6 +123,7 @@ Total scans : 543
 - [[2002] Kirkland Signature Color Print Film (ref: 0441)](#2002-kirkland-signature-color-print-film-ref-0441)
 - [[2003] Konica KonicaColor VX 200 (ref: fe53)](#2003-konica-konicacolor-vx-200-ref-fe53)
 - [[2003] Fujifilm Fujicolor Superia X-TRA (ref: 713b)](#2003-fujifilm-fujicolor-superia-x-tra-ref-713b)
+- [[2003] Fujifilm Fujichrome Provia 400F Professional (ref: 4591)](#2003-fujifilm-fujichrome-provia-400f-professional-ref-4591)
 - [[2003] Fujifilm Fujicolor Super G (ref: 55ff)](#2003-fujifilm-fujicolor-super-g-ref-55ff)
 - [[2003] Konica Centuria 200 (ref: e155)](#2003-konica-centuria-200-ref-e155)
 - [[2003] Fujifilm Fujicolor Pro400 (ref: 1b8d)](#2003-fujifilm-fujicolor-pro400-ref-1b8d)
@@ -1943,6 +1945,34 @@ UUID  : 311d896d68b74b1193afcfa129c5e054
 	<img src="./lowres/00018_000.jpg" alt="Polaroid 665 Pack Film film box outside" loading="lazy" width="500" height="406">
 </a>
 
+#### [1997] Fujifilm Fujichrome Provia 400 Professional (ref: b7b2)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 400          |  Expiry  : 1997-08 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-10   |  Author  : dekuNukem
+UUID  : eb3d804130c64e0f9486b1134bc7b7b2
+```
+
+<a href="./archive/00318_000.jpg">
+	<img src="./lowres/00318_000.jpg" alt="Fujifilm Fujichrome Provia 400 Professional 120 film box outside" loading="lazy" width="488" height="500">
+</a>
+
+
+`UUID: 022093eba4ed4f8fa2875519ad245735`↓
+
+<a href="./archive/00318_001.jpg">
+	<img src="./lowres/00318_001.jpg" alt="Fujifilm Fujichrome Provia 400 Professional 120 film box leaflet" loading="lazy" width="294" height="500">
+</a>
+
+
+`UUID: 16af66bb84f245a89c2bdb1c2d548ce2`↓
+
+<a href="./archive/00318_002.jpg">
+	<img src="./lowres/00318_002.jpg" alt="Fujifilm Fujichrome Provia 400 Professional 120 film box leaflet" loading="lazy" width="284" height="500">
+</a>
+
 #### [1997] Kodak Ektachrome Elite 200 (ref: a391)
 
 ```
@@ -2634,6 +2664,27 @@ UUID  : 89750d8a18fe4e238c76b97b4578713b
 
 <a href="./archive/00197_001.jpg">
 	<img src="./lowres/00197_001.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box inside" loading="lazy" width="425" height="500">
+</a>
+
+#### [2003] Fujifilm Fujichrome Provia 400F Professional (ref: 4591)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 400          |  Expiry  : 2003-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-10   |  Author  : dekuNukem
+UUID  : 41ebc0cc4fb746288adb198f58a84591
+```
+
+<a href="./archive/00319_000.jpg">
+	<img src="./lowres/00319_000.jpg" alt="Fujifilm Fujichrome Provia 400F Professional 120 film box outside" loading="lazy" width="484" height="500">
+</a>
+
+
+`UUID: af8da0bc734f498f80c6423b2d78667b`↓
+
+<a href="./archive/00319_001.jpg">
+	<img src="./lowres/00319_001.jpg" alt="Fujifilm Fujichrome Provia 400F Professional 120 film box inside" loading="lazy" width="494" height="500">
 </a>
 
 #### [2003] Fujifilm Fujicolor Super G (ref: 55ff)
@@ -6348,7 +6399,7 @@ UUID  : 80d64fa269454c5589109c68a40541a8
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     173   
+1     dekuNukem                     178   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    

@@ -542,3 +542,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 316,0,film_box_outside,Svema,Foto 200,35mm,200,BW,202604,1757270950,6c682a2f2dfa49db2a2dc9f835305047,031527052b0d4c4daf74708dde626991,00316_000.jpg,@zruk_ts,,Single Pack,36exp
 317,0,film_box_outside,Foma,Fomapan Classic 100,35mm,100,BW,202503,1757271080,ec22f8aee708d3bcfa3a6880055091e3,295bd5709b1e4dd88204bd2c67bd1731,00317_000.jpg,@zruk_ts,,Single Pack,36exp
 317,1,film_box_inside,Foma,Fomapan Classic 100,35mm,100,BW,202503,1757271082,223d0004d096b9d9a29d3ecd4ae7f1ed,cafaee7054534b7284726cab6f56c367,00317_001.jpg,@zruk_ts,,Single Pack,36exp
+318,0,film_box_outside,Fujifilm,Fujichrome Provia 400 Professional,120,400,E-6,199708,1757502579,9fcb10c6e149c7cb53047889b145d504,eb3d804130c64e0f9486b1134bc7b7b2,00318_000.jpg,dekuNukem,RHP,Single Pack,N/A
+318,1,film_box_leaflet,Fujifilm,Fujichrome Provia 400 Professional,120,400,E-6,199708,1757502581,4639afa4602cb5e3f4d25481c7780c3d,022093eba4ed4f8fa2875519ad245735,00318_001.jpg,dekuNukem,RHP,Single Pack,N/A
+318,2,film_box_leaflet,Fujifilm,Fujichrome Provia 400 Professional,120,400,E-6,199708,1757502583,293033b0ee1b0a211556011df57e4f0e,16af66bb84f245a89c2bdb1c2d548ce2,00318_002.jpg,dekuNukem,RHP,Single Pack,N/A
+319,0,film_box_outside,Fujifilm,Fujichrome Provia 400F Professional,120,400,E-6,200305,1757502630,49b647ece9edf358e893be3114f3ee2d,41ebc0cc4fb746288adb198f58a84591,00319_000.jpg,dekuNukem,RHP III,Single Pack,N/A
+319,1,film_box_inside,Fujifilm,Fujichrome Provia 400F Professional,120,400,E-6,200305,1757502643,38e0d3e33cae04dd0d3190eba77363aa,af8da0bc734f498f80c6423b2d78667b,00319_001.jpg,dekuNukem,RHP III,Single Pack,N/A

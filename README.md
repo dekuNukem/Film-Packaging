@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 07 2025
-Unique items: 314
-Total scans : 543
+Last Updated: Sep 10 2025
+Unique items: 316
+Total scans : 548
 ```
 
 Or Sort by...
@@ -53,7 +53,7 @@ Or Sort by...
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     173   
+1     dekuNukem                     178   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    
@@ -87,6 +87,10 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-09-10
+  - dekuNukem: Fujifilm Fujichrome Provia 400 Professional
+  - dekuNukem: Fujifilm Fujichrome Provia 400F Professional
+
 2025-09-07
   - @zruk_ts: Alien Film Aeronega
   - @zruk_ts: Foma Fomapan Classic 100
@@ -114,22 +118,6 @@ Rank  Username                      Contributions
 
 2025-09-04
   - dekuNukem: Kodak FarbWelt 400
-
-2025-09-03
-  - @ellafridalindblom: Agfa Extra Rapid Platten
-  - @ellafridalindblom: Agfa Trockenplatten
-  - @ellafridalindblom: Defender Extra Fast Panchromatic
-  - @ellafridalindblom: Defender Extra Special Fast Panchromatic
-  - @ellafridalindblom: Fujifilm Fujichrome Sensia 100
-  - @ellafridalindblom: Fujifilm Fujichrome Sensia 200
-  - @ellafridalindblom: Fujifilm Neopan 400
-  - @ellafridalindblom: Gevaert Ultra Panchro Normal
-  - @ellafridalindblom: Konica Infrared 750nm
-  - @ellafridalindblom: Konica Minolta Commercial Color Film
-  - @ellafridalindblom: Phöbus-Platten Sheet Film
-  - dekuNukem: Kodak Ektachrome 400
-  - dekuNukem: Kodak Ektachrome Professional
-  - dekuNukem: Kodak Ektachrome Professional Type B
 ```
 
 ## Disclaimer

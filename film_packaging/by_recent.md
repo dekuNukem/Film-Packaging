@@ -15,13 +15,15 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 07 2025
-Unique items: 314
-Total scans : 543
+Last Updated: Sep 10 2025
+Unique items: 316
+Total scans : 548
 ```
 
 -----
 
+- [[2025-09-10] Fujifilm Fujichrome Provia 400F Professional (ref: 4591)](#2025-09-10-fujifilm-fujichrome-provia-400f-professional-ref-4591)
+- [[2025-09-10] Fujifilm Fujichrome Provia 400 Professional (ref: b7b2)](#2025-09-10-fujifilm-fujichrome-provia-400-professional-ref-b7b2)
 - [[2025-09-07] Foma Fomapan Classic 100 (ref: 1731)](#2025-09-07-foma-fomapan-classic-100-ref-1731)
 - [[2025-09-07] Svema Foto 200 (ref: 6991)](#2025-09-07-svema-foto-200-ref-6991)
 - [[2025-09-07] Fujifilm Fujicolor Superia X-TRA 400 (ref: da37)](#2025-09-07-fujifilm-fujicolor-superia-x-tra-400-ref-da37)
@@ -339,6 +341,55 @@ Total scans : 543
 
 
 -----
+
+
+`UUID: af8da0bc734f498f80c6423b2d78667b`↓
+
+<a href="./archive/00319_001.jpg">
+	<img src="./lowres/00319_001.jpg" alt="Fujifilm Fujichrome Provia 400F Professional 120 film box inside" loading="lazy" width="494" height="500">
+</a>
+
+#### [2025-09-10] Fujifilm Fujichrome Provia 400F Professional (ref: 4591)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 400          |  Expiry  : 2003-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-10   |  Author  : dekuNukem
+UUID  : 41ebc0cc4fb746288adb198f58a84591
+```
+
+<a href="./archive/00319_000.jpg">
+	<img src="./lowres/00319_000.jpg" alt="Fujifilm Fujichrome Provia 400F Professional 120 film box outside" loading="lazy" width="484" height="500">
+</a>
+
+
+`UUID: 16af66bb84f245a89c2bdb1c2d548ce2`↓
+
+<a href="./archive/00318_002.jpg">
+	<img src="./lowres/00318_002.jpg" alt="Fujifilm Fujichrome Provia 400 Professional 120 film box leaflet" loading="lazy" width="284" height="500">
+</a>
+
+
+`UUID: 022093eba4ed4f8fa2875519ad245735`↓
+
+<a href="./archive/00318_001.jpg">
+	<img src="./lowres/00318_001.jpg" alt="Fujifilm Fujichrome Provia 400 Professional 120 film box leaflet" loading="lazy" width="294" height="500">
+</a>
+
+#### [2025-09-10] Fujifilm Fujichrome Provia 400 Professional (ref: b7b2)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 400          |  Expiry  : 1997-08 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-10   |  Author  : dekuNukem
+UUID  : eb3d804130c64e0f9486b1134bc7b7b2
+```
+
+<a href="./archive/00318_000.jpg">
+	<img src="./lowres/00318_000.jpg" alt="Fujifilm Fujichrome Provia 400 Professional 120 film box outside" loading="lazy" width="488" height="500">
+</a>
 
 
 `UUID: cafaee7054534b7284726cab6f56c367`↓
@@ -6348,7 +6399,7 @@ UUID  : 36151f6b7cc045c2b43d7f5cbee41a5d
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     173   
+1     dekuNukem                     178   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    
