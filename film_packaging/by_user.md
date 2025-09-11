@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 10 2025
-Unique items: 317
-Total scans : 549
+Last Updated: Sep 11 2025
+Unique items: 320
+Total scans : 552
 ```
 
 -----
@@ -124,6 +124,9 @@ Total scans : 549
 - [[@recycling.film] Kodak Portra 400 (ref: cf9c)](#recyclingfilm-kodak-portra-400-ref-cf9c)
 - [[@recycling.film] Kodak Portra 800 (ref: 7d65)](#recyclingfilm-kodak-portra-800-ref-7d65)
 - [[@recycling.film] Kodak UltraMax (ref: e4ad)](#recyclingfilm-kodak-ultramax-ref-e4ad)
+- [[@sachynmital] Mr. Negative 250D (ref: 3574)](#sachynmital-mr-negative-250d-ref-3574)
+- [[@sachynmital] Mr. Negative Eterna 250D (ref: 6d6e)](#sachynmital-mr-negative-eterna-250d-ref-6d6e)
+- [[@sachynmital] Mr. Negative Silver Screen Negative (ref: c968)](#sachynmital-mr-negative-silver-screen-negative-ref-c968)
 - [[@seklerek] Fujifilm Fujichrome Provia 100F (ref: 356d)](#seklerek-fujifilm-fujichrome-provia-100f-ref-356d)
 - [[@seklerek] Fujifilm Fujichrome Velvia 100F (ref: 32d4)](#seklerek-fujifilm-fujichrome-velvia-100f-ref-32d4)
 - [[@toastergod101] Fujifilm Instax Mini (ref: e5e7)](#toastergod101-fujifilm-instax-mini-ref-e5e7)
@@ -2105,6 +2108,48 @@ UUID  : d14bbf440f3a4ac9aa4169c8bba7e4ad
 
 <a href="./archive/00201_000.jpg">
 	<img src="./lowres/00201_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="437" height="500">
+</a>
+
+#### [@sachynmital] Mr. Negative 250D (ref: 3574)
+
+```
+Format: 35mm         |  Process : ECN-2   
+ISO   : 250          |  Expiry  : 2024-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-11   |  Author  : @sachynmital
+UUID  : e5b29575691e43d8bc17578978083574
+```
+
+<a href="./archive/00321_000.jpg">
+	<img src="./lowres/00321_000.jpg" alt="Mr. Negative 250D 35mm film box outside" loading="lazy" width="457" height="500">
+</a>
+
+#### [@sachynmital] Mr. Negative Eterna 250D (ref: 6d6e)
+
+```
+Format: 35mm         |  Process : ECN-2   
+ISO   : 250          |  Expiry  : 2013-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-11   |  Author  : @sachynmital
+UUID  : 955fbe87cb4c45dfb7f198cc638d6d6e
+```
+
+<a href="./archive/00322_000.jpg">
+	<img src="./lowres/00322_000.jpg" alt="Mr. Negative Eterna 250D 35mm film box outside" loading="lazy" width="472" height="499">
+</a>
+
+#### [@sachynmital] Mr. Negative Silver Screen Negative (ref: c968)
+
+```
+Format: 35mm         |  Process : ECN-2   
+ISO   : 200          |  Expiry  : 2024-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-11   |  Author  : @sachynmital
+UUID  : 4acd5aeda3a34bc89b646a14bb4dc968
+```
+
+<a href="./archive/00323_000.jpg">
+	<img src="./lowres/00323_000.jpg" alt="Mr. Negative Silver Screen Negative 35mm film box outside" loading="lazy" width="490" height="500">
 </a>
 
 #### [@seklerek] Fujifilm Fujichrome Provia 100F (ref: 356d)
@@ -6439,11 +6484,12 @@ Rank  Username                      Contributions
 23    kaimon                        4     
 24    @Hol.m35                      3     
 25    TheSelousScout                3     
-26    @seklerek                     2     
-27    @ftfilmphotos                 2     
-28    Yrikonchik                    1     
-29    @ad.astra.per.aspera.1894     1     
-30    Aoi Yuki                      1     
+26    @sachynmital                  3     
+27    @seklerek                     2     
+28    @ftfilmphotos                 2     
+29    Yrikonchik                    1     
+30    @ad.astra.per.aspera.1894     1     
+31    Aoi Yuki                      1     
 ```
 
 ## Questions or Comments?

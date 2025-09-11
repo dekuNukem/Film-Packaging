@@ -15,13 +15,16 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 10 2025
-Unique items: 317
-Total scans : 549
+Last Updated: Sep 11 2025
+Unique items: 320
+Total scans : 552
 ```
 
 -----
 
+- [[2025-09-11] Mr. Negative Silver Screen Negative (ref: c968)](#2025-09-11-mr-negative-silver-screen-negative-ref-c968)
+- [[2025-09-11] Mr. Negative Eterna 250D (ref: 6d6e)](#2025-09-11-mr-negative-eterna-250d-ref-6d6e)
+- [[2025-09-11] Mr. Negative 250D (ref: 3574)](#2025-09-11-mr-negative-250d-ref-3574)
 - [[2025-09-10] Kodak Advantix Ultra (ref: 030a)](#2025-09-10-kodak-advantix-ultra-ref-030a)
 - [[2025-09-10] Fujifilm Fujichrome Provia 400F Professional (ref: 4591)](#2025-09-10-fujifilm-fujichrome-provia-400f-professional-ref-4591)
 - [[2025-09-10] Fujifilm Fujichrome Provia 400 Professional (ref: b7b2)](#2025-09-10-fujifilm-fujichrome-provia-400-professional-ref-b7b2)
@@ -342,6 +345,48 @@ Total scans : 549
 
 
 -----
+
+#### [2025-09-11] Mr. Negative Silver Screen Negative (ref: c968)
+
+```
+Format: 35mm         |  Process : ECN-2   
+ISO   : 200          |  Expiry  : 2024-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-11   |  Author  : @sachynmital
+UUID  : 4acd5aeda3a34bc89b646a14bb4dc968
+```
+
+<a href="./archive/00323_000.jpg">
+	<img src="./lowres/00323_000.jpg" alt="Mr. Negative Silver Screen Negative 35mm film box outside" loading="lazy" width="490" height="500">
+</a>
+
+#### [2025-09-11] Mr. Negative Eterna 250D (ref: 6d6e)
+
+```
+Format: 35mm         |  Process : ECN-2   
+ISO   : 250          |  Expiry  : 2013-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-11   |  Author  : @sachynmital
+UUID  : 955fbe87cb4c45dfb7f198cc638d6d6e
+```
+
+<a href="./archive/00322_000.jpg">
+	<img src="./lowres/00322_000.jpg" alt="Mr. Negative Eterna 250D 35mm film box outside" loading="lazy" width="472" height="499">
+</a>
+
+#### [2025-09-11] Mr. Negative 250D (ref: 3574)
+
+```
+Format: 35mm         |  Process : ECN-2   
+ISO   : 250          |  Expiry  : 2024-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-11   |  Author  : @sachynmital
+UUID  : e5b29575691e43d8bc17578978083574
+```
+
+<a href="./archive/00321_000.jpg">
+	<img src="./lowres/00321_000.jpg" alt="Mr. Negative 250D 35mm film box outside" loading="lazy" width="457" height="500">
+</a>
 
 #### [2025-09-10] Kodak Advantix Ultra (ref: 030a)
 
@@ -6439,11 +6484,12 @@ Rank  Username                      Contributions
 23    kaimon                        4     
 24    @Hol.m35                      3     
 25    TheSelousScout                3     
-26    @seklerek                     2     
-27    @ftfilmphotos                 2     
-28    Yrikonchik                    1     
-29    @ad.astra.per.aspera.1894     1     
-30    Aoi Yuki                      1     
+26    @sachynmital                  3     
+27    @seklerek                     2     
+28    @ftfilmphotos                 2     
+29    Yrikonchik                    1     
+30    @ad.astra.per.aspera.1894     1     
+31    Aoi Yuki                      1     
 ```
 
 ## Questions or Comments?

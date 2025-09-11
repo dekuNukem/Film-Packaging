@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 10 2025
-Unique items: 317
-Total scans : 549
+Last Updated: Sep 11 2025
+Unique items: 320
+Total scans : 552
 ```
 
 -----
@@ -296,6 +296,9 @@ Total scans : 549
 - [Marix Professional Negative Movie Color Film (ref: c457)](#marix-professional-negative-movie-color-film-ref-c457)
 - [Max Spielmann Maxi Color (ref: bf60)](#max-spielmann-maxi-color-ref-bf60)
 - [Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#minolta-minolta-16-color-film-for-prints-ref-a2ff)
+- [Mr. Negative 250D (ref: 3574)](#mr-negative-250d-ref-3574)
+- [Mr. Negative Eterna 250D (ref: 6d6e)](#mr-negative-eterna-250d-ref-6d6e)
+- [Mr. Negative Silver Screen Negative (ref: c968)](#mr-negative-silver-screen-negative-ref-c968)
 - [Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#mutascan-kodak-vision3-500t5219-ref-5150)
 - [ORWO NP 20 SL (ref: b16c)](#orwo-np-20-sl-ref-b16c)
 - [Perutz Superomnia (ref: c90d)](#perutz-superomnia-ref-c90d)
@@ -5544,6 +5547,48 @@ UUID  : a2cfc71ac0e24ea58f4e3350423aa2ff
 	<img src="./lowres/00162_000.jpg" alt="Minolta Minolta 16 Color Film For Prints 16mm film box outside" loading="lazy" width="500" height="413">
 </a>
 
+#### Mr. Negative 250D (ref: 3574)
+
+```
+Format: 35mm         |  Process : ECN-2   
+ISO   : 250          |  Expiry  : 2024-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-11   |  Author  : @sachynmital
+UUID  : e5b29575691e43d8bc17578978083574
+```
+
+<a href="./archive/00321_000.jpg">
+	<img src="./lowres/00321_000.jpg" alt="Mr. Negative 250D 35mm film box outside" loading="lazy" width="457" height="500">
+</a>
+
+#### Mr. Negative Eterna 250D (ref: 6d6e)
+
+```
+Format: 35mm         |  Process : ECN-2   
+ISO   : 250          |  Expiry  : 2013-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-11   |  Author  : @sachynmital
+UUID  : 955fbe87cb4c45dfb7f198cc638d6d6e
+```
+
+<a href="./archive/00322_000.jpg">
+	<img src="./lowres/00322_000.jpg" alt="Mr. Negative Eterna 250D 35mm film box outside" loading="lazy" width="472" height="499">
+</a>
+
+#### Mr. Negative Silver Screen Negative (ref: c968)
+
+```
+Format: 35mm         |  Process : ECN-2   
+ISO   : 200          |  Expiry  : 2024-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-11   |  Author  : @sachynmital
+UUID  : 4acd5aeda3a34bc89b646a14bb4dc968
+```
+
+<a href="./archive/00323_000.jpg">
+	<img src="./lowres/00323_000.jpg" alt="Mr. Negative Silver Screen Negative 35mm film box outside" loading="lazy" width="490" height="500">
+</a>
+
 #### Mutascan Kodak Vision3 500T/5219 (ref: 5150)
 
 ```
@@ -6439,11 +6484,12 @@ Rank  Username                      Contributions
 23    kaimon                        4     
 24    @Hol.m35                      3     
 25    TheSelousScout                3     
-26    @seklerek                     2     
-27    @ftfilmphotos                 2     
-28    Yrikonchik                    1     
-29    @ad.astra.per.aspera.1894     1     
-30    Aoi Yuki                      1     
+26    @sachynmital                  3     
+27    @seklerek                     2     
+28    @ftfilmphotos                 2     
+29    Yrikonchik                    1     
+30    @ad.astra.per.aspera.1894     1     
+31    Aoi Yuki                      1     
 ```
 
 ## Questions or Comments?

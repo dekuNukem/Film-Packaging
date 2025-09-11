@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 10 2025
-Unique items: 317
-Total scans : 549
+Last Updated: Sep 11 2025
+Unique items: 320
+Total scans : 552
 ```
 
 Or Sort by...
@@ -78,16 +78,22 @@ Rank  Username                      Contributions
 23    kaimon                        4     
 24    @Hol.m35                      3     
 25    TheSelousScout                3     
-26    @seklerek                     2     
-27    @ftfilmphotos                 2     
-28    Yrikonchik                    1     
-29    @ad.astra.per.aspera.1894     1     
-30    Aoi Yuki                      1     
+26    @sachynmital                  3     
+27    @seklerek                     2     
+28    @ftfilmphotos                 2     
+29    Yrikonchik                    1     
+30    @ad.astra.per.aspera.1894     1     
+31    Aoi Yuki                      1     
 ```
 
 ## Recent Activities
 
 ```
+2025-09-11
+  - @sachynmital: Mr. Negative 250D
+  - @sachynmital: Mr. Negative Eterna 250D
+  - @sachynmital: Mr. Negative Silver Screen Negative
+
 2025-09-10
   - Aoi Yuki: Kodak Advantix Ultra
   - dekuNukem: Fujifilm Fujichrome Provia 400 Professional
@@ -117,9 +123,6 @@ Rank  Username                      Contributions
   - dekuNukem: Agfa Agfapan APX 400
   - dekuNukem: Agfa Optima II 400
   - dekuNukem: Kodak Portra 400UC
-
-2025-09-04
-  - dekuNukem: Kodak FarbWelt 400
 ```
 
 ## Disclaimer
