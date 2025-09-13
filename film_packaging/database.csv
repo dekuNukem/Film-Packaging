@@ -23,8 +23,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 12,0,film_box_outside,Fujifilm,Fujicolor Superia,120,400,C-41,200205,1736012528,0f8b58c33d22b7ac5f9356dea6728198,c3d9e51d22e241f69133be30d5a00683,00012_000.jpg,dekuNukem,,Single Pack,N/A
 12,1,film_box_inside,Fujifilm,Fujicolor Superia,120,400,C-41,200205,1736012532,9aae5bf0d88a5b78cda7c807df639085,5cd39510c35f4b9cbae3089311db118f,00012_001.jpg,dekuNukem,,Single Pack,N/A
 13,0,film_box_outside,Lloyds Pharmacy,Colour Film,35mm,200,C-41,200907,1736012624,9747dc1a3b3fa848e80457ee997d1ece,c58dda071d1741fda90e20b4252277d9,00013_000.jpg,dekuNukem,,Single Pack,36exp
-14,0,film_box_outside,Agfa,Vista 200,35mm,200,C-41,200312,1736012648,c96b09a92fd98b0145c22bca6a89a097,f1e50745927f4b7cb16af36fd30dd3af,00014_000.jpg,dekuNukem,,Single Pack,24exp
-14,1,film_box_inside,Agfa,Vista 200,35mm,200,C-41,200312,1736012650,d8055cdaf4e2318c7dc97fe46d1979eb,300a430fc19f4eeeb4892e58d3c3cd56,00014_001.jpg,dekuNukem,,Single Pack,24exp
+14,0,film_box_outside,Agfa,Agfacolor Vista,35mm,200,C-41,200312,1736012648,c96b09a92fd98b0145c22bca6a89a097,f1e50745927f4b7cb16af36fd30dd3af,00014_000.jpg,dekuNukem,,Single Pack,24exp
+14,1,film_box_inside,Agfa,Agfacolor Vista,35mm,200,C-41,200312,1736012650,d8055cdaf4e2318c7dc97fe46d1979eb,300a430fc19f4eeeb4892e58d3c3cd56,00014_001.jpg,dekuNukem,,Single Pack,24exp
 15,0,film_box_outside,Kentmere,PAN 400,35mm,400,BW,202906,1736012686,a1250d86f6c403b94ccbefd4d824a430,d2cf9753f6fd49a78404c72d848a827e,00015_000.jpg,dekuNukem,,Single Pack,36exp
 15,1,film_box_inside,Kentmere,PAN 400,35mm,400,BW,202906,1736012688,704eea294744e4de46c9cb70a6879887,3514628a650741c8abb104047d809f55,00015_001.jpg,dekuNukem,,Single Pack,36exp
 16,0,film_box_outside,Ilford,HP5 Plus,120,400,BW,202511,1736012716,87bc1d4a816c98be17f295300f214993,ddf9b76e633f43718144af7dcb89efad,00016_000.jpg,dekuNukem,,Single Pack,N/A

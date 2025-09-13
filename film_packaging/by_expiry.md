@@ -135,7 +135,7 @@ Total scans : 561
 - [[2003] Fujifilm Fujicolor Superia (ref: 9272)](#2003-fujifilm-fujicolor-superia-ref-9272)
 - [[2003] Kodak Advantix Ultra (ref: 030a)](#2003-kodak-advantix-ultra-ref-030a)
 - [[2003] Fujifilm Fujicolor NPS 160 (ref: 5e85)](#2003-fujifilm-fujicolor-nps-160-ref-5e85)
-- [[2003] Agfa Vista 200 (ref: d3af)](#2003-agfa-vista-200-ref-d3af)
+- [[2003] Agfa Agfacolor Vista (ref: d3af)](#2003-agfa-agfacolor-vista-ref-d3af)
 - [[2004] Fujifilm Neopan 400 (ref: c088)](#2004-fujifilm-neopan-400-ref-c088)
 - [[2004] Fujifilm Fujichrome Sensia 200 (ref: 3a01)](#2004-fujifilm-fujichrome-sensia-200-ref-3a01)
 - [[2004] Fujifilm Fujichrome Sensia 100 (ref: a859)](#2004-fujifilm-fujichrome-sensia-100-ref-a859)
@@ -2886,7 +2886,7 @@ UUID  : 576142521c2f4fe5abc387032bcc5e85
 	<img src="./lowres/00053_001.jpg" alt="Fujifilm Fujicolor NPS 160 35mm film box inside" loading="lazy" width="449" height="500">
 </a>
 
-#### [2003] Agfa Vista 200 (ref: d3af)
+#### [2003] Agfa Agfacolor Vista (ref: d3af)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -2897,14 +2897,14 @@ UUID  : f1e50745927f4b7cb16af36fd30dd3af
 ```
 
 <a href="./archive/00014_000.jpg">
-	<img src="./lowres/00014_000.jpg" alt="Agfa Vista 200 35mm film box outside" loading="lazy" width="438" height="500">
+	<img src="./lowres/00014_000.jpg" alt="Agfa Agfacolor Vista 35mm film box outside" loading="lazy" width="438" height="500">
 </a>
 
 
 `UUID: 300a430fc19f4eeeb4892e58d3c3cd56`↓
 
 <a href="./archive/00014_001.jpg">
-	<img src="./lowres/00014_001.jpg" alt="Agfa Vista 200 35mm film box inside" loading="lazy" width="440" height="500">
+	<img src="./lowres/00014_001.jpg" alt="Agfa Agfacolor Vista 35mm film box inside" loading="lazy" width="440" height="500">
 </a>
 
 #### [2004] Fujifilm Neopan 400 (ref: c088)

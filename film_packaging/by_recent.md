@@ -334,7 +334,7 @@ Total scans : 561
 - [[2025-01-04] Kodak High Speed Ektachrome (ref: ce7f)](#2025-01-04-kodak-high-speed-ektachrome-ref-ce7f)
 - [[2025-01-04] Ilford HP5 Plus (ref: efad)](#2025-01-04-ilford-hp5-plus-ref-efad)
 - [[2025-01-04] Kentmere PAN 400 (ref: 827e)](#2025-01-04-kentmere-pan-400-ref-827e)
-- [[2025-01-04] Agfa Vista 200 (ref: d3af)](#2025-01-04-agfa-vista-200-ref-d3af)
+- [[2025-01-04] Agfa Agfacolor Vista (ref: d3af)](#2025-01-04-agfa-agfacolor-vista-ref-d3af)
 - [[2025-01-04] Lloyds Pharmacy Colour Film (ref: 77d9)](#2025-01-04-lloyds-pharmacy-colour-film-ref-77d9)
 - [[2025-01-04] Fujifilm Fujicolor Superia (ref: 0683)](#2025-01-04-fujifilm-fujicolor-superia-ref-0683)
 - [[2025-01-04] Agfa APX (ref: 12c7)](#2025-01-04-agfa-apx-ref-12c7)
@@ -6292,10 +6292,10 @@ UUID  : d2cf9753f6fd49a78404c72d848a827e
 `UUID: 300a430fc19f4eeeb4892e58d3c3cd56`↓
 
 <a href="./archive/00014_001.jpg">
-	<img src="./lowres/00014_001.jpg" alt="Agfa Vista 200 35mm film box inside" loading="lazy" width="440" height="500">
+	<img src="./lowres/00014_001.jpg" alt="Agfa Agfacolor Vista 35mm film box inside" loading="lazy" width="440" height="500">
 </a>
 
-#### [2025-01-04] Agfa Vista 200 (ref: d3af)
+#### [2025-01-04] Agfa Agfacolor Vista (ref: d3af)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -6306,7 +6306,7 @@ UUID  : f1e50745927f4b7cb16af36fd30dd3af
 ```
 
 <a href="./archive/00014_000.jpg">
-	<img src="./lowres/00014_000.jpg" alt="Agfa Vista 200 35mm film box outside" loading="lazy" width="438" height="500">
+	<img src="./lowres/00014_000.jpg" alt="Agfa Agfacolor Vista 35mm film box outside" loading="lazy" width="438" height="500">
 </a>
 
 #### [2025-01-04] Lloyds Pharmacy Colour Film (ref: 77d9)
