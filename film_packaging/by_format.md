@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 13 2025
-Unique items: 326
-Total scans : 561
+Unique items: 330
+Total scans : 568
 ```
 
 -----
@@ -25,9 +25,12 @@ Total scans : 561
 - [[110] Agfa Agfacolor HDC Plus (ref: d22b)](#110-agfa-agfacolor-hdc-plus-ref-d22b)
 - [[110] Agfa Agfacolor Vista (ref: 2f14)](#110-agfa-agfacolor-vista-ref-2f14)
 - [[110] Klick XD200 (ref: 44d7)](#110-klick-xd200-ref-44d7)
+- [[110] Kodak 110 Film (ref: 8cca)](#110-kodak-110-film-ref-8cca)
 - [[110] Kodak Ektachrome 64 (ref: 07c0)](#110-kodak-ektachrome-64-ref-07c0)
 - [[110] Kodak Kodachrome 64 (ref: 3145)](#110-kodak-kodachrome-64-ref-3145)
+- [[110] Kodak Kodacolor 400 (ref: 9e4c)](#110-kodak-kodacolor-400-ref-9e4c)
 - [[110] Kodak Kodacolor Gold 200 (ref: f368)](#110-kodak-kodacolor-gold-200-ref-f368)
+- [[110] Kodak Ultra (ref: 5701)](#110-kodak-ultra-ref-5701)
 - [[110] Lomography Orca (ref: d506)](#110-lomography-orca-ref-d506)
 - [[110] Lomography Tiger (ref: 26dd)](#110-lomography-tiger-ref-26dd)
 - [[110] Polaroid High Definition (ref: deb6)](#110-polaroid-high-definition-ref-deb6)
@@ -39,7 +42,7 @@ Total scans : 561
 - [[120] Alien Film Aeronega (ref: d1c5)](#120-alien-film-aeronega-ref-d1c5)
 - [[120] Bergger Pancro400 (ref: ad7b)](#120-bergger-pancro400-ref-ad7b)
 - [[120] CatLABS X Film 320 Pro (ref: 1c69)](#120-catlabs-x-film-320-pro-ref-1c69)
-- [[120] CineStill 400D (ref: 88dc)](#120-cinestill-400d-ref-88dc)
+- [[120] CineStill 400Dynamic (ref: 88dc)](#120-cinestill-400dynamic-ref-88dc)
 - [[120] CineStill 800T (ref: c86a)](#120-cinestill-800t-ref-c86a)
 - [[120] CineStill BWXX (ref: 66eb)](#120-cinestill-bwxx-ref-66eb)
 - [[120] Efke IR 820 (ref: 43c9)](#120-efke-ir-820-ref-43c9)
@@ -145,6 +148,7 @@ Total scans : 561
 - [[35mm] Building 2 250D (ref: 7d4f)](#35mm-building-2-250d-ref-7d4f)
 - [[35mm] Building 2 500T (ref: 70d9)](#35mm-building-2-500t-ref-70d9)
 - [[35mm] Building 2 50D (ref: e548)](#35mm-building-2-50d-ref-e548)
+- [[35mm] CineStill 400Dynamic (ref: fccd)](#35mm-cinestill-400dynamic-ref-fccd)
 - [[35mm] CineStill 50D (ref: 3452)](#35mm-cinestill-50d-ref-3452)
 - [[35mm] CineStill 800T (ref: b3ff)](#35mm-cinestill-800t-ref-b3ff)
 - [[35mm] Efiniti UXi Super 200 (ref: 471a)](#35mm-efiniti-uxi-super-200-ref-471a)
@@ -394,6 +398,20 @@ UUID  : 2276628aa2794442ae81221329fc44d7
 	<img src="./lowres/00062_000.jpg" alt="Klick XD200 110 film box outside" loading="lazy" width="500" height="386">
 </a>
 
+#### [110] Kodak 110 Film (ref: 8cca)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2007-02 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : @filmfotofella
+UUID  : 6c0cf01a1703494296ce60ad5dd28cca
+```
+
+<a href="./archive/00332_000.jpg">
+	<img src="./lowres/00332_000.jpg" alt="Kodak 110 Film 110 film box outside" loading="lazy" width="299" height="499">
+</a>
+
 #### [110] Kodak Ektachrome 64 (ref: 07c0)
 
 ```
@@ -436,6 +454,34 @@ UUID  : 68c945b76fc14ab699b944a3c7b93145
 	<img src="./lowres/00026_002.jpg" alt="Kodak Kodachrome 64 110 film box processing envelope" loading="lazy" width="500" height="309">
 </a>
 
+#### [110] Kodak Kodacolor 400 (ref: 9e4c)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 1981-04 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-09-13   |  Author  : @filmfotofella
+UUID  : 3ef3252141a64ffe9d7e3fad745b9e4c
+```
+
+<a href="./archive/00331_000.jpg">
+	<img src="./lowres/00331_000.jpg" alt="Kodak Kodacolor 400 110 film box outside" loading="lazy" width="500" height="400">
+</a>
+
+
+`UUID: 2227688b4c8b4ef796fb75f487359f71`↓
+
+<a href="./archive/00331_001.jpg">
+	<img src="./lowres/00331_001.jpg" alt="Kodak Kodacolor 400 110 film box leaflet" loading="lazy" width="414" height="500">
+</a>
+
+
+`UUID: a87701598e4540da8804dd29aa0922f7`↓
+
+<a href="./archive/00331_002.jpg">
+	<img src="./lowres/00331_002.jpg" alt="Kodak Kodacolor 400 110 film box leaflet" loading="lazy" width="410" height="499">
+</a>
+
 #### [110] Kodak Kodacolor Gold 200 (ref: f368)
 
 ```
@@ -448,6 +494,20 @@ UUID  : 78bfeed667154d819902ec92d7dcf368
 
 <a href="./archive/00068_000.jpg">
 	<img src="./lowres/00068_000.jpg" alt="Kodak Kodacolor Gold 200 110 film box outside" loading="lazy" width="500" height="403">
+</a>
+
+#### [110] Kodak Ultra (ref: 5701)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2007-11 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : @filmfotofella
+UUID  : d01783be3b70456095411ca387865701
+```
+
+<a href="./archive/00333_000.jpg">
+	<img src="./lowres/00333_000.jpg" alt="Kodak Ultra 110 film box outside" loading="lazy" width="296" height="500">
 </a>
 
 #### [110] Lomography Orca (ref: d506)
@@ -646,7 +706,7 @@ UUID  : b5423225b6b2496eaf713a5a38731c69
 	<img src="./lowres/00196_001.jpg" alt="CatLABS X Film 320 Pro 120 film box outside" loading="lazy" width="500" height="422">
 </a>
 
-#### [120] CineStill 400D (ref: 88dc)
+#### [120] CineStill 400Dynamic (ref: 88dc)
 
 ```
 Format: 120          |  Process : C-41    
@@ -657,14 +717,14 @@ UUID  : 9e2bc75381ca4ca68e59dbf6c3a388dc
 ```
 
 <a href="./archive/00255_000.jpg">
-	<img src="./lowres/00255_000.jpg" alt="CineStill 400D 120 film box outside" loading="lazy" width="500" height="486">
+	<img src="./lowres/00255_000.jpg" alt="CineStill 400Dynamic 120 film box outside" loading="lazy" width="500" height="486">
 </a>
 
 
 `UUID: 42d565d0fdbc4e12bcc11d172b36f779`↓
 
 <a href="./archive/00255_001.jpg">
-	<img src="./lowres/00255_001.jpg" alt="CineStill 400D 120 film box inside" loading="lazy" width="490" height="500">
+	<img src="./lowres/00255_001.jpg" alt="CineStill 400Dynamic 120 film box inside" loading="lazy" width="490" height="500">
 </a>
 
 #### [120] CineStill 800T (ref: c86a)
@@ -2856,6 +2916,27 @@ UUID  : f0c8cbdc08d146ba8690d19a70dbe548
 
 <a href="./archive/00213_000.jpg">
 	<img src="./lowres/00213_000.jpg" alt="Building 2 50D 35mm film box outside" loading="lazy" width="410" height="499">
+</a>
+
+#### [35mm] CineStill 400Dynamic (ref: fccd)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2025-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-13   |  Author  : @filmfotofella
+UUID  : 587ac1b471994b54bb5f472d6975fccd
+```
+
+<a href="./archive/00330_000.jpg">
+	<img src="./lowres/00330_000.jpg" alt="CineStill 400Dynamic 35mm film box outside" loading="lazy" width="380" height="500">
+</a>
+
+
+`UUID: 96209110f95e4744b78b1d31a44f73cf`↓
+
+<a href="./archive/00330_001.jpg">
+	<img src="./lowres/00330_001.jpg" alt="CineStill 400Dynamic 35mm film box inside" loading="lazy" width="382" height="500">
 </a>
 
 #### [35mm] CineStill 50D (ref: 3452)
@@ -6587,20 +6668,21 @@ Rank  Username                      Contributions
 15    @zruk_ts                      10    
 16    lilyu.xyz                     9     
 17    @toastergod101                7     
-18    benikum                       6     
-19    Kraksen                       5     
-20    Henry Gunn                    4     
-21    u/ReeeSchmidtyWerber          4     
-22    lt_col_tall                   4     
-23    kaimon                        4     
-24    @Hol.m35                      3     
-25    TheSelousScout                3     
-26    @sachynmital                  3     
-27    @seklerek                     2     
-28    @ftfilmphotos                 2     
-29    Yrikonchik                    1     
-30    @ad.astra.per.aspera.1894     1     
-31    Aoi Yuki                      1     
+18    @filmfotofella                7     
+19    benikum                       6     
+20    Kraksen                       5     
+21    Henry Gunn                    4     
+22    u/ReeeSchmidtyWerber          4     
+23    lt_col_tall                   4     
+24    kaimon                        4     
+25    @Hol.m35                      3     
+26    TheSelousScout                3     
+27    @sachynmital                  3     
+28    @seklerek                     2     
+29    @ftfilmphotos                 2     
+30    Yrikonchik                    1     
+31    @ad.astra.per.aspera.1894     1     
+32    Aoi Yuki                      1     
 ```
 
 ## Questions or Comments?

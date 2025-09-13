@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Sep 13 2025
-Unique items: 326
-Total scans : 561
+Unique items: 330
+Total scans : 568
 ```
 
 Or Sort by...
@@ -70,26 +70,31 @@ Rank  Username                      Contributions
 15    @zruk_ts                      10    
 16    lilyu.xyz                     9     
 17    @toastergod101                7     
-18    benikum                       6     
-19    Kraksen                       5     
-20    Henry Gunn                    4     
-21    u/ReeeSchmidtyWerber          4     
-22    lt_col_tall                   4     
-23    kaimon                        4     
-24    @Hol.m35                      3     
-25    TheSelousScout                3     
-26    @sachynmital                  3     
-27    @seklerek                     2     
-28    @ftfilmphotos                 2     
-29    Yrikonchik                    1     
-30    @ad.astra.per.aspera.1894     1     
-31    Aoi Yuki                      1     
+18    @filmfotofella                7     
+19    benikum                       6     
+20    Kraksen                       5     
+21    Henry Gunn                    4     
+22    u/ReeeSchmidtyWerber          4     
+23    lt_col_tall                   4     
+24    kaimon                        4     
+25    @Hol.m35                      3     
+26    TheSelousScout                3     
+27    @sachynmital                  3     
+28    @seklerek                     2     
+29    @ftfilmphotos                 2     
+30    Yrikonchik                    1     
+31    @ad.astra.per.aspera.1894     1     
+32    Aoi Yuki                      1     
 ```
 
 ## Recent Activities
 
 ```
 2025-09-13
+  - @filmfotofella: CineStill 400Dynamic
+  - @filmfotofella: Kodak 110 Film
+  - @filmfotofella: Kodak Kodacolor 400
+  - @filmfotofella: Kodak Ultra
   - dekuNukem: Agfa Agfacolor HDC Plus
   - dekuNukem: Agfa Agfacolor Vista
   - dekuNukem: Kodak Advantix Ultra Max

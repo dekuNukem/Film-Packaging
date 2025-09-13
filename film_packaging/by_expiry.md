@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 13 2025
-Unique items: 326
-Total scans : 561
+Unique items: 330
+Total scans : 568
 ```
 
 -----
@@ -58,6 +58,7 @@ Total scans : 561
 - [[1979] Kodak Kodachrome 64 (ref: 3145)](#1979-kodak-kodachrome-64-ref-3145)
 - [[1980] Kodak Ektachrome 400 (ref: 2b94)](#1980-kodak-ektachrome-400-ref-2b94)
 - [[1980] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)](#1980-kodak-ektachrome-160-movie-film-type-a-ref-8f62)
+- [[1981] Kodak Kodacolor 400 (ref: 9e4c)](#1981-kodak-kodacolor-400-ref-9e4c)
 - [[1983] Kodak Kodachrome 25 (ref: 8833)](#1983-kodak-kodachrome-25-ref-8833)
 - [[1983] Kodak Kodacolor II (ref: 7310)](#1983-kodak-kodacolor-ii-ref-7310)
 - [[1985] Konica Konica Color II (ref: fb5b)](#1985-konica-konica-color-ii-ref-fb5b)
@@ -165,6 +166,7 @@ Total scans : 561
 - [[2006] Polaroid GridFilm (ref: 8deb)](#2006-polaroid-gridfilm-ref-8deb)
 - [[2006] Fujifilm Fujichrome Provia 100F (ref: 1b4b)](#2006-fujifilm-fujichrome-provia-100f-ref-1b4b)
 - [[2007] Klick 400ASA (ref: 8779)](#2007-klick-400asa-ref-8779)
+- [[2007] Kodak 110 Film (ref: 8cca)](#2007-kodak-110-film-ref-8cca)
 - [[2007] Konica Minolta Commercial Color Film (ref: e903)](#2007-konica-minolta-commercial-color-film-ref-e903)
 - [[2007] Fujifilm Fujichrome Velvia 100F (ref: 32d4)](#2007-fujifilm-fujichrome-velvia-100f-ref-32d4)
 - [[2007] Kodak MAX (ref: 2361)](#2007-kodak-max-ref-2361)
@@ -174,6 +176,7 @@ Total scans : 561
 - [[2007] Lloyds Pharmacy APS Film (ref: c7cf)](#2007-lloyds-pharmacy-aps-film-ref-c7cf)
 - [[2007] Fujifilm Fujicolor Pro 400H (ref: 48ed)](#2007-fujifilm-fujicolor-pro-400h-ref-48ed)
 - [[2007] Kodak Elite Chrome (ref: 3943)](#2007-kodak-elite-chrome-ref-3943)
+- [[2007] Kodak Ultra (ref: 5701)](#2007-kodak-ultra-ref-5701)
 - [[2008] Agfa APX (ref: 12c7)](#2008-agfa-apx-ref-12c7)
 - [[2008] Kodak High Speed Infrared (ref: 883e)](#2008-kodak-high-speed-infrared-ref-883e)
 - [[2009] Fujifilm Fujicolor Pro 400H (ref: dc37)](#2009-fujifilm-fujicolor-pro-400h-ref-dc37)
@@ -229,7 +232,7 @@ Total scans : 561
 - [[2024] Mr. Negative 250D (ref: 3574)](#2024-mr-negative-250d-ref-3574)
 - [[2024] Mr. Negative Silver Screen Negative (ref: c968)](#2024-mr-negative-silver-screen-negative-ref-c968)
 - [[2024] Alien Film 5222/XX (ref: 3e49)](#2024-alien-film-5222xx-ref-3e49)
-- [[2024] CineStill 400D (ref: 88dc)](#2024-cinestill-400d-ref-88dc)
+- [[2024] CineStill 400Dynamic (ref: 88dc)](#2024-cinestill-400dynamic-ref-88dc)
 - [[2024] Shanghai GP3 (ref: 52aa)](#2024-shanghai-gp3-ref-52aa)
 - [[2024] Fujifilm Fujicolor Superia X-TRA (ref: 8923)](#2024-fujifilm-fujicolor-superia-x-tra-ref-8923)
 - [[2024] Ilford Delta 100 Professional (ref: eb8d)](#2024-ilford-delta-100-professional-ref-eb8d)
@@ -246,6 +249,7 @@ Total scans : 561
 - [[2025] Ilford Delta 3200 Professional (ref: 920f)](#2025-ilford-delta-3200-professional-ref-920f)
 - [[2025] Kodak Portra 800 (ref: 7d65)](#2025-kodak-portra-800-ref-7d65)
 - [[2025] Lomography Lomochrome Turquoise (ref: 0d90)](#2025-lomography-lomochrome-turquoise-ref-0d90)
+- [[2025] CineStill 400Dynamic (ref: fccd)](#2025-cinestill-400dynamic-ref-fccd)
 - [[2025] Fujifilm 400 (ref: 82be)](#2025-fujifilm-400-ref-82be)
 - [[2025] Kodak ColorPlus (ref: 79ca)](#2025-kodak-colorplus-ref-79ca)
 - [[2025] Fujifilm Fujicolor 100 (ref: b3c9)](#2025-fujifilm-fujicolor-100-ref-b3c9)
@@ -1225,6 +1229,34 @@ UUID  : 6032680a3aba41b39c600d7e23998f62
 
 <a href="./archive/00154_004.jpg">
 	<img src="./lowres/00154_004.jpg" alt="Kodak Ektachrome 160 Movie Film Type A Super 8 film box processing envelope" loading="lazy" width="500" height="191">
+</a>
+
+#### [1981] Kodak Kodacolor 400 (ref: 9e4c)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 1981-04 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-09-13   |  Author  : @filmfotofella
+UUID  : 3ef3252141a64ffe9d7e3fad745b9e4c
+```
+
+<a href="./archive/00331_000.jpg">
+	<img src="./lowres/00331_000.jpg" alt="Kodak Kodacolor 400 110 film box outside" loading="lazy" width="500" height="400">
+</a>
+
+
+`UUID: 2227688b4c8b4ef796fb75f487359f71`↓
+
+<a href="./archive/00331_001.jpg">
+	<img src="./lowres/00331_001.jpg" alt="Kodak Kodacolor 400 110 film box leaflet" loading="lazy" width="414" height="500">
+</a>
+
+
+`UUID: a87701598e4540da8804dd29aa0922f7`↓
+
+<a href="./archive/00331_002.jpg">
+	<img src="./lowres/00331_002.jpg" alt="Kodak Kodacolor 400 110 film box leaflet" loading="lazy" width="410" height="499">
 </a>
 
 #### [1983] Kodak Kodachrome 25 (ref: 8833)
@@ -3446,6 +3478,20 @@ UUID  : 42f73c1448634cdb856d014e59098779
 	<img src="./lowres/00270_001.jpg" alt="Klick 400ASA 35mm film box inside" loading="lazy" width="434" height="500">
 </a>
 
+#### [2007] Kodak 110 Film (ref: 8cca)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2007-02 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : @filmfotofella
+UUID  : 6c0cf01a1703494296ce60ad5dd28cca
+```
+
+<a href="./archive/00332_000.jpg">
+	<img src="./lowres/00332_000.jpg" alt="Kodak 110 Film 110 film box outside" loading="lazy" width="299" height="499">
+</a>
+
 #### [2007] Konica Minolta Commercial Color Film (ref: e903)
 
 ```
@@ -3598,6 +3644,20 @@ UUID  : c9ba81252c5f438ca70922a2b5703943
 
 <a href="./archive/00178_001.jpg">
 	<img src="./lowres/00178_001.jpg" alt="Kodak Elite Chrome 35mm film box outside" loading="lazy" width="500" height="430">
+</a>
+
+#### [2007] Kodak Ultra (ref: 5701)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2007-11 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : @filmfotofella
+UUID  : d01783be3b70456095411ca387865701
+```
+
+<a href="./archive/00333_000.jpg">
+	<img src="./lowres/00333_000.jpg" alt="Kodak Ultra 110 film box outside" loading="lazy" width="296" height="500">
 </a>
 
 #### [2008] Agfa APX (ref: 12c7)
@@ -4503,7 +4563,7 @@ UUID  : 9984ed6c13cd4be496e7e4b58e313e49
 	<img src="./lowres/00057_000.jpg" alt="Alien Film 5222/XX 35mm film box outside" loading="lazy" width="455" height="500">
 </a>
 
-#### [2024] CineStill 400D (ref: 88dc)
+#### [2024] CineStill 400Dynamic (ref: 88dc)
 
 ```
 Format: 120          |  Process : C-41    
@@ -4514,14 +4574,14 @@ UUID  : 9e2bc75381ca4ca68e59dbf6c3a388dc
 ```
 
 <a href="./archive/00255_000.jpg">
-	<img src="./lowres/00255_000.jpg" alt="CineStill 400D 120 film box outside" loading="lazy" width="500" height="486">
+	<img src="./lowres/00255_000.jpg" alt="CineStill 400Dynamic 120 film box outside" loading="lazy" width="500" height="486">
 </a>
 
 
 `UUID: 42d565d0fdbc4e12bcc11d172b36f779`↓
 
 <a href="./archive/00255_001.jpg">
-	<img src="./lowres/00255_001.jpg" alt="CineStill 400D 120 film box inside" loading="lazy" width="490" height="500">
+	<img src="./lowres/00255_001.jpg" alt="CineStill 400Dynamic 120 film box inside" loading="lazy" width="490" height="500">
 </a>
 
 #### [2024] Shanghai GP3 (ref: 52aa)
@@ -4844,6 +4904,27 @@ UUID  : 99643a4fc27b4ff298e834fc72970d90
 
 <a href="./archive/00008_001.jpg">
 	<img src="./lowres/00008_001.jpg" alt="Lomography Lomochrome Turquoise 120 film box inside" loading="lazy" width="500" height="298">
+</a>
+
+#### [2025] CineStill 400Dynamic (ref: fccd)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2025-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-13   |  Author  : @filmfotofella
+UUID  : 587ac1b471994b54bb5f472d6975fccd
+```
+
+<a href="./archive/00330_000.jpg">
+	<img src="./lowres/00330_000.jpg" alt="CineStill 400Dynamic 35mm film box outside" loading="lazy" width="380" height="500">
+</a>
+
+
+`UUID: 96209110f95e4744b78b1d31a44f73cf`↓
+
+<a href="./archive/00330_001.jpg">
+	<img src="./lowres/00330_001.jpg" alt="CineStill 400Dynamic 35mm film box inside" loading="lazy" width="382" height="500">
 </a>
 
 #### [2025] Fujifilm 400 (ref: 82be)
@@ -6587,20 +6668,21 @@ Rank  Username                      Contributions
 15    @zruk_ts                      10    
 16    lilyu.xyz                     9     
 17    @toastergod101                7     
-18    benikum                       6     
-19    Kraksen                       5     
-20    Henry Gunn                    4     
-21    u/ReeeSchmidtyWerber          4     
-22    lt_col_tall                   4     
-23    kaimon                        4     
-24    @Hol.m35                      3     
-25    TheSelousScout                3     
-26    @sachynmital                  3     
-27    @seklerek                     2     
-28    @ftfilmphotos                 2     
-29    Yrikonchik                    1     
-30    @ad.astra.per.aspera.1894     1     
-31    Aoi Yuki                      1     
+18    @filmfotofella                7     
+19    benikum                       6     
+20    Kraksen                       5     
+21    Henry Gunn                    4     
+22    u/ReeeSchmidtyWerber          4     
+23    lt_col_tall                   4     
+24    kaimon                        4     
+25    @Hol.m35                      3     
+26    TheSelousScout                3     
+27    @sachynmital                  3     
+28    @seklerek                     2     
+29    @ftfilmphotos                 2     
+30    Yrikonchik                    1     
+31    @ad.astra.per.aspera.1894     1     
+32    Aoi Yuki                      1     
 ```
 
 ## Questions or Comments?

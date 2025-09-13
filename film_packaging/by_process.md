@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 13 2025
-Unique items: 326
-Total scans : 561
+Unique items: 330
+Total scans : 568
 ```
 
 -----
@@ -140,7 +140,8 @@ Total scans : 561
 - [[C-41] Alfo ALFOcolor PR-G (ref: 94b9)](#c-41-alfo-alfocolor-pr-g-ref-94b9)
 - [[C-41] Alien Film Aeronega (ref: d1c5)](#c-41-alien-film-aeronega-ref-d1c5)
 - [[C-41] Boots Colour Print Film (ref: a30f)](#c-41-boots-colour-print-film-ref-a30f)
-- [[C-41] CineStill 400D (ref: 88dc)](#c-41-cinestill-400d-ref-88dc)
+- [[C-41] CineStill 400Dynamic (ref: 88dc)](#c-41-cinestill-400dynamic-ref-88dc)
+- [[C-41] CineStill 400Dynamic (ref: fccd)](#c-41-cinestill-400dynamic-ref-fccd)
 - [[C-41] CineStill 50D (ref: 3452)](#c-41-cinestill-50d-ref-3452)
 - [[C-41] CineStill 800T (ref: c86a)](#c-41-cinestill-800t-ref-c86a)
 - [[C-41] CineStill 800T (ref: b3ff)](#c-41-cinestill-800t-ref-b3ff)
@@ -194,6 +195,7 @@ Total scans : 561
 - [[C-41] Klick 400ASA (ref: 8779)](#c-41-klick-400asa-ref-8779)
 - [[C-41] Klick APS Film (ref: 4b88)](#c-41-klick-aps-film-ref-4b88)
 - [[C-41] Klick XD200 (ref: 44d7)](#c-41-klick-xd200-ref-44d7)
+- [[C-41] Kodak 110 Film (ref: 8cca)](#c-41-kodak-110-film-ref-8cca)
 - [[C-41] Kodak Advantix Ultra (ref: 030a)](#c-41-kodak-advantix-ultra-ref-030a)
 - [[C-41] Kodak Advantix Ultra (ref: 566b)](#c-41-kodak-advantix-ultra-ref-566b)
 - [[C-41] Kodak Advantix Ultra Max (ref: 1ca2)](#c-41-kodak-advantix-ultra-max-ref-1ca2)
@@ -214,6 +216,7 @@ Total scans : 561
 - [[C-41] Kodak Gold 200 (ref: 933f)](#c-41-kodak-gold-200-ref-933f)
 - [[C-41] Kodak Gold II (ref: 61d0)](#c-41-kodak-gold-ii-ref-61d0)
 - [[C-41] Kodak Gold Ultra 400 (ref: 1358)](#c-41-kodak-gold-ultra-400-ref-1358)
+- [[C-41] Kodak Kodacolor 400 (ref: 9e4c)](#c-41-kodak-kodacolor-400-ref-9e4c)
 - [[C-41] Kodak Kodacolor Gold 200 (ref: f368)](#c-41-kodak-kodacolor-gold-200-ref-f368)
 - [[C-41] Kodak Kodacolor II (ref: 7310)](#c-41-kodak-kodacolor-ii-ref-7310)
 - [[C-41] Kodak Kodacolor VR (ref: 035f)](#c-41-kodak-kodacolor-vr-ref-035f)
@@ -232,6 +235,7 @@ Total scans : 561
 - [[C-41] Kodak Portra 800 (ref: 7d65)](#c-41-kodak-portra-800-ref-7d65)
 - [[C-41] Kodak ProImage 100 (ref: fe32)](#c-41-kodak-proimage-100-ref-fe32)
 - [[C-41] Kodak Ultra (ref: 69a1)](#c-41-kodak-ultra-ref-69a1)
+- [[C-41] Kodak Ultra (ref: 5701)](#c-41-kodak-ultra-ref-5701)
 - [[C-41] Kodak UltraMax (ref: 3b23)](#c-41-kodak-ultramax-ref-3b23)
 - [[C-41] Kodak UltraMax (ref: 3c02)](#c-41-kodak-ultramax-ref-3c02)
 - [[C-41] Kodak UltraMax (ref: e4ad)](#c-41-kodak-ultramax-ref-e4ad)
@@ -2571,7 +2575,7 @@ UUID  : bd601340027a4c9daa7e219b414fa30f
 	<img src="./lowres/00166_000.jpg" alt="Boots Colour Print Film 35mm film box outside" loading="lazy" width="443" height="500">
 </a>
 
-#### [C-41] CineStill 400D (ref: 88dc)
+#### [C-41] CineStill 400Dynamic (ref: 88dc)
 
 ```
 Format: 120          |  Process : C-41    
@@ -2582,14 +2586,35 @@ UUID  : 9e2bc75381ca4ca68e59dbf6c3a388dc
 ```
 
 <a href="./archive/00255_000.jpg">
-	<img src="./lowres/00255_000.jpg" alt="CineStill 400D 120 film box outside" loading="lazy" width="500" height="486">
+	<img src="./lowres/00255_000.jpg" alt="CineStill 400Dynamic 120 film box outside" loading="lazy" width="500" height="486">
 </a>
 
 
 `UUID: 42d565d0fdbc4e12bcc11d172b36f779`↓
 
 <a href="./archive/00255_001.jpg">
-	<img src="./lowres/00255_001.jpg" alt="CineStill 400D 120 film box inside" loading="lazy" width="490" height="500">
+	<img src="./lowres/00255_001.jpg" alt="CineStill 400Dynamic 120 film box inside" loading="lazy" width="490" height="500">
+</a>
+
+#### [C-41] CineStill 400Dynamic (ref: fccd)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2025-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-13   |  Author  : @filmfotofella
+UUID  : 587ac1b471994b54bb5f472d6975fccd
+```
+
+<a href="./archive/00330_000.jpg">
+	<img src="./lowres/00330_000.jpg" alt="CineStill 400Dynamic 35mm film box outside" loading="lazy" width="380" height="500">
+</a>
+
+
+`UUID: 96209110f95e4744b78b1d31a44f73cf`↓
+
+<a href="./archive/00330_001.jpg">
+	<img src="./lowres/00330_001.jpg" alt="CineStill 400Dynamic 35mm film box inside" loading="lazy" width="382" height="500">
 </a>
 
 #### [C-41] CineStill 50D (ref: 3452)
@@ -3537,6 +3562,20 @@ UUID  : 2276628aa2794442ae81221329fc44d7
 	<img src="./lowres/00062_000.jpg" alt="Klick XD200 110 film box outside" loading="lazy" width="500" height="386">
 </a>
 
+#### [C-41] Kodak 110 Film (ref: 8cca)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2007-02 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : @filmfotofella
+UUID  : 6c0cf01a1703494296ce60ad5dd28cca
+```
+
+<a href="./archive/00332_000.jpg">
+	<img src="./lowres/00332_000.jpg" alt="Kodak 110 Film 110 film box outside" loading="lazy" width="299" height="499">
+</a>
+
 #### [C-41] Kodak Advantix Ultra (ref: 030a)
 
 ```
@@ -3873,6 +3912,34 @@ UUID  : c2dc7711cd38434da5cfea8750f61358
 	<img src="./lowres/00094_001.jpg" alt="Kodak Gold Ultra 400 35mm film box outside" loading="lazy" width="300" height="500">
 </a>
 
+#### [C-41] Kodak Kodacolor 400 (ref: 9e4c)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 1981-04 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-09-13   |  Author  : @filmfotofella
+UUID  : 3ef3252141a64ffe9d7e3fad745b9e4c
+```
+
+<a href="./archive/00331_000.jpg">
+	<img src="./lowres/00331_000.jpg" alt="Kodak Kodacolor 400 110 film box outside" loading="lazy" width="500" height="400">
+</a>
+
+
+`UUID: 2227688b4c8b4ef796fb75f487359f71`↓
+
+<a href="./archive/00331_001.jpg">
+	<img src="./lowres/00331_001.jpg" alt="Kodak Kodacolor 400 110 film box leaflet" loading="lazy" width="414" height="500">
+</a>
+
+
+`UUID: a87701598e4540da8804dd29aa0922f7`↓
+
+<a href="./archive/00331_002.jpg">
+	<img src="./lowres/00331_002.jpg" alt="Kodak Kodacolor 400 110 film box leaflet" loading="lazy" width="410" height="499">
+</a>
+
 #### [C-41] Kodak Kodacolor Gold 200 (ref: f368)
 
 ```
@@ -4172,6 +4239,20 @@ UUID  : 77dfbdf80e3a4950b40c7ea8c1e369a1
 
 <a href="./archive/00043_000.jpg">
 	<img src="./lowres/00043_000.jpg" alt="Kodak Ultra 35mm film box outside" loading="lazy" width="442" height="500">
+</a>
+
+#### [C-41] Kodak Ultra (ref: 5701)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2007-11 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : @filmfotofella
+UUID  : d01783be3b70456095411ca387865701
+```
+
+<a href="./archive/00333_000.jpg">
+	<img src="./lowres/00333_000.jpg" alt="Kodak Ultra 110 film box outside" loading="lazy" width="296" height="500">
 </a>
 
 #### [C-41] Kodak UltraMax (ref: 3b23)
@@ -6587,20 +6668,21 @@ Rank  Username                      Contributions
 15    @zruk_ts                      10    
 16    lilyu.xyz                     9     
 17    @toastergod101                7     
-18    benikum                       6     
-19    Kraksen                       5     
-20    Henry Gunn                    4     
-21    u/ReeeSchmidtyWerber          4     
-22    lt_col_tall                   4     
-23    kaimon                        4     
-24    @Hol.m35                      3     
-25    TheSelousScout                3     
-26    @sachynmital                  3     
-27    @seklerek                     2     
-28    @ftfilmphotos                 2     
-29    Yrikonchik                    1     
-30    @ad.astra.per.aspera.1894     1     
-31    Aoi Yuki                      1     
+18    @filmfotofella                7     
+19    benikum                       6     
+20    Kraksen                       5     
+21    Henry Gunn                    4     
+22    u/ReeeSchmidtyWerber          4     
+23    lt_col_tall                   4     
+24    kaimon                        4     
+25    @Hol.m35                      3     
+26    TheSelousScout                3     
+27    @sachynmital                  3     
+28    @seklerek                     2     
+29    @ftfilmphotos                 2     
+30    Yrikonchik                    1     
+31    @ad.astra.per.aspera.1894     1     
+32    Aoi Yuki                      1     
 ```
 
 ## Questions or Comments?

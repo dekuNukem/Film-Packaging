@@ -421,8 +421,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 253,1,film_box_inside,Kodak,Gold II,35mm,200,C-41,199311,1755730584,5e4732b7b0a46cd44dcc30d23339fd7d,49bb438bb4a94d07b07d1bd3178a38d8,00253_001.jpg,@photos.by.qi,,Single Pack,36exp
 254,0,film_box_outside,CineStill,50D,35mm,50,C-41,202305,1755730653,9a4e29966e76245a0f494cded02e8c22,9213a1fbffc44178878f7bd9c5d33452,00254_000.jpg,@photos.by.qi,,Single Pack,36exp
 254,1,film_box_inside,CineStill,50D,35mm,50,C-41,202305,1755730665,6387cfa313e9189e11a72de9d6fee130,219350408c3c45c7b9c23de73db1ed40,00254_001.jpg,@photos.by.qi,,Single Pack,36exp
-255,0,film_box_outside,CineStill,400D,120,400,C-41,202406,1755730694,093d71341fa4b4fa96287fc2919bb2ae,9e2bc75381ca4ca68e59dbf6c3a388dc,00255_000.jpg,@photos.by.qi,,Single Pack,N/A
-255,1,film_box_inside,CineStill,400D,120,400,C-41,202406,1755730696,fd20e362370f8cb1ee899a4d7d0185bd,42d565d0fdbc4e12bcc11d172b36f779,00255_001.jpg,@photos.by.qi,,Single Pack,N/A
+255,0,film_box_outside,CineStill,400Dynamic,120,400,C-41,202406,1755730694,093d71341fa4b4fa96287fc2919bb2ae,9e2bc75381ca4ca68e59dbf6c3a388dc,00255_000.jpg,@photos.by.qi,,Single Pack,N/A
+255,1,film_box_inside,CineStill,400Dynamic,120,400,C-41,202406,1755730696,fd20e362370f8cb1ee899a4d7d0185bd,42d565d0fdbc4e12bcc11d172b36f779,00255_001.jpg,@photos.by.qi,,Single Pack,N/A
 256,0,film_box_outside,CineStill,BWXX,120,200-400,D96,202310,1755730755,bac5b1d8316784b9cee9efc9239289e7,e4493fbb55e044edaaca55ecd22366eb,00256_000.jpg,@photos.by.qi,,Single Pack,N/A
 256,1,film_box_inside,CineStill,BWXX,120,200-400,D96,202310,1755730756,0df4154215b696fc7dace9e67cf4a277,6e4b285456d1438ab0cdad81440b9761,00256_001.jpg,@photos.by.qi,,Single Pack,N/A
 257,0,film_box_outside,Agfa,Vista Plus 200,35mm,200,C-41,201901,1755730811,b0289a372c231456fc85f3148f06e41e,b1c4d56515954c8d98bd0b8f9591f08a,00257_000.jpg,@photos.by.qi,,Single Pack,36exp
@@ -560,3 +560,10 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 327,0,film_box_outside,Polaroid,High Definition,110,200,C-41,200201,1757724210,ef32effe20c353cda323aab0bfdc550b,6c15a39618164543bfc2ef7f54addeb6,00327_000.jpg,dekuNukem,,Single Pack,24exp
 328,0,film_box_outside,Agfa,Agfacolor HDC Plus,110,200,C-41,200107,1757724290,a74c343072bbaa38acf546ba351a9c80,9cec7faf26254e72bfb79611ea6ed22b,00328_000.jpg,dekuNukem,,Single Pack,24exp
 329,0,film_box_outside,Agfa,Agfacolor Vista,110,200,C-41,200305,1757724338,f07aa2c28944ce716c0f9fe3c4a0f94b,81e8726a7d3b45beb1f1bd6c1cbc2f14,00329_000.jpg,dekuNukem,,Single Pack,24exp
+330,0,film_box_outside,CineStill,400Dynamic,35mm,400,C-41,202508,1757759379,a4ef4621e46e3e4156841b6b056986fa,587ac1b471994b54bb5f472d6975fccd,00330_000.jpg,@filmfotofella,,Single Pack,36exp
+330,1,film_box_inside,CineStill,400Dynamic,35mm,400,C-41,202508,1757759381,fc7e21746e1c520e06ca3c2ba4a128ef,96209110f95e4744b78b1d31a44f73cf,00330_001.jpg,@filmfotofella,,Single Pack,36exp
+331,0,film_box_outside,Kodak,Kodacolor 400,110,400,C-41,198104,1757759712,0cba3d92958be5aa5c01c673d980dc51,3ef3252141a64ffe9d7e3fad745b9e4c,00331_000.jpg,@filmfotofella,,Single Pack,20exp
+331,1,film_box_leaflet,Kodak,Kodacolor 400,110,400,C-41,198104,1757759714,bbfc9a7b2e65c916cbf539b7fffb9bf9,2227688b4c8b4ef796fb75f487359f71,00331_001.jpg,@filmfotofella,,Single Pack,20exp
+331,2,film_box_leaflet,Kodak,Kodacolor 400,110,400,C-41,198104,1757759716,9037ceb7626effee95f371a12a07c825,a87701598e4540da8804dd29aa0922f7,00331_002.jpg,@filmfotofella,,Single Pack,20exp
+332,0,film_box_outside,Kodak,110 Film,110,400,C-41,200702,1757760004,8086dce03967b3912e435452d5034be0,6c0cf01a1703494296ce60ad5dd28cca,00332_000.jpg,@filmfotofella,,Single Pack,24exp
+333,0,film_box_outside,Kodak,Ultra,110,400,C-41,200711,1757760052,e52bae72446d6bf6038cfda64c08bbb4,d01783be3b70456095411ca387865701,00333_000.jpg,@filmfotofella,,Single Pack,24exp

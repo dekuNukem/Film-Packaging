@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 13 2025
-Unique items: 326
-Total scans : 561
+Unique items: 330
+Total scans : 568
 ```
 
 -----
@@ -54,6 +54,10 @@ Total scans : 561
 - [[@ellafridalindblom] Konica Infrared 750nm (ref: 6b0e)](#ellafridalindblom-konica-infrared-750nm-ref-6b0e)
 - [[@ellafridalindblom] Konica Minolta Commercial Color Film (ref: e903)](#ellafridalindblom-konica-minolta-commercial-color-film-ref-e903)
 - [[@ellafridalindblom] Phöbus-Platten Sheet Film (ref: d505)](#ellafridalindblom-phöbus-platten-sheet-film-ref-d505)
+- [[@filmfotofella] CineStill 400Dynamic (ref: fccd)](#filmfotofella-cinestill-400dynamic-ref-fccd)
+- [[@filmfotofella] Kodak 110 Film (ref: 8cca)](#filmfotofella-kodak-110-film-ref-8cca)
+- [[@filmfotofella] Kodak Kodacolor 400 (ref: 9e4c)](#filmfotofella-kodak-kodacolor-400-ref-9e4c)
+- [[@filmfotofella] Kodak Ultra (ref: 5701)](#filmfotofella-kodak-ultra-ref-5701)
 - [[@ftfilmphotos] Kodak Kodacolor VR (ref: 035f)](#ftfilmphotos-kodak-kodacolor-vr-ref-035f)
 - [[@ob.skura] Fujifilm Fujichrome Velvia (ref: 3182)](#obskura-fujifilm-fujichrome-velvia-ref-3182)
 - [[@ob.skura] Ilford Delta 100 Professional (ref: eb8d)](#obskura-ilford-delta-100-professional-ref-eb8d)
@@ -69,7 +73,7 @@ Total scans : 561
 - [[@photos.by.qi] Building 2 250D (ref: 7d4f)](#photosbyqi-building-2-250d-ref-7d4f)
 - [[@photos.by.qi] Building 2 500T (ref: 70d9)](#photosbyqi-building-2-500t-ref-70d9)
 - [[@photos.by.qi] Building 2 50D (ref: e548)](#photosbyqi-building-2-50d-ref-e548)
-- [[@photos.by.qi] CineStill 400D (ref: 88dc)](#photosbyqi-cinestill-400d-ref-88dc)
+- [[@photos.by.qi] CineStill 400Dynamic (ref: 88dc)](#photosbyqi-cinestill-400dynamic-ref-88dc)
 - [[@photos.by.qi] CineStill 50D (ref: 3452)](#photosbyqi-cinestill-50d-ref-3452)
 - [[@photos.by.qi] CineStill BWXX (ref: 66eb)](#photosbyqi-cinestill-bwxx-ref-66eb)
 - [[@photos.by.qi] Ferrania Solaris (ref: a929)](#photosbyqi-ferrania-solaris-ref-a929)
@@ -891,6 +895,83 @@ UUID  : d9b0fa92fbbb494085ce494cc407d505
 	<img src="./lowres/00282_000.jpg" alt="Phöbus-Platten Sheet Film 12x16.5cm film box outside" loading="lazy" width="500" height="419">
 </a>
 
+#### [@filmfotofella] CineStill 400Dynamic (ref: fccd)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2025-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-13   |  Author  : @filmfotofella
+UUID  : 587ac1b471994b54bb5f472d6975fccd
+```
+
+<a href="./archive/00330_000.jpg">
+	<img src="./lowres/00330_000.jpg" alt="CineStill 400Dynamic 35mm film box outside" loading="lazy" width="380" height="500">
+</a>
+
+
+`UUID: 96209110f95e4744b78b1d31a44f73cf`↓
+
+<a href="./archive/00330_001.jpg">
+	<img src="./lowres/00330_001.jpg" alt="CineStill 400Dynamic 35mm film box inside" loading="lazy" width="382" height="500">
+</a>
+
+#### [@filmfotofella] Kodak 110 Film (ref: 8cca)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2007-02 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : @filmfotofella
+UUID  : 6c0cf01a1703494296ce60ad5dd28cca
+```
+
+<a href="./archive/00332_000.jpg">
+	<img src="./lowres/00332_000.jpg" alt="Kodak 110 Film 110 film box outside" loading="lazy" width="299" height="499">
+</a>
+
+#### [@filmfotofella] Kodak Kodacolor 400 (ref: 9e4c)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 1981-04 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-09-13   |  Author  : @filmfotofella
+UUID  : 3ef3252141a64ffe9d7e3fad745b9e4c
+```
+
+<a href="./archive/00331_000.jpg">
+	<img src="./lowres/00331_000.jpg" alt="Kodak Kodacolor 400 110 film box outside" loading="lazy" width="500" height="400">
+</a>
+
+
+`UUID: 2227688b4c8b4ef796fb75f487359f71`↓
+
+<a href="./archive/00331_001.jpg">
+	<img src="./lowres/00331_001.jpg" alt="Kodak Kodacolor 400 110 film box leaflet" loading="lazy" width="414" height="500">
+</a>
+
+
+`UUID: a87701598e4540da8804dd29aa0922f7`↓
+
+<a href="./archive/00331_002.jpg">
+	<img src="./lowres/00331_002.jpg" alt="Kodak Kodacolor 400 110 film box leaflet" loading="lazy" width="410" height="499">
+</a>
+
+#### [@filmfotofella] Kodak Ultra (ref: 5701)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2007-11 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : @filmfotofella
+UUID  : d01783be3b70456095411ca387865701
+```
+
+<a href="./archive/00333_000.jpg">
+	<img src="./lowres/00333_000.jpg" alt="Kodak Ultra 110 film box outside" loading="lazy" width="296" height="500">
+</a>
+
 #### [@ftfilmphotos] Kodak Kodacolor VR (ref: 035f)
 
 ```
@@ -1164,7 +1245,7 @@ UUID  : f0c8cbdc08d146ba8690d19a70dbe548
 	<img src="./lowres/00213_000.jpg" alt="Building 2 50D 35mm film box outside" loading="lazy" width="410" height="499">
 </a>
 
-#### [@photos.by.qi] CineStill 400D (ref: 88dc)
+#### [@photos.by.qi] CineStill 400Dynamic (ref: 88dc)
 
 ```
 Format: 120          |  Process : C-41    
@@ -1175,14 +1256,14 @@ UUID  : 9e2bc75381ca4ca68e59dbf6c3a388dc
 ```
 
 <a href="./archive/00255_000.jpg">
-	<img src="./lowres/00255_000.jpg" alt="CineStill 400D 120 film box outside" loading="lazy" width="500" height="486">
+	<img src="./lowres/00255_000.jpg" alt="CineStill 400Dynamic 120 film box outside" loading="lazy" width="500" height="486">
 </a>
 
 
 `UUID: 42d565d0fdbc4e12bcc11d172b36f779`↓
 
 <a href="./archive/00255_001.jpg">
-	<img src="./lowres/00255_001.jpg" alt="CineStill 400D 120 film box inside" loading="lazy" width="490" height="500">
+	<img src="./lowres/00255_001.jpg" alt="CineStill 400Dynamic 120 film box inside" loading="lazy" width="490" height="500">
 </a>
 
 #### [@photos.by.qi] CineStill 50D (ref: 3452)
@@ -6587,20 +6668,21 @@ Rank  Username                      Contributions
 15    @zruk_ts                      10    
 16    lilyu.xyz                     9     
 17    @toastergod101                7     
-18    benikum                       6     
-19    Kraksen                       5     
-20    Henry Gunn                    4     
-21    u/ReeeSchmidtyWerber          4     
-22    lt_col_tall                   4     
-23    kaimon                        4     
-24    @Hol.m35                      3     
-25    TheSelousScout                3     
-26    @sachynmital                  3     
-27    @seklerek                     2     
-28    @ftfilmphotos                 2     
-29    Yrikonchik                    1     
-30    @ad.astra.per.aspera.1894     1     
-31    Aoi Yuki                      1     
+18    @filmfotofella                7     
+19    benikum                       6     
+20    Kraksen                       5     
+21    Henry Gunn                    4     
+22    u/ReeeSchmidtyWerber          4     
+23    lt_col_tall                   4     
+24    kaimon                        4     
+25    @Hol.m35                      3     
+26    TheSelousScout                3     
+27    @sachynmital                  3     
+28    @seklerek                     2     
+29    @ftfilmphotos                 2     
+30    Yrikonchik                    1     
+31    @ad.astra.per.aspera.1894     1     
+32    Aoi Yuki                      1     
 ```
 
 ## Questions or Comments?
