@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 13 2025
-Unique items: 330
-Total scans : 568
+Unique items: 331
+Total scans : 572
 ```
 
 -----
@@ -301,6 +301,7 @@ Total scans : 568
 - [[E-6] Fujifilm Fujichrome Velvia 100F (ref: 32d4)](#e-6-fujifilm-fujichrome-velvia-100f-ref-32d4)
 - [[E-6] Hazenfilm Sorolla Chrome (ref: 889f)](#e-6-hazenfilm-sorolla-chrome-ref-889f)
 - [[E-6] Ilford Ilfochrome (ref: ac24)](#e-6-ilford-ilfochrome-ref-ac24)
+- [[E-6] Jessops CS100 (ref: 5867)](#e-6-jessops-cs100-ref-5867)
 - [[E-6] Kodak Ektachrome 100 Plus (ref: 5d9f)](#e-6-kodak-ektachrome-100-plus-ref-5d9f)
 - [[E-6] Kodak Ektachrome 100 Plus (ref: 0183)](#e-6-kodak-ektachrome-100-plus-ref-0183)
 - [[E-6] Kodak Ektachrome 100HC (ref: 3ab9)](#e-6-kodak-ektachrome-100hc-ref-3ab9)
@@ -5480,6 +5481,41 @@ UUID  : e7713fa57cac41e3ae3f416f3ea5ac24
 	<img src="./lowres/00302_000.jpg" alt="Ilford Ilfochrome 35mm film box outside" loading="lazy" width="410" height="499">
 </a>
 
+#### [E-6] Jessops CS100 (ref: 5867)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2003-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-13   |  Author  : GreatGizmo74
+UUID  : 82ce007c54d84e61b7b632cc85835867
+```
+
+<a href="./archive/00334_000.jpg">
+	<img src="./lowres/00334_000.jpg" alt="Jessops CS100 35mm film box outside" loading="lazy" width="455" height="500">
+</a>
+
+
+`UUID: 052baebeccad46ff8c71004e477de539`↓
+
+<a href="./archive/00334_001.jpg">
+	<img src="./lowres/00334_001.jpg" alt="Jessops CS100 35mm film box inside" loading="lazy" width="426" height="500">
+</a>
+
+
+`UUID: 4013ee252a054765800a2c7bb1d168ae`↓
+
+<a href="./archive/00334_002.jpg">
+	<img src="./lowres/00334_002.jpg" alt="Jessops CS100 35mm film box processing envelope" loading="lazy" width="500" height="271">
+</a>
+
+
+`UUID: c3eb12125a63493a92f7f8bb9a92193b`↓
+
+<a href="./archive/00334_003.jpg">
+	<img src="./lowres/00334_003.jpg" alt="Jessops CS100 35mm film box processing envelope" loading="lazy" width="267" height="500">
+</a>
+
 #### [E-6] Kodak Ektachrome 100 Plus (ref: 5d9f)
 
 ```
@@ -6675,14 +6711,15 @@ Rank  Username                      Contributions
 22    u/ReeeSchmidtyWerber          4     
 23    lt_col_tall                   4     
 24    kaimon                        4     
-25    @Hol.m35                      3     
-26    TheSelousScout                3     
-27    @sachynmital                  3     
-28    @seklerek                     2     
-29    @ftfilmphotos                 2     
-30    Yrikonchik                    1     
-31    @ad.astra.per.aspera.1894     1     
-32    Aoi Yuki                      1     
+25    GreatGizmo74                  4     
+26    @Hol.m35                      3     
+27    TheSelousScout                3     
+28    @sachynmital                  3     
+29    @seklerek                     2     
+30    @ftfilmphotos                 2     
+31    Yrikonchik                    1     
+32    @ad.astra.per.aspera.1894     1     
+33    Aoi Yuki                      1     
 ```
 
 ## Questions or Comments?

@@ -567,3 +567,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 331,2,film_box_leaflet,Kodak,Kodacolor 400,110,400,C-41,198104,1757759716,9037ceb7626effee95f371a12a07c825,a87701598e4540da8804dd29aa0922f7,00331_002.jpg,@filmfotofella,,Single Pack,20exp
 332,0,film_box_outside,Kodak,110 Film,110,400,C-41,200702,1757760004,8086dce03967b3912e435452d5034be0,6c0cf01a1703494296ce60ad5dd28cca,00332_000.jpg,@filmfotofella,,Single Pack,24exp
 333,0,film_box_outside,Kodak,Ultra,110,400,C-41,200711,1757760052,e52bae72446d6bf6038cfda64c08bbb4,d01783be3b70456095411ca387865701,00333_000.jpg,@filmfotofella,,Single Pack,24exp
+334,0,film_box_outside,Jessops,CS100,35mm,100,E-6,200309,1757777252,657ab27347606ff2ea33727c74e542e1,82ce007c54d84e61b7b632cc85835867,00334_000.jpg,GreatGizmo74,,Single Pack,36exp
+334,1,film_box_inside,Jessops,CS100,35mm,100,E-6,200309,1757777254,a846573f655c045cba3cae60894fe8a1,052baebeccad46ff8c71004e477de539,00334_001.jpg,GreatGizmo74,,Single Pack,36exp
+334,2,film_box_processing_envelope,Jessops,CS100,35mm,100,E-6,200309,1757777260,1966fcdf742b82ab8eac0825f561060a,4013ee252a054765800a2c7bb1d168ae,00334_002.jpg,GreatGizmo74,,Single Pack,36exp
+334,3,film_box_processing_envelope,Jessops,CS100,35mm,100,E-6,200309,1757777264,ac5d6ac9e5c5b6ade2ff540b401ea8aa,c3eb12125a63493a92f7f8bb9a92193b,00334_003.jpg,GreatGizmo74,,Single Pack,36exp

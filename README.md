@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Sep 13 2025
-Unique items: 330
-Total scans : 568
+Unique items: 331
+Total scans : 572
 ```
 
 Or Sort by...
@@ -77,14 +77,15 @@ Rank  Username                      Contributions
 22    u/ReeeSchmidtyWerber          4     
 23    lt_col_tall                   4     
 24    kaimon                        4     
-25    @Hol.m35                      3     
-26    TheSelousScout                3     
-27    @sachynmital                  3     
-28    @seklerek                     2     
-29    @ftfilmphotos                 2     
-30    Yrikonchik                    1     
-31    @ad.astra.per.aspera.1894     1     
-32    Aoi Yuki                      1     
+25    GreatGizmo74                  4     
+26    @Hol.m35                      3     
+27    TheSelousScout                3     
+28    @sachynmital                  3     
+29    @seklerek                     2     
+30    @ftfilmphotos                 2     
+31    Yrikonchik                    1     
+32    @ad.astra.per.aspera.1894     1     
+33    Aoi Yuki                      1     
 ```
 
 ## Recent Activities
@@ -101,6 +102,7 @@ Rank  Username                      Contributions
   - dekuNukem: Kodak Kodacolor II
   - dekuNukem: Polaroid High Definition
   - dekuNukem: SupaSnaps Snappit Film
+  - GreatGizmo74: Jessops CS100
 
 2025-09-11
   - @sachynmital: Mr. Negative 250D
