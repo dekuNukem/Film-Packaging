@@ -79,8 +79,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 37,0,film_box_outside,Kodak,Technical Pan 6415,120,25,BW,198805,1736086038,7a34a2f430def88aafff771039cddbbe,3a03860d64d2400caee97955197703be,00037_000.jpg,dekuNukem,,Single Pack,N/A
 37,1,film_box_leaflet,Kodak,Technical Pan 6415,120,25,BW,198805,1736086040,1f4e7b48d6bfd1c31dc4461bcb52a8db,579e1eee184e49669d586cf512ec1bc8,00037_001.jpg,dekuNukem,,Single Pack,N/A
 37,2,film_box_leaflet,Kodak,Technical Pan 6415,120,25,BW,198805,1736086046,086a3d164ec190626d5f790579c66b5d,6bcd669b9d2e44c6929e55a446d1d075,00037_002.jpg,dekuNukem,,Single Pack,N/A
-38,0,film_box_outside,Efke,IR 820,120,100,BW,201303,1736086160,1aaefdee86fb6a7b20a4278667021c40,716e410a3823476e9befa704361f43c9,00038_000.jpg,dekuNukem,,Single Pack,N/A
-38,1,film_box_inside,Efke,IR 820,120,100,BW,201303,1736086162,e11c51146023db28ae579ad528bebba1,4c7b545000f04f4da046d18c43575e19,00038_001.jpg,dekuNukem,,Single Pack,N/A
+38,0,film_box_outside,Efke,IR 820 Aura,120,100,BW,201303,1736086160,1aaefdee86fb6a7b20a4278667021c40,716e410a3823476e9befa704361f43c9,00038_000.jpg,dekuNukem,,Single Pack,N/A
+38,1,film_box_inside,Efke,IR 820 Aura,120,100,BW,201303,1736086162,e11c51146023db28ae579ad528bebba1,4c7b545000f04f4da046d18c43575e19,00038_001.jpg,dekuNukem,,Single Pack,N/A
 39,0,film_box_outside,Konica,Infrared 750nm,120,32,BW,199102,1736086214,554c22eff2afd7ce00c75d1f799214e2,79a0275aee8e43e895b5794a8538e696,00039_000.jpg,dekuNukem,,Single Pack,N/A
 39,1,film_box_leaflet,Konica,Infrared 750nm,120,32,BW,199102,1736086217,fee652eff3ef0ca47b9051e73f59e14f,b5abc293fb26450eab9bfdda971cf1ad,00039_001.jpg,dekuNukem,,Single Pack,N/A
 40,0,film_box_outside,Fujifilm,Fujicolor 100,35mm,100,C-41,201007,1736682742,ecf194176385e44c01e58f11d2c6c689,27d88b35933b4ede958b5b5b5b42013b,00040_000.jpg,b0baspace,,Single Pack,12exp

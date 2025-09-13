@@ -247,7 +247,7 @@ Total scans : 568
 - [[dekuNukem] Alien Film 5222/XX (ref: 3e49)](#dekunukem-alien-film-5222xx-ref-3e49)
 - [[dekuNukem] CineStill 800T (ref: c86a)](#dekunukem-cinestill-800t-ref-c86a)
 - [[dekuNukem] Efiniti UXi Super 200 (ref: 471a)](#dekunukem-efiniti-uxi-super-200-ref-471a)
-- [[dekuNukem] Efke IR 820 (ref: 43c9)](#dekunukem-efke-ir-820-ref-43c9)
+- [[dekuNukem] Efke IR 820 Aura (ref: 43c9)](#dekunukem-efke-ir-820-aura-ref-43c9)
 - [[dekuNukem] Fujifilm Fujichrome Professional 100D (ref: 439d)](#dekunukem-fujifilm-fujichrome-professional-100d-ref-439d)
 - [[dekuNukem] Fujifilm Fujichrome Provia 100F (ref: 1b4b)](#dekunukem-fujifilm-fujichrome-provia-100f-ref-1b4b)
 - [[dekuNukem] Fujifilm Fujichrome Provia 400 Professional (ref: b7b2)](#dekunukem-fujifilm-fujichrome-provia-400-professional-ref-b7b2)
@@ -4395,7 +4395,7 @@ UUID  : cde1122dafbc47088a11d9ee12b6471a
 	<img src="./lowres/00002_000.jpg" alt="Efiniti UXi Super 200 35mm film box outside" loading="lazy" width="457" height="500">
 </a>
 
-#### [dekuNukem] Efke IR 820 (ref: 43c9)
+#### [dekuNukem] Efke IR 820 Aura (ref: 43c9)
 
 ```
 Format: 120          |  Process : BW      
@@ -4406,14 +4406,14 @@ UUID  : 716e410a3823476e9befa704361f43c9
 ```
 
 <a href="./archive/00038_000.jpg">
-	<img src="./lowres/00038_000.jpg" alt="Efke IR 820 120 film box outside" loading="lazy" width="500" height="295">
+	<img src="./lowres/00038_000.jpg" alt="Efke IR 820 Aura 120 film box outside" loading="lazy" width="500" height="295">
 </a>
 
 
 `UUID: 4c7b545000f04f4da046d18c43575e19`↓
 
 <a href="./archive/00038_001.jpg">
-	<img src="./lowres/00038_001.jpg" alt="Efke IR 820 120 film box inside" loading="lazy" width="500" height="341">
+	<img src="./lowres/00038_001.jpg" alt="Efke IR 820 Aura 120 film box inside" loading="lazy" width="500" height="341">
 </a>
 
 #### [dekuNukem] Fujifilm Fujichrome Professional 100D (ref: 439d)

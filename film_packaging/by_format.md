@@ -45,7 +45,7 @@ Total scans : 568
 - [[120] CineStill 400Dynamic (ref: 88dc)](#120-cinestill-400dynamic-ref-88dc)
 - [[120] CineStill 800T (ref: c86a)](#120-cinestill-800t-ref-c86a)
 - [[120] CineStill BWXX (ref: 66eb)](#120-cinestill-bwxx-ref-66eb)
-- [[120] Efke IR 820 (ref: 43c9)](#120-efke-ir-820-ref-43c9)
+- [[120] Efke IR 820 Aura (ref: 43c9)](#120-efke-ir-820-aura-ref-43c9)
 - [[120] Foma Fomapan Classic 100 (ref: 65ad)](#120-foma-fomapan-classic-100-ref-65ad)
 - [[120] Foma Fomapan Creative 200 (ref: 3e4f)](#120-foma-fomapan-creative-200-ref-3e4f)
 - [[120] Foma Fomapan21 (ref: 75d9)](#120-foma-fomapan21-ref-75d9)
@@ -769,7 +769,7 @@ UUID  : e4493fbb55e044edaaca55ecd22366eb
 	<img src="./lowres/00256_001.jpg" alt="CineStill BWXX 120 film box inside" loading="lazy" width="495" height="499">
 </a>
 
-#### [120] Efke IR 820 (ref: 43c9)
+#### [120] Efke IR 820 Aura (ref: 43c9)
 
 ```
 Format: 120          |  Process : BW      
@@ -780,14 +780,14 @@ UUID  : 716e410a3823476e9befa704361f43c9
 ```
 
 <a href="./archive/00038_000.jpg">
-	<img src="./lowres/00038_000.jpg" alt="Efke IR 820 120 film box outside" loading="lazy" width="500" height="295">
+	<img src="./lowres/00038_000.jpg" alt="Efke IR 820 Aura 120 film box outside" loading="lazy" width="500" height="295">
 </a>
 
 
 `UUID: 4c7b545000f04f4da046d18c43575e19`↓
 
 <a href="./archive/00038_001.jpg">
-	<img src="./lowres/00038_001.jpg" alt="Efke IR 820 120 film box inside" loading="lazy" width="500" height="341">
+	<img src="./lowres/00038_001.jpg" alt="Efke IR 820 Aura 120 film box inside" loading="lazy" width="500" height="341">
 </a>
 
 #### [120] Foma Fomapan Classic 100 (ref: 65ad)

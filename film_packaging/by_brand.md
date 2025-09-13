@@ -69,7 +69,7 @@ Total scans : 568
 - [Defender Extra Special Fast Panchromatic (ref: afcf)](#defender-extra-special-fast-panchromatic-ref-afcf)
 - [Defender Portrait HGS (ref: d69c)](#defender-portrait-hgs-ref-d69c)
 - [Efiniti UXi Super 200 (ref: 471a)](#efiniti-uxi-super-200-ref-471a)
-- [Efke IR 820 (ref: 43c9)](#efke-ir-820-ref-43c9)
+- [Efke IR 820 Aura (ref: 43c9)](#efke-ir-820-aura-ref-43c9)
 - [Ferrania Solaris (ref: a929)](#ferrania-solaris-ref-a929)
 - [Film Never Die IRO (ref: 2a22)](#film-never-die-iro-ref-2a22)
 - [Film Never Die Kiro (ref: 796d)](#film-never-die-kiro-ref-796d)
@@ -1231,7 +1231,7 @@ UUID  : cde1122dafbc47088a11d9ee12b6471a
 	<img src="./lowres/00002_000.jpg" alt="Efiniti UXi Super 200 35mm film box outside" loading="lazy" width="457" height="500">
 </a>
 
-#### Efke IR 820 (ref: 43c9)
+#### Efke IR 820 Aura (ref: 43c9)
 
 ```
 Format: 120          |  Process : BW      
@@ -1242,14 +1242,14 @@ UUID  : 716e410a3823476e9befa704361f43c9
 ```
 
 <a href="./archive/00038_000.jpg">
-	<img src="./lowres/00038_000.jpg" alt="Efke IR 820 120 film box outside" loading="lazy" width="500" height="295">
+	<img src="./lowres/00038_000.jpg" alt="Efke IR 820 Aura 120 film box outside" loading="lazy" width="500" height="295">
 </a>
 
 
 `UUID: 4c7b545000f04f4da046d18c43575e19`↓
 
 <a href="./archive/00038_001.jpg">
-	<img src="./lowres/00038_001.jpg" alt="Efke IR 820 120 film box inside" loading="lazy" width="500" height="341">
+	<img src="./lowres/00038_001.jpg" alt="Efke IR 820 Aura 120 film box inside" loading="lazy" width="500" height="341">
 </a>
 
 #### Ferrania Solaris (ref: a929)

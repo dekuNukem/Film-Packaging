@@ -46,7 +46,7 @@ Total scans : 568
 - [[BW] Defender Extra Fast Panchromatic (ref: 348b)](#bw-defender-extra-fast-panchromatic-ref-348b)
 - [[BW] Defender Extra Special Fast Panchromatic (ref: afcf)](#bw-defender-extra-special-fast-panchromatic-ref-afcf)
 - [[BW] Defender Portrait HGS (ref: d69c)](#bw-defender-portrait-hgs-ref-d69c)
-- [[BW] Efke IR 820 (ref: 43c9)](#bw-efke-ir-820-ref-43c9)
+- [[BW] Efke IR 820 Aura (ref: 43c9)](#bw-efke-ir-820-aura-ref-43c9)
 - [[BW] Foma Fomapan 200 (ref: 60ee)](#bw-foma-fomapan-200-ref-60ee)
 - [[BW] Foma Fomapan Classic 100 (ref: 1731)](#bw-foma-fomapan-classic-100-ref-1731)
 - [[BW] Foma Fomapan Classic 100 (ref: 65ad)](#bw-foma-fomapan-classic-100-ref-65ad)
@@ -797,7 +797,7 @@ UUID  : 24c9c3108671446dae824d00093fd69c
 	<img src="./lowres/00208_001.jpg" alt="Defender Portrait HGS 12x16.5cm film box outside" loading="lazy" width="385" height="500">
 </a>
 
-#### [BW] Efke IR 820 (ref: 43c9)
+#### [BW] Efke IR 820 Aura (ref: 43c9)
 
 ```
 Format: 120          |  Process : BW      
@@ -808,14 +808,14 @@ UUID  : 716e410a3823476e9befa704361f43c9
 ```
 
 <a href="./archive/00038_000.jpg">
-	<img src="./lowres/00038_000.jpg" alt="Efke IR 820 120 film box outside" loading="lazy" width="500" height="295">
+	<img src="./lowres/00038_000.jpg" alt="Efke IR 820 Aura 120 film box outside" loading="lazy" width="500" height="295">
 </a>
 
 
 `UUID: 4c7b545000f04f4da046d18c43575e19`↓
 
 <a href="./archive/00038_001.jpg">
-	<img src="./lowres/00038_001.jpg" alt="Efke IR 820 120 film box inside" loading="lazy" width="500" height="341">
+	<img src="./lowres/00038_001.jpg" alt="Efke IR 820 Aura 120 film box inside" loading="lazy" width="500" height="341">
 </a>
 
 #### [BW] Foma Fomapan 200 (ref: 60ee)

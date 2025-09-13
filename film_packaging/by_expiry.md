@@ -192,7 +192,7 @@ Total scans : 568
 - [[2012] Ilford HP5 Plus (ref: 11a8)](#2012-ilford-hp5-plus-ref-11a8)
 - [[2013] Mr. Negative Eterna 250D (ref: 6d6e)](#2013-mr-negative-eterna-250d-ref-6d6e)
 - [[2013] Boots Colour Print Film (ref: a30f)](#2013-boots-colour-print-film-ref-a30f)
-- [[2013] Efke IR 820 (ref: 43c9)](#2013-efke-ir-820-ref-43c9)
+- [[2013] Efke IR 820 Aura (ref: 43c9)](#2013-efke-ir-820-aura-ref-43c9)
 - [[2013] Kodak Portra 160 (ref: ce56)](#2013-kodak-portra-160-ref-ce56)
 - [[2013] Ilford SFX 200 (ref: 6057)](#2013-ilford-sfx-200-ref-6057)
 - [[2013] Efiniti UXi Super 200 (ref: 471a)](#2013-efiniti-uxi-super-200-ref-471a)
@@ -3898,7 +3898,7 @@ UUID  : bd601340027a4c9daa7e219b414fa30f
 	<img src="./lowres/00166_000.jpg" alt="Boots Colour Print Film 35mm film box outside" loading="lazy" width="443" height="500">
 </a>
 
-#### [2013] Efke IR 820 (ref: 43c9)
+#### [2013] Efke IR 820 Aura (ref: 43c9)
 
 ```
 Format: 120          |  Process : BW      
@@ -3909,14 +3909,14 @@ UUID  : 716e410a3823476e9befa704361f43c9
 ```
 
 <a href="./archive/00038_000.jpg">
-	<img src="./lowres/00038_000.jpg" alt="Efke IR 820 120 film box outside" loading="lazy" width="500" height="295">
+	<img src="./lowres/00038_000.jpg" alt="Efke IR 820 Aura 120 film box outside" loading="lazy" width="500" height="295">
 </a>
 
 
 `UUID: 4c7b545000f04f4da046d18c43575e19`↓
 
 <a href="./archive/00038_001.jpg">
-	<img src="./lowres/00038_001.jpg" alt="Efke IR 820 120 film box inside" loading="lazy" width="500" height="341">
+	<img src="./lowres/00038_001.jpg" alt="Efke IR 820 Aura 120 film box inside" loading="lazy" width="500" height="341">
 </a>
 
 #### [2013] Kodak Portra 160 (ref: ce56)

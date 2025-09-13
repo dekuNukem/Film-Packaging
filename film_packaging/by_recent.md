@@ -314,7 +314,7 @@ Total scans : 568
 - [[2025-01-12] Kodak Verichrome Pan (ref: 0195)](#2025-01-12-kodak-verichrome-pan-ref-0195)
 - [[2025-01-12] Fujifilm Fujicolor 100 (ref: 013b)](#2025-01-12-fujifilm-fujicolor-100-ref-013b)
 - [[2025-01-05] Konica Infrared 750nm (ref: e696)](#2025-01-05-konica-infrared-750nm-ref-e696)
-- [[2025-01-05] Efke IR 820 (ref: 43c9)](#2025-01-05-efke-ir-820-ref-43c9)
+- [[2025-01-05] Efke IR 820 Aura (ref: 43c9)](#2025-01-05-efke-ir-820-aura-ref-43c9)
 - [[2025-01-05] Kodak Technical Pan 6415 (ref: 03be)](#2025-01-05-kodak-technical-pan-6415-ref-03be)
 - [[2025-01-05] Konica Infrared 750nm (ref: 2d93)](#2025-01-05-konica-infrared-750nm-ref-2d93)
 - [[2025-01-05] Kodak Kodachrome 25 (ref: 6477)](#2025-01-05-kodak-kodachrome-25-ref-6477)
@@ -5890,10 +5890,10 @@ UUID  : 79a0275aee8e43e895b5794a8538e696
 `UUID: 4c7b545000f04f4da046d18c43575e19`↓
 
 <a href="./archive/00038_001.jpg">
-	<img src="./lowres/00038_001.jpg" alt="Efke IR 820 120 film box inside" loading="lazy" width="500" height="341">
+	<img src="./lowres/00038_001.jpg" alt="Efke IR 820 Aura 120 film box inside" loading="lazy" width="500" height="341">
 </a>
 
-#### [2025-01-05] Efke IR 820 (ref: 43c9)
+#### [2025-01-05] Efke IR 820 Aura (ref: 43c9)
 
 ```
 Format: 120          |  Process : BW      
@@ -5904,7 +5904,7 @@ UUID  : 716e410a3823476e9befa704361f43c9
 ```
 
 <a href="./archive/00038_000.jpg">
-	<img src="./lowres/00038_000.jpg" alt="Efke IR 820 120 film box outside" loading="lazy" width="500" height="295">
+	<img src="./lowres/00038_000.jpg" alt="Efke IR 820 Aura 120 film box outside" loading="lazy" width="500" height="295">
 </a>
 
 
