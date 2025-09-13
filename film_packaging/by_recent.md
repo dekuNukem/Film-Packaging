@@ -16,13 +16,14 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 13 2025
-Unique items: 331
-Total scans : 572
+Unique items: 332
+Total scans : 574
 ```
 
 -----
 
-- [[2025-09-13] Jessops CS100 (ref: 5867)](#2025-09-13-jessops-cs100-ref-5867)
+- [[2025-09-13] Jessops Diamond Everyday (ref: 6d5a)](#2025-09-13-jessops-diamond-everyday-ref-6d5a)
+- [[2025-09-13] Jessops CS100 (ref: 4288)](#2025-09-13-jessops-cs100-ref-4288)
 - [[2025-09-13] Kodak Ultra (ref: 5701)](#2025-09-13-kodak-ultra-ref-5701)
 - [[2025-09-13] Kodak 110 Film (ref: 8cca)](#2025-09-13-kodak-110-film-ref-8cca)
 - [[2025-09-13] Kodak Kodacolor 400 (ref: 9e4c)](#2025-09-13-kodak-kodacolor-400-ref-9e4c)
@@ -358,38 +359,59 @@ Total scans : 572
 -----
 
 
-`UUID: c3eb12125a63493a92f7f8bb9a92193b`↓
+`UUID: 3e6eca45a0704e0da5c37631b1fd0b56`↓
+
+<a href="./archive/00335_001.jpg">
+	<img src="./lowres/00335_001.jpg" alt="Jessops Diamond Everyday 35mm film box inside" loading="lazy" width="414" height="500">
+</a>
+
+#### [2025-09-13] Jessops Diamond Everyday (ref: 6d5a)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2005-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-13   |  Author  : GreatGizmo74
+UUID  : 44e526db85e94a63ac582d20a1cc6d5a
+```
+
+<a href="./archive/00335_000.jpg">
+	<img src="./lowres/00335_000.jpg" alt="Jessops Diamond Everyday 35mm film box outside" loading="lazy" width="407" height="500">
+</a>
+
+
+`UUID: c41e2cc23bee49768e995b15393af204`↓
 
 <a href="./archive/00334_003.jpg">
-	<img src="./lowres/00334_003.jpg" alt="Jessops CS100 35mm film box processing envelope" loading="lazy" width="267" height="500">
+	<img src="./lowres/00334_003.jpg" alt="Jessops CS100 35mm film box processing envelope" loading="lazy" width="273" height="500">
 </a>
 
 
-`UUID: 4013ee252a054765800a2c7bb1d168ae`↓
+`UUID: 460cbe6f0af64e2d9a648dc1795c4605`↓
 
 <a href="./archive/00334_002.jpg">
-	<img src="./lowres/00334_002.jpg" alt="Jessops CS100 35mm film box processing envelope" loading="lazy" width="500" height="271">
+	<img src="./lowres/00334_002.jpg" alt="Jessops CS100 35mm film box processing envelope" loading="lazy" width="500" height="293">
 </a>
 
 
-`UUID: 052baebeccad46ff8c71004e477de539`↓
+`UUID: 488ad47450f348a898c909433e87172f`↓
 
 <a href="./archive/00334_001.jpg">
-	<img src="./lowres/00334_001.jpg" alt="Jessops CS100 35mm film box inside" loading="lazy" width="426" height="500">
+	<img src="./lowres/00334_001.jpg" alt="Jessops CS100 35mm film box inside" loading="lazy" width="428" height="500">
 </a>
 
-#### [2025-09-13] Jessops CS100 (ref: 5867)
+#### [2025-09-13] Jessops CS100 (ref: 4288)
 
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 100          |  Expiry  : 2003-09 
 Type  : Single Pack  |  Quantity: 36exp   
 Added : 2025-09-13   |  Author  : GreatGizmo74
-UUID  : 82ce007c54d84e61b7b632cc85835867
+UUID  : 6e2123fd1134408789902c16b3764288
 ```
 
 <a href="./archive/00334_000.jpg">
-	<img src="./lowres/00334_000.jpg" alt="Jessops CS100 35mm film box outside" loading="lazy" width="455" height="500">
+	<img src="./lowres/00334_000.jpg" alt="Jessops CS100 35mm film box outside" loading="lazy" width="441" height="500">
 </a>
 
 #### [2025-09-13] Kodak Ultra (ref: 5701)
@@ -6706,12 +6728,12 @@ Rank  Username                      Contributions
 17    @toastergod101                7     
 18    @filmfotofella                7     
 19    benikum                       6     
-20    Kraksen                       5     
-21    Henry Gunn                    4     
-22    u/ReeeSchmidtyWerber          4     
-23    lt_col_tall                   4     
-24    kaimon                        4     
-25    GreatGizmo74                  4     
+20    GreatGizmo74                  6     
+21    Kraksen                       5     
+22    Henry Gunn                    4     
+23    u/ReeeSchmidtyWerber          4     
+24    lt_col_tall                   4     
+25    kaimon                        4     
 26    @Hol.m35                      3     
 27    TheSelousScout                3     
 28    @sachynmital                  3     

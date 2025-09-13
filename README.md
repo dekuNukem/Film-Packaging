@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Sep 13 2025
-Unique items: 331
-Total scans : 572
+Unique items: 332
+Total scans : 574
 ```
 
 Or Sort by...
@@ -72,12 +72,12 @@ Rank  Username                      Contributions
 17    @toastergod101                7     
 18    @filmfotofella                7     
 19    benikum                       6     
-20    Kraksen                       5     
-21    Henry Gunn                    4     
-22    u/ReeeSchmidtyWerber          4     
-23    lt_col_tall                   4     
-24    kaimon                        4     
-25    GreatGizmo74                  4     
+20    GreatGizmo74                  6     
+21    Kraksen                       5     
+22    Henry Gunn                    4     
+23    u/ReeeSchmidtyWerber          4     
+24    lt_col_tall                   4     
+25    kaimon                        4     
 26    @Hol.m35                      3     
 27    TheSelousScout                3     
 28    @sachynmital                  3     
@@ -103,6 +103,7 @@ Rank  Username                      Contributions
   - dekuNukem: Polaroid High Definition
   - dekuNukem: SupaSnaps Snappit Film
   - GreatGizmo74: Jessops CS100
+  - GreatGizmo74: Jessops Diamond Everyday
 
 2025-09-11
   - @sachynmital: Mr. Negative 250D
