@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 11 2025
-Unique items: 320
-Total scans : 552
+Last Updated: Sep 13 2025
+Unique items: 326
+Total scans : 561
 ```
 
 -----
@@ -232,8 +232,10 @@ Total scans : 552
 - [[dekuNukem] ADOX KB17 (ref: 2c95)](#dekunukem-adox-kb17-ref-2c95)
 - [[dekuNukem] Agfa APX (ref: 12c7)](#dekunukem-agfa-apx-ref-12c7)
 - [[dekuNukem] Agfa AgfaColor CT 18 (ref: 1fef)](#dekunukem-agfa-agfacolor-ct-18-ref-1fef)
+- [[dekuNukem] Agfa Agfacolor HDC Plus (ref: d22b)](#dekunukem-agfa-agfacolor-hdc-plus-ref-d22b)
 - [[dekuNukem] Agfa Agfacolor Optima 200 (ref: 393d)](#dekunukem-agfa-agfacolor-optima-200-ref-393d)
 - [[dekuNukem] Agfa Agfacolor ULTRA 50 (ref: 4faa)](#dekunukem-agfa-agfacolor-ultra-50-ref-4faa)
+- [[dekuNukem] Agfa Agfacolor Vista (ref: 2f14)](#dekunukem-agfa-agfacolor-vista-ref-2f14)
 - [[dekuNukem] Agfa Agfapan APX 400 (ref: 5855)](#dekunukem-agfa-agfapan-apx-400-ref-5855)
 - [[dekuNukem] Agfa Optima II 400 (ref: fdf0)](#dekunukem-agfa-optima-ii-400-ref-fdf0)
 - [[dekuNukem] Agfa Vista 200 (ref: d3af)](#dekunukem-agfa-vista-200-ref-d3af)
@@ -265,6 +267,7 @@ Total scans : 552
 - [[dekuNukem] Klick APS Film (ref: 4b88)](#dekunukem-klick-aps-film-ref-4b88)
 - [[dekuNukem] Klick XD200 (ref: 44d7)](#dekunukem-klick-xd200-ref-44d7)
 - [[dekuNukem] Kodak Advantix Ultra (ref: 566b)](#dekunukem-kodak-advantix-ultra-ref-566b)
+- [[dekuNukem] Kodak Advantix Ultra Max (ref: 1ca2)](#dekunukem-kodak-advantix-ultra-max-ref-1ca2)
 - [[dekuNukem] Kodak Ektachrome 100 Plus (ref: 0183)](#dekunukem-kodak-ektachrome-100-plus-ref-0183)
 - [[dekuNukem] Kodak Ektachrome 100HC (ref: 3ab9)](#dekunukem-kodak-ektachrome-100hc-ref-3ab9)
 - [[dekuNukem] Kodak Ektachrome 100HC (ref: 775a)](#dekunukem-kodak-ektachrome-100hc-ref-775a)
@@ -283,6 +286,7 @@ Total scans : 552
 - [[dekuNukem] Kodak Kodachrome 64 (ref: 3145)](#dekunukem-kodak-kodachrome-64-ref-3145)
 - [[dekuNukem] Kodak Kodachrome 64 (ref: 3206)](#dekunukem-kodak-kodachrome-64-ref-3206)
 - [[dekuNukem] Kodak Kodacolor Gold 200 (ref: f368)](#dekunukem-kodak-kodacolor-gold-200-ref-f368)
+- [[dekuNukem] Kodak Kodacolor II (ref: 4108)](#dekunukem-kodak-kodacolor-ii-ref-4108)
 - [[dekuNukem] Kodak Kodacolor-X (ref: a4b1)](#dekunukem-kodak-kodacolor-x-ref-a4b1)
 - [[dekuNukem] Kodak Kodacolor-X (ref: 0ce5)](#dekunukem-kodak-kodacolor-x-ref-0ce5)
 - [[dekuNukem] Kodak Kodacolor-X (ref: 5302)](#dekunukem-kodak-kodacolor-x-ref-5302)
@@ -305,6 +309,7 @@ Total scans : 552
 - [[dekuNukem] Polaroid 669 (ref: 3566)](#dekunukem-polaroid-669-ref-3566)
 - [[dekuNukem] Polaroid 87 (ref: 62ef)](#dekunukem-polaroid-87-ref-62ef)
 - [[dekuNukem] Polaroid GridFilm (ref: 8deb)](#dekunukem-polaroid-gridfilm-ref-8deb)
+- [[dekuNukem] Polaroid High Definition (ref: deb6)](#dekunukem-polaroid-high-definition-ref-deb6)
 - [[dekuNukem] Polaroid PolaBlue 35mm (ref: df66)](#dekunukem-polaroid-polablue-35mm-ref-df66)
 - [[dekuNukem] Polaroid PolaChrome 35mm (ref: 3b60)](#dekunukem-polaroid-polachrome-35mm-ref-3b60)
 - [[dekuNukem] Polaroid PolaPan 35mm (ref: 9825)](#dekunukem-polaroid-polapan-35mm-ref-9825)
@@ -312,6 +317,7 @@ Total scans : 552
 - [[dekuNukem] Premium Super XG (ref: 8ccd)](#dekunukem-premium-super-xg-ref-8ccd)
 - [[dekuNukem] Rollei Infrared (ref: 4f54)](#dekunukem-rollei-infrared-ref-4f54)
 - [[dekuNukem] Rollei Retro 80S (ref: e6c0)](#dekunukem-rollei-retro-80s-ref-e6c0)
+- [[dekuNukem] SupaSnaps Snappit Film (ref: c41b)](#dekunukem-supasnaps-snappit-film-ref-c41b)
 - [[dekuNukem] Three Film Rolls 5207 (ref: 0292)](#dekunukem-three-film-rolls-5207-ref-0292)
 - [[kaimon] Ilford Ilfochrome (ref: ac24)](#kaimon-ilford-ilfochrome-ref-ac24)
 - [[kaimon] Kodak High Speed Ektachrome (ref: 7533)](#kaimon-kodak-high-speed-ektachrome-ref-7533)
@@ -4112,6 +4118,20 @@ UUID  : 0e445a9b612a487b90df4e94a3831fef
 	<img src="./lowres/00272_006.jpg" alt="Agfa AgfaColor CT 18 35mm film box processing envelope" loading="lazy" width="500" height="340">
 </a>
 
+#### [dekuNukem] Agfa Agfacolor HDC Plus (ref: d22b)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2001-07 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 9cec7faf26254e72bfb79611ea6ed22b
+```
+
+<a href="./archive/00328_000.jpg">
+	<img src="./lowres/00328_000.jpg" alt="Agfa Agfacolor HDC Plus 110 film box outside" loading="lazy" width="500" height="354">
+</a>
+
 #### [dekuNukem] Agfa Agfacolor Optima 200 (ref: 393d)
 
 ```
@@ -4152,6 +4172,20 @@ UUID  : d10e846ba5154f1d940ed7009a904faa
 
 <a href="./archive/00010_001.jpg">
 	<img src="./lowres/00010_001.jpg" alt="Agfa Agfacolor ULTRA 50 35mm film box inside" loading="lazy" width="453" height="500">
+</a>
+
+#### [dekuNukem] Agfa Agfacolor Vista (ref: 2f14)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2003-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 81e8726a7d3b45beb1f1bd6c1cbc2f14
+```
+
+<a href="./archive/00329_000.jpg">
+	<img src="./lowres/00329_000.jpg" alt="Agfa Agfacolor Vista 110 film box outside" loading="lazy" width="500" height="336">
 </a>
 
 #### [dekuNukem] Agfa Agfapan APX 400 (ref: 5855)
@@ -4770,6 +4804,20 @@ UUID  : 041622f239024ffb8b75c367619a566b
 	<img src="./lowres/00066_000.jpg" alt="Kodak Advantix Ultra APS film box outside" loading="lazy" width="500" height="389">
 </a>
 
+#### [dekuNukem] Kodak Advantix Ultra Max (ref: 1ca2)
+
+```
+Format: APS          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2004-07 
+Type  : Single Pack  |  Quantity: 25exp   
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 5b9792793fd94c9a9f9f776fe34e1ca2
+```
+
+<a href="./archive/00326_000.jpg">
+	<img src="./lowres/00326_000.jpg" alt="Kodak Advantix Ultra Max APS film box outside" loading="lazy" width="500" height="399">
+</a>
+
 #### [dekuNukem] Kodak Ektachrome 100 Plus (ref: 0183)
 
 ```
@@ -5190,6 +5238,34 @@ UUID  : 78bfeed667154d819902ec92d7dcf368
 	<img src="./lowres/00068_000.jpg" alt="Kodak Kodacolor Gold 200 110 film box outside" loading="lazy" width="500" height="403">
 </a>
 
+#### [dekuNukem] Kodak Kodacolor II (ref: 4108)
+
+```
+Format: 120          |  Process : C-22    
+ISO   : 80           |  Expiry  : 1978-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 3bfb81116e54468fb296098a03ad4108
+```
+
+<a href="./archive/00325_000.jpg">
+	<img src="./lowres/00325_000.jpg" alt="Kodak Kodacolor II 120 film box outside" loading="lazy" width="500" height="411">
+</a>
+
+
+`UUID: cdd3df87cea649c7b8015b295520bd54`↓
+
+<a href="./archive/00325_001.jpg">
+	<img src="./lowres/00325_001.jpg" alt="Kodak Kodacolor II 120 film box leaflet" loading="lazy" width="220" height="499">
+</a>
+
+
+`UUID: 5bb72bffd3224a279eb4b01c201a80f2`↓
+
+<a href="./archive/00325_002.jpg">
+	<img src="./lowres/00325_002.jpg" alt="Kodak Kodacolor II 120 film box leaflet" loading="lazy" width="218" height="499">
+</a>
+
 #### [dekuNukem] Kodak Kodacolor-X (ref: a4b1)
 
 ```
@@ -5603,6 +5679,20 @@ UUID  : 4f1aabf29f724c9ea3b2bee414b08deb
 	<img src="./lowres/00031_003.jpg" alt="Polaroid GridFilm Integral Film film box inside" loading="lazy" width="500" height="340">
 </a>
 
+#### [dekuNukem] Polaroid High Definition (ref: deb6)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2002-01 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 6c15a39618164543bfc2ef7f54addeb6
+```
+
+<a href="./archive/00327_000.jpg">
+	<img src="./lowres/00327_000.jpg" alt="Polaroid High Definition 110 film box outside" loading="lazy" width="500" height="343">
+</a>
+
 #### [dekuNukem] Polaroid PolaBlue 35mm (ref: df66)
 
 ```
@@ -5832,6 +5922,27 @@ UUID  : fb2ccfebcf2f4a17afe00acaaea5e6c0
 
 <a href="./archive/00005_001.jpg">
 	<img src="./lowres/00005_001.jpg" alt="Rollei Retro 80S 120 film box inside" loading="lazy" width="500" height="335">
+</a>
+
+#### [dekuNukem] SupaSnaps Snappit Film (ref: c41b)
+
+```
+Format: 126          |  Process : C-41    
+ISO   : 100          |  Expiry  : 1993-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 1cf47ce82b58418f9e009b4f0121c41b
+```
+
+<a href="./archive/00324_000.jpg">
+	<img src="./lowres/00324_000.jpg" alt="SupaSnaps Snappit Film 126 film box outside" loading="lazy" width="500" height="480">
+</a>
+
+
+`UUID: 2406fd96271a4db4b946e0e17a503b1b`↓
+
+<a href="./archive/00324_001.jpg">
+	<img src="./lowres/00324_001.jpg" alt="SupaSnaps Snappit Film 126 film cartridge" loading="lazy" width="500" height="444">
 </a>
 
 #### [dekuNukem] Three Film Rolls 5207 (ref: 0292)
@@ -6459,7 +6570,7 @@ UUID  : e54ce68c797b4846b9aee3f5818ecb58
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     178   
+1     dekuNukem                     187   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    

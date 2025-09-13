@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 11 2025
-Unique items: 320
-Total scans : 552
+Last Updated: Sep 13 2025
+Unique items: 326
+Total scans : 561
 ```
 
 -----
@@ -52,6 +52,7 @@ Total scans : 552
 - [[1977] Kodak Ektachrome Professional (ref: 02a1)](#1977-kodak-ektachrome-professional-ref-02a1)
 - [[1978] Kodak Kodachrome 25 (ref: 6477)](#1978-kodak-kodachrome-25-ref-6477)
 - [[1978] Sakura Sakuracolor II (ref: 4f7d)](#1978-sakura-sakuracolor-ii-ref-4f7d)
+- [[1978] Kodak Kodacolor II (ref: 4108)](#1978-kodak-kodacolor-ii-ref-4108)
 - [[1978] Kodak Ektachrome 200 (ref: f372)](#1978-kodak-ektachrome-200-ref-f372)
 - [[1979] Kodak Ektachrome 64 (ref: 07c0)](#1979-kodak-ektachrome-64-ref-07c0)
 - [[1979] Kodak Kodachrome 64 (ref: 3145)](#1979-kodak-kodachrome-64-ref-3145)
@@ -80,6 +81,7 @@ Total scans : 552
 - [[1992] Fujifilm Fujichrome Professional 100D (ref: 439d)](#1992-fujifilm-fujichrome-professional-100d-ref-439d)
 - [[1992] ORWO NP 20 SL (ref: b16c)](#1992-orwo-np-20-sl-ref-b16c)
 - [[1993] Konica Infrared 750nm (ref: 6b0e)](#1993-konica-infrared-750nm-ref-6b0e)
+- [[1993] SupaSnaps Snappit Film (ref: c41b)](#1993-supasnaps-snappit-film-ref-c41b)
 - [[1993] Alfo ALFOcolor PR-G (ref: 94b9)](#1993-alfo-alfocolor-pr-g-ref-94b9)
 - [[1993] Polaroid PolaChrome 35mm (ref: b202)](#1993-polaroid-polachrome-35mm-ref-b202)
 - [[1993] Kodak Gold II (ref: 61d0)](#1993-kodak-gold-ii-ref-61d0)
@@ -111,18 +113,21 @@ Total scans : 552
 - [[2000] Kodak Vericolor III (ref: 4b3e)](#2000-kodak-vericolor-iii-ref-4b3e)
 - [[2001] Fujifilm Fujichrome Velvia (ref: 3182)](#2001-fujifilm-fujichrome-velvia-ref-3182)
 - [[2001] Kodak Gold Ultra 400 (ref: 1358)](#2001-kodak-gold-ultra-400-ref-1358)
+- [[2001] Agfa Agfacolor HDC Plus (ref: d22b)](#2001-agfa-agfacolor-hdc-plus-ref-d22b)
 - [[2001] Kodak Elite Chrome (ref: 523c)](#2001-kodak-elite-chrome-ref-523c)
 - [[2001] Agfa Agfacolor ULTRA 50 (ref: 4faa)](#2001-agfa-agfacolor-ultra-50-ref-4faa)
 - [[2001] Fujifilm Fujichrome 64T Type II Professional (ref: 74a1)](#2001-fujifilm-fujichrome-64t-type-ii-professional-ref-74a1)
 - [[2001] Kodak Gold (ref: ea58)](#2001-kodak-gold-ref-ea58)
 - [[2001] Kodak Ektachrome 400X (ref: 5b82)](#2001-kodak-ektachrome-400x-ref-5b82)
 - [[2001] Kodak Värikuvafilmi (ref: f9ff)](#2001-kodak-värikuvafilmi-ref-f9ff)
+- [[2002] Polaroid High Definition (ref: deb6)](#2002-polaroid-high-definition-ref-deb6)
 - [[2002] Agfa Optima II 400 (ref: fdf0)](#2002-agfa-optima-ii-400-ref-fdf0)
 - [[2002] Fujifilm Fujicolor Superia (ref: 0683)](#2002-fujifilm-fujicolor-superia-ref-0683)
 - [[2002] Kodak Ektachrome 100 Plus (ref: 5d9f)](#2002-kodak-ektachrome-100-plus-ref-5d9f)
 - [[2002] Kirkland Signature Color Print Film (ref: 0441)](#2002-kirkland-signature-color-print-film-ref-0441)
 - [[2003] Konica KonicaColor VX 200 (ref: fe53)](#2003-konica-konicacolor-vx-200-ref-fe53)
 - [[2003] Fujifilm Fujicolor Superia X-TRA (ref: 713b)](#2003-fujifilm-fujicolor-superia-x-tra-ref-713b)
+- [[2003] Agfa Agfacolor Vista (ref: 2f14)](#2003-agfa-agfacolor-vista-ref-2f14)
 - [[2003] Fujifilm Fujichrome Provia 400F Professional (ref: 4591)](#2003-fujifilm-fujichrome-provia-400f-professional-ref-4591)
 - [[2003] Fujifilm Fujicolor Super G (ref: 55ff)](#2003-fujifilm-fujicolor-super-g-ref-55ff)
 - [[2003] Konica Centuria 200 (ref: e155)](#2003-konica-centuria-200-ref-e155)
@@ -135,6 +140,7 @@ Total scans : 552
 - [[2004] Fujifilm Fujichrome Sensia 200 (ref: 3a01)](#2004-fujifilm-fujichrome-sensia-200-ref-3a01)
 - [[2004] Fujifilm Fujichrome Sensia 100 (ref: a859)](#2004-fujifilm-fujichrome-sensia-100-ref-a859)
 - [[2004] Fujifilm Fujicolor Superia X-TRA (ref: 7980)](#2004-fujifilm-fujicolor-superia-x-tra-ref-7980)
+- [[2004] Kodak Advantix Ultra Max (ref: 1ca2)](#2004-kodak-advantix-ultra-max-ref-1ca2)
 - [[2004] Kodak Black & White + (ref: 2ff3)](#2004-kodak-black-white-ref-2ff3)
 - [[2004] Lloyds Pharmacy Colour Film (ref: 074c)](#2004-lloyds-pharmacy-colour-film-ref-074c)
 - [[2004] Kodak Portra 400UC (ref: 5b9e)](#2004-kodak-portra-400uc-ref-5b9e)
@@ -1053,6 +1059,34 @@ UUID  : 0143ad8539d84710845f4d2dc82e4f7d
 	<img src="./lowres/00122_000.jpg" alt="Sakura Sakuracolor II 35mm film box outside" loading="lazy" width="395" height="500">
 </a>
 
+#### [1978] Kodak Kodacolor II (ref: 4108)
+
+```
+Format: 120          |  Process : C-22    
+ISO   : 80           |  Expiry  : 1978-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 3bfb81116e54468fb296098a03ad4108
+```
+
+<a href="./archive/00325_000.jpg">
+	<img src="./lowres/00325_000.jpg" alt="Kodak Kodacolor II 120 film box outside" loading="lazy" width="500" height="411">
+</a>
+
+
+`UUID: cdd3df87cea649c7b8015b295520bd54`↓
+
+<a href="./archive/00325_001.jpg">
+	<img src="./lowres/00325_001.jpg" alt="Kodak Kodacolor II 120 film box leaflet" loading="lazy" width="220" height="499">
+</a>
+
+
+`UUID: 5bb72bffd3224a279eb4b01c201a80f2`↓
+
+<a href="./archive/00325_002.jpg">
+	<img src="./lowres/00325_002.jpg" alt="Kodak Kodacolor II 120 film box leaflet" loading="lazy" width="218" height="499">
+</a>
+
 #### [1978] Kodak Ektachrome 200 (ref: f372)
 
 ```
@@ -1767,6 +1801,27 @@ UUID  : 25b1c5f73455417384b6ef1a78b06b0e
 	<img src="./lowres/00293_002.jpg" alt="Konica Infrared 750nm 120 film box leaflet" loading="lazy" width="244" height="500">
 </a>
 
+#### [1993] SupaSnaps Snappit Film (ref: c41b)
+
+```
+Format: 126          |  Process : C-41    
+ISO   : 100          |  Expiry  : 1993-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 1cf47ce82b58418f9e009b4f0121c41b
+```
+
+<a href="./archive/00324_000.jpg">
+	<img src="./lowres/00324_000.jpg" alt="SupaSnaps Snappit Film 126 film box outside" loading="lazy" width="500" height="480">
+</a>
+
+
+`UUID: 2406fd96271a4db4b946e0e17a503b1b`↓
+
+<a href="./archive/00324_001.jpg">
+	<img src="./lowres/00324_001.jpg" alt="SupaSnaps Snappit Film 126 film cartridge" loading="lazy" width="500" height="444">
+</a>
+
 #### [1993] Alfo ALFOcolor PR-G (ref: 94b9)
 
 ```
@@ -2446,6 +2501,20 @@ UUID  : c2dc7711cd38434da5cfea8750f61358
 	<img src="./lowres/00094_001.jpg" alt="Kodak Gold Ultra 400 35mm film box outside" loading="lazy" width="300" height="500">
 </a>
 
+#### [2001] Agfa Agfacolor HDC Plus (ref: d22b)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2001-07 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 9cec7faf26254e72bfb79611ea6ed22b
+```
+
+<a href="./archive/00328_000.jpg">
+	<img src="./lowres/00328_000.jpg" alt="Agfa Agfacolor HDC Plus 110 film box outside" loading="lazy" width="500" height="354">
+</a>
+
 #### [2001] Kodak Elite Chrome (ref: 523c)
 
 ```
@@ -2549,6 +2618,20 @@ UUID  : b8795d19697a453c8f27fde773eaf9ff
 
 <a href="./archive/00146_000.jpg">
 	<img src="./lowres/00146_000.jpg" alt="Kodak Värikuvafilmi 35mm film box outside" loading="lazy" width="500" height="484">
+</a>
+
+#### [2002] Polaroid High Definition (ref: deb6)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2002-01 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 6c15a39618164543bfc2ef7f54addeb6
+```
+
+<a href="./archive/00327_000.jpg">
+	<img src="./lowres/00327_000.jpg" alt="Polaroid High Definition 110 film box outside" loading="lazy" width="500" height="343">
 </a>
 
 #### [2002] Agfa Optima II 400 (ref: fdf0)
@@ -2668,6 +2751,20 @@ UUID  : 89750d8a18fe4e238c76b97b4578713b
 
 <a href="./archive/00197_001.jpg">
 	<img src="./lowres/00197_001.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box inside" loading="lazy" width="425" height="500">
+</a>
+
+#### [2003] Agfa Agfacolor Vista (ref: 2f14)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2003-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 81e8726a7d3b45beb1f1bd6c1cbc2f14
+```
+
+<a href="./archive/00329_000.jpg">
+	<img src="./lowres/00329_000.jpg" alt="Agfa Agfacolor Vista 110 film box outside" loading="lazy" width="500" height="336">
 </a>
 
 #### [2003] Fujifilm Fujichrome Provia 400F Professional (ref: 4591)
@@ -2885,6 +2982,20 @@ UUID  : 9e774f36e4d34b3c81a30a5b44da7980
 
 <a href="./archive/00209_001.jpg">
 	<img src="./lowres/00209_001.jpg" alt="Fujifilm Fujicolor Superia X-TRA 120 film box inside" loading="lazy" width="485" height="499">
+</a>
+
+#### [2004] Kodak Advantix Ultra Max (ref: 1ca2)
+
+```
+Format: APS          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2004-07 
+Type  : Single Pack  |  Quantity: 25exp   
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 5b9792793fd94c9a9f9f776fe34e1ca2
+```
+
+<a href="./archive/00326_000.jpg">
+	<img src="./lowres/00326_000.jpg" alt="Kodak Advantix Ultra Max APS film box outside" loading="lazy" width="500" height="399">
 </a>
 
 #### [2004] Kodak Black & White + (ref: 2ff3)
@@ -6459,7 +6570,7 @@ UUID  : 80d64fa269454c5589109c68a40541a8
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     178   
+1     dekuNukem                     187   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    

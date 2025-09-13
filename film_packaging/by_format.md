@@ -15,19 +15,22 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 11 2025
-Unique items: 320
-Total scans : 552
+Last Updated: Sep 13 2025
+Unique items: 326
+Total scans : 561
 ```
 
 -----
 
+- [[110] Agfa Agfacolor HDC Plus (ref: d22b)](#110-agfa-agfacolor-hdc-plus-ref-d22b)
+- [[110] Agfa Agfacolor Vista (ref: 2f14)](#110-agfa-agfacolor-vista-ref-2f14)
 - [[110] Klick XD200 (ref: 44d7)](#110-klick-xd200-ref-44d7)
 - [[110] Kodak Ektachrome 64 (ref: 07c0)](#110-kodak-ektachrome-64-ref-07c0)
 - [[110] Kodak Kodachrome 64 (ref: 3145)](#110-kodak-kodachrome-64-ref-3145)
 - [[110] Kodak Kodacolor Gold 200 (ref: f368)](#110-kodak-kodacolor-gold-200-ref-f368)
 - [[110] Lomography Orca (ref: d506)](#110-lomography-orca-ref-d506)
 - [[110] Lomography Tiger (ref: 26dd)](#110-lomography-tiger-ref-26dd)
+- [[110] Polaroid High Definition (ref: deb6)](#110-polaroid-high-definition-ref-deb6)
 - [[120] Agfa APX (ref: 12c7)](#120-agfa-apx-ref-12c7)
 - [[120] Agfa Agfacolor Optima 200 (ref: 393d)](#120-agfa-agfacolor-optima-200-ref-393d)
 - [[120] Agfa Agfapan APX 400 (ref: 5855)](#120-agfa-agfapan-apx-400-ref-5855)
@@ -79,6 +82,7 @@ Total scans : 552
 - [[120] Kodak High Speed Ektachrome (ref: ce7f)](#120-kodak-high-speed-ektachrome-ref-ce7f)
 - [[120] Kodak High Speed Ektachrome (ref: be8f)](#120-kodak-high-speed-ektachrome-ref-be8f)
 - [[120] Kodak High Speed Ektachrome (ref: 7533)](#120-kodak-high-speed-ektachrome-ref-7533)
+- [[120] Kodak Kodacolor II (ref: 4108)](#120-kodak-kodacolor-ii-ref-4108)
 - [[120] Kodak Kodacolor-X (ref: a4b1)](#120-kodak-kodacolor-x-ref-a4b1)
 - [[120] Kodak Portra 400 (ref: 9f18)](#120-kodak-portra-400-ref-9f18)
 - [[120] Kodak Portra 400UC (ref: 5b9e)](#120-kodak-portra-400uc-ref-5b9e)
@@ -103,6 +107,7 @@ Total scans : 552
 - [[126] Kodak Kodacolor II (ref: 7310)](#126-kodak-kodacolor-ii-ref-7310)
 - [[126] Kodak Kodacolor-X (ref: 0ce5)](#126-kodak-kodacolor-x-ref-0ce5)
 - [[126] Kodak Kodacolor-X (ref: 5302)](#126-kodak-kodacolor-x-ref-5302)
+- [[126] SupaSnaps Snappit Film (ref: c41b)](#126-supasnaps-snappit-film-ref-c41b)
 - [[127] Reflx Lab Pro 100 (ref: 8bec)](#127-reflx-lab-pro-100-ref-8bec)
 - [[127] Shanghai GP3 (ref: 52aa)](#127-shanghai-gp3-ref-52aa)
 - [[12x16.5cm] Defender Extra Fast Panchromatic (ref: 348b)](#12x165cm-defender-extra-fast-panchromatic-ref-348b)
@@ -331,6 +336,7 @@ Total scans : 552
 - [[APS] Klick APS Film (ref: 4b88)](#aps-klick-aps-film-ref-4b88)
 - [[APS] Kodak Advantix Ultra (ref: 030a)](#aps-kodak-advantix-ultra-ref-030a)
 - [[APS] Kodak Advantix Ultra (ref: 566b)](#aps-kodak-advantix-ultra-ref-566b)
+- [[APS] Kodak Advantix Ultra Max (ref: 1ca2)](#aps-kodak-advantix-ultra-max-ref-1ca2)
 - [[APS] Lloyds Pharmacy APS Film (ref: c7cf)](#aps-lloyds-pharmacy-aps-film-ref-c7cf)
 - [[Integral Film] Fujifilm Instax Mini (ref: e5e7)](#integral-film-fujifilm-instax-mini-ref-e5e7)
 - [[Integral Film] Polaroid Color 600 Film Round Frame (ref: d985)](#integral-film-polaroid-color-600-film-round-frame-ref-d985)
@@ -345,6 +351,34 @@ Total scans : 552
 
 
 -----
+
+#### [110] Agfa Agfacolor HDC Plus (ref: d22b)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2001-07 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 9cec7faf26254e72bfb79611ea6ed22b
+```
+
+<a href="./archive/00328_000.jpg">
+	<img src="./lowres/00328_000.jpg" alt="Agfa Agfacolor HDC Plus 110 film box outside" loading="lazy" width="500" height="354">
+</a>
+
+#### [110] Agfa Agfacolor Vista (ref: 2f14)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2003-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 81e8726a7d3b45beb1f1bd6c1cbc2f14
+```
+
+<a href="./archive/00329_000.jpg">
+	<img src="./lowres/00329_000.jpg" alt="Agfa Agfacolor Vista 110 film box outside" loading="lazy" width="500" height="336">
+</a>
 
 #### [110] Klick XD200 (ref: 44d7)
 
@@ -442,6 +476,20 @@ UUID  : e8a5b04ef68c43ae9e79df89123726dd
 
 <a href="./archive/00143_000.jpg">
 	<img src="./lowres/00143_000.jpg" alt="Lomography Tiger 110 film box outside" loading="lazy" width="317" height="500">
+</a>
+
+#### [110] Polaroid High Definition (ref: deb6)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2002-01 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 6c15a39618164543bfc2ef7f54addeb6
+```
+
+<a href="./archive/00327_000.jpg">
+	<img src="./lowres/00327_000.jpg" alt="Polaroid High Definition 110 film box outside" loading="lazy" width="500" height="343">
 </a>
 
 #### [120] Agfa APX (ref: 12c7)
@@ -1522,6 +1570,34 @@ UUID  : ac9eab85f0874cf7aa5c67f0458e7533
 	<img src="./lowres/00303_002.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="188" height="500">
 </a>
 
+#### [120] Kodak Kodacolor II (ref: 4108)
+
+```
+Format: 120          |  Process : C-22    
+ISO   : 80           |  Expiry  : 1978-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 3bfb81116e54468fb296098a03ad4108
+```
+
+<a href="./archive/00325_000.jpg">
+	<img src="./lowres/00325_000.jpg" alt="Kodak Kodacolor II 120 film box outside" loading="lazy" width="500" height="411">
+</a>
+
+
+`UUID: cdd3df87cea649c7b8015b295520bd54`↓
+
+<a href="./archive/00325_001.jpg">
+	<img src="./lowres/00325_001.jpg" alt="Kodak Kodacolor II 120 film box leaflet" loading="lazy" width="220" height="499">
+</a>
+
+
+`UUID: 5bb72bffd3224a279eb4b01c201a80f2`↓
+
+<a href="./archive/00325_002.jpg">
+	<img src="./lowres/00325_002.jpg" alt="Kodak Kodacolor II 120 film box leaflet" loading="lazy" width="218" height="499">
+</a>
+
 #### [120] Kodak Kodacolor-X (ref: a4b1)
 
 ```
@@ -2073,6 +2149,27 @@ UUID  : 5a3d2ba8ff7649c9b3450d7069445302
 
 <a href="./archive/00024_000.jpg">
 	<img src="./lowres/00024_000.jpg" alt="Kodak Kodacolor-X 126 film box outside" loading="lazy" width="500" height="471">
+</a>
+
+#### [126] SupaSnaps Snappit Film (ref: c41b)
+
+```
+Format: 126          |  Process : C-41    
+ISO   : 100          |  Expiry  : 1993-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 1cf47ce82b58418f9e009b4f0121c41b
+```
+
+<a href="./archive/00324_000.jpg">
+	<img src="./lowres/00324_000.jpg" alt="SupaSnaps Snappit Film 126 film box outside" loading="lazy" width="500" height="480">
+</a>
+
+
+`UUID: 2406fd96271a4db4b946e0e17a503b1b`↓
+
+<a href="./archive/00324_001.jpg">
+	<img src="./lowres/00324_001.jpg" alt="SupaSnaps Snappit Film 126 film cartridge" loading="lazy" width="500" height="444">
 </a>
 
 #### [127] Reflx Lab Pro 100 (ref: 8bec)
@@ -6170,6 +6267,20 @@ UUID  : 041622f239024ffb8b75c367619a566b
 	<img src="./lowres/00066_000.jpg" alt="Kodak Advantix Ultra APS film box outside" loading="lazy" width="500" height="389">
 </a>
 
+#### [APS] Kodak Advantix Ultra Max (ref: 1ca2)
+
+```
+Format: APS          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2004-07 
+Type  : Single Pack  |  Quantity: 25exp   
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 5b9792793fd94c9a9f9f776fe34e1ca2
+```
+
+<a href="./archive/00326_000.jpg">
+	<img src="./lowres/00326_000.jpg" alt="Kodak Advantix Ultra Max APS film box outside" loading="lazy" width="500" height="399">
+</a>
+
 #### [APS] Lloyds Pharmacy APS Film (ref: c7cf)
 
 ```
@@ -6459,7 +6570,7 @@ UUID  : 6032680a3aba41b39c600d7e23998f62
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     178   
+1     dekuNukem                     187   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    

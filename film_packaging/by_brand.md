@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 11 2025
-Unique items: 320
-Total scans : 552
+Last Updated: Sep 13 2025
+Unique items: 326
+Total scans : 561
 ```
 
 -----
@@ -27,8 +27,10 @@ Total scans : 552
 - [Agfa APX (ref: 12c7)](#agfa-apx-ref-12c7)
 - [Agfa APX (ref: 5276)](#agfa-apx-ref-5276)
 - [Agfa AgfaColor CT 18 (ref: 1fef)](#agfa-agfacolor-ct-18-ref-1fef)
+- [Agfa Agfacolor HDC Plus (ref: d22b)](#agfa-agfacolor-hdc-plus-ref-d22b)
 - [Agfa Agfacolor Optima 200 (ref: 393d)](#agfa-agfacolor-optima-200-ref-393d)
 - [Agfa Agfacolor ULTRA 50 (ref: 4faa)](#agfa-agfacolor-ultra-50-ref-4faa)
+- [Agfa Agfacolor Vista (ref: 2f14)](#agfa-agfacolor-vista-ref-2f14)
 - [Agfa Agfacolor XRG 200 (ref: 689e)](#agfa-agfacolor-xrg-200-ref-689e)
 - [Agfa Agfapan  APX 25 (ref: 805f)](#agfa-agfapan-apx-25-ref-805f)
 - [Agfa Agfapan APX 100 (ref: e271)](#agfa-agfapan-apx-100-ref-e271)
@@ -171,6 +173,7 @@ Total scans : 552
 - [Klick XD200 (ref: 44d7)](#klick-xd200-ref-44d7)
 - [Kodak Advantix Ultra (ref: 030a)](#kodak-advantix-ultra-ref-030a)
 - [Kodak Advantix Ultra (ref: 566b)](#kodak-advantix-ultra-ref-566b)
+- [Kodak Advantix Ultra Max (ref: 1ca2)](#kodak-advantix-ultra-max-ref-1ca2)
 - [Kodak Black & White + (ref: 2ff3)](#kodak-black-white-ref-2ff3)
 - [Kodak ColorPlus (ref: 79ca)](#kodak-colorplus-ref-79ca)
 - [Kodak ColorPlus (ref: 6637)](#kodak-colorplus-ref-6637)
@@ -228,6 +231,7 @@ Total scans : 552
 - [Kodak Kodachrome 64 (ref: 3145)](#kodak-kodachrome-64-ref-3145)
 - [Kodak Kodachrome 64 (ref: 3206)](#kodak-kodachrome-64-ref-3206)
 - [Kodak Kodacolor Gold 200 (ref: f368)](#kodak-kodacolor-gold-200-ref-f368)
+- [Kodak Kodacolor II (ref: 4108)](#kodak-kodacolor-ii-ref-4108)
 - [Kodak Kodacolor II (ref: 7310)](#kodak-kodacolor-ii-ref-7310)
 - [Kodak Kodacolor VR (ref: 035f)](#kodak-kodacolor-vr-ref-035f)
 - [Kodak Kodacolor VR Plus (ref: f8bf)](#kodak-kodacolor-vr-plus-ref-f8bf)
@@ -309,6 +313,7 @@ Total scans : 552
 - [Polaroid Color 600 Film Round Frame (ref: d985)](#polaroid-color-600-film-round-frame-ref-d985)
 - [Polaroid Color SX-70 Film (ref: dc7f)](#polaroid-color-sx-70-film-ref-dc7f)
 - [Polaroid GridFilm (ref: 8deb)](#polaroid-gridfilm-ref-8deb)
+- [Polaroid High Definition (ref: deb6)](#polaroid-high-definition-ref-deb6)
 - [Polaroid PolaBlue 35mm (ref: df66)](#polaroid-polablue-35mm-ref-df66)
 - [Polaroid PolaChrome 35mm (ref: 3b60)](#polaroid-polachrome-35mm-ref-3b60)
 - [Polaroid PolaChrome 35mm (ref: b202)](#polaroid-polachrome-35mm-ref-b202)
@@ -334,6 +339,7 @@ Total scans : 552
 - [SantaColor SantaColor (ref: f3a7)](#santacolor-santacolor-ref-f3a7)
 - [Shanghai GP3 (ref: 52aa)](#shanghai-gp3-ref-52aa)
 - [Space Cat Film Mars 250D (ref: 5027)](#space-cat-film-mars-250d-ref-5027)
+- [SupaSnaps Snappit Film (ref: c41b)](#supasnaps-snappit-film-ref-c41b)
 - [Svema Foto 200 (ref: 6991)](#svema-foto-200-ref-6991)
 - [Svema Foto 400 (ref: 26ad)](#svema-foto-400-ref-26ad)
 - [Tasma OCh 50 (ref: 5c43)](#tasma-och-50-ref-5c43)
@@ -486,6 +492,20 @@ UUID  : 0e445a9b612a487b90df4e94a3831fef
 	<img src="./lowres/00272_006.jpg" alt="Agfa AgfaColor CT 18 35mm film box processing envelope" loading="lazy" width="500" height="340">
 </a>
 
+#### Agfa Agfacolor HDC Plus (ref: d22b)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2001-07 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 9cec7faf26254e72bfb79611ea6ed22b
+```
+
+<a href="./archive/00328_000.jpg">
+	<img src="./lowres/00328_000.jpg" alt="Agfa Agfacolor HDC Plus 110 film box outside" loading="lazy" width="500" height="354">
+</a>
+
 #### Agfa Agfacolor Optima 200 (ref: 393d)
 
 ```
@@ -526,6 +546,20 @@ UUID  : d10e846ba5154f1d940ed7009a904faa
 
 <a href="./archive/00010_001.jpg">
 	<img src="./lowres/00010_001.jpg" alt="Agfa Agfacolor ULTRA 50 35mm film box inside" loading="lazy" width="453" height="500">
+</a>
+
+#### Agfa Agfacolor Vista (ref: 2f14)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2003-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 81e8726a7d3b45beb1f1bd6c1cbc2f14
+```
+
+<a href="./archive/00329_000.jpg">
+	<img src="./lowres/00329_000.jpg" alt="Agfa Agfacolor Vista 110 film box outside" loading="lazy" width="500" height="336">
 </a>
 
 #### Agfa Agfacolor XRG 200 (ref: 689e)
@@ -3125,6 +3159,20 @@ UUID  : 041622f239024ffb8b75c367619a566b
 	<img src="./lowres/00066_000.jpg" alt="Kodak Advantix Ultra APS film box outside" loading="lazy" width="500" height="389">
 </a>
 
+#### Kodak Advantix Ultra Max (ref: 1ca2)
+
+```
+Format: APS          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2004-07 
+Type  : Single Pack  |  Quantity: 25exp   
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 5b9792793fd94c9a9f9f776fe34e1ca2
+```
+
+<a href="./archive/00326_000.jpg">
+	<img src="./lowres/00326_000.jpg" alt="Kodak Advantix Ultra Max APS film box outside" loading="lazy" width="500" height="399">
+</a>
+
 #### Kodak Black & White + (ref: 2ff3)
 
 ```
@@ -4327,6 +4375,34 @@ UUID  : 78bfeed667154d819902ec92d7dcf368
 
 <a href="./archive/00068_000.jpg">
 	<img src="./lowres/00068_000.jpg" alt="Kodak Kodacolor Gold 200 110 film box outside" loading="lazy" width="500" height="403">
+</a>
+
+#### Kodak Kodacolor II (ref: 4108)
+
+```
+Format: 120          |  Process : C-22    
+ISO   : 80           |  Expiry  : 1978-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 3bfb81116e54468fb296098a03ad4108
+```
+
+<a href="./archive/00325_000.jpg">
+	<img src="./lowres/00325_000.jpg" alt="Kodak Kodacolor II 120 film box outside" loading="lazy" width="500" height="411">
+</a>
+
+
+`UUID: cdd3df87cea649c7b8015b295520bd54`↓
+
+<a href="./archive/00325_001.jpg">
+	<img src="./lowres/00325_001.jpg" alt="Kodak Kodacolor II 120 film box leaflet" loading="lazy" width="220" height="499">
+</a>
+
+
+`UUID: 5bb72bffd3224a279eb4b01c201a80f2`↓
+
+<a href="./archive/00325_002.jpg">
+	<img src="./lowres/00325_002.jpg" alt="Kodak Kodacolor II 120 film box leaflet" loading="lazy" width="218" height="499">
 </a>
 
 #### Kodak Kodacolor II (ref: 7310)
@@ -5799,6 +5875,20 @@ UUID  : 4f1aabf29f724c9ea3b2bee414b08deb
 	<img src="./lowres/00031_003.jpg" alt="Polaroid GridFilm Integral Film film box inside" loading="lazy" width="500" height="340">
 </a>
 
+#### Polaroid High Definition (ref: deb6)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2002-01 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 6c15a39618164543bfc2ef7f54addeb6
+```
+
+<a href="./archive/00327_000.jpg">
+	<img src="./lowres/00327_000.jpg" alt="Polaroid High Definition 110 film box outside" loading="lazy" width="500" height="343">
+</a>
+
 #### Polaroid PolaBlue 35mm (ref: df66)
 
 ```
@@ -6338,6 +6428,27 @@ UUID  : 1595b93966854178a03bc6d0de705027
 	<img src="./lowres/00227_000.jpg" alt="Space Cat Film Mars 250D 35mm film box outside" loading="lazy" width="500" height="362">
 </a>
 
+#### SupaSnaps Snappit Film (ref: c41b)
+
+```
+Format: 126          |  Process : C-41    
+ISO   : 100          |  Expiry  : 1993-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 1cf47ce82b58418f9e009b4f0121c41b
+```
+
+<a href="./archive/00324_000.jpg">
+	<img src="./lowres/00324_000.jpg" alt="SupaSnaps Snappit Film 126 film box outside" loading="lazy" width="500" height="480">
+</a>
+
+
+`UUID: 2406fd96271a4db4b946e0e17a503b1b`↓
+
+<a href="./archive/00324_001.jpg">
+	<img src="./lowres/00324_001.jpg" alt="SupaSnaps Snappit Film 126 film cartridge" loading="lazy" width="500" height="444">
+</a>
+
 #### Svema Foto 200 (ref: 6991)
 
 ```
@@ -6459,7 +6570,7 @@ UUID  : 46037fb6c55244b6ae47c55d0e454bf8
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     178   
+1     dekuNukem                     187   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    

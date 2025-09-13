@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 11 2025
-Unique items: 320
-Total scans : 552
+Last Updated: Sep 13 2025
+Unique items: 326
+Total scans : 561
 ```
 
 Or Sort by...
@@ -53,7 +53,7 @@ Or Sort by...
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     178   
+1     dekuNukem                     187   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    
@@ -89,6 +89,14 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-09-13
+  - dekuNukem: Agfa Agfacolor HDC Plus
+  - dekuNukem: Agfa Agfacolor Vista
+  - dekuNukem: Kodak Advantix Ultra Max
+  - dekuNukem: Kodak Kodacolor II
+  - dekuNukem: Polaroid High Definition
+  - dekuNukem: SupaSnaps Snappit Film
+
 2025-09-11
   - @sachynmital: Mr. Negative 250D
   - @sachynmital: Mr. Negative Eterna 250D
@@ -117,12 +125,6 @@ Rank  Username                      Contributions
   - dekuNukem: Fujifilm Fujicolor HR100
   - kaimon: Ilford Ilfochrome
   - kaimon: Kodak High Speed Ektachrome
-
-2025-09-05
-  - dekuNukem: Agfa Agfacolor Optima 200
-  - dekuNukem: Agfa Agfapan APX 400
-  - dekuNukem: Agfa Optima II 400
-  - dekuNukem: Kodak Portra 400UC
 ```
 
 ## Disclaimer

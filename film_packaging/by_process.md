@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 11 2025
-Unique items: 320
-Total scans : 552
+Last Updated: Sep 13 2025
+Unique items: 326
+Total scans : 561
 ```
 
 -----
@@ -124,12 +124,15 @@ Total scans : 552
 - [[BW] Svema Foto 400 (ref: 26ad)](#bw-svema-foto-400-ref-26ad)
 - [[BW] Tasma OCh 50 (ref: 5c43)](#bw-tasma-och-50-ref-5c43)
 - [[BW] Wolfen NP100 (ref: 71a6)](#bw-wolfen-np100-ref-71a6)
+- [[C-22] Kodak Kodacolor II (ref: 4108)](#c-22-kodak-kodacolor-ii-ref-4108)
 - [[C-22] Kodak Kodacolor-X (ref: a4b1)](#c-22-kodak-kodacolor-x-ref-a4b1)
 - [[C-22] Kodak Kodacolor-X (ref: 0ce5)](#c-22-kodak-kodacolor-x-ref-0ce5)
 - [[C-22] Kodak Kodacolor-X (ref: 5302)](#c-22-kodak-kodacolor-x-ref-5302)
 - [[C-22] Porst Color N21 (ref: 494a)](#c-22-porst-color-n21-ref-494a)
+- [[C-41] Agfa Agfacolor HDC Plus (ref: d22b)](#c-41-agfa-agfacolor-hdc-plus-ref-d22b)
 - [[C-41] Agfa Agfacolor Optima 200 (ref: 393d)](#c-41-agfa-agfacolor-optima-200-ref-393d)
 - [[C-41] Agfa Agfacolor ULTRA 50 (ref: 4faa)](#c-41-agfa-agfacolor-ultra-50-ref-4faa)
+- [[C-41] Agfa Agfacolor Vista (ref: 2f14)](#c-41-agfa-agfacolor-vista-ref-2f14)
 - [[C-41] Agfa Agfacolor XRG 200 (ref: 689e)](#c-41-agfa-agfacolor-xrg-200-ref-689e)
 - [[C-41] Agfa Optima II 400 (ref: fdf0)](#c-41-agfa-optima-ii-400-ref-fdf0)
 - [[C-41] Agfa Vista 200 (ref: d3af)](#c-41-agfa-vista-200-ref-d3af)
@@ -193,6 +196,7 @@ Total scans : 552
 - [[C-41] Klick XD200 (ref: 44d7)](#c-41-klick-xd200-ref-44d7)
 - [[C-41] Kodak Advantix Ultra (ref: 030a)](#c-41-kodak-advantix-ultra-ref-030a)
 - [[C-41] Kodak Advantix Ultra (ref: 566b)](#c-41-kodak-advantix-ultra-ref-566b)
+- [[C-41] Kodak Advantix Ultra Max (ref: 1ca2)](#c-41-kodak-advantix-ultra-max-ref-1ca2)
 - [[C-41] Kodak Black & White + (ref: 2ff3)](#c-41-kodak-black-white-ref-2ff3)
 - [[C-41] Kodak ColorPlus (ref: 79ca)](#c-41-kodak-colorplus-ref-79ca)
 - [[C-41] Kodak ColorPlus (ref: 6637)](#c-41-kodak-colorplus-ref-6637)
@@ -254,6 +258,7 @@ Total scans : 552
 - [[C-41] Marix Professional Negative Movie Color Film (ref: c457)](#c-41-marix-professional-negative-movie-color-film-ref-c457)
 - [[C-41] Max Spielmann Maxi Color (ref: bf60)](#c-41-max-spielmann-maxi-color-ref-bf60)
 - [[C-41] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#c-41-minolta-minolta-16-color-film-for-prints-ref-a2ff)
+- [[C-41] Polaroid High Definition (ref: deb6)](#c-41-polaroid-high-definition-ref-deb6)
 - [[C-41] Premium Super XG (ref: 8ccd)](#c-41-premium-super-xg-ref-8ccd)
 - [[C-41] Reflx Lab Pro 100 (ref: 8bec)](#c-41-reflx-lab-pro-100-ref-8bec)
 - [[C-41] Reflx Lab Pro 100 (ref: 1311)](#c-41-reflx-lab-pro-100-ref-1311)
@@ -263,6 +268,7 @@ Total scans : 552
 - [[C-41] SantaColor SantaColor (ref: cb58)](#c-41-santacolor-santacolor-ref-cb58)
 - [[C-41] SantaColor SantaColor (ref: f3a7)](#c-41-santacolor-santacolor-ref-f3a7)
 - [[C-41] Space Cat Film Mars 250D (ref: 5027)](#c-41-space-cat-film-mars-250d-ref-5027)
+- [[C-41] SupaSnaps Snappit Film (ref: c41b)](#c-41-supasnaps-snappit-film-ref-c41b)
 - [[C-41] Walkens Speed 400 (ref: 740f)](#c-41-walkens-speed-400-ref-740f)
 - [[C-41] Wolfen NC500 (ref: 91c1)](#c-41-wolfen-nc500-ref-91c1)
 - [[C-41] York Photo Labs DXG 200 (ref: 4bf8)](#c-41-york-photo-labs-dxg-200-ref-4bf8)
@@ -2264,6 +2270,34 @@ UUID  : 898148fa3a754866a407bbecec4a71a6
 	<img src="./lowres/00131_000.jpg" alt="Wolfen NP100 35mm film box outside" loading="lazy" width="500" height="455">
 </a>
 
+#### [C-22] Kodak Kodacolor II (ref: 4108)
+
+```
+Format: 120          |  Process : C-22    
+ISO   : 80           |  Expiry  : 1978-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 3bfb81116e54468fb296098a03ad4108
+```
+
+<a href="./archive/00325_000.jpg">
+	<img src="./lowres/00325_000.jpg" alt="Kodak Kodacolor II 120 film box outside" loading="lazy" width="500" height="411">
+</a>
+
+
+`UUID: cdd3df87cea649c7b8015b295520bd54`↓
+
+<a href="./archive/00325_001.jpg">
+	<img src="./lowres/00325_001.jpg" alt="Kodak Kodacolor II 120 film box leaflet" loading="lazy" width="220" height="499">
+</a>
+
+
+`UUID: 5bb72bffd3224a279eb4b01c201a80f2`↓
+
+<a href="./archive/00325_002.jpg">
+	<img src="./lowres/00325_002.jpg" alt="Kodak Kodacolor II 120 film box leaflet" loading="lazy" width="218" height="499">
+</a>
+
 #### [C-22] Kodak Kodacolor-X (ref: a4b1)
 
 ```
@@ -2341,6 +2375,20 @@ UUID  : e08418889f714c9dbda0858718e0494a
 	<img src="./lowres/00046_001.jpg" alt="Porst Color N21 35mm film box leaflet" loading="lazy" width="500" height="426">
 </a>
 
+#### [C-41] Agfa Agfacolor HDC Plus (ref: d22b)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2001-07 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 9cec7faf26254e72bfb79611ea6ed22b
+```
+
+<a href="./archive/00328_000.jpg">
+	<img src="./lowres/00328_000.jpg" alt="Agfa Agfacolor HDC Plus 110 film box outside" loading="lazy" width="500" height="354">
+</a>
+
 #### [C-41] Agfa Agfacolor Optima 200 (ref: 393d)
 
 ```
@@ -2381,6 +2429,20 @@ UUID  : d10e846ba5154f1d940ed7009a904faa
 
 <a href="./archive/00010_001.jpg">
 	<img src="./lowres/00010_001.jpg" alt="Agfa Agfacolor ULTRA 50 35mm film box inside" loading="lazy" width="453" height="500">
+</a>
+
+#### [C-41] Agfa Agfacolor Vista (ref: 2f14)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2003-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 81e8726a7d3b45beb1f1bd6c1cbc2f14
+```
+
+<a href="./archive/00329_000.jpg">
+	<img src="./lowres/00329_000.jpg" alt="Agfa Agfacolor Vista 110 film box outside" loading="lazy" width="500" height="336">
 </a>
 
 #### [C-41] Agfa Agfacolor XRG 200 (ref: 689e)
@@ -3503,6 +3565,20 @@ UUID  : 041622f239024ffb8b75c367619a566b
 	<img src="./lowres/00066_000.jpg" alt="Kodak Advantix Ultra APS film box outside" loading="lazy" width="500" height="389">
 </a>
 
+#### [C-41] Kodak Advantix Ultra Max (ref: 1ca2)
+
+```
+Format: APS          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2004-07 
+Type  : Single Pack  |  Quantity: 25exp   
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 5b9792793fd94c9a9f9f776fe34e1ca2
+```
+
+<a href="./archive/00326_000.jpg">
+	<img src="./lowres/00326_000.jpg" alt="Kodak Advantix Ultra Max APS film box outside" loading="lazy" width="500" height="399">
+</a>
+
 #### [C-41] Kodak Black & White + (ref: 2ff3)
 
 ```
@@ -4567,6 +4643,20 @@ UUID  : a2cfc71ac0e24ea58f4e3350423aa2ff
 	<img src="./lowres/00162_000.jpg" alt="Minolta Minolta 16 Color Film For Prints 16mm film box outside" loading="lazy" width="500" height="413">
 </a>
 
+#### [C-41] Polaroid High Definition (ref: deb6)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2002-01 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 6c15a39618164543bfc2ef7f54addeb6
+```
+
+<a href="./archive/00327_000.jpg">
+	<img src="./lowres/00327_000.jpg" alt="Polaroid High Definition 110 film box outside" loading="lazy" width="500" height="343">
+</a>
+
 #### [C-41] Premium Super XG (ref: 8ccd)
 
 ```
@@ -4698,6 +4788,27 @@ UUID  : 1595b93966854178a03bc6d0de705027
 
 <a href="./archive/00227_000.jpg">
 	<img src="./lowres/00227_000.jpg" alt="Space Cat Film Mars 250D 35mm film box outside" loading="lazy" width="500" height="362">
+</a>
+
+#### [C-41] SupaSnaps Snappit Film (ref: c41b)
+
+```
+Format: 126          |  Process : C-41    
+ISO   : 100          |  Expiry  : 1993-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 1cf47ce82b58418f9e009b4f0121c41b
+```
+
+<a href="./archive/00324_000.jpg">
+	<img src="./lowres/00324_000.jpg" alt="SupaSnaps Snappit Film 126 film box outside" loading="lazy" width="500" height="480">
+</a>
+
+
+`UUID: 2406fd96271a4db4b946e0e17a503b1b`↓
+
+<a href="./archive/00324_001.jpg">
+	<img src="./lowres/00324_001.jpg" alt="SupaSnaps Snappit Film 126 film cartridge" loading="lazy" width="500" height="444">
 </a>
 
 #### [C-41] Walkens Speed 400 (ref: 740f)
@@ -6459,7 +6570,7 @@ UUID  : ac9eab85f0874cf7aa5c67f0458e7533
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     178   
+1     dekuNukem                     187   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    

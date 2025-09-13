@@ -551,3 +551,12 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 321,0,film_box_outside,Mr. Negative,250D,35mm,250,ECN-2,202401,1757615275,dfd8aa466f3aa0fef6b7924157d402e2,e5b29575691e43d8bc17578978083574,00321_000.jpg,@sachynmital,,Single Pack,36exp
 322,0,film_box_outside,Mr. Negative,Eterna 250D,35mm,250,ECN-2,201301,1757615389,a9a4551ebccba34d3947f2d781b53b2f,955fbe87cb4c45dfb7f198cc638d6d6e,00322_000.jpg,@sachynmital,,Single Pack,36exp
 323,0,film_box_outside,Mr. Negative,Silver Screen Negative,35mm,200,ECN-2,202401,1757615460,22addca551cda3c6f7bb25e238369f29,4acd5aeda3a34bc89b646a14bb4dc968,00323_000.jpg,@sachynmital,,Single Pack,36exp
+324,0,film_box_outside,SupaSnaps,Snappit Film,126,100,C-41,199305,1757723961,751b6b91d70eb14c78b42d85d08d2130,1cf47ce82b58418f9e009b4f0121c41b,00324_000.jpg,dekuNukem,,Single Pack,24exp
+324,1,film_cartridge,SupaSnaps,Snappit Film,126,100,C-41,199305,1757723964,beccd7e55ef0873c73c17b21ec340820,2406fd96271a4db4b946e0e17a503b1b,00324_001.jpg,dekuNukem,,Single Pack,24exp
+325,0,film_box_outside,Kodak,Kodacolor II,120,80,C-22,197803,1757724085,9d159f566b618f92e182253c237e9c55,3bfb81116e54468fb296098a03ad4108,00325_000.jpg,dekuNukem,,Single Pack,N/A
+325,1,film_box_leaflet,Kodak,Kodacolor II,120,80,C-22,197803,1757724086,7d0e10fd4ce3179851b3d1f108bb5331,cdd3df87cea649c7b8015b295520bd54,00325_001.jpg,dekuNukem,,Single Pack,N/A
+325,2,film_box_leaflet,Kodak,Kodacolor II,120,80,C-22,197803,1757724090,bdb9c5f280169240b25d5d8ba2f5ce7c,5bb72bffd3224a279eb4b01c201a80f2,00325_002.jpg,dekuNukem,,Single Pack,N/A
+326,0,film_box_outside,Kodak,Advantix Ultra Max,APS,400,C-41,200407,1757724131,1deafb13b7df72196f48f74d54af896d,5b9792793fd94c9a9f9f776fe34e1ca2,00326_000.jpg,dekuNukem,,Single Pack,25exp
+327,0,film_box_outside,Polaroid,High Definition,110,200,C-41,200201,1757724210,ef32effe20c353cda323aab0bfdc550b,6c15a39618164543bfc2ef7f54addeb6,00327_000.jpg,dekuNukem,,Single Pack,24exp
+328,0,film_box_outside,Agfa,Agfacolor HDC Plus,110,200,C-41,200107,1757724290,a74c343072bbaa38acf546ba351a9c80,9cec7faf26254e72bfb79611ea6ed22b,00328_000.jpg,dekuNukem,,Single Pack,24exp
+329,0,film_box_outside,Agfa,Agfacolor Vista,110,200,C-41,200305,1757724338,f07aa2c28944ce716c0f9fe3c4a0f94b,81e8726a7d3b45beb1f1bd6c1cbc2f14,00329_000.jpg,dekuNukem,,Single Pack,24exp
