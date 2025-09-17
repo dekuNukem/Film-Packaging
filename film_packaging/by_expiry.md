@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 17 2025
-Unique items: 341
-Total scans : 587
+Unique items: 342
+Total scans : 588
 ```
 
 -----
@@ -272,6 +272,7 @@ Total scans : 587
 - [[2025] Three Film Rolls 5207 (ref: 0292)](#2025-three-film-rolls-5207-ref-0292)
 - [[2026] Alien Film Aeronega (ref: d1c5)](#2026-alien-film-aeronega-ref-d1c5)
 - [[2026] Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)](#2026-fujifilm-fujicolor-superia-x-tra-ref-6b8a)
+- [[2026] Kodak Portra 160 (ref: 6b0a)](#2026-kodak-portra-160-ref-6b0a)
 - [[2026] Kodak UltraMax (ref: e3ba)](#2026-kodak-ultramax-ref-e3ba)
 - [[2026] Lomography Fantome (ref: 4340)](#2026-lomography-fantome-ref-4340)
 - [[2026] Rollei Retro 80S (ref: e6c0)](#2026-rollei-retro-80s-ref-e6c0)
@@ -5323,6 +5324,20 @@ UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
 	<img src="./lowres/00165_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box outside" loading="lazy" width="460" height="499">
 </a>
 
+#### [2026] Kodak Portra 160 (ref: 6b0a)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 160          |  Expiry  : 2026-01 
+Type  : Multi-Pack-5 |  Quantity: 36exp   
+Added : 2025-09-17   |  Author  : The Compartmentalist
+UUID  : 404910cf04a14b8ab5116ec9c2f86b0a
+```
+
+<a href="./archive/00345_000.jpg">
+	<img src="./lowres/00345_000.jpg" alt="Kodak Portra 160 35mm film box outside" loading="lazy" width="500" height="361">
+</a>
+
 #### [2026] Kodak UltraMax (ref: e3ba)
 
 ```
@@ -6876,7 +6891,7 @@ Rank  Username                      Contributions
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            39    
-5     The Compartmentalist          24    
+5     The Compartmentalist          25    
 6     Camera.Riley                  19    
 7     Nano_Burger                   18    
 8     @ob.skura                     16    

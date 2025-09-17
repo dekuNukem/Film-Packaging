@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 17 2025
-Unique items: 341
-Total scans : 587
+Unique items: 342
+Total scans : 588
 ```
 
 -----
@@ -225,6 +225,7 @@ Total scans : 587
 - [[The Compartmentalist] Kodak High Speed Ektachrome (ref: be8f)](#the-compartmentalist-kodak-high-speed-ektachrome-ref-be8f)
 - [[The Compartmentalist] Kodak Kodachrome 25 (ref: 8833)](#the-compartmentalist-kodak-kodachrome-25-ref-8833)
 - [[The Compartmentalist] Kodak Kodacolor II (ref: 7310)](#the-compartmentalist-kodak-kodacolor-ii-ref-7310)
+- [[The Compartmentalist] Kodak Portra 160 (ref: 6b0a)](#the-compartmentalist-kodak-portra-160-ref-6b0a)
 - [[The Compartmentalist] Kodak UltraMax (ref: e3ba)](#the-compartmentalist-kodak-ultramax-ref-e3ba)
 - [[The Compartmentalist] Lomography Lomochrome Color’92 (ref: 0960)](#the-compartmentalist-lomography-lomochrome-color-92-ref-0960)
 - [[The Compartmentalist] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#the-compartmentalist-minolta-minolta-16-color-film-for-prints-ref-a2ff)
@@ -3972,6 +3973,20 @@ UUID  : 08c1609b39a64daf8be1373ea99c7310
 	<img src="./lowres/00263_000.jpg" alt="Kodak Kodacolor II 126 film box outside" loading="lazy" width="440" height="499">
 </a>
 
+#### [The Compartmentalist] Kodak Portra 160 (ref: 6b0a)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 160          |  Expiry  : 2026-01 
+Type  : Multi-Pack-5 |  Quantity: 36exp   
+Added : 2025-09-17   |  Author  : The Compartmentalist
+UUID  : 404910cf04a14b8ab5116ec9c2f86b0a
+```
+
+<a href="./archive/00345_000.jpg">
+	<img src="./lowres/00345_000.jpg" alt="Kodak Portra 160 35mm film box outside" loading="lazy" width="500" height="361">
+</a>
+
 #### [The Compartmentalist] Kodak UltraMax (ref: e3ba)
 
 ```
@@ -6876,7 +6891,7 @@ Rank  Username                      Contributions
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            39    
-5     The Compartmentalist          24    
+5     The Compartmentalist          25    
 6     Camera.Riley                  19    
 7     Nano_Burger                   18    
 8     @ob.skura                     16    

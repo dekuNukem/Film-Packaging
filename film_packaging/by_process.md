@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 17 2025
-Unique items: 341
-Total scans : 587
+Unique items: 342
+Total scans : 588
 ```
 
 -----
@@ -229,6 +229,7 @@ Total scans : 587
 - [[C-41] Kodak Kodacolor VR Plus (ref: f8bf)](#c-41-kodak-kodacolor-vr-plus-ref-f8bf)
 - [[C-41] Kodak MAX (ref: 2361)](#c-41-kodak-max-ref-2361)
 - [[C-41] Kodak Portra 160 (ref: ce56)](#c-41-kodak-portra-160-ref-ce56)
+- [[C-41] Kodak Portra 160 (ref: 6b0a)](#c-41-kodak-portra-160-ref-6b0a)
 - [[C-41] Kodak Portra 400 (ref: cf9c)](#c-41-kodak-portra-400-ref-cf9c)
 - [[C-41] Kodak Portra 400 (ref: 9f18)](#c-41-kodak-portra-400-ref-9f18)
 - [[C-41] Kodak Portra 400 (ref: 8b1c)](#c-41-kodak-portra-400-ref-8b1c)
@@ -4147,6 +4148,20 @@ UUID  : 9131fb90db70475dbad5f63f1448ce56
 	<img src="./lowres/00089_000.jpg" alt="Kodak Portra 160 35mm film box outside" loading="lazy" width="500" height="367">
 </a>
 
+#### [C-41] Kodak Portra 160 (ref: 6b0a)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 160          |  Expiry  : 2026-01 
+Type  : Multi-Pack-5 |  Quantity: 36exp   
+Added : 2025-09-17   |  Author  : The Compartmentalist
+UUID  : 404910cf04a14b8ab5116ec9c2f86b0a
+```
+
+<a href="./archive/00345_000.jpg">
+	<img src="./lowres/00345_000.jpg" alt="Kodak Portra 160 35mm film box outside" loading="lazy" width="500" height="361">
+</a>
+
 #### [C-41] Kodak Portra 400 (ref: cf9c)
 
 ```
@@ -6876,7 +6891,7 @@ Rank  Username                      Contributions
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            39    
-5     The Compartmentalist          24    
+5     The Compartmentalist          25    
 6     Camera.Riley                  19    
 7     Nano_Burger                   18    
 8     @ob.skura                     16    
