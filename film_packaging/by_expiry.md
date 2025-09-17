@@ -1905,7 +1905,7 @@ UUID  : 25b1c5f73455417384b6ef1a78b06b0e
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 1993-03 
-Type  : Single Pack  |  Quantity: ``      
+Type  : Single Pack  |  Quantity: 36exp   
 Added : 2025-09-17   |  Author  : @ellafridalindblom
 UUID  : 07d897691a00479584d29dbe8c05ff86
 ```
