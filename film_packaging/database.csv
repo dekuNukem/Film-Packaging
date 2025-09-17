@@ -370,7 +370,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 222,0,film_box_outside,Fujifilm,400,35mm,400,C-41,202508,1755690862,b4c1d84c3984b08e1b8bc62ca588adf5,f3193ccd9b9d4a929904a6a2e8b682be,00222_000.jpg,@photos.by.qi,,Single Pack,36exp
 223,0,film_box_outside,Kodak,Ektachrome E100,35mm,100,E-6,202412,1755690894,dd47638ea5113bf9a5f26f8c05e774e2,1d1d6ca155874b6dba4333cf6f6194ff,00223_000.jpg,@photos.by.qi,,Single Pack,36exp
 224,0,film_box_outside,Kodak,Ektar 100,35mm,100,C-41,202401,1755690933,f934deb9251602a69b00a77a1ab64477,eef92f5fa5b244518890b1ba52b895ec,00224_000.jpg,@photos.by.qi,,Single Pack,36exp
-225,0,film_box_outside,Lomography,Lomochrome Color 92,35mm,400,C-41,202604,1755690988,8409b1f42418812248936c06de3c6fac,81d185de4ddf494785362046cada12b4,00225_000.jpg,@photos.by.qi,,Single Pack,36exp
+225,0,film_box_outside,Lomography,Lomochrome Color'92,35mm,400,C-41,202604,1755690988,8409b1f42418812248936c06de3c6fac,81d185de4ddf494785362046cada12b4,00225_000.jpg,@photos.by.qi,,Single Pack,36exp
 226,0,film_box_outside,Lomography,Lomochrome Purple,35mm,100,C-41,202208,1755691070,edfa79c6016c88fb612ac654a21914e6,5589454d652e4771b024a9901acb8b00,00226_000.jpg,@photos.by.qi,,Single Pack,36exp
 227,0,film_box_outside,Space Cat Film,Mars 250D,35mm,250,C-41,Unknown,1755691173,6a327fe56881299fe3763f67b832f8b2,1595b93966854178a03bc6d0de705027,00227_000.jpg,@photos.by.qi,,Single Pack,36exp
 228,0,film_box_outside,Walkens,Speed 400,35mm,400,C-41,Unknown,1755691243,508685fceb0f63a7cd6b384581bbdb23,198465748a5e41f8ad634fffa08a740f,00228_000.jpg,@photos.by.qi,,Single Pack,36exp
@@ -575,3 +575,14 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 335,1,film_box_inside,Jessops,Diamond Everyday,35mm,200,C-41,200512,1757796323,775e7e559172f13e9bd9ce316c6594e0,3e6eca45a0704e0da5c37631b1fd0b56,00335_001.jpg,GreatGizmo74,,Single Pack,36exp
 336,0,film_box_outside,Lomography,Lomochrome Color’92,120,400,C-41,202607,1758141412,3ea3b42c774407ed33dc1d3d05db327c,e72a327c49d3440c85ab03647ff00960,00336_000.jpg,The Compartmentalist,,Single Pack,N/A
 337,0,film_box_outside,Kodak,UltraMax,35mm,400,C-41,202601,1758142040,6dac178ca825cb7c5c5fc51a3154071a,7fc91e3ef9cf4519adde24e24938e3ba,00337_000.jpg,The Compartmentalist,,Multi-Pack-3,36exp
+338,0,film_box_outside,Kodak,Tri-X Pan,120,400,BW,198612,1758142393,beeeeb8d8feebd77f515dc113a663a15,496c4c1b618442bf933f48660acef201,00338_000.jpg,@ellafridalindblom,,Single Pack,N/A
+338,1,film_box_leaflet,Kodak,Tri-X Pan,120,400,BW,198612,1758142396,64cba18aadc3fcee0b224abb2c866650,8dd3ba1b167542bb95a7661994e4246e,00338_001.jpg,@ellafridalindblom,,Single Pack,N/A
+338,2,film_box_leaflet,Kodak,Tri-X Pan,120,400,BW,198612,1758142401,77d5c18e893d38e0bf3b20375151e089,120f8d3620ca4d8d84af3c32c09c5bba,00338_002.jpg,@ellafridalindblom,,Single Pack,N/A
+339,0,film_box_outside,Fujifilm,Fujichrome 64T,120,64,E-6,199904,1758142794,6c996366619d72f5c7b6d01d7fcd78e4,5bfbb5140c7943fcb52950d4db4c311b,00339_000.jpg,@ellafridalindblom,,Multi-Pack-5,N/A
+339,1,film_box_outside,Fujifilm,Fujichrome 64T,120,64,E-6,199904,1758142797,3aaeb228c2d7ba76e30c4ff5716f703f,be884dd0a48d4d35b510d4bfbf61bcd5,00339_001.jpg,@ellafridalindblom,,Multi-Pack-5,N/A
+339,2,film_box_inside,Fujifilm,Fujichrome 64T,120,64,E-6,199904,1758142803,5e996dfcc102e9f3f4c23743f28af048,0532cf90dadd4f8a9d5b2e6654989bbb,00339_002.jpg,@ellafridalindblom,,Multi-Pack-5,N/A
+340,0,film_box_outside,Konica,Sepia Professional,120,400,C-41,200205,1758143031,09fb56c3db9dcccf6df3f453f22cb4f9,83467c04e5254b4286b48e5a8e1b0b40,00340_000.jpg,@ellafridalindblom,,Single Pack,N/A
+341,0,film_box_outside,Fujifilm,Neopan 400 Presto,120,400,BW,201004,1758143100,b7e42dfbe2bdfc24b1be4048feec0998,cd3f61fd84d844c0810b9a508c4721a7,00341_000.jpg,@ellafridalindblom,,Single Pack,N/A
+342,0,film_box_outside,Ificolor,SHR 100,126,100,C-41,199205,1758143163,736dfe7764908a71e894e81193bfac6c,b5dd426d99ad43e5b289be7acd9c0198,00342_000.jpg,@ellafridalindblom,,Single Pack,24exp
+343,0,film_box_outside,Fujifilm,Neopan SS,120,100,BW,198807,1758143233,14ddb9445c3f67ec4780666eab941708,f211bfbc4ac9498bb83cfe5f3846d848,00343_000.jpg,@ellafridalindblom,,Single Pack,N/A
+344,0,film_box_leaflet,Ificolor,Super FG HQ 200,35mm,200,C-41,199303,1758143302,c32e943bd5ede212829772e4033e39f3,07d897691a00479584d29dbe8c05ff86,00344_000.jpg,@ellafridalindblom,,Single Pack,``

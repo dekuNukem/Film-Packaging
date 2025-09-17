@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 17 2025
-Unique items: 334
-Total scans : 576
+Unique items: 341
+Total scans : 587
 ```
 
 -----
@@ -58,6 +58,8 @@ Total scans : 576
 - [[BW] Foma Ortho 400 (ref: c559)](#bw-foma-ortho-400-ref-c559)
 - [[BW] Foton Fotopan F (ref: 0ad6)](#bw-foton-fotopan-f-ref-0ad6)
 - [[BW] Fujifilm Neopan 400 (ref: c088)](#bw-fujifilm-neopan-400-ref-c088)
+- [[BW] Fujifilm Neopan 400 Presto (ref: 21a7)](#bw-fujifilm-neopan-400-presto-ref-21a7)
+- [[BW] Fujifilm Neopan SS (ref: d848)](#bw-fujifilm-neopan-ss-ref-d848)
 - [[BW] Fujifilm Neopan SS Rapid (ref: 9db3)](#bw-fujifilm-neopan-ss-rapid-ref-9db3)
 - [[BW] Gevaert Ultra Panchro Normal (ref: 1ff6)](#bw-gevaert-ultra-panchro-normal-ref-1ff6)
 - [[BW] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#bw-hasselblad-hassel-plåtar-erorto-ref-ec67)
@@ -100,6 +102,7 @@ Total scans : 576
 - [[BW] Kodak Technical Pan 6415 (ref: 03be)](#bw-kodak-technical-pan-6415-ref-03be)
 - [[BW] Kodak Tri-X 400 (ref: 88c5)](#bw-kodak-tri-x-400-ref-88c5)
 - [[BW] Kodak Tri-X 400 (ref: c671)](#bw-kodak-tri-x-400-ref-c671)
+- [[BW] Kodak Tri-X Pan (ref: f201)](#bw-kodak-tri-x-pan-ref-f201)
 - [[BW] Kodak Verichrome Pan (ref: 0195)](#bw-kodak-verichrome-pan-ref-0195)
 - [[BW] Konica Infrared 750nm (ref: e696)](#bw-konica-infrared-750nm-ref-e696)
 - [[BW] Konica Infrared 750nm (ref: 6b0e)](#bw-konica-infrared-750nm-ref-6b0e)
@@ -189,6 +192,8 @@ Total scans : 576
 - [[C-41] Harman Phoenix II (ref: 40df)](#c-41-harman-phoenix-ii-ref-40df)
 - [[C-41] Harman Red (ref: da3a)](#c-41-harman-red-ref-da3a)
 - [[C-41] Hope Film Bubble (ref: 41f4)](#c-41-hope-film-bubble-ref-41f4)
+- [[C-41] Ificolor SHR 100 (ref: 0198)](#c-41-ificolor-shr-100-ref-0198)
+- [[C-41] Ificolor Super FG HQ 200 (ref: ff86)](#c-41-ificolor-super-fg-hq-200-ref-ff86)
 - [[C-41] Ilford XP2 Super (ref: 622a)](#c-41-ilford-xp2-super-ref-622a)
 - [[C-41] Jessops Diamond Everyday (ref: 6d5a)](#c-41-jessops-diamond-everyday-ref-6d5a)
 - [[C-41] Jessops Diamond Everyday (ref: 67d3)](#c-41-jessops-diamond-everyday-ref-67d3)
@@ -249,12 +254,13 @@ Total scans : 576
 - [[C-41] Konica Konica Color II (ref: fb5b)](#c-41-konica-konica-color-ii-ref-fb5b)
 - [[C-41] Konica KonicaColor VX 100 (ref: 8350)](#c-41-konica-konicacolor-vx-100-ref-8350)
 - [[C-41] Konica KonicaColor VX 200 (ref: fe53)](#c-41-konica-konicacolor-vx-200-ref-fe53)
+- [[C-41] Konica Sepia Professional (ref: 0b40)](#c-41-konica-sepia-professional-ref-0b40)
 - [[C-41] Konica Minolta Commercial Color Film (ref: e903)](#c-41-konica-minolta-commercial-color-film-ref-e903)
 - [[C-41] Lloyds Pharmacy APS Film (ref: c7cf)](#c-41-lloyds-pharmacy-aps-film-ref-c7cf)
 - [[C-41] Lloyds Pharmacy Colour Film (ref: 074c)](#c-41-lloyds-pharmacy-colour-film-ref-074c)
 - [[C-41] Lloyds Pharmacy Colour Film (ref: 77d9)](#c-41-lloyds-pharmacy-colour-film-ref-77d9)
 - [[C-41] Lomography Color Negative Film (ref: 1529)](#c-41-lomography-color-negative-film-ref-1529)
-- [[C-41] Lomography Lomochrome Color 92 (ref: 12b4)](#c-41-lomography-lomochrome-color-92-ref-12b4)
+- [[C-41] Lomography Lomochrome Color'92 (ref: 12b4)](#c-41-lomography-lomochrome-color92-ref-12b4)
 - [[C-41] Lomography Lomochrome Color'92 (ref: 9fdb)](#c-41-lomography-lomochrome-color92-ref-9fdb)
 - [[C-41] Lomography Lomochrome Color’92 (ref: 0960)](#c-41-lomography-lomochrome-color-92-ref-0960)
 - [[C-41] Lomography Lomochrome Metropolis (ref: 5546)](#c-41-lomography-lomochrome-metropolis-ref-5546)
@@ -289,6 +295,7 @@ Total scans : 576
 - [[E-4] Kodak High Speed Ektachrome (ref: ec3d)](#e-4-kodak-high-speed-ektachrome-ref-ec3d)
 - [[E-4] Kodak High Speed Ektachrome (ref: be8f)](#e-4-kodak-high-speed-ektachrome-ref-be8f)
 - [[E-4] Kodak High Speed Ektachrome (ref: b8f8)](#e-4-kodak-high-speed-ektachrome-ref-b8f8)
+- [[E-6] Fujifilm Fujichrome 64T (ref: 311b)](#e-6-fujifilm-fujichrome-64t-ref-311b)
 - [[E-6] Fujifilm Fujichrome 64T Type II Professional (ref: 74a1)](#e-6-fujifilm-fujichrome-64t-type-ii-professional-ref-74a1)
 - [[E-6] Fujifilm Fujichrome Professional 100D (ref: 439d)](#e-6-fujifilm-fujichrome-professional-100d-ref-439d)
 - [[E-6] Fujifilm Fujichrome Provia 100F (ref: 1b4b)](#e-6-fujifilm-fujichrome-provia-100f-ref-1b4b)
@@ -1030,6 +1037,34 @@ UUID  : 93700c4c5c904b40b9c311614ebac088
 
 <a href="./archive/00289_001.jpg">
 	<img src="./lowres/00289_001.jpg" alt="Fujifilm Neopan 400 35mm film box inside" loading="lazy" width="472" height="499">
+</a>
+
+#### [BW] Fujifilm Neopan 400 Presto (ref: 21a7)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2010-04 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : cd3f61fd84d844c0810b9a508c4721a7
+```
+
+<a href="./archive/00341_000.jpg">
+	<img src="./lowres/00341_000.jpg" alt="Fujifilm Neopan 400 Presto 120 film box outside" loading="lazy" width="500" height="468">
+</a>
+
+#### [BW] Fujifilm Neopan SS (ref: d848)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 100          |  Expiry  : 1988-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : f211bfbc4ac9498bb83cfe5f3846d848
+```
+
+<a href="./archive/00343_000.jpg">
+	<img src="./lowres/00343_000.jpg" alt="Fujifilm Neopan SS 120 film box outside" loading="lazy" width="500" height="465">
 </a>
 
 #### [BW] Fujifilm Neopan SS Rapid (ref: 9db3)
@@ -1863,6 +1898,34 @@ UUID  : 0417faf4f5be42538db49741140bc671
 
 <a href="./archive/00135_000.jpg">
 	<img src="./lowres/00135_000.jpg" alt="Kodak Tri-X 400 35mm film box outside" loading="lazy" width="445" height="500">
+</a>
+
+#### [BW] Kodak Tri-X Pan (ref: f201)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 1986-12 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : 496c4c1b618442bf933f48660acef201
+```
+
+<a href="./archive/00338_000.jpg">
+	<img src="./lowres/00338_000.jpg" alt="Kodak Tri-X Pan 120 film box outside" loading="lazy" width="500" height="444">
+</a>
+
+
+`UUID: 8dd3ba1b167542bb95a7661994e4246e`↓
+
+<a href="./archive/00338_001.jpg">
+	<img src="./lowres/00338_001.jpg" alt="Kodak Tri-X Pan 120 film box leaflet" loading="lazy" width="182" height="500">
+</a>
+
+
+`UUID: 120f8d3620ca4d8d84af3c32c09c5bba`↓
+
+<a href="./archive/00338_002.jpg">
+	<img src="./lowres/00338_002.jpg" alt="Kodak Tri-X Pan 120 film box leaflet" loading="lazy" width="189" height="500">
 </a>
 
 #### [BW] Kodak Verichrome Pan (ref: 0195)
@@ -3461,6 +3524,34 @@ UUID  : b09848420a1a4d76b099d82d76bc41f4
 	<img src="./lowres/00164_000.jpg" alt="Hope Film Bubble 35mm film box outside" loading="lazy" width="500" height="394">
 </a>
 
+#### [C-41] Ificolor SHR 100 (ref: 0198)
+
+```
+Format: 126          |  Process : C-41    
+ISO   : 100          |  Expiry  : 1992-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : b5dd426d99ad43e5b289be7acd9c0198
+```
+
+<a href="./archive/00342_000.jpg">
+	<img src="./lowres/00342_000.jpg" alt="Ificolor SHR 100 126 film box outside" loading="lazy" width="468" height="500">
+</a>
+
+#### [C-41] Ificolor Super FG HQ 200 (ref: ff86)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 1993-03 
+Type  : Single Pack  |  Quantity: ``      
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : 07d897691a00479584d29dbe8c05ff86
+```
+
+<a href="./archive/00344_000.jpg">
+	<img src="./lowres/00344_000.jpg" alt="Ificolor Super FG HQ 200 35mm film box leaflet" loading="lazy" width="500" height="441">
+</a>
+
 #### [C-41] Ilford XP2 Super (ref: 622a)
 
 ```
@@ -4518,6 +4609,20 @@ UUID  : dd3a6c347560484295ca09c86e3dfe53
 	<img src="./lowres/00138_001.jpg" alt="Konica KonicaColor VX 200 35mm film box inside" loading="lazy" width="487" height="500">
 </a>
 
+#### [C-41] Konica Sepia Professional (ref: 0b40)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2002-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : 83467c04e5254b4286b48e5a8e1b0b40
+```
+
+<a href="./archive/00340_000.jpg">
+	<img src="./lowres/00340_000.jpg" alt="Konica Sepia Professional 120 film box outside" loading="lazy" width="500" height="436">
+</a>
+
 #### [C-41] Konica Minolta Commercial Color Film (ref: e903)
 
 ```
@@ -4595,7 +4700,7 @@ UUID  : e200ab98ca5746cbb6f3af1afb481529
 	<img src="./lowres/00313_001.jpg" alt="Lomography Color Negative Film 120 film box inside" loading="lazy" width="500" height="256">
 </a>
 
-#### [C-41] Lomography Lomochrome Color 92 (ref: 12b4)
+#### [C-41] Lomography Lomochrome Color'92 (ref: 12b4)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -4606,7 +4711,7 @@ UUID  : 81d185de4ddf494785362046cada12b4
 ```
 
 <a href="./archive/00225_000.jpg">
-	<img src="./lowres/00225_000.jpg" alt="Lomography Lomochrome Color 92 35mm film box outside" loading="lazy" width="500" height="448">
+	<img src="./lowres/00225_000.jpg" alt="Lomography Lomochrome Color'92 35mm film box outside" loading="lazy" width="500" height="448">
 </a>
 
 #### [C-41] Lomography Lomochrome Color'92 (ref: 9fdb)
@@ -5230,6 +5335,34 @@ UUID  : 86470a73e4b5436b97ffb272be6bb8f8
 
 <a href="./archive/00107_002.jpg">
 	<img src="./lowres/00107_002.jpg" alt="Kodak High Speed Ektachrome 35mm film box leaflet" loading="lazy" width="194" height="500">
+</a>
+
+#### [E-6] Fujifilm Fujichrome 64T (ref: 311b)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 64           |  Expiry  : 1999-04 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : 5bfbb5140c7943fcb52950d4db4c311b
+```
+
+<a href="./archive/00339_000.jpg">
+	<img src="./lowres/00339_000.jpg" alt="Fujifilm Fujichrome 64T 120 film box outside" loading="lazy" width="481" height="500">
+</a>
+
+
+`UUID: be884dd0a48d4d35b510d4bfbf61bcd5`↓
+
+<a href="./archive/00339_001.jpg">
+	<img src="./lowres/00339_001.jpg" alt="Fujifilm Fujichrome 64T 120 film box outside" loading="lazy" width="477" height="499">
+</a>
+
+
+`UUID: 0532cf90dadd4f8a9d5b2e6654989bbb`↓
+
+<a href="./archive/00339_002.jpg">
+	<img src="./lowres/00339_002.jpg" alt="Fujifilm Fujichrome 64T 120 film box inside" loading="lazy" width="483" height="500">
 </a>
 
 #### [E-6] Fujifilm Fujichrome 64T Type II Professional (ref: 74a1)
@@ -6742,7 +6875,7 @@ Rank  Username                      Contributions
 1     dekuNukem                     187   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
-4     @ellafridalindblom            28    
+4     @ellafridalindblom            39    
 5     The Compartmentalist          24    
 6     Camera.Riley                  19    
 7     Nano_Burger                   18    

@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 17 2025
-Unique items: 334
-Total scans : 576
+Unique items: 341
+Total scans : 587
 ```
 
 -----
@@ -63,9 +63,11 @@ Total scans : 576
 - [[1983] Kodak Kodacolor II (ref: 7310)](#1983-kodak-kodacolor-ii-ref-7310)
 - [[1985] Konica Konica Color II (ref: fb5b)](#1985-konica-konica-color-ii-ref-fb5b)
 - [[1986] Fujifilm Fujicolor HR100 (ref: 23c5)](#1986-fujifilm-fujicolor-hr100-ref-23c5)
+- [[1986] Kodak Tri-X Pan (ref: f201)](#1986-kodak-tri-x-pan-ref-f201)
 - [[1987] Kodak Kodacolor VR (ref: 035f)](#1987-kodak-kodacolor-vr-ref-035f)
 - [[1988] Polaroid PolaPan 35mm (ref: 9825)](#1988-polaroid-polapan-35mm-ref-9825)
 - [[1988] Kodak Technical Pan 6415 (ref: 03be)](#1988-kodak-technical-pan-6415-ref-03be)
+- [[1988] Fujifilm Neopan SS (ref: d848)](#1988-fujifilm-neopan-ss-ref-d848)
 - [[1988] Kodak Kodacolor Gold 200 (ref: f368)](#1988-kodak-kodacolor-gold-200-ref-f368)
 - [[1990] Fujifilm Fujicolor Super HR (ref: aaa0)](#1990-fujifilm-fujicolor-super-hr-ref-aaa0)
 - [[1990] Kodak High Speed Infrared (ref: 4294)](#1990-kodak-high-speed-infrared-ref-4294)
@@ -75,6 +77,7 @@ Total scans : 576
 - [[1991] Kodak TMAX P3200 (ref: 1dff)](#1991-kodak-tmax-p3200-ref-1dff)
 - [[1991] Kodak TMAX 400 (ref: a34d)](#1991-kodak-tmax-400-ref-a34d)
 - [[1991] Premium Super XG (ref: 8ccd)](#1991-premium-super-xg-ref-8ccd)
+- [[1992] Ificolor SHR 100 (ref: 0198)](#1992-ificolor-shr-100-ref-0198)
 - [[1992] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#1992-minolta-minolta-16-color-film-for-prints-ref-a2ff)
 - [[1992] Polaroid PolaBlue 35mm (ref: df66)](#1992-polaroid-polablue-35mm-ref-df66)
 - [[1992] Polaroid PolaChrome 35mm (ref: 3b60)](#1992-polaroid-polachrome-35mm-ref-3b60)
@@ -82,6 +85,7 @@ Total scans : 576
 - [[1992] Fujifilm Fujichrome Professional 100D (ref: 439d)](#1992-fujifilm-fujichrome-professional-100d-ref-439d)
 - [[1992] ORWO NP 20 SL (ref: b16c)](#1992-orwo-np-20-sl-ref-b16c)
 - [[1993] Konica Infrared 750nm (ref: 6b0e)](#1993-konica-infrared-750nm-ref-6b0e)
+- [[1993] Ificolor Super FG HQ 200 (ref: ff86)](#1993-ificolor-super-fg-hq-200-ref-ff86)
 - [[1993] SupaSnaps Snappit Film (ref: c41b)](#1993-supasnaps-snappit-film-ref-c41b)
 - [[1993] Alfo ALFOcolor PR-G (ref: 94b9)](#1993-alfo-alfocolor-pr-g-ref-94b9)
 - [[1993] Polaroid PolaChrome 35mm (ref: b202)](#1993-polaroid-polachrome-35mm-ref-b202)
@@ -104,6 +108,7 @@ Total scans : 576
 - [[1998] Fujifilm Fujicolor NPL 160 (ref: d10b)](#1998-fujifilm-fujicolor-npl-160-ref-d10b)
 - [[1998] Kodak Ektachrome 64T (ref: 8f4f)](#1998-kodak-ektachrome-64t-ref-8f4f)
 - [[1998] Kodak Vericolor 400 Plus (ref: bd88)](#1998-kodak-vericolor-400-plus-ref-bd88)
+- [[1999] Fujifilm Fujichrome 64T (ref: 311b)](#1999-fujifilm-fujichrome-64t-ref-311b)
 - [[1999] Kodak Gold (ref: 2f8d)](#1999-kodak-gold-ref-2f8d)
 - [[1999] Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#1999-kodak-ektachrome-slide-duplicating-film-ref-d53a)
 - [[2000] Konica Infrared 750nm (ref: 2d93)](#2000-konica-infrared-750nm-ref-2d93)
@@ -124,6 +129,7 @@ Total scans : 576
 - [[2002] Polaroid High Definition (ref: deb6)](#2002-polaroid-high-definition-ref-deb6)
 - [[2002] Agfa Optima II 400 (ref: fdf0)](#2002-agfa-optima-ii-400-ref-fdf0)
 - [[2002] Fujifilm Fujicolor Superia (ref: 0683)](#2002-fujifilm-fujicolor-superia-ref-0683)
+- [[2002] Konica Sepia Professional (ref: 0b40)](#2002-konica-sepia-professional-ref-0b40)
 - [[2002] Kodak Ektachrome 100 Plus (ref: 5d9f)](#2002-kodak-ektachrome-100-plus-ref-5d9f)
 - [[2002] Kirkland Signature Color Print Film (ref: 0441)](#2002-kirkland-signature-color-print-film-ref-0441)
 - [[2003] Konica KonicaColor VX 200 (ref: fe53)](#2003-konica-konicacolor-vx-200-ref-fe53)
@@ -187,6 +193,7 @@ Total scans : 576
 - [[2009] Lloyds Pharmacy Colour Film (ref: 77d9)](#2009-lloyds-pharmacy-colour-film-ref-77d9)
 - [[2009] Kodak FarbWelt 400 (ref: e9b6)](#2009-kodak-farbwelt-400-ref-e9b6)
 - [[2010] Fujifilm Fujicolor Superia Reala (ref: a624)](#2010-fujifilm-fujicolor-superia-reala-ref-a624)
+- [[2010] Fujifilm Neopan 400 Presto (ref: 21a7)](#2010-fujifilm-neopan-400-presto-ref-21a7)
 - [[2010] Kodak Ektachrome E100VS (ref: a8d3)](#2010-kodak-ektachrome-e100vs-ref-a8d3)
 - [[2010] Fujifilm Fujicolor 100 (ref: 013b)](#2010-fujifilm-fujicolor-100-ref-013b)
 - [[2012] Fujifilm Fujicolor Professional (ref: 28da)](#2012-fujifilm-fujicolor-professional-ref-28da)
@@ -272,7 +279,7 @@ Total scans : 576
 - [[2026] Foma Ortho 400 (ref: 89e7)](#2026-foma-ortho-400-ref-89e7)
 - [[2026] Ilford FP4 Plus (ref: 76e7)](#2026-ilford-fp4-plus-ref-76e7)
 - [[2026] Kodak TMAX P3200 (ref: 521a)](#2026-kodak-tmax-p3200-ref-521a)
-- [[2026] Lomography Lomochrome Color 92 (ref: 12b4)](#2026-lomography-lomochrome-color-92-ref-12b4)
+- [[2026] Lomography Lomochrome Color'92 (ref: 12b4)](#2026-lomography-lomochrome-color92-ref-12b4)
 - [[2026] Svema Foto 200 (ref: 6991)](#2026-svema-foto-200-ref-6991)
 - [[2026] Svema Foto 400 (ref: 26ad)](#2026-svema-foto-400-ref-26ad)
 - [[2026] Hands On Film Midnight 1600 (ref: 4411)](#2026-hands-on-film-midnight-1600-ref-4411)
@@ -1333,6 +1340,34 @@ UUID  : 934f2484197d41c7a5467b92a9ea23c5
 	<img src="./lowres/00308_002.jpg" alt="Fujifilm Fujicolor HR100 120 film box leaflet" loading="lazy" width="383" height="500">
 </a>
 
+#### [1986] Kodak Tri-X Pan (ref: f201)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 1986-12 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : 496c4c1b618442bf933f48660acef201
+```
+
+<a href="./archive/00338_000.jpg">
+	<img src="./lowres/00338_000.jpg" alt="Kodak Tri-X Pan 120 film box outside" loading="lazy" width="500" height="444">
+</a>
+
+
+`UUID: 8dd3ba1b167542bb95a7661994e4246e`↓
+
+<a href="./archive/00338_001.jpg">
+	<img src="./lowres/00338_001.jpg" alt="Kodak Tri-X Pan 120 film box leaflet" loading="lazy" width="182" height="500">
+</a>
+
+
+`UUID: 120f8d3620ca4d8d84af3c32c09c5bba`↓
+
+<a href="./archive/00338_002.jpg">
+	<img src="./lowres/00338_002.jpg" alt="Kodak Tri-X Pan 120 film box leaflet" loading="lazy" width="189" height="500">
+</a>
+
 #### [1987] Kodak Kodacolor VR (ref: 035f)
 
 ```
@@ -1422,6 +1457,20 @@ UUID  : 3a03860d64d2400caee97955197703be
 
 <a href="./archive/00037_002.jpg">
 	<img src="./lowres/00037_002.jpg" alt="Kodak Technical Pan 6415 120 film box leaflet" loading="lazy" width="199" height="500">
+</a>
+
+#### [1988] Fujifilm Neopan SS (ref: d848)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 100          |  Expiry  : 1988-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : f211bfbc4ac9498bb83cfe5f3846d848
+```
+
+<a href="./archive/00343_000.jpg">
+	<img src="./lowres/00343_000.jpg" alt="Fujifilm Neopan SS 120 film box outside" loading="lazy" width="500" height="465">
 </a>
 
 #### [1988] Kodak Kodacolor Gold 200 (ref: f368)
@@ -1625,6 +1674,20 @@ UUID  : 592592a0182a47dda6390cfc4fd18ccd
 
 <a href="./archive/00265_001.jpg">
 	<img src="./lowres/00265_001.jpg" alt="Premium Super XG 35mm film box inside" loading="lazy" width="500" height="440">
+</a>
+
+#### [1992] Ificolor SHR 100 (ref: 0198)
+
+```
+Format: 126          |  Process : C-41    
+ISO   : 100          |  Expiry  : 1992-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : b5dd426d99ad43e5b289be7acd9c0198
+```
+
+<a href="./archive/00342_000.jpg">
+	<img src="./lowres/00342_000.jpg" alt="Ificolor SHR 100 126 film box outside" loading="lazy" width="468" height="500">
 </a>
 
 #### [1992] Minolta Minolta 16 Color Film For Prints (ref: a2ff)
@@ -1835,6 +1898,20 @@ UUID  : 25b1c5f73455417384b6ef1a78b06b0e
 
 <a href="./archive/00293_002.jpg">
 	<img src="./lowres/00293_002.jpg" alt="Konica Infrared 750nm 120 film box leaflet" loading="lazy" width="244" height="500">
+</a>
+
+#### [1993] Ificolor Super FG HQ 200 (ref: ff86)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 1993-03 
+Type  : Single Pack  |  Quantity: ``      
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : 07d897691a00479584d29dbe8c05ff86
+```
+
+<a href="./archive/00344_000.jpg">
+	<img src="./lowres/00344_000.jpg" alt="Ificolor Super FG HQ 200 35mm film box leaflet" loading="lazy" width="500" height="441">
 </a>
 
 #### [1993] SupaSnaps Snappit Film (ref: c41b)
@@ -2292,6 +2369,34 @@ UUID  : 8b882b8198ca4aeb8180b8743269bd88
 	<img src="./lowres/00238_003.jpg" alt="Kodak Vericolor 400 Plus 120 film box outside" loading="lazy" width="500" height="341">
 </a>
 
+#### [1999] Fujifilm Fujichrome 64T (ref: 311b)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 64           |  Expiry  : 1999-04 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : 5bfbb5140c7943fcb52950d4db4c311b
+```
+
+<a href="./archive/00339_000.jpg">
+	<img src="./lowres/00339_000.jpg" alt="Fujifilm Fujichrome 64T 120 film box outside" loading="lazy" width="481" height="500">
+</a>
+
+
+`UUID: be884dd0a48d4d35b510d4bfbf61bcd5`↓
+
+<a href="./archive/00339_001.jpg">
+	<img src="./lowres/00339_001.jpg" alt="Fujifilm Fujichrome 64T 120 film box outside" loading="lazy" width="477" height="499">
+</a>
+
+
+`UUID: 0532cf90dadd4f8a9d5b2e6654989bbb`↓
+
+<a href="./archive/00339_002.jpg">
+	<img src="./lowres/00339_002.jpg" alt="Fujifilm Fujichrome 64T 120 film box inside" loading="lazy" width="483" height="500">
+</a>
+
 #### [1999] Kodak Gold (ref: 2f8d)
 
 ```
@@ -2710,6 +2815,20 @@ UUID  : c3d9e51d22e241f69133be30d5a00683
 
 <a href="./archive/00012_001.jpg">
 	<img src="./lowres/00012_001.jpg" alt="Fujifilm Fujicolor Superia 120 film box inside" loading="lazy" width="500" height="500">
+</a>
+
+#### [2002] Konica Sepia Professional (ref: 0b40)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2002-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : 83467c04e5254b4286b48e5a8e1b0b40
+```
+
+<a href="./archive/00340_000.jpg">
+	<img src="./lowres/00340_000.jpg" alt="Konica Sepia Professional 120 film box outside" loading="lazy" width="500" height="436">
 </a>
 
 #### [2002] Kodak Ektachrome 100 Plus (ref: 5d9f)
@@ -3851,6 +3970,20 @@ UUID  : 47af4374c1474eb3b20cb1894b43a624
 
 <a href="./archive/00230_000.jpg">
 	<img src="./lowres/00230_000.jpg" alt="Fujifilm Fujicolor Superia Reala 35mm film box outside" loading="lazy" width="431" height="500">
+</a>
+
+#### [2010] Fujifilm Neopan 400 Presto (ref: 21a7)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2010-04 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : cd3f61fd84d844c0810b9a508c4721a7
+```
+
+<a href="./archive/00341_000.jpg">
+	<img src="./lowres/00341_000.jpg" alt="Fujifilm Neopan 400 Presto 120 film box outside" loading="lazy" width="500" height="468">
 </a>
 
 #### [2010] Kodak Ektachrome E100VS (ref: a8d3)
@@ -5316,7 +5449,7 @@ UUID  : 39fa3ae0251e4cdbaf8240602537521a
 	<img src="./lowres/00144_000.jpg" alt="Kodak TMAX P3200 35mm film box outside" loading="lazy" width="443" height="500">
 </a>
 
-#### [2026] Lomography Lomochrome Color 92 (ref: 12b4)
+#### [2026] Lomography Lomochrome Color'92 (ref: 12b4)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -5327,7 +5460,7 @@ UUID  : 81d185de4ddf494785362046cada12b4
 ```
 
 <a href="./archive/00225_000.jpg">
-	<img src="./lowres/00225_000.jpg" alt="Lomography Lomochrome Color 92 35mm film box outside" loading="lazy" width="500" height="448">
+	<img src="./lowres/00225_000.jpg" alt="Lomography Lomochrome Color'92 35mm film box outside" loading="lazy" width="500" height="448">
 </a>
 
 #### [2026] Svema Foto 200 (ref: 6991)
@@ -6742,7 +6875,7 @@ Rank  Username                      Contributions
 1     dekuNukem                     187   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
-4     @ellafridalindblom            28    
+4     @ellafridalindblom            39    
 5     The Compartmentalist          24    
 6     Camera.Riley                  19    
 7     Nano_Burger                   18    

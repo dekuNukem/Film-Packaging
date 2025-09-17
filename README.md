@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Sep 17 2025
-Unique items: 334
-Total scans : 576
+Unique items: 341
+Total scans : 587
 ```
 
 Or Sort by...
@@ -56,7 +56,7 @@ Rank  Username                      Contributions
 1     dekuNukem                     187   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
-4     @ellafridalindblom            28    
+4     @ellafridalindblom            39    
 5     The Compartmentalist          24    
 6     Camera.Riley                  19    
 7     Nano_Burger                   18    
@@ -92,6 +92,13 @@ Rank  Username                      Contributions
 
 ```
 2025-09-17
+  - @ellafridalindblom: Fujifilm Fujichrome 64T
+  - @ellafridalindblom: Fujifilm Neopan 400 Presto
+  - @ellafridalindblom: Fujifilm Neopan SS
+  - @ellafridalindblom: Ificolor SHR 100
+  - @ellafridalindblom: Ificolor Super FG HQ 200
+  - @ellafridalindblom: Kodak Tri-X Pan
+  - @ellafridalindblom: Konica Sepia Professional
   - The Compartmentalist: Kodak UltraMax
   - The Compartmentalist: Lomography Lomochrome Color’92
 

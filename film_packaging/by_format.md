@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 17 2025
-Unique items: 334
-Total scans : 576
+Unique items: 341
+Total scans : 587
 ```
 
 -----
@@ -51,6 +51,7 @@ Total scans : 576
 - [[120] Foma Fomapan21 (ref: 75d9)](#120-foma-fomapan21-ref-75d9)
 - [[120] Foma Ortho 400 (ref: 89e7)](#120-foma-ortho-400-ref-89e7)
 - [[120] Foton Fotopan F (ref: 0ad6)](#120-foton-fotopan-f-ref-0ad6)
+- [[120] Fujifilm Fujichrome 64T (ref: 311b)](#120-fujifilm-fujichrome-64t-ref-311b)
 - [[120] Fujifilm Fujichrome Professional 100D (ref: 439d)](#120-fujifilm-fujichrome-professional-100d-ref-439d)
 - [[120] Fujifilm Fujichrome Provia 100F (ref: 1b4b)](#120-fujifilm-fujichrome-provia-100f-ref-1b4b)
 - [[120] Fujifilm Fujichrome Provia 400 Professional (ref: b7b2)](#120-fujifilm-fujichrome-provia-400-professional-ref-b7b2)
@@ -65,6 +66,8 @@ Total scans : 576
 - [[120] Fujifilm Fujicolor Superia (ref: 0683)](#120-fujifilm-fujicolor-superia-ref-0683)
 - [[120] Fujifilm Fujicolor Superia X-TRA (ref: 7980)](#120-fujifilm-fujicolor-superia-x-tra-ref-7980)
 - [[120] Fujifilm Fujicolor Superia X-TRA 400 (ref: da37)](#120-fujifilm-fujicolor-superia-x-tra-400-ref-da37)
+- [[120] Fujifilm Neopan 400 Presto (ref: 21a7)](#120-fujifilm-neopan-400-presto-ref-21a7)
+- [[120] Fujifilm Neopan SS (ref: d848)](#120-fujifilm-neopan-ss-ref-d848)
 - [[120] Harman Phoenix (ref: 637f)](#120-harman-phoenix-ref-637f)
 - [[120] Harman Phoenix II (ref: f686)](#120-harman-phoenix-ii-ref-f686)
 - [[120] Ilford Delta 100 Professional (ref: 93b9)](#120-ilford-delta-100-professional-ref-93b9)
@@ -94,11 +97,13 @@ Total scans : 576
 - [[120] Kodak TMAX 100 (ref: b3b1)](#120-kodak-tmax-100-ref-b3b1)
 - [[120] Kodak Technical Pan 6415 (ref: 03be)](#120-kodak-technical-pan-6415-ref-03be)
 - [[120] Kodak Tri-X 400 (ref: 88c5)](#120-kodak-tri-x-400-ref-88c5)
+- [[120] Kodak Tri-X Pan (ref: f201)](#120-kodak-tri-x-pan-ref-f201)
 - [[120] Kodak Vericolor 400 Plus (ref: bd88)](#120-kodak-vericolor-400-plus-ref-bd88)
 - [[120] Kodak Vericolor III (ref: 4b3e)](#120-kodak-vericolor-iii-ref-4b3e)
 - [[120] Konica Infrared 750nm (ref: e696)](#120-konica-infrared-750nm-ref-e696)
 - [[120] Konica Infrared 750nm (ref: 6b0e)](#120-konica-infrared-750nm-ref-6b0e)
 - [[120] Konica Infrared 750nm (ref: 2d93)](#120-konica-infrared-750nm-ref-2d93)
+- [[120] Konica Sepia Professional (ref: 0b40)](#120-konica-sepia-professional-ref-0b40)
 - [[120] Lomography Color Negative Film (ref: 1529)](#120-lomography-color-negative-film-ref-1529)
 - [[120] Lomography Lomochrome Color'92 (ref: 9fdb)](#120-lomography-lomochrome-color92-ref-9fdb)
 - [[120] Lomography Lomochrome Color’92 (ref: 0960)](#120-lomography-lomochrome-color-92-ref-0960)
@@ -107,6 +112,7 @@ Total scans : 576
 - [[120] Rollei Infrared (ref: 4f54)](#120-rollei-infrared-ref-4f54)
 - [[120] Rollei Retro 80S (ref: e6c0)](#120-rollei-retro-80s-ref-e6c0)
 - [[126] GAF Color Slide Film (ref: dea6)](#126-gaf-color-slide-film-ref-dea6)
+- [[126] Ificolor SHR 100 (ref: 0198)](#126-ificolor-shr-100-ref-0198)
 - [[126] Kodak Ektachrome 200 (ref: f372)](#126-kodak-ektachrome-200-ref-f372)
 - [[126] Kodak Kodacolor II (ref: 7310)](#126-kodak-kodacolor-ii-ref-7310)
 - [[126] Kodak Kodacolor-X (ref: 0ce5)](#126-kodak-kodacolor-x-ref-0ce5)
@@ -200,6 +206,7 @@ Total scans : 576
 - [[35mm] Harman Red (ref: da3a)](#35mm-harman-red-ref-da3a)
 - [[35mm] Hazenfilm Sorolla Chrome (ref: 889f)](#35mm-hazenfilm-sorolla-chrome-ref-889f)
 - [[35mm] Hope Film Bubble (ref: 41f4)](#35mm-hope-film-bubble-ref-41f4)
+- [[35mm] Ificolor Super FG HQ 200 (ref: ff86)](#35mm-ificolor-super-fg-hq-200-ref-ff86)
 - [[35mm] Ilford Delta 3200 Professional (ref: 9b54)](#35mm-ilford-delta-3200-professional-ref-9b54)
 - [[35mm] Ilford Delta 400 Professional (ref: 8f8b)](#35mm-ilford-delta-400-professional-ref-8f8b)
 - [[35mm] Ilford Delta 400 Professional (ref: f3da)](#35mm-ilford-delta-400-professional-ref-f3da)
@@ -293,7 +300,7 @@ Total scans : 576
 - [[35mm] Lloyds Pharmacy Colour Film (ref: 77d9)](#35mm-lloyds-pharmacy-colour-film-ref-77d9)
 - [[35mm] Lomography Babylon (ref: 7afa)](#35mm-lomography-babylon-ref-7afa)
 - [[35mm] Lomography Fantome (ref: 4340)](#35mm-lomography-fantome-ref-4340)
-- [[35mm] Lomography Lomochrome Color 92 (ref: 12b4)](#35mm-lomography-lomochrome-color-92-ref-12b4)
+- [[35mm] Lomography Lomochrome Color'92 (ref: 12b4)](#35mm-lomography-lomochrome-color92-ref-12b4)
 - [[35mm] Lomography Lomochrome Metropolis (ref: 5546)](#35mm-lomography-lomochrome-metropolis-ref-5546)
 - [[35mm] Lomography Lomochrome Purple (ref: 8b00)](#35mm-lomography-lomochrome-purple-ref-8b00)
 - [[35mm] Lomography Lomochrome Purple (ref: 068f)](#35mm-lomography-lomochrome-purple-ref-068f)
@@ -885,6 +892,34 @@ UUID  : f2002785f14a4aba9fd1da2386890ad6
 	<img src="./lowres/00205_000.jpg" alt="Foton Fotopan F 120 film box outside" loading="lazy" width="495" height="500">
 </a>
 
+#### [120] Fujifilm Fujichrome 64T (ref: 311b)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 64           |  Expiry  : 1999-04 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : 5bfbb5140c7943fcb52950d4db4c311b
+```
+
+<a href="./archive/00339_000.jpg">
+	<img src="./lowres/00339_000.jpg" alt="Fujifilm Fujichrome 64T 120 film box outside" loading="lazy" width="481" height="500">
+</a>
+
+
+`UUID: be884dd0a48d4d35b510d4bfbf61bcd5`↓
+
+<a href="./archive/00339_001.jpg">
+	<img src="./lowres/00339_001.jpg" alt="Fujifilm Fujichrome 64T 120 film box outside" loading="lazy" width="477" height="499">
+</a>
+
+
+`UUID: 0532cf90dadd4f8a9d5b2e6654989bbb`↓
+
+<a href="./archive/00339_002.jpg">
+	<img src="./lowres/00339_002.jpg" alt="Fujifilm Fujichrome 64T 120 film box inside" loading="lazy" width="483" height="500">
+</a>
+
 #### [120] Fujifilm Fujichrome Professional 100D (ref: 439d)
 
 ```
@@ -1170,6 +1205,34 @@ UUID  : 905002d5cdc24e36b190fb04a38cda37
 
 <a href="./archive/00315_001.jpg">
 	<img src="./lowres/00315_001.jpg" alt="Fujifilm Fujicolor Superia X-TRA 400 120 film box inside" loading="lazy" width="472" height="500">
+</a>
+
+#### [120] Fujifilm Neopan 400 Presto (ref: 21a7)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2010-04 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : cd3f61fd84d844c0810b9a508c4721a7
+```
+
+<a href="./archive/00341_000.jpg">
+	<img src="./lowres/00341_000.jpg" alt="Fujifilm Neopan 400 Presto 120 film box outside" loading="lazy" width="500" height="468">
+</a>
+
+#### [120] Fujifilm Neopan SS (ref: d848)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 100          |  Expiry  : 1988-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : f211bfbc4ac9498bb83cfe5f3846d848
+```
+
+<a href="./archive/00343_000.jpg">
+	<img src="./lowres/00343_000.jpg" alt="Fujifilm Neopan SS 120 film box outside" loading="lazy" width="500" height="465">
 </a>
 
 #### [120] Harman Phoenix (ref: 637f)
@@ -1844,6 +1907,34 @@ UUID  : f7f99b9d46a4491c9cbfda4f030f88c5
 	<img src="./lowres/00028_000.jpg" alt="Kodak Tri-X 400 120 film box outside" loading="lazy" width="408" height="500">
 </a>
 
+#### [120] Kodak Tri-X Pan (ref: f201)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 1986-12 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : 496c4c1b618442bf933f48660acef201
+```
+
+<a href="./archive/00338_000.jpg">
+	<img src="./lowres/00338_000.jpg" alt="Kodak Tri-X Pan 120 film box outside" loading="lazy" width="500" height="444">
+</a>
+
+
+`UUID: 8dd3ba1b167542bb95a7661994e4246e`↓
+
+<a href="./archive/00338_001.jpg">
+	<img src="./lowres/00338_001.jpg" alt="Kodak Tri-X Pan 120 film box leaflet" loading="lazy" width="182" height="500">
+</a>
+
+
+`UUID: 120f8d3620ca4d8d84af3c32c09c5bba`↓
+
+<a href="./archive/00338_002.jpg">
+	<img src="./lowres/00338_002.jpg" alt="Kodak Tri-X Pan 120 film box leaflet" loading="lazy" width="189" height="500">
+</a>
+
 #### [120] Kodak Vericolor 400 Plus (ref: bd88)
 
 ```
@@ -1975,6 +2066,20 @@ UUID  : 63b2857f2df549878446cc1963362d93
 
 <a href="./archive/00036_000.jpg">
 	<img src="./lowres/00036_000.jpg" alt="Konica Infrared 750nm 120 film box outside" loading="lazy" width="500" height="302">
+</a>
+
+#### [120] Konica Sepia Professional (ref: 0b40)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2002-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : 83467c04e5254b4286b48e5a8e1b0b40
+```
+
+<a href="./archive/00340_000.jpg">
+	<img src="./lowres/00340_000.jpg" alt="Konica Sepia Professional 120 film box outside" loading="lazy" width="500" height="436">
 </a>
 
 #### [120] Lomography Color Negative Film (ref: 1529)
@@ -2157,6 +2262,20 @@ UUID  : c426ea17398c4c549c6a2720103adea6
 
 <a href="./archive/00054_005.jpg">
 	<img src="./lowres/00054_005.jpg" alt="GAF Color Slide Film 126 film box processing envelope" loading="lazy" width="500" height="133">
+</a>
+
+#### [126] Ificolor SHR 100 (ref: 0198)
+
+```
+Format: 126          |  Process : C-41    
+ISO   : 100          |  Expiry  : 1992-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : b5dd426d99ad43e5b289be7acd9c0198
+```
+
+<a href="./archive/00342_000.jpg">
+	<img src="./lowres/00342_000.jpg" alt="Ificolor SHR 100 126 film box outside" loading="lazy" width="468" height="500">
 </a>
 
 #### [126] Kodak Ektachrome 200 (ref: f372)
@@ -3816,6 +3935,20 @@ UUID  : b09848420a1a4d76b099d82d76bc41f4
 
 <a href="./archive/00164_000.jpg">
 	<img src="./lowres/00164_000.jpg" alt="Hope Film Bubble 35mm film box outside" loading="lazy" width="500" height="394">
+</a>
+
+#### [35mm] Ificolor Super FG HQ 200 (ref: ff86)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 1993-03 
+Type  : Single Pack  |  Quantity: ``      
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : 07d897691a00479584d29dbe8c05ff86
+```
+
+<a href="./archive/00344_000.jpg">
+	<img src="./lowres/00344_000.jpg" alt="Ificolor Super FG HQ 200 35mm film box leaflet" loading="lazy" width="500" height="441">
 </a>
 
 #### [35mm] Ilford Delta 3200 Professional (ref: 9b54)
@@ -5540,7 +5673,7 @@ UUID  : 538e7611233a4cc3bd733763bf694340
 	<img src="./lowres/00141_000.jpg" alt="Lomography Fantome 35mm film box outside" loading="lazy" width="500" height="397">
 </a>
 
-#### [35mm] Lomography Lomochrome Color 92 (ref: 12b4)
+#### [35mm] Lomography Lomochrome Color'92 (ref: 12b4)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -5551,7 +5684,7 @@ UUID  : 81d185de4ddf494785362046cada12b4
 ```
 
 <a href="./archive/00225_000.jpg">
-	<img src="./lowres/00225_000.jpg" alt="Lomography Lomochrome Color 92 35mm film box outside" loading="lazy" width="500" height="448">
+	<img src="./lowres/00225_000.jpg" alt="Lomography Lomochrome Color'92 35mm film box outside" loading="lazy" width="500" height="448">
 </a>
 
 #### [35mm] Lomography Lomochrome Metropolis (ref: 5546)
@@ -6742,7 +6875,7 @@ Rank  Username                      Contributions
 1     dekuNukem                     187   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
-4     @ellafridalindblom            28    
+4     @ellafridalindblom            39    
 5     The Compartmentalist          24    
 6     Camera.Riley                  19    
 7     Nano_Burger                   18    

@@ -16,12 +16,19 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 17 2025
-Unique items: 334
-Total scans : 576
+Unique items: 341
+Total scans : 587
 ```
 
 -----
 
+- [[2025-09-17] Ificolor Super FG HQ 200 (ref: ff86)](#2025-09-17-ificolor-super-fg-hq-200-ref-ff86)
+- [[2025-09-17] Fujifilm Neopan SS (ref: d848)](#2025-09-17-fujifilm-neopan-ss-ref-d848)
+- [[2025-09-17] Ificolor SHR 100 (ref: 0198)](#2025-09-17-ificolor-shr-100-ref-0198)
+- [[2025-09-17] Fujifilm Neopan 400 Presto (ref: 21a7)](#2025-09-17-fujifilm-neopan-400-presto-ref-21a7)
+- [[2025-09-17] Konica Sepia Professional (ref: 0b40)](#2025-09-17-konica-sepia-professional-ref-0b40)
+- [[2025-09-17] Fujifilm Fujichrome 64T (ref: 311b)](#2025-09-17-fujifilm-fujichrome-64t-ref-311b)
+- [[2025-09-17] Kodak Tri-X Pan (ref: f201)](#2025-09-17-kodak-tri-x-pan-ref-f201)
 - [[2025-09-17] Kodak UltraMax (ref: e3ba)](#2025-09-17-kodak-ultramax-ref-e3ba)
 - [[2025-09-17] Lomography Lomochrome Color’92 (ref: 0960)](#2025-09-17-lomography-lomochrome-color-92-ref-0960)
 - [[2025-09-13] Jessops Diamond Everyday (ref: 6d5a)](#2025-09-13-jessops-diamond-everyday-ref-6d5a)
@@ -133,7 +140,7 @@ Total scans : 576
 - [[2025-08-20] Walkens Speed 400 (ref: 740f)](#2025-08-20-walkens-speed-400-ref-740f)
 - [[2025-08-20] Space Cat Film Mars 250D (ref: 5027)](#2025-08-20-space-cat-film-mars-250d-ref-5027)
 - [[2025-08-20] Lomography Lomochrome Purple (ref: 8b00)](#2025-08-20-lomography-lomochrome-purple-ref-8b00)
-- [[2025-08-20] Lomography Lomochrome Color 92 (ref: 12b4)](#2025-08-20-lomography-lomochrome-color-92-ref-12b4)
+- [[2025-08-20] Lomography Lomochrome Color'92 (ref: 12b4)](#2025-08-20-lomography-lomochrome-color92-ref-12b4)
 - [[2025-08-20] Kodak Ektar 100 (ref: 95ec)](#2025-08-20-kodak-ektar-100-ref-95ec)
 - [[2025-08-20] Kodak Ektachrome E100 (ref: 94ff)](#2025-08-20-kodak-ektachrome-e100-ref-94ff)
 - [[2025-08-20] Fujifilm 400 (ref: 82be)](#2025-08-20-fujifilm-400-ref-82be)
@@ -359,6 +366,132 @@ Total scans : 576
 
 
 -----
+
+#### [2025-09-17] Ificolor Super FG HQ 200 (ref: ff86)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 1993-03 
+Type  : Single Pack  |  Quantity: ``      
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : 07d897691a00479584d29dbe8c05ff86
+```
+
+<a href="./archive/00344_000.jpg">
+	<img src="./lowres/00344_000.jpg" alt="Ificolor Super FG HQ 200 35mm film box leaflet" loading="lazy" width="500" height="441">
+</a>
+
+#### [2025-09-17] Fujifilm Neopan SS (ref: d848)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 100          |  Expiry  : 1988-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : f211bfbc4ac9498bb83cfe5f3846d848
+```
+
+<a href="./archive/00343_000.jpg">
+	<img src="./lowres/00343_000.jpg" alt="Fujifilm Neopan SS 120 film box outside" loading="lazy" width="500" height="465">
+</a>
+
+#### [2025-09-17] Ificolor SHR 100 (ref: 0198)
+
+```
+Format: 126          |  Process : C-41    
+ISO   : 100          |  Expiry  : 1992-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : b5dd426d99ad43e5b289be7acd9c0198
+```
+
+<a href="./archive/00342_000.jpg">
+	<img src="./lowres/00342_000.jpg" alt="Ificolor SHR 100 126 film box outside" loading="lazy" width="468" height="500">
+</a>
+
+#### [2025-09-17] Fujifilm Neopan 400 Presto (ref: 21a7)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2010-04 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : cd3f61fd84d844c0810b9a508c4721a7
+```
+
+<a href="./archive/00341_000.jpg">
+	<img src="./lowres/00341_000.jpg" alt="Fujifilm Neopan 400 Presto 120 film box outside" loading="lazy" width="500" height="468">
+</a>
+
+#### [2025-09-17] Konica Sepia Professional (ref: 0b40)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2002-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : 83467c04e5254b4286b48e5a8e1b0b40
+```
+
+<a href="./archive/00340_000.jpg">
+	<img src="./lowres/00340_000.jpg" alt="Konica Sepia Professional 120 film box outside" loading="lazy" width="500" height="436">
+</a>
+
+
+`UUID: 0532cf90dadd4f8a9d5b2e6654989bbb`↓
+
+<a href="./archive/00339_002.jpg">
+	<img src="./lowres/00339_002.jpg" alt="Fujifilm Fujichrome 64T 120 film box inside" loading="lazy" width="483" height="500">
+</a>
+
+
+`UUID: be884dd0a48d4d35b510d4bfbf61bcd5`↓
+
+<a href="./archive/00339_001.jpg">
+	<img src="./lowres/00339_001.jpg" alt="Fujifilm Fujichrome 64T 120 film box outside" loading="lazy" width="477" height="499">
+</a>
+
+#### [2025-09-17] Fujifilm Fujichrome 64T (ref: 311b)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 64           |  Expiry  : 1999-04 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : 5bfbb5140c7943fcb52950d4db4c311b
+```
+
+<a href="./archive/00339_000.jpg">
+	<img src="./lowres/00339_000.jpg" alt="Fujifilm Fujichrome 64T 120 film box outside" loading="lazy" width="481" height="500">
+</a>
+
+
+`UUID: 120f8d3620ca4d8d84af3c32c09c5bba`↓
+
+<a href="./archive/00338_002.jpg">
+	<img src="./lowres/00338_002.jpg" alt="Kodak Tri-X Pan 120 film box leaflet" loading="lazy" width="189" height="500">
+</a>
+
+
+`UUID: 8dd3ba1b167542bb95a7661994e4246e`↓
+
+<a href="./archive/00338_001.jpg">
+	<img src="./lowres/00338_001.jpg" alt="Kodak Tri-X Pan 120 film box leaflet" loading="lazy" width="182" height="500">
+</a>
+
+#### [2025-09-17] Kodak Tri-X Pan (ref: f201)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 1986-12 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-17   |  Author  : @ellafridalindblom
+UUID  : 496c4c1b618442bf933f48660acef201
+```
+
+<a href="./archive/00338_000.jpg">
+	<img src="./lowres/00338_000.jpg" alt="Kodak Tri-X Pan 120 film box outside" loading="lazy" width="500" height="444">
+</a>
 
 #### [2025-09-17] Kodak UltraMax (ref: e3ba)
 
@@ -2565,7 +2698,7 @@ UUID  : 5589454d652e4771b024a9901acb8b00
 	<img src="./lowres/00226_000.jpg" alt="Lomography Lomochrome Purple 35mm film box outside" loading="lazy" width="500" height="450">
 </a>
 
-#### [2025-08-20] Lomography Lomochrome Color 92 (ref: 12b4)
+#### [2025-08-20] Lomography Lomochrome Color'92 (ref: 12b4)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -2576,7 +2709,7 @@ UUID  : 81d185de4ddf494785362046cada12b4
 ```
 
 <a href="./archive/00225_000.jpg">
-	<img src="./lowres/00225_000.jpg" alt="Lomography Lomochrome Color 92 35mm film box outside" loading="lazy" width="500" height="448">
+	<img src="./lowres/00225_000.jpg" alt="Lomography Lomochrome Color'92 35mm film box outside" loading="lazy" width="500" height="448">
 </a>
 
 #### [2025-08-20] Kodak Ektar 100 (ref: 95ec)
@@ -6742,7 +6875,7 @@ Rank  Username                      Contributions
 1     dekuNukem                     187   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
-4     @ellafridalindblom            28    
+4     @ellafridalindblom            39    
 5     The Compartmentalist          24    
 6     Camera.Riley                  19    
 7     Nano_Burger                   18    
