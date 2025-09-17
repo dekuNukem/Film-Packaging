@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 13 2025
-Unique items: 332
-Total scans : 574
+Last Updated: Sep 17 2025
+Unique items: 334
+Total scans : 576
 ```
 
 -----
@@ -218,6 +218,8 @@ Total scans : 574
 - [[The Compartmentalist] Kodak High Speed Ektachrome (ref: be8f)](#the-compartmentalist-kodak-high-speed-ektachrome-ref-be8f)
 - [[The Compartmentalist] Kodak Kodachrome 25 (ref: 8833)](#the-compartmentalist-kodak-kodachrome-25-ref-8833)
 - [[The Compartmentalist] Kodak Kodacolor II (ref: 7310)](#the-compartmentalist-kodak-kodacolor-ii-ref-7310)
+- [[The Compartmentalist] Kodak UltraMax (ref: e3ba)](#the-compartmentalist-kodak-ultramax-ref-e3ba)
+- [[The Compartmentalist] Lomography Lomochrome Color’92 (ref: 0960)](#the-compartmentalist-lomography-lomochrome-color-92-ref-0960)
 - [[The Compartmentalist] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#the-compartmentalist-minolta-minolta-16-color-film-for-prints-ref-a2ff)
 - [[The Compartmentalist] ORWO NP 20 SL (ref: b16c)](#the-compartmentalist-orwo-np-20-sl-ref-b16c)
 - [[The Compartmentalist] Reflx Lab Pro 100 (ref: 8bec)](#the-compartmentalist-reflx-lab-pro-100-ref-8bec)
@@ -2413,14 +2415,14 @@ UUID  : e200ab98ca5746cbb6f3af1afb481529
 ```
 
 <a href="./archive/00313_000.jpg">
-	<img src="./lowres/00313_000.jpg" alt="Lomography Color Negative Film 120 film box outside" loading="lazy" width="253" height="500">
+	<img src="./lowres/00313_000.jpg" alt="Lomography Color Negative Film 120 film box outside" loading="lazy" width="500" height="253">
 </a>
 
 
 `UUID: b59730221b5f438388c4a9cbcba44676`↓
 
 <a href="./archive/00313_001.jpg">
-	<img src="./lowres/00313_001.jpg" alt="Lomography Color Negative Film 120 film box inside" loading="lazy" width="256" height="500">
+	<img src="./lowres/00313_001.jpg" alt="Lomography Color Negative Film 120 film box inside" loading="lazy" width="500" height="256">
 </a>
 
 #### [@zruk_ts] Lomography Lomochrome Color'92 (ref: 9fdb)
@@ -2434,14 +2436,14 @@ UUID  : 48a192dcc8f44c17a449dfccf8279fdb
 ```
 
 <a href="./archive/00314_000.jpg">
-	<img src="./lowres/00314_000.jpg" alt="Lomography Lomochrome Color'92 120 film box outside" loading="lazy" width="277" height="500">
+	<img src="./lowres/00314_000.jpg" alt="Lomography Lomochrome Color'92 120 film box outside" loading="lazy" width="500" height="276">
 </a>
 
 
 `UUID: d7e77f89cf4549d383b81dad410adff4`↓
 
 <a href="./archive/00314_001.jpg">
-	<img src="./lowres/00314_001.jpg" alt="Lomography Lomochrome Color'92 120 film box inside" loading="lazy" width="272" height="500">
+	<img src="./lowres/00314_001.jpg" alt="Lomography Lomochrome Color'92 120 film box inside" loading="lazy" width="500" height="272">
 </a>
 
 #### [@zruk_ts] Svema Foto 200 (ref: 6991)
@@ -3835,6 +3837,34 @@ UUID  : 08c1609b39a64daf8be1373ea99c7310
 
 <a href="./archive/00263_000.jpg">
 	<img src="./lowres/00263_000.jpg" alt="Kodak Kodacolor II 126 film box outside" loading="lazy" width="440" height="499">
+</a>
+
+#### [The Compartmentalist] Kodak UltraMax (ref: e3ba)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2026-01 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2025-09-17   |  Author  : The Compartmentalist
+UUID  : 7fc91e3ef9cf4519adde24e24938e3ba
+```
+
+<a href="./archive/00337_000.jpg">
+	<img src="./lowres/00337_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="481" height="500">
+</a>
+
+#### [The Compartmentalist] Lomography Lomochrome Color’92 (ref: 0960)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2026-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-17   |  Author  : The Compartmentalist
+UUID  : e72a327c49d3440c85ab03647ff00960
+```
+
+<a href="./archive/00336_000.jpg">
+	<img src="./lowres/00336_000.jpg" alt="Lomography Lomochrome Color’92 120 film box outside" loading="lazy" width="500" height="275">
 </a>
 
 #### [The Compartmentalist] Minolta Minolta 16 Color Film For Prints (ref: a2ff)
@@ -6713,7 +6743,7 @@ Rank  Username                      Contributions
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    
-5     The Compartmentalist          22    
+5     The Compartmentalist          24    
 6     Camera.Riley                  19    
 7     Nano_Burger                   18    
 8     @ob.skura                     16    

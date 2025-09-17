@@ -533,10 +533,10 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 310,0,film_box_outside,Ilford,Delta 100 Professional,120,100,BW,200502,1757270210,9486041f7b3404203189e190b90ebf68,c2225dedcae040e7bb27a918c4ca93b9,00310_000.jpg,dekuNukem,,Single Pack,N/A
 310,1,film_box_inside,Ilford,Delta 100 Professional,120,100,BW,200502,1757270211,a58412d34ba686a599b57144a28b87d9,999648311ef040049db316f49db239b0,00310_001.jpg,dekuNukem,,Single Pack,N/A
 311,0,film_box_outside,Alien Film,Aeronega,120,100,C-41,202601,1757270710,31ab10d4b368bb34952f4f9148b4453e,46e2cf3d6d78474ca55da2c510d0d1c5,00311_000.jpg,@zruk_ts,,Single Pack,N/A
-313,0,film_box_outside,Lomography,Color Negative Film,120,800,C-41,202709,1757270810,d88f88e76c48f298d7a969e8c63ff8c0,e200ab98ca5746cbb6f3af1afb481529,00313_000.jpg,@zruk_ts,,Single Pack,N/A
-313,1,film_box_inside,Lomography,Color Negative Film,120,800,C-41,202709,1757270811,0d05a0f2c459a0379ea41aabdc54e495,b59730221b5f438388c4a9cbcba44676,00313_001.jpg,@zruk_ts,,Single Pack,N/A
-314,0,film_box_outside,Lomography,Lomochrome Color'92,120,400,C-41,202704,1757270856,2ae7aedbdc228114e598e0b857210f0f,48a192dcc8f44c17a449dfccf8279fdb,00314_000.jpg,@zruk_ts,,Single Pack,N/A
-314,1,film_box_inside,Lomography,Lomochrome Color'92,120,400,C-41,202704,1757270859,d661f9e08a6a822349bc7b193dbfc05b,d7e77f89cf4549d383b81dad410adff4,00314_001.jpg,@zruk_ts,,Single Pack,N/A
+313,0,film_box_outside,Lomography,Color Negative Film,120,800,C-41,202709,1757270810,c9de49007e6205a07cbf183f5efd031a,e200ab98ca5746cbb6f3af1afb481529,00313_000.jpg,@zruk_ts,,Single Pack,N/A
+313,1,film_box_inside,Lomography,Color Negative Film,120,800,C-41,202709,1757270811,3c3dc7deb6c4fa87c8da8785d8745882,b59730221b5f438388c4a9cbcba44676,00313_001.jpg,@zruk_ts,,Single Pack,N/A
+314,0,film_box_outside,Lomography,Lomochrome Color'92,120,400,C-41,202704,1757270856,d6967fb40f1157c98d1c70846f336018,48a192dcc8f44c17a449dfccf8279fdb,00314_000.jpg,@zruk_ts,,Single Pack,N/A
+314,1,film_box_inside,Lomography,Lomochrome Color'92,120,400,C-41,202704,1757270859,9be67ee7742560bba138f7701faa3830,d7e77f89cf4549d383b81dad410adff4,00314_001.jpg,@zruk_ts,,Single Pack,N/A
 315,0,film_box_outside,Fujifilm,Fujicolor Superia X-TRA 400,120,400,C-41,200607,1757270897,305f5ca0ea6b417bfb70dae3f9ab3530,905002d5cdc24e36b190fb04a38cda37,00315_000.jpg,@zruk_ts,,Single Pack,N/A
 315,1,film_box_inside,Fujifilm,Fujicolor Superia X-TRA 400,120,400,C-41,200607,1757270903,6efa2fe36a9c93f2065d650cd79e9143,0e0ad3d8bf184fe4ba12b803f267b71e,00315_001.jpg,@zruk_ts,,Single Pack,N/A
 316,0,film_box_outside,Svema,Foto 200,35mm,200,BW,202604,1757270950,6c682a2f2dfa49db2a2dc9f835305047,031527052b0d4c4daf74708dde626991,00316_000.jpg,@zruk_ts,,Single Pack,36exp
@@ -573,3 +573,5 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 334,3,film_box_processing_envelope,Jessops,CS100,35mm,100,E-6,200309,1757795936,03c25a481c1aafda12ad69a3640c9b35,c41e2cc23bee49768e995b15393af204,00334_003.jpg,GreatGizmo74,,Single Pack,36exp
 335,0,film_box_outside,Jessops,Diamond Everyday,35mm,200,C-41,200512,1757796321,ecb7b1e298f6ced72e4ca4f7bf2378d7,44e526db85e94a63ac582d20a1cc6d5a,00335_000.jpg,GreatGizmo74,,Single Pack,36exp
 335,1,film_box_inside,Jessops,Diamond Everyday,35mm,200,C-41,200512,1757796323,775e7e559172f13e9bd9ce316c6594e0,3e6eca45a0704e0da5c37631b1fd0b56,00335_001.jpg,GreatGizmo74,,Single Pack,36exp
+336,0,film_box_outside,Lomography,Lomochrome Color’92,120,400,C-41,202607,1758141412,3ea3b42c774407ed33dc1d3d05db327c,e72a327c49d3440c85ab03647ff00960,00336_000.jpg,The Compartmentalist,,Single Pack,N/A
+337,0,film_box_outside,Kodak,UltraMax,35mm,400,C-41,202601,1758142040,6dac178ca825cb7c5c5fc51a3154071a,7fc91e3ef9cf4519adde24e24938e3ba,00337_000.jpg,The Compartmentalist,,Multi-Pack-3,36exp

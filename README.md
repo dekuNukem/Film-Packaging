@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 13 2025
-Unique items: 332
-Total scans : 574
+Last Updated: Sep 17 2025
+Unique items: 334
+Total scans : 576
 ```
 
 Or Sort by...
@@ -57,7 +57,7 @@ Rank  Username                      Contributions
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    
-5     The Compartmentalist          22    
+5     The Compartmentalist          24    
 6     Camera.Riley                  19    
 7     Nano_Burger                   18    
 8     @ob.skura                     16    
@@ -91,6 +91,10 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-09-17
+  - The Compartmentalist: Kodak UltraMax
+  - The Compartmentalist: Lomography Lomochrome Color’92
+
 2025-09-13
   - @filmfotofella: CineStill 400Dynamic
   - @filmfotofella: Kodak 110 Film
@@ -124,15 +128,6 @@ Rank  Username                      Contributions
   - @zruk_ts: Svema Foto 200
   - dekuNukem: Ilford Delta 100 Professional
   - dekuNukem: Ilford Delta 400 Professional
-
-2025-09-06
-  - @toastergod101: Fujifilm Instax Mini
-  - @toastergod101: Harman Red
-  - @toastergod101: Ilford Delta 400 Professional
-  - @toastergod101: Ilford FP4 Plus
-  - dekuNukem: Fujifilm Fujicolor HR100
-  - kaimon: Ilford Ilfochrome
-  - kaimon: Kodak High Speed Ektachrome
 ```
 
 ## Disclaimer

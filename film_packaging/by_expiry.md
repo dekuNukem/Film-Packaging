@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 13 2025
-Unique items: 332
-Total scans : 574
+Last Updated: Sep 17 2025
+Unique items: 334
+Total scans : 576
 ```
 
 -----
@@ -265,6 +265,7 @@ Total scans : 574
 - [[2025] Three Film Rolls 5207 (ref: 0292)](#2025-three-film-rolls-5207-ref-0292)
 - [[2026] Alien Film Aeronega (ref: d1c5)](#2026-alien-film-aeronega-ref-d1c5)
 - [[2026] Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)](#2026-fujifilm-fujicolor-superia-x-tra-ref-6b8a)
+- [[2026] Kodak UltraMax (ref: e3ba)](#2026-kodak-ultramax-ref-e3ba)
 - [[2026] Lomography Fantome (ref: 4340)](#2026-lomography-fantome-ref-4340)
 - [[2026] Rollei Retro 80S (ref: e6c0)](#2026-rollei-retro-80s-ref-e6c0)
 - [[2026] Bergger Pancro400 (ref: ad7b)](#2026-bergger-pancro400-ref-ad7b)
@@ -281,6 +282,7 @@ Total scans : 574
 - [[2026] Kodak Gold (ref: 3e7f)](#2026-kodak-gold-ref-3e7f)
 - [[2026] Harman Red (ref: da3a)](#2026-harman-red-ref-da3a)
 - [[2026] Kodak UltraMax (ref: e4ad)](#2026-kodak-ultramax-ref-e4ad)
+- [[2026] Lomography Lomochrome Color’92 (ref: 0960)](#2026-lomography-lomochrome-color-92-ref-0960)
 - [[2026] Harman Phoenix (ref: 637f)](#2026-harman-phoenix-ref-637f)
 - [[2026] Hazenfilm Sorolla Chrome (ref: 889f)](#2026-hazenfilm-sorolla-chrome-ref-889f)
 - [[2026] Kodak ColorPlus (ref: 6637)](#2026-kodak-colorplus-ref-6637)
@@ -5188,6 +5190,20 @@ UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
 	<img src="./lowres/00165_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box outside" loading="lazy" width="460" height="499">
 </a>
 
+#### [2026] Kodak UltraMax (ref: e3ba)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2026-01 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2025-09-17   |  Author  : The Compartmentalist
+UUID  : 7fc91e3ef9cf4519adde24e24938e3ba
+```
+
+<a href="./archive/00337_000.jpg">
+	<img src="./lowres/00337_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="481" height="500">
+</a>
+
 #### [2026] Lomography Fantome (ref: 4340)
 
 ```
@@ -5445,6 +5461,20 @@ UUID  : d14bbf440f3a4ac9aa4169c8bba7e4ad
 
 <a href="./archive/00201_000.jpg">
 	<img src="./lowres/00201_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="437" height="500">
+</a>
+
+#### [2026] Lomography Lomochrome Color’92 (ref: 0960)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2026-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-17   |  Author  : The Compartmentalist
+UUID  : e72a327c49d3440c85ab03647ff00960
+```
+
+<a href="./archive/00336_000.jpg">
+	<img src="./lowres/00336_000.jpg" alt="Lomography Lomochrome Color’92 120 film box outside" loading="lazy" width="500" height="275">
 </a>
 
 #### [2026] Harman Phoenix (ref: 637f)
@@ -5885,14 +5915,14 @@ UUID  : 48a192dcc8f44c17a449dfccf8279fdb
 ```
 
 <a href="./archive/00314_000.jpg">
-	<img src="./lowres/00314_000.jpg" alt="Lomography Lomochrome Color'92 120 film box outside" loading="lazy" width="277" height="500">
+	<img src="./lowres/00314_000.jpg" alt="Lomography Lomochrome Color'92 120 film box outside" loading="lazy" width="500" height="276">
 </a>
 
 
 `UUID: d7e77f89cf4549d383b81dad410adff4`↓
 
 <a href="./archive/00314_001.jpg">
-	<img src="./lowres/00314_001.jpg" alt="Lomography Lomochrome Color'92 120 film box inside" loading="lazy" width="272" height="500">
+	<img src="./lowres/00314_001.jpg" alt="Lomography Lomochrome Color'92 120 film box inside" loading="lazy" width="500" height="272">
 </a>
 
 #### [2027] Rollei Infrared (ref: eae2)
@@ -6144,14 +6174,14 @@ UUID  : e200ab98ca5746cbb6f3af1afb481529
 ```
 
 <a href="./archive/00313_000.jpg">
-	<img src="./lowres/00313_000.jpg" alt="Lomography Color Negative Film 120 film box outside" loading="lazy" width="253" height="500">
+	<img src="./lowres/00313_000.jpg" alt="Lomography Color Negative Film 120 film box outside" loading="lazy" width="500" height="253">
 </a>
 
 
 `UUID: b59730221b5f438388c4a9cbcba44676`↓
 
 <a href="./archive/00313_001.jpg">
-	<img src="./lowres/00313_001.jpg" alt="Lomography Color Negative Film 120 film box inside" loading="lazy" width="256" height="500">
+	<img src="./lowres/00313_001.jpg" alt="Lomography Color Negative Film 120 film box inside" loading="lazy" width="500" height="256">
 </a>
 
 #### [2027] Reflx Lab 250D (ref: 1a3e)
@@ -6713,7 +6743,7 @@ Rank  Username                      Contributions
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            28    
-5     The Compartmentalist          22    
+5     The Compartmentalist          24    
 6     Camera.Riley                  19    
 7     Nano_Burger                   18    
 8     @ob.skura                     16    
