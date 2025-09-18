@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 17 2025
-Unique items: 342
-Total scans : 588
+Last Updated: Sep 18 2025
+Unique items: 347
+Total scans : 607
 ```
 
 Or Sort by...
@@ -53,7 +53,7 @@ Or Sort by...
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     187   
+1     dekuNukem                     206   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            39    
@@ -91,6 +91,12 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-09-18
+  - dekuNukem: Film Corporation of America TriFCA 120
+  - dekuNukem: Fujifilm Fujicolor HR 1600
+  - dekuNukem: Polaroid 990
+  - dekuNukem: Polaroid Polavision Phototape Land Cassette Type 608
+
 2025-09-17
   - @ellafridalindblom: Fujifilm Fujichrome 64T
   - @ellafridalindblom: Fujifilm Neopan 400 Presto
@@ -126,16 +132,6 @@ Rank  Username                      Contributions
   - Aoi Yuki: Kodak Advantix Ultra
   - dekuNukem: Fujifilm Fujichrome Provia 400 Professional
   - dekuNukem: Fujifilm Fujichrome Provia 400F Professional
-
-2025-09-07
-  - @zruk_ts: Alien Film Aeronega
-  - @zruk_ts: Foma Fomapan Classic 100
-  - @zruk_ts: Fujifilm Fujicolor Superia X-TRA 400
-  - @zruk_ts: Lomography Color Negative Film
-  - @zruk_ts: Lomography Lomochrome Color'92
-  - @zruk_ts: Svema Foto 200
-  - dekuNukem: Ilford Delta 100 Professional
-  - dekuNukem: Ilford Delta 400 Professional
 ```
 
 ## Disclaimer

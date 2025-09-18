@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 17 2025
-Unique items: 342
-Total scans : 588
+Last Updated: Sep 18 2025
+Unique items: 347
+Total scans : 607
 ```
 
 -----
@@ -159,6 +159,7 @@ Total scans : 588
 - [[C-41] Fujifilm Fujicolor 100 (ref: b3c9)](#c-41-fujifilm-fujicolor-100-ref-b3c9)
 - [[C-41] Fujifilm Fujicolor C200 (ref: 2ff8)](#c-41-fujifilm-fujicolor-c200-ref-2ff8)
 - [[C-41] Fujifilm Fujicolor C200 (ref: a0de)](#c-41-fujifilm-fujicolor-c200-ref-a0de)
+- [[C-41] Fujifilm Fujicolor HR 1600 (ref: 1d39)](#c-41-fujifilm-fujicolor-hr-1600-ref-1d39)
 - [[C-41] Fujifilm Fujicolor HR100 (ref: 23c5)](#c-41-fujifilm-fujicolor-hr100-ref-23c5)
 - [[C-41] Fujifilm Fujicolor NPL 160 (ref: d10b)](#c-41-fujifilm-fujicolor-npl-160-ref-d10b)
 - [[C-41] Fujifilm Fujicolor NPS 160 (ref: 5e85)](#c-41-fujifilm-fujicolor-nps-160-ref-5e85)
@@ -348,6 +349,7 @@ Total scans : 588
 - [[Instant] Polaroid 665 (ref: e054)](#instant-polaroid-665-ref-e054)
 - [[Instant] Polaroid 669 (ref: 3566)](#instant-polaroid-669-ref-3566)
 - [[Instant] Polaroid 87 (ref: 62ef)](#instant-polaroid-87-ref-62ef)
+- [[Instant] Polaroid 990 (ref: e3bc)](#instant-polaroid-990-ref-e3bc)
 - [[Instant] Polaroid Color 600 Film Round Frame (ref: d985)](#instant-polaroid-color-600-film-round-frame-ref-d985)
 - [[Instant] Polaroid Color SX-70 Film (ref: dc7f)](#instant-polaroid-color-sx-70-film-ref-dc7f)
 - [[Instant] Polaroid GridFilm (ref: 8deb)](#instant-polaroid-gridfilm-ref-8deb)
@@ -356,11 +358,14 @@ Total scans : 588
 - [[Instant] Polaroid PolaChrome 35mm (ref: b202)](#instant-polaroid-polachrome-35mm-ref-b202)
 - [[Instant] Polaroid PolaPan 35mm (ref: 9825)](#instant-polaroid-polapan-35mm-ref-9825)
 - [[Instant] Polaroid Polacolor 679 (ref: 625c)](#instant-polaroid-polacolor-679-ref-625c)
+- [[Instant] Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)](#instant-polaroid-polavision-phototape-land-cassette-type-608-ref-90b9)
 - [[K-14] Kodak Kodachrome 25 (ref: 6477)](#k-14-kodak-kodachrome-25-ref-6477)
 - [[K-14] Kodak Kodachrome 25 (ref: 8833)](#k-14-kodak-kodachrome-25-ref-8833)
 - [[K-14] Kodak Kodachrome 64 (ref: 3145)](#k-14-kodak-kodachrome-64-ref-3145)
 - [[K-14] Kodak Kodachrome 64 (ref: 3206)](#k-14-kodak-kodachrome-64-ref-3206)
 - [[Unknown] Agfa AgfaColor CT 18 (ref: 1fef)](#unknown-agfa-agfacolor-ct-18-ref-1fef)
+- [[Unknown] Film Corporation of America TriFCA 120 (ref: d024)](#unknown-film-corporation-of-america-trifca-120-ref-d024)
+- [[Unknown] Film Corporation of America TriFCA 120 (ref: 9937)](#unknown-film-corporation-of-america-trifca-120-ref-9937)
 - [[Unknown] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)](#unknown-kodak-ektachrome-160-movie-film-type-a-ref-8f62)
 - [[Unknown] Kodak Ektachrome 64 (ref: 07c0)](#unknown-kodak-ektachrome-64-ref-07c0)
 - [[Unknown] Kodak High Speed Ektachrome (ref: 7533)](#unknown-kodak-high-speed-ektachrome-ref-7533)
@@ -2900,6 +2905,34 @@ UUID  : b290e4b860364420924596fc3330a0de
 
 <a href="./archive/00220_000.jpg">
 	<img src="./lowres/00220_000.jpg" alt="Fujifilm Fujicolor C200 35mm film box outside" loading="lazy" width="494" height="500">
+</a>
+
+#### [C-41] Fujifilm Fujicolor HR 1600 (ref: 1d39)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 1600         |  Expiry  : 1987-08 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-09-18   |  Author  : dekuNukem
+UUID  : bbcc3da99c5c4734a5a8a985b9b31d39
+```
+
+<a href="./archive/00350_000.jpg">
+	<img src="./lowres/00350_000.jpg" alt="Fujifilm Fujicolor HR 1600 35mm film box outside" loading="lazy" width="467" height="500">
+</a>
+
+
+`UUID: 911c893c07554c488c396cebc100e6b5`↓
+
+<a href="./archive/00350_001.jpg">
+	<img src="./lowres/00350_001.jpg" alt="Fujifilm Fujicolor HR 1600 35mm film box leaflet" loading="lazy" width="276" height="500">
+</a>
+
+
+`UUID: f5abcdb901ff4bae82a7b52a8d8dda5c`↓
+
+<a href="./archive/00350_002.jpg">
+	<img src="./lowres/00350_002.jpg" alt="Fujifilm Fujicolor HR 1600 35mm film box leaflet" loading="lazy" width="269" height="499">
 </a>
 
 #### [C-41] Fujifilm Fujicolor HR100 (ref: 23c5)
@@ -6346,6 +6379,41 @@ UUID  : 5a63521777ca4f788d01aac5f94862ef
 	<img src="./lowres/00158_001.jpg" alt="Polaroid 87 Pack Film film box inside" loading="lazy" width="349" height="500">
 </a>
 
+#### [Instant] Polaroid 990 (ref: e3bc)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2008-10 
+Type  : Multi-Pack-2 |  Quantity: 10exp   
+Added : 2025-09-18   |  Author  : dekuNukem
+UUID  : 79f8183905d443aaaab84c6f0944e3bc
+```
+
+<a href="./archive/00349_000.jpg">
+	<img src="./lowres/00349_000.jpg" alt="Polaroid 990 Integral Film film box outside" loading="lazy" width="500" height="423">
+</a>
+
+
+`UUID: 6e2ec8c800b140baaf1a2438e722931c`↓
+
+<a href="./archive/00349_001.jpg">
+	<img src="./lowres/00349_001.jpg" alt="Polaroid 990 Integral Film film box outside" loading="lazy" width="476" height="500">
+</a>
+
+
+`UUID: d4caa7bc6e1a46e1a5712fccfe5003e0`↓
+
+<a href="./archive/00349_002.jpg">
+	<img src="./lowres/00349_002.jpg" alt="Polaroid 990 Integral Film film box inside" loading="lazy" width="500" height="406">
+</a>
+
+
+`UUID: 99e7ca19be7b412ba276d45c7a09369f`↓
+
+<a href="./archive/00349_003.jpg">
+	<img src="./lowres/00349_003.jpg" alt="Polaroid 990 Integral Film film box inside" loading="lazy" width="484" height="500">
+</a>
+
 #### [Instant] Polaroid Color 600 Film Round Frame (ref: d985)
 
 ```
@@ -6640,6 +6708,20 @@ UUID  : 5844215c1fc74612b6118648b845625c
 	<img src="./lowres/00161_003.jpg" alt="Polaroid Polacolor 679 Pack Film film box inside" loading="lazy" width="351" height="500">
 </a>
 
+#### [Instant] Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)
+
+```
+Format: Polavision   |  Process : Instant 
+ISO   : 40           |  Expiry  : 1980-08 
+Type  : Single Pack  |  Quantity: 38.5ft  
+Added : 2025-09-18   |  Author  : dekuNukem
+UUID  : 010a03a196a543beb83906a352d490b9
+```
+
+<a href="./archive/00346_000.jpg">
+	<img src="./lowres/00346_000.jpg" alt="Polaroid Polavision Phototape Land Cassette Type 608 Polavision film box outside" loading="lazy" width="500" height="473">
+</a>
+
 #### [K-14] Kodak Kodachrome 25 (ref: 6477)
 
 ```
@@ -6794,6 +6876,97 @@ UUID  : 0e445a9b612a487b90df4e94a3831fef
 	<img src="./lowres/00272_006.jpg" alt="Agfa AgfaColor CT 18 35mm film box processing envelope" loading="lazy" width="500" height="340">
 </a>
 
+#### [Unknown] Film Corporation of America TriFCA 120 (ref: d024)
+
+```
+Format: 120          |  Process : Unknown 
+ISO   : 80           |  Expiry  : 1976-10 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-18   |  Author  : dekuNukem
+UUID  : 6041b4bb7a8149ee98f4b7e3b80ad024
+```
+
+<a href="./archive/00347_000.jpg">
+	<img src="./lowres/00347_000.jpg" alt="Film Corporation of America TriFCA 120 120 film box outside" loading="lazy" width="500" height="351">
+</a>
+
+
+`UUID: d82edd4e175246df8a163421cbf276fe`↓
+
+<a href="./archive/00347_001.jpg">
+	<img src="./lowres/00347_001.jpg" alt="Film Corporation of America TriFCA 120 120 film box leaflet" loading="lazy" width="236" height="500">
+</a>
+
+
+`UUID: f59f27c936cf4c98bfd8fb480a56f858`↓
+
+<a href="./archive/00347_002.jpg">
+	<img src="./lowres/00347_002.jpg" alt="Film Corporation of America TriFCA 120 120 film box leaflet" loading="lazy" width="236" height="500">
+</a>
+
+
+`UUID: 9d3c5d4e5a1948cc86a38226b1a51dc4`↓
+
+<a href="./archive/00347_003.jpg">
+	<img src="./lowres/00347_003.jpg" alt="Film Corporation of America TriFCA 120 120 film box processing envelope" loading="lazy" width="268" height="500">
+</a>
+
+
+`UUID: 42849bf6f7684843ab2f412fadcd58e8`↓
+
+<a href="./archive/00347_004.jpg">
+	<img src="./lowres/00347_004.jpg" alt="Film Corporation of America TriFCA 120 120 film box processing envelope" loading="lazy" width="500" height="276">
+</a>
+
+#### [Unknown] Film Corporation of America TriFCA 120 (ref: 9937)
+
+```
+Format: 120          |  Process : Unknown 
+ISO   : 80           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-18   |  Author  : dekuNukem
+UUID  : 49fdf7859f354d85933ce875998c9937
+```
+
+<a href="./archive/00348_000.jpg">
+	<img src="./lowres/00348_000.jpg" alt="Film Corporation of America TriFCA 120 120 film box outside" loading="lazy" width="500" height="387">
+</a>
+
+
+`UUID: 6ecc1d182bf8420d9d0c02e83bda565d`↓
+
+<a href="./archive/00348_001.jpg">
+	<img src="./lowres/00348_001.jpg" alt="Film Corporation of America TriFCA 120 120 film box leaflet" loading="lazy" width="247" height="500">
+</a>
+
+
+`UUID: 273677a3c51140c781c4f2bcc7da1ce3`↓
+
+<a href="./archive/00348_002.jpg">
+	<img src="./lowres/00348_002.jpg" alt="Film Corporation of America TriFCA 120 120 film box leaflet" loading="lazy" width="240" height="500">
+</a>
+
+
+`UUID: 98f8c5fced3c41198779e0bc6342b785`↓
+
+<a href="./archive/00348_003.jpg">
+	<img src="./lowres/00348_003.jpg" alt="Film Corporation of America TriFCA 120 120 film box processing envelope" loading="lazy" width="500" height="270">
+</a>
+
+
+`UUID: 1ea1b9e629554579aa058a12e7d4c721`↓
+
+<a href="./archive/00348_004.jpg">
+	<img src="./lowres/00348_004.jpg" alt="Film Corporation of America TriFCA 120 120 film box processing envelope" loading="lazy" width="271" height="500">
+</a>
+
+
+`UUID: 1d879777e90646b7958f04a7b03c4569`↓
+
+<a href="./archive/00348_005.jpg">
+	<img src="./lowres/00348_005.jpg" alt="Film Corporation of America TriFCA 120 120 film box processing envelope" loading="lazy" width="500" height="378">
+</a>
+
 #### [Unknown] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)
 
 ```
@@ -6887,7 +7060,7 @@ UUID  : ac9eab85f0874cf7aa5c67f0458e7533
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     187   
+1     dekuNukem                     206   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            39    

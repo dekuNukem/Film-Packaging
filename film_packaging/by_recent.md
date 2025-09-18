@@ -15,13 +15,18 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 17 2025
-Unique items: 342
-Total scans : 588
+Last Updated: Sep 18 2025
+Unique items: 347
+Total scans : 607
 ```
 
 -----
 
+- [[2025-09-18] Fujifilm Fujicolor HR 1600 (ref: 1d39)](#2025-09-18-fujifilm-fujicolor-hr-1600-ref-1d39)
+- [[2025-09-18] Polaroid 990 (ref: e3bc)](#2025-09-18-polaroid-990-ref-e3bc)
+- [[2025-09-18] Film Corporation of America TriFCA 120 (ref: 9937)](#2025-09-18-film-corporation-of-america-trifca-120-ref-9937)
+- [[2025-09-18] Film Corporation of America TriFCA 120 (ref: d024)](#2025-09-18-film-corporation-of-america-trifca-120-ref-d024)
+- [[2025-09-18] Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)](#2025-09-18-polaroid-polavision-phototape-land-cassette-type-608-ref-90b9)
 - [[2025-09-17] Kodak Portra 160 (ref: 6b0a)](#2025-09-17-kodak-portra-160-ref-6b0a)
 - [[2025-09-17] Ificolor Super FG HQ 200 (ref: ff86)](#2025-09-17-ificolor-super-fg-hq-200-ref-ff86)
 - [[2025-09-17] Fujifilm Neopan SS (ref: d848)](#2025-09-17-fujifilm-neopan-ss-ref-d848)
@@ -367,6 +372,174 @@ Total scans : 588
 
 
 -----
+
+
+`UUID: f5abcdb901ff4bae82a7b52a8d8dda5c`↓
+
+<a href="./archive/00350_002.jpg">
+	<img src="./lowres/00350_002.jpg" alt="Fujifilm Fujicolor HR 1600 35mm film box leaflet" loading="lazy" width="269" height="499">
+</a>
+
+
+`UUID: 911c893c07554c488c396cebc100e6b5`↓
+
+<a href="./archive/00350_001.jpg">
+	<img src="./lowres/00350_001.jpg" alt="Fujifilm Fujicolor HR 1600 35mm film box leaflet" loading="lazy" width="276" height="500">
+</a>
+
+#### [2025-09-18] Fujifilm Fujicolor HR 1600 (ref: 1d39)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 1600         |  Expiry  : 1987-08 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-09-18   |  Author  : dekuNukem
+UUID  : bbcc3da99c5c4734a5a8a985b9b31d39
+```
+
+<a href="./archive/00350_000.jpg">
+	<img src="./lowres/00350_000.jpg" alt="Fujifilm Fujicolor HR 1600 35mm film box outside" loading="lazy" width="467" height="500">
+</a>
+
+
+`UUID: 99e7ca19be7b412ba276d45c7a09369f`↓
+
+<a href="./archive/00349_003.jpg">
+	<img src="./lowres/00349_003.jpg" alt="Polaroid 990 Integral Film film box inside" loading="lazy" width="484" height="500">
+</a>
+
+
+`UUID: d4caa7bc6e1a46e1a5712fccfe5003e0`↓
+
+<a href="./archive/00349_002.jpg">
+	<img src="./lowres/00349_002.jpg" alt="Polaroid 990 Integral Film film box inside" loading="lazy" width="500" height="406">
+</a>
+
+
+`UUID: 6e2ec8c800b140baaf1a2438e722931c`↓
+
+<a href="./archive/00349_001.jpg">
+	<img src="./lowres/00349_001.jpg" alt="Polaroid 990 Integral Film film box outside" loading="lazy" width="476" height="500">
+</a>
+
+#### [2025-09-18] Polaroid 990 (ref: e3bc)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2008-10 
+Type  : Multi-Pack-2 |  Quantity: 10exp   
+Added : 2025-09-18   |  Author  : dekuNukem
+UUID  : 79f8183905d443aaaab84c6f0944e3bc
+```
+
+<a href="./archive/00349_000.jpg">
+	<img src="./lowres/00349_000.jpg" alt="Polaroid 990 Integral Film film box outside" loading="lazy" width="500" height="423">
+</a>
+
+
+`UUID: 1d879777e90646b7958f04a7b03c4569`↓
+
+<a href="./archive/00348_005.jpg">
+	<img src="./lowres/00348_005.jpg" alt="Film Corporation of America TriFCA 120 120 film box processing envelope" loading="lazy" width="500" height="378">
+</a>
+
+
+`UUID: 1ea1b9e629554579aa058a12e7d4c721`↓
+
+<a href="./archive/00348_004.jpg">
+	<img src="./lowres/00348_004.jpg" alt="Film Corporation of America TriFCA 120 120 film box processing envelope" loading="lazy" width="271" height="500">
+</a>
+
+
+`UUID: 98f8c5fced3c41198779e0bc6342b785`↓
+
+<a href="./archive/00348_003.jpg">
+	<img src="./lowres/00348_003.jpg" alt="Film Corporation of America TriFCA 120 120 film box processing envelope" loading="lazy" width="500" height="270">
+</a>
+
+
+`UUID: 273677a3c51140c781c4f2bcc7da1ce3`↓
+
+<a href="./archive/00348_002.jpg">
+	<img src="./lowres/00348_002.jpg" alt="Film Corporation of America TriFCA 120 120 film box leaflet" loading="lazy" width="240" height="500">
+</a>
+
+
+`UUID: 6ecc1d182bf8420d9d0c02e83bda565d`↓
+
+<a href="./archive/00348_001.jpg">
+	<img src="./lowres/00348_001.jpg" alt="Film Corporation of America TriFCA 120 120 film box leaflet" loading="lazy" width="247" height="500">
+</a>
+
+#### [2025-09-18] Film Corporation of America TriFCA 120 (ref: 9937)
+
+```
+Format: 120          |  Process : Unknown 
+ISO   : 80           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-18   |  Author  : dekuNukem
+UUID  : 49fdf7859f354d85933ce875998c9937
+```
+
+<a href="./archive/00348_000.jpg">
+	<img src="./lowres/00348_000.jpg" alt="Film Corporation of America TriFCA 120 120 film box outside" loading="lazy" width="500" height="387">
+</a>
+
+
+`UUID: 42849bf6f7684843ab2f412fadcd58e8`↓
+
+<a href="./archive/00347_004.jpg">
+	<img src="./lowres/00347_004.jpg" alt="Film Corporation of America TriFCA 120 120 film box processing envelope" loading="lazy" width="500" height="276">
+</a>
+
+
+`UUID: 9d3c5d4e5a1948cc86a38226b1a51dc4`↓
+
+<a href="./archive/00347_003.jpg">
+	<img src="./lowres/00347_003.jpg" alt="Film Corporation of America TriFCA 120 120 film box processing envelope" loading="lazy" width="268" height="500">
+</a>
+
+
+`UUID: f59f27c936cf4c98bfd8fb480a56f858`↓
+
+<a href="./archive/00347_002.jpg">
+	<img src="./lowres/00347_002.jpg" alt="Film Corporation of America TriFCA 120 120 film box leaflet" loading="lazy" width="236" height="500">
+</a>
+
+
+`UUID: d82edd4e175246df8a163421cbf276fe`↓
+
+<a href="./archive/00347_001.jpg">
+	<img src="./lowres/00347_001.jpg" alt="Film Corporation of America TriFCA 120 120 film box leaflet" loading="lazy" width="236" height="500">
+</a>
+
+#### [2025-09-18] Film Corporation of America TriFCA 120 (ref: d024)
+
+```
+Format: 120          |  Process : Unknown 
+ISO   : 80           |  Expiry  : 1976-10 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-18   |  Author  : dekuNukem
+UUID  : 6041b4bb7a8149ee98f4b7e3b80ad024
+```
+
+<a href="./archive/00347_000.jpg">
+	<img src="./lowres/00347_000.jpg" alt="Film Corporation of America TriFCA 120 120 film box outside" loading="lazy" width="500" height="351">
+</a>
+
+#### [2025-09-18] Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)
+
+```
+Format: Polavision   |  Process : Instant 
+ISO   : 40           |  Expiry  : 1980-08 
+Type  : Single Pack  |  Quantity: 38.5ft  
+Added : 2025-09-18   |  Author  : dekuNukem
+UUID  : 010a03a196a543beb83906a352d490b9
+```
+
+<a href="./archive/00346_000.jpg">
+	<img src="./lowres/00346_000.jpg" alt="Polaroid Polavision Phototape Land Cassette Type 608 Polavision film box outside" loading="lazy" width="500" height="473">
+</a>
 
 #### [2025-09-17] Kodak Portra 160 (ref: 6b0a)
 
@@ -6887,7 +7060,7 @@ UUID  : 36151f6b7cc045c2b43d7f5cbee41a5d
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     187   
+1     dekuNukem                     206   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            39    
