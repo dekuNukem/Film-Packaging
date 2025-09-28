@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 28 2025
-Unique items: 352
-Total scans : 613
+Unique items: 353
+Total scans : 614
 ```
 
 -----
@@ -347,6 +347,7 @@ Total scans : 613
 - [[dekuNukem] Three Film Rolls 5207 (ref: 0292)](#dekunukem-three-film-rolls-5207-ref-0292)
 - [[kaimon] Ilford Ilfochrome (ref: ac24)](#kaimon-ilford-ilfochrome-ref-ac24)
 - [[kaimon] Kodak High Speed Ektachrome (ref: 7533)](#kaimon-kodak-high-speed-ektachrome-ref-7533)
+- [[lemoniter] Club Color Natural Color System (ref: 813a)](#lemoniter-club-color-natural-color-system-ref-813a)
 - [[lilyu.xyz] Agfa APX (ref: 5276)](#lilyuxyz-agfa-apx-ref-5276)
 - [[lilyu.xyz] Foma Fomapan Creative 200 (ref: 84a5)](#lilyuxyz-foma-fomapan-creative-200-ref-84a5)
 - [[lilyu.xyz] Kodak Gold (ref: ea58)](#lilyuxyz-kodak-gold-ref-ea58)
@@ -6573,6 +6574,20 @@ UUID  : ac9eab85f0874cf7aa5c67f0458e7533
 	<img src="./lowres/00303_002.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="188" height="500">
 </a>
 
+#### [lemoniter] Club Color Natural Color System (ref: 813a)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2003-07 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-28   |  Author  : lemoniter
+UUID  : 88f5c251c21546fba06cd2943e55813a
+```
+
+<a href="./archive/00356_000.jpg" target="_blank">
+	<img src="./lowres/00356_000.jpg" alt="Club Color Natural Color System 35mm film box outside" loading="lazy" width="426" height="500">
+</a>
+
 #### [lilyu.xyz] Agfa APX (ref: 5276)
 
 ```
@@ -7175,6 +7190,7 @@ Rank  Username                      Contributions
 31    Yrikonchik                    1     
 32    @ad.astra.per.aspera.1894     1     
 33    Aoi Yuki                      1     
+34    lemoniter                     1     
 ```
 
 ## Questions or Comments?

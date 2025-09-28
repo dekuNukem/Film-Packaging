@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 28 2025
-Unique items: 352
-Total scans : 613
+Unique items: 353
+Total scans : 614
 ```
 
 -----
@@ -161,6 +161,7 @@ Total scans : 613
 - [[35mm] CineStill 400Dynamic (ref: fccd)](#35mm-cinestill-400dynamic-ref-fccd)
 - [[35mm] CineStill 50D (ref: 3452)](#35mm-cinestill-50d-ref-3452)
 - [[35mm] CineStill 800T (ref: b3ff)](#35mm-cinestill-800t-ref-b3ff)
+- [[35mm] Club Color Natural Color System (ref: 813a)](#35mm-club-color-natural-color-system-ref-813a)
 - [[35mm] Efiniti UXi Super 200 (ref: 471a)](#35mm-efiniti-uxi-super-200-ref-471a)
 - [[35mm] Ferrania Solaris (ref: a929)](#35mm-ferrania-solaris-ref-a929)
 - [[35mm] Film Never Die IRO (ref: 2a22)](#35mm-film-never-die-iro-ref-2a22)
@@ -3239,6 +3240,20 @@ UUID  : 81978ca6f6d048b3a759dffdb80fb3ff
 
 <a href="./archive/00085_001.jpg" target="_blank">
 	<img src="./lowres/00085_001.jpg" alt="CineStill 800T 35mm film box inside" loading="lazy" width="435" height="500">
+</a>
+
+#### [35mm] Club Color Natural Color System (ref: 813a)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2003-07 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-28   |  Author  : lemoniter
+UUID  : 88f5c251c21546fba06cd2943e55813a
+```
+
+<a href="./archive/00356_000.jpg" target="_blank">
+	<img src="./lowres/00356_000.jpg" alt="Club Color Natural Color System 35mm film box outside" loading="lazy" width="426" height="500">
 </a>
 
 #### [35mm] Efiniti UXi Super 200 (ref: 471a)
@@ -7175,6 +7190,7 @@ Rank  Username                      Contributions
 31    Yrikonchik                    1     
 32    @ad.astra.per.aspera.1894     1     
 33    Aoi Yuki                      1     
+34    lemoniter                     1     
 ```
 
 ## Questions or Comments?
