@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 28 2025
-Unique items: 353
-Total scans : 614
+Unique items: 356
+Total scans : 621
 ```
 
 -----
@@ -121,6 +121,7 @@ Total scans : 614
 - [[126] Kodak Kodacolor-X (ref: 0ce5)](#126-kodak-kodacolor-x-ref-0ce5)
 - [[126] Kodak Kodacolor-X (ref: 5302)](#126-kodak-kodacolor-x-ref-5302)
 - [[126] SupaSnaps Snappit Film (ref: c41b)](#126-supasnaps-snappit-film-ref-c41b)
+- [[127] Agfa Isopan ISS (ref: 5ba6)](#127-agfa-isopan-iss-ref-5ba6)
 - [[127] Reflx Lab Pro 100 (ref: 8bec)](#127-reflx-lab-pro-100-ref-8bec)
 - [[127] Shanghai GP3 (ref: 52aa)](#127-shanghai-gp3-ref-52aa)
 - [[12x16.5cm] Defender Extra Fast Panchromatic (ref: 348b)](#12x165cm-defender-extra-fast-panchromatic-ref-348b)
@@ -210,6 +211,7 @@ Total scans : 614
 - [[35mm] Harman Phoenix II (ref: 40df)](#35mm-harman-phoenix-ii-ref-40df)
 - [[35mm] Harman Red (ref: da3a)](#35mm-harman-red-ref-da3a)
 - [[35mm] Hazenfilm Sorolla Chrome (ref: 889f)](#35mm-hazenfilm-sorolla-chrome-ref-889f)
+- [[35mm] Herzog Duxopan (ref: a9ad)](#35mm-herzog-duxopan-ref-a9ad)
 - [[35mm] Hope Film Bubble (ref: 41f4)](#35mm-hope-film-bubble-ref-41f4)
 - [[35mm] Ificolor Super FG HQ 200 (ref: ff86)](#35mm-ificolor-super-fg-hq-200-ref-ff86)
 - [[35mm] Ilford Delta 3200 Professional (ref: 9b54)](#35mm-ilford-delta-3200-professional-ref-9b54)
@@ -318,6 +320,7 @@ Total scans : 614
 - [[35mm] Mr. Negative Eterna 250D (ref: 6d6e)](#35mm-mr-negative-eterna-250d-ref-6d6e)
 - [[35mm] Mr. Negative Silver Screen Negative (ref: c968)](#35mm-mr-negative-silver-screen-negative-ref-c968)
 - [[35mm] Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#35mm-mutascan-kodak-vision3-500t5219-ref-5150)
+- [[35mm] ORWO Chrom UT21 (ref: 3fd5)](#35mm-orwo-chrom-ut21-ref-3fd5)
 - [[35mm] ORWO NP 20 SL (ref: b16c)](#35mm-orwo-np-20-sl-ref-b16c)
 - [[35mm] Polaroid PolaBlue 35mm (ref: df66)](#35mm-polaroid-polablue-35mm-ref-df66)
 - [[35mm] Polaroid PolaChrome 35mm (ref: 3b60)](#35mm-polaroid-polachrome-35mm-ref-3b60)
@@ -2493,6 +2496,20 @@ UUID  : 1cf47ce82b58418f9e009b4f0121c41b
 	<img src="./lowres/00324_001.jpg" alt="SupaSnaps Snappit Film 126 film cartridge" loading="lazy" width="500" height="444">
 </a>
 
+#### [127] Agfa Isopan ISS (ref: 5ba6)
+
+```
+Format: 127          |  Process : BW      
+ISO   : 100          |  Expiry  : 1974-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-28   |  Author  : fine-seat
+UUID  : ab1d4ea5f512444e92d82e4610c75ba6
+```
+
+<a href="./archive/00357_000.jpg" target="_blank">
+	<img src="./lowres/00357_000.jpg" alt="Agfa Isopan ISS 127 film box outside" loading="lazy" width="500" height="412">
+</a>
+
 #### [127] Reflx Lab Pro 100 (ref: 8bec)
 
 ```
@@ -2905,7 +2922,7 @@ UUID  : f1e50745927f4b7cb16af36fd30dd3af
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2005-03 
 Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-07-31   |  Author  : stefanie
+Added : 2025-07-31   |  Author  : fine-seat
 UUID  : 86136eea89d14e15b60dfcdf45b1689e
 ```
 
@@ -3066,7 +3083,7 @@ UUID  : b1c4d56515954c8d98bd0b8f9591f08a
 Format: 35mm         |  Process : C-41    
 ISO   : 1600         |  Expiry  : 1993-08 
 Type  : Single Pack  |  Quantity: 24exp   
-Added : 2025-07-31   |  Author  : stefanie
+Added : 2025-07-31   |  Author  : fine-seat
 UUID  : cc723aa89e9e43ec8ac1ebd18efa94b9
 ```
 
@@ -3780,7 +3797,7 @@ UUID  : 8f934c948478459386443596e74c02f7
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 1994-07 
 Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-07-31   |  Author  : stefanie
+Added : 2025-07-31   |  Author  : fine-seat
 UUID  : 9233714654ff481089c2d4ff1334ee94
 ```
 
@@ -4087,6 +4104,20 @@ UUID  : 462e32d45cd740cf866732a73a00889f
 
 <a href="./archive/00137_000.jpg" target="_blank">
 	<img src="./lowres/00137_000.jpg" alt="Hazenfilm Sorolla Chrome 35mm film box outside" loading="lazy" width="438" height="500">
+</a>
+
+#### [35mm] Herzog Duxopan (ref: a9ad)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 1982-09 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-09-28   |  Author  : fine-seat
+UUID  : 7ac665727691429d9ea1ec73ebe9a9ad
+```
+
+<a href="./archive/00358_000.jpg" target="_blank">
+	<img src="./lowres/00358_000.jpg" alt="Herzog Duxopan 35mm film box outside" loading="lazy" width="500" height="486">
 </a>
 
 #### [35mm] Hope Film Bubble (ref: 41f4)
@@ -4879,7 +4910,7 @@ UUID  : dc04ec32aeda4b9ba394437272fde9b6
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 1999-05 
 Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-07-31   |  Author  : stefanie
+Added : 2025-07-31   |  Author  : fine-seat
 UUID  : c56f944bf87d40dcac75cf41aeb82f8d
 ```
 
@@ -5264,7 +5295,7 @@ UUID  : a26daa2cb6e44957af3d978bc67e035f
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2012-03 
 Type  : Multi-Pack-2 |  Quantity: 36exp   
-Added : 2025-07-31   |  Author  : stefanie
+Added : 2025-07-31   |  Author  : fine-seat
 UUID  : faf0a44eece541a9b701feb772f4f8bf
 ```
 
@@ -6033,6 +6064,48 @@ UUID  : e4d2af3a69704509a07e108fcb4b5150
 
 <a href="./archive/00185_000.jpg" target="_blank">
 	<img src="./lowres/00185_000.jpg" alt="Mutascan Kodak Vision3 500T/5219 35mm film box outside" loading="lazy" width="475" height="500">
+</a>
+
+#### [35mm] ORWO Chrom UT21 (ref: 3fd5)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 100          |  Expiry  : 1991-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-28   |  Author  : fine-seat
+UUID  : e3f739b7106044949b4f101684ad3fd5
+```
+
+<a href="./archive/00359_000.jpg" target="_blank">
+	<img src="./lowres/00359_000.jpg" alt="ORWO Chrom UT21 35mm film box outside" loading="lazy" width="409" height="499">
+</a>
+
+
+`UUID: a9dd1ce04a364ba9bf0610b68b3d3b89`↓
+
+<a href="./archive/00359_001.jpg" target="_blank">
+	<img src="./lowres/00359_001.jpg" alt="ORWO Chrom UT21 35mm film box leaflet" loading="lazy" width="299" height="500">
+</a>
+
+
+`UUID: 357b9379dea24d16b611aaf25ccdcd04`↓
+
+<a href="./archive/00359_002.jpg" target="_blank">
+	<img src="./lowres/00359_002.jpg" alt="ORWO Chrom UT21 35mm film box leaflet" loading="lazy" width="298" height="500">
+</a>
+
+
+`UUID: 27c54d7248cb4d858c6773bc29ec69a3`↓
+
+<a href="./archive/00359_003.jpg" target="_blank">
+	<img src="./lowres/00359_003.jpg" alt="ORWO Chrom UT21 35mm film box processing envelope" loading="lazy" width="500" height="284">
+</a>
+
+
+`UUID: 1340536f2f4b408a9129dea625da8168`↓
+
+<a href="./archive/00359_004.jpg" target="_blank">
+	<img src="./lowres/00359_004.jpg" alt="ORWO Chrom UT21 35mm film box processing envelope" loading="lazy" width="282" height="500">
 </a>
 
 #### [35mm] ORWO NP 20 SL (ref: b16c)
@@ -7112,7 +7185,7 @@ UUID  : 010a03a196a543beb83906a352d490b9
 Format: Super 8      |  Process : Unknown 
 ISO   : 160          |  Expiry  : 1980-11 
 Type  : Single Pack  |  Quantity: 50ft    
-Added : 2025-07-31   |  Author  : stefanie
+Added : 2025-07-31   |  Author  : fine-seat
 UUID  : 6032680a3aba41b39c600d7e23998f62
 ```
 
@@ -7162,14 +7235,14 @@ Rank  Username                      Contributions
 3     Pelicram                      52    
 4     @ellafridalindblom            42    
 5     The Compartmentalist          25    
-6     Camera.Riley                  19    
-7     Nano_Burger                   18    
-8     @ob.skura                     16    
-9     @recycling.film               15    
-10    b0baspace                     14    
-11    @SirBrentsworth               13    
-12    toader                        13    
-13    stefanie                      12    
+6     fine-seat                     19    
+7     Camera.Riley                  19    
+8     Nano_Burger                   18    
+9     @ob.skura                     16    
+10    @recycling.film               15    
+11    b0baspace                     14    
+12    @SirBrentsworth               13    
+13    toader                        13    
 14    yc128                         11    
 15    @zruk_ts                      10    
 16    lilyu.xyz                     9     

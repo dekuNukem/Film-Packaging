@@ -252,18 +252,18 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 146,0,film_box_outside,Kodak,Värikuvafilmi,35mm,200,C-41,200112,1753989376,088ec288d1472fa10dce64d71e51aed8,b8795d19697a453c8f27fde773eaf9ff,00146_000.jpg,Pelicram,,Multi-Pack-2,24exp
 147,0,film_box_outside,Lomography,Babylon,35mm,13,BW,202509,1753989404,1d674d9a0c1a2691a4e62ad495c55eed,9d7f531c7a764f9689228ab477297afa,00147_000.jpg,Pelicram,,Single Pack,36exp
 148,0,film_box_outside,Agfa,Isopan ISS,35mm,100,BW,196311,1753990168,9c71c3d1b13034fa98a3c4cdf8cb78b9,cdcaa912ee0142c3b76eb1500e2375fa,00148_000.jpg,Pelicram,,Single Pack,20exp
-149,0,film_box_outside,Kodak,Gold,35mm,100,C-41,199905,1753991067,40aa38330d0d6cfa4d7bfac32da52d4a,c56f944bf87d40dcac75cf41aeb82f8d,00149_000.jpg,stefanie,,Single Pack,36exp
-150,0,film_box_outside,Fujifilm,Fujicolor Super HG,35mm,100,C-41,199407,1753991100,2108de6e018afcfaf99bb9d5fdbafbea,9233714654ff481089c2d4ff1334ee94,00150_000.jpg,stefanie,,Single Pack,36exp
-150,1,film_box_inside,Fujifilm,Fujicolor Super HG,35mm,100,C-41,199407,1753991102,404419cd9914d9be9beff07d17dd18cc,302969081f4442239212b8e123d38378,00150_001.jpg,stefanie,,Single Pack,36exp
-151,0,film_box_outside,Alfo,ALFOcolor PR-G,35mm,1600,C-41,199308,1753991226,f673e8a49e6bb09c76a86a8e053295b5,cc723aa89e9e43ec8ac1ebd18efa94b9,00151_000.jpg,stefanie,,Single Pack,24exp
-152,0,film_box_outside,Agfa,Agfacolor XRG 200,35mm,200,C-41,200503,1753991293,ab9b380f73157e29cece410bcf774529,86136eea89d14e15b60dfcdf45b1689e,00152_000.jpg,stefanie,,Single Pack,36exp
-152,1,film_box_inside,Agfa,Agfacolor XRG 200,35mm,200,C-41,200503,1753991296,92ef6a04efba1d4fcc3c1e01cf35e1c7,5598d8aac5844772a87d019a7d37e9f6,00152_001.jpg,stefanie,,Single Pack,36exp
-153,0,film_box_outside,Kodak,Kodacolor VR Plus,35mm,400,C-41,201203,1753991336,21e56cc1a11e3225f11771f03988ee63,faf0a44eece541a9b701feb772f4f8bf,00153_000.jpg,stefanie,,Multi-Pack-2,36exp
-154,0,film_box_outside,Kodak,Ektachrome 160 Movie Film Type A,Super 8,160,Unknown,198011,1753991791,2b11a632fe93ca22801ea60a2c313c4e,6032680a3aba41b39c600d7e23998f62,00154_000.jpg,stefanie,,Single Pack,50ft
-154,1,film_box_leaflet,Kodak,Ektachrome 160 Movie Film Type A,Super 8,160,Unknown,198011,1753991793,4f3fd31575d1da543e3308d81dcd4040,28c6f19bd37e4199a072687d11b19961,00154_001.jpg,stefanie,,Single Pack,50ft
-154,2,film_box_leaflet,Kodak,Ektachrome 160 Movie Film Type A,Super 8,160,Unknown,198011,1753991796,4166922268f826d30b7f95edc16be00a,5d06a8833e0e44e8ab8d53bc0ce11095,00154_002.jpg,stefanie,,Single Pack,50ft
-154,3,film_box_processing_envelope,Kodak,Ektachrome 160 Movie Film Type A,Super 8,160,Unknown,198011,1753991800,e92ef35683fc722bc86a3271c108c716,870ff01807e949a7b361cdad01dddf7f,00154_003.jpg,stefanie,,Single Pack,50ft
-154,4,film_box_processing_envelope,Kodak,Ektachrome 160 Movie Film Type A,Super 8,160,Unknown,198011,1753991802,c0ac003b8ed9bfc15c827f704b4f0ca1,31df442b386446679540b0cf52c92fd7,00154_004.jpg,stefanie,,Single Pack,50ft
+149,0,film_box_outside,Kodak,Gold,35mm,100,C-41,199905,1753991067,40aa38330d0d6cfa4d7bfac32da52d4a,c56f944bf87d40dcac75cf41aeb82f8d,00149_000.jpg,fine-seat,,Single Pack,36exp
+150,0,film_box_outside,Fujifilm,Fujicolor Super HG,35mm,100,C-41,199407,1753991100,2108de6e018afcfaf99bb9d5fdbafbea,9233714654ff481089c2d4ff1334ee94,00150_000.jpg,fine-seat,,Single Pack,36exp
+150,1,film_box_inside,Fujifilm,Fujicolor Super HG,35mm,100,C-41,199407,1753991102,404419cd9914d9be9beff07d17dd18cc,302969081f4442239212b8e123d38378,00150_001.jpg,fine-seat,,Single Pack,36exp
+151,0,film_box_outside,Alfo,ALFOcolor PR-G,35mm,1600,C-41,199308,1753991226,f673e8a49e6bb09c76a86a8e053295b5,cc723aa89e9e43ec8ac1ebd18efa94b9,00151_000.jpg,fine-seat,,Single Pack,24exp
+152,0,film_box_outside,Agfa,Agfacolor XRG 200,35mm,200,C-41,200503,1753991293,ab9b380f73157e29cece410bcf774529,86136eea89d14e15b60dfcdf45b1689e,00152_000.jpg,fine-seat,,Single Pack,36exp
+152,1,film_box_inside,Agfa,Agfacolor XRG 200,35mm,200,C-41,200503,1753991296,92ef6a04efba1d4fcc3c1e01cf35e1c7,5598d8aac5844772a87d019a7d37e9f6,00152_001.jpg,fine-seat,,Single Pack,36exp
+153,0,film_box_outside,Kodak,Kodacolor VR Plus,35mm,400,C-41,201203,1753991336,21e56cc1a11e3225f11771f03988ee63,faf0a44eece541a9b701feb772f4f8bf,00153_000.jpg,fine-seat,,Multi-Pack-2,36exp
+154,0,film_box_outside,Kodak,Ektachrome 160 Movie Film Type A,Super 8,160,Unknown,198011,1753991791,2b11a632fe93ca22801ea60a2c313c4e,6032680a3aba41b39c600d7e23998f62,00154_000.jpg,fine-seat,,Single Pack,50ft
+154,1,film_box_leaflet,Kodak,Ektachrome 160 Movie Film Type A,Super 8,160,Unknown,198011,1753991793,4f3fd31575d1da543e3308d81dcd4040,28c6f19bd37e4199a072687d11b19961,00154_001.jpg,fine-seat,,Single Pack,50ft
+154,2,film_box_leaflet,Kodak,Ektachrome 160 Movie Film Type A,Super 8,160,Unknown,198011,1753991796,4166922268f826d30b7f95edc16be00a,5d06a8833e0e44e8ab8d53bc0ce11095,00154_002.jpg,fine-seat,,Single Pack,50ft
+154,3,film_box_processing_envelope,Kodak,Ektachrome 160 Movie Film Type A,Super 8,160,Unknown,198011,1753991800,e92ef35683fc722bc86a3271c108c716,870ff01807e949a7b361cdad01dddf7f,00154_003.jpg,fine-seat,,Single Pack,50ft
+154,4,film_box_processing_envelope,Kodak,Ektachrome 160 Movie Film Type A,Super 8,160,Unknown,198011,1753991802,c0ac003b8ed9bfc15c827f704b4f0ca1,31df442b386446679540b0cf52c92fd7,00154_004.jpg,fine-seat,,Single Pack,50ft
 155,0,film_box_outside,Kodak,Ektachrome E100,35mm,100,E-6,202702,1754119896,c435419f4cb4ab3d440feb1645e4416e,829cd9dd98cd489f8bff71e403c1ae10,00155_000.jpg,toader,,Single Pack,36exp
 156,0,film_box_outside,Polaroid,Color SX-70 Film,Integral Film,160,Instant,202504,1754120107,716bf1b0a4b8b2088af6cf0a83a62bd4,b4af154cea6f40c0aa1d4154d0c2dc7f,00156_000.jpg,toader,,Single Pack,8exp
 156,1,film_box_outside,Polaroid,Color SX-70 Film,Integral Film,160,Instant,202504,1754120109,9b4151542c13754ad750b016d0e1c5ca,5ce2d6b8b1894bf7b67c5a9fdd635a6e,00156_001.jpg,toader,,Single Pack,8exp
@@ -613,3 +613,10 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 355,0,film_box_outside,JCH,Streetpan,120,400,BW,202604,1759070227,e600dd4a89d0acde5da92cc9fbbb976b,f32d9e32d43441b79220744cdb4e5c70,00355_000.jpg,@Hol.m35,,Single Pack,N/A
 355,1,film_box_inside,JCH,Streetpan,120,400,BW,202604,1759070229,c7fa317f0a627f03574751166af71b8f,7935fbe7f8a44593a172f1e9fc2fd2bc,00355_001.jpg,@Hol.m35,,Single Pack,N/A
 356,0,film_box_outside,Club Color,Natural Color System,35mm,800,C-41,200307,1759070606,d67213f028b8cef7718bfbf74798cb51,88f5c251c21546fba06cd2943e55813a,00356_000.jpg,lemoniter,,Single Pack,24exp
+357,0,film_box_outside,Agfa,Isopan ISS,127,100,BW,197401,1759071009,4c7f2fb16ad2a0ee99b0af497d87131b,ab1d4ea5f512444e92d82e4610c75ba6,00357_000.jpg,fine-seat,,Single Pack,N/A
+358,0,film_box_outside,Herzog,Duxopan,35mm,100,BW,198209,1759071070,8ea15a634aee140e4edbf38c0fd9e94b,7ac665727691429d9ea1ec73ebe9a9ad,00358_000.jpg,fine-seat,,Single Pack,12exp
+359,0,film_box_outside,ORWO,Chrom UT21,35mm,100,Unknown,199105,1759071339,f0d6631cc327c227e1c8e06a8ca1ee62,e3f739b7106044949b4f101684ad3fd5,00359_000.jpg,fine-seat,,Single Pack,24exp
+359,1,film_box_leaflet,ORWO,Chrom UT21,35mm,100,Unknown,199105,1759071344,b2f45b924d10c3459e57c9ab2ce2b138,a9dd1ce04a364ba9bf0610b68b3d3b89,00359_001.jpg,fine-seat,,Single Pack,24exp
+359,2,film_box_leaflet,ORWO,Chrom UT21,35mm,100,Unknown,199105,1759071348,c739b4f2daad6f8aa2c605f1e0cb4d94,357b9379dea24d16b611aaf25ccdcd04,00359_002.jpg,fine-seat,,Single Pack,24exp
+359,3,film_box_processing_envelope,ORWO,Chrom UT21,35mm,100,Unknown,199105,1759071351,9b674d37ec3e87941ca990536ff1df71,27c54d7248cb4d858c6773bc29ec69a3,00359_003.jpg,fine-seat,,Single Pack,24exp
+359,4,film_box_processing_envelope,ORWO,Chrom UT21,35mm,100,Unknown,199105,1759071356,6c0c281f3cea1785706495d964f904da,1340536f2f4b408a9129dea625da8168,00359_004.jpg,fine-seat,,Single Pack,24exp

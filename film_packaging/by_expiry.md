@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 28 2025
-Unique items: 353
-Total scans : 614
+Unique items: 356
+Total scans : 621
 ```
 
 -----
@@ -37,6 +37,7 @@ Total scans : 614
 - [[1971] Foma Fomapan21 (ref: 75d9)](#1971-foma-fomapan21-ref-75d9)
 - [[1972] Kodak Ektachrome-X (ref: ae7e)](#1972-kodak-ektachrome-x-ref-ae7e)
 - [[1973] Kodak Ektachrome-X (ref: aec5)](#1973-kodak-ektachrome-x-ref-aec5)
+- [[1974] Agfa Isopan ISS (ref: 5ba6)](#1974-agfa-isopan-iss-ref-5ba6)
 - [[1974] GAF Color Slide Film (ref: dea6)](#1974-gaf-color-slide-film-ref-dea6)
 - [[1974] Kodak High Speed Infrared Film 2481 (ref: aa7a)](#1974-kodak-high-speed-infrared-film-2481-ref-aa7a)
 - [[1974] Kodak Kodacolor-X (ref: a4b1)](#1974-kodak-kodacolor-x-ref-a4b1)
@@ -62,6 +63,7 @@ Total scans : 614
 - [[1980] Kodak Ektachrome 400 (ref: 2b94)](#1980-kodak-ektachrome-400-ref-2b94)
 - [[1980] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)](#1980-kodak-ektachrome-160-movie-film-type-a-ref-8f62)
 - [[1981] Kodak Kodacolor 400 (ref: 9e4c)](#1981-kodak-kodacolor-400-ref-9e4c)
+- [[1982] Herzog Duxopan (ref: a9ad)](#1982-herzog-duxopan-ref-a9ad)
 - [[1983] Kodak Kodachrome 25 (ref: 8833)](#1983-kodak-kodachrome-25-ref-8833)
 - [[1983] Kodak Kodacolor II (ref: 7310)](#1983-kodak-kodacolor-ii-ref-7310)
 - [[1985] Konica Konica Color II (ref: fb5b)](#1985-konica-konica-color-ii-ref-fb5b)
@@ -77,6 +79,7 @@ Total scans : 614
 - [[1990] Kodak High Speed Infrared (ref: 4294)](#1990-kodak-high-speed-infrared-ref-4294)
 - [[1990] Kodak Ektachrome 400 (ref: 3c96)](#1990-kodak-ektachrome-400-ref-3c96)
 - [[1991] Konica Infrared 750nm (ref: e696)](#1991-konica-infrared-750nm-ref-e696)
+- [[1991] ORWO Chrom UT21 (ref: 3fd5)](#1991-orwo-chrom-ut21-ref-3fd5)
 - [[1991] Tasma OCh 50 (ref: 5c43)](#1991-tasma-och-50-ref-5c43)
 - [[1991] Kodak TMAX P3200 (ref: 1dff)](#1991-kodak-tmax-p3200-ref-1dff)
 - [[1991] Kodak TMAX 400 (ref: a34d)](#1991-kodak-tmax-400-ref-a34d)
@@ -678,6 +681,20 @@ UUID  : 6a81b1428cfe46c8b9cf187fb672aec5
 
 <a href="./archive/00119_000.jpg" target="_blank">
 	<img src="./lowres/00119_000.jpg" alt="Kodak Ektachrome-X 35mm film box outside" loading="lazy" width="411" height="500">
+</a>
+
+#### [1974] Agfa Isopan ISS (ref: 5ba6)
+
+```
+Format: 127          |  Process : BW      
+ISO   : 100          |  Expiry  : 1974-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-28   |  Author  : fine-seat
+UUID  : ab1d4ea5f512444e92d82e4610c75ba6
+```
+
+<a href="./archive/00357_000.jpg" target="_blank">
+	<img src="./lowres/00357_000.jpg" alt="Agfa Isopan ISS 127 film box outside" loading="lazy" width="500" height="412">
 </a>
 
 #### [1974] GAF Color Slide Film (ref: dea6)
@@ -1288,7 +1305,7 @@ UUID  : 7c96865a4b554505b46710b016fd2b94
 Format: Super 8      |  Process : Unknown 
 ISO   : 160          |  Expiry  : 1980-11 
 Type  : Single Pack  |  Quantity: 50ft    
-Added : 2025-07-31   |  Author  : stefanie
+Added : 2025-07-31   |  Author  : fine-seat
 UUID  : 6032680a3aba41b39c600d7e23998f62
 ```
 
@@ -1350,6 +1367,20 @@ UUID  : 3ef3252141a64ffe9d7e3fad745b9e4c
 
 <a href="./archive/00331_002.jpg" target="_blank">
 	<img src="./lowres/00331_002.jpg" alt="Kodak Kodacolor 400 110 film box leaflet" loading="lazy" width="410" height="499">
+</a>
+
+#### [1982] Herzog Duxopan (ref: a9ad)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 1982-09 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-09-28   |  Author  : fine-seat
+UUID  : 7ac665727691429d9ea1ec73ebe9a9ad
+```
+
+<a href="./archive/00358_000.jpg" target="_blank">
+	<img src="./lowres/00358_000.jpg" alt="Herzog Duxopan 35mm film box outside" loading="lazy" width="500" height="486">
 </a>
 
 #### [1983] Kodak Kodachrome 25 (ref: 8833)
@@ -1693,6 +1724,48 @@ UUID  : 79a0275aee8e43e895b5794a8538e696
 
 <a href="./archive/00039_001.jpg" target="_blank">
 	<img src="./lowres/00039_001.jpg" alt="Konica Infrared 750nm 120 film box leaflet" loading="lazy" width="281" height="499">
+</a>
+
+#### [1991] ORWO Chrom UT21 (ref: 3fd5)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 100          |  Expiry  : 1991-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-28   |  Author  : fine-seat
+UUID  : e3f739b7106044949b4f101684ad3fd5
+```
+
+<a href="./archive/00359_000.jpg" target="_blank">
+	<img src="./lowres/00359_000.jpg" alt="ORWO Chrom UT21 35mm film box outside" loading="lazy" width="409" height="499">
+</a>
+
+
+`UUID: a9dd1ce04a364ba9bf0610b68b3d3b89`↓
+
+<a href="./archive/00359_001.jpg" target="_blank">
+	<img src="./lowres/00359_001.jpg" alt="ORWO Chrom UT21 35mm film box leaflet" loading="lazy" width="299" height="500">
+</a>
+
+
+`UUID: 357b9379dea24d16b611aaf25ccdcd04`↓
+
+<a href="./archive/00359_002.jpg" target="_blank">
+	<img src="./lowres/00359_002.jpg" alt="ORWO Chrom UT21 35mm film box leaflet" loading="lazy" width="298" height="500">
+</a>
+
+
+`UUID: 27c54d7248cb4d858c6773bc29ec69a3`↓
+
+<a href="./archive/00359_003.jpg" target="_blank">
+	<img src="./lowres/00359_003.jpg" alt="ORWO Chrom UT21 35mm film box processing envelope" loading="lazy" width="500" height="284">
+</a>
+
+
+`UUID: 1340536f2f4b408a9129dea625da8168`↓
+
+<a href="./archive/00359_004.jpg" target="_blank">
+	<img src="./lowres/00359_004.jpg" alt="ORWO Chrom UT21 35mm film box processing envelope" loading="lazy" width="282" height="500">
 </a>
 
 #### [1991] Tasma OCh 50 (ref: 5c43)
@@ -2051,7 +2124,7 @@ UUID  : 1cf47ce82b58418f9e009b4f0121c41b
 Format: 35mm         |  Process : C-41    
 ISO   : 1600         |  Expiry  : 1993-08 
 Type  : Single Pack  |  Quantity: 24exp   
-Added : 2025-07-31   |  Author  : stefanie
+Added : 2025-07-31   |  Author  : fine-seat
 UUID  : cc723aa89e9e43ec8ac1ebd18efa94b9
 ```
 
@@ -2100,7 +2173,7 @@ UUID  : 63fd3851483d457d9fdc15b2d24461d0
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 1994-07 
 Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-07-31   |  Author  : stefanie
+Added : 2025-07-31   |  Author  : fine-seat
 UUID  : 9233714654ff481089c2d4ff1334ee94
 ```
 
@@ -2513,7 +2586,7 @@ UUID  : 5bfbb5140c7943fcb52950d4db4c311b
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 1999-05 
 Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-07-31   |  Author  : stefanie
+Added : 2025-07-31   |  Author  : fine-seat
 UUID  : c56f944bf87d40dcac75cf41aeb82f8d
 ```
 
@@ -3451,7 +3524,7 @@ UUID  : c2225dedcae040e7bb27a918c4ca93b9
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2005-03 
 Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-07-31   |  Author  : stefanie
+Added : 2025-07-31   |  Author  : fine-seat
 UUID  : 86136eea89d14e15b60dfcdf45b1689e
 ```
 
@@ -4221,7 +4294,7 @@ UUID  : cb85af928a7f454e9673960e22b428da
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2012-03 
 Type  : Multi-Pack-2 |  Quantity: 36exp   
-Added : 2025-07-31   |  Author  : stefanie
+Added : 2025-07-31   |  Author  : fine-seat
 UUID  : faf0a44eece541a9b701feb772f4f8bf
 ```
 
@@ -7162,14 +7235,14 @@ Rank  Username                      Contributions
 3     Pelicram                      52    
 4     @ellafridalindblom            42    
 5     The Compartmentalist          25    
-6     Camera.Riley                  19    
-7     Nano_Burger                   18    
-8     @ob.skura                     16    
-9     @recycling.film               15    
-10    b0baspace                     14    
-11    @SirBrentsworth               13    
-12    toader                        13    
-13    stefanie                      12    
+6     fine-seat                     19    
+7     Camera.Riley                  19    
+8     Nano_Burger                   18    
+9     @ob.skura                     16    
+10    @recycling.film               15    
+11    b0baspace                     14    
+12    @SirBrentsworth               13    
+13    toader                        13    
 14    yc128                         11    
 15    @zruk_ts                      10    
 16    lilyu.xyz                     9     

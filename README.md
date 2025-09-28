@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Sep 28 2025
-Unique items: 353
-Total scans : 614
+Unique items: 356
+Total scans : 621
 ```
 
 Or Sort by...
@@ -58,14 +58,14 @@ Rank  Username                      Contributions
 3     Pelicram                      52    
 4     @ellafridalindblom            42    
 5     The Compartmentalist          25    
-6     Camera.Riley                  19    
-7     Nano_Burger                   18    
-8     @ob.skura                     16    
-9     @recycling.film               15    
-10    b0baspace                     14    
-11    @SirBrentsworth               13    
-12    toader                        13    
-13    stefanie                      12    
+6     fine-seat                     19    
+7     Camera.Riley                  19    
+8     Nano_Burger                   18    
+9     @ob.skura                     16    
+10    @recycling.film               15    
+11    b0baspace                     14    
+12    @SirBrentsworth               13    
+13    toader                        13    
 14    yc128                         11    
 15    @zruk_ts                      10    
 16    lilyu.xyz                     9     
@@ -98,6 +98,9 @@ Rank  Username                      Contributions
   - @ellafridalindblom: Polaroid Spectra Film
   - @Hol.m35: JCH Streetpan
   - dekuNukem: Klick Max Extra Definition Multi Purpose Film
+  - fine-seat: Agfa Isopan ISS
+  - fine-seat: Herzog Duxopan
+  - fine-seat: ORWO Chrom UT21
   - lemoniter: Club Color Natural Color System
 
 2025-09-18

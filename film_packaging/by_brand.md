@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 28 2025
-Unique items: 353
-Total scans : 614
+Unique items: 356
+Total scans : 621
 ```
 
 -----
@@ -43,6 +43,7 @@ Total scans : 614
 - [Agfa Fine-Grain Plenachrome (ref: e5d4)](#agfa-fine-grain-plenachrome-ref-e5d4)
 - [Agfa Isopan FF (ref: 3700)](#agfa-isopan-ff-ref-3700)
 - [Agfa Isopan ISS (ref: 75fa)](#agfa-isopan-iss-ref-75fa)
+- [Agfa Isopan ISS (ref: 5ba6)](#agfa-isopan-iss-ref-5ba6)
 - [Agfa Optima II 400 (ref: fdf0)](#agfa-optima-ii-400-ref-fdf0)
 - [Agfa Trockenplatten (ref: 0937)](#agfa-trockenplatten-ref-0937)
 - [Agfa Trockenplatten (ref: 41a8)](#agfa-trockenplatten-ref-41a8)
@@ -150,6 +151,7 @@ Total scans : 614
 - [Harman Red (ref: da3a)](#harman-red-ref-da3a)
 - [Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#hasselblad-hassel-plåtar-erorto-ref-ec67)
 - [Hazenfilm Sorolla Chrome (ref: 889f)](#hazenfilm-sorolla-chrome-ref-889f)
+- [Herzog Duxopan (ref: a9ad)](#herzog-duxopan-ref-a9ad)
 - [Hope Film Bubble (ref: 41f4)](#hope-film-bubble-ref-41f4)
 - [Ificolor SHR 100 (ref: 0198)](#ificolor-shr-100-ref-0198)
 - [Ificolor Super FG HQ 200 (ref: ff86)](#ificolor-super-fg-hq-200-ref-ff86)
@@ -328,6 +330,7 @@ Total scans : 614
 - [Mr. Negative Eterna 250D (ref: 6d6e)](#mr-negative-eterna-250d-ref-6d6e)
 - [Mr. Negative Silver Screen Negative (ref: c968)](#mr-negative-silver-screen-negative-ref-c968)
 - [Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#mutascan-kodak-vision3-500t5219-ref-5150)
+- [ORWO Chrom UT21 (ref: 3fd5)](#orwo-chrom-ut21-ref-3fd5)
 - [ORWO NP 20 SL (ref: b16c)](#orwo-np-20-sl-ref-b16c)
 - [Perutz Superomnia (ref: c90d)](#perutz-superomnia-ref-c90d)
 - [Phöbus-Platten Sheet Film (ref: d505)](#phöbus-platten-sheet-film-ref-d505)
@@ -616,7 +619,7 @@ UUID  : f1e50745927f4b7cb16af36fd30dd3af
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2005-03 
 Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-07-31   |  Author  : stefanie
+Added : 2025-07-31   |  Author  : fine-seat
 UUID  : 86136eea89d14e15b60dfcdf45b1689e
 ```
 
@@ -799,6 +802,20 @@ UUID  : cdcaa912ee0142c3b76eb1500e2375fa
 	<img src="./lowres/00148_000.jpg" alt="Agfa Isopan ISS 35mm film box outside" loading="lazy" width="500" height="406">
 </a>
 
+#### Agfa Isopan ISS (ref: 5ba6)
+
+```
+Format: 127          |  Process : BW      
+ISO   : 100          |  Expiry  : 1974-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-28   |  Author  : fine-seat
+UUID  : ab1d4ea5f512444e92d82e4610c75ba6
+```
+
+<a href="./archive/00357_000.jpg" target="_blank">
+	<img src="./lowres/00357_000.jpg" alt="Agfa Isopan ISS 127 film box outside" loading="lazy" width="500" height="412">
+</a>
+
 #### Agfa Optima II 400 (ref: fdf0)
 
 ```
@@ -882,7 +899,7 @@ UUID  : b1c4d56515954c8d98bd0b8f9591f08a
 Format: 35mm         |  Process : C-41    
 ISO   : 1600         |  Expiry  : 1993-08 
 Type  : Single Pack  |  Quantity: 24exp   
-Added : 2025-07-31   |  Author  : stefanie
+Added : 2025-07-31   |  Author  : fine-seat
 UUID  : cc723aa89e9e43ec8ac1ebd18efa94b9
 ```
 
@@ -2282,7 +2299,7 @@ UUID  : 331bb2ddb04f4cd8ab637f79324e55ff
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 1994-07 
 Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-07-31   |  Author  : stefanie
+Added : 2025-07-31   |  Author  : fine-seat
 UUID  : 9233714654ff481089c2d4ff1334ee94
 ```
 
@@ -2813,6 +2830,20 @@ UUID  : 462e32d45cd740cf866732a73a00889f
 
 <a href="./archive/00137_000.jpg" target="_blank">
 	<img src="./lowres/00137_000.jpg" alt="Hazenfilm Sorolla Chrome 35mm film box outside" loading="lazy" width="438" height="500">
+</a>
+
+#### Herzog Duxopan (ref: a9ad)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 1982-09 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-09-28   |  Author  : fine-seat
+UUID  : 7ac665727691429d9ea1ec73ebe9a9ad
+```
+
+<a href="./archive/00358_000.jpg" target="_blank">
+	<img src="./lowres/00358_000.jpg" alt="Herzog Duxopan 35mm film box outside" loading="lazy" width="500" height="486">
 </a>
 
 #### Hope Film Bubble (ref: 41f4)
@@ -3717,7 +3748,7 @@ UUID  : 064dbfe80ca84ac99329c252bce0775a
 Format: Super 8      |  Process : Unknown 
 ISO   : 160          |  Expiry  : 1980-11 
 Type  : Single Pack  |  Quantity: 50ft    
-Added : 2025-07-31   |  Author  : stefanie
+Added : 2025-07-31   |  Author  : fine-seat
 UUID  : 6032680a3aba41b39c600d7e23998f62
 ```
 
@@ -4291,7 +4322,7 @@ UUID  : dc04ec32aeda4b9ba394437272fde9b6
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 1999-05 
 Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-07-31   |  Author  : stefanie
+Added : 2025-07-31   |  Author  : fine-seat
 UUID  : c56f944bf87d40dcac75cf41aeb82f8d
 ```
 
@@ -4872,7 +4903,7 @@ UUID  : a26daa2cb6e44957af3d978bc67e035f
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2012-03 
 Type  : Multi-Pack-2 |  Quantity: 36exp   
-Added : 2025-07-31   |  Author  : stefanie
+Added : 2025-07-31   |  Author  : fine-seat
 UUID  : faf0a44eece541a9b701feb772f4f8bf
 ```
 
@@ -6203,6 +6234,48 @@ UUID  : e4d2af3a69704509a07e108fcb4b5150
 	<img src="./lowres/00185_000.jpg" alt="Mutascan Kodak Vision3 500T/5219 35mm film box outside" loading="lazy" width="475" height="500">
 </a>
 
+#### ORWO Chrom UT21 (ref: 3fd5)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 100          |  Expiry  : 1991-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-28   |  Author  : fine-seat
+UUID  : e3f739b7106044949b4f101684ad3fd5
+```
+
+<a href="./archive/00359_000.jpg" target="_blank">
+	<img src="./lowres/00359_000.jpg" alt="ORWO Chrom UT21 35mm film box outside" loading="lazy" width="409" height="499">
+</a>
+
+
+`UUID: a9dd1ce04a364ba9bf0610b68b3d3b89`↓
+
+<a href="./archive/00359_001.jpg" target="_blank">
+	<img src="./lowres/00359_001.jpg" alt="ORWO Chrom UT21 35mm film box leaflet" loading="lazy" width="299" height="500">
+</a>
+
+
+`UUID: 357b9379dea24d16b611aaf25ccdcd04`↓
+
+<a href="./archive/00359_002.jpg" target="_blank">
+	<img src="./lowres/00359_002.jpg" alt="ORWO Chrom UT21 35mm film box leaflet" loading="lazy" width="298" height="500">
+</a>
+
+
+`UUID: 27c54d7248cb4d858c6773bc29ec69a3`↓
+
+<a href="./archive/00359_003.jpg" target="_blank">
+	<img src="./lowres/00359_003.jpg" alt="ORWO Chrom UT21 35mm film box processing envelope" loading="lazy" width="500" height="284">
+</a>
+
+
+`UUID: 1340536f2f4b408a9129dea625da8168`↓
+
+<a href="./archive/00359_004.jpg" target="_blank">
+	<img src="./lowres/00359_004.jpg" alt="ORWO Chrom UT21 35mm film box processing envelope" loading="lazy" width="282" height="500">
+</a>
+
 #### ORWO NP 20 SL (ref: b16c)
 
 ```
@@ -7162,14 +7235,14 @@ Rank  Username                      Contributions
 3     Pelicram                      52    
 4     @ellafridalindblom            42    
 5     The Compartmentalist          25    
-6     Camera.Riley                  19    
-7     Nano_Burger                   18    
-8     @ob.skura                     16    
-9     @recycling.film               15    
-10    b0baspace                     14    
-11    @SirBrentsworth               13    
-12    toader                        13    
-13    stefanie                      12    
+6     fine-seat                     19    
+7     Camera.Riley                  19    
+8     Nano_Burger                   18    
+9     @ob.skura                     16    
+10    @recycling.film               15    
+11    b0baspace                     14    
+12    @SirBrentsworth               13    
+13    toader                        13    
 14    yc128                         11    
 15    @zruk_ts                      10    
 16    lilyu.xyz                     9     

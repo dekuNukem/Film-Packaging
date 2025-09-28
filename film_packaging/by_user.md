@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 28 2025
-Unique items: 353
-Total scans : 614
+Unique items: 356
+Total scans : 621
 ```
 
 -----
@@ -345,6 +345,15 @@ Total scans : 614
 - [[dekuNukem] Rollei Retro 80S (ref: e6c0)](#dekunukem-rollei-retro-80s-ref-e6c0)
 - [[dekuNukem] SupaSnaps Snappit Film (ref: c41b)](#dekunukem-supasnaps-snappit-film-ref-c41b)
 - [[dekuNukem] Three Film Rolls 5207 (ref: 0292)](#dekunukem-three-film-rolls-5207-ref-0292)
+- [[fine-seat] Agfa Agfacolor XRG 200 (ref: 689e)](#fine-seat-agfa-agfacolor-xrg-200-ref-689e)
+- [[fine-seat] Agfa Isopan ISS (ref: 5ba6)](#fine-seat-agfa-isopan-iss-ref-5ba6)
+- [[fine-seat] Alfo ALFOcolor PR-G (ref: 94b9)](#fine-seat-alfo-alfocolor-pr-g-ref-94b9)
+- [[fine-seat] Fujifilm Fujicolor Super HG (ref: ee94)](#fine-seat-fujifilm-fujicolor-super-hg-ref-ee94)
+- [[fine-seat] Herzog Duxopan (ref: a9ad)](#fine-seat-herzog-duxopan-ref-a9ad)
+- [[fine-seat] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)](#fine-seat-kodak-ektachrome-160-movie-film-type-a-ref-8f62)
+- [[fine-seat] Kodak Gold (ref: 2f8d)](#fine-seat-kodak-gold-ref-2f8d)
+- [[fine-seat] Kodak Kodacolor VR Plus (ref: f8bf)](#fine-seat-kodak-kodacolor-vr-plus-ref-f8bf)
+- [[fine-seat] ORWO Chrom UT21 (ref: 3fd5)](#fine-seat-orwo-chrom-ut21-ref-3fd5)
 - [[kaimon] Ilford Ilfochrome (ref: ac24)](#kaimon-ilford-ilfochrome-ref-ac24)
 - [[kaimon] Kodak High Speed Ektachrome (ref: 7533)](#kaimon-kodak-high-speed-ektachrome-ref-7533)
 - [[lemoniter] Club Color Natural Color System (ref: 813a)](#lemoniter-club-color-natural-color-system-ref-813a)
@@ -356,12 +365,6 @@ Total scans : 614
 - [[lt_col_tall] CatLABS X Film 320 Pro (ref: 1c69)](#lt_col_tall-catlabs-x-film-320-pro-ref-1c69)
 - [[lt_col_tall] Reflx Lab 250D (ref: 1a3e)](#lt_col_tall-reflx-lab-250d-ref-1a3e)
 - [[lt_col_tall] Reflx Lab Pro 100 (ref: 1311)](#lt_col_tall-reflx-lab-pro-100-ref-1311)
-- [[stefanie] Agfa Agfacolor XRG 200 (ref: 689e)](#stefanie-agfa-agfacolor-xrg-200-ref-689e)
-- [[stefanie] Alfo ALFOcolor PR-G (ref: 94b9)](#stefanie-alfo-alfocolor-pr-g-ref-94b9)
-- [[stefanie] Fujifilm Fujicolor Super HG (ref: ee94)](#stefanie-fujifilm-fujicolor-super-hg-ref-ee94)
-- [[stefanie] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)](#stefanie-kodak-ektachrome-160-movie-film-type-a-ref-8f62)
-- [[stefanie] Kodak Gold (ref: 2f8d)](#stefanie-kodak-gold-ref-2f8d)
-- [[stefanie] Kodak Kodacolor VR Plus (ref: f8bf)](#stefanie-kodak-kodacolor-vr-plus-ref-f8bf)
 - [[toader] Kodak Ektachrome 100 Plus (ref: 5d9f)](#toader-kodak-ektachrome-100-plus-ref-5d9f)
 - [[toader] Kodak Ektachrome E100 (ref: ae10)](#toader-kodak-ektachrome-e100-ref-ae10)
 - [[toader] Kodak Ektachrome Elite 100 (ref: 26ef)](#toader-kodak-ektachrome-elite-100-ref-26ef)
@@ -6532,6 +6535,202 @@ UUID  : 4de0f5e76dd748c488fa81be23340292
 	<img src="./lowres/00059_000.jpg" alt="Three Film Rolls 5207 35mm film box outside" loading="lazy" width="452" height="500">
 </a>
 
+#### [fine-seat] Agfa Agfacolor XRG 200 (ref: 689e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2005-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : fine-seat
+UUID  : 86136eea89d14e15b60dfcdf45b1689e
+```
+
+<a href="./archive/00152_000.jpg" target="_blank">
+	<img src="./lowres/00152_000.jpg" alt="Agfa Agfacolor XRG 200 35mm film box outside" loading="lazy" width="435" height="500">
+</a>
+
+
+`UUID: 5598d8aac5844772a87d019a7d37e9f6`↓
+
+<a href="./archive/00152_001.jpg" target="_blank">
+	<img src="./lowres/00152_001.jpg" alt="Agfa Agfacolor XRG 200 35mm film box inside" loading="lazy" width="404" height="500">
+</a>
+
+#### [fine-seat] Agfa Isopan ISS (ref: 5ba6)
+
+```
+Format: 127          |  Process : BW      
+ISO   : 100          |  Expiry  : 1974-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-28   |  Author  : fine-seat
+UUID  : ab1d4ea5f512444e92d82e4610c75ba6
+```
+
+<a href="./archive/00357_000.jpg" target="_blank">
+	<img src="./lowres/00357_000.jpg" alt="Agfa Isopan ISS 127 film box outside" loading="lazy" width="500" height="412">
+</a>
+
+#### [fine-seat] Alfo ALFOcolor PR-G (ref: 94b9)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 1600         |  Expiry  : 1993-08 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-07-31   |  Author  : fine-seat
+UUID  : cc723aa89e9e43ec8ac1ebd18efa94b9
+```
+
+<a href="./archive/00151_000.jpg" target="_blank">
+	<img src="./lowres/00151_000.jpg" alt="Alfo ALFOcolor PR-G 35mm film box outside" loading="lazy" width="414" height="500">
+</a>
+
+#### [fine-seat] Fujifilm Fujicolor Super HG (ref: ee94)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1994-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : fine-seat
+UUID  : 9233714654ff481089c2d4ff1334ee94
+```
+
+<a href="./archive/00150_000.jpg" target="_blank">
+	<img src="./lowres/00150_000.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box outside" loading="lazy" width="425" height="500">
+</a>
+
+
+`UUID: 302969081f4442239212b8e123d38378`↓
+
+<a href="./archive/00150_001.jpg" target="_blank">
+	<img src="./lowres/00150_001.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box inside" loading="lazy" width="415" height="500">
+</a>
+
+#### [fine-seat] Herzog Duxopan (ref: a9ad)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 1982-09 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-09-28   |  Author  : fine-seat
+UUID  : 7ac665727691429d9ea1ec73ebe9a9ad
+```
+
+<a href="./archive/00358_000.jpg" target="_blank">
+	<img src="./lowres/00358_000.jpg" alt="Herzog Duxopan 35mm film box outside" loading="lazy" width="500" height="486">
+</a>
+
+#### [fine-seat] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)
+
+```
+Format: Super 8      |  Process : Unknown 
+ISO   : 160          |  Expiry  : 1980-11 
+Type  : Single Pack  |  Quantity: 50ft    
+Added : 2025-07-31   |  Author  : fine-seat
+UUID  : 6032680a3aba41b39c600d7e23998f62
+```
+
+<a href="./archive/00154_000.jpg" target="_blank">
+	<img src="./lowres/00154_000.jpg" alt="Kodak Ektachrome 160 Movie Film Type A Super 8 film box outside" loading="lazy" width="500" height="379">
+</a>
+
+
+`UUID: 28c6f19bd37e4199a072687d11b19961`↓
+
+<a href="./archive/00154_001.jpg" target="_blank">
+	<img src="./lowres/00154_001.jpg" alt="Kodak Ektachrome 160 Movie Film Type A Super 8 film box leaflet" loading="lazy" width="351" height="500">
+</a>
+
+
+`UUID: 5d06a8833e0e44e8ab8d53bc0ce11095`↓
+
+<a href="./archive/00154_002.jpg" target="_blank">
+	<img src="./lowres/00154_002.jpg" alt="Kodak Ektachrome 160 Movie Film Type A Super 8 film box leaflet" loading="lazy" width="352" height="500">
+</a>
+
+
+`UUID: 870ff01807e949a7b361cdad01dddf7f`↓
+
+<a href="./archive/00154_003.jpg" target="_blank">
+	<img src="./lowres/00154_003.jpg" alt="Kodak Ektachrome 160 Movie Film Type A Super 8 film box processing envelope" loading="lazy" width="500" height="191">
+</a>
+
+
+`UUID: 31df442b386446679540b0cf52c92fd7`↓
+
+<a href="./archive/00154_004.jpg" target="_blank">
+	<img src="./lowres/00154_004.jpg" alt="Kodak Ektachrome 160 Movie Film Type A Super 8 film box processing envelope" loading="lazy" width="500" height="191">
+</a>
+
+#### [fine-seat] Kodak Gold (ref: 2f8d)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1999-05 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : fine-seat
+UUID  : c56f944bf87d40dcac75cf41aeb82f8d
+```
+
+<a href="./archive/00149_000.jpg" target="_blank">
+	<img src="./lowres/00149_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="396" height="500">
+</a>
+
+#### [fine-seat] Kodak Kodacolor VR Plus (ref: f8bf)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2012-03 
+Type  : Multi-Pack-2 |  Quantity: 36exp   
+Added : 2025-07-31   |  Author  : fine-seat
+UUID  : faf0a44eece541a9b701feb772f4f8bf
+```
+
+<a href="./archive/00153_000.jpg" target="_blank">
+	<img src="./lowres/00153_000.jpg" alt="Kodak Kodacolor VR Plus 35mm film box outside" loading="lazy" width="500" height="391">
+</a>
+
+#### [fine-seat] ORWO Chrom UT21 (ref: 3fd5)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 100          |  Expiry  : 1991-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-09-28   |  Author  : fine-seat
+UUID  : e3f739b7106044949b4f101684ad3fd5
+```
+
+<a href="./archive/00359_000.jpg" target="_blank">
+	<img src="./lowres/00359_000.jpg" alt="ORWO Chrom UT21 35mm film box outside" loading="lazy" width="409" height="499">
+</a>
+
+
+`UUID: a9dd1ce04a364ba9bf0610b68b3d3b89`↓
+
+<a href="./archive/00359_001.jpg" target="_blank">
+	<img src="./lowres/00359_001.jpg" alt="ORWO Chrom UT21 35mm film box leaflet" loading="lazy" width="299" height="500">
+</a>
+
+
+`UUID: 357b9379dea24d16b611aaf25ccdcd04`↓
+
+<a href="./archive/00359_002.jpg" target="_blank">
+	<img src="./lowres/00359_002.jpg" alt="ORWO Chrom UT21 35mm film box leaflet" loading="lazy" width="298" height="500">
+</a>
+
+
+`UUID: 27c54d7248cb4d858c6773bc29ec69a3`↓
+
+<a href="./archive/00359_003.jpg" target="_blank">
+	<img src="./lowres/00359_003.jpg" alt="ORWO Chrom UT21 35mm film box processing envelope" loading="lazy" width="500" height="284">
+</a>
+
+
+`UUID: 1340536f2f4b408a9129dea625da8168`↓
+
+<a href="./archive/00359_004.jpg" target="_blank">
+	<img src="./lowres/00359_004.jpg" alt="ORWO Chrom UT21 35mm film box processing envelope" loading="lazy" width="282" height="500">
+</a>
+
 #### [kaimon] Ilford Ilfochrome (ref: ac24)
 
 ```
@@ -6733,132 +6932,6 @@ UUID  : f7bc85a093744f3084883876ecc51311
 
 <a href="./archive/00195_000.jpg" target="_blank">
 	<img src="./lowres/00195_000.jpg" alt="Reflx Lab Pro 100 220 film box outside" loading="lazy" width="500" height="413">
-</a>
-
-#### [stefanie] Agfa Agfacolor XRG 200 (ref: 689e)
-
-```
-Format: 35mm         |  Process : C-41    
-ISO   : 200          |  Expiry  : 2005-03 
-Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-07-31   |  Author  : stefanie
-UUID  : 86136eea89d14e15b60dfcdf45b1689e
-```
-
-<a href="./archive/00152_000.jpg" target="_blank">
-	<img src="./lowres/00152_000.jpg" alt="Agfa Agfacolor XRG 200 35mm film box outside" loading="lazy" width="435" height="500">
-</a>
-
-
-`UUID: 5598d8aac5844772a87d019a7d37e9f6`↓
-
-<a href="./archive/00152_001.jpg" target="_blank">
-	<img src="./lowres/00152_001.jpg" alt="Agfa Agfacolor XRG 200 35mm film box inside" loading="lazy" width="404" height="500">
-</a>
-
-#### [stefanie] Alfo ALFOcolor PR-G (ref: 94b9)
-
-```
-Format: 35mm         |  Process : C-41    
-ISO   : 1600         |  Expiry  : 1993-08 
-Type  : Single Pack  |  Quantity: 24exp   
-Added : 2025-07-31   |  Author  : stefanie
-UUID  : cc723aa89e9e43ec8ac1ebd18efa94b9
-```
-
-<a href="./archive/00151_000.jpg" target="_blank">
-	<img src="./lowres/00151_000.jpg" alt="Alfo ALFOcolor PR-G 35mm film box outside" loading="lazy" width="414" height="500">
-</a>
-
-#### [stefanie] Fujifilm Fujicolor Super HG (ref: ee94)
-
-```
-Format: 35mm         |  Process : C-41    
-ISO   : 100          |  Expiry  : 1994-07 
-Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-07-31   |  Author  : stefanie
-UUID  : 9233714654ff481089c2d4ff1334ee94
-```
-
-<a href="./archive/00150_000.jpg" target="_blank">
-	<img src="./lowres/00150_000.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box outside" loading="lazy" width="425" height="500">
-</a>
-
-
-`UUID: 302969081f4442239212b8e123d38378`↓
-
-<a href="./archive/00150_001.jpg" target="_blank">
-	<img src="./lowres/00150_001.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box inside" loading="lazy" width="415" height="500">
-</a>
-
-#### [stefanie] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)
-
-```
-Format: Super 8      |  Process : Unknown 
-ISO   : 160          |  Expiry  : 1980-11 
-Type  : Single Pack  |  Quantity: 50ft    
-Added : 2025-07-31   |  Author  : stefanie
-UUID  : 6032680a3aba41b39c600d7e23998f62
-```
-
-<a href="./archive/00154_000.jpg" target="_blank">
-	<img src="./lowres/00154_000.jpg" alt="Kodak Ektachrome 160 Movie Film Type A Super 8 film box outside" loading="lazy" width="500" height="379">
-</a>
-
-
-`UUID: 28c6f19bd37e4199a072687d11b19961`↓
-
-<a href="./archive/00154_001.jpg" target="_blank">
-	<img src="./lowres/00154_001.jpg" alt="Kodak Ektachrome 160 Movie Film Type A Super 8 film box leaflet" loading="lazy" width="351" height="500">
-</a>
-
-
-`UUID: 5d06a8833e0e44e8ab8d53bc0ce11095`↓
-
-<a href="./archive/00154_002.jpg" target="_blank">
-	<img src="./lowres/00154_002.jpg" alt="Kodak Ektachrome 160 Movie Film Type A Super 8 film box leaflet" loading="lazy" width="352" height="500">
-</a>
-
-
-`UUID: 870ff01807e949a7b361cdad01dddf7f`↓
-
-<a href="./archive/00154_003.jpg" target="_blank">
-	<img src="./lowres/00154_003.jpg" alt="Kodak Ektachrome 160 Movie Film Type A Super 8 film box processing envelope" loading="lazy" width="500" height="191">
-</a>
-
-
-`UUID: 31df442b386446679540b0cf52c92fd7`↓
-
-<a href="./archive/00154_004.jpg" target="_blank">
-	<img src="./lowres/00154_004.jpg" alt="Kodak Ektachrome 160 Movie Film Type A Super 8 film box processing envelope" loading="lazy" width="500" height="191">
-</a>
-
-#### [stefanie] Kodak Gold (ref: 2f8d)
-
-```
-Format: 35mm         |  Process : C-41    
-ISO   : 100          |  Expiry  : 1999-05 
-Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-07-31   |  Author  : stefanie
-UUID  : c56f944bf87d40dcac75cf41aeb82f8d
-```
-
-<a href="./archive/00149_000.jpg" target="_blank">
-	<img src="./lowres/00149_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="396" height="500">
-</a>
-
-#### [stefanie] Kodak Kodacolor VR Plus (ref: f8bf)
-
-```
-Format: 35mm         |  Process : C-41    
-ISO   : 400          |  Expiry  : 2012-03 
-Type  : Multi-Pack-2 |  Quantity: 36exp   
-Added : 2025-07-31   |  Author  : stefanie
-UUID  : faf0a44eece541a9b701feb772f4f8bf
-```
-
-<a href="./archive/00153_000.jpg" target="_blank">
-	<img src="./lowres/00153_000.jpg" alt="Kodak Kodacolor VR Plus 35mm film box outside" loading="lazy" width="500" height="391">
 </a>
 
 #### [toader] Kodak Ektachrome 100 Plus (ref: 5d9f)
@@ -7162,14 +7235,14 @@ Rank  Username                      Contributions
 3     Pelicram                      52    
 4     @ellafridalindblom            42    
 5     The Compartmentalist          25    
-6     Camera.Riley                  19    
-7     Nano_Burger                   18    
-8     @ob.skura                     16    
-9     @recycling.film               15    
-10    b0baspace                     14    
-11    @SirBrentsworth               13    
-12    toader                        13    
-13    stefanie                      12    
+6     fine-seat                     19    
+7     Camera.Riley                  19    
+8     Nano_Burger                   18    
+9     @ob.skura                     16    
+10    @recycling.film               15    
+11    b0baspace                     14    
+12    @SirBrentsworth               13    
+13    toader                        13    
 14    yc128                         11    
 15    @zruk_ts                      10    
 16    lilyu.xyz                     9     
