@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 18 2025
-Unique items: 347
-Total scans : 607
+Last Updated: Sep 28 2025
+Unique items: 348
+Total scans : 608
 ```
 
 -----
@@ -181,6 +181,7 @@ Total scans : 607
 - [Kirkland Signature Color Print Film (ref: 0441)](#kirkland-signature-color-print-film-ref-0441)
 - [Klick 400ASA (ref: 8779)](#klick-400asa-ref-8779)
 - [Klick APS Film (ref: 4b88)](#klick-aps-film-ref-4b88)
+- [Klick Max Extra Definition Multi Purpose Film (ref: 8ae4)](#klick-max-extra-definition-multi-purpose-film-ref-8ae4)
 - [Klick XD200 (ref: 44d7)](#klick-xd200-ref-44d7)
 - [Kodak 110 Film (ref: 8cca)](#kodak-110-film-ref-8cca)
 - [Kodak Advantix Ultra (ref: 030a)](#kodak-advantix-ultra-ref-030a)
@@ -3416,6 +3417,20 @@ UUID  : 1dc3d9dbb8bb42b4acfbfbe0737a4b88
 
 <a href="./archive/00063_001.jpg" target="_blank">
 	<img src="./lowres/00063_001.jpg" alt="Klick APS Film APS film box inside" loading="lazy" width="500" height="268">
+</a>
+
+#### Klick Max Extra Definition Multi Purpose Film (ref: 8ae4)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2007-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-28   |  Author  : dekuNukem
+UUID  : b1affc3985b44a4781729ffa50908ae4
+```
+
+<a href="./archive/00351_000.jpg" target="_blank">
+	<img src="./lowres/00351_000.jpg" alt="Klick Max Extra Definition Multi Purpose Film 35mm film box outside" loading="lazy" width="468" height="500">
 </a>
 
 #### Klick XD200 (ref: 44d7)
@@ -7060,7 +7075,7 @@ UUID  : 46037fb6c55244b6ae47c55d0e454bf8
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     206   
+1     dekuNukem                     207   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            39    

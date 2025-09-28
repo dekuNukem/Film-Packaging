@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 18 2025
-Unique items: 347
-Total scans : 607
+Last Updated: Sep 28 2025
+Unique items: 348
+Total scans : 608
 ```
 
 -----
@@ -284,6 +284,7 @@ Total scans : 607
 - [[dekuNukem] Kentmere PAN 400 (ref: 827e)](#dekunukem-kentmere-pan-400-ref-827e)
 - [[dekuNukem] Klick 400ASA (ref: 8779)](#dekunukem-klick-400asa-ref-8779)
 - [[dekuNukem] Klick APS Film (ref: 4b88)](#dekunukem-klick-aps-film-ref-4b88)
+- [[dekuNukem] Klick Max Extra Definition Multi Purpose Film (ref: 8ae4)](#dekunukem-klick-max-extra-definition-multi-purpose-film-ref-8ae4)
 - [[dekuNukem] Klick XD200 (ref: 44d7)](#dekunukem-klick-xd200-ref-44d7)
 - [[dekuNukem] Kodak Advantix Ultra (ref: 566b)](#dekunukem-kodak-advantix-ultra-ref-566b)
 - [[dekuNukem] Kodak Advantix Ultra Max (ref: 1ca2)](#dekunukem-kodak-advantix-ultra-max-ref-1ca2)
@@ -5217,6 +5218,20 @@ UUID  : 1dc3d9dbb8bb42b4acfbfbe0737a4b88
 	<img src="./lowres/00063_001.jpg" alt="Klick APS Film APS film box inside" loading="lazy" width="500" height="268">
 </a>
 
+#### [dekuNukem] Klick Max Extra Definition Multi Purpose Film (ref: 8ae4)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2007-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-28   |  Author  : dekuNukem
+UUID  : b1affc3985b44a4781729ffa50908ae4
+```
+
+<a href="./archive/00351_000.jpg" target="_blank">
+	<img src="./lowres/00351_000.jpg" alt="Klick Max Extra Definition Multi Purpose Film 35mm film box outside" loading="lazy" width="468" height="500">
+</a>
+
 #### [dekuNukem] Klick XD200 (ref: 44d7)
 
 ```
@@ -7060,7 +7075,7 @@ UUID  : e54ce68c797b4846b9aee3f5818ecb58
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     206   
+1     dekuNukem                     207   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            39    

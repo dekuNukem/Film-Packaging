@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 18 2025
-Unique items: 347
-Total scans : 607
+Last Updated: Sep 28 2025
+Unique items: 348
+Total scans : 608
 ```
 
 Or Sort by...
@@ -53,7 +53,7 @@ Or Sort by...
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     206   
+1     dekuNukem                     207   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            39    
@@ -91,6 +91,9 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-09-28
+  - dekuNukem: Klick Max Extra Definition Multi Purpose Film
+
 2025-09-18
   - dekuNukem: Film Corporation of America TriFCA 120
   - dekuNukem: Fujifilm Fujicolor HR 1600
@@ -127,11 +130,6 @@ Rank  Username                      Contributions
   - @sachynmital: Mr. Negative 250D
   - @sachynmital: Mr. Negative Eterna 250D
   - @sachynmital: Mr. Negative Silver Screen Negative
-
-2025-09-10
-  - Aoi Yuki: Kodak Advantix Ultra
-  - dekuNukem: Fujifilm Fujichrome Provia 400 Professional
-  - dekuNukem: Fujifilm Fujichrome Provia 400F Professional
 ```
 
 ## Disclaimer

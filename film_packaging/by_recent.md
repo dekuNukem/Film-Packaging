@@ -15,13 +15,14 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 18 2025
-Unique items: 347
-Total scans : 607
+Last Updated: Sep 28 2025
+Unique items: 348
+Total scans : 608
 ```
 
 -----
 
+- [[2025-09-28] Klick Max Extra Definition Multi Purpose Film (ref: 8ae4)](#2025-09-28-klick-max-extra-definition-multi-purpose-film-ref-8ae4)
 - [[2025-09-18] Fujifilm Fujicolor HR 1600 (ref: 1d39)](#2025-09-18-fujifilm-fujicolor-hr-1600-ref-1d39)
 - [[2025-09-18] Polaroid 990 (ref: e3bc)](#2025-09-18-polaroid-990-ref-e3bc)
 - [[2025-09-18] Film Corporation of America TriFCA 120 (ref: 9937)](#2025-09-18-film-corporation-of-america-trifca-120-ref-9937)
@@ -372,6 +373,20 @@ Total scans : 607
 
 
 -----
+
+#### [2025-09-28] Klick Max Extra Definition Multi Purpose Film (ref: 8ae4)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2007-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-28   |  Author  : dekuNukem
+UUID  : b1affc3985b44a4781729ffa50908ae4
+```
+
+<a href="./archive/00351_000.jpg" target="_blank">
+	<img src="./lowres/00351_000.jpg" alt="Klick Max Extra Definition Multi Purpose Film 35mm film box outside" loading="lazy" width="468" height="500">
+</a>
 
 
 `UUID: f5abcdb901ff4bae82a7b52a8d8dda5c`↓
@@ -7060,7 +7075,7 @@ UUID  : 36151f6b7cc045c2b43d7f5cbee41a5d
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     206   
+1     dekuNukem                     207   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            39    

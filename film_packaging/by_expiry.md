@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 18 2025
-Unique items: 347
-Total scans : 607
+Last Updated: Sep 28 2025
+Unique items: 348
+Total scans : 608
 ```
 
 -----
@@ -183,6 +183,7 @@ Total scans : 607
 - [[2007] Kodak MAX (ref: 2361)](#2007-kodak-max-ref-2361)
 - [[2007] Fujifilm Fujicolor Superia Reala (ref: a7de)](#2007-fujifilm-fujicolor-superia-reala-ref-a7de)
 - [[2007] Kodak Kodachrome 64 (ref: 3206)](#2007-kodak-kodachrome-64-ref-3206)
+- [[2007] Klick Max Extra Definition Multi Purpose Film (ref: 8ae4)](#2007-klick-max-extra-definition-multi-purpose-film-ref-8ae4)
 - [[2007] Ilford Delta 400 Professional (ref: 8f8b)](#2007-ilford-delta-400-professional-ref-8f8b)
 - [[2007] Lloyds Pharmacy APS Film (ref: c7cf)](#2007-lloyds-pharmacy-aps-film-ref-c7cf)
 - [[2007] Fujifilm Fujicolor Pro 400H (ref: 48ed)](#2007-fujifilm-fujicolor-pro-400h-ref-48ed)
@@ -3831,6 +3832,20 @@ UUID  : dc9c151b87de48339e564e6692663206
 	<img src="./lowres/00060_000.jpg" alt="Kodak Kodachrome 64 35mm film box outside" loading="lazy" width="450" height="499">
 </a>
 
+#### [2007] Klick Max Extra Definition Multi Purpose Film (ref: 8ae4)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2007-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-28   |  Author  : dekuNukem
+UUID  : b1affc3985b44a4781729ffa50908ae4
+```
+
+<a href="./archive/00351_000.jpg" target="_blank">
+	<img src="./lowres/00351_000.jpg" alt="Klick Max Extra Definition Multi Purpose Film 35mm film box outside" loading="lazy" width="468" height="500">
+</a>
+
 #### [2007] Ilford Delta 400 Professional (ref: 8f8b)
 
 ```
@@ -7060,7 +7075,7 @@ UUID  : 80d64fa269454c5589109c68a40541a8
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     206   
+1     dekuNukem                     207   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            39    

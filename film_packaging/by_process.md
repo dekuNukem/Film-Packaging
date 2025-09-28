@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 18 2025
-Unique items: 347
-Total scans : 607
+Last Updated: Sep 28 2025
+Unique items: 348
+Total scans : 608
 ```
 
 -----
@@ -201,6 +201,7 @@ Total scans : 607
 - [[C-41] Kirkland Signature Color Print Film (ref: 0441)](#c-41-kirkland-signature-color-print-film-ref-0441)
 - [[C-41] Klick 400ASA (ref: 8779)](#c-41-klick-400asa-ref-8779)
 - [[C-41] Klick APS Film (ref: 4b88)](#c-41-klick-aps-film-ref-4b88)
+- [[C-41] Klick Max Extra Definition Multi Purpose Film (ref: 8ae4)](#c-41-klick-max-extra-definition-multi-purpose-film-ref-8ae4)
 - [[C-41] Klick XD200 (ref: 44d7)](#c-41-klick-xd200-ref-44d7)
 - [[C-41] Kodak 110 Film (ref: 8cca)](#c-41-kodak-110-film-ref-8cca)
 - [[C-41] Kodak Advantix Ultra (ref: 030a)](#c-41-kodak-advantix-ultra-ref-030a)
@@ -3698,6 +3699,20 @@ UUID  : 1dc3d9dbb8bb42b4acfbfbe0737a4b88
 	<img src="./lowres/00063_001.jpg" alt="Klick APS Film APS film box inside" loading="lazy" width="500" height="268">
 </a>
 
+#### [C-41] Klick Max Extra Definition Multi Purpose Film (ref: 8ae4)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2007-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-09-28   |  Author  : dekuNukem
+UUID  : b1affc3985b44a4781729ffa50908ae4
+```
+
+<a href="./archive/00351_000.jpg" target="_blank">
+	<img src="./lowres/00351_000.jpg" alt="Klick Max Extra Definition Multi Purpose Film 35mm film box outside" loading="lazy" width="468" height="500">
+</a>
+
 #### [C-41] Klick XD200 (ref: 44d7)
 
 ```
@@ -7060,7 +7075,7 @@ UUID  : ac9eab85f0874cf7aa5c67f0458e7533
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     206   
+1     dekuNukem                     207   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            39    
