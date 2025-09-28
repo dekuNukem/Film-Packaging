@@ -610,3 +610,5 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 352,0,film_box_outside,Polaroid,Spectra Film,Integral Film,600,Instant,200211,1759069689,a02b1506853cc8dee10fd6d7c0d78e94,2ec40bee5af2471cad92278123ba7a94,00352_000.jpg,@ellafridalindblom,,Single Pack,10exp
 353,0,film_box_outside,Kodak,High Speed Infrared Film 2481,35mm,Unknown,BW,197401,1759069831,63d9db3af2fc8711d36f44e9c334a60a,6670d5214ea545e99bfb7aadb6d4aa7a,00353_000.jpg,@ellafridalindblom,,Bulk Roll,150ft
 354,0,film_box_outside,Impossible Project,PX 600 Silver Shade UV+,Integral Film,600,Instant,Unknown,1759070023,8e29ec69c012c78613e62ca25cadc871,28ed6948476d4d7baeb8e7fd7c3520f3,00354_000.jpg,@ellafridalindblom,,Single Pack,8exp
+355,0,film_box_outside,JCH,Streetpan,120,400,BW,202604,1759070227,e600dd4a89d0acde5da92cc9fbbb976b,f32d9e32d43441b79220744cdb4e5c70,00355_000.jpg,@Hol.m35,,Single Pack,N/A
+355,1,film_box_inside,JCH,Streetpan,120,400,BW,202604,1759070229,c7fa317f0a627f03574751166af71b8f,7935fbe7f8a44593a172f1e9fc2fd2bc,00355_001.jpg,@Hol.m35,,Single Pack,N/A

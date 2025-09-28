@@ -1,6 +1,14 @@
-if [[ $# -eq 0 ]] ; then
-    echo 'error: please enter a commit comment'
-    exit 1
+#!/bin/bash
+
+# Check for commit message
+if [[ $# -eq 0 ]]; then
+    read -r -p "Enter a commit comment: " commit_message
+    if [[ -z "$commit_message" ]]; then
+        echo "error: commit comment cannot be empty"
+        exit 1
+    fi
+else
+    commit_message="$*"
 fi
 
 # Cleanup junk files
@@ -18,7 +26,7 @@ python3 update_stats.py
 current_branch=$(git rev-parse --abbrev-ref HEAD)
 
 git add --all
-git commit -m "$@"
+git commit -m "$commit_message"
 
 # Ask whether to push
 read -r -p "Do you want to push to remote (y/n)? " answer

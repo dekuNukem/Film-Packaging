@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 28 2025
-Unique items: 351
-Total scans : 611
+Unique items: 352
+Total scans : 613
 ```
 
 -----
@@ -286,6 +286,7 @@ Total scans : 611
 - [[2026] Bergger Pancro400 (ref: ad7b)](#2026-bergger-pancro400-ref-ad7b)
 - [[2026] Foma Ortho 400 (ref: 89e7)](#2026-foma-ortho-400-ref-89e7)
 - [[2026] Ilford FP4 Plus (ref: 76e7)](#2026-ilford-fp4-plus-ref-76e7)
+- [[2026] JCH Streetpan (ref: 5c70)](#2026-jch-streetpan-ref-5c70)
 - [[2026] Kodak TMAX P3200 (ref: 521a)](#2026-kodak-tmax-p3200-ref-521a)
 - [[2026] Lomography Lomochrome Color'92 (ref: 12b4)](#2026-lomography-lomochrome-color92-ref-12b4)
 - [[2026] Svema Foto 200 (ref: 6991)](#2026-svema-foto-200-ref-6991)
@@ -5620,6 +5621,27 @@ UUID  : c6c88d6d009048e9ac3721bdc7f076e7
 	<img src="./lowres/00111_001.jpg" alt="Ilford FP4 Plus 120 film box inside" loading="lazy" width="500" height="465">
 </a>
 
+#### [2026] JCH Streetpan (ref: 5c70)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2026-04 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-28   |  Author  : @Hol.m35
+UUID  : f32d9e32d43441b79220744cdb4e5c70
+```
+
+<a href="./archive/00355_000.jpg" target="_blank">
+	<img src="./lowres/00355_000.jpg" alt="JCH Streetpan 120 film box outside" loading="lazy" width="500" height="456">
+</a>
+
+
+`UUID: 7935fbe7f8a44593a172f1e9fc2fd2bc`↓
+
+<a href="./archive/00355_001.jpg" target="_blank">
+	<img src="./lowres/00355_001.jpg" alt="JCH Streetpan 120 film box inside" loading="lazy" width="500" height="463">
+</a>
+
 #### [2026] Kodak TMAX P3200 (ref: 521a)
 
 ```
@@ -7140,12 +7162,12 @@ Rank  Username                      Contributions
 18    @filmfotofella                7     
 19    benikum                       6     
 20    GreatGizmo74                  6     
-21    Kraksen                       5     
-22    Henry Gunn                    4     
-23    u/ReeeSchmidtyWerber          4     
-24    lt_col_tall                   4     
-25    kaimon                        4     
-26    @Hol.m35                      3     
+21    @Hol.m35                      5     
+22    Kraksen                       5     
+23    Henry Gunn                    4     
+24    u/ReeeSchmidtyWerber          4     
+25    lt_col_tall                   4     
+26    kaimon                        4     
 27    TheSelousScout                3     
 28    @sachynmital                  3     
 29    @seklerek                     2     

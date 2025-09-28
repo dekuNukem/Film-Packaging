@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 28 2025
-Unique items: 351
-Total scans : 611
+Unique items: 352
+Total scans : 613
 ```
 
 -----
@@ -25,6 +25,7 @@ Total scans : 611
 - [[@Hol.m35] Boots Colour Print Film (ref: a30f)](#holm35-boots-colour-print-film-ref-a30f)
 - [[@Hol.m35] Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)](#holm35-fujifilm-fujicolor-superia-x-tra-ref-6b8a)
 - [[@Hol.m35] Hope Film Bubble (ref: 41f4)](#holm35-hope-film-bubble-ref-41f4)
+- [[@Hol.m35] JCH Streetpan (ref: 5c70)](#holm35-jch-streetpan-ref-5c70)
 - [[@SirBrentsworth] CineStill 800T (ref: b3ff)](#sirbrentsworth-cinestill-800t-ref-b3ff)
 - [[@SirBrentsworth] Ilford HP5 Plus (ref: df49)](#sirbrentsworth-ilford-hp5-plus-ref-df49)
 - [[@SirBrentsworth] Kentmere PAN 100 (ref: c907)](#sirbrentsworth-kentmere-pan-100-ref-c907)
@@ -417,6 +418,27 @@ UUID  : b09848420a1a4d76b099d82d76bc41f4
 
 <a href="./archive/00164_000.jpg" target="_blank">
 	<img src="./lowres/00164_000.jpg" alt="Hope Film Bubble 35mm film box outside" loading="lazy" width="500" height="394">
+</a>
+
+#### [@Hol.m35] JCH Streetpan (ref: 5c70)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2026-04 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-28   |  Author  : @Hol.m35
+UUID  : f32d9e32d43441b79220744cdb4e5c70
+```
+
+<a href="./archive/00355_000.jpg" target="_blank">
+	<img src="./lowres/00355_000.jpg" alt="JCH Streetpan 120 film box outside" loading="lazy" width="500" height="456">
+</a>
+
+
+`UUID: 7935fbe7f8a44593a172f1e9fc2fd2bc`↓
+
+<a href="./archive/00355_001.jpg" target="_blank">
+	<img src="./lowres/00355_001.jpg" alt="JCH Streetpan 120 film box inside" loading="lazy" width="500" height="463">
 </a>
 
 #### [@SirBrentsworth] CineStill 800T (ref: b3ff)
@@ -7140,12 +7162,12 @@ Rank  Username                      Contributions
 18    @filmfotofella                7     
 19    benikum                       6     
 20    GreatGizmo74                  6     
-21    Kraksen                       5     
-22    Henry Gunn                    4     
-23    u/ReeeSchmidtyWerber          4     
-24    lt_col_tall                   4     
-25    kaimon                        4     
-26    @Hol.m35                      3     
+21    @Hol.m35                      5     
+22    Kraksen                       5     
+23    Henry Gunn                    4     
+24    u/ReeeSchmidtyWerber          4     
+25    lt_col_tall                   4     
+26    kaimon                        4     
 27    TheSelousScout                3     
 28    @sachynmital                  3     
 29    @seklerek                     2     

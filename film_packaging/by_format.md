@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 28 2025
-Unique items: 351
-Total scans : 611
+Unique items: 352
+Total scans : 613
 ```
 
 -----
@@ -80,6 +80,7 @@ Total scans : 611
 - [[120] Ilford HP5 Plus (ref: efad)](#120-ilford-hp5-plus-ref-efad)
 - [[120] Ilford HP5 Plus (ref: 1a5d)](#120-ilford-hp5-plus-ref-1a5d)
 - [[120] Ilford SFX 200 (ref: 6057)](#120-ilford-sfx-200-ref-6057)
+- [[120] JCH Streetpan (ref: 5c70)](#120-jch-streetpan-ref-5c70)
 - [[120] Kodak Ektachrome 400 (ref: 2b94)](#120-kodak-ektachrome-400-ref-2b94)
 - [[120] Kodak Ektachrome 400X (ref: 5b82)](#120-kodak-ektachrome-400x-ref-5b82)
 - [[120] Kodak Ektachrome E100VS (ref: a8d3)](#120-kodak-ektachrome-e100vs-ref-a8d3)
@@ -1544,6 +1545,27 @@ UUID  : 7856b5442362453caa67628c93be6057
 
 <a href="./archive/00009_001.jpg" target="_blank">
 	<img src="./lowres/00009_001.jpg" alt="Ilford SFX 200 120 film box inside" loading="lazy" width="500" height="456">
+</a>
+
+#### [120] JCH Streetpan (ref: 5c70)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2026-04 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-28   |  Author  : @Hol.m35
+UUID  : f32d9e32d43441b79220744cdb4e5c70
+```
+
+<a href="./archive/00355_000.jpg" target="_blank">
+	<img src="./lowres/00355_000.jpg" alt="JCH Streetpan 120 film box outside" loading="lazy" width="500" height="456">
+</a>
+
+
+`UUID: 7935fbe7f8a44593a172f1e9fc2fd2bc`↓
+
+<a href="./archive/00355_001.jpg" target="_blank">
+	<img src="./lowres/00355_001.jpg" alt="JCH Streetpan 120 film box inside" loading="lazy" width="500" height="463">
 </a>
 
 #### [120] Kodak Ektachrome 400 (ref: 2b94)
@@ -7140,12 +7162,12 @@ Rank  Username                      Contributions
 18    @filmfotofella                7     
 19    benikum                       6     
 20    GreatGizmo74                  6     
-21    Kraksen                       5     
-22    Henry Gunn                    4     
-23    u/ReeeSchmidtyWerber          4     
-24    lt_col_tall                   4     
-25    kaimon                        4     
-26    @Hol.m35                      3     
+21    @Hol.m35                      5     
+22    Kraksen                       5     
+23    Henry Gunn                    4     
+24    u/ReeeSchmidtyWerber          4     
+25    lt_col_tall                   4     
+26    kaimon                        4     
 27    TheSelousScout                3     
 28    @sachynmital                  3     
 29    @seklerek                     2     

@@ -16,12 +16,13 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 28 2025
-Unique items: 351
-Total scans : 611
+Unique items: 352
+Total scans : 613
 ```
 
 -----
 
+- [[2025-09-28] JCH Streetpan (ref: 5c70)](#2025-09-28-jch-streetpan-ref-5c70)
 - [[2025-09-28] Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)](#2025-09-28-impossible-project-px-600-silver-shade-uv-ref-20f3)
 - [[2025-09-28] Kodak High Speed Infrared Film 2481 (ref: aa7a)](#2025-09-28-kodak-high-speed-infrared-film-2481-ref-aa7a)
 - [[2025-09-28] Polaroid Spectra Film (ref: 7a94)](#2025-09-28-polaroid-spectra-film-ref-7a94)
@@ -376,6 +377,27 @@ Total scans : 611
 
 
 -----
+
+
+`UUID: 7935fbe7f8a44593a172f1e9fc2fd2bc`↓
+
+<a href="./archive/00355_001.jpg" target="_blank">
+	<img src="./lowres/00355_001.jpg" alt="JCH Streetpan 120 film box inside" loading="lazy" width="500" height="463">
+</a>
+
+#### [2025-09-28] JCH Streetpan (ref: 5c70)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2026-04 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-28   |  Author  : @Hol.m35
+UUID  : f32d9e32d43441b79220744cdb4e5c70
+```
+
+<a href="./archive/00355_000.jpg" target="_blank">
+	<img src="./lowres/00355_000.jpg" alt="JCH Streetpan 120 film box outside" loading="lazy" width="500" height="456">
+</a>
 
 #### [2025-09-28] Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)
 
@@ -7140,12 +7162,12 @@ Rank  Username                      Contributions
 18    @filmfotofella                7     
 19    benikum                       6     
 20    GreatGizmo74                  6     
-21    Kraksen                       5     
-22    Henry Gunn                    4     
-23    u/ReeeSchmidtyWerber          4     
-24    lt_col_tall                   4     
-25    kaimon                        4     
-26    @Hol.m35                      3     
+21    @Hol.m35                      5     
+22    Kraksen                       5     
+23    Henry Gunn                    4     
+24    u/ReeeSchmidtyWerber          4     
+25    lt_col_tall                   4     
+26    kaimon                        4     
 27    TheSelousScout                3     
 28    @sachynmital                  3     
 29    @seklerek                     2     
