@@ -16,12 +16,15 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 28 2025
-Unique items: 348
-Total scans : 608
+Unique items: 351
+Total scans : 611
 ```
 
 -----
 
+- [[2025-09-28] Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)](#2025-09-28-impossible-project-px-600-silver-shade-uv-ref-20f3)
+- [[2025-09-28] Kodak High Speed Infrared Film 2481 (ref: aa7a)](#2025-09-28-kodak-high-speed-infrared-film-2481-ref-aa7a)
+- [[2025-09-28] Polaroid Spectra Film (ref: 7a94)](#2025-09-28-polaroid-spectra-film-ref-7a94)
 - [[2025-09-28] Klick Max Extra Definition Multi Purpose Film (ref: 8ae4)](#2025-09-28-klick-max-extra-definition-multi-purpose-film-ref-8ae4)
 - [[2025-09-18] Fujifilm Fujicolor HR 1600 (ref: 1d39)](#2025-09-18-fujifilm-fujicolor-hr-1600-ref-1d39)
 - [[2025-09-18] Polaroid 990 (ref: e3bc)](#2025-09-18-polaroid-990-ref-e3bc)
@@ -373,6 +376,48 @@ Total scans : 608
 
 
 -----
+
+#### [2025-09-28] Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 600          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-09-28   |  Author  : @ellafridalindblom
+UUID  : 28ed6948476d4d7baeb8e7fd7c3520f3
+```
+
+<a href="./archive/00354_000.jpg" target="_blank">
+	<img src="./lowres/00354_000.jpg" alt="Impossible Project PX 600 Silver Shade UV+ Integral Film film box outside" loading="lazy" width="194" height="500">
+</a>
+
+#### [2025-09-28] Kodak High Speed Infrared Film 2481 (ref: aa7a)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1974-01 
+Type  : Bulk Roll    |  Quantity: 150ft   
+Added : 2025-09-28   |  Author  : @ellafridalindblom
+UUID  : 6670d5214ea545e99bfb7aadb6d4aa7a
+```
+
+<a href="./archive/00353_000.jpg" target="_blank">
+	<img src="./lowres/00353_000.jpg" alt="Kodak High Speed Infrared Film 2481 35mm film box outside" loading="lazy" width="500" height="489">
+</a>
+
+#### [2025-09-28] Polaroid Spectra Film (ref: 7a94)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 600          |  Expiry  : 2002-11 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2025-09-28   |  Author  : @ellafridalindblom
+UUID  : 2ec40bee5af2471cad92278123ba7a94
+```
+
+<a href="./archive/00352_000.jpg" target="_blank">
+	<img src="./lowres/00352_000.jpg" alt="Polaroid Spectra Film Integral Film film box outside" loading="lazy" width="271" height="499">
+</a>
 
 #### [2025-09-28] Klick Max Extra Definition Multi Purpose Film (ref: 8ae4)
 
@@ -7078,7 +7123,7 @@ Rank  Username                      Contributions
 1     dekuNukem                     207   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
-4     @ellafridalindblom            39    
+4     @ellafridalindblom            42    
 5     The Compartmentalist          25    
 6     Camera.Riley                  19    
 7     Nano_Burger                   18    

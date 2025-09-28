@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 28 2025
-Unique items: 348
-Total scans : 608
+Unique items: 351
+Total scans : 611
 ```
 
 -----
@@ -169,6 +169,7 @@ Total scans : 608
 - [Ilford SFX 200 (ref: 6057)](#ilford-sfx-200-ref-6057)
 - [Ilford XP2 Super (ref: 622a)](#ilford-xp2-super-ref-622a)
 - [Illingworth's Fleet H&D (ref: 54fe)](#illingworths-fleet-h-d-ref-54fe)
+- [Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)](#impossible-project-px-600-silver-shade-uv-ref-20f3)
 - [JCH Streetpan (ref: 6e58)](#jch-streetpan-ref-6e58)
 - [Jessops CS100 (ref: 4288)](#jessops-cs100-ref-4288)
 - [Jessops Diamond Everyday (ref: 6d5a)](#jessops-diamond-everyday-ref-6d5a)
@@ -239,6 +240,7 @@ Total scans : 608
 - [Kodak High Speed Ektachrome (ref: 7533)](#kodak-high-speed-ektachrome-ref-7533)
 - [Kodak High Speed Infrared (ref: 4294)](#kodak-high-speed-infrared-ref-4294)
 - [Kodak High Speed Infrared (ref: 883e)](#kodak-high-speed-infrared-ref-883e)
+- [Kodak High Speed Infrared Film 2481 (ref: aa7a)](#kodak-high-speed-infrared-film-2481-ref-aa7a)
 - [Kodak Kodachrome 25 (ref: 6477)](#kodak-kodachrome-25-ref-6477)
 - [Kodak Kodachrome 25 (ref: 8833)](#kodak-kodachrome-25-ref-8833)
 - [Kodak Kodachrome 64 (ref: 3145)](#kodak-kodachrome-64-ref-3145)
@@ -341,6 +343,7 @@ Total scans : 608
 - [Polaroid PolaPan 35mm (ref: 9825)](#polaroid-polapan-35mm-ref-9825)
 - [Polaroid Polacolor 679 (ref: 625c)](#polaroid-polacolor-679-ref-625c)
 - [Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)](#polaroid-polavision-phototape-land-cassette-type-608-ref-90b9)
+- [Polaroid Spectra Film (ref: 7a94)](#polaroid-spectra-film-ref-7a94)
 - [Porst Color N21 (ref: 494a)](#porst-color-n21-ref-494a)
 - [Premium Super XG (ref: 8ccd)](#premium-super-xg-ref-8ccd)
 - [Reflx Lab 250D (ref: 1a3e)](#reflx-lab-250d-ref-1a3e)
@@ -3174,6 +3177,20 @@ UUID  : bec584ee60f3462381719b3e908f54fe
 	<img src="./lowres/00207_000.jpg" alt="Illingworth's Fleet H&D 6.5x9cm film box outside" loading="lazy" width="500" height="421">
 </a>
 
+#### Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 600          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-09-28   |  Author  : @ellafridalindblom
+UUID  : 28ed6948476d4d7baeb8e7fd7c3520f3
+```
+
+<a href="./archive/00354_000.jpg" target="_blank">
+	<img src="./lowres/00354_000.jpg" alt="Impossible Project PX 600 Silver Shade UV+ Integral Film film box outside" loading="lazy" width="194" height="500">
+</a>
+
 #### JCH Streetpan (ref: 6e58)
 
 ```
@@ -4593,6 +4610,20 @@ UUID  : 77352e93d73748eca98cff7b30d7883e
 
 <a href="./archive/00103_001.jpg" target="_blank">
 	<img src="./lowres/00103_001.jpg" alt="Kodak High Speed Infrared 35mm film box inside" loading="lazy" width="466" height="500">
+</a>
+
+#### Kodak High Speed Infrared Film 2481 (ref: aa7a)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1974-01 
+Type  : Bulk Roll    |  Quantity: 150ft   
+Added : 2025-09-28   |  Author  : @ellafridalindblom
+UUID  : 6670d5214ea545e99bfb7aadb6d4aa7a
+```
+
+<a href="./archive/00353_000.jpg" target="_blank">
+	<img src="./lowres/00353_000.jpg" alt="Kodak High Speed Infrared Film 2481 35mm film box outside" loading="lazy" width="500" height="489">
 </a>
 
 #### Kodak Kodachrome 25 (ref: 6477)
@@ -6583,6 +6614,20 @@ UUID  : 010a03a196a543beb83906a352d490b9
 	<img src="./lowres/00346_000.jpg" alt="Polaroid Polavision Phototape Land Cassette Type 608 Polavision film box outside" loading="lazy" width="500" height="473">
 </a>
 
+#### Polaroid Spectra Film (ref: 7a94)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 600          |  Expiry  : 2002-11 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2025-09-28   |  Author  : @ellafridalindblom
+UUID  : 2ec40bee5af2471cad92278123ba7a94
+```
+
+<a href="./archive/00352_000.jpg" target="_blank">
+	<img src="./lowres/00352_000.jpg" alt="Polaroid Spectra Film Integral Film film box outside" loading="lazy" width="271" height="499">
+</a>
+
 #### Porst Color N21 (ref: 494a)
 
 ```
@@ -7078,7 +7123,7 @@ Rank  Username                      Contributions
 1     dekuNukem                     207   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
-4     @ellafridalindblom            39    
+4     @ellafridalindblom            42    
 5     The Compartmentalist          25    
 6     Camera.Riley                  19    
 7     Nano_Burger                   18    

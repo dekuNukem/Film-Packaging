@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 28 2025
-Unique items: 348
-Total scans : 608
+Unique items: 351
+Total scans : 611
 ```
 
 -----
@@ -38,6 +38,7 @@ Total scans : 608
 - [[1972] Kodak Ektachrome-X (ref: ae7e)](#1972-kodak-ektachrome-x-ref-ae7e)
 - [[1973] Kodak Ektachrome-X (ref: aec5)](#1973-kodak-ektachrome-x-ref-aec5)
 - [[1974] GAF Color Slide Film (ref: dea6)](#1974-gaf-color-slide-film-ref-dea6)
+- [[1974] Kodak High Speed Infrared Film 2481 (ref: aa7a)](#1974-kodak-high-speed-infrared-film-2481-ref-aa7a)
 - [[1974] Kodak Kodacolor-X (ref: a4b1)](#1974-kodak-kodacolor-x-ref-a4b1)
 - [[1974] Porst Color N21 (ref: 494a)](#1974-porst-color-n21-ref-494a)
 - [[1974] Kodak Kodacolor-X (ref: 0ce5)](#1974-kodak-kodacolor-x-ref-0ce5)
@@ -134,6 +135,7 @@ Total scans : 608
 - [[2002] Fujifilm Fujicolor Superia (ref: 0683)](#2002-fujifilm-fujicolor-superia-ref-0683)
 - [[2002] Konica Sepia Professional (ref: 0b40)](#2002-konica-sepia-professional-ref-0b40)
 - [[2002] Kodak Ektachrome 100 Plus (ref: 5d9f)](#2002-kodak-ektachrome-100-plus-ref-5d9f)
+- [[2002] Polaroid Spectra Film (ref: 7a94)](#2002-polaroid-spectra-film-ref-7a94)
 - [[2002] Kirkland Signature Color Print Film (ref: 0441)](#2002-kirkland-signature-color-print-film-ref-0441)
 - [[2003] Konica KonicaColor VX 200 (ref: fe53)](#2003-konica-konicacolor-vx-200-ref-fe53)
 - [[2003] Fujifilm Fujicolor Superia X-TRA (ref: 713b)](#2003-fujifilm-fujicolor-superia-x-tra-ref-713b)
@@ -362,6 +364,7 @@ Total scans : 608
 - [[Unknown] Gevaert Ultra Panchro Normal (ref: 1ff6)](#unknown-gevaert-ultra-panchro-normal-ref-1ff6)
 - [[Unknown] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#unknown-hasselblad-hassel-plåtar-erorto-ref-ec67)
 - [[Unknown] Illingworth's Fleet H&D (ref: 54fe)](#unknown-illingworths-fleet-h-d-ref-54fe)
+- [[Unknown] Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)](#unknown-impossible-project-px-600-silver-shade-uv-ref-20f3)
 - [[Unknown] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#unknown-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
 - [[Unknown] Kodak Eastman Tri-X Reversal Film 7278 (ref: 8468)](#unknown-kodak-eastman-tri-x-reversal-film-7278-ref-8468)
 - [[Unknown] Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#unknown-mutascan-kodak-vision3-500t5219-ref-5150)
@@ -722,6 +725,20 @@ UUID  : c426ea17398c4c549c6a2720103adea6
 
 <a href="./archive/00054_005.jpg" target="_blank">
 	<img src="./lowres/00054_005.jpg" alt="GAF Color Slide Film 126 film box processing envelope" loading="lazy" width="500" height="133">
+</a>
+
+#### [1974] Kodak High Speed Infrared Film 2481 (ref: aa7a)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1974-01 
+Type  : Bulk Roll    |  Quantity: 150ft   
+Added : 2025-09-28   |  Author  : @ellafridalindblom
+UUID  : 6670d5214ea545e99bfb7aadb6d4aa7a
+```
+
+<a href="./archive/00353_000.jpg" target="_blank">
+	<img src="./lowres/00353_000.jpg" alt="Kodak High Speed Infrared Film 2481 35mm film box outside" loading="lazy" width="500" height="489">
 </a>
 
 #### [1974] Kodak Kodacolor-X (ref: a4b1)
@@ -2941,6 +2958,20 @@ UUID  : b17b7b46926e49ae88a7b74904245d9f
 
 <a href="./archive/00113_001.jpg" target="_blank">
 	<img src="./lowres/00113_001.jpg" alt="Kodak Ektachrome 100 Plus 35mm film box inside" loading="lazy" width="448" height="500">
+</a>
+
+#### [2002] Polaroid Spectra Film (ref: 7a94)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 600          |  Expiry  : 2002-11 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2025-09-28   |  Author  : @ellafridalindblom
+UUID  : 2ec40bee5af2471cad92278123ba7a94
+```
+
+<a href="./archive/00352_000.jpg" target="_blank">
+	<img src="./lowres/00352_000.jpg" alt="Polaroid Spectra Film Integral Film film box outside" loading="lazy" width="271" height="499">
 </a>
 
 #### [2002] Kirkland Signature Color Print Film (ref: 0441)
@@ -6947,6 +6978,20 @@ UUID  : bec584ee60f3462381719b3e908f54fe
 	<img src="./lowres/00207_000.jpg" alt="Illingworth's Fleet H&D 6.5x9cm film box outside" loading="lazy" width="500" height="421">
 </a>
 
+#### [Unknown] Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 600          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-09-28   |  Author  : @ellafridalindblom
+UUID  : 28ed6948476d4d7baeb8e7fd7c3520f3
+```
+
+<a href="./archive/00354_000.jpg" target="_blank">
+	<img src="./lowres/00354_000.jpg" alt="Impossible Project PX 600 Silver Shade UV+ Integral Film film box outside" loading="lazy" width="194" height="500">
+</a>
+
 #### [Unknown] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)
 
 ```
@@ -7078,7 +7123,7 @@ Rank  Username                      Contributions
 1     dekuNukem                     207   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
-4     @ellafridalindblom            39    
+4     @ellafridalindblom            42    
 5     The Compartmentalist          25    
 6     Camera.Riley                  19    
 7     Nano_Burger                   18    

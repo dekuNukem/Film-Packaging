@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 28 2025
-Unique items: 348
-Total scans : 608
+Unique items: 351
+Total scans : 611
 ```
 
 -----
@@ -263,6 +263,7 @@ Total scans : 608
 - [[35mm] Kodak High Speed Ektachrome (ref: b8f8)](#35mm-kodak-high-speed-ektachrome-ref-b8f8)
 - [[35mm] Kodak High Speed Infrared (ref: 4294)](#35mm-kodak-high-speed-infrared-ref-4294)
 - [[35mm] Kodak High Speed Infrared (ref: 883e)](#35mm-kodak-high-speed-infrared-ref-883e)
+- [[35mm] Kodak High Speed Infrared Film 2481 (ref: aa7a)](#35mm-kodak-high-speed-infrared-film-2481-ref-aa7a)
 - [[35mm] Kodak Kodachrome 25 (ref: 6477)](#35mm-kodak-kodachrome-25-ref-6477)
 - [[35mm] Kodak Kodachrome 25 (ref: 8833)](#35mm-kodak-kodachrome-25-ref-8833)
 - [[35mm] Kodak Kodachrome 64 (ref: 3206)](#35mm-kodak-kodachrome-64-ref-3206)
@@ -359,10 +360,12 @@ Total scans : 608
 - [[APS] Kodak Advantix Ultra Max (ref: 1ca2)](#aps-kodak-advantix-ultra-max-ref-1ca2)
 - [[APS] Lloyds Pharmacy APS Film (ref: c7cf)](#aps-lloyds-pharmacy-aps-film-ref-c7cf)
 - [[Integral Film] Fujifilm Instax Mini (ref: e5e7)](#integral-film-fujifilm-instax-mini-ref-e5e7)
+- [[Integral Film] Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)](#integral-film-impossible-project-px-600-silver-shade-uv-ref-20f3)
 - [[Integral Film] Polaroid 990 (ref: e3bc)](#integral-film-polaroid-990-ref-e3bc)
 - [[Integral Film] Polaroid Color 600 Film Round Frame (ref: d985)](#integral-film-polaroid-color-600-film-round-frame-ref-d985)
 - [[Integral Film] Polaroid Color SX-70 Film (ref: dc7f)](#integral-film-polaroid-color-sx-70-film-ref-dc7f)
 - [[Integral Film] Polaroid GridFilm (ref: 8deb)](#integral-film-polaroid-gridfilm-ref-8deb)
+- [[Integral Film] Polaroid Spectra Film (ref: 7a94)](#integral-film-polaroid-spectra-film-ref-7a94)
 - [[Pack Film] Fujifilm FP-100C (ref: 5cda)](#pack-film-fujifilm-fp-100c-ref-5cda)
 - [[Pack Film] Polaroid 665 (ref: e054)](#pack-film-polaroid-665-ref-e054)
 - [[Pack Film] Polaroid 669 (ref: 3566)](#pack-film-polaroid-669-ref-3566)
@@ -5113,6 +5116,20 @@ UUID  : 77352e93d73748eca98cff7b30d7883e
 	<img src="./lowres/00103_001.jpg" alt="Kodak High Speed Infrared 35mm film box inside" loading="lazy" width="466" height="500">
 </a>
 
+#### [35mm] Kodak High Speed Infrared Film 2481 (ref: aa7a)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1974-01 
+Type  : Bulk Roll    |  Quantity: 150ft   
+Added : 2025-09-28   |  Author  : @ellafridalindblom
+UUID  : 6670d5214ea545e99bfb7aadb6d4aa7a
+```
+
+<a href="./archive/00353_000.jpg" target="_blank">
+	<img src="./lowres/00353_000.jpg" alt="Kodak High Speed Infrared Film 2481 35mm film box outside" loading="lazy" width="500" height="489">
+</a>
+
 #### [35mm] Kodak Kodachrome 25 (ref: 6477)
 
 ```
@@ -6765,6 +6782,20 @@ UUID  : b8ea314888b244f8ab8ace49c734e5e7
 	<img src="./lowres/00307_000.jpg" alt="Fujifilm Instax Mini Integral Film film box outside" loading="lazy" width="500" height="400">
 </a>
 
+#### [Integral Film] Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 600          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-09-28   |  Author  : @ellafridalindblom
+UUID  : 28ed6948476d4d7baeb8e7fd7c3520f3
+```
+
+<a href="./archive/00354_000.jpg" target="_blank">
+	<img src="./lowres/00354_000.jpg" alt="Impossible Project PX 600 Silver Shade UV+ Integral Film film box outside" loading="lazy" width="194" height="500">
+</a>
+
 #### [Integral Film] Polaroid 990 (ref: e3bc)
 
 ```
@@ -6903,6 +6934,20 @@ UUID  : 4f1aabf29f724c9ea3b2bee414b08deb
 
 <a href="./archive/00031_003.jpg" target="_blank">
 	<img src="./lowres/00031_003.jpg" alt="Polaroid GridFilm Integral Film film box inside" loading="lazy" width="500" height="340">
+</a>
+
+#### [Integral Film] Polaroid Spectra Film (ref: 7a94)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 600          |  Expiry  : 2002-11 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2025-09-28   |  Author  : @ellafridalindblom
+UUID  : 2ec40bee5af2471cad92278123ba7a94
+```
+
+<a href="./archive/00352_000.jpg" target="_blank">
+	<img src="./lowres/00352_000.jpg" alt="Polaroid Spectra Film Integral Film film box outside" loading="lazy" width="271" height="499">
 </a>
 
 #### [Pack Film] Fujifilm FP-100C (ref: 5cda)
@@ -7078,7 +7123,7 @@ Rank  Username                      Contributions
 1     dekuNukem                     207   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
-4     @ellafridalindblom            39    
+4     @ellafridalindblom            42    
 5     The Compartmentalist          25    
 6     Camera.Riley                  19    
 7     Nano_Burger                   18    

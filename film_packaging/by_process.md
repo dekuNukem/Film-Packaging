@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 28 2025
-Unique items: 348
-Total scans : 608
+Unique items: 351
+Total scans : 611
 ```
 
 -----
@@ -88,6 +88,7 @@ Total scans : 608
 - [[BW] Kodak High Contrast Copy Film (ref: db52)](#bw-kodak-high-contrast-copy-film-ref-db52)
 - [[BW] Kodak High Speed Infrared (ref: 4294)](#bw-kodak-high-speed-infrared-ref-4294)
 - [[BW] Kodak High Speed Infrared (ref: 883e)](#bw-kodak-high-speed-infrared-ref-883e)
+- [[BW] Kodak High Speed Infrared Film 2481 (ref: aa7a)](#bw-kodak-high-speed-infrared-film-2481-ref-aa7a)
 - [[BW] Kodak Panatomic-X (ref: 8d69)](#bw-kodak-panatomic-x-ref-8d69)
 - [[BW] Kodak Panatomic-X (ref: 35f6)](#bw-kodak-panatomic-x-ref-35f6)
 - [[BW] Kodak Plus-X Pan (ref: f5cc)](#bw-kodak-plus-x-pan-ref-f5cc)
@@ -347,6 +348,7 @@ Total scans : 608
 - [[ECN-2] Three Film Rolls 5207 (ref: 0292)](#ecn-2-three-film-rolls-5207-ref-0292)
 - [[Instant] Fujifilm FP-100C (ref: 5cda)](#instant-fujifilm-fp-100c-ref-5cda)
 - [[Instant] Fujifilm Instax Mini (ref: e5e7)](#instant-fujifilm-instax-mini-ref-e5e7)
+- [[Instant] Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)](#instant-impossible-project-px-600-silver-shade-uv-ref-20f3)
 - [[Instant] Polaroid 665 (ref: e054)](#instant-polaroid-665-ref-e054)
 - [[Instant] Polaroid 669 (ref: 3566)](#instant-polaroid-669-ref-3566)
 - [[Instant] Polaroid 87 (ref: 62ef)](#instant-polaroid-87-ref-62ef)
@@ -360,6 +362,7 @@ Total scans : 608
 - [[Instant] Polaroid PolaPan 35mm (ref: 9825)](#instant-polaroid-polapan-35mm-ref-9825)
 - [[Instant] Polaroid Polacolor 679 (ref: 625c)](#instant-polaroid-polacolor-679-ref-625c)
 - [[Instant] Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)](#instant-polaroid-polavision-phototape-land-cassette-type-608-ref-90b9)
+- [[Instant] Polaroid Spectra Film (ref: 7a94)](#instant-polaroid-spectra-film-ref-7a94)
 - [[K-14] Kodak Kodachrome 25 (ref: 6477)](#k-14-kodak-kodachrome-25-ref-6477)
 - [[K-14] Kodak Kodachrome 25 (ref: 8833)](#k-14-kodak-kodachrome-25-ref-8833)
 - [[K-14] Kodak Kodachrome 64 (ref: 3145)](#k-14-kodak-kodachrome-64-ref-3145)
@@ -1632,6 +1635,20 @@ UUID  : 77352e93d73748eca98cff7b30d7883e
 
 <a href="./archive/00103_001.jpg" target="_blank">
 	<img src="./lowres/00103_001.jpg" alt="Kodak High Speed Infrared 35mm film box inside" loading="lazy" width="466" height="500">
+</a>
+
+#### [BW] Kodak High Speed Infrared Film 2481 (ref: aa7a)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1974-01 
+Type  : Bulk Roll    |  Quantity: 150ft   
+Added : 2025-09-28   |  Author  : @ellafridalindblom
+UUID  : 6670d5214ea545e99bfb7aadb6d4aa7a
+```
+
+<a href="./archive/00353_000.jpg" target="_blank">
+	<img src="./lowres/00353_000.jpg" alt="Kodak High Speed Infrared Film 2481 35mm film box outside" loading="lazy" width="500" height="489">
 </a>
 
 #### [BW] Kodak Panatomic-X (ref: 8d69)
@@ -6345,6 +6362,20 @@ UUID  : b8ea314888b244f8ab8ace49c734e5e7
 	<img src="./lowres/00307_000.jpg" alt="Fujifilm Instax Mini Integral Film film box outside" loading="lazy" width="500" height="400">
 </a>
 
+#### [Instant] Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 600          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-09-28   |  Author  : @ellafridalindblom
+UUID  : 28ed6948476d4d7baeb8e7fd7c3520f3
+```
+
+<a href="./archive/00354_000.jpg" target="_blank">
+	<img src="./lowres/00354_000.jpg" alt="Impossible Project PX 600 Silver Shade UV+ Integral Film film box outside" loading="lazy" width="194" height="500">
+</a>
+
 #### [Instant] Polaroid 665 (ref: e054)
 
 ```
@@ -6737,6 +6768,20 @@ UUID  : 010a03a196a543beb83906a352d490b9
 	<img src="./lowres/00346_000.jpg" alt="Polaroid Polavision Phototape Land Cassette Type 608 Polavision film box outside" loading="lazy" width="500" height="473">
 </a>
 
+#### [Instant] Polaroid Spectra Film (ref: 7a94)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 600          |  Expiry  : 2002-11 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2025-09-28   |  Author  : @ellafridalindblom
+UUID  : 2ec40bee5af2471cad92278123ba7a94
+```
+
+<a href="./archive/00352_000.jpg" target="_blank">
+	<img src="./lowres/00352_000.jpg" alt="Polaroid Spectra Film Integral Film film box outside" loading="lazy" width="271" height="499">
+</a>
+
 #### [K-14] Kodak Kodachrome 25 (ref: 6477)
 
 ```
@@ -7078,7 +7123,7 @@ Rank  Username                      Contributions
 1     dekuNukem                     207   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
-4     @ellafridalindblom            39    
+4     @ellafridalindblom            42    
 5     The Compartmentalist          25    
 6     Camera.Riley                  19    
 7     Nano_Burger                   18    

@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Sep 28 2025
-Unique items: 348
-Total scans : 608
+Unique items: 351
+Total scans : 611
 ```
 
 Or Sort by...
@@ -56,7 +56,7 @@ Rank  Username                      Contributions
 1     dekuNukem                     207   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
-4     @ellafridalindblom            39    
+4     @ellafridalindblom            42    
 5     The Compartmentalist          25    
 6     Camera.Riley                  19    
 7     Nano_Burger                   18    
@@ -92,6 +92,9 @@ Rank  Username                      Contributions
 
 ```
 2025-09-28
+  - @ellafridalindblom: Impossible Project PX 600 Silver Shade UV+
+  - @ellafridalindblom: Kodak High Speed Infrared Film 2481
+  - @ellafridalindblom: Polaroid Spectra Film
   - dekuNukem: Klick Max Extra Definition Multi Purpose Film
 
 2025-09-18
