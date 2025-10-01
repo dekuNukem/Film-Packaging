@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 28 2025
-Unique items: 356
-Total scans : 621
+Last Updated: Oct 01 2025
+Unique items: 357
+Total scans : 623
 ```
 
 Or Sort by...
@@ -72,12 +72,12 @@ Rank  Username                      Contributions
 17    @toastergod101                7     
 18    @filmfotofella                7     
 19    benikum                       6     
-20    GreatGizmo74                  6     
-21    @Hol.m35                      5     
-22    Kraksen                       5     
-23    Henry Gunn                    4     
-24    u/ReeeSchmidtyWerber          4     
-25    lt_col_tall                   4     
+20    lt_col_tall                   6     
+21    GreatGizmo74                  6     
+22    @Hol.m35                      5     
+23    Kraksen                       5     
+24    Henry Gunn                    4     
+25    u/ReeeSchmidtyWerber          4     
 26    kaimon                        4     
 27    TheSelousScout                3     
 28    @sachynmital                  3     
@@ -92,6 +92,9 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-10-01
+  - lt_col_tall: CatLABS X Film 80 MKII
+
 2025-09-28
   - @ellafridalindblom: Impossible Project PX 600 Silver Shade UV+
   - @ellafridalindblom: Kodak High Speed Infrared Film 2481
@@ -134,11 +137,6 @@ Rank  Username                      Contributions
   - dekuNukem: SupaSnaps Snappit Film
   - GreatGizmo74: Jessops CS100
   - GreatGizmo74: Jessops Diamond Everyday
-
-2025-09-11
-  - @sachynmital: Mr. Negative 250D
-  - @sachynmital: Mr. Negative Eterna 250D
-  - @sachynmital: Mr. Negative Silver Screen Negative
 ```
 
 ## Disclaimer

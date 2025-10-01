@@ -620,3 +620,5 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 359,2,film_box_leaflet,ORWO,Chrom UT21,35mm,100,Unknown,199105,1759071348,c739b4f2daad6f8aa2c605f1e0cb4d94,357b9379dea24d16b611aaf25ccdcd04,00359_002.jpg,fine-seat,,Single Pack,24exp
 359,3,film_box_processing_envelope,ORWO,Chrom UT21,35mm,100,Unknown,199105,1759071351,9b674d37ec3e87941ca990536ff1df71,27c54d7248cb4d858c6773bc29ec69a3,00359_003.jpg,fine-seat,,Single Pack,24exp
 359,4,film_box_processing_envelope,ORWO,Chrom UT21,35mm,100,Unknown,199105,1759071356,6c0c281f3cea1785706495d964f904da,1340536f2f4b408a9129dea625da8168,00359_004.jpg,fine-seat,,Single Pack,24exp
+360,0,film_box_outside,CatLABS,X Film 80 MKII,120,80,BW,202701,1759316896,4d0e90244bd23dac7afbf583cafbed7c,98b415dbd4184372b8568b2b99a1bcd1,00360_000.jpg,lt_col_tall,,Single Pack,N/A
+360,1,film_box_inside,CatLABS,X Film 80 MKII,120,80,BW,202701,1759316958,a941032062c44f7025c94b916fef2bf2,aefb75faa42949bb9a8093770ec9fac8,00360_001.jpg,lt_col_tall,,Single Pack,N/A

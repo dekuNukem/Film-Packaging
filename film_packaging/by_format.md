@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 28 2025
-Unique items: 356
-Total scans : 621
+Last Updated: Oct 01 2025
+Unique items: 357
+Total scans : 623
 ```
 
 -----
@@ -42,6 +42,7 @@ Total scans : 621
 - [[120] Alien Film Aeronega (ref: d1c5)](#120-alien-film-aeronega-ref-d1c5)
 - [[120] Bergger Pancro400 (ref: ad7b)](#120-bergger-pancro400-ref-ad7b)
 - [[120] CatLABS X Film 320 Pro (ref: 1c69)](#120-catlabs-x-film-320-pro-ref-1c69)
+- [[120] CatLABS X Film 80 MKII (ref: bcd1)](#120-catlabs-x-film-80-mkii-ref-bcd1)
 - [[120] CineStill 400Dynamic (ref: 88dc)](#120-cinestill-400dynamic-ref-88dc)
 - [[120] CineStill 800T (ref: c86a)](#120-cinestill-800t-ref-c86a)
 - [[120] CineStill BWXX (ref: 66eb)](#120-cinestill-bwxx-ref-66eb)
@@ -730,6 +731,27 @@ UUID  : b5423225b6b2496eaf713a5a38731c69
 
 <a href="./archive/00196_001.jpg" target="_blank">
 	<img src="./lowres/00196_001.jpg" alt="CatLABS X Film 320 Pro 120 film box outside" loading="lazy" width="500" height="422">
+</a>
+
+#### [120] CatLABS X Film 80 MKII (ref: bcd1)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 80           |  Expiry  : 2027-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-01   |  Author  : lt_col_tall
+UUID  : 98b415dbd4184372b8568b2b99a1bcd1
+```
+
+<a href="./archive/00360_000.jpg" target="_blank">
+	<img src="./lowres/00360_000.jpg" alt="CatLABS X Film 80 MKII 120 film box outside" loading="lazy" width="500" height="427">
+</a>
+
+
+`UUID: aefb75faa42949bb9a8093770ec9fac8`↓
+
+<a href="./archive/00360_001.jpg" target="_blank">
+	<img src="./lowres/00360_001.jpg" alt="CatLABS X Film 80 MKII 120 film box inside" loading="lazy" width="500" height="427">
 </a>
 
 #### [120] CineStill 400Dynamic (ref: 88dc)
@@ -7249,12 +7271,12 @@ Rank  Username                      Contributions
 17    @toastergod101                7     
 18    @filmfotofella                7     
 19    benikum                       6     
-20    GreatGizmo74                  6     
-21    @Hol.m35                      5     
-22    Kraksen                       5     
-23    Henry Gunn                    4     
-24    u/ReeeSchmidtyWerber          4     
-25    lt_col_tall                   4     
+20    lt_col_tall                   6     
+21    GreatGizmo74                  6     
+22    @Hol.m35                      5     
+23    Kraksen                       5     
+24    Henry Gunn                    4     
+25    u/ReeeSchmidtyWerber          4     
 26    kaimon                        4     
 27    TheSelousScout                3     
 28    @sachynmital                  3     

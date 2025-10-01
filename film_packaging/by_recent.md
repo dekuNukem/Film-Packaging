@@ -15,13 +15,14 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 28 2025
-Unique items: 356
-Total scans : 621
+Last Updated: Oct 01 2025
+Unique items: 357
+Total scans : 623
 ```
 
 -----
 
+- [[2025-10-01] CatLABS X Film 80 MKII (ref: bcd1)](#2025-10-01-catlabs-x-film-80-mkii-ref-bcd1)
 - [[2025-09-28] ORWO Chrom UT21 (ref: 3fd5)](#2025-09-28-orwo-chrom-ut21-ref-3fd5)
 - [[2025-09-28] Herzog Duxopan (ref: a9ad)](#2025-09-28-herzog-duxopan-ref-a9ad)
 - [[2025-09-28] Agfa Isopan ISS (ref: 5ba6)](#2025-09-28-agfa-isopan-iss-ref-5ba6)
@@ -381,6 +382,27 @@ Total scans : 621
 
 
 -----
+
+
+`UUID: aefb75faa42949bb9a8093770ec9fac8`↓
+
+<a href="./archive/00360_001.jpg" target="_blank">
+	<img src="./lowres/00360_001.jpg" alt="CatLABS X Film 80 MKII 120 film box inside" loading="lazy" width="500" height="427">
+</a>
+
+#### [2025-10-01] CatLABS X Film 80 MKII (ref: bcd1)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 80           |  Expiry  : 2027-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-01   |  Author  : lt_col_tall
+UUID  : 98b415dbd4184372b8568b2b99a1bcd1
+```
+
+<a href="./archive/00360_000.jpg" target="_blank">
+	<img src="./lowres/00360_000.jpg" alt="CatLABS X Film 80 MKII 120 film box outside" loading="lazy" width="500" height="427">
+</a>
 
 
 `UUID: 1340536f2f4b408a9129dea625da8168`↓
@@ -7249,12 +7271,12 @@ Rank  Username                      Contributions
 17    @toastergod101                7     
 18    @filmfotofella                7     
 19    benikum                       6     
-20    GreatGizmo74                  6     
-21    @Hol.m35                      5     
-22    Kraksen                       5     
-23    Henry Gunn                    4     
-24    u/ReeeSchmidtyWerber          4     
-25    lt_col_tall                   4     
+20    lt_col_tall                   6     
+21    GreatGizmo74                  6     
+22    @Hol.m35                      5     
+23    Kraksen                       5     
+24    Henry Gunn                    4     
+25    u/ReeeSchmidtyWerber          4     
 26    kaimon                        4     
 27    TheSelousScout                3     
 28    @sachynmital                  3     
