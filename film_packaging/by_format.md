@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 02 2025
-Unique items: 358
-Total scans : 625
+Unique items: 360
+Total scans : 636
 ```
 
 -----
@@ -166,6 +166,7 @@ Total scans : 625
 - [[35mm] Club Color Natural Color System (ref: 813a)](#35mm-club-color-natural-color-system-ref-813a)
 - [[35mm] Efiniti UXi Super 200 (ref: 471a)](#35mm-efiniti-uxi-super-200-ref-471a)
 - [[35mm] Ferrania Solaris (ref: a929)](#35mm-ferrania-solaris-ref-a929)
+- [[35mm] Film Corporation of America TriFCA 35 (ref: 8f0a)](#35mm-film-corporation-of-america-trifca-35-ref-8f0a)
 - [[35mm] Film Never Die IRO (ref: 2a22)](#35mm-film-never-die-iro-ref-2a22)
 - [[35mm] Film Never Die Kiro (ref: 796d)](#35mm-film-never-die-kiro-ref-796d)
 - [[35mm] Foma Fomapan 200 (ref: 60ee)](#35mm-foma-fomapan-200-ref-60ee)
@@ -330,6 +331,7 @@ Total scans : 625
 - [[35mm] Polaroid PolaPan 35mm (ref: 9825)](#35mm-polaroid-polapan-35mm-ref-9825)
 - [[35mm] Porst Color N21 (ref: 494a)](#35mm-porst-color-n21-ref-494a)
 - [[35mm] Premium Super XG (ref: 8ccd)](#35mm-premium-super-xg-ref-8ccd)
+- [[35mm] PrinzColor Colour Negative Film (ref: 448c)](#35mm-prinzcolor-colour-negative-film-ref-448c)
 - [[35mm] Reto Amber D400 (ref: 08ad)](#35mm-reto-amber-d400-ref-08ad)
 - [[35mm] Rollei Infrared (ref: eae2)](#35mm-rollei-infrared-ref-eae2)
 - [[35mm] Rollei RPX 100 (ref: 7cd1)](#35mm-rollei-rpx-100-ref-7cd1)
@@ -3322,6 +3324,55 @@ UUID  : 37936bef9f314a45b9ed57f7091fa929
 
 <a href="./archive/00214_000.jpg" target="_blank">
 	<img src="./lowres/00214_000.jpg" alt="Ferrania Solaris 35mm film box outside" loading="lazy" width="406" height="500">
+</a>
+
+#### [35mm] Film Corporation of America TriFCA 35 (ref: 8f0a)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 80           |  Expiry  : 1976-08 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-10-02   |  Author  : dekuNukem
+UUID  : a3346f80db3b4032a2c69665f7448f0a
+```
+
+<a href="./archive/00362_000.jpg" target="_blank">
+	<img src="./lowres/00362_000.jpg" alt="Film Corporation of America TriFCA 35 35mm film box outside" loading="lazy" width="500" height="475">
+</a>
+
+
+`UUID: fc5bf25a0e624483a581e4171fb368e1`↓
+
+<a href="./archive/00362_001.jpg" target="_blank">
+	<img src="./lowres/00362_001.jpg" alt="Film Corporation of America TriFCA 35 35mm film box leaflet" loading="lazy" width="235" height="500">
+</a>
+
+
+`UUID: ced4b9758b32450183e2359abbb2dd8a`↓
+
+<a href="./archive/00362_002.jpg" target="_blank">
+	<img src="./lowres/00362_002.jpg" alt="Film Corporation of America TriFCA 35 35mm film box leaflet" loading="lazy" width="235" height="500">
+</a>
+
+
+`UUID: 7527ca56668c467386813a8357601289`↓
+
+<a href="./archive/00362_003.jpg" target="_blank">
+	<img src="./lowres/00362_003.jpg" alt="Film Corporation of America TriFCA 35 35mm film box processing envelope" loading="lazy" width="500" height="267">
+</a>
+
+
+`UUID: 8c332dbe2d0f4a6389bbcbc8eb93e0aa`↓
+
+<a href="./archive/00362_004.jpg" target="_blank">
+	<img src="./lowres/00362_004.jpg" alt="Film Corporation of America TriFCA 35 35mm film box processing envelope" loading="lazy" width="500" height="365">
+</a>
+
+
+`UUID: c893ed2ea45f4220b7e8c463a3621b6d`↓
+
+<a href="./archive/00362_005.jpg" target="_blank">
+	<img src="./lowres/00362_005.jpg" alt="Film Corporation of America TriFCA 35 35mm film box processing envelope" loading="lazy" width="266" height="500">
 </a>
 
 #### [35mm] Film Never Die IRO (ref: 2a22)
@@ -6362,6 +6413,48 @@ UUID  : 592592a0182a47dda6390cfc4fd18ccd
 	<img src="./lowres/00265_001.jpg" alt="Premium Super XG 35mm film box inside" loading="lazy" width="500" height="440">
 </a>
 
+#### [35mm] PrinzColor Colour Negative Film (ref: 448c)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 80           |  Expiry  : 1975-10 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-10-02   |  Author  : dekuNukem
+UUID  : 1d1377fcb4fa495e9f3009a4c69b448c
+```
+
+<a href="./archive/00363_000.jpg" target="_blank">
+	<img src="./lowres/00363_000.jpg" alt="PrinzColor Colour Negative Film 35mm film box outside" loading="lazy" width="500" height="495">
+</a>
+
+
+`UUID: 95f013bdd442471d9258bb0cc8eb77fc`↓
+
+<a href="./archive/00363_001.jpg" target="_blank">
+	<img src="./lowres/00363_001.jpg" alt="PrinzColor Colour Negative Film 35mm film box processing envelope" loading="lazy" width="500" height="262">
+</a>
+
+
+`UUID: a29f494b970044eab313b00b12096cf3`↓
+
+<a href="./archive/00363_002.jpg" target="_blank">
+	<img src="./lowres/00363_002.jpg" alt="PrinzColor Colour Negative Film 35mm film box processing envelope" loading="lazy" width="260" height="500">
+</a>
+
+
+`UUID: 2672ff6891f14e44b7f3077a501ae234`↓
+
+<a href="./archive/00363_003.jpg" target="_blank">
+	<img src="./lowres/00363_003.jpg" alt="PrinzColor Colour Negative Film 35mm film box processing envelope" loading="lazy" width="500" height="453">
+</a>
+
+
+`UUID: 4e513a5356fb4b3e8bbc3b0d6ae62543`↓
+
+<a href="./archive/00363_004.jpg" target="_blank">
+	<img src="./lowres/00363_004.jpg" alt="PrinzColor Colour Negative Film 35mm film box outside" loading="lazy" width="500" height="202">
+</a>
+
 #### [35mm] Reto Amber D400 (ref: 08ad)
 
 ```
@@ -7274,7 +7367,7 @@ UUID  : 6032680a3aba41b39c600d7e23998f62
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     207   
+1     dekuNukem                     218   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            42    

@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Oct 02 2025
-Unique items: 358
-Total scans : 625
+Unique items: 360
+Total scans : 636
 ```
 
 Or Sort by...
@@ -53,7 +53,7 @@ Or Sort by...
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     207   
+1     dekuNukem                     218   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            42    
@@ -93,6 +93,8 @@ Rank  Username                      Contributions
 
 ```
 2025-10-02
+  - dekuNukem: Film Corporation of America TriFCA 35
+  - dekuNukem: PrinzColor Colour Negative Film
   - kaimon: Ilford Delta 100 Professional
 
 2025-10-01

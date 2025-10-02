@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 02 2025
-Unique items: 358
-Total scans : 625
+Unique items: 360
+Total scans : 636
 ```
 
 -----
@@ -266,6 +266,7 @@ Total scans : 625
 - [[dekuNukem] Efke IR 820 Aura (ref: 43c9)](#dekunukem-efke-ir-820-aura-ref-43c9)
 - [[dekuNukem] Film Corporation of America TriFCA 120 (ref: d024)](#dekunukem-film-corporation-of-america-trifca-120-ref-d024)
 - [[dekuNukem] Film Corporation of America TriFCA 120 (ref: 9937)](#dekunukem-film-corporation-of-america-trifca-120-ref-9937)
+- [[dekuNukem] Film Corporation of America TriFCA 35 (ref: 8f0a)](#dekunukem-film-corporation-of-america-trifca-35-ref-8f0a)
 - [[dekuNukem] Fujifilm Fujichrome Professional 100D (ref: 439d)](#dekunukem-fujifilm-fujichrome-professional-100d-ref-439d)
 - [[dekuNukem] Fujifilm Fujichrome Provia 100F (ref: 1b4b)](#dekunukem-fujifilm-fujichrome-provia-100f-ref-1b4b)
 - [[dekuNukem] Fujifilm Fujichrome Provia 400 Professional (ref: b7b2)](#dekunukem-fujifilm-fujichrome-provia-400-professional-ref-b7b2)
@@ -341,6 +342,7 @@ Total scans : 625
 - [[dekuNukem] Polaroid Polacolor 679 (ref: 625c)](#dekunukem-polaroid-polacolor-679-ref-625c)
 - [[dekuNukem] Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)](#dekunukem-polaroid-polavision-phototape-land-cassette-type-608-ref-90b9)
 - [[dekuNukem] Premium Super XG (ref: 8ccd)](#dekunukem-premium-super-xg-ref-8ccd)
+- [[dekuNukem] PrinzColor Colour Negative Film (ref: 448c)](#dekunukem-prinzcolor-colour-negative-film-ref-448c)
 - [[dekuNukem] Rollei Infrared (ref: 4f54)](#dekunukem-rollei-infrared-ref-4f54)
 - [[dekuNukem] Rollei Retro 80S (ref: e6c0)](#dekunukem-rollei-retro-80s-ref-e6c0)
 - [[dekuNukem] SupaSnaps Snappit Film (ref: c41b)](#dekunukem-supasnaps-snappit-film-ref-c41b)
@@ -4822,6 +4824,55 @@ UUID  : 49fdf7859f354d85933ce875998c9937
 	<img src="./lowres/00348_005.jpg" alt="Film Corporation of America TriFCA 120 120 film box processing envelope" loading="lazy" width="500" height="378">
 </a>
 
+#### [dekuNukem] Film Corporation of America TriFCA 35 (ref: 8f0a)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 80           |  Expiry  : 1976-08 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-10-02   |  Author  : dekuNukem
+UUID  : a3346f80db3b4032a2c69665f7448f0a
+```
+
+<a href="./archive/00362_000.jpg" target="_blank">
+	<img src="./lowres/00362_000.jpg" alt="Film Corporation of America TriFCA 35 35mm film box outside" loading="lazy" width="500" height="475">
+</a>
+
+
+`UUID: fc5bf25a0e624483a581e4171fb368e1`↓
+
+<a href="./archive/00362_001.jpg" target="_blank">
+	<img src="./lowres/00362_001.jpg" alt="Film Corporation of America TriFCA 35 35mm film box leaflet" loading="lazy" width="235" height="500">
+</a>
+
+
+`UUID: ced4b9758b32450183e2359abbb2dd8a`↓
+
+<a href="./archive/00362_002.jpg" target="_blank">
+	<img src="./lowres/00362_002.jpg" alt="Film Corporation of America TriFCA 35 35mm film box leaflet" loading="lazy" width="235" height="500">
+</a>
+
+
+`UUID: 7527ca56668c467386813a8357601289`↓
+
+<a href="./archive/00362_003.jpg" target="_blank">
+	<img src="./lowres/00362_003.jpg" alt="Film Corporation of America TriFCA 35 35mm film box processing envelope" loading="lazy" width="500" height="267">
+</a>
+
+
+`UUID: 8c332dbe2d0f4a6389bbcbc8eb93e0aa`↓
+
+<a href="./archive/00362_004.jpg" target="_blank">
+	<img src="./lowres/00362_004.jpg" alt="Film Corporation of America TriFCA 35 35mm film box processing envelope" loading="lazy" width="500" height="365">
+</a>
+
+
+`UUID: c893ed2ea45f4220b7e8c463a3621b6d`↓
+
+<a href="./archive/00362_005.jpg" target="_blank">
+	<img src="./lowres/00362_005.jpg" alt="Film Corporation of America TriFCA 35 35mm film box processing envelope" loading="lazy" width="266" height="500">
+</a>
+
 #### [dekuNukem] Fujifilm Fujichrome Professional 100D (ref: 439d)
 
 ```
@@ -6467,6 +6518,48 @@ UUID  : 592592a0182a47dda6390cfc4fd18ccd
 	<img src="./lowres/00265_001.jpg" alt="Premium Super XG 35mm film box inside" loading="lazy" width="500" height="440">
 </a>
 
+#### [dekuNukem] PrinzColor Colour Negative Film (ref: 448c)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 80           |  Expiry  : 1975-10 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-10-02   |  Author  : dekuNukem
+UUID  : 1d1377fcb4fa495e9f3009a4c69b448c
+```
+
+<a href="./archive/00363_000.jpg" target="_blank">
+	<img src="./lowres/00363_000.jpg" alt="PrinzColor Colour Negative Film 35mm film box outside" loading="lazy" width="500" height="495">
+</a>
+
+
+`UUID: 95f013bdd442471d9258bb0cc8eb77fc`↓
+
+<a href="./archive/00363_001.jpg" target="_blank">
+	<img src="./lowres/00363_001.jpg" alt="PrinzColor Colour Negative Film 35mm film box processing envelope" loading="lazy" width="500" height="262">
+</a>
+
+
+`UUID: a29f494b970044eab313b00b12096cf3`↓
+
+<a href="./archive/00363_002.jpg" target="_blank">
+	<img src="./lowres/00363_002.jpg" alt="PrinzColor Colour Negative Film 35mm film box processing envelope" loading="lazy" width="260" height="500">
+</a>
+
+
+`UUID: 2672ff6891f14e44b7f3077a501ae234`↓
+
+<a href="./archive/00363_003.jpg" target="_blank">
+	<img src="./lowres/00363_003.jpg" alt="PrinzColor Colour Negative Film 35mm film box processing envelope" loading="lazy" width="500" height="453">
+</a>
+
+
+`UUID: 4e513a5356fb4b3e8bbc3b0d6ae62543`↓
+
+<a href="./archive/00363_004.jpg" target="_blank">
+	<img src="./lowres/00363_004.jpg" alt="PrinzColor Colour Negative Film 35mm film box outside" loading="lazy" width="500" height="202">
+</a>
+
 #### [dekuNukem] Rollei Infrared (ref: 4f54)
 
 ```
@@ -7274,7 +7367,7 @@ UUID  : e54ce68c797b4846b9aee3f5818ecb58
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     207   
+1     dekuNukem                     218   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            42    

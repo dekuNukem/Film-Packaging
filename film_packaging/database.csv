@@ -624,3 +624,14 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 360,1,film_box_inside,CatLABS,X Film 80 MKII,120,80,BW,202701,1759316958,a941032062c44f7025c94b916fef2bf2,aefb75faa42949bb9a8093770ec9fac8,00360_001.jpg,lt_col_tall,,Single Pack,N/A
 361,0,film_box_outside,Ilford,Delta 100 Professional,35mm,100,BW,202702,1759421401,83ba5b1f0c44ada081c96be54287abc4,179f22ce3d644d728b189f6ef7a9bf01,00361_000.jpg,kaimon,,Single Pack,36exp
 361,1,film_box_inside,Ilford,Delta 100 Professional,35mm,100,BW,202702,1759421403,23a6dac762ab258f9f4f8a380120dbd0,52be7e5732274b03a9a7423e31c12fce,00361_001.jpg,kaimon,,Single Pack,36exp
+362,0,film_box_outside,Film Corporation of America,TriFCA 35,35mm,80,Unknown,197608,1759426874,b84b742075133b193978b13adaa9757c,a3346f80db3b4032a2c69665f7448f0a,00362_000.jpg,dekuNukem,,Single Pack,20exp
+362,1,film_box_leaflet,Film Corporation of America,TriFCA 35,35mm,80,Unknown,197608,1759426876,6995835e215ce958f8375c7431e1d209,fc5bf25a0e624483a581e4171fb368e1,00362_001.jpg,dekuNukem,,Single Pack,20exp
+362,2,film_box_leaflet,Film Corporation of America,TriFCA 35,35mm,80,Unknown,197608,1759426881,dd802f497bc16dc221e654b10a6f9639,ced4b9758b32450183e2359abbb2dd8a,00362_002.jpg,dekuNukem,,Single Pack,20exp
+362,3,film_box_processing_envelope,Film Corporation of America,TriFCA 35,35mm,80,Unknown,197608,1759426885,6460fa29226b541a61fdb0464f39f63d,7527ca56668c467386813a8357601289,00362_003.jpg,dekuNukem,,Single Pack,20exp
+362,4,film_box_processing_envelope,Film Corporation of America,TriFCA 35,35mm,80,Unknown,197608,1759426888,29313eff2766f784d2ba3791940e9bf1,8c332dbe2d0f4a6389bbcbc8eb93e0aa,00362_004.jpg,dekuNukem,,Single Pack,20exp
+362,5,film_box_processing_envelope,Film Corporation of America,TriFCA 35,35mm,80,Unknown,197608,1759426896,f715076be80846d2f2b9913c7dc30cd9,c893ed2ea45f4220b7e8c463a3621b6d,00362_005.jpg,dekuNukem,,Single Pack,20exp
+363,0,film_box_outside,PrinzColor,Colour Negative Film,35mm,80,Unknown,197510,1759427023,762bf3d940405dd2bee4e390af547c6c,1d1377fcb4fa495e9f3009a4c69b448c,00363_000.jpg,dekuNukem,,Single Pack,20exp
+363,1,film_box_processing_envelope,PrinzColor,Colour Negative Film,35mm,80,Unknown,197510,1759427025,0860494fe98124f50fbbd22b288a8fa8,95f013bdd442471d9258bb0cc8eb77fc,00363_001.jpg,dekuNukem,,Single Pack,20exp
+363,2,film_box_processing_envelope,PrinzColor,Colour Negative Film,35mm,80,Unknown,197510,1759427029,c04a71cd5cc74f41eaaff09f698deac7,a29f494b970044eab313b00b12096cf3,00363_002.jpg,dekuNukem,,Single Pack,20exp
+363,3,film_box_processing_envelope,PrinzColor,Colour Negative Film,35mm,80,Unknown,197510,1759427032,cd494ba6ef53fa63daccd199b2c6b69d,2672ff6891f14e44b7f3077a501ae234,00363_003.jpg,dekuNukem,,Single Pack,20exp
+363,4,film_box_outside,PrinzColor,Colour Negative Film,35mm,80,Unknown,197510,1759427035,0f8742bbd8d0f334045162d1171bdcca,4e513a5356fb4b3e8bbc3b0d6ae62543,00363_004.jpg,dekuNukem,,Single Pack,20exp
