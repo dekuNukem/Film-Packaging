@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 01 2025
-Unique items: 357
-Total scans : 623
+Last Updated: Oct 02 2025
+Unique items: 358
+Total scans : 625
 ```
 
 -----
@@ -323,6 +323,7 @@ Total scans : 623
 - [[2026] Marix Professional Negative Movie Color Film (ref: c457)](#2026-marix-professional-negative-movie-color-film-ref-c457)
 - [[2026] Wolfen NC500 (ref: 91c1)](#2026-wolfen-nc500-ref-91c1)
 - [[2027] CatLABS X Film 80 MKII (ref: bcd1)](#2027-catlabs-x-film-80-mkii-ref-bcd1)
+- [[2027] Ilford Delta 100 Professional (ref: bf01)](#2027-ilford-delta-100-professional-ref-bf01)
 - [[2027] Kodak Ektachrome E100 (ref: ae10)](#2027-kodak-ektachrome-e100-ref-ae10)
 - [[2027] Foma Fomapan Creative 200 (ref: 3e4f)](#2027-foma-fomapan-creative-200-ref-3e4f)
 - [[2027] Kodak UltraMax (ref: aaa6)](#2027-kodak-ultramax-ref-aaa6)
@@ -6242,6 +6243,27 @@ UUID  : 98b415dbd4184372b8568b2b99a1bcd1
 	<img src="./lowres/00360_001.jpg" alt="CatLABS X Film 80 MKII 120 film box inside" loading="lazy" width="500" height="427">
 </a>
 
+#### [2027] Ilford Delta 100 Professional (ref: bf01)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2027-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-02   |  Author  : kaimon  
+UUID  : 179f22ce3d644d728b189f6ef7a9bf01
+```
+
+<a href="./archive/00361_000.jpg" target="_blank">
+	<img src="./lowres/00361_000.jpg" alt="Ilford Delta 100 Professional 35mm film box outside" loading="lazy" width="410" height="499">
+</a>
+
+
+`UUID: 52be7e5732274b03a9a7423e31c12fce`↓
+
+<a href="./archive/00361_001.jpg" target="_blank">
+	<img src="./lowres/00361_001.jpg" alt="Ilford Delta 100 Professional 35mm film box inside" loading="lazy" width="404" height="500">
+</a>
+
 #### [2027] Kodak Ektachrome E100 (ref: ae10)
 
 ```
@@ -7272,12 +7294,12 @@ Rank  Username                      Contributions
 18    @filmfotofella                7     
 19    benikum                       6     
 20    lt_col_tall                   6     
-21    GreatGizmo74                  6     
-22    @Hol.m35                      5     
-23    Kraksen                       5     
-24    Henry Gunn                    4     
-25    u/ReeeSchmidtyWerber          4     
-26    kaimon                        4     
+21    kaimon                        6     
+22    GreatGizmo74                  6     
+23    @Hol.m35                      5     
+24    Kraksen                       5     
+25    Henry Gunn                    4     
+26    u/ReeeSchmidtyWerber          4     
 27    TheSelousScout                3     
 28    @sachynmital                  3     
 29    @seklerek                     2     

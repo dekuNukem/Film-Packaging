@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 01 2025
-Unique items: 357
-Total scans : 623
+Last Updated: Oct 02 2025
+Unique items: 358
+Total scans : 625
 ```
 
 Or Sort by...
@@ -73,12 +73,12 @@ Rank  Username                      Contributions
 18    @filmfotofella                7     
 19    benikum                       6     
 20    lt_col_tall                   6     
-21    GreatGizmo74                  6     
-22    @Hol.m35                      5     
-23    Kraksen                       5     
-24    Henry Gunn                    4     
-25    u/ReeeSchmidtyWerber          4     
-26    kaimon                        4     
+21    kaimon                        6     
+22    GreatGizmo74                  6     
+23    @Hol.m35                      5     
+24    Kraksen                       5     
+25    Henry Gunn                    4     
+26    u/ReeeSchmidtyWerber          4     
 27    TheSelousScout                3     
 28    @sachynmital                  3     
 29    @seklerek                     2     
@@ -92,6 +92,9 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-10-02
+  - kaimon: Ilford Delta 100 Professional
+
 2025-10-01
   - lt_col_tall: CatLABS X Film 80 MKII
 
@@ -123,20 +126,6 @@ Rank  Username                      Contributions
   - The Compartmentalist: Kodak Portra 160
   - The Compartmentalist: Kodak UltraMax
   - The Compartmentalist: Lomography Lomochrome Color’92
-
-2025-09-13
-  - @filmfotofella: CineStill 400Dynamic
-  - @filmfotofella: Kodak 110 Film
-  - @filmfotofella: Kodak Kodacolor 400
-  - @filmfotofella: Kodak Ultra
-  - dekuNukem: Agfa Agfacolor HDC Plus
-  - dekuNukem: Agfa Agfacolor Vista
-  - dekuNukem: Kodak Advantix Ultra Max
-  - dekuNukem: Kodak Kodacolor II
-  - dekuNukem: Polaroid High Definition
-  - dekuNukem: SupaSnaps Snappit Film
-  - GreatGizmo74: Jessops CS100
-  - GreatGizmo74: Jessops Diamond Everyday
 ```
 
 ## Disclaimer

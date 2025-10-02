@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 01 2025
-Unique items: 357
-Total scans : 623
+Last Updated: Oct 02 2025
+Unique items: 358
+Total scans : 625
 ```
 
 -----
@@ -354,6 +354,7 @@ Total scans : 623
 - [[fine-seat] Kodak Gold (ref: 2f8d)](#fine-seat-kodak-gold-ref-2f8d)
 - [[fine-seat] Kodak Kodacolor VR Plus (ref: f8bf)](#fine-seat-kodak-kodacolor-vr-plus-ref-f8bf)
 - [[fine-seat] ORWO Chrom UT21 (ref: 3fd5)](#fine-seat-orwo-chrom-ut21-ref-3fd5)
+- [[kaimon] Ilford Delta 100 Professional (ref: bf01)](#kaimon-ilford-delta-100-professional-ref-bf01)
 - [[kaimon] Ilford Ilfochrome (ref: ac24)](#kaimon-ilford-ilfochrome-ref-ac24)
 - [[kaimon] Kodak High Speed Ektachrome (ref: 7533)](#kaimon-kodak-high-speed-ektachrome-ref-7533)
 - [[lemoniter] Club Color Natural Color System (ref: 813a)](#lemoniter-club-color-natural-color-system-ref-813a)
@@ -6732,6 +6733,27 @@ UUID  : e3f739b7106044949b4f101684ad3fd5
 	<img src="./lowres/00359_004.jpg" alt="ORWO Chrom UT21 35mm film box processing envelope" loading="lazy" width="282" height="500">
 </a>
 
+#### [kaimon] Ilford Delta 100 Professional (ref: bf01)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2027-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-02   |  Author  : kaimon  
+UUID  : 179f22ce3d644d728b189f6ef7a9bf01
+```
+
+<a href="./archive/00361_000.jpg" target="_blank">
+	<img src="./lowres/00361_000.jpg" alt="Ilford Delta 100 Professional 35mm film box outside" loading="lazy" width="410" height="499">
+</a>
+
+
+`UUID: 52be7e5732274b03a9a7423e31c12fce`↓
+
+<a href="./archive/00361_001.jpg" target="_blank">
+	<img src="./lowres/00361_001.jpg" alt="Ilford Delta 100 Professional 35mm film box inside" loading="lazy" width="404" height="500">
+</a>
+
 #### [kaimon] Ilford Ilfochrome (ref: ac24)
 
 ```
@@ -7272,12 +7294,12 @@ Rank  Username                      Contributions
 18    @filmfotofella                7     
 19    benikum                       6     
 20    lt_col_tall                   6     
-21    GreatGizmo74                  6     
-22    @Hol.m35                      5     
-23    Kraksen                       5     
-24    Henry Gunn                    4     
-25    u/ReeeSchmidtyWerber          4     
-26    kaimon                        4     
+21    kaimon                        6     
+22    GreatGizmo74                  6     
+23    @Hol.m35                      5     
+24    Kraksen                       5     
+25    Henry Gunn                    4     
+26    u/ReeeSchmidtyWerber          4     
 27    TheSelousScout                3     
 28    @sachynmital                  3     
 29    @seklerek                     2     

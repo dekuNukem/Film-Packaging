@@ -622,3 +622,5 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 359,4,film_box_processing_envelope,ORWO,Chrom UT21,35mm,100,Unknown,199105,1759071356,6c0c281f3cea1785706495d964f904da,1340536f2f4b408a9129dea625da8168,00359_004.jpg,fine-seat,,Single Pack,24exp
 360,0,film_box_outside,CatLABS,X Film 80 MKII,120,80,BW,202701,1759316896,4d0e90244bd23dac7afbf583cafbed7c,98b415dbd4184372b8568b2b99a1bcd1,00360_000.jpg,lt_col_tall,,Single Pack,N/A
 360,1,film_box_inside,CatLABS,X Film 80 MKII,120,80,BW,202701,1759316958,a941032062c44f7025c94b916fef2bf2,aefb75faa42949bb9a8093770ec9fac8,00360_001.jpg,lt_col_tall,,Single Pack,N/A
+361,0,film_box_outside,Ilford,Delta 100 Professional,35mm,100,BW,202702,1759421401,83ba5b1f0c44ada081c96be54287abc4,179f22ce3d644d728b189f6ef7a9bf01,00361_000.jpg,kaimon,,Single Pack,36exp
+361,1,film_box_inside,Ilford,Delta 100 Professional,35mm,100,BW,202702,1759421403,23a6dac762ab258f9f4f8a380120dbd0,52be7e5732274b03a9a7423e31c12fce,00361_001.jpg,kaimon,,Single Pack,36exp
