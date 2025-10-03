@@ -15,13 +15,15 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 02 2025
-Unique items: 360
-Total scans : 636
+Last Updated: Oct 03 2025
+Unique items: 362
+Total scans : 640
 ```
 
 -----
 
+- [[2025-10-03] Kodak Tri-X 400 Pro (ref: f05c)](#2025-10-03-kodak-tri-x-400-pro-ref-f05c)
+- [[2025-10-03] Polaroid Image Instant Film (ref: ee6d)](#2025-10-03-polaroid-image-instant-film-ref-ee6d)
 - [[2025-10-02] PrinzColor Colour Negative Film (ref: 448c)](#2025-10-02-prinzcolor-colour-negative-film-ref-448c)
 - [[2025-10-02] Film Corporation of America TriFCA 35 (ref: 8f0a)](#2025-10-02-film-corporation-of-america-trifca-35-ref-8f0a)
 - [[2025-10-02] Ilford Delta 100 Professional (ref: bf01)](#2025-10-02-ilford-delta-100-professional-ref-bf01)
@@ -385,6 +387,48 @@ Total scans : 636
 
 
 -----
+
+
+`UUID: 7cde8a5a159c441f9bad7f7f5d8cba98`↓
+
+<a href="./archive/00365_001.jpg" target="_blank">
+	<img src="./lowres/00365_001.jpg" alt="Kodak Tri-X 400 Pro 120 film box inside" loading="lazy" width="384" height="500">
+</a>
+
+#### [2025-10-03] Kodak Tri-X 400 Pro (ref: f05c)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-10-03   |  Author  : @ellafridalindblom
+UUID  : dd34c2bc1fe34b17b67c6ad002bef05c
+```
+
+<a href="./archive/00365_000.jpg" target="_blank">
+	<img src="./lowres/00365_000.jpg" alt="Kodak Tri-X 400 Pro 120 film box outside" loading="lazy" width="382" height="500">
+</a>
+
+
+`UUID: c2742bb793f34d90a0365bb82e0160df`↓
+
+<a href="./archive/00364_001.jpg" target="_blank">
+	<img src="./lowres/00364_001.jpg" alt="Polaroid Image Instant Film Integral Film film box inside" loading="lazy" width="303" height="500">
+</a>
+
+#### [2025-10-03] Polaroid Image Instant Film (ref: ee6d)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2007-07 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2025-10-03   |  Author  : @ellafridalindblom
+UUID  : 6a3ab27a3a964d7c9ecc38dbce2fee6d
+```
+
+<a href="./archive/00364_000.jpg" target="_blank">
+	<img src="./lowres/00364_000.jpg" alt="Polaroid Image Instant Film Integral Film film box outside" loading="lazy" width="293" height="500">
+</a>
 
 
 `UUID: 4e513a5356fb4b3e8bbc3b0d6ae62543`↓
@@ -7370,7 +7414,7 @@ Rank  Username                      Contributions
 1     dekuNukem                     218   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
-4     @ellafridalindblom            42    
+4     @ellafridalindblom            46    
 5     The Compartmentalist          25    
 6     fine-seat                     19    
 7     Camera.Riley                  19    

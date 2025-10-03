@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 02 2025
-Unique items: 360
-Total scans : 636
+Last Updated: Oct 03 2025
+Unique items: 362
+Total scans : 640
 ```
 
 -----
@@ -101,6 +101,7 @@ Total scans : 636
 - [[120] Kodak TMAX 100 (ref: b3b1)](#120-kodak-tmax-100-ref-b3b1)
 - [[120] Kodak Technical Pan 6415 (ref: 03be)](#120-kodak-technical-pan-6415-ref-03be)
 - [[120] Kodak Tri-X 400 (ref: 88c5)](#120-kodak-tri-x-400-ref-88c5)
+- [[120] Kodak Tri-X 400 Pro (ref: f05c)](#120-kodak-tri-x-400-pro-ref-f05c)
 - [[120] Kodak Tri-X Pan (ref: f201)](#120-kodak-tri-x-pan-ref-f201)
 - [[120] Kodak Vericolor 400 Plus (ref: bd88)](#120-kodak-vericolor-400-plus-ref-bd88)
 - [[120] Kodak Vericolor III (ref: 4b3e)](#120-kodak-vericolor-iii-ref-4b3e)
@@ -374,6 +375,7 @@ Total scans : 636
 - [[Integral Film] Polaroid Color 600 Film Round Frame (ref: d985)](#integral-film-polaroid-color-600-film-round-frame-ref-d985)
 - [[Integral Film] Polaroid Color SX-70 Film (ref: dc7f)](#integral-film-polaroid-color-sx-70-film-ref-dc7f)
 - [[Integral Film] Polaroid GridFilm (ref: 8deb)](#integral-film-polaroid-gridfilm-ref-8deb)
+- [[Integral Film] Polaroid Image Instant Film (ref: ee6d)](#integral-film-polaroid-image-instant-film-ref-ee6d)
 - [[Integral Film] Polaroid Spectra Film (ref: 7a94)](#integral-film-polaroid-spectra-film-ref-7a94)
 - [[Pack Film] Fujifilm FP-100C (ref: 5cda)](#pack-film-fujifilm-fp-100c-ref-5cda)
 - [[Pack Film] Polaroid 665 (ref: e054)](#pack-film-polaroid-665-ref-e054)
@@ -2057,6 +2059,27 @@ UUID  : f7f99b9d46a4491c9cbfda4f030f88c5
 
 <a href="./archive/00028_000.jpg" target="_blank">
 	<img src="./lowres/00028_000.jpg" alt="Kodak Tri-X 400 120 film box outside" loading="lazy" width="408" height="500">
+</a>
+
+#### [120] Kodak Tri-X 400 Pro (ref: f05c)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-10-03   |  Author  : @ellafridalindblom
+UUID  : dd34c2bc1fe34b17b67c6ad002bef05c
+```
+
+<a href="./archive/00365_000.jpg" target="_blank">
+	<img src="./lowres/00365_000.jpg" alt="Kodak Tri-X 400 Pro 120 film box outside" loading="lazy" width="382" height="500">
+</a>
+
+
+`UUID: 7cde8a5a159c441f9bad7f7f5d8cba98`↓
+
+<a href="./archive/00365_001.jpg" target="_blank">
+	<img src="./lowres/00365_001.jpg" alt="Kodak Tri-X 400 Pro 120 film box inside" loading="lazy" width="384" height="500">
 </a>
 
 #### [120] Kodak Tri-X Pan (ref: f201)
@@ -7183,6 +7206,27 @@ UUID  : 4f1aabf29f724c9ea3b2bee414b08deb
 	<img src="./lowres/00031_003.jpg" alt="Polaroid GridFilm Integral Film film box inside" loading="lazy" width="500" height="340">
 </a>
 
+#### [Integral Film] Polaroid Image Instant Film (ref: ee6d)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2007-07 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2025-10-03   |  Author  : @ellafridalindblom
+UUID  : 6a3ab27a3a964d7c9ecc38dbce2fee6d
+```
+
+<a href="./archive/00364_000.jpg" target="_blank">
+	<img src="./lowres/00364_000.jpg" alt="Polaroid Image Instant Film Integral Film film box outside" loading="lazy" width="293" height="500">
+</a>
+
+
+`UUID: c2742bb793f34d90a0365bb82e0160df`↓
+
+<a href="./archive/00364_001.jpg" target="_blank">
+	<img src="./lowres/00364_001.jpg" alt="Polaroid Image Instant Film Integral Film film box inside" loading="lazy" width="303" height="500">
+</a>
+
 #### [Integral Film] Polaroid Spectra Film (ref: 7a94)
 
 ```
@@ -7370,7 +7414,7 @@ Rank  Username                      Contributions
 1     dekuNukem                     218   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
-4     @ellafridalindblom            42    
+4     @ellafridalindblom            46    
 5     The Compartmentalist          25    
 6     fine-seat                     19    
 7     Camera.Riley                  19    

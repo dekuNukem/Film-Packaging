@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 02 2025
-Unique items: 360
-Total scans : 636
+Last Updated: Oct 03 2025
+Unique items: 362
+Total scans : 640
 ```
 
 Or Sort by...
@@ -56,7 +56,7 @@ Rank  Username                      Contributions
 1     dekuNukem                     218   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
-4     @ellafridalindblom            42    
+4     @ellafridalindblom            46    
 5     The Compartmentalist          25    
 6     fine-seat                     19    
 7     Camera.Riley                  19    
@@ -92,6 +92,10 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-10-03
+  - @ellafridalindblom: Kodak Tri-X 400 Pro
+  - @ellafridalindblom: Polaroid Image Instant Film
+
 2025-10-02
   - dekuNukem: Film Corporation of America TriFCA 35
   - dekuNukem: PrinzColor Colour Negative Film
@@ -116,18 +120,6 @@ Rank  Username                      Contributions
   - dekuNukem: Fujifilm Fujicolor HR 1600
   - dekuNukem: Polaroid 990
   - dekuNukem: Polaroid Polavision Phototape Land Cassette Type 608
-
-2025-09-17
-  - @ellafridalindblom: Fujifilm Fujichrome 64T
-  - @ellafridalindblom: Fujifilm Neopan 400 Presto
-  - @ellafridalindblom: Fujifilm Neopan SS
-  - @ellafridalindblom: Ificolor SHR 100
-  - @ellafridalindblom: Ificolor Super FG HQ 200
-  - @ellafridalindblom: Kodak Tri-X Pan
-  - @ellafridalindblom: Konica Sepia Professional
-  - The Compartmentalist: Kodak Portra 160
-  - The Compartmentalist: Kodak UltraMax
-  - The Compartmentalist: Lomography Lomochrome Color’92
 ```
 
 ## Disclaimer

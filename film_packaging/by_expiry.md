@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 02 2025
-Unique items: 360
-Total scans : 636
+Last Updated: Oct 03 2025
+Unique items: 362
+Total scans : 640
 ```
 
 -----
@@ -193,6 +193,7 @@ Total scans : 636
 - [[2007] Kodak Kodachrome 64 (ref: 3206)](#2007-kodak-kodachrome-64-ref-3206)
 - [[2007] Klick Max Extra Definition Multi Purpose Film (ref: 8ae4)](#2007-klick-max-extra-definition-multi-purpose-film-ref-8ae4)
 - [[2007] Ilford Delta 400 Professional (ref: 8f8b)](#2007-ilford-delta-400-professional-ref-8f8b)
+- [[2007] Polaroid Image Instant Film (ref: ee6d)](#2007-polaroid-image-instant-film-ref-ee6d)
 - [[2007] Lloyds Pharmacy APS Film (ref: c7cf)](#2007-lloyds-pharmacy-aps-film-ref-c7cf)
 - [[2007] Fujifilm Fujicolor Pro 400H (ref: 48ed)](#2007-fujifilm-fujicolor-pro-400h-ref-48ed)
 - [[2007] Kodak Elite Chrome (ref: 3943)](#2007-kodak-elite-chrome-ref-3943)
@@ -376,6 +377,7 @@ Total scans : 636
 - [[Unknown] Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)](#unknown-impossible-project-px-600-silver-shade-uv-ref-20f3)
 - [[Unknown] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#unknown-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
 - [[Unknown] Kodak Eastman Tri-X Reversal Film 7278 (ref: 8468)](#unknown-kodak-eastman-tri-x-reversal-film-7278-ref-8468)
+- [[Unknown] Kodak Tri-X 400 Pro (ref: f05c)](#unknown-kodak-tri-x-400-pro-ref-f05c)
 - [[Unknown] Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#unknown-mutascan-kodak-vision3-500t5219-ref-5150)
 - [[Unknown] Perutz Superomnia (ref: c90d)](#unknown-perutz-superomnia-ref-c90d)
 - [[Unknown] Phöbus-Platten Sheet Film (ref: d505)](#unknown-phöbus-platten-sheet-film-ref-d505)
@@ -4082,6 +4084,27 @@ UUID  : f38dd0735c2e441088b421eec4678f8b
 	<img src="./lowres/00309_001.jpg" alt="Ilford Delta 400 Professional 35mm film box inside" loading="lazy" width="433" height="500">
 </a>
 
+#### [2007] Polaroid Image Instant Film (ref: ee6d)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2007-07 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2025-10-03   |  Author  : @ellafridalindblom
+UUID  : 6a3ab27a3a964d7c9ecc38dbce2fee6d
+```
+
+<a href="./archive/00364_000.jpg" target="_blank">
+	<img src="./lowres/00364_000.jpg" alt="Polaroid Image Instant Film Integral Film film box outside" loading="lazy" width="293" height="500">
+</a>
+
+
+`UUID: c2742bb793f34d90a0365bb82e0160df`↓
+
+<a href="./archive/00364_001.jpg" target="_blank">
+	<img src="./lowres/00364_001.jpg" alt="Polaroid Image Instant Film Integral Film film box inside" loading="lazy" width="303" height="500">
+</a>
+
 #### [2007] Lloyds Pharmacy APS Film (ref: c7cf)
 
 ```
@@ -7267,6 +7290,27 @@ UUID  : e214a4d756ac48c4ac6dbe515fd38468
 	<img src="./lowres/00176_000.jpg" alt="Kodak Eastman Tri-X Reversal Film 7278 16mm film box outside" loading="lazy" width="493" height="500">
 </a>
 
+#### [Unknown] Kodak Tri-X 400 Pro (ref: f05c)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-10-03   |  Author  : @ellafridalindblom
+UUID  : dd34c2bc1fe34b17b67c6ad002bef05c
+```
+
+<a href="./archive/00365_000.jpg" target="_blank">
+	<img src="./lowres/00365_000.jpg" alt="Kodak Tri-X 400 Pro 120 film box outside" loading="lazy" width="382" height="500">
+</a>
+
+
+`UUID: 7cde8a5a159c441f9bad7f7f5d8cba98`↓
+
+<a href="./archive/00365_001.jpg" target="_blank">
+	<img src="./lowres/00365_001.jpg" alt="Kodak Tri-X 400 Pro 120 film box inside" loading="lazy" width="384" height="500">
+</a>
+
 #### [Unknown] Mutascan Kodak Vision3 500T/5219 (ref: 5150)
 
 ```
@@ -7370,7 +7414,7 @@ Rank  Username                      Contributions
 1     dekuNukem                     218   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
-4     @ellafridalindblom            42    
+4     @ellafridalindblom            46    
 5     The Compartmentalist          25    
 6     fine-seat                     19    
 7     Camera.Riley                  19    

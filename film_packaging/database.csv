@@ -635,3 +635,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 363,2,film_box_processing_envelope,PrinzColor,Colour Negative Film,35mm,80,Unknown,197510,1759427029,c04a71cd5cc74f41eaaff09f698deac7,a29f494b970044eab313b00b12096cf3,00363_002.jpg,dekuNukem,,Single Pack,20exp
 363,3,film_box_processing_envelope,PrinzColor,Colour Negative Film,35mm,80,Unknown,197510,1759427032,cd494ba6ef53fa63daccd199b2c6b69d,2672ff6891f14e44b7f3077a501ae234,00363_003.jpg,dekuNukem,,Single Pack,20exp
 363,4,film_box_outside,PrinzColor,Colour Negative Film,35mm,80,Unknown,197510,1759427035,0f8742bbd8d0f334045162d1171bdcca,4e513a5356fb4b3e8bbc3b0d6ae62543,00363_004.jpg,dekuNukem,,Single Pack,20exp
+364,0,film_box_outside,Polaroid,Image Instant Film,Integral Film,640,Instant,200707,1759500648,966c6da46903d7a21752db097be3d9f0,6a3ab27a3a964d7c9ecc38dbce2fee6d,00364_000.jpg,@ellafridalindblom,,Single Pack,10exp
+364,1,film_box_inside,Polaroid,Image Instant Film,Integral Film,640,Instant,200707,1759500650,f51c0c0c8559b521f508c6ea9b96dd5c,c2742bb793f34d90a0365bb82e0160df,00364_001.jpg,@ellafridalindblom,,Single Pack,10exp
+365,0,film_box_outside,Kodak,Tri-X 400 Pro,120,400,BW,Unknown,1759500732,5e22c4494aecca3342f729ec6c4b28dc,dd34c2bc1fe34b17b67c6ad002bef05c,00365_000.jpg,@ellafridalindblom,,Multi-Pack-5,N/A
+365,1,film_box_inside,Kodak,Tri-X 400 Pro,120,400,BW,Unknown,1759500737,efa1de9cfc77c86a86d2f7b53cf2a170,7cde8a5a159c441f9bad7f7f5d8cba98,00365_001.jpg,@ellafridalindblom,,Multi-Pack-5,N/A

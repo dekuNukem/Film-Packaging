@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 02 2025
-Unique items: 360
-Total scans : 636
+Last Updated: Oct 03 2025
+Unique items: 362
+Total scans : 640
 ```
 
 -----
@@ -59,11 +59,13 @@ Total scans : 636
 - [[@ellafridalindblom] Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)](#ellafridalindblom-impossible-project-px-600-silver-shade-uv-ref-20f3)
 - [[@ellafridalindblom] Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#ellafridalindblom-kodak-ektachrome-slide-duplicating-film-ref-d53a)
 - [[@ellafridalindblom] Kodak High Speed Infrared Film 2481 (ref: aa7a)](#ellafridalindblom-kodak-high-speed-infrared-film-2481-ref-aa7a)
+- [[@ellafridalindblom] Kodak Tri-X 400 Pro (ref: f05c)](#ellafridalindblom-kodak-tri-x-400-pro-ref-f05c)
 - [[@ellafridalindblom] Kodak Tri-X Pan (ref: f201)](#ellafridalindblom-kodak-tri-x-pan-ref-f201)
 - [[@ellafridalindblom] Konica Infrared 750nm (ref: 6b0e)](#ellafridalindblom-konica-infrared-750nm-ref-6b0e)
 - [[@ellafridalindblom] Konica Sepia Professional (ref: 0b40)](#ellafridalindblom-konica-sepia-professional-ref-0b40)
 - [[@ellafridalindblom] Konica Minolta Commercial Color Film (ref: e903)](#ellafridalindblom-konica-minolta-commercial-color-film-ref-e903)
 - [[@ellafridalindblom] Phöbus-Platten Sheet Film (ref: d505)](#ellafridalindblom-phöbus-platten-sheet-film-ref-d505)
+- [[@ellafridalindblom] Polaroid Image Instant Film (ref: ee6d)](#ellafridalindblom-polaroid-image-instant-film-ref-ee6d)
 - [[@ellafridalindblom] Polaroid Spectra Film (ref: 7a94)](#ellafridalindblom-polaroid-spectra-film-ref-7a94)
 - [[@filmfotofella] CineStill 400Dynamic (ref: fccd)](#filmfotofella-cinestill-400dynamic-ref-fccd)
 - [[@filmfotofella] Kodak 110 Film (ref: 8cca)](#filmfotofella-kodak-110-film-ref-8cca)
@@ -1002,6 +1004,27 @@ UUID  : 6670d5214ea545e99bfb7aadb6d4aa7a
 	<img src="./lowres/00353_000.jpg" alt="Kodak High Speed Infrared Film 2481 35mm film box outside" loading="lazy" width="500" height="489">
 </a>
 
+#### [@ellafridalindblom] Kodak Tri-X 400 Pro (ref: f05c)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2025-10-03   |  Author  : @ellafridalindblom
+UUID  : dd34c2bc1fe34b17b67c6ad002bef05c
+```
+
+<a href="./archive/00365_000.jpg" target="_blank">
+	<img src="./lowres/00365_000.jpg" alt="Kodak Tri-X 400 Pro 120 film box outside" loading="lazy" width="382" height="500">
+</a>
+
+
+`UUID: 7cde8a5a159c441f9bad7f7f5d8cba98`↓
+
+<a href="./archive/00365_001.jpg" target="_blank">
+	<img src="./lowres/00365_001.jpg" alt="Kodak Tri-X 400 Pro 120 film box inside" loading="lazy" width="384" height="500">
+</a>
+
 #### [@ellafridalindblom] Kodak Tri-X Pan (ref: f201)
 
 ```
@@ -1098,6 +1121,27 @@ UUID  : d9b0fa92fbbb494085ce494cc407d505
 
 <a href="./archive/00282_000.jpg" target="_blank">
 	<img src="./lowres/00282_000.jpg" alt="Phöbus-Platten Sheet Film 12x16.5cm film box outside" loading="lazy" width="500" height="419">
+</a>
+
+#### [@ellafridalindblom] Polaroid Image Instant Film (ref: ee6d)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2007-07 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2025-10-03   |  Author  : @ellafridalindblom
+UUID  : 6a3ab27a3a964d7c9ecc38dbce2fee6d
+```
+
+<a href="./archive/00364_000.jpg" target="_blank">
+	<img src="./lowres/00364_000.jpg" alt="Polaroid Image Instant Film Integral Film film box outside" loading="lazy" width="293" height="500">
+</a>
+
+
+`UUID: c2742bb793f34d90a0365bb82e0160df`↓
+
+<a href="./archive/00364_001.jpg" target="_blank">
+	<img src="./lowres/00364_001.jpg" alt="Polaroid Image Instant Film Integral Film film box inside" loading="lazy" width="303" height="500">
 </a>
 
 #### [@ellafridalindblom] Polaroid Spectra Film (ref: 7a94)
@@ -7370,7 +7414,7 @@ Rank  Username                      Contributions
 1     dekuNukem                     218   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
-4     @ellafridalindblom            42    
+4     @ellafridalindblom            46    
 5     The Compartmentalist          25    
 6     fine-seat                     19    
 7     Camera.Riley                  19    
