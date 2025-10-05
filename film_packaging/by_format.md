@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 05 2025
-Unique items: 364
-Total scans : 644
+Unique items: 366
+Total scans : 647
 ```
 
 -----
@@ -351,6 +351,8 @@ Total scans : 644
 - [[35mm] Svema Foto 400 (ref: 26ad)](#35mm-svema-foto-400-ref-26ad)
 - [[35mm] Tasma OCh 50 (ref: 5c43)](#35mm-tasma-och-50-ref-5c43)
 - [[35mm] Three Film Rolls 5207 (ref: 0292)](#35mm-three-film-rolls-5207-ref-0292)
+- [[35mm] VEB Fotochemische Werke Berlin Dekopan Feinkorn (ref: dba0)](#35mm-veb-fotochemische-werke-berlin-dekopan-feinkorn-ref-dba0)
+- [[35mm] VEB Fotochemische Werke Berlin Dekopan Super S (ref: 1620)](#35mm-veb-fotochemische-werke-berlin-dekopan-super-s-ref-1620)
 - [[35mm] Walkens Speed 400 (ref: 740f)](#35mm-walkens-speed-400-ref-740f)
 - [[35mm] Wolfen NC500 (ref: 91c1)](#35mm-wolfen-nc500-ref-91c1)
 - [[35mm] Wolfen NP100 (ref: 71a6)](#35mm-wolfen-np100-ref-71a6)
@@ -6788,6 +6790,41 @@ UUID  : 4de0f5e76dd748c488fa81be23340292
 	<img src="./lowres/00059_000.jpg" alt="Three Film Rolls 5207 35mm film box outside" loading="lazy" width="452" height="500">
 </a>
 
+#### [35mm] VEB Fotochemische Werke Berlin Dekopan Feinkorn (ref: dba0)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 32           |  Expiry  : 1961-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-05   |  Author  : benikum 
+UUID  : a26198b637074f36b099870688e7dba0
+```
+
+<a href="./archive/00368_000.jpg" target="_blank">
+	<img src="./lowres/00368_000.jpg" alt="VEB Fotochemische Werke Berlin Dekopan Feinkorn 35mm film box outside" loading="lazy" width="500" height="406">
+</a>
+
+#### [35mm] VEB Fotochemische Werke Berlin Dekopan Super S (ref: 1620)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 80           |  Expiry  : 1961-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-05   |  Author  : benikum 
+UUID  : da22aec5f8564cd8b34023047f511620
+```
+
+<a href="./archive/00369_000.jpg" target="_blank">
+	<img src="./lowres/00369_000.jpg" alt="VEB Fotochemische Werke Berlin Dekopan Super S 35mm film box outside" loading="lazy" width="500" height="401">
+</a>
+
+
+`UUID: 4220a86f04794b568159c0b119859985`↓
+
+<a href="./archive/00369_001.jpg" target="_blank">
+	<img src="./lowres/00369_001.jpg" alt="VEB Fotochemische Werke Berlin Dekopan Super S 35mm film box inside" loading="lazy" width="500" height="250">
+</a>
+
 #### [35mm] Walkens Speed 400 (ref: 740f)
 
 ```
@@ -7470,10 +7507,10 @@ Rank  Username                      Contributions
 13    toader                        13    
 14    yc128                         11    
 15    @zruk_ts                      10    
-16    lilyu.xyz                     9     
-17    @toastergod101                7     
-18    @filmfotofella                7     
-19    benikum                       6     
+16    benikum                       9     
+17    lilyu.xyz                     9     
+18    @toastergod101                7     
+19    @filmfotofella                7     
 20    lt_col_tall                   6     
 21    kaimon                        6     
 22    GreatGizmo74                  6     

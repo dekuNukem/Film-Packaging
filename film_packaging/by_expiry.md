@@ -16,14 +16,16 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 05 2025
-Unique items: 364
-Total scans : 644
+Unique items: 366
+Total scans : 647
 ```
 
 -----
 
 - [[1941] Agfa Fine-Grain Plenachrome (ref: e5d4)](#1941-agfa-fine-grain-plenachrome-ref-e5d4)
 - [[1946] Agfa Isopan FF (ref: 3700)](#1946-agfa-isopan-ff-ref-3700)
+- [[1961] VEB Fotochemische Werke Berlin Dekopan Feinkorn (ref: dba0)](#1961-veb-fotochemische-werke-berlin-dekopan-feinkorn-ref-dba0)
+- [[1961] VEB Fotochemische Werke Berlin Dekopan Super S (ref: 1620)](#1961-veb-fotochemische-werke-berlin-dekopan-super-s-ref-1620)
 - [[1963] Kodak High Speed Ektachrome (ref: ce7f)](#1963-kodak-high-speed-ektachrome-ref-ce7f)
 - [[1963] Agfa Isopan ISS (ref: 75fa)](#1963-agfa-isopan-iss-ref-75fa)
 - [[1964] ADOX KB17 (ref: 2c95)](#1964-adox-kb17-ref-2c95)
@@ -423,6 +425,41 @@ UUID  : 9ea6437ea85442048ffe63b8b64c3700
 
 <a href="./archive/00101_000.jpg" target="_blank">
 	<img src="./lowres/00101_000.jpg" alt="Agfa Isopan FF 35mm film box outside" loading="lazy" width="500" height="427">
+</a>
+
+#### [1961] VEB Fotochemische Werke Berlin Dekopan Feinkorn (ref: dba0)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 32           |  Expiry  : 1961-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-05   |  Author  : benikum 
+UUID  : a26198b637074f36b099870688e7dba0
+```
+
+<a href="./archive/00368_000.jpg" target="_blank">
+	<img src="./lowres/00368_000.jpg" alt="VEB Fotochemische Werke Berlin Dekopan Feinkorn 35mm film box outside" loading="lazy" width="500" height="406">
+</a>
+
+#### [1961] VEB Fotochemische Werke Berlin Dekopan Super S (ref: 1620)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 80           |  Expiry  : 1961-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-05   |  Author  : benikum 
+UUID  : da22aec5f8564cd8b34023047f511620
+```
+
+<a href="./archive/00369_000.jpg" target="_blank">
+	<img src="./lowres/00369_000.jpg" alt="VEB Fotochemische Werke Berlin Dekopan Super S 35mm film box outside" loading="lazy" width="500" height="401">
+</a>
+
+
+`UUID: 4220a86f04794b568159c0b119859985`↓
+
+<a href="./archive/00369_001.jpg" target="_blank">
+	<img src="./lowres/00369_001.jpg" alt="VEB Fotochemische Werke Berlin Dekopan Super S 35mm film box inside" loading="lazy" width="500" height="250">
 </a>
 
 #### [1963] Kodak High Speed Ektachrome (ref: ce7f)
@@ -7470,10 +7507,10 @@ Rank  Username                      Contributions
 13    toader                        13    
 14    yc128                         11    
 15    @zruk_ts                      10    
-16    lilyu.xyz                     9     
-17    @toastergod101                7     
-18    @filmfotofella                7     
-19    benikum                       6     
+16    benikum                       9     
+17    lilyu.xyz                     9     
+18    @toastergod101                7     
+19    @filmfotofella                7     
 20    lt_col_tall                   6     
 21    kaimon                        6     
 22    GreatGizmo74                  6     

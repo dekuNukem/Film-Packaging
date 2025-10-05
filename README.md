@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Oct 05 2025
-Unique items: 364
-Total scans : 644
+Unique items: 366
+Total scans : 647
 ```
 
 Or Sort by...
@@ -68,10 +68,10 @@ Rank  Username                      Contributions
 13    toader                        13    
 14    yc128                         11    
 15    @zruk_ts                      10    
-16    lilyu.xyz                     9     
-17    @toastergod101                7     
-18    @filmfotofella                7     
-19    benikum                       6     
+16    benikum                       9     
+17    lilyu.xyz                     9     
+18    @toastergod101                7     
+19    @filmfotofella                7     
 20    lt_col_tall                   6     
 21    kaimon                        6     
 22    GreatGizmo74                  6     
@@ -93,6 +93,8 @@ Rank  Username                      Contributions
 
 ```
 2025-10-05
+  - benikum: VEB Fotochemische Werke Berlin Dekopan Feinkorn
+  - benikum: VEB Fotochemische Werke Berlin Dekopan Super S
   - dekuNukem: Harman Phoenix II
 
 2025-10-03

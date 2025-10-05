@@ -643,3 +643,6 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 366,1,film_box_inside,Harman,Phoenix II,120,200,C-41,202806,1759680605,26c81460ad669c9c04e6fa11c73cab46,fcc0cdbabdd246f7a2de58209827f9c3,00366_001.jpg,dekuNukem,Chinese version,Single Pack,N/A
 367,0,film_box_outside,Harman,Phoenix II,35mm,200,C-41,202806,1759680664,8761b7878574fbccaa4bc20004904792,1989020e64ed45108cb6e45a389641d4,00367_000.jpg,dekuNukem,Chinese version,Single Pack,36exp
 367,1,film_box_inside,Harman,Phoenix II,35mm,200,C-41,202806,1759680666,1b4265d83fbaa3491963aaecd219701c,32693b43dc864734a3514bada3537ae3,00367_001.jpg,dekuNukem,Chinese version,Single Pack,36exp
+368,0,film_box_outside,VEB Fotochemische Werke Berlin,Dekopan Feinkorn,35mm,32,BW,196108,1759681217,a048662e17a18fe6d6d1851e29cf45b1,a26198b637074f36b099870688e7dba0,00368_000.jpg,benikum,,Single Pack,36exp
+369,0,film_box_outside,VEB Fotochemische Werke Berlin,Dekopan Super S,35mm,80,BW,196108,1759681258,5fe727689a3c396e8e92d745e1c5710d,da22aec5f8564cd8b34023047f511620,00369_000.jpg,benikum,,Single Pack,36exp
+369,1,film_box_inside,VEB Fotochemische Werke Berlin,Dekopan Super S,35mm,80,BW,196108,1759681260,d5ea2dcb14c022d73ce351b94571810c,4220a86f04794b568159c0b119859985,00369_001.jpg,benikum,,Single Pack,36exp
