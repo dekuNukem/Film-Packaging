@@ -16,12 +16,13 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 05 2025
-Unique items: 366
-Total scans : 647
+Unique items: 367
+Total scans : 648
 ```
 
 -----
 
+- [[2025-10-05] Minox MinoColor 3 (ref: d209)](#2025-10-05-minox-minocolor-3-ref-d209)
 - [[2025-10-05] VEB Fotochemische Werke Berlin Dekopan Super S (ref: 1620)](#2025-10-05-veb-fotochemische-werke-berlin-dekopan-super-s-ref-1620)
 - [[2025-10-05] VEB Fotochemische Werke Berlin Dekopan Feinkorn (ref: dba0)](#2025-10-05-veb-fotochemische-werke-berlin-dekopan-feinkorn-ref-dba0)
 - [[2025-10-05] Harman Phoenix II (ref: 41d4)](#2025-10-05-harman-phoenix-ii-ref-41d4)
@@ -391,6 +392,20 @@ Total scans : 647
 
 
 -----
+
+#### [2025-10-05] Minox MinoColor 3 (ref: d209)
+
+```
+Format: 8x11mm       |  Process : C-41    
+ISO   : 100          |  Expiry  : 1989-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-05   |  Author  : Pelicram
+UUID  : a54b7c329f26403d91ffa69325a1d209
+```
+
+<a href="./archive/00370_000.jpg" target="_blank">
+	<img src="./lowres/00370_000.jpg" alt="Minox MinoColor 3 8x11mm film box outside" loading="lazy" width="500" height="423">
+</a>
 
 
 `UUID: 4220a86f04794b568159c0b119859985`↓
@@ -7494,7 +7509,7 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     222   
 2     @photos.by.qi                 72    
-3     Pelicram                      52    
+3     Pelicram                      53    
 4     @ellafridalindblom            46    
 5     The Compartmentalist          25    
 6     fine-seat                     19    

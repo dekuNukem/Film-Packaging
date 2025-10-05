@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 05 2025
-Unique items: 366
-Total scans : 647
+Unique items: 367
+Total scans : 648
 ```
 
 -----
@@ -286,6 +286,7 @@ Total scans : 647
 - [[C-41] Marix Professional Negative Movie Color Film (ref: c457)](#c-41-marix-professional-negative-movie-color-film-ref-c457)
 - [[C-41] Max Spielmann Maxi Color (ref: bf60)](#c-41-max-spielmann-maxi-color-ref-bf60)
 - [[C-41] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#c-41-minolta-minolta-16-color-film-for-prints-ref-a2ff)
+- [[C-41] Minox MinoColor 3 (ref: d209)](#c-41-minox-minocolor-3-ref-d209)
 - [[C-41] Polaroid High Definition (ref: deb6)](#c-41-polaroid-high-definition-ref-deb6)
 - [[C-41] Premium Super XG (ref: 8ccd)](#c-41-premium-super-xg-ref-8ccd)
 - [[C-41] Reflx Lab Pro 100 (ref: 8bec)](#c-41-reflx-lab-pro-100-ref-8bec)
@@ -5180,6 +5181,20 @@ UUID  : a2cfc71ac0e24ea58f4e3350423aa2ff
 	<img src="./lowres/00162_000.jpg" alt="Minolta Minolta 16 Color Film For Prints 16mm film box outside" loading="lazy" width="500" height="413">
 </a>
 
+#### [C-41] Minox MinoColor 3 (ref: d209)
+
+```
+Format: 8x11mm       |  Process : C-41    
+ISO   : 100          |  Expiry  : 1989-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-05   |  Author  : Pelicram
+UUID  : a54b7c329f26403d91ffa69325a1d209
+```
+
+<a href="./archive/00370_000.jpg" target="_blank">
+	<img src="./lowres/00370_000.jpg" alt="Minox MinoColor 3 8x11mm film box outside" loading="lazy" width="500" height="423">
+</a>
+
 #### [C-41] Polaroid High Definition (ref: deb6)
 
 ```
@@ -7494,7 +7509,7 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     222   
 2     @photos.by.qi                 72    
-3     Pelicram                      52    
+3     Pelicram                      53    
 4     @ellafridalindblom            46    
 5     The Compartmentalist          25    
 6     fine-seat                     19    

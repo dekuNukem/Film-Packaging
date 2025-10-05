@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Oct 05 2025
-Unique items: 366
-Total scans : 647
+Unique items: 367
+Total scans : 648
 ```
 
 Or Sort by...
@@ -55,7 +55,7 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     222   
 2     @photos.by.qi                 72    
-3     Pelicram                      52    
+3     Pelicram                      53    
 4     @ellafridalindblom            46    
 5     The Compartmentalist          25    
 6     fine-seat                     19    
@@ -96,6 +96,7 @@ Rank  Username                      Contributions
   - benikum: VEB Fotochemische Werke Berlin Dekopan Feinkorn
   - benikum: VEB Fotochemische Werke Berlin Dekopan Super S
   - dekuNukem: Harman Phoenix II
+  - Pelicram: Minox MinoColor 3
 
 2025-10-03
   - @ellafridalindblom: Kodak Tri-X 400 Pro
