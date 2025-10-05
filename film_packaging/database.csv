@@ -639,3 +639,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 364,1,film_box_inside,Polaroid,Image Instant Film,Integral Film,640,Instant,200707,1759500650,f51c0c0c8559b521f508c6ea9b96dd5c,c2742bb793f34d90a0365bb82e0160df,00364_001.jpg,@ellafridalindblom,,Single Pack,10exp
 365,0,film_box_outside,Kodak,Tri-X 400 Pro,120,400,BW,Unknown,1759500732,5e22c4494aecca3342f729ec6c4b28dc,dd34c2bc1fe34b17b67c6ad002bef05c,00365_000.jpg,@ellafridalindblom,,Multi-Pack-5,N/A
 365,1,film_box_inside,Kodak,Tri-X 400 Pro,120,400,BW,Unknown,1759500737,efa1de9cfc77c86a86d2f7b53cf2a170,7cde8a5a159c441f9bad7f7f5d8cba98,00365_001.jpg,@ellafridalindblom,,Multi-Pack-5,N/A
+366,0,film_box_outside,Harman,Phoenix II,120,200,C-41,202806,1759680604,b68b0d48d826d0fc2a93ee58cfe1346d,df238026e7c84a89961248cec20737c7,00366_000.jpg,dekuNukem,Chinese version,Single Pack,N/A
+366,1,film_box_inside,Harman,Phoenix II,120,200,C-41,202806,1759680605,26c81460ad669c9c04e6fa11c73cab46,fcc0cdbabdd246f7a2de58209827f9c3,00366_001.jpg,dekuNukem,Chinese version,Single Pack,N/A
+367,0,film_box_outside,Harman,Phoenix II,35mm,200,C-41,202806,1759680664,8761b7878574fbccaa4bc20004904792,1989020e64ed45108cb6e45a389641d4,00367_000.jpg,dekuNukem,Chinese version,Single Pack,36exp
+367,1,film_box_inside,Harman,Phoenix II,35mm,200,C-41,202806,1759680666,1b4265d83fbaa3491963aaecd219701c,32693b43dc864734a3514bada3537ae3,00367_001.jpg,dekuNukem,Chinese version,Single Pack,36exp

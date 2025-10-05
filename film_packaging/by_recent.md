@@ -15,13 +15,15 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 03 2025
-Unique items: 362
-Total scans : 640
+Last Updated: Oct 05 2025
+Unique items: 364
+Total scans : 644
 ```
 
 -----
 
+- [[2025-10-05] Harman Phoenix II (ref: 41d4)](#2025-10-05-harman-phoenix-ii-ref-41d4)
+- [[2025-10-05] Harman Phoenix II (ref: 37c7)](#2025-10-05-harman-phoenix-ii-ref-37c7)
 - [[2025-10-03] Kodak Tri-X 400 Pro (ref: f05c)](#2025-10-03-kodak-tri-x-400-pro-ref-f05c)
 - [[2025-10-03] Polaroid Image Instant Film (ref: ee6d)](#2025-10-03-polaroid-image-instant-film-ref-ee6d)
 - [[2025-10-02] PrinzColor Colour Negative Film (ref: 448c)](#2025-10-02-prinzcolor-colour-negative-film-ref-448c)
@@ -387,6 +389,48 @@ Total scans : 640
 
 
 -----
+
+
+`UUID: 32693b43dc864734a3514bada3537ae3`↓
+
+<a href="./archive/00367_001.jpg" target="_blank">
+	<img src="./lowres/00367_001.jpg" alt="Harman Phoenix II 35mm film box inside" loading="lazy" width="431" height="499">
+</a>
+
+#### [2025-10-05] Harman Phoenix II (ref: 41d4)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2028-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-05   |  Author  : dekuNukem
+UUID  : 1989020e64ed45108cb6e45a389641d4
+```
+
+<a href="./archive/00367_000.jpg" target="_blank">
+	<img src="./lowres/00367_000.jpg" alt="Harman Phoenix II 35mm film box outside" loading="lazy" width="442" height="500">
+</a>
+
+
+`UUID: fcc0cdbabdd246f7a2de58209827f9c3`↓
+
+<a href="./archive/00366_001.jpg" target="_blank">
+	<img src="./lowres/00366_001.jpg" alt="Harman Phoenix II 120 film box inside" loading="lazy" width="500" height="430">
+</a>
+
+#### [2025-10-05] Harman Phoenix II (ref: 37c7)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2028-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-05   |  Author  : dekuNukem
+UUID  : df238026e7c84a89961248cec20737c7
+```
+
+<a href="./archive/00366_000.jpg" target="_blank">
+	<img src="./lowres/00366_000.jpg" alt="Harman Phoenix II 120 film box outside" loading="lazy" width="500" height="438">
+</a>
 
 
 `UUID: 7cde8a5a159c441f9bad7f7f5d8cba98`↓
@@ -7411,7 +7455,7 @@ UUID  : 36151f6b7cc045c2b43d7f5cbee41a5d
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     218   
+1     dekuNukem                     222   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            46    

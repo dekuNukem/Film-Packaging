@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 03 2025
-Unique items: 362
-Total scans : 640
+Last Updated: Oct 05 2025
+Unique items: 364
+Total scans : 644
 ```
 
 Or Sort by...
@@ -53,7 +53,7 @@ Or Sort by...
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     218   
+1     dekuNukem                     222   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            46    
@@ -92,6 +92,9 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-10-05
+  - dekuNukem: Harman Phoenix II
+
 2025-10-03
   - @ellafridalindblom: Kodak Tri-X 400 Pro
   - @ellafridalindblom: Polaroid Image Instant Film
@@ -114,12 +117,6 @@ Rank  Username                      Contributions
   - fine-seat: Herzog Duxopan
   - fine-seat: ORWO Chrom UT21
   - lemoniter: Club Color Natural Color System
-
-2025-09-18
-  - dekuNukem: Film Corporation of America TriFCA 120
-  - dekuNukem: Fujifilm Fujicolor HR 1600
-  - dekuNukem: Polaroid 990
-  - dekuNukem: Polaroid Polavision Phototape Land Cassette Type 608
 ```
 
 ## Disclaimer

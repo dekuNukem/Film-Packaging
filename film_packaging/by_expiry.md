@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 03 2025
-Unique items: 362
-Total scans : 640
+Last Updated: Oct 05 2025
+Unique items: 364
+Total scans : 644
 ```
 
 -----
@@ -355,6 +355,8 @@ Total scans : 640
 - [[2028] Rollei SUPERPAN 200 (ref: ee8f)](#2028-rollei-superpan-200-ref-ee8f)
 - [[2028] Agfa APX (ref: 5276)](#2028-agfa-apx-ref-5276)
 - [[2028] Foma Fomapan 200 (ref: 60ee)](#2028-foma-fomapan-200-ref-60ee)
+- [[2028] Harman Phoenix II (ref: 37c7)](#2028-harman-phoenix-ii-ref-37c7)
+- [[2028] Harman Phoenix II (ref: 41d4)](#2028-harman-phoenix-ii-ref-41d4)
 - [[2028] Ilford HP5 Plus (ref: df49)](#2028-ilford-hp5-plus-ref-df49)
 - [[2028] Rollei RPX 400 (ref: 2155)](#2028-rollei-rpx-400-ref-2155)
 - [[2028] Ilford FP4 Plus (ref: 3bc0)](#2028-ilford-fp4-plus-ref-3bc0)
@@ -6891,6 +6893,48 @@ UUID  : 840026a068594c3389b34374204f60ee
 	<img src="./lowres/00183_000.jpg" alt="Foma Fomapan 200 35mm film box outside" loading="lazy" width="482" height="499">
 </a>
 
+#### [2028] Harman Phoenix II (ref: 37c7)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2028-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-05   |  Author  : dekuNukem
+UUID  : df238026e7c84a89961248cec20737c7
+```
+
+<a href="./archive/00366_000.jpg" target="_blank">
+	<img src="./lowres/00366_000.jpg" alt="Harman Phoenix II 120 film box outside" loading="lazy" width="500" height="438">
+</a>
+
+
+`UUID: fcc0cdbabdd246f7a2de58209827f9c3`↓
+
+<a href="./archive/00366_001.jpg" target="_blank">
+	<img src="./lowres/00366_001.jpg" alt="Harman Phoenix II 120 film box inside" loading="lazy" width="500" height="430">
+</a>
+
+#### [2028] Harman Phoenix II (ref: 41d4)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2028-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-05   |  Author  : dekuNukem
+UUID  : 1989020e64ed45108cb6e45a389641d4
+```
+
+<a href="./archive/00367_000.jpg" target="_blank">
+	<img src="./lowres/00367_000.jpg" alt="Harman Phoenix II 35mm film box outside" loading="lazy" width="442" height="500">
+</a>
+
+
+`UUID: 32693b43dc864734a3514bada3537ae3`↓
+
+<a href="./archive/00367_001.jpg" target="_blank">
+	<img src="./lowres/00367_001.jpg" alt="Harman Phoenix II 35mm film box inside" loading="lazy" width="431" height="499">
+</a>
+
 #### [2028] Ilford HP5 Plus (ref: df49)
 
 ```
@@ -7411,7 +7455,7 @@ UUID  : 80d64fa269454c5589109c68a40541a8
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     218   
+1     dekuNukem                     222   
 2     @photos.by.qi                 72    
 3     Pelicram                      52    
 4     @ellafridalindblom            46    
