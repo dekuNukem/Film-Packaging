@@ -124,16 +124,16 @@ Total scans : 651
 - [[1999] Kodak Gold (ref: 2f8d)](#1999-kodak-gold-ref-2f8d)
 - [[1999] Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#1999-kodak-ektachrome-slide-duplicating-film-ref-d53a)
 - [[2000] Konica Infrared 750nm (ref: 2d93)](#2000-konica-infrared-750nm-ref-2d93)
-- [[2000] Agfa Agfacolor Optima 200 (ref: 393d)](#2000-agfa-agfacolor-optima-200-ref-393d)
+- [[2000] Agfa AgfaColor Optima 200 (ref: 393d)](#2000-agfa-agfacolor-optima-200-ref-393d)
 - [[2000] Kodak Rapid Process Copy Film (ref: e66e)](#2000-kodak-rapid-process-copy-film-ref-e66e)
 - [[2000] Fujifilm Fujicolor Superia (ref: d1b7)](#2000-fujifilm-fujicolor-superia-ref-d1b7)
 - [[2000] Kodak Ektacolor Pro Gold (ref: c3f8)](#2000-kodak-ektacolor-pro-gold-ref-c3f8)
 - [[2000] Kodak Vericolor III (ref: 4b3e)](#2000-kodak-vericolor-iii-ref-4b3e)
 - [[2001] Fujifilm Fujichrome Velvia (ref: 3182)](#2001-fujifilm-fujichrome-velvia-ref-3182)
 - [[2001] Kodak Gold Ultra 400 (ref: 1358)](#2001-kodak-gold-ultra-400-ref-1358)
-- [[2001] Agfa Agfacolor HDC Plus (ref: d22b)](#2001-agfa-agfacolor-hdc-plus-ref-d22b)
+- [[2001] Agfa AgfaColor HDC Plus (ref: d22b)](#2001-agfa-agfacolor-hdc-plus-ref-d22b)
 - [[2001] Kodak Elite Chrome (ref: 523c)](#2001-kodak-elite-chrome-ref-523c)
-- [[2001] Agfa Agfacolor ULTRA 50 (ref: 4faa)](#2001-agfa-agfacolor-ultra-50-ref-4faa)
+- [[2001] Agfa AgfaColor ULTRA 50 (ref: 4faa)](#2001-agfa-agfacolor-ultra-50-ref-4faa)
 - [[2001] Fujifilm Fujichrome 64T Type II Professional (ref: 74a1)](#2001-fujifilm-fujichrome-64t-type-ii-professional-ref-74a1)
 - [[2001] Kodak Gold (ref: ea58)](#2001-kodak-gold-ref-ea58)
 - [[2001] Kodak Ektachrome 400X (ref: 5b82)](#2001-kodak-ektachrome-400x-ref-5b82)
@@ -147,7 +147,7 @@ Total scans : 651
 - [[2002] Kirkland Signature Color Print Film (ref: 0441)](#2002-kirkland-signature-color-print-film-ref-0441)
 - [[2003] Konica KonicaColor VX 200 (ref: fe53)](#2003-konica-konicacolor-vx-200-ref-fe53)
 - [[2003] Fujifilm Fujicolor Superia X-TRA (ref: 713b)](#2003-fujifilm-fujicolor-superia-x-tra-ref-713b)
-- [[2003] Agfa Agfacolor Vista (ref: 2f14)](#2003-agfa-agfacolor-vista-ref-2f14)
+- [[2003] Agfa AgfaColor Vista (ref: 2f14)](#2003-agfa-agfacolor-vista-ref-2f14)
 - [[2003] Fujifilm Fujichrome Provia 400F Professional (ref: 4591)](#2003-fujifilm-fujichrome-provia-400f-professional-ref-4591)
 - [[2003] Fujifilm Fujicolor Super G (ref: 55ff)](#2003-fujifilm-fujicolor-super-g-ref-55ff)
 - [[2003] Konica Centuria 200 (ref: e155)](#2003-konica-centuria-200-ref-e155)
@@ -157,7 +157,7 @@ Total scans : 651
 - [[2003] Kodak Advantix Ultra (ref: 030a)](#2003-kodak-advantix-ultra-ref-030a)
 - [[2003] Fujifilm Fujicolor NPS 160 (ref: 5e85)](#2003-fujifilm-fujicolor-nps-160-ref-5e85)
 - [[2003] Jessops CS100 (ref: 4288)](#2003-jessops-cs100-ref-4288)
-- [[2003] Agfa Agfacolor Vista (ref: d3af)](#2003-agfa-agfacolor-vista-ref-d3af)
+- [[2003] Agfa AgfaColor Vista (ref: d3af)](#2003-agfa-agfacolor-vista-ref-d3af)
 - [[2004] Fujifilm Neopan 400 (ref: c088)](#2004-fujifilm-neopan-400-ref-c088)
 - [[2004] Fujifilm Fujichrome Sensia 200 (ref: 3a01)](#2004-fujifilm-fujichrome-sensia-200-ref-3a01)
 - [[2004] Fujifilm Fujichrome Sensia 100 (ref: a859)](#2004-fujifilm-fujichrome-sensia-100-ref-a859)
@@ -169,7 +169,7 @@ Total scans : 651
 - [[2004] Kodak Portra 400VC (ref: b67b)](#2004-kodak-portra-400vc-ref-b67b)
 - [[2005] Fujifilm Fujicolor Superia X-TRA (ref: 0446)](#2005-fujifilm-fujicolor-superia-x-tra-ref-0446)
 - [[2005] Ilford Delta 100 Professional (ref: 93b9)](#2005-ilford-delta-100-professional-ref-93b9)
-- [[2005] Agfa Agfacolor XRG 200 (ref: 689e)](#2005-agfa-agfacolor-xrg-200-ref-689e)
+- [[2005] Agfa AgfaColor XRG 200 (ref: 689e)](#2005-agfa-agfacolor-xrg-200-ref-689e)
 - [[2005] Agfa Agfapan APX 100 (ref: e271)](#2005-agfa-agfapan-apx-100-ref-e271)
 - [[2005] Agfa Agfapan APX 400 (ref: 5855)](#2005-agfa-agfapan-apx-400-ref-5855)
 - [[2005] Kodak Ektachrome 100 Plus (ref: 0183)](#2005-kodak-ektachrome-100-plus-ref-0183)
@@ -2789,7 +2789,7 @@ UUID  : 63b2857f2df549878446cc1963362d93
 	<img src="./lowres/00036_000.jpg" alt="Konica Infrared 750nm 120 film box outside" loading="lazy" width="500" height="302">
 </a>
 
-#### [2000] Agfa Agfacolor Optima 200 (ref: 393d)
+#### [2000] Agfa AgfaColor Optima 200 (ref: 393d)
 
 ```
 Format: 120          |  Process : C-41    
@@ -2800,14 +2800,14 @@ UUID  : e8465f64b1f84f32900d92caa25e393d
 ```
 
 <a href="./archive/00301_000.jpg" target="_blank">
-	<img src="./lowres/00301_000.jpg" alt="Agfa Agfacolor Optima 200 120 film box outside" loading="lazy" width="500" height="373">
+	<img src="./lowres/00301_000.jpg" alt="Agfa AgfaColor Optima 200 120 film box outside" loading="lazy" width="500" height="373">
 </a>
 
 
 `UUID: af2f0855d49849daa5b8fbde77c2ce5d`↓
 
 <a href="./archive/00301_001.jpg" target="_blank">
-	<img src="./lowres/00301_001.jpg" alt="Agfa Agfacolor Optima 200 120 film box inside" loading="lazy" width="500" height="373">
+	<img src="./lowres/00301_001.jpg" alt="Agfa AgfaColor Optima 200 120 film box inside" loading="lazy" width="500" height="373">
 </a>
 
 #### [2000] Kodak Rapid Process Copy Film (ref: e66e)
@@ -2978,7 +2978,7 @@ UUID  : c2dc7711cd38434da5cfea8750f61358
 	<img src="./lowres/00094_001.jpg" alt="Kodak Gold Ultra 400 35mm film box outside" loading="lazy" width="300" height="500">
 </a>
 
-#### [2001] Agfa Agfacolor HDC Plus (ref: d22b)
+#### [2001] Agfa AgfaColor HDC Plus (ref: d22b)
 
 ```
 Format: 110          |  Process : C-41    
@@ -2989,7 +2989,7 @@ UUID  : 9cec7faf26254e72bfb79611ea6ed22b
 ```
 
 <a href="./archive/00328_000.jpg" target="_blank">
-	<img src="./lowres/00328_000.jpg" alt="Agfa Agfacolor HDC Plus 110 film box outside" loading="lazy" width="500" height="354">
+	<img src="./lowres/00328_000.jpg" alt="Agfa AgfaColor HDC Plus 110 film box outside" loading="lazy" width="500" height="354">
 </a>
 
 #### [2001] Kodak Elite Chrome (ref: 523c)
@@ -3006,7 +3006,7 @@ UUID  : e0b3ec957ade47a99d5cd5abe2a4523c
 	<img src="./lowres/00042_000.jpg" alt="Kodak Elite Chrome 35mm film box outside" loading="lazy" width="416" height="499">
 </a>
 
-#### [2001] Agfa Agfacolor ULTRA 50 (ref: 4faa)
+#### [2001] Agfa AgfaColor ULTRA 50 (ref: 4faa)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -3017,14 +3017,14 @@ UUID  : d10e846ba5154f1d940ed7009a904faa
 ```
 
 <a href="./archive/00010_000.jpg" target="_blank">
-	<img src="./lowres/00010_000.jpg" alt="Agfa Agfacolor ULTRA 50 35mm film box outside" loading="lazy" width="438" height="500">
+	<img src="./lowres/00010_000.jpg" alt="Agfa AgfaColor ULTRA 50 35mm film box outside" loading="lazy" width="438" height="500">
 </a>
 
 
 `UUID: 8594d11f816c45b6a18dd122f8e38fc0`↓
 
 <a href="./archive/00010_001.jpg" target="_blank">
-	<img src="./lowres/00010_001.jpg" alt="Agfa Agfacolor ULTRA 50 35mm film box inside" loading="lazy" width="453" height="500">
+	<img src="./lowres/00010_001.jpg" alt="Agfa AgfaColor ULTRA 50 35mm film box inside" loading="lazy" width="453" height="500">
 </a>
 
 #### [2001] Fujifilm Fujichrome 64T Type II Professional (ref: 74a1)
@@ -3258,7 +3258,7 @@ UUID  : 89750d8a18fe4e238c76b97b4578713b
 	<img src="./lowres/00197_001.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box inside" loading="lazy" width="425" height="500">
 </a>
 
-#### [2003] Agfa Agfacolor Vista (ref: 2f14)
+#### [2003] Agfa AgfaColor Vista (ref: 2f14)
 
 ```
 Format: 110          |  Process : C-41    
@@ -3269,7 +3269,7 @@ UUID  : 81e8726a7d3b45beb1f1bd6c1cbc2f14
 ```
 
 <a href="./archive/00329_000.jpg" target="_blank">
-	<img src="./lowres/00329_000.jpg" alt="Agfa Agfacolor Vista 110 film box outside" loading="lazy" width="500" height="336">
+	<img src="./lowres/00329_000.jpg" alt="Agfa AgfaColor Vista 110 film box outside" loading="lazy" width="500" height="336">
 </a>
 
 #### [2003] Fujifilm Fujichrome Provia 400F Professional (ref: 4591)
@@ -3440,7 +3440,7 @@ UUID  : 6e2123fd1134408789902c16b3764288
 	<img src="./lowres/00334_003.jpg" alt="Jessops CS100 35mm film box processing envelope" loading="lazy" width="273" height="500">
 </a>
 
-#### [2003] Agfa Agfacolor Vista (ref: d3af)
+#### [2003] Agfa AgfaColor Vista (ref: d3af)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -3451,14 +3451,14 @@ UUID  : f1e50745927f4b7cb16af36fd30dd3af
 ```
 
 <a href="./archive/00014_000.jpg" target="_blank">
-	<img src="./lowres/00014_000.jpg" alt="Agfa Agfacolor Vista 35mm film box outside" loading="lazy" width="438" height="500">
+	<img src="./lowres/00014_000.jpg" alt="Agfa AgfaColor Vista 35mm film box outside" loading="lazy" width="438" height="500">
 </a>
 
 
 `UUID: 300a430fc19f4eeeb4892e58d3c3cd56`↓
 
 <a href="./archive/00014_001.jpg" target="_blank">
-	<img src="./lowres/00014_001.jpg" alt="Agfa Agfacolor Vista 35mm film box inside" loading="lazy" width="440" height="500">
+	<img src="./lowres/00014_001.jpg" alt="Agfa AgfaColor Vista 35mm film box inside" loading="lazy" width="440" height="500">
 </a>
 
 #### [2004] Fujifilm Neopan 400 (ref: c088)
@@ -3671,7 +3671,7 @@ UUID  : c2225dedcae040e7bb27a918c4ca93b9
 	<img src="./lowres/00310_001.jpg" alt="Ilford Delta 100 Professional 120 film box inside" loading="lazy" width="500" height="448">
 </a>
 
-#### [2005] Agfa Agfacolor XRG 200 (ref: 689e)
+#### [2005] Agfa AgfaColor XRG 200 (ref: 689e)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -3682,14 +3682,14 @@ UUID  : 86136eea89d14e15b60dfcdf45b1689e
 ```
 
 <a href="./archive/00152_000.jpg" target="_blank">
-	<img src="./lowres/00152_000.jpg" alt="Agfa Agfacolor XRG 200 35mm film box outside" loading="lazy" width="435" height="500">
+	<img src="./lowres/00152_000.jpg" alt="Agfa AgfaColor XRG 200 35mm film box outside" loading="lazy" width="435" height="500">
 </a>
 
 
 `UUID: 5598d8aac5844772a87d019a7d37e9f6`↓
 
 <a href="./archive/00152_001.jpg" target="_blank">
-	<img src="./lowres/00152_001.jpg" alt="Agfa Agfacolor XRG 200 35mm film box inside" loading="lazy" width="404" height="500">
+	<img src="./lowres/00152_001.jpg" alt="Agfa AgfaColor XRG 200 35mm film box inside" loading="lazy" width="404" height="500">
 </a>
 
 #### [2005] Agfa Agfapan APX 100 (ref: e271)

@@ -16,15 +16,15 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 8,1,film_box_inside,Lomography,Lomochrome Turquoise,120,100-400,C-41,202507,1736012171,660ff2d641a9a81abf74cf4c3675f182,adc4ed82e419439c8bec5348db4a1ca2,00008_001.jpg,dekuNukem,,Single Pack,N/A
 9,0,film_box_outside,Ilford,SFX 200,120,200,BW,201309,1736012219,e47126404808616d50e2aeec24fb0541,7856b5442362453caa67628c93be6057,00009_000.jpg,dekuNukem,,Single Pack,N/A
 9,1,film_box_inside,Ilford,SFX 200,120,200,BW,201309,1736012224,9581abfd6886e6fd752725b9d300c0ff,2579a55634474187bac08797a02f422d,00009_001.jpg,dekuNukem,,Single Pack,N/A
-10,0,film_box_outside,Agfa,Agfacolor ULTRA 50,35mm,50,C-41,200110,1736012345,fbbd763f53c38d9bfb0a08ed99f593ae,d10e846ba5154f1d940ed7009a904faa,00010_000.jpg,dekuNukem,,Single Pack,36exp
-10,1,film_box_inside,Agfa,Agfacolor ULTRA 50,35mm,50,C-41,200110,1736012356,32855ca230d76c2bd9188b4897413f8d,8594d11f816c45b6a18dd122f8e38fc0,00010_001.jpg,dekuNukem,,Single Pack,36exp
+10,0,film_box_outside,Agfa,AgfaColor ULTRA 50,35mm,50,C-41,200110,1736012345,fbbd763f53c38d9bfb0a08ed99f593ae,d10e846ba5154f1d940ed7009a904faa,00010_000.jpg,dekuNukem,,Single Pack,36exp
+10,1,film_box_inside,Agfa,AgfaColor ULTRA 50,35mm,50,C-41,200110,1736012356,32855ca230d76c2bd9188b4897413f8d,8594d11f816c45b6a18dd122f8e38fc0,00010_001.jpg,dekuNukem,,Single Pack,36exp
 11,0,film_box_outside,Agfa,APX,120,100,BW,200807,1736012462,3f162e57b88ca347f352401bed13d033,a20bbca534454915a6970b6ede2212c7,00011_000.jpg,dekuNukem,,Single Pack,N/A
 11,1,film_box_inside,Agfa,APX,120,100,BW,200807,1736012466,b4dd3637abaeeb348a784e97ecd5afb8,dd262792b6a446dcab73a07738f8a8dd,00011_001.jpg,dekuNukem,,Single Pack,N/A
 12,0,film_box_outside,Fujifilm,Fujicolor Superia,120,400,C-41,200205,1736012528,0f8b58c33d22b7ac5f9356dea6728198,c3d9e51d22e241f69133be30d5a00683,00012_000.jpg,dekuNukem,,Single Pack,N/A
 12,1,film_box_inside,Fujifilm,Fujicolor Superia,120,400,C-41,200205,1736012532,9aae5bf0d88a5b78cda7c807df639085,5cd39510c35f4b9cbae3089311db118f,00012_001.jpg,dekuNukem,,Single Pack,N/A
 13,0,film_box_outside,Lloyds Pharmacy,Colour Film,35mm,200,C-41,200907,1736012624,9747dc1a3b3fa848e80457ee997d1ece,c58dda071d1741fda90e20b4252277d9,00013_000.jpg,dekuNukem,,Single Pack,36exp
-14,0,film_box_outside,Agfa,Agfacolor Vista,35mm,200,C-41,200312,1736012648,c96b09a92fd98b0145c22bca6a89a097,f1e50745927f4b7cb16af36fd30dd3af,00014_000.jpg,dekuNukem,,Single Pack,24exp
-14,1,film_box_inside,Agfa,Agfacolor Vista,35mm,200,C-41,200312,1736012650,d8055cdaf4e2318c7dc97fe46d1979eb,300a430fc19f4eeeb4892e58d3c3cd56,00014_001.jpg,dekuNukem,,Single Pack,24exp
+14,0,film_box_outside,Agfa,AgfaColor Vista,35mm,200,C-41,200312,1736012648,c96b09a92fd98b0145c22bca6a89a097,f1e50745927f4b7cb16af36fd30dd3af,00014_000.jpg,dekuNukem,,Single Pack,24exp
+14,1,film_box_inside,Agfa,AgfaColor Vista,35mm,200,C-41,200312,1736012650,d8055cdaf4e2318c7dc97fe46d1979eb,300a430fc19f4eeeb4892e58d3c3cd56,00014_001.jpg,dekuNukem,,Single Pack,24exp
 15,0,film_box_outside,Kentmere,PAN 400,35mm,400,BW,202906,1736012686,a1250d86f6c403b94ccbefd4d824a430,d2cf9753f6fd49a78404c72d848a827e,00015_000.jpg,dekuNukem,,Single Pack,36exp
 15,1,film_box_inside,Kentmere,PAN 400,35mm,400,BW,202906,1736012688,704eea294744e4de46c9cb70a6879887,3514628a650741c8abb104047d809f55,00015_001.jpg,dekuNukem,,Single Pack,36exp
 16,0,film_box_outside,Ilford,HP5 Plus,120,400,BW,202511,1736012716,87bc1d4a816c98be17f295300f214993,ddf9b76e633f43718144af7dcb89efad,00016_000.jpg,dekuNukem,,Single Pack,N/A
@@ -256,8 +256,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 150,0,film_box_outside,Fujifilm,Fujicolor Super HG,35mm,100,C-41,199407,1753991100,2108de6e018afcfaf99bb9d5fdbafbea,9233714654ff481089c2d4ff1334ee94,00150_000.jpg,fine-seat,,Single Pack,36exp
 150,1,film_box_inside,Fujifilm,Fujicolor Super HG,35mm,100,C-41,199407,1753991102,404419cd9914d9be9beff07d17dd18cc,302969081f4442239212b8e123d38378,00150_001.jpg,fine-seat,,Single Pack,36exp
 151,0,film_box_outside,Alfo,ALFOcolor PR-G,35mm,1600,C-41,199308,1753991226,f673e8a49e6bb09c76a86a8e053295b5,cc723aa89e9e43ec8ac1ebd18efa94b9,00151_000.jpg,fine-seat,,Single Pack,24exp
-152,0,film_box_outside,Agfa,Agfacolor XRG 200,35mm,200,C-41,200503,1753991293,ab9b380f73157e29cece410bcf774529,86136eea89d14e15b60dfcdf45b1689e,00152_000.jpg,fine-seat,,Single Pack,36exp
-152,1,film_box_inside,Agfa,Agfacolor XRG 200,35mm,200,C-41,200503,1753991296,92ef6a04efba1d4fcc3c1e01cf35e1c7,5598d8aac5844772a87d019a7d37e9f6,00152_001.jpg,fine-seat,,Single Pack,36exp
+152,0,film_box_outside,Agfa,AgfaColor XRG 200,35mm,200,C-41,200503,1753991293,ab9b380f73157e29cece410bcf774529,86136eea89d14e15b60dfcdf45b1689e,00152_000.jpg,fine-seat,,Single Pack,36exp
+152,1,film_box_inside,Agfa,AgfaColor XRG 200,35mm,200,C-41,200503,1753991296,92ef6a04efba1d4fcc3c1e01cf35e1c7,5598d8aac5844772a87d019a7d37e9f6,00152_001.jpg,fine-seat,,Single Pack,36exp
 153,0,film_box_outside,Kodak,Kodacolor VR Plus,35mm,400,C-41,201203,1753991336,21e56cc1a11e3225f11771f03988ee63,faf0a44eece541a9b701feb772f4f8bf,00153_000.jpg,fine-seat,,Multi-Pack-2,36exp
 154,0,film_box_outside,Kodak,Ektachrome 160 Movie Film Type A,Super 8,160,Unknown,198011,1753991791,2b11a632fe93ca22801ea60a2c313c4e,6032680a3aba41b39c600d7e23998f62,00154_000.jpg,fine-seat,,Single Pack,50ft
 154,1,film_box_leaflet,Kodak,Ektachrome 160 Movie Film Type A,Super 8,160,Unknown,198011,1753991793,4f3fd31575d1da543e3308d81dcd4040,28c6f19bd37e4199a072687d11b19961,00154_001.jpg,fine-seat,,Single Pack,50ft
@@ -512,8 +512,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 299,1,film_box_inside,Kodak,Portra 400UC,120,400,C-41,200409,1757115392,5a945e87ff042efc9f487779e4a0f916,4d0264c90bd7476099107ddfac1ec67f,00299_001.jpg,dekuNukem,"sample pack, not for resale.",Single Pack,N/A
 300,0,film_box_outside,Agfa,Agfapan APX 400,120,400,BW,200507,1757115437,28cf59410e58bc47446599483bc159ff,4f4b0a2c13064863a1db469838095855,00300_000.jpg,dekuNukem,,Single Pack,N/A
 300,1,film_box_inside,Agfa,Agfapan APX 400,120,400,BW,200507,1757115450,828414022a5ea5bbd7f71972ed8202bf,a8ade8c85a504d288a6d5d7458843652,00300_001.jpg,dekuNukem,,Single Pack,N/A
-301,0,film_box_outside,Agfa,Agfacolor Optima 200,120,200,C-41,200006,1757115499,32f28cae49006428c363ba070721dfa8,e8465f64b1f84f32900d92caa25e393d,00301_000.jpg,dekuNukem,,Single Pack,N/A
-301,1,film_box_inside,Agfa,Agfacolor Optima 200,120,200,C-41,200006,1757115504,dc8dacfeaef82f8c3a77f0b847ea2ee4,af2f0855d49849daa5b8fbde77c2ce5d,00301_001.jpg,dekuNukem,,Single Pack,N/A
+301,0,film_box_outside,Agfa,AgfaColor Optima 200,120,200,C-41,200006,1757115499,32f28cae49006428c363ba070721dfa8,e8465f64b1f84f32900d92caa25e393d,00301_000.jpg,dekuNukem,,Single Pack,N/A
+301,1,film_box_inside,Agfa,AgfaColor Optima 200,120,200,C-41,200006,1757115504,dc8dacfeaef82f8c3a77f0b847ea2ee4,af2f0855d49849daa5b8fbde77c2ce5d,00301_001.jpg,dekuNukem,,Single Pack,N/A
 302,0,film_box_outside,Ilford,Ilfochrome,35mm,100,E-6,202605,1757151478,6c6fb64759780899f603ddbb5b86076a,e7713fa57cac41e3ae3f416f3ea5ac24,00302_000.jpg,kaimon,,Single Pack,36exp
 303,0,film_box_outside,Kodak,High Speed Ektachrome,120,125,Unknown,197701,1757151658,dddca4f4630a69663a3960122049b094,ac9eab85f0874cf7aa5c67f0458e7533,00303_000.jpg,kaimon,Tungsten (3200K) EHB 120,Single Pack,N/A
 303,1,film_box_leaflet,Kodak,High Speed Ektachrome,120,125,Unknown,197701,1757151660,fc8706376ab4f0ce882e727c13ba41b2,304a86e18bd841ee86c30538fe4e1940,00303_001.jpg,kaimon,Tungsten (3200K) EHB 120,Single Pack,N/A
@@ -558,8 +558,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 325,2,film_box_leaflet,Kodak,Kodacolor II,120,80,C-22,197803,1757724090,bdb9c5f280169240b25d5d8ba2f5ce7c,5bb72bffd3224a279eb4b01c201a80f2,00325_002.jpg,dekuNukem,,Single Pack,N/A
 326,0,film_box_outside,Kodak,Advantix Ultra Max,APS,400,C-41,200407,1757724131,1deafb13b7df72196f48f74d54af896d,5b9792793fd94c9a9f9f776fe34e1ca2,00326_000.jpg,dekuNukem,,Single Pack,25exp
 327,0,film_box_outside,Polaroid,High Definition,110,200,C-41,200201,1757724210,ef32effe20c353cda323aab0bfdc550b,6c15a39618164543bfc2ef7f54addeb6,00327_000.jpg,dekuNukem,,Single Pack,24exp
-328,0,film_box_outside,Agfa,Agfacolor HDC Plus,110,200,C-41,200107,1757724290,a74c343072bbaa38acf546ba351a9c80,9cec7faf26254e72bfb79611ea6ed22b,00328_000.jpg,dekuNukem,,Single Pack,24exp
-329,0,film_box_outside,Agfa,Agfacolor Vista,110,200,C-41,200305,1757724338,f07aa2c28944ce716c0f9fe3c4a0f94b,81e8726a7d3b45beb1f1bd6c1cbc2f14,00329_000.jpg,dekuNukem,,Single Pack,24exp
+328,0,film_box_outside,Agfa,AgfaColor HDC Plus,110,200,C-41,200107,1757724290,a74c343072bbaa38acf546ba351a9c80,9cec7faf26254e72bfb79611ea6ed22b,00328_000.jpg,dekuNukem,,Single Pack,24exp
+329,0,film_box_outside,Agfa,AgfaColor Vista,110,200,C-41,200305,1757724338,f07aa2c28944ce716c0f9fe3c4a0f94b,81e8726a7d3b45beb1f1bd6c1cbc2f14,00329_000.jpg,dekuNukem,,Single Pack,24exp
 330,0,film_box_outside,CineStill,400Dynamic,35mm,400,C-41,202508,1757759379,a4ef4621e46e3e4156841b6b056986fa,587ac1b471994b54bb5f472d6975fccd,00330_000.jpg,@filmfotofella,,Single Pack,36exp
 330,1,film_box_inside,CineStill,400Dynamic,35mm,400,C-41,202508,1757759381,fc7e21746e1c520e06ca3c2ba4a128ef,96209110f95e4744b78b1d31a44f73cf,00330_001.jpg,@filmfotofella,,Single Pack,36exp
 331,0,film_box_outside,Kodak,Kodacolor 400,110,400,C-41,198104,1757759712,0cba3d92958be5aa5c01c673d980dc51,3ef3252141a64ffe9d7e3fad745b9e4c,00331_000.jpg,@filmfotofella,,Single Pack,20exp

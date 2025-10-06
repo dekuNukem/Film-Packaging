@@ -22,8 +22,8 @@ Total scans : 651
 
 -----
 
-- [[110] Agfa Agfacolor HDC Plus (ref: d22b)](#110-agfa-agfacolor-hdc-plus-ref-d22b)
-- [[110] Agfa Agfacolor Vista (ref: 2f14)](#110-agfa-agfacolor-vista-ref-2f14)
+- [[110] Agfa AgfaColor HDC Plus (ref: d22b)](#110-agfa-agfacolor-hdc-plus-ref-d22b)
+- [[110] Agfa AgfaColor Vista (ref: 2f14)](#110-agfa-agfacolor-vista-ref-2f14)
 - [[110] Klick XD200 (ref: 44d7)](#110-klick-xd200-ref-44d7)
 - [[110] Kodak 110 Film (ref: 8cca)](#110-kodak-110-film-ref-8cca)
 - [[110] Kodak Ektachrome 64 (ref: 07c0)](#110-kodak-ektachrome-64-ref-07c0)
@@ -35,7 +35,7 @@ Total scans : 651
 - [[110] Lomography Tiger (ref: 26dd)](#110-lomography-tiger-ref-26dd)
 - [[110] Polaroid High Definition (ref: deb6)](#110-polaroid-high-definition-ref-deb6)
 - [[120] Agfa APX (ref: 12c7)](#120-agfa-apx-ref-12c7)
-- [[120] Agfa Agfacolor Optima 200 (ref: 393d)](#120-agfa-agfacolor-optima-200-ref-393d)
+- [[120] Agfa AgfaColor Optima 200 (ref: 393d)](#120-agfa-agfacolor-optima-200-ref-393d)
 - [[120] Agfa Agfapan APX 400 (ref: 5855)](#120-agfa-agfapan-apx-400-ref-5855)
 - [[120] Agfa Optima II 400 (ref: fdf0)](#120-agfa-optima-ii-400-ref-fdf0)
 - [[120] Alien Film 5207/250D (ref: 8820)](#120-alien-film-5207250d-ref-8820)
@@ -143,9 +143,9 @@ Total scans : 651
 - [[35mm] Adox HR 50 (ref: 4da7)](#35mm-adox-hr-50-ref-4da7)
 - [[35mm] Agfa APX (ref: 5276)](#35mm-agfa-apx-ref-5276)
 - [[35mm] Agfa AgfaColor CT 18 (ref: 1fef)](#35mm-agfa-agfacolor-ct-18-ref-1fef)
-- [[35mm] Agfa Agfacolor ULTRA 50 (ref: 4faa)](#35mm-agfa-agfacolor-ultra-50-ref-4faa)
-- [[35mm] Agfa Agfacolor Vista (ref: d3af)](#35mm-agfa-agfacolor-vista-ref-d3af)
-- [[35mm] Agfa Agfacolor XRG 200 (ref: 689e)](#35mm-agfa-agfacolor-xrg-200-ref-689e)
+- [[35mm] Agfa AgfaColor ULTRA 50 (ref: 4faa)](#35mm-agfa-agfacolor-ultra-50-ref-4faa)
+- [[35mm] Agfa AgfaColor Vista (ref: d3af)](#35mm-agfa-agfacolor-vista-ref-d3af)
+- [[35mm] Agfa AgfaColor XRG 200 (ref: 689e)](#35mm-agfa-agfacolor-xrg-200-ref-689e)
 - [[35mm] Agfa Agfapan  APX 25 (ref: 805f)](#35mm-agfa-agfapan-apx-25-ref-805f)
 - [[35mm] Agfa Agfapan APX 100 (ref: e271)](#35mm-agfa-agfapan-apx-100-ref-e271)
 - [[35mm] Agfa Agfapan APX 400 (ref: 19bc)](#35mm-agfa-agfapan-apx-400-ref-19bc)
@@ -395,7 +395,7 @@ Total scans : 651
 
 -----
 
-#### [110] Agfa Agfacolor HDC Plus (ref: d22b)
+#### [110] Agfa AgfaColor HDC Plus (ref: d22b)
 
 ```
 Format: 110          |  Process : C-41    
@@ -406,10 +406,10 @@ UUID  : 9cec7faf26254e72bfb79611ea6ed22b
 ```
 
 <a href="./archive/00328_000.jpg" target="_blank">
-	<img src="./lowres/00328_000.jpg" alt="Agfa Agfacolor HDC Plus 110 film box outside" loading="lazy" width="500" height="354">
+	<img src="./lowres/00328_000.jpg" alt="Agfa AgfaColor HDC Plus 110 film box outside" loading="lazy" width="500" height="354">
 </a>
 
-#### [110] Agfa Agfacolor Vista (ref: 2f14)
+#### [110] Agfa AgfaColor Vista (ref: 2f14)
 
 ```
 Format: 110          |  Process : C-41    
@@ -420,7 +420,7 @@ UUID  : 81e8726a7d3b45beb1f1bd6c1cbc2f14
 ```
 
 <a href="./archive/00329_000.jpg" target="_blank">
-	<img src="./lowres/00329_000.jpg" alt="Agfa Agfacolor Vista 110 film box outside" loading="lazy" width="500" height="336">
+	<img src="./lowres/00329_000.jpg" alt="Agfa AgfaColor Vista 110 film box outside" loading="lazy" width="500" height="336">
 </a>
 
 #### [110] Klick XD200 (ref: 44d7)
@@ -612,7 +612,7 @@ UUID  : a20bbca534454915a6970b6ede2212c7
 	<img src="./lowres/00011_001.jpg" alt="Agfa APX 120 film box inside" loading="lazy" width="500" height="402">
 </a>
 
-#### [120] Agfa Agfacolor Optima 200 (ref: 393d)
+#### [120] Agfa AgfaColor Optima 200 (ref: 393d)
 
 ```
 Format: 120          |  Process : C-41    
@@ -623,14 +623,14 @@ UUID  : e8465f64b1f84f32900d92caa25e393d
 ```
 
 <a href="./archive/00301_000.jpg" target="_blank">
-	<img src="./lowres/00301_000.jpg" alt="Agfa Agfacolor Optima 200 120 film box outside" loading="lazy" width="500" height="373">
+	<img src="./lowres/00301_000.jpg" alt="Agfa AgfaColor Optima 200 120 film box outside" loading="lazy" width="500" height="373">
 </a>
 
 
 `UUID: af2f0855d49849daa5b8fbde77c2ce5d`↓
 
 <a href="./archive/00301_001.jpg" target="_blank">
-	<img src="./lowres/00301_001.jpg" alt="Agfa Agfacolor Optima 200 120 film box inside" loading="lazy" width="500" height="373">
+	<img src="./lowres/00301_001.jpg" alt="Agfa AgfaColor Optima 200 120 film box inside" loading="lazy" width="500" height="373">
 </a>
 
 #### [120] Agfa Agfapan APX 400 (ref: 5855)
@@ -2950,7 +2950,7 @@ UUID  : 0e445a9b612a487b90df4e94a3831fef
 	<img src="./lowres/00272_006.jpg" alt="Agfa AgfaColor CT 18 35mm film box processing envelope" loading="lazy" width="500" height="340">
 </a>
 
-#### [35mm] Agfa Agfacolor ULTRA 50 (ref: 4faa)
+#### [35mm] Agfa AgfaColor ULTRA 50 (ref: 4faa)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -2961,17 +2961,17 @@ UUID  : d10e846ba5154f1d940ed7009a904faa
 ```
 
 <a href="./archive/00010_000.jpg" target="_blank">
-	<img src="./lowres/00010_000.jpg" alt="Agfa Agfacolor ULTRA 50 35mm film box outside" loading="lazy" width="438" height="500">
+	<img src="./lowres/00010_000.jpg" alt="Agfa AgfaColor ULTRA 50 35mm film box outside" loading="lazy" width="438" height="500">
 </a>
 
 
 `UUID: 8594d11f816c45b6a18dd122f8e38fc0`↓
 
 <a href="./archive/00010_001.jpg" target="_blank">
-	<img src="./lowres/00010_001.jpg" alt="Agfa Agfacolor ULTRA 50 35mm film box inside" loading="lazy" width="453" height="500">
+	<img src="./lowres/00010_001.jpg" alt="Agfa AgfaColor ULTRA 50 35mm film box inside" loading="lazy" width="453" height="500">
 </a>
 
-#### [35mm] Agfa Agfacolor Vista (ref: d3af)
+#### [35mm] Agfa AgfaColor Vista (ref: d3af)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -2982,17 +2982,17 @@ UUID  : f1e50745927f4b7cb16af36fd30dd3af
 ```
 
 <a href="./archive/00014_000.jpg" target="_blank">
-	<img src="./lowres/00014_000.jpg" alt="Agfa Agfacolor Vista 35mm film box outside" loading="lazy" width="438" height="500">
+	<img src="./lowres/00014_000.jpg" alt="Agfa AgfaColor Vista 35mm film box outside" loading="lazy" width="438" height="500">
 </a>
 
 
 `UUID: 300a430fc19f4eeeb4892e58d3c3cd56`↓
 
 <a href="./archive/00014_001.jpg" target="_blank">
-	<img src="./lowres/00014_001.jpg" alt="Agfa Agfacolor Vista 35mm film box inside" loading="lazy" width="440" height="500">
+	<img src="./lowres/00014_001.jpg" alt="Agfa AgfaColor Vista 35mm film box inside" loading="lazy" width="440" height="500">
 </a>
 
-#### [35mm] Agfa Agfacolor XRG 200 (ref: 689e)
+#### [35mm] Agfa AgfaColor XRG 200 (ref: 689e)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -3003,14 +3003,14 @@ UUID  : 86136eea89d14e15b60dfcdf45b1689e
 ```
 
 <a href="./archive/00152_000.jpg" target="_blank">
-	<img src="./lowres/00152_000.jpg" alt="Agfa Agfacolor XRG 200 35mm film box outside" loading="lazy" width="435" height="500">
+	<img src="./lowres/00152_000.jpg" alt="Agfa AgfaColor XRG 200 35mm film box outside" loading="lazy" width="435" height="500">
 </a>
 
 
 `UUID: 5598d8aac5844772a87d019a7d37e9f6`↓
 
 <a href="./archive/00152_001.jpg" target="_blank">
-	<img src="./lowres/00152_001.jpg" alt="Agfa Agfacolor XRG 200 35mm film box inside" loading="lazy" width="404" height="500">
+	<img src="./lowres/00152_001.jpg" alt="Agfa AgfaColor XRG 200 35mm film box inside" loading="lazy" width="404" height="500">
 </a>
 
 #### [35mm] Agfa Agfapan  APX 25 (ref: 805f)

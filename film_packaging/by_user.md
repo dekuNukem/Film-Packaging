@@ -259,11 +259,11 @@ Total scans : 651
 - [[dekuNukem] ADOX KB17 (ref: 2c95)](#dekunukem-adox-kb17-ref-2c95)
 - [[dekuNukem] Agfa APX (ref: 12c7)](#dekunukem-agfa-apx-ref-12c7)
 - [[dekuNukem] Agfa AgfaColor CT 18 (ref: 1fef)](#dekunukem-agfa-agfacolor-ct-18-ref-1fef)
-- [[dekuNukem] Agfa Agfacolor HDC Plus (ref: d22b)](#dekunukem-agfa-agfacolor-hdc-plus-ref-d22b)
-- [[dekuNukem] Agfa Agfacolor Optima 200 (ref: 393d)](#dekunukem-agfa-agfacolor-optima-200-ref-393d)
-- [[dekuNukem] Agfa Agfacolor ULTRA 50 (ref: 4faa)](#dekunukem-agfa-agfacolor-ultra-50-ref-4faa)
-- [[dekuNukem] Agfa Agfacolor Vista (ref: 2f14)](#dekunukem-agfa-agfacolor-vista-ref-2f14)
-- [[dekuNukem] Agfa Agfacolor Vista (ref: d3af)](#dekunukem-agfa-agfacolor-vista-ref-d3af)
+- [[dekuNukem] Agfa AgfaColor HDC Plus (ref: d22b)](#dekunukem-agfa-agfacolor-hdc-plus-ref-d22b)
+- [[dekuNukem] Agfa AgfaColor Optima 200 (ref: 393d)](#dekunukem-agfa-agfacolor-optima-200-ref-393d)
+- [[dekuNukem] Agfa AgfaColor ULTRA 50 (ref: 4faa)](#dekunukem-agfa-agfacolor-ultra-50-ref-4faa)
+- [[dekuNukem] Agfa AgfaColor Vista (ref: 2f14)](#dekunukem-agfa-agfacolor-vista-ref-2f14)
+- [[dekuNukem] Agfa AgfaColor Vista (ref: d3af)](#dekunukem-agfa-agfacolor-vista-ref-d3af)
 - [[dekuNukem] Agfa Agfapan APX 400 (ref: 5855)](#dekunukem-agfa-agfapan-apx-400-ref-5855)
 - [[dekuNukem] Agfa Optima II 400 (ref: fdf0)](#dekunukem-agfa-optima-ii-400-ref-fdf0)
 - [[dekuNukem] Alien Film 5207/250D (ref: 8820)](#dekunukem-alien-film-5207250d-ref-8820)
@@ -356,7 +356,7 @@ Total scans : 651
 - [[dekuNukem] Rollei Retro 80S (ref: e6c0)](#dekunukem-rollei-retro-80s-ref-e6c0)
 - [[dekuNukem] SupaSnaps Snappit Film (ref: c41b)](#dekunukem-supasnaps-snappit-film-ref-c41b)
 - [[dekuNukem] Three Film Rolls 5207 (ref: 0292)](#dekunukem-three-film-rolls-5207-ref-0292)
-- [[fine-seat] Agfa Agfacolor XRG 200 (ref: 689e)](#fine-seat-agfa-agfacolor-xrg-200-ref-689e)
+- [[fine-seat] Agfa AgfaColor XRG 200 (ref: 689e)](#fine-seat-agfa-agfacolor-xrg-200-ref-689e)
 - [[fine-seat] Agfa Isopan ISS (ref: 5ba6)](#fine-seat-agfa-isopan-iss-ref-5ba6)
 - [[fine-seat] Alfo ALFOcolor PR-G (ref: 94b9)](#fine-seat-alfo-alfocolor-pr-g-ref-94b9)
 - [[fine-seat] Fujifilm Fujicolor Super HG (ref: ee94)](#fine-seat-fujifilm-fujicolor-super-hg-ref-ee94)
@@ -4651,7 +4651,7 @@ UUID  : 0e445a9b612a487b90df4e94a3831fef
 	<img src="./lowres/00272_006.jpg" alt="Agfa AgfaColor CT 18 35mm film box processing envelope" loading="lazy" width="500" height="340">
 </a>
 
-#### [dekuNukem] Agfa Agfacolor HDC Plus (ref: d22b)
+#### [dekuNukem] Agfa AgfaColor HDC Plus (ref: d22b)
 
 ```
 Format: 110          |  Process : C-41    
@@ -4662,10 +4662,10 @@ UUID  : 9cec7faf26254e72bfb79611ea6ed22b
 ```
 
 <a href="./archive/00328_000.jpg" target="_blank">
-	<img src="./lowres/00328_000.jpg" alt="Agfa Agfacolor HDC Plus 110 film box outside" loading="lazy" width="500" height="354">
+	<img src="./lowres/00328_000.jpg" alt="Agfa AgfaColor HDC Plus 110 film box outside" loading="lazy" width="500" height="354">
 </a>
 
-#### [dekuNukem] Agfa Agfacolor Optima 200 (ref: 393d)
+#### [dekuNukem] Agfa AgfaColor Optima 200 (ref: 393d)
 
 ```
 Format: 120          |  Process : C-41    
@@ -4676,17 +4676,17 @@ UUID  : e8465f64b1f84f32900d92caa25e393d
 ```
 
 <a href="./archive/00301_000.jpg" target="_blank">
-	<img src="./lowres/00301_000.jpg" alt="Agfa Agfacolor Optima 200 120 film box outside" loading="lazy" width="500" height="373">
+	<img src="./lowres/00301_000.jpg" alt="Agfa AgfaColor Optima 200 120 film box outside" loading="lazy" width="500" height="373">
 </a>
 
 
 `UUID: af2f0855d49849daa5b8fbde77c2ce5d`↓
 
 <a href="./archive/00301_001.jpg" target="_blank">
-	<img src="./lowres/00301_001.jpg" alt="Agfa Agfacolor Optima 200 120 film box inside" loading="lazy" width="500" height="373">
+	<img src="./lowres/00301_001.jpg" alt="Agfa AgfaColor Optima 200 120 film box inside" loading="lazy" width="500" height="373">
 </a>
 
-#### [dekuNukem] Agfa Agfacolor ULTRA 50 (ref: 4faa)
+#### [dekuNukem] Agfa AgfaColor ULTRA 50 (ref: 4faa)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -4697,17 +4697,17 @@ UUID  : d10e846ba5154f1d940ed7009a904faa
 ```
 
 <a href="./archive/00010_000.jpg" target="_blank">
-	<img src="./lowres/00010_000.jpg" alt="Agfa Agfacolor ULTRA 50 35mm film box outside" loading="lazy" width="438" height="500">
+	<img src="./lowres/00010_000.jpg" alt="Agfa AgfaColor ULTRA 50 35mm film box outside" loading="lazy" width="438" height="500">
 </a>
 
 
 `UUID: 8594d11f816c45b6a18dd122f8e38fc0`↓
 
 <a href="./archive/00010_001.jpg" target="_blank">
-	<img src="./lowres/00010_001.jpg" alt="Agfa Agfacolor ULTRA 50 35mm film box inside" loading="lazy" width="453" height="500">
+	<img src="./lowres/00010_001.jpg" alt="Agfa AgfaColor ULTRA 50 35mm film box inside" loading="lazy" width="453" height="500">
 </a>
 
-#### [dekuNukem] Agfa Agfacolor Vista (ref: 2f14)
+#### [dekuNukem] Agfa AgfaColor Vista (ref: 2f14)
 
 ```
 Format: 110          |  Process : C-41    
@@ -4718,10 +4718,10 @@ UUID  : 81e8726a7d3b45beb1f1bd6c1cbc2f14
 ```
 
 <a href="./archive/00329_000.jpg" target="_blank">
-	<img src="./lowres/00329_000.jpg" alt="Agfa Agfacolor Vista 110 film box outside" loading="lazy" width="500" height="336">
+	<img src="./lowres/00329_000.jpg" alt="Agfa AgfaColor Vista 110 film box outside" loading="lazy" width="500" height="336">
 </a>
 
-#### [dekuNukem] Agfa Agfacolor Vista (ref: d3af)
+#### [dekuNukem] Agfa AgfaColor Vista (ref: d3af)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -4732,14 +4732,14 @@ UUID  : f1e50745927f4b7cb16af36fd30dd3af
 ```
 
 <a href="./archive/00014_000.jpg" target="_blank">
-	<img src="./lowres/00014_000.jpg" alt="Agfa Agfacolor Vista 35mm film box outside" loading="lazy" width="438" height="500">
+	<img src="./lowres/00014_000.jpg" alt="Agfa AgfaColor Vista 35mm film box outside" loading="lazy" width="438" height="500">
 </a>
 
 
 `UUID: 300a430fc19f4eeeb4892e58d3c3cd56`↓
 
 <a href="./archive/00014_001.jpg" target="_blank">
-	<img src="./lowres/00014_001.jpg" alt="Agfa Agfacolor Vista 35mm film box inside" loading="lazy" width="440" height="500">
+	<img src="./lowres/00014_001.jpg" alt="Agfa AgfaColor Vista 35mm film box inside" loading="lazy" width="440" height="500">
 </a>
 
 #### [dekuNukem] Agfa Agfapan APX 400 (ref: 5855)
@@ -6807,7 +6807,7 @@ UUID  : 4de0f5e76dd748c488fa81be23340292
 	<img src="./lowres/00059_000.jpg" alt="Three Film Rolls 5207 35mm film box outside" loading="lazy" width="452" height="500">
 </a>
 
-#### [fine-seat] Agfa Agfacolor XRG 200 (ref: 689e)
+#### [fine-seat] Agfa AgfaColor XRG 200 (ref: 689e)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -6818,14 +6818,14 @@ UUID  : 86136eea89d14e15b60dfcdf45b1689e
 ```
 
 <a href="./archive/00152_000.jpg" target="_blank">
-	<img src="./lowres/00152_000.jpg" alt="Agfa Agfacolor XRG 200 35mm film box outside" loading="lazy" width="435" height="500">
+	<img src="./lowres/00152_000.jpg" alt="Agfa AgfaColor XRG 200 35mm film box outside" loading="lazy" width="435" height="500">
 </a>
 
 
 `UUID: 5598d8aac5844772a87d019a7d37e9f6`↓
 
 <a href="./archive/00152_001.jpg" target="_blank">
-	<img src="./lowres/00152_001.jpg" alt="Agfa Agfacolor XRG 200 35mm film box inside" loading="lazy" width="404" height="500">
+	<img src="./lowres/00152_001.jpg" alt="Agfa AgfaColor XRG 200 35mm film box inside" loading="lazy" width="404" height="500">
 </a>
 
 #### [fine-seat] Agfa Isopan ISS (ref: 5ba6)

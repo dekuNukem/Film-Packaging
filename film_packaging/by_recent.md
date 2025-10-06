@@ -65,8 +65,8 @@ Total scans : 651
 - [[2025-09-13] Kodak 110 Film (ref: 8cca)](#2025-09-13-kodak-110-film-ref-8cca)
 - [[2025-09-13] Kodak Kodacolor 400 (ref: 9e4c)](#2025-09-13-kodak-kodacolor-400-ref-9e4c)
 - [[2025-09-13] CineStill 400Dynamic (ref: fccd)](#2025-09-13-cinestill-400dynamic-ref-fccd)
-- [[2025-09-13] Agfa Agfacolor Vista (ref: 2f14)](#2025-09-13-agfa-agfacolor-vista-ref-2f14)
-- [[2025-09-13] Agfa Agfacolor HDC Plus (ref: d22b)](#2025-09-13-agfa-agfacolor-hdc-plus-ref-d22b)
+- [[2025-09-13] Agfa AgfaColor Vista (ref: 2f14)](#2025-09-13-agfa-agfacolor-vista-ref-2f14)
+- [[2025-09-13] Agfa AgfaColor HDC Plus (ref: d22b)](#2025-09-13-agfa-agfacolor-hdc-plus-ref-d22b)
 - [[2025-09-13] Polaroid High Definition (ref: deb6)](#2025-09-13-polaroid-high-definition-ref-deb6)
 - [[2025-09-13] Kodak Advantix Ultra Max (ref: 1ca2)](#2025-09-13-kodak-advantix-ultra-max-ref-1ca2)
 - [[2025-09-13] Kodak Kodacolor II (ref: 4108)](#2025-09-13-kodak-kodacolor-ii-ref-4108)
@@ -92,7 +92,7 @@ Total scans : 651
 - [[2025-09-06] Ilford FP4 Plus (ref: 3bc0)](#2025-09-06-ilford-fp4-plus-ref-3bc0)
 - [[2025-09-06] Kodak High Speed Ektachrome (ref: 7533)](#2025-09-06-kodak-high-speed-ektachrome-ref-7533)
 - [[2025-09-06] Ilford Ilfochrome (ref: ac24)](#2025-09-06-ilford-ilfochrome-ref-ac24)
-- [[2025-09-05] Agfa Agfacolor Optima 200 (ref: 393d)](#2025-09-05-agfa-agfacolor-optima-200-ref-393d)
+- [[2025-09-05] Agfa AgfaColor Optima 200 (ref: 393d)](#2025-09-05-agfa-agfacolor-optima-200-ref-393d)
 - [[2025-09-05] Agfa Agfapan APX 400 (ref: 5855)](#2025-09-05-agfa-agfapan-apx-400-ref-5855)
 - [[2025-09-05] Kodak Portra 400UC (ref: 5b9e)](#2025-09-05-kodak-portra-400uc-ref-5b9e)
 - [[2025-09-05] Agfa Optima II 400 (ref: fdf0)](#2025-09-05-agfa-optima-ii-400-ref-fdf0)
@@ -241,7 +241,7 @@ Total scans : 651
 - [[2025-08-02] Kodak Ektachrome E100 (ref: ae10)](#2025-08-02-kodak-ektachrome-e100-ref-ae10)
 - [[2025-07-31] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)](#2025-07-31-kodak-ektachrome-160-movie-film-type-a-ref-8f62)
 - [[2025-07-31] Kodak Kodacolor VR Plus (ref: f8bf)](#2025-07-31-kodak-kodacolor-vr-plus-ref-f8bf)
-- [[2025-07-31] Agfa Agfacolor XRG 200 (ref: 689e)](#2025-07-31-agfa-agfacolor-xrg-200-ref-689e)
+- [[2025-07-31] Agfa AgfaColor XRG 200 (ref: 689e)](#2025-07-31-agfa-agfacolor-xrg-200-ref-689e)
 - [[2025-07-31] Alfo ALFOcolor PR-G (ref: 94b9)](#2025-07-31-alfo-alfocolor-pr-g-ref-94b9)
 - [[2025-07-31] Fujifilm Fujicolor Super HG (ref: ee94)](#2025-07-31-fujifilm-fujicolor-super-hg-ref-ee94)
 - [[2025-07-31] Kodak Gold (ref: 2f8d)](#2025-07-31-kodak-gold-ref-2f8d)
@@ -377,11 +377,11 @@ Total scans : 651
 - [[2025-01-04] Kodak High Speed Ektachrome (ref: ce7f)](#2025-01-04-kodak-high-speed-ektachrome-ref-ce7f)
 - [[2025-01-04] Ilford HP5 Plus (ref: efad)](#2025-01-04-ilford-hp5-plus-ref-efad)
 - [[2025-01-04] Kentmere PAN 400 (ref: 827e)](#2025-01-04-kentmere-pan-400-ref-827e)
-- [[2025-01-04] Agfa Agfacolor Vista (ref: d3af)](#2025-01-04-agfa-agfacolor-vista-ref-d3af)
+- [[2025-01-04] Agfa AgfaColor Vista (ref: d3af)](#2025-01-04-agfa-agfacolor-vista-ref-d3af)
 - [[2025-01-04] Lloyds Pharmacy Colour Film (ref: 77d9)](#2025-01-04-lloyds-pharmacy-colour-film-ref-77d9)
 - [[2025-01-04] Fujifilm Fujicolor Superia (ref: 0683)](#2025-01-04-fujifilm-fujicolor-superia-ref-0683)
 - [[2025-01-04] Agfa APX (ref: 12c7)](#2025-01-04-agfa-apx-ref-12c7)
-- [[2025-01-04] Agfa Agfacolor ULTRA 50 (ref: 4faa)](#2025-01-04-agfa-agfacolor-ultra-50-ref-4faa)
+- [[2025-01-04] Agfa AgfaColor ULTRA 50 (ref: 4faa)](#2025-01-04-agfa-agfacolor-ultra-50-ref-4faa)
 - [[2025-01-04] Ilford SFX 200 (ref: 6057)](#2025-01-04-ilford-sfx-200-ref-6057)
 - [[2025-01-04] Lomography Lomochrome Turquoise (ref: 0d90)](#2025-01-04-lomography-lomochrome-turquoise-ref-0d90)
 - [[2025-01-04] Fujifilm Fujicolor Super HR (ref: aaa0)](#2025-01-04-fujifilm-fujicolor-super-hr-ref-aaa0)
@@ -1326,7 +1326,7 @@ UUID  : 587ac1b471994b54bb5f472d6975fccd
 	<img src="./lowres/00330_000.jpg" alt="CineStill 400Dynamic 35mm film box outside" loading="lazy" width="380" height="500">
 </a>
 
-#### [2025-09-13] Agfa Agfacolor Vista (ref: 2f14)
+#### [2025-09-13] Agfa AgfaColor Vista (ref: 2f14)
 
 ```
 Format: 110          |  Process : C-41    
@@ -1337,10 +1337,10 @@ UUID  : 81e8726a7d3b45beb1f1bd6c1cbc2f14
 ```
 
 <a href="./archive/00329_000.jpg" target="_blank">
-	<img src="./lowres/00329_000.jpg" alt="Agfa Agfacolor Vista 110 film box outside" loading="lazy" width="500" height="336">
+	<img src="./lowres/00329_000.jpg" alt="Agfa AgfaColor Vista 110 film box outside" loading="lazy" width="500" height="336">
 </a>
 
-#### [2025-09-13] Agfa Agfacolor HDC Plus (ref: d22b)
+#### [2025-09-13] Agfa AgfaColor HDC Plus (ref: d22b)
 
 ```
 Format: 110          |  Process : C-41    
@@ -1351,7 +1351,7 @@ UUID  : 9cec7faf26254e72bfb79611ea6ed22b
 ```
 
 <a href="./archive/00328_000.jpg" target="_blank">
-	<img src="./lowres/00328_000.jpg" alt="Agfa Agfacolor HDC Plus 110 film box outside" loading="lazy" width="500" height="354">
+	<img src="./lowres/00328_000.jpg" alt="Agfa AgfaColor HDC Plus 110 film box outside" loading="lazy" width="500" height="354">
 </a>
 
 #### [2025-09-13] Polaroid High Definition (ref: deb6)
@@ -1841,10 +1841,10 @@ UUID  : e7713fa57cac41e3ae3f416f3ea5ac24
 `UUID: af2f0855d49849daa5b8fbde77c2ce5d`↓
 
 <a href="./archive/00301_001.jpg" target="_blank">
-	<img src="./lowres/00301_001.jpg" alt="Agfa Agfacolor Optima 200 120 film box inside" loading="lazy" width="500" height="373">
+	<img src="./lowres/00301_001.jpg" alt="Agfa AgfaColor Optima 200 120 film box inside" loading="lazy" width="500" height="373">
 </a>
 
-#### [2025-09-05] Agfa Agfacolor Optima 200 (ref: 393d)
+#### [2025-09-05] Agfa AgfaColor Optima 200 (ref: 393d)
 
 ```
 Format: 120          |  Process : C-41    
@@ -1855,7 +1855,7 @@ UUID  : e8465f64b1f84f32900d92caa25e393d
 ```
 
 <a href="./archive/00301_000.jpg" target="_blank">
-	<img src="./lowres/00301_000.jpg" alt="Agfa Agfacolor Optima 200 120 film box outside" loading="lazy" width="500" height="373">
+	<img src="./lowres/00301_000.jpg" alt="Agfa AgfaColor Optima 200 120 film box outside" loading="lazy" width="500" height="373">
 </a>
 
 
@@ -4753,10 +4753,10 @@ UUID  : faf0a44eece541a9b701feb772f4f8bf
 `UUID: 5598d8aac5844772a87d019a7d37e9f6`↓
 
 <a href="./archive/00152_001.jpg" target="_blank">
-	<img src="./lowres/00152_001.jpg" alt="Agfa Agfacolor XRG 200 35mm film box inside" loading="lazy" width="404" height="500">
+	<img src="./lowres/00152_001.jpg" alt="Agfa AgfaColor XRG 200 35mm film box inside" loading="lazy" width="404" height="500">
 </a>
 
-#### [2025-07-31] Agfa Agfacolor XRG 200 (ref: 689e)
+#### [2025-07-31] Agfa AgfaColor XRG 200 (ref: 689e)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -4767,7 +4767,7 @@ UUID  : 86136eea89d14e15b60dfcdf45b1689e
 ```
 
 <a href="./archive/00152_000.jpg" target="_blank">
-	<img src="./lowres/00152_000.jpg" alt="Agfa Agfacolor XRG 200 35mm film box outside" loading="lazy" width="435" height="500">
+	<img src="./lowres/00152_000.jpg" alt="Agfa AgfaColor XRG 200 35mm film box outside" loading="lazy" width="435" height="500">
 </a>
 
 #### [2025-07-31] Alfo ALFOcolor PR-G (ref: 94b9)
@@ -7266,10 +7266,10 @@ UUID  : d2cf9753f6fd49a78404c72d848a827e
 `UUID: 300a430fc19f4eeeb4892e58d3c3cd56`↓
 
 <a href="./archive/00014_001.jpg" target="_blank">
-	<img src="./lowres/00014_001.jpg" alt="Agfa Agfacolor Vista 35mm film box inside" loading="lazy" width="440" height="500">
+	<img src="./lowres/00014_001.jpg" alt="Agfa AgfaColor Vista 35mm film box inside" loading="lazy" width="440" height="500">
 </a>
 
-#### [2025-01-04] Agfa Agfacolor Vista (ref: d3af)
+#### [2025-01-04] Agfa AgfaColor Vista (ref: d3af)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -7280,7 +7280,7 @@ UUID  : f1e50745927f4b7cb16af36fd30dd3af
 ```
 
 <a href="./archive/00014_000.jpg" target="_blank">
-	<img src="./lowres/00014_000.jpg" alt="Agfa Agfacolor Vista 35mm film box outside" loading="lazy" width="438" height="500">
+	<img src="./lowres/00014_000.jpg" alt="Agfa AgfaColor Vista 35mm film box outside" loading="lazy" width="438" height="500">
 </a>
 
 #### [2025-01-04] Lloyds Pharmacy Colour Film (ref: 77d9)
@@ -7343,10 +7343,10 @@ UUID  : a20bbca534454915a6970b6ede2212c7
 `UUID: 8594d11f816c45b6a18dd122f8e38fc0`↓
 
 <a href="./archive/00010_001.jpg" target="_blank">
-	<img src="./lowres/00010_001.jpg" alt="Agfa Agfacolor ULTRA 50 35mm film box inside" loading="lazy" width="453" height="500">
+	<img src="./lowres/00010_001.jpg" alt="Agfa AgfaColor ULTRA 50 35mm film box inside" loading="lazy" width="453" height="500">
 </a>
 
-#### [2025-01-04] Agfa Agfacolor ULTRA 50 (ref: 4faa)
+#### [2025-01-04] Agfa AgfaColor ULTRA 50 (ref: 4faa)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -7357,7 +7357,7 @@ UUID  : d10e846ba5154f1d940ed7009a904faa
 ```
 
 <a href="./archive/00010_000.jpg" target="_blank">
-	<img src="./lowres/00010_000.jpg" alt="Agfa Agfacolor ULTRA 50 35mm film box outside" loading="lazy" width="438" height="500">
+	<img src="./lowres/00010_000.jpg" alt="Agfa AgfaColor ULTRA 50 35mm film box outside" loading="lazy" width="438" height="500">
 </a>
 
 
