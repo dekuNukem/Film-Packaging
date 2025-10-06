@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 05 2025
-Unique items: 367
-Total scans : 648
+Last Updated: Oct 06 2025
+Unique items: 369
+Total scans : 651
 ```
 
 -----
@@ -228,6 +228,7 @@ Total scans : 648
 - [[2014] Fujifilm Fujichrome Provia 400X (ref: 3c08)](#2014-fujifilm-fujichrome-provia-400x-ref-3c08)
 - [[2015] Fujifilm FP-100C (ref: 5cda)](#2015-fujifilm-fp-100c-ref-5cda)
 - [[2018] CineStill 800T (ref: c86a)](#2018-cinestill-800t-ref-c86a)
+- [[2018] Agfa Vista Plus 200 (ref: f5f7)](#2018-agfa-vista-plus-200-ref-f5f7)
 - [[2018] Fujifilm Fujicolor Pro 400H (ref: 66e3)](#2018-fujifilm-fujicolor-pro-400h-ref-66e3)
 - [[2019] Agfa Vista Plus 200 (ref: f08a)](#2019-agfa-vista-plus-200-ref-f08a)
 - [[2019] Fujifilm Fujicolor Professional (ref: 02f7)](#2019-fujifilm-fujicolor-professional-ref-02f7)
@@ -340,6 +341,7 @@ Total scans : 648
 - [[2027] Lomography Lomochrome Color'92 (ref: 9fdb)](#2027-lomography-lomochrome-color92-ref-9fdb)
 - [[2027] Rollei Infrared (ref: eae2)](#2027-rollei-infrared-ref-eae2)
 - [[2027] Foma Ortho 400 (ref: c559)](#2027-foma-ortho-400-ref-c559)
+- [[2027] Fujifilm Superia Premium 400 (ref: ef1f)](#2027-fujifilm-superia-premium-400-ref-ef1f)
 - [[2027] Lomography Lomochrome Purple (ref: 068f)](#2027-lomography-lomochrome-purple-ref-068f)
 - [[2027] Reflx Lab Pro 100 (ref: 8bec)](#2027-reflx-lab-pro-100-ref-8bec)
 - [[2027] Harman Phoenix II (ref: f686)](#2027-harman-phoenix-ii-ref-f686)
@@ -4712,6 +4714,27 @@ UUID  : 53253eca96d841f5b98bfb3590fec86a
 	<img src="./lowres/00006_001.jpg" alt="CineStill 800T 120 film box inside" loading="lazy" width="500" height="335">
 </a>
 
+#### [2018] Agfa Vista Plus 200 (ref: f5f7)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2018-08 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-10-06   |  Author  : @Hol.m35
+UUID  : ca7affc001374aa882b4c2edd3e8f5f7
+```
+
+<a href="./archive/00371_000.jpg" target="_blank">
+	<img src="./lowres/00371_000.jpg" alt="Agfa Vista Plus 200 35mm film box outside" loading="lazy" width="453" height="500">
+</a>
+
+
+`UUID: e3caf8b1d9ec4d0495a5908c202bca61`↓
+
+<a href="./archive/00371_001.jpg" target="_blank">
+	<img src="./lowres/00371_001.jpg" alt="Agfa Vista Plus 200 35mm film box inside" loading="lazy" width="451" height="500">
+</a>
+
 #### [2018] Fujifilm Fujicolor Pro 400H (ref: 66e3)
 
 ```
@@ -6609,6 +6632,20 @@ UUID  : 676655ff95914769b0869d71d824c559
 	<img src="./lowres/00187_001.jpg" alt="Foma Ortho 400 35mm film box inside" loading="lazy" width="441" height="500">
 </a>
 
+#### [2027] Fujifilm Superia Premium 400 (ref: ef1f)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-05 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-06   |  Author  : @Hol.m35
+UUID  : 433055f5732e4d53b4245da4dfe0ef1f
+```
+
+<a href="./archive/00372_000.jpg" target="_blank">
+	<img src="./lowres/00372_000.jpg" alt="Fujifilm Superia Premium 400 35mm film box outside" loading="lazy" width="448" height="500">
+</a>
+
 #### [2027] Lomography Lomochrome Purple (ref: 068f)
 
 ```
@@ -7524,12 +7561,12 @@ Rank  Username                      Contributions
 15    @zruk_ts                      10    
 16    benikum                       9     
 17    lilyu.xyz                     9     
-18    @toastergod101                7     
-19    @filmfotofella                7     
-20    lt_col_tall                   6     
-21    kaimon                        6     
-22    GreatGizmo74                  6     
-23    @Hol.m35                      5     
+18    @Hol.m35                      8     
+19    @toastergod101                7     
+20    @filmfotofella                7     
+21    lt_col_tall                   6     
+22    kaimon                        6     
+23    GreatGizmo74                  6     
 24    Kraksen                       5     
 25    Henry Gunn                    4     
 26    u/ReeeSchmidtyWerber          4     

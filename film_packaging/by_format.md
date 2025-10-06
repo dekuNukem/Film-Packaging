@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 05 2025
-Unique items: 367
-Total scans : 648
+Last Updated: Oct 06 2025
+Unique items: 369
+Total scans : 651
 ```
 
 -----
@@ -153,6 +153,7 @@ Total scans : 648
 - [[35mm] Agfa Fine-Grain Plenachrome (ref: e5d4)](#35mm-agfa-fine-grain-plenachrome-ref-e5d4)
 - [[35mm] Agfa Isopan FF (ref: 3700)](#35mm-agfa-isopan-ff-ref-3700)
 - [[35mm] Agfa Isopan ISS (ref: 75fa)](#35mm-agfa-isopan-iss-ref-75fa)
+- [[35mm] Agfa Vista Plus 200 (ref: f5f7)](#35mm-agfa-vista-plus-200-ref-f5f7)
 - [[35mm] Agfa Vista Plus 200 (ref: f08a)](#35mm-agfa-vista-plus-200-ref-f08a)
 - [[35mm] Alfo ALFOcolor PR-G (ref: 94b9)](#35mm-alfo-alfocolor-pr-g-ref-94b9)
 - [[35mm] Alien Film 5222/XX (ref: 3e49)](#35mm-alien-film-5222xx-ref-3e49)
@@ -210,6 +211,7 @@ Total scans : 648
 - [[35mm] Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)](#35mm-fujifilm-fujicolor-superia-x-tra-ref-6b8a)
 - [[35mm] Fujifilm Neopan 400 (ref: c088)](#35mm-fujifilm-neopan-400-ref-c088)
 - [[35mm] Fujifilm Neopan SS Rapid (ref: 9db3)](#35mm-fujifilm-neopan-ss-rapid-ref-9db3)
+- [[35mm] Fujifilm Superia Premium 400 (ref: ef1f)](#35mm-fujifilm-superia-premium-400-ref-ef1f)
 - [[35mm] Hands On Film Midnight 1600 (ref: 4411)](#35mm-hands-on-film-midnight-1600-ref-4411)
 - [[35mm] Harman Phoenix (ref: 8eb4)](#35mm-harman-phoenix-ref-8eb4)
 - [[35mm] Harman Phoenix II (ref: 40df)](#35mm-harman-phoenix-ii-ref-40df)
@@ -3130,6 +3132,27 @@ UUID  : cdcaa912ee0142c3b76eb1500e2375fa
 	<img src="./lowres/00148_000.jpg" alt="Agfa Isopan ISS 35mm film box outside" loading="lazy" width="500" height="406">
 </a>
 
+#### [35mm] Agfa Vista Plus 200 (ref: f5f7)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2018-08 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-10-06   |  Author  : @Hol.m35
+UUID  : ca7affc001374aa882b4c2edd3e8f5f7
+```
+
+<a href="./archive/00371_000.jpg" target="_blank">
+	<img src="./lowres/00371_000.jpg" alt="Agfa Vista Plus 200 35mm film box outside" loading="lazy" width="453" height="500">
+</a>
+
+
+`UUID: e3caf8b1d9ec4d0495a5908c202bca61`↓
+
+<a href="./archive/00371_001.jpg" target="_blank">
+	<img src="./lowres/00371_001.jpg" alt="Agfa Vista Plus 200 35mm film box inside" loading="lazy" width="451" height="500">
+</a>
+
 #### [35mm] Agfa Vista Plus 200 (ref: f08a)
 
 ```
@@ -4136,6 +4159,20 @@ UUID  : 1c541b4c837944d788eab8986f349db3
 
 <a href="./archive/00118_000.jpg" target="_blank">
 	<img src="./lowres/00118_000.jpg" alt="Fujifilm Neopan SS Rapid 35mm film box outside" loading="lazy" width="369" height="500">
+</a>
+
+#### [35mm] Fujifilm Superia Premium 400 (ref: ef1f)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-05 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-06   |  Author  : @Hol.m35
+UUID  : 433055f5732e4d53b4245da4dfe0ef1f
+```
+
+<a href="./archive/00372_000.jpg" target="_blank">
+	<img src="./lowres/00372_000.jpg" alt="Fujifilm Superia Premium 400 35mm film box outside" loading="lazy" width="448" height="500">
 </a>
 
 #### [35mm] Hands On Film Midnight 1600 (ref: 4411)
@@ -7524,12 +7561,12 @@ Rank  Username                      Contributions
 15    @zruk_ts                      10    
 16    benikum                       9     
 17    lilyu.xyz                     9     
-18    @toastergod101                7     
-19    @filmfotofella                7     
-20    lt_col_tall                   6     
-21    kaimon                        6     
-22    GreatGizmo74                  6     
-23    @Hol.m35                      5     
+18    @Hol.m35                      8     
+19    @toastergod101                7     
+20    @filmfotofella                7     
+21    lt_col_tall                   6     
+22    kaimon                        6     
+23    GreatGizmo74                  6     
 24    Kraksen                       5     
 25    Henry Gunn                    4     
 26    u/ReeeSchmidtyWerber          4     

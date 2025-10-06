@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 05 2025
-Unique items: 367
-Total scans : 648
+Last Updated: Oct 06 2025
+Unique items: 369
+Total scans : 651
 ```
 
 -----
@@ -47,6 +47,7 @@ Total scans : 648
 - [Agfa Optima II 400 (ref: fdf0)](#agfa-optima-ii-400-ref-fdf0)
 - [Agfa Trockenplatten (ref: 0937)](#agfa-trockenplatten-ref-0937)
 - [Agfa Trockenplatten (ref: 41a8)](#agfa-trockenplatten-ref-41a8)
+- [Agfa Vista Plus 200 (ref: f5f7)](#agfa-vista-plus-200-ref-f5f7)
 - [Agfa Vista Plus 200 (ref: f08a)](#agfa-vista-plus-200-ref-f08a)
 - [Alfo ALFOcolor PR-G (ref: 94b9)](#alfo-alfocolor-pr-g-ref-94b9)
 - [Alien Film 5207/250D (ref: 8820)](#alien-film-5207250d-ref-8820)
@@ -143,6 +144,7 @@ Total scans : 648
 - [Fujifilm Neopan 400 Presto (ref: 21a7)](#fujifilm-neopan-400-presto-ref-21a7)
 - [Fujifilm Neopan SS (ref: d848)](#fujifilm-neopan-ss-ref-d848)
 - [Fujifilm Neopan SS Rapid (ref: 9db3)](#fujifilm-neopan-ss-rapid-ref-9db3)
+- [Fujifilm Superia Premium 400 (ref: ef1f)](#fujifilm-superia-premium-400-ref-ef1f)
 - [GAF Color Slide Film (ref: dea6)](#gaf-color-slide-film-ref-dea6)
 - [Gevaert Ultra Panchro Normal (ref: 1ff6)](#gevaert-ultra-panchro-normal-ref-1ff6)
 - [Hands On Film Midnight 1600 (ref: 4411)](#hands-on-film-midnight-1600-ref-4411)
@@ -881,6 +883,27 @@ UUID  : 80d64fa269454c5589109c68a40541a8
 
 <a href="./archive/00286_001.jpg" target="_blank">
 	<img src="./lowres/00286_001.jpg" alt="Agfa Trockenplatten 9x12cm film box outside" loading="lazy" width="373" height="500">
+</a>
+
+#### Agfa Vista Plus 200 (ref: f5f7)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2018-08 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-10-06   |  Author  : @Hol.m35
+UUID  : ca7affc001374aa882b4c2edd3e8f5f7
+```
+
+<a href="./archive/00371_000.jpg" target="_blank">
+	<img src="./lowres/00371_000.jpg" alt="Agfa Vista Plus 200 35mm film box outside" loading="lazy" width="453" height="500">
+</a>
+
+
+`UUID: e3caf8b1d9ec4d0495a5908c202bca61`↓
+
+<a href="./archive/00371_001.jpg" target="_blank">
+	<img src="./lowres/00371_001.jpg" alt="Agfa Vista Plus 200 35mm film box inside" loading="lazy" width="451" height="500">
 </a>
 
 #### Agfa Vista Plus 200 (ref: f08a)
@@ -2701,6 +2724,20 @@ UUID  : 1c541b4c837944d788eab8986f349db3
 
 <a href="./archive/00118_000.jpg" target="_blank">
 	<img src="./lowres/00118_000.jpg" alt="Fujifilm Neopan SS Rapid 35mm film box outside" loading="lazy" width="369" height="500">
+</a>
+
+#### Fujifilm Superia Premium 400 (ref: ef1f)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-05 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-06   |  Author  : @Hol.m35
+UUID  : 433055f5732e4d53b4245da4dfe0ef1f
+```
+
+<a href="./archive/00372_000.jpg" target="_blank">
+	<img src="./lowres/00372_000.jpg" alt="Fujifilm Superia Premium 400 35mm film box outside" loading="lazy" width="448" height="500">
 </a>
 
 #### GAF Color Slide Film (ref: dea6)
@@ -7524,12 +7561,12 @@ Rank  Username                      Contributions
 15    @zruk_ts                      10    
 16    benikum                       9     
 17    lilyu.xyz                     9     
-18    @toastergod101                7     
-19    @filmfotofella                7     
-20    lt_col_tall                   6     
-21    kaimon                        6     
-22    GreatGizmo74                  6     
-23    @Hol.m35                      5     
+18    @Hol.m35                      8     
+19    @toastergod101                7     
+20    @filmfotofella                7     
+21    lt_col_tall                   6     
+22    kaimon                        6     
+23    GreatGizmo74                  6     
 24    Kraksen                       5     
 25    Henry Gunn                    4     
 26    u/ReeeSchmidtyWerber          4     

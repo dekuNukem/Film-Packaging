@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 05 2025
-Unique items: 367
-Total scans : 648
+Last Updated: Oct 06 2025
+Unique items: 369
+Total scans : 651
 ```
 
 Or Sort by...
@@ -70,12 +70,12 @@ Rank  Username                      Contributions
 15    @zruk_ts                      10    
 16    benikum                       9     
 17    lilyu.xyz                     9     
-18    @toastergod101                7     
-19    @filmfotofella                7     
-20    lt_col_tall                   6     
-21    kaimon                        6     
-22    GreatGizmo74                  6     
-23    @Hol.m35                      5     
+18    @Hol.m35                      8     
+19    @toastergod101                7     
+20    @filmfotofella                7     
+21    lt_col_tall                   6     
+22    kaimon                        6     
+23    GreatGizmo74                  6     
 24    Kraksen                       5     
 25    Henry Gunn                    4     
 26    u/ReeeSchmidtyWerber          4     
@@ -92,6 +92,10 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-10-06
+  - @Hol.m35: Agfa Vista Plus 200
+  - @Hol.m35: Fujifilm Superia Premium 400
+
 2025-10-05
   - benikum: VEB Fotochemische Werke Berlin Dekopan Feinkorn
   - benikum: VEB Fotochemische Werke Berlin Dekopan Super S
@@ -109,17 +113,6 @@ Rank  Username                      Contributions
 
 2025-10-01
   - lt_col_tall: CatLABS X Film 80 MKII
-
-2025-09-28
-  - @ellafridalindblom: Impossible Project PX 600 Silver Shade UV+
-  - @ellafridalindblom: Kodak High Speed Infrared Film 2481
-  - @ellafridalindblom: Polaroid Spectra Film
-  - @Hol.m35: JCH Streetpan
-  - dekuNukem: Klick Max Extra Definition Multi Purpose Film
-  - fine-seat: Agfa Isopan ISS
-  - fine-seat: Herzog Duxopan
-  - fine-seat: ORWO Chrom UT21
-  - lemoniter: Club Color Natural Color System
 ```
 
 ## Disclaimer

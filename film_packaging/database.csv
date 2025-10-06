@@ -647,3 +647,6 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 369,0,film_box_outside,VEB Fotochemische Werke Berlin,Dekopan Super S,35mm,80,BW,196108,1759681258,5fe727689a3c396e8e92d745e1c5710d,da22aec5f8564cd8b34023047f511620,00369_000.jpg,benikum,,Single Pack,36exp
 369,1,film_box_inside,VEB Fotochemische Werke Berlin,Dekopan Super S,35mm,80,BW,196108,1759681260,d5ea2dcb14c022d73ce351b94571810c,4220a86f04794b568159c0b119859985,00369_001.jpg,benikum,,Single Pack,36exp
 370,0,film_box_outside,Minox,MinoColor 3,8x11mm,100,C-41,198910,1759681491,11fe6f7c971ae95cf4aba317910a0758,a54b7c329f26403d91ffa69325a1d209,00370_000.jpg,Pelicram,,Single Pack,36exp
+371,0,film_box_outside,Agfa,Vista Plus 200,35mm,200,C-41,201808,1759778804,33c5d688c9cfdc823902639fb9d00084,ca7affc001374aa882b4c2edd3e8f5f7,00371_000.jpg,@Hol.m35,,Single Pack,24exp
+371,1,film_box_inside,Agfa,Vista Plus 200,35mm,200,C-41,201808,1759778853,9b21a1df4fd7d1efba6e9b18bbdb5806,e3caf8b1d9ec4d0495a5908c202bca61,00371_001.jpg,@Hol.m35,,Single Pack,24exp
+372,0,film_box_outside,Fujifilm,Superia Premium 400,35mm,400,C-41,202705,1759778927,597732093f9937877a7f66a0a2fd7635,433055f5732e4d53b4245da4dfe0ef1f,00372_000.jpg,@Hol.m35,,Single Pack,36exp

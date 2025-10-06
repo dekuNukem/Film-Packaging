@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 05 2025
-Unique items: 367
-Total scans : 648
+Last Updated: Oct 06 2025
+Unique items: 369
+Total scans : 651
 ```
 
 -----
@@ -148,6 +148,7 @@ Total scans : 648
 - [[C-41] Agfa Agfacolor Vista (ref: d3af)](#c-41-agfa-agfacolor-vista-ref-d3af)
 - [[C-41] Agfa Agfacolor XRG 200 (ref: 689e)](#c-41-agfa-agfacolor-xrg-200-ref-689e)
 - [[C-41] Agfa Optima II 400 (ref: fdf0)](#c-41-agfa-optima-ii-400-ref-fdf0)
+- [[C-41] Agfa Vista Plus 200 (ref: f5f7)](#c-41-agfa-vista-plus-200-ref-f5f7)
 - [[C-41] Agfa Vista Plus 200 (ref: f08a)](#c-41-agfa-vista-plus-200-ref-f08a)
 - [[C-41] Alfo ALFOcolor PR-G (ref: 94b9)](#c-41-alfo-alfocolor-pr-g-ref-94b9)
 - [[C-41] Alien Film Aeronega (ref: d1c5)](#c-41-alien-film-aeronega-ref-d1c5)
@@ -196,6 +197,7 @@ Total scans : 648
 - [[C-41] Fujifilm Fujicolor Superia X-TRA (ref: 8923)](#c-41-fujifilm-fujicolor-superia-x-tra-ref-8923)
 - [[C-41] Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)](#c-41-fujifilm-fujicolor-superia-x-tra-ref-6b8a)
 - [[C-41] Fujifilm Fujicolor Superia X-TRA 400 (ref: da37)](#c-41-fujifilm-fujicolor-superia-x-tra-400-ref-da37)
+- [[C-41] Fujifilm Superia Premium 400 (ref: ef1f)](#c-41-fujifilm-superia-premium-400-ref-ef1f)
 - [[C-41] Hands On Film Midnight 1600 (ref: 4411)](#c-41-hands-on-film-midnight-1600-ref-4411)
 - [[C-41] Harman Phoenix (ref: 8eb4)](#c-41-harman-phoenix-ref-8eb4)
 - [[C-41] Harman Phoenix (ref: 637f)](#c-41-harman-phoenix-ref-637f)
@@ -2766,6 +2768,27 @@ UUID  : 4ae0df57aeb24746a0a7854da202fdf0
 	<img src="./lowres/00298_001.jpg" alt="Agfa Optima II 400 120 film box inside" loading="lazy" width="500" height="384">
 </a>
 
+#### [C-41] Agfa Vista Plus 200 (ref: f5f7)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2018-08 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-10-06   |  Author  : @Hol.m35
+UUID  : ca7affc001374aa882b4c2edd3e8f5f7
+```
+
+<a href="./archive/00371_000.jpg" target="_blank">
+	<img src="./lowres/00371_000.jpg" alt="Agfa Vista Plus 200 35mm film box outside" loading="lazy" width="453" height="500">
+</a>
+
+
+`UUID: e3caf8b1d9ec4d0495a5908c202bca61`↓
+
+<a href="./archive/00371_001.jpg" target="_blank">
+	<img src="./lowres/00371_001.jpg" alt="Agfa Vista Plus 200 35mm film box inside" loading="lazy" width="451" height="500">
+</a>
+
 #### [C-41] Agfa Vista Plus 200 (ref: f08a)
 
 ```
@@ -3618,6 +3641,20 @@ UUID  : 905002d5cdc24e36b190fb04a38cda37
 
 <a href="./archive/00315_001.jpg" target="_blank">
 	<img src="./lowres/00315_001.jpg" alt="Fujifilm Fujicolor Superia X-TRA 400 120 film box inside" loading="lazy" width="472" height="500">
+</a>
+
+#### [C-41] Fujifilm Superia Premium 400 (ref: ef1f)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-05 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-06   |  Author  : @Hol.m35
+UUID  : 433055f5732e4d53b4245da4dfe0ef1f
+```
+
+<a href="./archive/00372_000.jpg" target="_blank">
+	<img src="./lowres/00372_000.jpg" alt="Fujifilm Superia Premium 400 35mm film box outside" loading="lazy" width="448" height="500">
 </a>
 
 #### [C-41] Hands On Film Midnight 1600 (ref: 4411)
@@ -7524,12 +7561,12 @@ Rank  Username                      Contributions
 15    @zruk_ts                      10    
 16    benikum                       9     
 17    lilyu.xyz                     9     
-18    @toastergod101                7     
-19    @filmfotofella                7     
-20    lt_col_tall                   6     
-21    kaimon                        6     
-22    GreatGizmo74                  6     
-23    @Hol.m35                      5     
+18    @Hol.m35                      8     
+19    @toastergod101                7     
+20    @filmfotofella                7     
+21    lt_col_tall                   6     
+22    kaimon                        6     
+23    GreatGizmo74                  6     
 24    Kraksen                       5     
 25    Henry Gunn                    4     
 26    u/ReeeSchmidtyWerber          4     
