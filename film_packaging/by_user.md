@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 06 2025
-Unique items: 369
-Total scans : 651
+Last Updated: Oct 07 2025
+Unique items: 377
+Total scans : 659
 ```
 
 -----
@@ -188,9 +188,12 @@ Total scans : 651
 - [[Nano_Burger] Kodak TMAX P3200 (ref: 1dff)](#nano_burger-kodak-tmax-p3200-ref-1dff)
 - [[Nano_Burger] Kodak Technical Pan (ref: f4cf)](#nano_burger-kodak-technical-pan-ref-f4cf)
 - [[Pelicram] Adox HR 50 (ref: 4da7)](#pelicram-adox-hr-50-ref-4da7)
+- [[Pelicram] Agfa Agfacolor Umkehr-Ultra T (ref: 01db)](#pelicram-agfa-agfacolor-umkehr-ultra-t-ref-01db)
 - [[Pelicram] Agfa Isopan ISS (ref: 75fa)](#pelicram-agfa-isopan-iss-ref-75fa)
+- [[Pelicram] Agfa Isopan ISS (ref: b9d7)](#pelicram-agfa-isopan-iss-ref-b9d7)
 - [[Pelicram] Bergger Pancro400 (ref: ad7b)](#pelicram-bergger-pancro400-ref-ad7b)
 - [[Pelicram] Bergger Pancro400 (ref: f619)](#pelicram-bergger-pancro400-ref-f619)
+- [[Pelicram] Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)](#pelicram-filmfabrik-köpenick-dekopan-feinkorn-ref-1bb7)
 - [[Pelicram] Foma Fomapan 200 (ref: 60ee)](#pelicram-foma-fomapan-200-ref-60ee)
 - [[Pelicram] Foma Fomapan Classic 100 (ref: 65ad)](#pelicram-foma-fomapan-classic-100-ref-65ad)
 - [[Pelicram] Foma Fomapan Classic 100 (ref: 0030)](#pelicram-foma-fomapan-classic-100-ref-0030)
@@ -200,10 +203,15 @@ Total scans : 651
 - [[Pelicram] Hazenfilm Sorolla Chrome (ref: 889f)](#pelicram-hazenfilm-sorolla-chrome-ref-889f)
 - [[Pelicram] Ilford Delta 3200 Professional (ref: 920f)](#pelicram-ilford-delta-3200-professional-ref-920f)
 - [[Pelicram] Ilford Delta 3200 Professional (ref: 9b54)](#pelicram-ilford-delta-3200-professional-ref-9b54)
+- [[Pelicram] Ilford FP3 (ref: 84f7)](#pelicram-ilford-fp3-ref-84f7)
+- [[Pelicram] Ilford FP3 Series 2 (ref: 03e7)](#pelicram-ilford-fp3-series-2-ref-03e7)
 - [[Pelicram] Ilford HP5 Plus (ref: 11a8)](#pelicram-ilford-hp5-plus-ref-11a8)
 - [[Pelicram] JCH Streetpan (ref: 6e58)](#pelicram-jch-streetpan-ref-6e58)
 - [[Pelicram] Kentmere PAN 200 (ref: 0e32)](#pelicram-kentmere-pan-200-ref-0e32)
 - [[Pelicram] Kentmere PAN 400 (ref: a327)](#pelicram-kentmere-pan-400-ref-a327)
+- [[Pelicram] Kodak Panatomic-X (ref: 7ed1)](#pelicram-kodak-panatomic-x-ref-7ed1)
+- [[Pelicram] Kodak Plus-X (ref: b867)](#pelicram-kodak-plus-x-ref-b867)
+- [[Pelicram] Kodak Plus-X (ref: 7958)](#pelicram-kodak-plus-x-ref-7958)
 - [[Pelicram] Kodak TMAX P3200 (ref: 521a)](#pelicram-kodak-tmax-p3200-ref-521a)
 - [[Pelicram] Kodak TMAX P3200 (ref: 43a2)](#pelicram-kodak-tmax-p3200-ref-43a2)
 - [[Pelicram] Kodak Tri-X 400 (ref: c671)](#pelicram-kodak-tri-x-400-ref-c671)
@@ -3356,6 +3364,20 @@ UUID  : a504b8da97b642908de921d1053d4da7
 	<img src="./lowres/00182_001.jpg" alt="Adox HR 50 35mm film box inside" loading="lazy" width="457" height="500">
 </a>
 
+#### [Pelicram] Agfa Agfacolor Umkehr-Ultra T (ref: 01db)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-10-07   |  Author  : Pelicram
+UUID  : b79dcd08bc514df3982630e3401f01db
+```
+
+<a href="./archive/00380_000.jpg" target="_blank">
+	<img src="./lowres/00380_000.jpg" alt="Agfa Agfacolor Umkehr-Ultra T 35mm film cartridge" loading="lazy" width="500" height="500">
+</a>
+
 #### [Pelicram] Agfa Isopan ISS (ref: 75fa)
 
 ```
@@ -3368,6 +3390,20 @@ UUID  : cdcaa912ee0142c3b76eb1500e2375fa
 
 <a href="./archive/00148_000.jpg" target="_blank">
 	<img src="./lowres/00148_000.jpg" alt="Agfa Isopan ISS 35mm film box outside" loading="lazy" width="500" height="406">
+</a>
+
+#### [Pelicram] Agfa Isopan ISS (ref: b9d7)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : Unknown 
+Type  : Bulk Roll    |  Quantity: 5m      
+Added : 2025-10-07   |  Author  : Pelicram
+UUID  : 25cfa8cb048141e38ed79df6bf38b9d7
+```
+
+<a href="./archive/00374_000.jpg" target="_blank">
+	<img src="./lowres/00374_000.jpg" alt="Agfa Isopan ISS 35mm film cartridge" loading="lazy" width="500" height="500">
 </a>
 
 #### [Pelicram] Bergger Pancro400 (ref: ad7b)
@@ -3410,6 +3446,20 @@ UUID  : 0d9fee6b29f445f089acde3247d1f619
 
 <a href="./archive/00123_001.jpg" target="_blank">
 	<img src="./lowres/00123_001.jpg" alt="Bergger Pancro400 35mm film box inside" loading="lazy" width="435" height="500">
+</a>
+
+#### [Pelicram] Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 40           |  Expiry  : 1956-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-07   |  Author  : Pelicram
+UUID  : 60cc4bc5cdde4f79946e61ff1fc81bb7
+```
+
+<a href="./archive/00373_000.jpg" target="_blank">
+	<img src="./lowres/00373_000.jpg" alt="Filmfabrik Köpenick Dekopan Feinkorn 35mm film box outside" loading="lazy" width="500" height="395">
 </a>
 
 #### [Pelicram] Foma Fomapan 200 (ref: 60ee)
@@ -3587,6 +3637,34 @@ UUID  : d6f377dbe74745a0aacdf51ce7669b54
 	<img src="./lowres/00126_001.jpg" alt="Ilford Delta 3200 Professional 35mm film box inside" loading="lazy" width="435" height="500">
 </a>
 
+#### [Pelicram] Ilford FP3 (ref: 84f7)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 125          |  Expiry  : 1959-03 
+Type  : Bulk Roll    |  Quantity: 5m      
+Added : 2025-10-07   |  Author  : Pelicram
+UUID  : 6775b898e26f4b649bd5323259f284f7
+```
+
+<a href="./archive/00377_000.jpg" target="_blank">
+	<img src="./lowres/00377_000.jpg" alt="Ilford FP3 35mm film cartridge" loading="lazy" width="500" height="499">
+</a>
+
+#### [Pelicram] Ilford FP3 Series 2 (ref: 03e7)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 125          |  Expiry  : 1960-11 
+Type  : Bulk Roll    |  Quantity: 5m      
+Added : 2025-10-07   |  Author  : Pelicram
+UUID  : bb411872cc384c19b35debf6662503e7
+```
+
+<a href="./archive/00375_000.jpg" target="_blank">
+	<img src="./lowres/00375_000.jpg" alt="Ilford FP3 Series 2 35mm film cartridge" loading="lazy" width="500" height="500">
+</a>
+
 #### [Pelicram] Ilford HP5 Plus (ref: 11a8)
 
 ```
@@ -3662,6 +3740,48 @@ UUID  : 58f2bea3a3204a1dafebf2881d99a327
 
 <a href="./archive/00145_001.jpg" target="_blank">
 	<img src="./lowres/00145_001.jpg" alt="Kentmere PAN 400 35mm film box inside" loading="lazy" width="438" height="500">
+</a>
+
+#### [Pelicram] Kodak Panatomic-X (ref: 7ed1)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1958-03 
+Type  : Bulk Roll    |  Quantity: 5m      
+Added : 2025-10-07   |  Author  : Pelicram
+UUID  : a4dcee02869a4274b81b453160ca7ed1
+```
+
+<a href="./archive/00378_000.jpg" target="_blank">
+	<img src="./lowres/00378_000.jpg" alt="Kodak Panatomic-X 35mm film cartridge" loading="lazy" width="500" height="500">
+</a>
+
+#### [Pelicram] Kodak Plus-X (ref: b867)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1957-06 
+Type  : Bulk Roll    |  Quantity: 5m      
+Added : 2025-10-07   |  Author  : Pelicram
+UUID  : def2a04d52794b00aa61a0b801bdb867
+```
+
+<a href="./archive/00379_000.jpg" target="_blank">
+	<img src="./lowres/00379_000.jpg" alt="Kodak Plus-X 35mm film cartridge" loading="lazy" width="500" height="500">
+</a>
+
+#### [Pelicram] Kodak Plus-X (ref: 7958)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1958-01 
+Type  : Bulk Roll    |  Quantity: 5m      
+Added : 2025-10-07   |  Author  : Pelicram
+UUID  : 274e94b488d64e3a890da1f77b607958
+```
+
+<a href="./archive/00376_000.jpg" target="_blank">
+	<img src="./lowres/00376_000.jpg" alt="Kodak Plus-X 35mm film cartridge" loading="lazy" width="500" height="500">
 </a>
 
 #### [Pelicram] Kodak TMAX P3200 (ref: 521a)
@@ -7546,7 +7666,7 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     222   
 2     @photos.by.qi                 72    
-3     Pelicram                      53    
+3     Pelicram                      61    
 4     @ellafridalindblom            46    
 5     The Compartmentalist          25    
 6     fine-seat                     19    

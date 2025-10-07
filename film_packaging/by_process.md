@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 06 2025
-Unique items: 369
-Total scans : 651
+Last Updated: Oct 07 2025
+Unique items: 377
+Total scans : 659
 ```
 
 -----
@@ -38,6 +38,7 @@ Total scans : 651
 - [[BW] Agfa Isopan FF (ref: 3700)](#bw-agfa-isopan-ff-ref-3700)
 - [[BW] Agfa Isopan ISS (ref: 75fa)](#bw-agfa-isopan-iss-ref-75fa)
 - [[BW] Agfa Isopan ISS (ref: 5ba6)](#bw-agfa-isopan-iss-ref-5ba6)
+- [[BW] Agfa Isopan ISS (ref: b9d7)](#bw-agfa-isopan-iss-ref-b9d7)
 - [[BW] Agfa Trockenplatten (ref: 0937)](#bw-agfa-trockenplatten-ref-0937)
 - [[BW] Agfa Trockenplatten (ref: 41a8)](#bw-agfa-trockenplatten-ref-41a8)
 - [[BW] Alien Film 5222/XX (ref: 3e49)](#bw-alien-film-5222xx-ref-3e49)
@@ -49,6 +50,7 @@ Total scans : 651
 - [[BW] Defender Extra Special Fast Panchromatic (ref: afcf)](#bw-defender-extra-special-fast-panchromatic-ref-afcf)
 - [[BW] Defender Portrait HGS (ref: d69c)](#bw-defender-portrait-hgs-ref-d69c)
 - [[BW] Efke IR 820 Aura (ref: 43c9)](#bw-efke-ir-820-aura-ref-43c9)
+- [[BW] Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)](#bw-filmfabrik-köpenick-dekopan-feinkorn-ref-1bb7)
 - [[BW] Foma Fomapan 200 (ref: 60ee)](#bw-foma-fomapan-200-ref-60ee)
 - [[BW] Foma Fomapan Classic 100 (ref: 1731)](#bw-foma-fomapan-classic-100-ref-1731)
 - [[BW] Foma Fomapan Classic 100 (ref: 65ad)](#bw-foma-fomapan-classic-100-ref-65ad)
@@ -73,6 +75,8 @@ Total scans : 651
 - [[BW] Ilford Delta 3200 Professional (ref: 9b54)](#bw-ilford-delta-3200-professional-ref-9b54)
 - [[BW] Ilford Delta 400 Professional (ref: 8f8b)](#bw-ilford-delta-400-professional-ref-8f8b)
 - [[BW] Ilford Delta 400 Professional (ref: f3da)](#bw-ilford-delta-400-professional-ref-f3da)
+- [[BW] Ilford FP3 (ref: 84f7)](#bw-ilford-fp3-ref-84f7)
+- [[BW] Ilford FP3 Series 2 (ref: 03e7)](#bw-ilford-fp3-series-2-ref-03e7)
 - [[BW] Ilford FP4 Plus (ref: 76e7)](#bw-ilford-fp4-plus-ref-76e7)
 - [[BW] Ilford FP4 Plus (ref: 3bc0)](#bw-ilford-fp4-plus-ref-3bc0)
 - [[BW] Ilford HP5 Plus (ref: 11a8)](#bw-ilford-hp5-plus-ref-11a8)
@@ -94,8 +98,11 @@ Total scans : 651
 - [[BW] Kodak High Speed Infrared (ref: 4294)](#bw-kodak-high-speed-infrared-ref-4294)
 - [[BW] Kodak High Speed Infrared (ref: 883e)](#bw-kodak-high-speed-infrared-ref-883e)
 - [[BW] Kodak High Speed Infrared Film 2481 (ref: aa7a)](#bw-kodak-high-speed-infrared-film-2481-ref-aa7a)
+- [[BW] Kodak Panatomic-X (ref: 7ed1)](#bw-kodak-panatomic-x-ref-7ed1)
 - [[BW] Kodak Panatomic-X (ref: 8d69)](#bw-kodak-panatomic-x-ref-8d69)
 - [[BW] Kodak Panatomic-X (ref: 35f6)](#bw-kodak-panatomic-x-ref-35f6)
+- [[BW] Kodak Plus-X (ref: b867)](#bw-kodak-plus-x-ref-b867)
+- [[BW] Kodak Plus-X (ref: 7958)](#bw-kodak-plus-x-ref-7958)
 - [[BW] Kodak Plus-X Pan (ref: f5cc)](#bw-kodak-plus-x-pan-ref-f5cc)
 - [[BW] Kodak Professional Microfilm Type I (ref: a444)](#bw-kodak-professional-microfilm-type-i-ref-a444)
 - [[BW] Kodak Rapid Process Copy Film (ref: e66e)](#bw-kodak-rapid-process-copy-film-ref-e66e)
@@ -383,6 +390,7 @@ Total scans : 651
 - [[K-14] Kodak Kodachrome 64 (ref: 3145)](#k-14-kodak-kodachrome-64-ref-3145)
 - [[K-14] Kodak Kodachrome 64 (ref: 3206)](#k-14-kodak-kodachrome-64-ref-3206)
 - [[Unknown] Agfa AgfaColor CT 18 (ref: 1fef)](#unknown-agfa-agfacolor-ct-18-ref-1fef)
+- [[Unknown] Agfa Agfacolor Umkehr-Ultra T (ref: 01db)](#unknown-agfa-agfacolor-umkehr-ultra-t-ref-01db)
 - [[Unknown] Film Corporation of America TriFCA 120 (ref: d024)](#unknown-film-corporation-of-america-trifca-120-ref-d024)
 - [[Unknown] Film Corporation of America TriFCA 120 (ref: 9937)](#unknown-film-corporation-of-america-trifca-120-ref-9937)
 - [[Unknown] Film Corporation of America TriFCA 35 (ref: 8f0a)](#unknown-film-corporation-of-america-trifca-35-ref-8f0a)
@@ -689,6 +697,20 @@ UUID  : ab1d4ea5f512444e92d82e4610c75ba6
 	<img src="./lowres/00357_000.jpg" alt="Agfa Isopan ISS 127 film box outside" loading="lazy" width="500" height="412">
 </a>
 
+#### [BW] Agfa Isopan ISS (ref: b9d7)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : Unknown 
+Type  : Bulk Roll    |  Quantity: 5m      
+Added : 2025-10-07   |  Author  : Pelicram
+UUID  : 25cfa8cb048141e38ed79df6bf38b9d7
+```
+
+<a href="./archive/00374_000.jpg" target="_blank">
+	<img src="./lowres/00374_000.jpg" alt="Agfa Isopan ISS 35mm film cartridge" loading="lazy" width="500" height="500">
+</a>
+
 #### [BW] Agfa Trockenplatten (ref: 0937)
 
 ```
@@ -890,6 +912,20 @@ UUID  : 716e410a3823476e9befa704361f43c9
 
 <a href="./archive/00038_001.jpg" target="_blank">
 	<img src="./lowres/00038_001.jpg" alt="Efke IR 820 Aura 120 film box inside" loading="lazy" width="500" height="341">
+</a>
+
+#### [BW] Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 40           |  Expiry  : 1956-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-07   |  Author  : Pelicram
+UUID  : 60cc4bc5cdde4f79946e61ff1fc81bb7
+```
+
+<a href="./archive/00373_000.jpg" target="_blank">
+	<img src="./lowres/00373_000.jpg" alt="Filmfabrik Köpenick Dekopan Feinkorn 35mm film box outside" loading="lazy" width="500" height="395">
 </a>
 
 #### [BW] Foma Fomapan 200 (ref: 60ee)
@@ -1333,6 +1369,34 @@ UUID  : 3b21d893a52242f886e7057855d7f3da
 	<img src="./lowres/00305_001.jpg" alt="Ilford Delta 400 Professional 35mm film box inside" loading="lazy" width="402" height="500">
 </a>
 
+#### [BW] Ilford FP3 (ref: 84f7)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 125          |  Expiry  : 1959-03 
+Type  : Bulk Roll    |  Quantity: 5m      
+Added : 2025-10-07   |  Author  : Pelicram
+UUID  : 6775b898e26f4b649bd5323259f284f7
+```
+
+<a href="./archive/00377_000.jpg" target="_blank">
+	<img src="./lowres/00377_000.jpg" alt="Ilford FP3 35mm film cartridge" loading="lazy" width="500" height="499">
+</a>
+
+#### [BW] Ilford FP3 Series 2 (ref: 03e7)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 125          |  Expiry  : 1960-11 
+Type  : Bulk Roll    |  Quantity: 5m      
+Added : 2025-10-07   |  Author  : Pelicram
+UUID  : bb411872cc384c19b35debf6662503e7
+```
+
+<a href="./archive/00375_000.jpg" target="_blank">
+	<img src="./lowres/00375_000.jpg" alt="Ilford FP3 Series 2 35mm film cartridge" loading="lazy" width="500" height="500">
+</a>
+
 #### [BW] Ilford FP4 Plus (ref: 76e7)
 
 ```
@@ -1760,6 +1824,20 @@ UUID  : 6670d5214ea545e99bfb7aadb6d4aa7a
 	<img src="./lowres/00353_000.jpg" alt="Kodak High Speed Infrared Film 2481 35mm film box outside" loading="lazy" width="500" height="489">
 </a>
 
+#### [BW] Kodak Panatomic-X (ref: 7ed1)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1958-03 
+Type  : Bulk Roll    |  Quantity: 5m      
+Added : 2025-10-07   |  Author  : Pelicram
+UUID  : a4dcee02869a4274b81b453160ca7ed1
+```
+
+<a href="./archive/00378_000.jpg" target="_blank">
+	<img src="./lowres/00378_000.jpg" alt="Kodak Panatomic-X 35mm film cartridge" loading="lazy" width="500" height="500">
+</a>
+
 #### [BW] Kodak Panatomic-X (ref: 8d69)
 
 ```
@@ -1800,6 +1878,34 @@ UUID  : 475b6bf4c66141b48fc73ace756435f6
 
 <a href="./archive/00192_002.jpg" target="_blank">
 	<img src="./lowres/00192_002.jpg" alt="Kodak Panatomic-X 35mm film box leaflet" loading="lazy" width="174" height="500">
+</a>
+
+#### [BW] Kodak Plus-X (ref: b867)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1957-06 
+Type  : Bulk Roll    |  Quantity: 5m      
+Added : 2025-10-07   |  Author  : Pelicram
+UUID  : def2a04d52794b00aa61a0b801bdb867
+```
+
+<a href="./archive/00379_000.jpg" target="_blank">
+	<img src="./lowres/00379_000.jpg" alt="Kodak Plus-X 35mm film cartridge" loading="lazy" width="500" height="500">
+</a>
+
+#### [BW] Kodak Plus-X (ref: 7958)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1958-01 
+Type  : Bulk Roll    |  Quantity: 5m      
+Added : 2025-10-07   |  Author  : Pelicram
+UUID  : 274e94b488d64e3a890da1f77b607958
+```
+
+<a href="./archive/00376_000.jpg" target="_blank">
+	<img src="./lowres/00376_000.jpg" alt="Kodak Plus-X 35mm film cartridge" loading="lazy" width="500" height="500">
 </a>
 
 #### [BW] Kodak Plus-X Pan (ref: f5cc)
@@ -7227,6 +7333,20 @@ UUID  : 0e445a9b612a487b90df4e94a3831fef
 	<img src="./lowres/00272_006.jpg" alt="Agfa AgfaColor CT 18 35mm film box processing envelope" loading="lazy" width="500" height="340">
 </a>
 
+#### [Unknown] Agfa Agfacolor Umkehr-Ultra T (ref: 01db)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-10-07   |  Author  : Pelicram
+UUID  : b79dcd08bc514df3982630e3401f01db
+```
+
+<a href="./archive/00380_000.jpg" target="_blank">
+	<img src="./lowres/00380_000.jpg" alt="Agfa Agfacolor Umkehr-Ultra T 35mm film cartridge" loading="lazy" width="500" height="500">
+</a>
+
 #### [Unknown] Film Corporation of America TriFCA 120 (ref: d024)
 
 ```
@@ -7546,7 +7666,7 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     222   
 2     @photos.by.qi                 72    
-3     Pelicram                      53    
+3     Pelicram                      61    
 4     @ellafridalindblom            46    
 5     The Compartmentalist          25    
 6     fine-seat                     19    

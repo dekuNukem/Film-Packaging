@@ -650,3 +650,11 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 371,0,film_box_outside,Agfa,Vista Plus 200,35mm,200,C-41,201808,1759778804,33c5d688c9cfdc823902639fb9d00084,ca7affc001374aa882b4c2edd3e8f5f7,00371_000.jpg,@Hol.m35,,Single Pack,24exp
 371,1,film_box_inside,Agfa,Vista Plus 200,35mm,200,C-41,201808,1759778853,9b21a1df4fd7d1efba6e9b18bbdb5806,e3caf8b1d9ec4d0495a5908c202bca61,00371_001.jpg,@Hol.m35,,Single Pack,24exp
 372,0,film_box_outside,Fujifilm,Superia Premium 400,35mm,400,C-41,202705,1759778927,597732093f9937877a7f66a0a2fd7635,433055f5732e4d53b4245da4dfe0ef1f,00372_000.jpg,@Hol.m35,,Single Pack,36exp
+373,0,film_box_outside,Filmfabrik Köpenick,Dekopan Feinkorn,35mm,40,BW,195611,1759862837,16a54b82d671a6a91af39fce390f1c26,60cc4bc5cdde4f79946e61ff1fc81bb7,00373_000.jpg,Pelicram,,Single Pack,36exp
+374,0,film_cartridge,Agfa,Isopan ISS,35mm,100,BW,Unknown,1759862916,27a0ad271faba53d1d424b48bdc4183e,25cfa8cb048141e38ed79df6bf38b9d7,00374_000.jpg,Pelicram,,Bulk Roll,5m
+375,0,film_cartridge,Ilford,FP3 Series 2,35mm,125,BW,196011,1759862990,39d45ee8a6868d05c5cfcf9383a829d6,bb411872cc384c19b35debf6662503e7,00375_000.jpg,Pelicram,,Bulk Roll,5m
+376,0,film_cartridge,Kodak,Plus-X,35mm,Unknown,BW,195801,1759863224,b0b0723f9b07a2e69002bcaa92abc90d,274e94b488d64e3a890da1f77b607958,00376_000.jpg,Pelicram,,Bulk Roll,5m
+377,0,film_cartridge,Ilford,FP3,35mm,125,BW,195903,1759863275,67cb56db0820d34947234cf6d0e5b28a,6775b898e26f4b649bd5323259f284f7,00377_000.jpg,Pelicram,,Bulk Roll,5m
+378,0,film_cartridge,Kodak,Panatomic-X,35mm,Unknown,BW,195803,1759863400,8ef6a2cbcca6af6c3a47af63e1a4125a,a4dcee02869a4274b81b453160ca7ed1,00378_000.jpg,Pelicram,,Bulk Roll,5m
+379,0,film_cartridge,Kodak,Plus-X,35mm,Unknown,BW,195706,1759863438,d8f6abe3963292165e5d1b36f47a4abb,def2a04d52794b00aa61a0b801bdb867,00379_000.jpg,Pelicram,,Bulk Roll,5m
+380,0,film_cartridge,Agfa,Agfacolor Umkehr-Ultra T,35mm,Unknown,Unknown,Unknown,1759863586,b753c466991fb6d617730d6b30888697,b79dcd08bc514df3982630e3401f01db,00380_000.jpg,Pelicram,,Single Pack,20exp

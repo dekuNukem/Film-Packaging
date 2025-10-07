@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 06 2025
-Unique items: 369
-Total scans : 651
+Last Updated: Oct 07 2025
+Unique items: 377
+Total scans : 659
 ```
 
 -----
@@ -146,6 +146,7 @@ Total scans : 651
 - [[35mm] Agfa AgfaColor ULTRA 50 (ref: 4faa)](#35mm-agfa-agfacolor-ultra-50-ref-4faa)
 - [[35mm] Agfa AgfaColor Vista (ref: d3af)](#35mm-agfa-agfacolor-vista-ref-d3af)
 - [[35mm] Agfa AgfaColor XRG 200 (ref: 689e)](#35mm-agfa-agfacolor-xrg-200-ref-689e)
+- [[35mm] Agfa Agfacolor Umkehr-Ultra T (ref: 01db)](#35mm-agfa-agfacolor-umkehr-ultra-t-ref-01db)
 - [[35mm] Agfa Agfapan  APX 25 (ref: 805f)](#35mm-agfa-agfapan-apx-25-ref-805f)
 - [[35mm] Agfa Agfapan APX 100 (ref: e271)](#35mm-agfa-agfapan-apx-100-ref-e271)
 - [[35mm] Agfa Agfapan APX 400 (ref: 19bc)](#35mm-agfa-agfapan-apx-400-ref-19bc)
@@ -153,6 +154,7 @@ Total scans : 651
 - [[35mm] Agfa Fine-Grain Plenachrome (ref: e5d4)](#35mm-agfa-fine-grain-plenachrome-ref-e5d4)
 - [[35mm] Agfa Isopan FF (ref: 3700)](#35mm-agfa-isopan-ff-ref-3700)
 - [[35mm] Agfa Isopan ISS (ref: 75fa)](#35mm-agfa-isopan-iss-ref-75fa)
+- [[35mm] Agfa Isopan ISS (ref: b9d7)](#35mm-agfa-isopan-iss-ref-b9d7)
 - [[35mm] Agfa Vista Plus 200 (ref: f5f7)](#35mm-agfa-vista-plus-200-ref-f5f7)
 - [[35mm] Agfa Vista Plus 200 (ref: f08a)](#35mm-agfa-vista-plus-200-ref-f08a)
 - [[35mm] Alfo ALFOcolor PR-G (ref: 94b9)](#35mm-alfo-alfocolor-pr-g-ref-94b9)
@@ -172,6 +174,7 @@ Total scans : 651
 - [[35mm] Film Corporation of America TriFCA 35 (ref: 8f0a)](#35mm-film-corporation-of-america-trifca-35-ref-8f0a)
 - [[35mm] Film Never Die IRO (ref: 2a22)](#35mm-film-never-die-iro-ref-2a22)
 - [[35mm] Film Never Die Kiro (ref: 796d)](#35mm-film-never-die-kiro-ref-796d)
+- [[35mm] Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)](#35mm-filmfabrik-köpenick-dekopan-feinkorn-ref-1bb7)
 - [[35mm] Foma Fomapan 200 (ref: 60ee)](#35mm-foma-fomapan-200-ref-60ee)
 - [[35mm] Foma Fomapan Classic 100 (ref: 1731)](#35mm-foma-fomapan-classic-100-ref-1731)
 - [[35mm] Foma Fomapan Classic 100 (ref: 0030)](#35mm-foma-fomapan-classic-100-ref-0030)
@@ -225,6 +228,8 @@ Total scans : 651
 - [[35mm] Ilford Delta 3200 Professional (ref: 9b54)](#35mm-ilford-delta-3200-professional-ref-9b54)
 - [[35mm] Ilford Delta 400 Professional (ref: 8f8b)](#35mm-ilford-delta-400-professional-ref-8f8b)
 - [[35mm] Ilford Delta 400 Professional (ref: f3da)](#35mm-ilford-delta-400-professional-ref-f3da)
+- [[35mm] Ilford FP3 (ref: 84f7)](#35mm-ilford-fp3-ref-84f7)
+- [[35mm] Ilford FP3 Series 2 (ref: 03e7)](#35mm-ilford-fp3-series-2-ref-03e7)
 - [[35mm] Ilford FP4 Plus (ref: 3bc0)](#35mm-ilford-fp4-plus-ref-3bc0)
 - [[35mm] Ilford HP5 Plus (ref: c725)](#35mm-ilford-hp5-plus-ref-c725)
 - [[35mm] Ilford HP5 Plus (ref: df49)](#35mm-ilford-hp5-plus-ref-df49)
@@ -282,8 +287,11 @@ Total scans : 651
 - [[35mm] Kodak Kodacolor VR (ref: 035f)](#35mm-kodak-kodacolor-vr-ref-035f)
 - [[35mm] Kodak Kodacolor VR Plus (ref: f8bf)](#35mm-kodak-kodacolor-vr-plus-ref-f8bf)
 - [[35mm] Kodak MAX (ref: 2361)](#35mm-kodak-max-ref-2361)
+- [[35mm] Kodak Panatomic-X (ref: 7ed1)](#35mm-kodak-panatomic-x-ref-7ed1)
 - [[35mm] Kodak Panatomic-X (ref: 8d69)](#35mm-kodak-panatomic-x-ref-8d69)
 - [[35mm] Kodak Panatomic-X (ref: 35f6)](#35mm-kodak-panatomic-x-ref-35f6)
+- [[35mm] Kodak Plus-X (ref: b867)](#35mm-kodak-plus-x-ref-b867)
+- [[35mm] Kodak Plus-X (ref: 7958)](#35mm-kodak-plus-x-ref-7958)
 - [[35mm] Kodak Plus-X Pan (ref: f5cc)](#35mm-kodak-plus-x-pan-ref-f5cc)
 - [[35mm] Kodak Portra 160 (ref: ce56)](#35mm-kodak-portra-160-ref-ce56)
 - [[35mm] Kodak Portra 160 (ref: 6b0a)](#35mm-kodak-portra-160-ref-6b0a)
@@ -3013,6 +3021,20 @@ UUID  : 86136eea89d14e15b60dfcdf45b1689e
 	<img src="./lowres/00152_001.jpg" alt="Agfa AgfaColor XRG 200 35mm film box inside" loading="lazy" width="404" height="500">
 </a>
 
+#### [35mm] Agfa Agfacolor Umkehr-Ultra T (ref: 01db)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-10-07   |  Author  : Pelicram
+UUID  : b79dcd08bc514df3982630e3401f01db
+```
+
+<a href="./archive/00380_000.jpg" target="_blank">
+	<img src="./lowres/00380_000.jpg" alt="Agfa Agfacolor Umkehr-Ultra T 35mm film cartridge" loading="lazy" width="500" height="500">
+</a>
+
 #### [35mm] Agfa Agfapan  APX 25 (ref: 805f)
 
 ```
@@ -3130,6 +3152,20 @@ UUID  : cdcaa912ee0142c3b76eb1500e2375fa
 
 <a href="./archive/00148_000.jpg" target="_blank">
 	<img src="./lowres/00148_000.jpg" alt="Agfa Isopan ISS 35mm film box outside" loading="lazy" width="500" height="406">
+</a>
+
+#### [35mm] Agfa Isopan ISS (ref: b9d7)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : Unknown 
+Type  : Bulk Roll    |  Quantity: 5m      
+Added : 2025-10-07   |  Author  : Pelicram
+UUID  : 25cfa8cb048141e38ed79df6bf38b9d7
+```
+
+<a href="./archive/00374_000.jpg" target="_blank">
+	<img src="./lowres/00374_000.jpg" alt="Agfa Isopan ISS 35mm film cartridge" loading="lazy" width="500" height="500">
 </a>
 
 #### [35mm] Agfa Vista Plus 200 (ref: f5f7)
@@ -3473,6 +3509,20 @@ UUID  : a6bb919bc40b4000a753bf9d3367796d
 
 <a href="./archive/00216_000.jpg" target="_blank">
 	<img src="./lowres/00216_000.jpg" alt="Film Never Die Kiro 35mm film box outside" loading="lazy" width="500" height="401">
+</a>
+
+#### [35mm] Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 40           |  Expiry  : 1956-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-07   |  Author  : Pelicram
+UUID  : 60cc4bc5cdde4f79946e61ff1fc81bb7
+```
+
+<a href="./archive/00373_000.jpg" target="_blank">
+	<img src="./lowres/00373_000.jpg" alt="Filmfabrik Köpenick Dekopan Feinkorn 35mm film box outside" loading="lazy" width="500" height="395">
 </a>
 
 #### [35mm] Foma Fomapan 200 (ref: 60ee)
@@ -4411,6 +4461,34 @@ UUID  : 3b21d893a52242f886e7057855d7f3da
 
 <a href="./archive/00305_001.jpg" target="_blank">
 	<img src="./lowres/00305_001.jpg" alt="Ilford Delta 400 Professional 35mm film box inside" loading="lazy" width="402" height="500">
+</a>
+
+#### [35mm] Ilford FP3 (ref: 84f7)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 125          |  Expiry  : 1959-03 
+Type  : Bulk Roll    |  Quantity: 5m      
+Added : 2025-10-07   |  Author  : Pelicram
+UUID  : 6775b898e26f4b649bd5323259f284f7
+```
+
+<a href="./archive/00377_000.jpg" target="_blank">
+	<img src="./lowres/00377_000.jpg" alt="Ilford FP3 35mm film cartridge" loading="lazy" width="500" height="499">
+</a>
+
+#### [35mm] Ilford FP3 Series 2 (ref: 03e7)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 125          |  Expiry  : 1960-11 
+Type  : Bulk Roll    |  Quantity: 5m      
+Added : 2025-10-07   |  Author  : Pelicram
+UUID  : bb411872cc384c19b35debf6662503e7
+```
+
+<a href="./archive/00375_000.jpg" target="_blank">
+	<img src="./lowres/00375_000.jpg" alt="Ilford FP3 Series 2 35mm film cartridge" loading="lazy" width="500" height="500">
 </a>
 
 #### [35mm] Ilford FP4 Plus (ref: 3bc0)
@@ -5519,6 +5597,20 @@ UUID  : 5d0c054ebc17452397de86653bf42361
 	<img src="./lowres/00234_000.jpg" alt="Kodak MAX 35mm film box outside" loading="lazy" width="327" height="500">
 </a>
 
+#### [35mm] Kodak Panatomic-X (ref: 7ed1)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1958-03 
+Type  : Bulk Roll    |  Quantity: 5m      
+Added : 2025-10-07   |  Author  : Pelicram
+UUID  : a4dcee02869a4274b81b453160ca7ed1
+```
+
+<a href="./archive/00378_000.jpg" target="_blank">
+	<img src="./lowres/00378_000.jpg" alt="Kodak Panatomic-X 35mm film cartridge" loading="lazy" width="500" height="500">
+</a>
+
 #### [35mm] Kodak Panatomic-X (ref: 8d69)
 
 ```
@@ -5559,6 +5651,34 @@ UUID  : 475b6bf4c66141b48fc73ace756435f6
 
 <a href="./archive/00192_002.jpg" target="_blank">
 	<img src="./lowres/00192_002.jpg" alt="Kodak Panatomic-X 35mm film box leaflet" loading="lazy" width="174" height="500">
+</a>
+
+#### [35mm] Kodak Plus-X (ref: b867)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1957-06 
+Type  : Bulk Roll    |  Quantity: 5m      
+Added : 2025-10-07   |  Author  : Pelicram
+UUID  : def2a04d52794b00aa61a0b801bdb867
+```
+
+<a href="./archive/00379_000.jpg" target="_blank">
+	<img src="./lowres/00379_000.jpg" alt="Kodak Plus-X 35mm film cartridge" loading="lazy" width="500" height="500">
+</a>
+
+#### [35mm] Kodak Plus-X (ref: 7958)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1958-01 
+Type  : Bulk Roll    |  Quantity: 5m      
+Added : 2025-10-07   |  Author  : Pelicram
+UUID  : 274e94b488d64e3a890da1f77b607958
+```
+
+<a href="./archive/00376_000.jpg" target="_blank">
+	<img src="./lowres/00376_000.jpg" alt="Kodak Plus-X 35mm film cartridge" loading="lazy" width="500" height="500">
 </a>
 
 #### [35mm] Kodak Plus-X Pan (ref: f5cc)
@@ -7546,7 +7666,7 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     222   
 2     @photos.by.qi                 72    
-3     Pelicram                      53    
+3     Pelicram                      61    
 4     @ellafridalindblom            46    
 5     The Compartmentalist          25    
 6     fine-seat                     19    

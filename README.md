@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 06 2025
-Unique items: 369
-Total scans : 651
+Last Updated: Oct 07 2025
+Unique items: 377
+Total scans : 659
 ```
 
 Or Sort by...
@@ -55,7 +55,7 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     222   
 2     @photos.by.qi                 72    
-3     Pelicram                      53    
+3     Pelicram                      61    
 4     @ellafridalindblom            46    
 5     The Compartmentalist          25    
 6     fine-seat                     19    
@@ -92,6 +92,15 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-10-07
+  - Pelicram: Agfa Agfacolor Umkehr-Ultra T
+  - Pelicram: Agfa Isopan ISS
+  - Pelicram: Filmfabrik Köpenick Dekopan Feinkorn
+  - Pelicram: Ilford FP3
+  - Pelicram: Ilford FP3 Series 2
+  - Pelicram: Kodak Panatomic-X
+  - Pelicram: Kodak Plus-X
+
 2025-10-06
   - @Hol.m35: Agfa Vista Plus 200
   - @Hol.m35: Fujifilm Superia Premium 400
@@ -110,9 +119,6 @@ Rank  Username                      Contributions
   - dekuNukem: Film Corporation of America TriFCA 35
   - dekuNukem: PrinzColor Colour Negative Film
   - kaimon: Ilford Delta 100 Professional
-
-2025-10-01
-  - lt_col_tall: CatLABS X Film 80 MKII
 ```
 
 ## Disclaimer
