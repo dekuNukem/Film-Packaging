@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 07 2025
-Unique items: 377
-Total scans : 659
+Unique items: 378
+Total scans : 665
 ```
 
 -----
@@ -73,6 +73,7 @@ Total scans : 659
 - [[1980] Kodak Ektachrome 400 (ref: 2b94)](#1980-kodak-ektachrome-400-ref-2b94)
 - [[1980] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)](#1980-kodak-ektachrome-160-movie-film-type-a-ref-8f62)
 - [[1981] Kodak Kodacolor 400 (ref: 9e4c)](#1981-kodak-kodacolor-400-ref-9e4c)
+- [[1981] Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping (ref: c143)](#1981-kodak-kodachrome-40-movie-film-type-a-for-post-process-sound-striping-ref-c143)
 - [[1982] Herzog Duxopan (ref: a9ad)](#1982-herzog-duxopan-ref-a9ad)
 - [[1983] Kodak Kodachrome 25 (ref: 8833)](#1983-kodak-kodachrome-25-ref-8833)
 - [[1983] Kodak Kodacolor II (ref: 7310)](#1983-kodak-kodacolor-ii-ref-7310)
@@ -1598,6 +1599,55 @@ UUID  : 3ef3252141a64ffe9d7e3fad745b9e4c
 
 <a href="./archive/00331_002.jpg" target="_blank">
 	<img src="./lowres/00331_002.jpg" alt="Kodak Kodacolor 400 110 film box leaflet" loading="lazy" width="410" height="499">
+</a>
+
+#### [1981] Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping (ref: c143)
+
+```
+Format: Super 8      |  Process : K-14    
+ISO   : 40           |  Expiry  : 1981-11 
+Type  : Single Pack  |  Quantity: 15m     
+Added : 2025-10-07   |  Author  : Pelicram
+UUID  : 4f8758001bd74040b9e5a4bc6506c143
+```
+
+<a href="./archive/00381_000.jpg" target="_blank">
+	<img src="./lowres/00381_000.jpg" alt="Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping Super 8 film box outside" loading="lazy" width="500" height="333">
+</a>
+
+
+`UUID: 8364bd18c8c14b8b88fad55c8e0f6c48`↓
+
+<a href="./archive/00381_001.jpg" target="_blank">
+	<img src="./lowres/00381_001.jpg" alt="Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping Super 8 film box leaflet" loading="lazy" width="275" height="500">
+</a>
+
+
+`UUID: afeea97aac0f462b845ed530d90edf14`↓
+
+<a href="./archive/00381_002.jpg" target="_blank">
+	<img src="./lowres/00381_002.jpg" alt="Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping Super 8 film box leaflet" loading="lazy" width="279" height="500">
+</a>
+
+
+`UUID: d5614e94dc2b4dfb89e64a7f4e6f369a`↓
+
+<a href="./archive/00381_003.jpg" target="_blank">
+	<img src="./lowres/00381_003.jpg" alt="Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping Super 8 film cartridge" loading="lazy" width="500" height="470">
+</a>
+
+
+`UUID: cce11076e2304cd1881905d67a8eb7f5`↓
+
+<a href="./archive/00381_004.jpg" target="_blank">
+	<img src="./lowres/00381_004.jpg" alt="Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping Super 8 film box processing envelope" loading="lazy" width="234" height="500">
+</a>
+
+
+`UUID: 3d8c3f8d64e6401793eaea69cf7319da`↓
+
+<a href="./archive/00381_005.jpg" target="_blank">
+	<img src="./lowres/00381_005.jpg" alt="Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping Super 8 film box processing envelope" loading="lazy" width="500" height="236">
 </a>
 
 #### [1982] Herzog Duxopan (ref: a9ad)
@@ -7666,7 +7716,7 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     222   
 2     @photos.by.qi                 72    
-3     Pelicram                      61    
+3     Pelicram                      67    
 4     @ellafridalindblom            46    
 5     The Compartmentalist          25    
 6     fine-seat                     19    

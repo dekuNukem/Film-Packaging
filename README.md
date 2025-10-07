@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Oct 07 2025
-Unique items: 377
-Total scans : 659
+Unique items: 378
+Total scans : 665
 ```
 
 Or Sort by...
@@ -55,7 +55,7 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     222   
 2     @photos.by.qi                 72    
-3     Pelicram                      61    
+3     Pelicram                      67    
 4     @ellafridalindblom            46    
 5     The Compartmentalist          25    
 6     fine-seat                     19    
@@ -98,6 +98,7 @@ Rank  Username                      Contributions
   - Pelicram: Filmfabrik Köpenick Dekopan Feinkorn
   - Pelicram: Ilford FP3
   - Pelicram: Ilford FP3 Series 2
+  - Pelicram: Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping
   - Pelicram: Kodak Panatomic-X
   - Pelicram: Kodak Plus-X
 
