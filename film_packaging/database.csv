@@ -664,3 +664,28 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 381,3,film_cartridge,Kodak,Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping,Super 8,40,K-14,198111,1759872589,5d2f706cecd8954ac00ad9362307fec2,d5614e94dc2b4dfb89e64a7f4e6f369a,00381_003.jpg,Pelicram,,Single Pack,15m
 381,4,film_box_processing_envelope,Kodak,Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping,Super 8,40,K-14,198111,1759872595,8458a7f7df9c431be6d21beff782189d,cce11076e2304cd1881905d67a8eb7f5,00381_004.jpg,Pelicram,,Single Pack,15m
 381,5,film_box_processing_envelope,Kodak,Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping,Super 8,40,K-14,198111,1759872599,712a3ee3b09bd6b9a1751cc93b22e04a,3d8c3f8d64e6401793eaea69cf7319da,00381_005.jpg,Pelicram,,Single Pack,15m
+382,0,film_box_outside,Ilford,HP3,620,400,BW,196902,1760305203,94137d820b5ef0b2541f125320291f09,df6db4a9d0a24f4689647a4ece831afc,00382_000.jpg,dekuNukem,,Single Pack,N/A
+382,1,film_box_leaflet,Ilford,HP3,620,400,BW,196902,1760305207,f10286c3b6bb7f6e8a842814c0dec225,5c38e6e7bb004036a0b59661d33a5d8b,00382_001.jpg,dekuNukem,,Single Pack,N/A
+382,2,film_box_leaflet,Ilford,HP3,620,400,BW,196902,1760305211,2264ab9fb8dadce7f692f20b31560080,9298339353774799a2918c495d225335,00382_002.jpg,dekuNukem,,Single Pack,N/A
+383,0,film_box_outside,Ricoh,"Golden ""16""",16mm,160,BW,196109,1760305315,e9e3a4e766f180f1ea55123630ceb9af,c4263f60ad284b669f5db75e79d2c02c,00383_000.jpg,dekuNukem,,Single Pack,20exp
+383,1,film_box_processing_envelope,Ricoh,"Golden ""16""",16mm,160,BW,196109,1760305320,10d7bbe8d808664f8d7a952a365a8664,0bd17a0f246c41b79322a478901003c5,00383_001.jpg,dekuNukem,,Single Pack,20exp
+383,2,film_box_processing_envelope,Ricoh,"Golden ""16""",16mm,160,BW,196109,1760305323,673e575a0a31692d7e2e8cb91459fcb1,d99990b484984277a0be54182937d422,00383_002.jpg,dekuNukem,,Single Pack,20exp
+383,3,film_box_leaflet,Ricoh,"Golden ""16""",16mm,160,BW,196109,1760305330,c1dadcb384124cc1e23c659157334a91,59c184351d13442dab4fb0f74ddd25ee,00383_003.jpg,dekuNukem,,Single Pack,20exp
+383,4,film_box_leaflet,Ricoh,"Golden ""16""",16mm,160,BW,196109,1760305332,8917b892114dbcb9c9549b28873d466d,0d69320f7ded493590d6abb0ea69f750,00383_004.jpg,dekuNukem,,Single Pack,20exp
+384,0,film_box_outside,Robot,NR-Cassette,35mm,Unknown,Unknown,Unknown,1760305375,6f151d2663b46c6a239b2101cfc3a1c2,55a2616da3a9456a90f763ed8ac5bc7a,00384_000.jpg,dekuNukem,,Single Pack,N/A
+385,0,film_box_outside,Ansco,Plenachrome,120,Unknown,BW,195604,1760305489,d3b91d33e892d416cff2d0f039235da7,39756172435749ed870105a77fa53c6c,00385_000.jpg,dekuNukem,,Single Pack,N/A
+386,0,film_box_outside,Ilford,FP4 Plus,120,125,BW,200511,1760305517,28b46ba0c59aee5a80f7fe98e88266ab,da6172ade5c540ee8a25e83586005b36,00386_000.jpg,dekuNukem,,Single Pack,N/A
+386,1,film_box_inside,Ilford,FP4 Plus,120,125,BW,200511,1760305524,c0eb06ad9f69db1598445953933ef079,2cf8ba4121a04609a57253eea4e541fa,00386_001.jpg,dekuNukem,,Single Pack,N/A
+387,0,film_box_outside,Svema,Foto 64,16mm,64,BW,199204,1760305746,1be1b23852ff6f48488fd5496cf0ca17,0c1f9c9669e6421a9d9ef9ac14b918f8,00387_000.jpg,dekuNukem,,Refill,20exp
+388,0,film_box_outside,Walgreen,All Purpose Film,620,80,BW,196701,1760305852,470f12c8c7760206893ca5f0bebec257,ed28012d8a77465898bf1bf978db541b,00388_000.jpg,dekuNukem,,Single Pack,N/A
+388,1,film_box_leaflet,Walgreen,All Purpose Film,620,80,BW,196701,1760305862,d0e976e795dbbbdb062e2da5f0f164ba,8bbe0c722eb84948bcdd35b683dca54a,00388_001.jpg,dekuNukem,,Single Pack,N/A
+388,2,film_box_leaflet,Walgreen,All Purpose Film,620,80,BW,196701,1760305866,dc81a9dd83209bd94599860fb0521e75,b41e3644f2f6434c807ce95df8c37561,00388_002.jpg,dekuNukem,,Single Pack,N/A
+388,3,film_cartridge,Walgreen,All Purpose Film,620,80,BW,196701,1760305871,5583bc3388d82eb25508de26b1faff61,5162cf96587443cead98bdbef85a229c,00388_003.jpg,dekuNukem,,Single Pack,N/A
+389,0,film_box_outside,Gevaert,Superchrome,Unknown,Unknown,BW,194701,1760306266,7a605843fbe185a64e71574b0dd9383d,5b7606bb875b4930bafa486534e6af27,00389_000.jpg,dekuNukem,,Single Pack,8exp
+390,0,film_box_outside,Kodak,Kodacolor,35mm,32,C-22,195910,1760306498,ec58ea4174e4f73e4612ec40d492b31a,1c8fa96c92974edaa7cbf69b3e535d25,00390_000.jpg,dekuNukem,,Single Pack,20exp
+390,1,film_box_leaflet,Kodak,Kodacolor,35mm,32,C-22,195910,1760306499,3672f1a2f15e97b10e9e5014d73b391c,ce169d8c6e8c49b883bf3c1149128398,00390_001.jpg,dekuNukem,,Single Pack,20exp
+390,2,film_box_leaflet,Kodak,Kodacolor,35mm,32,C-22,195910,1760306503,808ef18abfe42d441a62766eccd04208,bf8091dc91444595bf58e0b11e2c051c,00390_002.jpg,dekuNukem,,Single Pack,20exp
+390,3,film_box_leaflet,Kodak,Kodacolor,35mm,32,C-22,195910,1760306504,af9fab36baad5486db413393d48e2560,c84743c44edd485eb047e566a249609f,00390_003.jpg,dekuNukem,,Single Pack,20exp
+390,4,film_box_leaflet,Kodak,Kodacolor,35mm,32,C-22,195910,1760306507,677079930681146441302a124a404042,8e3103da87194d3abc7e557078ad9130,00390_004.jpg,dekuNukem,,Single Pack,20exp
+391,0,film_box_outside,Ilford,XP2 Super,120,400,C-41,202611,1760306681,6b3a5ab43612a479d00503cec932e32b,08ab5616c0644099aceffb457b7e484f,00391_000.jpg,kaimon,,Single Pack,N/A
+391,1,film_box_inside,Ilford,XP2 Super,120,400,C-41,202611,1760306685,fb286a4d621a01b07631e1560baa3d23,b1a79997109841788a563a01c59c6acc,00391_001.jpg,kaimon,,Single Pack,N/A

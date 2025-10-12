@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 07 2025
-Unique items: 378
-Total scans : 665
+Last Updated: Oct 12 2025
+Unique items: 388
+Total scans : 690
 ```
 
 -----
@@ -277,6 +277,7 @@ Total scans : 665
 - [[dekuNukem] Agfa Optima II 400 (ref: fdf0)](#dekunukem-agfa-optima-ii-400-ref-fdf0)
 - [[dekuNukem] Alien Film 5207/250D (ref: 8820)](#dekunukem-alien-film-5207250d-ref-8820)
 - [[dekuNukem] Alien Film 5222/XX (ref: 3e49)](#dekunukem-alien-film-5222xx-ref-3e49)
+- [[dekuNukem] Ansco Plenachrome (ref: 3c6c)](#dekunukem-ansco-plenachrome-ref-3c6c)
 - [[dekuNukem] CineStill 800T (ref: c86a)](#dekunukem-cinestill-800t-ref-c86a)
 - [[dekuNukem] Efiniti UXi Super 200 (ref: 471a)](#dekunukem-efiniti-uxi-super-200-ref-471a)
 - [[dekuNukem] Efke IR 820 Aura (ref: 43c9)](#dekunukem-efke-ir-820-aura-ref-43c9)
@@ -294,11 +295,14 @@ Total scans : 665
 - [[dekuNukem] Fujifilm Fujicolor Pro 400H (ref: 66e3)](#dekunukem-fujifilm-fujicolor-pro-400h-ref-66e3)
 - [[dekuNukem] Fujifilm Fujicolor Super HR (ref: aaa0)](#dekunukem-fujifilm-fujicolor-super-hr-ref-aaa0)
 - [[dekuNukem] Fujifilm Fujicolor Superia (ref: 0683)](#dekunukem-fujifilm-fujicolor-superia-ref-0683)
+- [[dekuNukem] Gevaert Superchrome (ref: af27)](#dekunukem-gevaert-superchrome-ref-af27)
 - [[dekuNukem] Harman Phoenix (ref: 637f)](#dekunukem-harman-phoenix-ref-637f)
 - [[dekuNukem] Harman Phoenix II (ref: 37c7)](#dekunukem-harman-phoenix-ii-ref-37c7)
 - [[dekuNukem] Harman Phoenix II (ref: 41d4)](#dekunukem-harman-phoenix-ii-ref-41d4)
 - [[dekuNukem] Ilford Delta 100 Professional (ref: 93b9)](#dekunukem-ilford-delta-100-professional-ref-93b9)
 - [[dekuNukem] Ilford Delta 400 Professional (ref: 8f8b)](#dekunukem-ilford-delta-400-professional-ref-8f8b)
+- [[dekuNukem] Ilford FP4 Plus (ref: 5b36)](#dekunukem-ilford-fp4-plus-ref-5b36)
+- [[dekuNukem] Ilford HP3 (ref: 1afc)](#dekunukem-ilford-hp3-ref-1afc)
 - [[dekuNukem] Ilford HP5 Plus (ref: efad)](#dekunukem-ilford-hp5-plus-ref-efad)
 - [[dekuNukem] Ilford HP5 Plus (ref: 1a5d)](#dekunukem-ilford-hp5-plus-ref-1a5d)
 - [[dekuNukem] Ilford SFX 200 (ref: 6057)](#dekunukem-ilford-sfx-200-ref-6057)
@@ -328,6 +332,7 @@ Total scans : 665
 - [[dekuNukem] Kodak Kodachrome 25 (ref: 6477)](#dekunukem-kodak-kodachrome-25-ref-6477)
 - [[dekuNukem] Kodak Kodachrome 64 (ref: 3145)](#dekunukem-kodak-kodachrome-64-ref-3145)
 - [[dekuNukem] Kodak Kodachrome 64 (ref: 3206)](#dekunukem-kodak-kodachrome-64-ref-3206)
+- [[dekuNukem] Kodak Kodacolor (ref: 5d25)](#dekunukem-kodak-kodacolor-ref-5d25)
 - [[dekuNukem] Kodak Kodacolor Gold 200 (ref: f368)](#dekunukem-kodak-kodacolor-gold-200-ref-f368)
 - [[dekuNukem] Kodak Kodacolor II (ref: 4108)](#dekunukem-kodak-kodacolor-ii-ref-4108)
 - [[dekuNukem] Kodak Kodacolor-X (ref: a4b1)](#dekunukem-kodak-kodacolor-x-ref-a4b1)
@@ -361,10 +366,14 @@ Total scans : 665
 - [[dekuNukem] Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)](#dekunukem-polaroid-polavision-phototape-land-cassette-type-608-ref-90b9)
 - [[dekuNukem] Premium Super XG (ref: 8ccd)](#dekunukem-premium-super-xg-ref-8ccd)
 - [[dekuNukem] PrinzColor Colour Negative Film (ref: 448c)](#dekunukem-prinzcolor-colour-negative-film-ref-448c)
+- [[dekuNukem] Ricoh Golden "16" (ref: c02c)](#dekunukem-ricoh-golden-16-ref-c02c)
+- [[dekuNukem] Robot NR-Cassette (ref: bc7a)](#dekunukem-robot-nr-cassette-ref-bc7a)
 - [[dekuNukem] Rollei Infrared (ref: 4f54)](#dekunukem-rollei-infrared-ref-4f54)
 - [[dekuNukem] Rollei Retro 80S (ref: e6c0)](#dekunukem-rollei-retro-80s-ref-e6c0)
 - [[dekuNukem] SupaSnaps Snappit Film (ref: c41b)](#dekunukem-supasnaps-snappit-film-ref-c41b)
+- [[dekuNukem] Svema Foto 64 (ref: 18f8)](#dekunukem-svema-foto-64-ref-18f8)
 - [[dekuNukem] Three Film Rolls 5207 (ref: 0292)](#dekunukem-three-film-rolls-5207-ref-0292)
+- [[dekuNukem] Walgreen All Purpose Film (ref: 541b)](#dekunukem-walgreen-all-purpose-film-ref-541b)
 - [[fine-seat] Agfa AgfaColor XRG 200 (ref: 689e)](#fine-seat-agfa-agfacolor-xrg-200-ref-689e)
 - [[fine-seat] Agfa Isopan ISS (ref: 5ba6)](#fine-seat-agfa-isopan-iss-ref-5ba6)
 - [[fine-seat] Alfo ALFOcolor PR-G (ref: 94b9)](#fine-seat-alfo-alfocolor-pr-g-ref-94b9)
@@ -376,6 +385,7 @@ Total scans : 665
 - [[fine-seat] ORWO Chrom UT21 (ref: 3fd5)](#fine-seat-orwo-chrom-ut21-ref-3fd5)
 - [[kaimon] Ilford Delta 100 Professional (ref: bf01)](#kaimon-ilford-delta-100-professional-ref-bf01)
 - [[kaimon] Ilford Ilfochrome (ref: ac24)](#kaimon-ilford-ilfochrome-ref-ac24)
+- [[kaimon] Ilford XP2 Super (ref: 484f)](#kaimon-ilford-xp2-super-ref-484f)
 - [[kaimon] Kodak High Speed Ektachrome (ref: 7533)](#kaimon-kodak-high-speed-ektachrome-ref-7533)
 - [[lemoniter] Club Color Natural Color System (ref: 813a)](#lemoniter-club-color-natural-color-system-ref-813a)
 - [[lilyu.xyz] Agfa APX (ref: 5276)](#lilyuxyz-agfa-apx-ref-5276)
@@ -4982,6 +4992,20 @@ UUID  : 9984ed6c13cd4be496e7e4b58e313e49
 	<img src="./lowres/00057_000.jpg" alt="Alien Film 5222/XX 35mm film box outside" loading="lazy" width="455" height="500">
 </a>
 
+#### [dekuNukem] Ansco Plenachrome (ref: 3c6c)
+
+```
+Format: 120          |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1956-04 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-12   |  Author  : dekuNukem
+UUID  : 39756172435749ed870105a77fa53c6c
+```
+
+<a href="./archive/00385_000.jpg" target="_blank">
+	<img src="./lowres/00385_000.jpg" alt="Ansco Plenachrome 120 film box outside" loading="lazy" width="500" height="405">
+</a>
+
 #### [dekuNukem] CineStill 800T (ref: c86a)
 
 ```
@@ -5430,6 +5454,20 @@ UUID  : c3d9e51d22e241f69133be30d5a00683
 	<img src="./lowres/00012_001.jpg" alt="Fujifilm Fujicolor Superia 120 film box inside" loading="lazy" width="500" height="500">
 </a>
 
+#### [dekuNukem] Gevaert Superchrome (ref: af27)
+
+```
+Format: Unknown      |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1947-01 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-10-12   |  Author  : dekuNukem
+UUID  : 5b7606bb875b4930bafa486534e6af27
+```
+
+<a href="./archive/00389_000.jpg" target="_blank">
+	<img src="./lowres/00389_000.jpg" alt="Gevaert Superchrome Unknown film box outside" loading="lazy" width="500" height="346">
+</a>
+
 #### [dekuNukem] Harman Phoenix (ref: 637f)
 
 ```
@@ -5526,6 +5564,55 @@ UUID  : f38dd0735c2e441088b421eec4678f8b
 
 <a href="./archive/00309_001.jpg" target="_blank">
 	<img src="./lowres/00309_001.jpg" alt="Ilford Delta 400 Professional 35mm film box inside" loading="lazy" width="433" height="500">
+</a>
+
+#### [dekuNukem] Ilford FP4 Plus (ref: 5b36)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 125          |  Expiry  : 2005-11 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-12   |  Author  : dekuNukem
+UUID  : da6172ade5c540ee8a25e83586005b36
+```
+
+<a href="./archive/00386_000.jpg" target="_blank">
+	<img src="./lowres/00386_000.jpg" alt="Ilford FP4 Plus 120 film box outside" loading="lazy" width="500" height="429">
+</a>
+
+
+`UUID: 2cf8ba4121a04609a57253eea4e541fa`↓
+
+<a href="./archive/00386_001.jpg" target="_blank">
+	<img src="./lowres/00386_001.jpg" alt="Ilford FP4 Plus 120 film box inside" loading="lazy" width="500" height="442">
+</a>
+
+#### [dekuNukem] Ilford HP3 (ref: 1afc)
+
+```
+Format: 620          |  Process : BW      
+ISO   : 400          |  Expiry  : 1969-02 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-12   |  Author  : dekuNukem
+UUID  : df6db4a9d0a24f4689647a4ece831afc
+```
+
+<a href="./archive/00382_000.jpg" target="_blank">
+	<img src="./lowres/00382_000.jpg" alt="Ilford HP3 620 film box outside" loading="lazy" width="500" height="434">
+</a>
+
+
+`UUID: 5c38e6e7bb004036a0b59661d33a5d8b`↓
+
+<a href="./archive/00382_001.jpg" target="_blank">
+	<img src="./lowres/00382_001.jpg" alt="Ilford HP3 620 film box leaflet" loading="lazy" width="462" height="500">
+</a>
+
+
+`UUID: 9298339353774799a2918c495d225335`↓
+
+<a href="./archive/00382_002.jpg" target="_blank">
+	<img src="./lowres/00382_002.jpg" alt="Ilford HP3 620 film box leaflet" loading="lazy" width="473" height="500">
 </a>
 
 #### [dekuNukem] Ilford HP5 Plus (ref: efad)
@@ -6149,6 +6236,48 @@ UUID  : dc9c151b87de48339e564e6692663206
 
 <a href="./archive/00060_000.jpg" target="_blank">
 	<img src="./lowres/00060_000.jpg" alt="Kodak Kodachrome 64 35mm film box outside" loading="lazy" width="450" height="499">
+</a>
+
+#### [dekuNukem] Kodak Kodacolor (ref: 5d25)
+
+```
+Format: 35mm         |  Process : C-22    
+ISO   : 32           |  Expiry  : 1959-10 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-10-12   |  Author  : dekuNukem
+UUID  : 1c8fa96c92974edaa7cbf69b3e535d25
+```
+
+<a href="./archive/00390_000.jpg" target="_blank">
+	<img src="./lowres/00390_000.jpg" alt="Kodak Kodacolor 35mm film box outside" loading="lazy" width="449" height="500">
+</a>
+
+
+`UUID: ce169d8c6e8c49b883bf3c1149128398`↓
+
+<a href="./archive/00390_001.jpg" target="_blank">
+	<img src="./lowres/00390_001.jpg" alt="Kodak Kodacolor 35mm film box leaflet" loading="lazy" width="304" height="500">
+</a>
+
+
+`UUID: bf8091dc91444595bf58e0b11e2c051c`↓
+
+<a href="./archive/00390_002.jpg" target="_blank">
+	<img src="./lowres/00390_002.jpg" alt="Kodak Kodacolor 35mm film box leaflet" loading="lazy" width="406" height="500">
+</a>
+
+
+`UUID: c84743c44edd485eb047e566a249609f`↓
+
+<a href="./archive/00390_003.jpg" target="_blank">
+	<img src="./lowres/00390_003.jpg" alt="Kodak Kodacolor 35mm film box leaflet" loading="lazy" width="304" height="500">
+</a>
+
+
+`UUID: 8e3103da87194d3abc7e557078ad9130`↓
+
+<a href="./archive/00390_004.jpg" target="_blank">
+	<img src="./lowres/00390_004.jpg" alt="Kodak Kodacolor 35mm film box leaflet" loading="lazy" width="421" height="500">
 </a>
 
 #### [dekuNukem] Kodak Kodacolor Gold 200 (ref: f368)
@@ -6907,6 +7036,62 @@ UUID  : 1d1377fcb4fa495e9f3009a4c69b448c
 	<img src="./lowres/00363_004.jpg" alt="PrinzColor Colour Negative Film 35mm film box outside" loading="lazy" width="500" height="202">
 </a>
 
+#### [dekuNukem] Ricoh Golden "16" (ref: c02c)
+
+```
+Format: 16mm         |  Process : BW      
+ISO   : 160          |  Expiry  : 1961-09 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-10-12   |  Author  : dekuNukem
+UUID  : c4263f60ad284b669f5db75e79d2c02c
+```
+
+<a href="./archive/00383_000.jpg" target="_blank">
+	<img src="./lowres/00383_000.jpg" alt="Ricoh Golden "16" 16mm film box outside" loading="lazy" width="500" height="388">
+</a>
+
+
+`UUID: 0bd17a0f246c41b79322a478901003c5`↓
+
+<a href="./archive/00383_001.jpg" target="_blank">
+	<img src="./lowres/00383_001.jpg" alt="Ricoh Golden "16" 16mm film box processing envelope" loading="lazy" width="500" height="197">
+</a>
+
+
+`UUID: d99990b484984277a0be54182937d422`↓
+
+<a href="./archive/00383_002.jpg" target="_blank">
+	<img src="./lowres/00383_002.jpg" alt="Ricoh Golden "16" 16mm film box processing envelope" loading="lazy" width="500" height="220">
+</a>
+
+
+`UUID: 59c184351d13442dab4fb0f74ddd25ee`↓
+
+<a href="./archive/00383_003.jpg" target="_blank">
+	<img src="./lowres/00383_003.jpg" alt="Ricoh Golden "16" 16mm film box leaflet" loading="lazy" width="331" height="500">
+</a>
+
+
+`UUID: 0d69320f7ded493590d6abb0ea69f750`↓
+
+<a href="./archive/00383_004.jpg" target="_blank">
+	<img src="./lowres/00383_004.jpg" alt="Ricoh Golden "16" 16mm film box leaflet" loading="lazy" width="362" height="500">
+</a>
+
+#### [dekuNukem] Robot NR-Cassette (ref: bc7a)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-12   |  Author  : dekuNukem
+UUID  : 55a2616da3a9456a90f763ed8ac5bc7a
+```
+
+<a href="./archive/00384_000.jpg" target="_blank">
+	<img src="./lowres/00384_000.jpg" alt="Robot NR-Cassette 35mm film box outside" loading="lazy" width="500" height="421">
+</a>
+
 #### [dekuNukem] Rollei Infrared (ref: 4f54)
 
 ```
@@ -6963,6 +7148,20 @@ UUID  : 1cf47ce82b58418f9e009b4f0121c41b
 	<img src="./lowres/00324_001.jpg" alt="SupaSnaps Snappit Film 126 film cartridge" loading="lazy" width="500" height="444">
 </a>
 
+#### [dekuNukem] Svema Foto 64 (ref: 18f8)
+
+```
+Format: 16mm         |  Process : BW      
+ISO   : 64           |  Expiry  : 1992-04 
+Type  : Refill       |  Quantity: 20exp   
+Added : 2025-10-12   |  Author  : dekuNukem
+UUID  : 0c1f9c9669e6421a9d9ef9ac14b918f8
+```
+
+<a href="./archive/00387_000.jpg" target="_blank">
+	<img src="./lowres/00387_000.jpg" alt="Svema Foto 64 16mm film box outside" loading="lazy" width="500" height="469">
+</a>
+
 #### [dekuNukem] Three Film Rolls 5207 (ref: 0292)
 
 ```
@@ -6975,6 +7174,41 @@ UUID  : 4de0f5e76dd748c488fa81be23340292
 
 <a href="./archive/00059_000.jpg" target="_blank">
 	<img src="./lowres/00059_000.jpg" alt="Three Film Rolls 5207 35mm film box outside" loading="lazy" width="452" height="500">
+</a>
+
+#### [dekuNukem] Walgreen All Purpose Film (ref: 541b)
+
+```
+Format: 620          |  Process : BW      
+ISO   : 80           |  Expiry  : 1967-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-12   |  Author  : dekuNukem
+UUID  : ed28012d8a77465898bf1bf978db541b
+```
+
+<a href="./archive/00388_000.jpg" target="_blank">
+	<img src="./lowres/00388_000.jpg" alt="Walgreen All Purpose Film 620 film box outside" loading="lazy" width="500" height="364">
+</a>
+
+
+`UUID: 8bbe0c722eb84948bcdd35b683dca54a`↓
+
+<a href="./archive/00388_001.jpg" target="_blank">
+	<img src="./lowres/00388_001.jpg" alt="Walgreen All Purpose Film 620 film box leaflet" loading="lazy" width="500" height="383">
+</a>
+
+
+`UUID: b41e3644f2f6434c807ce95df8c37561`↓
+
+<a href="./archive/00388_002.jpg" target="_blank">
+	<img src="./lowres/00388_002.jpg" alt="Walgreen All Purpose Film 620 film box leaflet" loading="lazy" width="500" height="383">
+</a>
+
+
+`UUID: 5162cf96587443cead98bdbef85a229c`↓
+
+<a href="./archive/00388_003.jpg" target="_blank">
+	<img src="./lowres/00388_003.jpg" alt="Walgreen All Purpose Film 620 film cartridge" loading="lazy" width="500" height="226">
 </a>
 
 #### [fine-seat] Agfa AgfaColor XRG 200 (ref: 689e)
@@ -7206,6 +7440,27 @@ UUID  : e7713fa57cac41e3ae3f416f3ea5ac24
 
 <a href="./archive/00302_000.jpg" target="_blank">
 	<img src="./lowres/00302_000.jpg" alt="Ilford Ilfochrome 35mm film box outside" loading="lazy" width="410" height="499">
+</a>
+
+#### [kaimon] Ilford XP2 Super (ref: 484f)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2026-11 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-12   |  Author  : kaimon  
+UUID  : 08ab5616c0644099aceffb457b7e484f
+```
+
+<a href="./archive/00391_000.jpg" target="_blank">
+	<img src="./lowres/00391_000.jpg" alt="Ilford XP2 Super 120 film box outside" loading="lazy" width="500" height="490">
+</a>
+
+
+`UUID: b1a79997109841788a563a01c59c6acc`↓
+
+<a href="./archive/00391_001.jpg" target="_blank">
+	<img src="./lowres/00391_001.jpg" alt="Ilford XP2 Super 120 film box inside" loading="lazy" width="498" height="500">
 </a>
 
 #### [kaimon] Kodak High Speed Ektachrome (ref: 7533)
@@ -7714,7 +7969,7 @@ UUID  : e54ce68c797b4846b9aee3f5818ecb58
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     222   
+1     dekuNukem                     245   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @ellafridalindblom            46    
@@ -7732,10 +7987,10 @@ Rank  Username                      Contributions
 16    benikum                       9     
 17    lilyu.xyz                     9     
 18    @Hol.m35                      8     
-19    @toastergod101                7     
-20    @filmfotofella                7     
-21    lt_col_tall                   6     
-22    kaimon                        6     
+19    kaimon                        8     
+20    @toastergod101                7     
+21    @filmfotofella                7     
+22    lt_col_tall                   6     
 23    GreatGizmo74                  6     
 24    Kraksen                       5     
 25    Henry Gunn                    4     

@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 07 2025
-Unique items: 378
-Total scans : 665
+Last Updated: Oct 12 2025
+Unique items: 388
+Total scans : 690
 ```
 
 Or Sort by...
@@ -53,7 +53,7 @@ Or Sort by...
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     222   
+1     dekuNukem                     245   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @ellafridalindblom            46    
@@ -71,10 +71,10 @@ Rank  Username                      Contributions
 16    benikum                       9     
 17    lilyu.xyz                     9     
 18    @Hol.m35                      8     
-19    @toastergod101                7     
-20    @filmfotofella                7     
-21    lt_col_tall                   6     
-22    kaimon                        6     
+19    kaimon                        8     
+20    @toastergod101                7     
+21    @filmfotofella                7     
+22    lt_col_tall                   6     
 23    GreatGizmo74                  6     
 24    Kraksen                       5     
 25    Henry Gunn                    4     
@@ -92,6 +92,18 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-10-12
+  - dekuNukem: Ansco Plenachrome
+  - dekuNukem: Gevaert Superchrome
+  - dekuNukem: Ilford FP4 Plus
+  - dekuNukem: Ilford HP3
+  - dekuNukem: Kodak Kodacolor
+  - dekuNukem: Ricoh Golden "16"
+  - dekuNukem: Robot NR-Cassette
+  - dekuNukem: Svema Foto 64
+  - dekuNukem: Walgreen All Purpose Film
+  - kaimon: Ilford XP2 Super
+
 2025-10-07
   - Pelicram: Agfa Agfacolor Umkehr-Ultra T
   - Pelicram: Agfa Isopan ISS
@@ -115,11 +127,6 @@ Rank  Username                      Contributions
 2025-10-03
   - @ellafridalindblom: Kodak Tri-X 400 Pro
   - @ellafridalindblom: Polaroid Image Instant Film
-
-2025-10-02
-  - dekuNukem: Film Corporation of America TriFCA 35
-  - dekuNukem: PrinzColor Colour Negative Film
-  - kaimon: Ilford Delta 100 Professional
 ```
 
 ## Disclaimer
