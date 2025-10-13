@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 12 2025
-Unique items: 388
-Total scans : 690
+Last Updated: Oct 13 2025
+Unique items: 391
+Total scans : 696
 ```
 
 Or Sort by...
@@ -58,11 +58,11 @@ Rank  Username                      Contributions
 3     Pelicram                      67    
 4     @ellafridalindblom            46    
 5     The Compartmentalist          25    
-6     fine-seat                     19    
-7     Camera.Riley                  19    
-8     Nano_Burger                   18    
-9     @ob.skura                     16    
-10    @recycling.film               15    
+6     @recycling.film               21    
+7     fine-seat                     19    
+8     Camera.Riley                  19    
+9     Nano_Burger                   18    
+10    @ob.skura                     16    
 11    b0baspace                     14    
 12    @SirBrentsworth               13    
 13    toader                        13    
@@ -92,6 +92,11 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-10-13
+  - @recycling.film: Ilford HP5 Plus
+  - @recycling.film: ORWO NP15
+  - @recycling.film: Svema Foto 32
+
 2025-10-12
   - dekuNukem: Ansco Plenachrome
   - dekuNukem: Gevaert Superchrome
@@ -123,10 +128,6 @@ Rank  Username                      Contributions
   - benikum: VEB Fotochemische Werke Berlin Dekopan Super S
   - dekuNukem: Harman Phoenix II
   - Pelicram: Minox MinoColor 3
-
-2025-10-03
-  - @ellafridalindblom: Kodak Tri-X 400 Pro
-  - @ellafridalindblom: Polaroid Image Instant Film
 ```
 
 ## Disclaimer

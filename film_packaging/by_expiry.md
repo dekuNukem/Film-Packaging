@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 12 2025
-Unique items: 388
-Total scans : 690
+Last Updated: Oct 13 2025
+Unique items: 391
+Total scans : 696
 ```
 
 -----
@@ -105,6 +105,8 @@ Total scans : 690
 - [[1992] Svema Foto 64 (ref: 18f8)](#1992-svema-foto-64-ref-18f8)
 - [[1992] Ificolor SHR 100 (ref: 0198)](#1992-ificolor-shr-100-ref-0198)
 - [[1992] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#1992-minolta-minolta-16-color-film-for-prints-ref-a2ff)
+- [[1992] Svema Foto 32 (ref: 8b44)](#1992-svema-foto-32-ref-8b44)
+- [[1992] ORWO NP15 (ref: 9a20)](#1992-orwo-np15-ref-9a20)
 - [[1992] Polaroid PolaBlue 35mm (ref: df66)](#1992-polaroid-polablue-35mm-ref-df66)
 - [[1992] Polaroid PolaChrome 35mm (ref: 3b60)](#1992-polaroid-polachrome-35mm-ref-3b60)
 - [[1992] Kodak Ektachrome 200 (ref: b21e)](#1992-kodak-ektachrome-200-ref-b21e)
@@ -238,6 +240,7 @@ Total scans : 690
 - [[2013] Ilford SFX 200 (ref: 6057)](#2013-ilford-sfx-200-ref-6057)
 - [[2013] Efiniti UXi Super 200 (ref: 471a)](#2013-efiniti-uxi-super-200-ref-471a)
 - [[2013] Kodak Professional Microfilm Type I (ref: a444)](#2013-kodak-professional-microfilm-type-i-ref-a444)
+- [[2014] Ilford HP5 Plus (ref: 072e)](#2014-ilford-hp5-plus-ref-072e)
 - [[2014] Kodak Portra 400 (ref: cf9c)](#2014-kodak-portra-400-ref-cf9c)
 - [[2014] Fujifilm Fujicolor Natura 1600 (ref: 2e06)](#2014-fujifilm-fujicolor-natura-1600-ref-2e06)
 - [[2014] Fujifilm Fujichrome Provia 400X (ref: 3c08)](#2014-fujifilm-fujichrome-provia-400x-ref-3c08)
@@ -1430,6 +1433,7 @@ ISO   : 125          |  Expiry  : 1977-01
 Type  : Single Pack  |  Quantity: N/A     
 Added : 2025-09-06   |  Author  : kaimon  
 UUID  : ac9eab85f0874cf7aa5c67f0458e7533
+Notes : Tungsten (3200K) EHB 120
 ```
 
 <a href="./archive/00303_000.jpg" target="_blank">
@@ -2381,6 +2385,48 @@ UUID  : a2cfc71ac0e24ea58f4e3350423aa2ff
 	<img src="./lowres/00162_000.jpg" alt="Minolta Minolta 16 Color Film For Prints 16mm film box outside" loading="lazy" width="500" height="413">
 </a>
 
+#### [1992] Svema Foto 32 (ref: 8b44)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 32           |  Expiry  : 1992-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-13   |  Author  : @recycling.film
+UUID  : 9205929c91ba4c3bbbfacb1b2e678b44
+```
+
+<a href="./archive/00393_000.jpg" target="_blank">
+	<img src="./lowres/00393_000.jpg" alt="Svema Foto 32 120 film box outside" loading="lazy" width="500" height="391">
+</a>
+
+#### [1992] ORWO NP15 (ref: 9a20)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 25           |  Expiry  : 1992-08 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-13   |  Author  : @recycling.film
+UUID  : 50956257d99f4f24a3ec712e77379a20
+```
+
+<a href="./archive/00394_000.jpg" target="_blank">
+	<img src="./lowres/00394_000.jpg" alt="ORWO NP15 120 film box outside" loading="lazy" width="500" height="425">
+</a>
+
+
+`UUID: 71624d5686d648ef9411cbed44ed3f49`↓
+
+<a href="./archive/00394_001.jpg" target="_blank">
+	<img src="./lowres/00394_001.jpg" alt="ORWO NP15 120 film box leaflet" loading="lazy" width="316" height="500">
+</a>
+
+
+`UUID: 2528a0f231cf473597f3d594c67dc803`↓
+
+<a href="./archive/00394_002.jpg" target="_blank">
+	<img src="./lowres/00394_002.jpg" alt="ORWO NP15 120 film box leaflet" loading="lazy" width="322" height="499">
+</a>
+
 #### [1992] Polaroid PolaBlue 35mm (ref: df66)
 
 ```
@@ -2802,6 +2848,7 @@ ISO   : 400          |  Expiry  : 1997-08
 Type  : Single Pack  |  Quantity: N/A     
 Added : 2025-09-10   |  Author  : dekuNukem
 UUID  : eb3d804130c64e0f9486b1134bc7b7b2
+Notes : RHP
 ```
 
 <a href="./archive/00318_000.jpg" target="_blank">
@@ -3621,6 +3668,7 @@ ISO   : 400          |  Expiry  : 2003-05
 Type  : Single Pack  |  Quantity: N/A     
 Added : 2025-09-10   |  Author  : dekuNukem
 UUID  : 41ebc0cc4fb746288adb198f58a84591
+Notes : RHP III
 ```
 
 <a href="./archive/00319_000.jpg" target="_blank">
@@ -3929,6 +3977,7 @@ ISO   : 400          |  Expiry  : 2004-09
 Type  : Single Pack  |  Quantity: N/A     
 Added : 2025-09-05   |  Author  : dekuNukem
 UUID  : 87e948a92b624ef996d2e1da3a7b5b9e
+Notes : sample pack, not for resale.
 ```
 
 <a href="./archive/00299_000.jpg" target="_blank">
@@ -4356,6 +4405,7 @@ ISO   : 100          |  Expiry  : 2006-12
 Type  : Multi-Pack-5 |  Quantity: N/A     
 Added : 2025-09-01   |  Author  : dekuNukem
 UUID  : c7a59b3560b04f3a93f2ee26d1b21b4b
+Notes : Japanese version?
 ```
 
 <a href="./archive/00281_000.jpg" target="_blank">
@@ -4969,6 +5019,27 @@ UUID  : 90304019395a4c62bb9c6fe1cb2ba444
 
 <a href="./archive/00172_000.jpg" target="_blank">
 	<img src="./lowres/00172_000.jpg" alt="Kodak Professional Microfilm Type I 35mm film box outside" loading="lazy" width="493" height="500">
+</a>
+
+#### [2014] Ilford HP5 Plus (ref: 072e)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2014-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-13   |  Author  : @recycling.film
+UUID  : 3c726f85acc246d99f3e8c55c4cf072e
+```
+
+<a href="./archive/00392_000.jpg" target="_blank">
+	<img src="./lowres/00392_000.jpg" alt="Ilford HP5 Plus 120 film box outside" loading="lazy" width="500" height="486">
+</a>
+
+
+`UUID: 21e61895c4f64c35a0a1ee7f59988917`↓
+
+<a href="./archive/00392_001.jpg" target="_blank">
+	<img src="./lowres/00392_001.jpg" alt="Ilford HP5 Plus 120 film box inside" loading="lazy" width="500" height="500">
 </a>
 
 #### [2014] Kodak Portra 400 (ref: cf9c)
@@ -7373,6 +7444,7 @@ ISO   : 200          |  Expiry  : 2028-06
 Type  : Single Pack  |  Quantity: N/A     
 Added : 2025-10-05   |  Author  : dekuNukem
 UUID  : df238026e7c84a89961248cec20737c7
+Notes : Chinese version
 ```
 
 <a href="./archive/00366_000.jpg" target="_blank">
@@ -7394,6 +7466,7 @@ ISO   : 200          |  Expiry  : 2028-06
 Type  : Single Pack  |  Quantity: 36exp   
 Added : 2025-10-05   |  Author  : dekuNukem
 UUID  : 1989020e64ed45108cb6e45a389641d4
+Notes : Chinese version
 ```
 
 <a href="./archive/00367_000.jpg" target="_blank">
@@ -7709,6 +7782,7 @@ ISO   : 80           |  Expiry  : Unknown
 Type  : Single Pack  |  Quantity: N/A     
 Added : 2025-09-18   |  Author  : dekuNukem
 UUID  : 49fdf7859f354d85933ce875998c9937
+Notes : Expiry is probably later than the other one, due to the increase of the processing cost.
 ```
 
 <a href="./archive/00348_000.jpg" target="_blank">
@@ -7974,11 +8048,11 @@ Rank  Username                      Contributions
 3     Pelicram                      67    
 4     @ellafridalindblom            46    
 5     The Compartmentalist          25    
-6     fine-seat                     19    
-7     Camera.Riley                  19    
-8     Nano_Burger                   18    
-9     @ob.skura                     16    
-10    @recycling.film               15    
+6     @recycling.film               21    
+7     fine-seat                     19    
+8     Camera.Riley                  19    
+9     Nano_Burger                   18    
+10    @ob.skura                     16    
 11    b0baspace                     14    
 12    @SirBrentsworth               13    
 13    toader                        13    

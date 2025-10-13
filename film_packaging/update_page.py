@@ -119,26 +119,28 @@ def render_two_cols(info: dict, col_width: int = 21) -> str:
         added_fmt = ""
 
     # Field values
-    fmt = info.get(ITEM_FORMAT_KEY, "")
-    proc = info.get(ITEM_PROCESS_KEY, "")
-    iso = info.get(ITEM_ISO_KEY, "")
-    author = info.get(ITEM_AUTHOR_KEY, "")
-    uuid = info.get(ITEM_UUID_KEY, "")
-    box_type = info.get(ITEM_SUB_TYPE_KEY, "")
-    quantity = info.get(ITEM_QUANTITY_KEY, "")
-    notes = info.get(ITEM_NOTES_KEY, "")
+    fmt = info.get(ITEM_FORMAT_KEY, "").strip()
+    proc = info.get(ITEM_PROCESS_KEY, "").strip()
+    iso = info.get(ITEM_ISO_KEY, "").strip()
+    author = info.get(ITEM_AUTHOR_KEY, "").strip()
+    uuid = info.get(ITEM_UUID_KEY, "").strip()
+    box_type = info.get(ITEM_SUB_TYPE_KEY, "").strip()
+    quantity = info.get(ITEM_QUANTITY_KEY, "").strip()
+    notes = info.get(ITEM_NOTES_KEY, "").strip()
 
     # Helper to make one column padded to col_width
     def col(label, value):
         return f"{label}: {value}".ljust(col_width)
 
-    # Build the lines
-    line1 = col("Format", fmt) + col("|  Process ", proc)
-    line2 = col("ISO   ", iso) + col("|  Expiry  ", exp_fmt)
-    line3 = col("Type  ", box_type) + col("|  Quantity", quantity)
-    line4 = col("Added ", added_fmt) + col("|  Author  ", author)
-    line5 = f"UUID  : {uuid}\n"
-    return "\n".join([line1, line2, line3, line4, line5])
+    line_list = []
+    line_list.append(col("Format", fmt) + col("|  Process ", proc))
+    line_list.append(col("ISO   ", iso) + col("|  Expiry  ", exp_fmt))
+    line_list.append(col("Type  ", box_type) + col("|  Quantity", quantity))
+    line_list.append(col("Added ", added_fmt) + col("|  Author  ", author))
+    line_list.append(f"UUID  : {uuid}")
+    if len(notes):
+        line_list.append(f"Notes : {notes}")
+    return "\n".join(line_list).strip()
 
 # -----------
 
@@ -167,7 +169,7 @@ def make_md(sort_name, sorted_dbase, ftk=None, ftf=None):
             description += f"#### {make_subtitle(item, foretext_key=ftk, foretext_func=ftf)}\n"
             description += "\n```\n"
             description += render_two_cols(item)
-            description += "```\n"
+            description += "\n```\n"
             description += make_lazy_load_image_link(lowres_path, image_path, item)
         else:
             description += f"\n`UUID: {item[ITEM_UUID_KEY]}`↓\n"

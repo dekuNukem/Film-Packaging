@@ -689,3 +689,9 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 390,4,film_box_leaflet,Kodak,Kodacolor,35mm,32,C-22,195910,1760306507,677079930681146441302a124a404042,8e3103da87194d3abc7e557078ad9130,00390_004.jpg,dekuNukem,,Single Pack,20exp
 391,0,film_box_outside,Ilford,XP2 Super,120,400,C-41,202611,1760306681,6b3a5ab43612a479d00503cec932e32b,08ab5616c0644099aceffb457b7e484f,00391_000.jpg,kaimon,,Single Pack,N/A
 391,1,film_box_inside,Ilford,XP2 Super,120,400,C-41,202611,1760306685,fb286a4d621a01b07631e1560baa3d23,b1a79997109841788a563a01c59c6acc,00391_001.jpg,kaimon,,Single Pack,N/A
+392,0,film_box_outside,Ilford,HP5 Plus,120,400,BW,201405,1760349286,b753e78714f01e34dd4ebe67a170ed16,3c726f85acc246d99f3e8c55c4cf072e,00392_000.jpg,@recycling.film,,Single Pack,N/A
+392,1,film_box_inside,Ilford,HP5 Plus,120,400,BW,201405,1760349287,5a8b2206dfcbe4f6e824ac9c15b0fbe7,21e61895c4f64c35a0a1ee7f59988917,00392_001.jpg,@recycling.film,,Single Pack,N/A
+393,0,film_box_outside,Svema,Foto 32,120,32,BW,199206,1760349426,7aefbd9395d32aad8a91cbdc6fd24ee7,9205929c91ba4c3bbbfacb1b2e678b44,00393_000.jpg,@recycling.film,,Single Pack,N/A
+394,0,film_box_outside,ORWO,NP15,120,25,BW,199208,1760349542,1eebaf371d0a846576d8026fdbb603fa,50956257d99f4f24a3ec712e77379a20,00394_000.jpg,@recycling.film,,Single Pack,N/A
+394,1,film_box_leaflet,ORWO,NP15,120,25,BW,199208,1760349544,22a0d20ec32e3105bbe41bd918139b39,71624d5686d648ef9411cbed44ed3f49,00394_001.jpg,@recycling.film,,Single Pack,N/A
+394,2,film_box_leaflet,ORWO,NP15,120,25,BW,199208,1760349547,797646e9c27406e066ff0caa22d62dc3,2528a0f231cf473597f3d594c67dc803,00394_002.jpg,@recycling.film,,Single Pack,N/A
