@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 13 2025
-Unique items: 391
-Total scans : 696
+Last Updated: Oct 14 2025
+Unique items: 395
+Total scans : 712
 ```
 
 -----
@@ -190,6 +190,7 @@ Total scans : 696
 - [Ilford XP2 Super (ref: 484f)](#ilford-xp2-super-ref-484f)
 - [Ilford XP2 Super (ref: 622a)](#ilford-xp2-super-ref-622a)
 - [Illingworth's Fleet H&D (ref: 54fe)](#illingworths-fleet-h-d-ref-54fe)
+- [Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras (ref: 861c)](#impossible-project-color-instant-film-for-polaroid-sx-70-type-cameras-ref-861c)
 - [Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)](#impossible-project-px-600-silver-shade-uv-ref-20f3)
 - [JCH Streetpan (ref: 6e58)](#jch-streetpan-ref-6e58)
 - [JCH Streetpan (ref: 5c70)](#jch-streetpan-ref-5c70)
@@ -346,10 +347,12 @@ Total scans : 696
 - [Lomography Lomochrome Purple (ref: 068f)](#lomography-lomochrome-purple-ref-068f)
 - [Lomography Lomochrome Turquoise (ref: 0d90)](#lomography-lomochrome-turquoise-ref-0d90)
 - [Lomography Orca (ref: d506)](#lomography-orca-ref-d506)
+- [Lomography Tiger (ref: 5b62)](#lomography-tiger-ref-5b62)
 - [Lomography Tiger (ref: 26dd)](#lomography-tiger-ref-26dd)
 - [Marix Professional Negative Movie Color Film (ref: c457)](#marix-professional-negative-movie-color-film-ref-c457)
 - [Max Spielmann Maxi Color (ref: bf60)](#max-spielmann-maxi-color-ref-bf60)
 - [Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#minolta-minolta-16-color-film-for-prints-ref-a2ff)
+- [Minox MinoColor 100 Pro (ref: 5338)](#minox-minocolor-100-pro-ref-5338)
 - [Minox MinoColor 3 (ref: d209)](#minox-minocolor-3-ref-d209)
 - [Mr. Negative 250D (ref: 3574)](#mr-negative-250d-ref-3574)
 - [Mr. Negative Eterna 250D (ref: 6d6e)](#mr-negative-eterna-250d-ref-6d6e)
@@ -398,6 +401,7 @@ Total scans : 696
 - [SantaColor SantaColor (ref: cb58)](#santacolor-santacolor-ref-cb58)
 - [SantaColor SantaColor (ref: f3a7)](#santacolor-santacolor-ref-f3a7)
 - [Shanghai GP3 (ref: 52aa)](#shanghai-gp3-ref-52aa)
+- [Sharan Black-and-white Negative Film (ref: a884)](#sharan-black-and-white-negative-film-ref-a884)
 - [Space Cat Film Mars 250D (ref: 5027)](#space-cat-film-mars-250d-ref-5027)
 - [SupaSnaps Snappit Film (ref: c41b)](#supasnaps-snappit-film-ref-c41b)
 - [Svema Foto 200 (ref: 6991)](#svema-foto-200-ref-6991)
@@ -3622,6 +3626,62 @@ UUID  : bec584ee60f3462381719b3e908f54fe
 	<img src="./lowres/00207_000.jpg" alt="Illingworth's Fleet H&D 6.5x9cm film box outside" loading="lazy" width="500" height="421">
 </a>
 
+#### Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras (ref: 861c)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 160          |  Expiry  : 2013-11 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-10-14   |  Author  : dekuNukem
+UUID  : 0543dd31cf204c8499f5f1e51a9b861c
+```
+
+<a href="./archive/00395_000.jpg" target="_blank">
+	<img src="./lowres/00395_000.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film box outside" loading="lazy" width="500" height="361">
+</a>
+
+
+`UUID: c8261d3d4696463091c1e946521ba6b8`↓
+
+<a href="./archive/00395_001.jpg" target="_blank">
+	<img src="./lowres/00395_001.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film cartridge" loading="lazy" width="429" height="499">
+</a>
+
+
+`UUID: f6f40232e62741eb8bbc5f22f9e38dc8`↓
+
+<a href="./archive/00395_002.jpg" target="_blank">
+	<img src="./lowres/00395_002.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film cartridge" loading="lazy" width="426" height="500">
+</a>
+
+
+`UUID: e0caa1919c6d4af3a5478f7e16c3664d`↓
+
+<a href="./archive/00395_003.jpg" target="_blank">
+	<img src="./lowres/00395_003.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film box leaflet" loading="lazy" width="331" height="500">
+</a>
+
+
+`UUID: 771ae62e2ca14e40a13c15c815d42ff0`↓
+
+<a href="./archive/00395_004.jpg" target="_blank">
+	<img src="./lowres/00395_004.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film box leaflet" loading="lazy" width="313" height="500">
+</a>
+
+
+`UUID: fe686e709acd4d8eb81aa903bc07d146`↓
+
+<a href="./archive/00395_005.jpg" target="_blank">
+	<img src="./lowres/00395_005.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film box leaflet" loading="lazy" width="322" height="500">
+</a>
+
+
+`UUID: 1bb9712c568140bd86d5d2ba361b85c9`↓
+
+<a href="./archive/00395_006.jpg" target="_blank">
+	<img src="./lowres/00395_006.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film box leaflet" loading="lazy" width="322" height="500">
+</a>
+
 #### Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)
 
 ```
@@ -6676,6 +6736,34 @@ UUID  : 6d10288df24748fa8944774857f3d506
 	<img src="./lowres/00134_000.jpg" alt="Lomography Orca 110 film box outside" loading="lazy" width="315" height="500">
 </a>
 
+#### Lomography Tiger (ref: 5b62)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2015-09 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-10-14   |  Author  : dekuNukem
+UUID  : 141712bb8988495d811441f1e5fb5b62
+```
+
+<a href="./archive/00396_000.jpg" target="_blank">
+	<img src="./lowres/00396_000.jpg" alt="Lomography Tiger 110 film box outside" loading="lazy" width="337" height="500">
+</a>
+
+
+`UUID: 23cf98004a95479ebb6992d73ee36d36`↓
+
+<a href="./archive/00396_001.jpg" target="_blank">
+	<img src="./lowres/00396_001.jpg" alt="Lomography Tiger 110 film box inside" loading="lazy" width="337" height="500">
+</a>
+
+
+`UUID: 9275565ac1d046c5a72f553b7f73e124`↓
+
+<a href="./archive/00396_002.jpg" target="_blank">
+	<img src="./lowres/00396_002.jpg" alt="Lomography Tiger 110 film cartridge" loading="lazy" width="500" height="198">
+</a>
+
 #### Lomography Tiger (ref: 26dd)
 
 ```
@@ -6730,6 +6818,27 @@ UUID  : a2cfc71ac0e24ea58f4e3350423aa2ff
 
 <a href="./archive/00162_000.jpg" target="_blank">
 	<img src="./lowres/00162_000.jpg" alt="Minolta Minolta 16 Color Film For Prints 16mm film box outside" loading="lazy" width="500" height="413">
+</a>
+
+#### Minox MinoColor 100 Pro (ref: 5338)
+
+```
+Format: 8x11mm       |  Process : C-41    
+ISO   : 100          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 30exp   
+Added : 2025-10-14   |  Author  : dekuNukem
+UUID  : 2b69cd822cf44b0a833b845e7b515338
+```
+
+<a href="./archive/00397_000.jpg" target="_blank">
+	<img src="./lowres/00397_000.jpg" alt="Minox MinoColor 100 Pro 8x11mm film box outside" loading="lazy" width="500" height="128">
+</a>
+
+
+`UUID: e73e0dd7193c4cfa9b8d4eed881bb328`↓
+
+<a href="./archive/00397_001.jpg" target="_blank">
+	<img src="./lowres/00397_001.jpg" alt="Minox MinoColor 100 Pro 8x11mm film box outside" loading="lazy" width="500" height="146">
 </a>
 
 #### Minox MinoColor 3 (ref: d209)
@@ -7789,6 +7898,42 @@ UUID  : 0e16f7ae50164c658acd22b8d62e52aa
 	<img src="./lowres/00050_000.jpg" alt="Shanghai GP3 127 film box outside" loading="lazy" width="500" height="400">
 </a>
 
+#### Sharan Black-and-white Negative Film (ref: a884)
+
+```
+Format: 8x11mm       |  Process : BW      
+ISO   : 100          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 30exp   
+Added : 2025-10-14   |  Author  : dekuNukem
+UUID  : f51e641835b543e592ea57ddb0c2a884
+Notes : ACMEL embossed on box
+```
+
+<a href="./archive/00398_000.jpg" target="_blank">
+	<img src="./lowres/00398_000.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="253">
+</a>
+
+
+`UUID: 863a7bdf1a704c8581b85715cfeaf4b6`↓
+
+<a href="./archive/00398_001.jpg" target="_blank">
+	<img src="./lowres/00398_001.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="271">
+</a>
+
+
+`UUID: 181802a92d784d7bb55da9b320456623`↓
+
+<a href="./archive/00398_002.jpg" target="_blank">
+	<img src="./lowres/00398_002.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="241">
+</a>
+
+
+`UUID: aff927d754b94e4a8e02b5db988feb9c`↓
+
+<a href="./archive/00398_003.jpg" target="_blank">
+	<img src="./lowres/00398_003.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="273">
+</a>
+
 #### Space Cat Film Mars 250D (ref: 5027)
 
 ```
@@ -8043,7 +8188,7 @@ UUID  : 46037fb6c55244b6ae47c55d0e454bf8
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     245   
+1     dekuNukem                     261   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @ellafridalindblom            46    

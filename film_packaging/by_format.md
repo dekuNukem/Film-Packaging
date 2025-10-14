@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 13 2025
-Unique items: 391
-Total scans : 696
+Last Updated: Oct 14 2025
+Unique items: 395
+Total scans : 712
 ```
 
 -----
@@ -32,6 +32,7 @@ Total scans : 696
 - [[110] Kodak Kodacolor Gold 200 (ref: f368)](#110-kodak-kodacolor-gold-200-ref-f368)
 - [[110] Kodak Ultra (ref: 5701)](#110-kodak-ultra-ref-5701)
 - [[110] Lomography Orca (ref: d506)](#110-lomography-orca-ref-d506)
+- [[110] Lomography Tiger (ref: 5b62)](#110-lomography-tiger-ref-5b62)
 - [[110] Lomography Tiger (ref: 26dd)](#110-lomography-tiger-ref-26dd)
 - [[110] Polaroid High Definition (ref: deb6)](#110-polaroid-high-definition-ref-deb6)
 - [[120] Agfa APX (ref: 12c7)](#120-agfa-apx-ref-12c7)
@@ -384,7 +385,9 @@ Total scans : 696
 - [[620] Walgreen All Purpose Film (ref: 541b)](#620-walgreen-all-purpose-film-ref-541b)
 - [[70mm] Kodak Portra 400NC (ref: b8de)](#70mm-kodak-portra-400nc-ref-b8de)
 - [[828] Kodak Ektachrome-X (ref: ae7e)](#828-kodak-ektachrome-x-ref-ae7e)
+- [[8x11mm] Minox MinoColor 100 Pro (ref: 5338)](#8x11mm-minox-minocolor-100-pro-ref-5338)
 - [[8x11mm] Minox MinoColor 3 (ref: d209)](#8x11mm-minox-minocolor-3-ref-d209)
+- [[8x11mm] Sharan Black-and-white Negative Film (ref: a884)](#8x11mm-sharan-black-and-white-negative-film-ref-a884)
 - [[9x12cm] Agfa Autolith Repo (ref: 8e68)](#9x12cm-agfa-autolith-repo-ref-8e68)
 - [[9x12cm] Agfa Extra Rapid Platten (ref: 7418)](#9x12cm-agfa-extra-rapid-platten-ref-7418)
 - [[9x12cm] Agfa Trockenplatten (ref: 0937)](#9x12cm-agfa-trockenplatten-ref-0937)
@@ -397,6 +400,7 @@ Total scans : 696
 - [[APS] Kodak Advantix Ultra Max (ref: 1ca2)](#aps-kodak-advantix-ultra-max-ref-1ca2)
 - [[APS] Lloyds Pharmacy APS Film (ref: c7cf)](#aps-lloyds-pharmacy-aps-film-ref-c7cf)
 - [[Integral Film] Fujifilm Instax Mini (ref: e5e7)](#integral-film-fujifilm-instax-mini-ref-e5e7)
+- [[Integral Film] Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras (ref: 861c)](#integral-film-impossible-project-color-instant-film-for-polaroid-sx-70-type-cameras-ref-861c)
 - [[Integral Film] Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)](#integral-film-impossible-project-px-600-silver-shade-uv-ref-20f3)
 - [[Integral Film] Polaroid 990 (ref: e3bc)](#integral-film-polaroid-990-ref-e3bc)
 - [[Integral Film] Polaroid Color 600 Film Round Frame (ref: d985)](#integral-film-polaroid-color-600-film-round-frame-ref-d985)
@@ -583,6 +587,34 @@ UUID  : 6d10288df24748fa8944774857f3d506
 
 <a href="./archive/00134_000.jpg" target="_blank">
 	<img src="./lowres/00134_000.jpg" alt="Lomography Orca 110 film box outside" loading="lazy" width="315" height="500">
+</a>
+
+#### [110] Lomography Tiger (ref: 5b62)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2015-09 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-10-14   |  Author  : dekuNukem
+UUID  : 141712bb8988495d811441f1e5fb5b62
+```
+
+<a href="./archive/00396_000.jpg" target="_blank">
+	<img src="./lowres/00396_000.jpg" alt="Lomography Tiger 110 film box outside" loading="lazy" width="337" height="500">
+</a>
+
+
+`UUID: 23cf98004a95479ebb6992d73ee36d36`↓
+
+<a href="./archive/00396_001.jpg" target="_blank">
+	<img src="./lowres/00396_001.jpg" alt="Lomography Tiger 110 film box inside" loading="lazy" width="337" height="500">
+</a>
+
+
+`UUID: 9275565ac1d046c5a72f553b7f73e124`↓
+
+<a href="./archive/00396_002.jpg" target="_blank">
+	<img src="./lowres/00396_002.jpg" alt="Lomography Tiger 110 film cartridge" loading="lazy" width="500" height="198">
 </a>
 
 #### [110] Lomography Tiger (ref: 26dd)
@@ -7425,6 +7457,27 @@ UUID  : 4ee1eec740dd4838a83384cc19c6ae7e
 	<img src="./lowres/00120_000.jpg" alt="Kodak Ektachrome-X 828 film box outside" loading="lazy" width="477" height="500">
 </a>
 
+#### [8x11mm] Minox MinoColor 100 Pro (ref: 5338)
+
+```
+Format: 8x11mm       |  Process : C-41    
+ISO   : 100          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 30exp   
+Added : 2025-10-14   |  Author  : dekuNukem
+UUID  : 2b69cd822cf44b0a833b845e7b515338
+```
+
+<a href="./archive/00397_000.jpg" target="_blank">
+	<img src="./lowres/00397_000.jpg" alt="Minox MinoColor 100 Pro 8x11mm film box outside" loading="lazy" width="500" height="128">
+</a>
+
+
+`UUID: e73e0dd7193c4cfa9b8d4eed881bb328`↓
+
+<a href="./archive/00397_001.jpg" target="_blank">
+	<img src="./lowres/00397_001.jpg" alt="Minox MinoColor 100 Pro 8x11mm film box outside" loading="lazy" width="500" height="146">
+</a>
+
 #### [8x11mm] Minox MinoColor 3 (ref: d209)
 
 ```
@@ -7437,6 +7490,42 @@ UUID  : a54b7c329f26403d91ffa69325a1d209
 
 <a href="./archive/00370_000.jpg" target="_blank">
 	<img src="./lowres/00370_000.jpg" alt="Minox MinoColor 3 8x11mm film box outside" loading="lazy" width="500" height="423">
+</a>
+
+#### [8x11mm] Sharan Black-and-white Negative Film (ref: a884)
+
+```
+Format: 8x11mm       |  Process : BW      
+ISO   : 100          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 30exp   
+Added : 2025-10-14   |  Author  : dekuNukem
+UUID  : f51e641835b543e592ea57ddb0c2a884
+Notes : ACMEL embossed on box
+```
+
+<a href="./archive/00398_000.jpg" target="_blank">
+	<img src="./lowres/00398_000.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="253">
+</a>
+
+
+`UUID: 863a7bdf1a704c8581b85715cfeaf4b6`↓
+
+<a href="./archive/00398_001.jpg" target="_blank">
+	<img src="./lowres/00398_001.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="271">
+</a>
+
+
+`UUID: 181802a92d784d7bb55da9b320456623`↓
+
+<a href="./archive/00398_002.jpg" target="_blank">
+	<img src="./lowres/00398_002.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="241">
+</a>
+
+
+`UUID: aff927d754b94e4a8e02b5db988feb9c`↓
+
+<a href="./archive/00398_003.jpg" target="_blank">
+	<img src="./lowres/00398_003.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="273">
 </a>
 
 #### [9x12cm] Agfa Autolith Repo (ref: 8e68)
@@ -7619,6 +7708,62 @@ UUID  : b8ea314888b244f8ab8ace49c734e5e7
 
 <a href="./archive/00307_000.jpg" target="_blank">
 	<img src="./lowres/00307_000.jpg" alt="Fujifilm Instax Mini Integral Film film box outside" loading="lazy" width="500" height="400">
+</a>
+
+#### [Integral Film] Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras (ref: 861c)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 160          |  Expiry  : 2013-11 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-10-14   |  Author  : dekuNukem
+UUID  : 0543dd31cf204c8499f5f1e51a9b861c
+```
+
+<a href="./archive/00395_000.jpg" target="_blank">
+	<img src="./lowres/00395_000.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film box outside" loading="lazy" width="500" height="361">
+</a>
+
+
+`UUID: c8261d3d4696463091c1e946521ba6b8`↓
+
+<a href="./archive/00395_001.jpg" target="_blank">
+	<img src="./lowres/00395_001.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film cartridge" loading="lazy" width="429" height="499">
+</a>
+
+
+`UUID: f6f40232e62741eb8bbc5f22f9e38dc8`↓
+
+<a href="./archive/00395_002.jpg" target="_blank">
+	<img src="./lowres/00395_002.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film cartridge" loading="lazy" width="426" height="500">
+</a>
+
+
+`UUID: e0caa1919c6d4af3a5478f7e16c3664d`↓
+
+<a href="./archive/00395_003.jpg" target="_blank">
+	<img src="./lowres/00395_003.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film box leaflet" loading="lazy" width="331" height="500">
+</a>
+
+
+`UUID: 771ae62e2ca14e40a13c15c815d42ff0`↓
+
+<a href="./archive/00395_004.jpg" target="_blank">
+	<img src="./lowres/00395_004.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film box leaflet" loading="lazy" width="313" height="500">
+</a>
+
+
+`UUID: fe686e709acd4d8eb81aa903bc07d146`↓
+
+<a href="./archive/00395_005.jpg" target="_blank">
+	<img src="./lowres/00395_005.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film box leaflet" loading="lazy" width="322" height="500">
+</a>
+
+
+`UUID: 1bb9712c568140bd86d5d2ba361b85c9`↓
+
+<a href="./archive/00395_006.jpg" target="_blank">
+	<img src="./lowres/00395_006.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film box leaflet" loading="lazy" width="322" height="500">
 </a>
 
 #### [Integral Film] Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)
@@ -8043,7 +8188,7 @@ UUID  : 5b7606bb875b4930bafa486534e6af27
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     245   
+1     dekuNukem                     261   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @ellafridalindblom            46    

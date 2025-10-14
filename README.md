@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 13 2025
-Unique items: 391
-Total scans : 696
+Last Updated: Oct 14 2025
+Unique items: 395
+Total scans : 712
 ```
 
 Or Sort by...
@@ -53,7 +53,7 @@ Or Sort by...
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     245   
+1     dekuNukem                     261   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @ellafridalindblom            46    
@@ -92,6 +92,12 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-10-14
+  - dekuNukem: Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras
+  - dekuNukem: Lomography Tiger
+  - dekuNukem: Minox MinoColor 100 Pro
+  - dekuNukem: Sharan Black-and-white Negative Film
+
 2025-10-13
   - @recycling.film: Ilford HP5 Plus
   - @recycling.film: ORWO NP15
@@ -122,12 +128,6 @@ Rank  Username                      Contributions
 2025-10-06
   - @Hol.m35: Agfa Vista Plus 200
   - @Hol.m35: Fujifilm Superia Premium 400
-
-2025-10-05
-  - benikum: VEB Fotochemische Werke Berlin Dekopan Feinkorn
-  - benikum: VEB Fotochemische Werke Berlin Dekopan Super S
-  - dekuNukem: Harman Phoenix II
-  - Pelicram: Minox MinoColor 3
 ```
 
 ## Disclaimer

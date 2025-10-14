@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 13 2025
-Unique items: 391
-Total scans : 696
+Last Updated: Oct 14 2025
+Unique items: 395
+Total scans : 712
 ```
 
 -----
@@ -239,12 +239,14 @@ Total scans : 696
 - [[2013] Kodak Portra 160 (ref: ce56)](#2013-kodak-portra-160-ref-ce56)
 - [[2013] Ilford SFX 200 (ref: 6057)](#2013-ilford-sfx-200-ref-6057)
 - [[2013] Efiniti UXi Super 200 (ref: 471a)](#2013-efiniti-uxi-super-200-ref-471a)
+- [[2013] Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras (ref: 861c)](#2013-impossible-project-color-instant-film-for-polaroid-sx-70-type-cameras-ref-861c)
 - [[2013] Kodak Professional Microfilm Type I (ref: a444)](#2013-kodak-professional-microfilm-type-i-ref-a444)
 - [[2014] Ilford HP5 Plus (ref: 072e)](#2014-ilford-hp5-plus-ref-072e)
 - [[2014] Kodak Portra 400 (ref: cf9c)](#2014-kodak-portra-400-ref-cf9c)
 - [[2014] Fujifilm Fujicolor Natura 1600 (ref: 2e06)](#2014-fujifilm-fujicolor-natura-1600-ref-2e06)
 - [[2014] Fujifilm Fujichrome Provia 400X (ref: 3c08)](#2014-fujifilm-fujichrome-provia-400x-ref-3c08)
 - [[2015] Fujifilm FP-100C (ref: 5cda)](#2015-fujifilm-fp-100c-ref-5cda)
+- [[2015] Lomography Tiger (ref: 5b62)](#2015-lomography-tiger-ref-5b62)
 - [[2018] CineStill 800T (ref: c86a)](#2018-cinestill-800t-ref-c86a)
 - [[2018] Agfa Vista Plus 200 (ref: f5f7)](#2018-agfa-vista-plus-200-ref-f5f7)
 - [[2018] Fujifilm Fujicolor Pro 400H (ref: 66e3)](#2018-fujifilm-fujicolor-pro-400h-ref-66e3)
@@ -406,10 +408,12 @@ Total scans : 696
 - [[Unknown] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#unknown-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
 - [[Unknown] Kodak Eastman Tri-X Reversal Film 7278 (ref: 8468)](#unknown-kodak-eastman-tri-x-reversal-film-7278-ref-8468)
 - [[Unknown] Kodak Tri-X 400 Pro (ref: f05c)](#unknown-kodak-tri-x-400-pro-ref-f05c)
+- [[Unknown] Minox MinoColor 100 Pro (ref: 5338)](#unknown-minox-minocolor-100-pro-ref-5338)
 - [[Unknown] Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#unknown-mutascan-kodak-vision3-500t5219-ref-5150)
 - [[Unknown] Perutz Superomnia (ref: c90d)](#unknown-perutz-superomnia-ref-c90d)
 - [[Unknown] Phöbus-Platten Sheet Film (ref: d505)](#unknown-phöbus-platten-sheet-film-ref-d505)
 - [[Unknown] Robot NR-Cassette (ref: bc7a)](#unknown-robot-nr-cassette-ref-bc7a)
+- [[Unknown] Sharan Black-and-white Negative Film (ref: a884)](#unknown-sharan-black-and-white-negative-film-ref-a884)
 - [[Unknown] Space Cat Film Mars 250D (ref: 5027)](#unknown-space-cat-film-mars-250d-ref-5027)
 - [[Unknown] Walkens Speed 400 (ref: 740f)](#unknown-walkens-speed-400-ref-740f)
 - [[Unkonwn] Agfa Trockenplatten (ref: 41a8)](#unkonwn-agfa-trockenplatten-ref-41a8)
@@ -5007,6 +5011,62 @@ UUID  : cde1122dafbc47088a11d9ee12b6471a
 	<img src="./lowres/00002_000.jpg" alt="Efiniti UXi Super 200 35mm film box outside" loading="lazy" width="457" height="500">
 </a>
 
+#### [2013] Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras (ref: 861c)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 160          |  Expiry  : 2013-11 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-10-14   |  Author  : dekuNukem
+UUID  : 0543dd31cf204c8499f5f1e51a9b861c
+```
+
+<a href="./archive/00395_000.jpg" target="_blank">
+	<img src="./lowres/00395_000.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film box outside" loading="lazy" width="500" height="361">
+</a>
+
+
+`UUID: c8261d3d4696463091c1e946521ba6b8`↓
+
+<a href="./archive/00395_001.jpg" target="_blank">
+	<img src="./lowres/00395_001.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film cartridge" loading="lazy" width="429" height="499">
+</a>
+
+
+`UUID: f6f40232e62741eb8bbc5f22f9e38dc8`↓
+
+<a href="./archive/00395_002.jpg" target="_blank">
+	<img src="./lowres/00395_002.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film cartridge" loading="lazy" width="426" height="500">
+</a>
+
+
+`UUID: e0caa1919c6d4af3a5478f7e16c3664d`↓
+
+<a href="./archive/00395_003.jpg" target="_blank">
+	<img src="./lowres/00395_003.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film box leaflet" loading="lazy" width="331" height="500">
+</a>
+
+
+`UUID: 771ae62e2ca14e40a13c15c815d42ff0`↓
+
+<a href="./archive/00395_004.jpg" target="_blank">
+	<img src="./lowres/00395_004.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film box leaflet" loading="lazy" width="313" height="500">
+</a>
+
+
+`UUID: fe686e709acd4d8eb81aa903bc07d146`↓
+
+<a href="./archive/00395_005.jpg" target="_blank">
+	<img src="./lowres/00395_005.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film box leaflet" loading="lazy" width="322" height="500">
+</a>
+
+
+`UUID: 1bb9712c568140bd86d5d2ba361b85c9`↓
+
+<a href="./archive/00395_006.jpg" target="_blank">
+	<img src="./lowres/00395_006.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film box leaflet" loading="lazy" width="322" height="500">
+</a>
+
 #### [2013] Kodak Professional Microfilm Type I (ref: a444)
 
 ```
@@ -5124,6 +5184,34 @@ UUID  : 9bf3702e732a42adb54727a565645cda
 
 <a href="./archive/00277_001.jpg" target="_blank">
 	<img src="./lowres/00277_001.jpg" alt="Fujifilm FP-100C Pack Film film box inside" loading="lazy" width="500" height="353">
+</a>
+
+#### [2015] Lomography Tiger (ref: 5b62)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2015-09 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-10-14   |  Author  : dekuNukem
+UUID  : 141712bb8988495d811441f1e5fb5b62
+```
+
+<a href="./archive/00396_000.jpg" target="_blank">
+	<img src="./lowres/00396_000.jpg" alt="Lomography Tiger 110 film box outside" loading="lazy" width="337" height="500">
+</a>
+
+
+`UUID: 23cf98004a95479ebb6992d73ee36d36`↓
+
+<a href="./archive/00396_001.jpg" target="_blank">
+	<img src="./lowres/00396_001.jpg" alt="Lomography Tiger 110 film box inside" loading="lazy" width="337" height="500">
+</a>
+
+
+`UUID: 9275565ac1d046c5a72f553b7f73e124`↓
+
+<a href="./archive/00396_002.jpg" target="_blank">
+	<img src="./lowres/00396_002.jpg" alt="Lomography Tiger 110 film cartridge" loading="lazy" width="500" height="198">
 </a>
 
 #### [2018] CineStill 800T (ref: c86a)
@@ -7929,6 +8017,27 @@ UUID  : dd34c2bc1fe34b17b67c6ad002bef05c
 	<img src="./lowres/00365_001.jpg" alt="Kodak Tri-X 400 Pro 120 film box inside" loading="lazy" width="384" height="500">
 </a>
 
+#### [Unknown] Minox MinoColor 100 Pro (ref: 5338)
+
+```
+Format: 8x11mm       |  Process : C-41    
+ISO   : 100          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 30exp   
+Added : 2025-10-14   |  Author  : dekuNukem
+UUID  : 2b69cd822cf44b0a833b845e7b515338
+```
+
+<a href="./archive/00397_000.jpg" target="_blank">
+	<img src="./lowres/00397_000.jpg" alt="Minox MinoColor 100 Pro 8x11mm film box outside" loading="lazy" width="500" height="128">
+</a>
+
+
+`UUID: e73e0dd7193c4cfa9b8d4eed881bb328`↓
+
+<a href="./archive/00397_001.jpg" target="_blank">
+	<img src="./lowres/00397_001.jpg" alt="Minox MinoColor 100 Pro 8x11mm film box outside" loading="lazy" width="500" height="146">
+</a>
+
 #### [Unknown] Mutascan Kodak Vision3 500T/5219 (ref: 5150)
 
 ```
@@ -7983,6 +8092,42 @@ UUID  : 55a2616da3a9456a90f763ed8ac5bc7a
 
 <a href="./archive/00384_000.jpg" target="_blank">
 	<img src="./lowres/00384_000.jpg" alt="Robot NR-Cassette 35mm film box outside" loading="lazy" width="500" height="421">
+</a>
+
+#### [Unknown] Sharan Black-and-white Negative Film (ref: a884)
+
+```
+Format: 8x11mm       |  Process : BW      
+ISO   : 100          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 30exp   
+Added : 2025-10-14   |  Author  : dekuNukem
+UUID  : f51e641835b543e592ea57ddb0c2a884
+Notes : ACMEL embossed on box
+```
+
+<a href="./archive/00398_000.jpg" target="_blank">
+	<img src="./lowres/00398_000.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="253">
+</a>
+
+
+`UUID: 863a7bdf1a704c8581b85715cfeaf4b6`↓
+
+<a href="./archive/00398_001.jpg" target="_blank">
+	<img src="./lowres/00398_001.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="271">
+</a>
+
+
+`UUID: 181802a92d784d7bb55da9b320456623`↓
+
+<a href="./archive/00398_002.jpg" target="_blank">
+	<img src="./lowres/00398_002.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="241">
+</a>
+
+
+`UUID: aff927d754b94e4a8e02b5db988feb9c`↓
+
+<a href="./archive/00398_003.jpg" target="_blank">
+	<img src="./lowres/00398_003.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="273">
 </a>
 
 #### [Unknown] Space Cat Film Mars 250D (ref: 5027)
@@ -8043,7 +8188,7 @@ UUID  : 80d64fa269454c5589109c68a40541a8
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     245   
+1     dekuNukem                     261   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @ellafridalindblom            46    

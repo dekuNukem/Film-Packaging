@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 13 2025
-Unique items: 391
-Total scans : 696
+Last Updated: Oct 14 2025
+Unique items: 395
+Total scans : 712
 ```
 
 -----
@@ -309,6 +309,7 @@ Total scans : 696
 - [[dekuNukem] Ilford HP5 Plus (ref: efad)](#dekunukem-ilford-hp5-plus-ref-efad)
 - [[dekuNukem] Ilford HP5 Plus (ref: 1a5d)](#dekunukem-ilford-hp5-plus-ref-1a5d)
 - [[dekuNukem] Ilford SFX 200 (ref: 6057)](#dekunukem-ilford-sfx-200-ref-6057)
+- [[dekuNukem] Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras (ref: 861c)](#dekunukem-impossible-project-color-instant-film-for-polaroid-sx-70-type-cameras-ref-861c)
 - [[dekuNukem] Jessops Diamond Everyday (ref: 67d3)](#dekunukem-jessops-diamond-everyday-ref-67d3)
 - [[dekuNukem] Kentmere PAN 400 (ref: d223)](#dekunukem-kentmere-pan-400-ref-d223)
 - [[dekuNukem] Kentmere PAN 400 (ref: 827e)](#dekunukem-kentmere-pan-400-ref-827e)
@@ -355,7 +356,9 @@ Total scans : 696
 - [[dekuNukem] Lloyds Pharmacy Colour Film (ref: 074c)](#dekunukem-lloyds-pharmacy-colour-film-ref-074c)
 - [[dekuNukem] Lloyds Pharmacy Colour Film (ref: 77d9)](#dekunukem-lloyds-pharmacy-colour-film-ref-77d9)
 - [[dekuNukem] Lomography Lomochrome Turquoise (ref: 0d90)](#dekunukem-lomography-lomochrome-turquoise-ref-0d90)
+- [[dekuNukem] Lomography Tiger (ref: 5b62)](#dekunukem-lomography-tiger-ref-5b62)
 - [[dekuNukem] Max Spielmann Maxi Color (ref: bf60)](#dekunukem-max-spielmann-maxi-color-ref-bf60)
+- [[dekuNukem] Minox MinoColor 100 Pro (ref: 5338)](#dekunukem-minox-minocolor-100-pro-ref-5338)
 - [[dekuNukem] Polaroid 665 (ref: e054)](#dekunukem-polaroid-665-ref-e054)
 - [[dekuNukem] Polaroid 669 (ref: 3566)](#dekunukem-polaroid-669-ref-3566)
 - [[dekuNukem] Polaroid 87 (ref: 62ef)](#dekunukem-polaroid-87-ref-62ef)
@@ -373,6 +376,7 @@ Total scans : 696
 - [[dekuNukem] Robot NR-Cassette (ref: bc7a)](#dekunukem-robot-nr-cassette-ref-bc7a)
 - [[dekuNukem] Rollei Infrared (ref: 4f54)](#dekunukem-rollei-infrared-ref-4f54)
 - [[dekuNukem] Rollei Retro 80S (ref: e6c0)](#dekunukem-rollei-retro-80s-ref-e6c0)
+- [[dekuNukem] Sharan Black-and-white Negative Film (ref: a884)](#dekunukem-sharan-black-and-white-negative-film-ref-a884)
 - [[dekuNukem] SupaSnaps Snappit Film (ref: c41b)](#dekunukem-supasnaps-snappit-film-ref-c41b)
 - [[dekuNukem] Svema Foto 64 (ref: 18f8)](#dekunukem-svema-foto-64-ref-18f8)
 - [[dekuNukem] Three Film Rolls 5207 (ref: 0292)](#dekunukem-three-film-rolls-5207-ref-0292)
@@ -5750,6 +5754,62 @@ UUID  : 7856b5442362453caa67628c93be6057
 	<img src="./lowres/00009_001.jpg" alt="Ilford SFX 200 120 film box inside" loading="lazy" width="500" height="456">
 </a>
 
+#### [dekuNukem] Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras (ref: 861c)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 160          |  Expiry  : 2013-11 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-10-14   |  Author  : dekuNukem
+UUID  : 0543dd31cf204c8499f5f1e51a9b861c
+```
+
+<a href="./archive/00395_000.jpg" target="_blank">
+	<img src="./lowres/00395_000.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film box outside" loading="lazy" width="500" height="361">
+</a>
+
+
+`UUID: c8261d3d4696463091c1e946521ba6b8`↓
+
+<a href="./archive/00395_001.jpg" target="_blank">
+	<img src="./lowres/00395_001.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film cartridge" loading="lazy" width="429" height="499">
+</a>
+
+
+`UUID: f6f40232e62741eb8bbc5f22f9e38dc8`↓
+
+<a href="./archive/00395_002.jpg" target="_blank">
+	<img src="./lowres/00395_002.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film cartridge" loading="lazy" width="426" height="500">
+</a>
+
+
+`UUID: e0caa1919c6d4af3a5478f7e16c3664d`↓
+
+<a href="./archive/00395_003.jpg" target="_blank">
+	<img src="./lowres/00395_003.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film box leaflet" loading="lazy" width="331" height="500">
+</a>
+
+
+`UUID: 771ae62e2ca14e40a13c15c815d42ff0`↓
+
+<a href="./archive/00395_004.jpg" target="_blank">
+	<img src="./lowres/00395_004.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film box leaflet" loading="lazy" width="313" height="500">
+</a>
+
+
+`UUID: fe686e709acd4d8eb81aa903bc07d146`↓
+
+<a href="./archive/00395_005.jpg" target="_blank">
+	<img src="./lowres/00395_005.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film box leaflet" loading="lazy" width="322" height="500">
+</a>
+
+
+`UUID: 1bb9712c568140bd86d5d2ba361b85c9`↓
+
+<a href="./archive/00395_006.jpg" target="_blank">
+	<img src="./lowres/00395_006.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film box leaflet" loading="lazy" width="322" height="500">
+</a>
+
 #### [dekuNukem] Jessops Diamond Everyday (ref: 67d3)
 
 ```
@@ -6710,6 +6770,34 @@ UUID  : 99643a4fc27b4ff298e834fc72970d90
 	<img src="./lowres/00008_001.jpg" alt="Lomography Lomochrome Turquoise 120 film box inside" loading="lazy" width="500" height="298">
 </a>
 
+#### [dekuNukem] Lomography Tiger (ref: 5b62)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2015-09 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-10-14   |  Author  : dekuNukem
+UUID  : 141712bb8988495d811441f1e5fb5b62
+```
+
+<a href="./archive/00396_000.jpg" target="_blank">
+	<img src="./lowres/00396_000.jpg" alt="Lomography Tiger 110 film box outside" loading="lazy" width="337" height="500">
+</a>
+
+
+`UUID: 23cf98004a95479ebb6992d73ee36d36`↓
+
+<a href="./archive/00396_001.jpg" target="_blank">
+	<img src="./lowres/00396_001.jpg" alt="Lomography Tiger 110 film box inside" loading="lazy" width="337" height="500">
+</a>
+
+
+`UUID: 9275565ac1d046c5a72f553b7f73e124`↓
+
+<a href="./archive/00396_002.jpg" target="_blank">
+	<img src="./lowres/00396_002.jpg" alt="Lomography Tiger 110 film cartridge" loading="lazy" width="500" height="198">
+</a>
+
 #### [dekuNukem] Max Spielmann Maxi Color (ref: bf60)
 
 ```
@@ -6722,6 +6810,27 @@ UUID  : 0953325be5e54102b7615a7a5f82bf60
 
 <a href="./archive/00268_000.jpg" target="_blank">
 	<img src="./lowres/00268_000.jpg" alt="Max Spielmann Maxi Color 35mm film box outside" loading="lazy" width="453" height="500">
+</a>
+
+#### [dekuNukem] Minox MinoColor 100 Pro (ref: 5338)
+
+```
+Format: 8x11mm       |  Process : C-41    
+ISO   : 100          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 30exp   
+Added : 2025-10-14   |  Author  : dekuNukem
+UUID  : 2b69cd822cf44b0a833b845e7b515338
+```
+
+<a href="./archive/00397_000.jpg" target="_blank">
+	<img src="./lowres/00397_000.jpg" alt="Minox MinoColor 100 Pro 8x11mm film box outside" loading="lazy" width="500" height="128">
+</a>
+
+
+`UUID: e73e0dd7193c4cfa9b8d4eed881bb328`↓
+
+<a href="./archive/00397_001.jpg" target="_blank">
+	<img src="./lowres/00397_001.jpg" alt="Minox MinoColor 100 Pro 8x11mm film box outside" loading="lazy" width="500" height="146">
 </a>
 
 #### [dekuNukem] Polaroid 665 (ref: e054)
@@ -7198,6 +7307,42 @@ UUID  : fb2ccfebcf2f4a17afe00acaaea5e6c0
 
 <a href="./archive/00005_001.jpg" target="_blank">
 	<img src="./lowres/00005_001.jpg" alt="Rollei Retro 80S 120 film box inside" loading="lazy" width="500" height="335">
+</a>
+
+#### [dekuNukem] Sharan Black-and-white Negative Film (ref: a884)
+
+```
+Format: 8x11mm       |  Process : BW      
+ISO   : 100          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 30exp   
+Added : 2025-10-14   |  Author  : dekuNukem
+UUID  : f51e641835b543e592ea57ddb0c2a884
+Notes : ACMEL embossed on box
+```
+
+<a href="./archive/00398_000.jpg" target="_blank">
+	<img src="./lowres/00398_000.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="253">
+</a>
+
+
+`UUID: 863a7bdf1a704c8581b85715cfeaf4b6`↓
+
+<a href="./archive/00398_001.jpg" target="_blank">
+	<img src="./lowres/00398_001.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="271">
+</a>
+
+
+`UUID: 181802a92d784d7bb55da9b320456623`↓
+
+<a href="./archive/00398_002.jpg" target="_blank">
+	<img src="./lowres/00398_002.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="241">
+</a>
+
+
+`UUID: aff927d754b94e4a8e02b5db988feb9c`↓
+
+<a href="./archive/00398_003.jpg" target="_blank">
+	<img src="./lowres/00398_003.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="273">
 </a>
 
 #### [dekuNukem] SupaSnaps Snappit Film (ref: c41b)
@@ -8043,7 +8188,7 @@ UUID  : e54ce68c797b4846b9aee3f5818ecb58
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     245   
+1     dekuNukem                     261   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @ellafridalindblom            46    
