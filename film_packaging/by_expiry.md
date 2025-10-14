@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 14 2025
-Unique items: 395
-Total scans : 712
+Unique items: 396
+Total scans : 716
 ```
 
 -----
@@ -414,6 +414,7 @@ Total scans : 712
 - [[Unknown] Phöbus-Platten Sheet Film (ref: d505)](#unknown-phöbus-platten-sheet-film-ref-d505)
 - [[Unknown] Robot NR-Cassette (ref: bc7a)](#unknown-robot-nr-cassette-ref-bc7a)
 - [[Unknown] Sharan Black-and-white Negative Film (ref: a884)](#unknown-sharan-black-and-white-negative-film-ref-a884)
+- [[Unknown] Sharan Color Negative Film (ref: 4913)](#unknown-sharan-color-negative-film-ref-4913)
 - [[Unknown] Space Cat Film Mars 250D (ref: 5027)](#unknown-space-cat-film-mars-250d-ref-5027)
 - [[Unknown] Walkens Speed 400 (ref: 740f)](#unknown-walkens-speed-400-ref-740f)
 - [[Unkonwn] Agfa Trockenplatten (ref: 41a8)](#unkonwn-agfa-trockenplatten-ref-41a8)
@@ -8130,6 +8131,41 @@ Notes : ACMEL embossed on box
 	<img src="./lowres/00398_003.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="273">
 </a>
 
+#### [Unknown] Sharan Color Negative Film (ref: 4913)
+
+```
+Format: 8x11mm       |  Process : C-41    
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 30exp   
+Added : 2025-10-14   |  Author  : dekuNukem
+UUID  : 52bf2ed6baac480dbc32d05e569f4913
+```
+
+<a href="./archive/00399_000.jpg" target="_blank">
+	<img src="./lowres/00399_000.jpg" alt="Sharan Color Negative Film 8x11mm film box outside" loading="lazy" width="500" height="243">
+</a>
+
+
+`UUID: 9bbddf2ace8b430c87ae445ede2a99f1`↓
+
+<a href="./archive/00399_001.jpg" target="_blank">
+	<img src="./lowres/00399_001.jpg" alt="Sharan Color Negative Film 8x11mm film box outside" loading="lazy" width="500" height="211">
+</a>
+
+
+`UUID: b4abaf59baa1429c8085e9f20e115e73`↓
+
+<a href="./archive/00399_002.jpg" target="_blank">
+	<img src="./lowres/00399_002.jpg" alt="Sharan Color Negative Film 8x11mm film box outside" loading="lazy" width="500" height="221">
+</a>
+
+
+`UUID: e481850cf5ef471ca1c4d116ca79a5b8`↓
+
+<a href="./archive/00399_003.jpg" target="_blank">
+	<img src="./lowres/00399_003.jpg" alt="Sharan Color Negative Film 8x11mm film box outside" loading="lazy" width="500" height="265">
+</a>
+
 #### [Unknown] Space Cat Film Mars 250D (ref: 5027)
 
 ```
@@ -8188,7 +8224,7 @@ UUID  : 80d64fa269454c5589109c68a40541a8
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     261   
+1     dekuNukem                     265   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @ellafridalindblom            46    

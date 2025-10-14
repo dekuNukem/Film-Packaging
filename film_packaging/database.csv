@@ -711,3 +711,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 398,1,film_box_outside,Sharan,Black-and-white Negative Film,8x11mm,100,BW,Unknown,1760441323,a19d27c617c457c5f8fb42e781e59653,863a7bdf1a704c8581b85715cfeaf4b6,00398_001.jpg,dekuNukem,ACMEL embossed on box,Single Pack,30exp
 398,2,film_box_outside,Sharan,Black-and-white Negative Film,8x11mm,100,BW,Unknown,1760441333,77adc1958b6ceb1b7dcdabf20abb33f2,181802a92d784d7bb55da9b320456623,00398_002.jpg,dekuNukem,ACMEL embossed on box,Single Pack,30exp
 398,3,film_box_outside,Sharan,Black-and-white Negative Film,8x11mm,100,BW,Unknown,1760441337,62cf777ab494fb23e30e3c25e30db1ec,aff927d754b94e4a8e02b5db988feb9c,00398_003.jpg,dekuNukem,ACMEL embossed on box,Single Pack,30exp
+399,0,film_box_outside,Sharan,Color Negative Film,8x11mm,400,C-41,Unknown,1760441698,650d941cdb2298434267cd945a42127c,52bf2ed6baac480dbc32d05e569f4913,00399_000.jpg,dekuNukem,,Single Pack,30exp
+399,1,film_box_outside,Sharan,Color Negative Film,8x11mm,400,C-41,Unknown,1760441699,ef7fa9f79bcaeb1cd83c4cfb875bbe44,9bbddf2ace8b430c87ae445ede2a99f1,00399_001.jpg,dekuNukem,,Single Pack,30exp
+399,2,film_box_outside,Sharan,Color Negative Film,8x11mm,400,C-41,Unknown,1760441703,e2caebe236a344ab0587991b1dff839a,b4abaf59baa1429c8085e9f20e115e73,00399_002.jpg,dekuNukem,,Single Pack,30exp
+399,3,film_box_outside,Sharan,Color Negative Film,8x11mm,400,C-41,Unknown,1760441705,77650235bd96ef55446b87da9d7d511e,e481850cf5ef471ca1c4d116ca79a5b8,00399_003.jpg,dekuNukem,,Single Pack,30exp

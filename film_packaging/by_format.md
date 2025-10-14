@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 14 2025
-Unique items: 395
-Total scans : 712
+Unique items: 396
+Total scans : 716
 ```
 
 -----
@@ -388,6 +388,7 @@ Total scans : 712
 - [[8x11mm] Minox MinoColor 100 Pro (ref: 5338)](#8x11mm-minox-minocolor-100-pro-ref-5338)
 - [[8x11mm] Minox MinoColor 3 (ref: d209)](#8x11mm-minox-minocolor-3-ref-d209)
 - [[8x11mm] Sharan Black-and-white Negative Film (ref: a884)](#8x11mm-sharan-black-and-white-negative-film-ref-a884)
+- [[8x11mm] Sharan Color Negative Film (ref: 4913)](#8x11mm-sharan-color-negative-film-ref-4913)
 - [[9x12cm] Agfa Autolith Repo (ref: 8e68)](#9x12cm-agfa-autolith-repo-ref-8e68)
 - [[9x12cm] Agfa Extra Rapid Platten (ref: 7418)](#9x12cm-agfa-extra-rapid-platten-ref-7418)
 - [[9x12cm] Agfa Trockenplatten (ref: 0937)](#9x12cm-agfa-trockenplatten-ref-0937)
@@ -7528,6 +7529,41 @@ Notes : ACMEL embossed on box
 	<img src="./lowres/00398_003.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="273">
 </a>
 
+#### [8x11mm] Sharan Color Negative Film (ref: 4913)
+
+```
+Format: 8x11mm       |  Process : C-41    
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 30exp   
+Added : 2025-10-14   |  Author  : dekuNukem
+UUID  : 52bf2ed6baac480dbc32d05e569f4913
+```
+
+<a href="./archive/00399_000.jpg" target="_blank">
+	<img src="./lowres/00399_000.jpg" alt="Sharan Color Negative Film 8x11mm film box outside" loading="lazy" width="500" height="243">
+</a>
+
+
+`UUID: 9bbddf2ace8b430c87ae445ede2a99f1`↓
+
+<a href="./archive/00399_001.jpg" target="_blank">
+	<img src="./lowres/00399_001.jpg" alt="Sharan Color Negative Film 8x11mm film box outside" loading="lazy" width="500" height="211">
+</a>
+
+
+`UUID: b4abaf59baa1429c8085e9f20e115e73`↓
+
+<a href="./archive/00399_002.jpg" target="_blank">
+	<img src="./lowres/00399_002.jpg" alt="Sharan Color Negative Film 8x11mm film box outside" loading="lazy" width="500" height="221">
+</a>
+
+
+`UUID: e481850cf5ef471ca1c4d116ca79a5b8`↓
+
+<a href="./archive/00399_003.jpg" target="_blank">
+	<img src="./lowres/00399_003.jpg" alt="Sharan Color Negative Film 8x11mm film box outside" loading="lazy" width="500" height="265">
+</a>
+
 #### [9x12cm] Agfa Autolith Repo (ref: 8e68)
 
 ```
@@ -8188,7 +8224,7 @@ UUID  : 5b7606bb875b4930bafa486534e6af27
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     261   
+1     dekuNukem                     265   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @ellafridalindblom            46    

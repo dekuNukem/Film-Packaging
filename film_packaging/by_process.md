@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 14 2025
-Unique items: 395
-Total scans : 712
+Unique items: 396
+Total scans : 716
 ```
 
 -----
@@ -320,6 +320,7 @@ Total scans : 712
 - [[C-41] Sakura Sakuracolor II (ref: 4f7d)](#c-41-sakura-sakuracolor-ii-ref-4f7d)
 - [[C-41] SantaColor SantaColor (ref: cb58)](#c-41-santacolor-santacolor-ref-cb58)
 - [[C-41] SantaColor SantaColor (ref: f3a7)](#c-41-santacolor-santacolor-ref-f3a7)
+- [[C-41] Sharan Color Negative Film (ref: 4913)](#c-41-sharan-color-negative-film-ref-4913)
 - [[C-41] Space Cat Film Mars 250D (ref: 5027)](#c-41-space-cat-film-mars-250d-ref-5027)
 - [[C-41] SupaSnaps Snappit Film (ref: c41b)](#c-41-supasnaps-snappit-film-ref-c41b)
 - [[C-41] Walkens Speed 400 (ref: 740f)](#c-41-walkens-speed-400-ref-740f)
@@ -5871,6 +5872,41 @@ UUID  : 0a141b49a84a4b06a18355308940f3a7
 	<img src="./lowres/00128_000.jpg" alt="SantaColor SantaColor 35mm film box outside" loading="lazy" width="500" height="210">
 </a>
 
+#### [C-41] Sharan Color Negative Film (ref: 4913)
+
+```
+Format: 8x11mm       |  Process : C-41    
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 30exp   
+Added : 2025-10-14   |  Author  : dekuNukem
+UUID  : 52bf2ed6baac480dbc32d05e569f4913
+```
+
+<a href="./archive/00399_000.jpg" target="_blank">
+	<img src="./lowres/00399_000.jpg" alt="Sharan Color Negative Film 8x11mm film box outside" loading="lazy" width="500" height="243">
+</a>
+
+
+`UUID: 9bbddf2ace8b430c87ae445ede2a99f1`↓
+
+<a href="./archive/00399_001.jpg" target="_blank">
+	<img src="./lowres/00399_001.jpg" alt="Sharan Color Negative Film 8x11mm film box outside" loading="lazy" width="500" height="211">
+</a>
+
+
+`UUID: b4abaf59baa1429c8085e9f20e115e73`↓
+
+<a href="./archive/00399_002.jpg" target="_blank">
+	<img src="./lowres/00399_002.jpg" alt="Sharan Color Negative Film 8x11mm film box outside" loading="lazy" width="500" height="221">
+</a>
+
+
+`UUID: e481850cf5ef471ca1c4d116ca79a5b8`↓
+
+<a href="./archive/00399_003.jpg" target="_blank">
+	<img src="./lowres/00399_003.jpg" alt="Sharan Color Negative Film 8x11mm film box outside" loading="lazy" width="500" height="265">
+</a>
+
 #### [C-41] Space Cat Film Mars 250D (ref: 5027)
 
 ```
@@ -8188,7 +8224,7 @@ UUID  : 55a2616da3a9456a90f763ed8ac5bc7a
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     261   
+1     dekuNukem                     265   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @ellafridalindblom            46    

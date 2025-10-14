@@ -16,12 +16,13 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 14 2025
-Unique items: 395
-Total scans : 712
+Unique items: 396
+Total scans : 716
 ```
 
 -----
 
+- [[2025-10-14] Sharan Color Negative Film (ref: 4913)](#2025-10-14-sharan-color-negative-film-ref-4913)
 - [[2025-10-14] Sharan Black-and-white Negative Film (ref: a884)](#2025-10-14-sharan-black-and-white-negative-film-ref-a884)
 - [[2025-10-14] Minox MinoColor 100 Pro (ref: 5338)](#2025-10-14-minox-minocolor-100-pro-ref-5338)
 - [[2025-10-14] Lomography Tiger (ref: 5b62)](#2025-10-14-lomography-tiger-ref-5b62)
@@ -420,6 +421,41 @@ Total scans : 712
 
 
 -----
+
+
+`UUID: e481850cf5ef471ca1c4d116ca79a5b8`↓
+
+<a href="./archive/00399_003.jpg" target="_blank">
+	<img src="./lowres/00399_003.jpg" alt="Sharan Color Negative Film 8x11mm film box outside" loading="lazy" width="500" height="265">
+</a>
+
+
+`UUID: b4abaf59baa1429c8085e9f20e115e73`↓
+
+<a href="./archive/00399_002.jpg" target="_blank">
+	<img src="./lowres/00399_002.jpg" alt="Sharan Color Negative Film 8x11mm film box outside" loading="lazy" width="500" height="221">
+</a>
+
+
+`UUID: 9bbddf2ace8b430c87ae445ede2a99f1`↓
+
+<a href="./archive/00399_001.jpg" target="_blank">
+	<img src="./lowres/00399_001.jpg" alt="Sharan Color Negative Film 8x11mm film box outside" loading="lazy" width="500" height="211">
+</a>
+
+#### [2025-10-14] Sharan Color Negative Film (ref: 4913)
+
+```
+Format: 8x11mm       |  Process : C-41    
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 30exp   
+Added : 2025-10-14   |  Author  : dekuNukem
+UUID  : 52bf2ed6baac480dbc32d05e569f4913
+```
+
+<a href="./archive/00399_000.jpg" target="_blank">
+	<img src="./lowres/00399_000.jpg" alt="Sharan Color Negative Film 8x11mm film box outside" loading="lazy" width="500" height="243">
+</a>
 
 
 `UUID: aff927d754b94e4a8e02b5db988feb9c`↓
@@ -8188,7 +8224,7 @@ UUID  : 36151f6b7cc045c2b43d7f5cbee41a5d
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     261   
+1     dekuNukem                     265   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @ellafridalindblom            46    

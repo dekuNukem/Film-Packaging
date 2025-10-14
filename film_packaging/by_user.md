@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 14 2025
-Unique items: 395
-Total scans : 712
+Unique items: 396
+Total scans : 716
 ```
 
 -----
@@ -377,6 +377,7 @@ Total scans : 712
 - [[dekuNukem] Rollei Infrared (ref: 4f54)](#dekunukem-rollei-infrared-ref-4f54)
 - [[dekuNukem] Rollei Retro 80S (ref: e6c0)](#dekunukem-rollei-retro-80s-ref-e6c0)
 - [[dekuNukem] Sharan Black-and-white Negative Film (ref: a884)](#dekunukem-sharan-black-and-white-negative-film-ref-a884)
+- [[dekuNukem] Sharan Color Negative Film (ref: 4913)](#dekunukem-sharan-color-negative-film-ref-4913)
 - [[dekuNukem] SupaSnaps Snappit Film (ref: c41b)](#dekunukem-supasnaps-snappit-film-ref-c41b)
 - [[dekuNukem] Svema Foto 64 (ref: 18f8)](#dekunukem-svema-foto-64-ref-18f8)
 - [[dekuNukem] Three Film Rolls 5207 (ref: 0292)](#dekunukem-three-film-rolls-5207-ref-0292)
@@ -7345,6 +7346,41 @@ Notes : ACMEL embossed on box
 	<img src="./lowres/00398_003.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="273">
 </a>
 
+#### [dekuNukem] Sharan Color Negative Film (ref: 4913)
+
+```
+Format: 8x11mm       |  Process : C-41    
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 30exp   
+Added : 2025-10-14   |  Author  : dekuNukem
+UUID  : 52bf2ed6baac480dbc32d05e569f4913
+```
+
+<a href="./archive/00399_000.jpg" target="_blank">
+	<img src="./lowres/00399_000.jpg" alt="Sharan Color Negative Film 8x11mm film box outside" loading="lazy" width="500" height="243">
+</a>
+
+
+`UUID: 9bbddf2ace8b430c87ae445ede2a99f1`↓
+
+<a href="./archive/00399_001.jpg" target="_blank">
+	<img src="./lowres/00399_001.jpg" alt="Sharan Color Negative Film 8x11mm film box outside" loading="lazy" width="500" height="211">
+</a>
+
+
+`UUID: b4abaf59baa1429c8085e9f20e115e73`↓
+
+<a href="./archive/00399_002.jpg" target="_blank">
+	<img src="./lowres/00399_002.jpg" alt="Sharan Color Negative Film 8x11mm film box outside" loading="lazy" width="500" height="221">
+</a>
+
+
+`UUID: e481850cf5ef471ca1c4d116ca79a5b8`↓
+
+<a href="./archive/00399_003.jpg" target="_blank">
+	<img src="./lowres/00399_003.jpg" alt="Sharan Color Negative Film 8x11mm film box outside" loading="lazy" width="500" height="265">
+</a>
+
 #### [dekuNukem] SupaSnaps Snappit Film (ref: c41b)
 
 ```
@@ -8188,7 +8224,7 @@ UUID  : e54ce68c797b4846b9aee3f5818ecb58
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     261   
+1     dekuNukem                     265   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @ellafridalindblom            46    

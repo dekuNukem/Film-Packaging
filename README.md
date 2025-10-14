@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Oct 14 2025
-Unique items: 395
-Total scans : 712
+Unique items: 396
+Total scans : 716
 ```
 
 Or Sort by...
@@ -53,7 +53,7 @@ Or Sort by...
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     261   
+1     dekuNukem                     265   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @ellafridalindblom            46    
@@ -97,6 +97,7 @@ Rank  Username                      Contributions
   - dekuNukem: Lomography Tiger
   - dekuNukem: Minox MinoColor 100 Pro
   - dekuNukem: Sharan Black-and-white Negative Film
+  - dekuNukem: Sharan Color Negative Film
 
 2025-10-13
   - @recycling.film: Ilford HP5 Plus
