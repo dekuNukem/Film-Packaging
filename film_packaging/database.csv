@@ -315,8 +315,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 181,1,film_box_outside,Kodak,High Contrast Copy Film,35mm,Unknown,BW,197009,1755194037,ace929801046101bbd7bbb8e6ba49521,c18af4a6fe504e6bab7aaa0cdccb02a1,00181_001.jpg,Camera.Riley,,Bulk Roll,100ft
 181,2,film_box_outside,Kodak,High Contrast Copy Film,35mm,Unknown,BW,197009,1755194041,529de222396dd55f8645c725eab850de,312da1e64f2f416f9b394ea7e4e34e86,00181_002.jpg,Camera.Riley,,Bulk Roll,100ft
 181,3,film_box_outside,Kodak,High Contrast Copy Film,35mm,Unknown,BW,197009,1755194043,ecb999a097faaf287f0575a0c87a8246,917cdc09fdc9435c90eb61f470def180,00181_003.jpg,Camera.Riley,,Bulk Roll,100ft
-182,0,film_box_outside,Adox,HR 50,35mm,50,BW,202707,1755093421,b7f57209010598503486db95b11f39db,a504b8da97b642908de921d1053d4da7,00182_000.jpg,Pelicram,,Single Pack,36exp
-182,1,film_box_inside,Adox,HR 50,35mm,50,BW,202707,1755093423,5dd0288ea160ba95f7d09a70547de0ca,f5e745758ed2479ea297dce9275f3508,00182_001.jpg,Pelicram,,Single Pack,36exp
+182,0,film_box_outside,ADOX,HR 50,35mm,50,BW,202707,1755093421,b7f57209010598503486db95b11f39db,a504b8da97b642908de921d1053d4da7,00182_000.jpg,Pelicram,,Single Pack,36exp
+182,1,film_box_inside,ADOX,HR 50,35mm,50,BW,202707,1755093423,5dd0288ea160ba95f7d09a70547de0ca,f5e745758ed2479ea297dce9275f3508,00182_001.jpg,Pelicram,,Single Pack,36exp
 183,0,film_box_outside,Foma,Fomapan 200,35mm,200,BW,202805,1755093471,feea4b4b2c4e7fbbcb06fbe7d2c1520e,840026a068594c3389b34374204f60ee,00183_000.jpg,Pelicram,,Bulk Roll,100ft
 184,0,film_box_outside,Kirkland Signature,Color Print Film,35mm,200,C-41,200212,1755216174,80213b1194dc15451594b5ca99ace0ce,7f4a0fbd6be7494ab097f7f816700441,00184_000.jpg,@ad.astra.per.aspera.1894,,Single Pack,24exp
 185,0,film_box_outside,Mutascan,Kodak Vision3 500T/5219,35mm,500,ECN-2,Unknown,1755220808,4493b252fe0635c93c273daa49c174f0,e4d2af3a69704509a07e108fcb4b5150,00185_000.jpg,Pelicram,,Bulk Roll,100ft
@@ -681,7 +681,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 388,1,film_box_leaflet,Walgreen,All Purpose Film,620,80,BW,196701,1760305862,d0e976e795dbbbdb062e2da5f0f164ba,8bbe0c722eb84948bcdd35b683dca54a,00388_001.jpg,dekuNukem,,Single Pack,N/A
 388,2,film_box_leaflet,Walgreen,All Purpose Film,620,80,BW,196701,1760305866,dc81a9dd83209bd94599860fb0521e75,b41e3644f2f6434c807ce95df8c37561,00388_002.jpg,dekuNukem,,Single Pack,N/A
 388,3,film_cartridge,Walgreen,All Purpose Film,620,80,BW,196701,1760305871,5583bc3388d82eb25508de26b1faff61,5162cf96587443cead98bdbef85a229c,00388_003.jpg,dekuNukem,,Single Pack,N/A
-389,0,film_box_outside,Gevaert,Superchrome,Unknown,Unknown,BW,194701,1760306266,7a605843fbe185a64e71574b0dd9383d,5b7606bb875b4930bafa486534e6af27,00389_000.jpg,dekuNukem,,Single Pack,8exp
+389,0,film_box_outside,Gevaert,Superchrome,127,Unknown,BW,194701,1760306266,7a605843fbe185a64e71574b0dd9383d,5b7606bb875b4930bafa486534e6af27,00389_000.jpg,dekuNukem,,Single Pack,8exp
 390,0,film_box_outside,Kodak,Kodacolor,35mm,32,C-22,195910,1760306498,ec58ea4174e4f73e4612ec40d492b31a,1c8fa96c92974edaa7cbf69b3e535d25,00390_000.jpg,dekuNukem,,Single Pack,20exp
 390,1,film_box_leaflet,Kodak,Kodacolor,35mm,32,C-22,195910,1760306499,3672f1a2f15e97b10e9e5014d73b391c,ce169d8c6e8c49b883bf3c1149128398,00390_001.jpg,dekuNukem,,Single Pack,20exp
 390,2,film_box_leaflet,Kodak,Kodacolor,35mm,32,C-22,195910,1760306503,808ef18abfe42d441a62766eccd04208,bf8091dc91444595bf58e0b11e2c051c,00390_002.jpg,dekuNukem,,Single Pack,20exp
@@ -715,3 +715,9 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 399,1,film_box_outside,Sharan,Color Negative Film,8x11mm,400,C-41,Unknown,1760441699,ef7fa9f79bcaeb1cd83c4cfb875bbe44,9bbddf2ace8b430c87ae445ede2a99f1,00399_001.jpg,dekuNukem,,Single Pack,30exp
 399,2,film_box_outside,Sharan,Color Negative Film,8x11mm,400,C-41,Unknown,1760441703,e2caebe236a344ab0587991b1dff839a,b4abaf59baa1429c8085e9f20e115e73,00399_002.jpg,dekuNukem,,Single Pack,30exp
 399,3,film_box_outside,Sharan,Color Negative Film,8x11mm,400,C-41,Unknown,1760441705,77650235bd96ef55446b87da9d7d511e,e481850cf5ef471ca1c4d116ca79a5b8,00399_003.jpg,dekuNukem,,Single Pack,30exp
+400,0,film_box_outside,Rollei,RPX 25,35mm,25,BW,202707,1760573217,03774f510fa2ec2541699a86f6fc68c9,38e7af3c3ff34abeb7ae0badd310b14c,00400_000.jpg,nick,,Single Pack,36exp
+400,1,film_box_inside,Rollei,RPX 25,35mm,25,BW,202707,1760573219,fa94c5d8cb80ea4c254c4a2f271a101c,60733808afbf441da74f97bdd47b9733,00400_001.jpg,nick,,Single Pack,36exp
+401,0,film_box_outside,ADOX,CMS 20 II Pro,35mm,20,BW,202710,1760573283,00d33b494984bf28b8e077e86435fa58,092f316a772246018a8de96ebd380bea,00401_000.jpg,nick,,Single Pack,36exp
+401,1,film_box_inside,ADOX,CMS 20 II Pro,35mm,20,BW,202710,1760573289,a0a9b285749a9bd587f7fe2d25624279,d255a9a922f64c6da3cb801c7906b63b,00401_001.jpg,nick,,Single Pack,36exp
+402,0,film_box_outside,ADOX,CHS 100 II,35mm,100,BW,202707,1760573331,676b894e8dad7722e4ea86e1955e4e47,edb6848680f443f2a73b70b13c028adf,00402_000.jpg,nick,,Single Pack,36exp
+402,1,film_box_inside,ADOX,CHS 100 II,35mm,100,BW,202707,1760573334,7ce2a52de1ee88296abc457a59a77cae,e08156a89f334bd785397e498b9710f7,00402_001.jpg,nick,,Single Pack,36exp

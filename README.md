@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 14 2025
-Unique items: 396
-Total scans : 716
+Last Updated: Oct 16 2025
+Unique items: 399
+Total scans : 722
 ```
 
 Or Sort by...
@@ -76,22 +76,28 @@ Rank  Username                      Contributions
 21    @filmfotofella                7     
 22    lt_col_tall                   6     
 23    GreatGizmo74                  6     
-24    Kraksen                       5     
-25    Henry Gunn                    4     
-26    u/ReeeSchmidtyWerber          4     
-27    TheSelousScout                3     
-28    @sachynmital                  3     
-29    @seklerek                     2     
-30    @ftfilmphotos                 2     
-31    Yrikonchik                    1     
-32    @ad.astra.per.aspera.1894     1     
-33    Aoi Yuki                      1     
-34    lemoniter                     1     
+24    nick                          6     
+25    Kraksen                       5     
+26    Henry Gunn                    4     
+27    u/ReeeSchmidtyWerber          4     
+28    TheSelousScout                3     
+29    @sachynmital                  3     
+30    @seklerek                     2     
+31    @ftfilmphotos                 2     
+32    Yrikonchik                    1     
+33    @ad.astra.per.aspera.1894     1     
+34    Aoi Yuki                      1     
+35    lemoniter                     1     
 ```
 
 ## Recent Activities
 
 ```
+2025-10-16
+  - nick: ADOX CHS 100 II
+  - nick: ADOX CMS 20 II Pro
+  - nick: Rollei RPX 25
+
 2025-10-14
   - dekuNukem: Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras
   - dekuNukem: Lomography Tiger
@@ -125,10 +131,6 @@ Rank  Username                      Contributions
   - Pelicram: Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping
   - Pelicram: Kodak Panatomic-X
   - Pelicram: Kodak Plus-X
-
-2025-10-06
-  - @Hol.m35: Agfa Vista Plus 200
-  - @Hol.m35: Fujifilm Superia Premium 400
 ```
 
 ## Disclaimer

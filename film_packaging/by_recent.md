@@ -15,13 +15,16 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 14 2025
-Unique items: 396
-Total scans : 716
+Last Updated: Oct 16 2025
+Unique items: 399
+Total scans : 722
 ```
 
 -----
 
+- [[2025-10-16] ADOX CHS 100 II (ref: 8adf)](#2025-10-16-adox-chs-100-ii-ref-8adf)
+- [[2025-10-16] ADOX CMS 20 II Pro (ref: 0bea)](#2025-10-16-adox-cms-20-ii-pro-ref-0bea)
+- [[2025-10-16] Rollei RPX 25 (ref: b14c)](#2025-10-16-rollei-rpx-25-ref-b14c)
 - [[2025-10-14] Sharan Color Negative Film (ref: 4913)](#2025-10-14-sharan-color-negative-film-ref-4913)
 - [[2025-10-14] Sharan Black-and-white Negative Film (ref: a884)](#2025-10-14-sharan-black-and-white-negative-film-ref-a884)
 - [[2025-10-14] Minox MinoColor 100 Pro (ref: 5338)](#2025-10-14-minox-minocolor-100-pro-ref-5338)
@@ -249,7 +252,7 @@ Total scans : 716
 - [[2025-08-14] Kodak Professional Microfilm Type I (ref: a444)](#2025-08-14-kodak-professional-microfilm-type-i-ref-a444)
 - [[2025-08-14] Fujifilm Fujichrome 64T Type II Professional (ref: 74a1)](#2025-08-14-fujifilm-fujichrome-64t-type-ii-professional-ref-74a1)
 - [[2025-08-13] Foma Fomapan 200 (ref: 60ee)](#2025-08-13-foma-fomapan-200-ref-60ee)
-- [[2025-08-13] Adox HR 50 (ref: 4da7)](#2025-08-13-adox-hr-50-ref-4da7)
+- [[2025-08-13] ADOX HR 50 (ref: 4da7)](#2025-08-13-adox-hr-50-ref-4da7)
 - [[2025-08-08] Ilford XP2 Super (ref: 622a)](#2025-08-08-ilford-xp2-super-ref-622a)
 - [[2025-08-08] Rollei Retro 80S (ref: e23d)](#2025-08-08-rollei-retro-80s-ref-e23d)
 - [[2025-08-07] Reto Amber D400 (ref: 08ad)](#2025-08-07-reto-amber-d400-ref-08ad)
@@ -421,6 +424,69 @@ Total scans : 716
 
 
 -----
+
+
+`UUID: e08156a89f334bd785397e498b9710f7`↓
+
+<a href="./archive/00402_001.jpg" target="_blank">
+	<img src="./lowres/00402_001.jpg" alt="ADOX CHS 100 II 35mm film box inside" loading="lazy" width="429" height="499">
+</a>
+
+#### [2025-10-16] ADOX CHS 100 II (ref: 8adf)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2027-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-16   |  Author  : nick    
+UUID  : edb6848680f443f2a73b70b13c028adf
+```
+
+<a href="./archive/00402_000.jpg" target="_blank">
+	<img src="./lowres/00402_000.jpg" alt="ADOX CHS 100 II 35mm film box outside" loading="lazy" width="429" height="499">
+</a>
+
+
+`UUID: d255a9a922f64c6da3cb801c7906b63b`↓
+
+<a href="./archive/00401_001.jpg" target="_blank">
+	<img src="./lowres/00401_001.jpg" alt="ADOX CMS 20 II Pro 35mm film box inside" loading="lazy" width="418" height="500">
+</a>
+
+#### [2025-10-16] ADOX CMS 20 II Pro (ref: 0bea)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 20           |  Expiry  : 2027-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-16   |  Author  : nick    
+UUID  : 092f316a772246018a8de96ebd380bea
+```
+
+<a href="./archive/00401_000.jpg" target="_blank">
+	<img src="./lowres/00401_000.jpg" alt="ADOX CMS 20 II Pro 35mm film box outside" loading="lazy" width="418" height="500">
+</a>
+
+
+`UUID: 60733808afbf441da74f97bdd47b9733`↓
+
+<a href="./archive/00400_001.jpg" target="_blank">
+	<img src="./lowres/00400_001.jpg" alt="Rollei RPX 25 35mm film box inside" loading="lazy" width="500" height="394">
+</a>
+
+#### [2025-10-16] Rollei RPX 25 (ref: b14c)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 25           |  Expiry  : 2027-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-16   |  Author  : nick    
+UUID  : 38e7af3c3ff34abeb7ae0badd310b14c
+```
+
+<a href="./archive/00400_000.jpg" target="_blank">
+	<img src="./lowres/00400_000.jpg" alt="Rollei RPX 25 35mm film box outside" loading="lazy" width="500" height="394">
+</a>
 
 
 `UUID: e481850cf5ef471ca1c4d116ca79a5b8`↓
@@ -727,7 +793,7 @@ UUID  : 1c8fa96c92974edaa7cbf69b3e535d25
 #### [2025-10-12] Gevaert Superchrome (ref: af27)
 
 ```
-Format: Unknown      |  Process : BW      
+Format: 127          |  Process : BW      
 ISO   : Unknown      |  Expiry  : 1947-01 
 Type  : Single Pack  |  Quantity: 8exp    
 Added : 2025-10-12   |  Author  : dekuNukem
@@ -735,7 +801,7 @@ UUID  : 5b7606bb875b4930bafa486534e6af27
 ```
 
 <a href="./archive/00389_000.jpg" target="_blank">
-	<img src="./lowres/00389_000.jpg" alt="Gevaert Superchrome Unknown film box outside" loading="lazy" width="500" height="346">
+	<img src="./lowres/00389_000.jpg" alt="Gevaert Superchrome 127 film box outside" loading="lazy" width="500" height="346">
 </a>
 
 
@@ -4943,10 +5009,10 @@ UUID  : 840026a068594c3389b34374204f60ee
 `UUID: f5e745758ed2479ea297dce9275f3508`↓
 
 <a href="./archive/00182_001.jpg" target="_blank">
-	<img src="./lowres/00182_001.jpg" alt="Adox HR 50 35mm film box inside" loading="lazy" width="457" height="500">
+	<img src="./lowres/00182_001.jpg" alt="ADOX HR 50 35mm film box inside" loading="lazy" width="457" height="500">
 </a>
 
-#### [2025-08-13] Adox HR 50 (ref: 4da7)
+#### [2025-08-13] ADOX HR 50 (ref: 4da7)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -4957,7 +5023,7 @@ UUID  : a504b8da97b642908de921d1053d4da7
 ```
 
 <a href="./archive/00182_000.jpg" target="_blank">
-	<img src="./lowres/00182_000.jpg" alt="Adox HR 50 35mm film box outside" loading="lazy" width="436" height="500">
+	<img src="./lowres/00182_000.jpg" alt="ADOX HR 50 35mm film box outside" loading="lazy" width="436" height="500">
 </a>
 
 
@@ -8247,17 +8313,18 @@ Rank  Username                      Contributions
 21    @filmfotofella                7     
 22    lt_col_tall                   6     
 23    GreatGizmo74                  6     
-24    Kraksen                       5     
-25    Henry Gunn                    4     
-26    u/ReeeSchmidtyWerber          4     
-27    TheSelousScout                3     
-28    @sachynmital                  3     
-29    @seklerek                     2     
-30    @ftfilmphotos                 2     
-31    Yrikonchik                    1     
-32    @ad.astra.per.aspera.1894     1     
-33    Aoi Yuki                      1     
-34    lemoniter                     1     
+24    nick                          6     
+25    Kraksen                       5     
+26    Henry Gunn                    4     
+27    u/ReeeSchmidtyWerber          4     
+28    TheSelousScout                3     
+29    @sachynmital                  3     
+30    @seklerek                     2     
+31    @ftfilmphotos                 2     
+32    Yrikonchik                    1     
+33    @ad.astra.per.aspera.1894     1     
+34    Aoi Yuki                      1     
+35    lemoniter                     1     
 ```
 
 ## Questions or Comments?

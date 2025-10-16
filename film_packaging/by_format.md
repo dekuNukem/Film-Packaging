@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 14 2025
-Unique items: 396
-Total scans : 716
+Last Updated: Oct 16 2025
+Unique items: 399
+Total scans : 722
 ```
 
 -----
@@ -132,6 +132,7 @@ Total scans : 716
 - [[126] Kodak Kodacolor-X (ref: 5302)](#126-kodak-kodacolor-x-ref-5302)
 - [[126] SupaSnaps Snappit Film (ref: c41b)](#126-supasnaps-snappit-film-ref-c41b)
 - [[127] Agfa Isopan ISS (ref: 5ba6)](#127-agfa-isopan-iss-ref-5ba6)
+- [[127] Gevaert Superchrome (ref: af27)](#127-gevaert-superchrome-ref-af27)
 - [[127] Reflx Lab Pro 100 (ref: 8bec)](#127-reflx-lab-pro-100-ref-8bec)
 - [[127] Shanghai GP3 (ref: 52aa)](#127-shanghai-gp3-ref-52aa)
 - [[12x16.5cm] Defender Extra Fast Panchromatic (ref: 348b)](#12x165cm-defender-extra-fast-panchromatic-ref-348b)
@@ -148,8 +149,10 @@ Total scans : 716
 - [[220] Kodak Ektachrome 100 Plus (ref: 0183)](#220-kodak-ektachrome-100-plus-ref-0183)
 - [[220] Kodak Ektacolor Pro Gold (ref: c3f8)](#220-kodak-ektacolor-pro-gold-ref-c3f8)
 - [[220] Reflx Lab Pro 100 (ref: 1311)](#220-reflx-lab-pro-100-ref-1311)
+- [[35mm] ADOX CHS 100 II (ref: 8adf)](#35mm-adox-chs-100-ii-ref-8adf)
+- [[35mm] ADOX CMS 20 II Pro (ref: 0bea)](#35mm-adox-cms-20-ii-pro-ref-0bea)
+- [[35mm] ADOX HR 50 (ref: 4da7)](#35mm-adox-hr-50-ref-4da7)
 - [[35mm] ADOX KB17 (ref: 2c95)](#35mm-adox-kb17-ref-2c95)
-- [[35mm] Adox HR 50 (ref: 4da7)](#35mm-adox-hr-50-ref-4da7)
 - [[35mm] Agfa APX (ref: 5276)](#35mm-agfa-apx-ref-5276)
 - [[35mm] Agfa AgfaColor CT 18 (ref: 1fef)](#35mm-agfa-agfacolor-ct-18-ref-1fef)
 - [[35mm] Agfa AgfaColor ULTRA 50 (ref: 4faa)](#35mm-agfa-agfacolor-ultra-50-ref-4faa)
@@ -359,6 +362,7 @@ Total scans : 716
 - [[35mm] Robot NR-Cassette (ref: bc7a)](#35mm-robot-nr-cassette-ref-bc7a)
 - [[35mm] Rollei Infrared (ref: eae2)](#35mm-rollei-infrared-ref-eae2)
 - [[35mm] Rollei RPX 100 (ref: 7cd1)](#35mm-rollei-rpx-100-ref-7cd1)
+- [[35mm] Rollei RPX 25 (ref: b14c)](#35mm-rollei-rpx-25-ref-b14c)
 - [[35mm] Rollei RPX 400 (ref: c097)](#35mm-rollei-rpx-400-ref-c097)
 - [[35mm] Rollei RPX 400 (ref: 2155)](#35mm-rollei-rpx-400-ref-2155)
 - [[35mm] Rollei Retro 80S (ref: e23d)](#35mm-rollei-retro-80s-ref-e23d)
@@ -417,7 +421,6 @@ Total scans : 716
 - [[Polavision] Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)](#polavision-polaroid-polavision-phototape-land-cassette-type-608-ref-90b9)
 - [[Super 8] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)](#super-8-kodak-ektachrome-160-movie-film-type-a-ref-8f62)
 - [[Super 8] Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping (ref: c143)](#super-8-kodak-kodachrome-40-movie-film-type-a-for-post-process-sound-striping-ref-c143)
-- [[Unknown] Gevaert Superchrome (ref: af27)](#unknown-gevaert-superchrome-ref-af27)
 
 
 -----
@@ -2767,6 +2770,20 @@ UUID  : ab1d4ea5f512444e92d82e4610c75ba6
 	<img src="./lowres/00357_000.jpg" alt="Agfa Isopan ISS 127 film box outside" loading="lazy" width="500" height="412">
 </a>
 
+#### [127] Gevaert Superchrome (ref: af27)
+
+```
+Format: 127          |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1947-01 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-10-12   |  Author  : dekuNukem
+UUID  : 5b7606bb875b4930bafa486534e6af27
+```
+
+<a href="./archive/00389_000.jpg" target="_blank">
+	<img src="./lowres/00389_000.jpg" alt="Gevaert Superchrome 127 film box outside" loading="lazy" width="500" height="346">
+</a>
+
 #### [127] Reflx Lab Pro 100 (ref: 8bec)
 
 ```
@@ -3068,6 +3085,69 @@ UUID  : f7bc85a093744f3084883876ecc51311
 	<img src="./lowres/00195_000.jpg" alt="Reflx Lab Pro 100 220 film box outside" loading="lazy" width="500" height="413">
 </a>
 
+#### [35mm] ADOX CHS 100 II (ref: 8adf)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2027-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-16   |  Author  : nick    
+UUID  : edb6848680f443f2a73b70b13c028adf
+```
+
+<a href="./archive/00402_000.jpg" target="_blank">
+	<img src="./lowres/00402_000.jpg" alt="ADOX CHS 100 II 35mm film box outside" loading="lazy" width="429" height="499">
+</a>
+
+
+`UUID: e08156a89f334bd785397e498b9710f7`↓
+
+<a href="./archive/00402_001.jpg" target="_blank">
+	<img src="./lowres/00402_001.jpg" alt="ADOX CHS 100 II 35mm film box inside" loading="lazy" width="429" height="499">
+</a>
+
+#### [35mm] ADOX CMS 20 II Pro (ref: 0bea)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 20           |  Expiry  : 2027-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-16   |  Author  : nick    
+UUID  : 092f316a772246018a8de96ebd380bea
+```
+
+<a href="./archive/00401_000.jpg" target="_blank">
+	<img src="./lowres/00401_000.jpg" alt="ADOX CMS 20 II Pro 35mm film box outside" loading="lazy" width="418" height="500">
+</a>
+
+
+`UUID: d255a9a922f64c6da3cb801c7906b63b`↓
+
+<a href="./archive/00401_001.jpg" target="_blank">
+	<img src="./lowres/00401_001.jpg" alt="ADOX CMS 20 II Pro 35mm film box inside" loading="lazy" width="418" height="500">
+</a>
+
+#### [35mm] ADOX HR 50 (ref: 4da7)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 50           |  Expiry  : 2027-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-08-13   |  Author  : Pelicram
+UUID  : a504b8da97b642908de921d1053d4da7
+```
+
+<a href="./archive/00182_000.jpg" target="_blank">
+	<img src="./lowres/00182_000.jpg" alt="ADOX HR 50 35mm film box outside" loading="lazy" width="436" height="500">
+</a>
+
+
+`UUID: f5e745758ed2479ea297dce9275f3508`↓
+
+<a href="./archive/00182_001.jpg" target="_blank">
+	<img src="./lowres/00182_001.jpg" alt="ADOX HR 50 35mm film box inside" loading="lazy" width="457" height="500">
+</a>
+
 #### [35mm] ADOX KB17 (ref: 2c95)
 
 ```
@@ -3087,27 +3167,6 @@ UUID  : 14047842e1a641268bfd4d01fcf02c95
 
 <a href="./archive/00065_001.jpg" target="_blank">
 	<img src="./lowres/00065_001.jpg" alt="ADOX KB17 35mm film box inside" loading="lazy" width="500" height="418">
-</a>
-
-#### [35mm] Adox HR 50 (ref: 4da7)
-
-```
-Format: 35mm         |  Process : BW      
-ISO   : 50           |  Expiry  : 2027-07 
-Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-08-13   |  Author  : Pelicram
-UUID  : a504b8da97b642908de921d1053d4da7
-```
-
-<a href="./archive/00182_000.jpg" target="_blank">
-	<img src="./lowres/00182_000.jpg" alt="Adox HR 50 35mm film box outside" loading="lazy" width="436" height="500">
-</a>
-
-
-`UUID: f5e745758ed2479ea297dce9275f3508`↓
-
-<a href="./archive/00182_001.jpg" target="_blank">
-	<img src="./lowres/00182_001.jpg" alt="Adox HR 50 35mm film box inside" loading="lazy" width="457" height="500">
 </a>
 
 #### [35mm] Agfa APX (ref: 5276)
@@ -7024,6 +7083,27 @@ UUID  : 201ce1e1831a483ab7fd569cc50e7cd1
 	<img src="./lowres/00258_001.jpg" alt="Rollei RPX 100 35mm film box inside" loading="lazy" width="454" height="500">
 </a>
 
+#### [35mm] Rollei RPX 25 (ref: b14c)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 25           |  Expiry  : 2027-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-16   |  Author  : nick    
+UUID  : 38e7af3c3ff34abeb7ae0badd310b14c
+```
+
+<a href="./archive/00400_000.jpg" target="_blank">
+	<img src="./lowres/00400_000.jpg" alt="Rollei RPX 25 35mm film box outside" loading="lazy" width="500" height="394">
+</a>
+
+
+`UUID: 60733808afbf441da74f97bdd47b9733`↓
+
+<a href="./archive/00400_001.jpg" target="_blank">
+	<img src="./lowres/00400_001.jpg" alt="Rollei RPX 25 35mm film box inside" loading="lazy" width="500" height="394">
+</a>
+
 #### [35mm] Rollei RPX 400 (ref: c097)
 
 ```
@@ -8201,20 +8281,6 @@ UUID  : 4f8758001bd74040b9e5a4bc6506c143
 	<img src="./lowres/00381_005.jpg" alt="Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping Super 8 film box processing envelope" loading="lazy" width="500" height="236">
 </a>
 
-#### [Unknown] Gevaert Superchrome (ref: af27)
-
-```
-Format: Unknown      |  Process : BW      
-ISO   : Unknown      |  Expiry  : 1947-01 
-Type  : Single Pack  |  Quantity: 8exp    
-Added : 2025-10-12   |  Author  : dekuNukem
-UUID  : 5b7606bb875b4930bafa486534e6af27
-```
-
-<a href="./archive/00389_000.jpg" target="_blank">
-	<img src="./lowres/00389_000.jpg" alt="Gevaert Superchrome Unknown film box outside" loading="lazy" width="500" height="346">
-</a>
-
 ## Want to Contribute?
 
 [Check out the guidelines!](../contribution_guide.md)
@@ -8247,17 +8313,18 @@ Rank  Username                      Contributions
 21    @filmfotofella                7     
 22    lt_col_tall                   6     
 23    GreatGizmo74                  6     
-24    Kraksen                       5     
-25    Henry Gunn                    4     
-26    u/ReeeSchmidtyWerber          4     
-27    TheSelousScout                3     
-28    @sachynmital                  3     
-29    @seklerek                     2     
-30    @ftfilmphotos                 2     
-31    Yrikonchik                    1     
-32    @ad.astra.per.aspera.1894     1     
-33    Aoi Yuki                      1     
-34    lemoniter                     1     
+24    nick                          6     
+25    Kraksen                       5     
+26    Henry Gunn                    4     
+27    u/ReeeSchmidtyWerber          4     
+28    TheSelousScout                3     
+29    @sachynmital                  3     
+30    @seklerek                     2     
+31    @ftfilmphotos                 2     
+32    Yrikonchik                    1     
+33    @ad.astra.per.aspera.1894     1     
+34    Aoi Yuki                      1     
+35    lemoniter                     1     
 ```
 
 ## Questions or Comments?

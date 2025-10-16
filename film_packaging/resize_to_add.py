@@ -7,6 +7,17 @@ DEFAULT_JPEG_QUALITY = 80
 
 target_dir = './to_add'
 
+def rename_jpeg_to_jpg(dir_path):
+    for filename in os.listdir(dir_path):
+        if filename.lower().endswith('.jpeg'):
+            old_path = os.path.join(dir_path, filename)
+            new_filename = filename[: -5] + '.jpg'  # remove '.jpeg', add '.jpg'
+            new_path = os.path.join(dir_path, new_filename)
+            os.rename(old_path, new_path)
+            print(f"Renamed: {filename} -> {new_filename}")
+
+rename_jpeg_to_jpg(target_dir)
+
 image_files = [
     os.path.join(target_dir, f)
     for f in os.listdir(target_dir)

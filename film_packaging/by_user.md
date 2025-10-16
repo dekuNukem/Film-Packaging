@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 14 2025
-Unique items: 396
-Total scans : 716
+Last Updated: Oct 16 2025
+Unique items: 399
+Total scans : 722
 ```
 
 -----
@@ -190,7 +190,7 @@ Total scans : 716
 - [[Nano_Burger] Kodak Rapid Process Copy Film (ref: e66e)](#nano_burger-kodak-rapid-process-copy-film-ref-e66e)
 - [[Nano_Burger] Kodak TMAX P3200 (ref: 1dff)](#nano_burger-kodak-tmax-p3200-ref-1dff)
 - [[Nano_Burger] Kodak Technical Pan (ref: f4cf)](#nano_burger-kodak-technical-pan-ref-f4cf)
-- [[Pelicram] Adox HR 50 (ref: 4da7)](#pelicram-adox-hr-50-ref-4da7)
+- [[Pelicram] ADOX HR 50 (ref: 4da7)](#pelicram-adox-hr-50-ref-4da7)
 - [[Pelicram] Agfa Agfacolor Umkehr-Ultra T (ref: 01db)](#pelicram-agfa-agfacolor-umkehr-ultra-t-ref-01db)
 - [[Pelicram] Agfa Isopan ISS (ref: 75fa)](#pelicram-agfa-isopan-iss-ref-75fa)
 - [[Pelicram] Agfa Isopan ISS (ref: b9d7)](#pelicram-agfa-isopan-iss-ref-b9d7)
@@ -405,6 +405,9 @@ Total scans : 716
 - [[lt_col_tall] CatLABS X Film 80 MKII (ref: bcd1)](#lt_col_tall-catlabs-x-film-80-mkii-ref-bcd1)
 - [[lt_col_tall] Reflx Lab 250D (ref: 1a3e)](#lt_col_tall-reflx-lab-250d-ref-1a3e)
 - [[lt_col_tall] Reflx Lab Pro 100 (ref: 1311)](#lt_col_tall-reflx-lab-pro-100-ref-1311)
+- [[nick] ADOX CHS 100 II (ref: 8adf)](#nick-adox-chs-100-ii-ref-8adf)
+- [[nick] ADOX CMS 20 II Pro (ref: 0bea)](#nick-adox-cms-20-ii-pro-ref-0bea)
+- [[nick] Rollei RPX 25 (ref: b14c)](#nick-rollei-rpx-25-ref-b14c)
 - [[toader] Kodak Ektachrome 100 Plus (ref: 5d9f)](#toader-kodak-ektachrome-100-plus-ref-5d9f)
 - [[toader] Kodak Ektachrome E100 (ref: ae10)](#toader-kodak-ektachrome-e100-ref-ae10)
 - [[toader] Kodak Ektachrome Elite 100 (ref: 26ef)](#toader-kodak-ektachrome-elite-100-ref-26ef)
@@ -3425,7 +3428,7 @@ UUID  : e65b4252384141028ee037892c6bf4cf
 	<img src="./lowres/00106_001.jpg" alt="Kodak Technical Pan 35mm film box inside" loading="lazy" width="315" height="500">
 </a>
 
-#### [Pelicram] Adox HR 50 (ref: 4da7)
+#### [Pelicram] ADOX HR 50 (ref: 4da7)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -3436,14 +3439,14 @@ UUID  : a504b8da97b642908de921d1053d4da7
 ```
 
 <a href="./archive/00182_000.jpg" target="_blank">
-	<img src="./lowres/00182_000.jpg" alt="Adox HR 50 35mm film box outside" loading="lazy" width="436" height="500">
+	<img src="./lowres/00182_000.jpg" alt="ADOX HR 50 35mm film box outside" loading="lazy" width="436" height="500">
 </a>
 
 
 `UUID: f5e745758ed2479ea297dce9275f3508`↓
 
 <a href="./archive/00182_001.jpg" target="_blank">
-	<img src="./lowres/00182_001.jpg" alt="Adox HR 50 35mm film box inside" loading="lazy" width="457" height="500">
+	<img src="./lowres/00182_001.jpg" alt="ADOX HR 50 35mm film box inside" loading="lazy" width="457" height="500">
 </a>
 
 #### [Pelicram] Agfa Agfacolor Umkehr-Ultra T (ref: 01db)
@@ -5532,7 +5535,7 @@ UUID  : c3d9e51d22e241f69133be30d5a00683
 #### [dekuNukem] Gevaert Superchrome (ref: af27)
 
 ```
-Format: Unknown      |  Process : BW      
+Format: 127          |  Process : BW      
 ISO   : Unknown      |  Expiry  : 1947-01 
 Type  : Single Pack  |  Quantity: 8exp    
 Added : 2025-10-12   |  Author  : dekuNukem
@@ -5540,7 +5543,7 @@ UUID  : 5b7606bb875b4930bafa486534e6af27
 ```
 
 <a href="./archive/00389_000.jpg" target="_blank">
-	<img src="./lowres/00389_000.jpg" alt="Gevaert Superchrome Unknown film box outside" loading="lazy" width="500" height="346">
+	<img src="./lowres/00389_000.jpg" alt="Gevaert Superchrome 127 film box outside" loading="lazy" width="500" height="346">
 </a>
 
 #### [dekuNukem] Harman Phoenix (ref: 637f)
@@ -7928,6 +7931,69 @@ UUID  : f7bc85a093744f3084883876ecc51311
 	<img src="./lowres/00195_000.jpg" alt="Reflx Lab Pro 100 220 film box outside" loading="lazy" width="500" height="413">
 </a>
 
+#### [nick] ADOX CHS 100 II (ref: 8adf)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2027-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-16   |  Author  : nick    
+UUID  : edb6848680f443f2a73b70b13c028adf
+```
+
+<a href="./archive/00402_000.jpg" target="_blank">
+	<img src="./lowres/00402_000.jpg" alt="ADOX CHS 100 II 35mm film box outside" loading="lazy" width="429" height="499">
+</a>
+
+
+`UUID: e08156a89f334bd785397e498b9710f7`↓
+
+<a href="./archive/00402_001.jpg" target="_blank">
+	<img src="./lowres/00402_001.jpg" alt="ADOX CHS 100 II 35mm film box inside" loading="lazy" width="429" height="499">
+</a>
+
+#### [nick] ADOX CMS 20 II Pro (ref: 0bea)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 20           |  Expiry  : 2027-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-16   |  Author  : nick    
+UUID  : 092f316a772246018a8de96ebd380bea
+```
+
+<a href="./archive/00401_000.jpg" target="_blank">
+	<img src="./lowres/00401_000.jpg" alt="ADOX CMS 20 II Pro 35mm film box outside" loading="lazy" width="418" height="500">
+</a>
+
+
+`UUID: d255a9a922f64c6da3cb801c7906b63b`↓
+
+<a href="./archive/00401_001.jpg" target="_blank">
+	<img src="./lowres/00401_001.jpg" alt="ADOX CMS 20 II Pro 35mm film box inside" loading="lazy" width="418" height="500">
+</a>
+
+#### [nick] Rollei RPX 25 (ref: b14c)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 25           |  Expiry  : 2027-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-16   |  Author  : nick    
+UUID  : 38e7af3c3ff34abeb7ae0badd310b14c
+```
+
+<a href="./archive/00400_000.jpg" target="_blank">
+	<img src="./lowres/00400_000.jpg" alt="Rollei RPX 25 35mm film box outside" loading="lazy" width="500" height="394">
+</a>
+
+
+`UUID: 60733808afbf441da74f97bdd47b9733`↓
+
+<a href="./archive/00400_001.jpg" target="_blank">
+	<img src="./lowres/00400_001.jpg" alt="Rollei RPX 25 35mm film box inside" loading="lazy" width="500" height="394">
+</a>
+
 #### [toader] Kodak Ektachrome 100 Plus (ref: 5d9f)
 
 ```
@@ -8247,17 +8313,18 @@ Rank  Username                      Contributions
 21    @filmfotofella                7     
 22    lt_col_tall                   6     
 23    GreatGizmo74                  6     
-24    Kraksen                       5     
-25    Henry Gunn                    4     
-26    u/ReeeSchmidtyWerber          4     
-27    TheSelousScout                3     
-28    @sachynmital                  3     
-29    @seklerek                     2     
-30    @ftfilmphotos                 2     
-31    Yrikonchik                    1     
-32    @ad.astra.per.aspera.1894     1     
-33    Aoi Yuki                      1     
-34    lemoniter                     1     
+24    nick                          6     
+25    Kraksen                       5     
+26    Henry Gunn                    4     
+27    u/ReeeSchmidtyWerber          4     
+28    TheSelousScout                3     
+29    @sachynmital                  3     
+30    @seklerek                     2     
+31    @ftfilmphotos                 2     
+32    Yrikonchik                    1     
+33    @ad.astra.per.aspera.1894     1     
+34    Aoi Yuki                      1     
+35    lemoniter                     1     
 ```
 
 ## Questions or Comments?
