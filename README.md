@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 16 2025
-Unique items: 399
-Total scans : 722
+Last Updated: Oct 17 2025
+Unique items: 417
+Total scans : 757
 ```
 
 Or Sort by...
@@ -56,9 +56,9 @@ Rank  Username                      Contributions
 1     dekuNukem                     265   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
-4     @ellafridalindblom            46    
-5     The Compartmentalist          25    
-6     @recycling.film               21    
+4     @recycling.film               56    
+5     @ellafridalindblom            46    
+6     The Compartmentalist          25    
 7     fine-seat                     19    
 8     Camera.Riley                  19    
 9     Nano_Burger                   18    
@@ -93,6 +93,26 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-10-17
+  - @recycling.film: ADOX KB 17
+  - @recycling.film: Agfa AgfaChrome 50 S
+  - @recycling.film: Agfa Agfacolor Negative Film Special CNS
+  - @recycling.film: Foma Fomapan F17
+  - @recycling.film: Fujifilm Fujicolor Super HG
+  - @recycling.film: GAF Color Slide Film
+  - @recycling.film: Ilford FP4
+  - @recycling.film: Ilford XP2
+  - @recycling.film: Kodak Ektachrome 64
+  - @recycling.film: Kodak Super-XX
+  - @recycling.film: Kodak Tri-X Pan
+  - @recycling.film: Nishika Color Print Film
+  - @recycling.film: ORWO Chrom UT18
+  - @recycling.film: Perfect Photo Inc. Perfect-Pan Film
+  - @recycling.film: Perutz Peromnia 21
+  - @recycling.film: Perutz Perpantic Film
+  - @recycling.film: Svema Foto 32
+  - @recycling.film: Svema Foto 64
+
 2025-10-16
   - nick: ADOX CHS 100 II
   - nick: ADOX CMS 20 II Pro
@@ -121,16 +141,6 @@ Rank  Username                      Contributions
   - dekuNukem: Svema Foto 64
   - dekuNukem: Walgreen All Purpose Film
   - kaimon: Ilford XP2 Super
-
-2025-10-07
-  - Pelicram: Agfa Agfacolor Umkehr-Ultra T
-  - Pelicram: Agfa Isopan ISS
-  - Pelicram: Filmfabrik Köpenick Dekopan Feinkorn
-  - Pelicram: Ilford FP3
-  - Pelicram: Ilford FP3 Series 2
-  - Pelicram: Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping
-  - Pelicram: Kodak Panatomic-X
-  - Pelicram: Kodak Plus-X
 ```
 
 ## Disclaimer

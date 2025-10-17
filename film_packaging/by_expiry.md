@@ -15,30 +15,35 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 16 2025
-Unique items: 399
-Total scans : 722
+Last Updated: Oct 17 2025
+Unique items: 417
+Total scans : 757
 ```
 
 -----
 
 - [[1941] Agfa Fine-Grain Plenachrome (ref: e5d4)](#1941-agfa-fine-grain-plenachrome-ref-e5d4)
+- [[1943] Kodak Super-XX (ref: 07c8)](#1943-kodak-super-xx-ref-07c8)
 - [[1946] Agfa Isopan FF (ref: 3700)](#1946-agfa-isopan-ff-ref-3700)
 - [[1947] Gevaert Superchrome (ref: af27)](#1947-gevaert-superchrome-ref-af27)
+- [[1947] Perutz Perpantic Film (ref: 58b1)](#1947-perutz-perpantic-film-ref-58b1)
 - [[1956] Ansco Plenachrome (ref: 3c6c)](#1956-ansco-plenachrome-ref-3c6c)
 - [[1956] Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)](#1956-filmfabrik-köpenick-dekopan-feinkorn-ref-1bb7)
 - [[1957] Kodak Plus-X (ref: b867)](#1957-kodak-plus-x-ref-b867)
 - [[1958] Kodak Plus-X (ref: 7958)](#1958-kodak-plus-x-ref-7958)
 - [[1958] Kodak Panatomic-X (ref: 7ed1)](#1958-kodak-panatomic-x-ref-7ed1)
+- [[1958] ADOX KB 17 (ref: 88a5)](#1958-adox-kb-17-ref-88a5)
 - [[1959] Ilford FP3 (ref: 84f7)](#1959-ilford-fp3-ref-84f7)
 - [[1959] Kodak Kodacolor (ref: 5d25)](#1959-kodak-kodacolor-ref-5d25)
 - [[1960] Ilford FP3 Series 2 (ref: 03e7)](#1960-ilford-fp3-series-2-ref-03e7)
+- [[1961] Perutz Peromnia 21 (ref: fa4a)](#1961-perutz-peromnia-21-ref-fa4a)
 - [[1961] VEB Fotochemische Werke Berlin Dekopan Feinkorn (ref: dba0)](#1961-veb-fotochemische-werke-berlin-dekopan-feinkorn-ref-dba0)
 - [[1961] VEB Fotochemische Werke Berlin Dekopan Super S (ref: 1620)](#1961-veb-fotochemische-werke-berlin-dekopan-super-s-ref-1620)
 - [[1961] Ricoh Golden "16" (ref: c02c)](#1961-ricoh-golden-16-ref-c02c)
 - [[1963] Kodak High Speed Ektachrome (ref: ce7f)](#1963-kodak-high-speed-ektachrome-ref-ce7f)
 - [[1963] Agfa Isopan ISS (ref: 75fa)](#1963-agfa-isopan-iss-ref-75fa)
 - [[1964] ADOX KB17 (ref: 2c95)](#1964-adox-kb17-ref-2c95)
+- [[1964] Perfect Photo Inc. Perfect-Pan Film (ref: c214)](#1964-perfect-photo-inc-perfect-pan-film-ref-c214)
 - [[1967] Walgreen All Purpose Film (ref: 541b)](#1967-walgreen-all-purpose-film-ref-541b)
 - [[1967] Agfa AgfaColor CT 18 (ref: 1fef)](#1967-agfa-agfacolor-ct-18-ref-1fef)
 - [[1969] Foton Fotopan F (ref: 0ad6)](#1969-foton-fotopan-f-ref-0ad6)
@@ -63,6 +68,7 @@ Total scans : 722
 - [[1975] Kodak Kodacolor-X (ref: 5302)](#1975-kodak-kodacolor-x-ref-5302)
 - [[1975] PrinzColor Colour Negative Film (ref: 448c)](#1975-prinzcolor-colour-negative-film-ref-448c)
 - [[1976] Film Corporation of America TriFCA 35 (ref: 8f0a)](#1976-film-corporation-of-america-trifca-35-ref-8f0a)
+- [[1976] Agfa Agfacolor Negative Film Special CNS (ref: 9b03)](#1976-agfa-agfacolor-negative-film-special-cns-ref-9b03)
 - [[1976] Film Corporation of America TriFCA 120 (ref: d024)](#1976-film-corporation-of-america-trifca-120-ref-d024)
 - [[1976] Kodak Panatomic-X (ref: 8d69)](#1976-kodak-panatomic-x-ref-8d69)
 - [[1977] Kodak High Speed Ektachrome (ref: b8f8)](#1977-kodak-high-speed-ektachrome-ref-b8f8)
@@ -73,18 +79,23 @@ Total scans : 722
 - [[1978] Sakura Sakuracolor II (ref: 4f7d)](#1978-sakura-sakuracolor-ii-ref-4f7d)
 - [[1978] Kodak Kodacolor II (ref: 4108)](#1978-kodak-kodacolor-ii-ref-4108)
 - [[1978] Kodak Ektachrome 200 (ref: f372)](#1978-kodak-ektachrome-200-ref-f372)
+- [[1979] GAF Color Slide Film (ref: 6815)](#1979-gaf-color-slide-film-ref-6815)
 - [[1979] Kodak Ektachrome 64 (ref: 07c0)](#1979-kodak-ektachrome-64-ref-07c0)
 - [[1979] Kodak Kodachrome 64 (ref: 3145)](#1979-kodak-kodachrome-64-ref-3145)
+- [[1979] Kodak Tri-X Pan (ref: 85e9)](#1979-kodak-tri-x-pan-ref-85e9)
 - [[1980] Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)](#1980-polaroid-polavision-phototape-land-cassette-type-608-ref-90b9)
 - [[1980] Kodak Ektachrome 400 (ref: 2b94)](#1980-kodak-ektachrome-400-ref-2b94)
 - [[1980] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)](#1980-kodak-ektachrome-160-movie-film-type-a-ref-8f62)
 - [[1981] Kodak Kodacolor 400 (ref: 9e4c)](#1981-kodak-kodacolor-400-ref-9e4c)
+- [[1981] Agfa AgfaChrome 50 S (ref: 71a8)](#1981-agfa-agfachrome-50-s-ref-71a8)
 - [[1981] Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping (ref: c143)](#1981-kodak-kodachrome-40-movie-film-type-a-for-post-process-sound-striping-ref-c143)
 - [[1982] Herzog Duxopan (ref: a9ad)](#1982-herzog-duxopan-ref-a9ad)
+- [[1983] Ilford FP4 (ref: b2f0)](#1983-ilford-fp4-ref-b2f0)
 - [[1983] Kodak Kodachrome 25 (ref: 8833)](#1983-kodak-kodachrome-25-ref-8833)
 - [[1983] Kodak Kodacolor II (ref: 7310)](#1983-kodak-kodacolor-ii-ref-7310)
 - [[1985] Konica Konica Color II (ref: fb5b)](#1985-konica-konica-color-ii-ref-fb5b)
 - [[1986] Fujifilm Fujicolor HR100 (ref: 23c5)](#1986-fujifilm-fujicolor-hr100-ref-23c5)
+- [[1986] Kodak Ektachrome 64 (ref: 02cc)](#1986-kodak-ektachrome-64-ref-02cc)
 - [[1986] Kodak Tri-X Pan (ref: f201)](#1986-kodak-tri-x-pan-ref-f201)
 - [[1987] Kodak Kodacolor VR (ref: 035f)](#1987-kodak-kodacolor-vr-ref-035f)
 - [[1987] Fujifilm Fujicolor HR 1600 (ref: 1d39)](#1987-fujifilm-fujicolor-hr-1600-ref-1d39)
@@ -96,6 +107,7 @@ Total scans : 722
 - [[1990] Fujifilm Fujicolor Super HR (ref: aaa0)](#1990-fujifilm-fujicolor-super-hr-ref-aaa0)
 - [[1990] Kodak High Speed Infrared (ref: 4294)](#1990-kodak-high-speed-infrared-ref-4294)
 - [[1990] Kodak Ektachrome 400 (ref: 3c96)](#1990-kodak-ektachrome-400-ref-3c96)
+- [[1991] Foma Fomapan F17 (ref: a10e)](#1991-foma-fomapan-f17-ref-a10e)
 - [[1991] Konica Infrared 750nm (ref: e696)](#1991-konica-infrared-750nm-ref-e696)
 - [[1991] ORWO Chrom UT21 (ref: 3fd5)](#1991-orwo-chrom-ut21-ref-3fd5)
 - [[1991] Tasma OCh 50 (ref: 5c43)](#1991-tasma-och-50-ref-5c43)
@@ -111,15 +123,19 @@ Total scans : 722
 - [[1992] Polaroid PolaChrome 35mm (ref: 3b60)](#1992-polaroid-polachrome-35mm-ref-3b60)
 - [[1992] Kodak Ektachrome 200 (ref: b21e)](#1992-kodak-ektachrome-200-ref-b21e)
 - [[1992] Fujifilm Fujichrome Professional 100D (ref: 439d)](#1992-fujifilm-fujichrome-professional-100d-ref-439d)
+- [[1992] Fujifilm Fujicolor Super HG (ref: feb7)](#1992-fujifilm-fujicolor-super-hg-ref-feb7)
 - [[1992] ORWO NP 20 SL (ref: b16c)](#1992-orwo-np-20-sl-ref-b16c)
 - [[1993] Konica Infrared 750nm (ref: 6b0e)](#1993-konica-infrared-750nm-ref-6b0e)
 - [[1993] Ificolor Super FG HQ 200 (ref: ff86)](#1993-ificolor-super-fg-hq-200-ref-ff86)
 - [[1993] SupaSnaps Snappit Film (ref: c41b)](#1993-supasnaps-snappit-film-ref-c41b)
+- [[1993] Svema Foto 32 (ref: d1fd)](#1993-svema-foto-32-ref-d1fd)
 - [[1993] Alfo ALFOcolor PR-G (ref: 94b9)](#1993-alfo-alfocolor-pr-g-ref-94b9)
 - [[1993] Polaroid PolaChrome 35mm (ref: b202)](#1993-polaroid-polachrome-35mm-ref-b202)
 - [[1993] Kodak Gold II (ref: 61d0)](#1993-kodak-gold-ii-ref-61d0)
+- [[1993] Nishika Color Print Film (ref: baeb)](#1993-nishika-color-print-film-ref-baeb)
 - [[1994] Fujifilm Fujicolor Super HG (ref: ee94)](#1994-fujifilm-fujicolor-super-hg-ref-ee94)
 - [[1994] York Photo Labs DXG 200 (ref: 4bf8)](#1994-york-photo-labs-dxg-200-ref-4bf8)
+- [[1994] Ilford XP2 (ref: 7d94)](#1994-ilford-xp2-ref-7d94)
 - [[1994] Kodak Ektachrome 100HC (ref: 3ab9)](#1994-kodak-ektachrome-100hc-ref-3ab9)
 - [[1994] Kodak Ektachrome 100HC (ref: 775a)](#1994-kodak-ektachrome-100hc-ref-775a)
 - [[1995] Kodak Technical Pan (ref: f4cf)](#1995-kodak-technical-pan-ref-f4cf)
@@ -413,12 +429,14 @@ Total scans : 722
 - [[Unknown] Kodak Tri-X 400 Pro (ref: f05c)](#unknown-kodak-tri-x-400-pro-ref-f05c)
 - [[Unknown] Minox MinoColor 100 Pro (ref: 5338)](#unknown-minox-minocolor-100-pro-ref-5338)
 - [[Unknown] Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#unknown-mutascan-kodak-vision3-500t5219-ref-5150)
+- [[Unknown] ORWO Chrom UT18 (ref: 81b7)](#unknown-orwo-chrom-ut18-ref-81b7)
 - [[Unknown] Perutz Superomnia (ref: c90d)](#unknown-perutz-superomnia-ref-c90d)
 - [[Unknown] Phöbus-Platten Sheet Film (ref: d505)](#unknown-phöbus-platten-sheet-film-ref-d505)
 - [[Unknown] Robot NR-Cassette (ref: bc7a)](#unknown-robot-nr-cassette-ref-bc7a)
 - [[Unknown] Sharan Black-and-white Negative Film (ref: a884)](#unknown-sharan-black-and-white-negative-film-ref-a884)
 - [[Unknown] Sharan Color Negative Film (ref: 4913)](#unknown-sharan-color-negative-film-ref-4913)
 - [[Unknown] Space Cat Film Mars 250D (ref: 5027)](#unknown-space-cat-film-mars-250d-ref-5027)
+- [[Unknown] Svema Foto 64 (ref: 10cb)](#unknown-svema-foto-64-ref-10cb)
 - [[Unknown] Walkens Speed 400 (ref: 740f)](#unknown-walkens-speed-400-ref-740f)
 - [[Unkonwn] Agfa Trockenplatten (ref: 41a8)](#unkonwn-agfa-trockenplatten-ref-41a8)
 
@@ -444,6 +462,20 @@ UUID  : 66a105cd605748d78884e5c305a4e5d4
 
 <a href="./archive/00179_001.jpg" target="_blank">
 	<img src="./lowres/00179_001.jpg" alt="Agfa Fine-Grain Plenachrome 35mm film box outside" loading="lazy" width="479" height="499">
+</a>
+
+#### [1943] Kodak Super-XX (ref: 07c8)
+
+```
+Format: 616          |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1943-01 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-10-17   |  Author  : @recycling.film
+UUID  : ec96eb9587cf4485a00f2af323eb07c8
+```
+
+<a href="./archive/00411_000.jpg" target="_blank">
+	<img src="./lowres/00411_000.jpg" alt="Kodak Super-XX 616 film box outside" loading="lazy" width="496" height="499">
 </a>
 
 #### [1946] Agfa Isopan FF (ref: 3700)
@@ -472,6 +504,20 @@ UUID  : 5b7606bb875b4930bafa486534e6af27
 
 <a href="./archive/00389_000.jpg" target="_blank">
 	<img src="./lowres/00389_000.jpg" alt="Gevaert Superchrome 127 film box outside" loading="lazy" width="500" height="346">
+</a>
+
+#### [1947] Perutz Perpantic Film (ref: 58b1)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 40           |  Expiry  : 1947-12 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-17   |  Author  : @recycling.film
+UUID  : 795c66ef065f442ab27e4ffb9de758b1
+```
+
+<a href="./archive/00420_000.jpg" target="_blank">
+	<img src="./lowres/00420_000.jpg" alt="Perutz Perpantic Film 120 film box outside" loading="lazy" width="424" height="500">
 </a>
 
 #### [1956] Ansco Plenachrome (ref: 3c6c)
@@ -544,6 +590,20 @@ UUID  : a4dcee02869a4274b81b453160ca7ed1
 	<img src="./lowres/00378_000.jpg" alt="Kodak Panatomic-X 35mm film cartridge" loading="lazy" width="500" height="500">
 </a>
 
+#### [1958] ADOX KB 17 (ref: 88a5)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 32           |  Expiry  : 1958-07 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-10-17   |  Author  : @recycling.film
+UUID  : ee054df9bf0f4ad09ef142c01c2788a5
+```
+
+<a href="./archive/00416_000.jpg" target="_blank">
+	<img src="./lowres/00416_000.jpg" alt="ADOX KB 17 35mm film box outside" loading="lazy" width="500" height="433">
+</a>
+
 #### [1959] Ilford FP3 (ref: 84f7)
 
 ```
@@ -612,6 +672,20 @@ UUID  : bb411872cc384c19b35debf6662503e7
 
 <a href="./archive/00375_000.jpg" target="_blank">
 	<img src="./lowres/00375_000.jpg" alt="Ilford FP3 Series 2 35mm film cartridge" loading="lazy" width="500" height="500">
+</a>
+
+#### [1961] Perutz Peromnia 21 (ref: fa4a)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 1961-03 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-10-17   |  Author  : @recycling.film
+UUID  : 05554da8891c470facbddfd5fe35fa4a
+```
+
+<a href="./archive/00419_000.jpg" target="_blank">
+	<img src="./lowres/00419_000.jpg" alt="Perutz Peromnia 21 35mm film box outside" loading="lazy" width="500" height="479">
 </a>
 
 #### [1961] VEB Fotochemische Werke Berlin Dekopan Feinkorn (ref: dba0)
@@ -738,6 +812,34 @@ UUID  : 14047842e1a641268bfd4d01fcf02c95
 
 <a href="./archive/00065_001.jpg" target="_blank">
 	<img src="./lowres/00065_001.jpg" alt="ADOX KB17 35mm film box inside" loading="lazy" width="500" height="418">
+</a>
+
+#### [1964] Perfect Photo Inc. Perfect-Pan Film (ref: c214)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 125          |  Expiry  : 1964-10 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-17   |  Author  : @recycling.film
+UUID  : 4eb2d274d28c41339ad3bd385476c214
+```
+
+<a href="./archive/00412_000.jpg" target="_blank">
+	<img src="./lowres/00412_000.jpg" alt="Perfect Photo Inc. Perfect-Pan Film 120 film box outside" loading="lazy" width="500" height="423">
+</a>
+
+
+`UUID: da91308a6c3a42d4b6665e82ee0ab24c`↓
+
+<a href="./archive/00412_001.jpg" target="_blank">
+	<img src="./lowres/00412_001.jpg" alt="Perfect Photo Inc. Perfect-Pan Film 120 film box leaflet" loading="lazy" width="347" height="500">
+</a>
+
+
+`UUID: 8ceb71b4c7204eda9fe3eac689142058`↓
+
+<a href="./archive/00412_002.jpg" target="_blank">
+	<img src="./lowres/00412_002.jpg" alt="Perfect Photo Inc. Perfect-Pan Film 120 film box leaflet" loading="lazy" width="353" height="500">
 </a>
 
 #### [1967] Walgreen All Purpose Film (ref: 541b)
@@ -1349,6 +1451,34 @@ UUID  : a3346f80db3b4032a2c69665f7448f0a
 	<img src="./lowres/00362_005.jpg" alt="Film Corporation of America TriFCA 35 35mm film box processing envelope" loading="lazy" width="266" height="500">
 </a>
 
+#### [1976] Agfa Agfacolor Negative Film Special CNS (ref: 9b03)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 80           |  Expiry  : 1976-09 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-10-17   |  Author  : @recycling.film
+UUID  : 1cf0e26c5894469ebdbd94e104c89b03
+```
+
+<a href="./archive/00418_000.jpg" target="_blank">
+	<img src="./lowres/00418_000.jpg" alt="Agfa Agfacolor Negative Film Special CNS 35mm film box outside" loading="lazy" width="500" height="479">
+</a>
+
+
+`UUID: 75c37ed61c3d4b04be3c432a2a80c21e`↓
+
+<a href="./archive/00418_001.jpg" target="_blank">
+	<img src="./lowres/00418_001.jpg" alt="Agfa Agfacolor Negative Film Special CNS 35mm film box leaflet" loading="lazy" width="500" height="353">
+</a>
+
+
+`UUID: 47363e4b17894d5d99a8c39dfdf981db`↓
+
+<a href="./archive/00418_002.jpg" target="_blank">
+	<img src="./lowres/00418_002.jpg" alt="Agfa Agfacolor Negative Film Special CNS 35mm film box leaflet" loading="lazy" width="500" height="365">
+</a>
+
 #### [1976] Film Corporation of America TriFCA 120 (ref: d024)
 
 ```
@@ -1644,6 +1774,20 @@ UUID  : fef4be09ea484eecb10a13282d18f372
 	<img src="./lowres/00261_002.jpg" alt="Kodak Ektachrome 200 126 film box leaflet" loading="lazy" width="483" height="500">
 </a>
 
+#### [1979] GAF Color Slide Film (ref: 6815)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 500          |  Expiry  : 1979-01 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-10-17   |  Author  : @recycling.film
+UUID  : b57e8c465ff94e02afa31d267b846815
+```
+
+<a href="./archive/00407_000.jpg" target="_blank">
+	<img src="./lowres/00407_000.jpg" alt="GAF Color Slide Film 35mm film cartridge" loading="lazy" width="386" height="500">
+</a>
+
 #### [1979] Kodak Ektachrome 64 (ref: 07c0)
 
 ```
@@ -1684,6 +1828,20 @@ UUID  : 68c945b76fc14ab699b944a3c7b93145
 
 <a href="./archive/00026_002.jpg" target="_blank">
 	<img src="./lowres/00026_002.jpg" alt="Kodak Kodachrome 64 110 film box processing envelope" loading="lazy" width="500" height="309">
+</a>
+
+#### [1979] Kodak Tri-X Pan (ref: 85e9)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 1979-12 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-10-17   |  Author  : @recycling.film
+UUID  : 09363ad5ddf84f67bb44ac27d17c85e9
+```
+
+<a href="./archive/00410_000.jpg" target="_blank">
+	<img src="./lowres/00410_000.jpg" alt="Kodak Tri-X Pan 35mm film box outside" loading="lazy" width="404" height="500">
 </a>
 
 #### [1980] Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)
@@ -1798,6 +1956,34 @@ UUID  : 3ef3252141a64ffe9d7e3fad745b9e4c
 	<img src="./lowres/00331_002.jpg" alt="Kodak Kodacolor 400 110 film box leaflet" loading="lazy" width="410" height="499">
 </a>
 
+#### [1981] Agfa AgfaChrome 50 S (ref: 71a8)
+
+```
+Format: 35mm         |  Process : AP41    
+ISO   : 50           |  Expiry  : 1981-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-17   |  Author  : @recycling.film
+UUID  : 364274d1357d458eacedde84db8a71a8
+```
+
+<a href="./archive/00417_000.jpg" target="_blank">
+	<img src="./lowres/00417_000.jpg" alt="Agfa AgfaChrome 50 S 35mm film box outside" loading="lazy" width="500" height="499">
+</a>
+
+
+`UUID: ad0043191aad463eafef428fdd9383d5`↓
+
+<a href="./archive/00417_001.jpg" target="_blank">
+	<img src="./lowres/00417_001.jpg" alt="Agfa AgfaChrome 50 S 35mm film box leaflet" loading="lazy" width="312" height="500">
+</a>
+
+
+`UUID: 92c015c82f4345438875b286887a584d`↓
+
+<a href="./archive/00417_002.jpg" target="_blank">
+	<img src="./lowres/00417_002.jpg" alt="Agfa AgfaChrome 50 S 35mm film box leaflet" loading="lazy" width="316" height="500">
+</a>
+
 #### [1981] Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping (ref: c143)
 
 ```
@@ -1859,6 +2045,20 @@ UUID  : 7ac665727691429d9ea1ec73ebe9a9ad
 
 <a href="./archive/00358_000.jpg" target="_blank">
 	<img src="./lowres/00358_000.jpg" alt="Herzog Duxopan 35mm film box outside" loading="lazy" width="500" height="486">
+</a>
+
+#### [1983] Ilford FP4 (ref: b2f0)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 125          |  Expiry  : 1983-02 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-10-17   |  Author  : @recycling.film
+UUID  : 68eb8a227e8b48358efc62cf7aabb2f0
+```
+
+<a href="./archive/00415_000.jpg" target="_blank">
+	<img src="./lowres/00415_000.jpg" alt="Ilford FP4 35mm film box outside" loading="lazy" width="431" height="500">
 </a>
 
 #### [1983] Kodak Kodachrome 25 (ref: 8833)
@@ -1929,6 +2129,35 @@ UUID  : 934f2484197d41c7a5467b92a9ea23c5
 
 <a href="./archive/00308_002.jpg" target="_blank">
 	<img src="./lowres/00308_002.jpg" alt="Fujifilm Fujicolor HR100 120 film box leaflet" loading="lazy" width="383" height="500">
+</a>
+
+#### [1986] Kodak Ektachrome 64 (ref: 02cc)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 64           |  Expiry  : 1986-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-17   |  Author  : @recycling.film
+UUID  : 61a248ee92404ad7bcf1a19adbf102cc
+Notes : EPR
+```
+
+<a href="./archive/00414_000.jpg" target="_blank">
+	<img src="./lowres/00414_000.jpg" alt="Kodak Ektachrome 64 35mm film box outside" loading="lazy" width="414" height="500">
+</a>
+
+
+`UUID: 66aac838de9b4f4091acb02215e8b890`↓
+
+<a href="./archive/00414_001.jpg" target="_blank">
+	<img src="./lowres/00414_001.jpg" alt="Kodak Ektachrome 64 35mm film box leaflet" loading="lazy" width="241" height="500">
+</a>
+
+
+`UUID: ee61648a19bd4eaea584f3931618f488`↓
+
+<a href="./archive/00414_002.jpg" target="_blank">
+	<img src="./lowres/00414_002.jpg" alt="Kodak Ektachrome 64 35mm film box leaflet" loading="lazy" width="231" height="500">
 </a>
 
 #### [1986] Kodak Tri-X Pan (ref: f201)
@@ -2195,6 +2424,34 @@ UUID  : 2330da9237ad4dbaac0028199f363c96
 
 <a href="./archive/00100_001.jpg" target="_blank">
 	<img src="./lowres/00100_001.jpg" alt="Kodak Ektachrome 400 35mm film box inside" loading="lazy" width="460" height="499">
+</a>
+
+#### [1991] Foma Fomapan F17 (ref: a10e)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 40           |  Expiry  : 1991-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-17   |  Author  : @recycling.film
+UUID  : 0315635e32bb4848aaa2fe65ac7aa10e
+```
+
+<a href="./archive/00413_000.jpg" target="_blank">
+	<img src="./lowres/00413_000.jpg" alt="Foma Fomapan F17 120 film box outside" loading="lazy" width="500" height="401">
+</a>
+
+
+`UUID: 3c4f8b9bb3e74d20b67ac3611475608f`↓
+
+<a href="./archive/00413_001.jpg" target="_blank">
+	<img src="./lowres/00413_001.jpg" alt="Foma Fomapan F17 120 film box leaflet" loading="lazy" width="362" height="500">
+</a>
+
+
+`UUID: 9db2e6deb48a408e8848fa333255036a`↓
+
+<a href="./archive/00413_002.jpg" target="_blank">
+	<img src="./lowres/00413_002.jpg" alt="Foma Fomapan F17 120 film box leaflet" loading="lazy" width="362" height="500">
 </a>
 
 #### [1991] Konica Infrared 750nm (ref: e696)
@@ -2589,6 +2846,27 @@ UUID  : 5dcdd19ddf654415b7eac69183e7439d
 	<img src="./lowres/00032_002.jpg" alt="Fujifilm Fujichrome Professional 100D 120 film box leaflet" loading="lazy" width="305" height="500">
 </a>
 
+#### [1992] Fujifilm Fujicolor Super HG (ref: feb7)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 1992-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-10-17   |  Author  : @recycling.film
+UUID  : 90ac1c8117ef41d291bedc89cc65feb7
+```
+
+<a href="./archive/00404_000.jpg" target="_blank">
+	<img src="./lowres/00404_000.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box outside" loading="lazy" width="416" height="500">
+</a>
+
+
+`UUID: d40e2c7220b94e2988936a7b4137a6cf`↓
+
+<a href="./archive/00404_001.jpg" target="_blank">
+	<img src="./lowres/00404_001.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box inside" loading="lazy" width="417" height="500">
+</a>
+
 #### [1992] ORWO NP 20 SL (ref: b16c)
 
 ```
@@ -2666,6 +2944,20 @@ UUID  : 1cf47ce82b58418f9e009b4f0121c41b
 	<img src="./lowres/00324_001.jpg" alt="SupaSnaps Snappit Film 126 film cartridge" loading="lazy" width="500" height="444">
 </a>
 
+#### [1993] Svema Foto 32 (ref: d1fd)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 32           |  Expiry  : 1993-07 
+Type  : Refill       |  Quantity: 36exp   
+Added : 2025-10-17   |  Author  : @recycling.film
+UUID  : 64289ff9fd4b4e589c5654a044dbd1fd
+```
+
+<a href="./archive/00405_000.jpg" target="_blank">
+	<img src="./lowres/00405_000.jpg" alt="Svema Foto 32 35mm film box outside" loading="lazy" width="500" height="446">
+</a>
+
 #### [1993] Alfo ALFOcolor PR-G (ref: 94b9)
 
 ```
@@ -2715,6 +3007,20 @@ UUID  : 63fd3851483d457d9fdc15b2d24461d0
 	<img src="./lowres/00253_001.jpg" alt="Kodak Gold II 35mm film box inside" loading="lazy" width="427" height="500">
 </a>
 
+#### [1993] Nishika Color Print Film (ref: baeb)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1993-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-17   |  Author  : @recycling.film
+UUID  : c8f31c7a1adf423bbc4d35eae399baeb
+```
+
+<a href="./archive/00406_000.jpg" target="_blank">
+	<img src="./lowres/00406_000.jpg" alt="Nishika Color Print Film 35mm film box outside" loading="lazy" width="500" height="499">
+</a>
+
 #### [1994] Fujifilm Fujicolor Super HG (ref: ee94)
 
 ```
@@ -2748,6 +3054,34 @@ UUID  : 46037fb6c55244b6ae47c55d0e454bf8
 
 <a href="./archive/00051_000.jpg" target="_blank">
 	<img src="./lowres/00051_000.jpg" alt="York Photo Labs DXG 200 35mm film box outside" loading="lazy" width="500" height="500">
+</a>
+
+#### [1994] Ilford XP2 (ref: 7d94)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 1994-10 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-10-17   |  Author  : @recycling.film
+UUID  : bc6e58d62eb34ad6a54ea8d4ac877d94
+```
+
+<a href="./archive/00409_000.jpg" target="_blank">
+	<img src="./lowres/00409_000.jpg" alt="Ilford XP2 35mm film box outside" loading="lazy" width="445" height="500">
+</a>
+
+
+`UUID: bdd3a188431042dabb560e85287b517a`↓
+
+<a href="./archive/00409_001.jpg" target="_blank">
+	<img src="./lowres/00409_001.jpg" alt="Ilford XP2 35mm film box leaflet" loading="lazy" width="500" height="358">
+</a>
+
+
+`UUID: 94aea5ecf4ab4e74b8e7205d7912c232`↓
+
+<a href="./archive/00409_002.jpg" target="_blank">
+	<img src="./lowres/00409_002.jpg" alt="Ilford XP2 35mm film box leaflet" loading="lazy" width="500" height="347">
 </a>
 
 #### [1994] Kodak Ektachrome 100HC (ref: 3ab9)
@@ -8119,6 +8453,48 @@ UUID  : e4d2af3a69704509a07e108fcb4b5150
 	<img src="./lowres/00185_000.jpg" alt="Mutascan Kodak Vision3 500T/5219 35mm film box outside" loading="lazy" width="475" height="500">
 </a>
 
+#### [Unknown] ORWO Chrom UT18 (ref: 81b7)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 50           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-17   |  Author  : @recycling.film
+UUID  : d82a8047531f4e4bbdfe4c0bb95c81b7
+```
+
+<a href="./archive/00408_000.jpg" target="_blank">
+	<img src="./lowres/00408_000.jpg" alt="ORWO Chrom UT18 35mm film box outside" loading="lazy" width="488" height="500">
+</a>
+
+
+`UUID: 1515034bddc345419da08ea6a497ee34`↓
+
+<a href="./archive/00408_001.jpg" target="_blank">
+	<img src="./lowres/00408_001.jpg" alt="ORWO Chrom UT18 35mm film box leaflet" loading="lazy" width="343" height="499">
+</a>
+
+
+`UUID: 062fdd558f6c48fda2979f72c7443cad`↓
+
+<a href="./archive/00408_002.jpg" target="_blank">
+	<img src="./lowres/00408_002.jpg" alt="ORWO Chrom UT18 35mm film box leaflet" loading="lazy" width="306" height="500">
+</a>
+
+
+`UUID: acc4b02a5b2d422ebda7149636e817b3`↓
+
+<a href="./archive/00408_003.jpg" target="_blank">
+	<img src="./lowres/00408_003.jpg" alt="ORWO Chrom UT18 35mm film box processing envelope" loading="lazy" width="500" height="321">
+</a>
+
+
+`UUID: 437046f79d2141bfb2af8247bc1a6ba3`↓
+
+<a href="./archive/00408_004.jpg" target="_blank">
+	<img src="./lowres/00408_004.jpg" alt="ORWO Chrom UT18 35mm film box processing envelope" loading="lazy" width="500" height="308">
+</a>
+
 #### [Unknown] Perutz Superomnia (ref: c90d)
 
 ```
@@ -8246,6 +8622,20 @@ UUID  : 1595b93966854178a03bc6d0de705027
 	<img src="./lowres/00227_000.jpg" alt="Space Cat Film Mars 250D 35mm film box outside" loading="lazy" width="500" height="362">
 </a>
 
+#### [Unknown] Svema Foto 64 (ref: 10cb)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 64           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-17   |  Author  : @recycling.film
+UUID  : e783964d8b4f48e8bd12d7d2c3c510cb
+```
+
+<a href="./archive/00403_000.jpg" target="_blank">
+	<img src="./lowres/00403_000.jpg" alt="Svema Foto 64 35mm film box outside" loading="lazy" width="500" height="465">
+</a>
+
 #### [Unknown] Walkens Speed 400 (ref: 740f)
 
 ```
@@ -8293,9 +8683,9 @@ Rank  Username                      Contributions
 1     dekuNukem                     265   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
-4     @ellafridalindblom            46    
-5     The Compartmentalist          25    
-6     @recycling.film               21    
+4     @recycling.film               56    
+5     @ellafridalindblom            46    
+6     The Compartmentalist          25    
 7     fine-seat                     19    
 8     Camera.Riley                  19    
 9     Nano_Burger                   18    

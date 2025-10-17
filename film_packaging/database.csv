@@ -721,3 +721,38 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 401,1,film_box_inside,ADOX,CMS 20 II Pro,35mm,20,BW,202710,1760573289,a0a9b285749a9bd587f7fe2d25624279,d255a9a922f64c6da3cb801c7906b63b,00401_001.jpg,nick,,Single Pack,36exp
 402,0,film_box_outside,ADOX,CHS 100 II,35mm,100,BW,202707,1760573331,676b894e8dad7722e4ea86e1955e4e47,edb6848680f443f2a73b70b13c028adf,00402_000.jpg,nick,,Single Pack,36exp
 402,1,film_box_inside,ADOX,CHS 100 II,35mm,100,BW,202707,1760573334,7ce2a52de1ee88296abc457a59a77cae,e08156a89f334bd785397e498b9710f7,00402_001.jpg,nick,,Single Pack,36exp
+403,0,film_box_outside,Svema,Foto 64,35mm,64,BW,Unknown,1760697295,f074fc25641e43830bc1094db2ac8675,e783964d8b4f48e8bd12d7d2c3c510cb,00403_000.jpg,@recycling.film,,Single Pack,36exp
+404,0,film_box_outside,Fujifilm,Fujicolor Super HG,35mm,400,C-41,199212,1760697365,9f2279443d587980c9364bfea3a34632,90ac1c8117ef41d291bedc89cc65feb7,00404_000.jpg,@recycling.film,,Single Pack,24exp
+404,1,film_box_inside,Fujifilm,Fujicolor Super HG,35mm,400,C-41,199212,1760697366,3ecb0b3594768d6025d8d33c8b60b448,d40e2c7220b94e2988936a7b4137a6cf,00404_001.jpg,@recycling.film,,Single Pack,24exp
+405,0,film_box_outside,Svema,Foto 32,35mm,32,BW,199307,1760697633,12f5d31745c68c9c9fc7e0c29f5ec929,64289ff9fd4b4e589c5654a044dbd1fd,00405_000.jpg,@recycling.film,,Refill,36exp
+406,0,film_box_outside,Nishika,Color Print Film,35mm,100,C-41,199312,1760697742,2a5a3caace822e238c465a2a28ea7b93,c8f31c7a1adf423bbc4d35eae399baeb,00406_000.jpg,@recycling.film,,Single Pack,36exp
+407,0,film_cartridge,GAF,Color Slide Film,35mm,500,Unknown,197901,1760697843,d8177988f4f70468bf0f4970fa61f5d5,b57e8c465ff94e02afa31d267b846815,00407_000.jpg,@recycling.film,,Single Pack,20exp
+408,0,film_box_outside,ORWO,Chrom UT18,35mm,50,Unknown,Unknown,1760698227,a669553f6fb9efb54d6fba4b4235e51f,d82a8047531f4e4bbdfe4c0bb95c81b7,00408_000.jpg,@recycling.film,,Single Pack,36exp
+408,1,film_box_leaflet,ORWO,Chrom UT18,35mm,50,Unknown,Unknown,1760698230,4397a7d2fd3c51695e394da9795d42e1,1515034bddc345419da08ea6a497ee34,00408_001.jpg,@recycling.film,,Single Pack,36exp
+408,2,film_box_leaflet,ORWO,Chrom UT18,35mm,50,Unknown,Unknown,1760698232,45c539d3aa101ccd46610183666a682d,062fdd558f6c48fda2979f72c7443cad,00408_002.jpg,@recycling.film,,Single Pack,36exp
+408,3,film_box_processing_envelope,ORWO,Chrom UT18,35mm,50,Unknown,Unknown,1760698234,5782dbbc009e5deaec752329e5ac2800,acc4b02a5b2d422ebda7149636e817b3,00408_003.jpg,@recycling.film,,Single Pack,36exp
+408,4,film_box_processing_envelope,ORWO,Chrom UT18,35mm,50,Unknown,Unknown,1760698237,7bec9440e18c3c73eed0d3bd2f013446,437046f79d2141bfb2af8247bc1a6ba3,00408_004.jpg,@recycling.film,,Single Pack,36exp
+409,0,film_box_outside,Ilford,XP2,35mm,400,C-41,199410,1760698707,de6e6a9bcc39473443e7dccb4b3907ed,bc6e58d62eb34ad6a54ea8d4ac877d94,00409_000.jpg,@recycling.film,,Single Pack,20exp
+409,1,film_box_leaflet,Ilford,XP2,35mm,400,C-41,199410,1760698709,e422f41d415342fbd85b38b9686576fc,bdd3a188431042dabb560e85287b517a,00409_001.jpg,@recycling.film,,Single Pack,20exp
+409,2,film_box_leaflet,Ilford,XP2,35mm,400,C-41,199410,1760698963,247d051115148904f66cb07149bce580,94aea5ecf4ab4e74b8e7205d7912c232,00409_002.jpg,@recycling.film,,Single Pack,20exp
+410,0,film_box_outside,Kodak,Tri-X Pan,35mm,400,BW,197912,1760705132,b68268d589f4aacd8b75989608a19b77,09363ad5ddf84f67bb44ac27d17c85e9,00410_000.jpg,@recycling.film,,Single Pack,20exp
+411,0,film_box_outside,Kodak,Super-XX,616,Unknown,BW,194301,1760705321,dbc1dcb4318753624e9b492999e68a5d,ec96eb9587cf4485a00f2af323eb07c8,00411_000.jpg,@recycling.film,,Single Pack,8exp
+412,0,film_box_outside,Perfect Photo Inc.,Perfect-Pan Film,120,125,BW,196410,1760705549,345b3bde8eac4b0e283c2c99552c5db8,4eb2d274d28c41339ad3bd385476c214,00412_000.jpg,@recycling.film,,Single Pack,N/A
+412,1,film_box_leaflet,Perfect Photo Inc.,Perfect-Pan Film,120,125,BW,196410,1760705556,b619c600c5011d1cf640b17515874fe8,da91308a6c3a42d4b6665e82ee0ab24c,00412_001.jpg,@recycling.film,,Single Pack,N/A
+412,2,film_box_leaflet,Perfect Photo Inc.,Perfect-Pan Film,120,125,BW,196410,1760705558,e41a9ee362515720eccefdd8310b9e0f,8ceb71b4c7204eda9fe3eac689142058,00412_002.jpg,@recycling.film,,Single Pack,N/A
+413,0,film_box_outside,Foma,Fomapan F17,120,40,BW,199101,1760705891,5545ad4d2ba4ce102602c9c777d036a4,0315635e32bb4848aaa2fe65ac7aa10e,00413_000.jpg,@recycling.film,,Single Pack,N/A
+413,1,film_box_leaflet,Foma,Fomapan F17,120,40,BW,199101,1760705897,f8e4f6b527a7f23d1517a950269d28e5,3c4f8b9bb3e74d20b67ac3611475608f,00413_001.jpg,@recycling.film,,Single Pack,N/A
+413,2,film_box_leaflet,Foma,Fomapan F17,120,40,BW,199101,1760705904,db084c898bcc1ea832151ce6e6b8b2ad,9db2e6deb48a408e8848fa333255036a,00413_002.jpg,@recycling.film,,Single Pack,N/A
+414,0,film_box_outside,Kodak,Ektachrome 64,35mm,64,E-6,198607,1760706115,741b0d72ebf994ac1cf9fc1d8f6078c5,61a248ee92404ad7bcf1a19adbf102cc,00414_000.jpg,@recycling.film,EPR,Single Pack,36exp
+414,1,film_box_leaflet,Kodak,Ektachrome 64,35mm,64,E-6,198607,1760706116,d67e654cce9d4d7255dc4ea209032902,66aac838de9b4f4091acb02215e8b890,00414_001.jpg,@recycling.film,EPR,Single Pack,36exp
+414,2,film_box_leaflet,Kodak,Ektachrome 64,35mm,64,E-6,198607,1760706120,839d9868f10b9918d48434784c71adee,ee61648a19bd4eaea584f3931618f488,00414_002.jpg,@recycling.film,EPR,Single Pack,36exp
+415,0,film_box_outside,Ilford,FP4,35mm,125,BW,198302,1760706245,70b4f81d310cf6491a6abb068de3a542,68eb8a227e8b48358efc62cf7aabb2f0,00415_000.jpg,@recycling.film,,Single Pack,20exp
+416,0,film_box_outside,ADOX,KB 17,35mm,32,BW,195807,1760706328,fd17f2b604ebf2d8b915cb5320198f46,ee054df9bf0f4ad09ef142c01c2788a5,00416_000.jpg,@recycling.film,,Single Pack,20exp
+417,0,film_box_outside,Agfa,AgfaChrome 50 S,35mm,50,AP41,198107,1760706508,a1a378d9e473615e9b713bbf62e07658,364274d1357d458eacedde84db8a71a8,00417_000.jpg,@recycling.film,,Single Pack,36exp
+417,1,film_box_leaflet,Agfa,AgfaChrome 50 S,35mm,50,AP41,198107,1760706537,9ee8854bae7c54c02b042c5be3e19f43,ad0043191aad463eafef428fdd9383d5,00417_001.jpg,@recycling.film,,Single Pack,36exp
+417,2,film_box_leaflet,Agfa,AgfaChrome 50 S,35mm,50,AP41,198107,1760706540,d19cb3116dee47c7eb5dfe4aa357cbf5,92c015c82f4345438875b286887a584d,00417_002.jpg,@recycling.film,,Single Pack,36exp
+418,0,film_box_outside,Agfa,Agfacolor Negative Film Special CNS,35mm,80,Unknown,197609,1760708691,330762f9e9f9b52b2c3b43a593bd8670,1cf0e26c5894469ebdbd94e104c89b03,00418_000.jpg,@recycling.film,,Single Pack,20exp
+418,1,film_box_leaflet,Agfa,Agfacolor Negative Film Special CNS,35mm,80,Unknown,197609,1760708692,91805a88ed1fba6ded73ecfb5fcfe076,75c37ed61c3d4b04be3c432a2a80c21e,00418_001.jpg,@recycling.film,,Single Pack,20exp
+418,2,film_box_leaflet,Agfa,Agfacolor Negative Film Special CNS,35mm,80,Unknown,197609,1760708699,b0aa76d6d7f3a83074582dc60cd11f6d,47363e4b17894d5d99a8c39dfdf981db,00418_002.jpg,@recycling.film,,Single Pack,20exp
+419,0,film_box_outside,Perutz,Peromnia 21,35mm,100,BW,196103,1760725980,e185e99fe5a550fa11b46dbd3a46d79e,05554da8891c470facbddfd5fe35fa4a,00419_000.jpg,@recycling.film,,Single Pack,20exp
+420,0,film_box_outside,Perutz,Perpantic Film,120,40,BW,194712,1760726258,0d6fb8a049170c25369096ea36d99bbb,795c66ef065f442ab27e4ffb9de758b1,00420_000.jpg,@recycling.film,,Single Pack,N/A
