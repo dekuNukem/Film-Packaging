@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 21 2025
-Unique items: 428
-Total scans : 780
+Unique items: 439
+Total scans : 808
 ```
 
 -----
@@ -40,6 +40,7 @@ Total scans : 780
 - [[BW] Agfa Extra Rapid Platten (ref: 7418)](#bw-agfa-extra-rapid-platten-ref-7418)
 - [[BW] Agfa Fine-Grain Plenachrome (ref: e5d4)](#bw-agfa-fine-grain-plenachrome-ref-e5d4)
 - [[BW] Agfa Isopan FF (ref: 3700)](#bw-agfa-isopan-ff-ref-3700)
+- [[BW] Agfa Isopan IF Rapid (ref: 5962)](#bw-agfa-isopan-if-rapid-ref-5962)
 - [[BW] Agfa Isopan ISS (ref: 75fa)](#bw-agfa-isopan-iss-ref-75fa)
 - [[BW] Agfa Isopan ISS (ref: 5ba6)](#bw-agfa-isopan-iss-ref-5ba6)
 - [[BW] Agfa Isopan ISS (ref: b9d7)](#bw-agfa-isopan-iss-ref-b9d7)
@@ -98,6 +99,7 @@ Total scans : 780
 - [[BW] Ilford HP5 Plus (ref: 1a5d)](#bw-ilford-hp5-plus-ref-1a5d)
 - [[BW] Ilford HP5 Plus (ref: df49)](#bw-ilford-hp5-plus-ref-df49)
 - [[BW] Ilford SFX 200 (ref: 6057)](#bw-ilford-sfx-200-ref-6057)
+- [[BW] Ilford Selochrome (ref: f534)](#bw-ilford-selochrome-ref-f534)
 - [[BW] Illingworth's Fleet H&D (ref: 54fe)](#bw-illingworths-fleet-h-d-ref-54fe)
 - [[BW] JCH Streetpan (ref: 6e58)](#bw-jch-streetpan-ref-6e58)
 - [[BW] JCH Streetpan (ref: 5c70)](#bw-jch-streetpan-ref-5c70)
@@ -133,7 +135,9 @@ Total scans : 780
 - [[BW] Kodak Tri-X 400 Pro (ref: f05c)](#bw-kodak-tri-x-400-pro-ref-f05c)
 - [[BW] Kodak Tri-X Pan (ref: 85e9)](#bw-kodak-tri-x-pan-ref-85e9)
 - [[BW] Kodak Tri-X Pan (ref: f201)](#bw-kodak-tri-x-pan-ref-f201)
+- [[BW] Kodak Verichrome (ref: e465)](#bw-kodak-verichrome-ref-e465)
 - [[BW] Kodak Verichrome (ref: c9c2)](#bw-kodak-verichrome-ref-c9c2)
+- [[BW] Kodak Verichrome Pan (ref: 7984)](#bw-kodak-verichrome-pan-ref-7984)
 - [[BW] Kodak Verichrome Pan (ref: 0195)](#bw-kodak-verichrome-pan-ref-0195)
 - [[BW] Konica Infrared 750nm (ref: e696)](#bw-konica-infrared-750nm-ref-e696)
 - [[BW] Konica Infrared 750nm (ref: 6b0e)](#bw-konica-infrared-750nm-ref-6b0e)
@@ -173,6 +177,7 @@ Total scans : 780
 - [[BW] Walgreen All Purpose Film (ref: 541b)](#bw-walgreen-all-purpose-film-ref-541b)
 - [[BW] Wolfen NP100 (ref: 71a6)](#bw-wolfen-np100-ref-71a6)
 - [[BW] efke R100 (ref: 10ad)](#bw-efke-r100-ref-10ad)
+- [[BW] efke R100 (ref: 100d)](#bw-efke-r100-ref-100d)
 - [[C-22] Kodak Kodacolor (ref: 5d25)](#c-22-kodak-kodacolor-ref-5d25)
 - [[C-22] Kodak Kodacolor II (ref: 4108)](#c-22-kodak-kodacolor-ii-ref-4108)
 - [[C-22] Kodak Kodacolor-X (ref: a4b1)](#c-22-kodak-kodacolor-x-ref-a4b1)
@@ -270,6 +275,7 @@ Total scans : 780
 - [[C-41] Kodak Ektar 100 (ref: 95ec)](#c-41-kodak-ektar-100-ref-95ec)
 - [[C-41] Kodak Ektar 100 (ref: 3498)](#c-41-kodak-ektar-100-ref-3498)
 - [[C-41] Kodak FarbWelt 400 (ref: e9b6)](#c-41-kodak-farbwelt-400-ref-e9b6)
+- [[C-41] Kodak Gold (ref: 1962)](#c-41-kodak-gold-ref-1962)
 - [[C-41] Kodak Gold (ref: 2f8d)](#c-41-kodak-gold-ref-2f8d)
 - [[C-41] Kodak Gold (ref: ea58)](#c-41-kodak-gold-ref-ea58)
 - [[C-41] Kodak Gold (ref: bdd5)](#c-41-kodak-gold-ref-bdd5)
@@ -282,6 +288,7 @@ Total scans : 780
 - [[C-41] Kodak Gold Ultra 400 (ref: 1358)](#c-41-kodak-gold-ultra-400-ref-1358)
 - [[C-41] Kodak Kodacolor 400 (ref: 9e4c)](#c-41-kodak-kodacolor-400-ref-9e4c)
 - [[C-41] Kodak Kodacolor Gold 200 (ref: f368)](#c-41-kodak-kodacolor-gold-200-ref-f368)
+- [[C-41] Kodak Kodacolor Gold 400 (ref: 473d)](#c-41-kodak-kodacolor-gold-400-ref-473d)
 - [[C-41] Kodak Kodacolor II (ref: 7310)](#c-41-kodak-kodacolor-ii-ref-7310)
 - [[C-41] Kodak Kodacolor VR (ref: 035f)](#c-41-kodak-kodacolor-vr-ref-035f)
 - [[C-41] Kodak Kodacolor VR Plus (ref: f8bf)](#c-41-kodak-kodacolor-vr-plus-ref-f8bf)
@@ -334,6 +341,7 @@ Total scans : 780
 - [[C-41] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#c-41-minolta-minolta-16-color-film-for-prints-ref-a2ff)
 - [[C-41] Minox MinoColor 100 Pro (ref: 5338)](#c-41-minox-minocolor-100-pro-ref-5338)
 - [[C-41] Minox MinoColor 3 (ref: d209)](#c-41-minox-minocolor-3-ref-d209)
+- [[C-41] Minox Minocolor 2 (ref: fadd)](#c-41-minox-minocolor-2-ref-fadd)
 - [[C-41] Nishika Color Print Film (ref: baeb)](#c-41-nishika-color-print-film-ref-baeb)
 - [[C-41] Polaroid High Definition (ref: deb6)](#c-41-polaroid-high-definition-ref-deb6)
 - [[C-41] Premium Super XG (ref: 8ccd)](#c-41-premium-super-xg-ref-8ccd)
@@ -434,9 +442,12 @@ Total scans : 780
 - [[K-14] Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping (ref: c143)](#k-14-kodak-kodachrome-40-movie-film-type-a-for-post-process-sound-striping-ref-c143)
 - [[K-14] Kodak Kodachrome 64 (ref: 3145)](#k-14-kodak-kodachrome-64-ref-3145)
 - [[K-14] Kodak Kodachrome 64 (ref: 3206)](#k-14-kodak-kodachrome-64-ref-3206)
+- [[K-14] Kodak Kodachrome II (ref: 0982)](#k-14-kodak-kodachrome-ii-ref-0982)
 - [[Unknown] Agfa AgfaColor CT 18 (ref: 1fef)](#unknown-agfa-agfacolor-ct-18-ref-1fef)
 - [[Unknown] Agfa Agfacolor Negative Film Special CNS (ref: 9b03)](#unknown-agfa-agfacolor-negative-film-special-cns-ref-9b03)
+- [[Unknown] Agfa Agfacolor Special Negative Film CN S (ref: 1e83)](#unknown-agfa-agfacolor-special-negative-film-cn-s-ref-1e83)
 - [[Unknown] Agfa Agfacolor Umkehr-Ultra T (ref: 01db)](#unknown-agfa-agfacolor-umkehr-ultra-t-ref-01db)
+- [[Unknown] Famous Brand Labs Color Negative Film (ref: 0cd6)](#unknown-famous-brand-labs-color-negative-film-ref-0cd6)
 - [[Unknown] Film Corporation of America TriFCA 120 (ref: d024)](#unknown-film-corporation-of-america-trifca-120-ref-d024)
 - [[Unknown] Film Corporation of America TriFCA 120 (ref: 9937)](#unknown-film-corporation-of-america-trifca-120-ref-9937)
 - [[Unknown] Film Corporation of America TriFCA 35 (ref: 8f0a)](#unknown-film-corporation-of-america-trifca-35-ref-8f0a)
@@ -802,6 +813,34 @@ UUID  : 9ea6437ea85442048ffe63b8b64c3700
 
 <a href="./archive/00101_000.jpg" target="_blank">
 	<img src="./lowres/00101_000.jpg" alt="Agfa Isopan FF 35mm film box outside" loading="lazy" width="500" height="427">
+</a>
+
+#### [BW] Agfa Isopan IF Rapid (ref: 5962)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 40           |  Expiry  : 1969-02 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 2eb6c6a9aa784c2e871b7edd33fb5962
+```
+
+<a href="./archive/00437_000.jpg" target="_blank">
+	<img src="./lowres/00437_000.jpg" alt="Agfa Isopan IF Rapid 35mm film box outside" loading="lazy" width="500" height="422">
+</a>
+
+
+`UUID: 4a001e5fb1774942933060bd00e6c6ef`↓
+
+<a href="./archive/00437_001.jpg" target="_blank">
+	<img src="./lowres/00437_001.jpg" alt="Agfa Isopan IF Rapid 35mm film box leaflet" loading="lazy" width="500" height="350">
+</a>
+
+
+`UUID: 6ca26308da0547e3bb8ffee5cffdd94e`↓
+
+<a href="./archive/00437_002.jpg" target="_blank">
+	<img src="./lowres/00437_002.jpg" alt="Agfa Isopan IF Rapid 35mm film box leaflet" loading="lazy" width="500" height="345">
 </a>
 
 #### [BW] Agfa Isopan ISS (ref: 75fa)
@@ -1862,6 +1901,34 @@ UUID  : 7856b5442362453caa67628c93be6057
 	<img src="./lowres/00009_001.jpg" alt="Ilford SFX 200 120 film box inside" loading="lazy" width="500" height="456">
 </a>
 
+#### [BW] Ilford Selochrome (ref: f534)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 160          |  Expiry  : 1965-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : f085080d08414582a703e7a1982df534
+```
+
+<a href="./archive/00436_000.jpg" target="_blank">
+	<img src="./lowres/00436_000.jpg" alt="Ilford Selochrome 120 film box outside" loading="lazy" width="500" height="425">
+</a>
+
+
+`UUID: 71077f96d6e74825b04d8c7b1a3a29b2`↓
+
+<a href="./archive/00436_001.jpg" target="_blank">
+	<img src="./lowres/00436_001.jpg" alt="Ilford Selochrome 120 film box leaflet" loading="lazy" width="500" height="441">
+</a>
+
+
+`UUID: aa3d982c74984e12b6a621205250c1d5`↓
+
+<a href="./archive/00436_002.jpg" target="_blank">
+	<img src="./lowres/00436_002.jpg" alt="Ilford Selochrome 120 film box leaflet" loading="lazy" width="500" height="449">
+</a>
+
 #### [BW] Illingworth's Fleet H&D (ref: 54fe)
 
 ```
@@ -2548,6 +2615,20 @@ UUID  : 496c4c1b618442bf933f48660acef201
 	<img src="./lowres/00338_002.jpg" alt="Kodak Tri-X Pan 120 film box leaflet" loading="lazy" width="189" height="500">
 </a>
 
+#### [BW] Kodak Verichrome (ref: e465)
+
+```
+Format: 616          |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1947-02 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : a7d5a1c6923e4090b91381a1c853e465
+```
+
+<a href="./archive/00443_000.jpg" target="_blank">
+	<img src="./lowres/00443_000.jpg" alt="Kodak Verichrome 616 film box outside" loading="lazy" width="500" height="404">
+</a>
+
 #### [BW] Kodak Verichrome (ref: c9c2)
 
 ```
@@ -2560,6 +2641,20 @@ UUID  : adf90d5a8c2b4ad6ba1b6524bf00c9c2
 
 <a href="./archive/00430_000.jpg" target="_blank">
 	<img src="./lowres/00430_000.jpg" alt="Kodak Verichrome 122 film box outside" loading="lazy" width="500" height="406">
+</a>
+
+#### [BW] Kodak Verichrome Pan (ref: 7984)
+
+```
+Format: 122          |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1962-03 
+Type  : Single Pack  |  Quantity: 6exp    
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : c17a688403b646e6aebd74e8ec357984
+```
+
+<a href="./archive/00433_000.jpg" target="_blank">
+	<img src="./lowres/00433_000.jpg" alt="Kodak Verichrome Pan 122 film box outside" loading="lazy" width="500" height="412">
 </a>
 
 #### [BW] Kodak Verichrome Pan (ref: 0195)
@@ -3310,6 +3405,34 @@ UUID  : 686490575de4412b9309d5d797af10ad
 
 <a href="./archive/00426_002.jpg" target="_blank">
 	<img src="./lowres/00426_002.jpg" alt="efke R100 127 film box leaflet" loading="lazy" width="500" height="411">
+</a>
+
+#### [BW] efke R100 (ref: 100d)
+
+```
+Format: 127          |  Process : BW      
+ISO   : 100          |  Expiry  : 1998-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : fc90db41b94d486491177a8407f1100d
+```
+
+<a href="./archive/00435_000.jpg" target="_blank">
+	<img src="./lowres/00435_000.jpg" alt="efke R100 127 film box outside" loading="lazy" width="500" height="318">
+</a>
+
+
+`UUID: 877813b4c98d406b8739c4310f0116a8`↓
+
+<a href="./archive/00435_001.jpg" target="_blank">
+	<img src="./lowres/00435_001.jpg" alt="efke R100 127 film box leaflet" loading="lazy" width="500" height="426">
+</a>
+
+
+`UUID: fb3873078df9491491a4ff63374d80d2`↓
+
+<a href="./archive/00435_002.jpg" target="_blank">
+	<img src="./lowres/00435_002.jpg" alt="efke R100 127 film box leaflet" loading="lazy" width="500" height="453">
 </a>
 
 #### [C-22] Kodak Kodacolor (ref: 5d25)
@@ -5092,6 +5215,27 @@ UUID  : dc04ec32aeda4b9ba394437272fde9b6
 	<img src="./lowres/00297_000.jpg" alt="Kodak FarbWelt 400 35mm film box outside" loading="lazy" width="500" height="443">
 </a>
 
+#### [C-41] Kodak Gold (ref: 1962)
+
+```
+Format: 620          |  Process : C-41    
+ISO   : 200          |  Expiry  : 1996-08 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 92c51161259045d5b726e32fa4ee1962
+```
+
+<a href="./archive/00442_000.jpg" target="_blank">
+	<img src="./lowres/00442_000.jpg" alt="Kodak Gold 620 film box outside" loading="lazy" width="500" height="492">
+</a>
+
+
+`UUID: 51e0c8950d164f8a985b46fe1b0e5f8b`↓
+
+<a href="./archive/00442_001.jpg" target="_blank">
+	<img src="./lowres/00442_001.jpg" alt="Kodak Gold 620 film box leaflet" loading="lazy" width="183" height="500">
+</a>
+
 #### [C-41] Kodak Gold (ref: 2f8d)
 
 ```
@@ -5300,6 +5444,20 @@ UUID  : 78bfeed667154d819902ec92d7dcf368
 
 <a href="./archive/00068_000.jpg" target="_blank">
 	<img src="./lowres/00068_000.jpg" alt="Kodak Kodacolor Gold 200 110 film box outside" loading="lazy" width="500" height="403">
+</a>
+
+#### [C-41] Kodak Kodacolor Gold 400 (ref: 473d)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 1990-09 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 9d06405332c04b80b8b6ec709131473d
+```
+
+<a href="./archive/00440_000.jpg" target="_blank">
+	<img src="./lowres/00440_000.jpg" alt="Kodak Kodacolor Gold 400 110 film box outside" loading="lazy" width="500" height="423">
 </a>
 
 #### [C-41] Kodak Kodacolor II (ref: 7310)
@@ -6211,6 +6369,34 @@ UUID  : a54b7c329f26403d91ffa69325a1d209
 
 <a href="./archive/00370_000.jpg" target="_blank">
 	<img src="./lowres/00370_000.jpg" alt="Minox MinoColor 3 8x11mm film box outside" loading="lazy" width="500" height="423">
+</a>
+
+#### [C-41] Minox Minocolor 2 (ref: fadd)
+
+```
+Format: 8x11mm       |  Process : C-41    
+ISO   : 80           |  Expiry  : 1981-09 
+Type  : Single Pack  |  Quantity: 15exp   
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 5ee281ded82c46e5b628a58b9f10fadd
+```
+
+<a href="./archive/00438_000.jpg" target="_blank">
+	<img src="./lowres/00438_000.jpg" alt="Minox Minocolor 2 8x11mm film box outside" loading="lazy" width="500" height="425">
+</a>
+
+
+`UUID: 1590803fe8d045a480338838a869647e`↓
+
+<a href="./archive/00438_001.jpg" target="_blank">
+	<img src="./lowres/00438_001.jpg" alt="Minox Minocolor 2 8x11mm film box leaflet" loading="lazy" width="209" height="500">
+</a>
+
+
+`UUID: dc750856812b447eaa0debe4122808ac`↓
+
+<a href="./archive/00438_002.jpg" target="_blank">
+	<img src="./lowres/00438_002.jpg" alt="Minox Minocolor 2 8x11mm film box leaflet" loading="lazy" width="211" height="500">
 </a>
 
 #### [C-41] Nishika Color Print Film (ref: baeb)
@@ -8387,6 +8573,48 @@ UUID  : dc9c151b87de48339e564e6692663206
 	<img src="./lowres/00060_000.jpg" alt="Kodak Kodachrome 64 35mm film box outside" loading="lazy" width="450" height="499">
 </a>
 
+#### [K-14] Kodak Kodachrome II (ref: 0982)
+
+```
+Format: 828          |  Process : K-14    
+ISO   : 25           |  Expiry  : 1968-01 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : b9c0bacb3ac64fc6bb46b1e728710982
+```
+
+<a href="./archive/00441_000.jpg" target="_blank">
+	<img src="./lowres/00441_000.jpg" alt="Kodak Kodachrome II 828 film box outside" loading="lazy" width="456" height="500">
+</a>
+
+
+`UUID: 9f37569423ef4a36aa7a1c15976f0b2e`↓
+
+<a href="./archive/00441_001.jpg" target="_blank">
+	<img src="./lowres/00441_001.jpg" alt="Kodak Kodachrome II 828 film box leaflet" loading="lazy" width="225" height="500">
+</a>
+
+
+`UUID: 54a70d5cac414623925c05d402aa1df7`↓
+
+<a href="./archive/00441_002.jpg" target="_blank">
+	<img src="./lowres/00441_002.jpg" alt="Kodak Kodachrome II 828 film box leaflet" loading="lazy" width="235" height="500">
+</a>
+
+
+`UUID: 60d2979073e4417c9511260b6d004d8c`↓
+
+<a href="./archive/00441_003.jpg" target="_blank">
+	<img src="./lowres/00441_003.jpg" alt="Kodak Kodachrome II 828 film box processing envelope" loading="lazy" width="500" height="154">
+</a>
+
+
+`UUID: b776358cf6654afc867da7efc26e681b`↓
+
+<a href="./archive/00441_004.jpg" target="_blank">
+	<img src="./lowres/00441_004.jpg" alt="Kodak Kodachrome II 828 film box processing envelope" loading="lazy" width="500" height="163">
+</a>
+
 #### [Unknown] Agfa AgfaColor CT 18 (ref: 1fef)
 
 ```
@@ -8471,6 +8699,34 @@ UUID  : 1cf0e26c5894469ebdbd94e104c89b03
 	<img src="./lowres/00418_002.jpg" alt="Agfa Agfacolor Negative Film Special CNS 35mm film box leaflet" loading="lazy" width="500" height="365">
 </a>
 
+#### [Unknown] Agfa Agfacolor Special Negative Film CN S (ref: 1e83)
+
+```
+Format: 120          |  Process : Unknown 
+ISO   : 80           |  Expiry  : 1971-01 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 2e99ee5a9888408093d6983ed9871e83
+```
+
+<a href="./archive/00439_000.jpg" target="_blank">
+	<img src="./lowres/00439_000.jpg" alt="Agfa Agfacolor Special Negative Film CN S 120 film box outside" loading="lazy" width="500" height="387">
+</a>
+
+
+`UUID: 019691600c184b2e8e1128dc6207790f`↓
+
+<a href="./archive/00439_001.jpg" target="_blank">
+	<img src="./lowres/00439_001.jpg" alt="Agfa Agfacolor Special Negative Film CN S 120 film box leaflet" loading="lazy" width="500" height="351">
+</a>
+
+
+`UUID: 7950cdc041654b77a36cee356ebc02b8`↓
+
+<a href="./archive/00439_002.jpg" target="_blank">
+	<img src="./lowres/00439_002.jpg" alt="Agfa Agfacolor Special Negative Film CN S 120 film box leaflet" loading="lazy" width="500" height="357">
+</a>
+
 #### [Unknown] Agfa Agfacolor Umkehr-Ultra T (ref: 01db)
 
 ```
@@ -8483,6 +8739,34 @@ UUID  : b79dcd08bc514df3982630e3401f01db
 
 <a href="./archive/00380_000.jpg" target="_blank">
 	<img src="./lowres/00380_000.jpg" alt="Agfa Agfacolor Umkehr-Ultra T 35mm film cartridge" loading="lazy" width="500" height="500">
+</a>
+
+#### [Unknown] Famous Brand Labs Color Negative Film (ref: 0cd6)
+
+```
+Format: 127          |  Process : Unknown 
+ISO   : 64           |  Expiry  : 1971-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 1c73b3f95ae14be5ab9a506ac83a0cd6
+```
+
+<a href="./archive/00434_000.jpg" target="_blank">
+	<img src="./lowres/00434_000.jpg" alt="Famous Brand Labs Color Negative Film 127 film box outside" loading="lazy" width="500" height="437">
+</a>
+
+
+`UUID: c36b6fd7f2b84c8c804db6b318563ece`↓
+
+<a href="./archive/00434_001.jpg" target="_blank">
+	<img src="./lowres/00434_001.jpg" alt="Famous Brand Labs Color Negative Film 127 film box leaflet" loading="lazy" width="500" height="365">
+</a>
+
+
+`UUID: f1b06cc535f346edbc6c46be4b11c79a`↓
+
+<a href="./archive/00434_002.jpg" target="_blank">
+	<img src="./lowres/00434_002.jpg" alt="Famous Brand Labs Color Negative Film 127 film box leaflet" loading="lazy" width="500" height="381">
 </a>
 
 #### [Unknown] Film Corporation of America TriFCA 120 (ref: d024)
@@ -8932,7 +9216,7 @@ Notes : Division of Film Corporation of America
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     288   
+1     dekuNukem                     316   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @recycling.film               56    

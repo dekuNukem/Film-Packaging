@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 21 2025
-Unique items: 428
-Total scans : 780
+Unique items: 439
+Total scans : 808
 ```
 
 -----
@@ -294,8 +294,10 @@ Total scans : 780
 - [[dekuNukem] Agfa AgfaColor ULTRA 50 (ref: 4faa)](#dekunukem-agfa-agfacolor-ultra-50-ref-4faa)
 - [[dekuNukem] Agfa AgfaColor Vista (ref: 2f14)](#dekunukem-agfa-agfacolor-vista-ref-2f14)
 - [[dekuNukem] Agfa AgfaColor Vista (ref: d3af)](#dekunukem-agfa-agfacolor-vista-ref-d3af)
+- [[dekuNukem] Agfa Agfacolor Special Negative Film CN S (ref: 1e83)](#dekunukem-agfa-agfacolor-special-negative-film-cn-s-ref-1e83)
 - [[dekuNukem] Agfa Agfapan APX 400 (ref: 5855)](#dekunukem-agfa-agfapan-apx-400-ref-5855)
 - [[dekuNukem] Agfa CT Precisa 100 (ref: bc36)](#dekunukem-agfa-ct-precisa-100-ref-bc36)
+- [[dekuNukem] Agfa Isopan IF Rapid (ref: 5962)](#dekunukem-agfa-isopan-if-rapid-ref-5962)
 - [[dekuNukem] Agfa Optima II 400 (ref: fdf0)](#dekunukem-agfa-optima-ii-400-ref-fdf0)
 - [[dekuNukem] Alien Film 5207/250D (ref: 8820)](#dekunukem-alien-film-5207250d-ref-8820)
 - [[dekuNukem] Alien Film 5222/XX (ref: 3e49)](#dekunukem-alien-film-5222xx-ref-3e49)
@@ -303,6 +305,7 @@ Total scans : 780
 - [[dekuNukem] CineStill 800T (ref: c86a)](#dekunukem-cinestill-800t-ref-c86a)
 - [[dekuNukem] Efiniti UXi Super 200 (ref: 471a)](#dekunukem-efiniti-uxi-super-200-ref-471a)
 - [[dekuNukem] Efke IR 820 Aura (ref: 43c9)](#dekunukem-efke-ir-820-aura-ref-43c9)
+- [[dekuNukem] Famous Brand Labs Color Negative Film (ref: 0cd6)](#dekunukem-famous-brand-labs-color-negative-film-ref-0cd6)
 - [[dekuNukem] Film Corporation of America TriFCA 120 (ref: d024)](#dekunukem-film-corporation-of-america-trifca-120-ref-d024)
 - [[dekuNukem] Film Corporation of America TriFCA 120 (ref: 9937)](#dekunukem-film-corporation-of-america-trifca-120-ref-9937)
 - [[dekuNukem] Film Corporation of America TriFCA 35 (ref: 8f0a)](#dekunukem-film-corporation-of-america-trifca-35-ref-8f0a)
@@ -330,6 +333,7 @@ Total scans : 780
 - [[dekuNukem] Ilford HP5 Plus (ref: efad)](#dekunukem-ilford-hp5-plus-ref-efad)
 - [[dekuNukem] Ilford HP5 Plus (ref: 1a5d)](#dekunukem-ilford-hp5-plus-ref-1a5d)
 - [[dekuNukem] Ilford SFX 200 (ref: 6057)](#dekunukem-ilford-sfx-200-ref-6057)
+- [[dekuNukem] Ilford Selochrome (ref: f534)](#dekunukem-ilford-selochrome-ref-f534)
 - [[dekuNukem] Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras (ref: 861c)](#dekunukem-impossible-project-color-instant-film-for-polaroid-sx-70-type-cameras-ref-861c)
 - [[dekuNukem] Jessops Diamond Everyday (ref: 67d3)](#dekunukem-jessops-diamond-everyday-ref-67d3)
 - [[dekuNukem] Kentmere PAN 400 (ref: d223)](#dekunukem-kentmere-pan-400-ref-d223)
@@ -353,14 +357,17 @@ Total scans : 780
 - [[dekuNukem] Kodak Ektachrome-X (ref: c057)](#dekunukem-kodak-ektachrome-x-ref-c057)
 - [[dekuNukem] Kodak Ektacolor Pro Gold (ref: c3f8)](#dekunukem-kodak-ektacolor-pro-gold-ref-c3f8)
 - [[dekuNukem] Kodak FarbWelt 400 (ref: e9b6)](#dekunukem-kodak-farbwelt-400-ref-e9b6)
+- [[dekuNukem] Kodak Gold (ref: 1962)](#dekunukem-kodak-gold-ref-1962)
 - [[dekuNukem] Kodak Gold (ref: bdd5)](#dekunukem-kodak-gold-ref-bdd5)
 - [[dekuNukem] Kodak Gold 200 (ref: 933f)](#dekunukem-kodak-gold-200-ref-933f)
 - [[dekuNukem] Kodak High Speed Ektachrome (ref: ce7f)](#dekunukem-kodak-high-speed-ektachrome-ref-ce7f)
 - [[dekuNukem] Kodak Kodachrome 25 (ref: 6477)](#dekunukem-kodak-kodachrome-25-ref-6477)
 - [[dekuNukem] Kodak Kodachrome 64 (ref: 3145)](#dekunukem-kodak-kodachrome-64-ref-3145)
 - [[dekuNukem] Kodak Kodachrome 64 (ref: 3206)](#dekunukem-kodak-kodachrome-64-ref-3206)
+- [[dekuNukem] Kodak Kodachrome II (ref: 0982)](#dekunukem-kodak-kodachrome-ii-ref-0982)
 - [[dekuNukem] Kodak Kodacolor (ref: 5d25)](#dekunukem-kodak-kodacolor-ref-5d25)
 - [[dekuNukem] Kodak Kodacolor Gold 200 (ref: f368)](#dekunukem-kodak-kodacolor-gold-200-ref-f368)
+- [[dekuNukem] Kodak Kodacolor Gold 400 (ref: 473d)](#dekunukem-kodak-kodacolor-gold-400-ref-473d)
 - [[dekuNukem] Kodak Kodacolor II (ref: 4108)](#dekunukem-kodak-kodacolor-ii-ref-4108)
 - [[dekuNukem] Kodak Kodacolor-X (ref: a4b1)](#dekunukem-kodak-kodacolor-x-ref-a4b1)
 - [[dekuNukem] Kodak Kodacolor-X (ref: 0ce5)](#dekunukem-kodak-kodacolor-x-ref-0ce5)
@@ -372,7 +379,9 @@ Total scans : 780
 - [[dekuNukem] Kodak TMAX 400 (ref: a34d)](#dekunukem-kodak-tmax-400-ref-a34d)
 - [[dekuNukem] Kodak Technical Pan 6415 (ref: 03be)](#dekunukem-kodak-technical-pan-6415-ref-03be)
 - [[dekuNukem] Kodak Tri-X 400 (ref: 88c5)](#dekunukem-kodak-tri-x-400-ref-88c5)
+- [[dekuNukem] Kodak Verichrome (ref: e465)](#dekunukem-kodak-verichrome-ref-e465)
 - [[dekuNukem] Kodak Verichrome (ref: c9c2)](#dekunukem-kodak-verichrome-ref-c9c2)
+- [[dekuNukem] Kodak Verichrome Pan (ref: 7984)](#dekunukem-kodak-verichrome-pan-ref-7984)
 - [[dekuNukem] Konica Centuria 200 (ref: e155)](#dekunukem-konica-centuria-200-ref-e155)
 - [[dekuNukem] Konica Infrared 750nm (ref: e696)](#dekunukem-konica-infrared-750nm-ref-e696)
 - [[dekuNukem] Konica Infrared 750nm (ref: 2d93)](#dekunukem-konica-infrared-750nm-ref-2d93)
@@ -385,6 +394,7 @@ Total scans : 780
 - [[dekuNukem] Lomography Tiger (ref: 5b62)](#dekunukem-lomography-tiger-ref-5b62)
 - [[dekuNukem] Max Spielmann Maxi Color (ref: bf60)](#dekunukem-max-spielmann-maxi-color-ref-bf60)
 - [[dekuNukem] Minox MinoColor 100 Pro (ref: 5338)](#dekunukem-minox-minocolor-100-pro-ref-5338)
+- [[dekuNukem] Minox Minocolor 2 (ref: fadd)](#dekunukem-minox-minocolor-2-ref-fadd)
 - [[dekuNukem] Northwest Custom Film Processing Ultra Minituature Film (ref: 70b1)](#dekunukem-northwest-custom-film-processing-ultra-minituature-film-ref-70b1)
 - [[dekuNukem] Polaroid 665 (ref: e054)](#dekunukem-polaroid-665-ref-e054)
 - [[dekuNukem] Polaroid 669 (ref: 3566)](#dekunukem-polaroid-669-ref-3566)
@@ -411,6 +421,7 @@ Total scans : 780
 - [[dekuNukem] Triple-Print Film Labs Color Negative Film (ref: 88e6)](#dekunukem-triple-print-film-labs-color-negative-film-ref-88e6)
 - [[dekuNukem] Walgreen All Purpose Film (ref: 541b)](#dekunukem-walgreen-all-purpose-film-ref-541b)
 - [[dekuNukem] efke R100 (ref: 10ad)](#dekunukem-efke-r100-ref-10ad)
+- [[dekuNukem] efke R100 (ref: 100d)](#dekunukem-efke-r100-ref-100d)
 - [[fine-seat] Agfa AgfaColor XRG 200 (ref: 689e)](#fine-seat-agfa-agfacolor-xrg-200-ref-689e)
 - [[fine-seat] Agfa Isopan ISS (ref: 5ba6)](#fine-seat-agfa-isopan-iss-ref-5ba6)
 - [[fine-seat] Alfo ALFOcolor PR-G (ref: 94b9)](#fine-seat-alfo-alfocolor-pr-g-ref-94b9)
@@ -5397,6 +5408,34 @@ UUID  : f1e50745927f4b7cb16af36fd30dd3af
 	<img src="./lowres/00014_001.jpg" alt="Agfa AgfaColor Vista 35mm film box inside" loading="lazy" width="440" height="500">
 </a>
 
+#### [dekuNukem] Agfa Agfacolor Special Negative Film CN S (ref: 1e83)
+
+```
+Format: 120          |  Process : Unknown 
+ISO   : 80           |  Expiry  : 1971-01 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 2e99ee5a9888408093d6983ed9871e83
+```
+
+<a href="./archive/00439_000.jpg" target="_blank">
+	<img src="./lowres/00439_000.jpg" alt="Agfa Agfacolor Special Negative Film CN S 120 film box outside" loading="lazy" width="500" height="387">
+</a>
+
+
+`UUID: 019691600c184b2e8e1128dc6207790f`↓
+
+<a href="./archive/00439_001.jpg" target="_blank">
+	<img src="./lowres/00439_001.jpg" alt="Agfa Agfacolor Special Negative Film CN S 120 film box leaflet" loading="lazy" width="500" height="351">
+</a>
+
+
+`UUID: 7950cdc041654b77a36cee356ebc02b8`↓
+
+<a href="./archive/00439_002.jpg" target="_blank">
+	<img src="./lowres/00439_002.jpg" alt="Agfa Agfacolor Special Negative Film CN S 120 film box leaflet" loading="lazy" width="500" height="357">
+</a>
+
 #### [dekuNukem] Agfa Agfapan APX 400 (ref: 5855)
 
 ```
@@ -5437,6 +5476,34 @@ UUID  : 087e9a1b5cc7447dbd0b7d5b81c9bc36
 
 <a href="./archive/00428_001.jpg" target="_blank">
 	<img src="./lowres/00428_001.jpg" alt="Agfa CT Precisa 100 35mm film box inside" loading="lazy" width="429" height="499">
+</a>
+
+#### [dekuNukem] Agfa Isopan IF Rapid (ref: 5962)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 40           |  Expiry  : 1969-02 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 2eb6c6a9aa784c2e871b7edd33fb5962
+```
+
+<a href="./archive/00437_000.jpg" target="_blank">
+	<img src="./lowres/00437_000.jpg" alt="Agfa Isopan IF Rapid 35mm film box outside" loading="lazy" width="500" height="422">
+</a>
+
+
+`UUID: 4a001e5fb1774942933060bd00e6c6ef`↓
+
+<a href="./archive/00437_001.jpg" target="_blank">
+	<img src="./lowres/00437_001.jpg" alt="Agfa Isopan IF Rapid 35mm film box leaflet" loading="lazy" width="500" height="350">
+</a>
+
+
+`UUID: 6ca26308da0547e3bb8ffee5cffdd94e`↓
+
+<a href="./archive/00437_002.jpg" target="_blank">
+	<img src="./lowres/00437_002.jpg" alt="Agfa Isopan IF Rapid 35mm film box leaflet" loading="lazy" width="500" height="345">
 </a>
 
 #### [dekuNukem] Agfa Optima II 400 (ref: fdf0)
@@ -5556,6 +5623,34 @@ UUID  : 716e410a3823476e9befa704361f43c9
 
 <a href="./archive/00038_001.jpg" target="_blank">
 	<img src="./lowres/00038_001.jpg" alt="Efke IR 820 Aura 120 film box inside" loading="lazy" width="500" height="341">
+</a>
+
+#### [dekuNukem] Famous Brand Labs Color Negative Film (ref: 0cd6)
+
+```
+Format: 127          |  Process : Unknown 
+ISO   : 64           |  Expiry  : 1971-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 1c73b3f95ae14be5ab9a506ac83a0cd6
+```
+
+<a href="./archive/00434_000.jpg" target="_blank">
+	<img src="./lowres/00434_000.jpg" alt="Famous Brand Labs Color Negative Film 127 film box outside" loading="lazy" width="500" height="437">
+</a>
+
+
+`UUID: c36b6fd7f2b84c8c804db6b318563ece`↓
+
+<a href="./archive/00434_001.jpg" target="_blank">
+	<img src="./lowres/00434_001.jpg" alt="Famous Brand Labs Color Negative Film 127 film box leaflet" loading="lazy" width="500" height="365">
+</a>
+
+
+`UUID: f1b06cc535f346edbc6c46be4b11c79a`↓
+
+<a href="./archive/00434_002.jpg" target="_blank">
+	<img src="./lowres/00434_002.jpg" alt="Famous Brand Labs Color Negative Film 127 film box leaflet" loading="lazy" width="500" height="381">
 </a>
 
 #### [dekuNukem] Film Corporation of America TriFCA 120 (ref: d024)
@@ -6209,6 +6304,34 @@ UUID  : 7856b5442362453caa67628c93be6057
 	<img src="./lowres/00009_001.jpg" alt="Ilford SFX 200 120 film box inside" loading="lazy" width="500" height="456">
 </a>
 
+#### [dekuNukem] Ilford Selochrome (ref: f534)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 160          |  Expiry  : 1965-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : f085080d08414582a703e7a1982df534
+```
+
+<a href="./archive/00436_000.jpg" target="_blank">
+	<img src="./lowres/00436_000.jpg" alt="Ilford Selochrome 120 film box outside" loading="lazy" width="500" height="425">
+</a>
+
+
+`UUID: 71077f96d6e74825b04d8c7b1a3a29b2`↓
+
+<a href="./archive/00436_001.jpg" target="_blank">
+	<img src="./lowres/00436_001.jpg" alt="Ilford Selochrome 120 film box leaflet" loading="lazy" width="500" height="441">
+</a>
+
+
+`UUID: aa3d982c74984e12b6a621205250c1d5`↓
+
+<a href="./archive/00436_002.jpg" target="_blank">
+	<img src="./lowres/00436_002.jpg" alt="Ilford Selochrome 120 film box leaflet" loading="lazy" width="500" height="449">
+</a>
+
 #### [dekuNukem] Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras (ref: 861c)
 
 ```
@@ -6741,6 +6864,27 @@ UUID  : dc04ec32aeda4b9ba394437272fde9b6
 	<img src="./lowres/00297_000.jpg" alt="Kodak FarbWelt 400 35mm film box outside" loading="lazy" width="500" height="443">
 </a>
 
+#### [dekuNukem] Kodak Gold (ref: 1962)
+
+```
+Format: 620          |  Process : C-41    
+ISO   : 200          |  Expiry  : 1996-08 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 92c51161259045d5b726e32fa4ee1962
+```
+
+<a href="./archive/00442_000.jpg" target="_blank">
+	<img src="./lowres/00442_000.jpg" alt="Kodak Gold 620 film box outside" loading="lazy" width="500" height="492">
+</a>
+
+
+`UUID: 51e0c8950d164f8a985b46fe1b0e5f8b`↓
+
+<a href="./archive/00442_001.jpg" target="_blank">
+	<img src="./lowres/00442_001.jpg" alt="Kodak Gold 620 film box leaflet" loading="lazy" width="183" height="500">
+</a>
+
 #### [dekuNukem] Kodak Gold (ref: bdd5)
 
 ```
@@ -6867,6 +7011,48 @@ UUID  : dc9c151b87de48339e564e6692663206
 	<img src="./lowres/00060_000.jpg" alt="Kodak Kodachrome 64 35mm film box outside" loading="lazy" width="450" height="499">
 </a>
 
+#### [dekuNukem] Kodak Kodachrome II (ref: 0982)
+
+```
+Format: 828          |  Process : K-14    
+ISO   : 25           |  Expiry  : 1968-01 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : b9c0bacb3ac64fc6bb46b1e728710982
+```
+
+<a href="./archive/00441_000.jpg" target="_blank">
+	<img src="./lowres/00441_000.jpg" alt="Kodak Kodachrome II 828 film box outside" loading="lazy" width="456" height="500">
+</a>
+
+
+`UUID: 9f37569423ef4a36aa7a1c15976f0b2e`↓
+
+<a href="./archive/00441_001.jpg" target="_blank">
+	<img src="./lowres/00441_001.jpg" alt="Kodak Kodachrome II 828 film box leaflet" loading="lazy" width="225" height="500">
+</a>
+
+
+`UUID: 54a70d5cac414623925c05d402aa1df7`↓
+
+<a href="./archive/00441_002.jpg" target="_blank">
+	<img src="./lowres/00441_002.jpg" alt="Kodak Kodachrome II 828 film box leaflet" loading="lazy" width="235" height="500">
+</a>
+
+
+`UUID: 60d2979073e4417c9511260b6d004d8c`↓
+
+<a href="./archive/00441_003.jpg" target="_blank">
+	<img src="./lowres/00441_003.jpg" alt="Kodak Kodachrome II 828 film box processing envelope" loading="lazy" width="500" height="154">
+</a>
+
+
+`UUID: b776358cf6654afc867da7efc26e681b`↓
+
+<a href="./archive/00441_004.jpg" target="_blank">
+	<img src="./lowres/00441_004.jpg" alt="Kodak Kodachrome II 828 film box processing envelope" loading="lazy" width="500" height="163">
+</a>
+
 #### [dekuNukem] Kodak Kodacolor (ref: 5d25)
 
 ```
@@ -6921,6 +7107,20 @@ UUID  : 78bfeed667154d819902ec92d7dcf368
 
 <a href="./archive/00068_000.jpg" target="_blank">
 	<img src="./lowres/00068_000.jpg" alt="Kodak Kodacolor Gold 200 110 film box outside" loading="lazy" width="500" height="403">
+</a>
+
+#### [dekuNukem] Kodak Kodacolor Gold 400 (ref: 473d)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 1990-09 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 9d06405332c04b80b8b6ec709131473d
+```
+
+<a href="./archive/00440_000.jpg" target="_blank">
+	<img src="./lowres/00440_000.jpg" alt="Kodak Kodacolor Gold 400 110 film box outside" loading="lazy" width="500" height="423">
 </a>
 
 #### [dekuNukem] Kodak Kodacolor II (ref: 4108)
@@ -7155,6 +7355,20 @@ UUID  : f7f99b9d46a4491c9cbfda4f030f88c5
 	<img src="./lowres/00028_000.jpg" alt="Kodak Tri-X 400 120 film box outside" loading="lazy" width="408" height="500">
 </a>
 
+#### [dekuNukem] Kodak Verichrome (ref: e465)
+
+```
+Format: 616          |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1947-02 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : a7d5a1c6923e4090b91381a1c853e465
+```
+
+<a href="./archive/00443_000.jpg" target="_blank">
+	<img src="./lowres/00443_000.jpg" alt="Kodak Verichrome 616 film box outside" loading="lazy" width="500" height="404">
+</a>
+
 #### [dekuNukem] Kodak Verichrome (ref: c9c2)
 
 ```
@@ -7167,6 +7381,20 @@ UUID  : adf90d5a8c2b4ad6ba1b6524bf00c9c2
 
 <a href="./archive/00430_000.jpg" target="_blank">
 	<img src="./lowres/00430_000.jpg" alt="Kodak Verichrome 122 film box outside" loading="lazy" width="500" height="406">
+</a>
+
+#### [dekuNukem] Kodak Verichrome Pan (ref: 7984)
+
+```
+Format: 122          |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1962-03 
+Type  : Single Pack  |  Quantity: 6exp    
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : c17a688403b646e6aebd74e8ec357984
+```
+
+<a href="./archive/00433_000.jpg" target="_blank">
+	<img src="./lowres/00433_000.jpg" alt="Kodak Verichrome Pan 122 film box outside" loading="lazy" width="500" height="412">
 </a>
 
 #### [dekuNukem] Konica Centuria 200 (ref: e155)
@@ -7391,6 +7619,34 @@ UUID  : 2b69cd822cf44b0a833b845e7b515338
 
 <a href="./archive/00397_001.jpg" target="_blank">
 	<img src="./lowres/00397_001.jpg" alt="Minox MinoColor 100 Pro 8x11mm film box outside" loading="lazy" width="500" height="146">
+</a>
+
+#### [dekuNukem] Minox Minocolor 2 (ref: fadd)
+
+```
+Format: 8x11mm       |  Process : C-41    
+ISO   : 80           |  Expiry  : 1981-09 
+Type  : Single Pack  |  Quantity: 15exp   
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 5ee281ded82c46e5b628a58b9f10fadd
+```
+
+<a href="./archive/00438_000.jpg" target="_blank">
+	<img src="./lowres/00438_000.jpg" alt="Minox Minocolor 2 8x11mm film box outside" loading="lazy" width="500" height="425">
+</a>
+
+
+`UUID: 1590803fe8d045a480338838a869647e`↓
+
+<a href="./archive/00438_001.jpg" target="_blank">
+	<img src="./lowres/00438_001.jpg" alt="Minox Minocolor 2 8x11mm film box leaflet" loading="lazy" width="209" height="500">
+</a>
+
+
+`UUID: dc750856812b447eaa0debe4122808ac`↓
+
+<a href="./archive/00438_002.jpg" target="_blank">
+	<img src="./lowres/00438_002.jpg" alt="Minox Minocolor 2 8x11mm film box leaflet" loading="lazy" width="211" height="500">
 </a>
 
 #### [dekuNukem] Northwest Custom Film Processing Ultra Minituature Film (ref: 70b1)
@@ -8108,6 +8364,34 @@ UUID  : 686490575de4412b9309d5d797af10ad
 
 <a href="./archive/00426_002.jpg" target="_blank">
 	<img src="./lowres/00426_002.jpg" alt="efke R100 127 film box leaflet" loading="lazy" width="500" height="411">
+</a>
+
+#### [dekuNukem] efke R100 (ref: 100d)
+
+```
+Format: 127          |  Process : BW      
+ISO   : 100          |  Expiry  : 1998-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : fc90db41b94d486491177a8407f1100d
+```
+
+<a href="./archive/00435_000.jpg" target="_blank">
+	<img src="./lowres/00435_000.jpg" alt="efke R100 127 film box outside" loading="lazy" width="500" height="318">
+</a>
+
+
+`UUID: 877813b4c98d406b8739c4310f0116a8`↓
+
+<a href="./archive/00435_001.jpg" target="_blank">
+	<img src="./lowres/00435_001.jpg" alt="efke R100 127 film box leaflet" loading="lazy" width="500" height="426">
+</a>
+
+
+`UUID: fb3873078df9491491a4ff63374d80d2`↓
+
+<a href="./archive/00435_002.jpg" target="_blank">
+	<img src="./lowres/00435_002.jpg" alt="efke R100 127 film box leaflet" loading="lazy" width="500" height="453">
 </a>
 
 #### [fine-seat] Agfa AgfaColor XRG 200 (ref: 689e)
@@ -8932,7 +9216,7 @@ UUID  : e54ce68c797b4846b9aee3f5818ecb58
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     288   
+1     dekuNukem                     316   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @recycling.film               56    

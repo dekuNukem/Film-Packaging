@@ -779,3 +779,31 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 430,0,film_box_outside,Kodak,Verichrome,122,Unknown,BW,195109,1761046076,262b284a7d3a0a2e0347c3e2c12b891b,adf90d5a8c2b4ad6ba1b6524bf00c9c2,00430_000.jpg,dekuNukem,,Single Pack,6exp
 431,0,film_box_outside,Kodak,Gold,110,400,C-41,200201,1761046133,e1ccb9b2151804b61ab6df736f36b78f,f4719f9b5e534dbba19c194da39abdd5,00431_000.jpg,dekuNukem,,Single Pack,12exp
 432,0,film_box_outside,Gevaert,Gevachrome 30,122,40,BW,195710,1761046306,78ca9cacfae07e807a01acf897ad8c71,4cce875d701d4fd4b1d28353305ac0e3,00432_000.jpg,dekuNukem,30 most likely is European Scheiner film speed,Single Pack,6exp
+433,0,film_box_outside,Kodak,Verichrome Pan,122,Unknown,BW,196203,1761046395,b7a1cc3d6bdfaf9baddd191be457caf2,c17a688403b646e6aebd74e8ec357984,00433_000.jpg,dekuNukem,,Single Pack,6exp
+434,0,film_box_outside,Famous Brand Labs,Color Negative Film,127,64,Unknown,197106,1761046660,c6ff87f92e511fd42266bd6e6726415a,1c73b3f95ae14be5ab9a506ac83a0cd6,00434_000.jpg,dekuNukem,,Single Pack,N/A
+434,1,film_box_leaflet,Famous Brand Labs,Color Negative Film,127,64,Unknown,197106,1761046662,7df64e15e5a65577a5afa59222927e1a,c36b6fd7f2b84c8c804db6b318563ece,00434_001.jpg,dekuNukem,,Single Pack,N/A
+434,2,film_box_leaflet,Famous Brand Labs,Color Negative Film,127,64,Unknown,197106,1761046665,2abfd18a2e4d034de5241ec69185f632,f1b06cc535f346edbc6c46be4b11c79a,00434_002.jpg,dekuNukem,,Single Pack,N/A
+435,0,film_box_outside,efke,R100,127,100,BW,199809,1761046779,66c05c78bdbde876bff8d15c8ba783e0,fc90db41b94d486491177a8407f1100d,00435_000.jpg,dekuNukem,,Single Pack,N/A
+435,1,film_box_leaflet,efke,R100,127,100,BW,199809,1761046780,c073604de6e3a03ad4de0680970bb76e,877813b4c98d406b8739c4310f0116a8,00435_001.jpg,dekuNukem,,Single Pack,N/A
+435,2,film_box_leaflet,efke,R100,127,100,BW,199809,1761046784,e688e44e0eeafa06c24b36eac109352b,fb3873078df9491491a4ff63374d80d2,00435_002.jpg,dekuNukem,,Single Pack,N/A
+436,0,film_box_outside,Ilford,Selochrome,120,160,BW,196509,1761046964,d12a4091ef76ec89a817b49b3e3ca24a,f085080d08414582a703e7a1982df534,00436_000.jpg,dekuNukem,,Single Pack,N/A
+436,1,film_box_leaflet,Ilford,Selochrome,120,160,BW,196509,1761046965,e5f8dfdf0a6c72574e171aed1bd77f61,71077f96d6e74825b04d8c7b1a3a29b2,00436_001.jpg,dekuNukem,,Single Pack,N/A
+436,2,film_box_leaflet,Ilford,Selochrome,120,160,BW,196509,1761046968,e22b8862d32957c0120a317431d9b5f0,aa3d982c74984e12b6a621205250c1d5,00436_002.jpg,dekuNukem,,Single Pack,N/A
+437,0,film_box_outside,Agfa,Isopan IF Rapid,35mm,40,BW,196902,1761047495,f1fcf0d348967934af4e213f2a25c8e3,2eb6c6a9aa784c2e871b7edd33fb5962,00437_000.jpg,dekuNukem,,Single Pack,Unknown
+437,1,film_box_leaflet,Agfa,Isopan IF Rapid,35mm,40,BW,196902,1761047497,7be73fca763f6521d3629f52aafb1b9f,4a001e5fb1774942933060bd00e6c6ef,00437_001.jpg,dekuNukem,,Single Pack,Unknown
+437,2,film_box_leaflet,Agfa,Isopan IF Rapid,35mm,40,BW,196902,1761047499,96d37c522afafeeb74bd4085b9b6dbd9,6ca26308da0547e3bb8ffee5cffdd94e,00437_002.jpg,dekuNukem,,Single Pack,Unknown
+438,0,film_box_outside,Minox,Minocolor 2,8x11mm,80,C-41,198109,1761047605,e62ca4169210b2b216a93f0cff0b4c34,5ee281ded82c46e5b628a58b9f10fadd,00438_000.jpg,dekuNukem,,Single Pack,15exp
+438,1,film_box_leaflet,Minox,Minocolor 2,8x11mm,80,C-41,198109,1761047607,174ca6f8c8aebffc6353ea86029643b8,1590803fe8d045a480338838a869647e,00438_001.jpg,dekuNukem,,Single Pack,15exp
+438,2,film_box_leaflet,Minox,Minocolor 2,8x11mm,80,C-41,198109,1761047610,78d844b64aaf23c989eb1b2bcf866ded,dc750856812b447eaa0debe4122808ac,00438_002.jpg,dekuNukem,,Single Pack,15exp
+439,0,film_box_outside,Agfa,Agfacolor Special Negative Film CN S,120,80,Unknown,197101,1761047877,7b10fc8f2b4f845f4aeb0500ae786649,2e99ee5a9888408093d6983ed9871e83,00439_000.jpg,dekuNukem,,Single Pack,Unknown
+439,1,film_box_leaflet,Agfa,Agfacolor Special Negative Film CN S,120,80,Unknown,197101,1761047879,569ea334e02a86ac94635f0473af9115,019691600c184b2e8e1128dc6207790f,00439_001.jpg,dekuNukem,,Single Pack,Unknown
+439,2,film_box_leaflet,Agfa,Agfacolor Special Negative Film CN S,120,80,Unknown,197101,1761047880,056fcfd37f95c263bd1a79fe590292e8,7950cdc041654b77a36cee356ebc02b8,00439_002.jpg,dekuNukem,,Single Pack,Unknown
+440,0,film_box_outside,Kodak,Kodacolor Gold 400,110,400,C-41,199009,1761047978,3f1ab23f2d45872324c3dc88e6c6b0c2,9d06405332c04b80b8b6ec709131473d,00440_000.jpg,dekuNukem,,Single Pack,24exp
+441,0,film_box_outside,Kodak,Kodachrome II,828,25,K-14,196801,1761048111,7708ae1bf266a4de9cc963b67d49cddb,b9c0bacb3ac64fc6bb46b1e728710982,00441_000.jpg,dekuNukem,,Single Pack,12exp
+441,1,film_box_leaflet,Kodak,Kodachrome II,828,25,K-14,196801,1761048113,420262c9bab9cfd175170ce3e520b8e7,9f37569423ef4a36aa7a1c15976f0b2e,00441_001.jpg,dekuNukem,,Single Pack,12exp
+441,2,film_box_leaflet,Kodak,Kodachrome II,828,25,K-14,196801,1761048116,291add1cb2c3449519fd8afffd430624,54a70d5cac414623925c05d402aa1df7,00441_002.jpg,dekuNukem,,Single Pack,12exp
+441,3,film_box_processing_envelope,Kodak,Kodachrome II,828,25,K-14,196801,1761048119,a14fc1063376ab0bbcd0b3d8e37efa43,60d2979073e4417c9511260b6d004d8c,00441_003.jpg,dekuNukem,,Single Pack,12exp
+441,4,film_box_processing_envelope,Kodak,Kodachrome II,828,25,K-14,196801,1761048123,069ee4f168bc4b71c49cadae0210d91f,b776358cf6654afc867da7efc26e681b,00441_004.jpg,dekuNukem,,Single Pack,12exp
+442,0,film_box_outside,Kodak,Gold,620,200,C-41,199608,1761048242,688af5c7a83ed250013bce9c74eae05f,92c51161259045d5b726e32fa4ee1962,00442_000.jpg,dekuNukem,,Single Pack,Unknown
+442,1,film_box_leaflet,Kodak,Gold,620,200,C-41,199608,1761048243,45fdb185b4bd7b1f41f1c1ab068c8655,51e0c8950d164f8a985b46fe1b0e5f8b,00442_001.jpg,dekuNukem,,Single Pack,Unknown
+443,0,film_box_outside,Kodak,Verichrome,616,Unknown,BW,194702,1761048300,7d62129c542d5b5f03ea8015d0c95f51,a7d5a1c6923e4090b91381a1c853e465,00443_000.jpg,dekuNukem,,Single Pack,8exp
