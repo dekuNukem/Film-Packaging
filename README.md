@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Oct 21 2025
-Unique items: 439
-Total scans : 808
+Unique items: 445
+Total scans : 826
 ```
 
 Or Sort by...
@@ -53,7 +53,7 @@ Or Sort by...
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     316   
+1     dekuNukem                     334   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @recycling.film               56    
@@ -94,18 +94,22 @@ Rank  Username                      Contributions
 
 ```
 2025-10-21
+  - dekuNukem: Agfa Agfacolor Reversal Film CK
   - dekuNukem: Agfa Agfacolor Special Negative Film CN S
   - dekuNukem: Agfa CT Precisa 100
   - dekuNukem: Agfa Isopan IF Rapid
+  - dekuNukem: Agfa Isopan ISS Rapid
   - dekuNukem: efke R100
   - dekuNukem: Famous Brand Labs Color Negative Film
   - dekuNukem: Gevaert Gevachrome 30
   - dekuNukem: Gevaert Infra-R
+  - dekuNukem: Great Films Processing Kodachrome
   - dekuNukem: Ilford Selochrome
   - dekuNukem: Kodak Ektachrome-X
   - dekuNukem: Kodak Gold
   - dekuNukem: Kodak Kodachrome II
   - dekuNukem: Kodak Kodacolor Gold 400
+  - dekuNukem: Kodak Kodacolor II
   - dekuNukem: Kodak Plus-X
   - dekuNukem: Kodak Verichrome
   - dekuNukem: Kodak Verichrome Pan

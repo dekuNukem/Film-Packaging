@@ -807,3 +807,21 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 442,0,film_box_outside,Kodak,Gold,620,200,C-41,199608,1761048242,688af5c7a83ed250013bce9c74eae05f,92c51161259045d5b726e32fa4ee1962,00442_000.jpg,dekuNukem,,Single Pack,Unknown
 442,1,film_box_leaflet,Kodak,Gold,620,200,C-41,199608,1761048243,45fdb185b4bd7b1f41f1c1ab068c8655,51e0c8950d164f8a985b46fe1b0e5f8b,00442_001.jpg,dekuNukem,,Single Pack,Unknown
 443,0,film_box_outside,Kodak,Verichrome,616,Unknown,BW,194702,1761048300,7d62129c542d5b5f03ea8015d0c95f51,a7d5a1c6923e4090b91381a1c853e465,00443_000.jpg,dekuNukem,,Single Pack,8exp
+444,0,film_box_outside,Agfa,Agfacolor Reversal Film CK,35mm,80,Unknown,196903,1761048769,a82d587edb317f2facc36219e3b6ee7c,9129d9db8e114656a58fd2a422b43502,00444_000.jpg,dekuNukem,,Single Pack,36exp
+444,1,film_box_leaflet,Agfa,Agfacolor Reversal Film CK,35mm,80,Unknown,196903,1761048770,370c0cca3352fca0088281052e9163db,5d631a69e3e048208c70ec8f859c6045,00444_001.jpg,dekuNukem,,Single Pack,36exp
+444,2,film_box_leaflet,Agfa,Agfacolor Reversal Film CK,35mm,80,Unknown,196903,1761048771,a38ae4aeb4cefa8b72a2922075c75c9f,68d8ba930ba94a23bcc2c63cd9eb85d0,00444_002.jpg,dekuNukem,,Single Pack,36exp
+444,3,film_box_leaflet,Agfa,Agfacolor Reversal Film CK,35mm,80,Unknown,196903,1761048773,f4104f8b09acf8c6a78e3efc1a2c6036,704456920a9943f6bb8a6527d730503c,00444_003.jpg,dekuNukem,,Single Pack,36exp
+444,4,film_box_leaflet,Agfa,Agfacolor Reversal Film CK,35mm,80,Unknown,196903,1761048775,fba324960b85032255a62b6f04856b3d,d777eafbaf03482ca3766210fa8d0e47,00444_004.jpg,dekuNukem,,Single Pack,36exp
+444,5,film_box_leaflet,Agfa,Agfacolor Reversal Film CK,35mm,80,Unknown,196903,1761048776,f9a799e9652790d2798ae3c277125d7c,38c2b3a21696430db60ee99a8c55eb0b,00444_005.jpg,dekuNukem,,Single Pack,36exp
+444,6,film_box_processing_envelope,Agfa,Agfacolor Reversal Film CK,35mm,80,Unknown,196903,1761048778,1f0e7b2281a246672b2ae9e284f058ae,accd90cdf18945939b51da0450c76fa7,00444_006.jpg,dekuNukem,,Single Pack,36exp
+444,7,film_box_processing_envelope,Agfa,Agfacolor Reversal Film CK,35mm,80,Unknown,196903,1761048780,9f32bf981cc2a4ccff6433e9ca826e0f,c4b98fe88f5144df9629f289423fe72e,00444_007.jpg,dekuNukem,,Single Pack,36exp
+445,0,film_box_outside,Great Films Processing,Kodachrome,35mm,Unknown,K-14,Unknown,1761048929,2569719bdc6b68fa576d73d55ec0818b,0f14cf86439a4009a252f730c308c012,00445_000.jpg,dekuNukem,,Single Pack,20exp
+445,1,film_box_processing_envelope,Great Films Processing,Kodachrome,35mm,Unknown,K-14,Unknown,1761048934,73969cf557249ded128468b5def1f87e,4080798f7349471c9bc69513abf6b36e,00445_001.jpg,dekuNukem,,Single Pack,20exp
+445,2,film_box_processing_envelope,Great Films Processing,Kodachrome,35mm,Unknown,K-14,Unknown,1761048938,639333e9f162cb2249b5145a14816c42,3d6c1f5381464108a2758a210b1223f5,00445_002.jpg,dekuNukem,,Single Pack,20exp
+445,3,film_box_processing_envelope,Great Films Processing,Kodachrome,35mm,Unknown,K-14,Unknown,1761048941,78fdeb9dd698735f1d0fe4d9d7a060e5,f8c3bdcd064b46b6b5cf8d32372e6e6f,00445_003.jpg,dekuNukem,,Single Pack,20exp
+446,0,film_box_outside,Kodak,Kodacolor II,620,100,C-41,197908,1761049115,5988aa3818cf23e65879bacdd45df923,251b2a7fd42343e6b655b100794bb19e,00446_000.jpg,dekuNukem,,Single Pack,Unknown
+446,1,film_box_leaflet,Kodak,Kodacolor II,620,100,C-41,197908,1761049117,8855e5f0db5ceaa78e8c301a757828e8,51b3490951d941be9922c1bf261a5551,00446_001.jpg,dekuNukem,,Single Pack,Unknown
+446,2,film_box_leaflet,Kodak,Kodacolor II,620,100,C-41,197908,1761049119,6b6ee425a74a7739e3ede41c85fa54ba,51a30e2c83294d4b858bef55f6a66d21,00446_002.jpg,dekuNukem,,Single Pack,Unknown
+447,0,film_box_outside,Agfa,Isopan IF Rapid,35mm,40,BW,197601,1761049236,2a521ae309c9a7ee36be4566346d9d28,f8785e8bcd5748aeb847c3f6b2d62b99,00447_000.jpg,dekuNukem,,Single Pack,Unknown
+448,0,film_box_outside,Agfa,Isopan ISS Rapid,35mm,100,BW,198007,1761049280,f32dcfe5bd88ee97620bba455328b484,d90937332f0a4392adb1f344b5ba3aee,00448_000.jpg,dekuNukem,,Single Pack,Unknown
+449,0,film_box_outside,Agfa,Isopan ISS Rapid,35mm,100,BW,197401,1761049321,e95660da724022ed85b98d23b937af85,3b6a16ff2678454590c574c2fd969799,00449_000.jpg,dekuNukem,,Single Pack,Unknown

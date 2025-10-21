@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 21 2025
-Unique items: 439
-Total scans : 808
+Unique items: 445
+Total scans : 826
 ```
 
 -----
@@ -177,6 +177,7 @@ Total scans : 808
 - [[35mm] Agfa AgfaColor Vista (ref: d3af)](#35mm-agfa-agfacolor-vista-ref-d3af)
 - [[35mm] Agfa AgfaColor XRG 200 (ref: 689e)](#35mm-agfa-agfacolor-xrg-200-ref-689e)
 - [[35mm] Agfa Agfacolor Negative Film Special CNS (ref: 9b03)](#35mm-agfa-agfacolor-negative-film-special-cns-ref-9b03)
+- [[35mm] Agfa Agfacolor Reversal Film CK (ref: 3502)](#35mm-agfa-agfacolor-reversal-film-ck-ref-3502)
 - [[35mm] Agfa Agfacolor Umkehr-Ultra T (ref: 01db)](#35mm-agfa-agfacolor-umkehr-ultra-t-ref-01db)
 - [[35mm] Agfa Agfapan  APX 25 (ref: 805f)](#35mm-agfa-agfapan-apx-25-ref-805f)
 - [[35mm] Agfa Agfapan APX 100 (ref: e271)](#35mm-agfa-agfapan-apx-100-ref-e271)
@@ -186,8 +187,11 @@ Total scans : 808
 - [[35mm] Agfa Fine-Grain Plenachrome (ref: e5d4)](#35mm-agfa-fine-grain-plenachrome-ref-e5d4)
 - [[35mm] Agfa Isopan FF (ref: 3700)](#35mm-agfa-isopan-ff-ref-3700)
 - [[35mm] Agfa Isopan IF Rapid (ref: 5962)](#35mm-agfa-isopan-if-rapid-ref-5962)
+- [[35mm] Agfa Isopan IF Rapid (ref: 2b99)](#35mm-agfa-isopan-if-rapid-ref-2b99)
 - [[35mm] Agfa Isopan ISS (ref: 75fa)](#35mm-agfa-isopan-iss-ref-75fa)
 - [[35mm] Agfa Isopan ISS (ref: b9d7)](#35mm-agfa-isopan-iss-ref-b9d7)
+- [[35mm] Agfa Isopan ISS Rapid (ref: 9799)](#35mm-agfa-isopan-iss-rapid-ref-9799)
+- [[35mm] Agfa Isopan ISS Rapid (ref: 3aee)](#35mm-agfa-isopan-iss-rapid-ref-3aee)
 - [[35mm] Agfa Vista Plus 200 (ref: f5f7)](#35mm-agfa-vista-plus-200-ref-f5f7)
 - [[35mm] Agfa Vista Plus 200 (ref: f08a)](#35mm-agfa-vista-plus-200-ref-f08a)
 - [[35mm] Alfo ALFOcolor PR-G (ref: 94b9)](#35mm-alfo-alfocolor-pr-g-ref-94b9)
@@ -250,6 +254,7 @@ Total scans : 808
 - [[35mm] Fujifilm Neopan SS Rapid (ref: 9db3)](#35mm-fujifilm-neopan-ss-rapid-ref-9db3)
 - [[35mm] Fujifilm Superia Premium 400 (ref: ef1f)](#35mm-fujifilm-superia-premium-400-ref-ef1f)
 - [[35mm] GAF Color Slide Film (ref: 6815)](#35mm-gaf-color-slide-film-ref-6815)
+- [[35mm] Great Films Processing Kodachrome (ref: c012)](#35mm-great-films-processing-kodachrome-ref-c012)
 - [[35mm] Hands On Film Midnight 1600 (ref: 4411)](#35mm-hands-on-film-midnight-1600-ref-4411)
 - [[35mm] Harman Phoenix (ref: 8eb4)](#35mm-harman-phoenix-ref-8eb4)
 - [[35mm] Harman Phoenix II (ref: 40df)](#35mm-harman-phoenix-ii-ref-40df)
@@ -422,6 +427,7 @@ Total scans : 808
 - [[620] Ilford HP3 (ref: 1afc)](#620-ilford-hp3-ref-1afc)
 - [[620] Kodak Ektachrome-X (ref: c057)](#620-kodak-ektachrome-x-ref-c057)
 - [[620] Kodak Gold (ref: 1962)](#620-kodak-gold-ref-1962)
+- [[620] Kodak Kodacolor II (ref: b19e)](#620-kodak-kodacolor-ii-ref-b19e)
 - [[620] Kodak Verichrome Pan (ref: 0195)](#620-kodak-verichrome-pan-ref-0195)
 - [[620] Walgreen All Purpose Film (ref: 541b)](#620-walgreen-all-purpose-film-ref-541b)
 - [[70mm] Kodak Portra 400NC (ref: b8de)](#70mm-kodak-portra-400nc-ref-b8de)
@@ -3764,6 +3770,69 @@ UUID  : 1cf0e26c5894469ebdbd94e104c89b03
 	<img src="./lowres/00418_002.jpg" alt="Agfa Agfacolor Negative Film Special CNS 35mm film box leaflet" loading="lazy" width="500" height="365">
 </a>
 
+#### [35mm] Agfa Agfacolor Reversal Film CK (ref: 3502)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 80           |  Expiry  : 1969-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 9129d9db8e114656a58fd2a422b43502
+```
+
+<a href="./archive/00444_000.jpg" target="_blank">
+	<img src="./lowres/00444_000.jpg" alt="Agfa Agfacolor Reversal Film CK 35mm film box outside" loading="lazy" width="500" height="478">
+</a>
+
+
+`UUID: 5d631a69e3e048208c70ec8f859c6045`↓
+
+<a href="./archive/00444_001.jpg" target="_blank">
+	<img src="./lowres/00444_001.jpg" alt="Agfa Agfacolor Reversal Film CK 35mm film box leaflet" loading="lazy" width="500" height="352">
+</a>
+
+
+`UUID: 68d8ba930ba94a23bcc2c63cd9eb85d0`↓
+
+<a href="./archive/00444_002.jpg" target="_blank">
+	<img src="./lowres/00444_002.jpg" alt="Agfa Agfacolor Reversal Film CK 35mm film box leaflet" loading="lazy" width="500" height="360">
+</a>
+
+
+`UUID: 704456920a9943f6bb8a6527d730503c`↓
+
+<a href="./archive/00444_003.jpg" target="_blank">
+	<img src="./lowres/00444_003.jpg" alt="Agfa Agfacolor Reversal Film CK 35mm film box leaflet" loading="lazy" width="363" height="500">
+</a>
+
+
+`UUID: d777eafbaf03482ca3766210fa8d0e47`↓
+
+<a href="./archive/00444_004.jpg" target="_blank">
+	<img src="./lowres/00444_004.jpg" alt="Agfa Agfacolor Reversal Film CK 35mm film box leaflet" loading="lazy" width="405" height="500">
+</a>
+
+
+`UUID: 38c2b3a21696430db60ee99a8c55eb0b`↓
+
+<a href="./archive/00444_005.jpg" target="_blank">
+	<img src="./lowres/00444_005.jpg" alt="Agfa Agfacolor Reversal Film CK 35mm film box leaflet" loading="lazy" width="500" height="476">
+</a>
+
+
+`UUID: accd90cdf18945939b51da0450c76fa7`↓
+
+<a href="./archive/00444_006.jpg" target="_blank">
+	<img src="./lowres/00444_006.jpg" alt="Agfa Agfacolor Reversal Film CK 35mm film box processing envelope" loading="lazy" width="500" height="281">
+</a>
+
+
+`UUID: c4b98fe88f5144df9629f289423fe72e`↓
+
+<a href="./archive/00444_007.jpg" target="_blank">
+	<img src="./lowres/00444_007.jpg" alt="Agfa Agfacolor Reversal Film CK 35mm film box processing envelope" loading="lazy" width="500" height="290">
+</a>
+
 #### [35mm] Agfa Agfacolor Umkehr-Ultra T (ref: 01db)
 
 ```
@@ -3932,6 +4001,20 @@ UUID  : 2eb6c6a9aa784c2e871b7edd33fb5962
 	<img src="./lowres/00437_002.jpg" alt="Agfa Isopan IF Rapid 35mm film box leaflet" loading="lazy" width="500" height="345">
 </a>
 
+#### [35mm] Agfa Isopan IF Rapid (ref: 2b99)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 40           |  Expiry  : 1976-01 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : f8785e8bcd5748aeb847c3f6b2d62b99
+```
+
+<a href="./archive/00447_000.jpg" target="_blank">
+	<img src="./lowres/00447_000.jpg" alt="Agfa Isopan IF Rapid 35mm film box outside" loading="lazy" width="500" height="475">
+</a>
+
 #### [35mm] Agfa Isopan ISS (ref: 75fa)
 
 ```
@@ -3958,6 +4041,34 @@ UUID  : 25cfa8cb048141e38ed79df6bf38b9d7
 
 <a href="./archive/00374_000.jpg" target="_blank">
 	<img src="./lowres/00374_000.jpg" alt="Agfa Isopan ISS 35mm film cartridge" loading="lazy" width="500" height="500">
+</a>
+
+#### [35mm] Agfa Isopan ISS Rapid (ref: 9799)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 1974-01 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 3b6a16ff2678454590c574c2fd969799
+```
+
+<a href="./archive/00449_000.jpg" target="_blank">
+	<img src="./lowres/00449_000.jpg" alt="Agfa Isopan ISS Rapid 35mm film box outside" loading="lazy" width="500" height="473">
+</a>
+
+#### [35mm] Agfa Isopan ISS Rapid (ref: 3aee)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 1980-07 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : d90937332f0a4392adb1f344b5ba3aee
+```
+
+<a href="./archive/00448_000.jpg" target="_blank">
+	<img src="./lowres/00448_000.jpg" alt="Agfa Isopan ISS Rapid 35mm film box outside" loading="lazy" width="500" height="483">
 </a>
 
 #### [35mm] Agfa Vista Plus 200 (ref: f5f7)
@@ -5050,6 +5161,41 @@ UUID  : b57e8c465ff94e02afa31d267b846815
 
 <a href="./archive/00407_000.jpg" target="_blank">
 	<img src="./lowres/00407_000.jpg" alt="GAF Color Slide Film 35mm film cartridge" loading="lazy" width="386" height="500">
+</a>
+
+#### [35mm] Great Films Processing Kodachrome (ref: c012)
+
+```
+Format: 35mm         |  Process : K-14    
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 0f14cf86439a4009a252f730c308c012
+```
+
+<a href="./archive/00445_000.jpg" target="_blank">
+	<img src="./lowres/00445_000.jpg" alt="Great Films Processing Kodachrome 35mm film box outside" loading="lazy" width="500" height="486">
+</a>
+
+
+`UUID: 4080798f7349471c9bc69513abf6b36e`↓
+
+<a href="./archive/00445_001.jpg" target="_blank">
+	<img src="./lowres/00445_001.jpg" alt="Great Films Processing Kodachrome 35mm film box processing envelope" loading="lazy" width="500" height="277">
+</a>
+
+
+`UUID: 3d6c1f5381464108a2758a210b1223f5`↓
+
+<a href="./archive/00445_002.jpg" target="_blank">
+	<img src="./lowres/00445_002.jpg" alt="Great Films Processing Kodachrome 35mm film box processing envelope" loading="lazy" width="500" height="217">
+</a>
+
+
+`UUID: f8c3bdcd064b46b6b5cf8d32372e6e6f`↓
+
+<a href="./archive/00445_003.jpg" target="_blank">
+	<img src="./lowres/00445_003.jpg" alt="Great Films Processing Kodachrome 35mm film box processing envelope" loading="lazy" width="500" height="321">
 </a>
 
 #### [35mm] Hands On Film Midnight 1600 (ref: 4411)
@@ -8288,6 +8434,34 @@ UUID  : 92c51161259045d5b726e32fa4ee1962
 	<img src="./lowres/00442_001.jpg" alt="Kodak Gold 620 film box leaflet" loading="lazy" width="183" height="500">
 </a>
 
+#### [620] Kodak Kodacolor II (ref: b19e)
+
+```
+Format: 620          |  Process : C-41    
+ISO   : 100          |  Expiry  : 1979-08 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 251b2a7fd42343e6b655b100794bb19e
+```
+
+<a href="./archive/00446_000.jpg" target="_blank">
+	<img src="./lowres/00446_000.jpg" alt="Kodak Kodacolor II 620 film box outside" loading="lazy" width="500" height="465">
+</a>
+
+
+`UUID: 51b3490951d941be9922c1bf261a5551`↓
+
+<a href="./archive/00446_001.jpg" target="_blank">
+	<img src="./lowres/00446_001.jpg" alt="Kodak Kodacolor II 620 film box leaflet" loading="lazy" width="224" height="500">
+</a>
+
+
+`UUID: 51a30e2c83294d4b858bef55f6a66d21`↓
+
+<a href="./archive/00446_002.jpg" target="_blank">
+	<img src="./lowres/00446_002.jpg" alt="Kodak Kodacolor II 620 film box leaflet" loading="lazy" width="215" height="499">
+</a>
+
 #### [620] Kodak Verichrome Pan (ref: 0195)
 
 ```
@@ -9216,7 +9390,7 @@ Notes : There was a roll of 127 ekfe R100 inside, not sure if it's the original,
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     316   
+1     dekuNukem                     334   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @recycling.film               56    

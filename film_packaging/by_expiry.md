@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 21 2025
-Unique items: 439
-Total scans : 808
+Unique items: 445
+Total scans : 826
 ```
 
 -----
@@ -57,6 +57,7 @@ Total scans : 808
 - [[1969] Agfa Agfapan Rapid (ref: 5e7b)](#1969-agfa-agfapan-rapid-ref-5e7b)
 - [[1969] Agfa Isopan IF Rapid (ref: 5962)](#1969-agfa-isopan-if-rapid-ref-5962)
 - [[1969] Ilford HP3 (ref: 1afc)](#1969-ilford-hp3-ref-1afc)
+- [[1969] Agfa Agfacolor Reversal Film CK (ref: 3502)](#1969-agfa-agfacolor-reversal-film-ck-ref-3502)
 - [[1970] Kodak Plus-X Pan (ref: f5cc)](#1970-kodak-plus-x-pan-ref-f5cc)
 - [[1970] Kodak High Speed Ektachrome (ref: ec3d)](#1970-kodak-high-speed-ektachrome-ref-ec3d)
 - [[1970] Kodak High Contrast Copy Film (ref: db52)](#1970-kodak-high-contrast-copy-film-ref-db52)
@@ -68,6 +69,7 @@ Total scans : 808
 - [[1972] Kodak Ektachrome-X (ref: ae7e)](#1972-kodak-ektachrome-x-ref-ae7e)
 - [[1973] Kodak Ektachrome-X (ref: aec5)](#1973-kodak-ektachrome-x-ref-aec5)
 - [[1974] Agfa Isopan ISS (ref: 5ba6)](#1974-agfa-isopan-iss-ref-5ba6)
+- [[1974] Agfa Isopan ISS Rapid (ref: 9799)](#1974-agfa-isopan-iss-rapid-ref-9799)
 - [[1974] GAF Color Slide Film (ref: dea6)](#1974-gaf-color-slide-film-ref-dea6)
 - [[1974] Kodak High Speed Infrared Film 2481 (ref: aa7a)](#1974-kodak-high-speed-infrared-film-2481-ref-aa7a)
 - [[1974] Kodak Kodacolor-X (ref: a4b1)](#1974-kodak-kodacolor-x-ref-a4b1)
@@ -78,6 +80,7 @@ Total scans : 808
 - [[1975] Fujifilm Neopan SS Rapid (ref: 9db3)](#1975-fujifilm-neopan-ss-rapid-ref-9db3)
 - [[1975] Kodak Kodacolor-X (ref: 5302)](#1975-kodak-kodacolor-x-ref-5302)
 - [[1975] PrinzColor Colour Negative Film (ref: 448c)](#1975-prinzcolor-colour-negative-film-ref-448c)
+- [[1976] Agfa Isopan IF Rapid (ref: 2b99)](#1976-agfa-isopan-if-rapid-ref-2b99)
 - [[1976] Triple-Print Film Labs Color Negative Film (ref: 88e6)](#1976-triple-print-film-labs-color-negative-film-ref-88e6)
 - [[1976] Film Corporation of America TriFCA 35 (ref: 8f0a)](#1976-film-corporation-of-america-trifca-35-ref-8f0a)
 - [[1976] Agfa Agfacolor Negative Film Special CNS (ref: 9b03)](#1976-agfa-agfacolor-negative-film-special-cns-ref-9b03)
@@ -92,9 +95,11 @@ Total scans : 808
 - [[1978] Kodak Kodacolor II (ref: 4108)](#1978-kodak-kodacolor-ii-ref-4108)
 - [[1978] Kodak Ektachrome 200 (ref: f372)](#1978-kodak-ektachrome-200-ref-f372)
 - [[1979] GAF Color Slide Film (ref: 6815)](#1979-gaf-color-slide-film-ref-6815)
+- [[1979] Kodak Kodacolor II (ref: b19e)](#1979-kodak-kodacolor-ii-ref-b19e)
 - [[1979] Kodak Ektachrome 64 (ref: 07c0)](#1979-kodak-ektachrome-64-ref-07c0)
 - [[1979] Kodak Kodachrome 64 (ref: 3145)](#1979-kodak-kodachrome-64-ref-3145)
 - [[1979] Kodak Tri-X Pan (ref: 85e9)](#1979-kodak-tri-x-pan-ref-85e9)
+- [[1980] Agfa Isopan ISS Rapid (ref: 3aee)](#1980-agfa-isopan-iss-rapid-ref-3aee)
 - [[1980] Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)](#1980-polaroid-polavision-phototape-land-cassette-type-608-ref-90b9)
 - [[1980] Kodak Ektachrome 400 (ref: 2b94)](#1980-kodak-ektachrome-400-ref-2b94)
 - [[1980] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)](#1980-kodak-ektachrome-160-movie-film-type-a-ref-8f62)
@@ -442,6 +447,7 @@ Total scans : 808
 - [[Unknown] Film Corporation of America TriFCA 120 (ref: 9937)](#unknown-film-corporation-of-america-trifca-120-ref-9937)
 - [[Unknown] Gevaert Infra-R (ref: fc88)](#unknown-gevaert-infra-r-ref-fc88)
 - [[Unknown] Gevaert Ultra Panchro Normal (ref: 1ff6)](#unknown-gevaert-ultra-panchro-normal-ref-1ff6)
+- [[Unknown] Great Films Processing Kodachrome (ref: c012)](#unknown-great-films-processing-kodachrome-ref-c012)
 - [[Unknown] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#unknown-hasselblad-hassel-plåtar-erorto-ref-ec67)
 - [[Unknown] Illingworth's Fleet H&D (ref: 54fe)](#unknown-illingworths-fleet-h-d-ref-54fe)
 - [[Unknown] Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)](#unknown-impossible-project-px-600-silver-shade-uv-ref-20f3)
@@ -1194,6 +1200,69 @@ UUID  : df6db4a9d0a24f4689647a4ece831afc
 	<img src="./lowres/00382_002.jpg" alt="Ilford HP3 620 film box leaflet" loading="lazy" width="473" height="500">
 </a>
 
+#### [1969] Agfa Agfacolor Reversal Film CK (ref: 3502)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 80           |  Expiry  : 1969-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 9129d9db8e114656a58fd2a422b43502
+```
+
+<a href="./archive/00444_000.jpg" target="_blank">
+	<img src="./lowres/00444_000.jpg" alt="Agfa Agfacolor Reversal Film CK 35mm film box outside" loading="lazy" width="500" height="478">
+</a>
+
+
+`UUID: 5d631a69e3e048208c70ec8f859c6045`↓
+
+<a href="./archive/00444_001.jpg" target="_blank">
+	<img src="./lowres/00444_001.jpg" alt="Agfa Agfacolor Reversal Film CK 35mm film box leaflet" loading="lazy" width="500" height="352">
+</a>
+
+
+`UUID: 68d8ba930ba94a23bcc2c63cd9eb85d0`↓
+
+<a href="./archive/00444_002.jpg" target="_blank">
+	<img src="./lowres/00444_002.jpg" alt="Agfa Agfacolor Reversal Film CK 35mm film box leaflet" loading="lazy" width="500" height="360">
+</a>
+
+
+`UUID: 704456920a9943f6bb8a6527d730503c`↓
+
+<a href="./archive/00444_003.jpg" target="_blank">
+	<img src="./lowres/00444_003.jpg" alt="Agfa Agfacolor Reversal Film CK 35mm film box leaflet" loading="lazy" width="363" height="500">
+</a>
+
+
+`UUID: d777eafbaf03482ca3766210fa8d0e47`↓
+
+<a href="./archive/00444_004.jpg" target="_blank">
+	<img src="./lowres/00444_004.jpg" alt="Agfa Agfacolor Reversal Film CK 35mm film box leaflet" loading="lazy" width="405" height="500">
+</a>
+
+
+`UUID: 38c2b3a21696430db60ee99a8c55eb0b`↓
+
+<a href="./archive/00444_005.jpg" target="_blank">
+	<img src="./lowres/00444_005.jpg" alt="Agfa Agfacolor Reversal Film CK 35mm film box leaflet" loading="lazy" width="500" height="476">
+</a>
+
+
+`UUID: accd90cdf18945939b51da0450c76fa7`↓
+
+<a href="./archive/00444_006.jpg" target="_blank">
+	<img src="./lowres/00444_006.jpg" alt="Agfa Agfacolor Reversal Film CK 35mm film box processing envelope" loading="lazy" width="500" height="281">
+</a>
+
+
+`UUID: c4b98fe88f5144df9629f289423fe72e`↓
+
+<a href="./archive/00444_007.jpg" target="_blank">
+	<img src="./lowres/00444_007.jpg" alt="Agfa Agfacolor Reversal Film CK 35mm film box processing envelope" loading="lazy" width="500" height="290">
+</a>
+
 #### [1970] Kodak Plus-X Pan (ref: f5cc)
 
 ```
@@ -1423,6 +1492,20 @@ UUID  : ab1d4ea5f512444e92d82e4610c75ba6
 
 <a href="./archive/00357_000.jpg" target="_blank">
 	<img src="./lowres/00357_000.jpg" alt="Agfa Isopan ISS 127 film box outside" loading="lazy" width="500" height="412">
+</a>
+
+#### [1974] Agfa Isopan ISS Rapid (ref: 9799)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 1974-01 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 3b6a16ff2678454590c574c2fd969799
+```
+
+<a href="./archive/00449_000.jpg" target="_blank">
+	<img src="./lowres/00449_000.jpg" alt="Agfa Isopan ISS Rapid 35mm film box outside" loading="lazy" width="500" height="473">
 </a>
 
 #### [1974] GAF Color Slide Film (ref: dea6)
@@ -1689,6 +1772,20 @@ UUID  : 1d1377fcb4fa495e9f3009a4c69b448c
 
 <a href="./archive/00363_004.jpg" target="_blank">
 	<img src="./lowres/00363_004.jpg" alt="PrinzColor Colour Negative Film 35mm film box outside" loading="lazy" width="500" height="202">
+</a>
+
+#### [1976] Agfa Isopan IF Rapid (ref: 2b99)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 40           |  Expiry  : 1976-01 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : f8785e8bcd5748aeb847c3f6b2d62b99
+```
+
+<a href="./archive/00447_000.jpg" target="_blank">
+	<img src="./lowres/00447_000.jpg" alt="Agfa Isopan IF Rapid 35mm film box outside" loading="lazy" width="500" height="475">
 </a>
 
 #### [1976] Triple-Print Film Labs Color Negative Film (ref: 88e6)
@@ -2106,6 +2203,34 @@ UUID  : b57e8c465ff94e02afa31d267b846815
 	<img src="./lowres/00407_000.jpg" alt="GAF Color Slide Film 35mm film cartridge" loading="lazy" width="386" height="500">
 </a>
 
+#### [1979] Kodak Kodacolor II (ref: b19e)
+
+```
+Format: 620          |  Process : C-41    
+ISO   : 100          |  Expiry  : 1979-08 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 251b2a7fd42343e6b655b100794bb19e
+```
+
+<a href="./archive/00446_000.jpg" target="_blank">
+	<img src="./lowres/00446_000.jpg" alt="Kodak Kodacolor II 620 film box outside" loading="lazy" width="500" height="465">
+</a>
+
+
+`UUID: 51b3490951d941be9922c1bf261a5551`↓
+
+<a href="./archive/00446_001.jpg" target="_blank">
+	<img src="./lowres/00446_001.jpg" alt="Kodak Kodacolor II 620 film box leaflet" loading="lazy" width="224" height="500">
+</a>
+
+
+`UUID: 51a30e2c83294d4b858bef55f6a66d21`↓
+
+<a href="./archive/00446_002.jpg" target="_blank">
+	<img src="./lowres/00446_002.jpg" alt="Kodak Kodacolor II 620 film box leaflet" loading="lazy" width="215" height="499">
+</a>
+
 #### [1979] Kodak Ektachrome 64 (ref: 07c0)
 
 ```
@@ -2160,6 +2285,20 @@ UUID  : 09363ad5ddf84f67bb44ac27d17c85e9
 
 <a href="./archive/00410_000.jpg" target="_blank">
 	<img src="./lowres/00410_000.jpg" alt="Kodak Tri-X Pan 35mm film box outside" loading="lazy" width="404" height="500">
+</a>
+
+#### [1980] Agfa Isopan ISS Rapid (ref: 3aee)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 1980-07 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : d90937332f0a4392adb1f344b5ba3aee
+```
+
+<a href="./archive/00448_000.jpg" target="_blank">
+	<img src="./lowres/00448_000.jpg" alt="Agfa Isopan ISS Rapid 35mm film box outside" loading="lazy" width="500" height="483">
 </a>
 
 #### [1980] Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)
@@ -8834,6 +8973,41 @@ UUID  : 9a6b4771688d43c58b96c254e43d1ff6
 	<img src="./lowres/00288_000.jpg" alt="Gevaert Ultra Panchro Normal 12x16.5cm film box outside" loading="lazy" width="379" height="500">
 </a>
 
+#### [Unknown] Great Films Processing Kodachrome (ref: c012)
+
+```
+Format: 35mm         |  Process : K-14    
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 0f14cf86439a4009a252f730c308c012
+```
+
+<a href="./archive/00445_000.jpg" target="_blank">
+	<img src="./lowres/00445_000.jpg" alt="Great Films Processing Kodachrome 35mm film box outside" loading="lazy" width="500" height="486">
+</a>
+
+
+`UUID: 4080798f7349471c9bc69513abf6b36e`↓
+
+<a href="./archive/00445_001.jpg" target="_blank">
+	<img src="./lowres/00445_001.jpg" alt="Great Films Processing Kodachrome 35mm film box processing envelope" loading="lazy" width="500" height="277">
+</a>
+
+
+`UUID: 3d6c1f5381464108a2758a210b1223f5`↓
+
+<a href="./archive/00445_002.jpg" target="_blank">
+	<img src="./lowres/00445_002.jpg" alt="Great Films Processing Kodachrome 35mm film box processing envelope" loading="lazy" width="500" height="217">
+</a>
+
+
+`UUID: f8c3bdcd064b46b6b5cf8d32372e6e6f`↓
+
+<a href="./archive/00445_003.jpg" target="_blank">
+	<img src="./lowres/00445_003.jpg" alt="Great Films Processing Kodachrome 35mm film box processing envelope" loading="lazy" width="500" height="321">
+</a>
+
 #### [Unknown] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)
 
 ```
@@ -9216,7 +9390,7 @@ UUID  : 80d64fa269454c5589109c68a40541a8
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     316   
+1     dekuNukem                     334   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @recycling.film               56    
