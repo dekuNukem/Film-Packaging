@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 17 2025
-Unique items: 417
-Total scans : 757
+Last Updated: Oct 21 2025
+Unique items: 428
+Total scans : 780
 ```
 
 Or Sort by...
@@ -53,7 +53,7 @@ Or Sort by...
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     265   
+1     dekuNukem                     288   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @recycling.film               56    
@@ -93,6 +93,19 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-10-21
+  - dekuNukem: Agfa CT Precisa 100
+  - dekuNukem: efke R100
+  - dekuNukem: Gevaert Gevachrome 30
+  - dekuNukem: Gevaert Infra-R
+  - dekuNukem: Kodak Ektachrome-X
+  - dekuNukem: Kodak Gold
+  - dekuNukem: Kodak Plus-X
+  - dekuNukem: Kodak Verichrome
+  - dekuNukem: Lomography Lobster Redscale Negative
+  - dekuNukem: Northwest Custom Film Processing Ultra Minituature Film
+  - dekuNukem: Triple-Print Film Labs Color Negative Film
+
 2025-10-17
   - @recycling.film: ADOX KB 17
   - @recycling.film: Agfa AgfaChrome 50 S
@@ -129,18 +142,6 @@ Rank  Username                      Contributions
   - @recycling.film: Ilford HP5 Plus
   - @recycling.film: ORWO NP15
   - @recycling.film: Svema Foto 32
-
-2025-10-12
-  - dekuNukem: Ansco Plenachrome
-  - dekuNukem: Gevaert Superchrome
-  - dekuNukem: Ilford FP4 Plus
-  - dekuNukem: Ilford HP3
-  - dekuNukem: Kodak Kodacolor
-  - dekuNukem: Ricoh Golden "16"
-  - dekuNukem: Robot NR-Cassette
-  - dekuNukem: Svema Foto 64
-  - dekuNukem: Walgreen All Purpose Film
-  - kaimon: Ilford XP2 Super
 ```
 
 ## Disclaimer

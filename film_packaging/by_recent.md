@@ -15,13 +15,24 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 17 2025
-Unique items: 417
-Total scans : 757
+Last Updated: Oct 21 2025
+Unique items: 428
+Total scans : 780
 ```
 
 -----
 
+- [[2025-10-21] Gevaert Gevachrome 30 (ref: c0e3)](#2025-10-21-gevaert-gevachrome-30-ref-c0e3)
+- [[2025-10-21] Kodak Gold (ref: bdd5)](#2025-10-21-kodak-gold-ref-bdd5)
+- [[2025-10-21] Kodak Verichrome (ref: c9c2)](#2025-10-21-kodak-verichrome-ref-c9c2)
+- [[2025-10-21] Gevaert Infra-R (ref: fc88)](#2025-10-21-gevaert-infra-r-ref-fc88)
+- [[2025-10-21] Agfa CT Precisa 100 (ref: bc36)](#2025-10-21-agfa-ct-precisa-100-ref-bc36)
+- [[2025-10-21] Triple-Print Film Labs Color Negative Film (ref: 88e6)](#2025-10-21-triple-print-film-labs-color-negative-film-ref-88e6)
+- [[2025-10-21] efke R100 (ref: 10ad)](#2025-10-21-efke-r100-ref-10ad)
+- [[2025-10-21] Northwest Custom Film Processing Ultra Minituature Film (ref: 70b1)](#2025-10-21-northwest-custom-film-processing-ultra-minituature-film-ref-70b1)
+- [[2025-10-21] Kodak Plus-X (ref: 4b73)](#2025-10-21-kodak-plus-x-ref-4b73)
+- [[2025-10-21] Kodak Ektachrome-X (ref: c057)](#2025-10-21-kodak-ektachrome-x-ref-c057)
+- [[2025-10-21] Lomography Lobster Redscale Negative (ref: 4dcd)](#2025-10-21-lomography-lobster-redscale-negative-ref-4dcd)
 - [[2025-10-17] Perutz Perpantic Film (ref: 58b1)](#2025-10-17-perutz-perpantic-film-ref-58b1)
 - [[2025-10-17] Perutz Peromnia 21 (ref: fa4a)](#2025-10-17-perutz-peromnia-21-ref-fa4a)
 - [[2025-10-17] Agfa Agfacolor Negative Film Special CNS (ref: 9b03)](#2025-10-17-agfa-agfacolor-negative-film-special-cns-ref-9b03)
@@ -442,6 +453,247 @@ Total scans : 757
 
 
 -----
+
+#### [2025-10-21] Gevaert Gevachrome 30 (ref: c0e3)
+
+```
+Format: 122          |  Process : BW      
+ISO   : 40           |  Expiry  : 1957-10 
+Type  : Single Pack  |  Quantity: 6exp    
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 4cce875d701d4fd4b1d28353305ac0e3
+Notes : 30 most likely is European Scheiner film speed
+```
+
+<a href="./archive/00432_000.jpg" target="_blank">
+	<img src="./lowres/00432_000.jpg" alt="Gevaert Gevachrome 30 122 film box outside" loading="lazy" width="500" height="420">
+</a>
+
+#### [2025-10-21] Kodak Gold (ref: bdd5)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2002-01 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : f4719f9b5e534dbba19c194da39abdd5
+```
+
+<a href="./archive/00431_000.jpg" target="_blank">
+	<img src="./lowres/00431_000.jpg" alt="Kodak Gold 110 film box outside" loading="lazy" width="500" height="423">
+</a>
+
+#### [2025-10-21] Kodak Verichrome (ref: c9c2)
+
+```
+Format: 122          |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1951-09 
+Type  : Single Pack  |  Quantity: 6exp    
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : adf90d5a8c2b4ad6ba1b6524bf00c9c2
+```
+
+<a href="./archive/00430_000.jpg" target="_blank">
+	<img src="./lowres/00430_000.jpg" alt="Kodak Verichrome 122 film box outside" loading="lazy" width="500" height="406">
+</a>
+
+#### [2025-10-21] Gevaert Infra-R (ref: fc88)
+
+```
+Format: 120          |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 5700b2c507254c36ac9b05eabf04fc88
+```
+
+<a href="./archive/00429_000.jpg" target="_blank">
+	<img src="./lowres/00429_000.jpg" alt="Gevaert Infra-R 120 film box outside" loading="lazy" width="500" height="358">
+</a>
+
+
+`UUID: ae783a67ce214185b13ee707c56dad58`↓
+
+<a href="./archive/00428_001.jpg" target="_blank">
+	<img src="./lowres/00428_001.jpg" alt="Agfa CT Precisa 100 35mm film box inside" loading="lazy" width="429" height="499">
+</a>
+
+#### [2025-10-21] Agfa CT Precisa 100 (ref: bc36)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2008-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 087e9a1b5cc7447dbd0b7d5b81c9bc36
+```
+
+<a href="./archive/00428_000.jpg" target="_blank">
+	<img src="./lowres/00428_000.jpg" alt="Agfa CT Precisa 100 35mm film box outside" loading="lazy" width="441" height="500">
+</a>
+
+
+`UUID: e76e6347947f40ba97b0e11522ce7144`↓
+
+<a href="./archive/00427_002.jpg" target="_blank">
+	<img src="./lowres/00427_002.jpg" alt="Triple-Print Film Labs Color Negative Film 127 film box leaflet" loading="lazy" width="500" height="378">
+</a>
+
+
+`UUID: 9047ef27d1be40198e23acb1b7adba39`↓
+
+<a href="./archive/00427_001.jpg" target="_blank">
+	<img src="./lowres/00427_001.jpg" alt="Triple-Print Film Labs Color Negative Film 127 film box leaflet" loading="lazy" width="500" height="374">
+</a>
+
+#### [2025-10-21] Triple-Print Film Labs Color Negative Film (ref: 88e6)
+
+```
+Format: 127          |  Process : Unknown 
+ISO   : 80           |  Expiry  : 1976-02 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 25dfa3f80baf4a72ac548c507f8088e6
+Notes : Division of Film Corporation of America
+```
+
+<a href="./archive/00427_000.jpg" target="_blank">
+	<img src="./lowres/00427_000.jpg" alt="Triple-Print Film Labs Color Negative Film 127 film box outside" loading="lazy" width="500" height="404">
+</a>
+
+
+`UUID: 77788e6b682e47e089804190aecc56b7`↓
+
+<a href="./archive/00426_002.jpg" target="_blank">
+	<img src="./lowres/00426_002.jpg" alt="efke R100 127 film box leaflet" loading="lazy" width="500" height="411">
+</a>
+
+
+`UUID: 17e8ec86380144999ee0f93c6799030d`↓
+
+<a href="./archive/00426_001.jpg" target="_blank">
+	<img src="./lowres/00426_001.jpg" alt="efke R100 127 film box leaflet" loading="lazy" width="500" height="401">
+</a>
+
+#### [2025-10-21] efke R100 (ref: 10ad)
+
+```
+Format: 127          |  Process : BW      
+ISO   : 100          |  Expiry  : 1996-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 686490575de4412b9309d5d797af10ad
+```
+
+<a href="./archive/00426_000.jpg" target="_blank">
+	<img src="./lowres/00426_000.jpg" alt="efke R100 127 film box outside" loading="lazy" width="500" height="337">
+</a>
+
+
+`UUID: adc9a88efca146d687fba7dcb75501f0`↓
+
+<a href="./archive/00425_002.jpg" target="_blank">
+	<img src="./lowres/00425_002.jpg" alt="Northwest Custom Film Processing Ultra Minituature Film Unknown film box processing envelope" loading="lazy" width="500" height="218">
+</a>
+
+
+`UUID: 273b6c40428c40acb9fee444125a0426`↓
+
+<a href="./archive/00425_001.jpg" target="_blank">
+	<img src="./lowres/00425_001.jpg" alt="Northwest Custom Film Processing Ultra Minituature Film Unknown film box processing envelope" loading="lazy" width="500" height="422">
+</a>
+
+#### [2025-10-21] Northwest Custom Film Processing Ultra Minituature Film (ref: 70b1)
+
+```
+Format: Unknown      |  Process : Unknown 
+ISO   : 64           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : e01d49f304864a7d95976d57624370b1
+Notes : There was a roll of 127 ekfe R100 inside, not sure if it's the original, or someone put it there afterwards.
+```
+
+<a href="./archive/00425_000.jpg" target="_blank">
+	<img src="./lowres/00425_000.jpg" alt="Northwest Custom Film Processing Ultra Minituature Film Unknown film box outside" loading="lazy" width="500" height="368">
+</a>
+
+
+`UUID: 55cbb2fe9f184b828a171a1dafd8e2da`↓
+
+<a href="./archive/00424_002.jpg" target="_blank">
+	<img src="./lowres/00424_002.jpg" alt="Kodak Plus-X 35mm film box leaflet" loading="lazy" width="317" height="500">
+</a>
+
+
+`UUID: cdd61b019a054a4d86f52daeeac8de52`↓
+
+<a href="./archive/00424_001.jpg" target="_blank">
+	<img src="./lowres/00424_001.jpg" alt="Kodak Plus-X 35mm film box leaflet" loading="lazy" width="269" height="500">
+</a>
+
+#### [2025-10-21] Kodak Plus-X (ref: 4b73)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 50           |  Expiry  : 1951-02 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : bcad57bbd65146fbb2bdcf9fc79a4b73
+```
+
+<a href="./archive/00424_000.jpg" target="_blank">
+	<img src="./lowres/00424_000.jpg" alt="Kodak Plus-X 35mm film box outside" loading="lazy" width="472" height="500">
+</a>
+
+
+`UUID: 9fef42045e314c30a39c59e90b9e457e`↓
+
+<a href="./archive/00423_002.jpg" target="_blank">
+	<img src="./lowres/00423_002.jpg" alt="Kodak Ektachrome-X 620 film box leaflet" loading="lazy" width="232" height="500">
+</a>
+
+
+`UUID: 2708b5dd22794189a31d5bf789bd32be`↓
+
+<a href="./archive/00423_001.jpg" target="_blank">
+	<img src="./lowres/00423_001.jpg" alt="Kodak Ektachrome-X 620 film box leaflet" loading="lazy" width="236" height="500">
+</a>
+
+#### [2025-10-21] Kodak Ektachrome-X (ref: c057)
+
+```
+Format: 620          |  Process : E-4     
+ISO   : 64           |  Expiry  : 1971-02 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 769ecaf549984530942ed4b96e1dc057
+```
+
+<a href="./archive/00423_000.jpg" target="_blank">
+	<img src="./lowres/00423_000.jpg" alt="Kodak Ektachrome-X 620 film box outside" loading="lazy" width="500" height="443">
+</a>
+
+
+`UUID: e5403e7603b24ed995890c4faa3ab25b`↓
+
+<a href="./archive/00422_001.jpg" target="_blank">
+	<img src="./lowres/00422_001.jpg" alt="Lomography Lobster Redscale Negative 110 film box inside" loading="lazy" width="336" height="500">
+</a>
+
+#### [2025-10-21] Lomography Lobster Redscale Negative (ref: 4dcd)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2015-10 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : bfb2bdd4749b474f8fe1f971f2a14dcd
+```
+
+<a href="./archive/00422_000.jpg" target="_blank">
+	<img src="./lowres/00422_000.jpg" alt="Lomography Lobster Redscale Negative 110 film box outside" loading="lazy" width="336" height="500">
+</a>
 
 #### [2025-10-17] Perutz Perpantic Film (ref: 58b1)
 
@@ -8680,7 +8932,7 @@ UUID  : 36151f6b7cc045c2b43d7f5cbee41a5d
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     265   
+1     dekuNukem                     288   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @recycling.film               56    

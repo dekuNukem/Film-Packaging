@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 17 2025
-Unique items: 417
-Total scans : 757
+Last Updated: Oct 21 2025
+Unique items: 428
+Total scans : 780
 ```
 
 -----
@@ -45,6 +45,7 @@ Total scans : 757
 - [Agfa Agfapan APX 400 (ref: 19bc)](#agfa-agfapan-apx-400-ref-19bc)
 - [Agfa Agfapan Rapid (ref: 5e7b)](#agfa-agfapan-rapid-ref-5e7b)
 - [Agfa Autolith Repo (ref: 8e68)](#agfa-autolith-repo-ref-8e68)
+- [Agfa CT Precisa 100 (ref: bc36)](#agfa-ct-precisa-100-ref-bc36)
 - [Agfa Extra Rapid Platten (ref: 7418)](#agfa-extra-rapid-platten-ref-7418)
 - [Agfa Fine-Grain Plenachrome (ref: e5d4)](#agfa-fine-grain-plenachrome-ref-e5d4)
 - [Agfa Isopan FF (ref: 3700)](#agfa-isopan-ff-ref-3700)
@@ -158,6 +159,8 @@ Total scans : 757
 - [Fujifilm Superia Premium 400 (ref: ef1f)](#fujifilm-superia-premium-400-ref-ef1f)
 - [GAF Color Slide Film (ref: dea6)](#gaf-color-slide-film-ref-dea6)
 - [GAF Color Slide Film (ref: 6815)](#gaf-color-slide-film-ref-6815)
+- [Gevaert Gevachrome 30 (ref: c0e3)](#gevaert-gevachrome-30-ref-c0e3)
+- [Gevaert Infra-R (ref: fc88)](#gevaert-infra-r-ref-fc88)
 - [Gevaert Superchrome (ref: af27)](#gevaert-superchrome-ref-af27)
 - [Gevaert Ultra Panchro Normal (ref: 1ff6)](#gevaert-ultra-panchro-normal-ref-1ff6)
 - [Hands On Film Midnight 1600 (ref: 4411)](#hands-on-film-midnight-1600-ref-4411)
@@ -248,6 +251,7 @@ Total scans : 757
 - [Kodak Ektachrome Professional Type B (ref: 1d9d)](#kodak-ektachrome-professional-type-b-ref-1d9d)
 - [Kodak Ektachrome Slide Duplicating Film (ref: 596a)](#kodak-ektachrome-slide-duplicating-film-ref-596a)
 - [Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#kodak-ektachrome-slide-duplicating-film-ref-d53a)
+- [Kodak Ektachrome-X (ref: c057)](#kodak-ektachrome-x-ref-c057)
 - [Kodak Ektachrome-X (ref: ae7e)](#kodak-ektachrome-x-ref-ae7e)
 - [Kodak Ektachrome-X (ref: aec5)](#kodak-ektachrome-x-ref-aec5)
 - [Kodak Ektacolor Pro Gold (ref: c3f8)](#kodak-ektacolor-pro-gold-ref-c3f8)
@@ -259,6 +263,7 @@ Total scans : 757
 - [Kodak FarbWelt 400 (ref: e9b6)](#kodak-farbwelt-400-ref-e9b6)
 - [Kodak Gold (ref: 2f8d)](#kodak-gold-ref-2f8d)
 - [Kodak Gold (ref: ea58)](#kodak-gold-ref-ea58)
+- [Kodak Gold (ref: bdd5)](#kodak-gold-ref-bdd5)
 - [Kodak Gold (ref: d48d)](#kodak-gold-ref-d48d)
 - [Kodak Gold (ref: 6587)](#kodak-gold-ref-6587)
 - [Kodak Gold (ref: 3e7f)](#kodak-gold-ref-3e7f)
@@ -294,6 +299,7 @@ Total scans : 757
 - [Kodak Panatomic-X (ref: 7ed1)](#kodak-panatomic-x-ref-7ed1)
 - [Kodak Panatomic-X (ref: 8d69)](#kodak-panatomic-x-ref-8d69)
 - [Kodak Panatomic-X (ref: 35f6)](#kodak-panatomic-x-ref-35f6)
+- [Kodak Plus-X (ref: 4b73)](#kodak-plus-x-ref-4b73)
 - [Kodak Plus-X (ref: b867)](#kodak-plus-x-ref-b867)
 - [Kodak Plus-X (ref: 7958)](#kodak-plus-x-ref-7958)
 - [Kodak Plus-X Pan (ref: f5cc)](#kodak-plus-x-pan-ref-f5cc)
@@ -332,6 +338,7 @@ Total scans : 757
 - [Kodak UltraMax (ref: e3ba)](#kodak-ultramax-ref-e3ba)
 - [Kodak UltraMax (ref: e4ad)](#kodak-ultramax-ref-e4ad)
 - [Kodak UltraMax (ref: aaa6)](#kodak-ultramax-ref-aaa6)
+- [Kodak Verichrome (ref: c9c2)](#kodak-verichrome-ref-c9c2)
 - [Kodak Verichrome Pan (ref: 0195)](#kodak-verichrome-pan-ref-0195)
 - [Kodak Vericolor 400 Plus (ref: bd88)](#kodak-vericolor-400-plus-ref-bd88)
 - [Kodak Vericolor III (ref: 4b3e)](#kodak-vericolor-iii-ref-4b3e)
@@ -352,6 +359,7 @@ Total scans : 757
 - [Lomography Babylon (ref: 7afa)](#lomography-babylon-ref-7afa)
 - [Lomography Color Negative Film (ref: 1529)](#lomography-color-negative-film-ref-1529)
 - [Lomography Fantome (ref: 4340)](#lomography-fantome-ref-4340)
+- [Lomography Lobster Redscale Negative (ref: 4dcd)](#lomography-lobster-redscale-negative-ref-4dcd)
 - [Lomography Lomochrome Color'92 (ref: 12b4)](#lomography-lomochrome-color92-ref-12b4)
 - [Lomography Lomochrome Color'92 (ref: 9fdb)](#lomography-lomochrome-color92-ref-9fdb)
 - [Lomography Lomochrome Color’92 (ref: 0960)](#lomography-lomochrome-color-92-ref-0960)
@@ -372,6 +380,7 @@ Total scans : 757
 - [Mr. Negative Silver Screen Negative (ref: c968)](#mr-negative-silver-screen-negative-ref-c968)
 - [Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#mutascan-kodak-vision3-500t5219-ref-5150)
 - [Nishika Color Print Film (ref: baeb)](#nishika-color-print-film-ref-baeb)
+- [Northwest Custom Film Processing Ultra Minituature Film (ref: 70b1)](#northwest-custom-film-processing-ultra-minituature-film-ref-70b1)
 - [ORWO Chrom UT18 (ref: 81b7)](#orwo-chrom-ut18-ref-81b7)
 - [ORWO Chrom UT21 (ref: 3fd5)](#orwo-chrom-ut21-ref-3fd5)
 - [ORWO NP 20 SL (ref: b16c)](#orwo-np-20-sl-ref-b16c)
@@ -432,6 +441,7 @@ Total scans : 757
 - [Svema Foto 64 (ref: 10cb)](#svema-foto-64-ref-10cb)
 - [Tasma OCh 50 (ref: 5c43)](#tasma-och-50-ref-5c43)
 - [Three Film Rolls 5207 (ref: 0292)](#three-film-rolls-5207-ref-0292)
+- [Triple-Print Film Labs Color Negative Film (ref: 88e6)](#triple-print-film-labs-color-negative-film-ref-88e6)
 - [VEB Fotochemische Werke Berlin Dekopan Feinkorn (ref: dba0)](#veb-fotochemische-werke-berlin-dekopan-feinkorn-ref-dba0)
 - [VEB Fotochemische Werke Berlin Dekopan Super S (ref: 1620)](#veb-fotochemische-werke-berlin-dekopan-super-s-ref-1620)
 - [Walgreen All Purpose Film (ref: 541b)](#walgreen-all-purpose-film-ref-541b)
@@ -439,6 +449,7 @@ Total scans : 757
 - [Wolfen NC500 (ref: 91c1)](#wolfen-nc500-ref-91c1)
 - [Wolfen NP100 (ref: 71a6)](#wolfen-np100-ref-71a6)
 - [York Photo Labs DXG 200 (ref: 4bf8)](#york-photo-labs-dxg-200-ref-4bf8)
+- [efke R100 (ref: 10ad)](#efke-r100-ref-10ad)
 
 
 -----
@@ -924,6 +935,27 @@ UUID  : 952823ad9ef14c75a83ac8e230b38e68
 
 <a href="./archive/00098_000.jpg" target="_blank">
 	<img src="./lowres/00098_000.jpg" alt="Agfa Autolith Repo 9x12cm film box outside" loading="lazy" width="500" height="370">
+</a>
+
+#### Agfa CT Precisa 100 (ref: bc36)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2008-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 087e9a1b5cc7447dbd0b7d5b81c9bc36
+```
+
+<a href="./archive/00428_000.jpg" target="_blank">
+	<img src="./lowres/00428_000.jpg" alt="Agfa CT Precisa 100 35mm film box outside" loading="lazy" width="441" height="500">
+</a>
+
+
+`UUID: ae783a67ce214185b13ee707c56dad58`↓
+
+<a href="./archive/00428_001.jpg" target="_blank">
+	<img src="./lowres/00428_001.jpg" alt="Agfa CT Precisa 100 35mm film box inside" loading="lazy" width="429" height="499">
 </a>
 
 #### Agfa Extra Rapid Platten (ref: 7418)
@@ -3072,6 +3104,35 @@ UUID  : b57e8c465ff94e02afa31d267b846815
 	<img src="./lowres/00407_000.jpg" alt="GAF Color Slide Film 35mm film cartridge" loading="lazy" width="386" height="500">
 </a>
 
+#### Gevaert Gevachrome 30 (ref: c0e3)
+
+```
+Format: 122          |  Process : BW      
+ISO   : 40           |  Expiry  : 1957-10 
+Type  : Single Pack  |  Quantity: 6exp    
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 4cce875d701d4fd4b1d28353305ac0e3
+Notes : 30 most likely is European Scheiner film speed
+```
+
+<a href="./archive/00432_000.jpg" target="_blank">
+	<img src="./lowres/00432_000.jpg" alt="Gevaert Gevachrome 30 122 film box outside" loading="lazy" width="500" height="420">
+</a>
+
+#### Gevaert Infra-R (ref: fc88)
+
+```
+Format: 120          |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 5700b2c507254c36ac9b05eabf04fc88
+```
+
+<a href="./archive/00429_000.jpg" target="_blank">
+	<img src="./lowres/00429_000.jpg" alt="Gevaert Infra-R 120 film box outside" loading="lazy" width="500" height="358">
+</a>
+
 #### Gevaert Superchrome (ref: af27)
 
 ```
@@ -4881,6 +4942,34 @@ UUID  : 59aa1c52cf434a60976debe684a3d53a
 	<img src="./lowres/00203_002.jpg" alt="Kodak Ektachrome Slide Duplicating Film 35mm film box leaflet" loading="lazy" width="194" height="500">
 </a>
 
+#### Kodak Ektachrome-X (ref: c057)
+
+```
+Format: 620          |  Process : E-4     
+ISO   : 64           |  Expiry  : 1971-02 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 769ecaf549984530942ed4b96e1dc057
+```
+
+<a href="./archive/00423_000.jpg" target="_blank">
+	<img src="./lowres/00423_000.jpg" alt="Kodak Ektachrome-X 620 film box outside" loading="lazy" width="500" height="443">
+</a>
+
+
+`UUID: 2708b5dd22794189a31d5bf789bd32be`↓
+
+<a href="./archive/00423_001.jpg" target="_blank">
+	<img src="./lowres/00423_001.jpg" alt="Kodak Ektachrome-X 620 film box leaflet" loading="lazy" width="236" height="500">
+</a>
+
+
+`UUID: 9fef42045e314c30a39c59e90b9e457e`↓
+
+<a href="./archive/00423_002.jpg" target="_blank">
+	<img src="./lowres/00423_002.jpg" alt="Kodak Ektachrome-X 620 film box leaflet" loading="lazy" width="232" height="500">
+</a>
+
 #### Kodak Ektachrome-X (ref: ae7e)
 
 ```
@@ -5075,6 +5164,20 @@ UUID  : e45118f7bd5e4ae682e5747a81f0ea58
 
 <a href="./archive/00095_001.jpg" target="_blank">
 	<img src="./lowres/00095_001.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="500" height="393">
+</a>
+
+#### Kodak Gold (ref: bdd5)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2002-01 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : f4719f9b5e534dbba19c194da39abdd5
+```
+
+<a href="./archive/00431_000.jpg" target="_blank">
+	<img src="./lowres/00431_000.jpg" alt="Kodak Gold 110 film box outside" loading="lazy" width="500" height="423">
 </a>
 
 #### Kodak Gold (ref: d48d)
@@ -5855,6 +5958,34 @@ UUID  : 475b6bf4c66141b48fc73ace756435f6
 	<img src="./lowres/00192_002.jpg" alt="Kodak Panatomic-X 35mm film box leaflet" loading="lazy" width="174" height="500">
 </a>
 
+#### Kodak Plus-X (ref: 4b73)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 50           |  Expiry  : 1951-02 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : bcad57bbd65146fbb2bdcf9fc79a4b73
+```
+
+<a href="./archive/00424_000.jpg" target="_blank">
+	<img src="./lowres/00424_000.jpg" alt="Kodak Plus-X 35mm film box outside" loading="lazy" width="472" height="500">
+</a>
+
+
+`UUID: cdd61b019a054a4d86f52daeeac8de52`↓
+
+<a href="./archive/00424_001.jpg" target="_blank">
+	<img src="./lowres/00424_001.jpg" alt="Kodak Plus-X 35mm film box leaflet" loading="lazy" width="269" height="500">
+</a>
+
+
+`UUID: 55cbb2fe9f184b828a171a1dafd8e2da`↓
+
+<a href="./archive/00424_002.jpg" target="_blank">
+	<img src="./lowres/00424_002.jpg" alt="Kodak Plus-X 35mm film box leaflet" loading="lazy" width="317" height="500">
+</a>
+
 #### Kodak Plus-X (ref: b867)
 
 ```
@@ -6521,6 +6652,20 @@ UUID  : 8b0e255948ad4bbc8689d371569caaa6
 	<img src="./lowres/00079_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="443" height="499">
 </a>
 
+#### Kodak Verichrome (ref: c9c2)
+
+```
+Format: 122          |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1951-09 
+Type  : Single Pack  |  Quantity: 6exp    
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : adf90d5a8c2b4ad6ba1b6524bf00c9c2
+```
+
+<a href="./archive/00430_000.jpg" target="_blank">
+	<img src="./lowres/00430_000.jpg" alt="Kodak Verichrome 122 film box outside" loading="lazy" width="500" height="406">
+</a>
+
 #### Kodak Verichrome Pan (ref: 0195)
 
 ```
@@ -6892,6 +7037,27 @@ UUID  : 538e7611233a4cc3bd733763bf694340
 	<img src="./lowres/00141_000.jpg" alt="Lomography Fantome 35mm film box outside" loading="lazy" width="500" height="397">
 </a>
 
+#### Lomography Lobster Redscale Negative (ref: 4dcd)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2015-10 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : bfb2bdd4749b474f8fe1f971f2a14dcd
+```
+
+<a href="./archive/00422_000.jpg" target="_blank">
+	<img src="./lowres/00422_000.jpg" alt="Lomography Lobster Redscale Negative 110 film box outside" loading="lazy" width="336" height="500">
+</a>
+
+
+`UUID: e5403e7603b24ed995890c4faa3ab25b`↓
+
+<a href="./archive/00422_001.jpg" target="_blank">
+	<img src="./lowres/00422_001.jpg" alt="Lomography Lobster Redscale Negative 110 film box inside" loading="lazy" width="336" height="500">
+</a>
+
 #### Lomography Lomochrome Color'92 (ref: 12b4)
 
 ```
@@ -7219,6 +7385,35 @@ UUID  : c8f31c7a1adf423bbc4d35eae399baeb
 
 <a href="./archive/00406_000.jpg" target="_blank">
 	<img src="./lowres/00406_000.jpg" alt="Nishika Color Print Film 35mm film box outside" loading="lazy" width="500" height="499">
+</a>
+
+#### Northwest Custom Film Processing Ultra Minituature Film (ref: 70b1)
+
+```
+Format: Unknown      |  Process : Unknown 
+ISO   : 64           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : e01d49f304864a7d95976d57624370b1
+Notes : There was a roll of 127 ekfe R100 inside, not sure if it's the original, or someone put it there afterwards.
+```
+
+<a href="./archive/00425_000.jpg" target="_blank">
+	<img src="./lowres/00425_000.jpg" alt="Northwest Custom Film Processing Ultra Minituature Film Unknown film box outside" loading="lazy" width="500" height="368">
+</a>
+
+
+`UUID: 273b6c40428c40acb9fee444125a0426`↓
+
+<a href="./archive/00425_001.jpg" target="_blank">
+	<img src="./lowres/00425_001.jpg" alt="Northwest Custom Film Processing Ultra Minituature Film Unknown film box processing envelope" loading="lazy" width="500" height="422">
+</a>
+
+
+`UUID: adc9a88efca146d687fba7dcb75501f0`↓
+
+<a href="./archive/00425_002.jpg" target="_blank">
+	<img src="./lowres/00425_002.jpg" alt="Northwest Custom Film Processing Ultra Minituature Film Unknown film box processing envelope" loading="lazy" width="500" height="218">
 </a>
 
 #### ORWO Chrom UT18 (ref: 81b7)
@@ -8545,6 +8740,35 @@ UUID  : 4de0f5e76dd748c488fa81be23340292
 	<img src="./lowres/00059_000.jpg" alt="Three Film Rolls 5207 35mm film box outside" loading="lazy" width="452" height="500">
 </a>
 
+#### Triple-Print Film Labs Color Negative Film (ref: 88e6)
+
+```
+Format: 127          |  Process : Unknown 
+ISO   : 80           |  Expiry  : 1976-02 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 25dfa3f80baf4a72ac548c507f8088e6
+Notes : Division of Film Corporation of America
+```
+
+<a href="./archive/00427_000.jpg" target="_blank">
+	<img src="./lowres/00427_000.jpg" alt="Triple-Print Film Labs Color Negative Film 127 film box outside" loading="lazy" width="500" height="404">
+</a>
+
+
+`UUID: 9047ef27d1be40198e23acb1b7adba39`↓
+
+<a href="./archive/00427_001.jpg" target="_blank">
+	<img src="./lowres/00427_001.jpg" alt="Triple-Print Film Labs Color Negative Film 127 film box leaflet" loading="lazy" width="500" height="374">
+</a>
+
+
+`UUID: e76e6347947f40ba97b0e11522ce7144`↓
+
+<a href="./archive/00427_002.jpg" target="_blank">
+	<img src="./lowres/00427_002.jpg" alt="Triple-Print Film Labs Color Negative Film 127 film box leaflet" loading="lazy" width="500" height="378">
+</a>
+
 #### VEB Fotochemische Werke Berlin Dekopan Feinkorn (ref: dba0)
 
 ```
@@ -8671,6 +8895,34 @@ UUID  : 46037fb6c55244b6ae47c55d0e454bf8
 	<img src="./lowres/00051_000.jpg" alt="York Photo Labs DXG 200 35mm film box outside" loading="lazy" width="500" height="500">
 </a>
 
+#### efke R100 (ref: 10ad)
+
+```
+Format: 127          |  Process : BW      
+ISO   : 100          |  Expiry  : 1996-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 686490575de4412b9309d5d797af10ad
+```
+
+<a href="./archive/00426_000.jpg" target="_blank">
+	<img src="./lowres/00426_000.jpg" alt="efke R100 127 film box outside" loading="lazy" width="500" height="337">
+</a>
+
+
+`UUID: 17e8ec86380144999ee0f93c6799030d`↓
+
+<a href="./archive/00426_001.jpg" target="_blank">
+	<img src="./lowres/00426_001.jpg" alt="efke R100 127 film box leaflet" loading="lazy" width="500" height="401">
+</a>
+
+
+`UUID: 77788e6b682e47e089804190aecc56b7`↓
+
+<a href="./archive/00426_002.jpg" target="_blank">
+	<img src="./lowres/00426_002.jpg" alt="efke R100 127 film box leaflet" loading="lazy" width="500" height="411">
+</a>
+
 ## Want to Contribute?
 
 [Check out the guidelines!](../contribution_guide.md)
@@ -8680,7 +8932,7 @@ UUID  : 46037fb6c55244b6ae47c55d0e454bf8
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     265   
+1     dekuNukem                     288   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @recycling.film               56    
