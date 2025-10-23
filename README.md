@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 21 2025
-Unique items: 445
-Total scans : 826
+Last Updated: Oct 23 2025
+Unique items: 446
+Total scans : 827
 ```
 
 Or Sort by...
@@ -70,7 +70,7 @@ Rank  Username                      Contributions
 15    @zruk_ts                      10    
 16    benikum                       9     
 17    lilyu.xyz                     9     
-18    @Hol.m35                      8     
+18    @Hol.m35                      9     
 19    kaimon                        8     
 20    @toastergod101                7     
 21    @filmfotofella                7     
@@ -93,6 +93,9 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-10-23
+  - @Hol.m35: Optik Oldschool OptiColour 200
+
 2025-10-21
   - dekuNukem: Agfa Agfacolor Reversal Film CK
   - dekuNukem: Agfa Agfacolor Special Negative Film CN S
@@ -149,11 +152,6 @@ Rank  Username                      Contributions
   - dekuNukem: Minox MinoColor 100 Pro
   - dekuNukem: Sharan Black-and-white Negative Film
   - dekuNukem: Sharan Color Negative Film
-
-2025-10-13
-  - @recycling.film: Ilford HP5 Plus
-  - @recycling.film: ORWO NP15
-  - @recycling.film: Svema Foto 32
 ```
 
 ## Disclaimer

@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 21 2025
-Unique items: 445
-Total scans : 826
+Last Updated: Oct 23 2025
+Unique items: 446
+Total scans : 827
 ```
 
 -----
@@ -458,6 +458,7 @@ Total scans : 826
 - [[Unknown] Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#unknown-mutascan-kodak-vision3-500t5219-ref-5150)
 - [[Unknown] Northwest Custom Film Processing Ultra Minituature Film (ref: 70b1)](#unknown-northwest-custom-film-processing-ultra-minituature-film-ref-70b1)
 - [[Unknown] ORWO Chrom UT18 (ref: 81b7)](#unknown-orwo-chrom-ut18-ref-81b7)
+- [[Unknown] Optik Oldschool OptiColour 200 (ref: 80d7)](#unknown-optik-oldschool-opticolour-200-ref-80d7)
 - [[Unknown] Perutz Superomnia (ref: c90d)](#unknown-perutz-superomnia-ref-c90d)
 - [[Unknown] Phöbus-Platten Sheet Film (ref: d505)](#unknown-phöbus-platten-sheet-film-ref-d505)
 - [[Unknown] Robot NR-Cassette (ref: bc7a)](#unknown-robot-nr-cassette-ref-bc7a)
@@ -9205,6 +9206,21 @@ UUID  : d82a8047531f4e4bbdfe4c0bb95c81b7
 	<img src="./lowres/00408_004.jpg" alt="ORWO Chrom UT18 35mm film box processing envelope" loading="lazy" width="500" height="308">
 </a>
 
+#### [Unknown] Optik Oldschool OptiColour 200 (ref: 80d7)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-23   |  Author  : @Hol.m35
+UUID  : f0bf478daf444011b6ee52954d9f80d7
+Notes : preproduction package
+```
+
+<a href="./archive/00450_000.jpg" target="_blank">
+	<img src="./lowres/00450_000.jpg" alt="Optik Oldschool OptiColour 200 120 film box outside" loading="lazy" width="500" height="422">
+</a>
+
 #### [Unknown] Perutz Superomnia (ref: c90d)
 
 ```
@@ -9407,7 +9423,7 @@ Rank  Username                      Contributions
 15    @zruk_ts                      10    
 16    benikum                       9     
 17    lilyu.xyz                     9     
-18    @Hol.m35                      8     
+18    @Hol.m35                      9     
 19    kaimon                        8     
 20    @toastergod101                7     
 21    @filmfotofella                7     

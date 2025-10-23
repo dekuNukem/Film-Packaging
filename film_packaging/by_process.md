@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 21 2025
-Unique items: 445
-Total scans : 826
+Last Updated: Oct 23 2025
+Unique items: 446
+Total scans : 827
 ```
 
 -----
@@ -347,6 +347,7 @@ Total scans : 826
 - [[C-41] Minox MinoColor 3 (ref: d209)](#c-41-minox-minocolor-3-ref-d209)
 - [[C-41] Minox Minocolor 2 (ref: fadd)](#c-41-minox-minocolor-2-ref-fadd)
 - [[C-41] Nishika Color Print Film (ref: baeb)](#c-41-nishika-color-print-film-ref-baeb)
+- [[C-41] Optik Oldschool OptiColour 200 (ref: 80d7)](#c-41-optik-oldschool-opticolour-200-ref-80d7)
 - [[C-41] Polaroid High Definition (ref: deb6)](#c-41-polaroid-high-definition-ref-deb6)
 - [[C-41] Premium Super XG (ref: 8ccd)](#c-41-premium-super-xg-ref-8ccd)
 - [[C-41] Reflx Lab Pro 100 (ref: 8bec)](#c-41-reflx-lab-pro-100-ref-8bec)
@@ -6489,6 +6490,21 @@ UUID  : c8f31c7a1adf423bbc4d35eae399baeb
 	<img src="./lowres/00406_000.jpg" alt="Nishika Color Print Film 35mm film box outside" loading="lazy" width="500" height="499">
 </a>
 
+#### [C-41] Optik Oldschool OptiColour 200 (ref: 80d7)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-23   |  Author  : @Hol.m35
+UUID  : f0bf478daf444011b6ee52954d9f80d7
+Notes : preproduction package
+```
+
+<a href="./archive/00450_000.jpg" target="_blank">
+	<img src="./lowres/00450_000.jpg" alt="Optik Oldschool OptiColour 200 120 film box outside" loading="lazy" width="500" height="422">
+</a>
+
 #### [C-41] Polaroid High Definition (ref: deb6)
 
 ```
@@ -9407,7 +9423,7 @@ Rank  Username                      Contributions
 15    @zruk_ts                      10    
 16    benikum                       9     
 17    lilyu.xyz                     9     
-18    @Hol.m35                      8     
+18    @Hol.m35                      9     
 19    kaimon                        8     
 20    @toastergod101                7     
 21    @filmfotofella                7     

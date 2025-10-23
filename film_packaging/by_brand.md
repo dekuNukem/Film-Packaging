@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 21 2025
-Unique items: 445
-Total scans : 826
+Last Updated: Oct 23 2025
+Unique items: 446
+Total scans : 827
 ```
 
 -----
@@ -401,6 +401,7 @@ Total scans : 826
 - [ORWO Chrom UT21 (ref: 3fd5)](#orwo-chrom-ut21-ref-3fd5)
 - [ORWO NP 20 SL (ref: b16c)](#orwo-np-20-sl-ref-b16c)
 - [ORWO NP15 (ref: 9a20)](#orwo-np15-ref-9a20)
+- [Optik Oldschool OptiColour 200 (ref: 80d7)](#optik-oldschool-opticolour-200-ref-80d7)
 - [Perfect Photo Inc. Perfect-Pan Film (ref: c214)](#perfect-photo-inc-perfect-pan-film-ref-c214)
 - [Perutz Peromnia 21 (ref: fa4a)](#perutz-peromnia-21-ref-fa4a)
 - [Perutz Perpantic Film (ref: 58b1)](#perutz-perpantic-film-ref-58b1)
@@ -7972,6 +7973,21 @@ UUID  : 50956257d99f4f24a3ec712e77379a20
 	<img src="./lowres/00394_002.jpg" alt="ORWO NP15 120 film box leaflet" loading="lazy" width="322" height="499">
 </a>
 
+#### Optik Oldschool OptiColour 200 (ref: 80d7)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-23   |  Author  : @Hol.m35
+UUID  : f0bf478daf444011b6ee52954d9f80d7
+Notes : preproduction package
+```
+
+<a href="./archive/00450_000.jpg" target="_blank">
+	<img src="./lowres/00450_000.jpg" alt="Optik Oldschool OptiColour 200 120 film box outside" loading="lazy" width="500" height="422">
+</a>
+
 #### Perfect Photo Inc. Perfect-Pan Film (ref: c214)
 
 ```
@@ -9407,7 +9423,7 @@ Rank  Username                      Contributions
 15    @zruk_ts                      10    
 16    benikum                       9     
 17    lilyu.xyz                     9     
-18    @Hol.m35                      8     
+18    @Hol.m35                      9     
 19    kaimon                        8     
 20    @toastergod101                7     
 21    @filmfotofella                7     

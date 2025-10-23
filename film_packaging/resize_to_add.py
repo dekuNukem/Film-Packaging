@@ -40,8 +40,9 @@ except Exception:
     max_dimension = DEFAULT_MAX_DIMENSION
 
 for file in image_files:
+    print(file)
     try:
-        if os.path.getsize(file) < SIZE_LIMIT_BYTES:
+        if (str(file).lower().endswith((".jpg", '.jpeg'))) and os.path.getsize(file) < SIZE_LIMIT_BYTES:
             print(f"Skipped (under 4MB): {file}")
             continue
 
