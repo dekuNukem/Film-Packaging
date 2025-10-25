@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 25 2025
-Unique items: 448
-Total scans : 831
+Unique items: 449
+Total scans : 832
 ```
 
 -----
@@ -454,6 +454,7 @@ Total scans : 831
 - [[lt_col_tall] CatLABS X Film 80 MKII (ref: bcd1)](#lt_col_tall-catlabs-x-film-80-mkii-ref-bcd1)
 - [[lt_col_tall] Reflx Lab 250D (ref: 1a3e)](#lt_col_tall-reflx-lab-250d-ref-1a3e)
 - [[lt_col_tall] Reflx Lab Pro 100 (ref: 1311)](#lt_col_tall-reflx-lab-pro-100-ref-1311)
+- [[minidiscus] Kodak Kodacolor 100 (ref: 73e0)](#minidiscus-kodak-kodacolor-100-ref-73e0)
 - [[nick] ADOX CHS 100 II (ref: 8adf)](#nick-adox-chs-100-ii-ref-8adf)
 - [[nick] ADOX CMS 20 II Pro (ref: 0bea)](#nick-adox-cms-20-ii-pro-ref-0bea)
 - [[nick] Rollei RPX 25 (ref: b14c)](#nick-rollei-rpx-25-ref-b14c)
@@ -9092,6 +9093,20 @@ UUID  : f7bc85a093744f3084883876ecc51311
 	<img src="./lowres/00195_000.jpg" alt="Reflx Lab Pro 100 220 film box outside" loading="lazy" width="500" height="413">
 </a>
 
+#### [minidiscus] Kodak Kodacolor 100 (ref: 73e0)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2027-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-25   |  Author  : minidiscus
+UUID  : 930ee2c830af4f0a957649764d5873e0
+```
+
+<a href="./archive/00453_000.jpg" target="_blank">
+	<img src="./lowres/00453_000.jpg" alt="Kodak Kodacolor 100 35mm film box outside" loading="lazy" width="413" height="499">
+</a>
+
 #### [nick] ADOX CHS 100 II (ref: 8adf)
 
 ```
@@ -9486,6 +9501,7 @@ Rank  Username                      Contributions
 33    @ad.astra.per.aspera.1894     1     
 34    Aoi Yuki                      1     
 35    lemoniter                     1     
+36    minidiscus                    1     
 ```
 
 ## Questions or Comments?

@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 25 2025
-Unique items: 448
-Total scans : 831
+Unique items: 449
+Total scans : 832
 ```
 
 -----
@@ -298,6 +298,7 @@ Total scans : 831
 - [Kodak Kodachrome 64 (ref: 3206)](#kodak-kodachrome-64-ref-3206)
 - [Kodak Kodachrome II (ref: 0982)](#kodak-kodachrome-ii-ref-0982)
 - [Kodak Kodacolor (ref: 5d25)](#kodak-kodacolor-ref-5d25)
+- [Kodak Kodacolor 100 (ref: 73e0)](#kodak-kodacolor-100-ref-73e0)
 - [Kodak Kodacolor 400 (ref: 9e4c)](#kodak-kodacolor-400-ref-9e4c)
 - [Kodak Kodacolor Gold 200 (ref: f368)](#kodak-kodacolor-gold-200-ref-f368)
 - [Kodak Kodacolor Gold 400 (ref: 473d)](#kodak-kodacolor-gold-400-ref-473d)
@@ -6077,6 +6078,20 @@ UUID  : 1c8fa96c92974edaa7cbf69b3e535d25
 	<img src="./lowres/00390_004.jpg" alt="Kodak Kodacolor 35mm film box leaflet" loading="lazy" width="421" height="500">
 </a>
 
+#### Kodak Kodacolor 100 (ref: 73e0)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2027-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-25   |  Author  : minidiscus
+UUID  : 930ee2c830af4f0a957649764d5873e0
+```
+
+<a href="./archive/00453_000.jpg" target="_blank">
+	<img src="./lowres/00453_000.jpg" alt="Kodak Kodacolor 100 35mm film box outside" loading="lazy" width="413" height="499">
+</a>
+
 #### Kodak Kodacolor 400 (ref: 9e4c)
 
 ```
@@ -9486,6 +9501,7 @@ Rank  Username                      Contributions
 33    @ad.astra.per.aspera.1894     1     
 34    Aoi Yuki                      1     
 35    lemoniter                     1     
+36    minidiscus                    1     
 ```
 
 ## Questions or Comments?

@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Oct 25 2025
-Unique items: 448
-Total scans : 831
+Unique items: 449
+Total scans : 832
 ```
 
 Or Sort by...
@@ -88,6 +88,7 @@ Rank  Username                      Contributions
 33    @ad.astra.per.aspera.1894     1     
 34    Aoi Yuki                      1     
 35    lemoniter                     1     
+36    minidiscus                    1     
 ```
 
 ## Recent Activities
@@ -96,6 +97,7 @@ Rank  Username                      Contributions
 2025-10-25
   - dekuNukem: Famous Brand Labs Color Negative Film
   - dekuNukem: Perutz Peromnia 21
+  - minidiscus: Kodak Kodacolor 100
 
 2025-10-23
   - @Hol.m35: Optik Oldschool OptiColour 200

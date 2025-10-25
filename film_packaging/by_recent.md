@@ -16,12 +16,13 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 25 2025
-Unique items: 448
-Total scans : 831
+Unique items: 449
+Total scans : 832
 ```
 
 -----
 
+- [[2025-10-25] Kodak Kodacolor 100 (ref: 73e0)](#2025-10-25-kodak-kodacolor-100-ref-73e0)
 - [[2025-10-25] Famous Brand Labs Color Negative Film (ref: b271)](#2025-10-25-famous-brand-labs-color-negative-film-ref-b271)
 - [[2025-10-25] Perutz Peromnia 21 (ref: bf2a)](#2025-10-25-perutz-peromnia-21-ref-bf2a)
 - [[2025-10-23] Optik Oldschool OptiColour 200 (ref: 80d7)](#2025-10-23-optik-oldschool-opticolour-200-ref-80d7)
@@ -473,6 +474,20 @@ Total scans : 831
 
 
 -----
+
+#### [2025-10-25] Kodak Kodacolor 100 (ref: 73e0)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2027-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-25   |  Author  : minidiscus
+UUID  : 930ee2c830af4f0a957649764d5873e0
+```
+
+<a href="./archive/00453_000.jpg" target="_blank">
+	<img src="./lowres/00453_000.jpg" alt="Kodak Kodacolor 100 35mm film box outside" loading="lazy" width="413" height="499">
+</a>
 
 
 `UUID: 853499e631474d46b5d2d65e937f6ebd`↓
@@ -9486,6 +9501,7 @@ Rank  Username                      Contributions
 33    @ad.astra.per.aspera.1894     1     
 34    Aoi Yuki                      1     
 35    lemoniter                     1     
+36    minidiscus                    1     
 ```
 
 ## Questions or Comments?

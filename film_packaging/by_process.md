@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 25 2025
-Unique items: 448
-Total scans : 831
+Unique items: 449
+Total scans : 832
 ```
 
 -----
@@ -290,6 +290,7 @@ Total scans : 831
 - [[C-41] Kodak Gold 200 (ref: 933f)](#c-41-kodak-gold-200-ref-933f)
 - [[C-41] Kodak Gold II (ref: 61d0)](#c-41-kodak-gold-ii-ref-61d0)
 - [[C-41] Kodak Gold Ultra 400 (ref: 1358)](#c-41-kodak-gold-ultra-400-ref-1358)
+- [[C-41] Kodak Kodacolor 100 (ref: 73e0)](#c-41-kodak-kodacolor-100-ref-73e0)
 - [[C-41] Kodak Kodacolor 400 (ref: 9e4c)](#c-41-kodak-kodacolor-400-ref-9e4c)
 - [[C-41] Kodak Kodacolor Gold 200 (ref: f368)](#c-41-kodak-kodacolor-gold-200-ref-f368)
 - [[C-41] Kodak Kodacolor Gold 400 (ref: 473d)](#c-41-kodak-kodacolor-gold-400-ref-473d)
@@ -5469,6 +5470,20 @@ UUID  : c2dc7711cd38434da5cfea8750f61358
 	<img src="./lowres/00094_001.jpg" alt="Kodak Gold Ultra 400 35mm film box outside" loading="lazy" width="300" height="500">
 </a>
 
+#### [C-41] Kodak Kodacolor 100 (ref: 73e0)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2027-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-25   |  Author  : minidiscus
+UUID  : 930ee2c830af4f0a957649764d5873e0
+```
+
+<a href="./archive/00453_000.jpg" target="_blank">
+	<img src="./lowres/00453_000.jpg" alt="Kodak Kodacolor 100 35mm film box outside" loading="lazy" width="413" height="499">
+</a>
+
 #### [C-41] Kodak Kodacolor 400 (ref: 9e4c)
 
 ```
@@ -9486,6 +9501,7 @@ Rank  Username                      Contributions
 33    @ad.astra.per.aspera.1894     1     
 34    Aoi Yuki                      1     
 35    lemoniter                     1     
+36    minidiscus                    1     
 ```
 
 ## Questions or Comments?
