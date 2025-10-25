@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 23 2025
-Unique items: 446
-Total scans : 827
+Last Updated: Oct 25 2025
+Unique items: 448
+Total scans : 831
 ```
 
 -----
@@ -46,6 +46,7 @@ Total scans : 827
 - [[1961] Ricoh Golden "16" (ref: c02c)](#1961-ricoh-golden-16-ref-c02c)
 - [[1962] Kodak Verichrome Pan (ref: 7984)](#1962-kodak-verichrome-pan-ref-7984)
 - [[1963] Kodak High Speed Ektachrome (ref: ce7f)](#1963-kodak-high-speed-ektachrome-ref-ce7f)
+- [[1963] Perutz Peromnia 21 (ref: bf2a)](#1963-perutz-peromnia-21-ref-bf2a)
 - [[1963] Agfa Isopan ISS (ref: 75fa)](#1963-agfa-isopan-iss-ref-75fa)
 - [[1964] ADOX KB17 (ref: 2c95)](#1964-adox-kb17-ref-2c95)
 - [[1964] Perfect Photo Inc. Perfect-Pan Film (ref: c214)](#1964-perfect-photo-inc-perfect-pan-film-ref-c214)
@@ -60,6 +61,7 @@ Total scans : 827
 - [[1969] Agfa Agfacolor Reversal Film CK (ref: 3502)](#1969-agfa-agfacolor-reversal-film-ck-ref-3502)
 - [[1970] Kodak Plus-X Pan (ref: f5cc)](#1970-kodak-plus-x-pan-ref-f5cc)
 - [[1970] Kodak High Speed Ektachrome (ref: ec3d)](#1970-kodak-high-speed-ektachrome-ref-ec3d)
+- [[1970] Famous Brand Labs Color Negative Film (ref: b271)](#1970-famous-brand-labs-color-negative-film-ref-b271)
 - [[1970] Kodak High Contrast Copy Film (ref: db52)](#1970-kodak-high-contrast-copy-film-ref-db52)
 - [[1971] Agfa Agfacolor Special Negative Film CN S (ref: 1e83)](#1971-agfa-agfacolor-special-negative-film-cn-s-ref-1e83)
 - [[1971] Kodak Ektachrome-X (ref: c057)](#1971-kodak-ektachrome-x-ref-c057)
@@ -893,6 +895,20 @@ UUID  : ec7cf78858fc48c59e5a0875ec74ce7f
 	<img src="./lowres/00017_000.jpg" alt="Kodak High Speed Ektachrome 120 film box outside" loading="lazy" width="500" height="500">
 </a>
 
+#### [1963] Perutz Peromnia 21 (ref: bf2a)
+
+```
+Format: 127          |  Process : BW      
+ISO   : 100          |  Expiry  : 1963-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-25   |  Author  : dekuNukem
+UUID  : 931cd13271f74ddf96233e783ea9bf2a
+```
+
+<a href="./archive/00451_000.jpg" target="_blank">
+	<img src="./lowres/00451_000.jpg" alt="Perutz Peromnia 21 127 film box outside" loading="lazy" width="500" height="386">
+</a>
+
 #### [1963] Agfa Isopan ISS (ref: 75fa)
 
 ```
@@ -1304,6 +1320,35 @@ UUID  : 9702189f65de43c59fce151094a7ec3d
 
 <a href="./archive/00045_002.jpg" target="_blank">
 	<img src="./lowres/00045_002.jpg" alt="Kodak High Speed Ektachrome 35mm film box leaflet" loading="lazy" width="182" height="500">
+</a>
+
+#### [1970] Famous Brand Labs Color Negative Film (ref: b271)
+
+```
+Format: 127          |  Process : Unknown 
+ISO   : 80           |  Expiry  : 1970-08 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-25   |  Author  : dekuNukem
+UUID  : 60accb18d36a4358b857d58e5f91b271
+Notes : Made in Belgium
+```
+
+<a href="./archive/00452_000.jpg" target="_blank">
+	<img src="./lowres/00452_000.jpg" alt="Famous Brand Labs Color Negative Film 127 film box outside" loading="lazy" width="500" height="401">
+</a>
+
+
+`UUID: 446f576effb34b8c9697e27a7dcbd109`↓
+
+<a href="./archive/00452_001.jpg" target="_blank">
+	<img src="./lowres/00452_001.jpg" alt="Famous Brand Labs Color Negative Film 127 film box leaflet" loading="lazy" width="411" height="500">
+</a>
+
+
+`UUID: 853499e631474d46b5d2d65e937f6ebd`↓
+
+<a href="./archive/00452_002.jpg" target="_blank">
+	<img src="./lowres/00452_002.jpg" alt="Famous Brand Labs Color Negative Film 127 film box leaflet" loading="lazy" width="414" height="499">
 </a>
 
 #### [1970] Kodak High Contrast Copy Film (ref: db52)
@@ -9406,7 +9451,7 @@ UUID  : 80d64fa269454c5589109c68a40541a8
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     334   
+1     dekuNukem                     338   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @recycling.film               56    

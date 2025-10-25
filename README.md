@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 23 2025
-Unique items: 446
-Total scans : 827
+Last Updated: Oct 25 2025
+Unique items: 448
+Total scans : 831
 ```
 
 Or Sort by...
@@ -53,7 +53,7 @@ Or Sort by...
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     334   
+1     dekuNukem                     338   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @recycling.film               56    
@@ -93,6 +93,10 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-10-25
+  - dekuNukem: Famous Brand Labs Color Negative Film
+  - dekuNukem: Perutz Peromnia 21
+
 2025-10-23
   - @Hol.m35: Optik Oldschool OptiColour 200
 
@@ -145,13 +149,6 @@ Rank  Username                      Contributions
   - nick: ADOX CHS 100 II
   - nick: ADOX CMS 20 II Pro
   - nick: Rollei RPX 25
-
-2025-10-14
-  - dekuNukem: Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras
-  - dekuNukem: Lomography Tiger
-  - dekuNukem: Minox MinoColor 100 Pro
-  - dekuNukem: Sharan Black-and-white Negative Film
-  - dekuNukem: Sharan Color Negative Film
 ```
 
 ## Disclaimer

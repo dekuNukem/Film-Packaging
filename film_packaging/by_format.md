@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 23 2025
-Unique items: 446
-Total scans : 827
+Last Updated: Oct 25 2025
+Unique items: 448
+Total scans : 831
 ```
 
 -----
@@ -145,8 +145,10 @@ Total scans : 827
 - [[126] Kodak Kodacolor-X (ref: 5302)](#126-kodak-kodacolor-x-ref-5302)
 - [[126] SupaSnaps Snappit Film (ref: c41b)](#126-supasnaps-snappit-film-ref-c41b)
 - [[127] Agfa Isopan ISS (ref: 5ba6)](#127-agfa-isopan-iss-ref-5ba6)
+- [[127] Famous Brand Labs Color Negative Film (ref: b271)](#127-famous-brand-labs-color-negative-film-ref-b271)
 - [[127] Famous Brand Labs Color Negative Film (ref: 0cd6)](#127-famous-brand-labs-color-negative-film-ref-0cd6)
 - [[127] Gevaert Superchrome (ref: af27)](#127-gevaert-superchrome-ref-af27)
+- [[127] Perutz Peromnia 21 (ref: bf2a)](#127-perutz-peromnia-21-ref-bf2a)
 - [[127] Reflx Lab Pro 100 (ref: 8bec)](#127-reflx-lab-pro-100-ref-8bec)
 - [[127] Shanghai GP3 (ref: 52aa)](#127-shanghai-gp3-ref-52aa)
 - [[127] Triple-Print Film Labs Color Negative Film (ref: 88e6)](#127-triple-print-film-labs-color-negative-film-ref-88e6)
@@ -3064,6 +3066,35 @@ UUID  : ab1d4ea5f512444e92d82e4610c75ba6
 	<img src="./lowres/00357_000.jpg" alt="Agfa Isopan ISS 127 film box outside" loading="lazy" width="500" height="412">
 </a>
 
+#### [127] Famous Brand Labs Color Negative Film (ref: b271)
+
+```
+Format: 127          |  Process : Unknown 
+ISO   : 80           |  Expiry  : 1970-08 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-25   |  Author  : dekuNukem
+UUID  : 60accb18d36a4358b857d58e5f91b271
+Notes : Made in Belgium
+```
+
+<a href="./archive/00452_000.jpg" target="_blank">
+	<img src="./lowres/00452_000.jpg" alt="Famous Brand Labs Color Negative Film 127 film box outside" loading="lazy" width="500" height="401">
+</a>
+
+
+`UUID: 446f576effb34b8c9697e27a7dcbd109`↓
+
+<a href="./archive/00452_001.jpg" target="_blank">
+	<img src="./lowres/00452_001.jpg" alt="Famous Brand Labs Color Negative Film 127 film box leaflet" loading="lazy" width="411" height="500">
+</a>
+
+
+`UUID: 853499e631474d46b5d2d65e937f6ebd`↓
+
+<a href="./archive/00452_002.jpg" target="_blank">
+	<img src="./lowres/00452_002.jpg" alt="Famous Brand Labs Color Negative Film 127 film box leaflet" loading="lazy" width="414" height="499">
+</a>
+
 #### [127] Famous Brand Labs Color Negative Film (ref: 0cd6)
 
 ```
@@ -3104,6 +3135,20 @@ UUID  : 5b7606bb875b4930bafa486534e6af27
 
 <a href="./archive/00389_000.jpg" target="_blank">
 	<img src="./lowres/00389_000.jpg" alt="Gevaert Superchrome 127 film box outside" loading="lazy" width="500" height="346">
+</a>
+
+#### [127] Perutz Peromnia 21 (ref: bf2a)
+
+```
+Format: 127          |  Process : BW      
+ISO   : 100          |  Expiry  : 1963-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-25   |  Author  : dekuNukem
+UUID  : 931cd13271f74ddf96233e783ea9bf2a
+```
+
+<a href="./archive/00451_000.jpg" target="_blank">
+	<img src="./lowres/00451_000.jpg" alt="Perutz Peromnia 21 127 film box outside" loading="lazy" width="500" height="386">
 </a>
 
 #### [127] Reflx Lab Pro 100 (ref: 8bec)
@@ -9406,7 +9451,7 @@ Notes : There was a roll of 127 ekfe R100 inside, not sure if it's the original,
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     334   
+1     dekuNukem                     338   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @recycling.film               56    

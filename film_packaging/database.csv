@@ -826,3 +826,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 448,0,film_box_outside,Agfa,Isopan ISS Rapid,35mm,100,BW,198007,1761049280,f32dcfe5bd88ee97620bba455328b484,d90937332f0a4392adb1f344b5ba3aee,00448_000.jpg,dekuNukem,,Single Pack,Unknown
 449,0,film_box_outside,Agfa,Isopan ISS Rapid,35mm,100,BW,197401,1761049321,e95660da724022ed85b98d23b937af85,3b6a16ff2678454590c574c2fd969799,00449_000.jpg,dekuNukem,,Single Pack,Unknown
 450,0,film_box_outside,Optik Oldschool,OptiColour 200,120,200,C-41,Unknown,1761230378,308fc424d76e62b6b608fa01fcea8e61,f0bf478daf444011b6ee52954d9f80d7,00450_000.jpg,@Hol.m35,preproduction package,Single Pack,N/A
+451,0,film_box_outside,Perutz,Peromnia 21,127,100,BW,196309,1761356710,31052f8bea21104ad243392acefc5ad1,931cd13271f74ddf96233e783ea9bf2a,00451_000.jpg,dekuNukem,,Single Pack,N/A
+452,0,film_box_outside,Famous Brand Labs,Color Negative Film,127,80,Unknown,197008,1761356943,5af48806688f91e4e6fd14b9dd2f66ea,60accb18d36a4358b857d58e5f91b271,00452_000.jpg,dekuNukem,Made in Belgium,Single Pack,N/A
+452,1,film_box_leaflet,Famous Brand Labs,Color Negative Film,127,80,Unknown,197008,1761356947,7a21827d85dc2d68f5cce001be483e04,446f576effb34b8c9697e27a7dcbd109,00452_001.jpg,dekuNukem,Made in Belgium,Single Pack,N/A
+452,2,film_box_leaflet,Famous Brand Labs,Color Negative Film,127,80,Unknown,197008,1761356954,866e5c6fae0c187ba9a076964e88cf6a,853499e631474d46b5d2d65e937f6ebd,00452_002.jpg,dekuNukem,Made in Belgium,Single Pack,N/A

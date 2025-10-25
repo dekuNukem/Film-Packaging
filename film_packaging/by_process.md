@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 23 2025
-Unique items: 446
-Total scans : 827
+Last Updated: Oct 25 2025
+Unique items: 448
+Total scans : 831
 ```
 
 -----
@@ -153,6 +153,7 @@ Total scans : 827
 - [[BW] ORWO NP15 (ref: 9a20)](#bw-orwo-np15-ref-9a20)
 - [[BW] Perfect Photo Inc. Perfect-Pan Film (ref: c214)](#bw-perfect-photo-inc-perfect-pan-film-ref-c214)
 - [[BW] Perutz Peromnia 21 (ref: fa4a)](#bw-perutz-peromnia-21-ref-fa4a)
+- [[BW] Perutz Peromnia 21 (ref: bf2a)](#bw-perutz-peromnia-21-ref-bf2a)
 - [[BW] Perutz Perpantic Film (ref: 58b1)](#bw-perutz-perpantic-film-ref-58b1)
 - [[BW] Perutz Superomnia (ref: c90d)](#bw-perutz-superomnia-ref-c90d)
 - [[BW] Phöbus-Platten Sheet Film (ref: d505)](#bw-phöbus-platten-sheet-film-ref-d505)
@@ -454,6 +455,7 @@ Total scans : 827
 - [[Unknown] Agfa Agfacolor Reversal Film CK (ref: 3502)](#unknown-agfa-agfacolor-reversal-film-ck-ref-3502)
 - [[Unknown] Agfa Agfacolor Special Negative Film CN S (ref: 1e83)](#unknown-agfa-agfacolor-special-negative-film-cn-s-ref-1e83)
 - [[Unknown] Agfa Agfacolor Umkehr-Ultra T (ref: 01db)](#unknown-agfa-agfacolor-umkehr-ultra-t-ref-01db)
+- [[Unknown] Famous Brand Labs Color Negative Film (ref: b271)](#unknown-famous-brand-labs-color-negative-film-ref-b271)
 - [[Unknown] Famous Brand Labs Color Negative Film (ref: 0cd6)](#unknown-famous-brand-labs-color-negative-film-ref-0cd6)
 - [[Unknown] Film Corporation of America TriFCA 120 (ref: d024)](#unknown-film-corporation-of-america-trifca-120-ref-d024)
 - [[Unknown] Film Corporation of America TriFCA 120 (ref: 9937)](#unknown-film-corporation-of-america-trifca-120-ref-9937)
@@ -2921,6 +2923,20 @@ UUID  : 05554da8891c470facbddfd5fe35fa4a
 
 <a href="./archive/00419_000.jpg" target="_blank">
 	<img src="./lowres/00419_000.jpg" alt="Perutz Peromnia 21 35mm film box outside" loading="lazy" width="500" height="479">
+</a>
+
+#### [BW] Perutz Peromnia 21 (ref: bf2a)
+
+```
+Format: 127          |  Process : BW      
+ISO   : 100          |  Expiry  : 1963-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-25   |  Author  : dekuNukem
+UUID  : 931cd13271f74ddf96233e783ea9bf2a
+```
+
+<a href="./archive/00451_000.jpg" target="_blank">
+	<img src="./lowres/00451_000.jpg" alt="Perutz Peromnia 21 127 film box outside" loading="lazy" width="500" height="386">
 </a>
 
 #### [BW] Perutz Perpantic Film (ref: 58b1)
@@ -8931,6 +8947,35 @@ UUID  : b79dcd08bc514df3982630e3401f01db
 	<img src="./lowres/00380_000.jpg" alt="Agfa Agfacolor Umkehr-Ultra T 35mm film cartridge" loading="lazy" width="500" height="500">
 </a>
 
+#### [Unknown] Famous Brand Labs Color Negative Film (ref: b271)
+
+```
+Format: 127          |  Process : Unknown 
+ISO   : 80           |  Expiry  : 1970-08 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-25   |  Author  : dekuNukem
+UUID  : 60accb18d36a4358b857d58e5f91b271
+Notes : Made in Belgium
+```
+
+<a href="./archive/00452_000.jpg" target="_blank">
+	<img src="./lowres/00452_000.jpg" alt="Famous Brand Labs Color Negative Film 127 film box outside" loading="lazy" width="500" height="401">
+</a>
+
+
+`UUID: 446f576effb34b8c9697e27a7dcbd109`↓
+
+<a href="./archive/00452_001.jpg" target="_blank">
+	<img src="./lowres/00452_001.jpg" alt="Famous Brand Labs Color Negative Film 127 film box leaflet" loading="lazy" width="411" height="500">
+</a>
+
+
+`UUID: 853499e631474d46b5d2d65e937f6ebd`↓
+
+<a href="./archive/00452_002.jpg" target="_blank">
+	<img src="./lowres/00452_002.jpg" alt="Famous Brand Labs Color Negative Film 127 film box leaflet" loading="lazy" width="414" height="499">
+</a>
+
 #### [Unknown] Famous Brand Labs Color Negative Film (ref: 0cd6)
 
 ```
@@ -9406,7 +9451,7 @@ Notes : Division of Film Corporation of America
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     334   
+1     dekuNukem                     338   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @recycling.film               56    

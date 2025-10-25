@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 23 2025
-Unique items: 446
-Total scans : 827
+Last Updated: Oct 25 2025
+Unique items: 448
+Total scans : 831
 ```
 
 -----
@@ -310,6 +310,7 @@ Total scans : 827
 - [[dekuNukem] CineStill 800T (ref: c86a)](#dekunukem-cinestill-800t-ref-c86a)
 - [[dekuNukem] Efiniti UXi Super 200 (ref: 471a)](#dekunukem-efiniti-uxi-super-200-ref-471a)
 - [[dekuNukem] Efke IR 820 Aura (ref: 43c9)](#dekunukem-efke-ir-820-aura-ref-43c9)
+- [[dekuNukem] Famous Brand Labs Color Negative Film (ref: b271)](#dekunukem-famous-brand-labs-color-negative-film-ref-b271)
 - [[dekuNukem] Famous Brand Labs Color Negative Film (ref: 0cd6)](#dekunukem-famous-brand-labs-color-negative-film-ref-0cd6)
 - [[dekuNukem] Film Corporation of America TriFCA 120 (ref: d024)](#dekunukem-film-corporation-of-america-trifca-120-ref-d024)
 - [[dekuNukem] Film Corporation of America TriFCA 120 (ref: 9937)](#dekunukem-film-corporation-of-america-trifca-120-ref-9937)
@@ -403,6 +404,7 @@ Total scans : 827
 - [[dekuNukem] Minox MinoColor 100 Pro (ref: 5338)](#dekunukem-minox-minocolor-100-pro-ref-5338)
 - [[dekuNukem] Minox Minocolor 2 (ref: fadd)](#dekunukem-minox-minocolor-2-ref-fadd)
 - [[dekuNukem] Northwest Custom Film Processing Ultra Minituature Film (ref: 70b1)](#dekunukem-northwest-custom-film-processing-ultra-minituature-film-ref-70b1)
+- [[dekuNukem] Perutz Peromnia 21 (ref: bf2a)](#dekunukem-perutz-peromnia-21-ref-bf2a)
 - [[dekuNukem] Polaroid 665 (ref: e054)](#dekunukem-polaroid-665-ref-e054)
 - [[dekuNukem] Polaroid 669 (ref: 3566)](#dekunukem-polaroid-669-ref-3566)
 - [[dekuNukem] Polaroid 87 (ref: 62ef)](#dekunukem-polaroid-87-ref-62ef)
@@ -5752,6 +5754,35 @@ UUID  : 716e410a3823476e9befa704361f43c9
 	<img src="./lowres/00038_001.jpg" alt="Efke IR 820 Aura 120 film box inside" loading="lazy" width="500" height="341">
 </a>
 
+#### [dekuNukem] Famous Brand Labs Color Negative Film (ref: b271)
+
+```
+Format: 127          |  Process : Unknown 
+ISO   : 80           |  Expiry  : 1970-08 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-25   |  Author  : dekuNukem
+UUID  : 60accb18d36a4358b857d58e5f91b271
+Notes : Made in Belgium
+```
+
+<a href="./archive/00452_000.jpg" target="_blank">
+	<img src="./lowres/00452_000.jpg" alt="Famous Brand Labs Color Negative Film 127 film box outside" loading="lazy" width="500" height="401">
+</a>
+
+
+`UUID: 446f576effb34b8c9697e27a7dcbd109`↓
+
+<a href="./archive/00452_001.jpg" target="_blank">
+	<img src="./lowres/00452_001.jpg" alt="Famous Brand Labs Color Negative Film 127 film box leaflet" loading="lazy" width="411" height="500">
+</a>
+
+
+`UUID: 853499e631474d46b5d2d65e937f6ebd`↓
+
+<a href="./archive/00452_002.jpg" target="_blank">
+	<img src="./lowres/00452_002.jpg" alt="Famous Brand Labs Color Negative Film 127 film box leaflet" loading="lazy" width="414" height="499">
+</a>
+
 #### [dekuNukem] Famous Brand Labs Color Negative Film (ref: 0cd6)
 
 ```
@@ -7868,6 +7899,20 @@ Notes : There was a roll of 127 ekfe R100 inside, not sure if it's the original,
 	<img src="./lowres/00425_002.jpg" alt="Northwest Custom Film Processing Ultra Minituature Film Unknown film box processing envelope" loading="lazy" width="500" height="218">
 </a>
 
+#### [dekuNukem] Perutz Peromnia 21 (ref: bf2a)
+
+```
+Format: 127          |  Process : BW      
+ISO   : 100          |  Expiry  : 1963-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-25   |  Author  : dekuNukem
+UUID  : 931cd13271f74ddf96233e783ea9bf2a
+```
+
+<a href="./archive/00451_000.jpg" target="_blank">
+	<img src="./lowres/00451_000.jpg" alt="Perutz Peromnia 21 127 film box outside" loading="lazy" width="500" height="386">
+</a>
+
 #### [dekuNukem] Polaroid 665 (ref: e054)
 
 ```
@@ -9406,7 +9451,7 @@ UUID  : e54ce68c797b4846b9aee3f5818ecb58
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     334   
+1     dekuNukem                     338   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @recycling.film               56    

@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 23 2025
-Unique items: 446
-Total scans : 827
+Last Updated: Oct 25 2025
+Unique items: 448
+Total scans : 831
 ```
 
 -----
@@ -89,6 +89,7 @@ Total scans : 827
 - [Defender Portrait HGS (ref: d69c)](#defender-portrait-hgs-ref-d69c)
 - [Efiniti UXi Super 200 (ref: 471a)](#efiniti-uxi-super-200-ref-471a)
 - [Efke IR 820 Aura (ref: 43c9)](#efke-ir-820-aura-ref-43c9)
+- [Famous Brand Labs Color Negative Film (ref: b271)](#famous-brand-labs-color-negative-film-ref-b271)
 - [Famous Brand Labs Color Negative Film (ref: 0cd6)](#famous-brand-labs-color-negative-film-ref-0cd6)
 - [Ferrania Solaris (ref: a929)](#ferrania-solaris-ref-a929)
 - [Film Corporation of America TriFCA 120 (ref: d024)](#film-corporation-of-america-trifca-120-ref-d024)
@@ -404,6 +405,7 @@ Total scans : 827
 - [Optik Oldschool OptiColour 200 (ref: 80d7)](#optik-oldschool-opticolour-200-ref-80d7)
 - [Perfect Photo Inc. Perfect-Pan Film (ref: c214)](#perfect-photo-inc-perfect-pan-film-ref-c214)
 - [Perutz Peromnia 21 (ref: fa4a)](#perutz-peromnia-21-ref-fa4a)
+- [Perutz Peromnia 21 (ref: bf2a)](#perutz-peromnia-21-ref-bf2a)
 - [Perutz Perpantic Film (ref: 58b1)](#perutz-perpantic-film-ref-58b1)
 - [Perutz Superomnia (ref: c90d)](#perutz-superomnia-ref-c90d)
 - [Phöbus-Platten Sheet Film (ref: d505)](#phöbus-platten-sheet-film-ref-d505)
@@ -1772,6 +1774,35 @@ UUID  : 716e410a3823476e9befa704361f43c9
 
 <a href="./archive/00038_001.jpg" target="_blank">
 	<img src="./lowres/00038_001.jpg" alt="Efke IR 820 Aura 120 film box inside" loading="lazy" width="500" height="341">
+</a>
+
+#### Famous Brand Labs Color Negative Film (ref: b271)
+
+```
+Format: 127          |  Process : Unknown 
+ISO   : 80           |  Expiry  : 1970-08 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-25   |  Author  : dekuNukem
+UUID  : 60accb18d36a4358b857d58e5f91b271
+Notes : Made in Belgium
+```
+
+<a href="./archive/00452_000.jpg" target="_blank">
+	<img src="./lowres/00452_000.jpg" alt="Famous Brand Labs Color Negative Film 127 film box outside" loading="lazy" width="500" height="401">
+</a>
+
+
+`UUID: 446f576effb34b8c9697e27a7dcbd109`↓
+
+<a href="./archive/00452_001.jpg" target="_blank">
+	<img src="./lowres/00452_001.jpg" alt="Famous Brand Labs Color Negative Film 127 film box leaflet" loading="lazy" width="411" height="500">
+</a>
+
+
+`UUID: 853499e631474d46b5d2d65e937f6ebd`↓
+
+<a href="./archive/00452_002.jpg" target="_blank">
+	<img src="./lowres/00452_002.jpg" alt="Famous Brand Labs Color Negative Film 127 film box leaflet" loading="lazy" width="414" height="499">
 </a>
 
 #### Famous Brand Labs Color Negative Film (ref: 0cd6)
@@ -8030,6 +8061,20 @@ UUID  : 05554da8891c470facbddfd5fe35fa4a
 	<img src="./lowres/00419_000.jpg" alt="Perutz Peromnia 21 35mm film box outside" loading="lazy" width="500" height="479">
 </a>
 
+#### Perutz Peromnia 21 (ref: bf2a)
+
+```
+Format: 127          |  Process : BW      
+ISO   : 100          |  Expiry  : 1963-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-25   |  Author  : dekuNukem
+UUID  : 931cd13271f74ddf96233e783ea9bf2a
+```
+
+<a href="./archive/00451_000.jpg" target="_blank">
+	<img src="./lowres/00451_000.jpg" alt="Perutz Peromnia 21 127 film box outside" loading="lazy" width="500" height="386">
+</a>
+
 #### Perutz Perpantic Film (ref: 58b1)
 
 ```
@@ -9406,7 +9451,7 @@ UUID  : fc90db41b94d486491177a8407f1100d
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     334   
+1     dekuNukem                     338   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @recycling.film               56    
