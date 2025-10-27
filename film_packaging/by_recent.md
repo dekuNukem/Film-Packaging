@@ -15,13 +15,18 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 25 2025
-Unique items: 449
-Total scans : 832
+Last Updated: Oct 27 2025
+Unique items: 454
+Total scans : 841
 ```
 
 -----
 
+- [[2025-10-27] Kodak Super-XX (ref: e684)](#2025-10-27-kodak-super-xx-ref-e684)
+- [[2025-10-27] Gevaert Studio Film (ref: 75f9)](#2025-10-27-gevaert-studio-film-ref-75f9)
+- [[2025-10-27] Agfa Isopan Portrait (ref: 19b5)](#2025-10-27-agfa-isopan-portrait-ref-19b5)
+- [[2025-10-27] Ilford HP3 (ref: ae35)](#2025-10-27-ilford-hp3-ref-ae35)
+- [[2025-10-27] Kodak Tri-X Pan (ref: 6608)](#2025-10-27-kodak-tri-x-pan-ref-6608)
 - [[2025-10-25] Kodak Kodacolor 100 (ref: 73e0)](#2025-10-25-kodak-kodacolor-100-ref-73e0)
 - [[2025-10-25] Famous Brand Labs Color Negative Film (ref: b271)](#2025-10-25-famous-brand-labs-color-negative-film-ref-b271)
 - [[2025-10-25] Perutz Peromnia 21 (ref: bf2a)](#2025-10-25-perutz-peromnia-21-ref-bf2a)
@@ -474,6 +479,106 @@ Total scans : 832
 
 
 -----
+
+
+`UUID: bd0852f5b5964fda80affbb0d7b002fc`↓
+
+<a href="./archive/00458_002.jpg" target="_blank">
+	<img src="./lowres/00458_002.jpg" alt="Kodak Super-XX 12x16.5cm film box outside" loading="lazy" width="500" height="112">
+</a>
+
+
+`UUID: 9ab3d1a84be64e17bf9e78b59ddee3f3`↓
+
+<a href="./archive/00458_001.jpg" target="_blank">
+	<img src="./lowres/00458_001.jpg" alt="Kodak Super-XX 12x16.5cm film box outside" loading="lazy" width="390" height="500">
+</a>
+
+#### [2025-10-27] Kodak Super-XX (ref: e684)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 24 Sheets
+Added : 2025-10-27   |  Author  : @ellafridalindblom
+UUID  : 098d684d4be64821a80474b771d8e684
+```
+
+<a href="./archive/00458_000.jpg" target="_blank">
+	<img src="./lowres/00458_000.jpg" alt="Kodak Super-XX 12x16.5cm film box outside" loading="lazy" width="406" height="500">
+</a>
+
+#### [2025-10-27] Gevaert Studio Film (ref: 75f9)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-27   |  Author  : @ellafridalindblom
+UUID  : e585128e844941a98145d4fca88075f9
+Notes : Muster Matt
+```
+
+<a href="./archive/00457_000.jpg" target="_blank">
+	<img src="./lowres/00457_000.jpg" alt="Gevaert Studio Film 12x16.5cm film box outside" loading="lazy" width="365" height="500">
+</a>
+
+#### [2025-10-27] Agfa Isopan Portrait (ref: 19b5)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : 1947-09 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-27   |  Author  : @ellafridalindblom
+UUID  : 08e940883895476d8de94bc5137419b5
+```
+
+<a href="./archive/00456_000.jpg" target="_blank">
+	<img src="./lowres/00456_000.jpg" alt="Agfa Isopan Portrait 12x16.5cm film box outside" loading="lazy" width="500" height="365">
+</a>
+
+#### [2025-10-27] Ilford HP3 (ref: ae35)
+
+```
+Format: Unknown      |  Process : BW      
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-27   |  Author  : @ellafridalindblom
+UUID  : dbfd040081714492bd8bcc80d496ae35
+```
+
+<a href="./archive/00455_000.jpg" target="_blank">
+	<img src="./lowres/00455_000.jpg" alt="Ilford HP3 Unknown film box outside" loading="lazy" width="500" height="368">
+</a>
+
+
+`UUID: 4f0a47ed8f2a4625956d3e2255b35bd1`↓
+
+<a href="./archive/00454_002.jpg" target="_blank">
+	<img src="./lowres/00454_002.jpg" alt="Kodak Tri-X Pan 12x16.5cm film box outside" loading="lazy" width="382" height="500">
+</a>
+
+
+`UUID: 8c0dda70e6d44bde9777605dc13cf00f`↓
+
+<a href="./archive/00454_001.jpg" target="_blank">
+	<img src="./lowres/00454_001.jpg" alt="Kodak Tri-X Pan 12x16.5cm film box outside" loading="lazy" width="500" height="106">
+</a>
+
+#### [2025-10-27] Kodak Tri-X Pan (ref: 6608)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 320          |  Expiry  : 1975-09 
+Type  : Single Pack  |  Quantity: 25 Sheets
+Added : 2025-10-27   |  Author  : @ellafridalindblom
+UUID  : 2210a8e9fb4c400d8258a652aaba6608
+Notes : Estar Thick Base 4164
+```
+
+<a href="./archive/00454_000.jpg" target="_blank">
+	<img src="./lowres/00454_000.jpg" alt="Kodak Tri-X Pan 12x16.5cm film box outside" loading="lazy" width="357" height="500">
+</a>
 
 #### [2025-10-25] Kodak Kodacolor 100 (ref: 73e0)
 
@@ -9470,7 +9575,7 @@ Rank  Username                      Contributions
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @recycling.film               56    
-5     @ellafridalindblom            46    
+5     @ellafridalindblom            55    
 6     The Compartmentalist          25    
 7     fine-seat                     19    
 8     Camera.Riley                  19    

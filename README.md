@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 25 2025
-Unique items: 449
-Total scans : 832
+Last Updated: Oct 27 2025
+Unique items: 454
+Total scans : 841
 ```
 
 Or Sort by...
@@ -57,7 +57,7 @@ Rank  Username                      Contributions
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @recycling.film               56    
-5     @ellafridalindblom            46    
+5     @ellafridalindblom            55    
 6     The Compartmentalist          25    
 7     fine-seat                     19    
 8     Camera.Riley                  19    
@@ -94,6 +94,13 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-10-27
+  - @ellafridalindblom: Agfa Isopan Portrait
+  - @ellafridalindblom: Gevaert Studio Film
+  - @ellafridalindblom: Ilford HP3
+  - @ellafridalindblom: Kodak Super-XX
+  - @ellafridalindblom: Kodak Tri-X Pan
+
 2025-10-25
   - dekuNukem: Famous Brand Labs Color Negative Film
   - dekuNukem: Perutz Peromnia 21
@@ -146,11 +153,6 @@ Rank  Username                      Contributions
   - @recycling.film: Perutz Perpantic Film
   - @recycling.film: Svema Foto 32
   - @recycling.film: Svema Foto 64
-
-2025-10-16
-  - nick: ADOX CHS 100 II
-  - nick: ADOX CMS 20 II Pro
-  - nick: Rollei RPX 25
 ```
 
 ## Disclaimer

@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 25 2025
-Unique items: 449
-Total scans : 832
+Last Updated: Oct 27 2025
+Unique items: 454
+Total scans : 841
 ```
 
 -----
@@ -27,6 +27,7 @@ Total scans : 832
 - [[1946] Agfa Isopan FF (ref: 3700)](#1946-agfa-isopan-ff-ref-3700)
 - [[1947] Gevaert Superchrome (ref: af27)](#1947-gevaert-superchrome-ref-af27)
 - [[1947] Kodak Verichrome (ref: e465)](#1947-kodak-verichrome-ref-e465)
+- [[1947] Agfa Isopan Portrait (ref: 19b5)](#1947-agfa-isopan-portrait-ref-19b5)
 - [[1947] Perutz Perpantic Film (ref: 58b1)](#1947-perutz-perpantic-film-ref-58b1)
 - [[1951] Kodak Plus-X (ref: 4b73)](#1951-kodak-plus-x-ref-4b73)
 - [[1951] Kodak Verichrome (ref: c9c2)](#1951-kodak-verichrome-ref-c9c2)
@@ -81,6 +82,7 @@ Total scans : 832
 - [[1974] Kodak High Speed Ektachrome (ref: be8f)](#1974-kodak-high-speed-ektachrome-ref-be8f)
 - [[1975] Fujifilm Neopan SS Rapid (ref: 9db3)](#1975-fujifilm-neopan-ss-rapid-ref-9db3)
 - [[1975] Kodak Kodacolor-X (ref: 5302)](#1975-kodak-kodacolor-x-ref-5302)
+- [[1975] Kodak Tri-X Pan (ref: 6608)](#1975-kodak-tri-x-pan-ref-6608)
 - [[1975] PrinzColor Colour Negative Film (ref: 448c)](#1975-prinzcolor-colour-negative-film-ref-448c)
 - [[1976] Agfa Isopan IF Rapid (ref: 2b99)](#1976-agfa-isopan-if-rapid-ref-2b99)
 - [[1976] Triple-Print Film Labs Color Negative Film (ref: 88e6)](#1976-triple-print-film-labs-color-negative-film-ref-88e6)
@@ -449,13 +451,16 @@ Total scans : 832
 - [[Unknown] Ferrania Solaris (ref: a929)](#unknown-ferrania-solaris-ref-a929)
 - [[Unknown] Film Corporation of America TriFCA 120 (ref: 9937)](#unknown-film-corporation-of-america-trifca-120-ref-9937)
 - [[Unknown] Gevaert Infra-R (ref: fc88)](#unknown-gevaert-infra-r-ref-fc88)
+- [[Unknown] Gevaert Studio Film (ref: 75f9)](#unknown-gevaert-studio-film-ref-75f9)
 - [[Unknown] Gevaert Ultra Panchro Normal (ref: 1ff6)](#unknown-gevaert-ultra-panchro-normal-ref-1ff6)
 - [[Unknown] Great Films Processing Kodachrome (ref: c012)](#unknown-great-films-processing-kodachrome-ref-c012)
 - [[Unknown] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#unknown-hasselblad-hassel-plåtar-erorto-ref-ec67)
+- [[Unknown] Ilford HP3 (ref: ae35)](#unknown-ilford-hp3-ref-ae35)
 - [[Unknown] Illingworth's Fleet H&D (ref: 54fe)](#unknown-illingworths-fleet-h-d-ref-54fe)
 - [[Unknown] Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)](#unknown-impossible-project-px-600-silver-shade-uv-ref-20f3)
 - [[Unknown] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#unknown-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
 - [[Unknown] Kodak Eastman Tri-X Reversal Film 7278 (ref: 8468)](#unknown-kodak-eastman-tri-x-reversal-film-7278-ref-8468)
+- [[Unknown] Kodak Super-XX (ref: e684)](#unknown-kodak-super-xx-ref-e684)
 - [[Unknown] Kodak Tri-X 400 Pro (ref: f05c)](#unknown-kodak-tri-x-400-pro-ref-f05c)
 - [[Unknown] Minox MinoColor 100 Pro (ref: 5338)](#unknown-minox-minocolor-100-pro-ref-5338)
 - [[Unknown] Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#unknown-mutascan-kodak-vision3-500t5219-ref-5150)
@@ -550,6 +555,20 @@ UUID  : a7d5a1c6923e4090b91381a1c853e465
 
 <a href="./archive/00443_000.jpg" target="_blank">
 	<img src="./lowres/00443_000.jpg" alt="Kodak Verichrome 616 film box outside" loading="lazy" width="500" height="404">
+</a>
+
+#### [1947] Agfa Isopan Portrait (ref: 19b5)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : 1947-09 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-27   |  Author  : @ellafridalindblom
+UUID  : 08e940883895476d8de94bc5137419b5
+```
+
+<a href="./archive/00456_000.jpg" target="_blank">
+	<img src="./lowres/00456_000.jpg" alt="Agfa Isopan Portrait 12x16.5cm film box outside" loading="lazy" width="500" height="365">
 </a>
 
 #### [1947] Perutz Perpantic Film (ref: 58b1)
@@ -1777,6 +1796,35 @@ UUID  : 5a3d2ba8ff7649c9b3450d7069445302
 
 <a href="./archive/00024_000.jpg" target="_blank">
 	<img src="./lowres/00024_000.jpg" alt="Kodak Kodacolor-X 126 film box outside" loading="lazy" width="500" height="471">
+</a>
+
+#### [1975] Kodak Tri-X Pan (ref: 6608)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 320          |  Expiry  : 1975-09 
+Type  : Single Pack  |  Quantity: 25 Sheets
+Added : 2025-10-27   |  Author  : @ellafridalindblom
+UUID  : 2210a8e9fb4c400d8258a652aaba6608
+Notes : Estar Thick Base 4164
+```
+
+<a href="./archive/00454_000.jpg" target="_blank">
+	<img src="./lowres/00454_000.jpg" alt="Kodak Tri-X Pan 12x16.5cm film box outside" loading="lazy" width="357" height="500">
+</a>
+
+
+`UUID: 8c0dda70e6d44bde9777605dc13cf00f`↓
+
+<a href="./archive/00454_001.jpg" target="_blank">
+	<img src="./lowres/00454_001.jpg" alt="Kodak Tri-X Pan 12x16.5cm film box outside" loading="lazy" width="500" height="106">
+</a>
+
+
+`UUID: 4f0a47ed8f2a4625956d3e2255b35bd1`↓
+
+<a href="./archive/00454_002.jpg" target="_blank">
+	<img src="./lowres/00454_002.jpg" alt="Kodak Tri-X Pan 12x16.5cm film box outside" loading="lazy" width="382" height="500">
 </a>
 
 #### [1975] PrinzColor Colour Negative Film (ref: 448c)
@@ -9020,6 +9068,21 @@ UUID  : 5700b2c507254c36ac9b05eabf04fc88
 	<img src="./lowres/00429_000.jpg" alt="Gevaert Infra-R 120 film box outside" loading="lazy" width="500" height="358">
 </a>
 
+#### [Unknown] Gevaert Studio Film (ref: 75f9)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-27   |  Author  : @ellafridalindblom
+UUID  : e585128e844941a98145d4fca88075f9
+Notes : Muster Matt
+```
+
+<a href="./archive/00457_000.jpg" target="_blank">
+	<img src="./lowres/00457_000.jpg" alt="Gevaert Studio Film 12x16.5cm film box outside" loading="lazy" width="365" height="500">
+</a>
+
 #### [Unknown] Gevaert Ultra Panchro Normal (ref: 1ff6)
 
 ```
@@ -9083,6 +9146,20 @@ UUID  : 1056543f30334a238387be8abe2dec67
 	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plåtar E.R.Orto 6.5x9cm film box outside" loading="lazy" width="500" height="390">
 </a>
 
+#### [Unknown] Ilford HP3 (ref: ae35)
+
+```
+Format: Unknown      |  Process : BW      
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-27   |  Author  : @ellafridalindblom
+UUID  : dbfd040081714492bd8bcc80d496ae35
+```
+
+<a href="./archive/00455_000.jpg" target="_blank">
+	<img src="./lowres/00455_000.jpg" alt="Ilford HP3 Unknown film box outside" loading="lazy" width="500" height="368">
+</a>
+
 #### [Unknown] Illingworth's Fleet H&D (ref: 54fe)
 
 ```
@@ -9137,6 +9214,34 @@ UUID  : e214a4d756ac48c4ac6dbe515fd38468
 
 <a href="./archive/00176_000.jpg" target="_blank">
 	<img src="./lowres/00176_000.jpg" alt="Kodak Eastman Tri-X Reversal Film 7278 16mm film box outside" loading="lazy" width="493" height="500">
+</a>
+
+#### [Unknown] Kodak Super-XX (ref: e684)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 24 Sheets
+Added : 2025-10-27   |  Author  : @ellafridalindblom
+UUID  : 098d684d4be64821a80474b771d8e684
+```
+
+<a href="./archive/00458_000.jpg" target="_blank">
+	<img src="./lowres/00458_000.jpg" alt="Kodak Super-XX 12x16.5cm film box outside" loading="lazy" width="406" height="500">
+</a>
+
+
+`UUID: 9ab3d1a84be64e17bf9e78b59ddee3f3`↓
+
+<a href="./archive/00458_001.jpg" target="_blank">
+	<img src="./lowres/00458_001.jpg" alt="Kodak Super-XX 12x16.5cm film box outside" loading="lazy" width="390" height="500">
+</a>
+
+
+`UUID: bd0852f5b5964fda80affbb0d7b002fc`↓
+
+<a href="./archive/00458_002.jpg" target="_blank">
+	<img src="./lowres/00458_002.jpg" alt="Kodak Super-XX 12x16.5cm film box outside" loading="lazy" width="500" height="112">
 </a>
 
 #### [Unknown] Kodak Tri-X 400 Pro (ref: f05c)
@@ -9470,7 +9575,7 @@ Rank  Username                      Contributions
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @recycling.film               56    
-5     @ellafridalindblom            46    
+5     @ellafridalindblom            55    
 6     The Compartmentalist          25    
 7     fine-seat                     19    
 8     Camera.Riley                  19    

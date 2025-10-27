@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 25 2025
-Unique items: 449
-Total scans : 832
+Last Updated: Oct 27 2025
+Unique items: 454
+Total scans : 841
 ```
 
 -----
@@ -154,10 +154,14 @@ Total scans : 832
 - [[127] Triple-Print Film Labs Color Negative Film (ref: 88e6)](#127-triple-print-film-labs-color-negative-film-ref-88e6)
 - [[127] efke R100 (ref: 10ad)](#127-efke-r100-ref-10ad)
 - [[127] efke R100 (ref: 100d)](#127-efke-r100-ref-100d)
+- [[12x16.5cm] Agfa Isopan Portrait (ref: 19b5)](#12x165cm-agfa-isopan-portrait-ref-19b5)
 - [[12x16.5cm] Defender Extra Fast Panchromatic (ref: 348b)](#12x165cm-defender-extra-fast-panchromatic-ref-348b)
 - [[12x16.5cm] Defender Extra Special Fast Panchromatic (ref: afcf)](#12x165cm-defender-extra-special-fast-panchromatic-ref-afcf)
 - [[12x16.5cm] Defender Portrait HGS (ref: d69c)](#12x165cm-defender-portrait-hgs-ref-d69c)
+- [[12x16.5cm] Gevaert Studio Film (ref: 75f9)](#12x165cm-gevaert-studio-film-ref-75f9)
 - [[12x16.5cm] Gevaert Ultra Panchro Normal (ref: 1ff6)](#12x165cm-gevaert-ultra-panchro-normal-ref-1ff6)
+- [[12x16.5cm] Kodak Super-XX (ref: e684)](#12x165cm-kodak-super-xx-ref-e684)
+- [[12x16.5cm] Kodak Tri-X Pan (ref: 6608)](#12x165cm-kodak-tri-x-pan-ref-6608)
 - [[12x16.5cm] Phöbus-Platten Sheet Film (ref: d505)](#12x165cm-phöbus-platten-sheet-film-ref-d505)
 - [[16mm] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#16mm-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
 - [[16mm] Kodak Eastman Tri-X Reversal Film 7278 (ref: 8468)](#16mm-kodak-eastman-tri-x-reversal-film-7278-ref-8468)
@@ -470,6 +474,7 @@ Total scans : 832
 - [[Polavision] Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)](#polavision-polaroid-polavision-phototape-land-cassette-type-608-ref-90b9)
 - [[Super 8] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)](#super-8-kodak-ektachrome-160-movie-film-type-a-ref-8f62)
 - [[Super 8] Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping (ref: c143)](#super-8-kodak-kodachrome-40-movie-film-type-a-for-post-process-sound-striping-ref-c143)
+- [[Unknown] Ilford HP3 (ref: ae35)](#unknown-ilford-hp3-ref-ae35)
 - [[Unknown] Northwest Custom Film Processing Ultra Minituature Film (ref: 70b1)](#unknown-northwest-custom-film-processing-ultra-minituature-film-ref-70b1)
 
 
@@ -3265,6 +3270,20 @@ UUID  : fc90db41b94d486491177a8407f1100d
 	<img src="./lowres/00435_002.jpg" alt="efke R100 127 film box leaflet" loading="lazy" width="500" height="453">
 </a>
 
+#### [12x16.5cm] Agfa Isopan Portrait (ref: 19b5)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : 1947-09 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-27   |  Author  : @ellafridalindblom
+UUID  : 08e940883895476d8de94bc5137419b5
+```
+
+<a href="./archive/00456_000.jpg" target="_blank">
+	<img src="./lowres/00456_000.jpg" alt="Agfa Isopan Portrait 12x16.5cm film box outside" loading="lazy" width="500" height="365">
+</a>
+
 #### [12x16.5cm] Defender Extra Fast Panchromatic (ref: 348b)
 
 ```
@@ -3314,6 +3333,21 @@ UUID  : 24c9c3108671446dae824d00093fd69c
 	<img src="./lowres/00208_001.jpg" alt="Defender Portrait HGS 12x16.5cm film box outside" loading="lazy" width="385" height="500">
 </a>
 
+#### [12x16.5cm] Gevaert Studio Film (ref: 75f9)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-27   |  Author  : @ellafridalindblom
+UUID  : e585128e844941a98145d4fca88075f9
+Notes : Muster Matt
+```
+
+<a href="./archive/00457_000.jpg" target="_blank">
+	<img src="./lowres/00457_000.jpg" alt="Gevaert Studio Film 12x16.5cm film box outside" loading="lazy" width="365" height="500">
+</a>
+
 #### [12x16.5cm] Gevaert Ultra Panchro Normal (ref: 1ff6)
 
 ```
@@ -3326,6 +3360,63 @@ UUID  : 9a6b4771688d43c58b96c254e43d1ff6
 
 <a href="./archive/00288_000.jpg" target="_blank">
 	<img src="./lowres/00288_000.jpg" alt="Gevaert Ultra Panchro Normal 12x16.5cm film box outside" loading="lazy" width="379" height="500">
+</a>
+
+#### [12x16.5cm] Kodak Super-XX (ref: e684)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 24 Sheets
+Added : 2025-10-27   |  Author  : @ellafridalindblom
+UUID  : 098d684d4be64821a80474b771d8e684
+```
+
+<a href="./archive/00458_000.jpg" target="_blank">
+	<img src="./lowres/00458_000.jpg" alt="Kodak Super-XX 12x16.5cm film box outside" loading="lazy" width="406" height="500">
+</a>
+
+
+`UUID: 9ab3d1a84be64e17bf9e78b59ddee3f3`↓
+
+<a href="./archive/00458_001.jpg" target="_blank">
+	<img src="./lowres/00458_001.jpg" alt="Kodak Super-XX 12x16.5cm film box outside" loading="lazy" width="390" height="500">
+</a>
+
+
+`UUID: bd0852f5b5964fda80affbb0d7b002fc`↓
+
+<a href="./archive/00458_002.jpg" target="_blank">
+	<img src="./lowres/00458_002.jpg" alt="Kodak Super-XX 12x16.5cm film box outside" loading="lazy" width="500" height="112">
+</a>
+
+#### [12x16.5cm] Kodak Tri-X Pan (ref: 6608)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 320          |  Expiry  : 1975-09 
+Type  : Single Pack  |  Quantity: 25 Sheets
+Added : 2025-10-27   |  Author  : @ellafridalindblom
+UUID  : 2210a8e9fb4c400d8258a652aaba6608
+Notes : Estar Thick Base 4164
+```
+
+<a href="./archive/00454_000.jpg" target="_blank">
+	<img src="./lowres/00454_000.jpg" alt="Kodak Tri-X Pan 12x16.5cm film box outside" loading="lazy" width="357" height="500">
+</a>
+
+
+`UUID: 8c0dda70e6d44bde9777605dc13cf00f`↓
+
+<a href="./archive/00454_001.jpg" target="_blank">
+	<img src="./lowres/00454_001.jpg" alt="Kodak Tri-X Pan 12x16.5cm film box outside" loading="lazy" width="500" height="106">
+</a>
+
+
+`UUID: 4f0a47ed8f2a4625956d3e2255b35bd1`↓
+
+<a href="./archive/00454_002.jpg" target="_blank">
+	<img src="./lowres/00454_002.jpg" alt="Kodak Tri-X Pan 12x16.5cm film box outside" loading="lazy" width="382" height="500">
 </a>
 
 #### [12x16.5cm] Phöbus-Platten Sheet Film (ref: d505)
@@ -9428,6 +9519,20 @@ UUID  : 4f8758001bd74040b9e5a4bc6506c143
 	<img src="./lowres/00381_005.jpg" alt="Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping Super 8 film box processing envelope" loading="lazy" width="500" height="236">
 </a>
 
+#### [Unknown] Ilford HP3 (ref: ae35)
+
+```
+Format: Unknown      |  Process : BW      
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-27   |  Author  : @ellafridalindblom
+UUID  : dbfd040081714492bd8bcc80d496ae35
+```
+
+<a href="./archive/00455_000.jpg" target="_blank">
+	<img src="./lowres/00455_000.jpg" alt="Ilford HP3 Unknown film box outside" loading="lazy" width="500" height="368">
+</a>
+
 #### [Unknown] Northwest Custom Film Processing Ultra Minituature Film (ref: 70b1)
 
 ```
@@ -9470,7 +9575,7 @@ Rank  Username                      Contributions
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @recycling.film               56    
-5     @ellafridalindblom            46    
+5     @ellafridalindblom            55    
 6     The Compartmentalist          25    
 7     fine-seat                     19    
 8     Camera.Riley                  19    

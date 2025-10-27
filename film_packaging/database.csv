@@ -831,3 +831,12 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 452,1,film_box_leaflet,Famous Brand Labs,Color Negative Film,127,80,Unknown,197008,1761356947,7a21827d85dc2d68f5cce001be483e04,446f576effb34b8c9697e27a7dcbd109,00452_001.jpg,dekuNukem,Made in Belgium,Single Pack,N/A
 452,2,film_box_leaflet,Famous Brand Labs,Color Negative Film,127,80,Unknown,197008,1761356954,866e5c6fae0c187ba9a076964e88cf6a,853499e631474d46b5d2d65e937f6ebd,00452_002.jpg,dekuNukem,Made in Belgium,Single Pack,N/A
 453,0,film_box_outside,Kodak,Kodacolor 100,35mm,100,C-41,202709,1761436091,9b1e386893ace0db36dffc06b8270643,930ee2c830af4f0a957649764d5873e0,00453_000.jpg,minidiscus,,Single Pack,36exp
+454,0,film_box_outside,Kodak,Tri-X Pan,12x16.5cm,320,BW,197509,1761570559,fb4ff9795cffe5aaa19d972301479095,2210a8e9fb4c400d8258a652aaba6608,00454_000.jpg,@ellafridalindblom,Estar Thick Base 4164,Single Pack,25 Sheets
+454,1,film_box_outside,Kodak,Tri-X Pan,12x16.5cm,320,BW,197509,1761570561,259df5cd4d32a593f6de2098ef0d1ad9,8c0dda70e6d44bde9777605dc13cf00f,00454_001.jpg,@ellafridalindblom,Estar Thick Base 4164,Single Pack,25 Sheets
+454,2,film_box_outside,Kodak,Tri-X Pan,12x16.5cm,320,BW,197509,1761570563,6e93aa15cb75151f33e95806b3b47c80,4f0a47ed8f2a4625956d3e2255b35bd1,00454_002.jpg,@ellafridalindblom,Estar Thick Base 4164,Single Pack,25 Sheets
+455,0,film_box_outside,Ilford,HP3,Unknown,200,BW,Unknown,1761570738,daa94abb03f3eeed96bffdf2bc96dfa3,dbfd040081714492bd8bcc80d496ae35,00455_000.jpg,@ellafridalindblom,,Single Pack,Unknown
+456,0,film_box_outside,Agfa,Isopan Portrait,12x16.5cm,80,BW,194709,1761570871,60f8a17ada27539d616d872dbdc00bfe,08e940883895476d8de94bc5137419b5,00456_000.jpg,@ellafridalindblom,,Single Pack,Unknown
+457,0,film_box_outside,Gevaert,Studio Film,12x16.5cm,Unknown,BW,Unknown,1761570956,6d00bcf1b9de577658e139d91023d4fc,e585128e844941a98145d4fca88075f9,00457_000.jpg,@ellafridalindblom,Muster Matt,Single Pack,Unknown
+458,0,film_box_outside,Kodak,Super-XX,12x16.5cm,80,BW,Unknown,1761571177,a484c6b08070b3bbe3d86129cef81f73,098d684d4be64821a80474b771d8e684,00458_000.jpg,@ellafridalindblom,,Single Pack,24 Sheets
+458,1,film_box_outside,Kodak,Super-XX,12x16.5cm,80,BW,Unknown,1761571179,d64d350aba3df11431ca2994d5bf6b0d,9ab3d1a84be64e17bf9e78b59ddee3f3,00458_001.jpg,@ellafridalindblom,,Single Pack,24 Sheets
+458,2,film_box_outside,Kodak,Super-XX,12x16.5cm,80,BW,Unknown,1761571182,af9f7b90826132b9b71936892dd174bf,bd0852f5b5964fda80affbb0d7b002fc,00458_002.jpg,@ellafridalindblom,,Single Pack,24 Sheets

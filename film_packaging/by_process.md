@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 25 2025
-Unique items: 449
-Total scans : 832
+Last Updated: Oct 27 2025
+Unique items: 454
+Total scans : 841
 ```
 
 -----
@@ -47,6 +47,7 @@ Total scans : 832
 - [[BW] Agfa Isopan ISS (ref: b9d7)](#bw-agfa-isopan-iss-ref-b9d7)
 - [[BW] Agfa Isopan ISS Rapid (ref: 9799)](#bw-agfa-isopan-iss-rapid-ref-9799)
 - [[BW] Agfa Isopan ISS Rapid (ref: 3aee)](#bw-agfa-isopan-iss-rapid-ref-3aee)
+- [[BW] Agfa Isopan Portrait (ref: 19b5)](#bw-agfa-isopan-portrait-ref-19b5)
 - [[BW] Agfa Trockenplatten (ref: 0937)](#bw-agfa-trockenplatten-ref-0937)
 - [[BW] Agfa Trockenplatten (ref: 41a8)](#bw-agfa-trockenplatten-ref-41a8)
 - [[BW] Alien Film 5222/XX (ref: 3e49)](#bw-alien-film-5222xx-ref-3e49)
@@ -77,6 +78,7 @@ Total scans : 832
 - [[BW] Fujifilm Neopan SS Rapid (ref: 9db3)](#bw-fujifilm-neopan-ss-rapid-ref-9db3)
 - [[BW] Gevaert Gevachrome 30 (ref: c0e3)](#bw-gevaert-gevachrome-30-ref-c0e3)
 - [[BW] Gevaert Infra-R (ref: fc88)](#bw-gevaert-infra-r-ref-fc88)
+- [[BW] Gevaert Studio Film (ref: 75f9)](#bw-gevaert-studio-film-ref-75f9)
 - [[BW] Gevaert Superchrome (ref: af27)](#bw-gevaert-superchrome-ref-af27)
 - [[BW] Gevaert Ultra Panchro Normal (ref: 1ff6)](#bw-gevaert-ultra-panchro-normal-ref-1ff6)
 - [[BW] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#bw-hasselblad-hassel-plåtar-erorto-ref-ec67)
@@ -95,6 +97,7 @@ Total scans : 832
 - [[BW] Ilford FP4 Plus (ref: 76e7)](#bw-ilford-fp4-plus-ref-76e7)
 - [[BW] Ilford FP4 Plus (ref: 3bc0)](#bw-ilford-fp4-plus-ref-3bc0)
 - [[BW] Ilford HP3 (ref: 1afc)](#bw-ilford-hp3-ref-1afc)
+- [[BW] Ilford HP3 (ref: ae35)](#bw-ilford-hp3-ref-ae35)
 - [[BW] Ilford HP5 Plus (ref: 11a8)](#bw-ilford-hp5-plus-ref-11a8)
 - [[BW] Ilford HP5 Plus (ref: 072e)](#bw-ilford-hp5-plus-ref-072e)
 - [[BW] Ilford HP5 Plus (ref: c725)](#bw-ilford-hp5-plus-ref-c725)
@@ -126,6 +129,7 @@ Total scans : 832
 - [[BW] Kodak Professional Microfilm Type I (ref: a444)](#bw-kodak-professional-microfilm-type-i-ref-a444)
 - [[BW] Kodak Rapid Process Copy Film (ref: e66e)](#bw-kodak-rapid-process-copy-film-ref-e66e)
 - [[BW] Kodak Super-XX (ref: 07c8)](#bw-kodak-super-xx-ref-07c8)
+- [[BW] Kodak Super-XX (ref: e684)](#bw-kodak-super-xx-ref-e684)
 - [[BW] Kodak TMAX 100 (ref: b3b1)](#bw-kodak-tmax-100-ref-b3b1)
 - [[BW] Kodak TMAX 400 (ref: a34d)](#bw-kodak-tmax-400-ref-a34d)
 - [[BW] Kodak TMAX P3200 (ref: 1dff)](#bw-kodak-tmax-p3200-ref-1dff)
@@ -136,6 +140,7 @@ Total scans : 832
 - [[BW] Kodak Tri-X 400 (ref: 88c5)](#bw-kodak-tri-x-400-ref-88c5)
 - [[BW] Kodak Tri-X 400 (ref: c671)](#bw-kodak-tri-x-400-ref-c671)
 - [[BW] Kodak Tri-X 400 Pro (ref: f05c)](#bw-kodak-tri-x-400-pro-ref-f05c)
+- [[BW] Kodak Tri-X Pan (ref: 6608)](#bw-kodak-tri-x-pan-ref-6608)
 - [[BW] Kodak Tri-X Pan (ref: 85e9)](#bw-kodak-tri-x-pan-ref-85e9)
 - [[BW] Kodak Tri-X Pan (ref: f201)](#bw-kodak-tri-x-pan-ref-f201)
 - [[BW] Kodak Verichrome (ref: e465)](#bw-kodak-verichrome-ref-e465)
@@ -937,6 +942,20 @@ UUID  : d90937332f0a4392adb1f344b5ba3aee
 	<img src="./lowres/00448_000.jpg" alt="Agfa Isopan ISS Rapid 35mm film box outside" loading="lazy" width="500" height="483">
 </a>
 
+#### [BW] Agfa Isopan Portrait (ref: 19b5)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : 1947-09 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-27   |  Author  : @ellafridalindblom
+UUID  : 08e940883895476d8de94bc5137419b5
+```
+
+<a href="./archive/00456_000.jpg" target="_blank">
+	<img src="./lowres/00456_000.jpg" alt="Agfa Isopan Portrait 12x16.5cm film box outside" loading="lazy" width="500" height="365">
+</a>
+
 #### [BW] Agfa Trockenplatten (ref: 0937)
 
 ```
@@ -1477,6 +1496,21 @@ UUID  : 5700b2c507254c36ac9b05eabf04fc88
 	<img src="./lowres/00429_000.jpg" alt="Gevaert Infra-R 120 film box outside" loading="lazy" width="500" height="358">
 </a>
 
+#### [BW] Gevaert Studio Film (ref: 75f9)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-27   |  Author  : @ellafridalindblom
+UUID  : e585128e844941a98145d4fca88075f9
+Notes : Muster Matt
+```
+
+<a href="./archive/00457_000.jpg" target="_blank">
+	<img src="./lowres/00457_000.jpg" alt="Gevaert Studio Film 12x16.5cm film box outside" loading="lazy" width="365" height="500">
+</a>
+
 #### [BW] Gevaert Superchrome (ref: af27)
 
 ```
@@ -1811,6 +1845,20 @@ UUID  : df6db4a9d0a24f4689647a4ece831afc
 
 <a href="./archive/00382_002.jpg" target="_blank">
 	<img src="./lowres/00382_002.jpg" alt="Ilford HP3 620 film box leaflet" loading="lazy" width="473" height="500">
+</a>
+
+#### [BW] Ilford HP3 (ref: ae35)
+
+```
+Format: Unknown      |  Process : BW      
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2025-10-27   |  Author  : @ellafridalindblom
+UUID  : dbfd040081714492bd8bcc80d496ae35
+```
+
+<a href="./archive/00455_000.jpg" target="_blank">
+	<img src="./lowres/00455_000.jpg" alt="Ilford HP3 Unknown film box outside" loading="lazy" width="500" height="368">
 </a>
 
 #### [BW] Ilford HP5 Plus (ref: 11a8)
@@ -2429,6 +2477,34 @@ UUID  : ec96eb9587cf4485a00f2af323eb07c8
 	<img src="./lowres/00411_000.jpg" alt="Kodak Super-XX 616 film box outside" loading="lazy" width="496" height="499">
 </a>
 
+#### [BW] Kodak Super-XX (ref: e684)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 24 Sheets
+Added : 2025-10-27   |  Author  : @ellafridalindblom
+UUID  : 098d684d4be64821a80474b771d8e684
+```
+
+<a href="./archive/00458_000.jpg" target="_blank">
+	<img src="./lowres/00458_000.jpg" alt="Kodak Super-XX 12x16.5cm film box outside" loading="lazy" width="406" height="500">
+</a>
+
+
+`UUID: 9ab3d1a84be64e17bf9e78b59ddee3f3`↓
+
+<a href="./archive/00458_001.jpg" target="_blank">
+	<img src="./lowres/00458_001.jpg" alt="Kodak Super-XX 12x16.5cm film box outside" loading="lazy" width="390" height="500">
+</a>
+
+
+`UUID: bd0852f5b5964fda80affbb0d7b002fc`↓
+
+<a href="./archive/00458_002.jpg" target="_blank">
+	<img src="./lowres/00458_002.jpg" alt="Kodak Super-XX 12x16.5cm film box outside" loading="lazy" width="500" height="112">
+</a>
+
 #### [BW] Kodak TMAX 100 (ref: b3b1)
 
 ```
@@ -2623,6 +2699,35 @@ UUID  : dd34c2bc1fe34b17b67c6ad002bef05c
 
 <a href="./archive/00365_001.jpg" target="_blank">
 	<img src="./lowres/00365_001.jpg" alt="Kodak Tri-X 400 Pro 120 film box inside" loading="lazy" width="384" height="500">
+</a>
+
+#### [BW] Kodak Tri-X Pan (ref: 6608)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 320          |  Expiry  : 1975-09 
+Type  : Single Pack  |  Quantity: 25 Sheets
+Added : 2025-10-27   |  Author  : @ellafridalindblom
+UUID  : 2210a8e9fb4c400d8258a652aaba6608
+Notes : Estar Thick Base 4164
+```
+
+<a href="./archive/00454_000.jpg" target="_blank">
+	<img src="./lowres/00454_000.jpg" alt="Kodak Tri-X Pan 12x16.5cm film box outside" loading="lazy" width="357" height="500">
+</a>
+
+
+`UUID: 8c0dda70e6d44bde9777605dc13cf00f`↓
+
+<a href="./archive/00454_001.jpg" target="_blank">
+	<img src="./lowres/00454_001.jpg" alt="Kodak Tri-X Pan 12x16.5cm film box outside" loading="lazy" width="500" height="106">
+</a>
+
+
+`UUID: 4f0a47ed8f2a4625956d3e2255b35bd1`↓
+
+<a href="./archive/00454_002.jpg" target="_blank">
+	<img src="./lowres/00454_002.jpg" alt="Kodak Tri-X Pan 12x16.5cm film box outside" loading="lazy" width="382" height="500">
 </a>
 
 #### [BW] Kodak Tri-X Pan (ref: 85e9)
@@ -9470,7 +9575,7 @@ Rank  Username                      Contributions
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @recycling.film               56    
-5     @ellafridalindblom            46    
+5     @ellafridalindblom            55    
 6     The Compartmentalist          25    
 7     fine-seat                     19    
 8     Camera.Riley                  19    
