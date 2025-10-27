@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Oct 27 2025
-Unique items: 454
-Total scans : 841
+Unique items: 455
+Total scans : 843
 ```
 
 Or Sort by...
@@ -56,8 +56,8 @@ Rank  Username                      Contributions
 1     dekuNukem                     338   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
-4     @recycling.film               56    
-5     @ellafridalindblom            55    
+4     @ellafridalindblom            57    
+5     @recycling.film               56    
 6     The Compartmentalist          25    
 7     fine-seat                     19    
 8     Camera.Riley                  19    
@@ -98,6 +98,7 @@ Rank  Username                      Contributions
   - @ellafridalindblom: Agfa Isopan Portrait
   - @ellafridalindblom: Gevaert Studio Film
   - @ellafridalindblom: Ilford HP3
+  - @ellafridalindblom: Kodak Super-sensitive Panchromatic Films
   - @ellafridalindblom: Kodak Super-XX
   - @ellafridalindblom: Kodak Tri-X Pan
 

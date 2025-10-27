@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 27 2025
-Unique items: 454
-Total scans : 841
+Unique items: 455
+Total scans : 843
 ```
 
 -----
@@ -66,6 +66,7 @@ Total scans : 841
 - [[@ellafridalindblom] Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#ellafridalindblom-kodak-ektachrome-slide-duplicating-film-ref-d53a)
 - [[@ellafridalindblom] Kodak High Speed Infrared Film 2481 (ref: aa7a)](#ellafridalindblom-kodak-high-speed-infrared-film-2481-ref-aa7a)
 - [[@ellafridalindblom] Kodak Super-XX (ref: e684)](#ellafridalindblom-kodak-super-xx-ref-e684)
+- [[@ellafridalindblom] Kodak Super-sensitive Panchromatic Films (ref: 21a0)](#ellafridalindblom-kodak-super-sensitive-panchromatic-films-ref-21a0)
 - [[@ellafridalindblom] Kodak Tri-X 400 Pro (ref: f05c)](#ellafridalindblom-kodak-tri-x-400-pro-ref-f05c)
 - [[@ellafridalindblom] Kodak Tri-X Pan (ref: 6608)](#ellafridalindblom-kodak-tri-x-pan-ref-6608)
 - [[@ellafridalindblom] Kodak Tri-X Pan (ref: f201)](#ellafridalindblom-kodak-tri-x-pan-ref-f201)
@@ -1215,6 +1216,28 @@ UUID  : 098d684d4be64821a80474b771d8e684
 
 <a href="./archive/00458_002.jpg" target="_blank">
 	<img src="./lowres/00458_002.jpg" alt="Kodak Super-XX 12x16.5cm film box outside" loading="lazy" width="500" height="112">
+</a>
+
+#### [@ellafridalindblom] Kodak Super-sensitive Panchromatic Films (ref: 21a0)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-10-27   |  Author  : @ellafridalindblom
+UUID  : 56136448523d428b88330cf0427221a0
+Notes : Nitrate base
+```
+
+<a href="./archive/00459_000.jpg" target="_blank">
+	<img src="./lowres/00459_000.jpg" alt="Kodak Super-sensitive Panchromatic Films 12x16.5cm film box outside" loading="lazy" width="386" height="500">
+</a>
+
+
+`UUID: c685c5c86b864b4aa64cfa127b67b049`↓
+
+<a href="./archive/00459_001.jpg" target="_blank">
+	<img src="./lowres/00459_001.jpg" alt="Kodak Super-sensitive Panchromatic Films 12x16.5cm film box outside" loading="lazy" width="500" height="75">
 </a>
 
 #### [@ellafridalindblom] Kodak Tri-X 400 Pro (ref: f05c)
@@ -9574,8 +9597,8 @@ Rank  Username                      Contributions
 1     dekuNukem                     338   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
-4     @recycling.film               56    
-5     @ellafridalindblom            55    
+4     @ellafridalindblom            57    
+5     @recycling.film               56    
 6     The Compartmentalist          25    
 7     fine-seat                     19    
 8     Camera.Riley                  19    
