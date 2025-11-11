@@ -123,6 +123,8 @@ try:
 except Exception as e:
     print("csv read exception:", e)
 
+did_resize = get_answer(f"Have you run the resize script?", accept_empty=True)
+
 latest_author = database_entries[-1][ITEM_AUTHOR_KEY]
 user_answer = get_answer(f"Author name this session? (Press Enter for {latest_author})\nAdd args to reverse order\n", accept_empty=True)
 if len(user_answer) == 0:

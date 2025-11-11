@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Nov 11 2025
-Unique items: 464
-Total scans : 856
+Unique items: 468
+Total scans : 865
 ```
 
 -----
@@ -52,6 +52,8 @@ Total scans : 856
 - [[BW] Agfa Trockenplatten (ref: 41a8)](#bw-agfa-trockenplatten-ref-41a8)
 - [[BW] Alien Film 5222/XX (ref: 3e49)](#bw-alien-film-5222xx-ref-3e49)
 - [[BW] Ansco Plenachrome (ref: 3c6c)](#bw-ansco-plenachrome-ref-3c6c)
+- [[BW] Arista.EDU Ultra (ref: d78b)](#bw-aristaedu-ultra-ref-d78b)
+- [[BW] Arista.EDU Ultra (ref: d319)](#bw-aristaedu-ultra-ref-d319)
 - [[BW] Bergger Pancro400 (ref: ad7b)](#bw-bergger-pancro400-ref-ad7b)
 - [[BW] Bergger Pancro400 (ref: f619)](#bw-bergger-pancro400-ref-f619)
 - [[BW] CatLABS X Film 320 Pro (ref: 1c69)](#bw-catlabs-x-film-320-pro-ref-1c69)
@@ -62,6 +64,7 @@ Total scans : 856
 - [[BW] Efke IR 820 Aura (ref: 43c9)](#bw-efke-ir-820-aura-ref-43c9)
 - [[BW] Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)](#bw-filmfabrik-köpenick-dekopan-feinkorn-ref-1bb7)
 - [[BW] Foma Fomapan 200 (ref: 60ee)](#bw-foma-fomapan-200-ref-60ee)
+- [[BW] Foma Fomapan 400 Set (ref: 189e)](#bw-foma-fomapan-400-set-ref-189e)
 - [[BW] Foma Fomapan Classic 100 (ref: 1731)](#bw-foma-fomapan-classic-100-ref-1731)
 - [[BW] Foma Fomapan Classic 100 (ref: 65ad)](#bw-foma-fomapan-classic-100-ref-65ad)
 - [[BW] Foma Fomapan Classic 100 (ref: 0030)](#bw-foma-fomapan-classic-100-ref-0030)
@@ -109,6 +112,7 @@ Total scans : 856
 - [[BW] Illingworth's Fleet H&D (ref: 54fe)](#bw-illingworths-fleet-h-d-ref-54fe)
 - [[BW] JCH Streetpan (ref: 6e58)](#bw-jch-streetpan-ref-6e58)
 - [[BW] JCH Streetpan (ref: 5c70)](#bw-jch-streetpan-ref-5c70)
+- [[BW] Kentmere PAN (ref: 3ec0)](#bw-kentmere-pan-ref-3ec0)
 - [[BW] Kentmere PAN 100 (ref: c907)](#bw-kentmere-pan-100-ref-c907)
 - [[BW] Kentmere PAN 200 (ref: 0e32)](#bw-kentmere-pan-200-ref-0e32)
 - [[BW] Kentmere PAN 400 (ref: d223)](#bw-kentmere-pan-400-ref-d223)
@@ -1029,6 +1033,48 @@ UUID  : 39756172435749ed870105a77fa53c6c
 	<img src="./lowres/00385_000.jpg" alt="Ansco Plenachrome 120 film box outside" loading="lazy" width="500" height="405">
 </a>
 
+#### [BW] Arista.EDU Ultra (ref: d78b)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 200          |  Expiry  : 2027-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : minidiscus
+UUID  : eb126e7cfe084d4d8796a6123633d78b
+```
+
+<a href="./archive/00469_000.jpg" target="_blank">
+	<img src="./lowres/00469_000.jpg" alt="Arista.EDU Ultra 35mm film box outside" loading="lazy" width="411" height="500">
+</a>
+
+
+`UUID: 2d1bfa62420841828533cbd64cdf68f6`↓
+
+<a href="./archive/00469_001.jpg" target="_blank">
+	<img src="./lowres/00469_001.jpg" alt="Arista.EDU Ultra 35mm film box inside" loading="lazy" width="420" height="499">
+</a>
+
+#### [BW] Arista.EDU Ultra (ref: d319)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2028-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-11-11   |  Author  : minidiscus
+UUID  : 7a09e38ead7d4c73a1a2f3c028fad319
+```
+
+<a href="./archive/00470_000.jpg" target="_blank">
+	<img src="./lowres/00470_000.jpg" alt="Arista.EDU Ultra 120 film box outside" loading="lazy" width="500" height="418">
+</a>
+
+
+`UUID: f04ab55fbd10406caa7c83d6a06c6ef5`↓
+
+<a href="./archive/00470_001.jpg" target="_blank">
+	<img src="./lowres/00470_001.jpg" alt="Arista.EDU Ultra 120 film box inside" loading="lazy" width="500" height="428">
+</a>
+
 #### [BW] Bergger Pancro400 (ref: ad7b)
 
 ```
@@ -1209,6 +1255,34 @@ UUID  : 840026a068594c3389b34374204f60ee
 
 <a href="./archive/00183_000.jpg" target="_blank">
 	<img src="./lowres/00183_000.jpg" alt="Foma Fomapan 200 35mm film box outside" loading="lazy" width="482" height="499">
+</a>
+
+#### [BW] Foma Fomapan 400 Set (ref: 189e)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2026-02 
+Type  : Refill       |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : minidiscus
+UUID  : 3296821c76484d32b09ff0f32057189e
+```
+
+<a href="./archive/00472_000.jpg" target="_blank">
+	<img src="./lowres/00472_000.jpg" alt="Foma Fomapan 400 Set 35mm film box outside" loading="lazy" width="495" height="499">
+</a>
+
+
+`UUID: 520f0795ac0b49e4a61c8b26781df163`↓
+
+<a href="./archive/00472_001.jpg" target="_blank">
+	<img src="./lowres/00472_001.jpg" alt="Foma Fomapan 400 Set 35mm film box leaflet" loading="lazy" width="364" height="500">
+</a>
+
+
+`UUID: 77aaa3e028754c84bb966a23c5de0ec8`↓
+
+<a href="./archive/00472_002.jpg" target="_blank">
+	<img src="./lowres/00472_002.jpg" alt="Foma Fomapan 400 Set 35mm film box leaflet" loading="lazy" width="370" height="500">
 </a>
 
 #### [BW] Foma Fomapan Classic 100 (ref: 1731)
@@ -2093,6 +2167,27 @@ UUID  : f32d9e32d43441b79220744cdb4e5c70
 
 <a href="./archive/00355_001.jpg" target="_blank">
 	<img src="./lowres/00355_001.jpg" alt="JCH Streetpan 120 film box inside" loading="lazy" width="500" height="463">
+</a>
+
+#### [BW] Kentmere PAN (ref: 3ec0)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 200          |  Expiry  : 2027-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-11-11   |  Author  : minidiscus
+UUID  : 63392fa4def0490fbb2cb93d8c173ec0
+```
+
+<a href="./archive/00471_000.jpg" target="_blank">
+	<img src="./lowres/00471_000.jpg" alt="Kentmere PAN 120 film box outside" loading="lazy" width="500" height="491">
+</a>
+
+
+`UUID: 2f6326633f2f42118a21c5b61a9d4f95`↓
+
+<a href="./archive/00471_001.jpg" target="_blank">
+	<img src="./lowres/00471_001.jpg" alt="Kentmere PAN 120 film box inside" loading="lazy" width="500" height="483">
 </a>
 
 #### [BW] Kentmere PAN 100 (ref: c907)
@@ -9772,29 +9867,29 @@ Rank  Username                      Contributions
 13    toader                        13    
 14    yc128                         11    
 15    @zruk_ts                      10    
-16    benikum                       9     
-17    lilyu.xyz                     9     
-18    @Hol.m35                      9     
-19    kaimon                        8     
-20    waldoboro                     8     
-21    @toastergod101                7     
-22    @filmfotofella                7     
-23    lt_col_tall                   6     
-24    GreatGizmo74                  6     
-25    nick                          6     
-26    Kraksen                       5     
-27    Chrisbes                      5     
-28    Henry Gunn                    4     
-29    u/ReeeSchmidtyWerber          4     
-30    TheSelousScout                3     
-31    @sachynmital                  3     
-32    @seklerek                     2     
-33    @ftfilmphotos                 2     
-34    Yrikonchik                    1     
-35    @ad.astra.per.aspera.1894     1     
-36    Aoi Yuki                      1     
-37    lemoniter                     1     
-38    minidiscus                    1     
+16    minidiscus                    10    
+17    benikum                       9     
+18    lilyu.xyz                     9     
+19    @Hol.m35                      9     
+20    kaimon                        8     
+21    waldoboro                     8     
+22    @toastergod101                7     
+23    @filmfotofella                7     
+24    lt_col_tall                   6     
+25    GreatGizmo74                  6     
+26    nick                          6     
+27    Kraksen                       5     
+28    Chrisbes                      5     
+29    Henry Gunn                    4     
+30    u/ReeeSchmidtyWerber          4     
+31    TheSelousScout                3     
+32    @sachynmital                  3     
+33    @seklerek                     2     
+34    @ftfilmphotos                 2     
+35    Yrikonchik                    1     
+36    @ad.astra.per.aspera.1894     1     
+37    Aoi Yuki                      1     
+38    lemoniter                     1     
 ```
 
 ## Questions or Comments?

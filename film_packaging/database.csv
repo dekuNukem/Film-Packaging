@@ -855,3 +855,12 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 466,0,film_box_outside,Fujifilm,Fujicolor Super HR,35mm,100,C-41,198911,1762854123,993efa51a2e895c36e9f2c2aa6225ae2,9814bf1366f343ea940b7c709d107fd2,00466_000.jpg,Chrisbes,,Single Pack,36exp
 467,0,film_box_outside,Reflx Lab,400D,35mm,400,C-41,202612,1762854207,86bb7fa8093ddf86a51d6ad6ceca1c9f,4c1b5d50ee594d5694e9a7b0a78c5801,00467_000.jpg,Chrisbes,,Single Pack,36exp
 468,0,film_box_outside,Reflx Lab,800T,35mm,800,C-41,202612,1762854253,b5031c657b17317e4224b76df4cfeafb,7b18320ad3d04332afde69a847606b6b,00468_000.jpg,Chrisbes,,Single Pack,36exp
+469,0,film_box_outside,Arista.EDU,Ultra,35mm,200,BW,202704,1762859984,f8ab2d5f54e2726301a16f6d89a9225d,eb126e7cfe084d4d8796a6123633d78b,00469_000.jpg,minidiscus,,Single Pack,36exp
+469,1,film_box_inside,Arista.EDU,Ultra,35mm,200,BW,202704,1762859985,d9bb0003cd752ec42018f01f0b6439c5,2d1bfa62420841828533cbd64cdf68f6,00469_001.jpg,minidiscus,,Single Pack,36exp
+470,0,film_box_outside,Arista.EDU,Ultra,120,400,BW,202806,1762860056,d5e27392d45cc7c2ceb337fec3ac963a,7a09e38ead7d4c73a1a2f3c028fad319,00470_000.jpg,minidiscus,,Single Pack,N/A
+470,1,film_box_inside,Arista.EDU,Ultra,120,400,BW,202806,1762860057,cd54abc0374bcf9c03afaa95a7ceaf0d,f04ab55fbd10406caa7c83d6a06c6ef5,00470_001.jpg,minidiscus,,Single Pack,N/A
+471,0,film_box_outside,Kentmere,PAN,120,200,BW,202703,1762860107,f7bdc549c39b44d9f0f8db78583eb13a,63392fa4def0490fbb2cb93d8c173ec0,00471_000.jpg,minidiscus,,Single Pack,N/A
+471,1,film_box_inside,Kentmere,PAN,120,200,BW,202703,1762860108,e5df9f67a71fed3947afdee947a4c7b9,2f6326633f2f42118a21c5b61a9d4f95,00471_001.jpg,minidiscus,,Single Pack,N/A
+472,0,film_box_outside,Foma,Fomapan 400 Set,35mm,400,BW,202602,1762860277,85842f082fdff92de17b20cb80e84fc7,3296821c76484d32b09ff0f32057189e,00472_000.jpg,minidiscus,,Refill,36exp
+472,1,film_box_leaflet,Foma,Fomapan 400 Set,35mm,400,BW,202602,1762860280,1689b9fa9ec441fe5ead7c625e6bd3a6,520f0795ac0b49e4a61c8b26781df163,00472_001.jpg,minidiscus,,Refill,36exp
+472,2,film_box_leaflet,Foma,Fomapan 400 Set,35mm,400,BW,202602,1762860283,609bd1ded29f7151c36b4cd8ff571744,77aaa3e028754c84bb966a23c5de0ec8,00472_002.jpg,minidiscus,,Refill,36exp

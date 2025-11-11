@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Nov 11 2025
-Unique items: 464
-Total scans : 856
+Unique items: 468
+Total scans : 865
 ```
 
 -----
@@ -465,6 +465,10 @@ Total scans : 856
 - [[lt_col_tall] CatLABS X Film 80 MKII (ref: bcd1)](#lt_col_tall-catlabs-x-film-80-mkii-ref-bcd1)
 - [[lt_col_tall] Reflx Lab 250D (ref: 1a3e)](#lt_col_tall-reflx-lab-250d-ref-1a3e)
 - [[lt_col_tall] Reflx Lab Pro 100 (ref: 1311)](#lt_col_tall-reflx-lab-pro-100-ref-1311)
+- [[minidiscus] Arista.EDU Ultra (ref: d78b)](#minidiscus-aristaedu-ultra-ref-d78b)
+- [[minidiscus] Arista.EDU Ultra (ref: d319)](#minidiscus-aristaedu-ultra-ref-d319)
+- [[minidiscus] Foma Fomapan 400 Set (ref: 189e)](#minidiscus-foma-fomapan-400-set-ref-189e)
+- [[minidiscus] Kentmere PAN (ref: 3ec0)](#minidiscus-kentmere-pan-ref-3ec0)
 - [[minidiscus] Kodak Kodacolor 100 (ref: 73e0)](#minidiscus-kodak-kodacolor-100-ref-73e0)
 - [[nick] ADOX CHS 100 II (ref: 8adf)](#nick-adox-chs-100-ii-ref-8adf)
 - [[nick] ADOX CMS 20 II Pro (ref: 0bea)](#nick-adox-cms-20-ii-pro-ref-0bea)
@@ -9300,6 +9304,97 @@ UUID  : f7bc85a093744f3084883876ecc51311
 	<img src="./lowres/00195_000.jpg" alt="Reflx Lab Pro 100 220 film box outside" loading="lazy" width="500" height="413">
 </a>
 
+#### [minidiscus] Arista.EDU Ultra (ref: d78b)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 200          |  Expiry  : 2027-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : minidiscus
+UUID  : eb126e7cfe084d4d8796a6123633d78b
+```
+
+<a href="./archive/00469_000.jpg" target="_blank">
+	<img src="./lowres/00469_000.jpg" alt="Arista.EDU Ultra 35mm film box outside" loading="lazy" width="411" height="500">
+</a>
+
+
+`UUID: 2d1bfa62420841828533cbd64cdf68f6`↓
+
+<a href="./archive/00469_001.jpg" target="_blank">
+	<img src="./lowres/00469_001.jpg" alt="Arista.EDU Ultra 35mm film box inside" loading="lazy" width="420" height="499">
+</a>
+
+#### [minidiscus] Arista.EDU Ultra (ref: d319)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2028-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-11-11   |  Author  : minidiscus
+UUID  : 7a09e38ead7d4c73a1a2f3c028fad319
+```
+
+<a href="./archive/00470_000.jpg" target="_blank">
+	<img src="./lowres/00470_000.jpg" alt="Arista.EDU Ultra 120 film box outside" loading="lazy" width="500" height="418">
+</a>
+
+
+`UUID: f04ab55fbd10406caa7c83d6a06c6ef5`↓
+
+<a href="./archive/00470_001.jpg" target="_blank">
+	<img src="./lowres/00470_001.jpg" alt="Arista.EDU Ultra 120 film box inside" loading="lazy" width="500" height="428">
+</a>
+
+#### [minidiscus] Foma Fomapan 400 Set (ref: 189e)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2026-02 
+Type  : Refill       |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : minidiscus
+UUID  : 3296821c76484d32b09ff0f32057189e
+```
+
+<a href="./archive/00472_000.jpg" target="_blank">
+	<img src="./lowres/00472_000.jpg" alt="Foma Fomapan 400 Set 35mm film box outside" loading="lazy" width="495" height="499">
+</a>
+
+
+`UUID: 520f0795ac0b49e4a61c8b26781df163`↓
+
+<a href="./archive/00472_001.jpg" target="_blank">
+	<img src="./lowres/00472_001.jpg" alt="Foma Fomapan 400 Set 35mm film box leaflet" loading="lazy" width="364" height="500">
+</a>
+
+
+`UUID: 77aaa3e028754c84bb966a23c5de0ec8`↓
+
+<a href="./archive/00472_002.jpg" target="_blank">
+	<img src="./lowres/00472_002.jpg" alt="Foma Fomapan 400 Set 35mm film box leaflet" loading="lazy" width="370" height="500">
+</a>
+
+#### [minidiscus] Kentmere PAN (ref: 3ec0)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 200          |  Expiry  : 2027-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-11-11   |  Author  : minidiscus
+UUID  : 63392fa4def0490fbb2cb93d8c173ec0
+```
+
+<a href="./archive/00471_000.jpg" target="_blank">
+	<img src="./lowres/00471_000.jpg" alt="Kentmere PAN 120 film box outside" loading="lazy" width="500" height="491">
+</a>
+
+
+`UUID: 2f6326633f2f42118a21c5b61a9d4f95`↓
+
+<a href="./archive/00471_001.jpg" target="_blank">
+	<img src="./lowres/00471_001.jpg" alt="Kentmere PAN 120 film box inside" loading="lazy" width="500" height="483">
+</a>
+
 #### [minidiscus] Kodak Kodacolor 100 (ref: 73e0)
 
 ```
@@ -9772,29 +9867,29 @@ Rank  Username                      Contributions
 13    toader                        13    
 14    yc128                         11    
 15    @zruk_ts                      10    
-16    benikum                       9     
-17    lilyu.xyz                     9     
-18    @Hol.m35                      9     
-19    kaimon                        8     
-20    waldoboro                     8     
-21    @toastergod101                7     
-22    @filmfotofella                7     
-23    lt_col_tall                   6     
-24    GreatGizmo74                  6     
-25    nick                          6     
-26    Kraksen                       5     
-27    Chrisbes                      5     
-28    Henry Gunn                    4     
-29    u/ReeeSchmidtyWerber          4     
-30    TheSelousScout                3     
-31    @sachynmital                  3     
-32    @seklerek                     2     
-33    @ftfilmphotos                 2     
-34    Yrikonchik                    1     
-35    @ad.astra.per.aspera.1894     1     
-36    Aoi Yuki                      1     
-37    lemoniter                     1     
-38    minidiscus                    1     
+16    minidiscus                    10    
+17    benikum                       9     
+18    lilyu.xyz                     9     
+19    @Hol.m35                      9     
+20    kaimon                        8     
+21    waldoboro                     8     
+22    @toastergod101                7     
+23    @filmfotofella                7     
+24    lt_col_tall                   6     
+25    GreatGizmo74                  6     
+26    nick                          6     
+27    Kraksen                       5     
+28    Chrisbes                      5     
+29    Henry Gunn                    4     
+30    u/ReeeSchmidtyWerber          4     
+31    TheSelousScout                3     
+32    @sachynmital                  3     
+33    @seklerek                     2     
+34    @ftfilmphotos                 2     
+35    Yrikonchik                    1     
+36    @ad.astra.per.aspera.1894     1     
+37    Aoi Yuki                      1     
+38    lemoniter                     1     
 ```
 
 ## Questions or Comments?

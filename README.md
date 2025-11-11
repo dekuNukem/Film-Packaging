@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Nov 11 2025
-Unique items: 464
-Total scans : 856
+Unique items: 468
+Total scans : 865
 ```
 
 Or Sort by...
@@ -68,29 +68,29 @@ Rank  Username                      Contributions
 13    toader                        13    
 14    yc128                         11    
 15    @zruk_ts                      10    
-16    benikum                       9     
-17    lilyu.xyz                     9     
-18    @Hol.m35                      9     
-19    kaimon                        8     
-20    waldoboro                     8     
-21    @toastergod101                7     
-22    @filmfotofella                7     
-23    lt_col_tall                   6     
-24    GreatGizmo74                  6     
-25    nick                          6     
-26    Kraksen                       5     
-27    Chrisbes                      5     
-28    Henry Gunn                    4     
-29    u/ReeeSchmidtyWerber          4     
-30    TheSelousScout                3     
-31    @sachynmital                  3     
-32    @seklerek                     2     
-33    @ftfilmphotos                 2     
-34    Yrikonchik                    1     
-35    @ad.astra.per.aspera.1894     1     
-36    Aoi Yuki                      1     
-37    lemoniter                     1     
-38    minidiscus                    1     
+16    minidiscus                    10    
+17    benikum                       9     
+18    lilyu.xyz                     9     
+19    @Hol.m35                      9     
+20    kaimon                        8     
+21    waldoboro                     8     
+22    @toastergod101                7     
+23    @filmfotofella                7     
+24    lt_col_tall                   6     
+25    GreatGizmo74                  6     
+26    nick                          6     
+27    Kraksen                       5     
+28    Chrisbes                      5     
+29    Henry Gunn                    4     
+30    u/ReeeSchmidtyWerber          4     
+31    TheSelousScout                3     
+32    @sachynmital                  3     
+33    @seklerek                     2     
+34    @ftfilmphotos                 2     
+35    Yrikonchik                    1     
+36    @ad.astra.per.aspera.1894     1     
+37    Aoi Yuki                      1     
+38    lemoniter                     1     
 ```
 
 ## Recent Activities
@@ -102,6 +102,9 @@ Rank  Username                      Contributions
   - Chrisbes: Fujifilm Fujicolor Super HR
   - Chrisbes: Reflx Lab 400D
   - Chrisbes: Reflx Lab 800T
+  - minidiscus: Arista.EDU Ultra
+  - minidiscus: Foma Fomapan 400 Set
+  - minidiscus: Kentmere PAN
   - waldoboro: Fujifilm Fujicolor Natura 1600
   - waldoboro: Fukkatsu Color Print Film
   - waldoboro: Kodak Kodachrome
