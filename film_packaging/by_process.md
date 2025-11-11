@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Nov 11 2025
-Unique items: 459
-Total scans : 851
+Unique items: 464
+Total scans : 856
 ```
 
 -----
@@ -194,6 +194,7 @@ Total scans : 851
 - [[C-22] Kodak Kodacolor-X (ref: 0ce5)](#c-22-kodak-kodacolor-x-ref-0ce5)
 - [[C-22] Kodak Kodacolor-X (ref: 5302)](#c-22-kodak-kodacolor-x-ref-5302)
 - [[C-22] Porst Color N21 (ref: 494a)](#c-22-porst-color-n21-ref-494a)
+- [[C-41] Agfa AgfaColor HDC Plus (ref: 016b)](#c-41-agfa-agfacolor-hdc-plus-ref-016b)
 - [[C-41] Agfa AgfaColor HDC Plus (ref: d22b)](#c-41-agfa-agfacolor-hdc-plus-ref-d22b)
 - [[C-41] Agfa AgfaColor Optima 200 (ref: 393d)](#c-41-agfa-agfacolor-optima-200-ref-393d)
 - [[C-41] Agfa AgfaColor ULTRA 50 (ref: 4faa)](#c-41-agfa-agfacolor-ultra-50-ref-4faa)
@@ -225,6 +226,7 @@ Total scans : 851
 - [[C-41] Fujifilm Fujicolor C200 (ref: a0de)](#c-41-fujifilm-fujicolor-c200-ref-a0de)
 - [[C-41] Fujifilm Fujicolor HR 1600 (ref: 1d39)](#c-41-fujifilm-fujicolor-hr-1600-ref-1d39)
 - [[C-41] Fujifilm Fujicolor HR100 (ref: 23c5)](#c-41-fujifilm-fujicolor-hr100-ref-23c5)
+- [[C-41] Fujifilm Fujicolor HR100 (ref: 2335)](#c-41-fujifilm-fujicolor-hr100-ref-2335)
 - [[C-41] Fujifilm Fujicolor NPL 160 (ref: d10b)](#c-41-fujifilm-fujicolor-npl-160-ref-d10b)
 - [[C-41] Fujifilm Fujicolor NPS 160 (ref: 5e85)](#c-41-fujifilm-fujicolor-nps-160-ref-5e85)
 - [[C-41] Fujifilm Fujicolor Natura 1600 (ref: 2e06)](#c-41-fujifilm-fujicolor-natura-1600-ref-2e06)
@@ -239,6 +241,7 @@ Total scans : 851
 - [[C-41] Fujifilm Fujicolor Super G (ref: 55ff)](#c-41-fujifilm-fujicolor-super-g-ref-55ff)
 - [[C-41] Fujifilm Fujicolor Super HG (ref: feb7)](#c-41-fujifilm-fujicolor-super-hg-ref-feb7)
 - [[C-41] Fujifilm Fujicolor Super HG (ref: ee94)](#c-41-fujifilm-fujicolor-super-hg-ref-ee94)
+- [[C-41] Fujifilm Fujicolor Super HR (ref: 7fd2)](#c-41-fujifilm-fujicolor-super-hr-ref-7fd2)
 - [[C-41] Fujifilm Fujicolor Super HR (ref: aaa0)](#c-41-fujifilm-fujicolor-super-hr-ref-aaa0)
 - [[C-41] Fujifilm Fujicolor Superia (ref: d1b7)](#c-41-fujifilm-fujicolor-superia-ref-d1b7)
 - [[C-41] Fujifilm Fujicolor Superia (ref: 0683)](#c-41-fujifilm-fujicolor-superia-ref-0683)
@@ -360,6 +363,8 @@ Total scans : 851
 - [[C-41] Optik Oldschool OptiColour 200 (ref: 80d7)](#c-41-optik-oldschool-opticolour-200-ref-80d7)
 - [[C-41] Polaroid High Definition (ref: deb6)](#c-41-polaroid-high-definition-ref-deb6)
 - [[C-41] Premium Super XG (ref: 8ccd)](#c-41-premium-super-xg-ref-8ccd)
+- [[C-41] Reflx Lab 400D (ref: 5801)](#c-41-reflx-lab-400d-ref-5801)
+- [[C-41] Reflx Lab 800T (ref: 6b6b)](#c-41-reflx-lab-800t-ref-6b6b)
 - [[C-41] Reflx Lab Pro 100 (ref: 8bec)](#c-41-reflx-lab-pro-100-ref-8bec)
 - [[C-41] Reflx Lab Pro 100 (ref: 1311)](#c-41-reflx-lab-pro-100-ref-1311)
 - [[C-41] Reto Amber D400 (ref: 08ad)](#c-41-reto-amber-d400-ref-08ad)
@@ -3780,6 +3785,20 @@ UUID  : e08418889f714c9dbda0858718e0494a
 	<img src="./lowres/00046_001.jpg" alt="Porst Color N21 35mm film box leaflet" loading="lazy" width="500" height="426">
 </a>
 
+#### [C-41] Agfa AgfaColor HDC Plus (ref: 016b)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2000-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 2dab58330f43463e9441b6777fce016b
+```
+
+<a href="./archive/00464_000.jpg" target="_blank">
+	<img src="./lowres/00464_000.jpg" alt="Agfa AgfaColor HDC Plus 35mm film box outside" loading="lazy" width="500" height="300">
+</a>
+
 #### [C-41] Agfa AgfaColor HDC Plus (ref: d22b)
 
 ```
@@ -4326,6 +4345,20 @@ UUID  : 934f2484197d41c7a5467b92a9ea23c5
 	<img src="./lowres/00308_002.jpg" alt="Fujifilm Fujicolor HR100 120 film box leaflet" loading="lazy" width="383" height="500">
 </a>
 
+#### [C-41] Fujifilm Fujicolor HR100 (ref: 2335)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1986-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 8ef818ff997b43d3961092bd540a2335
+```
+
+<a href="./archive/00465_000.jpg" target="_blank">
+	<img src="./lowres/00465_000.jpg" alt="Fujifilm Fujicolor HR100 35mm film box outside" loading="lazy" width="420" height="500">
+</a>
+
 #### [C-41] Fujifilm Fujicolor NPL 160 (ref: d10b)
 
 ```
@@ -4590,6 +4623,20 @@ UUID  : 9233714654ff481089c2d4ff1334ee94
 
 <a href="./archive/00150_001.jpg" target="_blank">
 	<img src="./lowres/00150_001.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box inside" loading="lazy" width="415" height="500">
+</a>
+
+#### [C-41] Fujifilm Fujicolor Super HR (ref: 7fd2)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1989-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 9814bf1366f343ea940b7c709d107fd2
+```
+
+<a href="./archive/00466_000.jpg" target="_blank">
+	<img src="./lowres/00466_000.jpg" alt="Fujifilm Fujicolor Super HR 35mm film box outside" loading="lazy" width="411" height="500">
 </a>
 
 #### [C-41] Fujifilm Fujicolor Super HR (ref: aaa0)
@@ -6729,6 +6776,34 @@ UUID  : 592592a0182a47dda6390cfc4fd18ccd
 
 <a href="./archive/00265_001.jpg" target="_blank">
 	<img src="./lowres/00265_001.jpg" alt="Premium Super XG 35mm film box inside" loading="lazy" width="500" height="440">
+</a>
+
+#### [C-41] Reflx Lab 400D (ref: 5801)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2026-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 4c1b5d50ee594d5694e9a7b0a78c5801
+```
+
+<a href="./archive/00467_000.jpg" target="_blank">
+	<img src="./lowres/00467_000.jpg" alt="Reflx Lab 400D 35mm film box outside" loading="lazy" width="415" height="500">
+</a>
+
+#### [C-41] Reflx Lab 800T (ref: 6b6b)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2026-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 7b18320ad3d04332afde69a847606b6b
+```
+
+<a href="./archive/00468_000.jpg" target="_blank">
+	<img src="./lowres/00468_000.jpg" alt="Reflx Lab 800T 35mm film box outside" loading="lazy" width="419" height="500">
 </a>
 
 #### [C-41] Reflx Lab Pro 100 (ref: 8bec)
@@ -9708,17 +9783,18 @@ Rank  Username                      Contributions
 24    GreatGizmo74                  6     
 25    nick                          6     
 26    Kraksen                       5     
-27    Henry Gunn                    4     
-28    u/ReeeSchmidtyWerber          4     
-29    TheSelousScout                3     
-30    @sachynmital                  3     
-31    @seklerek                     2     
-32    @ftfilmphotos                 2     
-33    Yrikonchik                    1     
-34    @ad.astra.per.aspera.1894     1     
-35    Aoi Yuki                      1     
-36    lemoniter                     1     
-37    minidiscus                    1     
+27    Chrisbes                      5     
+28    Henry Gunn                    4     
+29    u/ReeeSchmidtyWerber          4     
+30    TheSelousScout                3     
+31    @sachynmital                  3     
+32    @seklerek                     2     
+33    @ftfilmphotos                 2     
+34    Yrikonchik                    1     
+35    @ad.astra.per.aspera.1894     1     
+36    Aoi Yuki                      1     
+37    lemoniter                     1     
+38    minidiscus                    1     
 ```
 
 ## Questions or Comments?

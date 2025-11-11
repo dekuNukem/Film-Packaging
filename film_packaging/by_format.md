@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Nov 11 2025
-Unique items: 459
-Total scans : 851
+Unique items: 464
+Total scans : 856
 ```
 
 -----
@@ -182,6 +182,7 @@ Total scans : 851
 - [[35mm] Agfa APX (ref: 5276)](#35mm-agfa-apx-ref-5276)
 - [[35mm] Agfa AgfaChrome 50 S (ref: 71a8)](#35mm-agfa-agfachrome-50-s-ref-71a8)
 - [[35mm] Agfa AgfaColor CT 18 (ref: 1fef)](#35mm-agfa-agfacolor-ct-18-ref-1fef)
+- [[35mm] Agfa AgfaColor HDC Plus (ref: 016b)](#35mm-agfa-agfacolor-hdc-plus-ref-016b)
 - [[35mm] Agfa AgfaColor ULTRA 50 (ref: 4faa)](#35mm-agfa-agfacolor-ultra-50-ref-4faa)
 - [[35mm] Agfa AgfaColor Vista (ref: d3af)](#35mm-agfa-agfacolor-vista-ref-d3af)
 - [[35mm] Agfa AgfaColor XRG 200 (ref: 689e)](#35mm-agfa-agfacolor-xrg-200-ref-689e)
@@ -241,6 +242,7 @@ Total scans : 851
 - [[35mm] Fujifilm Fujicolor C200 (ref: 2ff8)](#35mm-fujifilm-fujicolor-c200-ref-2ff8)
 - [[35mm] Fujifilm Fujicolor C200 (ref: a0de)](#35mm-fujifilm-fujicolor-c200-ref-a0de)
 - [[35mm] Fujifilm Fujicolor HR 1600 (ref: 1d39)](#35mm-fujifilm-fujicolor-hr-1600-ref-1d39)
+- [[35mm] Fujifilm Fujicolor HR100 (ref: 2335)](#35mm-fujifilm-fujicolor-hr100-ref-2335)
 - [[35mm] Fujifilm Fujicolor NPS 160 (ref: 5e85)](#35mm-fujifilm-fujicolor-nps-160-ref-5e85)
 - [[35mm] Fujifilm Fujicolor Natura 1600 (ref: 2e06)](#35mm-fujifilm-fujicolor-natura-1600-ref-2e06)
 - [[35mm] Fujifilm Fujicolor Natura 1600 (ref: 52aa)](#35mm-fujifilm-fujicolor-natura-1600-ref-52aa)
@@ -250,6 +252,7 @@ Total scans : 851
 - [[35mm] Fujifilm Fujicolor Professional (ref: 02f7)](#35mm-fujifilm-fujicolor-professional-ref-02f7)
 - [[35mm] Fujifilm Fujicolor Super HG (ref: feb7)](#35mm-fujifilm-fujicolor-super-hg-ref-feb7)
 - [[35mm] Fujifilm Fujicolor Super HG (ref: ee94)](#35mm-fujifilm-fujicolor-super-hg-ref-ee94)
+- [[35mm] Fujifilm Fujicolor Super HR (ref: 7fd2)](#35mm-fujifilm-fujicolor-super-hr-ref-7fd2)
 - [[35mm] Fujifilm Fujicolor Super HR (ref: aaa0)](#35mm-fujifilm-fujicolor-super-hr-ref-aaa0)
 - [[35mm] Fujifilm Fujicolor Superia (ref: d1b7)](#35mm-fujifilm-fujicolor-superia-ref-d1b7)
 - [[35mm] Fujifilm Fujicolor Superia (ref: 9272)](#35mm-fujifilm-fujicolor-superia-ref-9272)
@@ -406,6 +409,8 @@ Total scans : 851
 - [[35mm] Porst Color N21 (ref: 494a)](#35mm-porst-color-n21-ref-494a)
 - [[35mm] Premium Super XG (ref: 8ccd)](#35mm-premium-super-xg-ref-8ccd)
 - [[35mm] PrinzColor Colour Negative Film (ref: 448c)](#35mm-prinzcolor-colour-negative-film-ref-448c)
+- [[35mm] Reflx Lab 400D (ref: 5801)](#35mm-reflx-lab-400d-ref-5801)
+- [[35mm] Reflx Lab 800T (ref: 6b6b)](#35mm-reflx-lab-800t-ref-6b6b)
 - [[35mm] Reto Amber D400 (ref: 08ad)](#35mm-reto-amber-d400-ref-08ad)
 - [[35mm] Robot NR-Cassette (ref: bc7a)](#35mm-robot-nr-cassette-ref-bc7a)
 - [[35mm] Rollei Infrared (ref: eae2)](#35mm-rollei-infrared-ref-eae2)
@@ -3873,6 +3878,20 @@ UUID  : 0e445a9b612a487b90df4e94a3831fef
 	<img src="./lowres/00272_006.jpg" alt="Agfa AgfaColor CT 18 35mm film box processing envelope" loading="lazy" width="500" height="340">
 </a>
 
+#### [35mm] Agfa AgfaColor HDC Plus (ref: 016b)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2000-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 2dab58330f43463e9441b6777fce016b
+```
+
+<a href="./archive/00464_000.jpg" target="_blank">
+	<img src="./lowres/00464_000.jpg" alt="Agfa AgfaColor HDC Plus 35mm film box outside" loading="lazy" width="500" height="300">
+</a>
+
 #### [35mm] Agfa AgfaColor ULTRA 50 (ref: 4faa)
 
 ```
@@ -4972,6 +4991,20 @@ UUID  : bbcc3da99c5c4734a5a8a985b9b31d39
 	<img src="./lowres/00350_002.jpg" alt="Fujifilm Fujicolor HR 1600 35mm film box leaflet" loading="lazy" width="269" height="499">
 </a>
 
+#### [35mm] Fujifilm Fujicolor HR100 (ref: 2335)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1986-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 8ef818ff997b43d3961092bd540a2335
+```
+
+<a href="./archive/00465_000.jpg" target="_blank">
+	<img src="./lowres/00465_000.jpg" alt="Fujifilm Fujicolor HR100 35mm film box outside" loading="lazy" width="420" height="500">
+</a>
+
 #### [35mm] Fujifilm Fujicolor NPS 160 (ref: 5e85)
 
 ```
@@ -5138,6 +5171,20 @@ UUID  : 9233714654ff481089c2d4ff1334ee94
 
 <a href="./archive/00150_001.jpg" target="_blank">
 	<img src="./lowres/00150_001.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box inside" loading="lazy" width="415" height="500">
+</a>
+
+#### [35mm] Fujifilm Fujicolor Super HR (ref: 7fd2)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1989-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 9814bf1366f343ea940b7c709d107fd2
+```
+
+<a href="./archive/00466_000.jpg" target="_blank">
+	<img src="./lowres/00466_000.jpg" alt="Fujifilm Fujicolor Super HR 35mm film box outside" loading="lazy" width="411" height="500">
 </a>
 
 #### [35mm] Fujifilm Fujicolor Super HR (ref: aaa0)
@@ -8131,6 +8178,34 @@ UUID  : 1d1377fcb4fa495e9f3009a4c69b448c
 	<img src="./lowres/00363_004.jpg" alt="PrinzColor Colour Negative Film 35mm film box outside" loading="lazy" width="500" height="202">
 </a>
 
+#### [35mm] Reflx Lab 400D (ref: 5801)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2026-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 4c1b5d50ee594d5694e9a7b0a78c5801
+```
+
+<a href="./archive/00467_000.jpg" target="_blank">
+	<img src="./lowres/00467_000.jpg" alt="Reflx Lab 400D 35mm film box outside" loading="lazy" width="415" height="500">
+</a>
+
+#### [35mm] Reflx Lab 800T (ref: 6b6b)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2026-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 7b18320ad3d04332afde69a847606b6b
+```
+
+<a href="./archive/00468_000.jpg" target="_blank">
+	<img src="./lowres/00468_000.jpg" alt="Reflx Lab 800T 35mm film box outside" loading="lazy" width="419" height="500">
+</a>
+
 #### [35mm] Reto Amber D400 (ref: 08ad)
 
 ```
@@ -9708,17 +9783,18 @@ Rank  Username                      Contributions
 24    GreatGizmo74                  6     
 25    nick                          6     
 26    Kraksen                       5     
-27    Henry Gunn                    4     
-28    u/ReeeSchmidtyWerber          4     
-29    TheSelousScout                3     
-30    @sachynmital                  3     
-31    @seklerek                     2     
-32    @ftfilmphotos                 2     
-33    Yrikonchik                    1     
-34    @ad.astra.per.aspera.1894     1     
-35    Aoi Yuki                      1     
-36    lemoniter                     1     
-37    minidiscus                    1     
+27    Chrisbes                      5     
+28    Henry Gunn                    4     
+29    u/ReeeSchmidtyWerber          4     
+30    TheSelousScout                3     
+31    @sachynmital                  3     
+32    @seklerek                     2     
+33    @ftfilmphotos                 2     
+34    Yrikonchik                    1     
+35    @ad.astra.per.aspera.1894     1     
+36    Aoi Yuki                      1     
+37    lemoniter                     1     
+38    minidiscus                    1     
 ```
 
 ## Questions or Comments?

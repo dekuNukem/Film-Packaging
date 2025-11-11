@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Nov 11 2025
-Unique items: 459
-Total scans : 851
+Unique items: 464
+Total scans : 856
 ```
 
 -----
@@ -118,6 +118,7 @@ Total scans : 851
 - [[1983] Kodak Kodacolor II (ref: 7310)](#1983-kodak-kodacolor-ii-ref-7310)
 - [[1985] Konica Konica Color II (ref: fb5b)](#1985-konica-konica-color-ii-ref-fb5b)
 - [[1986] Fujifilm Fujicolor HR100 (ref: 23c5)](#1986-fujifilm-fujicolor-hr100-ref-23c5)
+- [[1986] Fujifilm Fujicolor HR100 (ref: 2335)](#1986-fujifilm-fujicolor-hr100-ref-2335)
 - [[1986] Kodak Ektachrome 64 (ref: 02cc)](#1986-kodak-ektachrome-64-ref-02cc)
 - [[1986] Kodak Tri-X Pan (ref: f201)](#1986-kodak-tri-x-pan-ref-f201)
 - [[1987] Kodak Kodacolor VR (ref: 035f)](#1987-kodak-kodacolor-vr-ref-035f)
@@ -127,6 +128,7 @@ Total scans : 851
 - [[1988] Fujifilm Neopan SS (ref: d848)](#1988-fujifilm-neopan-ss-ref-d848)
 - [[1988] Kodak Kodacolor Gold 200 (ref: f368)](#1988-kodak-kodacolor-gold-200-ref-f368)
 - [[1989] Minox MinoColor 3 (ref: d209)](#1989-minox-minocolor-3-ref-d209)
+- [[1989] Fujifilm Fujicolor Super HR (ref: 7fd2)](#1989-fujifilm-fujicolor-super-hr-ref-7fd2)
 - [[1990] Seagull Seagull Color IR100 (ref: e7cc)](#1990-seagull-seagull-color-ir100-ref-e7cc)
 - [[1990] Fujifilm Fujicolor Super HR (ref: aaa0)](#1990-fujifilm-fujicolor-super-hr-ref-aaa0)
 - [[1990] Kodak High Speed Infrared (ref: 4294)](#1990-kodak-high-speed-infrared-ref-4294)
@@ -189,6 +191,7 @@ Total scans : 851
 - [[2000] Fujifilm Fujicolor Superia (ref: d1b7)](#2000-fujifilm-fujicolor-superia-ref-d1b7)
 - [[2000] Kodak Ektacolor Pro Gold (ref: c3f8)](#2000-kodak-ektacolor-pro-gold-ref-c3f8)
 - [[2000] Kodak Vericolor III (ref: 4b3e)](#2000-kodak-vericolor-iii-ref-4b3e)
+- [[2000] Agfa AgfaColor HDC Plus (ref: 016b)](#2000-agfa-agfacolor-hdc-plus-ref-016b)
 - [[2001] Fujifilm Fujichrome Velvia (ref: 3182)](#2001-fujifilm-fujichrome-velvia-ref-3182)
 - [[2001] Kodak Gold Ultra 400 (ref: 1358)](#2001-kodak-gold-ultra-400-ref-1358)
 - [[2001] Agfa AgfaColor HDC Plus (ref: d22b)](#2001-agfa-agfacolor-hdc-plus-ref-d22b)
@@ -398,6 +401,8 @@ Total scans : 851
 - [[2026] Hope Film Bubble (ref: 41f4)](#2026-hope-film-bubble-ref-41f4)
 - [[2026] Ilford Delta 400 Professional (ref: f3da)](#2026-ilford-delta-400-professional-ref-f3da)
 - [[2026] Marix Professional Negative Movie Color Film (ref: c457)](#2026-marix-professional-negative-movie-color-film-ref-c457)
+- [[2026] Reflx Lab 400D (ref: 5801)](#2026-reflx-lab-400d-ref-5801)
+- [[2026] Reflx Lab 800T (ref: 6b6b)](#2026-reflx-lab-800t-ref-6b6b)
 - [[2026] Wolfen NC500 (ref: 91c1)](#2026-wolfen-nc500-ref-91c1)
 - [[2027] CatLABS X Film 80 MKII (ref: bcd1)](#2027-catlabs-x-film-80-mkii-ref-bcd1)
 - [[2027] Ilford Delta 100 Professional (ref: bf01)](#2027-ilford-delta-100-professional-ref-bf01)
@@ -2744,6 +2749,20 @@ UUID  : 934f2484197d41c7a5467b92a9ea23c5
 	<img src="./lowres/00308_002.jpg" alt="Fujifilm Fujicolor HR100 120 film box leaflet" loading="lazy" width="383" height="500">
 </a>
 
+#### [1986] Fujifilm Fujicolor HR100 (ref: 2335)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1986-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 8ef818ff997b43d3961092bd540a2335
+```
+
+<a href="./archive/00465_000.jpg" target="_blank">
+	<img src="./lowres/00465_000.jpg" alt="Fujifilm Fujicolor HR100 35mm film box outside" loading="lazy" width="420" height="500">
+</a>
+
 #### [1986] Kodak Ektachrome 64 (ref: 02cc)
 
 ```
@@ -2960,6 +2979,20 @@ UUID  : a54b7c329f26403d91ffa69325a1d209
 
 <a href="./archive/00370_000.jpg" target="_blank">
 	<img src="./lowres/00370_000.jpg" alt="Minox MinoColor 3 8x11mm film box outside" loading="lazy" width="500" height="423">
+</a>
+
+#### [1989] Fujifilm Fujicolor Super HR (ref: 7fd2)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1989-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 9814bf1366f343ea940b7c709d107fd2
+```
+
+<a href="./archive/00466_000.jpg" target="_blank">
+	<img src="./lowres/00466_000.jpg" alt="Fujifilm Fujicolor Super HR 35mm film box outside" loading="lazy" width="411" height="500">
 </a>
 
 #### [1990] Seagull Seagull Color IR100 (ref: e7cc)
@@ -4389,6 +4422,20 @@ UUID  : bcb6ab106d2941429eaf1088c1194b3e
 
 <a href="./archive/00237_003.jpg" target="_blank">
 	<img src="./lowres/00237_003.jpg" alt="Kodak Vericolor III 120 film box inside" loading="lazy" width="320" height="500">
+</a>
+
+#### [2000] Agfa AgfaColor HDC Plus (ref: 016b)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2000-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 2dab58330f43463e9441b6777fce016b
+```
+
+<a href="./archive/00464_000.jpg" target="_blank">
+	<img src="./lowres/00464_000.jpg" alt="Agfa AgfaColor HDC Plus 35mm film box outside" loading="lazy" width="500" height="300">
 </a>
 
 #### [2001] Fujifilm Fujichrome Velvia (ref: 3182)
@@ -8097,6 +8144,34 @@ UUID  : 715e5119d4b941d98ce52bcd8596c457
 	<img src="./lowres/00188_000.jpg" alt="Marix Professional Negative Movie Color Film 35mm film box outside" loading="lazy" width="445" height="500">
 </a>
 
+#### [2026] Reflx Lab 400D (ref: 5801)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2026-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 4c1b5d50ee594d5694e9a7b0a78c5801
+```
+
+<a href="./archive/00467_000.jpg" target="_blank">
+	<img src="./lowres/00467_000.jpg" alt="Reflx Lab 400D 35mm film box outside" loading="lazy" width="415" height="500">
+</a>
+
+#### [2026] Reflx Lab 800T (ref: 6b6b)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2026-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 7b18320ad3d04332afde69a847606b6b
+```
+
+<a href="./archive/00468_000.jpg" target="_blank">
+	<img src="./lowres/00468_000.jpg" alt="Reflx Lab 800T 35mm film box outside" loading="lazy" width="419" height="500">
+</a>
+
 #### [2026] Wolfen NC500 (ref: 91c1)
 
 ```
@@ -9708,17 +9783,18 @@ Rank  Username                      Contributions
 24    GreatGizmo74                  6     
 25    nick                          6     
 26    Kraksen                       5     
-27    Henry Gunn                    4     
-28    u/ReeeSchmidtyWerber          4     
-29    TheSelousScout                3     
-30    @sachynmital                  3     
-31    @seklerek                     2     
-32    @ftfilmphotos                 2     
-33    Yrikonchik                    1     
-34    @ad.astra.per.aspera.1894     1     
-35    Aoi Yuki                      1     
-36    lemoniter                     1     
-37    minidiscus                    1     
+27    Chrisbes                      5     
+28    Henry Gunn                    4     
+29    u/ReeeSchmidtyWerber          4     
+30    TheSelousScout                3     
+31    @sachynmital                  3     
+32    @seklerek                     2     
+33    @ftfilmphotos                 2     
+34    Yrikonchik                    1     
+35    @ad.astra.per.aspera.1894     1     
+36    Aoi Yuki                      1     
+37    lemoniter                     1     
+38    minidiscus                    1     
 ```
 
 ## Questions or Comments?

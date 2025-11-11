@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Nov 11 2025
-Unique items: 459
-Total scans : 851
+Unique items: 464
+Total scans : 856
 ```
 
 -----
@@ -198,6 +198,11 @@ Total scans : 851
 - [[Camera.Riley] Kodak Professional Microfilm Type I (ref: a444)](#camerariley-kodak-professional-microfilm-type-i-ref-a444)
 - [[Camera.Riley] Konica Konica Color II (ref: fb5b)](#camerariley-konica-konica-color-ii-ref-fb5b)
 - [[Camera.Riley] Polaroid PolaChrome 35mm (ref: b202)](#camerariley-polaroid-polachrome-35mm-ref-b202)
+- [[Chrisbes] Agfa AgfaColor HDC Plus (ref: 016b)](#chrisbes-agfa-agfacolor-hdc-plus-ref-016b)
+- [[Chrisbes] Fujifilm Fujicolor HR100 (ref: 2335)](#chrisbes-fujifilm-fujicolor-hr100-ref-2335)
+- [[Chrisbes] Fujifilm Fujicolor Super HR (ref: 7fd2)](#chrisbes-fujifilm-fujicolor-super-hr-ref-7fd2)
+- [[Chrisbes] Reflx Lab 400D (ref: 5801)](#chrisbes-reflx-lab-400d-ref-5801)
+- [[Chrisbes] Reflx Lab 800T (ref: 6b6b)](#chrisbes-reflx-lab-800t-ref-6b6b)
 - [[GreatGizmo74] Jessops CS100 (ref: 4288)](#greatgizmo74-jessops-cs100-ref-4288)
 - [[GreatGizmo74] Jessops Diamond Everyday (ref: 6d5a)](#greatgizmo74-jessops-diamond-everyday-ref-6d5a)
 - [[Henry Gunn] Kodak High Speed Ektachrome (ref: b8f8)](#henry-gunn-kodak-high-speed-ektachrome-ref-b8f8)
@@ -3645,6 +3650,76 @@ UUID  : 30947745f405445e88808deab9a4b202
 
 <a href="./archive/00174_000.jpg" target="_blank">
 	<img src="./lowres/00174_000.jpg" alt="Polaroid PolaChrome 35mm 35mm film box outside" loading="lazy" width="500" height="424">
+</a>
+
+#### [Chrisbes] Agfa AgfaColor HDC Plus (ref: 016b)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2000-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 2dab58330f43463e9441b6777fce016b
+```
+
+<a href="./archive/00464_000.jpg" target="_blank">
+	<img src="./lowres/00464_000.jpg" alt="Agfa AgfaColor HDC Plus 35mm film box outside" loading="lazy" width="500" height="300">
+</a>
+
+#### [Chrisbes] Fujifilm Fujicolor HR100 (ref: 2335)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1986-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 8ef818ff997b43d3961092bd540a2335
+```
+
+<a href="./archive/00465_000.jpg" target="_blank">
+	<img src="./lowres/00465_000.jpg" alt="Fujifilm Fujicolor HR100 35mm film box outside" loading="lazy" width="420" height="500">
+</a>
+
+#### [Chrisbes] Fujifilm Fujicolor Super HR (ref: 7fd2)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1989-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 9814bf1366f343ea940b7c709d107fd2
+```
+
+<a href="./archive/00466_000.jpg" target="_blank">
+	<img src="./lowres/00466_000.jpg" alt="Fujifilm Fujicolor Super HR 35mm film box outside" loading="lazy" width="411" height="500">
+</a>
+
+#### [Chrisbes] Reflx Lab 400D (ref: 5801)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2026-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 4c1b5d50ee594d5694e9a7b0a78c5801
+```
+
+<a href="./archive/00467_000.jpg" target="_blank">
+	<img src="./lowres/00467_000.jpg" alt="Reflx Lab 400D 35mm film box outside" loading="lazy" width="415" height="500">
+</a>
+
+#### [Chrisbes] Reflx Lab 800T (ref: 6b6b)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2026-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 7b18320ad3d04332afde69a847606b6b
+```
+
+<a href="./archive/00468_000.jpg" target="_blank">
+	<img src="./lowres/00468_000.jpg" alt="Reflx Lab 800T 35mm film box outside" loading="lazy" width="419" height="500">
 </a>
 
 #### [GreatGizmo74] Jessops CS100 (ref: 4288)
@@ -9708,17 +9783,18 @@ Rank  Username                      Contributions
 24    GreatGizmo74                  6     
 25    nick                          6     
 26    Kraksen                       5     
-27    Henry Gunn                    4     
-28    u/ReeeSchmidtyWerber          4     
-29    TheSelousScout                3     
-30    @sachynmital                  3     
-31    @seklerek                     2     
-32    @ftfilmphotos                 2     
-33    Yrikonchik                    1     
-34    @ad.astra.per.aspera.1894     1     
-35    Aoi Yuki                      1     
-36    lemoniter                     1     
-37    minidiscus                    1     
+27    Chrisbes                      5     
+28    Henry Gunn                    4     
+29    u/ReeeSchmidtyWerber          4     
+30    TheSelousScout                3     
+31    @sachynmital                  3     
+32    @seklerek                     2     
+33    @ftfilmphotos                 2     
+34    Yrikonchik                    1     
+35    @ad.astra.per.aspera.1894     1     
+36    Aoi Yuki                      1     
+37    lemoniter                     1     
+38    minidiscus                    1     
 ```
 
 ## Questions or Comments?

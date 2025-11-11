@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Nov 11 2025
-Unique items: 459
-Total scans : 851
+Unique items: 464
+Total scans : 856
 ```
 
 Or Sort by...
@@ -79,23 +79,29 @@ Rank  Username                      Contributions
 24    GreatGizmo74                  6     
 25    nick                          6     
 26    Kraksen                       5     
-27    Henry Gunn                    4     
-28    u/ReeeSchmidtyWerber          4     
-29    TheSelousScout                3     
-30    @sachynmital                  3     
-31    @seklerek                     2     
-32    @ftfilmphotos                 2     
-33    Yrikonchik                    1     
-34    @ad.astra.per.aspera.1894     1     
-35    Aoi Yuki                      1     
-36    lemoniter                     1     
-37    minidiscus                    1     
+27    Chrisbes                      5     
+28    Henry Gunn                    4     
+29    u/ReeeSchmidtyWerber          4     
+30    TheSelousScout                3     
+31    @sachynmital                  3     
+32    @seklerek                     2     
+33    @ftfilmphotos                 2     
+34    Yrikonchik                    1     
+35    @ad.astra.per.aspera.1894     1     
+36    Aoi Yuki                      1     
+37    lemoniter                     1     
+38    minidiscus                    1     
 ```
 
 ## Recent Activities
 
 ```
 2025-11-11
+  - Chrisbes: Agfa AgfaColor HDC Plus
+  - Chrisbes: Fujifilm Fujicolor HR100
+  - Chrisbes: Fujifilm Fujicolor Super HR
+  - Chrisbes: Reflx Lab 400D
+  - Chrisbes: Reflx Lab 800T
   - waldoboro: Fujifilm Fujicolor Natura 1600
   - waldoboro: Fukkatsu Color Print Film
   - waldoboro: Kodak Kodachrome

@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Nov 11 2025
-Unique items: 459
-Total scans : 851
+Unique items: 464
+Total scans : 856
 ```
 
 -----
@@ -31,6 +31,7 @@ Total scans : 851
 - [Agfa APX (ref: 5276)](#agfa-apx-ref-5276)
 - [Agfa AgfaChrome 50 S (ref: 71a8)](#agfa-agfachrome-50-s-ref-71a8)
 - [Agfa AgfaColor CT 18 (ref: 1fef)](#agfa-agfacolor-ct-18-ref-1fef)
+- [Agfa AgfaColor HDC Plus (ref: 016b)](#agfa-agfacolor-hdc-plus-ref-016b)
 - [Agfa AgfaColor HDC Plus (ref: d22b)](#agfa-agfacolor-hdc-plus-ref-d22b)
 - [Agfa AgfaColor Optima 200 (ref: 393d)](#agfa-agfacolor-optima-200-ref-393d)
 - [Agfa AgfaColor ULTRA 50 (ref: 4faa)](#agfa-agfacolor-ultra-50-ref-4faa)
@@ -134,6 +135,7 @@ Total scans : 851
 - [Fujifilm Fujicolor C200 (ref: a0de)](#fujifilm-fujicolor-c200-ref-a0de)
 - [Fujifilm Fujicolor HR 1600 (ref: 1d39)](#fujifilm-fujicolor-hr-1600-ref-1d39)
 - [Fujifilm Fujicolor HR100 (ref: 23c5)](#fujifilm-fujicolor-hr100-ref-23c5)
+- [Fujifilm Fujicolor HR100 (ref: 2335)](#fujifilm-fujicolor-hr100-ref-2335)
 - [Fujifilm Fujicolor NPL 160 (ref: d10b)](#fujifilm-fujicolor-npl-160-ref-d10b)
 - [Fujifilm Fujicolor NPS 160 (ref: 5e85)](#fujifilm-fujicolor-nps-160-ref-5e85)
 - [Fujifilm Fujicolor Natura 1600 (ref: 2e06)](#fujifilm-fujicolor-natura-1600-ref-2e06)
@@ -148,6 +150,7 @@ Total scans : 851
 - [Fujifilm Fujicolor Super G (ref: 55ff)](#fujifilm-fujicolor-super-g-ref-55ff)
 - [Fujifilm Fujicolor Super HG (ref: feb7)](#fujifilm-fujicolor-super-hg-ref-feb7)
 - [Fujifilm Fujicolor Super HG (ref: ee94)](#fujifilm-fujicolor-super-hg-ref-ee94)
+- [Fujifilm Fujicolor Super HR (ref: 7fd2)](#fujifilm-fujicolor-super-hr-ref-7fd2)
 - [Fujifilm Fujicolor Super HR (ref: aaa0)](#fujifilm-fujicolor-super-hr-ref-aaa0)
 - [Fujifilm Fujicolor Superia (ref: d1b7)](#fujifilm-fujicolor-superia-ref-d1b7)
 - [Fujifilm Fujicolor Superia (ref: 0683)](#fujifilm-fujicolor-superia-ref-0683)
@@ -439,6 +442,8 @@ Total scans : 851
 - [Premium Super XG (ref: 8ccd)](#premium-super-xg-ref-8ccd)
 - [PrinzColor Colour Negative Film (ref: 448c)](#prinzcolor-colour-negative-film-ref-448c)
 - [Reflx Lab 250D (ref: 1a3e)](#reflx-lab-250d-ref-1a3e)
+- [Reflx Lab 400D (ref: 5801)](#reflx-lab-400d-ref-5801)
+- [Reflx Lab 800T (ref: 6b6b)](#reflx-lab-800t-ref-6b6b)
 - [Reflx Lab Pro 100 (ref: 8bec)](#reflx-lab-pro-100-ref-8bec)
 - [Reflx Lab Pro 100 (ref: 1311)](#reflx-lab-pro-100-ref-1311)
 - [Reto Amber D400 (ref: 08ad)](#reto-amber-d400-ref-08ad)
@@ -707,6 +712,20 @@ UUID  : 0e445a9b612a487b90df4e94a3831fef
 
 <a href="./archive/00272_006.jpg" target="_blank">
 	<img src="./lowres/00272_006.jpg" alt="Agfa AgfaColor CT 18 35mm film box processing envelope" loading="lazy" width="500" height="340">
+</a>
+
+#### Agfa AgfaColor HDC Plus (ref: 016b)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2000-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 2dab58330f43463e9441b6777fce016b
+```
+
+<a href="./archive/00464_000.jpg" target="_blank">
+	<img src="./lowres/00464_000.jpg" alt="Agfa AgfaColor HDC Plus 35mm film box outside" loading="lazy" width="500" height="300">
 </a>
 
 #### Agfa AgfaColor HDC Plus (ref: d22b)
@@ -2730,6 +2749,20 @@ UUID  : 934f2484197d41c7a5467b92a9ea23c5
 	<img src="./lowres/00308_002.jpg" alt="Fujifilm Fujicolor HR100 120 film box leaflet" loading="lazy" width="383" height="500">
 </a>
 
+#### Fujifilm Fujicolor HR100 (ref: 2335)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1986-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 8ef818ff997b43d3961092bd540a2335
+```
+
+<a href="./archive/00465_000.jpg" target="_blank">
+	<img src="./lowres/00465_000.jpg" alt="Fujifilm Fujicolor HR100 35mm film box outside" loading="lazy" width="420" height="500">
+</a>
+
 #### Fujifilm Fujicolor NPL 160 (ref: d10b)
 
 ```
@@ -2994,6 +3027,20 @@ UUID  : 9233714654ff481089c2d4ff1334ee94
 
 <a href="./archive/00150_001.jpg" target="_blank">
 	<img src="./lowres/00150_001.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box inside" loading="lazy" width="415" height="500">
+</a>
+
+#### Fujifilm Fujicolor Super HR (ref: 7fd2)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1989-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 9814bf1366f343ea940b7c709d107fd2
+```
+
+<a href="./archive/00466_000.jpg" target="_blank">
+	<img src="./lowres/00466_000.jpg" alt="Fujifilm Fujicolor Super HR 35mm film box outside" loading="lazy" width="411" height="500">
 </a>
 
 #### Fujifilm Fujicolor Super HR (ref: aaa0)
@@ -8859,6 +8906,34 @@ UUID  : ce8b081c148f43f7921e2fb4d7aa1a3e
 	<img src="./lowres/00194_000.jpg" alt="Reflx Lab 250D 120 film box outside" loading="lazy" width="500" height="419">
 </a>
 
+#### Reflx Lab 400D (ref: 5801)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2026-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 4c1b5d50ee594d5694e9a7b0a78c5801
+```
+
+<a href="./archive/00467_000.jpg" target="_blank">
+	<img src="./lowres/00467_000.jpg" alt="Reflx Lab 400D 35mm film box outside" loading="lazy" width="415" height="500">
+</a>
+
+#### Reflx Lab 800T (ref: 6b6b)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2026-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 7b18320ad3d04332afde69a847606b6b
+```
+
+<a href="./archive/00468_000.jpg" target="_blank">
+	<img src="./lowres/00468_000.jpg" alt="Reflx Lab 800T 35mm film box outside" loading="lazy" width="419" height="500">
+</a>
+
 #### Reflx Lab Pro 100 (ref: 8bec)
 
 ```
@@ -9708,17 +9783,18 @@ Rank  Username                      Contributions
 24    GreatGizmo74                  6     
 25    nick                          6     
 26    Kraksen                       5     
-27    Henry Gunn                    4     
-28    u/ReeeSchmidtyWerber          4     
-29    TheSelousScout                3     
-30    @sachynmital                  3     
-31    @seklerek                     2     
-32    @ftfilmphotos                 2     
-33    Yrikonchik                    1     
-34    @ad.astra.per.aspera.1894     1     
-35    Aoi Yuki                      1     
-36    lemoniter                     1     
-37    minidiscus                    1     
+27    Chrisbes                      5     
+28    Henry Gunn                    4     
+29    u/ReeeSchmidtyWerber          4     
+30    TheSelousScout                3     
+31    @sachynmital                  3     
+32    @seklerek                     2     
+33    @ftfilmphotos                 2     
+34    Yrikonchik                    1     
+35    @ad.astra.per.aspera.1894     1     
+36    Aoi Yuki                      1     
+37    lemoniter                     1     
+38    minidiscus                    1     
 ```
 
 ## Questions or Comments?
