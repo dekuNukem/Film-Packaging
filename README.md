@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 27 2025
-Unique items: 455
-Total scans : 843
+Last Updated: Nov 11 2025
+Unique items: 459
+Total scans : 851
 ```
 
 Or Sort by...
@@ -72,28 +72,35 @@ Rank  Username                      Contributions
 17    lilyu.xyz                     9     
 18    @Hol.m35                      9     
 19    kaimon                        8     
-20    @toastergod101                7     
-21    @filmfotofella                7     
-22    lt_col_tall                   6     
-23    GreatGizmo74                  6     
-24    nick                          6     
-25    Kraksen                       5     
-26    Henry Gunn                    4     
-27    u/ReeeSchmidtyWerber          4     
-28    TheSelousScout                3     
-29    @sachynmital                  3     
-30    @seklerek                     2     
-31    @ftfilmphotos                 2     
-32    Yrikonchik                    1     
-33    @ad.astra.per.aspera.1894     1     
-34    Aoi Yuki                      1     
-35    lemoniter                     1     
-36    minidiscus                    1     
+20    waldoboro                     8     
+21    @toastergod101                7     
+22    @filmfotofella                7     
+23    lt_col_tall                   6     
+24    GreatGizmo74                  6     
+25    nick                          6     
+26    Kraksen                       5     
+27    Henry Gunn                    4     
+28    u/ReeeSchmidtyWerber          4     
+29    TheSelousScout                3     
+30    @sachynmital                  3     
+31    @seklerek                     2     
+32    @ftfilmphotos                 2     
+33    Yrikonchik                    1     
+34    @ad.astra.per.aspera.1894     1     
+35    Aoi Yuki                      1     
+36    lemoniter                     1     
+37    minidiscus                    1     
 ```
 
 ## Recent Activities
 
 ```
+2025-11-11
+  - waldoboro: Fujifilm Fujicolor Natura 1600
+  - waldoboro: Fukkatsu Color Print Film
+  - waldoboro: Kodak Kodachrome
+  - waldoboro: Seagull Seagull Color IR100
+
 2025-10-27
   - @ellafridalindblom: Agfa Isopan Portrait
   - @ellafridalindblom: Gevaert Studio Film
@@ -134,26 +141,6 @@ Rank  Username                      Contributions
   - dekuNukem: Minox Minocolor 2
   - dekuNukem: Northwest Custom Film Processing Ultra Minituature Film
   - dekuNukem: Triple-Print Film Labs Color Negative Film
-
-2025-10-17
-  - @recycling.film: ADOX KB 17
-  - @recycling.film: Agfa AgfaChrome 50 S
-  - @recycling.film: Agfa Agfacolor Negative Film Special CNS
-  - @recycling.film: Foma Fomapan F17
-  - @recycling.film: Fujifilm Fujicolor Super HG
-  - @recycling.film: GAF Color Slide Film
-  - @recycling.film: Ilford FP4
-  - @recycling.film: Ilford XP2
-  - @recycling.film: Kodak Ektachrome 64
-  - @recycling.film: Kodak Super-XX
-  - @recycling.film: Kodak Tri-X Pan
-  - @recycling.film: Nishika Color Print Film
-  - @recycling.film: ORWO Chrom UT18
-  - @recycling.film: Perfect Photo Inc. Perfect-Pan Film
-  - @recycling.film: Perutz Peromnia 21
-  - @recycling.film: Perutz Perpantic Film
-  - @recycling.film: Svema Foto 32
-  - @recycling.film: Svema Foto 64
 ```
 
 ## Disclaimer

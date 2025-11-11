@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 27 2025
-Unique items: 455
-Total scans : 843
+Last Updated: Nov 11 2025
+Unique items: 459
+Total scans : 851
 ```
 
 -----
@@ -137,6 +137,7 @@ Total scans : 843
 - [Fujifilm Fujicolor NPL 160 (ref: d10b)](#fujifilm-fujicolor-npl-160-ref-d10b)
 - [Fujifilm Fujicolor NPS 160 (ref: 5e85)](#fujifilm-fujicolor-nps-160-ref-5e85)
 - [Fujifilm Fujicolor Natura 1600 (ref: 2e06)](#fujifilm-fujicolor-natura-1600-ref-2e06)
+- [Fujifilm Fujicolor Natura 1600 (ref: 52aa)](#fujifilm-fujicolor-natura-1600-ref-52aa)
 - [Fujifilm Fujicolor Pro 400H (ref: 48ed)](#fujifilm-fujicolor-pro-400h-ref-48ed)
 - [Fujifilm Fujicolor Pro 400H (ref: dc37)](#fujifilm-fujicolor-pro-400h-ref-dc37)
 - [Fujifilm Fujicolor Pro 400H (ref: 66e3)](#fujifilm-fujicolor-pro-400h-ref-66e3)
@@ -166,6 +167,7 @@ Total scans : 843
 - [Fujifilm Neopan SS (ref: d848)](#fujifilm-neopan-ss-ref-d848)
 - [Fujifilm Neopan SS Rapid (ref: 9db3)](#fujifilm-neopan-ss-rapid-ref-9db3)
 - [Fujifilm Superia Premium 400 (ref: ef1f)](#fujifilm-superia-premium-400-ref-ef1f)
+- [Fukkatsu Color Print Film (ref: 3213)](#fukkatsu-color-print-film-ref-3213)
 - [GAF Color Slide Film (ref: dea6)](#gaf-color-slide-film-ref-dea6)
 - [GAF Color Slide Film (ref: 6815)](#gaf-color-slide-film-ref-6815)
 - [Gevaert Gevachrome 30 (ref: c0e3)](#gevaert-gevachrome-30-ref-c0e3)
@@ -294,6 +296,7 @@ Total scans : 843
 - [Kodak High Speed Infrared (ref: 4294)](#kodak-high-speed-infrared-ref-4294)
 - [Kodak High Speed Infrared (ref: 883e)](#kodak-high-speed-infrared-ref-883e)
 - [Kodak High Speed Infrared Film 2481 (ref: aa7a)](#kodak-high-speed-infrared-film-2481-ref-aa7a)
+- [Kodak Kodachrome (ref: 3d0a)](#kodak-kodachrome-ref-3d0a)
 - [Kodak Kodachrome 25 (ref: 6477)](#kodak-kodachrome-25-ref-6477)
 - [Kodak Kodachrome 25 (ref: 8833)](#kodak-kodachrome-25-ref-8833)
 - [Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping (ref: c143)](#kodak-kodachrome-40-movie-film-type-a-for-post-process-sound-striping-ref-c143)
@@ -454,6 +457,7 @@ Total scans : 843
 - [Sakura Sakuracolor II (ref: 4f7d)](#sakura-sakuracolor-ii-ref-4f7d)
 - [SantaColor SantaColor (ref: cb58)](#santacolor-santacolor-ref-cb58)
 - [SantaColor SantaColor (ref: f3a7)](#santacolor-santacolor-ref-f3a7)
+- [Seagull Seagull Color IR100 (ref: e7cc)](#seagull-seagull-color-ir100-ref-e7cc)
 - [Shanghai GP3 (ref: 52aa)](#shanghai-gp3-ref-52aa)
 - [Sharan Black-and-white Negative Film (ref: a884)](#sharan-black-and-white-negative-film-ref-a884)
 - [Sharan Color Negative Film (ref: 4913)](#sharan-color-negative-film-ref-4913)
@@ -2803,6 +2807,20 @@ UUID  : 8abda51b18d84ec4939df489457d2e06
 	<img src="./lowres/00177_002.jpg" alt="Fujifilm Fujicolor Natura 1600 35mm film box outside" loading="lazy" width="500" height="258">
 </a>
 
+#### Fujifilm Fujicolor Natura 1600 (ref: 52aa)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 1600         |  Expiry  : 2016-04 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : waldoboro
+UUID  : a4f7e58b2cdf448d8a2e7781c26252aa
+```
+
+<a href="./archive/00461_000.jpg" target="_blank">
+	<img src="./lowres/00461_000.jpg" alt="Fujifilm Fujicolor Natura 1600 35mm film box outside" loading="lazy" width="500" height="460">
+</a>
+
 #### Fujifilm Fujicolor Pro 400H (ref: 48ed)
 
 ```
@@ -3298,6 +3316,20 @@ UUID  : 433055f5732e4d53b4245da4dfe0ef1f
 
 <a href="./archive/00372_000.jpg" target="_blank">
 	<img src="./lowres/00372_000.jpg" alt="Fujifilm Superia Premium 400 35mm film box outside" loading="lazy" width="448" height="500">
+</a>
+
+#### Fukkatsu Color Print Film (ref: 3213)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2018-08 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-11-11   |  Author  : waldoboro
+UUID  : e5ed9275c4a34dbb8ab1a60c13ca3213
+```
+
+<a href="./archive/00460_000.jpg" target="_blank">
+	<img src="./lowres/00460_000.jpg" alt="Fukkatsu Color Print Film 110 film box outside" loading="lazy" width="500" height="410">
 </a>
 
 #### GAF Color Slide Film (ref: dea6)
@@ -5894,6 +5926,34 @@ UUID  : 6670d5214ea545e99bfb7aadb6d4aa7a
 
 <a href="./archive/00353_000.jpg" target="_blank">
 	<img src="./lowres/00353_000.jpg" alt="Kodak High Speed Infrared Film 2481 35mm film box outside" loading="lazy" width="500" height="489">
+</a>
+
+#### Kodak Kodachrome (ref: 3d0a)
+
+```
+Format: 35mm         |  Process : K-14    
+ISO   : 10           |  Expiry  : 1962-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : waldoboro
+UUID  : 21c4ce1f9fb54086bb13435778243d0a
+```
+
+<a href="./archive/00462_000.jpg" target="_blank">
+	<img src="./lowres/00462_000.jpg" alt="Kodak Kodachrome 35mm film box outside" loading="lazy" width="416" height="499">
+</a>
+
+
+`UUID: eb2f8ddacbcf4b3087e1fea3117fb683`↓
+
+<a href="./archive/00462_001.jpg" target="_blank">
+	<img src="./lowres/00462_001.jpg" alt="Kodak Kodachrome 35mm film box leaflet" loading="lazy" width="269" height="500">
+</a>
+
+
+`UUID: e61ab90af79a4d558efcaed30d78978a`↓
+
+<a href="./archive/00462_002.jpg" target="_blank">
+	<img src="./lowres/00462_002.jpg" alt="Kodak Kodachrome 35mm film box leaflet" loading="lazy" width="261" height="500">
 </a>
 
 #### Kodak Kodachrome 25 (ref: 6477)
@@ -9142,6 +9202,34 @@ UUID  : 0a141b49a84a4b06a18355308940f3a7
 	<img src="./lowres/00128_000.jpg" alt="SantaColor SantaColor 35mm film box outside" loading="lazy" width="500" height="210">
 </a>
 
+#### Seagull Seagull Color IR100 (ref: e7cc)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1990-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : waldoboro
+UUID  : 4696688cabf54eeb83cf66b2fb00e7cc
+```
+
+<a href="./archive/00463_000.jpg" target="_blank">
+	<img src="./lowres/00463_000.jpg" alt="Seagull Seagull Color IR100 35mm film box outside" loading="lazy" width="483" height="500">
+</a>
+
+
+`UUID: 0f46125636f9490a92937c07595df7cb`↓
+
+<a href="./archive/00463_001.jpg" target="_blank">
+	<img src="./lowres/00463_001.jpg" alt="Seagull Seagull Color IR100 35mm film box leaflet" loading="lazy" width="172" height="500">
+</a>
+
+
+`UUID: 782baa96b77d424eb0dabc5f6d3b8c88`↓
+
+<a href="./archive/00463_002.jpg" target="_blank">
+	<img src="./lowres/00463_002.jpg" alt="Seagull Seagull Color IR100 35mm film box leaflet" loading="lazy" width="176" height="500">
+</a>
+
 #### Shanghai GP3 (ref: 52aa)
 
 ```
@@ -9613,23 +9701,24 @@ Rank  Username                      Contributions
 17    lilyu.xyz                     9     
 18    @Hol.m35                      9     
 19    kaimon                        8     
-20    @toastergod101                7     
-21    @filmfotofella                7     
-22    lt_col_tall                   6     
-23    GreatGizmo74                  6     
-24    nick                          6     
-25    Kraksen                       5     
-26    Henry Gunn                    4     
-27    u/ReeeSchmidtyWerber          4     
-28    TheSelousScout                3     
-29    @sachynmital                  3     
-30    @seklerek                     2     
-31    @ftfilmphotos                 2     
-32    Yrikonchik                    1     
-33    @ad.astra.per.aspera.1894     1     
-34    Aoi Yuki                      1     
-35    lemoniter                     1     
-36    minidiscus                    1     
+20    waldoboro                     8     
+21    @toastergod101                7     
+22    @filmfotofella                7     
+23    lt_col_tall                   6     
+24    GreatGizmo74                  6     
+25    nick                          6     
+26    Kraksen                       5     
+27    Henry Gunn                    4     
+28    u/ReeeSchmidtyWerber          4     
+29    TheSelousScout                3     
+30    @sachynmital                  3     
+31    @seklerek                     2     
+32    @ftfilmphotos                 2     
+33    Yrikonchik                    1     
+34    @ad.astra.per.aspera.1894     1     
+35    Aoi Yuki                      1     
+36    lemoniter                     1     
+37    minidiscus                    1     
 ```
 
 ## Questions or Comments?

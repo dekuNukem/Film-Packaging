@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 27 2025
-Unique items: 455
-Total scans : 843
+Last Updated: Nov 11 2025
+Unique items: 459
+Total scans : 851
 ```
 
 -----
@@ -46,6 +46,7 @@ Total scans : 843
 - [[1961] VEB Fotochemische Werke Berlin Dekopan Super S (ref: 1620)](#1961-veb-fotochemische-werke-berlin-dekopan-super-s-ref-1620)
 - [[1961] Ricoh Golden "16" (ref: c02c)](#1961-ricoh-golden-16-ref-c02c)
 - [[1962] Kodak Verichrome Pan (ref: 7984)](#1962-kodak-verichrome-pan-ref-7984)
+- [[1962] Kodak Kodachrome (ref: 3d0a)](#1962-kodak-kodachrome-ref-3d0a)
 - [[1963] Kodak High Speed Ektachrome (ref: ce7f)](#1963-kodak-high-speed-ektachrome-ref-ce7f)
 - [[1963] Perutz Peromnia 21 (ref: bf2a)](#1963-perutz-peromnia-21-ref-bf2a)
 - [[1963] Agfa Isopan ISS (ref: 75fa)](#1963-agfa-isopan-iss-ref-75fa)
@@ -126,6 +127,7 @@ Total scans : 843
 - [[1988] Fujifilm Neopan SS (ref: d848)](#1988-fujifilm-neopan-ss-ref-d848)
 - [[1988] Kodak Kodacolor Gold 200 (ref: f368)](#1988-kodak-kodacolor-gold-200-ref-f368)
 - [[1989] Minox MinoColor 3 (ref: d209)](#1989-minox-minocolor-3-ref-d209)
+- [[1990] Seagull Seagull Color IR100 (ref: e7cc)](#1990-seagull-seagull-color-ir100-ref-e7cc)
 - [[1990] Fujifilm Fujicolor Super HR (ref: aaa0)](#1990-fujifilm-fujicolor-super-hr-ref-aaa0)
 - [[1990] Kodak High Speed Infrared (ref: 4294)](#1990-kodak-high-speed-infrared-ref-4294)
 - [[1990] Kodak Kodacolor Gold 400 (ref: 473d)](#1990-kodak-kodacolor-gold-400-ref-473d)
@@ -292,8 +294,10 @@ Total scans : 843
 - [[2015] Fujifilm FP-100C (ref: 5cda)](#2015-fujifilm-fp-100c-ref-5cda)
 - [[2015] Lomography Tiger (ref: 5b62)](#2015-lomography-tiger-ref-5b62)
 - [[2015] Lomography Lobster Redscale Negative (ref: 4dcd)](#2015-lomography-lobster-redscale-negative-ref-4dcd)
+- [[2016] Fujifilm Fujicolor Natura 1600 (ref: 52aa)](#2016-fujifilm-fujicolor-natura-1600-ref-52aa)
 - [[2018] CineStill 800T (ref: c86a)](#2018-cinestill-800t-ref-c86a)
 - [[2018] Agfa Vista Plus 200 (ref: f5f7)](#2018-agfa-vista-plus-200-ref-f5f7)
+- [[2018] Fukkatsu Color Print Film (ref: 3213)](#2018-fukkatsu-color-print-film-ref-3213)
 - [[2018] Fujifilm Fujicolor Pro 400H (ref: 66e3)](#2018-fujifilm-fujicolor-pro-400h-ref-66e3)
 - [[2019] Agfa Vista Plus 200 (ref: f08a)](#2019-agfa-vista-plus-200-ref-f08a)
 - [[2019] Fujifilm Fujicolor Professional (ref: 02f7)](#2019-fujifilm-fujicolor-professional-ref-02f7)
@@ -900,6 +904,34 @@ UUID  : c17a688403b646e6aebd74e8ec357984
 
 <a href="./archive/00433_000.jpg" target="_blank">
 	<img src="./lowres/00433_000.jpg" alt="Kodak Verichrome Pan 122 film box outside" loading="lazy" width="500" height="412">
+</a>
+
+#### [1962] Kodak Kodachrome (ref: 3d0a)
+
+```
+Format: 35mm         |  Process : K-14    
+ISO   : 10           |  Expiry  : 1962-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : waldoboro
+UUID  : 21c4ce1f9fb54086bb13435778243d0a
+```
+
+<a href="./archive/00462_000.jpg" target="_blank">
+	<img src="./lowres/00462_000.jpg" alt="Kodak Kodachrome 35mm film box outside" loading="lazy" width="416" height="499">
+</a>
+
+
+`UUID: eb2f8ddacbcf4b3087e1fea3117fb683`↓
+
+<a href="./archive/00462_001.jpg" target="_blank">
+	<img src="./lowres/00462_001.jpg" alt="Kodak Kodachrome 35mm film box leaflet" loading="lazy" width="269" height="500">
+</a>
+
+
+`UUID: e61ab90af79a4d558efcaed30d78978a`↓
+
+<a href="./archive/00462_002.jpg" target="_blank">
+	<img src="./lowres/00462_002.jpg" alt="Kodak Kodachrome 35mm film box leaflet" loading="lazy" width="261" height="500">
 </a>
 
 #### [1963] Kodak High Speed Ektachrome (ref: ce7f)
@@ -2928,6 +2960,34 @@ UUID  : a54b7c329f26403d91ffa69325a1d209
 
 <a href="./archive/00370_000.jpg" target="_blank">
 	<img src="./lowres/00370_000.jpg" alt="Minox MinoColor 3 8x11mm film box outside" loading="lazy" width="500" height="423">
+</a>
+
+#### [1990] Seagull Seagull Color IR100 (ref: e7cc)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1990-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : waldoboro
+UUID  : 4696688cabf54eeb83cf66b2fb00e7cc
+```
+
+<a href="./archive/00463_000.jpg" target="_blank">
+	<img src="./lowres/00463_000.jpg" alt="Seagull Seagull Color IR100 35mm film box outside" loading="lazy" width="483" height="500">
+</a>
+
+
+`UUID: 0f46125636f9490a92937c07595df7cb`↓
+
+<a href="./archive/00463_001.jpg" target="_blank">
+	<img src="./lowres/00463_001.jpg" alt="Seagull Seagull Color IR100 35mm film box leaflet" loading="lazy" width="172" height="500">
+</a>
+
+
+`UUID: 782baa96b77d424eb0dabc5f6d3b8c88`↓
+
+<a href="./archive/00463_002.jpg" target="_blank">
+	<img src="./lowres/00463_002.jpg" alt="Seagull Seagull Color IR100 35mm film box leaflet" loading="lazy" width="176" height="500">
 </a>
 
 #### [1990] Fujifilm Fujicolor Super HR (ref: aaa0)
@@ -6280,6 +6340,20 @@ UUID  : bfb2bdd4749b474f8fe1f971f2a14dcd
 	<img src="./lowres/00422_001.jpg" alt="Lomography Lobster Redscale Negative 110 film box inside" loading="lazy" width="336" height="500">
 </a>
 
+#### [2016] Fujifilm Fujicolor Natura 1600 (ref: 52aa)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 1600         |  Expiry  : 2016-04 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : waldoboro
+UUID  : a4f7e58b2cdf448d8a2e7781c26252aa
+```
+
+<a href="./archive/00461_000.jpg" target="_blank">
+	<img src="./lowres/00461_000.jpg" alt="Fujifilm Fujicolor Natura 1600 35mm film box outside" loading="lazy" width="500" height="460">
+</a>
+
 #### [2018] CineStill 800T (ref: c86a)
 
 ```
@@ -6320,6 +6394,20 @@ UUID  : ca7affc001374aa882b4c2edd3e8f5f7
 
 <a href="./archive/00371_001.jpg" target="_blank">
 	<img src="./lowres/00371_001.jpg" alt="Agfa Vista Plus 200 35mm film box inside" loading="lazy" width="451" height="500">
+</a>
+
+#### [2018] Fukkatsu Color Print Film (ref: 3213)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2018-08 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-11-11   |  Author  : waldoboro
+UUID  : e5ed9275c4a34dbb8ab1a60c13ca3213
+```
+
+<a href="./archive/00460_000.jpg" target="_blank">
+	<img src="./lowres/00460_000.jpg" alt="Fukkatsu Color Print Film 110 film box outside" loading="lazy" width="500" height="410">
 </a>
 
 #### [2018] Fujifilm Fujicolor Pro 400H (ref: 66e3)
@@ -9613,23 +9701,24 @@ Rank  Username                      Contributions
 17    lilyu.xyz                     9     
 18    @Hol.m35                      9     
 19    kaimon                        8     
-20    @toastergod101                7     
-21    @filmfotofella                7     
-22    lt_col_tall                   6     
-23    GreatGizmo74                  6     
-24    nick                          6     
-25    Kraksen                       5     
-26    Henry Gunn                    4     
-27    u/ReeeSchmidtyWerber          4     
-28    TheSelousScout                3     
-29    @sachynmital                  3     
-30    @seklerek                     2     
-31    @ftfilmphotos                 2     
-32    Yrikonchik                    1     
-33    @ad.astra.per.aspera.1894     1     
-34    Aoi Yuki                      1     
-35    lemoniter                     1     
-36    minidiscus                    1     
+20    waldoboro                     8     
+21    @toastergod101                7     
+22    @filmfotofella                7     
+23    lt_col_tall                   6     
+24    GreatGizmo74                  6     
+25    nick                          6     
+26    Kraksen                       5     
+27    Henry Gunn                    4     
+28    u/ReeeSchmidtyWerber          4     
+29    TheSelousScout                3     
+30    @sachynmital                  3     
+31    @seklerek                     2     
+32    @ftfilmphotos                 2     
+33    Yrikonchik                    1     
+34    @ad.astra.per.aspera.1894     1     
+35    Aoi Yuki                      1     
+36    lemoniter                     1     
+37    minidiscus                    1     
 ```
 
 ## Questions or Comments?

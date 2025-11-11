@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 27 2025
-Unique items: 455
-Total scans : 843
+Last Updated: Nov 11 2025
+Unique items: 459
+Total scans : 851
 ```
 
 -----
@@ -471,6 +471,10 @@ Total scans : 843
 - [[toader] Polaroid Color SX-70 Film (ref: dc7f)](#toader-polaroid-color-sx-70-film-ref-dc7f)
 - [[u/ReeeSchmidtyWerber] Kodak Panatomic-X (ref: 8d69)](#ureeeschmidtywerber-kodak-panatomic-x-ref-8d69)
 - [[u/ReeeSchmidtyWerber] Kodak Panatomic-X (ref: 35f6)](#ureeeschmidtywerber-kodak-panatomic-x-ref-35f6)
+- [[waldoboro] Fujifilm Fujicolor Natura 1600 (ref: 52aa)](#waldoboro-fujifilm-fujicolor-natura-1600-ref-52aa)
+- [[waldoboro] Fukkatsu Color Print Film (ref: 3213)](#waldoboro-fukkatsu-color-print-film-ref-3213)
+- [[waldoboro] Kodak Kodachrome (ref: 3d0a)](#waldoboro-kodak-kodachrome-ref-3d0a)
+- [[waldoboro] Seagull Seagull Color IR100 (ref: e7cc)](#waldoboro-seagull-seagull-color-ir100-ref-e7cc)
 - [[yc128] Harman Phoenix (ref: 8eb4)](#yc128-harman-phoenix-ref-8eb4)
 - [[yc128] Harman Phoenix II (ref: f686)](#yc128-harman-phoenix-ii-ref-f686)
 - [[yc128] Harman Phoenix II (ref: 40df)](#yc128-harman-phoenix-ii-ref-40df)
@@ -9466,6 +9470,90 @@ UUID  : 475b6bf4c66141b48fc73ace756435f6
 	<img src="./lowres/00192_002.jpg" alt="Kodak Panatomic-X 35mm film box leaflet" loading="lazy" width="174" height="500">
 </a>
 
+#### [waldoboro] Fujifilm Fujicolor Natura 1600 (ref: 52aa)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 1600         |  Expiry  : 2016-04 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : waldoboro
+UUID  : a4f7e58b2cdf448d8a2e7781c26252aa
+```
+
+<a href="./archive/00461_000.jpg" target="_blank">
+	<img src="./lowres/00461_000.jpg" alt="Fujifilm Fujicolor Natura 1600 35mm film box outside" loading="lazy" width="500" height="460">
+</a>
+
+#### [waldoboro] Fukkatsu Color Print Film (ref: 3213)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2018-08 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-11-11   |  Author  : waldoboro
+UUID  : e5ed9275c4a34dbb8ab1a60c13ca3213
+```
+
+<a href="./archive/00460_000.jpg" target="_blank">
+	<img src="./lowres/00460_000.jpg" alt="Fukkatsu Color Print Film 110 film box outside" loading="lazy" width="500" height="410">
+</a>
+
+#### [waldoboro] Kodak Kodachrome (ref: 3d0a)
+
+```
+Format: 35mm         |  Process : K-14    
+ISO   : 10           |  Expiry  : 1962-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : waldoboro
+UUID  : 21c4ce1f9fb54086bb13435778243d0a
+```
+
+<a href="./archive/00462_000.jpg" target="_blank">
+	<img src="./lowres/00462_000.jpg" alt="Kodak Kodachrome 35mm film box outside" loading="lazy" width="416" height="499">
+</a>
+
+
+`UUID: eb2f8ddacbcf4b3087e1fea3117fb683`↓
+
+<a href="./archive/00462_001.jpg" target="_blank">
+	<img src="./lowres/00462_001.jpg" alt="Kodak Kodachrome 35mm film box leaflet" loading="lazy" width="269" height="500">
+</a>
+
+
+`UUID: e61ab90af79a4d558efcaed30d78978a`↓
+
+<a href="./archive/00462_002.jpg" target="_blank">
+	<img src="./lowres/00462_002.jpg" alt="Kodak Kodachrome 35mm film box leaflet" loading="lazy" width="261" height="500">
+</a>
+
+#### [waldoboro] Seagull Seagull Color IR100 (ref: e7cc)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1990-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : waldoboro
+UUID  : 4696688cabf54eeb83cf66b2fb00e7cc
+```
+
+<a href="./archive/00463_000.jpg" target="_blank">
+	<img src="./lowres/00463_000.jpg" alt="Seagull Seagull Color IR100 35mm film box outside" loading="lazy" width="483" height="500">
+</a>
+
+
+`UUID: 0f46125636f9490a92937c07595df7cb`↓
+
+<a href="./archive/00463_001.jpg" target="_blank">
+	<img src="./lowres/00463_001.jpg" alt="Seagull Seagull Color IR100 35mm film box leaflet" loading="lazy" width="172" height="500">
+</a>
+
+
+`UUID: 782baa96b77d424eb0dabc5f6d3b8c88`↓
+
+<a href="./archive/00463_002.jpg" target="_blank">
+	<img src="./lowres/00463_002.jpg" alt="Seagull Seagull Color IR100 35mm film box leaflet" loading="lazy" width="176" height="500">
+</a>
+
 #### [yc128] Harman Phoenix (ref: 8eb4)
 
 ```
@@ -9613,23 +9701,24 @@ Rank  Username                      Contributions
 17    lilyu.xyz                     9     
 18    @Hol.m35                      9     
 19    kaimon                        8     
-20    @toastergod101                7     
-21    @filmfotofella                7     
-22    lt_col_tall                   6     
-23    GreatGizmo74                  6     
-24    nick                          6     
-25    Kraksen                       5     
-26    Henry Gunn                    4     
-27    u/ReeeSchmidtyWerber          4     
-28    TheSelousScout                3     
-29    @sachynmital                  3     
-30    @seklerek                     2     
-31    @ftfilmphotos                 2     
-32    Yrikonchik                    1     
-33    @ad.astra.per.aspera.1894     1     
-34    Aoi Yuki                      1     
-35    lemoniter                     1     
-36    minidiscus                    1     
+20    waldoboro                     8     
+21    @toastergod101                7     
+22    @filmfotofella                7     
+23    lt_col_tall                   6     
+24    GreatGizmo74                  6     
+25    nick                          6     
+26    Kraksen                       5     
+27    Henry Gunn                    4     
+28    u/ReeeSchmidtyWerber          4     
+29    TheSelousScout                3     
+30    @sachynmital                  3     
+31    @seklerek                     2     
+32    @ftfilmphotos                 2     
+33    Yrikonchik                    1     
+34    @ad.astra.per.aspera.1894     1     
+35    Aoi Yuki                      1     
+36    lemoniter                     1     
+37    minidiscus                    1     
 ```
 
 ## Questions or Comments?

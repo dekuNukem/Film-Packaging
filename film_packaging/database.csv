@@ -842,3 +842,11 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 458,2,film_box_outside,Kodak,Super-XX,12x16.5cm,80,BW,Unknown,1761571182,af9f7b90826132b9b71936892dd174bf,bd0852f5b5964fda80affbb0d7b002fc,00458_002.jpg,@ellafridalindblom,,Single Pack,24 Sheets
 459,0,film_box_outside,Kodak,Super-sensitive Panchromatic Films,12x16.5cm,Unknown,BW,Unknown,1761598366,17b02b833eddb7a905d4503036508663,56136448523d428b88330cf0427221a0,00459_000.jpg,@ellafridalindblom,Nitrate base,Single Pack,12 Sheets
 459,1,film_box_outside,Kodak,Super-sensitive Panchromatic Films,12x16.5cm,Unknown,BW,Unknown,1761598368,3a79e92f09d3610b4ae1a0a530db38fa,c685c5c86b864b4aa64cfa127b67b049,00459_001.jpg,@ellafridalindblom,Nitrate base,Single Pack,12 Sheets
+460,0,film_box_outside,Fukkatsu,Color Print Film,110,400,C-41,201808,1762852583,a686ec9d5120881480cd8b6b37b176aa,e5ed9275c4a34dbb8ab1a60c13ca3213,00460_000.jpg,waldoboro,,Single Pack,24exp
+461,0,film_box_outside,Fujifilm,Fujicolor Natura 1600,35mm,1600,C-41,201604,1762852636,7ffb41bd8b4858c10f157e4c63f512d5,a4f7e58b2cdf448d8a2e7781c26252aa,00461_000.jpg,waldoboro,,Multi-Pack-3,36exp
+462,0,film_box_outside,Kodak,Kodachrome,35mm,10,K-14,196209,1762852878,22d19c235e366b04a2df9229514811a6,21c4ce1f9fb54086bb13435778243d0a,00462_000.jpg,waldoboro,,Single Pack,36exp
+462,1,film_box_leaflet,Kodak,Kodachrome,35mm,10,K-14,196209,1762852879,00cb210568b6a9b6997639e4c5e7b6e8,eb2f8ddacbcf4b3087e1fea3117fb683,00462_001.jpg,waldoboro,,Single Pack,36exp
+462,2,film_box_leaflet,Kodak,Kodachrome,35mm,10,K-14,196209,1762852882,31b41cfdc03cecda6428677dc117acdb,e61ab90af79a4d558efcaed30d78978a,00462_002.jpg,waldoboro,,Single Pack,36exp
+463,0,film_box_outside,Seagull,Seagull Color IR100,35mm,100,C-41,199001,1762853030,71856aa3722e6c348fd44c14752b3e2a,4696688cabf54eeb83cf66b2fb00e7cc,00463_000.jpg,waldoboro,,Single Pack,36exp
+463,1,film_box_leaflet,Seagull,Seagull Color IR100,35mm,100,C-41,199001,1762853057,7c99bf39fba6b89bccc29199c2cc70f3,0f46125636f9490a92937c07595df7cb,00463_001.jpg,waldoboro,,Single Pack,36exp
+463,2,film_box_leaflet,Seagull,Seagull Color IR100,35mm,100,C-41,199001,1762853061,246937a4040e8779031a3f80f2db0891,782baa96b77d424eb0dabc5f6d3b8c88,00463_002.jpg,waldoboro,,Single Pack,36exp

@@ -15,15 +15,16 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 27 2025
-Unique items: 455
-Total scans : 843
+Last Updated: Nov 11 2025
+Unique items: 459
+Total scans : 851
 ```
 
 -----
 
 - [[110] Agfa AgfaColor HDC Plus (ref: d22b)](#110-agfa-agfacolor-hdc-plus-ref-d22b)
 - [[110] Agfa AgfaColor Vista (ref: 2f14)](#110-agfa-agfacolor-vista-ref-2f14)
+- [[110] Fukkatsu Color Print Film (ref: 3213)](#110-fukkatsu-color-print-film-ref-3213)
 - [[110] Klick XD200 (ref: 44d7)](#110-klick-xd200-ref-44d7)
 - [[110] Kodak 110 Film (ref: 8cca)](#110-kodak-110-film-ref-8cca)
 - [[110] Kodak Ektachrome 64 (ref: 07c0)](#110-kodak-ektachrome-64-ref-07c0)
@@ -242,6 +243,7 @@ Total scans : 843
 - [[35mm] Fujifilm Fujicolor HR 1600 (ref: 1d39)](#35mm-fujifilm-fujicolor-hr-1600-ref-1d39)
 - [[35mm] Fujifilm Fujicolor NPS 160 (ref: 5e85)](#35mm-fujifilm-fujicolor-nps-160-ref-5e85)
 - [[35mm] Fujifilm Fujicolor Natura 1600 (ref: 2e06)](#35mm-fujifilm-fujicolor-natura-1600-ref-2e06)
+- [[35mm] Fujifilm Fujicolor Natura 1600 (ref: 52aa)](#35mm-fujifilm-fujicolor-natura-1600-ref-52aa)
 - [[35mm] Fujifilm Fujicolor Pro 400H (ref: dc37)](#35mm-fujifilm-fujicolor-pro-400h-ref-dc37)
 - [[35mm] Fujifilm Fujicolor Pro 400H (ref: ff20)](#35mm-fujifilm-fujicolor-pro-400h-ref-ff20)
 - [[35mm] Fujifilm Fujicolor Professional (ref: 28da)](#35mm-fujifilm-fujicolor-professional-ref-28da)
@@ -332,6 +334,7 @@ Total scans : 843
 - [[35mm] Kodak High Speed Infrared (ref: 4294)](#35mm-kodak-high-speed-infrared-ref-4294)
 - [[35mm] Kodak High Speed Infrared (ref: 883e)](#35mm-kodak-high-speed-infrared-ref-883e)
 - [[35mm] Kodak High Speed Infrared Film 2481 (ref: aa7a)](#35mm-kodak-high-speed-infrared-film-2481-ref-aa7a)
+- [[35mm] Kodak Kodachrome (ref: 3d0a)](#35mm-kodak-kodachrome-ref-3d0a)
 - [[35mm] Kodak Kodachrome 25 (ref: 6477)](#35mm-kodak-kodachrome-25-ref-6477)
 - [[35mm] Kodak Kodachrome 25 (ref: 8833)](#35mm-kodak-kodachrome-25-ref-8833)
 - [[35mm] Kodak Kodachrome 64 (ref: 3206)](#35mm-kodak-kodachrome-64-ref-3206)
@@ -416,6 +419,7 @@ Total scans : 843
 - [[35mm] Sakura Sakuracolor II (ref: 4f7d)](#35mm-sakura-sakuracolor-ii-ref-4f7d)
 - [[35mm] SantaColor SantaColor (ref: cb58)](#35mm-santacolor-santacolor-ref-cb58)
 - [[35mm] SantaColor SantaColor (ref: f3a7)](#35mm-santacolor-santacolor-ref-f3a7)
+- [[35mm] Seagull Seagull Color IR100 (ref: e7cc)](#35mm-seagull-seagull-color-ir100-ref-e7cc)
 - [[35mm] Space Cat Film Mars 250D (ref: 5027)](#35mm-space-cat-film-mars-250d-ref-5027)
 - [[35mm] Svema Foto 200 (ref: 6991)](#35mm-svema-foto-200-ref-6991)
 - [[35mm] Svema Foto 32 (ref: d1fd)](#35mm-svema-foto-32-ref-d1fd)
@@ -507,6 +511,20 @@ UUID  : 81e8726a7d3b45beb1f1bd6c1cbc2f14
 
 <a href="./archive/00329_000.jpg" target="_blank">
 	<img src="./lowres/00329_000.jpg" alt="Agfa AgfaColor Vista 110 film box outside" loading="lazy" width="500" height="336">
+</a>
+
+#### [110] Fukkatsu Color Print Film (ref: 3213)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2018-08 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-11-11   |  Author  : waldoboro
+UUID  : e5ed9275c4a34dbb8ab1a60c13ca3213
+```
+
+<a href="./archive/00460_000.jpg" target="_blank">
+	<img src="./lowres/00460_000.jpg" alt="Fukkatsu Color Print Film 110 film box outside" loading="lazy" width="500" height="410">
 </a>
 
 #### [110] Klick XD200 (ref: 44d7)
@@ -5003,6 +5021,20 @@ UUID  : 8abda51b18d84ec4939df489457d2e06
 	<img src="./lowres/00177_002.jpg" alt="Fujifilm Fujicolor Natura 1600 35mm film box outside" loading="lazy" width="500" height="258">
 </a>
 
+#### [35mm] Fujifilm Fujicolor Natura 1600 (ref: 52aa)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 1600         |  Expiry  : 2016-04 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : waldoboro
+UUID  : a4f7e58b2cdf448d8a2e7781c26252aa
+```
+
+<a href="./archive/00461_000.jpg" target="_blank">
+	<img src="./lowres/00461_000.jpg" alt="Fujifilm Fujicolor Natura 1600 35mm film box outside" loading="lazy" width="500" height="460">
+</a>
+
 #### [35mm] Fujifilm Fujicolor Pro 400H (ref: dc37)
 
 ```
@@ -6699,6 +6731,34 @@ UUID  : 6670d5214ea545e99bfb7aadb6d4aa7a
 	<img src="./lowres/00353_000.jpg" alt="Kodak High Speed Infrared Film 2481 35mm film box outside" loading="lazy" width="500" height="489">
 </a>
 
+#### [35mm] Kodak Kodachrome (ref: 3d0a)
+
+```
+Format: 35mm         |  Process : K-14    
+ISO   : 10           |  Expiry  : 1962-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : waldoboro
+UUID  : 21c4ce1f9fb54086bb13435778243d0a
+```
+
+<a href="./archive/00462_000.jpg" target="_blank">
+	<img src="./lowres/00462_000.jpg" alt="Kodak Kodachrome 35mm film box outside" loading="lazy" width="416" height="499">
+</a>
+
+
+`UUID: eb2f8ddacbcf4b3087e1fea3117fb683`↓
+
+<a href="./archive/00462_001.jpg" target="_blank">
+	<img src="./lowres/00462_001.jpg" alt="Kodak Kodachrome 35mm film box leaflet" loading="lazy" width="269" height="500">
+</a>
+
+
+`UUID: e61ab90af79a4d558efcaed30d78978a`↓
+
+<a href="./archive/00462_002.jpg" target="_blank">
+	<img src="./lowres/00462_002.jpg" alt="Kodak Kodachrome 35mm film box leaflet" loading="lazy" width="261" height="500">
+</a>
+
 #### [35mm] Kodak Kodachrome 25 (ref: 6477)
 
 ```
@@ -8302,6 +8362,34 @@ UUID  : 0a141b49a84a4b06a18355308940f3a7
 	<img src="./lowres/00128_000.jpg" alt="SantaColor SantaColor 35mm film box outside" loading="lazy" width="500" height="210">
 </a>
 
+#### [35mm] Seagull Seagull Color IR100 (ref: e7cc)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1990-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : waldoboro
+UUID  : 4696688cabf54eeb83cf66b2fb00e7cc
+```
+
+<a href="./archive/00463_000.jpg" target="_blank">
+	<img src="./lowres/00463_000.jpg" alt="Seagull Seagull Color IR100 35mm film box outside" loading="lazy" width="483" height="500">
+</a>
+
+
+`UUID: 0f46125636f9490a92937c07595df7cb`↓
+
+<a href="./archive/00463_001.jpg" target="_blank">
+	<img src="./lowres/00463_001.jpg" alt="Seagull Seagull Color IR100 35mm film box leaflet" loading="lazy" width="172" height="500">
+</a>
+
+
+`UUID: 782baa96b77d424eb0dabc5f6d3b8c88`↓
+
+<a href="./archive/00463_002.jpg" target="_blank">
+	<img src="./lowres/00463_002.jpg" alt="Seagull Seagull Color IR100 35mm film box leaflet" loading="lazy" width="176" height="500">
+</a>
+
 #### [35mm] Space Cat Film Mars 250D (ref: 5027)
 
 ```
@@ -9613,23 +9701,24 @@ Rank  Username                      Contributions
 17    lilyu.xyz                     9     
 18    @Hol.m35                      9     
 19    kaimon                        8     
-20    @toastergod101                7     
-21    @filmfotofella                7     
-22    lt_col_tall                   6     
-23    GreatGizmo74                  6     
-24    nick                          6     
-25    Kraksen                       5     
-26    Henry Gunn                    4     
-27    u/ReeeSchmidtyWerber          4     
-28    TheSelousScout                3     
-29    @sachynmital                  3     
-30    @seklerek                     2     
-31    @ftfilmphotos                 2     
-32    Yrikonchik                    1     
-33    @ad.astra.per.aspera.1894     1     
-34    Aoi Yuki                      1     
-35    lemoniter                     1     
-36    minidiscus                    1     
+20    waldoboro                     8     
+21    @toastergod101                7     
+22    @filmfotofella                7     
+23    lt_col_tall                   6     
+24    GreatGizmo74                  6     
+25    nick                          6     
+26    Kraksen                       5     
+27    Henry Gunn                    4     
+28    u/ReeeSchmidtyWerber          4     
+29    TheSelousScout                3     
+30    @sachynmital                  3     
+31    @seklerek                     2     
+32    @ftfilmphotos                 2     
+33    Yrikonchik                    1     
+34    @ad.astra.per.aspera.1894     1     
+35    Aoi Yuki                      1     
+36    lemoniter                     1     
+37    minidiscus                    1     
 ```
 
 ## Questions or Comments?
