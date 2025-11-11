@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Nov 11 2025
-Unique items: 468
-Total scans : 865
+Unique items: 471
+Total scans : 871
 ```
 
 -----
@@ -28,6 +28,9 @@ Total scans : 865
 - [[@Hol.m35] Fujifilm Superia Premium 400 (ref: ef1f)](#holm35-fujifilm-superia-premium-400-ref-ef1f)
 - [[@Hol.m35] Hope Film Bubble (ref: 41f4)](#holm35-hope-film-bubble-ref-41f4)
 - [[@Hol.m35] JCH Streetpan (ref: 5c70)](#holm35-jch-streetpan-ref-5c70)
+- [[@Hol.m35] Lomography Postdam (ref: d0c6)](#holm35-lomography-postdam-ref-d0c6)
+- [[@Hol.m35] Lucky C200 (ref: e6f8)](#holm35-lucky-c200-ref-e6f8)
+- [[@Hol.m35] Lucky SHD400 (ref: 15b5)](#holm35-lucky-shd400-ref-15b5)
 - [[@Hol.m35] Optik Oldschool OptiColour 200 (ref: 80d7)](#holm35-optik-oldschool-opticolour-200-ref-80d7)
 - [[@SirBrentsworth] CineStill 800T (ref: b3ff)](#sirbrentsworth-cinestill-800t-ref-b3ff)
 - [[@SirBrentsworth] Ilford HP5 Plus (ref: df49)](#sirbrentsworth-ilford-hp5-plus-ref-df49)
@@ -590,6 +593,70 @@ UUID  : f32d9e32d43441b79220744cdb4e5c70
 
 <a href="./archive/00355_001.jpg" target="_blank">
 	<img src="./lowres/00355_001.jpg" alt="JCH Streetpan 120 film box inside" loading="lazy" width="500" height="463">
+</a>
+
+#### [@Hol.m35] Lomography Postdam (ref: d0c6)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2028-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : @Hol.m35
+UUID  : 89df57ba76fb4cc6ad09a663c463d0c6
+Notes : Black & White POSTDAM 35mm Kino Film
+```
+
+<a href="./archive/00475_000.jpg" target="_blank">
+	<img src="./lowres/00475_000.jpg" alt="Lomography Postdam 35mm film box outside" loading="lazy" width="500" height="401">
+</a>
+
+
+`UUID: 9e139b4e9ab140c096622312e9da5e1d`↓
+
+<a href="./archive/00475_001.jpg" target="_blank">
+	<img src="./lowres/00475_001.jpg" alt="Lomography Postdam 35mm film box inside" loading="lazy" width="500" height="371">
+</a>
+
+#### [@Hol.m35] Lucky C200 (ref: e6f8)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2027-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-11-11   |  Author  : @Hol.m35
+UUID  : c6cdb442b65a4e83ac71331c8fffe6f8
+```
+
+<a href="./archive/00473_000.jpg" target="_blank">
+	<img src="./lowres/00473_000.jpg" alt="Lucky C200 120 film box outside" loading="lazy" width="472" height="500">
+</a>
+
+
+`UUID: 4c246c1e545c4160b2d63db6025accfb`↓
+
+<a href="./archive/00473_001.jpg" target="_blank">
+	<img src="./lowres/00473_001.jpg" alt="Lucky C200 120 film box inside" loading="lazy" width="481" height="500">
+</a>
+
+#### [@Hol.m35] Lucky SHD400 (ref: 15b5)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2026-12 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-11-11   |  Author  : @Hol.m35
+UUID  : 0fbc7c70fa9c46f3bf4365afed4015b5
+```
+
+<a href="./archive/00474_000.jpg" target="_blank">
+	<img src="./lowres/00474_000.jpg" alt="Lucky SHD400 120 film box outside" loading="lazy" width="500" height="493">
+</a>
+
+
+`UUID: 82ddbef0b77b47f5b30509a7af1e1808`↓
+
+<a href="./archive/00474_001.jpg" target="_blank">
+	<img src="./lowres/00474_001.jpg" alt="Lucky SHD400 120 film box inside" loading="lazy" width="456" height="500">
 </a>
 
 #### [@Hol.m35] Optik Oldschool OptiColour 200 (ref: 80d7)
@@ -9862,15 +9929,15 @@ Rank  Username                      Contributions
 8     Camera.Riley                  19    
 9     Nano_Burger                   18    
 10    @ob.skura                     16    
-11    b0baspace                     14    
-12    @SirBrentsworth               13    
-13    toader                        13    
-14    yc128                         11    
-15    @zruk_ts                      10    
-16    minidiscus                    10    
-17    benikum                       9     
-18    lilyu.xyz                     9     
-19    @Hol.m35                      9     
+11    @Hol.m35                      15    
+12    b0baspace                     14    
+13    @SirBrentsworth               13    
+14    toader                        13    
+15    yc128                         11    
+16    @zruk_ts                      10    
+17    minidiscus                    10    
+18    benikum                       9     
+19    lilyu.xyz                     9     
 20    kaimon                        8     
 21    waldoboro                     8     
 22    @toastergod101                7     

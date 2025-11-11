@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Nov 11 2025
-Unique items: 468
-Total scans : 865
+Unique items: 471
+Total scans : 871
 ```
 
 -----
@@ -401,6 +401,7 @@ Total scans : 865
 - [[2026] CatLABS X Film 320 Pro (ref: 1c69)](#2026-catlabs-x-film-320-pro-ref-1c69)
 - [[2026] Hope Film Bubble (ref: 41f4)](#2026-hope-film-bubble-ref-41f4)
 - [[2026] Ilford Delta 400 Professional (ref: f3da)](#2026-ilford-delta-400-professional-ref-f3da)
+- [[2026] Lucky SHD400 (ref: 15b5)](#2026-lucky-shd400-ref-15b5)
 - [[2026] Marix Professional Negative Movie Color Film (ref: c457)](#2026-marix-professional-negative-movie-color-film-ref-c457)
 - [[2026] Reflx Lab 400D (ref: 5801)](#2026-reflx-lab-400d-ref-5801)
 - [[2026] Reflx Lab 800T (ref: 6b6b)](#2026-reflx-lab-800t-ref-6b6b)
@@ -434,12 +435,14 @@ Total scans : 865
 - [[2027] Ilford XP2 Super (ref: 622a)](#2027-ilford-xp2-super-ref-622a)
 - [[2027] Kodak Kodacolor 100 (ref: 73e0)](#2027-kodak-kodacolor-100-ref-73e0)
 - [[2027] Lomography Color Negative Film (ref: 1529)](#2027-lomography-color-negative-film-ref-1529)
+- [[2027] Lucky C200 (ref: e6f8)](#2027-lucky-c200-ref-e6f8)
 - [[2027] ADOX CMS 20 II Pro (ref: 0bea)](#2027-adox-cms-20-ii-pro-ref-0bea)
 - [[2027] Reflx Lab 250D (ref: 1a3e)](#2027-reflx-lab-250d-ref-1a3e)
 - [[2027] Reflx Lab Pro 100 (ref: 1311)](#2027-reflx-lab-pro-100-ref-1311)
 - [[2027] Wolfen NP100 (ref: 71a6)](#2027-wolfen-np100-ref-71a6)
 - [[2028] Foma Fomapan Creative 200 (ref: 84a5)](#2028-foma-fomapan-creative-200-ref-84a5)
 - [[2028] Rollei SUPERPAN 200 (ref: ee8f)](#2028-rollei-superpan-200-ref-ee8f)
+- [[2028] Lomography Postdam (ref: d0c6)](#2028-lomography-postdam-ref-d0c6)
 - [[2028] Agfa APX (ref: 5276)](#2028-agfa-apx-ref-5276)
 - [[2028] Foma Fomapan 200 (ref: 60ee)](#2028-foma-fomapan-200-ref-60ee)
 - [[2028] Arista.EDU Ultra (ref: d319)](#2028-aristaedu-ultra-ref-d319)
@@ -8162,6 +8165,27 @@ UUID  : 3b21d893a52242f886e7057855d7f3da
 	<img src="./lowres/00305_001.jpg" alt="Ilford Delta 400 Professional 35mm film box inside" loading="lazy" width="402" height="500">
 </a>
 
+#### [2026] Lucky SHD400 (ref: 15b5)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2026-12 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-11-11   |  Author  : @Hol.m35
+UUID  : 0fbc7c70fa9c46f3bf4365afed4015b5
+```
+
+<a href="./archive/00474_000.jpg" target="_blank">
+	<img src="./lowres/00474_000.jpg" alt="Lucky SHD400 120 film box outside" loading="lazy" width="500" height="493">
+</a>
+
+
+`UUID: 82ddbef0b77b47f5b30509a7af1e1808`↓
+
+<a href="./archive/00474_001.jpg" target="_blank">
+	<img src="./lowres/00474_001.jpg" alt="Lucky SHD400 120 film box inside" loading="lazy" width="456" height="500">
+</a>
+
 #### [2026] Marix Professional Negative Movie Color Film (ref: c457)
 
 ```
@@ -8764,6 +8788,27 @@ UUID  : e200ab98ca5746cbb6f3af1afb481529
 	<img src="./lowres/00313_001.jpg" alt="Lomography Color Negative Film 120 film box inside" loading="lazy" width="500" height="256">
 </a>
 
+#### [2027] Lucky C200 (ref: e6f8)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2027-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-11-11   |  Author  : @Hol.m35
+UUID  : c6cdb442b65a4e83ac71331c8fffe6f8
+```
+
+<a href="./archive/00473_000.jpg" target="_blank">
+	<img src="./lowres/00473_000.jpg" alt="Lucky C200 120 film box outside" loading="lazy" width="472" height="500">
+</a>
+
+
+`UUID: 4c246c1e545c4160b2d63db6025accfb`↓
+
+<a href="./archive/00473_001.jpg" target="_blank">
+	<img src="./lowres/00473_001.jpg" alt="Lucky C200 120 film box inside" loading="lazy" width="481" height="500">
+</a>
+
 #### [2027] ADOX CMS 20 II Pro (ref: 0bea)
 
 ```
@@ -8867,6 +8912,28 @@ UUID  : f22d3e1e2f70453f87aea4b67db3ee8f
 
 <a href="./archive/00071_001.jpg" target="_blank">
 	<img src="./lowres/00071_001.jpg" alt="Rollei SUPERPAN 200 35mm film box inside" loading="lazy" width="434" height="500">
+</a>
+
+#### [2028] Lomography Postdam (ref: d0c6)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2028-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-11   |  Author  : @Hol.m35
+UUID  : 89df57ba76fb4cc6ad09a663c463d0c6
+Notes : Black & White POSTDAM 35mm Kino Film
+```
+
+<a href="./archive/00475_000.jpg" target="_blank">
+	<img src="./lowres/00475_000.jpg" alt="Lomography Postdam 35mm film box outside" loading="lazy" width="500" height="401">
+</a>
+
+
+`UUID: 9e139b4e9ab140c096622312e9da5e1d`↓
+
+<a href="./archive/00475_001.jpg" target="_blank">
+	<img src="./lowres/00475_001.jpg" alt="Lomography Postdam 35mm film box inside" loading="lazy" width="500" height="371">
 </a>
 
 #### [2028] Agfa APX (ref: 5276)
@@ -9862,15 +9929,15 @@ Rank  Username                      Contributions
 8     Camera.Riley                  19    
 9     Nano_Burger                   18    
 10    @ob.skura                     16    
-11    b0baspace                     14    
-12    @SirBrentsworth               13    
-13    toader                        13    
-14    yc128                         11    
-15    @zruk_ts                      10    
-16    minidiscus                    10    
-17    benikum                       9     
-18    lilyu.xyz                     9     
-19    @Hol.m35                      9     
+11    @Hol.m35                      15    
+12    b0baspace                     14    
+13    @SirBrentsworth               13    
+14    toader                        13    
+15    yc128                         11    
+16    @zruk_ts                      10    
+17    minidiscus                    10    
+18    benikum                       9     
+19    lilyu.xyz                     9     
 20    kaimon                        8     
 21    waldoboro                     8     
 22    @toastergod101                7     

@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Nov 11 2025
-Unique items: 468
-Total scans : 865
+Unique items: 471
+Total scans : 871
 ```
 
 Or Sort by...
@@ -63,15 +63,15 @@ Rank  Username                      Contributions
 8     Camera.Riley                  19    
 9     Nano_Burger                   18    
 10    @ob.skura                     16    
-11    b0baspace                     14    
-12    @SirBrentsworth               13    
-13    toader                        13    
-14    yc128                         11    
-15    @zruk_ts                      10    
-16    minidiscus                    10    
-17    benikum                       9     
-18    lilyu.xyz                     9     
-19    @Hol.m35                      9     
+11    @Hol.m35                      15    
+12    b0baspace                     14    
+13    @SirBrentsworth               13    
+14    toader                        13    
+15    yc128                         11    
+16    @zruk_ts                      10    
+17    minidiscus                    10    
+18    benikum                       9     
+19    lilyu.xyz                     9     
 20    kaimon                        8     
 21    waldoboro                     8     
 22    @toastergod101                7     
@@ -97,6 +97,9 @@ Rank  Username                      Contributions
 
 ```
 2025-11-11
+  - @Hol.m35: Lomography Postdam
+  - @Hol.m35: Lucky C200
+  - @Hol.m35: Lucky SHD400
   - Chrisbes: Agfa AgfaColor HDC Plus
   - Chrisbes: Fujifilm Fujicolor HR100
   - Chrisbes: Fujifilm Fujicolor Super HR
