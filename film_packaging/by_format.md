@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Nov 11 2025
-Unique items: 471
-Total scans : 871
+Unique items: 474
+Total scans : 876
 ```
 
 -----
@@ -53,6 +53,7 @@ Total scans : 871
 - [[120] CatLABS X Film 80 MKII (ref: bcd1)](#120-catlabs-x-film-80-mkii-ref-bcd1)
 - [[120] CineStill 400Dynamic (ref: 88dc)](#120-cinestill-400dynamic-ref-88dc)
 - [[120] CineStill 800T (ref: c86a)](#120-cinestill-800t-ref-c86a)
+- [[120] CineStill 800T (ref: 44c4)](#120-cinestill-800t-ref-44c4)
 - [[120] CineStill BWXX (ref: 66eb)](#120-cinestill-bwxx-ref-66eb)
 - [[120] Efke IR 820 Aura (ref: 43c9)](#120-efke-ir-820-aura-ref-43c9)
 - [[120] Film Corporation of America TriFCA 120 (ref: d024)](#120-film-corporation-of-america-trifca-120-ref-d024)
@@ -273,6 +274,7 @@ Total scans : 871
 - [[35mm] Fujifilm Neopan SS Rapid (ref: 9db3)](#35mm-fujifilm-neopan-ss-rapid-ref-9db3)
 - [[35mm] Fujifilm Superia Premium 400 (ref: ef1f)](#35mm-fujifilm-superia-premium-400-ref-ef1f)
 - [[35mm] GAF Color Slide Film (ref: 6815)](#35mm-gaf-color-slide-film-ref-6815)
+- [[35mm] GT Photo GT24 (ref: 92c2)](#35mm-gt-photo-gt24-ref-92c2)
 - [[35mm] Great Films Processing Kodachrome (ref: c012)](#35mm-great-films-processing-kodachrome-ref-c012)
 - [[35mm] Hands On Film Midnight 1600 (ref: 4411)](#35mm-hands-on-film-midnight-1600-ref-4411)
 - [[35mm] Harman Phoenix (ref: 8eb4)](#35mm-harman-phoenix-ref-8eb4)
@@ -480,6 +482,7 @@ Total scans : 871
 - [[Integral Film] Polaroid 990 (ref: e3bc)](#integral-film-polaroid-990-ref-e3bc)
 - [[Integral Film] Polaroid Color 600 Film Round Frame (ref: d985)](#integral-film-polaroid-color-600-film-round-frame-ref-d985)
 - [[Integral Film] Polaroid Color SX-70 Film (ref: dc7f)](#integral-film-polaroid-color-sx-70-film-ref-dc7f)
+- [[Integral Film] Polaroid Green 600 Film Reclaimed Series (ref: 0180)](#integral-film-polaroid-green-600-film-reclaimed-series-ref-0180)
 - [[Integral Film] Polaroid GridFilm (ref: 8deb)](#integral-film-polaroid-gridfilm-ref-8deb)
 - [[Integral Film] Polaroid Image Instant Film (ref: ee6d)](#integral-film-polaroid-image-instant-film-ref-ee6d)
 - [[Integral Film] Polaroid Spectra Film (ref: 7a94)](#integral-film-polaroid-spectra-film-ref-7a94)
@@ -1062,6 +1065,27 @@ UUID  : 53253eca96d841f5b98bfb3590fec86a
 
 <a href="./archive/00006_001.jpg" target="_blank">
 	<img src="./lowres/00006_001.jpg" alt="CineStill 800T 120 film box inside" loading="lazy" width="500" height="335">
+</a>
+
+#### [120] CineStill 800T (ref: 44c4)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 800          |  Expiry  : 2027-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 5b72cfa7adb14d0f8aefaa083ee444c4
+```
+
+<a href="./archive/00478_000.jpg" target="_blank">
+	<img src="./lowres/00478_000.jpg" alt="CineStill 800T 120 film box outside" loading="lazy" width="500" height="448">
+</a>
+
+
+`UUID: 88c575769d28409a9796d3ecee41d014`↓
+
+<a href="./archive/00478_001.jpg" target="_blank">
+	<img src="./lowres/00478_001.jpg" alt="CineStill 800T 120 film box inside" loading="lazy" width="491" height="500">
 </a>
 
 #### [120] CineStill BWXX (ref: 66eb)
@@ -5558,6 +5582,20 @@ UUID  : b57e8c465ff94e02afa31d267b846815
 	<img src="./lowres/00407_000.jpg" alt="GAF Color Slide Film 35mm film cartridge" loading="lazy" width="386" height="500">
 </a>
 
+#### [35mm] GT Photo GT24 (ref: 92c2)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2025-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-11-11   |  Author  : dekuNukem
+UUID  : 86ec0b0ed4b94390a23d2cb27e1792c2
+```
+
+<a href="./archive/00476_000.jpg" target="_blank">
+	<img src="./lowres/00476_000.jpg" alt="GT Photo GT24 35mm film box outside" loading="lazy" width="439" height="500">
+</a>
+
 #### [35mm] Great Films Processing Kodachrome (ref: c012)
 
 ```
@@ -9587,6 +9625,27 @@ UUID  : b4af154cea6f40c0aa1d4154d0c2dc7f
 	<img src="./lowres/00156_003.jpg" alt="Polaroid Color SX-70 Film Integral Film film box inside" loading="lazy" width="425" height="499">
 </a>
 
+#### [Integral Film] Polaroid Green 600 Film Reclaimed Series (ref: 0180)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2025-07 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-11-11   |  Author  : @ellafridalindblom
+UUID  : 613f5e7014704b5bbe28565cfe290180
+```
+
+<a href="./archive/00477_000.jpg" target="_blank">
+	<img src="./lowres/00477_000.jpg" alt="Polaroid Green 600 Film Reclaimed Series Integral Film film box outside" loading="lazy" width="254" height="500">
+</a>
+
+
+`UUID: c92f5c416c764c83845e115db6e90106`↓
+
+<a href="./archive/00477_001.jpg" target="_blank">
+	<img src="./lowres/00477_001.jpg" alt="Polaroid Green 600 Film Reclaimed Series Integral Film film box inside" loading="lazy" width="255" height="500">
+</a>
+
 #### [Integral Film] Polaroid GridFilm (ref: 8deb)
 
 ```
@@ -9919,10 +9978,10 @@ Notes : There was a roll of 127 ekfe R100 inside, not sure if it's the original,
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     338   
+1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
-4     @ellafridalindblom            57    
+4     @ellafridalindblom            59    
 5     @recycling.film               56    
 6     The Compartmentalist          25    
 7     fine-seat                     19    
@@ -9942,11 +10001,11 @@ Rank  Username                      Contributions
 21    waldoboro                     8     
 22    @toastergod101                7     
 23    @filmfotofella                7     
-24    lt_col_tall                   6     
-25    GreatGizmo74                  6     
-26    nick                          6     
-27    Kraksen                       5     
-28    Chrisbes                      5     
+24    Chrisbes                      7     
+25    lt_col_tall                   6     
+26    GreatGizmo74                  6     
+27    nick                          6     
+28    Kraksen                       5     
 29    Henry Gunn                    4     
 30    u/ReeeSchmidtyWerber          4     
 31    TheSelousScout                3     

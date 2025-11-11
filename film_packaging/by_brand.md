@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Nov 11 2025
-Unique items: 471
-Total scans : 871
+Unique items: 474
+Total scans : 876
 ```
 
 -----
@@ -86,6 +86,7 @@ Total scans : 871
 - [CineStill 50D (ref: 3452)](#cinestill-50d-ref-3452)
 - [CineStill 800T (ref: c86a)](#cinestill-800t-ref-c86a)
 - [CineStill 800T (ref: b3ff)](#cinestill-800t-ref-b3ff)
+- [CineStill 800T (ref: 44c4)](#cinestill-800t-ref-44c4)
 - [CineStill BWXX (ref: 66eb)](#cinestill-bwxx-ref-66eb)
 - [Club Color Natural Color System (ref: 813a)](#club-color-natural-color-system-ref-813a)
 - [Defender Extra Fast Panchromatic (ref: 348b)](#defender-extra-fast-panchromatic-ref-348b)
@@ -176,6 +177,7 @@ Total scans : 871
 - [Fukkatsu Color Print Film (ref: 3213)](#fukkatsu-color-print-film-ref-3213)
 - [GAF Color Slide Film (ref: dea6)](#gaf-color-slide-film-ref-dea6)
 - [GAF Color Slide Film (ref: 6815)](#gaf-color-slide-film-ref-6815)
+- [GT Photo GT24 (ref: 92c2)](#gt-photo-gt24-ref-92c2)
 - [Gevaert Gevachrome 30 (ref: c0e3)](#gevaert-gevachrome-30-ref-c0e3)
 - [Gevaert Infra-R (ref: fc88)](#gevaert-infra-r-ref-fc88)
 - [Gevaert Studio Film (ref: 75f9)](#gevaert-studio-film-ref-75f9)
@@ -435,6 +437,7 @@ Total scans : 871
 - [Polaroid 990 (ref: e3bc)](#polaroid-990-ref-e3bc)
 - [Polaroid Color 600 Film Round Frame (ref: d985)](#polaroid-color-600-film-round-frame-ref-d985)
 - [Polaroid Color SX-70 Film (ref: dc7f)](#polaroid-color-sx-70-film-ref-dc7f)
+- [Polaroid Green 600 Film Reclaimed Series (ref: 0180)](#polaroid-green-600-film-reclaimed-series-ref-0180)
 - [Polaroid GridFilm (ref: 8deb)](#polaroid-gridfilm-ref-8deb)
 - [Polaroid High Definition (ref: deb6)](#polaroid-high-definition-ref-deb6)
 - [Polaroid Image Instant Film (ref: ee6d)](#polaroid-image-instant-film-ref-ee6d)
@@ -1748,6 +1751,27 @@ UUID  : 81978ca6f6d048b3a759dffdb80fb3ff
 
 <a href="./archive/00085_001.jpg" target="_blank">
 	<img src="./lowres/00085_001.jpg" alt="CineStill 800T 35mm film box inside" loading="lazy" width="435" height="500">
+</a>
+
+#### CineStill 800T (ref: 44c4)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 800          |  Expiry  : 2027-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 5b72cfa7adb14d0f8aefaa083ee444c4
+```
+
+<a href="./archive/00478_000.jpg" target="_blank">
+	<img src="./lowres/00478_000.jpg" alt="CineStill 800T 120 film box outside" loading="lazy" width="500" height="448">
+</a>
+
+
+`UUID: 88c575769d28409a9796d3ecee41d014`↓
+
+<a href="./archive/00478_001.jpg" target="_blank">
+	<img src="./lowres/00478_001.jpg" alt="CineStill 800T 120 film box inside" loading="lazy" width="491" height="500">
 </a>
 
 #### CineStill BWXX (ref: 66eb)
@@ -3517,6 +3541,20 @@ UUID  : b57e8c465ff94e02afa31d267b846815
 
 <a href="./archive/00407_000.jpg" target="_blank">
 	<img src="./lowres/00407_000.jpg" alt="GAF Color Slide Film 35mm film cartridge" loading="lazy" width="386" height="500">
+</a>
+
+#### GT Photo GT24 (ref: 92c2)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2025-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-11-11   |  Author  : dekuNukem
+UUID  : 86ec0b0ed4b94390a23d2cb27e1792c2
+```
+
+<a href="./archive/00476_000.jpg" target="_blank">
+	<img src="./lowres/00476_000.jpg" alt="GT Photo GT24 35mm film box outside" loading="lazy" width="439" height="500">
 </a>
 
 #### Gevaert Gevachrome 30 (ref: c0e3)
@@ -8683,6 +8721,27 @@ UUID  : b4af154cea6f40c0aa1d4154d0c2dc7f
 	<img src="./lowres/00156_003.jpg" alt="Polaroid Color SX-70 Film Integral Film film box inside" loading="lazy" width="425" height="499">
 </a>
 
+#### Polaroid Green 600 Film Reclaimed Series (ref: 0180)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2025-07 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-11-11   |  Author  : @ellafridalindblom
+UUID  : 613f5e7014704b5bbe28565cfe290180
+```
+
+<a href="./archive/00477_000.jpg" target="_blank">
+	<img src="./lowres/00477_000.jpg" alt="Polaroid Green 600 Film Reclaimed Series Integral Film film box outside" loading="lazy" width="254" height="500">
+</a>
+
+
+`UUID: c92f5c416c764c83845e115db6e90106`↓
+
+<a href="./archive/00477_001.jpg" target="_blank">
+	<img src="./lowres/00477_001.jpg" alt="Polaroid Green 600 Film Reclaimed Series Integral Film film box inside" loading="lazy" width="255" height="500">
+</a>
+
 #### Polaroid GridFilm (ref: 8deb)
 
 ```
@@ -9919,10 +9978,10 @@ UUID  : fc90db41b94d486491177a8407f1100d
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     338   
+1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
-4     @ellafridalindblom            57    
+4     @ellafridalindblom            59    
 5     @recycling.film               56    
 6     The Compartmentalist          25    
 7     fine-seat                     19    
@@ -9942,11 +10001,11 @@ Rank  Username                      Contributions
 21    waldoboro                     8     
 22    @toastergod101                7     
 23    @filmfotofella                7     
-24    lt_col_tall                   6     
-25    GreatGizmo74                  6     
-26    nick                          6     
-27    Kraksen                       5     
-28    Chrisbes                      5     
+24    Chrisbes                      7     
+25    lt_col_tall                   6     
+26    GreatGizmo74                  6     
+27    nick                          6     
+28    Kraksen                       5     
 29    Henry Gunn                    4     
 30    u/ReeeSchmidtyWerber          4     
 31    TheSelousScout                3     

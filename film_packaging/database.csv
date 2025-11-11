@@ -870,3 +870,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 474,1,film_box_inside,Lucky,SHD400,120,400,BW,202612,1762860906,01f53e9c45cfad53daf107bc73457c8d,82ddbef0b77b47f5b30509a7af1e1808,00474_001.jpg,@Hol.m35,,Single Pack,N/A
 475,0,film_box_outside,Lomography,Postdam,35mm,100,BW,202804,1762861040,7c129b37de67b6b7f10146dac537a816,89df57ba76fb4cc6ad09a663c463d0c6,00475_000.jpg,@Hol.m35,Black & White POSTDAM 35mm Kino Film,Single Pack,36exp
 475,1,film_box_inside,Lomography,Postdam,35mm,100,BW,202804,1762861041,5fa010d7505581f8a73caa472954d7bf,9e139b4e9ab140c096622312e9da5e1d,00475_001.jpg,@Hol.m35,Black & White POSTDAM 35mm Kino Film,Single Pack,36exp
+476,0,film_box_outside,GT Photo,GT24,35mm,400,C-41,202512,1762902305,f66420cc2a396eb921a8122b8f695f4f,86ec0b0ed4b94390a23d2cb27e1792c2,00476_000.jpg,dekuNukem,,Single Pack,24exp
+477,0,film_box_outside,Polaroid,Green 600 Film Reclaimed Series,Integral Film,640,Instant,202507,1762902641,2a9deb0f08a659d453a8443a3fb063b5,613f5e7014704b5bbe28565cfe290180,00477_000.jpg,@ellafridalindblom,,Single Pack,8exp
+477,1,film_box_inside,Polaroid,Green 600 Film Reclaimed Series,Integral Film,640,Instant,202507,1762902643,3b4c27910f43090a5de8ccf8489c6436,c92f5c416c764c83845e115db6e90106,00477_001.jpg,@ellafridalindblom,,Single Pack,8exp
+478,0,film_box_outside,CineStill,800T,120,800,C-41,202705,1762902844,3c1c23b8a51a4e22a8b63a58059447f8,5b72cfa7adb14d0f8aefaa083ee444c4,00478_000.jpg,Chrisbes,,Single Pack,N/A
+478,1,film_box_inside,CineStill,800T,120,800,C-41,202705,1762902845,6d32f7ce268de9e49fa53d781325c7f9,88c575769d28409a9796d3ecee41d014,00478_001.jpg,Chrisbes,,Single Pack,N/A

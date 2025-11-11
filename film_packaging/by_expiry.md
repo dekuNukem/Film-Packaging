@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Nov 11 2025
-Unique items: 471
-Total scans : 871
+Unique items: 474
+Total scans : 876
 ```
 
 -----
@@ -348,6 +348,7 @@ Total scans : 871
 - [[2025] Ilford Delta 3200 Professional (ref: 920f)](#2025-ilford-delta-3200-professional-ref-920f)
 - [[2025] Kodak Portra 800 (ref: 7d65)](#2025-kodak-portra-800-ref-7d65)
 - [[2025] Lomography Lomochrome Turquoise (ref: 0d90)](#2025-lomography-lomochrome-turquoise-ref-0d90)
+- [[2025] Polaroid Green 600 Film Reclaimed Series (ref: 0180)](#2025-polaroid-green-600-film-reclaimed-series-ref-0180)
 - [[2025] CineStill 400Dynamic (ref: fccd)](#2025-cinestill-400dynamic-ref-fccd)
 - [[2025] Fujifilm 400 (ref: 82be)](#2025-fujifilm-400-ref-82be)
 - [[2025] Kodak ColorPlus (ref: 79ca)](#2025-kodak-colorplus-ref-79ca)
@@ -357,6 +358,7 @@ Total scans : 871
 - [[2025] SantaColor SantaColor (ref: cb58)](#2025-santacolor-santacolor-ref-cb58)
 - [[2025] SantaColor SantaColor (ref: f3a7)](#2025-santacolor-santacolor-ref-f3a7)
 - [[2025] Ilford HP5 Plus (ref: efad)](#2025-ilford-hp5-plus-ref-efad)
+- [[2025] GT Photo GT24 (ref: 92c2)](#2025-gt-photo-gt24-ref-92c2)
 - [[2025] Harman Phoenix (ref: 8eb4)](#2025-harman-phoenix-ref-8eb4)
 - [[2025] Kodak Tri-X 400 (ref: 88c5)](#2025-kodak-tri-x-400-ref-88c5)
 - [[2025] Three Film Rolls 5207 (ref: 0292)](#2025-three-film-rolls-5207-ref-0292)
@@ -419,6 +421,7 @@ Total scans : 871
 - [[2027] Kosmo Foto Mono (ref: b74f)](#2027-kosmo-foto-mono-ref-b74f)
 - [[2027] Lomography Lomochrome Color'92 (ref: 9fdb)](#2027-lomography-lomochrome-color92-ref-9fdb)
 - [[2027] Rollei Infrared (ref: eae2)](#2027-rollei-infrared-ref-eae2)
+- [[2027] CineStill 800T (ref: 44c4)](#2027-cinestill-800t-ref-44c4)
 - [[2027] Foma Ortho 400 (ref: c559)](#2027-foma-ortho-400-ref-c559)
 - [[2027] Fujifilm Superia Premium 400 (ref: ef1f)](#2027-fujifilm-superia-premium-400-ref-ef1f)
 - [[2027] Lomography Lomochrome Purple (ref: 068f)](#2027-lomography-lomochrome-purple-ref-068f)
@@ -7283,6 +7286,27 @@ UUID  : 99643a4fc27b4ff298e834fc72970d90
 	<img src="./lowres/00008_001.jpg" alt="Lomography Lomochrome Turquoise 120 film box inside" loading="lazy" width="500" height="298">
 </a>
 
+#### [2025] Polaroid Green 600 Film Reclaimed Series (ref: 0180)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2025-07 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-11-11   |  Author  : @ellafridalindblom
+UUID  : 613f5e7014704b5bbe28565cfe290180
+```
+
+<a href="./archive/00477_000.jpg" target="_blank">
+	<img src="./lowres/00477_000.jpg" alt="Polaroid Green 600 Film Reclaimed Series Integral Film film box outside" loading="lazy" width="254" height="500">
+</a>
+
+
+`UUID: c92f5c416c764c83845e115db6e90106`↓
+
+<a href="./archive/00477_001.jpg" target="_blank">
+	<img src="./lowres/00477_001.jpg" alt="Polaroid Green 600 Film Reclaimed Series Integral Film film box inside" loading="lazy" width="255" height="500">
+</a>
+
 #### [2025] CineStill 400Dynamic (ref: fccd)
 
 ```
@@ -7428,6 +7452,20 @@ UUID  : ddf9b76e633f43718144af7dcb89efad
 
 <a href="./archive/00016_001.jpg" target="_blank">
 	<img src="./lowres/00016_001.jpg" alt="Ilford HP5 Plus 120 film box inside" loading="lazy" width="500" height="500">
+</a>
+
+#### [2025] GT Photo GT24 (ref: 92c2)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2025-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-11-11   |  Author  : dekuNukem
+UUID  : 86ec0b0ed4b94390a23d2cb27e1792c2
+```
+
+<a href="./archive/00476_000.jpg" target="_blank">
+	<img src="./lowres/00476_000.jpg" alt="GT Photo GT24 35mm film box outside" loading="lazy" width="439" height="500">
 </a>
 
 #### [2025] Harman Phoenix (ref: 8eb4)
@@ -8478,6 +8516,27 @@ UUID  : 9ef642a09d294cbfad7e040a701deae2
 
 <a href="./archive/00047_001.jpg" target="_blank">
 	<img src="./lowres/00047_001.jpg" alt="Rollei Infrared 35mm film box inside" loading="lazy" width="406" height="499">
+</a>
+
+#### [2027] CineStill 800T (ref: 44c4)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 800          |  Expiry  : 2027-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 5b72cfa7adb14d0f8aefaa083ee444c4
+```
+
+<a href="./archive/00478_000.jpg" target="_blank">
+	<img src="./lowres/00478_000.jpg" alt="CineStill 800T 120 film box outside" loading="lazy" width="500" height="448">
+</a>
+
+
+`UUID: 88c575769d28409a9796d3ecee41d014`↓
+
+<a href="./archive/00478_001.jpg" target="_blank">
+	<img src="./lowres/00478_001.jpg" alt="CineStill 800T 120 film box inside" loading="lazy" width="491" height="500">
 </a>
 
 #### [2027] Foma Ortho 400 (ref: c559)
@@ -9919,10 +9978,10 @@ UUID  : 80d64fa269454c5589109c68a40541a8
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     338   
+1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
-4     @ellafridalindblom            57    
+4     @ellafridalindblom            59    
 5     @recycling.film               56    
 6     The Compartmentalist          25    
 7     fine-seat                     19    
@@ -9942,11 +10001,11 @@ Rank  Username                      Contributions
 21    waldoboro                     8     
 22    @toastergod101                7     
 23    @filmfotofella                7     
-24    lt_col_tall                   6     
-25    GreatGizmo74                  6     
-26    nick                          6     
-27    Kraksen                       5     
-28    Chrisbes                      5     
+24    Chrisbes                      7     
+25    lt_col_tall                   6     
+26    GreatGizmo74                  6     
+27    nick                          6     
+28    Kraksen                       5     
 29    Henry Gunn                    4     
 30    u/ReeeSchmidtyWerber          4     
 31    TheSelousScout                3     

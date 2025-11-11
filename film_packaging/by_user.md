@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Nov 11 2025
-Unique items: 471
-Total scans : 871
+Unique items: 474
+Total scans : 876
 ```
 
 -----
@@ -77,6 +77,7 @@ Total scans : 871
 - [[@ellafridalindblom] Konica Sepia Professional (ref: 0b40)](#ellafridalindblom-konica-sepia-professional-ref-0b40)
 - [[@ellafridalindblom] Konica Minolta Commercial Color Film (ref: e903)](#ellafridalindblom-konica-minolta-commercial-color-film-ref-e903)
 - [[@ellafridalindblom] Phöbus-Platten Sheet Film (ref: d505)](#ellafridalindblom-phöbus-platten-sheet-film-ref-d505)
+- [[@ellafridalindblom] Polaroid Green 600 Film Reclaimed Series (ref: 0180)](#ellafridalindblom-polaroid-green-600-film-reclaimed-series-ref-0180)
 - [[@ellafridalindblom] Polaroid Image Instant Film (ref: ee6d)](#ellafridalindblom-polaroid-image-instant-film-ref-ee6d)
 - [[@ellafridalindblom] Polaroid Spectra Film (ref: 7a94)](#ellafridalindblom-polaroid-spectra-film-ref-7a94)
 - [[@filmfotofella] CineStill 400Dynamic (ref: fccd)](#filmfotofella-cinestill-400dynamic-ref-fccd)
@@ -202,6 +203,7 @@ Total scans : 871
 - [[Camera.Riley] Konica Konica Color II (ref: fb5b)](#camerariley-konica-konica-color-ii-ref-fb5b)
 - [[Camera.Riley] Polaroid PolaChrome 35mm (ref: b202)](#camerariley-polaroid-polachrome-35mm-ref-b202)
 - [[Chrisbes] Agfa AgfaColor HDC Plus (ref: 016b)](#chrisbes-agfa-agfacolor-hdc-plus-ref-016b)
+- [[Chrisbes] CineStill 800T (ref: 44c4)](#chrisbes-cinestill-800t-ref-44c4)
 - [[Chrisbes] Fujifilm Fujicolor HR100 (ref: 2335)](#chrisbes-fujifilm-fujicolor-hr100-ref-2335)
 - [[Chrisbes] Fujifilm Fujicolor Super HR (ref: 7fd2)](#chrisbes-fujifilm-fujicolor-super-hr-ref-7fd2)
 - [[Chrisbes] Reflx Lab 400D (ref: 5801)](#chrisbes-reflx-lab-400d-ref-5801)
@@ -340,6 +342,7 @@ Total scans : 871
 - [[dekuNukem] Fujifilm Fujicolor Pro 400H (ref: 66e3)](#dekunukem-fujifilm-fujicolor-pro-400h-ref-66e3)
 - [[dekuNukem] Fujifilm Fujicolor Super HR (ref: aaa0)](#dekunukem-fujifilm-fujicolor-super-hr-ref-aaa0)
 - [[dekuNukem] Fujifilm Fujicolor Superia (ref: 0683)](#dekunukem-fujifilm-fujicolor-superia-ref-0683)
+- [[dekuNukem] GT Photo GT24 (ref: 92c2)](#dekunukem-gt-photo-gt24-ref-92c2)
 - [[dekuNukem] Gevaert Gevachrome 30 (ref: c0e3)](#dekunukem-gevaert-gevachrome-30-ref-c0e3)
 - [[dekuNukem] Gevaert Infra-R (ref: fc88)](#dekunukem-gevaert-infra-r-ref-fc88)
 - [[dekuNukem] Gevaert Superchrome (ref: af27)](#dekunukem-gevaert-superchrome-ref-af27)
@@ -1466,6 +1469,27 @@ UUID  : d9b0fa92fbbb494085ce494cc407d505
 
 <a href="./archive/00282_000.jpg" target="_blank">
 	<img src="./lowres/00282_000.jpg" alt="Phöbus-Platten Sheet Film 12x16.5cm film box outside" loading="lazy" width="500" height="419">
+</a>
+
+#### [@ellafridalindblom] Polaroid Green 600 Film Reclaimed Series (ref: 0180)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2025-07 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-11-11   |  Author  : @ellafridalindblom
+UUID  : 613f5e7014704b5bbe28565cfe290180
+```
+
+<a href="./archive/00477_000.jpg" target="_blank">
+	<img src="./lowres/00477_000.jpg" alt="Polaroid Green 600 Film Reclaimed Series Integral Film film box outside" loading="lazy" width="254" height="500">
+</a>
+
+
+`UUID: c92f5c416c764c83845e115db6e90106`↓
+
+<a href="./archive/00477_001.jpg" target="_blank">
+	<img src="./lowres/00477_001.jpg" alt="Polaroid Green 600 Film Reclaimed Series Integral Film film box inside" loading="lazy" width="255" height="500">
 </a>
 
 #### [@ellafridalindblom] Polaroid Image Instant Film (ref: ee6d)
@@ -3735,6 +3759,27 @@ UUID  : 2dab58330f43463e9441b6777fce016b
 
 <a href="./archive/00464_000.jpg" target="_blank">
 	<img src="./lowres/00464_000.jpg" alt="Agfa AgfaColor HDC Plus 35mm film box outside" loading="lazy" width="500" height="300">
+</a>
+
+#### [Chrisbes] CineStill 800T (ref: 44c4)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 800          |  Expiry  : 2027-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 5b72cfa7adb14d0f8aefaa083ee444c4
+```
+
+<a href="./archive/00478_000.jpg" target="_blank">
+	<img src="./lowres/00478_000.jpg" alt="CineStill 800T 120 film box outside" loading="lazy" width="500" height="448">
+</a>
+
+
+`UUID: 88c575769d28409a9796d3ecee41d014`↓
+
+<a href="./archive/00478_001.jpg" target="_blank">
+	<img src="./lowres/00478_001.jpg" alt="CineStill 800T 120 film box inside" loading="lazy" width="491" height="500">
 </a>
 
 #### [Chrisbes] Fujifilm Fujicolor HR100 (ref: 2335)
@@ -6484,6 +6529,20 @@ UUID  : c3d9e51d22e241f69133be30d5a00683
 
 <a href="./archive/00012_001.jpg" target="_blank">
 	<img src="./lowres/00012_001.jpg" alt="Fujifilm Fujicolor Superia 120 film box inside" loading="lazy" width="500" height="500">
+</a>
+
+#### [dekuNukem] GT Photo GT24 (ref: 92c2)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2025-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-11-11   |  Author  : dekuNukem
+UUID  : 86ec0b0ed4b94390a23d2cb27e1792c2
+```
+
+<a href="./archive/00476_000.jpg" target="_blank">
+	<img src="./lowres/00476_000.jpg" alt="GT Photo GT24 35mm film box outside" loading="lazy" width="439" height="500">
 </a>
 
 #### [dekuNukem] Gevaert Gevachrome 30 (ref: c0e3)
@@ -9919,10 +9978,10 @@ UUID  : e54ce68c797b4846b9aee3f5818ecb58
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     338   
+1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
-4     @ellafridalindblom            57    
+4     @ellafridalindblom            59    
 5     @recycling.film               56    
 6     The Compartmentalist          25    
 7     fine-seat                     19    
@@ -9942,11 +10001,11 @@ Rank  Username                      Contributions
 21    waldoboro                     8     
 22    @toastergod101                7     
 23    @filmfotofella                7     
-24    lt_col_tall                   6     
-25    GreatGizmo74                  6     
-26    nick                          6     
-27    Kraksen                       5     
-28    Chrisbes                      5     
+24    Chrisbes                      7     
+25    lt_col_tall                   6     
+26    GreatGizmo74                  6     
+27    nick                          6     
+28    Kraksen                       5     
 29    Henry Gunn                    4     
 30    u/ReeeSchmidtyWerber          4     
 31    TheSelousScout                3     

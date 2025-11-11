@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Nov 11 2025
-Unique items: 471
-Total scans : 871
+Unique items: 474
+Total scans : 876
 ```
 
 -----
@@ -218,6 +218,7 @@ Total scans : 871
 - [[C-41] CineStill 50D (ref: 3452)](#c-41-cinestill-50d-ref-3452)
 - [[C-41] CineStill 800T (ref: c86a)](#c-41-cinestill-800t-ref-c86a)
 - [[C-41] CineStill 800T (ref: b3ff)](#c-41-cinestill-800t-ref-b3ff)
+- [[C-41] CineStill 800T (ref: 44c4)](#c-41-cinestill-800t-ref-44c4)
 - [[C-41] Club Color Natural Color System (ref: 813a)](#c-41-club-color-natural-color-system-ref-813a)
 - [[C-41] Efiniti UXi Super 200 (ref: 471a)](#c-41-efiniti-uxi-super-200-ref-471a)
 - [[C-41] Ferrania Solaris (ref: a929)](#c-41-ferrania-solaris-ref-a929)
@@ -263,6 +264,7 @@ Total scans : 871
 - [[C-41] Fujifilm Fujicolor Superia X-TRA 400 (ref: da37)](#c-41-fujifilm-fujicolor-superia-x-tra-400-ref-da37)
 - [[C-41] Fujifilm Superia Premium 400 (ref: ef1f)](#c-41-fujifilm-superia-premium-400-ref-ef1f)
 - [[C-41] Fukkatsu Color Print Film (ref: 3213)](#c-41-fukkatsu-color-print-film-ref-3213)
+- [[C-41] GT Photo GT24 (ref: 92c2)](#c-41-gt-photo-gt24-ref-92c2)
 - [[C-41] Hands On Film Midnight 1600 (ref: 4411)](#c-41-hands-on-film-midnight-1600-ref-4411)
 - [[C-41] Harman Phoenix (ref: 8eb4)](#c-41-harman-phoenix-ref-8eb4)
 - [[C-41] Harman Phoenix (ref: 637f)](#c-41-harman-phoenix-ref-637f)
@@ -456,6 +458,7 @@ Total scans : 871
 - [[Instant] Polaroid 990 (ref: e3bc)](#instant-polaroid-990-ref-e3bc)
 - [[Instant] Polaroid Color 600 Film Round Frame (ref: d985)](#instant-polaroid-color-600-film-round-frame-ref-d985)
 - [[Instant] Polaroid Color SX-70 Film (ref: dc7f)](#instant-polaroid-color-sx-70-film-ref-dc7f)
+- [[Instant] Polaroid Green 600 Film Reclaimed Series (ref: 0180)](#instant-polaroid-green-600-film-reclaimed-series-ref-0180)
 - [[Instant] Polaroid GridFilm (ref: 8deb)](#instant-polaroid-gridfilm-ref-8deb)
 - [[Instant] Polaroid Image Instant Film (ref: ee6d)](#instant-polaroid-image-instant-film-ref-ee6d)
 - [[Instant] Polaroid PolaBlue 35mm (ref: df66)](#instant-polaroid-polablue-35mm-ref-df66)
@@ -4262,6 +4265,27 @@ UUID  : 81978ca6f6d048b3a759dffdb80fb3ff
 	<img src="./lowres/00085_001.jpg" alt="CineStill 800T 35mm film box inside" loading="lazy" width="435" height="500">
 </a>
 
+#### [C-41] CineStill 800T (ref: 44c4)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 800          |  Expiry  : 2027-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-11-11   |  Author  : Chrisbes
+UUID  : 5b72cfa7adb14d0f8aefaa083ee444c4
+```
+
+<a href="./archive/00478_000.jpg" target="_blank">
+	<img src="./lowres/00478_000.jpg" alt="CineStill 800T 120 film box outside" loading="lazy" width="500" height="448">
+</a>
+
+
+`UUID: 88c575769d28409a9796d3ecee41d014`↓
+
+<a href="./archive/00478_001.jpg" target="_blank">
+	<img src="./lowres/00478_001.jpg" alt="CineStill 800T 120 film box inside" loading="lazy" width="491" height="500">
+</a>
+
 #### [C-41] Club Color Natural Color System (ref: 813a)
 
 ```
@@ -5037,6 +5061,20 @@ UUID  : e5ed9275c4a34dbb8ab1a60c13ca3213
 
 <a href="./archive/00460_000.jpg" target="_blank">
 	<img src="./lowres/00460_000.jpg" alt="Fukkatsu Color Print Film 110 film box outside" loading="lazy" width="500" height="410">
+</a>
+
+#### [C-41] GT Photo GT24 (ref: 92c2)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2025-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-11-11   |  Author  : dekuNukem
+UUID  : 86ec0b0ed4b94390a23d2cb27e1792c2
+```
+
+<a href="./archive/00476_000.jpg" target="_blank">
+	<img src="./lowres/00476_000.jpg" alt="GT Photo GT24 35mm film box outside" loading="lazy" width="439" height="500">
 </a>
 
 #### [C-41] Hands On Film Midnight 1600 (ref: 4411)
@@ -8701,6 +8739,27 @@ UUID  : b4af154cea6f40c0aa1d4154d0c2dc7f
 	<img src="./lowres/00156_003.jpg" alt="Polaroid Color SX-70 Film Integral Film film box inside" loading="lazy" width="425" height="499">
 </a>
 
+#### [Instant] Polaroid Green 600 Film Reclaimed Series (ref: 0180)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2025-07 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-11-11   |  Author  : @ellafridalindblom
+UUID  : 613f5e7014704b5bbe28565cfe290180
+```
+
+<a href="./archive/00477_000.jpg" target="_blank">
+	<img src="./lowres/00477_000.jpg" alt="Polaroid Green 600 Film Reclaimed Series Integral Film film box outside" loading="lazy" width="254" height="500">
+</a>
+
+
+`UUID: c92f5c416c764c83845e115db6e90106`↓
+
+<a href="./archive/00477_001.jpg" target="_blank">
+	<img src="./lowres/00477_001.jpg" alt="Polaroid Green 600 Film Reclaimed Series Integral Film film box inside" loading="lazy" width="255" height="500">
+</a>
+
 #### [Instant] Polaroid GridFilm (ref: 8deb)
 
 ```
@@ -9919,10 +9978,10 @@ Notes : Division of Film Corporation of America
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     338   
+1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
-4     @ellafridalindblom            57    
+4     @ellafridalindblom            59    
 5     @recycling.film               56    
 6     The Compartmentalist          25    
 7     fine-seat                     19    
@@ -9942,11 +10001,11 @@ Rank  Username                      Contributions
 21    waldoboro                     8     
 22    @toastergod101                7     
 23    @filmfotofella                7     
-24    lt_col_tall                   6     
-25    GreatGizmo74                  6     
-26    nick                          6     
-27    Kraksen                       5     
-28    Chrisbes                      5     
+24    Chrisbes                      7     
+25    lt_col_tall                   6     
+26    GreatGizmo74                  6     
+27    nick                          6     
+28    Kraksen                       5     
 29    Henry Gunn                    4     
 30    u/ReeeSchmidtyWerber          4     
 31    TheSelousScout                3     

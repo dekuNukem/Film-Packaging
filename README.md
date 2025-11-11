@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Nov 11 2025
-Unique items: 471
-Total scans : 871
+Unique items: 474
+Total scans : 876
 ```
 
 Or Sort by...
@@ -53,10 +53,10 @@ Or Sort by...
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     338   
+1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
-4     @ellafridalindblom            57    
+4     @ellafridalindblom            59    
 5     @recycling.film               56    
 6     The Compartmentalist          25    
 7     fine-seat                     19    
@@ -76,11 +76,11 @@ Rank  Username                      Contributions
 21    waldoboro                     8     
 22    @toastergod101                7     
 23    @filmfotofella                7     
-24    lt_col_tall                   6     
-25    GreatGizmo74                  6     
-26    nick                          6     
-27    Kraksen                       5     
-28    Chrisbes                      5     
+24    Chrisbes                      7     
+25    lt_col_tall                   6     
+26    GreatGizmo74                  6     
+27    nick                          6     
+28    Kraksen                       5     
 29    Henry Gunn                    4     
 30    u/ReeeSchmidtyWerber          4     
 31    TheSelousScout                3     
@@ -97,14 +97,17 @@ Rank  Username                      Contributions
 
 ```
 2025-11-11
+  - @ellafridalindblom: Polaroid Green 600 Film Reclaimed Series
   - @Hol.m35: Lomography Postdam
   - @Hol.m35: Lucky C200
   - @Hol.m35: Lucky SHD400
   - Chrisbes: Agfa AgfaColor HDC Plus
+  - Chrisbes: CineStill 800T
   - Chrisbes: Fujifilm Fujicolor HR100
   - Chrisbes: Fujifilm Fujicolor Super HR
   - Chrisbes: Reflx Lab 400D
   - Chrisbes: Reflx Lab 800T
+  - dekuNukem: GT Photo GT24
   - minidiscus: Arista.EDU Ultra
   - minidiscus: Foma Fomapan 400 Set
   - minidiscus: Kentmere PAN
