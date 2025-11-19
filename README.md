@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Nov 11 2025
-Unique items: 474
-Total scans : 876
+Last Updated: Nov 19 2025
+Unique items: 475
+Total scans : 878
 ```
 
 Or Sort by...
@@ -68,11 +68,11 @@ Rank  Username                      Contributions
 13    @SirBrentsworth               13    
 14    toader                        13    
 15    yc128                         11    
-16    @zruk_ts                      10    
-17    minidiscus                    10    
-18    benikum                       9     
-19    lilyu.xyz                     9     
-20    kaimon                        8     
+16    kaimon                        10    
+17    @zruk_ts                      10    
+18    minidiscus                    10    
+19    benikum                       9     
+20    lilyu.xyz                     9     
 21    waldoboro                     8     
 22    @toastergod101                7     
 23    @filmfotofella                7     
@@ -96,6 +96,9 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-11-19
+  - kaimon: Lucky C200
+
 2025-11-11
   - @ellafridalindblom: Polaroid Green 600 Film Reclaimed Series
   - @Hol.m35: Lomography Postdam
@@ -131,31 +134,6 @@ Rank  Username                      Contributions
 
 2025-10-23
   - @Hol.m35: Optik Oldschool OptiColour 200
-
-2025-10-21
-  - dekuNukem: Agfa Agfacolor Reversal Film CK
-  - dekuNukem: Agfa Agfacolor Special Negative Film CN S
-  - dekuNukem: Agfa CT Precisa 100
-  - dekuNukem: Agfa Isopan IF Rapid
-  - dekuNukem: Agfa Isopan ISS Rapid
-  - dekuNukem: efke R100
-  - dekuNukem: Famous Brand Labs Color Negative Film
-  - dekuNukem: Gevaert Gevachrome 30
-  - dekuNukem: Gevaert Infra-R
-  - dekuNukem: Great Films Processing Kodachrome
-  - dekuNukem: Ilford Selochrome
-  - dekuNukem: Kodak Ektachrome-X
-  - dekuNukem: Kodak Gold
-  - dekuNukem: Kodak Kodachrome II
-  - dekuNukem: Kodak Kodacolor Gold 400
-  - dekuNukem: Kodak Kodacolor II
-  - dekuNukem: Kodak Plus-X
-  - dekuNukem: Kodak Verichrome
-  - dekuNukem: Kodak Verichrome Pan
-  - dekuNukem: Lomography Lobster Redscale Negative
-  - dekuNukem: Minox Minocolor 2
-  - dekuNukem: Northwest Custom Film Processing Ultra Minituature Film
-  - dekuNukem: Triple-Print Film Labs Color Negative Film
 ```
 
 ## Disclaimer

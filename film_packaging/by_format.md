@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Nov 11 2025
-Unique items: 474
-Total scans : 876
+Last Updated: Nov 19 2025
+Unique items: 475
+Total scans : 878
 ```
 
 -----
@@ -400,6 +400,7 @@ Total scans : 876
 - [[35mm] Lomography Lomochrome Purple (ref: 8b00)](#35mm-lomography-lomochrome-purple-ref-8b00)
 - [[35mm] Lomography Lomochrome Purple (ref: 068f)](#35mm-lomography-lomochrome-purple-ref-068f)
 - [[35mm] Lomography Postdam (ref: d0c6)](#35mm-lomography-postdam-ref-d0c6)
+- [[35mm] Lucky C200 (ref: 9c6c)](#35mm-lucky-c200-ref-9c6c)
 - [[35mm] Marix Professional Negative Movie Color Film (ref: c457)](#35mm-marix-professional-negative-movie-color-film-ref-c457)
 - [[35mm] Max Spielmann Maxi Color (ref: bf60)](#35mm-max-spielmann-maxi-color-ref-bf60)
 - [[35mm] Mr. Negative 250D (ref: 3574)](#35mm-mr-negative-250d-ref-3574)
@@ -7930,6 +7931,27 @@ Notes : Black & White POSTDAM 35mm Kino Film
 	<img src="./lowres/00475_001.jpg" alt="Lomography Postdam 35mm film box inside" loading="lazy" width="500" height="371">
 </a>
 
+#### [35mm] Lucky C200 (ref: 9c6c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2027-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-19   |  Author  : kaimon  
+UUID  : 4986ebbbced349e880b7dd92d9649c6c
+```
+
+<a href="./archive/00479_000.jpg" target="_blank">
+	<img src="./lowres/00479_000.jpg" alt="Lucky C200 35mm film box outside" loading="lazy" width="401" height="500">
+</a>
+
+
+`UUID: 865aa90f5fca4c34b283f866c10c6054`↓
+
+<a href="./archive/00479_001.jpg" target="_blank">
+	<img src="./lowres/00479_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="393" height="500">
+</a>
+
 #### [35mm] Marix Professional Negative Movie Color Film (ref: c457)
 
 ```
@@ -9993,11 +10015,11 @@ Rank  Username                      Contributions
 13    @SirBrentsworth               13    
 14    toader                        13    
 15    yc128                         11    
-16    @zruk_ts                      10    
-17    minidiscus                    10    
-18    benikum                       9     
-19    lilyu.xyz                     9     
-20    kaimon                        8     
+16    kaimon                        10    
+17    @zruk_ts                      10    
+18    minidiscus                    10    
+19    benikum                       9     
+20    lilyu.xyz                     9     
 21    waldoboro                     8     
 22    @toastergod101                7     
 23    @filmfotofella                7     

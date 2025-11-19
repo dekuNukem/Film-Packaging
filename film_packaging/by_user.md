@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Nov 11 2025
-Unique items: 474
-Total scans : 876
+Last Updated: Nov 19 2025
+Unique items: 475
+Total scans : 878
 ```
 
 -----
@@ -461,6 +461,7 @@ Total scans : 876
 - [[kaimon] Ilford Ilfochrome (ref: ac24)](#kaimon-ilford-ilfochrome-ref-ac24)
 - [[kaimon] Ilford XP2 Super (ref: 484f)](#kaimon-ilford-xp2-super-ref-484f)
 - [[kaimon] Kodak High Speed Ektachrome (ref: 7533)](#kaimon-kodak-high-speed-ektachrome-ref-7533)
+- [[kaimon] Lucky C200 (ref: 9c6c)](#kaimon-lucky-c200-ref-9c6c)
 - [[lemoniter] Club Color Natural Color System (ref: 813a)](#lemoniter-club-color-natural-color-system-ref-813a)
 - [[lilyu.xyz] Agfa APX (ref: 5276)](#lilyuxyz-agfa-apx-ref-5276)
 - [[lilyu.xyz] Foma Fomapan Creative 200 (ref: 84a5)](#lilyuxyz-foma-fomapan-creative-200-ref-84a5)
@@ -9248,6 +9249,27 @@ Notes : Tungsten (3200K) EHB 120
 	<img src="./lowres/00303_002.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="188" height="500">
 </a>
 
+#### [kaimon] Lucky C200 (ref: 9c6c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2027-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-19   |  Author  : kaimon  
+UUID  : 4986ebbbced349e880b7dd92d9649c6c
+```
+
+<a href="./archive/00479_000.jpg" target="_blank">
+	<img src="./lowres/00479_000.jpg" alt="Lucky C200 35mm film box outside" loading="lazy" width="401" height="500">
+</a>
+
+
+`UUID: 865aa90f5fca4c34b283f866c10c6054`↓
+
+<a href="./archive/00479_001.jpg" target="_blank">
+	<img src="./lowres/00479_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="393" height="500">
+</a>
+
 #### [lemoniter] Club Color Natural Color System (ref: 813a)
 
 ```
@@ -9993,11 +10015,11 @@ Rank  Username                      Contributions
 13    @SirBrentsworth               13    
 14    toader                        13    
 15    yc128                         11    
-16    @zruk_ts                      10    
-17    minidiscus                    10    
-18    benikum                       9     
-19    lilyu.xyz                     9     
-20    kaimon                        8     
+16    kaimon                        10    
+17    @zruk_ts                      10    
+18    minidiscus                    10    
+19    benikum                       9     
+20    lilyu.xyz                     9     
 21    waldoboro                     8     
 22    @toastergod101                7     
 23    @filmfotofella                7     
