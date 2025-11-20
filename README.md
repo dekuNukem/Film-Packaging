@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Nov 19 2025
-Unique items: 475
-Total scans : 878
+Last Updated: Nov 20 2025
+Unique items: 479
+Total scans : 883
 ```
 
 Or Sort by...
@@ -56,14 +56,14 @@ Rank  Username                      Contributions
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
-4     @ellafridalindblom            59    
+4     @ellafridalindblom            63    
 5     @recycling.film               56    
 6     The Compartmentalist          25    
 7     fine-seat                     19    
 8     Camera.Riley                  19    
 9     Nano_Burger                   18    
 10    @ob.skura                     16    
-11    @Hol.m35                      15    
+11    @Hol.m35                      16    
 12    b0baspace                     14    
 13    @SirBrentsworth               13    
 14    toader                        13    
@@ -96,6 +96,12 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-11-20
+  - @ellafridalindblom: Agfa Isochrom Portrait
+  - @ellafridalindblom: Agfa Isopan Portrait
+  - @ellafridalindblom: Ilford R.25 F.P Special
+  - @Hol.m35: Street Candy Film ATM400
+
 2025-11-19
   - kaimon: Lucky C200
 
@@ -131,9 +137,6 @@ Rank  Username                      Contributions
   - dekuNukem: Famous Brand Labs Color Negative Film
   - dekuNukem: Perutz Peromnia 21
   - minidiscus: Kodak Kodacolor 100
-
-2025-10-23
-  - @Hol.m35: Optik Oldschool OptiColour 200
 ```
 
 ## Disclaimer

@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Nov 19 2025
-Unique items: 475
-Total scans : 878
+Last Updated: Nov 20 2025
+Unique items: 479
+Total scans : 883
 ```
 
 -----
@@ -39,6 +39,7 @@ Total scans : 878
 - [[BW] Agfa Autolith Repo (ref: 8e68)](#bw-agfa-autolith-repo-ref-8e68)
 - [[BW] Agfa Extra Rapid Platten (ref: 7418)](#bw-agfa-extra-rapid-platten-ref-7418)
 - [[BW] Agfa Fine-Grain Plenachrome (ref: e5d4)](#bw-agfa-fine-grain-plenachrome-ref-e5d4)
+- [[BW] Agfa Isochrom Portrait (ref: 4c56)](#bw-agfa-isochrom-portrait-ref-4c56)
 - [[BW] Agfa Isopan FF (ref: 3700)](#bw-agfa-isopan-ff-ref-3700)
 - [[BW] Agfa Isopan IF Rapid (ref: 5962)](#bw-agfa-isopan-if-rapid-ref-5962)
 - [[BW] Agfa Isopan IF Rapid (ref: 2b99)](#bw-agfa-isopan-if-rapid-ref-2b99)
@@ -47,6 +48,7 @@ Total scans : 878
 - [[BW] Agfa Isopan ISS (ref: b9d7)](#bw-agfa-isopan-iss-ref-b9d7)
 - [[BW] Agfa Isopan ISS Rapid (ref: 9799)](#bw-agfa-isopan-iss-rapid-ref-9799)
 - [[BW] Agfa Isopan ISS Rapid (ref: 3aee)](#bw-agfa-isopan-iss-rapid-ref-3aee)
+- [[BW] Agfa Isopan Portrait (ref: b974)](#bw-agfa-isopan-portrait-ref-b974)
 - [[BW] Agfa Isopan Portrait (ref: 19b5)](#bw-agfa-isopan-portrait-ref-19b5)
 - [[BW] Agfa Trockenplatten (ref: 0937)](#bw-agfa-trockenplatten-ref-0937)
 - [[BW] Agfa Trockenplatten (ref: 41a8)](#bw-agfa-trockenplatten-ref-41a8)
@@ -107,6 +109,7 @@ Total scans : 878
 - [[BW] Ilford HP5 Plus (ref: efad)](#bw-ilford-hp5-plus-ref-efad)
 - [[BW] Ilford HP5 Plus (ref: 1a5d)](#bw-ilford-hp5-plus-ref-1a5d)
 - [[BW] Ilford HP5 Plus (ref: df49)](#bw-ilford-hp5-plus-ref-df49)
+- [[BW] Ilford R.25 F.P Special (ref: ec05)](#bw-ilford-r25-fp-special-ref-ec05)
 - [[BW] Ilford SFX 200 (ref: 6057)](#bw-ilford-sfx-200-ref-6057)
 - [[BW] Ilford Selochrome (ref: f534)](#bw-ilford-selochrome-ref-f534)
 - [[BW] Illingworth's Fleet H&D (ref: 54fe)](#bw-illingworths-fleet-h-d-ref-54fe)
@@ -181,6 +184,7 @@ Total scans : 878
 - [[BW] Rollei SUPERPAN 200 (ref: ee8f)](#bw-rollei-superpan-200-ref-ee8f)
 - [[BW] Shanghai GP3 (ref: 52aa)](#bw-shanghai-gp3-ref-52aa)
 - [[BW] Sharan Black-and-white Negative Film (ref: a884)](#bw-sharan-black-and-white-negative-film-ref-a884)
+- [[BW] Street Candy Film ATM400 (ref: 4380)](#bw-street-candy-film-atm400-ref-4380)
 - [[BW] Svema Foto 200 (ref: 6991)](#bw-svema-foto-200-ref-6991)
 - [[BW] Svema Foto 32 (ref: 8b44)](#bw-svema-foto-32-ref-8b44)
 - [[BW] Svema Foto 32 (ref: d1fd)](#bw-svema-foto-32-ref-d1fd)
@@ -837,6 +841,20 @@ UUID  : 66a105cd605748d78884e5c305a4e5d4
 	<img src="./lowres/00179_001.jpg" alt="Agfa Fine-Grain Plenachrome 35mm film box outside" loading="lazy" width="479" height="499">
 </a>
 
+#### [BW] Agfa Isochrom Portrait (ref: 4c56)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 50           |  Expiry  : 1948-05 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-11-20   |  Author  : @ellafridalindblom
+UUID  : dea659399cf345a6912964c10b584c56
+```
+
+<a href="./archive/00482_000.jpg" target="_blank">
+	<img src="./lowres/00482_000.jpg" alt="Agfa Isochrom Portrait 12x16.5cm film box outside" loading="lazy" width="500" height="423">
+</a>
+
 #### [BW] Agfa Isopan FF (ref: 3700)
 
 ```
@@ -961,6 +979,20 @@ UUID  : d90937332f0a4392adb1f344b5ba3aee
 
 <a href="./archive/00448_000.jpg" target="_blank">
 	<img src="./lowres/00448_000.jpg" alt="Agfa Isopan ISS Rapid 35mm film box outside" loading="lazy" width="500" height="483">
+</a>
+
+#### [BW] Agfa Isopan Portrait (ref: b974)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : 1944-09 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-11-20   |  Author  : @ellafridalindblom
+UUID  : 81ded7f4902d46df8f5dd91868e7b974
+```
+
+<a href="./archive/00483_000.jpg" target="_blank">
+	<img src="./lowres/00483_000.jpg" alt="Agfa Isopan Portrait 12x16.5cm film box outside" loading="lazy" width="500" height="401">
 </a>
 
 #### [BW] Agfa Isopan Portrait (ref: 19b5)
@@ -2069,6 +2101,27 @@ UUID  : 8db6d8343d544c21bfd539c32525df49
 
 <a href="./archive/00083_001.jpg" target="_blank">
 	<img src="./lowres/00083_001.jpg" alt="Ilford HP5 Plus 35mm film box inside" loading="lazy" width="434" height="500">
+</a>
+
+#### [BW] Ilford R.25 F.P Special (ref: ec05)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-11-20   |  Author  : @ellafridalindblom
+UUID  : 8d14ab4db3844e8fa5b59d80adbdec05
+```
+
+<a href="./archive/00481_000.jpg" target="_blank">
+	<img src="./lowres/00481_000.jpg" alt="Ilford R.25 F.P Special 12x16.5cm film box outside" loading="lazy" width="397" height="500">
+</a>
+
+
+`UUID: f72ce470f4c24f008b715f340c95ce7f`↓
+
+<a href="./archive/00481_001.jpg" target="_blank">
+	<img src="./lowres/00481_001.jpg" alt="Ilford R.25 F.P Special 12x16.5cm film box outside" loading="lazy" width="397" height="500">
 </a>
 
 #### [BW] Ilford SFX 200 (ref: 6057)
@@ -3543,6 +3596,20 @@ Notes : ACMEL embossed on box
 
 <a href="./archive/00398_003.jpg" target="_blank">
 	<img src="./lowres/00398_003.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="273">
+</a>
+
+#### [BW] Street Candy Film ATM400 (ref: 4380)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-20   |  Author  : @Hol.m35
+UUID  : 1b198dd0d976444ab98109d0c37c4380
+```
+
+<a href="./archive/00480_000.jpg" target="_blank">
+	<img src="./lowres/00480_000.jpg" alt="Street Candy Film ATM400 35mm film box outside" loading="lazy" width="500" height="288">
 </a>
 
 #### [BW] Svema Foto 200 (ref: 6991)
@@ -10003,14 +10070,14 @@ Rank  Username                      Contributions
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
-4     @ellafridalindblom            59    
+4     @ellafridalindblom            63    
 5     @recycling.film               56    
 6     The Compartmentalist          25    
 7     fine-seat                     19    
 8     Camera.Riley                  19    
 9     Nano_Burger                   18    
 10    @ob.skura                     16    
-11    @Hol.m35                      15    
+11    @Hol.m35                      16    
 12    b0baspace                     14    
 13    @SirBrentsworth               13    
 14    toader                        13    

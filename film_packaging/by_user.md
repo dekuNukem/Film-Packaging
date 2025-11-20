@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Nov 19 2025
-Unique items: 475
-Total scans : 878
+Last Updated: Nov 20 2025
+Unique items: 479
+Total scans : 883
 ```
 
 -----
@@ -32,6 +32,7 @@ Total scans : 878
 - [[@Hol.m35] Lucky C200 (ref: e6f8)](#holm35-lucky-c200-ref-e6f8)
 - [[@Hol.m35] Lucky SHD400 (ref: 15b5)](#holm35-lucky-shd400-ref-15b5)
 - [[@Hol.m35] Optik Oldschool OptiColour 200 (ref: 80d7)](#holm35-optik-oldschool-opticolour-200-ref-80d7)
+- [[@Hol.m35] Street Candy Film ATM400 (ref: 4380)](#holm35-street-candy-film-atm400-ref-4380)
 - [[@SirBrentsworth] CineStill 800T (ref: b3ff)](#sirbrentsworth-cinestill-800t-ref-b3ff)
 - [[@SirBrentsworth] Ilford HP5 Plus (ref: df49)](#sirbrentsworth-ilford-hp5-plus-ref-df49)
 - [[@SirBrentsworth] Kentmere PAN 100 (ref: c907)](#sirbrentsworth-kentmere-pan-100-ref-c907)
@@ -43,6 +44,8 @@ Total scans : 878
 - [[@SirBrentsworth] Lomography Lomochrome Purple (ref: 068f)](#sirbrentsworth-lomography-lomochrome-purple-ref-068f)
 - [[@ad.astra.per.aspera.1894] Kirkland Signature Color Print Film (ref: 0441)](#adastraperaspera1894-kirkland-signature-color-print-film-ref-0441)
 - [[@ellafridalindblom] Agfa Extra Rapid Platten (ref: 7418)](#ellafridalindblom-agfa-extra-rapid-platten-ref-7418)
+- [[@ellafridalindblom] Agfa Isochrom Portrait (ref: 4c56)](#ellafridalindblom-agfa-isochrom-portrait-ref-4c56)
+- [[@ellafridalindblom] Agfa Isopan Portrait (ref: b974)](#ellafridalindblom-agfa-isopan-portrait-ref-b974)
 - [[@ellafridalindblom] Agfa Isopan Portrait (ref: 19b5)](#ellafridalindblom-agfa-isopan-portrait-ref-19b5)
 - [[@ellafridalindblom] Agfa Trockenplatten (ref: 0937)](#ellafridalindblom-agfa-trockenplatten-ref-0937)
 - [[@ellafridalindblom] Agfa Trockenplatten (ref: 41a8)](#ellafridalindblom-agfa-trockenplatten-ref-41a8)
@@ -64,6 +67,7 @@ Total scans : 878
 - [[@ellafridalindblom] Ificolor SHR 100 (ref: 0198)](#ellafridalindblom-ificolor-shr-100-ref-0198)
 - [[@ellafridalindblom] Ificolor Super FG HQ 200 (ref: ff86)](#ellafridalindblom-ificolor-super-fg-hq-200-ref-ff86)
 - [[@ellafridalindblom] Ilford HP3 (ref: ae35)](#ellafridalindblom-ilford-hp3-ref-ae35)
+- [[@ellafridalindblom] Ilford R.25 F.P Special (ref: ec05)](#ellafridalindblom-ilford-r25-fp-special-ref-ec05)
 - [[@ellafridalindblom] Illingworth's Fleet H&D (ref: 54fe)](#ellafridalindblom-illingworths-fleet-h-d-ref-54fe)
 - [[@ellafridalindblom] Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)](#ellafridalindblom-impossible-project-px-600-silver-shade-uv-ref-20f3)
 - [[@ellafridalindblom] Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#ellafridalindblom-kodak-ektachrome-slide-duplicating-film-ref-d53a)
@@ -678,6 +682,20 @@ Notes : preproduction package
 	<img src="./lowres/00450_000.jpg" alt="Optik Oldschool OptiColour 200 120 film box outside" loading="lazy" width="500" height="422">
 </a>
 
+#### [@Hol.m35] Street Candy Film ATM400 (ref: 4380)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-20   |  Author  : @Hol.m35
+UUID  : 1b198dd0d976444ab98109d0c37c4380
+```
+
+<a href="./archive/00480_000.jpg" target="_blank">
+	<img src="./lowres/00480_000.jpg" alt="Street Candy Film ATM400 35mm film box outside" loading="lazy" width="500" height="288">
+</a>
+
 #### [@SirBrentsworth] CineStill 800T (ref: b3ff)
 
 ```
@@ -858,6 +876,34 @@ UUID  : b3c3d2e18aed443fb89465bd6f257418
 
 <a href="./archive/00287_000.jpg" target="_blank">
 	<img src="./lowres/00287_000.jpg" alt="Agfa Extra Rapid Platten 9x12cm film box outside" loading="lazy" width="500" height="413">
+</a>
+
+#### [@ellafridalindblom] Agfa Isochrom Portrait (ref: 4c56)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 50           |  Expiry  : 1948-05 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-11-20   |  Author  : @ellafridalindblom
+UUID  : dea659399cf345a6912964c10b584c56
+```
+
+<a href="./archive/00482_000.jpg" target="_blank">
+	<img src="./lowres/00482_000.jpg" alt="Agfa Isochrom Portrait 12x16.5cm film box outside" loading="lazy" width="500" height="423">
+</a>
+
+#### [@ellafridalindblom] Agfa Isopan Portrait (ref: b974)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : 1944-09 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-11-20   |  Author  : @ellafridalindblom
+UUID  : 81ded7f4902d46df8f5dd91868e7b974
+```
+
+<a href="./archive/00483_000.jpg" target="_blank">
+	<img src="./lowres/00483_000.jpg" alt="Agfa Isopan Portrait 12x16.5cm film box outside" loading="lazy" width="500" height="401">
 </a>
 
 #### [@ellafridalindblom] Agfa Isopan Portrait (ref: 19b5)
@@ -1202,6 +1248,27 @@ UUID  : dbfd040081714492bd8bcc80d496ae35
 
 <a href="./archive/00455_000.jpg" target="_blank">
 	<img src="./lowres/00455_000.jpg" alt="Ilford HP3 Unknown film box outside" loading="lazy" width="500" height="368">
+</a>
+
+#### [@ellafridalindblom] Ilford R.25 F.P Special (ref: ec05)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-11-20   |  Author  : @ellafridalindblom
+UUID  : 8d14ab4db3844e8fa5b59d80adbdec05
+```
+
+<a href="./archive/00481_000.jpg" target="_blank">
+	<img src="./lowres/00481_000.jpg" alt="Ilford R.25 F.P Special 12x16.5cm film box outside" loading="lazy" width="397" height="500">
+</a>
+
+
+`UUID: f72ce470f4c24f008b715f340c95ce7f`↓
+
+<a href="./archive/00481_001.jpg" target="_blank">
+	<img src="./lowres/00481_001.jpg" alt="Ilford R.25 F.P Special 12x16.5cm film box outside" loading="lazy" width="397" height="500">
 </a>
 
 #### [@ellafridalindblom] Illingworth's Fleet H&D (ref: 54fe)
@@ -10003,14 +10070,14 @@ Rank  Username                      Contributions
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
-4     @ellafridalindblom            59    
+4     @ellafridalindblom            63    
 5     @recycling.film               56    
 6     The Compartmentalist          25    
 7     fine-seat                     19    
 8     Camera.Riley                  19    
 9     Nano_Burger                   18    
 10    @ob.skura                     16    
-11    @Hol.m35                      15    
+11    @Hol.m35                      16    
 12    b0baspace                     14    
 13    @SirBrentsworth               13    
 14    toader                        13    

@@ -15,13 +15,17 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Nov 19 2025
-Unique items: 475
-Total scans : 878
+Last Updated: Nov 20 2025
+Unique items: 479
+Total scans : 883
 ```
 
 -----
 
+- [[2025-11-20] Agfa Isopan Portrait (ref: b974)](#2025-11-20-agfa-isopan-portrait-ref-b974)
+- [[2025-11-20] Agfa Isochrom Portrait (ref: 4c56)](#2025-11-20-agfa-isochrom-portrait-ref-4c56)
+- [[2025-11-20] Ilford R.25 F.P Special (ref: ec05)](#2025-11-20-ilford-r25-fp-special-ref-ec05)
+- [[2025-11-20] Street Candy Film ATM400 (ref: 4380)](#2025-11-20-street-candy-film-atm400-ref-4380)
 - [[2025-11-19] Lucky C200 (ref: 9c6c)](#2025-11-19-lucky-c200-ref-9c6c)
 - [[2025-11-11] CineStill 800T (ref: 44c4)](#2025-11-11-cinestill-800t-ref-44c4)
 - [[2025-11-11] Polaroid Green 600 Film Reclaimed Series (ref: 0180)](#2025-11-11-polaroid-green-600-film-reclaimed-series-ref-0180)
@@ -500,6 +504,69 @@ Total scans : 878
 
 
 -----
+
+#### [2025-11-20] Agfa Isopan Portrait (ref: b974)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : 1944-09 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-11-20   |  Author  : @ellafridalindblom
+UUID  : 81ded7f4902d46df8f5dd91868e7b974
+```
+
+<a href="./archive/00483_000.jpg" target="_blank">
+	<img src="./lowres/00483_000.jpg" alt="Agfa Isopan Portrait 12x16.5cm film box outside" loading="lazy" width="500" height="401">
+</a>
+
+#### [2025-11-20] Agfa Isochrom Portrait (ref: 4c56)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 50           |  Expiry  : 1948-05 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-11-20   |  Author  : @ellafridalindblom
+UUID  : dea659399cf345a6912964c10b584c56
+```
+
+<a href="./archive/00482_000.jpg" target="_blank">
+	<img src="./lowres/00482_000.jpg" alt="Agfa Isochrom Portrait 12x16.5cm film box outside" loading="lazy" width="500" height="423">
+</a>
+
+
+`UUID: f72ce470f4c24f008b715f340c95ce7f`↓
+
+<a href="./archive/00481_001.jpg" target="_blank">
+	<img src="./lowres/00481_001.jpg" alt="Ilford R.25 F.P Special 12x16.5cm film box outside" loading="lazy" width="397" height="500">
+</a>
+
+#### [2025-11-20] Ilford R.25 F.P Special (ref: ec05)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-11-20   |  Author  : @ellafridalindblom
+UUID  : 8d14ab4db3844e8fa5b59d80adbdec05
+```
+
+<a href="./archive/00481_000.jpg" target="_blank">
+	<img src="./lowres/00481_000.jpg" alt="Ilford R.25 F.P Special 12x16.5cm film box outside" loading="lazy" width="397" height="500">
+</a>
+
+#### [2025-11-20] Street Candy Film ATM400 (ref: 4380)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-20   |  Author  : @Hol.m35
+UUID  : 1b198dd0d976444ab98109d0c37c4380
+```
+
+<a href="./archive/00480_000.jpg" target="_blank">
+	<img src="./lowres/00480_000.jpg" alt="Street Candy Film ATM400 35mm film box outside" loading="lazy" width="500" height="288">
+</a>
 
 
 `UUID: 865aa90f5fca4c34b283f866c10c6054`↓
@@ -10003,14 +10070,14 @@ Rank  Username                      Contributions
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
-4     @ellafridalindblom            59    
+4     @ellafridalindblom            63    
 5     @recycling.film               56    
 6     The Compartmentalist          25    
 7     fine-seat                     19    
 8     Camera.Riley                  19    
 9     Nano_Burger                   18    
 10    @ob.skura                     16    
-11    @Hol.m35                      15    
+11    @Hol.m35                      16    
 12    b0baspace                     14    
 13    @SirBrentsworth               13    
 14    toader                        13    

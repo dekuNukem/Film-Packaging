@@ -15,20 +15,22 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Nov 19 2025
-Unique items: 475
-Total scans : 878
+Last Updated: Nov 20 2025
+Unique items: 479
+Total scans : 883
 ```
 
 -----
 
 - [[1941] Agfa Fine-Grain Plenachrome (ref: e5d4)](#1941-agfa-fine-grain-plenachrome-ref-e5d4)
 - [[1943] Kodak Super-XX (ref: 07c8)](#1943-kodak-super-xx-ref-07c8)
+- [[1944] Agfa Isopan Portrait (ref: b974)](#1944-agfa-isopan-portrait-ref-b974)
 - [[1946] Agfa Isopan FF (ref: 3700)](#1946-agfa-isopan-ff-ref-3700)
 - [[1947] Gevaert Superchrome (ref: af27)](#1947-gevaert-superchrome-ref-af27)
 - [[1947] Kodak Verichrome (ref: e465)](#1947-kodak-verichrome-ref-e465)
 - [[1947] Agfa Isopan Portrait (ref: 19b5)](#1947-agfa-isopan-portrait-ref-19b5)
 - [[1947] Perutz Perpantic Film (ref: 58b1)](#1947-perutz-perpantic-film-ref-58b1)
+- [[1948] Agfa Isochrom Portrait (ref: 4c56)](#1948-agfa-isochrom-portrait-ref-4c56)
 - [[1951] Kodak Plus-X (ref: 4b73)](#1951-kodak-plus-x-ref-4b73)
 - [[1951] Kodak Verichrome (ref: c9c2)](#1951-kodak-verichrome-ref-c9c2)
 - [[1956] Ansco Plenachrome (ref: 3c6c)](#1956-ansco-plenachrome-ref-3c6c)
@@ -476,6 +478,7 @@ Total scans : 878
 - [[Unknown] Great Films Processing Kodachrome (ref: c012)](#unknown-great-films-processing-kodachrome-ref-c012)
 - [[Unknown] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#unknown-hasselblad-hassel-plåtar-erorto-ref-ec67)
 - [[Unknown] Ilford HP3 (ref: ae35)](#unknown-ilford-hp3-ref-ae35)
+- [[Unknown] Ilford R.25 F.P Special (ref: ec05)](#unknown-ilford-r25-fp-special-ref-ec05)
 - [[Unknown] Illingworth's Fleet H&D (ref: 54fe)](#unknown-illingworths-fleet-h-d-ref-54fe)
 - [[Unknown] Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)](#unknown-impossible-project-px-600-silver-shade-uv-ref-20f3)
 - [[Unknown] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#unknown-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
@@ -494,6 +497,7 @@ Total scans : 878
 - [[Unknown] Sharan Black-and-white Negative Film (ref: a884)](#unknown-sharan-black-and-white-negative-film-ref-a884)
 - [[Unknown] Sharan Color Negative Film (ref: 4913)](#unknown-sharan-color-negative-film-ref-4913)
 - [[Unknown] Space Cat Film Mars 250D (ref: 5027)](#unknown-space-cat-film-mars-250d-ref-5027)
+- [[Unknown] Street Candy Film ATM400 (ref: 4380)](#unknown-street-candy-film-atm400-ref-4380)
 - [[Unknown] Svema Foto 64 (ref: 10cb)](#unknown-svema-foto-64-ref-10cb)
 - [[Unknown] Walkens Speed 400 (ref: 740f)](#unknown-walkens-speed-400-ref-740f)
 - [[Unkonwn] Agfa Trockenplatten (ref: 41a8)](#unkonwn-agfa-trockenplatten-ref-41a8)
@@ -534,6 +538,20 @@ UUID  : ec96eb9587cf4485a00f2af323eb07c8
 
 <a href="./archive/00411_000.jpg" target="_blank">
 	<img src="./lowres/00411_000.jpg" alt="Kodak Super-XX 616 film box outside" loading="lazy" width="496" height="499">
+</a>
+
+#### [1944] Agfa Isopan Portrait (ref: b974)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : 1944-09 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-11-20   |  Author  : @ellafridalindblom
+UUID  : 81ded7f4902d46df8f5dd91868e7b974
+```
+
+<a href="./archive/00483_000.jpg" target="_blank">
+	<img src="./lowres/00483_000.jpg" alt="Agfa Isopan Portrait 12x16.5cm film box outside" loading="lazy" width="500" height="401">
 </a>
 
 #### [1946] Agfa Isopan FF (ref: 3700)
@@ -604,6 +622,20 @@ UUID  : 795c66ef065f442ab27e4ffb9de758b1
 
 <a href="./archive/00420_000.jpg" target="_blank">
 	<img src="./lowres/00420_000.jpg" alt="Perutz Perpantic Film 120 film box outside" loading="lazy" width="424" height="500">
+</a>
+
+#### [1948] Agfa Isochrom Portrait (ref: 4c56)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 50           |  Expiry  : 1948-05 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-11-20   |  Author  : @ellafridalindblom
+UUID  : dea659399cf345a6912964c10b584c56
+```
+
+<a href="./archive/00482_000.jpg" target="_blank">
+	<img src="./lowres/00482_000.jpg" alt="Agfa Isochrom Portrait 12x16.5cm film box outside" loading="lazy" width="500" height="423">
 </a>
 
 #### [1951] Kodak Plus-X (ref: 4b73)
@@ -9567,6 +9599,27 @@ UUID  : dbfd040081714492bd8bcc80d496ae35
 	<img src="./lowres/00455_000.jpg" alt="Ilford HP3 Unknown film box outside" loading="lazy" width="500" height="368">
 </a>
 
+#### [Unknown] Ilford R.25 F.P Special (ref: ec05)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-11-20   |  Author  : @ellafridalindblom
+UUID  : 8d14ab4db3844e8fa5b59d80adbdec05
+```
+
+<a href="./archive/00481_000.jpg" target="_blank">
+	<img src="./lowres/00481_000.jpg" alt="Ilford R.25 F.P Special 12x16.5cm film box outside" loading="lazy" width="397" height="500">
+</a>
+
+
+`UUID: f72ce470f4c24f008b715f340c95ce7f`↓
+
+<a href="./archive/00481_001.jpg" target="_blank">
+	<img src="./lowres/00481_001.jpg" alt="Ilford R.25 F.P Special 12x16.5cm film box outside" loading="lazy" width="397" height="500">
+</a>
+
 #### [Unknown] Illingworth's Fleet H&D (ref: 54fe)
 
 ```
@@ -9942,6 +9995,20 @@ UUID  : 1595b93966854178a03bc6d0de705027
 	<img src="./lowres/00227_000.jpg" alt="Space Cat Film Mars 250D 35mm film box outside" loading="lazy" width="500" height="362">
 </a>
 
+#### [Unknown] Street Candy Film ATM400 (ref: 4380)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-20   |  Author  : @Hol.m35
+UUID  : 1b198dd0d976444ab98109d0c37c4380
+```
+
+<a href="./archive/00480_000.jpg" target="_blank">
+	<img src="./lowres/00480_000.jpg" alt="Street Candy Film ATM400 35mm film box outside" loading="lazy" width="500" height="288">
+</a>
+
 #### [Unknown] Svema Foto 64 (ref: 10cb)
 
 ```
@@ -10003,14 +10070,14 @@ Rank  Username                      Contributions
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
-4     @ellafridalindblom            59    
+4     @ellafridalindblom            63    
 5     @recycling.film               56    
 6     The Compartmentalist          25    
 7     fine-seat                     19    
 8     Camera.Riley                  19    
 9     Nano_Burger                   18    
 10    @ob.skura                     16    
-11    @Hol.m35                      15    
+11    @Hol.m35                      16    
 12    b0baspace                     14    
 13    @SirBrentsworth               13    
 14    toader                        13    

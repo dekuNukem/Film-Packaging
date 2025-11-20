@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Nov 19 2025
-Unique items: 475
-Total scans : 878
+Last Updated: Nov 20 2025
+Unique items: 479
+Total scans : 883
 ```
 
 -----
@@ -51,6 +51,7 @@ Total scans : 878
 - [Agfa CT Precisa 100 (ref: bc36)](#agfa-ct-precisa-100-ref-bc36)
 - [Agfa Extra Rapid Platten (ref: 7418)](#agfa-extra-rapid-platten-ref-7418)
 - [Agfa Fine-Grain Plenachrome (ref: e5d4)](#agfa-fine-grain-plenachrome-ref-e5d4)
+- [Agfa Isochrom Portrait (ref: 4c56)](#agfa-isochrom-portrait-ref-4c56)
 - [Agfa Isopan FF (ref: 3700)](#agfa-isopan-ff-ref-3700)
 - [Agfa Isopan IF Rapid (ref: 5962)](#agfa-isopan-if-rapid-ref-5962)
 - [Agfa Isopan IF Rapid (ref: 2b99)](#agfa-isopan-if-rapid-ref-2b99)
@@ -59,6 +60,7 @@ Total scans : 878
 - [Agfa Isopan ISS (ref: b9d7)](#agfa-isopan-iss-ref-b9d7)
 - [Agfa Isopan ISS Rapid (ref: 9799)](#agfa-isopan-iss-rapid-ref-9799)
 - [Agfa Isopan ISS Rapid (ref: 3aee)](#agfa-isopan-iss-rapid-ref-3aee)
+- [Agfa Isopan Portrait (ref: b974)](#agfa-isopan-portrait-ref-b974)
 - [Agfa Isopan Portrait (ref: 19b5)](#agfa-isopan-portrait-ref-19b5)
 - [Agfa Optima II 400 (ref: fdf0)](#agfa-optima-ii-400-ref-fdf0)
 - [Agfa Trockenplatten (ref: 0937)](#agfa-trockenplatten-ref-0937)
@@ -220,6 +222,7 @@ Total scans : 878
 - [Ilford HP5 Plus (ref: 1a5d)](#ilford-hp5-plus-ref-1a5d)
 - [Ilford HP5 Plus (ref: df49)](#ilford-hp5-plus-ref-df49)
 - [Ilford Ilfochrome (ref: ac24)](#ilford-ilfochrome-ref-ac24)
+- [Ilford R.25 F.P Special (ref: ec05)](#ilford-r25-fp-special-ref-ec05)
 - [Ilford SFX 200 (ref: 6057)](#ilford-sfx-200-ref-6057)
 - [Ilford Selochrome (ref: f534)](#ilford-selochrome-ref-f534)
 - [Ilford XP2 (ref: 7d94)](#ilford-xp2-ref-7d94)
@@ -478,6 +481,7 @@ Total scans : 878
 - [Sharan Black-and-white Negative Film (ref: a884)](#sharan-black-and-white-negative-film-ref-a884)
 - [Sharan Color Negative Film (ref: 4913)](#sharan-color-negative-film-ref-4913)
 - [Space Cat Film Mars 250D (ref: 5027)](#space-cat-film-mars-250d-ref-5027)
+- [Street Candy Film ATM400 (ref: 4380)](#street-candy-film-atm400-ref-4380)
 - [SupaSnaps Snappit Film (ref: c41b)](#supasnaps-snappit-film-ref-c41b)
 - [Svema Foto 200 (ref: 6991)](#svema-foto-200-ref-6991)
 - [Svema Foto 32 (ref: 8b44)](#svema-foto-32-ref-8b44)
@@ -1145,6 +1149,20 @@ UUID  : 66a105cd605748d78884e5c305a4e5d4
 	<img src="./lowres/00179_001.jpg" alt="Agfa Fine-Grain Plenachrome 35mm film box outside" loading="lazy" width="479" height="499">
 </a>
 
+#### Agfa Isochrom Portrait (ref: 4c56)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 50           |  Expiry  : 1948-05 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-11-20   |  Author  : @ellafridalindblom
+UUID  : dea659399cf345a6912964c10b584c56
+```
+
+<a href="./archive/00482_000.jpg" target="_blank">
+	<img src="./lowres/00482_000.jpg" alt="Agfa Isochrom Portrait 12x16.5cm film box outside" loading="lazy" width="500" height="423">
+</a>
+
 #### Agfa Isopan FF (ref: 3700)
 
 ```
@@ -1269,6 +1287,20 @@ UUID  : d90937332f0a4392adb1f344b5ba3aee
 
 <a href="./archive/00448_000.jpg" target="_blank">
 	<img src="./lowres/00448_000.jpg" alt="Agfa Isopan ISS Rapid 35mm film box outside" loading="lazy" width="500" height="483">
+</a>
+
+#### Agfa Isopan Portrait (ref: b974)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : 1944-09 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-11-20   |  Author  : @ellafridalindblom
+UUID  : 81ded7f4902d46df8f5dd91868e7b974
+```
+
+<a href="./archive/00483_000.jpg" target="_blank">
+	<img src="./lowres/00483_000.jpg" alt="Agfa Isopan Portrait 12x16.5cm film box outside" loading="lazy" width="500" height="401">
 </a>
 
 #### Agfa Isopan Portrait (ref: 19b5)
@@ -4337,6 +4369,27 @@ UUID  : e7713fa57cac41e3ae3f416f3ea5ac24
 
 <a href="./archive/00302_000.jpg" target="_blank">
 	<img src="./lowres/00302_000.jpg" alt="Ilford Ilfochrome 35mm film box outside" loading="lazy" width="410" height="499">
+</a>
+
+#### Ilford R.25 F.P Special (ref: ec05)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-11-20   |  Author  : @ellafridalindblom
+UUID  : 8d14ab4db3844e8fa5b59d80adbdec05
+```
+
+<a href="./archive/00481_000.jpg" target="_blank">
+	<img src="./lowres/00481_000.jpg" alt="Ilford R.25 F.P Special 12x16.5cm film box outside" loading="lazy" width="397" height="500">
+</a>
+
+
+`UUID: f72ce470f4c24f008b715f340c95ce7f`↓
+
+<a href="./archive/00481_001.jpg" target="_blank">
+	<img src="./lowres/00481_001.jpg" alt="Ilford R.25 F.P Special 12x16.5cm film box outside" loading="lazy" width="397" height="500">
 </a>
 
 #### Ilford SFX 200 (ref: 6057)
@@ -9647,6 +9700,20 @@ UUID  : 1595b93966854178a03bc6d0de705027
 	<img src="./lowres/00227_000.jpg" alt="Space Cat Film Mars 250D 35mm film box outside" loading="lazy" width="500" height="362">
 </a>
 
+#### Street Candy Film ATM400 (ref: 4380)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-20   |  Author  : @Hol.m35
+UUID  : 1b198dd0d976444ab98109d0c37c4380
+```
+
+<a href="./archive/00480_000.jpg" target="_blank">
+	<img src="./lowres/00480_000.jpg" alt="Street Candy Film ATM400 35mm film box outside" loading="lazy" width="500" height="288">
+</a>
+
 #### SupaSnaps Snappit Film (ref: c41b)
 
 ```
@@ -10003,14 +10070,14 @@ Rank  Username                      Contributions
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
-4     @ellafridalindblom            59    
+4     @ellafridalindblom            63    
 5     @recycling.film               56    
 6     The Compartmentalist          25    
 7     fine-seat                     19    
 8     Camera.Riley                  19    
 9     Nano_Burger                   18    
 10    @ob.skura                     16    
-11    @Hol.m35                      15    
+11    @Hol.m35                      16    
 12    b0baspace                     14    
 13    @SirBrentsworth               13    
 14    toader                        13    

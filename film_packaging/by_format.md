@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Nov 19 2025
-Unique items: 475
-Total scans : 878
+Last Updated: Nov 20 2025
+Unique items: 479
+Total scans : 883
 ```
 
 -----
@@ -160,12 +160,15 @@ Total scans : 878
 - [[127] Triple-Print Film Labs Color Negative Film (ref: 88e6)](#127-triple-print-film-labs-color-negative-film-ref-88e6)
 - [[127] efke R100 (ref: 10ad)](#127-efke-r100-ref-10ad)
 - [[127] efke R100 (ref: 100d)](#127-efke-r100-ref-100d)
+- [[12x16.5cm] Agfa Isochrom Portrait (ref: 4c56)](#12x165cm-agfa-isochrom-portrait-ref-4c56)
+- [[12x16.5cm] Agfa Isopan Portrait (ref: b974)](#12x165cm-agfa-isopan-portrait-ref-b974)
 - [[12x16.5cm] Agfa Isopan Portrait (ref: 19b5)](#12x165cm-agfa-isopan-portrait-ref-19b5)
 - [[12x16.5cm] Defender Extra Fast Panchromatic (ref: 348b)](#12x165cm-defender-extra-fast-panchromatic-ref-348b)
 - [[12x16.5cm] Defender Extra Special Fast Panchromatic (ref: afcf)](#12x165cm-defender-extra-special-fast-panchromatic-ref-afcf)
 - [[12x16.5cm] Defender Portrait HGS (ref: d69c)](#12x165cm-defender-portrait-hgs-ref-d69c)
 - [[12x16.5cm] Gevaert Studio Film (ref: 75f9)](#12x165cm-gevaert-studio-film-ref-75f9)
 - [[12x16.5cm] Gevaert Ultra Panchro Normal (ref: 1ff6)](#12x165cm-gevaert-ultra-panchro-normal-ref-1ff6)
+- [[12x16.5cm] Ilford R.25 F.P Special (ref: ec05)](#12x165cm-ilford-r25-fp-special-ref-ec05)
 - [[12x16.5cm] Kodak Super-XX (ref: e684)](#12x165cm-kodak-super-xx-ref-e684)
 - [[12x16.5cm] Kodak Super-sensitive Panchromatic Films (ref: 21a0)](#12x165cm-kodak-super-sensitive-panchromatic-films-ref-21a0)
 - [[12x16.5cm] Kodak Tri-X Pan (ref: 6608)](#12x165cm-kodak-tri-x-pan-ref-6608)
@@ -436,6 +439,7 @@ Total scans : 878
 - [[35mm] SantaColor SantaColor (ref: f3a7)](#35mm-santacolor-santacolor-ref-f3a7)
 - [[35mm] Seagull Seagull Color IR100 (ref: e7cc)](#35mm-seagull-seagull-color-ir100-ref-e7cc)
 - [[35mm] Space Cat Film Mars 250D (ref: 5027)](#35mm-space-cat-film-mars-250d-ref-5027)
+- [[35mm] Street Candy Film ATM400 (ref: 4380)](#35mm-street-candy-film-atm400-ref-4380)
 - [[35mm] Svema Foto 200 (ref: 6991)](#35mm-svema-foto-200-ref-6991)
 - [[35mm] Svema Foto 32 (ref: d1fd)](#35mm-svema-foto-32-ref-d1fd)
 - [[35mm] Svema Foto 400 (ref: 26ad)](#35mm-svema-foto-400-ref-26ad)
@@ -3410,6 +3414,34 @@ UUID  : fc90db41b94d486491177a8407f1100d
 	<img src="./lowres/00435_002.jpg" alt="efke R100 127 film box leaflet" loading="lazy" width="500" height="453">
 </a>
 
+#### [12x16.5cm] Agfa Isochrom Portrait (ref: 4c56)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 50           |  Expiry  : 1948-05 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-11-20   |  Author  : @ellafridalindblom
+UUID  : dea659399cf345a6912964c10b584c56
+```
+
+<a href="./archive/00482_000.jpg" target="_blank">
+	<img src="./lowres/00482_000.jpg" alt="Agfa Isochrom Portrait 12x16.5cm film box outside" loading="lazy" width="500" height="423">
+</a>
+
+#### [12x16.5cm] Agfa Isopan Portrait (ref: b974)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : 1944-09 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-11-20   |  Author  : @ellafridalindblom
+UUID  : 81ded7f4902d46df8f5dd91868e7b974
+```
+
+<a href="./archive/00483_000.jpg" target="_blank">
+	<img src="./lowres/00483_000.jpg" alt="Agfa Isopan Portrait 12x16.5cm film box outside" loading="lazy" width="500" height="401">
+</a>
+
 #### [12x16.5cm] Agfa Isopan Portrait (ref: 19b5)
 
 ```
@@ -3500,6 +3532,27 @@ UUID  : 9a6b4771688d43c58b96c254e43d1ff6
 
 <a href="./archive/00288_000.jpg" target="_blank">
 	<img src="./lowres/00288_000.jpg" alt="Gevaert Ultra Panchro Normal 12x16.5cm film box outside" loading="lazy" width="379" height="500">
+</a>
+
+#### [12x16.5cm] Ilford R.25 F.P Special (ref: ec05)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2025-11-20   |  Author  : @ellafridalindblom
+UUID  : 8d14ab4db3844e8fa5b59d80adbdec05
+```
+
+<a href="./archive/00481_000.jpg" target="_blank">
+	<img src="./lowres/00481_000.jpg" alt="Ilford R.25 F.P Special 12x16.5cm film box outside" loading="lazy" width="397" height="500">
+</a>
+
+
+`UUID: f72ce470f4c24f008b715f340c95ce7f`↓
+
+<a href="./archive/00481_001.jpg" target="_blank">
+	<img src="./lowres/00481_001.jpg" alt="Ilford R.25 F.P Special 12x16.5cm film box outside" loading="lazy" width="397" height="500">
 </a>
 
 #### [12x16.5cm] Kodak Super-XX (ref: e684)
@@ -8701,6 +8754,20 @@ UUID  : 1595b93966854178a03bc6d0de705027
 	<img src="./lowres/00227_000.jpg" alt="Space Cat Film Mars 250D 35mm film box outside" loading="lazy" width="500" height="362">
 </a>
 
+#### [35mm] Street Candy Film ATM400 (ref: 4380)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-20   |  Author  : @Hol.m35
+UUID  : 1b198dd0d976444ab98109d0c37c4380
+```
+
+<a href="./archive/00480_000.jpg" target="_blank">
+	<img src="./lowres/00480_000.jpg" alt="Street Candy Film ATM400 35mm film box outside" loading="lazy" width="500" height="288">
+</a>
+
 #### [35mm] Svema Foto 200 (ref: 6991)
 
 ```
@@ -10003,14 +10070,14 @@ Rank  Username                      Contributions
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
-4     @ellafridalindblom            59    
+4     @ellafridalindblom            63    
 5     @recycling.film               56    
 6     The Compartmentalist          25    
 7     fine-seat                     19    
 8     Camera.Riley                  19    
 9     Nano_Burger                   18    
 10    @ob.skura                     16    
-11    @Hol.m35                      15    
+11    @Hol.m35                      16    
 12    b0baspace                     14    
 13    @SirBrentsworth               13    
 14    toader                        13    
