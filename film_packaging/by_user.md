@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Nov 20 2025
-Unique items: 479
-Total scans : 883
+Last Updated: Nov 25 2025
+Unique items: 482
+Total scans : 887
 ```
 
 -----
@@ -164,6 +164,7 @@ Total scans : 883
 - [[@recycling.film] Ilford XP2 (ref: 7d94)](#recyclingfilm-ilford-xp2-ref-7d94)
 - [[@recycling.film] Kodak ColorPlus (ref: 6637)](#recyclingfilm-kodak-colorplus-ref-6637)
 - [[@recycling.film] Kodak Ektachrome 64 (ref: 02cc)](#recyclingfilm-kodak-ektachrome-64-ref-02cc)
+- [[@recycling.film] Kodak Ektachrome Elite 200 (ref: b736)](#recyclingfilm-kodak-ektachrome-elite-200-ref-b736)
 - [[@recycling.film] Kodak Portra 160 (ref: ce56)](#recyclingfilm-kodak-portra-160-ref-ce56)
 - [[@recycling.film] Kodak Portra 400 (ref: cf9c)](#recyclingfilm-kodak-portra-400-ref-cf9c)
 - [[@recycling.film] Kodak Portra 800 (ref: 7d65)](#recyclingfilm-kodak-portra-800-ref-7d65)
@@ -176,6 +177,8 @@ Total scans : 883
 - [[@recycling.film] Perfect Photo Inc. Perfect-Pan Film (ref: c214)](#recyclingfilm-perfect-photo-inc-perfect-pan-film-ref-c214)
 - [[@recycling.film] Perutz Peromnia 21 (ref: fa4a)](#recyclingfilm-perutz-peromnia-21-ref-fa4a)
 - [[@recycling.film] Perutz Perpantic Film (ref: 58b1)](#recyclingfilm-perutz-perpantic-film-ref-58b1)
+- [[@recycling.film] Photocité 400 ISO (ref: e370)](#recyclingfilm-photocité-400-iso-ref-e370)
+- [[@recycling.film] Seagull Seagull Color IR100 (ref: 8fd8)](#recyclingfilm-seagull-seagull-color-ir100-ref-8fd8)
 - [[@recycling.film] Svema Foto 32 (ref: 8b44)](#recyclingfilm-svema-foto-32-ref-8b44)
 - [[@recycling.film] Svema Foto 32 (ref: d1fd)](#recyclingfilm-svema-foto-32-ref-d1fd)
 - [[@recycling.film] Svema Foto 64 (ref: 10cb)](#recyclingfilm-svema-foto-64-ref-10cb)
@@ -3066,6 +3069,27 @@ Notes : EPR
 	<img src="./lowres/00414_002.jpg" alt="Kodak Ektachrome 64 35mm film box leaflet" loading="lazy" width="231" height="500">
 </a>
 
+#### [@recycling.film] Kodak Ektachrome Elite 200 (ref: b736)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 200          |  Expiry  : 1997-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-25   |  Author  : @recycling.film
+UUID  : 19e57cb4060b4782955a5a5667fdb736
+```
+
+<a href="./archive/00484_000.jpg" target="_blank">
+	<img src="./lowres/00484_000.jpg" alt="Kodak Ektachrome Elite 200 35mm film box outside" loading="lazy" width="500" height="498">
+</a>
+
+
+`UUID: d71ecd2dd0d14c0f9c86aea0d8be963f`↓
+
+<a href="./archive/00484_001.jpg" target="_blank">
+	<img src="./lowres/00484_001.jpg" alt="Kodak Ektachrome Elite 200 35mm film box inside" loading="lazy" width="490" height="500">
+</a>
+
 #### [@recycling.film] Kodak Portra 160 (ref: ce56)
 
 ```
@@ -3288,6 +3312,34 @@ UUID  : 795c66ef065f442ab27e4ffb9de758b1
 
 <a href="./archive/00420_000.jpg" target="_blank">
 	<img src="./lowres/00420_000.jpg" alt="Perutz Perpantic Film 120 film box outside" loading="lazy" width="424" height="500">
+</a>
+
+#### [@recycling.film] Photocité 400 ISO (ref: e370)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2010-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-25   |  Author  : @recycling.film
+UUID  : eeccbc03ca25486db372e649d073e370
+```
+
+<a href="./archive/00486_000.jpg" target="_blank">
+	<img src="./lowres/00486_000.jpg" alt="Photocité 400 ISO 35mm film box outside" loading="lazy" width="471" height="499">
+</a>
+
+#### [@recycling.film] Seagull Seagull Color IR100 (ref: 8fd8)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1990-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-25   |  Author  : @recycling.film
+UUID  : dc59644d2764497d985b1f24bd2c8fd8
+```
+
+<a href="./archive/00485_000.jpg" target="_blank">
+	<img src="./lowres/00485_000.jpg" alt="Seagull Seagull Color IR100 35mm film box outside" loading="lazy" width="382" height="500">
 </a>
 
 #### [@recycling.film] Svema Foto 32 (ref: 8b44)
@@ -10071,7 +10123,7 @@ Rank  Username                      Contributions
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @ellafridalindblom            63    
-5     @recycling.film               56    
+5     @recycling.film               60    
 6     The Compartmentalist          25    
 7     fine-seat                     19    
 8     Camera.Riley                  19    

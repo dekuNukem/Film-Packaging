@@ -15,13 +15,16 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Nov 20 2025
-Unique items: 479
-Total scans : 883
+Last Updated: Nov 25 2025
+Unique items: 482
+Total scans : 887
 ```
 
 -----
 
+- [[2025-11-25] Photocité 400 ISO (ref: e370)](#2025-11-25-photocité-400-iso-ref-e370)
+- [[2025-11-25] Seagull Seagull Color IR100 (ref: 8fd8)](#2025-11-25-seagull-seagull-color-ir100-ref-8fd8)
+- [[2025-11-25] Kodak Ektachrome Elite 200 (ref: b736)](#2025-11-25-kodak-ektachrome-elite-200-ref-b736)
 - [[2025-11-20] Agfa Isopan Portrait (ref: b974)](#2025-11-20-agfa-isopan-portrait-ref-b974)
 - [[2025-11-20] Agfa Isochrom Portrait (ref: 4c56)](#2025-11-20-agfa-isochrom-portrait-ref-4c56)
 - [[2025-11-20] Ilford R.25 F.P Special (ref: ec05)](#2025-11-20-ilford-r25-fp-special-ref-ec05)
@@ -504,6 +507,55 @@ Total scans : 883
 
 
 -----
+
+#### [2025-11-25] Photocité 400 ISO (ref: e370)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2010-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-25   |  Author  : @recycling.film
+UUID  : eeccbc03ca25486db372e649d073e370
+```
+
+<a href="./archive/00486_000.jpg" target="_blank">
+	<img src="./lowres/00486_000.jpg" alt="Photocité 400 ISO 35mm film box outside" loading="lazy" width="471" height="499">
+</a>
+
+#### [2025-11-25] Seagull Seagull Color IR100 (ref: 8fd8)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1990-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-25   |  Author  : @recycling.film
+UUID  : dc59644d2764497d985b1f24bd2c8fd8
+```
+
+<a href="./archive/00485_000.jpg" target="_blank">
+	<img src="./lowres/00485_000.jpg" alt="Seagull Seagull Color IR100 35mm film box outside" loading="lazy" width="382" height="500">
+</a>
+
+
+`UUID: d71ecd2dd0d14c0f9c86aea0d8be963f`↓
+
+<a href="./archive/00484_001.jpg" target="_blank">
+	<img src="./lowres/00484_001.jpg" alt="Kodak Ektachrome Elite 200 35mm film box inside" loading="lazy" width="490" height="500">
+</a>
+
+#### [2025-11-25] Kodak Ektachrome Elite 200 (ref: b736)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 200          |  Expiry  : 1997-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-25   |  Author  : @recycling.film
+UUID  : 19e57cb4060b4782955a5a5667fdb736
+```
+
+<a href="./archive/00484_000.jpg" target="_blank">
+	<img src="./lowres/00484_000.jpg" alt="Kodak Ektachrome Elite 200 35mm film box outside" loading="lazy" width="500" height="498">
+</a>
 
 #### [2025-11-20] Agfa Isopan Portrait (ref: b974)
 
@@ -10071,7 +10123,7 @@ Rank  Username                      Contributions
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @ellafridalindblom            63    
-5     @recycling.film               56    
+5     @recycling.film               60    
 6     The Compartmentalist          25    
 7     fine-seat                     19    
 8     Camera.Riley                  19    

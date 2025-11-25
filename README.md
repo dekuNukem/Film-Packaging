@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Nov 20 2025
-Unique items: 479
-Total scans : 883
+Last Updated: Nov 25 2025
+Unique items: 482
+Total scans : 887
 ```
 
 Or Sort by...
@@ -57,7 +57,7 @@ Rank  Username                      Contributions
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @ellafridalindblom            63    
-5     @recycling.film               56    
+5     @recycling.film               60    
 6     The Compartmentalist          25    
 7     fine-seat                     19    
 8     Camera.Riley                  19    
@@ -96,6 +96,11 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-11-25
+  - @recycling.film: Kodak Ektachrome Elite 200
+  - @recycling.film: Photocité 400 ISO
+  - @recycling.film: Seagull Seagull Color IR100
+
 2025-11-20
   - @ellafridalindblom: Agfa Isochrom Portrait
   - @ellafridalindblom: Agfa Isopan Portrait
@@ -132,11 +137,6 @@ Rank  Username                      Contributions
   - @ellafridalindblom: Kodak Super-sensitive Panchromatic Films
   - @ellafridalindblom: Kodak Super-XX
   - @ellafridalindblom: Kodak Tri-X Pan
-
-2025-10-25
-  - dekuNukem: Famous Brand Labs Color Negative Film
-  - dekuNukem: Perutz Peromnia 21
-  - minidiscus: Kodak Kodacolor 100
 ```
 
 ## Disclaimer

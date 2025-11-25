@@ -882,3 +882,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 481,1,film_box_outside,Ilford,R.25 F.P Special,12x16.5cm,80,BW,Unknown,1763639647,e2af54cd31f479b2258a17a0be86bc83,f72ce470f4c24f008b715f340c95ce7f,00481_001.jpg,@ellafridalindblom,,Single Pack,12 Sheets
 482,0,film_box_outside,Agfa,Isochrom Portrait,12x16.5cm,50,BW,194805,1763639764,8b74328aa74592d7d5325f6bb5d6e0dc,dea659399cf345a6912964c10b584c56,00482_000.jpg,@ellafridalindblom,,Single Pack,12 Sheets
 483,0,film_box_outside,Agfa,Isopan Portrait,12x16.5cm,80,BW,194409,1763639831,5dafb3575eb4c750c6de5df6bd5d43e7,81ded7f4902d46df8f5dd91868e7b974,00483_000.jpg,@ellafridalindblom,,Single Pack,12 Sheets
+484,0,film_box_outside,Kodak,Ektachrome Elite 200,35mm,200,E-6,199707,1764113254,a38eb764be50ec62707204eee1bd6998,19e57cb4060b4782955a5a5667fdb736,00484_000.jpg,@recycling.film,,Single Pack,36exp
+484,1,film_box_inside,Kodak,Ektachrome Elite 200,35mm,200,E-6,199707,1764113260,7fbbd30ae54ee7e5e3eff4e53700b32e,d71ecd2dd0d14c0f9c86aea0d8be963f,00484_001.jpg,@recycling.film,,Single Pack,36exp
+485,0,film_box_outside,Seagull,Seagull Color IR100,35mm,100,C-41,199001,1764113404,46a33f1ff07bd801cda7d542512b67d0,dc59644d2764497d985b1f24bd2c8fd8,00485_000.jpg,@recycling.film,,Single Pack,36exp
+486,0,film_box_outside,Photocité,400 ISO,35mm,400,C-41,201002,1764113520,86d7c86719363d88e9d787982c1f28d6,eeccbc03ca25486db372e649d073e370,00486_000.jpg,@recycling.film,,Single Pack,36exp

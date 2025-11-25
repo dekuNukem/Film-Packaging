@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Nov 20 2025
-Unique items: 479
-Total scans : 883
+Last Updated: Nov 25 2025
+Unique items: 482
+Total scans : 887
 ```
 
 -----
@@ -273,6 +273,7 @@ Total scans : 883
 - [Kodak Ektachrome E100 (ref: ae10)](#kodak-ektachrome-e100-ref-ae10)
 - [Kodak Ektachrome E100VS (ref: a8d3)](#kodak-ektachrome-e100vs-ref-a8d3)
 - [Kodak Ektachrome Elite 100 (ref: 26ef)](#kodak-ektachrome-elite-100-ref-26ef)
+- [Kodak Ektachrome Elite 200 (ref: b736)](#kodak-ektachrome-elite-200-ref-b736)
 - [Kodak Ektachrome Elite 200 (ref: a391)](#kodak-ektachrome-elite-200-ref-a391)
 - [Kodak Ektachrome Professional (ref: 02a1)](#kodak-ektachrome-professional-ref-02a1)
 - [Kodak Ektachrome Professional Type B (ref: 1d9d)](#kodak-ektachrome-professional-type-b-ref-1d9d)
@@ -434,6 +435,7 @@ Total scans : 883
 - [Perutz Peromnia 21 (ref: bf2a)](#perutz-peromnia-21-ref-bf2a)
 - [Perutz Perpantic Film (ref: 58b1)](#perutz-perpantic-film-ref-58b1)
 - [Perutz Superomnia (ref: c90d)](#perutz-superomnia-ref-c90d)
+- [Photocité 400 ISO (ref: e370)](#photocité-400-iso-ref-e370)
 - [Phöbus-Platten Sheet Film (ref: d505)](#phöbus-platten-sheet-film-ref-d505)
 - [Polaroid 665 (ref: e054)](#polaroid-665-ref-e054)
 - [Polaroid 669 (ref: 3566)](#polaroid-669-ref-3566)
@@ -477,6 +479,7 @@ Total scans : 883
 - [SantaColor SantaColor (ref: cb58)](#santacolor-santacolor-ref-cb58)
 - [SantaColor SantaColor (ref: f3a7)](#santacolor-santacolor-ref-f3a7)
 - [Seagull Seagull Color IR100 (ref: e7cc)](#seagull-seagull-color-ir100-ref-e7cc)
+- [Seagull Seagull Color IR100 (ref: 8fd8)](#seagull-seagull-color-ir100-ref-8fd8)
 - [Shanghai GP3 (ref: 52aa)](#shanghai-gp3-ref-52aa)
 - [Sharan Black-and-white Negative Film (ref: a884)](#sharan-black-and-white-negative-film-ref-a884)
 - [Sharan Color Negative Film (ref: 4913)](#sharan-color-negative-film-ref-4913)
@@ -5415,6 +5418,27 @@ UUID  : 175cf2b69fe3413093d9d7f9ea0d26ef
 	<img src="./lowres/00114_001.jpg" alt="Kodak Ektachrome Elite 100 35mm film box inside" loading="lazy" width="441" height="500">
 </a>
 
+#### Kodak Ektachrome Elite 200 (ref: b736)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 200          |  Expiry  : 1997-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-25   |  Author  : @recycling.film
+UUID  : 19e57cb4060b4782955a5a5667fdb736
+```
+
+<a href="./archive/00484_000.jpg" target="_blank">
+	<img src="./lowres/00484_000.jpg" alt="Kodak Ektachrome Elite 200 35mm film box outside" loading="lazy" width="500" height="498">
+</a>
+
+
+`UUID: d71ecd2dd0d14c0f9c86aea0d8be963f`↓
+
+<a href="./archive/00484_001.jpg" target="_blank">
+	<img src="./lowres/00484_001.jpg" alt="Kodak Ektachrome Elite 200 35mm film box inside" loading="lazy" width="490" height="500">
+</a>
+
 #### Kodak Ektachrome Elite 200 (ref: a391)
 
 ```
@@ -8628,6 +8652,20 @@ UUID  : b220e7d5dbee49898fbd1d42ee67c90d
 	<img src="./lowres/00096_000.jpg" alt="Perutz Superomnia 9x12cm film box outside" loading="lazy" width="500" height="367">
 </a>
 
+#### Photocité 400 ISO (ref: e370)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2010-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-25   |  Author  : @recycling.film
+UUID  : eeccbc03ca25486db372e649d073e370
+```
+
+<a href="./archive/00486_000.jpg" target="_blank">
+	<img src="./lowres/00486_000.jpg" alt="Photocité 400 ISO 35mm film box outside" loading="lazy" width="471" height="499">
+</a>
+
 #### Phöbus-Platten Sheet Film (ref: d505)
 
 ```
@@ -9601,6 +9639,20 @@ UUID  : 4696688cabf54eeb83cf66b2fb00e7cc
 	<img src="./lowres/00463_002.jpg" alt="Seagull Seagull Color IR100 35mm film box leaflet" loading="lazy" width="176" height="500">
 </a>
 
+#### Seagull Seagull Color IR100 (ref: 8fd8)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1990-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-25   |  Author  : @recycling.film
+UUID  : dc59644d2764497d985b1f24bd2c8fd8
+```
+
+<a href="./archive/00485_000.jpg" target="_blank">
+	<img src="./lowres/00485_000.jpg" alt="Seagull Seagull Color IR100 35mm film box outside" loading="lazy" width="382" height="500">
+</a>
+
 #### Shanghai GP3 (ref: 52aa)
 
 ```
@@ -10071,7 +10123,7 @@ Rank  Username                      Contributions
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @ellafridalindblom            63    
-5     @recycling.film               56    
+5     @recycling.film               60    
 6     The Compartmentalist          25    
 7     fine-seat                     19    
 8     Camera.Riley                  19    

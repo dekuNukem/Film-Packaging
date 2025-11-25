@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Nov 20 2025
-Unique items: 479
-Total scans : 883
+Last Updated: Nov 25 2025
+Unique items: 482
+Total scans : 887
 ```
 
 -----
@@ -132,6 +132,7 @@ Total scans : 883
 - [[1989] Minox MinoColor 3 (ref: d209)](#1989-minox-minocolor-3-ref-d209)
 - [[1989] Fujifilm Fujicolor Super HR (ref: 7fd2)](#1989-fujifilm-fujicolor-super-hr-ref-7fd2)
 - [[1990] Seagull Seagull Color IR100 (ref: e7cc)](#1990-seagull-seagull-color-ir100-ref-e7cc)
+- [[1990] Seagull Seagull Color IR100 (ref: 8fd8)](#1990-seagull-seagull-color-ir100-ref-8fd8)
 - [[1990] Fujifilm Fujicolor Super HR (ref: aaa0)](#1990-fujifilm-fujicolor-super-hr-ref-aaa0)
 - [[1990] Kodak High Speed Infrared (ref: 4294)](#1990-kodak-high-speed-infrared-ref-4294)
 - [[1990] Kodak Kodacolor Gold 400 (ref: 473d)](#1990-kodak-kodacolor-gold-400-ref-473d)
@@ -172,6 +173,7 @@ Total scans : 883
 - [[1996] efke R100 (ref: 10ad)](#1996-efke-r100-ref-10ad)
 - [[1996] Kodak Gold (ref: 1962)](#1996-kodak-gold-ref-1962)
 - [[1996] Polaroid 665 (ref: e054)](#1996-polaroid-665-ref-e054)
+- [[1997] Kodak Ektachrome Elite 200 (ref: b736)](#1997-kodak-ektachrome-elite-200-ref-b736)
 - [[1997] Fujifilm Fujichrome Provia 400 Professional (ref: b7b2)](#1997-fujifilm-fujichrome-provia-400-professional-ref-b7b2)
 - [[1997] Kodak Ektachrome Elite 200 (ref: a391)](#1997-kodak-ektachrome-elite-200-ref-a391)
 - [[1997] Max Spielmann Maxi Color (ref: bf60)](#1997-max-spielmann-maxi-color-ref-bf60)
@@ -277,6 +279,7 @@ Total scans : 883
 - [[2009] Fujifilm Fujicolor Superia (ref: 0d8e)](#2009-fujifilm-fujicolor-superia-ref-0d8e)
 - [[2009] Lloyds Pharmacy Colour Film (ref: 77d9)](#2009-lloyds-pharmacy-colour-film-ref-77d9)
 - [[2009] Kodak FarbWelt 400 (ref: e9b6)](#2009-kodak-farbwelt-400-ref-e9b6)
+- [[2010] Photocité 400 ISO (ref: e370)](#2010-photocité-400-iso-ref-e370)
 - [[2010] Fujifilm Fujicolor Superia Reala (ref: a624)](#2010-fujifilm-fujicolor-superia-reala-ref-a624)
 - [[2010] Fujifilm Neopan 400 Presto (ref: 21a7)](#2010-fujifilm-neopan-400-presto-ref-21a7)
 - [[2010] Kodak Ektachrome E100VS (ref: a8d3)](#2010-kodak-ektachrome-e100vs-ref-a8d3)
@@ -3066,6 +3069,20 @@ UUID  : 4696688cabf54eeb83cf66b2fb00e7cc
 	<img src="./lowres/00463_002.jpg" alt="Seagull Seagull Color IR100 35mm film box leaflet" loading="lazy" width="176" height="500">
 </a>
 
+#### [1990] Seagull Seagull Color IR100 (ref: 8fd8)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1990-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-25   |  Author  : @recycling.film
+UUID  : dc59644d2764497d985b1f24bd2c8fd8
+```
+
+<a href="./archive/00485_000.jpg" target="_blank">
+	<img src="./lowres/00485_000.jpg" alt="Seagull Seagull Color IR100 35mm film box outside" loading="lazy" width="382" height="500">
+</a>
+
 #### [1990] Fujifilm Fujicolor Super HR (ref: aaa0)
 
 ```
@@ -3960,6 +3977,27 @@ UUID  : 311d896d68b74b1193afcfa129c5e054
 
 <a href="./archive/00018_000.jpg" target="_blank">
 	<img src="./lowres/00018_000.jpg" alt="Polaroid 665 Pack Film film box outside" loading="lazy" width="500" height="406">
+</a>
+
+#### [1997] Kodak Ektachrome Elite 200 (ref: b736)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 200          |  Expiry  : 1997-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-25   |  Author  : @recycling.film
+UUID  : 19e57cb4060b4782955a5a5667fdb736
+```
+
+<a href="./archive/00484_000.jpg" target="_blank">
+	<img src="./lowres/00484_000.jpg" alt="Kodak Ektachrome Elite 200 35mm film box outside" loading="lazy" width="500" height="498">
+</a>
+
+
+`UUID: d71ecd2dd0d14c0f9c86aea0d8be963f`↓
+
+<a href="./archive/00484_001.jpg" target="_blank">
+	<img src="./lowres/00484_001.jpg" alt="Kodak Ektachrome Elite 200 35mm film box inside" loading="lazy" width="490" height="500">
 </a>
 
 #### [1997] Fujifilm Fujichrome Provia 400 Professional (ref: b7b2)
@@ -6001,6 +6039,20 @@ UUID  : dc04ec32aeda4b9ba394437272fde9b6
 
 <a href="./archive/00297_000.jpg" target="_blank">
 	<img src="./lowres/00297_000.jpg" alt="Kodak FarbWelt 400 35mm film box outside" loading="lazy" width="500" height="443">
+</a>
+
+#### [2010] Photocité 400 ISO (ref: e370)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2010-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-25   |  Author  : @recycling.film
+UUID  : eeccbc03ca25486db372e649d073e370
+```
+
+<a href="./archive/00486_000.jpg" target="_blank">
+	<img src="./lowres/00486_000.jpg" alt="Photocité 400 ISO 35mm film box outside" loading="lazy" width="471" height="499">
 </a>
 
 #### [2010] Fujifilm Fujicolor Superia Reala (ref: a624)
@@ -10071,7 +10123,7 @@ Rank  Username                      Contributions
 2     @photos.by.qi                 72    
 3     Pelicram                      67    
 4     @ellafridalindblom            63    
-5     @recycling.film               56    
+5     @recycling.film               60    
 6     The Compartmentalist          25    
 7     fine-seat                     19    
 8     Camera.Riley                  19    
