@@ -16,12 +16,13 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Nov 25 2025
-Unique items: 482
-Total scans : 887
+Unique items: 483
+Total scans : 889
 ```
 
 -----
 
+- [[2025-11-25] Ilford Ortho Plus (ref: 1952)](#2025-11-25-ilford-ortho-plus-ref-1952)
 - [[2025-11-25] Photocité 400 ISO (ref: e370)](#2025-11-25-photocité-400-iso-ref-e370)
 - [[2025-11-25] Seagull Seagull Color IR100 (ref: 8fd8)](#2025-11-25-seagull-seagull-color-ir100-ref-8fd8)
 - [[2025-11-25] Kodak Ektachrome Elite 200 (ref: b736)](#2025-11-25-kodak-ektachrome-elite-200-ref-b736)
@@ -507,6 +508,27 @@ Total scans : 887
 
 
 -----
+
+
+`UUID: 4d1bc814dacc43818ad07db6bb6459c9`↓
+
+<a href="./archive/00487_001.jpg" target="_blank">
+	<img src="./lowres/00487_001.jpg" alt="Ilford Ortho Plus 120 film box inside" loading="lazy" width="496" height="499">
+</a>
+
+#### [2025-11-25] Ilford Ortho Plus (ref: 1952)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 80           |  Expiry  : 2026-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-11-25   |  Author  : kaimon  
+UUID  : cc385be1b2a04a35aef42d7e6dc51952
+```
+
+<a href="./archive/00487_000.jpg" target="_blank">
+	<img src="./lowres/00487_000.jpg" alt="Ilford Ortho Plus 120 film box outside" loading="lazy" width="500" height="493">
+</a>
 
 #### [2025-11-25] Photocité 400 ISO (ref: e370)
 
@@ -10133,8 +10155,8 @@ Rank  Username                      Contributions
 12    b0baspace                     14    
 13    @SirBrentsworth               13    
 14    toader                        13    
-15    yc128                         11    
-16    kaimon                        10    
+15    kaimon                        12    
+16    yc128                         11    
 17    @zruk_ts                      10    
 18    minidiscus                    10    
 19    benikum                       9     

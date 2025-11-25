@@ -886,3 +886,5 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 484,1,film_box_inside,Kodak,Ektachrome Elite 200,35mm,200,E-6,199707,1764113260,7fbbd30ae54ee7e5e3eff4e53700b32e,d71ecd2dd0d14c0f9c86aea0d8be963f,00484_001.jpg,@recycling.film,,Single Pack,36exp
 485,0,film_box_outside,Seagull,Seagull Color IR100,35mm,100,C-41,199001,1764113404,46a33f1ff07bd801cda7d542512b67d0,dc59644d2764497d985b1f24bd2c8fd8,00485_000.jpg,@recycling.film,,Single Pack,36exp
 486,0,film_box_outside,Photocité,400 ISO,35mm,400,C-41,201002,1764113520,86d7c86719363d88e9d787982c1f28d6,eeccbc03ca25486db372e649d073e370,00486_000.jpg,@recycling.film,,Single Pack,36exp
+487,0,film_box_outside,Ilford,Ortho Plus,120,80,BW,202607,1764113673,2dbea124bc7a38039ce2c2e3ae5b3bc0,cc385be1b2a04a35aef42d7e6dc51952,00487_000.jpg,kaimon,,Single Pack,N/A
+487,1,film_box_inside,Ilford,Ortho Plus,120,80,BW,202607,1764113674,2611a1674baa297cfffa3556ec506bf5,4d1bc814dacc43818ad07db6bb6459c9,00487_001.jpg,kaimon,,Single Pack,N/A

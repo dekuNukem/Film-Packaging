@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Nov 25 2025
-Unique items: 482
-Total scans : 887
+Unique items: 483
+Total scans : 889
 ```
 
 -----
@@ -109,6 +109,7 @@ Total scans : 887
 - [[BW] Ilford HP5 Plus (ref: efad)](#bw-ilford-hp5-plus-ref-efad)
 - [[BW] Ilford HP5 Plus (ref: 1a5d)](#bw-ilford-hp5-plus-ref-1a5d)
 - [[BW] Ilford HP5 Plus (ref: df49)](#bw-ilford-hp5-plus-ref-df49)
+- [[BW] Ilford Ortho Plus (ref: 1952)](#bw-ilford-ortho-plus-ref-1952)
 - [[BW] Ilford R.25 F.P Special (ref: ec05)](#bw-ilford-r25-fp-special-ref-ec05)
 - [[BW] Ilford SFX 200 (ref: 6057)](#bw-ilford-sfx-200-ref-6057)
 - [[BW] Ilford Selochrome (ref: f534)](#bw-ilford-selochrome-ref-f534)
@@ -2104,6 +2105,27 @@ UUID  : 8db6d8343d544c21bfd539c32525df49
 
 <a href="./archive/00083_001.jpg" target="_blank">
 	<img src="./lowres/00083_001.jpg" alt="Ilford HP5 Plus 35mm film box inside" loading="lazy" width="434" height="500">
+</a>
+
+#### [BW] Ilford Ortho Plus (ref: 1952)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 80           |  Expiry  : 2026-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-11-25   |  Author  : kaimon  
+UUID  : cc385be1b2a04a35aef42d7e6dc51952
+```
+
+<a href="./archive/00487_000.jpg" target="_blank">
+	<img src="./lowres/00487_000.jpg" alt="Ilford Ortho Plus 120 film box outside" loading="lazy" width="500" height="493">
+</a>
+
+
+`UUID: 4d1bc814dacc43818ad07db6bb6459c9`↓
+
+<a href="./archive/00487_001.jpg" target="_blank">
+	<img src="./lowres/00487_001.jpg" alt="Ilford Ortho Plus 120 film box inside" loading="lazy" width="496" height="499">
 </a>
 
 #### [BW] Ilford R.25 F.P Special (ref: ec05)
@@ -10133,8 +10155,8 @@ Rank  Username                      Contributions
 12    b0baspace                     14    
 13    @SirBrentsworth               13    
 14    toader                        13    
-15    yc128                         11    
-16    kaimon                        10    
+15    kaimon                        12    
+16    yc128                         11    
 17    @zruk_ts                      10    
 18    minidiscus                    10    
 19    benikum                       9     

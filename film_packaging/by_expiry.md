@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Nov 25 2025
-Unique items: 482
-Total scans : 887
+Unique items: 483
+Total scans : 889
 ```
 
 -----
@@ -388,6 +388,7 @@ Total scans : 887
 - [[2026] Fujifilm 200 (ref: 5b41)](#2026-fujifilm-200-ref-5b41)
 - [[2026] Kodak Gold (ref: 3e7f)](#2026-kodak-gold-ref-3e7f)
 - [[2026] Harman Red (ref: da3a)](#2026-harman-red-ref-da3a)
+- [[2026] Ilford Ortho Plus (ref: 1952)](#2026-ilford-ortho-plus-ref-1952)
 - [[2026] Kodak UltraMax (ref: e4ad)](#2026-kodak-ultramax-ref-e4ad)
 - [[2026] Lomography Lomochrome Color’92 (ref: 0960)](#2026-lomography-lomochrome-color-92-ref-0960)
 - [[2026] Harman Phoenix (ref: 637f)](#2026-harman-phoenix-ref-637f)
@@ -7952,6 +7953,27 @@ UUID  : 3903165bcfbc43ad9a6ee42e7922da3a
 	<img src="./lowres/00306_001.jpg" alt="Harman Red 35mm film box inside" loading="lazy" width="383" height="500">
 </a>
 
+#### [2026] Ilford Ortho Plus (ref: 1952)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 80           |  Expiry  : 2026-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-11-25   |  Author  : kaimon  
+UUID  : cc385be1b2a04a35aef42d7e6dc51952
+```
+
+<a href="./archive/00487_000.jpg" target="_blank">
+	<img src="./lowres/00487_000.jpg" alt="Ilford Ortho Plus 120 film box outside" loading="lazy" width="500" height="493">
+</a>
+
+
+`UUID: 4d1bc814dacc43818ad07db6bb6459c9`↓
+
+<a href="./archive/00487_001.jpg" target="_blank">
+	<img src="./lowres/00487_001.jpg" alt="Ilford Ortho Plus 120 film box inside" loading="lazy" width="496" height="499">
+</a>
+
 #### [2026] Kodak UltraMax (ref: e4ad)
 
 ```
@@ -10133,8 +10155,8 @@ Rank  Username                      Contributions
 12    b0baspace                     14    
 13    @SirBrentsworth               13    
 14    toader                        13    
-15    yc128                         11    
-16    kaimon                        10    
+15    kaimon                        12    
+16    yc128                         11    
 17    @zruk_ts                      10    
 18    minidiscus                    10    
 19    benikum                       9     
