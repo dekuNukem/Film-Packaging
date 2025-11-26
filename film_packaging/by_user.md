@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Nov 25 2025
-Unique items: 483
-Total scans : 889
+Unique items: 488
+Total scans : 897
 ```
 
 -----
@@ -496,9 +496,14 @@ Total scans : 889
 - [[u/ReeeSchmidtyWerber] Kodak Panatomic-X (ref: 8d69)](#ureeeschmidtywerber-kodak-panatomic-x-ref-8d69)
 - [[u/ReeeSchmidtyWerber] Kodak Panatomic-X (ref: 35f6)](#ureeeschmidtywerber-kodak-panatomic-x-ref-35f6)
 - [[waldoboro] Fujifilm Fujicolor Natura 1600 (ref: 52aa)](#waldoboro-fujifilm-fujicolor-natura-1600-ref-52aa)
+- [[waldoboro] Fujifilm Fujicolor Super HG (ref: 1b30)](#waldoboro-fujifilm-fujicolor-super-hg-ref-1b30)
+- [[waldoboro] Fujifilm Fujicolor Superia 100 (ref: 30bf)](#waldoboro-fujifilm-fujicolor-superia-100-ref-30bf)
 - [[waldoboro] Fukkatsu Color Print Film (ref: 3213)](#waldoboro-fukkatsu-color-print-film-ref-3213)
+- [[waldoboro] Kodak Gold 200 (ref: 7d4b)](#waldoboro-kodak-gold-200-ref-7d4b)
 - [[waldoboro] Kodak Kodachrome (ref: 3d0a)](#waldoboro-kodak-kodachrome-ref-3d0a)
+- [[waldoboro] Perutz Primera (ref: cbfb)](#waldoboro-perutz-primera-ref-cbfb)
 - [[waldoboro] Seagull Seagull Color IR100 (ref: e7cc)](#waldoboro-seagull-seagull-color-ir100-ref-e7cc)
+- [[waldoboro] Svema FN 64 (ref: 600a)](#waldoboro-svema-fn-64-ref-600a)
 - [[yc128] Harman Phoenix (ref: 8eb4)](#yc128-harman-phoenix-ref-8eb4)
 - [[yc128] Harman Phoenix II (ref: f686)](#yc128-harman-phoenix-ii-ref-f686)
 - [[yc128] Harman Phoenix II (ref: 40df)](#yc128-harman-phoenix-ii-ref-40df)
@@ -9943,6 +9948,49 @@ UUID  : a4f7e58b2cdf448d8a2e7781c26252aa
 	<img src="./lowres/00461_000.jpg" alt="Fujifilm Fujicolor Natura 1600 35mm film box outside" loading="lazy" width="500" height="460">
 </a>
 
+#### [waldoboro] Fujifilm Fujicolor Super HG (ref: 1b30)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1990-02 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-11-25   |  Author  : waldoboro
+UUID  : 4ed0923440b44070b1da36f464f01b30
+```
+
+<a href="./archive/00488_000.jpg" target="_blank">
+	<img src="./lowres/00488_000.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box outside" loading="lazy" width="447" height="500">
+</a>
+
+
+`UUID: 783e8248f4894bedbe3a0d85ce61abf1`↓
+
+<a href="./archive/00488_001.jpg" target="_blank">
+	<img src="./lowres/00488_001.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box inside" loading="lazy" width="425" height="500">
+</a>
+
+#### [waldoboro] Fujifilm Fujicolor Superia 100 (ref: 30bf)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2003-03 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-11-25   |  Author  : waldoboro
+UUID  : 17d5e395c4d64dc2900c1ab54ffa30bf
+Notes : Nueva!!
+```
+
+<a href="./archive/00490_000.jpg" target="_blank">
+	<img src="./lowres/00490_000.jpg" alt="Fujifilm Fujicolor Superia 100 35mm film box outside" loading="lazy" width="450" height="500">
+</a>
+
+
+`UUID: 78927c2e729346c49a3d788cb89605be`↓
+
+<a href="./archive/00490_001.jpg" target="_blank">
+	<img src="./lowres/00490_001.jpg" alt="Fujifilm Fujicolor Superia 100 35mm film box inside" loading="lazy" width="416" height="499">
+</a>
+
 #### [waldoboro] Fukkatsu Color Print Film (ref: 3213)
 
 ```
@@ -9955,6 +10003,20 @@ UUID  : e5ed9275c4a34dbb8ab1a60c13ca3213
 
 <a href="./archive/00460_000.jpg" target="_blank">
 	<img src="./lowres/00460_000.jpg" alt="Fukkatsu Color Print Film 110 film box outside" loading="lazy" width="500" height="410">
+</a>
+
+#### [waldoboro] Kodak Gold 200 (ref: 7d4b)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2028-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-25   |  Author  : waldoboro
+UUID  : e7fb9bd0f50c401dbf51f7c858167d4b
+```
+
+<a href="./archive/00489_000.jpg" target="_blank">
+	<img src="./lowres/00489_000.jpg" alt="Kodak Gold 200 35mm film box outside" loading="lazy" width="429" height="499">
 </a>
 
 #### [waldoboro] Kodak Kodachrome (ref: 3d0a)
@@ -9985,6 +10047,27 @@ UUID  : 21c4ce1f9fb54086bb13435778243d0a
 	<img src="./lowres/00462_002.jpg" alt="Kodak Kodachrome 35mm film box leaflet" loading="lazy" width="261" height="500">
 </a>
 
+#### [waldoboro] Perutz Primera (ref: cbfb)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2004-12 
+Type  : Single Pack  |  Quantity: 14exp   
+Added : 2025-11-25   |  Author  : waldoboro
+UUID  : 4e05e028af4c403786967ee168f3cbfb
+```
+
+<a href="./archive/00491_000.jpg" target="_blank">
+	<img src="./lowres/00491_000.jpg" alt="Perutz Primera 35mm film box outside" loading="lazy" width="418" height="500">
+</a>
+
+
+`UUID: 879b36b05a2a48f9ac5c68f871c37e60`↓
+
+<a href="./archive/00491_001.jpg" target="_blank">
+	<img src="./lowres/00491_001.jpg" alt="Perutz Primera 35mm film box inside" loading="lazy" width="431" height="500">
+</a>
+
 #### [waldoboro] Seagull Seagull Color IR100 (ref: e7cc)
 
 ```
@@ -10011,6 +10094,20 @@ UUID  : 4696688cabf54eeb83cf66b2fb00e7cc
 
 <a href="./archive/00463_002.jpg" target="_blank">
 	<img src="./lowres/00463_002.jpg" alt="Seagull Seagull Color IR100 35mm film box leaflet" loading="lazy" width="176" height="500">
+</a>
+
+#### [waldoboro] Svema FN 64 (ref: 600a)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 64           |  Expiry  : 1997-12 
+Type  : Refill       |  Quantity: 36exp   
+Added : 2025-11-25   |  Author  : waldoboro
+UUID  : dd90580d0b034a42ab153ef89c82600a
+```
+
+<a href="./archive/00492_000.jpg" target="_blank">
+	<img src="./lowres/00492_000.jpg" alt="Svema FN 64 35mm film box outside" loading="lazy" width="500" height="485">
 </a>
 
 #### [yc128] Harman Phoenix (ref: 8eb4)
@@ -10152,16 +10249,16 @@ Rank  Username                      Contributions
 9     Nano_Burger                   18    
 10    @ob.skura                     16    
 11    @Hol.m35                      16    
-12    b0baspace                     14    
-13    @SirBrentsworth               13    
-14    toader                        13    
-15    kaimon                        12    
-16    yc128                         11    
-17    @zruk_ts                      10    
-18    minidiscus                    10    
-19    benikum                       9     
-20    lilyu.xyz                     9     
-21    waldoboro                     8     
+12    waldoboro                     16    
+13    b0baspace                     14    
+14    @SirBrentsworth               13    
+15    toader                        13    
+16    kaimon                        12    
+17    yc128                         11    
+18    @zruk_ts                      10    
+19    minidiscus                    10    
+20    benikum                       9     
+21    lilyu.xyz                     9     
 22    @toastergod101                7     
 23    @filmfotofella                7     
 24    Chrisbes                      7     

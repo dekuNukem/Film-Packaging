@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Nov 25 2025
-Unique items: 483
-Total scans : 889
+Unique items: 488
+Total scans : 897
 ```
 
 Or Sort by...
@@ -64,16 +64,16 @@ Rank  Username                      Contributions
 9     Nano_Burger                   18    
 10    @ob.skura                     16    
 11    @Hol.m35                      16    
-12    b0baspace                     14    
-13    @SirBrentsworth               13    
-14    toader                        13    
-15    kaimon                        12    
-16    yc128                         11    
-17    @zruk_ts                      10    
-18    minidiscus                    10    
-19    benikum                       9     
-20    lilyu.xyz                     9     
-21    waldoboro                     8     
+12    waldoboro                     16    
+13    b0baspace                     14    
+14    @SirBrentsworth               13    
+15    toader                        13    
+16    kaimon                        12    
+17    yc128                         11    
+18    @zruk_ts                      10    
+19    minidiscus                    10    
+20    benikum                       9     
+21    lilyu.xyz                     9     
 22    @toastergod101                7     
 23    @filmfotofella                7     
 24    Chrisbes                      7     
@@ -101,6 +101,11 @@ Rank  Username                      Contributions
   - @recycling.film: Photocité 400 ISO
   - @recycling.film: Seagull Seagull Color IR100
   - kaimon: Ilford Ortho Plus
+  - waldoboro: Fujifilm Fujicolor Super HG
+  - waldoboro: Fujifilm Fujicolor Superia 100
+  - waldoboro: Kodak Gold 200
+  - waldoboro: Perutz Primera
+  - waldoboro: Svema FN 64
 
 2025-11-20
   - @ellafridalindblom: Agfa Isochrom Portrait

@@ -888,3 +888,11 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 486,0,film_box_outside,Photocité,400 ISO,35mm,400,C-41,201002,1764113520,86d7c86719363d88e9d787982c1f28d6,eeccbc03ca25486db372e649d073e370,00486_000.jpg,@recycling.film,,Single Pack,36exp
 487,0,film_box_outside,Ilford,Ortho Plus,120,80,BW,202607,1764113673,2dbea124bc7a38039ce2c2e3ae5b3bc0,cc385be1b2a04a35aef42d7e6dc51952,00487_000.jpg,kaimon,,Single Pack,N/A
 487,1,film_box_inside,Ilford,Ortho Plus,120,80,BW,202607,1764113674,2611a1674baa297cfffa3556ec506bf5,4d1bc814dacc43818ad07db6bb6459c9,00487_001.jpg,kaimon,,Single Pack,N/A
+488,0,film_box_outside,Fujifilm,Fujicolor Super HG,35mm,100,C-41,199002,1764114501,5bae4f357cdbcae249be323d7e4a5f01,4ed0923440b44070b1da36f464f01b30,00488_000.jpg,waldoboro,,Single Pack,24exp
+488,1,film_box_inside,Fujifilm,Fujicolor Super HG,35mm,100,C-41,199002,1764114502,4ad418007c7b4587bbc0ca7abdb23973,783e8248f4894bedbe3a0d85ce61abf1,00488_001.jpg,waldoboro,,Single Pack,24exp
+489,0,film_box_outside,Kodak,Gold 200,35mm,200,C-41,202802,1764114678,99737a672f1cdc484a2698e259abe250,e7fb9bd0f50c401dbf51f7c858167d4b,00489_000.jpg,waldoboro,,Single Pack,36exp
+490,0,film_box_outside,Fujifilm,Fujicolor Superia 100,35mm,100,C-41,200303,1764114769,3754b54f38be85b7b8a0d45a43de1db0,17d5e395c4d64dc2900c1ab54ffa30bf,00490_000.jpg,waldoboro,Nueva!!,Single Pack,24exp
+490,1,film_box_inside,Fujifilm,Fujicolor Superia 100,35mm,100,C-41,200303,1764114771,1407a22a196c90a62ea2fb012ae0e308,78927c2e729346c49a3d788cb89605be,00490_001.jpg,waldoboro,Nueva!!,Single Pack,24exp
+491,0,film_box_outside,Perutz,Primera,35mm,100,C-41,200412,1764114864,f6d701b437ba645f7eccf51f56f6ce33,4e05e028af4c403786967ee168f3cbfb,00491_000.jpg,waldoboro,,Single Pack,14exp
+491,1,film_box_inside,Perutz,Primera,35mm,100,C-41,200412,1764114866,bdee47c0d216e34c2d913fdc24525fba,879b36b05a2a48f9ac5c68f871c37e60,00491_001.jpg,waldoboro,,Single Pack,14exp
+492,0,film_box_outside,Svema,FN 64,35mm,64,BW,199712,1764115190,5084efc3aa7acd6f49493e8334fd6b10,dd90580d0b034a42ab153ef89c82600a,00492_000.jpg,waldoboro,,Refill,36exp

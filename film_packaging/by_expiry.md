@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Nov 25 2025
-Unique items: 483
-Total scans : 889
+Unique items: 488
+Total scans : 897
 ```
 
 -----
@@ -133,6 +133,7 @@ Total scans : 889
 - [[1989] Fujifilm Fujicolor Super HR (ref: 7fd2)](#1989-fujifilm-fujicolor-super-hr-ref-7fd2)
 - [[1990] Seagull Seagull Color IR100 (ref: e7cc)](#1990-seagull-seagull-color-ir100-ref-e7cc)
 - [[1990] Seagull Seagull Color IR100 (ref: 8fd8)](#1990-seagull-seagull-color-ir100-ref-8fd8)
+- [[1990] Fujifilm Fujicolor Super HG (ref: 1b30)](#1990-fujifilm-fujicolor-super-hg-ref-1b30)
 - [[1990] Fujifilm Fujicolor Super HR (ref: aaa0)](#1990-fujifilm-fujicolor-super-hr-ref-aaa0)
 - [[1990] Kodak High Speed Infrared (ref: 4294)](#1990-kodak-high-speed-infrared-ref-4294)
 - [[1990] Kodak Kodacolor Gold 400 (ref: 473d)](#1990-kodak-kodacolor-gold-400-ref-473d)
@@ -177,6 +178,7 @@ Total scans : 889
 - [[1997] Fujifilm Fujichrome Provia 400 Professional (ref: b7b2)](#1997-fujifilm-fujichrome-provia-400-professional-ref-b7b2)
 - [[1997] Kodak Ektachrome Elite 200 (ref: a391)](#1997-kodak-ektachrome-elite-200-ref-a391)
 - [[1997] Max Spielmann Maxi Color (ref: bf60)](#1997-max-spielmann-maxi-color-ref-bf60)
+- [[1997] Svema FN 64 (ref: 600a)](#1997-svema-fn-64-ref-600a)
 - [[1998] Fujifilm Fujichrome Sensia 100 (ref: a59b)](#1998-fujifilm-fujichrome-sensia-100-ref-a59b)
 - [[1998] Klick XD200 (ref: 44d7)](#1998-klick-xd200-ref-44d7)
 - [[1998] Kodak Ektachrome Slide Duplicating Film (ref: 596a)](#1998-kodak-ektachrome-slide-duplicating-film-ref-596a)
@@ -213,6 +215,7 @@ Total scans : 889
 - [[2002] Kodak Ektachrome 100 Plus (ref: 5d9f)](#2002-kodak-ektachrome-100-plus-ref-5d9f)
 - [[2002] Polaroid Spectra Film (ref: 7a94)](#2002-polaroid-spectra-film-ref-7a94)
 - [[2002] Kirkland Signature Color Print Film (ref: 0441)](#2002-kirkland-signature-color-print-film-ref-0441)
+- [[2003] Fujifilm Fujicolor Superia 100 (ref: 30bf)](#2003-fujifilm-fujicolor-superia-100-ref-30bf)
 - [[2003] Konica KonicaColor VX 200 (ref: fe53)](#2003-konica-konicacolor-vx-200-ref-fe53)
 - [[2003] Fujifilm Fujicolor Superia X-TRA (ref: 713b)](#2003-fujifilm-fujicolor-superia-x-tra-ref-713b)
 - [[2003] Agfa AgfaColor Vista (ref: 2f14)](#2003-agfa-agfacolor-vista-ref-2f14)
@@ -235,6 +238,7 @@ Total scans : 889
 - [[2004] Lloyds Pharmacy Colour Film (ref: 074c)](#2004-lloyds-pharmacy-colour-film-ref-074c)
 - [[2004] Kodak Portra 400UC (ref: 5b9e)](#2004-kodak-portra-400uc-ref-5b9e)
 - [[2004] Kodak Portra 400VC (ref: b67b)](#2004-kodak-portra-400vc-ref-b67b)
+- [[2004] Perutz Primera (ref: cbfb)](#2004-perutz-primera-ref-cbfb)
 - [[2005] Fujifilm Fujicolor Superia X-TRA (ref: 0446)](#2005-fujifilm-fujicolor-superia-x-tra-ref-0446)
 - [[2005] Ilford Delta 100 Professional (ref: 93b9)](#2005-ilford-delta-100-professional-ref-93b9)
 - [[2005] Agfa AgfaColor XRG 200 (ref: 689e)](#2005-agfa-agfacolor-xrg-200-ref-689e)
@@ -452,6 +456,7 @@ Total scans : 889
 - [[2027] Wolfen NP100 (ref: 71a6)](#2027-wolfen-np100-ref-71a6)
 - [[2028] Foma Fomapan Creative 200 (ref: 84a5)](#2028-foma-fomapan-creative-200-ref-84a5)
 - [[2028] Rollei SUPERPAN 200 (ref: ee8f)](#2028-rollei-superpan-200-ref-ee8f)
+- [[2028] Kodak Gold 200 (ref: 7d4b)](#2028-kodak-gold-200-ref-7d4b)
 - [[2028] Lomography Postdam (ref: d0c6)](#2028-lomography-postdam-ref-d0c6)
 - [[2028] Agfa APX (ref: 5276)](#2028-agfa-apx-ref-5276)
 - [[2028] Foma Fomapan 200 (ref: 60ee)](#2028-foma-fomapan-200-ref-60ee)
@@ -3084,6 +3089,27 @@ UUID  : dc59644d2764497d985b1f24bd2c8fd8
 	<img src="./lowres/00485_000.jpg" alt="Seagull Seagull Color IR100 35mm film box outside" loading="lazy" width="382" height="500">
 </a>
 
+#### [1990] Fujifilm Fujicolor Super HG (ref: 1b30)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1990-02 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-11-25   |  Author  : waldoboro
+UUID  : 4ed0923440b44070b1da36f464f01b30
+```
+
+<a href="./archive/00488_000.jpg" target="_blank">
+	<img src="./lowres/00488_000.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box outside" loading="lazy" width="447" height="500">
+</a>
+
+
+`UUID: 783e8248f4894bedbe3a0d85ce61abf1`↓
+
+<a href="./archive/00488_001.jpg" target="_blank">
+	<img src="./lowres/00488_001.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box inside" loading="lazy" width="425" height="500">
+</a>
+
 #### [1990] Fujifilm Fujicolor Super HR (ref: aaa0)
 
 ```
@@ -4065,6 +4091,20 @@ UUID  : 0953325be5e54102b7615a7a5f82bf60
 	<img src="./lowres/00268_000.jpg" alt="Max Spielmann Maxi Color 35mm film box outside" loading="lazy" width="453" height="500">
 </a>
 
+#### [1997] Svema FN 64 (ref: 600a)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 64           |  Expiry  : 1997-12 
+Type  : Refill       |  Quantity: 36exp   
+Added : 2025-11-25   |  Author  : waldoboro
+UUID  : dd90580d0b034a42ab153ef89c82600a
+```
+
+<a href="./archive/00492_000.jpg" target="_blank">
+	<img src="./lowres/00492_000.jpg" alt="Svema FN 64 35mm film box outside" loading="lazy" width="500" height="485">
+</a>
+
 #### [1998] Fujifilm Fujichrome Sensia 100 (ref: a59b)
 
 ```
@@ -4821,6 +4861,28 @@ UUID  : 7f4a0fbd6be7494ab097f7f816700441
 	<img src="./lowres/00184_000.jpg" alt="Kirkland Signature Color Print Film 35mm film box outside" loading="lazy" width="272" height="500">
 </a>
 
+#### [2003] Fujifilm Fujicolor Superia 100 (ref: 30bf)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2003-03 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-11-25   |  Author  : waldoboro
+UUID  : 17d5e395c4d64dc2900c1ab54ffa30bf
+Notes : Nueva!!
+```
+
+<a href="./archive/00490_000.jpg" target="_blank">
+	<img src="./lowres/00490_000.jpg" alt="Fujifilm Fujicolor Superia 100 35mm film box outside" loading="lazy" width="450" height="500">
+</a>
+
+
+`UUID: 78927c2e729346c49a3d788cb89605be`↓
+
+<a href="./archive/00490_001.jpg" target="_blank">
+	<img src="./lowres/00490_001.jpg" alt="Fujifilm Fujicolor Superia 100 35mm film box inside" loading="lazy" width="416" height="499">
+</a>
+
 #### [2003] Konica KonicaColor VX 200 (ref: fe53)
 
 ```
@@ -5241,6 +5303,27 @@ UUID  : 348bccb01edc4a6ea9a2f5c4d88cb67b
 
 <a href="./archive/00243_003.jpg" target="_blank">
 	<img src="./lowres/00243_003.jpg" alt="Kodak Portra 400VC 120 film box inside" loading="lazy" width="500" height="401">
+</a>
+
+#### [2004] Perutz Primera (ref: cbfb)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2004-12 
+Type  : Single Pack  |  Quantity: 14exp   
+Added : 2025-11-25   |  Author  : waldoboro
+UUID  : 4e05e028af4c403786967ee168f3cbfb
+```
+
+<a href="./archive/00491_000.jpg" target="_blank">
+	<img src="./lowres/00491_000.jpg" alt="Perutz Primera 35mm film box outside" loading="lazy" width="418" height="500">
+</a>
+
+
+`UUID: 879b36b05a2a48f9ac5c68f871c37e60`↓
+
+<a href="./archive/00491_001.jpg" target="_blank">
+	<img src="./lowres/00491_001.jpg" alt="Perutz Primera 35mm film box inside" loading="lazy" width="431" height="500">
 </a>
 
 #### [2005] Fujifilm Fujicolor Superia X-TRA (ref: 0446)
@@ -9101,6 +9184,20 @@ UUID  : f22d3e1e2f70453f87aea4b67db3ee8f
 	<img src="./lowres/00071_001.jpg" alt="Rollei SUPERPAN 200 35mm film box inside" loading="lazy" width="434" height="500">
 </a>
 
+#### [2028] Kodak Gold 200 (ref: 7d4b)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2028-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-25   |  Author  : waldoboro
+UUID  : e7fb9bd0f50c401dbf51f7c858167d4b
+```
+
+<a href="./archive/00489_000.jpg" target="_blank">
+	<img src="./lowres/00489_000.jpg" alt="Kodak Gold 200 35mm film box outside" loading="lazy" width="429" height="499">
+</a>
+
 #### [2028] Lomography Postdam (ref: d0c6)
 
 ```
@@ -10152,16 +10249,16 @@ Rank  Username                      Contributions
 9     Nano_Burger                   18    
 10    @ob.skura                     16    
 11    @Hol.m35                      16    
-12    b0baspace                     14    
-13    @SirBrentsworth               13    
-14    toader                        13    
-15    kaimon                        12    
-16    yc128                         11    
-17    @zruk_ts                      10    
-18    minidiscus                    10    
-19    benikum                       9     
-20    lilyu.xyz                     9     
-21    waldoboro                     8     
+12    waldoboro                     16    
+13    b0baspace                     14    
+14    @SirBrentsworth               13    
+15    toader                        13    
+16    kaimon                        12    
+17    yc128                         11    
+18    @zruk_ts                      10    
+19    minidiscus                    10    
+20    benikum                       9     
+21    lilyu.xyz                     9     
 22    @toastergod101                7     
 23    @filmfotofella                7     
 24    Chrisbes                      7     

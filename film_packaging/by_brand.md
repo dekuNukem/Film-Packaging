@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Nov 25 2025
-Unique items: 483
-Total scans : 889
+Unique items: 488
+Total scans : 897
 ```
 
 -----
@@ -154,6 +154,7 @@ Total scans : 889
 - [Fujifilm Fujicolor Professional (ref: 28da)](#fujifilm-fujicolor-professional-ref-28da)
 - [Fujifilm Fujicolor Professional (ref: 02f7)](#fujifilm-fujicolor-professional-ref-02f7)
 - [Fujifilm Fujicolor Super G (ref: 55ff)](#fujifilm-fujicolor-super-g-ref-55ff)
+- [Fujifilm Fujicolor Super HG (ref: 1b30)](#fujifilm-fujicolor-super-hg-ref-1b30)
 - [Fujifilm Fujicolor Super HG (ref: feb7)](#fujifilm-fujicolor-super-hg-ref-feb7)
 - [Fujifilm Fujicolor Super HG (ref: ee94)](#fujifilm-fujicolor-super-hg-ref-ee94)
 - [Fujifilm Fujicolor Super HR (ref: 7fd2)](#fujifilm-fujicolor-super-hr-ref-7fd2)
@@ -162,6 +163,7 @@ Total scans : 889
 - [Fujifilm Fujicolor Superia (ref: 0683)](#fujifilm-fujicolor-superia-ref-0683)
 - [Fujifilm Fujicolor Superia (ref: 9272)](#fujifilm-fujicolor-superia-ref-9272)
 - [Fujifilm Fujicolor Superia (ref: 0d8e)](#fujifilm-fujicolor-superia-ref-0d8e)
+- [Fujifilm Fujicolor Superia 100 (ref: 30bf)](#fujifilm-fujicolor-superia-100-ref-30bf)
 - [Fujifilm Fujicolor Superia Reala (ref: a7de)](#fujifilm-fujicolor-superia-reala-ref-a7de)
 - [Fujifilm Fujicolor Superia Reala (ref: a624)](#fujifilm-fujicolor-superia-reala-ref-a624)
 - [Fujifilm Fujicolor Superia X-TRA (ref: 713b)](#fujifilm-fujicolor-superia-x-tra-ref-713b)
@@ -299,6 +301,7 @@ Total scans : 889
 - [Kodak Gold (ref: 3e7f)](#kodak-gold-ref-3e7f)
 - [Kodak Gold (ref: 855e)](#kodak-gold-ref-855e)
 - [Kodak Gold 200 (ref: 933f)](#kodak-gold-200-ref-933f)
+- [Kodak Gold 200 (ref: 7d4b)](#kodak-gold-200-ref-7d4b)
 - [Kodak Gold II (ref: 61d0)](#kodak-gold-ii-ref-61d0)
 - [Kodak Gold Ultra 400 (ref: 1358)](#kodak-gold-ultra-400-ref-1358)
 - [Kodak High Contrast Copy Film (ref: db52)](#kodak-high-contrast-copy-film-ref-db52)
@@ -435,6 +438,7 @@ Total scans : 889
 - [Perutz Peromnia 21 (ref: fa4a)](#perutz-peromnia-21-ref-fa4a)
 - [Perutz Peromnia 21 (ref: bf2a)](#perutz-peromnia-21-ref-bf2a)
 - [Perutz Perpantic Film (ref: 58b1)](#perutz-perpantic-film-ref-58b1)
+- [Perutz Primera (ref: cbfb)](#perutz-primera-ref-cbfb)
 - [Perutz Superomnia (ref: c90d)](#perutz-superomnia-ref-c90d)
 - [Photocité 400 ISO (ref: e370)](#photocité-400-iso-ref-e370)
 - [Phöbus-Platten Sheet Film (ref: d505)](#phöbus-platten-sheet-film-ref-d505)
@@ -487,6 +491,7 @@ Total scans : 889
 - [Space Cat Film Mars 250D (ref: 5027)](#space-cat-film-mars-250d-ref-5027)
 - [Street Candy Film ATM400 (ref: 4380)](#street-candy-film-atm400-ref-4380)
 - [SupaSnaps Snappit Film (ref: c41b)](#supasnaps-snappit-film-ref-c41b)
+- [Svema FN 64 (ref: 600a)](#svema-fn-64-ref-600a)
 - [Svema Foto 200 (ref: 6991)](#svema-foto-200-ref-6991)
 - [Svema Foto 32 (ref: 8b44)](#svema-foto-32-ref-8b44)
 - [Svema Foto 32 (ref: d1fd)](#svema-foto-32-ref-d1fd)
@@ -3125,6 +3130,27 @@ UUID  : 331bb2ddb04f4cd8ab637f79324e55ff
 	<img src="./lowres/00218_000.jpg" alt="Fujifilm Fujicolor Super G 120 film box outside" loading="lazy" width="492" height="500">
 </a>
 
+#### Fujifilm Fujicolor Super HG (ref: 1b30)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1990-02 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-11-25   |  Author  : waldoboro
+UUID  : 4ed0923440b44070b1da36f464f01b30
+```
+
+<a href="./archive/00488_000.jpg" target="_blank">
+	<img src="./lowres/00488_000.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box outside" loading="lazy" width="447" height="500">
+</a>
+
+
+`UUID: 783e8248f4894bedbe3a0d85ce61abf1`↓
+
+<a href="./archive/00488_001.jpg" target="_blank">
+	<img src="./lowres/00488_001.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box inside" loading="lazy" width="425" height="500">
+</a>
+
 #### Fujifilm Fujicolor Super HG (ref: feb7)
 
 ```
@@ -3277,6 +3303,28 @@ UUID  : a57061210f17463fae293851f2130d8e
 
 <a href="./archive/00199_000.jpg" target="_blank">
 	<img src="./lowres/00199_000.jpg" alt="Fujifilm Fujicolor Superia 35mm film box outside" loading="lazy" width="426" height="500">
+</a>
+
+#### Fujifilm Fujicolor Superia 100 (ref: 30bf)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2003-03 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-11-25   |  Author  : waldoboro
+UUID  : 17d5e395c4d64dc2900c1ab54ffa30bf
+Notes : Nueva!!
+```
+
+<a href="./archive/00490_000.jpg" target="_blank">
+	<img src="./lowres/00490_000.jpg" alt="Fujifilm Fujicolor Superia 100 35mm film box outside" loading="lazy" width="450" height="500">
+</a>
+
+
+`UUID: 78927c2e729346c49a3d788cb89605be`↓
+
+<a href="./archive/00490_001.jpg" target="_blank">
+	<img src="./lowres/00490_001.jpg" alt="Fujifilm Fujicolor Superia 100 35mm film box inside" loading="lazy" width="416" height="499">
 </a>
 
 #### Fujifilm Fujicolor Superia Reala (ref: a7de)
@@ -5942,6 +5990,20 @@ UUID  : e8aefc10fa0d43cebbac73bdcf10933f
 
 <a href="./archive/00021_000.jpg" target="_blank">
 	<img src="./lowres/00021_000.jpg" alt="Kodak Gold 200 120 film box outside" loading="lazy" width="500" height="281">
+</a>
+
+#### Kodak Gold 200 (ref: 7d4b)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2028-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-11-25   |  Author  : waldoboro
+UUID  : e7fb9bd0f50c401dbf51f7c858167d4b
+```
+
+<a href="./archive/00489_000.jpg" target="_blank">
+	<img src="./lowres/00489_000.jpg" alt="Kodak Gold 200 35mm film box outside" loading="lazy" width="429" height="499">
 </a>
 
 #### Kodak Gold II (ref: 61d0)
@@ -8660,6 +8722,27 @@ UUID  : 795c66ef065f442ab27e4ffb9de758b1
 	<img src="./lowres/00420_000.jpg" alt="Perutz Perpantic Film 120 film box outside" loading="lazy" width="424" height="500">
 </a>
 
+#### Perutz Primera (ref: cbfb)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2004-12 
+Type  : Single Pack  |  Quantity: 14exp   
+Added : 2025-11-25   |  Author  : waldoboro
+UUID  : 4e05e028af4c403786967ee168f3cbfb
+```
+
+<a href="./archive/00491_000.jpg" target="_blank">
+	<img src="./lowres/00491_000.jpg" alt="Perutz Primera 35mm film box outside" loading="lazy" width="418" height="500">
+</a>
+
+
+`UUID: 879b36b05a2a48f9ac5c68f871c37e60`↓
+
+<a href="./archive/00491_001.jpg" target="_blank">
+	<img src="./lowres/00491_001.jpg" alt="Perutz Primera 35mm film box inside" loading="lazy" width="431" height="500">
+</a>
+
 #### Perutz Superomnia (ref: c90d)
 
 ```
@@ -9809,6 +9892,20 @@ UUID  : 1cf47ce82b58418f9e009b4f0121c41b
 	<img src="./lowres/00324_001.jpg" alt="SupaSnaps Snappit Film 126 film cartridge" loading="lazy" width="500" height="444">
 </a>
 
+#### Svema FN 64 (ref: 600a)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 64           |  Expiry  : 1997-12 
+Type  : Refill       |  Quantity: 36exp   
+Added : 2025-11-25   |  Author  : waldoboro
+UUID  : dd90580d0b034a42ab153ef89c82600a
+```
+
+<a href="./archive/00492_000.jpg" target="_blank">
+	<img src="./lowres/00492_000.jpg" alt="Svema FN 64 35mm film box outside" loading="lazy" width="500" height="485">
+</a>
+
 #### Svema Foto 200 (ref: 6991)
 
 ```
@@ -10152,16 +10249,16 @@ Rank  Username                      Contributions
 9     Nano_Burger                   18    
 10    @ob.skura                     16    
 11    @Hol.m35                      16    
-12    b0baspace                     14    
-13    @SirBrentsworth               13    
-14    toader                        13    
-15    kaimon                        12    
-16    yc128                         11    
-17    @zruk_ts                      10    
-18    minidiscus                    10    
-19    benikum                       9     
-20    lilyu.xyz                     9     
-21    waldoboro                     8     
+12    waldoboro                     16    
+13    b0baspace                     14    
+14    @SirBrentsworth               13    
+15    toader                        13    
+16    kaimon                        12    
+17    yc128                         11    
+18    @zruk_ts                      10    
+19    minidiscus                    10    
+20    benikum                       9     
+21    lilyu.xyz                     9     
 22    @toastergod101                7     
 23    @filmfotofella                7     
 24    Chrisbes                      7     
