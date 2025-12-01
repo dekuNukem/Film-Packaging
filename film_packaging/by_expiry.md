@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Nov 25 2025
-Unique items: 488
-Total scans : 897
+Last Updated: Dec 01 2025
+Unique items: 489
+Total scans : 898
 ```
 
 -----
@@ -405,6 +405,7 @@ Total scans : 897
 - [[2026] Kodak Ektar 100 (ref: 3498)](#2026-kodak-ektar-100-ref-3498)
 - [[2026] Kodak Tri-X 400 (ref: c671)](#2026-kodak-tri-x-400-ref-c671)
 - [[2026] Lomography Tiger (ref: 26dd)](#2026-lomography-tiger-ref-26dd)
+- [[2026] Candido Colour Negative Film (ref: 6cd2)](#2026-candido-colour-negative-film-ref-6cd2)
 - [[2026] Fujifilm Fujichrome Provia 100F (ref: df27)](#2026-fujifilm-fujichrome-provia-100f-ref-df27)
 - [[2026] Kodak Portra 400 (ref: c869)](#2026-kodak-portra-400-ref-c869)
 - [[2026] Ilford XP2 Super (ref: 484f)](#2026-ilford-xp2-super-ref-484f)
@@ -8253,6 +8254,20 @@ UUID  : e8a5b04ef68c43ae9e79df89123726dd
 	<img src="./lowres/00143_000.jpg" alt="Lomography Tiger 110 film box outside" loading="lazy" width="317" height="500">
 </a>
 
+#### [2026] Candido Colour Negative Film (ref: 6cd2)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2026-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-12-01   |  Author  : Pelicram
+UUID  : 89e114393f3d49808e0a572e88406cd2
+```
+
+<a href="./archive/00493_000.jpg" target="_blank">
+	<img src="./lowres/00493_000.jpg" alt="Candido Colour Negative Film 35mm film box outside" loading="lazy" width="435" height="500">
+</a>
+
 #### [2026] Fujifilm Fujichrome Provia 100F (ref: df27)
 
 ```
@@ -10240,7 +10255,7 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
-3     Pelicram                      67    
+3     Pelicram                      68    
 4     @ellafridalindblom            63    
 5     @recycling.film               60    
 6     The Compartmentalist          25    

@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Nov 25 2025
-Unique items: 488
-Total scans : 897
+Last Updated: Dec 01 2025
+Unique items: 489
+Total scans : 898
 ```
 
 -----
@@ -219,6 +219,7 @@ Total scans : 897
 - [[C-41] Alfo ALFOcolor PR-G (ref: 94b9)](#c-41-alfo-alfocolor-pr-g-ref-94b9)
 - [[C-41] Alien Film Aeronega (ref: d1c5)](#c-41-alien-film-aeronega-ref-d1c5)
 - [[C-41] Boots Colour Print Film (ref: a30f)](#c-41-boots-colour-print-film-ref-a30f)
+- [[C-41] Candido Colour Negative Film (ref: 6cd2)](#c-41-candido-colour-negative-film-ref-6cd2)
 - [[C-41] CineStill 400Dynamic (ref: 88dc)](#c-41-cinestill-400dynamic-ref-88dc)
 - [[C-41] CineStill 400Dynamic (ref: fccd)](#c-41-cinestill-400dynamic-ref-fccd)
 - [[C-41] CineStill 50D (ref: 3452)](#c-41-cinestill-50d-ref-3452)
@@ -4270,6 +4271,20 @@ UUID  : bd601340027a4c9daa7e219b414fa30f
 
 <a href="./archive/00166_000.jpg" target="_blank">
 	<img src="./lowres/00166_000.jpg" alt="Boots Colour Print Film 35mm film box outside" loading="lazy" width="443" height="500">
+</a>
+
+#### [C-41] Candido Colour Negative Film (ref: 6cd2)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2026-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-12-01   |  Author  : Pelicram
+UUID  : 89e114393f3d49808e0a572e88406cd2
+```
+
+<a href="./archive/00493_000.jpg" target="_blank">
+	<img src="./lowres/00493_000.jpg" alt="Candido Colour Negative Film 35mm film box outside" loading="lazy" width="435" height="500">
 </a>
 
 #### [C-41] CineStill 400Dynamic (ref: 88dc)
@@ -10240,7 +10255,7 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
-3     Pelicram                      67    
+3     Pelicram                      68    
 4     @ellafridalindblom            63    
 5     @recycling.film               60    
 6     The Compartmentalist          25    
