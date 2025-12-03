@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Dec 01 2025
-Unique items: 489
-Total scans : 898
+Last Updated: Dec 03 2025
+Unique items: 491
+Total scans : 902
 ```
 
 -----
@@ -127,6 +127,7 @@ Total scans : 898
 - [[120] Konica Infrared 750nm (ref: 6b0e)](#120-konica-infrared-750nm-ref-6b0e)
 - [[120] Konica Infrared 750nm (ref: 2d93)](#120-konica-infrared-750nm-ref-2d93)
 - [[120] Konica Sepia Professional (ref: 0b40)](#120-konica-sepia-professional-ref-0b40)
+- [[120] Lomography Berlin (ref: 246a)](#120-lomography-berlin-ref-246a)
 - [[120] Lomography Color Negative Film (ref: 1529)](#120-lomography-color-negative-film-ref-1529)
 - [[120] Lomography Lomochrome Color'92 (ref: 9fdb)](#120-lomography-lomochrome-color92-ref-9fdb)
 - [[120] Lomography Lomochrome Color’92 (ref: 0960)](#120-lomography-lomochrome-color-92-ref-0960)
@@ -403,6 +404,7 @@ Total scans : 898
 - [[35mm] Lloyds Pharmacy Colour Film (ref: 074c)](#35mm-lloyds-pharmacy-colour-film-ref-074c)
 - [[35mm] Lloyds Pharmacy Colour Film (ref: 77d9)](#35mm-lloyds-pharmacy-colour-film-ref-77d9)
 - [[35mm] Lomography Babylon (ref: 7afa)](#35mm-lomography-babylon-ref-7afa)
+- [[35mm] Lomography Color Negative 800 (ref: 7796)](#35mm-lomography-color-negative-800-ref-7796)
 - [[35mm] Lomography Fantome (ref: 4340)](#35mm-lomography-fantome-ref-4340)
 - [[35mm] Lomography Lomochrome Color'92 (ref: 12b4)](#35mm-lomography-lomochrome-color92-ref-12b4)
 - [[35mm] Lomography Lomochrome Metropolis (ref: 5546)](#35mm-lomography-lomochrome-metropolis-ref-5546)
@@ -2760,6 +2762,27 @@ UUID  : 83467c04e5254b4286b48e5a8e1b0b40
 
 <a href="./archive/00340_000.jpg" target="_blank">
 	<img src="./lowres/00340_000.jpg" alt="Konica Sepia Professional 120 film box outside" loading="lazy" width="500" height="436">
+</a>
+
+#### [120] Lomography Berlin (ref: 246a)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2022-08 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-12-03   |  Author  : @Hol.m35
+UUID  : 11a01c72e7184305af18b815eed7246a
+```
+
+<a href="./archive/00494_000.jpg" target="_blank">
+	<img src="./lowres/00494_000.jpg" alt="Lomography Berlin 120 film box outside" loading="lazy" width="500" height="260">
+</a>
+
+
+`UUID: 93c0168d54bc413a8841ef0aeccd220c`↓
+
+<a href="./archive/00494_001.jpg" target="_blank">
+	<img src="./lowres/00494_001.jpg" alt="Lomography Berlin 120 film box outside" loading="lazy" width="500" height="254">
 </a>
 
 #### [120] Lomography Color Negative Film (ref: 1529)
@@ -8001,6 +8024,27 @@ UUID  : 9d7f531c7a764f9689228ab477297afa
 	<img src="./lowres/00147_000.jpg" alt="Lomography Babylon 35mm film box outside" loading="lazy" width="500" height="398">
 </a>
 
+#### [35mm] Lomography Color Negative 800 (ref: 7796)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2026-06 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2025-12-03   |  Author  : @Hol.m35
+UUID  : 7daedd3c10164aa3a9ca3f7a9eae7796
+```
+
+<a href="./archive/00495_000.jpg" target="_blank">
+	<img src="./lowres/00495_000.jpg" alt="Lomography Color Negative 800 35mm film box outside" loading="lazy" width="453" height="500">
+</a>
+
+
+`UUID: 598d18cdb1b94a4499a2cdd1383a4088`↓
+
+<a href="./archive/00495_001.jpg" target="_blank">
+	<img src="./lowres/00495_001.jpg" alt="Lomography Color Negative 800 35mm film box outside" loading="lazy" width="500" height="423">
+</a>
+
 #### [35mm] Lomography Fantome (ref: 4340)
 
 ```
@@ -10259,11 +10303,11 @@ Rank  Username                      Contributions
 4     @ellafridalindblom            63    
 5     @recycling.film               60    
 6     The Compartmentalist          25    
-7     fine-seat                     19    
-8     Camera.Riley                  19    
-9     Nano_Burger                   18    
-10    @ob.skura                     16    
-11    @Hol.m35                      16    
+7     @Hol.m35                      20    
+8     fine-seat                     19    
+9     Camera.Riley                  19    
+10    Nano_Burger                   18    
+11    @ob.skura                     16    
 12    waldoboro                     16    
 13    b0baspace                     14    
 14    @SirBrentsworth               13    

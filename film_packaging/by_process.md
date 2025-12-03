@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Dec 01 2025
-Unique items: 489
-Total scans : 898
+Last Updated: Dec 03 2025
+Unique items: 491
+Total scans : 902
 ```
 
 -----
@@ -161,6 +161,7 @@ Total scans : 898
 - [[BW] Konica Infrared 750nm (ref: 2d93)](#bw-konica-infrared-750nm-ref-2d93)
 - [[BW] Kosmo Foto Mono (ref: b74f)](#bw-kosmo-foto-mono-ref-b74f)
 - [[BW] Lomography Babylon (ref: 7afa)](#bw-lomography-babylon-ref-7afa)
+- [[BW] Lomography Berlin (ref: 246a)](#bw-lomography-berlin-ref-246a)
 - [[BW] Lomography Fantome (ref: 4340)](#bw-lomography-fantome-ref-4340)
 - [[BW] Lomography Orca (ref: d506)](#bw-lomography-orca-ref-d506)
 - [[BW] Lomography Postdam (ref: d0c6)](#bw-lomography-postdam-ref-d0c6)
@@ -360,6 +361,7 @@ Total scans : 898
 - [[C-41] Lloyds Pharmacy APS Film (ref: c7cf)](#c-41-lloyds-pharmacy-aps-film-ref-c7cf)
 - [[C-41] Lloyds Pharmacy Colour Film (ref: 074c)](#c-41-lloyds-pharmacy-colour-film-ref-074c)
 - [[C-41] Lloyds Pharmacy Colour Film (ref: 77d9)](#c-41-lloyds-pharmacy-colour-film-ref-77d9)
+- [[C-41] Lomography Color Negative 800 (ref: 7796)](#c-41-lomography-color-negative-800-ref-7796)
 - [[C-41] Lomography Color Negative Film (ref: 1529)](#c-41-lomography-color-negative-film-ref-1529)
 - [[C-41] Lomography Lobster Redscale Negative (ref: 4dcd)](#c-41-lomography-lobster-redscale-negative-ref-4dcd)
 - [[C-41] Lomography Lomochrome Color'92 (ref: 12b4)](#c-41-lomography-lomochrome-color92-ref-12b4)
@@ -3135,6 +3137,27 @@ UUID  : 9d7f531c7a764f9689228ab477297afa
 
 <a href="./archive/00147_000.jpg" target="_blank">
 	<img src="./lowres/00147_000.jpg" alt="Lomography Babylon 35mm film box outside" loading="lazy" width="500" height="398">
+</a>
+
+#### [BW] Lomography Berlin (ref: 246a)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2022-08 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-12-03   |  Author  : @Hol.m35
+UUID  : 11a01c72e7184305af18b815eed7246a
+```
+
+<a href="./archive/00494_000.jpg" target="_blank">
+	<img src="./lowres/00494_000.jpg" alt="Lomography Berlin 120 film box outside" loading="lazy" width="500" height="260">
+</a>
+
+
+`UUID: 93c0168d54bc413a8841ef0aeccd220c`↓
+
+<a href="./archive/00494_001.jpg" target="_blank">
+	<img src="./lowres/00494_001.jpg" alt="Lomography Berlin 120 film box outside" loading="lazy" width="500" height="254">
 </a>
 
 #### [BW] Lomography Fantome (ref: 4340)
@@ -6762,6 +6785,27 @@ UUID  : c58dda071d1741fda90e20b4252277d9
 	<img src="./lowres/00013_000.jpg" alt="Lloyds Pharmacy Colour Film 35mm film box outside" loading="lazy" width="428" height="500">
 </a>
 
+#### [C-41] Lomography Color Negative 800 (ref: 7796)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2026-06 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2025-12-03   |  Author  : @Hol.m35
+UUID  : 7daedd3c10164aa3a9ca3f7a9eae7796
+```
+
+<a href="./archive/00495_000.jpg" target="_blank">
+	<img src="./lowres/00495_000.jpg" alt="Lomography Color Negative 800 35mm film box outside" loading="lazy" width="453" height="500">
+</a>
+
+
+`UUID: 598d18cdb1b94a4499a2cdd1383a4088`↓
+
+<a href="./archive/00495_001.jpg" target="_blank">
+	<img src="./lowres/00495_001.jpg" alt="Lomography Color Negative 800 35mm film box outside" loading="lazy" width="500" height="423">
+</a>
+
 #### [C-41] Lomography Color Negative Film (ref: 1529)
 
 ```
@@ -10259,11 +10303,11 @@ Rank  Username                      Contributions
 4     @ellafridalindblom            63    
 5     @recycling.film               60    
 6     The Compartmentalist          25    
-7     fine-seat                     19    
-8     Camera.Riley                  19    
-9     Nano_Burger                   18    
-10    @ob.skura                     16    
-11    @Hol.m35                      16    
+7     @Hol.m35                      20    
+8     fine-seat                     19    
+9     Camera.Riley                  19    
+10    Nano_Burger                   18    
+11    @ob.skura                     16    
 12    waldoboro                     16    
 13    b0baspace                     14    
 14    @SirBrentsworth               13    

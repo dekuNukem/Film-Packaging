@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Dec 01 2025
-Unique items: 489
-Total scans : 898
+Last Updated: Dec 03 2025
+Unique items: 491
+Total scans : 902
 ```
 
 Or Sort by...
@@ -59,11 +59,11 @@ Rank  Username                      Contributions
 4     @ellafridalindblom            63    
 5     @recycling.film               60    
 6     The Compartmentalist          25    
-7     fine-seat                     19    
-8     Camera.Riley                  19    
-9     Nano_Burger                   18    
-10    @ob.skura                     16    
-11    @Hol.m35                      16    
+7     @Hol.m35                      20    
+8     fine-seat                     19    
+9     Camera.Riley                  19    
+10    Nano_Burger                   18    
+11    @ob.skura                     16    
 12    waldoboro                     16    
 13    b0baspace                     14    
 14    @SirBrentsworth               13    
@@ -96,6 +96,10 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-12-03
+  - @Hol.m35: Lomography Berlin
+  - @Hol.m35: Lomography Color Negative 800
+
 2025-12-01
   - Pelicram: Candido Colour Negative Film
 
@@ -118,26 +122,6 @@ Rank  Username                      Contributions
 
 2025-11-19
   - kaimon: Lucky C200
-
-2025-11-11
-  - @ellafridalindblom: Polaroid Green 600 Film Reclaimed Series
-  - @Hol.m35: Lomography Postdam
-  - @Hol.m35: Lucky C200
-  - @Hol.m35: Lucky SHD400
-  - Chrisbes: Agfa AgfaColor HDC Plus
-  - Chrisbes: CineStill 800T
-  - Chrisbes: Fujifilm Fujicolor HR100
-  - Chrisbes: Fujifilm Fujicolor Super HR
-  - Chrisbes: Reflx Lab 400D
-  - Chrisbes: Reflx Lab 800T
-  - dekuNukem: GT Photo GT24
-  - minidiscus: Arista.EDU Ultra
-  - minidiscus: Foma Fomapan 400 Set
-  - minidiscus: Kentmere PAN
-  - waldoboro: Fujifilm Fujicolor Natura 1600
-  - waldoboro: Fukkatsu Color Print Film
-  - waldoboro: Kodak Kodachrome
-  - waldoboro: Seagull Seagull Color IR100
 ```
 
 ## Disclaimer

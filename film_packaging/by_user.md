@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Dec 01 2025
-Unique items: 489
-Total scans : 898
+Last Updated: Dec 03 2025
+Unique items: 491
+Total scans : 902
 ```
 
 -----
@@ -28,6 +28,8 @@ Total scans : 898
 - [[@Hol.m35] Fujifilm Superia Premium 400 (ref: ef1f)](#holm35-fujifilm-superia-premium-400-ref-ef1f)
 - [[@Hol.m35] Hope Film Bubble (ref: 41f4)](#holm35-hope-film-bubble-ref-41f4)
 - [[@Hol.m35] JCH Streetpan (ref: 5c70)](#holm35-jch-streetpan-ref-5c70)
+- [[@Hol.m35] Lomography Berlin (ref: 246a)](#holm35-lomography-berlin-ref-246a)
+- [[@Hol.m35] Lomography Color Negative 800 (ref: 7796)](#holm35-lomography-color-negative-800-ref-7796)
 - [[@Hol.m35] Lomography Postdam (ref: d0c6)](#holm35-lomography-postdam-ref-d0c6)
 - [[@Hol.m35] Lucky C200 (ref: e6f8)](#holm35-lucky-c200-ref-e6f8)
 - [[@Hol.m35] Lucky SHD400 (ref: 15b5)](#holm35-lucky-shd400-ref-15b5)
@@ -611,6 +613,48 @@ UUID  : f32d9e32d43441b79220744cdb4e5c70
 
 <a href="./archive/00355_001.jpg" target="_blank">
 	<img src="./lowres/00355_001.jpg" alt="JCH Streetpan 120 film box inside" loading="lazy" width="500" height="463">
+</a>
+
+#### [@Hol.m35] Lomography Berlin (ref: 246a)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2022-08 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-12-03   |  Author  : @Hol.m35
+UUID  : 11a01c72e7184305af18b815eed7246a
+```
+
+<a href="./archive/00494_000.jpg" target="_blank">
+	<img src="./lowres/00494_000.jpg" alt="Lomography Berlin 120 film box outside" loading="lazy" width="500" height="260">
+</a>
+
+
+`UUID: 93c0168d54bc413a8841ef0aeccd220c`↓
+
+<a href="./archive/00494_001.jpg" target="_blank">
+	<img src="./lowres/00494_001.jpg" alt="Lomography Berlin 120 film box outside" loading="lazy" width="500" height="254">
+</a>
+
+#### [@Hol.m35] Lomography Color Negative 800 (ref: 7796)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2026-06 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2025-12-03   |  Author  : @Hol.m35
+UUID  : 7daedd3c10164aa3a9ca3f7a9eae7796
+```
+
+<a href="./archive/00495_000.jpg" target="_blank">
+	<img src="./lowres/00495_000.jpg" alt="Lomography Color Negative 800 35mm film box outside" loading="lazy" width="453" height="500">
+</a>
+
+
+`UUID: 598d18cdb1b94a4499a2cdd1383a4088`↓
+
+<a href="./archive/00495_001.jpg" target="_blank">
+	<img src="./lowres/00495_001.jpg" alt="Lomography Color Negative 800 35mm film box outside" loading="lazy" width="500" height="423">
 </a>
 
 #### [@Hol.m35] Lomography Postdam (ref: d0c6)
@@ -10259,11 +10303,11 @@ Rank  Username                      Contributions
 4     @ellafridalindblom            63    
 5     @recycling.film               60    
 6     The Compartmentalist          25    
-7     fine-seat                     19    
-8     Camera.Riley                  19    
-9     Nano_Burger                   18    
-10    @ob.skura                     16    
-11    @Hol.m35                      16    
+7     @Hol.m35                      20    
+8     fine-seat                     19    
+9     Camera.Riley                  19    
+10    Nano_Burger                   18    
+11    @ob.skura                     16    
 12    waldoboro                     16    
 13    b0baspace                     14    
 14    @SirBrentsworth               13    
