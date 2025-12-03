@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Dec 03 2025
-Unique items: 491
-Total scans : 902
+Unique items: 492
+Total scans : 903
 ```
 
 -----
@@ -462,6 +462,7 @@ Total scans : 902
 - [Polaroid Polacolor 679 (ref: 625c)](#polaroid-polacolor-679-ref-625c)
 - [Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)](#polaroid-polavision-phototape-land-cassette-type-608-ref-90b9)
 - [Polaroid Spectra Film (ref: 7a94)](#polaroid-spectra-film-ref-7a94)
+- [Polaroid Type 42 (ref: f92c)](#polaroid-type-42-ref-f92c)
 - [Porst Color N21 (ref: 494a)](#porst-color-n21-ref-494a)
 - [Premium Super XG (ref: 8ccd)](#premium-super-xg-ref-8ccd)
 - [PrinzColor Colour Negative Film (ref: 448c)](#prinzcolor-colour-negative-film-ref-448c)
@@ -9306,6 +9307,20 @@ UUID  : 2ec40bee5af2471cad92278123ba7a94
 	<img src="./lowres/00352_000.jpg" alt="Polaroid Spectra Film Integral Film film box outside" loading="lazy" width="271" height="499">
 </a>
 
+#### Polaroid Type 42 (ref: f92c)
+
+```
+Format: Instant Roll Film|  Process : Instant 
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-12-03   |  Author  : @recycling.film
+UUID  : ce5edab694b4467aa9b3e1d81d8bf92c
+```
+
+<a href="./archive/00496_000.jpg" target="_blank">
+	<img src="./lowres/00496_000.jpg" alt="Polaroid Type 42 Instant Roll Film film box outside" loading="lazy" width="470" height="500">
+</a>
+
 #### Porst Color N21 (ref: 494a)
 
 ```
@@ -10301,7 +10316,7 @@ Rank  Username                      Contributions
 2     @photos.by.qi                 72    
 3     Pelicram                      68    
 4     @ellafridalindblom            63    
-5     @recycling.film               60    
+5     @recycling.film               61    
 6     The Compartmentalist          25    
 7     @Hol.m35                      20    
 8     fine-seat                     19    

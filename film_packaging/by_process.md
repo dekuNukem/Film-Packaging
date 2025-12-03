@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Dec 03 2025
-Unique items: 491
-Total scans : 902
+Unique items: 492
+Total scans : 903
 ```
 
 -----
@@ -485,6 +485,7 @@ Total scans : 902
 - [[Instant] Polaroid Polacolor 679 (ref: 625c)](#instant-polaroid-polacolor-679-ref-625c)
 - [[Instant] Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)](#instant-polaroid-polavision-phototape-land-cassette-type-608-ref-90b9)
 - [[Instant] Polaroid Spectra Film (ref: 7a94)](#instant-polaroid-spectra-film-ref-7a94)
+- [[Instant] Polaroid Type 42 (ref: f92c)](#instant-polaroid-type-42-ref-f92c)
 - [[K-14] Great Films Processing Kodachrome (ref: c012)](#k-14-great-films-processing-kodachrome-ref-c012)
 - [[K-14] Kodak Kodachrome (ref: 3d0a)](#k-14-kodak-kodachrome-ref-3d0a)
 - [[K-14] Kodak Kodachrome 25 (ref: 6477)](#k-14-kodak-kodachrome-25-ref-6477)
@@ -9352,6 +9353,20 @@ UUID  : 2ec40bee5af2471cad92278123ba7a94
 	<img src="./lowres/00352_000.jpg" alt="Polaroid Spectra Film Integral Film film box outside" loading="lazy" width="271" height="499">
 </a>
 
+#### [Instant] Polaroid Type 42 (ref: f92c)
+
+```
+Format: Instant Roll Film|  Process : Instant 
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-12-03   |  Author  : @recycling.film
+UUID  : ce5edab694b4467aa9b3e1d81d8bf92c
+```
+
+<a href="./archive/00496_000.jpg" target="_blank">
+	<img src="./lowres/00496_000.jpg" alt="Polaroid Type 42 Instant Roll Film film box outside" loading="lazy" width="470" height="500">
+</a>
+
 #### [K-14] Great Films Processing Kodachrome (ref: c012)
 
 ```
@@ -10301,7 +10316,7 @@ Rank  Username                      Contributions
 2     @photos.by.qi                 72    
 3     Pelicram                      68    
 4     @ellafridalindblom            63    
-5     @recycling.film               60    
+5     @recycling.film               61    
 6     The Compartmentalist          25    
 7     @Hol.m35                      20    
 8     fine-seat                     19    

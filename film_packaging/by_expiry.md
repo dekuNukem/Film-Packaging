@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Dec 03 2025
-Unique items: 491
-Total scans : 902
+Unique items: 492
+Total scans : 903
 ```
 
 -----
@@ -505,6 +505,7 @@ Total scans : 902
 - [[Unknown] Optik Oldschool OptiColour 200 (ref: 80d7)](#unknown-optik-oldschool-opticolour-200-ref-80d7)
 - [[Unknown] Perutz Superomnia (ref: c90d)](#unknown-perutz-superomnia-ref-c90d)
 - [[Unknown] Phöbus-Platten Sheet Film (ref: d505)](#unknown-phöbus-platten-sheet-film-ref-d505)
+- [[Unknown] Polaroid Type 42 (ref: f92c)](#unknown-polaroid-type-42-ref-f92c)
 - [[Unknown] Robot NR-Cassette (ref: bc7a)](#unknown-robot-nr-cassette-ref-bc7a)
 - [[Unknown] Sharan Black-and-white Negative Film (ref: a884)](#unknown-sharan-black-and-white-negative-film-ref-a884)
 - [[Unknown] Sharan Color Negative Film (ref: 4913)](#unknown-sharan-color-negative-film-ref-4913)
@@ -10126,6 +10127,20 @@ UUID  : d9b0fa92fbbb494085ce494cc407d505
 	<img src="./lowres/00282_000.jpg" alt="Phöbus-Platten Sheet Film 12x16.5cm film box outside" loading="lazy" width="500" height="419">
 </a>
 
+#### [Unknown] Polaroid Type 42 (ref: f92c)
+
+```
+Format: Instant Roll Film|  Process : Instant 
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-12-03   |  Author  : @recycling.film
+UUID  : ce5edab694b4467aa9b3e1d81d8bf92c
+```
+
+<a href="./archive/00496_000.jpg" target="_blank">
+	<img src="./lowres/00496_000.jpg" alt="Polaroid Type 42 Instant Roll Film film box outside" loading="lazy" width="470" height="500">
+</a>
+
 #### [Unknown] Robot NR-Cassette (ref: bc7a)
 
 ```
@@ -10301,7 +10316,7 @@ Rank  Username                      Contributions
 2     @photos.by.qi                 72    
 3     Pelicram                      68    
 4     @ellafridalindblom            63    
-5     @recycling.film               60    
+5     @recycling.film               61    
 6     The Compartmentalist          25    
 7     @Hol.m35                      20    
 8     fine-seat                     19    

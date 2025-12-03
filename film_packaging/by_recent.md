@@ -16,12 +16,13 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Dec 03 2025
-Unique items: 491
-Total scans : 902
+Unique items: 492
+Total scans : 903
 ```
 
 -----
 
+- [[2025-12-03] Polaroid Type 42 (ref: f92c)](#2025-12-03-polaroid-type-42-ref-f92c)
 - [[2025-12-03] Lomography Color Negative 800 (ref: 7796)](#2025-12-03-lomography-color-negative-800-ref-7796)
 - [[2025-12-03] Lomography Berlin (ref: 246a)](#2025-12-03-lomography-berlin-ref-246a)
 - [[2025-12-01] Candido Colour Negative Film (ref: 6cd2)](#2025-12-01-candido-colour-negative-film-ref-6cd2)
@@ -516,6 +517,20 @@ Total scans : 902
 
 
 -----
+
+#### [2025-12-03] Polaroid Type 42 (ref: f92c)
+
+```
+Format: Instant Roll Film|  Process : Instant 
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-12-03   |  Author  : @recycling.film
+UUID  : ce5edab694b4467aa9b3e1d81d8bf92c
+```
+
+<a href="./archive/00496_000.jpg" target="_blank">
+	<img src="./lowres/00496_000.jpg" alt="Polaroid Type 42 Instant Roll Film film box outside" loading="lazy" width="470" height="500">
+</a>
 
 
 `UUID: 598d18cdb1b94a4499a2cdd1383a4088`↓
@@ -10301,7 +10316,7 @@ Rank  Username                      Contributions
 2     @photos.by.qi                 72    
 3     Pelicram                      68    
 4     @ellafridalindblom            63    
-5     @recycling.film               60    
+5     @recycling.film               61    
 6     The Compartmentalist          25    
 7     @Hol.m35                      20    
 8     fine-seat                     19    

@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Dec 03 2025
-Unique items: 491
-Total scans : 902
+Unique items: 492
+Total scans : 903
 ```
 
 -----
@@ -493,6 +493,7 @@ Total scans : 902
 - [[APS] Kodak Advantix Ultra (ref: 566b)](#aps-kodak-advantix-ultra-ref-566b)
 - [[APS] Kodak Advantix Ultra Max (ref: 1ca2)](#aps-kodak-advantix-ultra-max-ref-1ca2)
 - [[APS] Lloyds Pharmacy APS Film (ref: c7cf)](#aps-lloyds-pharmacy-aps-film-ref-c7cf)
+- [[Instant Roll Film] Polaroid Type 42 (ref: f92c)](#instant-roll-film-polaroid-type-42-ref-f92c)
 - [[Integral Film] Fujifilm Instax Mini (ref: e5e7)](#integral-film-fujifilm-instax-mini-ref-e5e7)
 - [[Integral Film] Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras (ref: 861c)](#integral-film-impossible-project-color-instant-film-for-polaroid-sx-70-type-cameras-ref-861c)
 - [[Integral Film] Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)](#integral-film-impossible-project-px-600-silver-shade-uv-ref-20f3)
@@ -9755,6 +9756,20 @@ UUID  : 44bd7d4688e04d19a958d961c2abc7cf
 	<img src="./lowres/00067_000.jpg" alt="Lloyds Pharmacy APS Film APS film box outside" loading="lazy" width="418" height="500">
 </a>
 
+#### [Instant Roll Film] Polaroid Type 42 (ref: f92c)
+
+```
+Format: Instant Roll Film|  Process : Instant 
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-12-03   |  Author  : @recycling.film
+UUID  : ce5edab694b4467aa9b3e1d81d8bf92c
+```
+
+<a href="./archive/00496_000.jpg" target="_blank">
+	<img src="./lowres/00496_000.jpg" alt="Polaroid Type 42 Instant Roll Film film box outside" loading="lazy" width="470" height="500">
+</a>
+
 #### [Integral Film] Fujifilm Instax Mini (ref: e5e7)
 
 ```
@@ -10301,7 +10316,7 @@ Rank  Username                      Contributions
 2     @photos.by.qi                 72    
 3     Pelicram                      68    
 4     @ellafridalindblom            63    
-5     @recycling.film               60    
+5     @recycling.film               61    
 6     The Compartmentalist          25    
 7     @Hol.m35                      20    
 8     fine-seat                     19    

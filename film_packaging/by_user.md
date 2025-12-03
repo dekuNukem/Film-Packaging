@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Dec 03 2025
-Unique items: 491
-Total scans : 902
+Unique items: 492
+Total scans : 903
 ```
 
 -----
@@ -180,6 +180,7 @@ Total scans : 902
 - [[@recycling.film] Perutz Peromnia 21 (ref: fa4a)](#recyclingfilm-perutz-peromnia-21-ref-fa4a)
 - [[@recycling.film] Perutz Perpantic Film (ref: 58b1)](#recyclingfilm-perutz-perpantic-film-ref-58b1)
 - [[@recycling.film] Photocité 400 ISO (ref: e370)](#recyclingfilm-photocité-400-iso-ref-e370)
+- [[@recycling.film] Polaroid Type 42 (ref: f92c)](#recyclingfilm-polaroid-type-42-ref-f92c)
 - [[@recycling.film] Seagull Seagull Color IR100 (ref: 8fd8)](#recyclingfilm-seagull-seagull-color-ir100-ref-8fd8)
 - [[@recycling.film] Svema Foto 32 (ref: 8b44)](#recyclingfilm-svema-foto-32-ref-8b44)
 - [[@recycling.film] Svema Foto 32 (ref: d1fd)](#recyclingfilm-svema-foto-32-ref-d1fd)
@@ -3377,6 +3378,20 @@ UUID  : eeccbc03ca25486db372e649d073e370
 
 <a href="./archive/00486_000.jpg" target="_blank">
 	<img src="./lowres/00486_000.jpg" alt="Photocité 400 ISO 35mm film box outside" loading="lazy" width="471" height="499">
+</a>
+
+#### [@recycling.film] Polaroid Type 42 (ref: f92c)
+
+```
+Format: Instant Roll Film|  Process : Instant 
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2025-12-03   |  Author  : @recycling.film
+UUID  : ce5edab694b4467aa9b3e1d81d8bf92c
+```
+
+<a href="./archive/00496_000.jpg" target="_blank">
+	<img src="./lowres/00496_000.jpg" alt="Polaroid Type 42 Instant Roll Film film box outside" loading="lazy" width="470" height="500">
 </a>
 
 #### [@recycling.film] Seagull Seagull Color IR100 (ref: 8fd8)
@@ -10301,7 +10316,7 @@ Rank  Username                      Contributions
 2     @photos.by.qi                 72    
 3     Pelicram                      68    
 4     @ellafridalindblom            63    
-5     @recycling.film               60    
+5     @recycling.film               61    
 6     The Compartmentalist          25    
 7     @Hol.m35                      20    
 8     fine-seat                     19    
