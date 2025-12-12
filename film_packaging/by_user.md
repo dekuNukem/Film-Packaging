@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Dec 03 2025
-Unique items: 492
-Total scans : 903
+Last Updated: Dec 12 2025
+Unique items: 494
+Total scans : 908
 ```
 
 -----
@@ -155,6 +155,7 @@ Total scans : 903
 - [[@recycling.film] Foma Fomapan F17 (ref: a10e)](#recyclingfilm-foma-fomapan-f17-ref-a10e)
 - [[@recycling.film] Fujifilm FP-100C (ref: 5cda)](#recyclingfilm-fujifilm-fp-100c-ref-5cda)
 - [[@recycling.film] Fujifilm Fujicolor C200 (ref: 2ff8)](#recyclingfilm-fujifilm-fujicolor-c200-ref-2ff8)
+- [[@recycling.film] Fujifilm Fujicolor Natura 1600 (ref: c8ed)](#recyclingfilm-fujifilm-fujicolor-natura-1600-ref-c8ed)
 - [[@recycling.film] Fujifilm Fujicolor Super HG (ref: feb7)](#recyclingfilm-fujifilm-fujicolor-super-hg-ref-feb7)
 - [[@recycling.film] Fujifilm Fujicolor Superia (ref: 0d8e)](#recyclingfilm-fujifilm-fujicolor-superia-ref-0d8e)
 - [[@recycling.film] Fujifilm Fujicolor Superia Reala (ref: a7de)](#recyclingfilm-fujifilm-fujicolor-superia-reala-ref-a7de)
@@ -495,6 +496,7 @@ Total scans : 903
 - [[toader] Kodak Ektachrome 100 Plus (ref: 5d9f)](#toader-kodak-ektachrome-100-plus-ref-5d9f)
 - [[toader] Kodak Ektachrome E100 (ref: ae10)](#toader-kodak-ektachrome-e100-ref-ae10)
 - [[toader] Kodak Ektachrome Elite 100 (ref: 26ef)](#toader-kodak-ektachrome-elite-100-ref-26ef)
+- [[toader] Polaroid Color 600 Film (ref: e12f)](#toader-polaroid-color-600-film-ref-e12f)
 - [[toader] Polaroid Color 600 Film Round Frame (ref: d985)](#toader-polaroid-color-600-film-round-frame-ref-d985)
 - [[toader] Polaroid Color SX-70 Film (ref: dc7f)](#toader-polaroid-color-sx-70-film-ref-dc7f)
 - [[u/ReeeSchmidtyWerber] Kodak Panatomic-X (ref: 8d69)](#ureeeschmidtywerber-kodak-panatomic-x-ref-8d69)
@@ -2915,6 +2917,20 @@ UUID  : 271054727291471392db72d5556f2ff8
 
 <a href="./archive/00202_000.jpg" target="_blank">
 	<img src="./lowres/00202_000.jpg" alt="Fujifilm Fujicolor C200 35mm film box outside" loading="lazy" width="419" height="500">
+</a>
+
+#### [@recycling.film] Fujifilm Fujicolor Natura 1600 (ref: c8ed)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 1600         |  Expiry  : 2019-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-12-12   |  Author  : @recycling.film
+UUID  : 70948fbe01434f64bf95c813e2c8c8ed
+```
+
+<a href="./archive/00497_000.jpg" target="_blank">
+	<img src="./lowres/00497_000.jpg" alt="Fujifilm Fujicolor Natura 1600 35mm film box outside" loading="lazy" width="456" height="500">
 </a>
 
 #### [@recycling.film] Fujifilm Fujicolor Super HG (ref: feb7)
@@ -9896,6 +9912,41 @@ UUID  : 175cf2b69fe3413093d9d7f9ea0d26ef
 	<img src="./lowres/00114_001.jpg" alt="Kodak Ektachrome Elite 100 35mm film box inside" loading="lazy" width="441" height="500">
 </a>
 
+#### [toader] Polaroid Color 600 Film (ref: e12f)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2026-09 
+Type  : Single Pack  |  Quantity: 16exp   
+Added : 2025-12-12   |  Author  : toader  
+UUID  : 51d75e2058564d668402d5f1bf3fe12f
+```
+
+<a href="./archive/00498_000.jpg" target="_blank">
+	<img src="./lowres/00498_000.jpg" alt="Polaroid Color 600 Film Integral Film film box outside" loading="lazy" width="500" height="471">
+</a>
+
+
+`UUID: f6c79651a4c147e0b902c3e8c4db52e3`↓
+
+<a href="./archive/00498_001.jpg" target="_blank">
+	<img src="./lowres/00498_001.jpg" alt="Polaroid Color 600 Film Integral Film film box outside" loading="lazy" width="426" height="500">
+</a>
+
+
+`UUID: 52079bbae4d8474da690f4f6da194578`↓
+
+<a href="./archive/00498_002.jpg" target="_blank">
+	<img src="./lowres/00498_002.jpg" alt="Polaroid Color 600 Film Integral Film film box inside" loading="lazy" width="433" height="500">
+</a>
+
+
+`UUID: d3ee36b0442241e78e56a0b9910e24a9`↓
+
+<a href="./archive/00498_003.jpg" target="_blank">
+	<img src="./lowres/00498_003.jpg" alt="Polaroid Color 600 Film Integral Film film box inside" loading="lazy" width="500" height="450">
+</a>
+
 #### [toader] Polaroid Color 600 Film Round Frame (ref: d985)
 
 ```
@@ -10316,17 +10367,17 @@ Rank  Username                      Contributions
 2     @photos.by.qi                 72    
 3     Pelicram                      68    
 4     @ellafridalindblom            63    
-5     @recycling.film               61    
+5     @recycling.film               62    
 6     The Compartmentalist          25    
 7     @Hol.m35                      20    
 8     fine-seat                     19    
 9     Camera.Riley                  19    
 10    Nano_Burger                   18    
-11    @ob.skura                     16    
-12    waldoboro                     16    
-13    b0baspace                     14    
-14    @SirBrentsworth               13    
-15    toader                        13    
+11    toader                        17    
+12    @ob.skura                     16    
+13    waldoboro                     16    
+14    b0baspace                     14    
+15    @SirBrentsworth               13    
 16    kaimon                        12    
 17    yc128                         11    
 18    @zruk_ts                      10    

@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Dec 03 2025
-Unique items: 492
-Total scans : 903
+Last Updated: Dec 12 2025
+Unique items: 494
+Total scans : 908
 ```
 
 -----
@@ -312,6 +312,7 @@ Total scans : 903
 - [[2018] Fukkatsu Color Print Film (ref: 3213)](#2018-fukkatsu-color-print-film-ref-3213)
 - [[2018] Fujifilm Fujicolor Pro 400H (ref: 66e3)](#2018-fujifilm-fujicolor-pro-400h-ref-66e3)
 - [[2019] Agfa Vista Plus 200 (ref: f08a)](#2019-agfa-vista-plus-200-ref-f08a)
+- [[2019] Fujifilm Fujicolor Natura 1600 (ref: c8ed)](#2019-fujifilm-fujicolor-natura-1600-ref-c8ed)
 - [[2019] Fujifilm Fujicolor Professional (ref: 02f7)](#2019-fujifilm-fujicolor-professional-ref-02f7)
 - [[2020] Fujifilm Fujicolor C200 (ref: 2ff8)](#2020-fujifilm-fujicolor-c200-ref-2ff8)
 - [[2020] Fujifilm Fujichrome Provia 100F (ref: 356d)](#2020-fujifilm-fujichrome-provia-100f-ref-356d)
@@ -407,6 +408,7 @@ Total scans : 903
 - [[2026] Kodak Ektar 100 (ref: 3498)](#2026-kodak-ektar-100-ref-3498)
 - [[2026] Kodak Tri-X 400 (ref: c671)](#2026-kodak-tri-x-400-ref-c671)
 - [[2026] Lomography Tiger (ref: 26dd)](#2026-lomography-tiger-ref-26dd)
+- [[2026] Polaroid Color 600 Film (ref: e12f)](#2026-polaroid-color-600-film-ref-e12f)
 - [[2026] Candido Colour Negative Film (ref: 6cd2)](#2026-candido-colour-negative-film-ref-6cd2)
 - [[2026] Fujifilm Fujichrome Provia 100F (ref: df27)](#2026-fujifilm-fujichrome-provia-100f-ref-df27)
 - [[2026] Kodak Portra 400 (ref: c869)](#2026-kodak-portra-400-ref-c869)
@@ -6675,6 +6677,20 @@ UUID  : b1c4d56515954c8d98bd0b8f9591f08a
 	<img src="./lowres/00257_001.jpg" alt="Agfa Vista Plus 200 35mm film box inside" loading="lazy" width="410" height="499">
 </a>
 
+#### [2019] Fujifilm Fujicolor Natura 1600 (ref: c8ed)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 1600         |  Expiry  : 2019-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-12-12   |  Author  : @recycling.film
+UUID  : 70948fbe01434f64bf95c813e2c8c8ed
+```
+
+<a href="./archive/00497_000.jpg" target="_blank">
+	<img src="./lowres/00497_000.jpg" alt="Fujifilm Fujicolor Natura 1600 35mm film box outside" loading="lazy" width="456" height="500">
+</a>
+
 #### [2019] Fujifilm Fujicolor Professional (ref: 02f7)
 
 ```
@@ -8297,6 +8313,41 @@ UUID  : e8a5b04ef68c43ae9e79df89123726dd
 
 <a href="./archive/00143_000.jpg" target="_blank">
 	<img src="./lowres/00143_000.jpg" alt="Lomography Tiger 110 film box outside" loading="lazy" width="317" height="500">
+</a>
+
+#### [2026] Polaroid Color 600 Film (ref: e12f)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2026-09 
+Type  : Single Pack  |  Quantity: 16exp   
+Added : 2025-12-12   |  Author  : toader  
+UUID  : 51d75e2058564d668402d5f1bf3fe12f
+```
+
+<a href="./archive/00498_000.jpg" target="_blank">
+	<img src="./lowres/00498_000.jpg" alt="Polaroid Color 600 Film Integral Film film box outside" loading="lazy" width="500" height="471">
+</a>
+
+
+`UUID: f6c79651a4c147e0b902c3e8c4db52e3`↓
+
+<a href="./archive/00498_001.jpg" target="_blank">
+	<img src="./lowres/00498_001.jpg" alt="Polaroid Color 600 Film Integral Film film box outside" loading="lazy" width="426" height="500">
+</a>
+
+
+`UUID: 52079bbae4d8474da690f4f6da194578`↓
+
+<a href="./archive/00498_002.jpg" target="_blank">
+	<img src="./lowres/00498_002.jpg" alt="Polaroid Color 600 Film Integral Film film box inside" loading="lazy" width="433" height="500">
+</a>
+
+
+`UUID: d3ee36b0442241e78e56a0b9910e24a9`↓
+
+<a href="./archive/00498_003.jpg" target="_blank">
+	<img src="./lowres/00498_003.jpg" alt="Polaroid Color 600 Film Integral Film film box inside" loading="lazy" width="500" height="450">
 </a>
 
 #### [2026] Candido Colour Negative Film (ref: 6cd2)
@@ -10316,17 +10367,17 @@ Rank  Username                      Contributions
 2     @photos.by.qi                 72    
 3     Pelicram                      68    
 4     @ellafridalindblom            63    
-5     @recycling.film               61    
+5     @recycling.film               62    
 6     The Compartmentalist          25    
 7     @Hol.m35                      20    
 8     fine-seat                     19    
 9     Camera.Riley                  19    
 10    Nano_Burger                   18    
-11    @ob.skura                     16    
-12    waldoboro                     16    
-13    b0baspace                     14    
-14    @SirBrentsworth               13    
-15    toader                        13    
+11    toader                        17    
+12    @ob.skura                     16    
+13    waldoboro                     16    
+14    b0baspace                     14    
+15    @SirBrentsworth               13    
 16    kaimon                        12    
 17    yc128                         11    
 18    @zruk_ts                      10    

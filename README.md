@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Dec 03 2025
-Unique items: 492
-Total scans : 903
+Last Updated: Dec 12 2025
+Unique items: 494
+Total scans : 908
 ```
 
 Or Sort by...
@@ -57,17 +57,17 @@ Rank  Username                      Contributions
 2     @photos.by.qi                 72    
 3     Pelicram                      68    
 4     @ellafridalindblom            63    
-5     @recycling.film               61    
+5     @recycling.film               62    
 6     The Compartmentalist          25    
 7     @Hol.m35                      20    
 8     fine-seat                     19    
 9     Camera.Riley                  19    
 10    Nano_Burger                   18    
-11    @ob.skura                     16    
-12    waldoboro                     16    
-13    b0baspace                     14    
-14    @SirBrentsworth               13    
-15    toader                        13    
+11    toader                        17    
+12    @ob.skura                     16    
+13    waldoboro                     16    
+14    b0baspace                     14    
+15    @SirBrentsworth               13    
 16    kaimon                        12    
 17    yc128                         11    
 18    @zruk_ts                      10    
@@ -96,6 +96,10 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-12-12
+  - @recycling.film: Fujifilm Fujicolor Natura 1600
+  - toader: Polaroid Color 600 Film
+
 2025-12-03
   - @Hol.m35: Lomography Berlin
   - @Hol.m35: Lomography Color Negative 800
@@ -120,9 +124,6 @@ Rank  Username                      Contributions
   - @ellafridalindblom: Agfa Isopan Portrait
   - @ellafridalindblom: Ilford R.25 F.P Special
   - @Hol.m35: Street Candy Film ATM400
-
-2025-11-19
-  - kaimon: Lucky C200
 ```
 
 ## Disclaimer

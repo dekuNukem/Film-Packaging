@@ -902,3 +902,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 495,0,film_box_outside,Lomography,Color Negative 800,35mm,800,C-41,202606,1764782055,74123111823ee9def88b6b1e7280a9d7,7daedd3c10164aa3a9ca3f7a9eae7796,00495_000.jpg,@Hol.m35,,Multi-Pack-3,36exp
 495,1,film_box_outside,Lomography,Color Negative 800,35mm,800,C-41,202606,1764782057,e162f23d38a0ce27866e5991ae02c728,598d18cdb1b94a4499a2cdd1383a4088,00495_001.jpg,@Hol.m35,,Multi-Pack-3,36exp
 496,0,film_box_outside,Polaroid,Type 42,Instant Roll Film,200,Instant,Unknown,1764782320,0318e8448666f504805818d009d6774b,ce5edab694b4467aa9b3e1d81d8bf92c,00496_000.jpg,@recycling.film,,Single Pack,8exp
+497,0,film_box_outside,Fujifilm,Fujicolor Natura 1600,35mm,1600,C-41,201912,1765564029,82070ebfa2c3d491604f2941cb92df33,70948fbe01434f64bf95c813e2c8c8ed,00497_000.jpg,@recycling.film,,Single Pack,36exp
+498,0,film_box_outside,Polaroid,Color 600 Film,Integral Film,640,Instant,202609,1765564306,66b9c4feb8977e1d0b2a9f3b6c4ce187,51d75e2058564d668402d5f1bf3fe12f,00498_000.jpg,toader,,Single Pack,16exp
+498,1,film_box_outside,Polaroid,Color 600 Film,Integral Film,640,Instant,202609,1765564311,a72c3ddbe9df2263ff5624c6b4096c4f,f6c79651a4c147e0b902c3e8c4db52e3,00498_001.jpg,toader,,Single Pack,16exp
+498,2,film_box_inside,Polaroid,Color 600 Film,Integral Film,640,Instant,202609,1765564314,f8558150c5f9fdc5fbce165a565f630e,52079bbae4d8474da690f4f6da194578,00498_002.jpg,toader,,Single Pack,16exp
+498,3,film_box_inside,Polaroid,Color 600 Film,Integral Film,640,Instant,202609,1765564317,c8b22891c0aa06d38fcc294c508cc49a,d3ee36b0442241e78e56a0b9910e24a9,00498_003.jpg,toader,,Single Pack,16exp
