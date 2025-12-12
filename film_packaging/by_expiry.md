@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Dec 12 2025
-Unique items: 494
-Total scans : 908
+Unique items: 498
+Total scans : 915
 ```
 
 -----
@@ -89,6 +89,7 @@ Total scans : 908
 - [[1975] PrinzColor Colour Negative Film (ref: 448c)](#1975-prinzcolor-colour-negative-film-ref-448c)
 - [[1976] Agfa Isopan IF Rapid (ref: 2b99)](#1976-agfa-isopan-if-rapid-ref-2b99)
 - [[1976] Triple-Print Film Labs Color Negative Film (ref: 88e6)](#1976-triple-print-film-labs-color-negative-film-ref-88e6)
+- [[1976] Kodak Tri-X Pan (ref: 4a3b)](#1976-kodak-tri-x-pan-ref-4a3b)
 - [[1976] Film Corporation of America TriFCA 35 (ref: 8f0a)](#1976-film-corporation-of-america-trifca-35-ref-8f0a)
 - [[1976] Agfa Agfacolor Negative Film Special CNS (ref: 9b03)](#1976-agfa-agfacolor-negative-film-special-cns-ref-9b03)
 - [[1976] Film Corporation of America TriFCA 120 (ref: d024)](#1976-film-corporation-of-america-trifca-120-ref-d024)
@@ -430,6 +431,7 @@ Total scans : 908
 - [[2027] Kentmere PAN (ref: 3ec0)](#2027-kentmere-pan-ref-3ec0)
 - [[2027] Kodak UltraMax (ref: aaa6)](#2027-kodak-ultramax-ref-aaa6)
 - [[2027] Arista.EDU Ultra (ref: d78b)](#2027-aristaedu-ultra-ref-d78b)
+- [[2027] CineStill 800T (ref: c96e)](#2027-cinestill-800t-ref-c96e)
 - [[2027] Foma Fomapan Classic 100 (ref: 65ad)](#2027-foma-fomapan-classic-100-ref-65ad)
 - [[2027] Fujifilm Instax Mini (ref: e5e7)](#2027-fujifilm-instax-mini-ref-e5e7)
 - [[2027] Kodak Gold (ref: 855e)](#2027-kodak-gold-ref-855e)
@@ -444,6 +446,7 @@ Total scans : 908
 - [[2027] Harman Phoenix II (ref: f686)](#2027-harman-phoenix-ii-ref-f686)
 - [[2027] Harman Phoenix II (ref: 40df)](#2027-harman-phoenix-ii-ref-40df)
 - [[2027] Ilford Delta 3200 Professional (ref: 9b54)](#2027-ilford-delta-3200-professional-ref-9b54)
+- [[2027] Kodak Portra 800 (ref: 3c94)](#2027-kodak-portra-800-ref-3c94)
 - [[2027] ADOX CHS 100 II (ref: 8adf)](#2027-adox-chs-100-ii-ref-8adf)
 - [[2027] ADOX HR 50 (ref: 4da7)](#2027-adox-hr-50-ref-4da7)
 - [[2027] Foma Fomapan Classic 100 (ref: 0030)](#2027-foma-fomapan-classic-100-ref-0030)
@@ -486,6 +489,7 @@ Total scans : 908
 - [[Unknown] Defender Portrait HGS (ref: d69c)](#unknown-defender-portrait-hgs-ref-d69c)
 - [[Unknown] Ferrania Solaris (ref: a929)](#unknown-ferrania-solaris-ref-a929)
 - [[Unknown] Film Corporation of America TriFCA 120 (ref: 9937)](#unknown-film-corporation-of-america-trifca-120-ref-9937)
+- [[Unknown] Film Photography Project FPP 620 Black & White Panchromatic Negative Film (ref: 60ce)](#unknown-film-photography-project-fpp-620-black-white-panchromatic-negative-film-ref-60ce)
 - [[Unknown] Gevaert Infra-R (ref: fc88)](#unknown-gevaert-infra-r-ref-fc88)
 - [[Unknown] Gevaert Studio Film (ref: 75f9)](#unknown-gevaert-studio-film-ref-75f9)
 - [[Unknown] Gevaert Ultra Panchro Normal (ref: 1ff6)](#unknown-gevaert-ultra-panchro-normal-ref-1ff6)
@@ -2006,6 +2010,34 @@ Notes : Division of Film Corporation of America
 
 <a href="./archive/00427_002.jpg" target="_blank">
 	<img src="./lowres/00427_002.jpg" alt="Triple-Print Film Labs Color Negative Film 127 film box leaflet" loading="lazy" width="500" height="378">
+</a>
+
+#### [1976] Kodak Tri-X Pan (ref: 4a3b)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 1976-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-12-12   |  Author  : lt_col_tall
+UUID  : 943880744935475fa16fbe58b6334a3b
+```
+
+<a href="./archive/00502_000.jpg" target="_blank">
+	<img src="./lowres/00502_000.jpg" alt="Kodak Tri-X Pan 120 film box outside" loading="lazy" width="500" height="482">
+</a>
+
+
+`UUID: 0d8f45a79ecc42cd8b60018426be966a`↓
+
+<a href="./archive/00502_001.jpg" target="_blank">
+	<img src="./lowres/00502_001.jpg" alt="Kodak Tri-X Pan 120 film box leaflet" loading="lazy" width="181" height="500">
+</a>
+
+
+`UUID: f21e18a9ede6445c87e3bc1d2af55363`↓
+
+<a href="./archive/00502_002.jpg" target="_blank">
+	<img src="./lowres/00502_002.jpg" alt="Kodak Tri-X Pan 120 film box leaflet" loading="lazy" width="181" height="500">
 </a>
 
 #### [1976] Film Corporation of America TriFCA 35 (ref: 8f0a)
@@ -8714,6 +8746,20 @@ UUID  : eb126e7cfe084d4d8796a6123633d78b
 	<img src="./lowres/00469_001.jpg" alt="Arista.EDU Ultra 35mm film box inside" loading="lazy" width="420" height="499">
 </a>
 
+#### [2027] CineStill 800T (ref: c96e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2027-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-12-12   |  Author  : kaimon  
+UUID  : 8b04191a9e994df4a219d5bfd9dfc96e
+```
+
+<a href="./archive/00500_000.jpg" target="_blank">
+	<img src="./lowres/00500_000.jpg" alt="CineStill 800T 35mm film box outside" loading="lazy" width="406" height="499">
+</a>
+
 #### [2027] Foma Fomapan Classic 100 (ref: 65ad)
 
 ```
@@ -8971,6 +9017,20 @@ UUID  : d6f377dbe74745a0aacdf51ce7669b54
 
 <a href="./archive/00126_001.jpg" target="_blank">
 	<img src="./lowres/00126_001.jpg" alt="Ilford Delta 3200 Professional 35mm film box inside" loading="lazy" width="435" height="500">
+</a>
+
+#### [2027] Kodak Portra 800 (ref: 3c94)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2027-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-12-12   |  Author  : kaimon  
+UUID  : 9896161f6dd442ceaa89c6d209063c94
+```
+
+<a href="./archive/00501_000.jpg" target="_blank">
+	<img src="./lowres/00501_000.jpg" alt="Kodak Portra 800 35mm film box outside" loading="lazy" width="430" height="500">
 </a>
 
 #### [2027] ADOX CHS 100 II (ref: 8adf)
@@ -9775,6 +9835,27 @@ Notes : Expiry is probably later than the other one, due to the increase of the 
 	<img src="./lowres/00348_005.jpg" alt="Film Corporation of America TriFCA 120 120 film box processing envelope" loading="lazy" width="500" height="378">
 </a>
 
+#### [Unknown] Film Photography Project FPP 620 Black & White Panchromatic Negative Film (ref: 60ce)
+
+```
+Format: 620          |  Process : BW      
+ISO   : 100          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-12-12   |  Author  : @gregrouxphotography
+UUID  : 6b7dc0000a5f493caa53c841c3ce60ce
+```
+
+<a href="./archive/00499_000.jpg" target="_blank">
+	<img src="./lowres/00499_000.jpg" alt="Film Photography Project FPP 620 Black & White Panchromatic Negative Film 620 film box outside" loading="lazy" width="500" height="458">
+</a>
+
+
+`UUID: c98c9d4ac4f944cd837f718b5ae748a0`↓
+
+<a href="./archive/00499_001.jpg" target="_blank">
+	<img src="./lowres/00499_001.jpg" alt="Film Photography Project FPP 620 Black & White Panchromatic Negative Film 620 film box inside" loading="lazy" width="500" height="458">
+</a>
+
 #### [Unknown] Gevaert Infra-R (ref: fc88)
 
 ```
@@ -10377,17 +10458,17 @@ Rank  Username                      Contributions
 12    @ob.skura                     16    
 13    waldoboro                     16    
 14    b0baspace                     14    
-15    @SirBrentsworth               13    
-16    kaimon                        12    
+15    kaimon                        14    
+16    @SirBrentsworth               13    
 17    yc128                         11    
 18    @zruk_ts                      10    
 19    minidiscus                    10    
 20    benikum                       9     
 21    lilyu.xyz                     9     
-22    @toastergod101                7     
-23    @filmfotofella                7     
-24    Chrisbes                      7     
-25    lt_col_tall                   6     
+22    lt_col_tall                   9     
+23    @toastergod101                7     
+24    @filmfotofella                7     
+25    Chrisbes                      7     
 26    GreatGizmo74                  6     
 27    nick                          6     
 28    Kraksen                       5     
@@ -10397,10 +10478,11 @@ Rank  Username                      Contributions
 32    @sachynmital                  3     
 33    @seklerek                     2     
 34    @ftfilmphotos                 2     
-35    Yrikonchik                    1     
-36    @ad.astra.per.aspera.1894     1     
-37    Aoi Yuki                      1     
-38    lemoniter                     1     
+35    @gregrouxphotography          2     
+36    Yrikonchik                    1     
+37    @ad.astra.per.aspera.1894     1     
+38    Aoi Yuki                      1     
+39    lemoniter                     1     
 ```
 
 ## Questions or Comments?

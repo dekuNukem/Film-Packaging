@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Dec 12 2025
-Unique items: 494
-Total scans : 908
+Unique items: 498
+Total scans : 915
 ```
 
 -----
@@ -91,6 +91,7 @@ Total scans : 908
 - [[@filmfotofella] Kodak Kodacolor 400 (ref: 9e4c)](#filmfotofella-kodak-kodacolor-400-ref-9e4c)
 - [[@filmfotofella] Kodak Ultra (ref: 5701)](#filmfotofella-kodak-ultra-ref-5701)
 - [[@ftfilmphotos] Kodak Kodacolor VR (ref: 035f)](#ftfilmphotos-kodak-kodacolor-vr-ref-035f)
+- [[@gregrouxphotography] Film Photography Project FPP 620 Black & White Panchromatic Negative Film (ref: 60ce)](#gregrouxphotography-film-photography-project-fpp-620-black-white-panchromatic-negative-film-ref-60ce)
 - [[@ob.skura] Fujifilm Fujichrome Velvia (ref: 3182)](#obskura-fujifilm-fujichrome-velvia-ref-3182)
 - [[@ob.skura] Ilford Delta 100 Professional (ref: eb8d)](#obskura-ilford-delta-100-professional-ref-eb8d)
 - [[@ob.skura] Kodak Elite Chrome (ref: 523c)](#obskura-kodak-elite-chrome-ref-523c)
@@ -469,11 +470,13 @@ Total scans : 908
 - [[fine-seat] Kodak Gold (ref: 2f8d)](#fine-seat-kodak-gold-ref-2f8d)
 - [[fine-seat] Kodak Kodacolor VR Plus (ref: f8bf)](#fine-seat-kodak-kodacolor-vr-plus-ref-f8bf)
 - [[fine-seat] ORWO Chrom UT21 (ref: 3fd5)](#fine-seat-orwo-chrom-ut21-ref-3fd5)
+- [[kaimon] CineStill 800T (ref: c96e)](#kaimon-cinestill-800t-ref-c96e)
 - [[kaimon] Ilford Delta 100 Professional (ref: bf01)](#kaimon-ilford-delta-100-professional-ref-bf01)
 - [[kaimon] Ilford Ilfochrome (ref: ac24)](#kaimon-ilford-ilfochrome-ref-ac24)
 - [[kaimon] Ilford Ortho Plus (ref: 1952)](#kaimon-ilford-ortho-plus-ref-1952)
 - [[kaimon] Ilford XP2 Super (ref: 484f)](#kaimon-ilford-xp2-super-ref-484f)
 - [[kaimon] Kodak High Speed Ektachrome (ref: 7533)](#kaimon-kodak-high-speed-ektachrome-ref-7533)
+- [[kaimon] Kodak Portra 800 (ref: 3c94)](#kaimon-kodak-portra-800-ref-3c94)
 - [[kaimon] Lucky C200 (ref: 9c6c)](#kaimon-lucky-c200-ref-9c6c)
 - [[lemoniter] Club Color Natural Color System (ref: 813a)](#lemoniter-club-color-natural-color-system-ref-813a)
 - [[lilyu.xyz] Agfa APX (ref: 5276)](#lilyuxyz-agfa-apx-ref-5276)
@@ -483,6 +486,7 @@ Total scans : 908
 - [[lilyu.xyz] Perutz Superomnia (ref: c90d)](#lilyuxyz-perutz-superomnia-ref-c90d)
 - [[lt_col_tall] CatLABS X Film 320 Pro (ref: 1c69)](#lt_col_tall-catlabs-x-film-320-pro-ref-1c69)
 - [[lt_col_tall] CatLABS X Film 80 MKII (ref: bcd1)](#lt_col_tall-catlabs-x-film-80-mkii-ref-bcd1)
+- [[lt_col_tall] Kodak Tri-X Pan (ref: 4a3b)](#lt_col_tall-kodak-tri-x-pan-ref-4a3b)
 - [[lt_col_tall] Reflx Lab 250D (ref: 1a3e)](#lt_col_tall-reflx-lab-250d-ref-1a3e)
 - [[lt_col_tall] Reflx Lab Pro 100 (ref: 1311)](#lt_col_tall-reflx-lab-pro-100-ref-1311)
 - [[minidiscus] Arista.EDU Ultra (ref: d78b)](#minidiscus-aristaedu-ultra-ref-d78b)
@@ -1748,6 +1752,27 @@ UUID  : a26daa2cb6e44957af3d978bc67e035f
 
 <a href="./archive/00097_001.jpg" target="_blank">
 	<img src="./lowres/00097_001.jpg" alt="Kodak Kodacolor VR 35mm film box inside" loading="lazy" width="417" height="500">
+</a>
+
+#### [@gregrouxphotography] Film Photography Project FPP 620 Black & White Panchromatic Negative Film (ref: 60ce)
+
+```
+Format: 620          |  Process : BW      
+ISO   : 100          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-12-12   |  Author  : @gregrouxphotography
+UUID  : 6b7dc0000a5f493caa53c841c3ce60ce
+```
+
+<a href="./archive/00499_000.jpg" target="_blank">
+	<img src="./lowres/00499_000.jpg" alt="Film Photography Project FPP 620 Black & White Panchromatic Negative Film 620 film box outside" loading="lazy" width="500" height="458">
+</a>
+
+
+`UUID: c98c9d4ac4f944cd837f718b5ae748a0`↓
+
+<a href="./archive/00499_001.jpg" target="_blank">
+	<img src="./lowres/00499_001.jpg" alt="Film Photography Project FPP 620 Black & White Panchromatic Negative Film 620 film box inside" loading="lazy" width="500" height="458">
 </a>
 
 #### [@ob.skura] Fujifilm Fujichrome Velvia (ref: 3182)
@@ -9379,6 +9404,20 @@ UUID  : e3f739b7106044949b4f101684ad3fd5
 	<img src="./lowres/00359_004.jpg" alt="ORWO Chrom UT21 35mm film box processing envelope" loading="lazy" width="282" height="500">
 </a>
 
+#### [kaimon] CineStill 800T (ref: c96e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2027-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-12-12   |  Author  : kaimon  
+UUID  : 8b04191a9e994df4a219d5bfd9dfc96e
+```
+
+<a href="./archive/00500_000.jpg" target="_blank">
+	<img src="./lowres/00500_000.jpg" alt="CineStill 800T 35mm film box outside" loading="lazy" width="406" height="499">
+</a>
+
 #### [kaimon] Ilford Delta 100 Professional (ref: bf01)
 
 ```
@@ -9483,6 +9522,20 @@ Notes : Tungsten (3200K) EHB 120
 
 <a href="./archive/00303_002.jpg" target="_blank">
 	<img src="./lowres/00303_002.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="188" height="500">
+</a>
+
+#### [kaimon] Kodak Portra 800 (ref: 3c94)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2027-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-12-12   |  Author  : kaimon  
+UUID  : 9896161f6dd442ceaa89c6d209063c94
+```
+
+<a href="./archive/00501_000.jpg" target="_blank">
+	<img src="./lowres/00501_000.jpg" alt="Kodak Portra 800 35mm film box outside" loading="lazy" width="430" height="500">
 </a>
 
 #### [kaimon] Lucky C200 (ref: 9c6c)
@@ -9658,6 +9711,34 @@ UUID  : 98b415dbd4184372b8568b2b99a1bcd1
 
 <a href="./archive/00360_001.jpg" target="_blank">
 	<img src="./lowres/00360_001.jpg" alt="CatLABS X Film 80 MKII 120 film box inside" loading="lazy" width="500" height="427">
+</a>
+
+#### [lt_col_tall] Kodak Tri-X Pan (ref: 4a3b)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 1976-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-12-12   |  Author  : lt_col_tall
+UUID  : 943880744935475fa16fbe58b6334a3b
+```
+
+<a href="./archive/00502_000.jpg" target="_blank">
+	<img src="./lowres/00502_000.jpg" alt="Kodak Tri-X Pan 120 film box outside" loading="lazy" width="500" height="482">
+</a>
+
+
+`UUID: 0d8f45a79ecc42cd8b60018426be966a`↓
+
+<a href="./archive/00502_001.jpg" target="_blank">
+	<img src="./lowres/00502_001.jpg" alt="Kodak Tri-X Pan 120 film box leaflet" loading="lazy" width="181" height="500">
+</a>
+
+
+`UUID: f21e18a9ede6445c87e3bc1d2af55363`↓
+
+<a href="./archive/00502_002.jpg" target="_blank">
+	<img src="./lowres/00502_002.jpg" alt="Kodak Tri-X Pan 120 film box leaflet" loading="lazy" width="181" height="500">
 </a>
 
 #### [lt_col_tall] Reflx Lab 250D (ref: 1a3e)
@@ -10377,17 +10458,17 @@ Rank  Username                      Contributions
 12    @ob.skura                     16    
 13    waldoboro                     16    
 14    b0baspace                     14    
-15    @SirBrentsworth               13    
-16    kaimon                        12    
+15    kaimon                        14    
+16    @SirBrentsworth               13    
 17    yc128                         11    
 18    @zruk_ts                      10    
 19    minidiscus                    10    
 20    benikum                       9     
 21    lilyu.xyz                     9     
-22    @toastergod101                7     
-23    @filmfotofella                7     
-24    Chrisbes                      7     
-25    lt_col_tall                   6     
+22    lt_col_tall                   9     
+23    @toastergod101                7     
+24    @filmfotofella                7     
+25    Chrisbes                      7     
 26    GreatGizmo74                  6     
 27    nick                          6     
 28    Kraksen                       5     
@@ -10397,10 +10478,11 @@ Rank  Username                      Contributions
 32    @sachynmital                  3     
 33    @seklerek                     2     
 34    @ftfilmphotos                 2     
-35    Yrikonchik                    1     
-36    @ad.astra.per.aspera.1894     1     
-37    Aoi Yuki                      1     
-38    lemoniter                     1     
+35    @gregrouxphotography          2     
+36    Yrikonchik                    1     
+37    @ad.astra.per.aspera.1894     1     
+38    Aoi Yuki                      1     
+39    lemoniter                     1     
 ```
 
 ## Questions or Comments?

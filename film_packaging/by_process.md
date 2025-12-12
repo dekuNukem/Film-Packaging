@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Dec 12 2025
-Unique items: 494
-Total scans : 908
+Unique items: 498
+Total scans : 915
 ```
 
 -----
@@ -64,6 +64,7 @@ Total scans : 908
 - [[BW] Defender Extra Special Fast Panchromatic (ref: afcf)](#bw-defender-extra-special-fast-panchromatic-ref-afcf)
 - [[BW] Defender Portrait HGS (ref: d69c)](#bw-defender-portrait-hgs-ref-d69c)
 - [[BW] Efke IR 820 Aura (ref: 43c9)](#bw-efke-ir-820-aura-ref-43c9)
+- [[BW] Film Photography Project FPP 620 Black & White Panchromatic Negative Film (ref: 60ce)](#bw-film-photography-project-fpp-620-black-white-panchromatic-negative-film-ref-60ce)
 - [[BW] Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)](#bw-filmfabrik-köpenick-dekopan-feinkorn-ref-1bb7)
 - [[BW] Foma Fomapan 200 (ref: 60ee)](#bw-foma-fomapan-200-ref-60ee)
 - [[BW] Foma Fomapan 400 Set (ref: 189e)](#bw-foma-fomapan-400-set-ref-189e)
@@ -150,6 +151,7 @@ Total scans : 908
 - [[BW] Kodak Tri-X 400 (ref: c671)](#bw-kodak-tri-x-400-ref-c671)
 - [[BW] Kodak Tri-X 400 Pro (ref: f05c)](#bw-kodak-tri-x-400-pro-ref-f05c)
 - [[BW] Kodak Tri-X Pan (ref: 6608)](#bw-kodak-tri-x-pan-ref-6608)
+- [[BW] Kodak Tri-X Pan (ref: 4a3b)](#bw-kodak-tri-x-pan-ref-4a3b)
 - [[BW] Kodak Tri-X Pan (ref: 85e9)](#bw-kodak-tri-x-pan-ref-85e9)
 - [[BW] Kodak Tri-X Pan (ref: f201)](#bw-kodak-tri-x-pan-ref-f201)
 - [[BW] Kodak Verichrome (ref: e465)](#bw-kodak-verichrome-ref-e465)
@@ -226,6 +228,7 @@ Total scans : 908
 - [[C-41] CineStill 50D (ref: 3452)](#c-41-cinestill-50d-ref-3452)
 - [[C-41] CineStill 800T (ref: c86a)](#c-41-cinestill-800t-ref-c86a)
 - [[C-41] CineStill 800T (ref: b3ff)](#c-41-cinestill-800t-ref-b3ff)
+- [[C-41] CineStill 800T (ref: c96e)](#c-41-cinestill-800t-ref-c96e)
 - [[C-41] CineStill 800T (ref: 44c4)](#c-41-cinestill-800t-ref-44c4)
 - [[C-41] Club Color Natural Color System (ref: 813a)](#c-41-club-color-natural-color-system-ref-813a)
 - [[C-41] Efiniti UXi Super 200 (ref: 471a)](#c-41-efiniti-uxi-super-200-ref-471a)
@@ -342,6 +345,7 @@ Total scans : 908
 - [[C-41] Kodak Portra 400VC (ref: 7669)](#c-41-kodak-portra-400vc-ref-7669)
 - [[C-41] Kodak Portra 800 (ref: 21f9)](#c-41-kodak-portra-800-ref-21f9)
 - [[C-41] Kodak Portra 800 (ref: 7d65)](#c-41-kodak-portra-800-ref-7d65)
+- [[C-41] Kodak Portra 800 (ref: 3c94)](#c-41-kodak-portra-800-ref-3c94)
 - [[C-41] Kodak ProImage 100 (ref: fe32)](#c-41-kodak-proimage-100-ref-fe32)
 - [[C-41] Kodak Ultra (ref: 69a1)](#c-41-kodak-ultra-ref-69a1)
 - [[C-41] Kodak Ultra (ref: 5701)](#c-41-kodak-ultra-ref-5701)
@@ -1281,6 +1285,27 @@ UUID  : 716e410a3823476e9befa704361f43c9
 
 <a href="./archive/00038_001.jpg" target="_blank">
 	<img src="./lowres/00038_001.jpg" alt="Efke IR 820 Aura 120 film box inside" loading="lazy" width="500" height="341">
+</a>
+
+#### [BW] Film Photography Project FPP 620 Black & White Panchromatic Negative Film (ref: 60ce)
+
+```
+Format: 620          |  Process : BW      
+ISO   : 100          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-12-12   |  Author  : @gregrouxphotography
+UUID  : 6b7dc0000a5f493caa53c841c3ce60ce
+```
+
+<a href="./archive/00499_000.jpg" target="_blank">
+	<img src="./lowres/00499_000.jpg" alt="Film Photography Project FPP 620 Black & White Panchromatic Negative Film 620 film box outside" loading="lazy" width="500" height="458">
+</a>
+
+
+`UUID: c98c9d4ac4f944cd837f718b5ae748a0`↓
+
+<a href="./archive/00499_001.jpg" target="_blank">
+	<img src="./lowres/00499_001.jpg" alt="Film Photography Project FPP 620 Black & White Panchromatic Negative Film 620 film box inside" loading="lazy" width="500" height="458">
 </a>
 
 #### [BW] Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)
@@ -2953,6 +2978,34 @@ Notes : Estar Thick Base 4164
 	<img src="./lowres/00454_002.jpg" alt="Kodak Tri-X Pan 12x16.5cm film box outside" loading="lazy" width="382" height="500">
 </a>
 
+#### [BW] Kodak Tri-X Pan (ref: 4a3b)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 1976-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-12-12   |  Author  : lt_col_tall
+UUID  : 943880744935475fa16fbe58b6334a3b
+```
+
+<a href="./archive/00502_000.jpg" target="_blank">
+	<img src="./lowres/00502_000.jpg" alt="Kodak Tri-X Pan 120 film box outside" loading="lazy" width="500" height="482">
+</a>
+
+
+`UUID: 0d8f45a79ecc42cd8b60018426be966a`↓
+
+<a href="./archive/00502_001.jpg" target="_blank">
+	<img src="./lowres/00502_001.jpg" alt="Kodak Tri-X Pan 120 film box leaflet" loading="lazy" width="181" height="500">
+</a>
+
+
+`UUID: f21e18a9ede6445c87e3bc1d2af55363`↓
+
+<a href="./archive/00502_002.jpg" target="_blank">
+	<img src="./lowres/00502_002.jpg" alt="Kodak Tri-X Pan 120 film box leaflet" loading="lazy" width="181" height="500">
+</a>
+
 #### [BW] Kodak Tri-X Pan (ref: 85e9)
 
 ```
@@ -4416,6 +4469,20 @@ UUID  : 81978ca6f6d048b3a759dffdb80fb3ff
 
 <a href="./archive/00085_001.jpg" target="_blank">
 	<img src="./lowres/00085_001.jpg" alt="CineStill 800T 35mm film box inside" loading="lazy" width="435" height="500">
+</a>
+
+#### [C-41] CineStill 800T (ref: c96e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2027-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-12-12   |  Author  : kaimon  
+UUID  : 8b04191a9e994df4a219d5bfd9dfc96e
+```
+
+<a href="./archive/00500_000.jpg" target="_blank">
+	<img src="./lowres/00500_000.jpg" alt="CineStill 800T 35mm film box outside" loading="lazy" width="406" height="499">
 </a>
 
 #### [C-41] CineStill 800T (ref: 44c4)
@@ -6450,6 +6517,20 @@ UUID  : 7ebac9d7fb8c4ff9b7fbabcaec1d7d65
 
 <a href="./archive/00088_000.jpg" target="_blank">
 	<img src="./lowres/00088_000.jpg" alt="Kodak Portra 800 35mm film box outside" loading="lazy" width="415" height="500">
+</a>
+
+#### [C-41] Kodak Portra 800 (ref: 3c94)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2027-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-12-12   |  Author  : kaimon  
+UUID  : 9896161f6dd442ceaa89c6d209063c94
+```
+
+<a href="./archive/00501_000.jpg" target="_blank">
+	<img src="./lowres/00501_000.jpg" alt="Kodak Portra 800 35mm film box outside" loading="lazy" width="430" height="500">
 </a>
 
 #### [C-41] Kodak ProImage 100 (ref: fe32)
@@ -10377,17 +10458,17 @@ Rank  Username                      Contributions
 12    @ob.skura                     16    
 13    waldoboro                     16    
 14    b0baspace                     14    
-15    @SirBrentsworth               13    
-16    kaimon                        12    
+15    kaimon                        14    
+16    @SirBrentsworth               13    
 17    yc128                         11    
 18    @zruk_ts                      10    
 19    minidiscus                    10    
 20    benikum                       9     
 21    lilyu.xyz                     9     
-22    @toastergod101                7     
-23    @filmfotofella                7     
-24    Chrisbes                      7     
-25    lt_col_tall                   6     
+22    lt_col_tall                   9     
+23    @toastergod101                7     
+24    @filmfotofella                7     
+25    Chrisbes                      7     
 26    GreatGizmo74                  6     
 27    nick                          6     
 28    Kraksen                       5     
@@ -10397,10 +10478,11 @@ Rank  Username                      Contributions
 32    @sachynmital                  3     
 33    @seklerek                     2     
 34    @ftfilmphotos                 2     
-35    Yrikonchik                    1     
-36    @ad.astra.per.aspera.1894     1     
-37    Aoi Yuki                      1     
-38    lemoniter                     1     
+35    @gregrouxphotography          2     
+36    Yrikonchik                    1     
+37    @ad.astra.per.aspera.1894     1     
+38    Aoi Yuki                      1     
+39    lemoniter                     1     
 ```
 
 ## Questions or Comments?

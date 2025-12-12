@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Dec 12 2025
-Unique items: 494
-Total scans : 908
+Unique items: 498
+Total scans : 915
 ```
 
 Or Sort by...
@@ -67,17 +67,17 @@ Rank  Username                      Contributions
 12    @ob.skura                     16    
 13    waldoboro                     16    
 14    b0baspace                     14    
-15    @SirBrentsworth               13    
-16    kaimon                        12    
+15    kaimon                        14    
+16    @SirBrentsworth               13    
 17    yc128                         11    
 18    @zruk_ts                      10    
 19    minidiscus                    10    
 20    benikum                       9     
 21    lilyu.xyz                     9     
-22    @toastergod101                7     
-23    @filmfotofella                7     
-24    Chrisbes                      7     
-25    lt_col_tall                   6     
+22    lt_col_tall                   9     
+23    @toastergod101                7     
+24    @filmfotofella                7     
+25    Chrisbes                      7     
 26    GreatGizmo74                  6     
 27    nick                          6     
 28    Kraksen                       5     
@@ -87,17 +87,22 @@ Rank  Username                      Contributions
 32    @sachynmital                  3     
 33    @seklerek                     2     
 34    @ftfilmphotos                 2     
-35    Yrikonchik                    1     
-36    @ad.astra.per.aspera.1894     1     
-37    Aoi Yuki                      1     
-38    lemoniter                     1     
+35    @gregrouxphotography          2     
+36    Yrikonchik                    1     
+37    @ad.astra.per.aspera.1894     1     
+38    Aoi Yuki                      1     
+39    lemoniter                     1     
 ```
 
 ## Recent Activities
 
 ```
 2025-12-12
+  - @gregrouxphotography: Film Photography Project FPP 620 Black & White Panchromatic Negative Film
   - @recycling.film: Fujifilm Fujicolor Natura 1600
+  - kaimon: CineStill 800T
+  - kaimon: Kodak Portra 800
+  - lt_col_tall: Kodak Tri-X Pan
   - toader: Polaroid Color 600 Film
 
 2025-12-03

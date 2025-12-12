@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Dec 12 2025
-Unique items: 494
-Total scans : 908
+Unique items: 498
+Total scans : 915
 ```
 
 -----
@@ -89,6 +89,7 @@ Total scans : 908
 - [CineStill 50D (ref: 3452)](#cinestill-50d-ref-3452)
 - [CineStill 800T (ref: c86a)](#cinestill-800t-ref-c86a)
 - [CineStill 800T (ref: b3ff)](#cinestill-800t-ref-b3ff)
+- [CineStill 800T (ref: c96e)](#cinestill-800t-ref-c96e)
 - [CineStill 800T (ref: 44c4)](#cinestill-800t-ref-44c4)
 - [CineStill BWXX (ref: 66eb)](#cinestill-bwxx-ref-66eb)
 - [Club Color Natural Color System (ref: 813a)](#club-color-natural-color-system-ref-813a)
@@ -105,6 +106,7 @@ Total scans : 908
 - [Film Corporation of America TriFCA 35 (ref: 8f0a)](#film-corporation-of-america-trifca-35-ref-8f0a)
 - [Film Never Die IRO (ref: 2a22)](#film-never-die-iro-ref-2a22)
 - [Film Never Die Kiro (ref: 796d)](#film-never-die-kiro-ref-796d)
+- [Film Photography Project FPP 620 Black & White Panchromatic Negative Film (ref: 60ce)](#film-photography-project-fpp-620-black-white-panchromatic-negative-film-ref-60ce)
 - [Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)](#filmfabrik-köpenick-dekopan-feinkorn-ref-1bb7)
 - [Foma Fomapan 200 (ref: 60ee)](#foma-fomapan-200-ref-60ee)
 - [Foma Fomapan 400 Set (ref: 189e)](#foma-fomapan-400-set-ref-189e)
@@ -355,6 +357,7 @@ Total scans : 908
 - [Kodak Portra 400VC (ref: 7669)](#kodak-portra-400vc-ref-7669)
 - [Kodak Portra 800 (ref: 21f9)](#kodak-portra-800-ref-21f9)
 - [Kodak Portra 800 (ref: 7d65)](#kodak-portra-800-ref-7d65)
+- [Kodak Portra 800 (ref: 3c94)](#kodak-portra-800-ref-3c94)
 - [Kodak ProImage 100 (ref: fe32)](#kodak-proimage-100-ref-fe32)
 - [Kodak Professional Microfilm Type I (ref: a444)](#kodak-professional-microfilm-type-i-ref-a444)
 - [Kodak Rapid Process Copy Film (ref: e66e)](#kodak-rapid-process-copy-film-ref-e66e)
@@ -372,6 +375,7 @@ Total scans : 908
 - [Kodak Tri-X 400 (ref: c671)](#kodak-tri-x-400-ref-c671)
 - [Kodak Tri-X 400 Pro (ref: f05c)](#kodak-tri-x-400-pro-ref-f05c)
 - [Kodak Tri-X Pan (ref: 6608)](#kodak-tri-x-pan-ref-6608)
+- [Kodak Tri-X Pan (ref: 4a3b)](#kodak-tri-x-pan-ref-4a3b)
 - [Kodak Tri-X Pan (ref: 85e9)](#kodak-tri-x-pan-ref-85e9)
 - [Kodak Tri-X Pan (ref: f201)](#kodak-tri-x-pan-ref-f201)
 - [Kodak Ultra (ref: 69a1)](#kodak-ultra-ref-69a1)
@@ -1815,6 +1819,20 @@ UUID  : 81978ca6f6d048b3a759dffdb80fb3ff
 	<img src="./lowres/00085_001.jpg" alt="CineStill 800T 35mm film box inside" loading="lazy" width="435" height="500">
 </a>
 
+#### CineStill 800T (ref: c96e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2027-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-12-12   |  Author  : kaimon  
+UUID  : 8b04191a9e994df4a219d5bfd9dfc96e
+```
+
+<a href="./archive/00500_000.jpg" target="_blank">
+	<img src="./lowres/00500_000.jpg" alt="CineStill 800T 35mm film box outside" loading="lazy" width="406" height="499">
+</a>
+
 #### CineStill 800T (ref: 44c4)
 
 ```
@@ -2193,6 +2211,27 @@ UUID  : a6bb919bc40b4000a753bf9d3367796d
 
 <a href="./archive/00216_000.jpg" target="_blank">
 	<img src="./lowres/00216_000.jpg" alt="Film Never Die Kiro 35mm film box outside" loading="lazy" width="500" height="401">
+</a>
+
+#### Film Photography Project FPP 620 Black & White Panchromatic Negative Film (ref: 60ce)
+
+```
+Format: 620          |  Process : BW      
+ISO   : 100          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-12-12   |  Author  : @gregrouxphotography
+UUID  : 6b7dc0000a5f493caa53c841c3ce60ce
+```
+
+<a href="./archive/00499_000.jpg" target="_blank">
+	<img src="./lowres/00499_000.jpg" alt="Film Photography Project FPP 620 Black & White Panchromatic Negative Film 620 film box outside" loading="lazy" width="500" height="458">
+</a>
+
+
+`UUID: c98c9d4ac4f944cd837f718b5ae748a0`↓
+
+<a href="./archive/00499_001.jpg" target="_blank">
+	<img src="./lowres/00499_001.jpg" alt="Film Photography Project FPP 620 Black & White Panchromatic Negative Film 620 film box inside" loading="lazy" width="500" height="458">
 </a>
 
 #### Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)
@@ -7148,6 +7187,20 @@ UUID  : 7ebac9d7fb8c4ff9b7fbabcaec1d7d65
 	<img src="./lowres/00088_000.jpg" alt="Kodak Portra 800 35mm film box outside" loading="lazy" width="415" height="500">
 </a>
 
+#### Kodak Portra 800 (ref: 3c94)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2027-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-12-12   |  Author  : kaimon  
+UUID  : 9896161f6dd442ceaa89c6d209063c94
+```
+
+<a href="./archive/00501_000.jpg" target="_blank">
+	<img src="./lowres/00501_000.jpg" alt="Kodak Portra 800 35mm film box outside" loading="lazy" width="430" height="500">
+</a>
+
 #### Kodak ProImage 100 (ref: fe32)
 
 ```
@@ -7491,6 +7544,34 @@ Notes : Estar Thick Base 4164
 
 <a href="./archive/00454_002.jpg" target="_blank">
 	<img src="./lowres/00454_002.jpg" alt="Kodak Tri-X Pan 12x16.5cm film box outside" loading="lazy" width="382" height="500">
+</a>
+
+#### Kodak Tri-X Pan (ref: 4a3b)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 1976-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-12-12   |  Author  : lt_col_tall
+UUID  : 943880744935475fa16fbe58b6334a3b
+```
+
+<a href="./archive/00502_000.jpg" target="_blank">
+	<img src="./lowres/00502_000.jpg" alt="Kodak Tri-X Pan 120 film box outside" loading="lazy" width="500" height="482">
+</a>
+
+
+`UUID: 0d8f45a79ecc42cd8b60018426be966a`↓
+
+<a href="./archive/00502_001.jpg" target="_blank">
+	<img src="./lowres/00502_001.jpg" alt="Kodak Tri-X Pan 120 film box leaflet" loading="lazy" width="181" height="500">
+</a>
+
+
+`UUID: f21e18a9ede6445c87e3bc1d2af55363`↓
+
+<a href="./archive/00502_002.jpg" target="_blank">
+	<img src="./lowres/00502_002.jpg" alt="Kodak Tri-X Pan 120 film box leaflet" loading="lazy" width="181" height="500">
 </a>
 
 #### Kodak Tri-X Pan (ref: 85e9)
@@ -10377,17 +10458,17 @@ Rank  Username                      Contributions
 12    @ob.skura                     16    
 13    waldoboro                     16    
 14    b0baspace                     14    
-15    @SirBrentsworth               13    
-16    kaimon                        12    
+15    kaimon                        14    
+16    @SirBrentsworth               13    
 17    yc128                         11    
 18    @zruk_ts                      10    
 19    minidiscus                    10    
 20    benikum                       9     
 21    lilyu.xyz                     9     
-22    @toastergod101                7     
-23    @filmfotofella                7     
-24    Chrisbes                      7     
-25    lt_col_tall                   6     
+22    lt_col_tall                   9     
+23    @toastergod101                7     
+24    @filmfotofella                7     
+25    Chrisbes                      7     
 26    GreatGizmo74                  6     
 27    nick                          6     
 28    Kraksen                       5     
@@ -10397,10 +10478,11 @@ Rank  Username                      Contributions
 32    @sachynmital                  3     
 33    @seklerek                     2     
 34    @ftfilmphotos                 2     
-35    Yrikonchik                    1     
-36    @ad.astra.per.aspera.1894     1     
-37    Aoi Yuki                      1     
-38    lemoniter                     1     
+35    @gregrouxphotography          2     
+36    Yrikonchik                    1     
+37    @ad.astra.per.aspera.1894     1     
+38    Aoi Yuki                      1     
+39    lemoniter                     1     
 ```
 
 ## Questions or Comments?
