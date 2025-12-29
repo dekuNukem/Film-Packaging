@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Dec 12 2025
-Unique items: 498
-Total scans : 915
+Last Updated: Dec 29 2025
+Unique items: 500
+Total scans : 920
 ```
 
 Or Sort by...
@@ -59,7 +59,7 @@ Rank  Username                      Contributions
 4     @ellafridalindblom            63    
 5     @recycling.film               62    
 6     The Compartmentalist          25    
-7     @Hol.m35                      20    
+7     @Hol.m35                      22    
 8     fine-seat                     19    
 9     Camera.Riley                  19    
 10    Nano_Burger                   18    
@@ -69,10 +69,10 @@ Rank  Username                      Contributions
 14    b0baspace                     14    
 15    kaimon                        14    
 16    @SirBrentsworth               13    
-17    yc128                         11    
-18    @zruk_ts                      10    
-19    minidiscus                    10    
-20    benikum                       9     
+17    benikum                       12    
+18    yc128                         11    
+19    @zruk_ts                      10    
+20    minidiscus                    10    
 21    lilyu.xyz                     9     
 22    lt_col_tall                   9     
 23    @toastergod101                7     
@@ -97,6 +97,10 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2025-12-29
+  - @Hol.m35: Max Spielmann Pro-Zoom MX 400
+  - benikum: ORWO NP22
+
 2025-12-12
   - @gregrouxphotography: Film Photography Project FPP 620 Black & White Panchromatic Negative Film
   - @recycling.film: Fujifilm Fujicolor Natura 1600
@@ -123,12 +127,6 @@ Rank  Username                      Contributions
   - waldoboro: Kodak Gold 200
   - waldoboro: Perutz Primera
   - waldoboro: Svema FN 64
-
-2025-11-20
-  - @ellafridalindblom: Agfa Isochrom Portrait
-  - @ellafridalindblom: Agfa Isopan Portrait
-  - @ellafridalindblom: Ilford R.25 F.P Special
-  - @Hol.m35: Street Candy Film ATM400
 ```
 
 ## Disclaimer

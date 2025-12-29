@@ -914,3 +914,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 502,0,film_box_outside,Kodak,Tri-X Pan,120,400,BW,197606,1765564868,a03b56441bd28e84fa48011d24ae405c,943880744935475fa16fbe58b6334a3b,00502_000.jpg,lt_col_tall,,Single Pack,N/A
 502,1,film_box_leaflet,Kodak,Tri-X Pan,120,400,BW,197606,1765564871,5f208e2acf4fa35af33b151e4d12bdd6,0d8f45a79ecc42cd8b60018426be966a,00502_001.jpg,lt_col_tall,,Single Pack,N/A
 502,2,film_box_leaflet,Kodak,Tri-X Pan,120,400,BW,197606,1765564876,77d758ce7ad2077c24d7c33f9dd51aa9,f21e18a9ede6445c87e3bc1d2af55363,00502_002.jpg,lt_col_tall,,Single Pack,N/A
+503,0,film_box_outside,Max Spielmann,Pro-Zoom MX 400,35mm,400,C-41,200607,1767013266,275c00ecfcb98ff81cd90f2695ebea64,881f46ac2824430cb12f79087a3338c5,00503_000.jpg,@Hol.m35,,Single Pack,24exp
+503,1,film_box_inside,Max Spielmann,Pro-Zoom MX 400,35mm,400,C-41,200607,1767013275,7ebb8e93608f3de48021499b9c226b79,5490de5951794c9a946af94766f90eff,00503_001.jpg,@Hol.m35,,Single Pack,24exp
+504,0,film_box_outside,ORWO,NP22,35mm,125,BW,199206,1767013442,f01b9eca63e12ff5eac12eb5b7e84e9f,cfbdda5effec496ca0d9d91d29d65437,00504_000.jpg,benikum,,Single Pack,36exp
+504,1,film_box_inside,ORWO,NP22,35mm,125,BW,199206,1767013444,a10c6c029ece0dc7ffa68d3f2c0975bf,e0f475a33cbc4eb985d8958d7cd7a505,00504_001.jpg,benikum,,Single Pack,36exp
+504,2,film_box_inside,ORWO,NP22,35mm,125,BW,199206,1767013450,376d3edf56424d1bac2deeac888666c5,92ea3f721b484deba093c773a0c7ea18,00504_002.jpg,benikum,,Single Pack,36exp

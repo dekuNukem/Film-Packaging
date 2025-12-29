@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Dec 12 2025
-Unique items: 498
-Total scans : 915
+Last Updated: Dec 29 2025
+Unique items: 500
+Total scans : 920
 ```
 
 -----
@@ -418,6 +418,7 @@ Total scans : 915
 - [[35mm] Lucky C200 (ref: 9c6c)](#35mm-lucky-c200-ref-9c6c)
 - [[35mm] Marix Professional Negative Movie Color Film (ref: c457)](#35mm-marix-professional-negative-movie-color-film-ref-c457)
 - [[35mm] Max Spielmann Maxi Color (ref: bf60)](#35mm-max-spielmann-maxi-color-ref-bf60)
+- [[35mm] Max Spielmann Pro-Zoom MX 400 (ref: 38c5)](#35mm-max-spielmann-pro-zoom-mx-400-ref-38c5)
 - [[35mm] Mr. Negative 250D (ref: 3574)](#35mm-mr-negative-250d-ref-3574)
 - [[35mm] Mr. Negative Eterna 250D (ref: 6d6e)](#35mm-mr-negative-eterna-250d-ref-6d6e)
 - [[35mm] Mr. Negative Silver Screen Negative (ref: c968)](#35mm-mr-negative-silver-screen-negative-ref-c968)
@@ -426,6 +427,7 @@ Total scans : 915
 - [[35mm] ORWO Chrom UT18 (ref: 81b7)](#35mm-orwo-chrom-ut18-ref-81b7)
 - [[35mm] ORWO Chrom UT21 (ref: 3fd5)](#35mm-orwo-chrom-ut21-ref-3fd5)
 - [[35mm] ORWO NP 20 SL (ref: b16c)](#35mm-orwo-np-20-sl-ref-b16c)
+- [[35mm] ORWO NP22 (ref: 5437)](#35mm-orwo-np22-ref-5437)
 - [[35mm] Perutz Peromnia 21 (ref: fa4a)](#35mm-perutz-peromnia-21-ref-fa4a)
 - [[35mm] Perutz Primera (ref: cbfb)](#35mm-perutz-primera-ref-cbfb)
 - [[35mm] Photocité 400 ISO (ref: e370)](#35mm-photocité-400-iso-ref-e370)
@@ -8277,6 +8279,27 @@ UUID  : 0953325be5e54102b7615a7a5f82bf60
 	<img src="./lowres/00268_000.jpg" alt="Max Spielmann Maxi Color 35mm film box outside" loading="lazy" width="453" height="500">
 </a>
 
+#### [35mm] Max Spielmann Pro-Zoom MX 400 (ref: 38c5)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2006-07 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-12-29   |  Author  : @Hol.m35
+UUID  : 881f46ac2824430cb12f79087a3338c5
+```
+
+<a href="./archive/00503_000.jpg" target="_blank">
+	<img src="./lowres/00503_000.jpg" alt="Max Spielmann Pro-Zoom MX 400 35mm film box outside" loading="lazy" width="417" height="500">
+</a>
+
+
+`UUID: 5490de5951794c9a946af94766f90eff`↓
+
+<a href="./archive/00503_001.jpg" target="_blank">
+	<img src="./lowres/00503_001.jpg" alt="Max Spielmann Pro-Zoom MX 400 35mm film box inside" loading="lazy" width="421" height="500">
+</a>
+
 #### [35mm] Mr. Negative 250D (ref: 3574)
 
 ```
@@ -8443,6 +8466,34 @@ UUID  : 9791c2074fdd4340a1463312ed77b16c
 
 <a href="./archive/00163_000.jpg" target="_blank">
 	<img src="./lowres/00163_000.jpg" alt="ORWO NP 20 SL 35mm film box outside" loading="lazy" width="500" height="489">
+</a>
+
+#### [35mm] ORWO NP22 (ref: 5437)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 125          |  Expiry  : 1992-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-12-29   |  Author  : benikum 
+UUID  : cfbdda5effec496ca0d9d91d29d65437
+```
+
+<a href="./archive/00504_000.jpg" target="_blank">
+	<img src="./lowres/00504_000.jpg" alt="ORWO NP22 35mm film box outside" loading="lazy" width="443" height="500">
+</a>
+
+
+`UUID: e0f475a33cbc4eb985d8958d7cd7a505`↓
+
+<a href="./archive/00504_001.jpg" target="_blank">
+	<img src="./lowres/00504_001.jpg" alt="ORWO NP22 35mm film box inside" loading="lazy" width="320" height="500">
+</a>
+
+
+`UUID: 92ea3f721b484deba093c773a0c7ea18`↓
+
+<a href="./archive/00504_002.jpg" target="_blank">
+	<img src="./lowres/00504_002.jpg" alt="ORWO NP22 35mm film box inside" loading="lazy" width="302" height="500">
 </a>
 
 #### [35mm] Perutz Peromnia 21 (ref: fa4a)
@@ -10450,7 +10501,7 @@ Rank  Username                      Contributions
 4     @ellafridalindblom            63    
 5     @recycling.film               62    
 6     The Compartmentalist          25    
-7     @Hol.m35                      20    
+7     @Hol.m35                      22    
 8     fine-seat                     19    
 9     Camera.Riley                  19    
 10    Nano_Burger                   18    
@@ -10460,10 +10511,10 @@ Rank  Username                      Contributions
 14    b0baspace                     14    
 15    kaimon                        14    
 16    @SirBrentsworth               13    
-17    yc128                         11    
-18    @zruk_ts                      10    
-19    minidiscus                    10    
-20    benikum                       9     
+17    benikum                       12    
+18    yc128                         11    
+19    @zruk_ts                      10    
+20    minidiscus                    10    
 21    lilyu.xyz                     9     
 22    lt_col_tall                   9     
 23    @toastergod101                7     

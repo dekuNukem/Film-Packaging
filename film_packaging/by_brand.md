@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Dec 12 2025
-Unique items: 498
-Total scans : 915
+Last Updated: Dec 29 2025
+Unique items: 500
+Total scans : 920
 ```
 
 -----
@@ -427,6 +427,7 @@ Total scans : 915
 - [Lucky SHD400 (ref: 15b5)](#lucky-shd400-ref-15b5)
 - [Marix Professional Negative Movie Color Film (ref: c457)](#marix-professional-negative-movie-color-film-ref-c457)
 - [Max Spielmann Maxi Color (ref: bf60)](#max-spielmann-maxi-color-ref-bf60)
+- [Max Spielmann Pro-Zoom MX 400 (ref: 38c5)](#max-spielmann-pro-zoom-mx-400-ref-38c5)
 - [Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#minolta-minolta-16-color-film-for-prints-ref-a2ff)
 - [Minox MinoColor 100 Pro (ref: 5338)](#minox-minocolor-100-pro-ref-5338)
 - [Minox MinoColor 3 (ref: d209)](#minox-minocolor-3-ref-d209)
@@ -441,6 +442,7 @@ Total scans : 915
 - [ORWO Chrom UT21 (ref: 3fd5)](#orwo-chrom-ut21-ref-3fd5)
 - [ORWO NP 20 SL (ref: b16c)](#orwo-np-20-sl-ref-b16c)
 - [ORWO NP15 (ref: 9a20)](#orwo-np15-ref-9a20)
+- [ORWO NP22 (ref: 5437)](#orwo-np22-ref-5437)
 - [Optik Oldschool OptiColour 200 (ref: 80d7)](#optik-oldschool-opticolour-200-ref-80d7)
 - [Perfect Photo Inc. Perfect-Pan Film (ref: c214)](#perfect-photo-inc-perfect-pan-film-ref-c214)
 - [Perutz Peromnia 21 (ref: fa4a)](#perutz-peromnia-21-ref-fa4a)
@@ -8492,6 +8494,27 @@ UUID  : 0953325be5e54102b7615a7a5f82bf60
 	<img src="./lowres/00268_000.jpg" alt="Max Spielmann Maxi Color 35mm film box outside" loading="lazy" width="453" height="500">
 </a>
 
+#### Max Spielmann Pro-Zoom MX 400 (ref: 38c5)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2006-07 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-12-29   |  Author  : @Hol.m35
+UUID  : 881f46ac2824430cb12f79087a3338c5
+```
+
+<a href="./archive/00503_000.jpg" target="_blank">
+	<img src="./lowres/00503_000.jpg" alt="Max Spielmann Pro-Zoom MX 400 35mm film box outside" loading="lazy" width="417" height="500">
+</a>
+
+
+`UUID: 5490de5951794c9a946af94766f90eff`↓
+
+<a href="./archive/00503_001.jpg" target="_blank">
+	<img src="./lowres/00503_001.jpg" alt="Max Spielmann Pro-Zoom MX 400 35mm film box inside" loading="lazy" width="421" height="500">
+</a>
+
 #### Minolta Minolta 16 Color Film For Prints (ref: a2ff)
 
 ```
@@ -8792,6 +8815,34 @@ UUID  : 50956257d99f4f24a3ec712e77379a20
 
 <a href="./archive/00394_002.jpg" target="_blank">
 	<img src="./lowres/00394_002.jpg" alt="ORWO NP15 120 film box leaflet" loading="lazy" width="322" height="499">
+</a>
+
+#### ORWO NP22 (ref: 5437)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 125          |  Expiry  : 1992-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-12-29   |  Author  : benikum 
+UUID  : cfbdda5effec496ca0d9d91d29d65437
+```
+
+<a href="./archive/00504_000.jpg" target="_blank">
+	<img src="./lowres/00504_000.jpg" alt="ORWO NP22 35mm film box outside" loading="lazy" width="443" height="500">
+</a>
+
+
+`UUID: e0f475a33cbc4eb985d8958d7cd7a505`↓
+
+<a href="./archive/00504_001.jpg" target="_blank">
+	<img src="./lowres/00504_001.jpg" alt="ORWO NP22 35mm film box inside" loading="lazy" width="320" height="500">
+</a>
+
+
+`UUID: 92ea3f721b484deba093c773a0c7ea18`↓
+
+<a href="./archive/00504_002.jpg" target="_blank">
+	<img src="./lowres/00504_002.jpg" alt="ORWO NP22 35mm film box inside" loading="lazy" width="302" height="500">
 </a>
 
 #### Optik Oldschool OptiColour 200 (ref: 80d7)
@@ -10450,7 +10501,7 @@ Rank  Username                      Contributions
 4     @ellafridalindblom            63    
 5     @recycling.film               62    
 6     The Compartmentalist          25    
-7     @Hol.m35                      20    
+7     @Hol.m35                      22    
 8     fine-seat                     19    
 9     Camera.Riley                  19    
 10    Nano_Burger                   18    
@@ -10460,10 +10511,10 @@ Rank  Username                      Contributions
 14    b0baspace                     14    
 15    kaimon                        14    
 16    @SirBrentsworth               13    
-17    yc128                         11    
-18    @zruk_ts                      10    
-19    minidiscus                    10    
-20    benikum                       9     
+17    benikum                       12    
+18    yc128                         11    
+19    @zruk_ts                      10    
+20    minidiscus                    10    
 21    lilyu.xyz                     9     
 22    lt_col_tall                   9     
 23    @toastergod101                7     

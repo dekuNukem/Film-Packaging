@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Dec 12 2025
-Unique items: 498
-Total scans : 915
+Last Updated: Dec 29 2025
+Unique items: 500
+Total scans : 920
 ```
 
 -----
@@ -33,6 +33,7 @@ Total scans : 915
 - [[@Hol.m35] Lomography Postdam (ref: d0c6)](#holm35-lomography-postdam-ref-d0c6)
 - [[@Hol.m35] Lucky C200 (ref: e6f8)](#holm35-lucky-c200-ref-e6f8)
 - [[@Hol.m35] Lucky SHD400 (ref: 15b5)](#holm35-lucky-shd400-ref-15b5)
+- [[@Hol.m35] Max Spielmann Pro-Zoom MX 400 (ref: 38c5)](#holm35-max-spielmann-pro-zoom-mx-400-ref-38c5)
 - [[@Hol.m35] Optik Oldschool OptiColour 200 (ref: 80d7)](#holm35-optik-oldschool-opticolour-200-ref-80d7)
 - [[@Hol.m35] Street Candy Film ATM400 (ref: 4380)](#holm35-street-candy-film-atm400-ref-4380)
 - [[@SirBrentsworth] CineStill 800T (ref: b3ff)](#sirbrentsworth-cinestill-800t-ref-b3ff)
@@ -312,6 +313,7 @@ Total scans : 915
 - [[b0baspace] York Photo Labs DXG 200 (ref: 4bf8)](#b0baspace-york-photo-labs-dxg-200-ref-4bf8)
 - [[benikum] Foma Fomapan Creative 200 (ref: 3e4f)](#benikum-foma-fomapan-creative-200-ref-3e4f)
 - [[benikum] Foma Fomapan21 (ref: 75d9)](#benikum-foma-fomapan21-ref-75d9)
+- [[benikum] ORWO NP22 (ref: 5437)](#benikum-orwo-np22-ref-5437)
 - [[benikum] Rollei SUPERPAN 200 (ref: ee8f)](#benikum-rollei-superpan-200-ref-ee8f)
 - [[benikum] Rossmann Jahreszeiten Pack (ref: 7670)](#benikum-rossmann-jahreszeiten-pack-ref-7670)
 - [[benikum] VEB Fotochemische Werke Berlin Dekopan Feinkorn (ref: dba0)](#benikum-veb-fotochemische-werke-berlin-dekopan-feinkorn-ref-dba0)
@@ -726,6 +728,27 @@ UUID  : 0fbc7c70fa9c46f3bf4365afed4015b5
 
 <a href="./archive/00474_001.jpg" target="_blank">
 	<img src="./lowres/00474_001.jpg" alt="Lucky SHD400 120 film box inside" loading="lazy" width="456" height="500">
+</a>
+
+#### [@Hol.m35] Max Spielmann Pro-Zoom MX 400 (ref: 38c5)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2006-07 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2025-12-29   |  Author  : @Hol.m35
+UUID  : 881f46ac2824430cb12f79087a3338c5
+```
+
+<a href="./archive/00503_000.jpg" target="_blank">
+	<img src="./lowres/00503_000.jpg" alt="Max Spielmann Pro-Zoom MX 400 35mm film box outside" loading="lazy" width="417" height="500">
+</a>
+
+
+`UUID: 5490de5951794c9a946af94766f90eff`↓
+
+<a href="./archive/00503_001.jpg" target="_blank">
+	<img src="./lowres/00503_001.jpg" alt="Max Spielmann Pro-Zoom MX 400 35mm film box inside" loading="lazy" width="421" height="500">
 </a>
 
 #### [@Hol.m35] Optik Oldschool OptiColour 200 (ref: 80d7)
@@ -5738,6 +5761,34 @@ UUID  : 098e510bfaa14be39697b9d8218475d9
 	<img src="./lowres/00074_000.jpg" alt="Foma Fomapan21 120 film box outside" loading="lazy" width="500" height="335">
 </a>
 
+#### [benikum] ORWO NP22 (ref: 5437)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 125          |  Expiry  : 1992-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-12-29   |  Author  : benikum 
+UUID  : cfbdda5effec496ca0d9d91d29d65437
+```
+
+<a href="./archive/00504_000.jpg" target="_blank">
+	<img src="./lowres/00504_000.jpg" alt="ORWO NP22 35mm film box outside" loading="lazy" width="443" height="500">
+</a>
+
+
+`UUID: e0f475a33cbc4eb985d8958d7cd7a505`↓
+
+<a href="./archive/00504_001.jpg" target="_blank">
+	<img src="./lowres/00504_001.jpg" alt="ORWO NP22 35mm film box inside" loading="lazy" width="320" height="500">
+</a>
+
+
+`UUID: 92ea3f721b484deba093c773a0c7ea18`↓
+
+<a href="./archive/00504_002.jpg" target="_blank">
+	<img src="./lowres/00504_002.jpg" alt="ORWO NP22 35mm film box inside" loading="lazy" width="302" height="500">
+</a>
+
 #### [benikum] Rollei SUPERPAN 200 (ref: ee8f)
 
 ```
@@ -10450,7 +10501,7 @@ Rank  Username                      Contributions
 4     @ellafridalindblom            63    
 5     @recycling.film               62    
 6     The Compartmentalist          25    
-7     @Hol.m35                      20    
+7     @Hol.m35                      22    
 8     fine-seat                     19    
 9     Camera.Riley                  19    
 10    Nano_Burger                   18    
@@ -10460,10 +10511,10 @@ Rank  Username                      Contributions
 14    b0baspace                     14    
 15    kaimon                        14    
 16    @SirBrentsworth               13    
-17    yc128                         11    
-18    @zruk_ts                      10    
-19    minidiscus                    10    
-20    benikum                       9     
+17    benikum                       12    
+18    yc128                         11    
+19    @zruk_ts                      10    
+20    minidiscus                    10    
 21    lilyu.xyz                     9     
 22    lt_col_tall                   9     
 23    @toastergod101                7     
