@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Jan 26 2026
-Unique items: 505
-Total scans : 927
+Unique items: 509
+Total scans : 931
 ```
 
 Or Sort by...
@@ -71,18 +71,18 @@ Rank  Username                      Contributions
 16    @SirBrentsworth               13    
 17    benikum                       12    
 18    yc128                         11    
-19    @zruk_ts                      10    
-20    minidiscus                    10    
-21    lilyu.xyz                     9     
-22    lt_col_tall                   9     
-23    Chrisbes                      9     
+19    Chrisbes                      11    
+20    @zruk_ts                      10    
+21    minidiscus                    10    
+22    lilyu.xyz                     9     
+23    lt_col_tall                   9     
 24    @toastergod101                7     
 25    @filmfotofella                7     
 26    GreatGizmo74                  6     
 27    nick                          6     
 28    Kraksen                       5     
-29    Henry Gunn                    4     
-30    u/ReeeSchmidtyWerber          4     
+29    u/ReeeSchmidtyWerber          5     
+30    Henry Gunn                    4     
 31    TheSelousScout                3     
 32    @sachynmital                  3     
 33    @seklerek                     2     
@@ -92,6 +92,7 @@ Rank  Username                      Contributions
 37    @ad.astra.per.aspera.1894     1     
 38    Aoi Yuki                      1     
 39    lemoniter                     1     
+40    @shotbyliampewpew             1     
 ```
 
 ## Recent Activities
@@ -100,9 +101,13 @@ Rank  Username                      Contributions
 2026-01-26
   - @Hol.m35: Optik Oldschool SantaColor
   - @Hol.m35: Rollei Retro 400S
+  - @shotbyliampewpew: Escura EDO ukiyo-e
   - Chrisbes: Fujifilm Fujicolor Super HG
   - Chrisbes: Fujifilm Superia 200
+  - Chrisbes: Reflx Lab 320D AHU
+  - Chrisbes: Reflx Lab 640T AHU
   - kaimon: Kodak Gold 200
+  - u/ReeeSchmidtyWerber: Fujifilm Fujichrome Velvia
 
 2025-12-29
   - @Hol.m35: Max Spielmann Pro-Zoom MX 400

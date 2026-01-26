@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Jan 26 2026
-Unique items: 505
-Total scans : 927
+Unique items: 509
+Total scans : 931
 ```
 
 -----
@@ -437,6 +437,7 @@ Total scans : 927
 - [[2027] Arista.EDU Ultra (ref: d78b)](#2027-aristaedu-ultra-ref-d78b)
 - [[2027] CineStill 800T (ref: c96e)](#2027-cinestill-800t-ref-c96e)
 - [[2027] Foma Fomapan Classic 100 (ref: 65ad)](#2027-foma-fomapan-classic-100-ref-65ad)
+- [[2027] Fujifilm Fujichrome Velvia (ref: 1ba8)](#2027-fujifilm-fujichrome-velvia-ref-1ba8)
 - [[2027] Fujifilm Instax Mini (ref: e5e7)](#2027-fujifilm-instax-mini-ref-e5e7)
 - [[2027] Kodak Gold (ref: 855e)](#2027-kodak-gold-ref-855e)
 - [[2027] Kosmo Foto Mono (ref: b74f)](#2027-kosmo-foto-mono-ref-b74f)
@@ -475,6 +476,7 @@ Total scans : 927
 - [[2028] Agfa APX (ref: 5276)](#2028-agfa-apx-ref-5276)
 - [[2028] Foma Fomapan 200 (ref: 60ee)](#2028-foma-fomapan-200-ref-60ee)
 - [[2028] Arista.EDU Ultra (ref: d319)](#2028-aristaedu-ultra-ref-d319)
+- [[2028] Escura EDO ukiyo-e (ref: 5faa)](#2028-escura-edo-ukiyo-e-ref-5faa)
 - [[2028] Harman Phoenix II (ref: 37c7)](#2028-harman-phoenix-ii-ref-37c7)
 - [[2028] Harman Phoenix II (ref: 41d4)](#2028-harman-phoenix-ii-ref-41d4)
 - [[2028] Ilford HP5 Plus (ref: df49)](#2028-ilford-hp5-plus-ref-df49)
@@ -519,6 +521,8 @@ Total scans : 927
 - [[Unknown] Perutz Superomnia (ref: c90d)](#unknown-perutz-superomnia-ref-c90d)
 - [[Unknown] Phöbus-Platten Sheet Film (ref: d505)](#unknown-phöbus-platten-sheet-film-ref-d505)
 - [[Unknown] Polaroid Type 42 (ref: f92c)](#unknown-polaroid-type-42-ref-f92c)
+- [[Unknown] Reflx Lab 320D AHU (ref: 0bd5)](#unknown-reflx-lab-320d-ahu-ref-0bd5)
+- [[Unknown] Reflx Lab 640T AHU (ref: 2ce9)](#unknown-reflx-lab-640t-ahu-ref-2ce9)
 - [[Unknown] Robot NR-Cassette (ref: bc7a)](#unknown-robot-nr-cassette-ref-bc7a)
 - [[Unknown] Sharan Black-and-white Negative Film (ref: a884)](#unknown-sharan-black-and-white-negative-film-ref-a884)
 - [[Unknown] Sharan Color Negative Film (ref: 4913)](#unknown-sharan-color-negative-film-ref-4913)
@@ -8865,6 +8869,20 @@ UUID  : a0786cc1bc884f66bbb84118d55665ad
 	<img src="./lowres/00133_001.jpg" alt="Foma Fomapan Classic 100 120 film box inside" loading="lazy" width="500" height="391">
 </a>
 
+#### [2027] Fujifilm Fujichrome Velvia (ref: 1ba8)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2027-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-01-26   |  Author  : u/ReeeSchmidtyWerber
+UUID  : 8513abf4476f41c880303c3116ee1ba8
+```
+
+<a href="./archive/00510_000.jpg" target="_blank">
+	<img src="./lowres/00510_000.jpg" alt="Fujifilm Fujichrome Velvia 35mm film box outside" loading="lazy" width="420" height="499">
+</a>
+
 #### [2027] Fujifilm Instax Mini (ref: e5e7)
 
 ```
@@ -9564,6 +9582,20 @@ UUID  : 7a09e38ead7d4c73a1a2f3c028fad319
 
 <a href="./archive/00470_001.jpg" target="_blank">
 	<img src="./lowres/00470_001.jpg" alt="Arista.EDU Ultra 120 film box inside" loading="lazy" width="500" height="428">
+</a>
+
+#### [2028] Escura EDO ukiyo-e (ref: 5faa)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-06 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-01-26   |  Author  : @shotbyliampewpew
+UUID  : 758ee88b8edf42b492c8c240281d5faa
+```
+
+<a href="./archive/00511_000.jpg" target="_blank">
+	<img src="./lowres/00511_000.jpg" alt="Escura EDO ukiyo-e 35mm film box outside" loading="lazy" width="405" height="500">
 </a>
 
 #### [2028] Harman Phoenix II (ref: 37c7)
@@ -10413,6 +10445,34 @@ UUID  : ce5edab694b4467aa9b3e1d81d8bf92c
 	<img src="./lowres/00496_000.jpg" alt="Polaroid Type 42 Instant Roll Film film box outside" loading="lazy" width="470" height="500">
 </a>
 
+#### [Unknown] Reflx Lab 320D AHU (ref: 0bd5)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 320          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-01-26   |  Author  : Chrisbes
+UUID  : f6ddd372aaa0413a961691159ba30bd5
+```
+
+<a href="./archive/00512_000.jpg" target="_blank">
+	<img src="./lowres/00512_000.jpg" alt="Reflx Lab 320D AHU 35mm film cartridge" loading="lazy" width="500" height="240">
+</a>
+
+#### [Unknown] Reflx Lab 640T AHU (ref: 2ce9)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 640          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-01-26   |  Author  : Chrisbes
+UUID  : e546f5291c23497b9643b51318452ce9
+```
+
+<a href="./archive/00513_000.jpg" target="_blank">
+	<img src="./lowres/00513_000.jpg" alt="Reflx Lab 640T AHU 35mm film cartridge" loading="lazy" width="500" height="230">
+</a>
+
 #### [Unknown] Robot NR-Cassette (ref: bc7a)
 
 ```
@@ -10602,18 +10662,18 @@ Rank  Username                      Contributions
 16    @SirBrentsworth               13    
 17    benikum                       12    
 18    yc128                         11    
-19    @zruk_ts                      10    
-20    minidiscus                    10    
-21    lilyu.xyz                     9     
-22    lt_col_tall                   9     
-23    Chrisbes                      9     
+19    Chrisbes                      11    
+20    @zruk_ts                      10    
+21    minidiscus                    10    
+22    lilyu.xyz                     9     
+23    lt_col_tall                   9     
 24    @toastergod101                7     
 25    @filmfotofella                7     
 26    GreatGizmo74                  6     
 27    nick                          6     
 28    Kraksen                       5     
-29    Henry Gunn                    4     
-30    u/ReeeSchmidtyWerber          4     
+29    u/ReeeSchmidtyWerber          5     
+30    Henry Gunn                    4     
 31    TheSelousScout                3     
 32    @sachynmital                  3     
 33    @seklerek                     2     
@@ -10623,6 +10683,7 @@ Rank  Username                      Contributions
 37    @ad.astra.per.aspera.1894     1     
 38    Aoi Yuki                      1     
 39    lemoniter                     1     
+40    @shotbyliampewpew             1     
 ```
 
 ## Questions or Comments?

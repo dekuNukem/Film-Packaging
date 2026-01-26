@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Jan 26 2026
-Unique items: 505
-Total scans : 927
+Unique items: 509
+Total scans : 931
 ```
 
 -----
@@ -98,6 +98,7 @@ Total scans : 927
 - [Defender Portrait HGS (ref: d69c)](#defender-portrait-hgs-ref-d69c)
 - [Efiniti UXi Super 200 (ref: 471a)](#efiniti-uxi-super-200-ref-471a)
 - [Efke IR 820 Aura (ref: 43c9)](#efke-ir-820-aura-ref-43c9)
+- [Escura EDO ukiyo-e (ref: 5faa)](#escura-edo-ukiyo-e-ref-5faa)
 - [Famous Brand Labs Color Negative Film (ref: b271)](#famous-brand-labs-color-negative-film-ref-b271)
 - [Famous Brand Labs Color Negative Film (ref: 0cd6)](#famous-brand-labs-color-negative-film-ref-0cd6)
 - [Ferrania Solaris (ref: a929)](#ferrania-solaris-ref-a929)
@@ -136,6 +137,7 @@ Total scans : 927
 - [Fujifilm Fujichrome Sensia 100 (ref: a859)](#fujifilm-fujichrome-sensia-100-ref-a859)
 - [Fujifilm Fujichrome Sensia 200 (ref: 3a01)](#fujifilm-fujichrome-sensia-200-ref-3a01)
 - [Fujifilm Fujichrome Velvia (ref: 3182)](#fujifilm-fujichrome-velvia-ref-3182)
+- [Fujifilm Fujichrome Velvia (ref: 1ba8)](#fujifilm-fujichrome-velvia-ref-1ba8)
 - [Fujifilm Fujichrome Velvia 100F (ref: f7fb)](#fujifilm-fujichrome-velvia-100f-ref-f7fb)
 - [Fujifilm Fujichrome Velvia 100F (ref: 32d4)](#fujifilm-fujichrome-velvia-100f-ref-32d4)
 - [Fujifilm Fujicolor 100 (ref: 013b)](#fujifilm-fujicolor-100-ref-013b)
@@ -479,7 +481,9 @@ Total scans : 927
 - [Premium Super XG (ref: 8ccd)](#premium-super-xg-ref-8ccd)
 - [PrinzColor Colour Negative Film (ref: 448c)](#prinzcolor-colour-negative-film-ref-448c)
 - [Reflx Lab 250D (ref: 1a3e)](#reflx-lab-250d-ref-1a3e)
+- [Reflx Lab 320D AHU (ref: 0bd5)](#reflx-lab-320d-ahu-ref-0bd5)
 - [Reflx Lab 400D (ref: 5801)](#reflx-lab-400d-ref-5801)
+- [Reflx Lab 640T AHU (ref: 2ce9)](#reflx-lab-640t-ahu-ref-2ce9)
 - [Reflx Lab 800T (ref: 6b6b)](#reflx-lab-800t-ref-6b6b)
 - [Reflx Lab Pro 100 (ref: 8bec)](#reflx-lab-pro-100-ref-8bec)
 - [Reflx Lab Pro 100 (ref: 1311)](#reflx-lab-pro-100-ref-1311)
@@ -1980,6 +1984,20 @@ UUID  : 716e410a3823476e9befa704361f43c9
 	<img src="./lowres/00038_001.jpg" alt="Efke IR 820 Aura 120 film box inside" loading="lazy" width="500" height="341">
 </a>
 
+#### Escura EDO ukiyo-e (ref: 5faa)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-06 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-01-26   |  Author  : @shotbyliampewpew
+UUID  : 758ee88b8edf42b492c8c240281d5faa
+```
+
+<a href="./archive/00511_000.jpg" target="_blank">
+	<img src="./lowres/00511_000.jpg" alt="Escura EDO ukiyo-e 35mm film box outside" loading="lazy" width="405" height="500">
+</a>
+
 #### Famous Brand Labs Color Negative Film (ref: b271)
 
 ```
@@ -2816,6 +2834,20 @@ UUID  : 9b9ee1c1c0e94d968674987799d33182
 
 <a href="./archive/00044_002.jpg" target="_blank">
 	<img src="./lowres/00044_002.jpg" alt="Fujifilm Fujichrome Velvia 35mm film box leaflet" loading="lazy" width="267" height="500">
+</a>
+
+#### Fujifilm Fujichrome Velvia (ref: 1ba8)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2027-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-01-26   |  Author  : u/ReeeSchmidtyWerber
+UUID  : 8513abf4476f41c880303c3116ee1ba8
+```
+
+<a href="./archive/00510_000.jpg" target="_blank">
+	<img src="./lowres/00510_000.jpg" alt="Fujifilm Fujichrome Velvia 35mm film box outside" loading="lazy" width="420" height="499">
 </a>
 
 #### Fujifilm Fujichrome Velvia 100F (ref: f7fb)
@@ -9670,6 +9702,20 @@ UUID  : ce8b081c148f43f7921e2fb4d7aa1a3e
 	<img src="./lowres/00194_000.jpg" alt="Reflx Lab 250D 120 film box outside" loading="lazy" width="500" height="419">
 </a>
 
+#### Reflx Lab 320D AHU (ref: 0bd5)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 320          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-01-26   |  Author  : Chrisbes
+UUID  : f6ddd372aaa0413a961691159ba30bd5
+```
+
+<a href="./archive/00512_000.jpg" target="_blank">
+	<img src="./lowres/00512_000.jpg" alt="Reflx Lab 320D AHU 35mm film cartridge" loading="lazy" width="500" height="240">
+</a>
+
 #### Reflx Lab 400D (ref: 5801)
 
 ```
@@ -9682,6 +9728,20 @@ UUID  : 4c1b5d50ee594d5694e9a7b0a78c5801
 
 <a href="./archive/00467_000.jpg" target="_blank">
 	<img src="./lowres/00467_000.jpg" alt="Reflx Lab 400D 35mm film box outside" loading="lazy" width="415" height="500">
+</a>
+
+#### Reflx Lab 640T AHU (ref: 2ce9)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 640          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-01-26   |  Author  : Chrisbes
+UUID  : e546f5291c23497b9643b51318452ce9
+```
+
+<a href="./archive/00513_000.jpg" target="_blank">
+	<img src="./lowres/00513_000.jpg" alt="Reflx Lab 640T AHU 35mm film cartridge" loading="lazy" width="500" height="230">
 </a>
 
 #### Reflx Lab 800T (ref: 6b6b)
@@ -10602,18 +10662,18 @@ Rank  Username                      Contributions
 16    @SirBrentsworth               13    
 17    benikum                       12    
 18    yc128                         11    
-19    @zruk_ts                      10    
-20    minidiscus                    10    
-21    lilyu.xyz                     9     
-22    lt_col_tall                   9     
-23    Chrisbes                      9     
+19    Chrisbes                      11    
+20    @zruk_ts                      10    
+21    minidiscus                    10    
+22    lilyu.xyz                     9     
+23    lt_col_tall                   9     
 24    @toastergod101                7     
 25    @filmfotofella                7     
 26    GreatGizmo74                  6     
 27    nick                          6     
 28    Kraksen                       5     
-29    Henry Gunn                    4     
-30    u/ReeeSchmidtyWerber          4     
+29    u/ReeeSchmidtyWerber          5     
+30    Henry Gunn                    4     
 31    TheSelousScout                3     
 32    @sachynmital                  3     
 33    @seklerek                     2     
@@ -10623,6 +10683,7 @@ Rank  Username                      Contributions
 37    @ad.astra.per.aspera.1894     1     
 38    Aoi Yuki                      1     
 39    lemoniter                     1     
+40    @shotbyliampewpew             1     
 ```
 
 ## Questions or Comments?

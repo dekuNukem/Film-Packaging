@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Jan 26 2026
-Unique items: 505
-Total scans : 927
+Unique items: 509
+Total scans : 931
 ```
 
 -----
@@ -195,6 +195,7 @@ Total scans : 927
 - [[@sachynmital] Mr. Negative Silver Screen Negative (ref: c968)](#sachynmital-mr-negative-silver-screen-negative-ref-c968)
 - [[@seklerek] Fujifilm Fujichrome Provia 100F (ref: 356d)](#seklerek-fujifilm-fujichrome-provia-100f-ref-356d)
 - [[@seklerek] Fujifilm Fujichrome Velvia 100F (ref: 32d4)](#seklerek-fujifilm-fujichrome-velvia-100f-ref-32d4)
+- [[@shotbyliampewpew] Escura EDO ukiyo-e (ref: 5faa)](#shotbyliampewpew-escura-edo-ukiyo-e-ref-5faa)
 - [[@toastergod101] Fujifilm Instax Mini (ref: e5e7)](#toastergod101-fujifilm-instax-mini-ref-e5e7)
 - [[@toastergod101] Harman Red (ref: da3a)](#toastergod101-harman-red-ref-da3a)
 - [[@toastergod101] Ilford Delta 400 Professional (ref: f3da)](#toastergod101-ilford-delta-400-professional-ref-f3da)
@@ -223,7 +224,9 @@ Total scans : 927
 - [[Chrisbes] Fujifilm Fujicolor Super HG (ref: 9942)](#chrisbes-fujifilm-fujicolor-super-hg-ref-9942)
 - [[Chrisbes] Fujifilm Fujicolor Super HR (ref: 7fd2)](#chrisbes-fujifilm-fujicolor-super-hr-ref-7fd2)
 - [[Chrisbes] Fujifilm Superia 200 (ref: fd36)](#chrisbes-fujifilm-superia-200-ref-fd36)
+- [[Chrisbes] Reflx Lab 320D AHU (ref: 0bd5)](#chrisbes-reflx-lab-320d-ahu-ref-0bd5)
 - [[Chrisbes] Reflx Lab 400D (ref: 5801)](#chrisbes-reflx-lab-400d-ref-5801)
+- [[Chrisbes] Reflx Lab 640T AHU (ref: 2ce9)](#chrisbes-reflx-lab-640t-ahu-ref-2ce9)
 - [[Chrisbes] Reflx Lab 800T (ref: 6b6b)](#chrisbes-reflx-lab-800t-ref-6b6b)
 - [[GreatGizmo74] Jessops CS100 (ref: 4288)](#greatgizmo74-jessops-cs100-ref-4288)
 - [[GreatGizmo74] Jessops Diamond Everyday (ref: 6d5a)](#greatgizmo74-jessops-diamond-everyday-ref-6d5a)
@@ -510,6 +513,7 @@ Total scans : 927
 - [[toader] Polaroid Color 600 Film (ref: e12f)](#toader-polaroid-color-600-film-ref-e12f)
 - [[toader] Polaroid Color 600 Film Round Frame (ref: d985)](#toader-polaroid-color-600-film-round-frame-ref-d985)
 - [[toader] Polaroid Color SX-70 Film (ref: dc7f)](#toader-polaroid-color-sx-70-film-ref-dc7f)
+- [[u/ReeeSchmidtyWerber] Fujifilm Fujichrome Velvia (ref: 1ba8)](#ureeeschmidtywerber-fujifilm-fujichrome-velvia-ref-1ba8)
 - [[u/ReeeSchmidtyWerber] Kodak Panatomic-X (ref: 8d69)](#ureeeschmidtywerber-kodak-panatomic-x-ref-8d69)
 - [[u/ReeeSchmidtyWerber] Kodak Panatomic-X (ref: 35f6)](#ureeeschmidtywerber-kodak-panatomic-x-ref-35f6)
 - [[waldoboro] Fujifilm Fujicolor Natura 1600 (ref: 52aa)](#waldoboro-fujifilm-fujicolor-natura-1600-ref-52aa)
@@ -3624,6 +3628,20 @@ UUID  : ce5c1d786286427ba5633091b06432d4
 	<img src="./lowres/00056_000.jpg" alt="Fujifilm Fujichrome Velvia 100F 35mm film box outside" loading="lazy" width="425" height="499">
 </a>
 
+#### [@shotbyliampewpew] Escura EDO ukiyo-e (ref: 5faa)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-06 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-01-26   |  Author  : @shotbyliampewpew
+UUID  : 758ee88b8edf42b492c8c240281d5faa
+```
+
+<a href="./archive/00511_000.jpg" target="_blank">
+	<img src="./lowres/00511_000.jpg" alt="Escura EDO ukiyo-e 35mm film box outside" loading="lazy" width="405" height="500">
+</a>
+
 #### [@toastergod101] Fujifilm Instax Mini (ref: e5e7)
 
 ```
@@ -4128,6 +4146,20 @@ UUID  : 94d1751b3c454ec590a5d79ee1f9fd36
 	<img src="./lowres/00506_000.jpg" alt="Fujifilm Superia 200 35mm film box outside" loading="lazy" width="500" height="358">
 </a>
 
+#### [Chrisbes] Reflx Lab 320D AHU (ref: 0bd5)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 320          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-01-26   |  Author  : Chrisbes
+UUID  : f6ddd372aaa0413a961691159ba30bd5
+```
+
+<a href="./archive/00512_000.jpg" target="_blank">
+	<img src="./lowres/00512_000.jpg" alt="Reflx Lab 320D AHU 35mm film cartridge" loading="lazy" width="500" height="240">
+</a>
+
 #### [Chrisbes] Reflx Lab 400D (ref: 5801)
 
 ```
@@ -4140,6 +4172,20 @@ UUID  : 4c1b5d50ee594d5694e9a7b0a78c5801
 
 <a href="./archive/00467_000.jpg" target="_blank">
 	<img src="./lowres/00467_000.jpg" alt="Reflx Lab 400D 35mm film box outside" loading="lazy" width="415" height="500">
+</a>
+
+#### [Chrisbes] Reflx Lab 640T AHU (ref: 2ce9)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 640          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-01-26   |  Author  : Chrisbes
+UUID  : e546f5291c23497b9643b51318452ce9
+```
+
+<a href="./archive/00513_000.jpg" target="_blank">
+	<img src="./lowres/00513_000.jpg" alt="Reflx Lab 640T AHU 35mm film cartridge" loading="lazy" width="500" height="230">
 </a>
 
 #### [Chrisbes] Reflx Lab 800T (ref: 6b6b)
@@ -10238,6 +10284,20 @@ UUID  : b4af154cea6f40c0aa1d4154d0c2dc7f
 	<img src="./lowres/00156_003.jpg" alt="Polaroid Color SX-70 Film Integral Film film box inside" loading="lazy" width="425" height="499">
 </a>
 
+#### [u/ReeeSchmidtyWerber] Fujifilm Fujichrome Velvia (ref: 1ba8)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2027-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-01-26   |  Author  : u/ReeeSchmidtyWerber
+UUID  : 8513abf4476f41c880303c3116ee1ba8
+```
+
+<a href="./archive/00510_000.jpg" target="_blank">
+	<img src="./lowres/00510_000.jpg" alt="Fujifilm Fujichrome Velvia 35mm film box outside" loading="lazy" width="420" height="499">
+</a>
+
 #### [u/ReeeSchmidtyWerber] Kodak Panatomic-X (ref: 8d69)
 
 ```
@@ -10602,18 +10662,18 @@ Rank  Username                      Contributions
 16    @SirBrentsworth               13    
 17    benikum                       12    
 18    yc128                         11    
-19    @zruk_ts                      10    
-20    minidiscus                    10    
-21    lilyu.xyz                     9     
-22    lt_col_tall                   9     
-23    Chrisbes                      9     
+19    Chrisbes                      11    
+20    @zruk_ts                      10    
+21    minidiscus                    10    
+22    lilyu.xyz                     9     
+23    lt_col_tall                   9     
 24    @toastergod101                7     
 25    @filmfotofella                7     
 26    GreatGizmo74                  6     
 27    nick                          6     
 28    Kraksen                       5     
-29    Henry Gunn                    4     
-30    u/ReeeSchmidtyWerber          4     
+29    u/ReeeSchmidtyWerber          5     
+30    Henry Gunn                    4     
 31    TheSelousScout                3     
 32    @sachynmital                  3     
 33    @seklerek                     2     
@@ -10623,6 +10683,7 @@ Rank  Username                      Contributions
 37    @ad.astra.per.aspera.1894     1     
 38    Aoi Yuki                      1     
 39    lemoniter                     1     
+40    @shotbyliampewpew             1     
 ```
 
 ## Questions or Comments?
