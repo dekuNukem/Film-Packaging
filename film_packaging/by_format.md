@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Dec 29 2025
-Unique items: 500
-Total scans : 920
+Last Updated: Jan 26 2026
+Unique items: 505
+Total scans : 927
 ```
 
 -----
@@ -107,6 +107,7 @@ Total scans : 920
 - [[120] Kodak Ektachrome Professional Type B (ref: 1d9d)](#120-kodak-ektachrome-professional-type-b-ref-1d9d)
 - [[120] Kodak Ektar 100 (ref: 4631)](#120-kodak-ektar-100-ref-4631)
 - [[120] Kodak Gold 200 (ref: 933f)](#120-kodak-gold-200-ref-933f)
+- [[120] Kodak Gold 200 (ref: 3e0b)](#120-kodak-gold-200-ref-3e0b)
 - [[120] Kodak High Speed Ektachrome (ref: ce7f)](#120-kodak-high-speed-ektachrome-ref-ce7f)
 - [[120] Kodak High Speed Ektachrome (ref: be8f)](#120-kodak-high-speed-ektachrome-ref-be8f)
 - [[120] Kodak High Speed Ektachrome (ref: 7533)](#120-kodak-high-speed-ektachrome-ref-7533)
@@ -141,6 +142,7 @@ Total scans : 920
 - [[120] Perutz Perpantic Film (ref: 58b1)](#120-perutz-perpantic-film-ref-58b1)
 - [[120] Reflx Lab 250D (ref: 1a3e)](#120-reflx-lab-250d-ref-1a3e)
 - [[120] Rollei Infrared (ref: 4f54)](#120-rollei-infrared-ref-4f54)
+- [[120] Rollei Retro 400S (ref: f2cf)](#120-rollei-retro-400s-ref-f2cf)
 - [[120] Rollei Retro 80S (ref: e6c0)](#120-rollei-retro-80s-ref-e6c0)
 - [[120] Svema Foto 32 (ref: 8b44)](#120-svema-foto-32-ref-8b44)
 - [[122] Gevaert Gevachrome 30 (ref: c0e3)](#122-gevaert-gevachrome-30-ref-c0e3)
@@ -268,6 +270,7 @@ Total scans : 920
 - [[35mm] Fujifilm Fujicolor Professional (ref: 02f7)](#35mm-fujifilm-fujicolor-professional-ref-02f7)
 - [[35mm] Fujifilm Fujicolor Super HG (ref: 1b30)](#35mm-fujifilm-fujicolor-super-hg-ref-1b30)
 - [[35mm] Fujifilm Fujicolor Super HG (ref: feb7)](#35mm-fujifilm-fujicolor-super-hg-ref-feb7)
+- [[35mm] Fujifilm Fujicolor Super HG (ref: 9942)](#35mm-fujifilm-fujicolor-super-hg-ref-9942)
 - [[35mm] Fujifilm Fujicolor Super HG (ref: ee94)](#35mm-fujifilm-fujicolor-super-hg-ref-ee94)
 - [[35mm] Fujifilm Fujicolor Super HR (ref: 7fd2)](#35mm-fujifilm-fujicolor-super-hr-ref-7fd2)
 - [[35mm] Fujifilm Fujicolor Super HR (ref: aaa0)](#35mm-fujifilm-fujicolor-super-hr-ref-aaa0)
@@ -283,6 +286,7 @@ Total scans : 920
 - [[35mm] Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)](#35mm-fujifilm-fujicolor-superia-x-tra-ref-6b8a)
 - [[35mm] Fujifilm Neopan 400 (ref: c088)](#35mm-fujifilm-neopan-400-ref-c088)
 - [[35mm] Fujifilm Neopan SS Rapid (ref: 9db3)](#35mm-fujifilm-neopan-ss-rapid-ref-9db3)
+- [[35mm] Fujifilm Superia 200 (ref: fd36)](#35mm-fujifilm-superia-200-ref-fd36)
 - [[35mm] Fujifilm Superia Premium 400 (ref: ef1f)](#35mm-fujifilm-superia-premium-400-ref-ef1f)
 - [[35mm] GAF Color Slide Film (ref: 6815)](#35mm-gaf-color-slide-film-ref-6815)
 - [[35mm] GT Photo GT24 (ref: 92c2)](#35mm-gt-photo-gt24-ref-92c2)
@@ -428,6 +432,7 @@ Total scans : 920
 - [[35mm] ORWO Chrom UT21 (ref: 3fd5)](#35mm-orwo-chrom-ut21-ref-3fd5)
 - [[35mm] ORWO NP 20 SL (ref: b16c)](#35mm-orwo-np-20-sl-ref-b16c)
 - [[35mm] ORWO NP22 (ref: 5437)](#35mm-orwo-np22-ref-5437)
+- [[35mm] Optik Oldschool SantaColor (ref: dd85)](#35mm-optik-oldschool-santacolor-ref-dd85)
 - [[35mm] Perutz Peromnia 21 (ref: fa4a)](#35mm-perutz-peromnia-21-ref-fa4a)
 - [[35mm] Perutz Primera (ref: cbfb)](#35mm-perutz-primera-ref-cbfb)
 - [[35mm] Photocité 400 ISO (ref: e370)](#35mm-photocité-400-iso-ref-e370)
@@ -2295,6 +2300,27 @@ UUID  : e8aefc10fa0d43cebbac73bdcf10933f
 	<img src="./lowres/00021_000.jpg" alt="Kodak Gold 200 120 film box outside" loading="lazy" width="500" height="281">
 </a>
 
+#### [120] Kodak Gold 200 (ref: 3e0b)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2028-12 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2026-01-26   |  Author  : kaimon  
+UUID  : 0e7da8b53783476da740ee07ca9a3e0b
+```
+
+<a href="./archive/00509_000.jpg" target="_blank">
+	<img src="./lowres/00509_000.jpg" alt="Kodak Gold 200 120 film box outside" loading="lazy" width="500" height="382">
+</a>
+
+
+`UUID: 83267ba97d474616b31a80a3a2b03493`↓
+
+<a href="./archive/00509_001.jpg" target="_blank">
+	<img src="./lowres/00509_001.jpg" alt="Kodak Gold 200 120 film box outside" loading="lazy" width="500" height="421">
+</a>
+
 #### [120] Kodak High Speed Ektachrome (ref: ce7f)
 
 ```
@@ -3059,6 +3085,27 @@ UUID  : b7bb7d65979543d0a8e5c9179d734f54
 
 <a href="./archive/00030_001.jpg" target="_blank">
 	<img src="./lowres/00030_001.jpg" alt="Rollei Infrared 120 film box outside" loading="lazy" width="459" height="499">
+</a>
+
+#### [120] Rollei Retro 400S (ref: f2cf)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2028-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-01-26   |  Author  : @Hol.m35
+UUID  : 17064b735c704134b793c63b583ef2cf
+```
+
+<a href="./archive/00508_000.jpg" target="_blank">
+	<img src="./lowres/00508_000.jpg" alt="Rollei Retro 400S 120 film box outside" loading="lazy" width="500" height="416">
+</a>
+
+
+`UUID: 6f069574b62047eeafe63d911d3d20ea`↓
+
+<a href="./archive/00508_001.jpg" target="_blank">
+	<img src="./lowres/00508_001.jpg" alt="Rollei Retro 400S 120 film box inside" loading="lazy" width="500" height="465">
 </a>
 
 #### [120] Rollei Retro 80S (ref: e6c0)
@@ -5524,6 +5571,20 @@ UUID  : 90ac1c8117ef41d291bedc89cc65feb7
 	<img src="./lowres/00404_001.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box inside" loading="lazy" width="417" height="500">
 </a>
 
+#### [35mm] Fujifilm Fujicolor Super HG (ref: 9942)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1993-01 
+Type  : Multi-Pack-3 |  Quantity: 24exp   
+Added : 2026-01-26   |  Author  : Chrisbes
+UUID  : bd59eca469724f71b8b6da2e89dd9942
+```
+
+<a href="./archive/00507_000.jpg" target="_blank">
+	<img src="./lowres/00507_000.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box outside" loading="lazy" width="234" height="500">
+</a>
+
 #### [35mm] Fujifilm Fujicolor Super HG (ref: ee94)
 
 ```
@@ -5782,6 +5843,20 @@ UUID  : 1c541b4c837944d788eab8986f349db3
 
 <a href="./archive/00118_000.jpg" target="_blank">
 	<img src="./lowres/00118_000.jpg" alt="Fujifilm Neopan SS Rapid 35mm film box outside" loading="lazy" width="369" height="500">
+</a>
+
+#### [35mm] Fujifilm Superia 200 (ref: fd36)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2008-09 
+Type  : Multi-Pack-5 |  Quantity: 36exp   
+Added : 2026-01-26   |  Author  : Chrisbes
+UUID  : 94d1751b3c454ec590a5d79ee1f9fd36
+```
+
+<a href="./archive/00506_000.jpg" target="_blank">
+	<img src="./lowres/00506_000.jpg" alt="Fujifilm Superia 200 35mm film box outside" loading="lazy" width="500" height="358">
 </a>
 
 #### [35mm] Fujifilm Superia Premium 400 (ref: ef1f)
@@ -8496,6 +8571,20 @@ UUID  : cfbdda5effec496ca0d9d91d29d65437
 	<img src="./lowres/00504_002.jpg" alt="ORWO NP22 35mm film box inside" loading="lazy" width="302" height="500">
 </a>
 
+#### [35mm] Optik Oldschool SantaColor (ref: dd85)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2027-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-01-26   |  Author  : @Hol.m35
+UUID  : bc9726f8d278473591afb78fc49bdd85
+```
+
+<a href="./archive/00505_000.jpg" target="_blank">
+	<img src="./lowres/00505_000.jpg" alt="Optik Oldschool SantaColor 35mm film box outside" loading="lazy" width="500" height="478">
+</a>
+
 #### [35mm] Perutz Peromnia 21 (ref: fa4a)
 
 ```
@@ -10501,15 +10590,15 @@ Rank  Username                      Contributions
 4     @ellafridalindblom            63    
 5     @recycling.film               62    
 6     The Compartmentalist          25    
-7     @Hol.m35                      22    
+7     @Hol.m35                      25    
 8     fine-seat                     19    
 9     Camera.Riley                  19    
 10    Nano_Burger                   18    
 11    toader                        17    
 12    @ob.skura                     16    
-13    waldoboro                     16    
-14    b0baspace                     14    
-15    kaimon                        14    
+13    kaimon                        16    
+14    waldoboro                     16    
+15    b0baspace                     14    
 16    @SirBrentsworth               13    
 17    benikum                       12    
 18    yc128                         11    
@@ -10517,9 +10606,9 @@ Rank  Username                      Contributions
 20    minidiscus                    10    
 21    lilyu.xyz                     9     
 22    lt_col_tall                   9     
-23    @toastergod101                7     
-24    @filmfotofella                7     
-25    Chrisbes                      7     
+23    Chrisbes                      9     
+24    @toastergod101                7     
+25    @filmfotofella                7     
 26    GreatGizmo74                  6     
 27    nick                          6     
 28    Kraksen                       5     

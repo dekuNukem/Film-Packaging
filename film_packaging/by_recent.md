@@ -15,13 +15,18 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Dec 29 2025
-Unique items: 500
-Total scans : 920
+Last Updated: Jan 26 2026
+Unique items: 505
+Total scans : 927
 ```
 
 -----
 
+- [[2026-01-26] Kodak Gold 200 (ref: 3e0b)](#2026-01-26-kodak-gold-200-ref-3e0b)
+- [[2026-01-26] Rollei Retro 400S (ref: f2cf)](#2026-01-26-rollei-retro-400s-ref-f2cf)
+- [[2026-01-26] Fujifilm Fujicolor Super HG (ref: 9942)](#2026-01-26-fujifilm-fujicolor-super-hg-ref-9942)
+- [[2026-01-26] Fujifilm Superia 200 (ref: fd36)](#2026-01-26-fujifilm-superia-200-ref-fd36)
+- [[2026-01-26] Optik Oldschool SantaColor (ref: dd85)](#2026-01-26-optik-oldschool-santacolor-ref-dd85)
 - [[2025-12-29] ORWO NP22 (ref: 5437)](#2025-12-29-orwo-np22-ref-5437)
 - [[2025-12-29] Max Spielmann Pro-Zoom MX 400 (ref: 38c5)](#2025-12-29-max-spielmann-pro-zoom-mx-400-ref-38c5)
 - [[2025-12-12] Kodak Tri-X Pan (ref: 4a3b)](#2025-12-12-kodak-tri-x-pan-ref-4a3b)
@@ -525,6 +530,90 @@ Total scans : 920
 
 
 -----
+
+
+`UUID: 83267ba97d474616b31a80a3a2b03493`↓
+
+<a href="./archive/00509_001.jpg" target="_blank">
+	<img src="./lowres/00509_001.jpg" alt="Kodak Gold 200 120 film box outside" loading="lazy" width="500" height="421">
+</a>
+
+#### [2026-01-26] Kodak Gold 200 (ref: 3e0b)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2028-12 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2026-01-26   |  Author  : kaimon  
+UUID  : 0e7da8b53783476da740ee07ca9a3e0b
+```
+
+<a href="./archive/00509_000.jpg" target="_blank">
+	<img src="./lowres/00509_000.jpg" alt="Kodak Gold 200 120 film box outside" loading="lazy" width="500" height="382">
+</a>
+
+
+`UUID: 6f069574b62047eeafe63d911d3d20ea`↓
+
+<a href="./archive/00508_001.jpg" target="_blank">
+	<img src="./lowres/00508_001.jpg" alt="Rollei Retro 400S 120 film box inside" loading="lazy" width="500" height="465">
+</a>
+
+#### [2026-01-26] Rollei Retro 400S (ref: f2cf)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2028-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-01-26   |  Author  : @Hol.m35
+UUID  : 17064b735c704134b793c63b583ef2cf
+```
+
+<a href="./archive/00508_000.jpg" target="_blank">
+	<img src="./lowres/00508_000.jpg" alt="Rollei Retro 400S 120 film box outside" loading="lazy" width="500" height="416">
+</a>
+
+#### [2026-01-26] Fujifilm Fujicolor Super HG (ref: 9942)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1993-01 
+Type  : Multi-Pack-3 |  Quantity: 24exp   
+Added : 2026-01-26   |  Author  : Chrisbes
+UUID  : bd59eca469724f71b8b6da2e89dd9942
+```
+
+<a href="./archive/00507_000.jpg" target="_blank">
+	<img src="./lowres/00507_000.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box outside" loading="lazy" width="234" height="500">
+</a>
+
+#### [2026-01-26] Fujifilm Superia 200 (ref: fd36)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2008-09 
+Type  : Multi-Pack-5 |  Quantity: 36exp   
+Added : 2026-01-26   |  Author  : Chrisbes
+UUID  : 94d1751b3c454ec590a5d79ee1f9fd36
+```
+
+<a href="./archive/00506_000.jpg" target="_blank">
+	<img src="./lowres/00506_000.jpg" alt="Fujifilm Superia 200 35mm film box outside" loading="lazy" width="500" height="358">
+</a>
+
+#### [2026-01-26] Optik Oldschool SantaColor (ref: dd85)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2027-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-01-26   |  Author  : @Hol.m35
+UUID  : bc9726f8d278473591afb78fc49bdd85
+```
+
+<a href="./archive/00505_000.jpg" target="_blank">
+	<img src="./lowres/00505_000.jpg" alt="Optik Oldschool SantaColor 35mm film box outside" loading="lazy" width="500" height="478">
+</a>
 
 
 `UUID: 92ea3f721b484deba093c773a0c7ea18`↓
@@ -10501,15 +10590,15 @@ Rank  Username                      Contributions
 4     @ellafridalindblom            63    
 5     @recycling.film               62    
 6     The Compartmentalist          25    
-7     @Hol.m35                      22    
+7     @Hol.m35                      25    
 8     fine-seat                     19    
 9     Camera.Riley                  19    
 10    Nano_Burger                   18    
 11    toader                        17    
 12    @ob.skura                     16    
-13    waldoboro                     16    
-14    b0baspace                     14    
-15    kaimon                        14    
+13    kaimon                        16    
+14    waldoboro                     16    
+15    b0baspace                     14    
 16    @SirBrentsworth               13    
 17    benikum                       12    
 18    yc128                         11    
@@ -10517,9 +10606,9 @@ Rank  Username                      Contributions
 20    minidiscus                    10    
 21    lilyu.xyz                     9     
 22    lt_col_tall                   9     
-23    @toastergod101                7     
-24    @filmfotofella                7     
-25    Chrisbes                      7     
+23    Chrisbes                      9     
+24    @toastergod101                7     
+25    @filmfotofella                7     
 26    GreatGizmo74                  6     
 27    nick                          6     
 28    Kraksen                       5     

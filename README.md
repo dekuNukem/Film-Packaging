@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Dec 29 2025
-Unique items: 500
-Total scans : 920
+Last Updated: Jan 26 2026
+Unique items: 505
+Total scans : 927
 ```
 
 Or Sort by...
@@ -59,15 +59,15 @@ Rank  Username                      Contributions
 4     @ellafridalindblom            63    
 5     @recycling.film               62    
 6     The Compartmentalist          25    
-7     @Hol.m35                      22    
+7     @Hol.m35                      25    
 8     fine-seat                     19    
 9     Camera.Riley                  19    
 10    Nano_Burger                   18    
 11    toader                        17    
 12    @ob.skura                     16    
-13    waldoboro                     16    
-14    b0baspace                     14    
-15    kaimon                        14    
+13    kaimon                        16    
+14    waldoboro                     16    
+15    b0baspace                     14    
 16    @SirBrentsworth               13    
 17    benikum                       12    
 18    yc128                         11    
@@ -75,9 +75,9 @@ Rank  Username                      Contributions
 20    minidiscus                    10    
 21    lilyu.xyz                     9     
 22    lt_col_tall                   9     
-23    @toastergod101                7     
-24    @filmfotofella                7     
-25    Chrisbes                      7     
+23    Chrisbes                      9     
+24    @toastergod101                7     
+25    @filmfotofella                7     
 26    GreatGizmo74                  6     
 27    nick                          6     
 28    Kraksen                       5     
@@ -97,6 +97,13 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2026-01-26
+  - @Hol.m35: Optik Oldschool SantaColor
+  - @Hol.m35: Rollei Retro 400S
+  - Chrisbes: Fujifilm Fujicolor Super HG
+  - Chrisbes: Fujifilm Superia 200
+  - kaimon: Kodak Gold 200
+
 2025-12-29
   - @Hol.m35: Max Spielmann Pro-Zoom MX 400
   - benikum: ORWO NP22
@@ -116,17 +123,6 @@ Rank  Username                      Contributions
 
 2025-12-01
   - Pelicram: Candido Colour Negative Film
-
-2025-11-25
-  - @recycling.film: Kodak Ektachrome Elite 200
-  - @recycling.film: Photocité 400 ISO
-  - @recycling.film: Seagull Seagull Color IR100
-  - kaimon: Ilford Ortho Plus
-  - waldoboro: Fujifilm Fujicolor Super HG
-  - waldoboro: Fujifilm Fujicolor Superia 100
-  - waldoboro: Kodak Gold 200
-  - waldoboro: Perutz Primera
-  - waldoboro: Svema FN 64
 ```
 
 ## Disclaimer

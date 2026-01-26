@@ -919,3 +919,10 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 504,0,film_box_outside,ORWO,NP22,35mm,125,BW,199206,1767013442,f01b9eca63e12ff5eac12eb5b7e84e9f,cfbdda5effec496ca0d9d91d29d65437,00504_000.jpg,benikum,,Single Pack,36exp
 504,1,film_box_inside,ORWO,NP22,35mm,125,BW,199206,1767013444,a10c6c029ece0dc7ffa68d3f2c0975bf,e0f475a33cbc4eb985d8958d7cd7a505,00504_001.jpg,benikum,,Single Pack,36exp
 504,2,film_box_inside,ORWO,NP22,35mm,125,BW,199206,1767013450,376d3edf56424d1bac2deeac888666c5,92ea3f721b484deba093c773a0c7ea18,00504_002.jpg,benikum,,Single Pack,36exp
+505,0,film_box_outside,Optik Oldschool,SantaColor,35mm,800,C-41,202712,1769429743,266ab09680564db6d4b1fed7ef7267cd,bc9726f8d278473591afb78fc49bdd85,00505_000.jpg,@Hol.m35,,Single Pack,36exp
+506,0,film_box_outside,Fujifilm,Superia 200,35mm,200,C-41,200809,1769429884,58a8a052b33533854725c0b72a061287,94d1751b3c454ec590a5d79ee1f9fd36,00506_000.jpg,Chrisbes,,Multi-Pack-5,36exp
+507,0,film_box_outside,Fujifilm,Fujicolor Super HG,35mm,100,C-41,199301,1769430078,53e6c2de92e8b27ca31d4633ff06fc18,bd59eca469724f71b8b6da2e89dd9942,00507_000.jpg,Chrisbes,,Multi-Pack-3,24exp
+508,0,film_box_outside,Rollei,Retro 400S,120,400,BW,202803,1769430269,4e97a23ef23f9158ff75d1a654126d4f,17064b735c704134b793c63b583ef2cf,00508_000.jpg,@Hol.m35,,Single Pack,N/A
+508,1,film_box_inside,Rollei,Retro 400S,120,400,BW,202803,1769430270,0c018210bc7939afa0888fc60fc93deb,6f069574b62047eeafe63d911d3d20ea,00508_001.jpg,@Hol.m35,,Single Pack,N/A
+509,0,film_box_outside,Kodak,Gold 200,120,200,C-41,202812,1769430565,80df2ea8f7407f0be60b4568d44899eb,0e7da8b53783476da740ee07ca9a3e0b,00509_000.jpg,kaimon,,Multi-Pack-5,N/A
+509,1,film_box_outside,Kodak,Gold 200,120,200,C-41,202812,1769430569,7e905ecef5df62e9d5efcd40200dc67a,83267ba97d474616b31a80a3a2b03493,00509_001.jpg,kaimon,,Multi-Pack-5,N/A
