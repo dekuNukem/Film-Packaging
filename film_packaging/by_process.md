@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Mar 02 2026
-Unique items: 520
-Total scans : 945
+Unique items: 523
+Total scans : 949
 ```
 
 -----
@@ -250,6 +250,7 @@ Total scans : 945
 - [[C-41] Fujifilm Fujichrome Sensia 100 (ref: a859)](#c-41-fujifilm-fujichrome-sensia-100-ref-a859)
 - [[C-41] Fujifilm Fujicolor 100 (ref: 013b)](#c-41-fujifilm-fujicolor-100-ref-013b)
 - [[C-41] Fujifilm Fujicolor 100 (ref: b3c9)](#c-41-fujifilm-fujicolor-100-ref-b3c9)
+- [[C-41] Fujifilm Fujicolor 100 (ref: ac71)](#c-41-fujifilm-fujicolor-100-ref-ac71)
 - [[C-41] Fujifilm Fujicolor C200 (ref: 2ff8)](#c-41-fujifilm-fujicolor-c200-ref-2ff8)
 - [[C-41] Fujifilm Fujicolor C200 (ref: a0de)](#c-41-fujifilm-fujicolor-c200-ref-a0de)
 - [[C-41] Fujifilm Fujicolor HR 1600 (ref: 1d39)](#c-41-fujifilm-fujicolor-hr-1600-ref-1d39)
@@ -288,6 +289,7 @@ Total scans : 945
 - [[C-41] Fujifilm Fujicolor Superia X-TRA (ref: 8923)](#c-41-fujifilm-fujicolor-superia-x-tra-ref-8923)
 - [[C-41] Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)](#c-41-fujifilm-fujicolor-superia-x-tra-ref-6b8a)
 - [[C-41] Fujifilm Fujicolor Superia X-TRA 400 (ref: da37)](#c-41-fujifilm-fujicolor-superia-x-tra-400-ref-da37)
+- [[C-41] Fujifilm Hi-Speed 1600 Disposable Camera (ref: 8a6f)](#c-41-fujifilm-hi-speed-1600-disposable-camera-ref-8a6f)
 - [[C-41] Fujifilm Superia 200 (ref: fd36)](#c-41-fujifilm-superia-200-ref-fd36)
 - [[C-41] Fujifilm Superia Premium 400 (ref: ef1f)](#c-41-fujifilm-superia-premium-400-ref-ef1f)
 - [[C-41] Fukkatsu Color Print Film (ref: 3213)](#c-41-fukkatsu-color-print-film-ref-3213)
@@ -404,6 +406,7 @@ Total scans : 945
 - [[C-41] Minox MinoColor 3 (ref: d209)](#c-41-minox-minocolor-3-ref-d209)
 - [[C-41] Minox Minocolor 2 (ref: fadd)](#c-41-minox-minocolor-2-ref-fadd)
 - [[C-41] Nishika Color Print Film (ref: baeb)](#c-41-nishika-color-print-film-ref-baeb)
+- [[C-41] Optik Oldschool OptiColour 200 (ref: 099e)](#c-41-optik-oldschool-opticolour-200-ref-099e)
 - [[C-41] Optik Oldschool OptiColour 200 (ref: 80d7)](#c-41-optik-oldschool-opticolour-200-ref-80d7)
 - [[C-41] Optik Oldschool OptiColour 200 (ref: a7c9)](#c-41-optik-oldschool-opticolour-200-ref-a7c9)
 - [[C-41] Optik Oldschool SantaColor (ref: dd85)](#c-41-optik-oldschool-santacolor-ref-dd85)
@@ -4850,6 +4853,20 @@ UUID  : ac13f69474544179a4a2513e8641b3c9
 	<img src="./lowres/00217_000.jpg" alt="Fujifilm Fujicolor 100 35mm film box outside" loading="lazy" width="400" height="500">
 </a>
 
+#### [C-41] Fujifilm Fujicolor 100 (ref: ac71)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2027-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : @Hol.m35
+UUID  : c04d5697e35c49049322ce823f32ac71
+```
+
+<a href="./archive/00526_000.jpg" target="_blank">
+	<img src="./lowres/00526_000.jpg" alt="Fujifilm Fujicolor 100 35mm film box outside" loading="lazy" width="468" height="500">
+</a>
+
 #### [C-41] Fujifilm Fujicolor C200 (ref: 2ff8)
 
 ```
@@ -5542,6 +5559,27 @@ UUID  : 905002d5cdc24e36b190fb04a38cda37
 
 <a href="./archive/00315_001.jpg" target="_blank">
 	<img src="./lowres/00315_001.jpg" alt="Fujifilm Fujicolor Superia X-TRA 400 120 film box inside" loading="lazy" width="472" height="500">
+</a>
+
+#### [C-41] Fujifilm Hi-Speed 1600 Disposable Camera (ref: 8a6f)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 1600         |  Expiry  : 2018-06 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-03-02   |  Author  : @Hol.m35
+UUID  : b25d00004e6f46699b06a4cf360f8a6f
+```
+
+<a href="./archive/00525_000.jpg" target="_blank">
+	<img src="./lowres/00525_000.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera 35mm film box outside" loading="lazy" width="438" height="500">
+</a>
+
+
+`UUID: 67bd10dd07644db88eae7a01ab789970`↓
+
+<a href="./archive/00525_001.jpg" target="_blank">
+	<img src="./lowres/00525_001.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera 35mm film box outside" loading="lazy" width="188" height="500">
 </a>
 
 #### [C-41] Fujifilm Superia 200 (ref: fd36)
@@ -7590,6 +7628,20 @@ UUID  : c8f31c7a1adf423bbc4d35eae399baeb
 
 <a href="./archive/00406_000.jpg" target="_blank">
 	<img src="./lowres/00406_000.jpg" alt="Nishika Color Print Film 35mm film box outside" loading="lazy" width="500" height="499">
+</a>
+
+#### [C-41] Optik Oldschool OptiColour 200 (ref: 099e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2027-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : @Hol.m35
+UUID  : c72fdf2e60bf4d488f2ac0b2251d099e
+```
+
+<a href="./archive/00527_000.jpg" target="_blank">
+	<img src="./lowres/00527_000.jpg" alt="Optik Oldschool OptiColour 200 35mm film box outside" loading="lazy" width="500" height="482">
 </a>
 
 #### [C-41] Optik Oldschool OptiColour 200 (ref: 80d7)
@@ -10836,7 +10888,7 @@ Rank  Username                      Contributions
 3     Pelicram                      68    
 4     @recycling.film               65    
 5     @ellafridalindblom            63    
-6     @Hol.m35                      26    
+6     @Hol.m35                      30    
 7     The Compartmentalist          25    
 8     fine-seat                     19    
 9     Camera.Riley                  19    

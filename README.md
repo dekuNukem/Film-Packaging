@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Mar 02 2026
-Unique items: 520
-Total scans : 945
+Unique items: 523
+Total scans : 949
 ```
 
 Or Sort by...
@@ -58,7 +58,7 @@ Rank  Username                      Contributions
 3     Pelicram                      68    
 4     @recycling.film               65    
 5     @ellafridalindblom            63    
-6     @Hol.m35                      26    
+6     @Hol.m35                      30    
 7     The Compartmentalist          25    
 8     fine-seat                     19    
 9     Camera.Riley                  19    
@@ -99,7 +99,10 @@ Rank  Username                      Contributions
 
 ```
 2026-03-02
+  - @Hol.m35: Fujifilm Fujicolor 100
   - @Hol.m35: Fujifilm Fujicolor Pro 400H
+  - @Hol.m35: Fujifilm Hi-Speed 1600 Disposable Camera
+  - @Hol.m35: Optik Oldschool OptiColour 200
   - @recycling.film: Ferrania Solaris FG Plus
   - @recycling.film: Foma Fomapan classic 100
   - TheSelousScout: Kodak Kodacolor 200

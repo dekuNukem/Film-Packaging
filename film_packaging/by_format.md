@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Mar 02 2026
-Unique items: 520
-Total scans : 945
+Unique items: 523
+Total scans : 949
 ```
 
 -----
@@ -262,6 +262,7 @@ Total scans : 945
 - [[35mm] Fujifilm Fujichrome Velvia 100F (ref: 32d4)](#35mm-fujifilm-fujichrome-velvia-100f-ref-32d4)
 - [[35mm] Fujifilm Fujicolor 100 (ref: 013b)](#35mm-fujifilm-fujicolor-100-ref-013b)
 - [[35mm] Fujifilm Fujicolor 100 (ref: b3c9)](#35mm-fujifilm-fujicolor-100-ref-b3c9)
+- [[35mm] Fujifilm Fujicolor 100 (ref: ac71)](#35mm-fujifilm-fujicolor-100-ref-ac71)
 - [[35mm] Fujifilm Fujicolor C200 (ref: 2ff8)](#35mm-fujifilm-fujicolor-c200-ref-2ff8)
 - [[35mm] Fujifilm Fujicolor C200 (ref: a0de)](#35mm-fujifilm-fujicolor-c200-ref-a0de)
 - [[35mm] Fujifilm Fujicolor HR 1600 (ref: 1d39)](#35mm-fujifilm-fujicolor-hr-1600-ref-1d39)
@@ -290,6 +291,7 @@ Total scans : 945
 - [[35mm] Fujifilm Fujicolor Superia X-TRA (ref: 0446)](#35mm-fujifilm-fujicolor-superia-x-tra-ref-0446)
 - [[35mm] Fujifilm Fujicolor Superia X-TRA (ref: 8923)](#35mm-fujifilm-fujicolor-superia-x-tra-ref-8923)
 - [[35mm] Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)](#35mm-fujifilm-fujicolor-superia-x-tra-ref-6b8a)
+- [[35mm] Fujifilm Hi-Speed 1600 Disposable Camera (ref: 8a6f)](#35mm-fujifilm-hi-speed-1600-disposable-camera-ref-8a6f)
 - [[35mm] Fujifilm Neopan 400 (ref: c088)](#35mm-fujifilm-neopan-400-ref-c088)
 - [[35mm] Fujifilm Neopan Acros 100 II (ref: 9ea9)](#35mm-fujifilm-neopan-acros-100-ii-ref-9ea9)
 - [[35mm] Fujifilm Neopan SS Rapid (ref: 9db3)](#35mm-fujifilm-neopan-ss-rapid-ref-9db3)
@@ -444,6 +446,7 @@ Total scans : 945
 - [[35mm] ORWO Chrom UT21 (ref: 3fd5)](#35mm-orwo-chrom-ut21-ref-3fd5)
 - [[35mm] ORWO NP 20 SL (ref: b16c)](#35mm-orwo-np-20-sl-ref-b16c)
 - [[35mm] ORWO NP22 (ref: 5437)](#35mm-orwo-np22-ref-5437)
+- [[35mm] Optik Oldschool OptiColour 200 (ref: 099e)](#35mm-optik-oldschool-opticolour-200-ref-099e)
 - [[35mm] Optik Oldschool OptiColour 200 (ref: a7c9)](#35mm-optik-oldschool-opticolour-200-ref-a7c9)
 - [[35mm] Optik Oldschool SantaColor (ref: dd85)](#35mm-optik-oldschool-santacolor-ref-dd85)
 - [[35mm] Perutz Peromnia 21 (ref: fa4a)](#35mm-perutz-peromnia-21-ref-fa4a)
@@ -5432,6 +5435,20 @@ UUID  : ac13f69474544179a4a2513e8641b3c9
 	<img src="./lowres/00217_000.jpg" alt="Fujifilm Fujicolor 100 35mm film box outside" loading="lazy" width="400" height="500">
 </a>
 
+#### [35mm] Fujifilm Fujicolor 100 (ref: ac71)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2027-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : @Hol.m35
+UUID  : c04d5697e35c49049322ce823f32ac71
+```
+
+<a href="./archive/00526_000.jpg" target="_blank">
+	<img src="./lowres/00526_000.jpg" alt="Fujifilm Fujicolor 100 35mm film box outside" loading="lazy" width="468" height="500">
+</a>
+
 #### [35mm] Fujifilm Fujicolor C200 (ref: 2ff8)
 
 ```
@@ -5921,6 +5938,27 @@ UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
 
 <a href="./archive/00165_000.jpg" target="_blank">
 	<img src="./lowres/00165_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box outside" loading="lazy" width="460" height="499">
+</a>
+
+#### [35mm] Fujifilm Hi-Speed 1600 Disposable Camera (ref: 8a6f)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 1600         |  Expiry  : 2018-06 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-03-02   |  Author  : @Hol.m35
+UUID  : b25d00004e6f46699b06a4cf360f8a6f
+```
+
+<a href="./archive/00525_000.jpg" target="_blank">
+	<img src="./lowres/00525_000.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera 35mm film box outside" loading="lazy" width="438" height="500">
+</a>
+
+
+`UUID: 67bd10dd07644db88eae7a01ab789970`↓
+
+<a href="./archive/00525_001.jpg" target="_blank">
+	<img src="./lowres/00525_001.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera 35mm film box outside" loading="lazy" width="188" height="500">
 </a>
 
 #### [35mm] Fujifilm Neopan 400 (ref: c088)
@@ -8776,6 +8814,20 @@ UUID  : cfbdda5effec496ca0d9d91d29d65437
 	<img src="./lowres/00504_002.jpg" alt="ORWO NP22 35mm film box inside" loading="lazy" width="302" height="500">
 </a>
 
+#### [35mm] Optik Oldschool OptiColour 200 (ref: 099e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2027-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : @Hol.m35
+UUID  : c72fdf2e60bf4d488f2ac0b2251d099e
+```
+
+<a href="./archive/00527_000.jpg" target="_blank">
+	<img src="./lowres/00527_000.jpg" alt="Optik Oldschool OptiColour 200 35mm film box outside" loading="lazy" width="500" height="482">
+</a>
+
 #### [35mm] Optik Oldschool OptiColour 200 (ref: a7c9)
 
 ```
@@ -10836,7 +10888,7 @@ Rank  Username                      Contributions
 3     Pelicram                      68    
 4     @recycling.film               65    
 5     @ellafridalindblom            63    
-6     @Hol.m35                      26    
+6     @Hol.m35                      30    
 7     The Compartmentalist          25    
 8     fine-seat                     19    
 9     Camera.Riley                  19    

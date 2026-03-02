@@ -16,12 +16,15 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Mar 02 2026
-Unique items: 520
-Total scans : 945
+Unique items: 523
+Total scans : 949
 ```
 
 -----
 
+- [[2026-03-02] Optik Oldschool OptiColour 200 (ref: 099e)](#2026-03-02-optik-oldschool-opticolour-200-ref-099e)
+- [[2026-03-02] Fujifilm Fujicolor 100 (ref: ac71)](#2026-03-02-fujifilm-fujicolor-100-ref-ac71)
+- [[2026-03-02] Fujifilm Hi-Speed 1600 Disposable Camera (ref: 8a6f)](#2026-03-02-fujifilm-hi-speed-1600-disposable-camera-ref-8a6f)
 - [[2026-03-02] Fujifilm Neopan Acros 100 II (ref: 9ea9)](#2026-03-02-fujifilm-neopan-acros-100-ii-ref-9ea9)
 - [[2026-03-02] Ilford FP4 Plus (ref: a431)](#2026-03-02-ilford-fp4-plus-ref-a431)
 - [[2026-03-02] Ilford Ilfocolor 400 Plus (ref: 3930)](#2026-03-02-ilford-ilfocolor-400-plus-ref-3930)
@@ -545,6 +548,55 @@ Total scans : 945
 
 
 -----
+
+#### [2026-03-02] Optik Oldschool OptiColour 200 (ref: 099e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2027-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : @Hol.m35
+UUID  : c72fdf2e60bf4d488f2ac0b2251d099e
+```
+
+<a href="./archive/00527_000.jpg" target="_blank">
+	<img src="./lowres/00527_000.jpg" alt="Optik Oldschool OptiColour 200 35mm film box outside" loading="lazy" width="500" height="482">
+</a>
+
+#### [2026-03-02] Fujifilm Fujicolor 100 (ref: ac71)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2027-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : @Hol.m35
+UUID  : c04d5697e35c49049322ce823f32ac71
+```
+
+<a href="./archive/00526_000.jpg" target="_blank">
+	<img src="./lowres/00526_000.jpg" alt="Fujifilm Fujicolor 100 35mm film box outside" loading="lazy" width="468" height="500">
+</a>
+
+
+`UUID: 67bd10dd07644db88eae7a01ab789970`↓
+
+<a href="./archive/00525_001.jpg" target="_blank">
+	<img src="./lowres/00525_001.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera 35mm film box outside" loading="lazy" width="188" height="500">
+</a>
+
+#### [2026-03-02] Fujifilm Hi-Speed 1600 Disposable Camera (ref: 8a6f)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 1600         |  Expiry  : 2018-06 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-03-02   |  Author  : @Hol.m35
+UUID  : b25d00004e6f46699b06a4cf360f8a6f
+```
+
+<a href="./archive/00525_000.jpg" target="_blank">
+	<img src="./lowres/00525_000.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera 35mm film box outside" loading="lazy" width="438" height="500">
+</a>
 
 #### [2026-03-02] Fujifilm Neopan Acros 100 II (ref: 9ea9)
 
@@ -10836,7 +10888,7 @@ Rank  Username                      Contributions
 3     Pelicram                      68    
 4     @recycling.film               65    
 5     @ellafridalindblom            63    
-6     @Hol.m35                      26    
+6     @Hol.m35                      30    
 7     The Compartmentalist          25    
 8     fine-seat                     19    
 9     Camera.Riley                  19    

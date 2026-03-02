@@ -944,3 +944,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 523,0,film_box_outside,Ilford,FP4 Plus,35mm,125,BW,202901,1772455430,c887456b7c0cd38789c3e1481890d2bb,97b840e334f14e48ba5baf99f38ea431,00523_000.jpg,u/ReeeSchmidtyWerber,,Single Pack,36exp
 523,1,film_box_inside,Ilford,FP4 Plus,35mm,125,BW,202901,1772455432,0f0577911aa16396a303c640901b8db5,7b38d2f4be7149fd8dc2134415488968,00523_001.jpg,u/ReeeSchmidtyWerber,,Single Pack,36exp
 524,0,film_box_outside,Fujifilm,Neopan Acros 100 II,35mm,100,BW,202512,1772455520,56e1b281fe7151ec82bc17128b0afe08,1f1865a95b8847d69dcd18cf52bc9ea9,00524_000.jpg,u/ReeeSchmidtyWerber,,Single Pack,36exp
+525,0,film_box_outside,Fujifilm,Hi-Speed 1600 Disposable Camera,35mm,1600,C-41,201806,1772458238,f34565a4b8b17ea9b45ae61252a1ca2a,b25d00004e6f46699b06a4cf360f8a6f,00525_000.jpg,@Hol.m35,,Single Pack,27exp
+525,1,film_box_outside,Fujifilm,Hi-Speed 1600 Disposable Camera,35mm,1600,C-41,201806,1772458240,1d5b689e293e9f75406b6c85c9872d16,67bd10dd07644db88eae7a01ab789970,00525_001.jpg,@Hol.m35,,Single Pack,27exp
+526,0,film_box_outside,Fujifilm,Fujicolor 100,35mm,100,C-41,202708,1772458289,fb58b0e3070986fceb8ad00dc9038880,c04d5697e35c49049322ce823f32ac71,00526_000.jpg,@Hol.m35,,Single Pack,36exp
+527,0,film_box_outside,Optik Oldschool,OptiColour 200,35mm,200,C-41,202711,1772458341,2fff25ee03286f25db4dcc1217da9684,c72fdf2e60bf4d488f2ac0b2251d099e,00527_000.jpg,@Hol.m35,,Single Pack,36exp

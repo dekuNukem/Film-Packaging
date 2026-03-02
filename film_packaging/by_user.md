@@ -16,16 +16,18 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Mar 02 2026
-Unique items: 520
-Total scans : 945
+Unique items: 523
+Total scans : 949
 ```
 
 -----
 
 - [[@Hol.m35] Agfa Vista Plus 200 (ref: f5f7)](#holm35-agfa-vista-plus-200-ref-f5f7)
 - [[@Hol.m35] Boots Colour Print Film (ref: a30f)](#holm35-boots-colour-print-film-ref-a30f)
+- [[@Hol.m35] Fujifilm Fujicolor 100 (ref: ac71)](#holm35-fujifilm-fujicolor-100-ref-ac71)
 - [[@Hol.m35] Fujifilm Fujicolor Pro 400H (ref: fb3a)](#holm35-fujifilm-fujicolor-pro-400h-ref-fb3a)
 - [[@Hol.m35] Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)](#holm35-fujifilm-fujicolor-superia-x-tra-ref-6b8a)
+- [[@Hol.m35] Fujifilm Hi-Speed 1600 Disposable Camera (ref: 8a6f)](#holm35-fujifilm-hi-speed-1600-disposable-camera-ref-8a6f)
 - [[@Hol.m35] Fujifilm Superia Premium 400 (ref: ef1f)](#holm35-fujifilm-superia-premium-400-ref-ef1f)
 - [[@Hol.m35] Hope Film Bubble (ref: 41f4)](#holm35-hope-film-bubble-ref-41f4)
 - [[@Hol.m35] JCH Streetpan (ref: 5c70)](#holm35-jch-streetpan-ref-5c70)
@@ -35,6 +37,7 @@ Total scans : 945
 - [[@Hol.m35] Lucky C200 (ref: e6f8)](#holm35-lucky-c200-ref-e6f8)
 - [[@Hol.m35] Lucky SHD400 (ref: 15b5)](#holm35-lucky-shd400-ref-15b5)
 - [[@Hol.m35] Max Spielmann Pro-Zoom MX 400 (ref: 38c5)](#holm35-max-spielmann-pro-zoom-mx-400-ref-38c5)
+- [[@Hol.m35] Optik Oldschool OptiColour 200 (ref: 099e)](#holm35-optik-oldschool-opticolour-200-ref-099e)
 - [[@Hol.m35] Optik Oldschool OptiColour 200 (ref: 80d7)](#holm35-optik-oldschool-opticolour-200-ref-80d7)
 - [[@Hol.m35] Optik Oldschool SantaColor (ref: dd85)](#holm35-optik-oldschool-santacolor-ref-dd85)
 - [[@Hol.m35] Rollei Retro 400S (ref: f2cf)](#holm35-rollei-retro-400s-ref-f2cf)
@@ -581,6 +584,20 @@ UUID  : bd601340027a4c9daa7e219b414fa30f
 	<img src="./lowres/00166_000.jpg" alt="Boots Colour Print Film 35mm film box outside" loading="lazy" width="443" height="500">
 </a>
 
+#### [@Hol.m35] Fujifilm Fujicolor 100 (ref: ac71)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2027-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : @Hol.m35
+UUID  : c04d5697e35c49049322ce823f32ac71
+```
+
+<a href="./archive/00526_000.jpg" target="_blank">
+	<img src="./lowres/00526_000.jpg" alt="Fujifilm Fujicolor 100 35mm film box outside" loading="lazy" width="468" height="500">
+</a>
+
 #### [@Hol.m35] Fujifilm Fujicolor Pro 400H (ref: fb3a)
 
 ```
@@ -607,6 +624,27 @@ UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
 
 <a href="./archive/00165_000.jpg" target="_blank">
 	<img src="./lowres/00165_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box outside" loading="lazy" width="460" height="499">
+</a>
+
+#### [@Hol.m35] Fujifilm Hi-Speed 1600 Disposable Camera (ref: 8a6f)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 1600         |  Expiry  : 2018-06 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-03-02   |  Author  : @Hol.m35
+UUID  : b25d00004e6f46699b06a4cf360f8a6f
+```
+
+<a href="./archive/00525_000.jpg" target="_blank">
+	<img src="./lowres/00525_000.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera 35mm film box outside" loading="lazy" width="438" height="500">
+</a>
+
+
+`UUID: 67bd10dd07644db88eae7a01ab789970`↓
+
+<a href="./archive/00525_001.jpg" target="_blank">
+	<img src="./lowres/00525_001.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera 35mm film box outside" loading="lazy" width="188" height="500">
 </a>
 
 #### [@Hol.m35] Fujifilm Superia Premium 400 (ref: ef1f)
@@ -783,6 +821,20 @@ UUID  : 881f46ac2824430cb12f79087a3338c5
 
 <a href="./archive/00503_001.jpg" target="_blank">
 	<img src="./lowres/00503_001.jpg" alt="Max Spielmann Pro-Zoom MX 400 35mm film box inside" loading="lazy" width="421" height="500">
+</a>
+
+#### [@Hol.m35] Optik Oldschool OptiColour 200 (ref: 099e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2027-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : @Hol.m35
+UUID  : c72fdf2e60bf4d488f2ac0b2251d099e
+```
+
+<a href="./archive/00527_000.jpg" target="_blank">
+	<img src="./lowres/00527_000.jpg" alt="Optik Oldschool OptiColour 200 35mm film box outside" loading="lazy" width="500" height="482">
 </a>
 
 #### [@Hol.m35] Optik Oldschool OptiColour 200 (ref: 80d7)
@@ -10836,7 +10888,7 @@ Rank  Username                      Contributions
 3     Pelicram                      68    
 4     @recycling.film               65    
 5     @ellafridalindblom            63    
-6     @Hol.m35                      26    
+6     @Hol.m35                      30    
 7     The Compartmentalist          25    
 8     fine-seat                     19    
 9     Camera.Riley                  19    

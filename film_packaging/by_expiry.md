@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Mar 02 2026
-Unique items: 520
-Total scans : 945
+Unique items: 523
+Total scans : 949
 ```
 
 -----
@@ -315,6 +315,7 @@ Total scans : 945
 - [[2015] Lomography Lobster Redscale Negative (ref: 4dcd)](#2015-lomography-lobster-redscale-negative-ref-4dcd)
 - [[2016] Fujifilm Fujicolor Natura 1600 (ref: 52aa)](#2016-fujifilm-fujicolor-natura-1600-ref-52aa)
 - [[2018] CineStill 800T (ref: c86a)](#2018-cinestill-800t-ref-c86a)
+- [[2018] Fujifilm Hi-Speed 1600 Disposable Camera (ref: 8a6f)](#2018-fujifilm-hi-speed-1600-disposable-camera-ref-8a6f)
 - [[2018] Agfa Vista Plus 200 (ref: f5f7)](#2018-agfa-vista-plus-200-ref-f5f7)
 - [[2018] Fukkatsu Color Print Film (ref: 3213)](#2018-fukkatsu-color-print-film-ref-3213)
 - [[2018] Fujifilm Fujicolor Pro 400H (ref: 66e3)](#2018-fujifilm-fujicolor-pro-400h-ref-66e3)
@@ -463,6 +464,7 @@ Total scans : 945
 - [[2027] Foma Fomapan Classic 100 (ref: 0030)](#2027-foma-fomapan-classic-100-ref-0030)
 - [[2027] Lomography Orca (ref: d506)](#2027-lomography-orca-ref-d506)
 - [[2027] Rollei RPX 25 (ref: b14c)](#2027-rollei-rpx-25-ref-b14c)
+- [[2027] Fujifilm Fujicolor 100 (ref: ac71)](#2027-fujifilm-fujicolor-100-ref-ac71)
 - [[2027] Rollei Infrared (ref: 4f54)](#2027-rollei-infrared-ref-4f54)
 - [[2027] Ilford XP2 Super (ref: 622a)](#2027-ilford-xp2-super-ref-622a)
 - [[2027] Kodak Kodacolor 100 (ref: 73e0)](#2027-kodak-kodacolor-100-ref-73e0)
@@ -470,6 +472,7 @@ Total scans : 945
 - [[2027] Lucky C200 (ref: e6f8)](#2027-lucky-c200-ref-e6f8)
 - [[2027] ADOX CMS 20 II Pro (ref: 0bea)](#2027-adox-cms-20-ii-pro-ref-0bea)
 - [[2027] Lucky C200 (ref: 9c6c)](#2027-lucky-c200-ref-9c6c)
+- [[2027] Optik Oldschool OptiColour 200 (ref: 099e)](#2027-optik-oldschool-opticolour-200-ref-099e)
 - [[2027] Optik Oldschool SantaColor (ref: dd85)](#2027-optik-oldschool-santacolor-ref-dd85)
 - [[2027] Reflx Lab 250D (ref: 1a3e)](#2027-reflx-lab-250d-ref-1a3e)
 - [[2027] Reflx Lab Pro 100 (ref: 1311)](#2027-reflx-lab-pro-100-ref-1311)
@@ -6766,6 +6769,27 @@ UUID  : 53253eca96d841f5b98bfb3590fec86a
 	<img src="./lowres/00006_001.jpg" alt="CineStill 800T 120 film box inside" loading="lazy" width="500" height="335">
 </a>
 
+#### [2018] Fujifilm Hi-Speed 1600 Disposable Camera (ref: 8a6f)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 1600         |  Expiry  : 2018-06 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-03-02   |  Author  : @Hol.m35
+UUID  : b25d00004e6f46699b06a4cf360f8a6f
+```
+
+<a href="./archive/00525_000.jpg" target="_blank">
+	<img src="./lowres/00525_000.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera 35mm film box outside" loading="lazy" width="438" height="500">
+</a>
+
+
+`UUID: 67bd10dd07644db88eae7a01ab789970`↓
+
+<a href="./archive/00525_001.jpg" target="_blank">
+	<img src="./lowres/00525_001.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera 35mm film box outside" loading="lazy" width="188" height="500">
+</a>
+
 #### [2018] Agfa Vista Plus 200 (ref: f5f7)
 
 ```
@@ -9336,6 +9360,20 @@ UUID  : 38e7af3c3ff34abeb7ae0badd310b14c
 	<img src="./lowres/00400_001.jpg" alt="Rollei RPX 25 35mm film box inside" loading="lazy" width="500" height="394">
 </a>
 
+#### [2027] Fujifilm Fujicolor 100 (ref: ac71)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2027-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : @Hol.m35
+UUID  : c04d5697e35c49049322ce823f32ac71
+```
+
+<a href="./archive/00526_000.jpg" target="_blank">
+	<img src="./lowres/00526_000.jpg" alt="Fujifilm Fujicolor 100 35mm film box outside" loading="lazy" width="468" height="500">
+</a>
+
 #### [2027] Rollei Infrared (ref: 4f54)
 
 ```
@@ -9474,6 +9512,20 @@ UUID  : 4986ebbbced349e880b7dd92d9649c6c
 
 <a href="./archive/00479_001.jpg" target="_blank">
 	<img src="./lowres/00479_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="393" height="500">
+</a>
+
+#### [2027] Optik Oldschool OptiColour 200 (ref: 099e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2027-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : @Hol.m35
+UUID  : c72fdf2e60bf4d488f2ac0b2251d099e
+```
+
+<a href="./archive/00527_000.jpg" target="_blank">
+	<img src="./lowres/00527_000.jpg" alt="Optik Oldschool OptiColour 200 35mm film box outside" loading="lazy" width="500" height="482">
 </a>
 
 #### [2027] Optik Oldschool SantaColor (ref: dd85)
@@ -10836,7 +10888,7 @@ Rank  Username                      Contributions
 3     Pelicram                      68    
 4     @recycling.film               65    
 5     @ellafridalindblom            63    
-6     @Hol.m35                      26    
+6     @Hol.m35                      30    
 7     The Compartmentalist          25    
 8     fine-seat                     19    
 9     Camera.Riley                  19    
