@@ -930,3 +930,17 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 511,0,film_box_outside,Escura,EDO ukiyo-e,35mm,400,C-41,202806,1769432152,499ae840a75008717cde4e9089c3285f,758ee88b8edf42b492c8c240281d5faa,00511_000.jpg,@shotbyliampewpew,,Single Pack,24exp
 512,0,film_cartridge,Reflx Lab,320D AHU,35mm,320,C-41,Unknown,1769432406,ac973927fb52dbdc9f0902c4bdfe5a1a,f6ddd372aaa0413a961691159ba30bd5,00512_000.jpg,Chrisbes,,Single Pack,36exp
 513,0,film_cartridge,Reflx Lab,640T AHU,35mm,640,C-41,Unknown,1769432463,d24bb194c7fc90b19f0383ca71ad258b,e546f5291c23497b9643b51318452ce9,00513_000.jpg,Chrisbes,,Single Pack,36exp
+514,0,film_box_outside,Ferrania,Solaris FG Plus,35mm,800,C-41,Unknown,1772454113,343d8d580a2436ed99c41cbad8a68592,a8aa315de3e54a68ae03d37f80d278b7,00514_000.jpg,@recycling.film,,Single Pack,36exp
+515,0,film_box_outside,Foma,Fomapan classic 100,120,100,BW,202806,1772454185,a451857ad85e0b42f8651f0f3c84a2b4,e5c7523b6226483b9d4a1b24d7035e7b,00515_000.jpg,@recycling.film,,Single Pack,N/A
+515,1,film_box_inside,Foma,Fomapan classic 100,120,100,BW,202806,1772454187,32edad3125058b1a6de12735e7e1ce15,df516fa250bb494dbca14134a2143e6a,00515_001.jpg,@recycling.film,,Single Pack,N/A
+516,0,film_box_outside,Optik Oldschool,OptiColour 200,35mm,200,C-41,Unknown,1772454433,27f621ba0b2afd0231bccdd52e5a810b,187943e086e842469a7f19ddd0f8a7c9,00516_000.jpg,yc128,,Single Pack,36exp
+517,0,film_box_outside,Ilford,FP4 Plus,120,125,BW,202609,1772454481,43f8e9909e983f5a90c011cf6c71ecd0,4b9fda92ef0b400a909c77872715fe9b,00517_000.jpg,yc128,,Single Pack,N/A
+517,1,film_box_inside,Ilford,FP4 Plus,120,125,BW,202609,1772454490,0bd374f01826d6addafdbea593b3377f,29374a9675814feb86bed63775784334,00517_001.jpg,yc128,,Single Pack,N/A
+518,0,film_box_outside,Fujifilm,Fujicolor Pro 400H,120,400,C-41,201401,1772454656,0ab1a5f2b4f8f186194c43c2b07940f4,8acc893c8082453a8f83a17f3780fb3a,00518_000.jpg,@Hol.m35,,Multi-Pack-5,N/A
+519,0,film_box_outside,Kodak,Kodacolor 200,35mm,200,C-41,202802,1772454772,780d1070c33665d9ca382fa4671c5ec6,b33ca9b3d2e34544a264987426efba30,00519_000.jpg,TheSelousScout,,Single Pack,36exp
+520,0,film_box_outside,Kodak,Tri-X 400,35mm,400,BW,202609,1772455260,d199c611f390bccfc02f420f226ffd85,178660bdc2f841308698aacd5acacba7,00520_000.jpg,u/ReeeSchmidtyWerber,,Single Pack,36exp
+521,0,film_box_outside,Kodak,Tri-X 400,35mm,400,BW,201103,1772455331,53b75a36215797d4e99fe49445df8d2a,7bd1d8f74bd641ea8de78dcaaa7e7145,00521_000.jpg,u/ReeeSchmidtyWerber,,Single Pack,24exp
+522,0,film_box_outside,Ilford,Ilfocolor 400 Plus,35mm,400,C-41,202604,1772455380,786db3409012d9f2075fa4415af84bd5,9fb74244831e4f8386240b2804a13930,00522_000.jpg,u/ReeeSchmidtyWerber,Vintage Tone,Single Pack,36exp
+523,0,film_box_outside,Ilford,FP4 Plus,35mm,125,BW,202901,1772455430,c887456b7c0cd38789c3e1481890d2bb,97b840e334f14e48ba5baf99f38ea431,00523_000.jpg,u/ReeeSchmidtyWerber,,Single Pack,36exp
+523,1,film_box_inside,Ilford,FP4 Plus,35mm,125,BW,202901,1772455432,0f0577911aa16396a303c640901b8db5,7b38d2f4be7149fd8dc2134415488968,00523_001.jpg,u/ReeeSchmidtyWerber,,Single Pack,36exp
+524,0,film_box_outside,Fujifilm,Neopan Acros 100 II,35mm,100,BW,202512,1772455520,56e1b281fe7151ec82bc17128b0afe08,1f1865a95b8847d69dcd18cf52bc9ea9,00524_000.jpg,u/ReeeSchmidtyWerber,,Single Pack,36exp
