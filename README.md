@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jan 26 2026
-Unique items: 509
-Total scans : 931
+Last Updated: Mar 02 2026
+Unique items: 520
+Total scans : 945
 ```
 
 Or Sort by...
@@ -56,10 +56,10 @@ Rank  Username                      Contributions
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      68    
-4     @ellafridalindblom            63    
-5     @recycling.film               62    
-6     The Compartmentalist          25    
-7     @Hol.m35                      25    
+4     @recycling.film               65    
+5     @ellafridalindblom            63    
+6     @Hol.m35                      26    
+7     The Compartmentalist          25    
 8     fine-seat                     19    
 9     Camera.Riley                  19    
 10    Nano_Burger                   18    
@@ -67,23 +67,23 @@ Rank  Username                      Contributions
 12    @ob.skura                     16    
 13    kaimon                        16    
 14    waldoboro                     16    
-15    b0baspace                     14    
-16    @SirBrentsworth               13    
-17    benikum                       12    
-18    yc128                         11    
-19    Chrisbes                      11    
-20    @zruk_ts                      10    
-21    minidiscus                    10    
-22    lilyu.xyz                     9     
-23    lt_col_tall                   9     
-24    @toastergod101                7     
-25    @filmfotofella                7     
-26    GreatGizmo74                  6     
-27    nick                          6     
-28    Kraksen                       5     
-29    u/ReeeSchmidtyWerber          5     
+15    yc128                         14    
+16    b0baspace                     14    
+17    @SirBrentsworth               13    
+18    benikum                       12    
+19    u/ReeeSchmidtyWerber          11    
+20    Chrisbes                      11    
+21    @zruk_ts                      10    
+22    minidiscus                    10    
+23    lilyu.xyz                     9     
+24    lt_col_tall                   9     
+25    @toastergod101                7     
+26    @filmfotofella                7     
+27    GreatGizmo74                  6     
+28    nick                          6     
+29    Kraksen                       5     
 30    Henry Gunn                    4     
-31    TheSelousScout                3     
+31    TheSelousScout                4     
 32    @sachynmital                  3     
 33    @seklerek                     2     
 34    @ftfilmphotos                 2     
@@ -98,6 +98,18 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2026-03-02
+  - @Hol.m35: Fujifilm Fujicolor Pro 400H
+  - @recycling.film: Ferrania Solaris FG Plus
+  - @recycling.film: Foma Fomapan classic 100
+  - TheSelousScout: Kodak Kodacolor 200
+  - u/ReeeSchmidtyWerber: Fujifilm Neopan Acros 100 II
+  - u/ReeeSchmidtyWerber: Ilford FP4 Plus
+  - u/ReeeSchmidtyWerber: Ilford Ilfocolor 400 Plus
+  - u/ReeeSchmidtyWerber: Kodak Tri-X 400
+  - yc128: Ilford FP4 Plus
+  - yc128: Optik Oldschool OptiColour 200
+
 2026-01-26
   - @Hol.m35: Optik Oldschool SantaColor
   - @Hol.m35: Rollei Retro 400S
@@ -125,9 +137,6 @@ Rank  Username                      Contributions
   - @Hol.m35: Lomography Berlin
   - @Hol.m35: Lomography Color Negative 800
   - @recycling.film: Polaroid Type 42
-
-2025-12-01
-  - Pelicram: Candido Colour Negative Film
 ```
 
 ## Disclaimer
