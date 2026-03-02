@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Mar 02 2026
-Unique items: 530
-Total scans : 969
+Unique items: 532
+Total scans : 983
 ```
 
 -----
@@ -181,6 +181,7 @@ Total scans : 969
 - [[BW] ORWO NP 22 (ref: 6b7f)](#bw-orwo-np-22-ref-6b7f)
 - [[BW] ORWO NP15 (ref: 9a20)](#bw-orwo-np15-ref-9a20)
 - [[BW] ORWO NP22 (ref: 5437)](#bw-orwo-np22-ref-5437)
+- [[BW] ORWO UK18 (ref: c92d)](#bw-orwo-uk18-ref-c92d)
 - [[BW] Perfect Photo Inc. Perfect-Pan Film (ref: c214)](#bw-perfect-photo-inc-perfect-pan-film-ref-c214)
 - [[BW] Perutz Peromnia 21 (ref: fa4a)](#bw-perutz-peromnia-21-ref-fa4a)
 - [[BW] Perutz Peromnia 21 (ref: bf2a)](#bw-perutz-peromnia-21-ref-bf2a)
@@ -353,6 +354,7 @@ Total scans : 969
 - [[C-41] Kodak Kodacolor Gold 400 (ref: 473d)](#c-41-kodak-kodacolor-gold-400-ref-473d)
 - [[C-41] Kodak Kodacolor II (ref: b19e)](#c-41-kodak-kodacolor-ii-ref-b19e)
 - [[C-41] Kodak Kodacolor II (ref: 7310)](#c-41-kodak-kodacolor-ii-ref-7310)
+- [[C-41] Kodak Kodacolor II (ref: 8dcf)](#c-41-kodak-kodacolor-ii-ref-8dcf)
 - [[C-41] Kodak Kodacolor VR (ref: 035f)](#c-41-kodak-kodacolor-vr-ref-035f)
 - [[C-41] Kodak Kodacolor VR Plus (ref: f8bf)](#c-41-kodak-kodacolor-vr-plus-ref-f8bf)
 - [[C-41] Kodak MAX (ref: 2361)](#c-41-kodak-max-ref-2361)
@@ -3599,6 +3601,62 @@ UUID  : cfbdda5effec496ca0d9d91d29d65437
 	<img src="./lowres/00504_002.jpg" alt="ORWO NP22 35mm film box inside" loading="lazy" width="302" height="500">
 </a>
 
+#### [BW] ORWO UK18 (ref: c92d)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 50           |  Expiry  : 1976-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : Luci 101
+UUID  : d3755977cc6f49dab6e0fc8197b3c92d
+```
+
+<a href="./archive/00535_000.jpg" target="_blank">
+	<img src="./lowres/00535_000.jpg" alt="ORWO UK18 35mm film box outside" loading="lazy" width="500" height="488">
+</a>
+
+
+`UUID: 05670fe7dc444ef4afd5a9856620a6be`↓
+
+<a href="./archive/00535_001.jpg" target="_blank">
+	<img src="./lowres/00535_001.jpg" alt="ORWO UK18 35mm film box outside" loading="lazy" width="500" height="500">
+</a>
+
+
+`UUID: 0024791369a7416f81f5322942fb529f`↓
+
+<a href="./archive/00535_002.jpg" target="_blank">
+	<img src="./lowres/00535_002.jpg" alt="ORWO UK18 35mm film box outside" loading="lazy" width="500" height="319">
+</a>
+
+
+`UUID: 86f98dc2121d47caae546d61901425b9`↓
+
+<a href="./archive/00535_003.jpg" target="_blank">
+	<img src="./lowres/00535_003.jpg" alt="ORWO UK18 35mm film box outside" loading="lazy" width="500" height="308">
+</a>
+
+
+`UUID: 8c444d2a5b724d679e2cc5c6bf3c33ff`↓
+
+<a href="./archive/00535_004.jpg" target="_blank">
+	<img src="./lowres/00535_004.jpg" alt="ORWO UK18 35mm film box outside" loading="lazy" width="500" height="325">
+</a>
+
+
+`UUID: bf6040a757214fd5a3acc9ecefe96811`↓
+
+<a href="./archive/00535_005.jpg" target="_blank">
+	<img src="./lowres/00535_005.jpg" alt="ORWO UK18 35mm film box leaflet" loading="lazy" width="209" height="500">
+</a>
+
+
+`UUID: e466cea5b2be4f3a80367091c829202e`↓
+
+<a href="./archive/00535_006.jpg" target="_blank">
+	<img src="./lowres/00535_006.jpg" alt="ORWO UK18 35mm film box leaflet" loading="lazy" width="213" height="499">
+</a>
+
 #### [BW] Perfect Photo Inc. Perfect-Pan Film (ref: c214)
 
 ```
@@ -6724,6 +6782,62 @@ UUID  : 08c1609b39a64daf8be1373ea99c7310
 
 <a href="./archive/00263_000.jpg" target="_blank">
 	<img src="./lowres/00263_000.jpg" alt="Kodak Kodacolor II 126 film box outside" loading="lazy" width="440" height="499">
+</a>
+
+#### [C-41] Kodak Kodacolor II (ref: 8dcf)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1984-04 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-03-02   |  Author  : Luci 101
+UUID  : ab800ae503c34a0aa02671d6450e8dcf
+```
+
+<a href="./archive/00536_000.jpg" target="_blank">
+	<img src="./lowres/00536_000.jpg" alt="Kodak Kodacolor II 35mm film box outside" loading="lazy" width="500" height="341">
+</a>
+
+
+`UUID: 3c11f8ae82214741a97acba512ffa0f2`↓
+
+<a href="./archive/00536_001.jpg" target="_blank">
+	<img src="./lowres/00536_001.jpg" alt="Kodak Kodacolor II 35mm film box outside" loading="lazy" width="500" height="346">
+</a>
+
+
+`UUID: 24569d9227db4530b89471f293852831`↓
+
+<a href="./archive/00536_002.jpg" target="_blank">
+	<img src="./lowres/00536_002.jpg" alt="Kodak Kodacolor II 35mm film box outside" loading="lazy" width="495" height="499">
+</a>
+
+
+`UUID: 8d2b565ef2c74110906f66356f164e90`↓
+
+<a href="./archive/00536_003.jpg" target="_blank">
+	<img src="./lowres/00536_003.jpg" alt="Kodak Kodacolor II 35mm film box outside" loading="lazy" width="500" height="341">
+</a>
+
+
+`UUID: f01dcebad7414ecbafe609411370df1e`↓
+
+<a href="./archive/00536_004.jpg" target="_blank">
+	<img src="./lowres/00536_004.jpg" alt="Kodak Kodacolor II 35mm film box outside" loading="lazy" width="500" height="341">
+</a>
+
+
+`UUID: 3a535cfbe2cf4290897513af040df7aa`↓
+
+<a href="./archive/00536_005.jpg" target="_blank">
+	<img src="./lowres/00536_005.jpg" alt="Kodak Kodacolor II 35mm film box leaflet" loading="lazy" width="218" height="500">
+</a>
+
+
+`UUID: 566378dad0954215a8976cc6cf6cf173`↓
+
+<a href="./archive/00536_006.jpg" target="_blank">
+	<img src="./lowres/00536_006.jpg" alt="Kodak Kodacolor II 35mm film box leaflet" loading="lazy" width="238" height="500">
 </a>
 
 #### [C-41] Kodak Kodacolor VR (ref: 035f)
@@ -11084,12 +11198,12 @@ Rank  Username                      Contributions
 3     Pelicram                      68    
 4     @recycling.film               65    
 5     @ellafridalindblom            63    
-6     @Hol.m35                      30    
-7     The Compartmentalist          25    
-8     fine-seat                     19    
-9     Camera.Riley                  19    
-10    Nano_Burger                   18    
-11    Luci 101                      18    
+6     Luci 101                      32    
+7     @Hol.m35                      30    
+8     The Compartmentalist          25    
+9     fine-seat                     19    
+10    Camera.Riley                  19    
+11    Nano_Burger                   18    
 12    toader                        17    
 13    @ob.skura                     16    
 14    kaimon                        16    

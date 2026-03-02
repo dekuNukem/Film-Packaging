@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Mar 02 2026
-Unique items: 530
-Total scans : 969
+Unique items: 532
+Total scans : 983
 ```
 
 Or Sort by...
@@ -58,12 +58,12 @@ Rank  Username                      Contributions
 3     Pelicram                      68    
 4     @recycling.film               65    
 5     @ellafridalindblom            63    
-6     @Hol.m35                      30    
-7     The Compartmentalist          25    
-8     fine-seat                     19    
-9     Camera.Riley                  19    
-10    Nano_Burger                   18    
-11    Luci 101                      18    
+6     Luci 101                      32    
+7     @Hol.m35                      30    
+8     The Compartmentalist          25    
+9     fine-seat                     19    
+10    Camera.Riley                  19    
+11    Nano_Burger                   18    
 12    toader                        17    
 13    @ob.skura                     16    
 14    kaimon                        16    
@@ -109,10 +109,12 @@ Rank  Username                      Contributions
   - @recycling.film: Foma Fomapan classic 100
   - Luci 101: Foton Fotopan
   - Luci 101: Foton Mikrofilm Negatywowy Super Orto
+  - Luci 101: Kodak Kodacolor II
   - Luci 101: ORWO DK5
   - Luci 101: ORWO NC 19
   - Luci 101: ORWO NP 22
   - Luci 101: ORWO OrwoChrome RC100
+  - Luci 101: ORWO UK18
   - TheSelousScout: Kodak Kodacolor 200
   - Tobias: efke KB-25
   - u/ReeeSchmidtyWerber: Fujifilm Neopan Acros 100 II
