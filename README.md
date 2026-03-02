@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Mar 02 2026
-Unique items: 523
-Total scans : 949
+Unique items: 530
+Total scans : 969
 ```
 
 Or Sort by...
@@ -63,36 +63,38 @@ Rank  Username                      Contributions
 8     fine-seat                     19    
 9     Camera.Riley                  19    
 10    Nano_Burger                   18    
-11    toader                        17    
-12    @ob.skura                     16    
-13    kaimon                        16    
-14    waldoboro                     16    
-15    yc128                         14    
-16    b0baspace                     14    
-17    @SirBrentsworth               13    
-18    benikum                       12    
-19    u/ReeeSchmidtyWerber          11    
-20    Chrisbes                      11    
-21    @zruk_ts                      10    
-22    minidiscus                    10    
-23    lilyu.xyz                     9     
-24    lt_col_tall                   9     
-25    @toastergod101                7     
-26    @filmfotofella                7     
-27    GreatGizmo74                  6     
-28    nick                          6     
-29    Kraksen                       5     
-30    Henry Gunn                    4     
-31    TheSelousScout                4     
-32    @sachynmital                  3     
-33    @seklerek                     2     
-34    @ftfilmphotos                 2     
-35    @gregrouxphotography          2     
-36    Yrikonchik                    1     
-37    @ad.astra.per.aspera.1894     1     
-38    Aoi Yuki                      1     
-39    lemoniter                     1     
-40    @shotbyliampewpew             1     
+11    Luci 101                      18    
+12    toader                        17    
+13    @ob.skura                     16    
+14    kaimon                        16    
+15    waldoboro                     16    
+16    yc128                         14    
+17    b0baspace                     14    
+18    @SirBrentsworth               13    
+19    benikum                       12    
+20    u/ReeeSchmidtyWerber          11    
+21    Chrisbes                      11    
+22    @zruk_ts                      10    
+23    minidiscus                    10    
+24    lilyu.xyz                     9     
+25    lt_col_tall                   9     
+26    @toastergod101                7     
+27    @filmfotofella                7     
+28    GreatGizmo74                  6     
+29    nick                          6     
+30    Kraksen                       5     
+31    Henry Gunn                    4     
+32    TheSelousScout                4     
+33    @sachynmital                  3     
+34    @seklerek                     2     
+35    @ftfilmphotos                 2     
+36    @gregrouxphotography          2     
+37    Tobias                        2     
+38    Yrikonchik                    1     
+39    @ad.astra.per.aspera.1894     1     
+40    Aoi Yuki                      1     
+41    lemoniter                     1     
+42    @shotbyliampewpew             1     
 ```
 
 ## Recent Activities
@@ -105,7 +107,14 @@ Rank  Username                      Contributions
   - @Hol.m35: Optik Oldschool OptiColour 200
   - @recycling.film: Ferrania Solaris FG Plus
   - @recycling.film: Foma Fomapan classic 100
+  - Luci 101: Foton Fotopan
+  - Luci 101: Foton Mikrofilm Negatywowy Super Orto
+  - Luci 101: ORWO DK5
+  - Luci 101: ORWO NC 19
+  - Luci 101: ORWO NP 22
+  - Luci 101: ORWO OrwoChrome RC100
   - TheSelousScout: Kodak Kodacolor 200
+  - Tobias: efke KB-25
   - u/ReeeSchmidtyWerber: Fujifilm Neopan Acros 100 II
   - u/ReeeSchmidtyWerber: Ilford FP4 Plus
   - u/ReeeSchmidtyWerber: Ilford Ilfocolor 400 Plus

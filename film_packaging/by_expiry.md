@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Mar 02 2026
-Unique items: 523
-Total scans : 949
+Unique items: 530
+Total scans : 969
 ```
 
 -----
@@ -102,7 +102,9 @@ Total scans : 949
 - [[1978] Sakura Sakuracolor II (ref: 4f7d)](#1978-sakura-sakuracolor-ii-ref-4f7d)
 - [[1978] Kodak Kodacolor II (ref: 4108)](#1978-kodak-kodacolor-ii-ref-4108)
 - [[1978] Kodak Ektachrome 200 (ref: f372)](#1978-kodak-ektachrome-200-ref-f372)
+- [[1978] ORWO NC 19 (ref: dca5)](#1978-orwo-nc-19-ref-dca5)
 - [[1979] GAF Color Slide Film (ref: 6815)](#1979-gaf-color-slide-film-ref-6815)
+- [[1979] Foton Fotopan (ref: 6ba7)](#1979-foton-fotopan-ref-6ba7)
 - [[1979] Kodak Kodacolor II (ref: b19e)](#1979-kodak-kodacolor-ii-ref-b19e)
 - [[1979] Kodak Ektachrome 64 (ref: 07c0)](#1979-kodak-ektachrome-64-ref-07c0)
 - [[1979] Kodak Kodachrome 64 (ref: 3145)](#1979-kodak-kodachrome-64-ref-3145)
@@ -116,9 +118,11 @@ Total scans : 949
 - [[1981] Minox Minocolor 2 (ref: fadd)](#1981-minox-minocolor-2-ref-fadd)
 - [[1981] Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping (ref: c143)](#1981-kodak-kodachrome-40-movie-film-type-a-for-post-process-sound-striping-ref-c143)
 - [[1982] Herzog Duxopan (ref: a9ad)](#1982-herzog-duxopan-ref-a9ad)
+- [[1983] ORWO DK5 (ref: e815)](#1983-orwo-dk5-ref-e815)
 - [[1983] Ilford FP4 (ref: b2f0)](#1983-ilford-fp4-ref-b2f0)
 - [[1983] Kodak Kodachrome 25 (ref: 8833)](#1983-kodak-kodachrome-25-ref-8833)
 - [[1983] Kodak Kodacolor II (ref: 7310)](#1983-kodak-kodacolor-ii-ref-7310)
+- [[1984] Foton Mikrofilm Negatywowy Super Orto (ref: 003e)](#1984-foton-mikrofilm-negatywowy-super-orto-ref-003e)
 - [[1985] Konica Konica Color II (ref: fb5b)](#1985-konica-konica-color-ii-ref-fb5b)
 - [[1986] Fujifilm Fujicolor HR100 (ref: 23c5)](#1986-fujifilm-fujicolor-hr100-ref-23c5)
 - [[1986] Fujifilm Fujicolor HR100 (ref: 2335)](#1986-fujifilm-fujicolor-hr100-ref-2335)
@@ -137,6 +141,7 @@ Total scans : 949
 - [[1990] Fujifilm Fujicolor Super HG (ref: 1b30)](#1990-fujifilm-fujicolor-super-hg-ref-1b30)
 - [[1990] Fujifilm Fujicolor Super HR (ref: aaa0)](#1990-fujifilm-fujicolor-super-hr-ref-aaa0)
 - [[1990] Kodak High Speed Infrared (ref: 4294)](#1990-kodak-high-speed-infrared-ref-4294)
+- [[1990] ORWO NP 22 (ref: 6b7f)](#1990-orwo-np-22-ref-6b7f)
 - [[1990] Kodak Kodacolor Gold 400 (ref: 473d)](#1990-kodak-kodacolor-gold-400-ref-473d)
 - [[1990] Kodak Ektachrome 400 (ref: 3c96)](#1990-kodak-ektachrome-400-ref-3c96)
 - [[1991] Foma Fomapan F17 (ref: a10e)](#1991-foma-fomapan-f17-ref-a10e)
@@ -173,6 +178,7 @@ Total scans : 949
 - [[1994] Kodak Ektachrome 100HC (ref: 3ab9)](#1994-kodak-ektachrome-100hc-ref-3ab9)
 - [[1994] Kodak Ektachrome 100HC (ref: 775a)](#1994-kodak-ektachrome-100hc-ref-775a)
 - [[1995] Kodak Technical Pan (ref: f4cf)](#1995-kodak-technical-pan-ref-f4cf)
+- [[1995] ORWO OrwoChrome RC100 (ref: a9b6)](#1995-orwo-orwochrome-rc100-ref-a9b6)
 - [[1995] Kodak Ektachrome Elite 100 (ref: 26ef)](#1995-kodak-ektachrome-elite-100-ref-26ef)
 - [[1996] efke R100 (ref: 10ad)](#1996-efke-r100-ref-10ad)
 - [[1996] Kodak Gold (ref: 1962)](#1996-kodak-gold-ref-1962)
@@ -284,6 +290,7 @@ Total scans : 949
 - [[2008] Kodak High Speed Infrared (ref: 883e)](#2008-kodak-high-speed-infrared-ref-883e)
 - [[2008] Polaroid 990 (ref: e3bc)](#2008-polaroid-990-ref-e3bc)
 - [[2009] Fujifilm Fujicolor Pro 400H (ref: dc37)](#2009-fujifilm-fujicolor-pro-400h-ref-dc37)
+- [[2009] efke KB-25 (ref: 4d17)](#2009-efke-kb-25-ref-4d17)
 - [[2009] Kodak Portra 400VC (ref: 7669)](#2009-kodak-portra-400vc-ref-7669)
 - [[2009] Fujifilm Fujicolor Superia (ref: 0d8e)](#2009-fujifilm-fujicolor-superia-ref-0d8e)
 - [[2009] Lloyds Pharmacy Colour Film (ref: 77d9)](#2009-lloyds-pharmacy-colour-film-ref-77d9)
@@ -2437,6 +2444,48 @@ UUID  : fef4be09ea484eecb10a13282d18f372
 	<img src="./lowres/00261_002.jpg" alt="Kodak Ektachrome 200 126 film box leaflet" loading="lazy" width="483" height="500">
 </a>
 
+#### [1978] ORWO NC 19 (ref: dca5)
+
+```
+Format: 120          |  Process : Unknown 
+ISO   : 64           |  Expiry  : 1978-11 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-03-02   |  Author  : Luci 101
+UUID  : a1dea49e29ae412596b2b691ac3bdca5
+```
+
+<a href="./archive/00533_000.jpg" target="_blank">
+	<img src="./lowres/00533_000.jpg" alt="ORWO NC 19 120 film box outside" loading="lazy" width="500" height="235">
+</a>
+
+
+`UUID: bea59b338851477b94e939e80f50b2f2`↓
+
+<a href="./archive/00533_001.jpg" target="_blank">
+	<img src="./lowres/00533_001.jpg" alt="ORWO NC 19 120 film box outside" loading="lazy" width="500" height="490">
+</a>
+
+
+`UUID: bc8f4df82be8463eb5744d8728eb967b`↓
+
+<a href="./archive/00533_002.jpg" target="_blank">
+	<img src="./lowres/00533_002.jpg" alt="ORWO NC 19 120 film box outside" loading="lazy" width="500" height="235">
+</a>
+
+
+`UUID: 40cf1acc36ad41898c60646b8c61b855`↓
+
+<a href="./archive/00533_003.jpg" target="_blank">
+	<img src="./lowres/00533_003.jpg" alt="ORWO NC 19 120 film box leaflet" loading="lazy" width="205" height="500">
+</a>
+
+
+`UUID: f7a0a295907541368829aa36192b0ede`↓
+
+<a href="./archive/00533_004.jpg" target="_blank">
+	<img src="./lowres/00533_004.jpg" alt="ORWO NC 19 120 film box leaflet" loading="lazy" width="206" height="499">
+</a>
+
 #### [1979] GAF Color Slide Film (ref: 6815)
 
 ```
@@ -2449,6 +2498,34 @@ UUID  : b57e8c465ff94e02afa31d267b846815
 
 <a href="./archive/00407_000.jpg" target="_blank">
 	<img src="./lowres/00407_000.jpg" alt="GAF Color Slide Film 35mm film cartridge" loading="lazy" width="386" height="500">
+</a>
+
+#### [1979] Foton Fotopan (ref: 6ba7)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 1979-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : Luci 101
+UUID  : e411c38ab057475f8874bd176d3e6ba7
+```
+
+<a href="./archive/00529_000.jpg" target="_blank">
+	<img src="./lowres/00529_000.jpg" alt="Foton Fotopan 35mm film box outside" loading="lazy" width="500" height="469">
+</a>
+
+
+`UUID: c106929fe57e459dbac9ee8e10ca9b50`↓
+
+<a href="./archive/00529_001.jpg" target="_blank">
+	<img src="./lowres/00529_001.jpg" alt="Foton Fotopan 35mm film box leaflet" loading="lazy" width="283" height="500">
+</a>
+
+
+`UUID: 1dc440471e384b01a55f1877dc636836`↓
+
+<a href="./archive/00529_002.jpg" target="_blank">
+	<img src="./lowres/00529_002.jpg" alt="Foton Fotopan 35mm film box leaflet" loading="lazy" width="270" height="500">
 </a>
 
 #### [1979] Kodak Kodacolor II (ref: b19e)
@@ -2780,6 +2857,20 @@ UUID  : 7ac665727691429d9ea1ec73ebe9a9ad
 	<img src="./lowres/00358_000.jpg" alt="Herzog Duxopan 35mm film box outside" loading="lazy" width="500" height="486">
 </a>
 
+#### [1983] ORWO DK5 (ref: e815)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1983-01 
+Type  : Bulk Roll    |  Quantity: 50m     
+Added : 2026-03-02   |  Author  : Luci 101
+UUID  : 227450eabb63400cb0f7fb663797e815
+```
+
+<a href="./archive/00531_000.jpg" target="_blank">
+	<img src="./lowres/00531_000.jpg" alt="ORWO DK5 35mm film box outside" loading="lazy" width="500" height="500">
+</a>
+
 #### [1983] Ilford FP4 (ref: b2f0)
 
 ```
@@ -2820,6 +2911,20 @@ UUID  : 08c1609b39a64daf8be1373ea99c7310
 
 <a href="./archive/00263_000.jpg" target="_blank">
 	<img src="./lowres/00263_000.jpg" alt="Kodak Kodacolor II 126 film box outside" loading="lazy" width="440" height="499">
+</a>
+
+#### [1984] Foton Mikrofilm Negatywowy Super Orto (ref: 003e)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1984-10 
+Type  : Bulk Roll    |  Quantity: 17m     
+Added : 2026-03-02   |  Author  : Luci 101
+UUID  : c5f2c4c39f884a668f540f88d21c003e
+```
+
+<a href="./archive/00532_000.jpg" target="_blank">
+	<img src="./lowres/00532_000.jpg" alt="Foton Mikrofilm Negatywowy Super Orto 35mm film box outside" loading="lazy" width="484" height="500">
 </a>
 
 #### [1985] Konica Konica Color II (ref: fb5b)
@@ -3227,6 +3332,55 @@ UUID  : 7b611fc399af469a80ac1a0124c84294
 
 <a href="./archive/00102_002.jpg" target="_blank">
 	<img src="./lowres/00102_002.jpg" alt="Kodak High Speed Infrared 35mm film box leaflet" loading="lazy" width="168" height="500">
+</a>
+
+#### [1990] ORWO NP 22 (ref: 6b7f)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 125          |  Expiry  : 1990-08 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-03-02   |  Author  : Luci 101
+UUID  : 3a26b6e03eec4c35accf4991a4cd6b7f
+```
+
+<a href="./archive/00534_000.jpg" target="_blank">
+	<img src="./lowres/00534_000.jpg" alt="ORWO NP 22 120 film box outside" loading="lazy" width="500" height="200">
+</a>
+
+
+`UUID: 4558e00e75de4fe8b16b24422e65b281`↓
+
+<a href="./archive/00534_001.jpg" target="_blank">
+	<img src="./lowres/00534_001.jpg" alt="ORWO NP 22 120 film box outside" loading="lazy" width="500" height="197">
+</a>
+
+
+`UUID: 8aa249acb29b457fa7b9507963d568a9`↓
+
+<a href="./archive/00534_002.jpg" target="_blank">
+	<img src="./lowres/00534_002.jpg" alt="ORWO NP 22 120 film box outside" loading="lazy" width="500" height="493">
+</a>
+
+
+`UUID: 1370e15f3fdd45818d436bff362b934c`↓
+
+<a href="./archive/00534_003.jpg" target="_blank">
+	<img src="./lowres/00534_003.jpg" alt="ORWO NP 22 120 film box outside" loading="lazy" width="500" height="189">
+</a>
+
+
+`UUID: 5c792057ae00453fab2206dc24459024`↓
+
+<a href="./archive/00534_004.jpg" target="_blank">
+	<img src="./lowres/00534_004.jpg" alt="ORWO NP 22 120 film box leaflet" loading="lazy" width="288" height="500">
+</a>
+
+
+`UUID: 1e6b8d2a0fcb4803a1b4724a3c05d55e`↓
+
+<a href="./archive/00534_005.jpg" target="_blank">
+	<img src="./lowres/00534_005.jpg" alt="ORWO NP 22 120 film box leaflet" loading="lazy" width="288" height="500">
 </a>
 
 #### [1990] Kodak Kodacolor Gold 400 (ref: 473d)
@@ -4025,6 +4179,27 @@ UUID  : e65b4252384141028ee037892c6bf4cf
 
 <a href="./archive/00106_001.jpg" target="_blank">
 	<img src="./lowres/00106_001.jpg" alt="Kodak Technical Pan 35mm film box inside" loading="lazy" width="315" height="500">
+</a>
+
+#### [1995] ORWO OrwoChrome RC100 (ref: a9b6)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 1995-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : Luci 101
+UUID  : 2ba82c28507045deadcde0588535a9b6
+```
+
+<a href="./archive/00530_000.jpg" target="_blank">
+	<img src="./lowres/00530_000.jpg" alt="ORWO OrwoChrome RC100 35mm film box outside" loading="lazy" width="392" height="500">
+</a>
+
+
+`UUID: 427907b346804a719d109c5c7d407e84`↓
+
+<a href="./archive/00530_001.jpg" target="_blank">
+	<img src="./lowres/00530_001.jpg" alt="ORWO OrwoChrome RC100 35mm film box inside" loading="lazy" width="399" height="500">
 </a>
 
 #### [1995] Kodak Ektachrome Elite 100 (ref: 26ef)
@@ -6207,6 +6382,27 @@ UUID  : 9934366ea7a04b65b3c300352fa8dc37
 
 <a href="./archive/00249_001.jpg" target="_blank">
 	<img src="./lowres/00249_001.jpg" alt="Fujifilm Fujicolor Pro 400H 35mm film box inside" loading="lazy" width="431" height="499">
+</a>
+
+#### [2009] efke KB-25 (ref: 4d17)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 25           |  Expiry  : 2009-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : Tobias  
+UUID  : b41fb584f713486eb5a5da2fe16e4d17
+```
+
+<a href="./archive/00528_000.jpg" target="_blank">
+	<img src="./lowres/00528_000.jpg" alt="efke KB-25 35mm film box outside" loading="lazy" width="496" height="499">
+</a>
+
+
+`UUID: 98d3ecfcdc824e7bbaef2d5a1f52bd05`↓
+
+<a href="./archive/00528_001.jpg" target="_blank">
+	<img src="./lowres/00528_001.jpg" alt="efke KB-25 35mm film box inside" loading="lazy" width="468" height="500">
 </a>
 
 #### [2009] Kodak Portra 400VC (ref: 7669)
@@ -10893,36 +11089,38 @@ Rank  Username                      Contributions
 8     fine-seat                     19    
 9     Camera.Riley                  19    
 10    Nano_Burger                   18    
-11    toader                        17    
-12    @ob.skura                     16    
-13    kaimon                        16    
-14    waldoboro                     16    
-15    yc128                         14    
-16    b0baspace                     14    
-17    @SirBrentsworth               13    
-18    benikum                       12    
-19    u/ReeeSchmidtyWerber          11    
-20    Chrisbes                      11    
-21    @zruk_ts                      10    
-22    minidiscus                    10    
-23    lilyu.xyz                     9     
-24    lt_col_tall                   9     
-25    @toastergod101                7     
-26    @filmfotofella                7     
-27    GreatGizmo74                  6     
-28    nick                          6     
-29    Kraksen                       5     
-30    Henry Gunn                    4     
-31    TheSelousScout                4     
-32    @sachynmital                  3     
-33    @seklerek                     2     
-34    @ftfilmphotos                 2     
-35    @gregrouxphotography          2     
-36    Yrikonchik                    1     
-37    @ad.astra.per.aspera.1894     1     
-38    Aoi Yuki                      1     
-39    lemoniter                     1     
-40    @shotbyliampewpew             1     
+11    Luci 101                      18    
+12    toader                        17    
+13    @ob.skura                     16    
+14    kaimon                        16    
+15    waldoboro                     16    
+16    yc128                         14    
+17    b0baspace                     14    
+18    @SirBrentsworth               13    
+19    benikum                       12    
+20    u/ReeeSchmidtyWerber          11    
+21    Chrisbes                      11    
+22    @zruk_ts                      10    
+23    minidiscus                    10    
+24    lilyu.xyz                     9     
+25    lt_col_tall                   9     
+26    @toastergod101                7     
+27    @filmfotofella                7     
+28    GreatGizmo74                  6     
+29    nick                          6     
+30    Kraksen                       5     
+31    Henry Gunn                    4     
+32    TheSelousScout                4     
+33    @sachynmital                  3     
+34    @seklerek                     2     
+35    @ftfilmphotos                 2     
+36    @gregrouxphotography          2     
+37    Tobias                        2     
+38    Yrikonchik                    1     
+39    @ad.astra.per.aspera.1894     1     
+40    Aoi Yuki                      1     
+41    lemoniter                     1     
+42    @shotbyliampewpew             1     
 ```
 
 ## Questions or Comments?

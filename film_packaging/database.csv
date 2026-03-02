@@ -948,3 +948,23 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 525,1,film_box_outside,Fujifilm,Hi-Speed 1600 Disposable Camera,35mm,1600,C-41,201806,1772458240,1d5b689e293e9f75406b6c85c9872d16,67bd10dd07644db88eae7a01ab789970,00525_001.jpg,@Hol.m35,,Single Pack,27exp
 526,0,film_box_outside,Fujifilm,Fujicolor 100,35mm,100,C-41,202708,1772458289,fb58b0e3070986fceb8ad00dc9038880,c04d5697e35c49049322ce823f32ac71,00526_000.jpg,@Hol.m35,,Single Pack,36exp
 527,0,film_box_outside,Optik Oldschool,OptiColour 200,35mm,200,C-41,202711,1772458341,2fff25ee03286f25db4dcc1217da9684,c72fdf2e60bf4d488f2ac0b2251d099e,00527_000.jpg,@Hol.m35,,Single Pack,36exp
+528,0,film_box_outside,efke,KB-25,35mm,25,BW,200903,1772458463,0a6894da44def44d0580be30ea5d52b2,b41fb584f713486eb5a5da2fe16e4d17,00528_000.jpg,Tobias,,Single Pack,36exp
+528,1,film_box_inside,efke,KB-25,35mm,25,BW,200903,1772458465,1d80bf9752e75310ed85cd074eebc947,98d3ecfcdc824e7bbaef2d5a1f52bd05,00528_001.jpg,Tobias,,Single Pack,36exp
+529,0,film_box_outside,Foton,Fotopan,35mm,400,BW,197904,1772458931,0d968cac004250f74b9c41a79b7695ad,e411c38ab057475f8874bd176d3e6ba7,00529_000.jpg,Luci 101,,Single Pack,36exp
+529,1,film_box_leaflet,Foton,Fotopan,35mm,400,BW,197904,1772458932,9c5473f96aa4bc16c456dd10edc3e21b,c106929fe57e459dbac9ee8e10ca9b50,00529_001.jpg,Luci 101,,Single Pack,36exp
+529,2,film_box_leaflet,Foton,Fotopan,35mm,400,BW,197904,1772458936,e4a48e9bc0c77b8f0b096db1e0aeffba,1dc440471e384b01a55f1877dc636836,00529_002.jpg,Luci 101,,Single Pack,36exp
+530,0,film_box_outside,ORWO,OrwoChrome RC100,35mm,100,E-6,199509,1772459101,069a00a5fc8a6d50f8723310c2fe2e03,2ba82c28507045deadcde0588535a9b6,00530_000.jpg,Luci 101,,Single Pack,36exp
+530,1,film_box_inside,ORWO,OrwoChrome RC100,35mm,100,E-6,199509,1772459104,fd5b3b16ba8f05e8f7ddf9f192f6e908,427907b346804a719d109c5c7d407e84,00530_001.jpg,Luci 101,,Single Pack,36exp
+531,0,film_box_outside,ORWO,DK5,35mm,Unknown,BW,198301,1772459309,8cc178e169596fe03b92c8561302a763,227450eabb63400cb0f7fb663797e815,00531_000.jpg,Luci 101,,Bulk Roll,50m
+532,0,film_box_outside,Foton,Mikrofilm Negatywowy Super Orto,35mm,Unknown,BW,198410,1772459465,f83a94bb91877a65c7e37a41691572c7,c5f2c4c39f884a668f540f88d21c003e,00532_000.jpg,Luci 101,,Bulk Roll,17m
+533,0,film_box_outside,ORWO,NC 19,120,64,Unknown,197811,1772459773,70a79baba8f4e93073900bbc50794644,a1dea49e29ae412596b2b691ac3bdca5,00533_000.jpg,Luci 101,,Single Pack,N/A
+533,1,film_box_outside,ORWO,NC 19,120,64,Unknown,197811,1772459776,915a19c8fc370f7958079fada44bf6f4,bea59b338851477b94e939e80f50b2f2,00533_001.jpg,Luci 101,,Single Pack,N/A
+533,2,film_box_outside,ORWO,NC 19,120,64,Unknown,197811,1772459781,c1093753822eb5b9daf89bd2edfa3d6e,bc8f4df82be8463eb5744d8728eb967b,00533_002.jpg,Luci 101,,Single Pack,N/A
+533,3,film_box_leaflet,ORWO,NC 19,120,64,Unknown,197811,1772459785,b2ec737d6b01f7baa530d282ea54e41b,40cf1acc36ad41898c60646b8c61b855,00533_003.jpg,Luci 101,,Single Pack,N/A
+533,4,film_box_leaflet,ORWO,NC 19,120,64,Unknown,197811,1772459791,a956a387e621e270ba00f7b1409bba98,f7a0a295907541368829aa36192b0ede,00533_004.jpg,Luci 101,,Single Pack,N/A
+534,0,film_box_outside,ORWO,NP 22,120,125,BW,199008,1772460033,21018a77a27f2a82636594ef4685ad7d,3a26b6e03eec4c35accf4991a4cd6b7f,00534_000.jpg,Luci 101,,Single Pack,N/A
+534,1,film_box_outside,ORWO,NP 22,120,125,BW,199008,1772460034,ee686a597fa94f81bb589f376b45d9cd,4558e00e75de4fe8b16b24422e65b281,00534_001.jpg,Luci 101,,Single Pack,N/A
+534,2,film_box_outside,ORWO,NP 22,120,125,BW,199008,1772460037,1a409decedaa19e0361c1b91e874afdb,8aa249acb29b457fa7b9507963d568a9,00534_002.jpg,Luci 101,,Single Pack,N/A
+534,3,film_box_outside,ORWO,NP 22,120,125,BW,199008,1772460040,1535ae062f890a5982dedcc3effcc07b,1370e15f3fdd45818d436bff362b934c,00534_003.jpg,Luci 101,,Single Pack,N/A
+534,4,film_box_leaflet,ORWO,NP 22,120,125,BW,199008,1772460043,7ea34b3e96d1615ee521531cb5039891,5c792057ae00453fab2206dc24459024,00534_004.jpg,Luci 101,,Single Pack,N/A
+534,5,film_box_leaflet,ORWO,NP 22,120,125,BW,199008,1772460046,906778f2f37e734c36a4e574b37c6b0e,1e6b8d2a0fcb4803a1b4724a3c05d55e,00534_005.jpg,Luci 101,,Single Pack,N/A
