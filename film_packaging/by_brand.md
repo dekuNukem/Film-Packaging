@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Mar 02 2026
-Unique items: 532
-Total scans : 983
+Last Updated: Apr 07 2026
+Unique items: 533
+Total scans : 986
 ```
 
 -----
@@ -339,6 +339,7 @@ Total scans : 983
 - [Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping (ref: c143)](#kodak-kodachrome-40-movie-film-type-a-for-post-process-sound-striping-ref-c143)
 - [Kodak Kodachrome 64 (ref: 3145)](#kodak-kodachrome-64-ref-3145)
 - [Kodak Kodachrome 64 (ref: 3206)](#kodak-kodachrome-64-ref-3206)
+- [Kodak Kodachrome II (ref: 2caa)](#kodak-kodachrome-ii-ref-2caa)
 - [Kodak Kodachrome II (ref: 0982)](#kodak-kodachrome-ii-ref-0982)
 - [Kodak Kodacolor (ref: 5d25)](#kodak-kodacolor-ref-5d25)
 - [Kodak Kodacolor 100 (ref: 73e0)](#kodak-kodacolor-100-ref-73e0)
@@ -6829,6 +6830,34 @@ UUID  : dc9c151b87de48339e564e6692663206
 	<img src="./lowres/00060_000.jpg" alt="Kodak Kodachrome 64 35mm film box outside" loading="lazy" width="450" height="499">
 </a>
 
+#### Kodak Kodachrome II (ref: 2caa)
+
+```
+Format: 828          |  Process : K-14    
+ISO   : 25           |  Expiry  : 1965-11 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-04-07   |  Author  : Tallbird Cowboy
+UUID  : 9f12faa621fe4c06919086dcec7c2caa
+```
+
+<a href="./archive/00537_000.jpg" target="_blank">
+	<img src="./lowres/00537_000.jpg" alt="Kodak Kodachrome II 828 film box outside" loading="lazy" width="441" height="500">
+</a>
+
+
+`UUID: 77473d75388148a2a9d3d4cf881d7047`↓
+
+<a href="./archive/00537_001.jpg" target="_blank">
+	<img src="./lowres/00537_001.jpg" alt="Kodak Kodachrome II 828 film box leaflet" loading="lazy" width="223" height="500">
+</a>
+
+
+`UUID: fe93855a558c4a649fc6c953e1e5c221`↓
+
+<a href="./archive/00537_002.jpg" target="_blank">
+	<img src="./lowres/00537_002.jpg" alt="Kodak Kodachrome II 828 film box leaflet" loading="lazy" width="229" height="499">
+</a>
+
 #### Kodak Kodachrome II (ref: 0982)
 
 ```
@@ -11226,15 +11255,16 @@ Rank  Username                      Contributions
 31    Henry Gunn                    4     
 32    TheSelousScout                4     
 33    @sachynmital                  3     
-34    @seklerek                     2     
-35    @ftfilmphotos                 2     
-36    @gregrouxphotography          2     
-37    Tobias                        2     
-38    Yrikonchik                    1     
-39    @ad.astra.per.aspera.1894     1     
-40    Aoi Yuki                      1     
-41    lemoniter                     1     
-42    @shotbyliampewpew             1     
+34    Tallbird Cowboy               3     
+35    @seklerek                     2     
+36    @ftfilmphotos                 2     
+37    @gregrouxphotography          2     
+38    Tobias                        2     
+39    Yrikonchik                    1     
+40    @ad.astra.per.aspera.1894     1     
+41    Aoi Yuki                      1     
+42    lemoniter                     1     
+43    @shotbyliampewpew             1     
 ```
 
 ## Questions or Comments?
