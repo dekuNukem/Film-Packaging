@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Apr 13 2026
-Unique items: 545
-Total scans : 1020
+Unique items: 552
+Total scans : 1032
 ```
 
 -----
@@ -101,6 +101,7 @@ Total scans : 1020
 - [Efiniti UXi Super 200 (ref: 471a)](#efiniti-uxi-super-200-ref-471a)
 - [Efke IR 820 Aura (ref: 43c9)](#efke-ir-820-aura-ref-43c9)
 - [Escura EDO ukiyo-e (ref: 5faa)](#escura-edo-ukiyo-e-ref-5faa)
+- [Escura Showa Camera Film (ref: 826b)](#escura-showa-camera-film-ref-826b)
 - [Famous Brand Labs Color Negative Film (ref: b271)](#famous-brand-labs-color-negative-film-ref-b271)
 - [Famous Brand Labs Color Negative Film (ref: 0cd6)](#famous-brand-labs-color-negative-film-ref-0cd6)
 - [Ferrania Solaris (ref: a929)](#ferrania-solaris-ref-a929)
@@ -149,6 +150,7 @@ Total scans : 1020
 - [Fujifilm Fujicolor 100 (ref: 013b)](#fujifilm-fujicolor-100-ref-013b)
 - [Fujifilm Fujicolor 100 (ref: b3c9)](#fujifilm-fujicolor-100-ref-b3c9)
 - [Fujifilm Fujicolor 100 (ref: ac71)](#fujifilm-fujicolor-100-ref-ac71)
+- [Fujifilm Fujicolor C200 (ref: 2585)](#fujifilm-fujicolor-c200-ref-2585)
 - [Fujifilm Fujicolor C200 (ref: 2ff8)](#fujifilm-fujicolor-c200-ref-2ff8)
 - [Fujifilm Fujicolor C200 (ref: a0de)](#fujifilm-fujicolor-c200-ref-a0de)
 - [Fujifilm Fujicolor HR 1600 (ref: 1d39)](#fujifilm-fujicolor-hr-1600-ref-1d39)
@@ -179,6 +181,7 @@ Total scans : 1020
 - [Fujifilm Fujicolor Superia (ref: 9272)](#fujifilm-fujicolor-superia-ref-9272)
 - [Fujifilm Fujicolor Superia (ref: 0d8e)](#fujifilm-fujicolor-superia-ref-0d8e)
 - [Fujifilm Fujicolor Superia 100 (ref: 30bf)](#fujifilm-fujicolor-superia-100-ref-30bf)
+- [Fujifilm Fujicolor Superia Multi400 (ref: 69f7)](#fujifilm-fujicolor-superia-multi400-ref-69f7)
 - [Fujifilm Fujicolor Superia Reala (ref: a7de)](#fujifilm-fujicolor-superia-reala-ref-a7de)
 - [Fujifilm Fujicolor Superia Reala (ref: a624)](#fujifilm-fujicolor-superia-reala-ref-a624)
 - [Fujifilm Fujicolor Superia X-TRA (ref: 713b)](#fujifilm-fujicolor-superia-x-tra-ref-713b)
@@ -191,6 +194,7 @@ Total scans : 1020
 - [Fujifilm Instax Mini (ref: e5e7)](#fujifilm-instax-mini-ref-e5e7)
 - [Fujifilm Neopan 400 (ref: c088)](#fujifilm-neopan-400-ref-c088)
 - [Fujifilm Neopan 400 Presto (ref: 21a7)](#fujifilm-neopan-400-presto-ref-21a7)
+- [Fujifilm Neopan Acros 100 II (ref: 4027)](#fujifilm-neopan-acros-100-ii-ref-4027)
 - [Fujifilm Neopan Acros 100 II (ref: 9ea9)](#fujifilm-neopan-acros-100-ii-ref-9ea9)
 - [Fujifilm Neopan SS (ref: d848)](#fujifilm-neopan-ss-ref-d848)
 - [Fujifilm Neopan SS Rapid (ref: 9db3)](#fujifilm-neopan-ss-rapid-ref-9db3)
@@ -215,6 +219,8 @@ Total scans : 1020
 - [Harman Phoenix II (ref: 37c7)](#harman-phoenix-ii-ref-37c7)
 - [Harman Phoenix II (ref: 41d4)](#harman-phoenix-ii-ref-41d4)
 - [Harman Red (ref: da3a)](#harman-red-ref-da3a)
+- [Harman Switch Azure (ref: df9c)](#harman-switch-azure-ref-df9c)
+- [Harman Switch Azure (ref: 31bb)](#harman-switch-azure-ref-31bb)
 - [Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#hasselblad-hassel-plåtar-erorto-ref-ec67)
 - [Hazenfilm Sorolla Chrome (ref: 889f)](#hazenfilm-sorolla-chrome-ref-889f)
 - [Herzog Duxopan (ref: a9ad)](#herzog-duxopan-ref-a9ad)
@@ -455,6 +461,7 @@ Total scans : 1020
 - [Lomography Tiger (ref: 26dd)](#lomography-tiger-ref-26dd)
 - [Lucky C200 (ref: e6f8)](#lucky-c200-ref-e6f8)
 - [Lucky C200 (ref: 9c6c)](#lucky-c200-ref-9c6c)
+- [Lucky C200 (ref: b0cc)](#lucky-c200-ref-b0cc)
 - [Lucky SHD400 (ref: 15b5)](#lucky-shd400-ref-15b5)
 - [Marix Professional Negative Movie Color Film (ref: c457)](#marix-professional-negative-movie-color-film-ref-c457)
 - [Max Spielmann Maxi Color (ref: bf60)](#max-spielmann-maxi-color-ref-bf60)
@@ -2104,6 +2111,20 @@ UUID  : 758ee88b8edf42b492c8c240281d5faa
 	<img src="./lowres/00511_000.jpg" alt="Escura EDO ukiyo-e 35mm film box outside" loading="lazy" width="405" height="500">
 </a>
 
+#### Escura Showa Camera Film (ref: 826b)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2026-08 
+Type  : Single Pack  |  Quantity: 30exp   
+Added : 2026-04-13   |  Author  : kaimon  
+UUID  : a87bd544a56a4ee39a2fe6e2db3f826b
+```
+
+<a href="./archive/00555_000.jpg" target="_blank">
+	<img src="./lowres/00555_000.jpg" alt="Escura Showa Camera Film 35mm film box outside" loading="lazy" width="424" height="500">
+</a>
+
 #### Famous Brand Labs Color Negative Film (ref: b271)
 
 ```
@@ -3103,6 +3124,20 @@ UUID  : c04d5697e35c49049322ce823f32ac71
 	<img src="./lowres/00526_000.jpg" alt="Fujifilm Fujicolor 100 35mm film box outside" loading="lazy" width="468" height="500">
 </a>
 
+#### Fujifilm Fujicolor C200 (ref: 2585)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2016-08 
+Type  : Multi-Pack-5 |  Quantity: 24exp   
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : 5f2a25eea5ed4846862cce7ae96c2585
+```
+
+<a href="./archive/00554_000.jpg" target="_blank">
+	<img src="./lowres/00554_000.jpg" alt="Fujifilm Fujicolor C200 35mm film box outside" loading="lazy" width="444" height="500">
+</a>
+
 #### Fujifilm Fujicolor C200 (ref: 2ff8)
 
 ```
@@ -3664,6 +3699,27 @@ Notes : Nueva!!
 	<img src="./lowres/00490_001.jpg" alt="Fujifilm Fujicolor Superia 100 35mm film box inside" loading="lazy" width="416" height="499">
 </a>
 
+#### Fujifilm Fujicolor Superia Multi400 (ref: 69f7)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2002-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : 4b1ba64dcf86459eafd45ccd07c569f7
+```
+
+<a href="./archive/00551_000.jpg" target="_blank">
+	<img src="./lowres/00551_000.jpg" alt="Fujifilm Fujicolor Superia Multi400 35mm film box outside" loading="lazy" width="294" height="500">
+</a>
+
+
+`UUID: 4f4492d0823945df8353a4e1bc2052ba`↓
+
+<a href="./archive/00551_001.jpg" target="_blank">
+	<img src="./lowres/00551_001.jpg" alt="Fujifilm Fujicolor Superia Multi400 35mm film box outside" loading="lazy" width="298" height="500">
+</a>
+
 #### Fujifilm Fujicolor Superia Reala (ref: a7de)
 
 ```
@@ -3865,6 +3921,27 @@ UUID  : cd3f61fd84d844c0810b9a508c4721a7
 
 <a href="./archive/00341_000.jpg" target="_blank">
 	<img src="./lowres/00341_000.jpg" alt="Fujifilm Neopan 400 Presto 120 film box outside" loading="lazy" width="500" height="468">
+</a>
+
+#### Fujifilm Neopan Acros 100 II (ref: 4027)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 100          |  Expiry  : 2007-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-04-13   |  Author  : kaimon  
+UUID  : fbb052b5a0024308b4d11dd3a78b4027
+```
+
+<a href="./archive/00556_000.jpg" target="_blank">
+	<img src="./lowres/00556_000.jpg" alt="Fujifilm Neopan Acros 100 II 120 film box outside" loading="lazy" width="498" height="500">
+</a>
+
+
+`UUID: 56b053f3a12e489396fea4d8db1f6b45`↓
+
+<a href="./archive/00556_001.jpg" target="_blank">
+	<img src="./lowres/00556_001.jpg" alt="Fujifilm Neopan Acros 100 II 120 film box inside" loading="lazy" width="472" height="500">
 </a>
 
 #### Fujifilm Neopan Acros 100 II (ref: 9ea9)
@@ -4317,6 +4394,48 @@ UUID  : 3903165bcfbc43ad9a6ee42e7922da3a
 
 <a href="./archive/00306_001.jpg" target="_blank">
 	<img src="./lowres/00306_001.jpg" alt="Harman Red 35mm film box inside" loading="lazy" width="383" height="500">
+</a>
+
+#### Harman Switch Azure (ref: df9c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 125          |  Expiry  : 2027-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : 85e5b83007814fbd8b1a0c4caaf9df9c
+```
+
+<a href="./archive/00553_000.jpg" target="_blank">
+	<img src="./lowres/00553_000.jpg" alt="Harman Switch Azure 35mm film box outside" loading="lazy" width="484" height="500">
+</a>
+
+
+`UUID: f4b9bf30e757490087b895af7dfa3a8b`↓
+
+<a href="./archive/00553_001.jpg" target="_blank">
+	<img src="./lowres/00553_001.jpg" alt="Harman Switch Azure 35mm film box inside" loading="lazy" width="348" height="499">
+</a>
+
+#### Harman Switch Azure (ref: 31bb)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 125          |  Expiry  : 2027-12 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : f81a19dc94ac47e99249911f97fe31bb
+```
+
+<a href="./archive/00552_000.jpg" target="_blank">
+	<img src="./lowres/00552_000.jpg" alt="Harman Switch Azure 120 film box outside" loading="lazy" width="420" height="499">
+</a>
+
+
+`UUID: 9f700cd952734d0c88e3c26e8525c2bd`↓
+
+<a href="./archive/00552_001.jpg" target="_blank">
+	<img src="./lowres/00552_001.jpg" alt="Harman Switch Azure 120 film box inside" loading="lazy" width="470" height="500">
 </a>
 
 #### Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)
@@ -9121,6 +9240,27 @@ UUID  : 4986ebbbced349e880b7dd92d9649c6c
 	<img src="./lowres/00479_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="393" height="500">
 </a>
 
+#### Lucky C200 (ref: b0cc)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2028-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : 417dc63303e24ed58b36a4fbe55ab0cc
+```
+
+<a href="./archive/00550_000.jpg" target="_blank">
+	<img src="./lowres/00550_000.jpg" alt="Lucky C200 35mm film box outside" loading="lazy" width="391" height="500">
+</a>
+
+
+`UUID: 1d360d80e5b74366a57bb661651a0ea1`↓
+
+<a href="./archive/00550_001.jpg" target="_blank">
+	<img src="./lowres/00550_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="316" height="500">
+</a>
+
 #### Lucky SHD400 (ref: 15b5)
 
 ```
@@ -11562,14 +11702,14 @@ Rank  Username                      Contributions
 4     @ellafridalindblom            67    
 5     @recycling.film               65    
 6     Luci 101                      50    
-7     @Hol.m35                      37    
+7     @Hol.m35                      46    
 8     The Compartmentalist          25    
 9     @ob.skura                     19    
 10    fine-seat                     19    
 11    Camera.Riley                  19    
-12    Nano_Burger                   18    
-13    toader                        17    
-14    kaimon                        16    
+12    kaimon                        19    
+13    Nano_Burger                   18    
+14    toader                        17    
 15    waldoboro                     16    
 16    yc128                         14    
 17    b0baspace                     14    

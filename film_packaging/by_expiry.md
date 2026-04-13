@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Apr 13 2026
-Unique items: 545
-Total scans : 1020
+Unique items: 552
+Total scans : 1032
 ```
 
 -----
@@ -229,6 +229,7 @@ Total scans : 1020
 - [[2002] Kodak Gold (ref: bdd5)](#2002-kodak-gold-ref-bdd5)
 - [[2002] Polaroid High Definition (ref: deb6)](#2002-polaroid-high-definition-ref-deb6)
 - [[2002] Agfa Optima II 400 (ref: fdf0)](#2002-agfa-optima-ii-400-ref-fdf0)
+- [[2002] Fujifilm Fujicolor Superia Multi400 (ref: 69f7)](#2002-fujifilm-fujicolor-superia-multi400-ref-69f7)
 - [[2002] Fujifilm Fujicolor Superia (ref: 0683)](#2002-fujifilm-fujicolor-superia-ref-0683)
 - [[2002] Konica Sepia Professional (ref: 0b40)](#2002-konica-sepia-professional-ref-0b40)
 - [[2002] Kodak Ektachrome 100 Plus (ref: 5d9f)](#2002-kodak-ektachrome-100-plus-ref-5d9f)
@@ -281,6 +282,7 @@ Total scans : 1020
 - [[2006] Klick APS Film (ref: 4b88)](#2006-klick-aps-film-ref-4b88)
 - [[2006] Polaroid GridFilm (ref: 8deb)](#2006-polaroid-gridfilm-ref-8deb)
 - [[2006] Fujifilm Fujichrome Provia 100F (ref: 1b4b)](#2006-fujifilm-fujichrome-provia-100f-ref-1b4b)
+- [[2007] Fujifilm Neopan Acros 100 II (ref: 4027)](#2007-fujifilm-neopan-acros-100-ii-ref-4027)
 - [[2007] Klick 400ASA (ref: 8779)](#2007-klick-400asa-ref-8779)
 - [[2007] Kodak 110 Film (ref: 8cca)](#2007-kodak-110-film-ref-8cca)
 - [[2007] Konica Minolta Commercial Color Film (ref: e903)](#2007-konica-minolta-commercial-color-film-ref-e903)
@@ -333,6 +335,7 @@ Total scans : 1020
 - [[2015] Lomography Tiger (ref: 5b62)](#2015-lomography-tiger-ref-5b62)
 - [[2015] Lomography Lobster Redscale Negative (ref: 4dcd)](#2015-lomography-lobster-redscale-negative-ref-4dcd)
 - [[2016] Fujifilm Fujicolor Natura 1600 (ref: 52aa)](#2016-fujifilm-fujicolor-natura-1600-ref-52aa)
+- [[2016] Fujifilm Fujicolor C200 (ref: 2585)](#2016-fujifilm-fujicolor-c200-ref-2585)
 - [[2018] CineStill 800T (ref: c86a)](#2018-cinestill-800t-ref-c86a)
 - [[2018] Fujifilm Hi-Speed 1600 Disposable Camera (ref: 8a6f)](#2018-fujifilm-hi-speed-1600-disposable-camera-ref-8a6f)
 - [[2018] Agfa Vista Plus 200 (ref: f5f7)](#2018-agfa-vista-plus-200-ref-f5f7)
@@ -428,6 +431,7 @@ Total scans : 1020
 - [[2026] Ilford Ortho Plus (ref: 1952)](#2026-ilford-ortho-plus-ref-1952)
 - [[2026] Kodak UltraMax (ref: e4ad)](#2026-kodak-ultramax-ref-e4ad)
 - [[2026] Lomography Lomochrome Color’92 (ref: 0960)](#2026-lomography-lomochrome-color-92-ref-0960)
+- [[2026] Escura Showa Camera Film (ref: 826b)](#2026-escura-showa-camera-film-ref-826b)
 - [[2026] Harman Phoenix (ref: 637f)](#2026-harman-phoenix-ref-637f)
 - [[2026] Hazenfilm Sorolla Chrome (ref: 889f)](#2026-hazenfilm-sorolla-chrome-ref-889f)
 - [[2026] Kodak ColorPlus (ref: 6637)](#2026-kodak-colorplus-ref-6637)
@@ -492,7 +496,9 @@ Total scans : 1020
 - [[2027] Lucky C200 (ref: e6f8)](#2027-lucky-c200-ref-e6f8)
 - [[2027] ADOX CMS 20 II Pro (ref: 0bea)](#2027-adox-cms-20-ii-pro-ref-0bea)
 - [[2027] Lucky C200 (ref: 9c6c)](#2027-lucky-c200-ref-9c6c)
+- [[2027] Harman Switch Azure (ref: df9c)](#2027-harman-switch-azure-ref-df9c)
 - [[2027] Optik Oldschool OptiColour 200 (ref: 099e)](#2027-optik-oldschool-opticolour-200-ref-099e)
+- [[2027] Harman Switch Azure (ref: 31bb)](#2027-harman-switch-azure-ref-31bb)
 - [[2027] Optik Oldschool SantaColor (ref: dd85)](#2027-optik-oldschool-santacolor-ref-dd85)
 - [[2027] Reflx Lab 250D (ref: 1a3e)](#2027-reflx-lab-250d-ref-1a3e)
 - [[2027] Reflx Lab Pro 100 (ref: 1311)](#2027-reflx-lab-pro-100-ref-1311)
@@ -501,6 +507,7 @@ Total scans : 1020
 - [[2028] Rollei SUPERPAN 200 (ref: ee8f)](#2028-rollei-superpan-200-ref-ee8f)
 - [[2028] Kodak Gold 200 (ref: 7d4b)](#2028-kodak-gold-200-ref-7d4b)
 - [[2028] Kodak Kodacolor 200 (ref: ba30)](#2028-kodak-kodacolor-200-ref-ba30)
+- [[2028] Lucky C200 (ref: b0cc)](#2028-lucky-c200-ref-b0cc)
 - [[2028] Rollei Retro 400S (ref: f2cf)](#2028-rollei-retro-400s-ref-f2cf)
 - [[2028] Lomography Berlin (ref: d3df)](#2028-lomography-berlin-ref-d3df)
 - [[2028] Lomography Postdam (ref: d0c6)](#2028-lomography-postdam-ref-d0c6)
@@ -5436,6 +5443,27 @@ UUID  : 4ae0df57aeb24746a0a7854da202fdf0
 	<img src="./lowres/00298_001.jpg" alt="Agfa Optima II 400 120 film box inside" loading="lazy" width="500" height="384">
 </a>
 
+#### [2002] Fujifilm Fujicolor Superia Multi400 (ref: 69f7)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2002-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : 4b1ba64dcf86459eafd45ccd07c569f7
+```
+
+<a href="./archive/00551_000.jpg" target="_blank">
+	<img src="./lowres/00551_000.jpg" alt="Fujifilm Fujicolor Superia Multi400 35mm film box outside" loading="lazy" width="294" height="500">
+</a>
+
+
+`UUID: 4f4492d0823945df8353a4e1bc2052ba`↓
+
+<a href="./archive/00551_001.jpg" target="_blank">
+	<img src="./lowres/00551_001.jpg" alt="Fujifilm Fujicolor Superia Multi400 35mm film box outside" loading="lazy" width="298" height="500">
+</a>
+
 #### [2002] Fujifilm Fujicolor Superia (ref: 0683)
 
 ```
@@ -6413,6 +6441,27 @@ Notes : Japanese version?
 	<img src="./lowres/00281_000.jpg" alt="Fujifilm Fujichrome Provia 100F 120 film box outside" loading="lazy" width="400" height="499">
 </a>
 
+#### [2007] Fujifilm Neopan Acros 100 II (ref: 4027)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 100          |  Expiry  : 2007-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-04-13   |  Author  : kaimon  
+UUID  : fbb052b5a0024308b4d11dd3a78b4027
+```
+
+<a href="./archive/00556_000.jpg" target="_blank">
+	<img src="./lowres/00556_000.jpg" alt="Fujifilm Neopan Acros 100 II 120 film box outside" loading="lazy" width="498" height="500">
+</a>
+
+
+`UUID: 56b053f3a12e489396fea4d8db1f6b45`↓
+
+<a href="./archive/00556_001.jpg" target="_blank">
+	<img src="./lowres/00556_001.jpg" alt="Fujifilm Neopan Acros 100 II 120 film box inside" loading="lazy" width="472" height="500">
+</a>
+
 #### [2007] Klick 400ASA (ref: 8779)
 
 ```
@@ -7356,6 +7405,20 @@ UUID  : a4f7e58b2cdf448d8a2e7781c26252aa
 
 <a href="./archive/00461_000.jpg" target="_blank">
 	<img src="./lowres/00461_000.jpg" alt="Fujifilm Fujicolor Natura 1600 35mm film box outside" loading="lazy" width="500" height="460">
+</a>
+
+#### [2016] Fujifilm Fujicolor C200 (ref: 2585)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2016-08 
+Type  : Multi-Pack-5 |  Quantity: 24exp   
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : 5f2a25eea5ed4846862cce7ae96c2585
+```
+
+<a href="./archive/00554_000.jpg" target="_blank">
+	<img src="./lowres/00554_000.jpg" alt="Fujifilm Fujicolor C200 35mm film box outside" loading="lazy" width="444" height="500">
 </a>
 
 #### [2018] CineStill 800T (ref: c86a)
@@ -8990,6 +9053,20 @@ UUID  : e72a327c49d3440c85ab03647ff00960
 	<img src="./lowres/00336_000.jpg" alt="Lomography Lomochrome Color’92 120 film box outside" loading="lazy" width="500" height="275">
 </a>
 
+#### [2026] Escura Showa Camera Film (ref: 826b)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2026-08 
+Type  : Single Pack  |  Quantity: 30exp   
+Added : 2026-04-13   |  Author  : kaimon  
+UUID  : a87bd544a56a4ee39a2fe6e2db3f826b
+```
+
+<a href="./archive/00555_000.jpg" target="_blank">
+	<img src="./lowres/00555_000.jpg" alt="Escura Showa Camera Film 35mm film box outside" loading="lazy" width="424" height="500">
+</a>
+
 #### [2026] Harman Phoenix (ref: 637f)
 
 ```
@@ -10145,6 +10222,27 @@ UUID  : 4986ebbbced349e880b7dd92d9649c6c
 	<img src="./lowres/00479_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="393" height="500">
 </a>
 
+#### [2027] Harman Switch Azure (ref: df9c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 125          |  Expiry  : 2027-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : 85e5b83007814fbd8b1a0c4caaf9df9c
+```
+
+<a href="./archive/00553_000.jpg" target="_blank">
+	<img src="./lowres/00553_000.jpg" alt="Harman Switch Azure 35mm film box outside" loading="lazy" width="484" height="500">
+</a>
+
+
+`UUID: f4b9bf30e757490087b895af7dfa3a8b`↓
+
+<a href="./archive/00553_001.jpg" target="_blank">
+	<img src="./lowres/00553_001.jpg" alt="Harman Switch Azure 35mm film box inside" loading="lazy" width="348" height="499">
+</a>
+
 #### [2027] Optik Oldschool OptiColour 200 (ref: 099e)
 
 ```
@@ -10157,6 +10255,27 @@ UUID  : c72fdf2e60bf4d488f2ac0b2251d099e
 
 <a href="./archive/00527_000.jpg" target="_blank">
 	<img src="./lowres/00527_000.jpg" alt="Optik Oldschool OptiColour 200 35mm film box outside" loading="lazy" width="500" height="482">
+</a>
+
+#### [2027] Harman Switch Azure (ref: 31bb)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 125          |  Expiry  : 2027-12 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : f81a19dc94ac47e99249911f97fe31bb
+```
+
+<a href="./archive/00552_000.jpg" target="_blank">
+	<img src="./lowres/00552_000.jpg" alt="Harman Switch Azure 120 film box outside" loading="lazy" width="420" height="499">
+</a>
+
+
+`UUID: 9f700cd952734d0c88e3c26e8525c2bd`↓
+
+<a href="./archive/00552_001.jpg" target="_blank">
+	<img src="./lowres/00552_001.jpg" alt="Harman Switch Azure 120 film box inside" loading="lazy" width="470" height="500">
 </a>
 
 #### [2027] Optik Oldschool SantaColor (ref: dd85)
@@ -10283,6 +10402,27 @@ UUID  : b33ca9b3d2e34544a264987426efba30
 
 <a href="./archive/00519_000.jpg" target="_blank">
 	<img src="./lowres/00519_000.jpg" alt="Kodak Kodacolor 200 35mm film box outside" loading="lazy" width="459" height="499">
+</a>
+
+#### [2028] Lucky C200 (ref: b0cc)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2028-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : 417dc63303e24ed58b36a4fbe55ab0cc
+```
+
+<a href="./archive/00550_000.jpg" target="_blank">
+	<img src="./lowres/00550_000.jpg" alt="Lucky C200 35mm film box outside" loading="lazy" width="391" height="500">
+</a>
+
+
+`UUID: 1d360d80e5b74366a57bb661651a0ea1`↓
+
+<a href="./archive/00550_001.jpg" target="_blank">
+	<img src="./lowres/00550_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="316" height="500">
 </a>
 
 #### [2028] Rollei Retro 400S (ref: f2cf)
@@ -11562,14 +11702,14 @@ Rank  Username                      Contributions
 4     @ellafridalindblom            67    
 5     @recycling.film               65    
 6     Luci 101                      50    
-7     @Hol.m35                      37    
+7     @Hol.m35                      46    
 8     The Compartmentalist          25    
 9     @ob.skura                     19    
 10    fine-seat                     19    
 11    Camera.Riley                  19    
-12    Nano_Burger                   18    
-13    toader                        17    
-14    kaimon                        16    
+12    kaimon                        19    
+13    Nano_Burger                   18    
+14    toader                        17    
 15    waldoboro                     16    
 16    yc128                         14    
 17    b0baspace                     14    

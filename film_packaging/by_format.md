@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Apr 13 2026
-Unique items: 545
-Total scans : 1020
+Unique items: 552
+Total scans : 1032
 ```
 
 -----
@@ -84,11 +84,13 @@ Total scans : 1020
 - [[120] Fujifilm Fujicolor Superia X-TRA (ref: 7980)](#120-fujifilm-fujicolor-superia-x-tra-ref-7980)
 - [[120] Fujifilm Fujicolor Superia X-TRA 400 (ref: da37)](#120-fujifilm-fujicolor-superia-x-tra-400-ref-da37)
 - [[120] Fujifilm Neopan 400 Presto (ref: 21a7)](#120-fujifilm-neopan-400-presto-ref-21a7)
+- [[120] Fujifilm Neopan Acros 100 II (ref: 4027)](#120-fujifilm-neopan-acros-100-ii-ref-4027)
 - [[120] Fujifilm Neopan SS (ref: d848)](#120-fujifilm-neopan-ss-ref-d848)
 - [[120] Gevaert Infra-R (ref: fc88)](#120-gevaert-infra-r-ref-fc88)
 - [[120] Harman Phoenix (ref: 637f)](#120-harman-phoenix-ref-637f)
 - [[120] Harman Phoenix II (ref: f686)](#120-harman-phoenix-ii-ref-f686)
 - [[120] Harman Phoenix II (ref: 37c7)](#120-harman-phoenix-ii-ref-37c7)
+- [[120] Harman Switch Azure (ref: 31bb)](#120-harman-switch-azure-ref-31bb)
 - [[120] Ilford Delta 100 Professional (ref: 93b9)](#120-ilford-delta-100-professional-ref-93b9)
 - [[120] Ilford Delta 100 Professional (ref: eb8d)](#120-ilford-delta-100-professional-ref-eb8d)
 - [[120] Ilford Delta 3200 Professional (ref: 920f)](#120-ilford-delta-3200-professional-ref-920f)
@@ -246,6 +248,7 @@ Total scans : 1020
 - [[35mm] Club Color Natural Color System (ref: 813a)](#35mm-club-color-natural-color-system-ref-813a)
 - [[35mm] Efiniti UXi Super 200 (ref: 471a)](#35mm-efiniti-uxi-super-200-ref-471a)
 - [[35mm] Escura EDO ukiyo-e (ref: 5faa)](#35mm-escura-edo-ukiyo-e-ref-5faa)
+- [[35mm] Escura Showa Camera Film (ref: 826b)](#35mm-escura-showa-camera-film-ref-826b)
 - [[35mm] Ferrania Solaris (ref: a929)](#35mm-ferrania-solaris-ref-a929)
 - [[35mm] Ferrania Solaris FG Plus (ref: 78b7)](#35mm-ferrania-solaris-fg-plus-ref-78b7)
 - [[35mm] Film Corporation of America TriFCA 35 (ref: 8f0a)](#35mm-film-corporation-of-america-trifca-35-ref-8f0a)
@@ -274,6 +277,7 @@ Total scans : 1020
 - [[35mm] Fujifilm Fujicolor 100 (ref: 013b)](#35mm-fujifilm-fujicolor-100-ref-013b)
 - [[35mm] Fujifilm Fujicolor 100 (ref: b3c9)](#35mm-fujifilm-fujicolor-100-ref-b3c9)
 - [[35mm] Fujifilm Fujicolor 100 (ref: ac71)](#35mm-fujifilm-fujicolor-100-ref-ac71)
+- [[35mm] Fujifilm Fujicolor C200 (ref: 2585)](#35mm-fujifilm-fujicolor-c200-ref-2585)
 - [[35mm] Fujifilm Fujicolor C200 (ref: 2ff8)](#35mm-fujifilm-fujicolor-c200-ref-2ff8)
 - [[35mm] Fujifilm Fujicolor C200 (ref: a0de)](#35mm-fujifilm-fujicolor-c200-ref-a0de)
 - [[35mm] Fujifilm Fujicolor HR 1600 (ref: 1d39)](#35mm-fujifilm-fujicolor-hr-1600-ref-1d39)
@@ -296,6 +300,7 @@ Total scans : 1020
 - [[35mm] Fujifilm Fujicolor Superia (ref: 9272)](#35mm-fujifilm-fujicolor-superia-ref-9272)
 - [[35mm] Fujifilm Fujicolor Superia (ref: 0d8e)](#35mm-fujifilm-fujicolor-superia-ref-0d8e)
 - [[35mm] Fujifilm Fujicolor Superia 100 (ref: 30bf)](#35mm-fujifilm-fujicolor-superia-100-ref-30bf)
+- [[35mm] Fujifilm Fujicolor Superia Multi400 (ref: 69f7)](#35mm-fujifilm-fujicolor-superia-multi400-ref-69f7)
 - [[35mm] Fujifilm Fujicolor Superia Reala (ref: a7de)](#35mm-fujifilm-fujicolor-superia-reala-ref-a7de)
 - [[35mm] Fujifilm Fujicolor Superia Reala (ref: a624)](#35mm-fujifilm-fujicolor-superia-reala-ref-a624)
 - [[35mm] Fujifilm Fujicolor Superia X-TRA (ref: 713b)](#35mm-fujifilm-fujicolor-superia-x-tra-ref-713b)
@@ -316,6 +321,7 @@ Total scans : 1020
 - [[35mm] Harman Phoenix II (ref: 40df)](#35mm-harman-phoenix-ii-ref-40df)
 - [[35mm] Harman Phoenix II (ref: 41d4)](#35mm-harman-phoenix-ii-ref-41d4)
 - [[35mm] Harman Red (ref: da3a)](#35mm-harman-red-ref-da3a)
+- [[35mm] Harman Switch Azure (ref: df9c)](#35mm-harman-switch-azure-ref-df9c)
 - [[35mm] Hazenfilm Sorolla Chrome (ref: 889f)](#35mm-hazenfilm-sorolla-chrome-ref-889f)
 - [[35mm] Herzog Duxopan (ref: a9ad)](#35mm-herzog-duxopan-ref-a9ad)
 - [[35mm] Hope Film Bubble (ref: 41f4)](#35mm-hope-film-bubble-ref-41f4)
@@ -449,6 +455,7 @@ Total scans : 1020
 - [[35mm] Lomography Lomochrome Purple (ref: 068f)](#35mm-lomography-lomochrome-purple-ref-068f)
 - [[35mm] Lomography Postdam (ref: d0c6)](#35mm-lomography-postdam-ref-d0c6)
 - [[35mm] Lucky C200 (ref: 9c6c)](#35mm-lucky-c200-ref-9c6c)
+- [[35mm] Lucky C200 (ref: b0cc)](#35mm-lucky-c200-ref-b0cc)
 - [[35mm] Marix Professional Negative Movie Color Film (ref: c457)](#35mm-marix-professional-negative-movie-color-film-ref-c457)
 - [[35mm] Max Spielmann Maxi Color (ref: bf60)](#35mm-max-spielmann-maxi-color-ref-bf60)
 - [[35mm] Max Spielmann Pro-Zoom MX 400 (ref: 38c5)](#35mm-max-spielmann-pro-zoom-mx-400-ref-38c5)
@@ -1849,6 +1856,27 @@ UUID  : cd3f61fd84d844c0810b9a508c4721a7
 	<img src="./lowres/00341_000.jpg" alt="Fujifilm Neopan 400 Presto 120 film box outside" loading="lazy" width="500" height="468">
 </a>
 
+#### [120] Fujifilm Neopan Acros 100 II (ref: 4027)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 100          |  Expiry  : 2007-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-04-13   |  Author  : kaimon  
+UUID  : fbb052b5a0024308b4d11dd3a78b4027
+```
+
+<a href="./archive/00556_000.jpg" target="_blank">
+	<img src="./lowres/00556_000.jpg" alt="Fujifilm Neopan Acros 100 II 120 film box outside" loading="lazy" width="498" height="500">
+</a>
+
+
+`UUID: 56b053f3a12e489396fea4d8db1f6b45`↓
+
+<a href="./archive/00556_001.jpg" target="_blank">
+	<img src="./lowres/00556_001.jpg" alt="Fujifilm Neopan Acros 100 II 120 film box inside" loading="lazy" width="472" height="500">
+</a>
+
 #### [120] Fujifilm Neopan SS (ref: d848)
 
 ```
@@ -1939,6 +1967,27 @@ Notes : Chinese version
 
 <a href="./archive/00366_001.jpg" target="_blank">
 	<img src="./lowres/00366_001.jpg" alt="Harman Phoenix II 120 film box inside" loading="lazy" width="500" height="430">
+</a>
+
+#### [120] Harman Switch Azure (ref: 31bb)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 125          |  Expiry  : 2027-12 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : f81a19dc94ac47e99249911f97fe31bb
+```
+
+<a href="./archive/00552_000.jpg" target="_blank">
+	<img src="./lowres/00552_000.jpg" alt="Harman Switch Azure 120 film box outside" loading="lazy" width="420" height="499">
+</a>
+
+
+`UUID: 9f700cd952734d0c88e3c26e8525c2bd`↓
+
+<a href="./archive/00552_001.jpg" target="_blank">
+	<img src="./lowres/00552_001.jpg" alt="Harman Switch Azure 120 film box inside" loading="lazy" width="470" height="500">
 </a>
 
 #### [120] Ilford Delta 100 Professional (ref: 93b9)
@@ -5261,6 +5310,20 @@ UUID  : 758ee88b8edf42b492c8c240281d5faa
 	<img src="./lowres/00511_000.jpg" alt="Escura EDO ukiyo-e 35mm film box outside" loading="lazy" width="405" height="500">
 </a>
 
+#### [35mm] Escura Showa Camera Film (ref: 826b)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2026-08 
+Type  : Single Pack  |  Quantity: 30exp   
+Added : 2026-04-13   |  Author  : kaimon  
+UUID  : a87bd544a56a4ee39a2fe6e2db3f826b
+```
+
+<a href="./archive/00555_000.jpg" target="_blank">
+	<img src="./lowres/00555_000.jpg" alt="Escura Showa Camera Film 35mm film box outside" loading="lazy" width="424" height="500">
+</a>
+
 #### [35mm] Ferrania Solaris (ref: a929)
 
 ```
@@ -5772,6 +5835,20 @@ UUID  : c04d5697e35c49049322ce823f32ac71
 	<img src="./lowres/00526_000.jpg" alt="Fujifilm Fujicolor 100 35mm film box outside" loading="lazy" width="468" height="500">
 </a>
 
+#### [35mm] Fujifilm Fujicolor C200 (ref: 2585)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2016-08 
+Type  : Multi-Pack-5 |  Quantity: 24exp   
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : 5f2a25eea5ed4846862cce7ae96c2585
+```
+
+<a href="./archive/00554_000.jpg" target="_blank">
+	<img src="./lowres/00554_000.jpg" alt="Fujifilm Fujicolor C200 35mm film box outside" loading="lazy" width="444" height="500">
+</a>
+
 #### [35mm] Fujifilm Fujicolor C200 (ref: 2ff8)
 
 ```
@@ -6172,6 +6249,27 @@ Notes : Nueva!!
 	<img src="./lowres/00490_001.jpg" alt="Fujifilm Fujicolor Superia 100 35mm film box inside" loading="lazy" width="416" height="499">
 </a>
 
+#### [35mm] Fujifilm Fujicolor Superia Multi400 (ref: 69f7)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2002-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : 4b1ba64dcf86459eafd45ccd07c569f7
+```
+
+<a href="./archive/00551_000.jpg" target="_blank">
+	<img src="./lowres/00551_000.jpg" alt="Fujifilm Fujicolor Superia Multi400 35mm film box outside" loading="lazy" width="294" height="500">
+</a>
+
+
+`UUID: 4f4492d0823945df8353a4e1bc2052ba`↓
+
+<a href="./archive/00551_001.jpg" target="_blank">
+	<img src="./lowres/00551_001.jpg" alt="Fujifilm Fujicolor Superia Multi400 35mm film box outside" loading="lazy" width="298" height="500">
+</a>
+
 #### [35mm] Fujifilm Fujicolor Superia Reala (ref: a7de)
 
 ```
@@ -6521,6 +6619,27 @@ UUID  : 3903165bcfbc43ad9a6ee42e7922da3a
 
 <a href="./archive/00306_001.jpg" target="_blank">
 	<img src="./lowres/00306_001.jpg" alt="Harman Red 35mm film box inside" loading="lazy" width="383" height="500">
+</a>
+
+#### [35mm] Harman Switch Azure (ref: df9c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 125          |  Expiry  : 2027-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : 85e5b83007814fbd8b1a0c4caaf9df9c
+```
+
+<a href="./archive/00553_000.jpg" target="_blank">
+	<img src="./lowres/00553_000.jpg" alt="Harman Switch Azure 35mm film box outside" loading="lazy" width="484" height="500">
+</a>
+
+
+`UUID: f4b9bf30e757490087b895af7dfa3a8b`↓
+
+<a href="./archive/00553_001.jpg" target="_blank">
+	<img src="./lowres/00553_001.jpg" alt="Harman Switch Azure 35mm film box inside" loading="lazy" width="348" height="499">
 </a>
 
 #### [35mm] Hazenfilm Sorolla Chrome (ref: 889f)
@@ -9009,6 +9128,27 @@ UUID  : 4986ebbbced349e880b7dd92d9649c6c
 
 <a href="./archive/00479_001.jpg" target="_blank">
 	<img src="./lowres/00479_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="393" height="500">
+</a>
+
+#### [35mm] Lucky C200 (ref: b0cc)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2028-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : 417dc63303e24ed58b36a4fbe55ab0cc
+```
+
+<a href="./archive/00550_000.jpg" target="_blank">
+	<img src="./lowres/00550_000.jpg" alt="Lucky C200 35mm film box outside" loading="lazy" width="391" height="500">
+</a>
+
+
+`UUID: 1d360d80e5b74366a57bb661651a0ea1`↓
+
+<a href="./archive/00550_001.jpg" target="_blank">
+	<img src="./lowres/00550_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="316" height="500">
 </a>
 
 #### [35mm] Marix Professional Negative Movie Color Film (ref: c457)
@@ -11562,14 +11702,14 @@ Rank  Username                      Contributions
 4     @ellafridalindblom            67    
 5     @recycling.film               65    
 6     Luci 101                      50    
-7     @Hol.m35                      37    
+7     @Hol.m35                      46    
 8     The Compartmentalist          25    
 9     @ob.skura                     19    
 10    fine-seat                     19    
 11    Camera.Riley                  19    
-12    Nano_Burger                   18    
-13    toader                        17    
-14    kaimon                        16    
+12    kaimon                        19    
+13    Nano_Burger                   18    
+14    toader                        17    
 15    waldoboro                     16    
 16    yc128                         14    
 17    b0baspace                     14    

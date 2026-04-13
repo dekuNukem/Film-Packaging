@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Apr 13 2026
-Unique items: 545
-Total scans : 1020
+Unique items: 552
+Total scans : 1032
 ```
 
 -----
@@ -26,10 +26,14 @@ Total scans : 1020
 - [[@Hol.m35] Agfa Vista Plus 200 (ref: f5f7)](#holm35-agfa-vista-plus-200-ref-f5f7)
 - [[@Hol.m35] Boots Colour Print Film (ref: a30f)](#holm35-boots-colour-print-film-ref-a30f)
 - [[@Hol.m35] Fujifilm Fujicolor 100 (ref: ac71)](#holm35-fujifilm-fujicolor-100-ref-ac71)
+- [[@Hol.m35] Fujifilm Fujicolor C200 (ref: 2585)](#holm35-fujifilm-fujicolor-c200-ref-2585)
 - [[@Hol.m35] Fujifilm Fujicolor Pro 400H (ref: fb3a)](#holm35-fujifilm-fujicolor-pro-400h-ref-fb3a)
+- [[@Hol.m35] Fujifilm Fujicolor Superia Multi400 (ref: 69f7)](#holm35-fujifilm-fujicolor-superia-multi400-ref-69f7)
 - [[@Hol.m35] Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)](#holm35-fujifilm-fujicolor-superia-x-tra-ref-6b8a)
 - [[@Hol.m35] Fujifilm Hi-Speed 1600 Disposable Camera (ref: 8a6f)](#holm35-fujifilm-hi-speed-1600-disposable-camera-ref-8a6f)
 - [[@Hol.m35] Fujifilm Superia Premium 400 (ref: ef1f)](#holm35-fujifilm-superia-premium-400-ref-ef1f)
+- [[@Hol.m35] Harman Switch Azure (ref: df9c)](#holm35-harman-switch-azure-ref-df9c)
+- [[@Hol.m35] Harman Switch Azure (ref: 31bb)](#holm35-harman-switch-azure-ref-31bb)
 - [[@Hol.m35] Hope Film Bubble (ref: 41f4)](#holm35-hope-film-bubble-ref-41f4)
 - [[@Hol.m35] JCH Streetpan (ref: 5c70)](#holm35-jch-streetpan-ref-5c70)
 - [[@Hol.m35] Kodak Gold 200 (ref: 442d)](#holm35-kodak-gold-200-ref-442d)
@@ -39,6 +43,7 @@ Total scans : 1020
 - [[@Hol.m35] Lomography Postdam (ref: 2769)](#holm35-lomography-postdam-ref-2769)
 - [[@Hol.m35] Lomography Postdam (ref: d0c6)](#holm35-lomography-postdam-ref-d0c6)
 - [[@Hol.m35] Lucky C200 (ref: e6f8)](#holm35-lucky-c200-ref-e6f8)
+- [[@Hol.m35] Lucky C200 (ref: b0cc)](#holm35-lucky-c200-ref-b0cc)
 - [[@Hol.m35] Lucky SHD400 (ref: 15b5)](#holm35-lucky-shd400-ref-15b5)
 - [[@Hol.m35] Max Spielmann Pro-Zoom MX 400 (ref: 38c5)](#holm35-max-spielmann-pro-zoom-mx-400-ref-38c5)
 - [[@Hol.m35] Optik Oldschool OptiColour 200 (ref: 099e)](#holm35-optik-oldschool-opticolour-200-ref-099e)
@@ -509,6 +514,8 @@ Total scans : 1020
 - [[fine-seat] Kodak Kodacolor VR Plus (ref: f8bf)](#fine-seat-kodak-kodacolor-vr-plus-ref-f8bf)
 - [[fine-seat] ORWO Chrom UT21 (ref: 3fd5)](#fine-seat-orwo-chrom-ut21-ref-3fd5)
 - [[kaimon] CineStill 800T (ref: c96e)](#kaimon-cinestill-800t-ref-c96e)
+- [[kaimon] Escura Showa Camera Film (ref: 826b)](#kaimon-escura-showa-camera-film-ref-826b)
+- [[kaimon] Fujifilm Neopan Acros 100 II (ref: 4027)](#kaimon-fujifilm-neopan-acros-100-ii-ref-4027)
 - [[kaimon] Ilford Delta 100 Professional (ref: bf01)](#kaimon-ilford-delta-100-professional-ref-bf01)
 - [[kaimon] Ilford Ilfochrome (ref: ac24)](#kaimon-ilford-ilfochrome-ref-ac24)
 - [[kaimon] Ilford Ortho Plus (ref: 1952)](#kaimon-ilford-ortho-plus-ref-1952)
@@ -634,6 +641,20 @@ UUID  : c04d5697e35c49049322ce823f32ac71
 	<img src="./lowres/00526_000.jpg" alt="Fujifilm Fujicolor 100 35mm film box outside" loading="lazy" width="468" height="500">
 </a>
 
+#### [@Hol.m35] Fujifilm Fujicolor C200 (ref: 2585)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2016-08 
+Type  : Multi-Pack-5 |  Quantity: 24exp   
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : 5f2a25eea5ed4846862cce7ae96c2585
+```
+
+<a href="./archive/00554_000.jpg" target="_blank">
+	<img src="./lowres/00554_000.jpg" alt="Fujifilm Fujicolor C200 35mm film box outside" loading="lazy" width="444" height="500">
+</a>
+
 #### [@Hol.m35] Fujifilm Fujicolor Pro 400H (ref: fb3a)
 
 ```
@@ -646,6 +667,27 @@ UUID  : 8acc893c8082453a8f83a17f3780fb3a
 
 <a href="./archive/00518_000.jpg" target="_blank">
 	<img src="./lowres/00518_000.jpg" alt="Fujifilm Fujicolor Pro 400H 120 film box outside" loading="lazy" width="500" height="238">
+</a>
+
+#### [@Hol.m35] Fujifilm Fujicolor Superia Multi400 (ref: 69f7)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2002-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : 4b1ba64dcf86459eafd45ccd07c569f7
+```
+
+<a href="./archive/00551_000.jpg" target="_blank">
+	<img src="./lowres/00551_000.jpg" alt="Fujifilm Fujicolor Superia Multi400 35mm film box outside" loading="lazy" width="294" height="500">
+</a>
+
+
+`UUID: 4f4492d0823945df8353a4e1bc2052ba`↓
+
+<a href="./archive/00551_001.jpg" target="_blank">
+	<img src="./lowres/00551_001.jpg" alt="Fujifilm Fujicolor Superia Multi400 35mm film box outside" loading="lazy" width="298" height="500">
 </a>
 
 #### [@Hol.m35] Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)
@@ -695,6 +737,48 @@ UUID  : 433055f5732e4d53b4245da4dfe0ef1f
 
 <a href="./archive/00372_000.jpg" target="_blank">
 	<img src="./lowres/00372_000.jpg" alt="Fujifilm Superia Premium 400 35mm film box outside" loading="lazy" width="448" height="500">
+</a>
+
+#### [@Hol.m35] Harman Switch Azure (ref: df9c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 125          |  Expiry  : 2027-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : 85e5b83007814fbd8b1a0c4caaf9df9c
+```
+
+<a href="./archive/00553_000.jpg" target="_blank">
+	<img src="./lowres/00553_000.jpg" alt="Harman Switch Azure 35mm film box outside" loading="lazy" width="484" height="500">
+</a>
+
+
+`UUID: f4b9bf30e757490087b895af7dfa3a8b`↓
+
+<a href="./archive/00553_001.jpg" target="_blank">
+	<img src="./lowres/00553_001.jpg" alt="Harman Switch Azure 35mm film box inside" loading="lazy" width="348" height="499">
+</a>
+
+#### [@Hol.m35] Harman Switch Azure (ref: 31bb)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 125          |  Expiry  : 2027-12 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : f81a19dc94ac47e99249911f97fe31bb
+```
+
+<a href="./archive/00552_000.jpg" target="_blank">
+	<img src="./lowres/00552_000.jpg" alt="Harman Switch Azure 120 film box outside" loading="lazy" width="420" height="499">
+</a>
+
+
+`UUID: 9f700cd952734d0c88e3c26e8525c2bd`↓
+
+<a href="./archive/00552_001.jpg" target="_blank">
+	<img src="./lowres/00552_001.jpg" alt="Harman Switch Azure 120 film box inside" loading="lazy" width="470" height="500">
 </a>
 
 #### [@Hol.m35] Hope Film Bubble (ref: 41f4)
@@ -878,6 +962,27 @@ UUID  : c6cdb442b65a4e83ac71331c8fffe6f8
 
 <a href="./archive/00473_001.jpg" target="_blank">
 	<img src="./lowres/00473_001.jpg" alt="Lucky C200 120 film box inside" loading="lazy" width="481" height="500">
+</a>
+
+#### [@Hol.m35] Lucky C200 (ref: b0cc)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2028-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : 417dc63303e24ed58b36a4fbe55ab0cc
+```
+
+<a href="./archive/00550_000.jpg" target="_blank">
+	<img src="./lowres/00550_000.jpg" alt="Lucky C200 35mm film box outside" loading="lazy" width="391" height="500">
+</a>
+
+
+`UUID: 1d360d80e5b74366a57bb661651a0ea1`↓
+
+<a href="./archive/00550_001.jpg" target="_blank">
+	<img src="./lowres/00550_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="316" height="500">
 </a>
 
 #### [@Hol.m35] Lucky SHD400 (ref: 15b5)
@@ -10382,6 +10487,41 @@ UUID  : 8b04191a9e994df4a219d5bfd9dfc96e
 	<img src="./lowres/00500_000.jpg" alt="CineStill 800T 35mm film box outside" loading="lazy" width="406" height="499">
 </a>
 
+#### [kaimon] Escura Showa Camera Film (ref: 826b)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2026-08 
+Type  : Single Pack  |  Quantity: 30exp   
+Added : 2026-04-13   |  Author  : kaimon  
+UUID  : a87bd544a56a4ee39a2fe6e2db3f826b
+```
+
+<a href="./archive/00555_000.jpg" target="_blank">
+	<img src="./lowres/00555_000.jpg" alt="Escura Showa Camera Film 35mm film box outside" loading="lazy" width="424" height="500">
+</a>
+
+#### [kaimon] Fujifilm Neopan Acros 100 II (ref: 4027)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 100          |  Expiry  : 2007-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-04-13   |  Author  : kaimon  
+UUID  : fbb052b5a0024308b4d11dd3a78b4027
+```
+
+<a href="./archive/00556_000.jpg" target="_blank">
+	<img src="./lowres/00556_000.jpg" alt="Fujifilm Neopan Acros 100 II 120 film box outside" loading="lazy" width="498" height="500">
+</a>
+
+
+`UUID: 56b053f3a12e489396fea4d8db1f6b45`↓
+
+<a href="./archive/00556_001.jpg" target="_blank">
+	<img src="./lowres/00556_001.jpg" alt="Fujifilm Neopan Acros 100 II 120 film box inside" loading="lazy" width="472" height="500">
+</a>
+
 #### [kaimon] Ilford Delta 100 Professional (ref: bf01)
 
 ```
@@ -11562,14 +11702,14 @@ Rank  Username                      Contributions
 4     @ellafridalindblom            67    
 5     @recycling.film               65    
 6     Luci 101                      50    
-7     @Hol.m35                      37    
+7     @Hol.m35                      46    
 8     The Compartmentalist          25    
 9     @ob.skura                     19    
 10    fine-seat                     19    
 11    Camera.Riley                  19    
-12    Nano_Burger                   18    
-13    toader                        17    
-14    kaimon                        16    
+12    kaimon                        19    
+13    Nano_Burger                   18    
+14    toader                        17    
 15    waldoboro                     16    
 16    yc128                         14    
 17    b0baspace                     14    

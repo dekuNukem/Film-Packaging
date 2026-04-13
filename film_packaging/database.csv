@@ -1019,3 +1019,15 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 548,1,film_box_outside,Lomography,Postdam,120,100,BW,202209,1776107818,f9d298391c7cef49b9499a8bb3734846,4590b9bb4e264db4990e69e1b93862f4,00548_001.jpg,@Hol.m35,,Single Pack,N/A
 549,0,film_box_outside,Lomography,Berlin,35mm,400,BW,202804,1776107891,ee280c45d6baa3742134c9ce72b14ab1,f9c71bea8e0942ceab31c4f97ea6d3df,00549_000.jpg,@Hol.m35,,Single Pack,36exp
 549,1,film_box_outside,Lomography,Berlin,35mm,400,BW,202804,1776107892,17f3a132094572d48d1c0c841d89937e,5b7c6a7904af43aa9c02ab476a36d80f,00549_001.jpg,@Hol.m35,,Single Pack,36exp
+550,0,film_box_outside,Lucky,C200,35mm,200,C-41,202802,1776108174,cfa71a8310d74cb43ed8d9dcf229d9b8,417dc63303e24ed58b36a4fbe55ab0cc,00550_000.jpg,@Hol.m35,,Single Pack,36exp
+550,1,film_box_inside,Lucky,C200,35mm,200,C-41,202802,1776108177,282de464eaa1250a06e9177abf403577,1d360d80e5b74366a57bb661651a0ea1,00550_001.jpg,@Hol.m35,,Single Pack,36exp
+551,0,film_box_outside,Fujifilm,Fujicolor Superia Multi400,35mm,400,C-41,200204,1776108284,77af0b1881156766085c693c1f3a098e,4b1ba64dcf86459eafd45ccd07c569f7,00551_000.jpg,@Hol.m35,,Single Pack,36exp
+551,1,film_box_outside,Fujifilm,Fujicolor Superia Multi400,35mm,400,C-41,200204,1776108286,afca86ac092f92282874d38d6d3dbbd8,4f4492d0823945df8353a4e1bc2052ba,00551_001.jpg,@Hol.m35,,Single Pack,36exp
+552,0,film_box_outside,Harman,Switch Azure,120,125,C-41,202712,1776108515,dea5366ca111f7d64105512080d07a33,f81a19dc94ac47e99249911f97fe31bb,00552_000.jpg,@Hol.m35,,Single Pack,N/A
+552,1,film_box_inside,Harman,Switch Azure,120,125,C-41,202712,1776108516,e520faa5429928d67e10cb9abe736cb8,9f700cd952734d0c88e3c26e8525c2bd,00552_001.jpg,@Hol.m35,,Single Pack,N/A
+553,0,film_box_outside,Harman,Switch Azure,35mm,125,C-41,202711,1776108559,e2bc15ad69fb6b13eaf51e396096f008,85e5b83007814fbd8b1a0c4caaf9df9c,00553_000.jpg,@Hol.m35,,Single Pack,36exp
+553,1,film_box_inside,Harman,Switch Azure,35mm,125,C-41,202711,1776108560,94f229de5f7fd2e45cf3730885833f7e,f4b9bf30e757490087b895af7dfa3a8b,00553_001.jpg,@Hol.m35,,Single Pack,36exp
+554,0,film_box_outside,Fujifilm,Fujicolor C200,35mm,200,C-41,201608,1776108636,578e025bc4483de5ead35a55f6e57ed1,5f2a25eea5ed4846862cce7ae96c2585,00554_000.jpg,@Hol.m35,,Multi-Pack-5,24exp
+555,0,film_box_outside,Escura,Showa Camera Film,35mm,400,C-41,202608,1776108989,13624b912365f8b99da96d90328a3e4d,a87bd544a56a4ee39a2fe6e2db3f826b,00555_000.jpg,kaimon,,Single Pack,30exp
+556,0,film_box_outside,Fujifilm,Neopan Acros 100 II,120,100,BW,200701,1776109064,181088b93f941891c67b6782fe6b5389,fbb052b5a0024308b4d11dd3a78b4027,00556_000.jpg,kaimon,,Single Pack,N/A
+556,1,film_box_inside,Fujifilm,Neopan Acros 100 II,120,100,BW,200701,1776109066,b2a0bec2f7e5bd2e21cec7ddb7e90c70,56b053f3a12e489396fea4d8db1f6b45,00556_001.jpg,kaimon,,Single Pack,N/A
