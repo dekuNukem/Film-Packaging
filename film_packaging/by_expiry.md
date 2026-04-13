@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Apr 13 2026
-Unique items: 552
-Total scans : 1032
+Unique items: 561
+Total scans : 1047
 ```
 
 -----
@@ -26,6 +26,7 @@ Total scans : 1032
 - [[1942] Kodak Super Speed Ortho Portrait (ref: b625)](#1942-kodak-super-speed-ortho-portrait-ref-b625)
 - [[1943] Kodak Super-XX (ref: 07c8)](#1943-kodak-super-xx-ref-07c8)
 - [[1944] Agfa Isopan Portrait (ref: b974)](#1944-agfa-isopan-portrait-ref-b974)
+- [[1945] Kodak Plus-X (ref: 99a6)](#1945-kodak-plus-x-ref-99a6)
 - [[1946] Agfa Isopan FF (ref: 3700)](#1946-agfa-isopan-ff-ref-3700)
 - [[1947] Gevaert Superchrome (ref: af27)](#1947-gevaert-superchrome-ref-af27)
 - [[1947] Kodak Verichrome (ref: e465)](#1947-kodak-verichrome-ref-e465)
@@ -318,6 +319,8 @@ Total scans : 1032
 - [[2012] Fujifilm Fujicolor Professional (ref: 28da)](#2012-fujifilm-fujicolor-professional-ref-28da)
 - [[2012] Kodak Kodacolor VR Plus (ref: f8bf)](#2012-kodak-kodacolor-vr-plus-ref-f8bf)
 - [[2012] Ilford HP5 Plus (ref: 11a8)](#2012-ilford-hp5-plus-ref-11a8)
+- [[2012] Lomography Color Negative Film (ref: d986)](#2012-lomography-color-negative-film-ref-d986)
+- [[2013] Lucky C200 (ref: f727)](#2013-lucky-c200-ref-f727)
 - [[2013] Mr. Negative Eterna 250D (ref: 6d6e)](#2013-mr-negative-eterna-250d-ref-6d6e)
 - [[2013] Boots Colour Print Film (ref: a30f)](#2013-boots-colour-print-film-ref-a30f)
 - [[2013] Efke IR 820 Aura (ref: 43c9)](#2013-efke-ir-820-aura-ref-43c9)
@@ -367,11 +370,13 @@ Total scans : 1032
 - [[2023] CineStill 50D (ref: 3452)](#2023-cinestill-50d-ref-3452)
 - [[2023] Kodak Gold (ref: d48d)](#2023-kodak-gold-ref-d48d)
 - [[2023] Kodak TMAX 100 (ref: b3b1)](#2023-kodak-tmax-100-ref-b3b1)
+- [[2023] Polaroid Color i-Type Film (ref: 47a7)](#2023-polaroid-color-i-type-film-ref-47a7)
 - [[2023] CineStill BWXX (ref: 66eb)](#2023-cinestill-bwxx-ref-66eb)
 - [[2023] Fujifilm Fujicolor C200 (ref: a0de)](#2023-fujifilm-fujicolor-c200-ref-a0de)
 - [[2024] Kodak Ektar 100 (ref: 95ec)](#2024-kodak-ektar-100-ref-95ec)
 - [[2024] Mr. Negative 250D (ref: 3574)](#2024-mr-negative-250d-ref-3574)
 - [[2024] Mr. Negative Silver Screen Negative (ref: c968)](#2024-mr-negative-silver-screen-negative-ref-c968)
+- [[2024] Polaroid Color i-Type Film (ref: 32e9)](#2024-polaroid-color-i-type-film-ref-32e9)
 - [[2024] Alien Film 5222/XX (ref: 3e49)](#2024-alien-film-5222xx-ref-3e49)
 - [[2024] CineStill 400Dynamic (ref: 88dc)](#2024-cinestill-400dynamic-ref-88dc)
 - [[2024] Shanghai GP3 (ref: 52aa)](#2024-shanghai-gp3-ref-52aa)
@@ -390,7 +395,9 @@ Total scans : 1032
 - [[2025] Ilford Delta 3200 Professional (ref: 920f)](#2025-ilford-delta-3200-professional-ref-920f)
 - [[2025] Kodak Portra 800 (ref: 7d65)](#2025-kodak-portra-800-ref-7d65)
 - [[2025] Lomography Lomochrome Turquoise (ref: 0d90)](#2025-lomography-lomochrome-turquoise-ref-0d90)
+- [[2025] Polaroid B&W i-Type Film (ref: 963a)](#2025-polaroid-b-w-i-type-film-ref-963a)
 - [[2025] Polaroid Green 600 Film Reclaimed Series (ref: 0180)](#2025-polaroid-green-600-film-reclaimed-series-ref-0180)
+- [[2025] 1Shot Color Print Film (ref: 8cf0)](#2025-1shot-color-print-film-ref-8cf0)
 - [[2025] CineStill 400Dynamic (ref: fccd)](#2025-cinestill-400dynamic-ref-fccd)
 - [[2025] Fujifilm 400 (ref: 82be)](#2025-fujifilm-400-ref-82be)
 - [[2025] Kodak ColorPlus (ref: 79ca)](#2025-kodak-colorplus-ref-79ca)
@@ -423,6 +430,7 @@ Total scans : 1032
 - [[2026] Svema Foto 400 (ref: 26ad)](#2026-svema-foto-400-ref-26ad)
 - [[2026] Hands On Film Midnight 1600 (ref: 4411)](#2026-hands-on-film-midnight-1600-ref-4411)
 - [[2026] Ilford Ilfochrome (ref: ac24)](#2026-ilford-ilfochrome-ref-ac24)
+- [[2026] Kodak Sport Single Use Camera (ref: 4618)](#2026-kodak-sport-single-use-camera-ref-4618)
 - [[2026] Alien Film 5207/250D (ref: 8820)](#2026-alien-film-5207250d-ref-8820)
 - [[2026] Fujifilm 200 (ref: 5b41)](#2026-fujifilm-200-ref-5b41)
 - [[2026] Kodak Gold (ref: 3e7f)](#2026-kodak-gold-ref-3e7f)
@@ -521,6 +529,7 @@ Total scans : 1032
 - [[2028] Ilford HP5 Plus (ref: df49)](#2028-ilford-hp5-plus-ref-df49)
 - [[2028] Rollei RPX 400 (ref: 2155)](#2028-rollei-rpx-400-ref-2155)
 - [[2028] Ilford FP4 Plus (ref: 3bc0)](#2028-ilford-fp4-plus-ref-3bc0)
+- [[2028] Rollei Retro 400S (ref: f345)](#2028-rollei-retro-400s-ref-f345)
 - [[2028] Kentmere PAN 100 (ref: c907)](#2028-kentmere-pan-100-ref-c907)
 - [[2028] Kodak Gold 200 (ref: 3e0b)](#2028-kodak-gold-200-ref-3e0b)
 - [[2029] Ilford FP4 Plus (ref: a431)](#2029-ilford-fp4-plus-ref-a431)
@@ -639,6 +648,20 @@ UUID  : 81ded7f4902d46df8f5dd91868e7b974
 
 <a href="./archive/00483_000.jpg" target="_blank">
 	<img src="./lowres/00483_000.jpg" alt="Agfa Isopan Portrait 12x16.5cm film box outside" loading="lazy" width="500" height="401">
+</a>
+
+#### [1945] Kodak Plus-X (ref: 99a6)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 125          |  Expiry  : 1945-06 
+Type  : Single Pack  |  Quantity: 18exp   
+Added : 2026-04-13   |  Author  : Greg    
+UUID  : e2b224605b0745258cf52515e02099a6
+```
+
+<a href="./archive/00557_000.jpg" target="_blank">
+	<img src="./lowres/00557_000.jpg" alt="Kodak Plus-X 35mm film box outside" loading="lazy" width="431" height="499">
 </a>
 
 #### [1946] Agfa Isopan FF (ref: 3700)
@@ -7057,6 +7080,48 @@ UUID  : dbf3817f506a444b9d394745dba311a8
 	<img src="./lowres/00140_001.jpg" alt="Ilford HP5 Plus 120 film box inside" loading="lazy" width="500" height="453">
 </a>
 
+#### [2012] Lomography Color Negative Film (ref: d986)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2012-12 
+Type  : Multi-Pack-3 |  Quantity: 8exp    
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : 808ce640e530482f9016329c0eb2d986
+```
+
+<a href="./archive/00558_000.jpg" target="_blank">
+	<img src="./lowres/00558_000.jpg" alt="Lomography Color Negative Film 120 film box outside" loading="lazy" width="500" height="380">
+</a>
+
+
+`UUID: 44865d9f476846938a0d9986fd21c796`↓
+
+<a href="./archive/00558_001.jpg" target="_blank">
+	<img src="./lowres/00558_001.jpg" alt="Lomography Color Negative Film 120 film box outside" loading="lazy" width="500" height="349">
+</a>
+
+#### [2013] Lucky C200 (ref: f727)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2013-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-04-13   |  Author  : Dialupdude
+UUID  : 698e4d8dc2ef4a5d8ea7c8d0e0d9f727
+```
+
+<a href="./archive/00560_000.jpg" target="_blank">
+	<img src="./lowres/00560_000.jpg" alt="Lucky C200 35mm film box outside" loading="lazy" width="500" height="407">
+</a>
+
+
+`UUID: 59c76e90f1b947c28da172d2c7f5e2df`↓
+
+<a href="./archive/00560_001.jpg" target="_blank">
+	<img src="./lowres/00560_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="500" height="489">
+</a>
+
 #### [2013] Mr. Negative Eterna 250D (ref: 6d6e)
 
 ```
@@ -7939,6 +8004,27 @@ UUID  : 9a43d0c373354e1989ea7bb7a43db3b1
 	<img src="./lowres/00069_000.jpg" alt="Kodak TMAX 100 120 film box outside" loading="lazy" width="381" height="500">
 </a>
 
+#### [2023] Polaroid Color i-Type Film (ref: 47a7)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2023-07 
+Type  : Single Pack  |  Quantity: 16exp   
+Added : 2026-04-13   |  Author  : Dialupdude
+UUID  : a0f16870196d400eb47971a65ab747a7
+```
+
+<a href="./archive/00563_000.jpg" target="_blank">
+	<img src="./lowres/00563_000.jpg" alt="Polaroid Color i-Type Film Integral Film film box outside" loading="lazy" width="290" height="500">
+</a>
+
+
+`UUID: 0c52f0b46fc847ce8dba3f2f22609100`↓
+
+<a href="./archive/00563_001.jpg" target="_blank">
+	<img src="./lowres/00563_001.jpg" alt="Polaroid Color i-Type Film Integral Film film box inside" loading="lazy" width="303" height="500">
+</a>
+
 #### [2023] CineStill BWXX (ref: 66eb)
 
 ```
@@ -8014,6 +8100,27 @@ UUID  : 4acd5aeda3a34bc89b646a14bb4dc968
 
 <a href="./archive/00323_000.jpg" target="_blank">
 	<img src="./lowres/00323_000.jpg" alt="Mr. Negative Silver Screen Negative 35mm film box outside" loading="lazy" width="490" height="500">
+</a>
+
+#### [2024] Polaroid Color i-Type Film (ref: 32e9)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2024-03 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-04-13   |  Author  : Dialupdude
+UUID  : a66f7c510e5e49e0b14a1165b59d32e9
+```
+
+<a href="./archive/00564_000.jpg" target="_blank">
+	<img src="./lowres/00564_000.jpg" alt="Polaroid Color i-Type Film Integral Film film box outside" loading="lazy" width="269" height="500">
+</a>
+
+
+`UUID: 7cb12adb23de4c09ae158c3f290de943`↓
+
+<a href="./archive/00564_001.jpg" target="_blank">
+	<img src="./lowres/00564_001.jpg" alt="Polaroid Color i-Type Film Integral Film film box inside" loading="lazy" width="280" height="500">
 </a>
 
 #### [2024] Alien Film 5222/XX (ref: 3e49)
@@ -8373,6 +8480,27 @@ UUID  : 99643a4fc27b4ff298e834fc72970d90
 	<img src="./lowres/00008_001.jpg" alt="Lomography Lomochrome Turquoise 120 film box inside" loading="lazy" width="500" height="298">
 </a>
 
+#### [2025] Polaroid B&W i-Type Film (ref: 963a)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2025-07 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-04-13   |  Author  : Dialupdude
+UUID  : d0c5d59f8d974c83b651e1b9e8f7963a
+```
+
+<a href="./archive/00565_000.jpg" target="_blank">
+	<img src="./lowres/00565_000.jpg" alt="Polaroid B&W i-Type Film Integral Film film box outside" loading="lazy" width="238" height="499">
+</a>
+
+
+`UUID: 77ff51132ecc4e08b3c3e93abebe4af8`↓
+
+<a href="./archive/00565_001.jpg" target="_blank">
+	<img src="./lowres/00565_001.jpg" alt="Polaroid B&W i-Type Film Integral Film film box inside" loading="lazy" width="255" height="500">
+</a>
+
 #### [2025] Polaroid Green 600 Film Reclaimed Series (ref: 0180)
 
 ```
@@ -8392,6 +8520,20 @@ UUID  : 613f5e7014704b5bbe28565cfe290180
 
 <a href="./archive/00477_001.jpg" target="_blank">
 	<img src="./lowres/00477_001.jpg" alt="Polaroid Green 600 Film Reclaimed Series Integral Film film box inside" loading="lazy" width="255" height="500">
+</a>
+
+#### [2025] 1Shot Color Print Film (ref: 8cf0)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2025-08 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-04-13   |  Author  : Dialupdude
+UUID  : 7e2a1df614294a7680f4b9478c578cf0
+```
+
+<a href="./archive/00561_000.jpg" target="_blank">
+	<img src="./lowres/00561_000.jpg" alt="1Shot Color Print Film 35mm film box outside" loading="lazy" width="481" height="500">
 </a>
 
 #### [2025] CineStill 400Dynamic (ref: fccd)
@@ -8918,6 +9060,20 @@ UUID  : e7713fa57cac41e3ae3f416f3ea5ac24
 
 <a href="./archive/00302_000.jpg" target="_blank">
 	<img src="./lowres/00302_000.jpg" alt="Ilford Ilfochrome 35mm film box outside" loading="lazy" width="410" height="499">
+</a>
+
+#### [2026] Kodak Sport Single Use Camera (ref: 4618)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2026-05 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-04-13   |  Author  : Dialupdude
+UUID  : e9b9c65612ae498080917cde3fd94618
+```
+
+<a href="./archive/00562_000.jpg" target="_blank">
+	<img src="./lowres/00562_000.jpg" alt="Kodak Sport Single Use Camera 35mm film box outside" loading="lazy" width="303" height="500">
 </a>
 
 #### [2026] Alien Film 5207/250D (ref: 8820)
@@ -10687,6 +10843,27 @@ UUID  : c1bab96948014588adbde72665853bc0
 	<img src="./lowres/00304_001.jpg" alt="Ilford FP4 Plus 35mm film box inside" loading="lazy" width="443" height="500">
 </a>
 
+#### [2028] Rollei Retro 400S (ref: f345)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2028-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : 1a8dc35eb6684e78b2a15dbbe362f345
+```
+
+<a href="./archive/00559_000.jpg" target="_blank">
+	<img src="./lowres/00559_000.jpg" alt="Rollei Retro 400S 35mm film box outside" loading="lazy" width="458" height="499">
+</a>
+
+
+`UUID: a7b5c23d62b248df98ed3a4a4979afaf`↓
+
+<a href="./archive/00559_001.jpg" target="_blank">
+	<img src="./lowres/00559_001.jpg" alt="Rollei Retro 400S 35mm film box inside" loading="lazy" width="427" height="500">
+</a>
+
 #### [2028] Kentmere PAN 100 (ref: c907)
 
 ```
@@ -11701,8 +11878,8 @@ Rank  Username                      Contributions
 3     Pelicram                      68    
 4     @ellafridalindblom            67    
 5     @recycling.film               65    
-6     Luci 101                      50    
-7     @Hol.m35                      46    
+6     @Hol.m35                      50    
+7     Luci 101                      50    
 8     The Compartmentalist          25    
 9     @ob.skura                     19    
 10    fine-seat                     19    
@@ -11719,27 +11896,29 @@ Rank  Username                      Contributions
 21    Chrisbes                      11    
 22    @zruk_ts                      10    
 23    minidiscus                    10    
-24    lilyu.xyz                     9     
-25    lt_col_tall                   9     
-26    @toastergod101                7     
-27    @filmfotofella                7     
-28    GreatGizmo74                  6     
-29    nick                          6     
-30    Kraksen                       5     
-31    Henry Gunn                    4     
-32    TheSelousScout                4     
-33    @sachynmital                  3     
-34    Tallbird Cowboy               3     
-35    @seklerek                     2     
-36    @ftfilmphotos                 2     
-37    @gregrouxphotography          2     
-38    Tobias                        2     
-39    @tylerdrey                    2     
-40    Yrikonchik                    1     
-41    @ad.astra.per.aspera.1894     1     
-42    Aoi Yuki                      1     
-43    lemoniter                     1     
-44    @shotbyliampewpew             1     
+24    Dialupdude                    10    
+25    lilyu.xyz                     9     
+26    lt_col_tall                   9     
+27    @toastergod101                7     
+28    @filmfotofella                7     
+29    GreatGizmo74                  6     
+30    nick                          6     
+31    Kraksen                       5     
+32    Henry Gunn                    4     
+33    TheSelousScout                4     
+34    @sachynmital                  3     
+35    Tallbird Cowboy               3     
+36    @seklerek                     2     
+37    @ftfilmphotos                 2     
+38    @gregrouxphotography          2     
+39    Tobias                        2     
+40    @tylerdrey                    2     
+41    Yrikonchik                    1     
+42    @ad.astra.per.aspera.1894     1     
+43    Aoi Yuki                      1     
+44    lemoniter                     1     
+45    @shotbyliampewpew             1     
+46    Greg                          1     
 ```
 
 ## Questions or Comments?

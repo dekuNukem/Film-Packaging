@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Apr 13 2026
-Unique items: 552
-Total scans : 1032
+Unique items: 561
+Total scans : 1047
 ```
 
 -----
@@ -40,6 +40,7 @@ Total scans : 1032
 - [[@Hol.m35] Lomography Berlin (ref: 246a)](#holm35-lomography-berlin-ref-246a)
 - [[@Hol.m35] Lomography Berlin (ref: d3df)](#holm35-lomography-berlin-ref-d3df)
 - [[@Hol.m35] Lomography Color Negative 800 (ref: 7796)](#holm35-lomography-color-negative-800-ref-7796)
+- [[@Hol.m35] Lomography Color Negative Film (ref: d986)](#holm35-lomography-color-negative-film-ref-d986)
 - [[@Hol.m35] Lomography Postdam (ref: 2769)](#holm35-lomography-postdam-ref-2769)
 - [[@Hol.m35] Lomography Postdam (ref: d0c6)](#holm35-lomography-postdam-ref-d0c6)
 - [[@Hol.m35] Lucky C200 (ref: e6f8)](#holm35-lucky-c200-ref-e6f8)
@@ -50,6 +51,7 @@ Total scans : 1032
 - [[@Hol.m35] Optik Oldschool OptiColour 200 (ref: 80d7)](#holm35-optik-oldschool-opticolour-200-ref-80d7)
 - [[@Hol.m35] Optik Oldschool SantaColor (ref: dd85)](#holm35-optik-oldschool-santacolor-ref-dd85)
 - [[@Hol.m35] Rollei Retro 400S (ref: f2cf)](#holm35-rollei-retro-400s-ref-f2cf)
+- [[@Hol.m35] Rollei Retro 400S (ref: f345)](#holm35-rollei-retro-400s-ref-f345)
 - [[@Hol.m35] Street Candy Film ATM400 (ref: 4380)](#holm35-street-candy-film-atm400-ref-4380)
 - [[@SirBrentsworth] CineStill 800T (ref: b3ff)](#sirbrentsworth-cinestill-800t-ref-b3ff)
 - [[@SirBrentsworth] Ilford HP5 Plus (ref: df49)](#sirbrentsworth-ilford-hp5-plus-ref-df49)
@@ -248,8 +250,15 @@ Total scans : 1032
 - [[Chrisbes] Reflx Lab 400D (ref: 5801)](#chrisbes-reflx-lab-400d-ref-5801)
 - [[Chrisbes] Reflx Lab 640T AHU (ref: 2ce9)](#chrisbes-reflx-lab-640t-ahu-ref-2ce9)
 - [[Chrisbes] Reflx Lab 800T (ref: 6b6b)](#chrisbes-reflx-lab-800t-ref-6b6b)
+- [[Dialupdude] 1Shot Color Print Film (ref: 8cf0)](#dialupdude-1shot-color-print-film-ref-8cf0)
+- [[Dialupdude] Kodak Sport Single Use Camera (ref: 4618)](#dialupdude-kodak-sport-single-use-camera-ref-4618)
+- [[Dialupdude] Lucky C200 (ref: f727)](#dialupdude-lucky-c200-ref-f727)
+- [[Dialupdude] Polaroid B&W i-Type Film (ref: 963a)](#dialupdude-polaroid-b-w-i-type-film-ref-963a)
+- [[Dialupdude] Polaroid Color i-Type Film (ref: 47a7)](#dialupdude-polaroid-color-i-type-film-ref-47a7)
+- [[Dialupdude] Polaroid Color i-Type Film (ref: 32e9)](#dialupdude-polaroid-color-i-type-film-ref-32e9)
 - [[GreatGizmo74] Jessops CS100 (ref: 4288)](#greatgizmo74-jessops-cs100-ref-4288)
 - [[GreatGizmo74] Jessops Diamond Everyday (ref: 6d5a)](#greatgizmo74-jessops-diamond-everyday-ref-6d5a)
+- [[Greg] Kodak Plus-X (ref: 99a6)](#greg-kodak-plus-x-ref-99a6)
 - [[Henry Gunn] Kodak High Speed Ektachrome (ref: b8f8)](#henry-gunn-kodak-high-speed-ektachrome-ref-b8f8)
 - [[Henry Gunn] Tasma OCh 50 (ref: 5c43)](#henry-gunn-tasma-och-50-ref-5c43)
 - [[Kraksen] Agfa Agfapan APX 100 (ref: e271)](#kraksen-agfa-agfapan-apx-100-ref-e271)
@@ -900,6 +909,27 @@ UUID  : 7daedd3c10164aa3a9ca3f7a9eae7796
 	<img src="./lowres/00495_001.jpg" alt="Lomography Color Negative 800 35mm film box outside" loading="lazy" width="500" height="423">
 </a>
 
+#### [@Hol.m35] Lomography Color Negative Film (ref: d986)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2012-12 
+Type  : Multi-Pack-3 |  Quantity: 8exp    
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : 808ce640e530482f9016329c0eb2d986
+```
+
+<a href="./archive/00558_000.jpg" target="_blank">
+	<img src="./lowres/00558_000.jpg" alt="Lomography Color Negative Film 120 film box outside" loading="lazy" width="500" height="380">
+</a>
+
+
+`UUID: 44865d9f476846938a0d9986fd21c796`↓
+
+<a href="./archive/00558_001.jpg" target="_blank">
+	<img src="./lowres/00558_001.jpg" alt="Lomography Color Negative Film 120 film box outside" loading="lazy" width="500" height="349">
+</a>
+
 #### [@Hol.m35] Lomography Postdam (ref: 2769)
 
 ```
@@ -1089,6 +1119,27 @@ UUID  : 17064b735c704134b793c63b583ef2cf
 
 <a href="./archive/00508_001.jpg" target="_blank">
 	<img src="./lowres/00508_001.jpg" alt="Rollei Retro 400S 120 film box inside" loading="lazy" width="500" height="465">
+</a>
+
+#### [@Hol.m35] Rollei Retro 400S (ref: f345)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2028-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : 1a8dc35eb6684e78b2a15dbbe362f345
+```
+
+<a href="./archive/00559_000.jpg" target="_blank">
+	<img src="./lowres/00559_000.jpg" alt="Rollei Retro 400S 35mm film box outside" loading="lazy" width="458" height="499">
+</a>
+
+
+`UUID: a7b5c23d62b248df98ed3a4a4979afaf`↓
+
+<a href="./archive/00559_001.jpg" target="_blank">
+	<img src="./lowres/00559_001.jpg" alt="Rollei Retro 400S 35mm film box inside" loading="lazy" width="427" height="500">
 </a>
 
 #### [@Hol.m35] Street Candy Film ATM400 (ref: 4380)
@@ -4616,6 +4667,118 @@ UUID  : 7b18320ad3d04332afde69a847606b6b
 	<img src="./lowres/00468_000.jpg" alt="Reflx Lab 800T 35mm film box outside" loading="lazy" width="419" height="500">
 </a>
 
+#### [Dialupdude] 1Shot Color Print Film (ref: 8cf0)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2025-08 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-04-13   |  Author  : Dialupdude
+UUID  : 7e2a1df614294a7680f4b9478c578cf0
+```
+
+<a href="./archive/00561_000.jpg" target="_blank">
+	<img src="./lowres/00561_000.jpg" alt="1Shot Color Print Film 35mm film box outside" loading="lazy" width="481" height="500">
+</a>
+
+#### [Dialupdude] Kodak Sport Single Use Camera (ref: 4618)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2026-05 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-04-13   |  Author  : Dialupdude
+UUID  : e9b9c65612ae498080917cde3fd94618
+```
+
+<a href="./archive/00562_000.jpg" target="_blank">
+	<img src="./lowres/00562_000.jpg" alt="Kodak Sport Single Use Camera 35mm film box outside" loading="lazy" width="303" height="500">
+</a>
+
+#### [Dialupdude] Lucky C200 (ref: f727)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2013-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-04-13   |  Author  : Dialupdude
+UUID  : 698e4d8dc2ef4a5d8ea7c8d0e0d9f727
+```
+
+<a href="./archive/00560_000.jpg" target="_blank">
+	<img src="./lowres/00560_000.jpg" alt="Lucky C200 35mm film box outside" loading="lazy" width="500" height="407">
+</a>
+
+
+`UUID: 59c76e90f1b947c28da172d2c7f5e2df`↓
+
+<a href="./archive/00560_001.jpg" target="_blank">
+	<img src="./lowres/00560_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="500" height="489">
+</a>
+
+#### [Dialupdude] Polaroid B&W i-Type Film (ref: 963a)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2025-07 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-04-13   |  Author  : Dialupdude
+UUID  : d0c5d59f8d974c83b651e1b9e8f7963a
+```
+
+<a href="./archive/00565_000.jpg" target="_blank">
+	<img src="./lowres/00565_000.jpg" alt="Polaroid B&W i-Type Film Integral Film film box outside" loading="lazy" width="238" height="499">
+</a>
+
+
+`UUID: 77ff51132ecc4e08b3c3e93abebe4af8`↓
+
+<a href="./archive/00565_001.jpg" target="_blank">
+	<img src="./lowres/00565_001.jpg" alt="Polaroid B&W i-Type Film Integral Film film box inside" loading="lazy" width="255" height="500">
+</a>
+
+#### [Dialupdude] Polaroid Color i-Type Film (ref: 47a7)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2023-07 
+Type  : Single Pack  |  Quantity: 16exp   
+Added : 2026-04-13   |  Author  : Dialupdude
+UUID  : a0f16870196d400eb47971a65ab747a7
+```
+
+<a href="./archive/00563_000.jpg" target="_blank">
+	<img src="./lowres/00563_000.jpg" alt="Polaroid Color i-Type Film Integral Film film box outside" loading="lazy" width="290" height="500">
+</a>
+
+
+`UUID: 0c52f0b46fc847ce8dba3f2f22609100`↓
+
+<a href="./archive/00563_001.jpg" target="_blank">
+	<img src="./lowres/00563_001.jpg" alt="Polaroid Color i-Type Film Integral Film film box inside" loading="lazy" width="303" height="500">
+</a>
+
+#### [Dialupdude] Polaroid Color i-Type Film (ref: 32e9)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2024-03 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-04-13   |  Author  : Dialupdude
+UUID  : a66f7c510e5e49e0b14a1165b59d32e9
+```
+
+<a href="./archive/00564_000.jpg" target="_blank">
+	<img src="./lowres/00564_000.jpg" alt="Polaroid Color i-Type Film Integral Film film box outside" loading="lazy" width="269" height="500">
+</a>
+
+
+`UUID: 7cb12adb23de4c09ae158c3f290de943`↓
+
+<a href="./archive/00564_001.jpg" target="_blank">
+	<img src="./lowres/00564_001.jpg" alt="Polaroid Color i-Type Film Integral Film film box inside" loading="lazy" width="280" height="500">
+</a>
+
 #### [GreatGizmo74] Jessops CS100 (ref: 4288)
 
 ```
@@ -4670,6 +4833,20 @@ UUID  : 44e526db85e94a63ac582d20a1cc6d5a
 
 <a href="./archive/00335_001.jpg" target="_blank">
 	<img src="./lowres/00335_001.jpg" alt="Jessops Diamond Everyday 35mm film box inside" loading="lazy" width="414" height="500">
+</a>
+
+#### [Greg] Kodak Plus-X (ref: 99a6)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 125          |  Expiry  : 1945-06 
+Type  : Single Pack  |  Quantity: 18exp   
+Added : 2026-04-13   |  Author  : Greg    
+UUID  : e2b224605b0745258cf52515e02099a6
+```
+
+<a href="./archive/00557_000.jpg" target="_blank">
+	<img src="./lowres/00557_000.jpg" alt="Kodak Plus-X 35mm film box outside" loading="lazy" width="431" height="499">
 </a>
 
 #### [Henry Gunn] Kodak High Speed Ektachrome (ref: b8f8)
@@ -11701,8 +11878,8 @@ Rank  Username                      Contributions
 3     Pelicram                      68    
 4     @ellafridalindblom            67    
 5     @recycling.film               65    
-6     Luci 101                      50    
-7     @Hol.m35                      46    
+6     @Hol.m35                      50    
+7     Luci 101                      50    
 8     The Compartmentalist          25    
 9     @ob.skura                     19    
 10    fine-seat                     19    
@@ -11719,27 +11896,29 @@ Rank  Username                      Contributions
 21    Chrisbes                      11    
 22    @zruk_ts                      10    
 23    minidiscus                    10    
-24    lilyu.xyz                     9     
-25    lt_col_tall                   9     
-26    @toastergod101                7     
-27    @filmfotofella                7     
-28    GreatGizmo74                  6     
-29    nick                          6     
-30    Kraksen                       5     
-31    Henry Gunn                    4     
-32    TheSelousScout                4     
-33    @sachynmital                  3     
-34    Tallbird Cowboy               3     
-35    @seklerek                     2     
-36    @ftfilmphotos                 2     
-37    @gregrouxphotography          2     
-38    Tobias                        2     
-39    @tylerdrey                    2     
-40    Yrikonchik                    1     
-41    @ad.astra.per.aspera.1894     1     
-42    Aoi Yuki                      1     
-43    lemoniter                     1     
-44    @shotbyliampewpew             1     
+24    Dialupdude                    10    
+25    lilyu.xyz                     9     
+26    lt_col_tall                   9     
+27    @toastergod101                7     
+28    @filmfotofella                7     
+29    GreatGizmo74                  6     
+30    nick                          6     
+31    Kraksen                       5     
+32    Henry Gunn                    4     
+33    TheSelousScout                4     
+34    @sachynmital                  3     
+35    Tallbird Cowboy               3     
+36    @seklerek                     2     
+37    @ftfilmphotos                 2     
+38    @gregrouxphotography          2     
+39    Tobias                        2     
+40    @tylerdrey                    2     
+41    Yrikonchik                    1     
+42    @ad.astra.per.aspera.1894     1     
+43    Aoi Yuki                      1     
+44    lemoniter                     1     
+45    @shotbyliampewpew             1     
+46    Greg                          1     
 ```
 
 ## Questions or Comments?

@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Apr 13 2026
-Unique items: 552
-Total scans : 1032
+Unique items: 561
+Total scans : 1047
 ```
 
 -----
@@ -138,6 +138,7 @@ Total scans : 1032
 - [[120] Konica Infrared 750nm (ref: 2d93)](#120-konica-infrared-750nm-ref-2d93)
 - [[120] Konica Sepia Professional (ref: 0b40)](#120-konica-sepia-professional-ref-0b40)
 - [[120] Lomography Berlin (ref: 246a)](#120-lomography-berlin-ref-246a)
+- [[120] Lomography Color Negative Film (ref: d986)](#120-lomography-color-negative-film-ref-d986)
 - [[120] Lomography Color Negative Film (ref: 1529)](#120-lomography-color-negative-film-ref-1529)
 - [[120] Lomography Lomochrome Color'92 (ref: 9fdb)](#120-lomography-lomochrome-color92-ref-9fdb)
 - [[120] Lomography Lomochrome Color’92 (ref: 0960)](#120-lomography-lomochrome-color-92-ref-0960)
@@ -201,6 +202,7 @@ Total scans : 1032
 - [[220] Kodak Ektachrome 100 Plus (ref: 0183)](#220-kodak-ektachrome-100-plus-ref-0183)
 - [[220] Kodak Ektacolor Pro Gold (ref: c3f8)](#220-kodak-ektacolor-pro-gold-ref-c3f8)
 - [[220] Reflx Lab Pro 100 (ref: 1311)](#220-reflx-lab-pro-100-ref-1311)
+- [[35mm] 1Shot Color Print Film (ref: 8cf0)](#35mm-1shot-color-print-film-ref-8cf0)
 - [[35mm] ADOX CHS 100 II (ref: 8adf)](#35mm-adox-chs-100-ii-ref-8adf)
 - [[35mm] ADOX CMS 20 II Pro (ref: 0bea)](#35mm-adox-cms-20-ii-pro-ref-0bea)
 - [[35mm] ADOX HR 50 (ref: 4da7)](#35mm-adox-hr-50-ref-4da7)
@@ -406,6 +408,7 @@ Total scans : 1032
 - [[35mm] Kodak Panatomic-X (ref: 7ed1)](#35mm-kodak-panatomic-x-ref-7ed1)
 - [[35mm] Kodak Panatomic-X (ref: 8d69)](#35mm-kodak-panatomic-x-ref-8d69)
 - [[35mm] Kodak Panatomic-X (ref: 35f6)](#35mm-kodak-panatomic-x-ref-35f6)
+- [[35mm] Kodak Plus-X (ref: 99a6)](#35mm-kodak-plus-x-ref-99a6)
 - [[35mm] Kodak Plus-X (ref: 4b73)](#35mm-kodak-plus-x-ref-4b73)
 - [[35mm] Kodak Plus-X (ref: b867)](#35mm-kodak-plus-x-ref-b867)
 - [[35mm] Kodak Plus-X (ref: 7958)](#35mm-kodak-plus-x-ref-7958)
@@ -421,6 +424,7 @@ Total scans : 1032
 - [[35mm] Kodak ProImage 100 (ref: fe32)](#35mm-kodak-proimage-100-ref-fe32)
 - [[35mm] Kodak Professional Microfilm Type I (ref: a444)](#35mm-kodak-professional-microfilm-type-i-ref-a444)
 - [[35mm] Kodak Rapid Process Copy Film (ref: e66e)](#35mm-kodak-rapid-process-copy-film-ref-e66e)
+- [[35mm] Kodak Sport Single Use Camera (ref: 4618)](#35mm-kodak-sport-single-use-camera-ref-4618)
 - [[35mm] Kodak TMAX 400 (ref: a34d)](#35mm-kodak-tmax-400-ref-a34d)
 - [[35mm] Kodak TMAX P3200 (ref: 1dff)](#35mm-kodak-tmax-p3200-ref-1dff)
 - [[35mm] Kodak TMAX P3200 (ref: 521a)](#35mm-kodak-tmax-p3200-ref-521a)
@@ -454,6 +458,7 @@ Total scans : 1032
 - [[35mm] Lomography Lomochrome Purple (ref: 8b00)](#35mm-lomography-lomochrome-purple-ref-8b00)
 - [[35mm] Lomography Lomochrome Purple (ref: 068f)](#35mm-lomography-lomochrome-purple-ref-068f)
 - [[35mm] Lomography Postdam (ref: d0c6)](#35mm-lomography-postdam-ref-d0c6)
+- [[35mm] Lucky C200 (ref: f727)](#35mm-lucky-c200-ref-f727)
 - [[35mm] Lucky C200 (ref: 9c6c)](#35mm-lucky-c200-ref-9c6c)
 - [[35mm] Lucky C200 (ref: b0cc)](#35mm-lucky-c200-ref-b0cc)
 - [[35mm] Marix Professional Negative Movie Color Film (ref: c457)](#35mm-marix-professional-negative-movie-color-film-ref-c457)
@@ -496,6 +501,7 @@ Total scans : 1032
 - [[35mm] Rollei RPX 25 (ref: b14c)](#35mm-rollei-rpx-25-ref-b14c)
 - [[35mm] Rollei RPX 400 (ref: c097)](#35mm-rollei-rpx-400-ref-c097)
 - [[35mm] Rollei RPX 400 (ref: 2155)](#35mm-rollei-rpx-400-ref-2155)
+- [[35mm] Rollei Retro 400S (ref: f345)](#35mm-rollei-retro-400s-ref-f345)
 - [[35mm] Rollei Retro 80S (ref: e23d)](#35mm-rollei-retro-80s-ref-e23d)
 - [[35mm] Rollei SUPERPAN 200 (ref: ee8f)](#35mm-rollei-superpan-200-ref-ee8f)
 - [[35mm] Rossmann Jahreszeiten Pack (ref: 7670)](#35mm-rossmann-jahreszeiten-pack-ref-7670)
@@ -557,9 +563,12 @@ Total scans : 1032
 - [[Integral Film] Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras (ref: 861c)](#integral-film-impossible-project-color-instant-film-for-polaroid-sx-70-type-cameras-ref-861c)
 - [[Integral Film] Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)](#integral-film-impossible-project-px-600-silver-shade-uv-ref-20f3)
 - [[Integral Film] Polaroid 990 (ref: e3bc)](#integral-film-polaroid-990-ref-e3bc)
+- [[Integral Film] Polaroid B&W i-Type Film (ref: 963a)](#integral-film-polaroid-b-w-i-type-film-ref-963a)
 - [[Integral Film] Polaroid Color 600 Film (ref: e12f)](#integral-film-polaroid-color-600-film-ref-e12f)
 - [[Integral Film] Polaroid Color 600 Film Round Frame (ref: d985)](#integral-film-polaroid-color-600-film-round-frame-ref-d985)
 - [[Integral Film] Polaroid Color SX-70 Film (ref: dc7f)](#integral-film-polaroid-color-sx-70-film-ref-dc7f)
+- [[Integral Film] Polaroid Color i-Type Film (ref: 47a7)](#integral-film-polaroid-color-i-type-film-ref-47a7)
+- [[Integral Film] Polaroid Color i-Type Film (ref: 32e9)](#integral-film-polaroid-color-i-type-film-ref-32e9)
 - [[Integral Film] Polaroid Green 600 Film Reclaimed Series (ref: 0180)](#integral-film-polaroid-green-600-film-reclaimed-series-ref-0180)
 - [[Integral Film] Polaroid GridFilm (ref: 8deb)](#integral-film-polaroid-gridfilm-ref-8deb)
 - [[Integral Film] Polaroid Image Instant Film (ref: ee6d)](#integral-film-polaroid-image-instant-film-ref-ee6d)
@@ -3091,6 +3100,27 @@ UUID  : 11a01c72e7184305af18b815eed7246a
 	<img src="./lowres/00494_001.jpg" alt="Lomography Berlin 120 film box outside" loading="lazy" width="500" height="254">
 </a>
 
+#### [120] Lomography Color Negative Film (ref: d986)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2012-12 
+Type  : Multi-Pack-3 |  Quantity: 8exp    
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : 808ce640e530482f9016329c0eb2d986
+```
+
+<a href="./archive/00558_000.jpg" target="_blank">
+	<img src="./lowres/00558_000.jpg" alt="Lomography Color Negative Film 120 film box outside" loading="lazy" width="500" height="380">
+</a>
+
+
+`UUID: 44865d9f476846938a0d9986fd21c796`↓
+
+<a href="./archive/00558_001.jpg" target="_blank">
+	<img src="./lowres/00558_001.jpg" alt="Lomography Color Negative Film 120 film box outside" loading="lazy" width="500" height="349">
+</a>
+
 #### [120] Lomography Color Negative Film (ref: 1529)
 
 ```
@@ -4384,6 +4414,20 @@ UUID  : f7bc85a093744f3084883876ecc51311
 
 <a href="./archive/00195_000.jpg" target="_blank">
 	<img src="./lowres/00195_000.jpg" alt="Reflx Lab Pro 100 220 film box outside" loading="lazy" width="500" height="413">
+</a>
+
+#### [35mm] 1Shot Color Print Film (ref: 8cf0)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2025-08 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-04-13   |  Author  : Dialupdude
+UUID  : 7e2a1df614294a7680f4b9478c578cf0
+```
+
+<a href="./archive/00561_000.jpg" target="_blank">
+	<img src="./lowres/00561_000.jpg" alt="1Shot Color Print Film 35mm film box outside" loading="lazy" width="481" height="500">
 </a>
 
 #### [35mm] ADOX CHS 100 II (ref: 8adf)
@@ -8310,6 +8354,20 @@ UUID  : 475b6bf4c66141b48fc73ace756435f6
 	<img src="./lowres/00192_002.jpg" alt="Kodak Panatomic-X 35mm film box leaflet" loading="lazy" width="174" height="500">
 </a>
 
+#### [35mm] Kodak Plus-X (ref: 99a6)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 125          |  Expiry  : 1945-06 
+Type  : Single Pack  |  Quantity: 18exp   
+Added : 2026-04-13   |  Author  : Greg    
+UUID  : e2b224605b0745258cf52515e02099a6
+```
+
+<a href="./archive/00557_000.jpg" target="_blank">
+	<img src="./lowres/00557_000.jpg" alt="Kodak Plus-X 35mm film box outside" loading="lazy" width="431" height="499">
+</a>
+
 #### [35mm] Kodak Plus-X (ref: 4b73)
 
 ```
@@ -8546,6 +8604,20 @@ UUID  : 396a3645cb9a40a4b0a6dd2fd854e66e
 
 <a href="./archive/00105_002.jpg" target="_blank">
 	<img src="./lowres/00105_002.jpg" alt="Kodak Rapid Process Copy Film 35mm film box inside" loading="lazy" width="166" height="500">
+</a>
+
+#### [35mm] Kodak Sport Single Use Camera (ref: 4618)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2026-05 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-04-13   |  Author  : Dialupdude
+UUID  : e9b9c65612ae498080917cde3fd94618
+```
+
+<a href="./archive/00562_000.jpg" target="_blank">
+	<img src="./lowres/00562_000.jpg" alt="Kodak Sport Single Use Camera 35mm film box outside" loading="lazy" width="303" height="500">
 </a>
 
 #### [35mm] Kodak TMAX 400 (ref: a34d)
@@ -9107,6 +9179,27 @@ Notes : Black & White POSTDAM 35mm Kino Film
 
 <a href="./archive/00475_001.jpg" target="_blank">
 	<img src="./lowres/00475_001.jpg" alt="Lomography Postdam 35mm film box inside" loading="lazy" width="500" height="371">
+</a>
+
+#### [35mm] Lucky C200 (ref: f727)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2013-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-04-13   |  Author  : Dialupdude
+UUID  : 698e4d8dc2ef4a5d8ea7c8d0e0d9f727
+```
+
+<a href="./archive/00560_000.jpg" target="_blank">
+	<img src="./lowres/00560_000.jpg" alt="Lucky C200 35mm film box outside" loading="lazy" width="500" height="407">
+</a>
+
+
+`UUID: 59c76e90f1b947c28da172d2c7f5e2df`↓
+
+<a href="./archive/00560_001.jpg" target="_blank">
+	<img src="./lowres/00560_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="500" height="489">
 </a>
 
 #### [35mm] Lucky C200 (ref: 9c6c)
@@ -10052,6 +10145,27 @@ UUID  : 19ef81d6d03844b088250c7b54032155
 
 <a href="./archive/00136_001.jpg" target="_blank">
 	<img src="./lowres/00136_001.jpg" alt="Rollei RPX 400 35mm film box inside" loading="lazy" width="500" height="436">
+</a>
+
+#### [35mm] Rollei Retro 400S (ref: f345)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2028-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : 1a8dc35eb6684e78b2a15dbbe362f345
+```
+
+<a href="./archive/00559_000.jpg" target="_blank">
+	<img src="./lowres/00559_000.jpg" alt="Rollei Retro 400S 35mm film box outside" loading="lazy" width="458" height="499">
+</a>
+
+
+`UUID: a7b5c23d62b248df98ed3a4a4979afaf`↓
+
+<a href="./archive/00559_001.jpg" target="_blank">
+	<img src="./lowres/00559_001.jpg" alt="Rollei Retro 400S 35mm film box inside" loading="lazy" width="427" height="500">
 </a>
 
 #### [35mm] Rollei Retro 80S (ref: e23d)
@@ -11238,6 +11352,27 @@ UUID  : 79f8183905d443aaaab84c6f0944e3bc
 	<img src="./lowres/00349_003.jpg" alt="Polaroid 990 Integral Film film box inside" loading="lazy" width="484" height="500">
 </a>
 
+#### [Integral Film] Polaroid B&W i-Type Film (ref: 963a)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2025-07 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-04-13   |  Author  : Dialupdude
+UUID  : d0c5d59f8d974c83b651e1b9e8f7963a
+```
+
+<a href="./archive/00565_000.jpg" target="_blank">
+	<img src="./lowres/00565_000.jpg" alt="Polaroid B&W i-Type Film Integral Film film box outside" loading="lazy" width="238" height="499">
+</a>
+
+
+`UUID: 77ff51132ecc4e08b3c3e93abebe4af8`↓
+
+<a href="./archive/00565_001.jpg" target="_blank">
+	<img src="./lowres/00565_001.jpg" alt="Polaroid B&W i-Type Film Integral Film film box inside" loading="lazy" width="255" height="500">
+</a>
+
 #### [Integral Film] Polaroid Color 600 Film (ref: e12f)
 
 ```
@@ -11341,6 +11476,48 @@ UUID  : b4af154cea6f40c0aa1d4154d0c2dc7f
 
 <a href="./archive/00156_003.jpg" target="_blank">
 	<img src="./lowres/00156_003.jpg" alt="Polaroid Color SX-70 Film Integral Film film box inside" loading="lazy" width="425" height="499">
+</a>
+
+#### [Integral Film] Polaroid Color i-Type Film (ref: 47a7)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2023-07 
+Type  : Single Pack  |  Quantity: 16exp   
+Added : 2026-04-13   |  Author  : Dialupdude
+UUID  : a0f16870196d400eb47971a65ab747a7
+```
+
+<a href="./archive/00563_000.jpg" target="_blank">
+	<img src="./lowres/00563_000.jpg" alt="Polaroid Color i-Type Film Integral Film film box outside" loading="lazy" width="290" height="500">
+</a>
+
+
+`UUID: 0c52f0b46fc847ce8dba3f2f22609100`↓
+
+<a href="./archive/00563_001.jpg" target="_blank">
+	<img src="./lowres/00563_001.jpg" alt="Polaroid Color i-Type Film Integral Film film box inside" loading="lazy" width="303" height="500">
+</a>
+
+#### [Integral Film] Polaroid Color i-Type Film (ref: 32e9)
+
+```
+Format: Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2024-03 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-04-13   |  Author  : Dialupdude
+UUID  : a66f7c510e5e49e0b14a1165b59d32e9
+```
+
+<a href="./archive/00564_000.jpg" target="_blank">
+	<img src="./lowres/00564_000.jpg" alt="Polaroid Color i-Type Film Integral Film film box outside" loading="lazy" width="269" height="500">
+</a>
+
+
+`UUID: 7cb12adb23de4c09ae158c3f290de943`↓
+
+<a href="./archive/00564_001.jpg" target="_blank">
+	<img src="./lowres/00564_001.jpg" alt="Polaroid Color i-Type Film Integral Film film box inside" loading="lazy" width="280" height="500">
 </a>
 
 #### [Integral Film] Polaroid Green 600 Film Reclaimed Series (ref: 0180)
@@ -11701,8 +11878,8 @@ Rank  Username                      Contributions
 3     Pelicram                      68    
 4     @ellafridalindblom            67    
 5     @recycling.film               65    
-6     Luci 101                      50    
-7     @Hol.m35                      46    
+6     @Hol.m35                      50    
+7     Luci 101                      50    
 8     The Compartmentalist          25    
 9     @ob.skura                     19    
 10    fine-seat                     19    
@@ -11719,27 +11896,29 @@ Rank  Username                      Contributions
 21    Chrisbes                      11    
 22    @zruk_ts                      10    
 23    minidiscus                    10    
-24    lilyu.xyz                     9     
-25    lt_col_tall                   9     
-26    @toastergod101                7     
-27    @filmfotofella                7     
-28    GreatGizmo74                  6     
-29    nick                          6     
-30    Kraksen                       5     
-31    Henry Gunn                    4     
-32    TheSelousScout                4     
-33    @sachynmital                  3     
-34    Tallbird Cowboy               3     
-35    @seklerek                     2     
-36    @ftfilmphotos                 2     
-37    @gregrouxphotography          2     
-38    Tobias                        2     
-39    @tylerdrey                    2     
-40    Yrikonchik                    1     
-41    @ad.astra.per.aspera.1894     1     
-42    Aoi Yuki                      1     
-43    lemoniter                     1     
-44    @shotbyliampewpew             1     
+24    Dialupdude                    10    
+25    lilyu.xyz                     9     
+26    lt_col_tall                   9     
+27    @toastergod101                7     
+28    @filmfotofella                7     
+29    GreatGizmo74                  6     
+30    nick                          6     
+31    Kraksen                       5     
+32    Henry Gunn                    4     
+33    TheSelousScout                4     
+34    @sachynmital                  3     
+35    Tallbird Cowboy               3     
+36    @seklerek                     2     
+37    @ftfilmphotos                 2     
+38    @gregrouxphotography          2     
+39    Tobias                        2     
+40    @tylerdrey                    2     
+41    Yrikonchik                    1     
+42    @ad.astra.per.aspera.1894     1     
+43    Aoi Yuki                      1     
+44    lemoniter                     1     
+45    @shotbyliampewpew             1     
+46    Greg                          1     
 ```
 
 ## Questions or Comments?

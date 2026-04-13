@@ -1031,3 +1031,18 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 555,0,film_box_outside,Escura,Showa Camera Film,35mm,400,C-41,202608,1776108989,13624b912365f8b99da96d90328a3e4d,a87bd544a56a4ee39a2fe6e2db3f826b,00555_000.jpg,kaimon,,Single Pack,30exp
 556,0,film_box_outside,Fujifilm,Neopan Acros 100 II,120,100,BW,200701,1776109064,181088b93f941891c67b6782fe6b5389,fbb052b5a0024308b4d11dd3a78b4027,00556_000.jpg,kaimon,,Single Pack,N/A
 556,1,film_box_inside,Fujifilm,Neopan Acros 100 II,120,100,BW,200701,1776109066,b2a0bec2f7e5bd2e21cec7ddb7e90c70,56b053f3a12e489396fea4d8db1f6b45,00556_001.jpg,kaimon,,Single Pack,N/A
+557,0,film_box_outside,Kodak,Plus-X,35mm,125,BW,194506,1776109361,4b35186d42a4544c3650a5f8963b14fb,e2b224605b0745258cf52515e02099a6,00557_000.jpg,Greg,,Single Pack,18exp
+558,0,film_box_outside,Lomography,Color Negative Film,120,400,C-41,201212,1776109512,2464e769072f2db9df80ef7b38cd21f0,808ce640e530482f9016329c0eb2d986,00558_000.jpg,@Hol.m35,,Multi-Pack-3,8exp
+558,1,film_box_outside,Lomography,Color Negative Film,120,400,C-41,201212,1776109514,a25cc7c9e6f4e27884d1603cac9bdfe4,44865d9f476846938a0d9986fd21c796,00558_001.jpg,@Hol.m35,,Multi-Pack-3,8exp
+559,0,film_box_outside,Rollei,Retro 400S,35mm,400,BW,202809,1776109570,3e539a40c24c09f8627c1090f57f0793,1a8dc35eb6684e78b2a15dbbe362f345,00559_000.jpg,@Hol.m35,,Single Pack,36exp
+559,1,film_box_inside,Rollei,Retro 400S,35mm,400,BW,202809,1776109572,f6e596ccf5c8c92497489a522fa844ae,a7b5c23d62b248df98ed3a4a4979afaf,00559_001.jpg,@Hol.m35,,Single Pack,36exp
+560,0,film_box_outside,Lucky,C200,35mm,200,C-41,201301,1776109862,50d82b5c3ca2ded34818712f96447d47,698e4d8dc2ef4a5d8ea7c8d0e0d9f727,00560_000.jpg,Dialupdude,,Single Pack,36exp
+560,1,film_box_inside,Lucky,C200,35mm,200,C-41,201301,1776109864,340cfd8d7a800e8b34435bae98ce6c0e,59c76e90f1b947c28da172d2c7f5e2df,00560_001.jpg,Dialupdude,,Single Pack,36exp
+561,0,film_box_outside,1Shot,Color Print Film,35mm,400,C-41,202508,1776109926,4f687796229a4538fae9c761174b9738,7e2a1df614294a7680f4b9478c578cf0,00561_000.jpg,Dialupdude,,Single Pack,24exp
+562,0,film_box_outside,Kodak,Sport Single Use Camera,35mm,800,C-41,202605,1776110020,b9bd75154be4a9d8e2ee5f1656279b91,e9b9c65612ae498080917cde3fd94618,00562_000.jpg,Dialupdude,,Single Pack,27exp
+563,0,film_box_outside,Polaroid,Color i-Type Film,Integral Film,640,Instant,202307,1776110174,c4a791a5614f206146135dd616344473,a0f16870196d400eb47971a65ab747a7,00563_000.jpg,Dialupdude,,Single Pack,16exp
+563,1,film_box_inside,Polaroid,Color i-Type Film,Integral Film,640,Instant,202307,1776110176,a889c79735009c6b95c90fefecabdf21,0c52f0b46fc847ce8dba3f2f22609100,00563_001.jpg,Dialupdude,,Single Pack,16exp
+564,0,film_box_outside,Polaroid,Color i-Type Film,Integral Film,640,Instant,202403,1776110235,6bf347637de7f576abd101354f945af2,a66f7c510e5e49e0b14a1165b59d32e9,00564_000.jpg,Dialupdude,,Single Pack,8exp
+564,1,film_box_inside,Polaroid,Color i-Type Film,Integral Film,640,Instant,202403,1776110237,b3d13cf365d2c49584f2d3f6e32864a7,7cb12adb23de4c09ae158c3f290de943,00564_001.jpg,Dialupdude,,Single Pack,8exp
+565,0,film_box_outside,Polaroid,B&W i-Type Film,Integral Film,640,Instant,202507,1776110301,d7e756d7f66b7da816caff8ca1931c73,d0c5d59f8d974c83b651e1b9e8f7963a,00565_000.jpg,Dialupdude,,Single Pack,8exp
+565,1,film_box_inside,Polaroid,B&W i-Type Film,Integral Film,640,Instant,202507,1776110303,9110c58c4dff2870e3dde2d155c6a9a1,77ff51132ecc4e08b3c3e93abebe4af8,00565_001.jpg,Dialupdude,,Single Pack,8exp

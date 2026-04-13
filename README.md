@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Apr 13 2026
-Unique items: 552
-Total scans : 1032
+Unique items: 561
+Total scans : 1047
 ```
 
 Or Sort by...
@@ -58,8 +58,8 @@ Rank  Username                      Contributions
 3     Pelicram                      68    
 4     @ellafridalindblom            67    
 5     @recycling.film               65    
-6     Luci 101                      50    
-7     @Hol.m35                      46    
+6     @Hol.m35                      50    
+7     Luci 101                      50    
 8     The Compartmentalist          25    
 9     @ob.skura                     19    
 10    fine-seat                     19    
@@ -76,27 +76,29 @@ Rank  Username                      Contributions
 21    Chrisbes                      11    
 22    @zruk_ts                      10    
 23    minidiscus                    10    
-24    lilyu.xyz                     9     
-25    lt_col_tall                   9     
-26    @toastergod101                7     
-27    @filmfotofella                7     
-28    GreatGizmo74                  6     
-29    nick                          6     
-30    Kraksen                       5     
-31    Henry Gunn                    4     
-32    TheSelousScout                4     
-33    @sachynmital                  3     
-34    Tallbird Cowboy               3     
-35    @seklerek                     2     
-36    @ftfilmphotos                 2     
-37    @gregrouxphotography          2     
-38    Tobias                        2     
-39    @tylerdrey                    2     
-40    Yrikonchik                    1     
-41    @ad.astra.per.aspera.1894     1     
-42    Aoi Yuki                      1     
-43    lemoniter                     1     
-44    @shotbyliampewpew             1     
+24    Dialupdude                    10    
+25    lilyu.xyz                     9     
+26    lt_col_tall                   9     
+27    @toastergod101                7     
+28    @filmfotofella                7     
+29    GreatGizmo74                  6     
+30    nick                          6     
+31    Kraksen                       5     
+32    Henry Gunn                    4     
+33    TheSelousScout                4     
+34    @sachynmital                  3     
+35    Tallbird Cowboy               3     
+36    @seklerek                     2     
+37    @ftfilmphotos                 2     
+38    @gregrouxphotography          2     
+39    Tobias                        2     
+40    @tylerdrey                    2     
+41    Yrikonchik                    1     
+42    @ad.astra.per.aspera.1894     1     
+43    Aoi Yuki                      1     
+44    lemoniter                     1     
+45    @shotbyliampewpew             1     
+46    Greg                          1     
 ```
 
 ## Recent Activities
@@ -112,10 +114,18 @@ Rank  Username                      Contributions
   - @Hol.m35: Harman Switch Azure
   - @Hol.m35: Kodak Gold 200
   - @Hol.m35: Lomography Berlin
+  - @Hol.m35: Lomography Color Negative Film
   - @Hol.m35: Lomography Postdam
   - @Hol.m35: Lucky C200
+  - @Hol.m35: Rollei Retro 400S
   - @ob.skura: Kodak High Speed Ektachrome
   - @tylerdrey: Kodak Ektachrome 160T
+  - Dialupdude: 1Shot Color Print Film
+  - Dialupdude: Kodak Sport Single Use Camera
+  - Dialupdude: Lucky C200
+  - Dialupdude: Polaroid B&W i-Type Film
+  - Dialupdude: Polaroid Color i-Type Film
+  - Greg: Kodak Plus-X
   - kaimon: Escura Showa Camera Film
   - kaimon: Fujifilm Neopan Acros 100 II
   - Luci 101: Agfa AgfaChrome 100RS
