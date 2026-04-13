@@ -126,11 +126,19 @@ except Exception as e:
 did_resize = get_answer(f"Have you run the resize script?", accept_empty=True)
 
 latest_author = database_entries[-1][ITEM_AUTHOR_KEY]
-user_answer = get_answer(f"Author name this session? (Press Enter for {latest_author})\nAdd args to reverse order\n", accept_empty=True)
+all_authors = sorted(set(item[ITEM_AUTHOR_KEY] for item in database_entries))
+author_list_str = "".join(f"{i}: {name}\n" for i, name in enumerate(all_authors))
+user_answer = get_answer(
+    f"Author name this session? (Press Enter for {latest_author})\n{author_list_str}",
+    accept_empty=True
+)
 if len(user_answer) == 0:
     author_name_this_session = latest_author
 else:
-    author_name_this_session = user_answer
+    try:
+        author_name_this_session = all_authors[int(user_answer)]
+    except (ValueError, IndexError):
+        author_name_this_session = user_answer
 
 convert_keys_to_int(database_entries)
 ingest_file_list = sorted(os.listdir(ingest_dir_path), reverse=len(sys.argv) > 1)
