@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Apr 13 2026
-Unique items: 538
-Total scans : 999
+Unique items: 545
+Total scans : 1020
 ```
 
 -----
@@ -175,8 +175,10 @@ Total scans : 999
 - [[BW] Kosmo Foto Mono (ref: b74f)](#bw-kosmo-foto-mono-ref-b74f)
 - [[BW] Lomography Babylon (ref: 7afa)](#bw-lomography-babylon-ref-7afa)
 - [[BW] Lomography Berlin (ref: 246a)](#bw-lomography-berlin-ref-246a)
+- [[BW] Lomography Berlin (ref: d3df)](#bw-lomography-berlin-ref-d3df)
 - [[BW] Lomography Fantome (ref: 4340)](#bw-lomography-fantome-ref-4340)
 - [[BW] Lomography Orca (ref: d506)](#bw-lomography-orca-ref-d506)
+- [[BW] Lomography Postdam (ref: 2769)](#bw-lomography-postdam-ref-2769)
 - [[BW] Lomography Postdam (ref: d0c6)](#bw-lomography-postdam-ref-d0c6)
 - [[BW] Lucky SHD400 (ref: 15b5)](#bw-lucky-shd400-ref-15b5)
 - [[BW] ORWO DK5 (ref: e815)](#bw-orwo-dk5-ref-e815)
@@ -211,6 +213,7 @@ Total scans : 999
 - [[BW] Svema Foto 32 (ref: d1fd)](#bw-svema-foto-32-ref-d1fd)
 - [[BW] Svema Foto 400 (ref: 26ad)](#bw-svema-foto-400-ref-26ad)
 - [[BW] Svema Foto 64 (ref: 18f8)](#bw-svema-foto-64-ref-18f8)
+- [[BW] Svema Foto 64 (ref: 481f)](#bw-svema-foto-64-ref-481f)
 - [[BW] Svema Foto 64 (ref: 10cb)](#bw-svema-foto-64-ref-10cb)
 - [[BW] Tasma OCh 50 (ref: 5c43)](#bw-tasma-och-50-ref-5c43)
 - [[BW] VEB Fotochemische Werke Berlin Dekopan Feinkorn (ref: dba0)](#bw-veb-fotochemische-werke-berlin-dekopan-feinkorn-ref-dba0)
@@ -233,6 +236,7 @@ Total scans : 999
 - [[C-41] Agfa AgfaColor Vista (ref: 2f14)](#c-41-agfa-agfacolor-vista-ref-2f14)
 - [[C-41] Agfa AgfaColor Vista (ref: d3af)](#c-41-agfa-agfacolor-vista-ref-d3af)
 - [[C-41] Agfa AgfaColor XRG 200 (ref: 689e)](#c-41-agfa-agfacolor-xrg-200-ref-689e)
+- [[C-41] Agfa Agfacolor CNS2 (ref: d515)](#c-41-agfa-agfacolor-cns2-ref-d515)
 - [[C-41] Agfa Optima II 400 (ref: fdf0)](#c-41-agfa-optima-ii-400-ref-fdf0)
 - [[C-41] Agfa Vista Plus 200 (ref: f5f7)](#c-41-agfa-vista-plus-200-ref-f5f7)
 - [[C-41] Agfa Vista Plus 200 (ref: f08a)](#c-41-agfa-vista-plus-200-ref-f08a)
@@ -345,6 +349,7 @@ Total scans : 999
 - [[C-41] Kodak Gold (ref: 6587)](#c-41-kodak-gold-ref-6587)
 - [[C-41] Kodak Gold (ref: 3e7f)](#c-41-kodak-gold-ref-3e7f)
 - [[C-41] Kodak Gold (ref: 855e)](#c-41-kodak-gold-ref-855e)
+- [[C-41] Kodak Gold 200 (ref: 442d)](#c-41-kodak-gold-200-ref-442d)
 - [[C-41] Kodak Gold 200 (ref: 933f)](#c-41-kodak-gold-200-ref-933f)
 - [[C-41] Kodak Gold 200 (ref: 7d4b)](#c-41-kodak-gold-200-ref-7d4b)
 - [[C-41] Kodak Gold 200 (ref: 3e0b)](#c-41-kodak-gold-200-ref-3e0b)
@@ -497,6 +502,7 @@ Total scans : 999
 - [[E-6] Kodak Elite Chrome (ref: 523c)](#e-6-kodak-elite-chrome-ref-523c)
 - [[E-6] Kodak Elite Chrome (ref: 3943)](#e-6-kodak-elite-chrome-ref-3943)
 - [[E-6] ORWO OrwoChrome RC100 (ref: a9b6)](#e-6-orwo-orwochrome-rc100-ref-a9b6)
+- [[E-6] ORWO OrwoChrome UT18 (ref: f2ce)](#e-6-orwo-orwochrome-ut18-ref-f2ce)
 - [[ECN-2] Alien Film 5207/250D (ref: 8820)](#ecn-2-alien-film-5207250d-ref-8820)
 - [[ECN-2] Building 2 200T (ref: c025)](#ecn-2-building-2-200t-ref-c025)
 - [[ECN-2] Building 2 250D (ref: 7d4f)](#ecn-2-building-2-250d-ref-7d4f)
@@ -552,6 +558,7 @@ Total scans : 999
 - [[Unknown] GAF Color Slide Film (ref: 6815)](#unknown-gaf-color-slide-film-ref-6815)
 - [[Unknown] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)](#unknown-kodak-ektachrome-160-movie-film-type-a-ref-8f62)
 - [[Unknown] Kodak Ektachrome 64 (ref: 07c0)](#unknown-kodak-ektachrome-64-ref-07c0)
+- [[Unknown] Kodak High Speed Ektachrome (ref: fe39)](#unknown-kodak-high-speed-ektachrome-ref-fe39)
 - [[Unknown] Kodak High Speed Ektachrome (ref: 7533)](#unknown-kodak-high-speed-ektachrome-ref-7533)
 - [[Unknown] Northwest Custom Film Processing Ultra Minituature Film (ref: 70b1)](#unknown-northwest-custom-film-processing-ultra-minituature-film-ref-70b1)
 - [[Unknown] ORWO Chrom UT18 (ref: 81b7)](#unknown-orwo-chrom-ut18-ref-81b7)
@@ -3452,6 +3459,27 @@ UUID  : 11a01c72e7184305af18b815eed7246a
 	<img src="./lowres/00494_001.jpg" alt="Lomography Berlin 120 film box outside" loading="lazy" width="500" height="254">
 </a>
 
+#### [BW] Lomography Berlin (ref: d3df)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2028-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : f9c71bea8e0942ceab31c4f97ea6d3df
+```
+
+<a href="./archive/00549_000.jpg" target="_blank">
+	<img src="./lowres/00549_000.jpg" alt="Lomography Berlin 35mm film box outside" loading="lazy" width="500" height="378">
+</a>
+
+
+`UUID: 5b7c6a7904af43aa9c02ab476a36d80f`↓
+
+<a href="./archive/00549_001.jpg" target="_blank">
+	<img src="./lowres/00549_001.jpg" alt="Lomography Berlin 35mm film box outside" loading="lazy" width="500" height="363">
+</a>
+
 #### [BW] Lomography Fantome (ref: 4340)
 
 ```
@@ -3478,6 +3506,27 @@ UUID  : 6d10288df24748fa8944774857f3d506
 
 <a href="./archive/00134_000.jpg" target="_blank">
 	<img src="./lowres/00134_000.jpg" alt="Lomography Orca 110 film box outside" loading="lazy" width="315" height="500">
+</a>
+
+#### [BW] Lomography Postdam (ref: 2769)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 100          |  Expiry  : 2022-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : 35d94ea6e97849ee876a5c61ee532769
+```
+
+<a href="./archive/00548_000.jpg" target="_blank">
+	<img src="./lowres/00548_000.jpg" alt="Lomography Postdam 120 film box outside" loading="lazy" width="500" height="270">
+</a>
+
+
+`UUID: 4590b9bb4e264db4990e69e1b93862f4`↓
+
+<a href="./archive/00548_001.jpg" target="_blank">
+	<img src="./lowres/00548_001.jpg" alt="Lomography Postdam 120 film box outside" loading="lazy" width="500" height="363">
 </a>
 
 #### [BW] Lomography Postdam (ref: d0c6)
@@ -4210,6 +4259,48 @@ UUID  : 0c1f9c9669e6421a9d9ef9ac14b918f8
 	<img src="./lowres/00387_000.jpg" alt="Svema Foto 64 16mm film box outside" loading="lazy" width="500" height="469">
 </a>
 
+#### [BW] Svema Foto 64 (ref: 481f)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 64           |  Expiry  : 1993-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-04-13   |  Author  : Luci 101
+UUID  : dafc01117d5744b9a1591e4ad9ed481f
+```
+
+<a href="./archive/00545_000.jpg" target="_blank">
+	<img src="./lowres/00545_000.jpg" alt="Svema Foto 64 35mm film box outside" loading="lazy" width="500" height="266">
+</a>
+
+
+`UUID: 87f4697850314f529e3ebb3c0d41ce8b`↓
+
+<a href="./archive/00545_001.jpg" target="_blank">
+	<img src="./lowres/00545_001.jpg" alt="Svema Foto 64 35mm film box outside" loading="lazy" width="500" height="276">
+</a>
+
+
+`UUID: a88be5144d414706a3b1faffb5489e51`↓
+
+<a href="./archive/00545_002.jpg" target="_blank">
+	<img src="./lowres/00545_002.jpg" alt="Svema Foto 64 35mm film box outside" loading="lazy" width="500" height="270">
+</a>
+
+
+`UUID: c3a7565139c64afab94d5a16bf801bcf`↓
+
+<a href="./archive/00545_003.jpg" target="_blank">
+	<img src="./lowres/00545_003.jpg" alt="Svema Foto 64 35mm film box outside" loading="lazy" width="500" height="461">
+</a>
+
+
+`UUID: e7373c8293d34a5dadc57a48f16748e9`↓
+
+<a href="./archive/00545_004.jpg" target="_blank">
+	<img src="./lowres/00545_004.jpg" alt="Svema Foto 64 35mm film box outside" loading="lazy" width="500" height="259">
+</a>
+
 #### [BW] Svema Foto 64 (ref: 10cb)
 
 ```
@@ -4670,6 +4761,20 @@ UUID  : 86136eea89d14e15b60dfcdf45b1689e
 
 <a href="./archive/00152_001.jpg" target="_blank">
 	<img src="./lowres/00152_001.jpg" alt="Agfa AgfaColor XRG 200 35mm film box inside" loading="lazy" width="404" height="500">
+</a>
+
+#### [C-41] Agfa Agfacolor CNS2 (ref: d515)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 80           |  Expiry  : 2008-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : db108d3120e04e4987e0c94174e0d515
+```
+
+<a href="./archive/00547_000.jpg" target="_blank">
+	<img src="./lowres/00547_000.jpg" alt="Agfa Agfacolor CNS2 120 film box outside" loading="lazy" width="500" height="437">
 </a>
 
 #### [C-41] Agfa Optima II 400 (ref: fdf0)
@@ -6620,6 +6725,27 @@ UUID  : 856af2ca15fd4a0bad0df6eb29a2855e
 
 <a href="./archive/00086_000.jpg" target="_blank">
 	<img src="./lowres/00086_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="449" height="500">
+</a>
+
+#### [C-41] Kodak Gold 200 (ref: 442d)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2002-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : e8e8fbafc8a64a19ad483dc1d7e3442d
+```
+
+<a href="./archive/00546_000.jpg" target="_blank">
+	<img src="./lowres/00546_000.jpg" alt="Kodak Gold 200 35mm film box outside" loading="lazy" width="291" height="500">
+</a>
+
+
+`UUID: 5a268c9c5d684ad18cdc7650cf1c692d`↓
+
+<a href="./archive/00546_001.jpg" target="_blank">
+	<img src="./lowres/00546_001.jpg" alt="Kodak Gold 200 35mm film box outside" loading="lazy" width="289" height="500">
 </a>
 
 #### [C-41] Kodak Gold 200 (ref: 933f)
@@ -9582,6 +9708,55 @@ UUID  : 2ba82c28507045deadcde0588535a9b6
 	<img src="./lowres/00530_001.jpg" alt="ORWO OrwoChrome RC100 35mm film box inside" loading="lazy" width="399" height="500">
 </a>
 
+#### [E-6] ORWO OrwoChrome UT18 (ref: f2ce)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 50           |  Expiry  : 1992-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-04-13   |  Author  : Luci 101
+UUID  : ee69ebd9b18946a2b81e5369f74ff2ce
+```
+
+<a href="./archive/00544_000.jpg" target="_blank">
+	<img src="./lowres/00544_000.jpg" alt="ORWO OrwoChrome UT18 35mm film box outside" loading="lazy" width="500" height="304">
+</a>
+
+
+`UUID: 57b927e054184769b5ae8313c7d5d9e3`↓
+
+<a href="./archive/00544_001.jpg" target="_blank">
+	<img src="./lowres/00544_001.jpg" alt="ORWO OrwoChrome UT18 35mm film box outside" loading="lazy" width="500" height="304">
+</a>
+
+
+`UUID: c034fd63fef94771a456a85502c95560`↓
+
+<a href="./archive/00544_002.jpg" target="_blank">
+	<img src="./lowres/00544_002.jpg" alt="ORWO OrwoChrome UT18 35mm film box outside" loading="lazy" width="500" height="476">
+</a>
+
+
+`UUID: fbb516474ad04dc1a9432b4540028826`↓
+
+<a href="./archive/00544_003.jpg" target="_blank">
+	<img src="./lowres/00544_003.jpg" alt="ORWO OrwoChrome UT18 35mm film box outside" loading="lazy" width="494" height="500">
+</a>
+
+
+`UUID: 071fb5a273094f789e73ff7263d24747`↓
+
+<a href="./archive/00544_004.jpg" target="_blank">
+	<img src="./lowres/00544_004.jpg" alt="ORWO OrwoChrome UT18 35mm film box leaflet" loading="lazy" width="286" height="500">
+</a>
+
+
+`UUID: 456bc06ad0d5476aa82f4e4d4dd74027`↓
+
+<a href="./archive/00544_005.jpg" target="_blank">
+	<img src="./lowres/00544_005.jpg" alt="ORWO OrwoChrome UT18 35mm film box leaflet" loading="lazy" width="286" height="500">
+</a>
+
 #### [ECN-2] Alien Film 5207/250D (ref: 8820)
 
 ```
@@ -11075,6 +11250,34 @@ UUID  : 8131d8c6fbf14016be9c17a2586b07c0
 	<img src="./lowres/00025_000.jpg" alt="Kodak Ektachrome 64 110 film box outside" loading="lazy" width="500" height="418">
 </a>
 
+#### [Unknown] Kodak High Speed Ektachrome (ref: fe39)
+
+```
+Format: 120          |  Process : Unknown 
+ISO   : 160          |  Expiry  : 1973-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-04-13   |  Author  : @ob.skura
+UUID  : d6df7ff94eb54de292068cb45080fe39
+```
+
+<a href="./archive/00543_000.jpg" target="_blank">
+	<img src="./lowres/00543_000.jpg" alt="Kodak High Speed Ektachrome 120 film box outside" loading="lazy" width="500" height="487">
+</a>
+
+
+`UUID: af73630d2fa7497bb84299a4706ed0da`↓
+
+<a href="./archive/00543_001.jpg" target="_blank">
+	<img src="./lowres/00543_001.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="186" height="500">
+</a>
+
+
+`UUID: f4278cfd7eea4c7a8f07251385bf4745`↓
+
+<a href="./archive/00543_002.jpg" target="_blank">
+	<img src="./lowres/00543_002.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="193" height="500">
+</a>
+
 #### [Unknown] Kodak High Speed Ektachrome (ref: 7533)
 
 ```
@@ -11358,14 +11561,14 @@ Rank  Username                      Contributions
 3     Pelicram                      68    
 4     @ellafridalindblom            67    
 5     @recycling.film               65    
-6     Luci 101                      39    
-7     @Hol.m35                      30    
+6     Luci 101                      50    
+7     @Hol.m35                      37    
 8     The Compartmentalist          25    
-9     fine-seat                     19    
-10    Camera.Riley                  19    
-11    Nano_Burger                   18    
-12    toader                        17    
-13    @ob.skura                     16    
+9     @ob.skura                     19    
+10    fine-seat                     19    
+11    Camera.Riley                  19    
+12    Nano_Burger                   18    
+13    toader                        17    
 14    kaimon                        16    
 15    waldoboro                     16    
 16    yc128                         14    

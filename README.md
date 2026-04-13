@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Apr 13 2026
-Unique items: 538
-Total scans : 999
+Unique items: 545
+Total scans : 1020
 ```
 
 Or Sort by...
@@ -58,14 +58,14 @@ Rank  Username                      Contributions
 3     Pelicram                      68    
 4     @ellafridalindblom            67    
 5     @recycling.film               65    
-6     Luci 101                      39    
-7     @Hol.m35                      30    
+6     Luci 101                      50    
+7     @Hol.m35                      37    
 8     The Compartmentalist          25    
-9     fine-seat                     19    
-10    Camera.Riley                  19    
-11    Nano_Burger                   18    
-12    toader                        17    
-13    @ob.skura                     16    
+9     @ob.skura                     19    
+10    fine-seat                     19    
+11    Camera.Riley                  19    
+12    Nano_Burger                   18    
+13    toader                        17    
 14    kaimon                        16    
 15    waldoboro                     16    
 16    yc128                         14    
@@ -106,8 +106,15 @@ Rank  Username                      Contributions
   - @ellafridalindblom: Gevaert Superchrom
   - @ellafridalindblom: Ilford HP3
   - @ellafridalindblom: Kodak Super Speed Ortho Portrait
+  - @Hol.m35: Agfa Agfacolor CNS2
+  - @Hol.m35: Kodak Gold 200
+  - @Hol.m35: Lomography Berlin
+  - @Hol.m35: Lomography Postdam
+  - @ob.skura: Kodak High Speed Ektachrome
   - @tylerdrey: Kodak Ektachrome 160T
   - Luci 101: Agfa AgfaChrome 100RS
+  - Luci 101: ORWO OrwoChrome UT18
+  - Luci 101: Svema Foto 64
 
 2026-04-07
   - Tallbird Cowboy: Kodak Kodachrome II

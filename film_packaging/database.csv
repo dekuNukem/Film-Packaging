@@ -998,3 +998,24 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 541,1,film_box_outside,Gevaert,Superchrom,12x16.5cm,80,BW,Unknown,1776106451,9a9962058ca2d8a91c27af161540b524,ba7892ff23004ca29c649c9ec62c9952,00541_001.jpg,@ellafridalindblom,,Single Pack,12 Sheets
 542,0,film_box_outside,Kodak,Ektachrome 160T,35mm,160,E-6,199309,1776106672,15201012efdd420d1627fab02d9d98f5,dae0e4a473644444817e010eeb3d7b64,00542_000.jpg,@tylerdrey,,Single Pack,24exp
 542,1,film_box_inside,Kodak,Ektachrome 160T,35mm,160,E-6,199309,1776106673,cc13733b2cbd141ed37ac1f33ab35128,d55ee26a62134eabb2784c27adc0c895,00542_001.jpg,@tylerdrey,,Single Pack,24exp
+543,0,film_box_outside,Kodak,High Speed Ektachrome,120,160,Unknown,197309,1776107005,966b1b0738de5205a58bde470810eb80,d6df7ff94eb54de292068cb45080fe39,00543_000.jpg,@ob.skura,,Single Pack,N/A
+543,1,film_box_leaflet,Kodak,High Speed Ektachrome,120,160,Unknown,197309,1776107006,2a5f8897c4a8beaff62fe2115d24530a,af73630d2fa7497bb84299a4706ed0da,00543_001.jpg,@ob.skura,,Single Pack,N/A
+543,2,film_box_leaflet,Kodak,High Speed Ektachrome,120,160,Unknown,197309,1776107015,501e140ac0add9ef74f4a1e09ab2317d,f4278cfd7eea4c7a8f07251385bf4745,00543_002.jpg,@ob.skura,,Single Pack,N/A
+544,0,film_box_outside,ORWO,OrwoChrome UT18,35mm,50,E-6,199201,1776107202,0a387321a08aa4f3b548df75f362312d,ee69ebd9b18946a2b81e5369f74ff2ce,00544_000.jpg,Luci 101,,Single Pack,36exp
+544,1,film_box_outside,ORWO,OrwoChrome UT18,35mm,50,E-6,199201,1776107203,8b88fd0bb126eadb7fdff2ff74b663ff,57b927e054184769b5ae8313c7d5d9e3,00544_001.jpg,Luci 101,,Single Pack,36exp
+544,2,film_box_outside,ORWO,OrwoChrome UT18,35mm,50,E-6,199201,1776107205,0ec14969fcde7bb0d1529b0f5e625202,c034fd63fef94771a456a85502c95560,00544_002.jpg,Luci 101,,Single Pack,36exp
+544,3,film_box_outside,ORWO,OrwoChrome UT18,35mm,50,E-6,199201,1776107207,b288d64f59d0d7cd7cb2efc26a5f97df,fbb516474ad04dc1a9432b4540028826,00544_003.jpg,Luci 101,,Single Pack,36exp
+544,4,film_box_leaflet,ORWO,OrwoChrome UT18,35mm,50,E-6,199201,1776107210,c5211de9b56da5fa8eb372b47e82eceb,071fb5a273094f789e73ff7263d24747,00544_004.jpg,Luci 101,,Single Pack,36exp
+544,5,film_box_leaflet,ORWO,OrwoChrome UT18,35mm,50,E-6,199201,1776107212,52be4a3877359ec1ea282a33829eca92,456bc06ad0d5476aa82f4e4d4dd74027,00544_005.jpg,Luci 101,,Single Pack,36exp
+545,0,film_box_outside,Svema,Foto 64,35mm,64,BW,199303,1776107406,18027d9e4ec6b42639a85e350f634d71,dafc01117d5744b9a1591e4ad9ed481f,00545_000.jpg,Luci 101,,Single Pack,36exp
+545,1,film_box_outside,Svema,Foto 64,35mm,64,BW,199303,1776107407,ec695f145d6fc69b229f6f8e8ba1e2ec,87f4697850314f529e3ebb3c0d41ce8b,00545_001.jpg,Luci 101,,Single Pack,36exp
+545,2,film_box_outside,Svema,Foto 64,35mm,64,BW,199303,1776107409,4c460bdb0cf297954de23f65698dc4e6,a88be5144d414706a3b1faffb5489e51,00545_002.jpg,Luci 101,,Single Pack,36exp
+545,3,film_box_outside,Svema,Foto 64,35mm,64,BW,199303,1776107411,e3c64499582dba5f38ede9e358a11005,c3a7565139c64afab94d5a16bf801bcf,00545_003.jpg,Luci 101,,Single Pack,36exp
+545,4,film_box_outside,Svema,Foto 64,35mm,64,BW,199303,1776107412,99112f71285ef6a9deb839b5b0cd2921,e7373c8293d34a5dadc57a48f16748e9,00545_004.jpg,Luci 101,,Single Pack,36exp
+546,0,film_box_outside,Kodak,Gold 200,35mm,200,C-41,200212,1776107579,29a30a1683c38f0d61978428c0e90b83,e8e8fbafc8a64a19ad483dc1d7e3442d,00546_000.jpg,@Hol.m35,,Single Pack,36exp
+546,1,film_box_outside,Kodak,Gold 200,35mm,200,C-41,200212,1776107580,55169c5c4c7e447c41eee7276c0247ec,5a268c9c5d684ad18cdc7650cf1c692d,00546_001.jpg,@Hol.m35,,Single Pack,36exp
+547,0,film_box_outside,Agfa,Agfacolor CNS2,120,80,C-41,200803,1776107671,73d553800036dbf18595cd056d467df4,db108d3120e04e4987e0c94174e0d515,00547_000.jpg,@Hol.m35,,Single Pack,N/A
+548,0,film_box_outside,Lomography,Postdam,120,100,BW,202209,1776107816,21e16bf37e3fffb57f7316a4793687bf,35d94ea6e97849ee876a5c61ee532769,00548_000.jpg,@Hol.m35,,Single Pack,N/A
+548,1,film_box_outside,Lomography,Postdam,120,100,BW,202209,1776107818,f9d298391c7cef49b9499a8bb3734846,4590b9bb4e264db4990e69e1b93862f4,00548_001.jpg,@Hol.m35,,Single Pack,N/A
+549,0,film_box_outside,Lomography,Berlin,35mm,400,BW,202804,1776107891,ee280c45d6baa3742134c9ce72b14ab1,f9c71bea8e0942ceab31c4f97ea6d3df,00549_000.jpg,@Hol.m35,,Single Pack,36exp
+549,1,film_box_outside,Lomography,Berlin,35mm,400,BW,202804,1776107892,17f3a132094572d48d1c0c841d89937e,5b7c6a7904af43aa9c02ab476a36d80f,00549_001.jpg,@Hol.m35,,Single Pack,36exp
