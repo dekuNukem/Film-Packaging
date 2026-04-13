@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Apr 07 2026
-Unique items: 533
-Total scans : 986
+Last Updated: Apr 13 2026
+Unique items: 538
+Total scans : 999
 ```
 
 Or Sort by...
@@ -56,9 +56,9 @@ Rank  Username                      Contributions
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      68    
-4     @recycling.film               65    
-5     @ellafridalindblom            63    
-6     Luci 101                      32    
+4     @ellafridalindblom            67    
+5     @recycling.film               65    
+6     Luci 101                      39    
 7     @Hol.m35                      30    
 8     The Compartmentalist          25    
 9     fine-seat                     19    
@@ -91,16 +91,24 @@ Rank  Username                      Contributions
 36    @ftfilmphotos                 2     
 37    @gregrouxphotography          2     
 38    Tobias                        2     
-39    Yrikonchik                    1     
-40    @ad.astra.per.aspera.1894     1     
-41    Aoi Yuki                      1     
-42    lemoniter                     1     
-43    @shotbyliampewpew             1     
+39    @tylerdrey                    2     
+40    Yrikonchik                    1     
+41    @ad.astra.per.aspera.1894     1     
+42    Aoi Yuki                      1     
+43    lemoniter                     1     
+44    @shotbyliampewpew             1     
 ```
 
 ## Recent Activities
 
 ```
+2026-04-13
+  - @ellafridalindblom: Gevaert Superchrom
+  - @ellafridalindblom: Ilford HP3
+  - @ellafridalindblom: Kodak Super Speed Ortho Portrait
+  - @tylerdrey: Kodak Ektachrome 160T
+  - Luci 101: Agfa AgfaChrome 100RS
+
 2026-04-07
   - Tallbird Cowboy: Kodak Kodachrome II
 
@@ -142,14 +150,6 @@ Rank  Username                      Contributions
 2025-12-29
   - @Hol.m35: Max Spielmann Pro-Zoom MX 400
   - benikum: ORWO NP22
-
-2025-12-12
-  - @gregrouxphotography: Film Photography Project FPP 620 Black & White Panchromatic Negative Film
-  - @recycling.film: Fujifilm Fujicolor Natura 1600
-  - kaimon: CineStill 800T
-  - kaimon: Kodak Portra 800
-  - lt_col_tall: Kodak Tri-X Pan
-  - toader: Polaroid Color 600 Film
 ```
 
 ## Disclaimer

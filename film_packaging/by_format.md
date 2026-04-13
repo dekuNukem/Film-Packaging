@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Apr 07 2026
-Unique items: 533
-Total scans : 986
+Last Updated: Apr 13 2026
+Unique items: 538
+Total scans : 999
 ```
 
 -----
@@ -40,6 +40,7 @@ Total scans : 986
 - [[110] Lomography Tiger (ref: 26dd)](#110-lomography-tiger-ref-26dd)
 - [[110] Polaroid High Definition (ref: deb6)](#110-polaroid-high-definition-ref-deb6)
 - [[120] Agfa APX (ref: 12c7)](#120-agfa-apx-ref-12c7)
+- [[120] Agfa AgfaChrome 100RS (ref: 2c42)](#120-agfa-agfachrome-100rs-ref-2c42)
 - [[120] Agfa AgfaColor Optima 200 (ref: 393d)](#120-agfa-agfacolor-optima-200-ref-393d)
 - [[120] Agfa Agfacolor Special Negative Film CN S (ref: 1e83)](#120-agfa-agfacolor-special-negative-film-cn-s-ref-1e83)
 - [[120] Agfa Agfapan APX 400 (ref: 5855)](#120-agfa-agfapan-apx-400-ref-5855)
@@ -177,8 +178,11 @@ Total scans : 986
 - [[12x16.5cm] Defender Extra Special Fast Panchromatic (ref: afcf)](#12x165cm-defender-extra-special-fast-panchromatic-ref-afcf)
 - [[12x16.5cm] Defender Portrait HGS (ref: d69c)](#12x165cm-defender-portrait-hgs-ref-d69c)
 - [[12x16.5cm] Gevaert Studio Film (ref: 75f9)](#12x165cm-gevaert-studio-film-ref-75f9)
+- [[12x16.5cm] Gevaert Superchrom (ref: 0217)](#12x165cm-gevaert-superchrom-ref-0217)
 - [[12x16.5cm] Gevaert Ultra Panchro Normal (ref: 1ff6)](#12x165cm-gevaert-ultra-panchro-normal-ref-1ff6)
+- [[12x16.5cm] Ilford HP3 (ref: 6d94)](#12x165cm-ilford-hp3-ref-6d94)
 - [[12x16.5cm] Ilford R.25 F.P Special (ref: ec05)](#12x165cm-ilford-r25-fp-special-ref-ec05)
+- [[12x16.5cm] Kodak Super Speed Ortho Portrait (ref: b625)](#12x165cm-kodak-super-speed-ortho-portrait-ref-b625)
 - [[12x16.5cm] Kodak Super-XX (ref: e684)](#12x165cm-kodak-super-xx-ref-e684)
 - [[12x16.5cm] Kodak Super-sensitive Panchromatic Films (ref: 21a0)](#12x165cm-kodak-super-sensitive-panchromatic-films-ref-21a0)
 - [[12x16.5cm] Kodak Tri-X Pan (ref: 6608)](#12x165cm-kodak-tri-x-pan-ref-6608)
@@ -345,6 +349,7 @@ Total scans : 986
 - [[35mm] Kodak Ektachrome 100 Plus (ref: 5d9f)](#35mm-kodak-ektachrome-100-plus-ref-5d9f)
 - [[35mm] Kodak Ektachrome 100HC (ref: 3ab9)](#35mm-kodak-ektachrome-100hc-ref-3ab9)
 - [[35mm] Kodak Ektachrome 100HC (ref: 775a)](#35mm-kodak-ektachrome-100hc-ref-775a)
+- [[35mm] Kodak Ektachrome 160T (ref: 7b64)](#35mm-kodak-ektachrome-160t-ref-7b64)
 - [[35mm] Kodak Ektachrome 200 (ref: b21e)](#35mm-kodak-ektachrome-200-ref-b21e)
 - [[35mm] Kodak Ektachrome 400 (ref: 3c96)](#35mm-kodak-ektachrome-400-ref-3c96)
 - [[35mm] Kodak Ektachrome 64 (ref: 02cc)](#35mm-kodak-ektachrome-64-ref-02cc)
@@ -865,6 +870,62 @@ UUID  : a20bbca534454915a6970b6ede2212c7
 
 <a href="./archive/00011_001.jpg" target="_blank">
 	<img src="./lowres/00011_001.jpg" alt="Agfa APX 120 film box inside" loading="lazy" width="500" height="402">
+</a>
+
+#### [120] Agfa AgfaChrome 100RS (ref: 2c42)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 100          |  Expiry  : 1988-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-04-13   |  Author  : Luci 101
+UUID  : 06b483aba54b4ce5929a53b74c7d2c42
+```
+
+<a href="./archive/00538_000.jpg" target="_blank">
+	<img src="./lowres/00538_000.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="500" height="211">
+</a>
+
+
+`UUID: fddb3bf2c2384ede9010c5a601dca722`↓
+
+<a href="./archive/00538_001.jpg" target="_blank">
+	<img src="./lowres/00538_001.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="500" height="190">
+</a>
+
+
+`UUID: 8ef09b75e4fe4f88a8cd05d71b562d95`↓
+
+<a href="./archive/00538_002.jpg" target="_blank">
+	<img src="./lowres/00538_002.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="500" height="222">
+</a>
+
+
+`UUID: 5330ba90ecc04adfb0a6c681bf1983ba`↓
+
+<a href="./archive/00538_003.jpg" target="_blank">
+	<img src="./lowres/00538_003.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="500" height="222">
+</a>
+
+
+`UUID: 37ca2a55104e4f03b4bdc483a1a9d14e`↓
+
+<a href="./archive/00538_004.jpg" target="_blank">
+	<img src="./lowres/00538_004.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="486" height="500">
+</a>
+
+
+`UUID: cff1f06d7a2244599bac9cea8bd5d014`↓
+
+<a href="./archive/00538_005.jpg" target="_blank">
+	<img src="./lowres/00538_005.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="486" height="500">
+</a>
+
+
+`UUID: 31be2de2870945cc88fb17d6c916cc0e`↓
+
+<a href="./archive/00538_006.jpg" target="_blank">
+	<img src="./lowres/00538_006.jpg" alt="Agfa AgfaChrome 100RS 120 film box leaflet" loading="lazy" width="220" height="499">
 </a>
 
 #### [120] Agfa AgfaColor Optima 200 (ref: 393d)
@@ -3833,6 +3894,27 @@ Notes : Muster Matt
 	<img src="./lowres/00457_000.jpg" alt="Gevaert Studio Film 12x16.5cm film box outside" loading="lazy" width="365" height="500">
 </a>
 
+#### [12x16.5cm] Gevaert Superchrom (ref: 0217)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2026-04-13   |  Author  : @ellafridalindblom
+UUID  : 9362bbd2bc0f48f68f28b7e5e9700217
+```
+
+<a href="./archive/00541_000.jpg" target="_blank">
+	<img src="./lowres/00541_000.jpg" alt="Gevaert Superchrom 12x16.5cm film box outside" loading="lazy" width="409" height="500">
+</a>
+
+
+`UUID: ba7892ff23004ca29c649c9ec62c9952`↓
+
+<a href="./archive/00541_001.jpg" target="_blank">
+	<img src="./lowres/00541_001.jpg" alt="Gevaert Superchrom 12x16.5cm film box outside" loading="lazy" width="394" height="500">
+</a>
+
 #### [12x16.5cm] Gevaert Ultra Panchro Normal (ref: 1ff6)
 
 ```
@@ -3845,6 +3927,20 @@ UUID  : 9a6b4771688d43c58b96c254e43d1ff6
 
 <a href="./archive/00288_000.jpg" target="_blank">
 	<img src="./lowres/00288_000.jpg" alt="Gevaert Ultra Panchro Normal 12x16.5cm film box outside" loading="lazy" width="379" height="500">
+</a>
+
+#### [12x16.5cm] Ilford HP3 (ref: 6d94)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 125          |  Expiry  : 1947-04 
+Type  : Single Pack  |  Quantity: 24 Sheets
+Added : 2026-04-13   |  Author  : @ellafridalindblom
+UUID  : 6e678765fd1c48e08d9ebb05cb5b6d94
+```
+
+<a href="./archive/00540_000.jpg" target="_blank">
+	<img src="./lowres/00540_000.jpg" alt="Ilford HP3 12x16.5cm film box outside" loading="lazy" width="394" height="500">
 </a>
 
 #### [12x16.5cm] Ilford R.25 F.P Special (ref: ec05)
@@ -3866,6 +3962,20 @@ UUID  : 8d14ab4db3844e8fa5b59d80adbdec05
 
 <a href="./archive/00481_001.jpg" target="_blank">
 	<img src="./lowres/00481_001.jpg" alt="Ilford R.25 F.P Special 12x16.5cm film box outside" loading="lazy" width="397" height="500">
+</a>
+
+#### [12x16.5cm] Kodak Super Speed Ortho Portrait (ref: b625)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1942-10 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2026-04-13   |  Author  : @ellafridalindblom
+UUID  : b9989063d3264ee2b866b21d3e9ab625
+```
+
+<a href="./archive/00539_000.jpg" target="_blank">
+	<img src="./lowres/00539_000.jpg" alt="Kodak Super Speed Ortho Portrait 12x16.5cm film box outside" loading="lazy" width="394" height="500">
 </a>
 
 #### [12x16.5cm] Kodak Super-XX (ref: e684)
@@ -7007,6 +7117,27 @@ UUID  : 064dbfe80ca84ac99329c252bce0775a
 
 <a href="./archive/00276_001.jpg" target="_blank">
 	<img src="./lowres/00276_001.jpg" alt="Kodak Ektachrome 100HC 35mm film box inside" loading="lazy" width="441" height="500">
+</a>
+
+#### [35mm] Kodak Ektachrome 160T (ref: 7b64)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 160          |  Expiry  : 1993-09 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-04-13   |  Author  : @tylerdrey
+UUID  : dae0e4a473644444817e010eeb3d7b64
+```
+
+<a href="./archive/00542_000.jpg" target="_blank">
+	<img src="./lowres/00542_000.jpg" alt="Kodak Ektachrome 160T 35mm film box outside" loading="lazy" width="414" height="500">
+</a>
+
+
+`UUID: d55ee26a62134eabb2784c27adc0c895`↓
+
+<a href="./archive/00542_001.jpg" target="_blank">
+	<img src="./lowres/00542_001.jpg" alt="Kodak Ektachrome 160T 35mm film box inside" loading="lazy" width="434" height="500">
 </a>
 
 #### [35mm] Kodak Ektachrome 200 (ref: b21e)
@@ -11225,9 +11356,9 @@ Rank  Username                      Contributions
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      68    
-4     @recycling.film               65    
-5     @ellafridalindblom            63    
-6     Luci 101                      32    
+4     @ellafridalindblom            67    
+5     @recycling.film               65    
+6     Luci 101                      39    
 7     @Hol.m35                      30    
 8     The Compartmentalist          25    
 9     fine-seat                     19    
@@ -11260,11 +11391,12 @@ Rank  Username                      Contributions
 36    @ftfilmphotos                 2     
 37    @gregrouxphotography          2     
 38    Tobias                        2     
-39    Yrikonchik                    1     
-40    @ad.astra.per.aspera.1894     1     
-41    Aoi Yuki                      1     
-42    lemoniter                     1     
-43    @shotbyliampewpew             1     
+39    @tylerdrey                    2     
+40    Yrikonchik                    1     
+41    @ad.astra.per.aspera.1894     1     
+42    Aoi Yuki                      1     
+43    lemoniter                     1     
+44    @shotbyliampewpew             1     
 ```
 
 ## Questions or Comments?

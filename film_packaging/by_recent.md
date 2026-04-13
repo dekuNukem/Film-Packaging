@@ -15,13 +15,18 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Apr 07 2026
-Unique items: 533
-Total scans : 986
+Last Updated: Apr 13 2026
+Unique items: 538
+Total scans : 999
 ```
 
 -----
 
+- [[2026-04-13] Kodak Ektachrome 160T (ref: 7b64)](#2026-04-13-kodak-ektachrome-160t-ref-7b64)
+- [[2026-04-13] Gevaert Superchrom (ref: 0217)](#2026-04-13-gevaert-superchrom-ref-0217)
+- [[2026-04-13] Ilford HP3 (ref: 6d94)](#2026-04-13-ilford-hp3-ref-6d94)
+- [[2026-04-13] Kodak Super Speed Ortho Portrait (ref: b625)](#2026-04-13-kodak-super-speed-ortho-portrait-ref-b625)
+- [[2026-04-13] Agfa AgfaChrome 100RS (ref: 2c42)](#2026-04-13-agfa-agfachrome-100rs-ref-2c42)
 - [[2026-04-07] Kodak Kodachrome II (ref: 2caa)](#2026-04-07-kodak-kodachrome-ii-ref-2caa)
 - [[2026-03-02] Kodak Kodacolor II (ref: 8dcf)](#2026-03-02-kodak-kodacolor-ii-ref-8dcf)
 - [[2026-03-02] ORWO UK18 (ref: c92d)](#2026-03-02-orwo-uk18-ref-c92d)
@@ -558,6 +563,132 @@ Total scans : 986
 
 
 -----
+
+
+`UUID: d55ee26a62134eabb2784c27adc0c895`↓
+
+<a href="./archive/00542_001.jpg" target="_blank">
+	<img src="./lowres/00542_001.jpg" alt="Kodak Ektachrome 160T 35mm film box inside" loading="lazy" width="434" height="500">
+</a>
+
+#### [2026-04-13] Kodak Ektachrome 160T (ref: 7b64)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 160          |  Expiry  : 1993-09 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-04-13   |  Author  : @tylerdrey
+UUID  : dae0e4a473644444817e010eeb3d7b64
+```
+
+<a href="./archive/00542_000.jpg" target="_blank">
+	<img src="./lowres/00542_000.jpg" alt="Kodak Ektachrome 160T 35mm film box outside" loading="lazy" width="414" height="500">
+</a>
+
+
+`UUID: ba7892ff23004ca29c649c9ec62c9952`↓
+
+<a href="./archive/00541_001.jpg" target="_blank">
+	<img src="./lowres/00541_001.jpg" alt="Gevaert Superchrom 12x16.5cm film box outside" loading="lazy" width="394" height="500">
+</a>
+
+#### [2026-04-13] Gevaert Superchrom (ref: 0217)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2026-04-13   |  Author  : @ellafridalindblom
+UUID  : 9362bbd2bc0f48f68f28b7e5e9700217
+```
+
+<a href="./archive/00541_000.jpg" target="_blank">
+	<img src="./lowres/00541_000.jpg" alt="Gevaert Superchrom 12x16.5cm film box outside" loading="lazy" width="409" height="500">
+</a>
+
+#### [2026-04-13] Ilford HP3 (ref: 6d94)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 125          |  Expiry  : 1947-04 
+Type  : Single Pack  |  Quantity: 24 Sheets
+Added : 2026-04-13   |  Author  : @ellafridalindblom
+UUID  : 6e678765fd1c48e08d9ebb05cb5b6d94
+```
+
+<a href="./archive/00540_000.jpg" target="_blank">
+	<img src="./lowres/00540_000.jpg" alt="Ilford HP3 12x16.5cm film box outside" loading="lazy" width="394" height="500">
+</a>
+
+#### [2026-04-13] Kodak Super Speed Ortho Portrait (ref: b625)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1942-10 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2026-04-13   |  Author  : @ellafridalindblom
+UUID  : b9989063d3264ee2b866b21d3e9ab625
+```
+
+<a href="./archive/00539_000.jpg" target="_blank">
+	<img src="./lowres/00539_000.jpg" alt="Kodak Super Speed Ortho Portrait 12x16.5cm film box outside" loading="lazy" width="394" height="500">
+</a>
+
+
+`UUID: 31be2de2870945cc88fb17d6c916cc0e`↓
+
+<a href="./archive/00538_006.jpg" target="_blank">
+	<img src="./lowres/00538_006.jpg" alt="Agfa AgfaChrome 100RS 120 film box leaflet" loading="lazy" width="220" height="499">
+</a>
+
+
+`UUID: cff1f06d7a2244599bac9cea8bd5d014`↓
+
+<a href="./archive/00538_005.jpg" target="_blank">
+	<img src="./lowres/00538_005.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="486" height="500">
+</a>
+
+
+`UUID: 37ca2a55104e4f03b4bdc483a1a9d14e`↓
+
+<a href="./archive/00538_004.jpg" target="_blank">
+	<img src="./lowres/00538_004.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="486" height="500">
+</a>
+
+
+`UUID: 5330ba90ecc04adfb0a6c681bf1983ba`↓
+
+<a href="./archive/00538_003.jpg" target="_blank">
+	<img src="./lowres/00538_003.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="500" height="222">
+</a>
+
+
+`UUID: 8ef09b75e4fe4f88a8cd05d71b562d95`↓
+
+<a href="./archive/00538_002.jpg" target="_blank">
+	<img src="./lowres/00538_002.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="500" height="222">
+</a>
+
+
+`UUID: fddb3bf2c2384ede9010c5a601dca722`↓
+
+<a href="./archive/00538_001.jpg" target="_blank">
+	<img src="./lowres/00538_001.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="500" height="190">
+</a>
+
+#### [2026-04-13] Agfa AgfaChrome 100RS (ref: 2c42)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 100          |  Expiry  : 1988-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-04-13   |  Author  : Luci 101
+UUID  : 06b483aba54b4ce5929a53b74c7d2c42
+```
+
+<a href="./archive/00538_000.jpg" target="_blank">
+	<img src="./lowres/00538_000.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="500" height="211">
+</a>
 
 
 `UUID: fe93855a558c4a649fc6c953e1e5c221`↓
@@ -11225,9 +11356,9 @@ Rank  Username                      Contributions
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      68    
-4     @recycling.film               65    
-5     @ellafridalindblom            63    
-6     Luci 101                      32    
+4     @ellafridalindblom            67    
+5     @recycling.film               65    
+6     Luci 101                      39    
 7     @Hol.m35                      30    
 8     The Compartmentalist          25    
 9     fine-seat                     19    
@@ -11260,11 +11391,12 @@ Rank  Username                      Contributions
 36    @ftfilmphotos                 2     
 37    @gregrouxphotography          2     
 38    Tobias                        2     
-39    Yrikonchik                    1     
-40    @ad.astra.per.aspera.1894     1     
-41    Aoi Yuki                      1     
-42    lemoniter                     1     
-43    @shotbyliampewpew             1     
+39    @tylerdrey                    2     
+40    Yrikonchik                    1     
+41    @ad.astra.per.aspera.1894     1     
+42    Aoi Yuki                      1     
+43    lemoniter                     1     
+44    @shotbyliampewpew             1     
 ```
 
 ## Questions or Comments?

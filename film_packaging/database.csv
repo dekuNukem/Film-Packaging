@@ -985,3 +985,16 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 537,0,film_box_outside,Kodak,Kodachrome II,828,25,K-14,196511,1775574759,dc9755fbdef1f755495bfe37717bdea6,9f12faa621fe4c06919086dcec7c2caa,00537_000.jpg,Tallbird Cowboy,,Single Pack,N/A
 537,1,film_box_leaflet,Kodak,Kodachrome II,828,25,K-14,196511,1775574761,a37676e4d5e4ce86a4850ab88080f496,77473d75388148a2a9d3d4cf881d7047,00537_001.jpg,Tallbird Cowboy,,Single Pack,N/A
 537,2,film_box_leaflet,Kodak,Kodachrome II,828,25,K-14,196511,1775574770,d1901aaf927663c5589a9a9848bd9f3c,fe93855a558c4a649fc6c953e1e5c221,00537_002.jpg,Tallbird Cowboy,,Single Pack,N/A
+538,0,film_box_outside,Agfa,AgfaChrome 100RS,120,100,E-6,198801,1776105603,ac04c563b953df19fa22f4bbae44f1ad,06b483aba54b4ce5929a53b74c7d2c42,00538_000.jpg,Luci 101,,Single Pack,N/A
+538,1,film_box_outside,Agfa,AgfaChrome 100RS,120,100,E-6,198801,1776105606,8ac4496dcf418c7cead65e0364c92c25,fddb3bf2c2384ede9010c5a601dca722,00538_001.jpg,Luci 101,,Single Pack,N/A
+538,2,film_box_outside,Agfa,AgfaChrome 100RS,120,100,E-6,198801,1776105612,6d13d2e3a2ccf9de06c307df61a40b44,8ef09b75e4fe4f88a8cd05d71b562d95,00538_002.jpg,Luci 101,,Single Pack,N/A
+538,3,film_box_outside,Agfa,AgfaChrome 100RS,120,100,E-6,198801,1776105615,3965f2746f90924707e390299fce5b34,5330ba90ecc04adfb0a6c681bf1983ba,00538_003.jpg,Luci 101,,Single Pack,N/A
+538,4,film_box_outside,Agfa,AgfaChrome 100RS,120,100,E-6,198801,1776105617,dbdb9f2df4d14e0c17e1193fed3def21,37ca2a55104e4f03b4bdc483a1a9d14e,00538_004.jpg,Luci 101,,Single Pack,N/A
+538,5,film_box_outside,Agfa,AgfaChrome 100RS,120,100,E-6,198801,1776105619,4b116c64507cf033888c8fe78bb7f5db,cff1f06d7a2244599bac9cea8bd5d014,00538_005.jpg,Luci 101,,Single Pack,N/A
+538,6,film_box_leaflet,Agfa,AgfaChrome 100RS,120,100,E-6,198801,1776105621,e3a33c12817c42de8b35eba9c4a39f35,31be2de2870945cc88fb17d6c916cc0e,00538_006.jpg,Luci 101,,Single Pack,N/A
+539,0,film_box_outside,Kodak,Super Speed Ortho Portrait,12x16.5cm,Unknown,BW,194210,1776105863,cdb372243a6d04ff2e923a4ba169a792,b9989063d3264ee2b866b21d3e9ab625,00539_000.jpg,@ellafridalindblom,,Single Pack,12 Sheets
+540,0,film_box_outside,Ilford,HP3,12x16.5cm,125,BW,194704,1776106078,f564999f69924337bbed829648e81cdd,6e678765fd1c48e08d9ebb05cb5b6d94,00540_000.jpg,@ellafridalindblom,,Single Pack,24 Sheets
+541,0,film_box_outside,Gevaert,Superchrom,12x16.5cm,80,BW,Unknown,1776106448,d1b64b3305778f6b9f213aa02614d2e7,9362bbd2bc0f48f68f28b7e5e9700217,00541_000.jpg,@ellafridalindblom,,Single Pack,12 Sheets
+541,1,film_box_outside,Gevaert,Superchrom,12x16.5cm,80,BW,Unknown,1776106451,9a9962058ca2d8a91c27af161540b524,ba7892ff23004ca29c649c9ec62c9952,00541_001.jpg,@ellafridalindblom,,Single Pack,12 Sheets
+542,0,film_box_outside,Kodak,Ektachrome 160T,35mm,160,E-6,199309,1776106672,15201012efdd420d1627fab02d9d98f5,dae0e4a473644444817e010eeb3d7b64,00542_000.jpg,@tylerdrey,,Single Pack,24exp
+542,1,film_box_inside,Kodak,Ektachrome 160T,35mm,160,E-6,199309,1776106673,cc13733b2cbd141ed37ac1f33ab35128,d55ee26a62134eabb2784c27adc0c895,00542_001.jpg,@tylerdrey,,Single Pack,24exp

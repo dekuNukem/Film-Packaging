@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Apr 07 2026
-Unique items: 533
-Total scans : 986
+Last Updated: Apr 13 2026
+Unique items: 538
+Total scans : 999
 ```
 
 -----
@@ -70,17 +70,20 @@ Total scans : 986
 - [[@ellafridalindblom] Fujifilm Neopan 400 Presto (ref: 21a7)](#ellafridalindblom-fujifilm-neopan-400-presto-ref-21a7)
 - [[@ellafridalindblom] Fujifilm Neopan SS (ref: d848)](#ellafridalindblom-fujifilm-neopan-ss-ref-d848)
 - [[@ellafridalindblom] Gevaert Studio Film (ref: 75f9)](#ellafridalindblom-gevaert-studio-film-ref-75f9)
+- [[@ellafridalindblom] Gevaert Superchrom (ref: 0217)](#ellafridalindblom-gevaert-superchrom-ref-0217)
 - [[@ellafridalindblom] Gevaert Ultra Panchro Normal (ref: 1ff6)](#ellafridalindblom-gevaert-ultra-panchro-normal-ref-1ff6)
 - [[@ellafridalindblom] Hands On Film Midnight 1600 (ref: 4411)](#ellafridalindblom-hands-on-film-midnight-1600-ref-4411)
 - [[@ellafridalindblom] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#ellafridalindblom-hasselblad-hassel-plåtar-erorto-ref-ec67)
 - [[@ellafridalindblom] Ificolor SHR 100 (ref: 0198)](#ellafridalindblom-ificolor-shr-100-ref-0198)
 - [[@ellafridalindblom] Ificolor Super FG HQ 200 (ref: ff86)](#ellafridalindblom-ificolor-super-fg-hq-200-ref-ff86)
+- [[@ellafridalindblom] Ilford HP3 (ref: 6d94)](#ellafridalindblom-ilford-hp3-ref-6d94)
 - [[@ellafridalindblom] Ilford HP3 (ref: ae35)](#ellafridalindblom-ilford-hp3-ref-ae35)
 - [[@ellafridalindblom] Ilford R.25 F.P Special (ref: ec05)](#ellafridalindblom-ilford-r25-fp-special-ref-ec05)
 - [[@ellafridalindblom] Illingworth's Fleet H&D (ref: 54fe)](#ellafridalindblom-illingworths-fleet-h-d-ref-54fe)
 - [[@ellafridalindblom] Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)](#ellafridalindblom-impossible-project-px-600-silver-shade-uv-ref-20f3)
 - [[@ellafridalindblom] Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#ellafridalindblom-kodak-ektachrome-slide-duplicating-film-ref-d53a)
 - [[@ellafridalindblom] Kodak High Speed Infrared Film 2481 (ref: aa7a)](#ellafridalindblom-kodak-high-speed-infrared-film-2481-ref-aa7a)
+- [[@ellafridalindblom] Kodak Super Speed Ortho Portrait (ref: b625)](#ellafridalindblom-kodak-super-speed-ortho-portrait-ref-b625)
 - [[@ellafridalindblom] Kodak Super-XX (ref: e684)](#ellafridalindblom-kodak-super-xx-ref-e684)
 - [[@ellafridalindblom] Kodak Super-sensitive Panchromatic Films (ref: 21a0)](#ellafridalindblom-kodak-super-sensitive-panchromatic-films-ref-21a0)
 - [[@ellafridalindblom] Kodak Tri-X 400 Pro (ref: f05c)](#ellafridalindblom-kodak-tri-x-400-pro-ref-f05c)
@@ -206,6 +209,7 @@ Total scans : 986
 - [[@toastergod101] Harman Red (ref: da3a)](#toastergod101-harman-red-ref-da3a)
 - [[@toastergod101] Ilford Delta 400 Professional (ref: f3da)](#toastergod101-ilford-delta-400-professional-ref-f3da)
 - [[@toastergod101] Ilford FP4 Plus (ref: 3bc0)](#toastergod101-ilford-fp4-plus-ref-3bc0)
+- [[@tylerdrey] Kodak Ektachrome 160T (ref: 7b64)](#tylerdrey-kodak-ektachrome-160t-ref-7b64)
 - [[@zruk_ts] Alien Film Aeronega (ref: d1c5)](#zruk_ts-alien-film-aeronega-ref-d1c5)
 - [[@zruk_ts] Foma Fomapan Classic 100 (ref: 1731)](#zruk_ts-foma-fomapan-classic-100-ref-1731)
 - [[@zruk_ts] Fujifilm Fujicolor Superia X-TRA 400 (ref: da37)](#zruk_ts-fujifilm-fujicolor-superia-x-tra-400-ref-da37)
@@ -242,6 +246,7 @@ Total scans : 986
 - [[Kraksen] Agfa Agfapan APX 400 (ref: 19bc)](#kraksen-agfa-agfapan-apx-400-ref-19bc)
 - [[Kraksen] Kodak Black & White + (ref: 2ff3)](#kraksen-kodak-black-white-ref-2ff3)
 - [[Kraksen] Marix Professional Negative Movie Color Film (ref: c457)](#kraksen-marix-professional-negative-movie-color-film-ref-c457)
+- [[Luci 101] Agfa AgfaChrome 100RS (ref: 2c42)](#luci-101-agfa-agfachrome-100rs-ref-2c42)
 - [[Luci 101] Foton Fotopan (ref: 6ba7)](#luci-101-foton-fotopan-ref-6ba7)
 - [[Luci 101] Foton Mikrofilm Negatywowy Super Orto (ref: 003e)](#luci-101-foton-mikrofilm-negatywowy-super-orto-ref-003e)
 - [[Luci 101] Kodak Kodacolor II (ref: 8dcf)](#luci-101-kodak-kodacolor-ii-ref-8dcf)
@@ -1381,6 +1386,27 @@ Notes : Muster Matt
 	<img src="./lowres/00457_000.jpg" alt="Gevaert Studio Film 12x16.5cm film box outside" loading="lazy" width="365" height="500">
 </a>
 
+#### [@ellafridalindblom] Gevaert Superchrom (ref: 0217)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2026-04-13   |  Author  : @ellafridalindblom
+UUID  : 9362bbd2bc0f48f68f28b7e5e9700217
+```
+
+<a href="./archive/00541_000.jpg" target="_blank">
+	<img src="./lowres/00541_000.jpg" alt="Gevaert Superchrom 12x16.5cm film box outside" loading="lazy" width="409" height="500">
+</a>
+
+
+`UUID: ba7892ff23004ca29c649c9ec62c9952`↓
+
+<a href="./archive/00541_001.jpg" target="_blank">
+	<img src="./lowres/00541_001.jpg" alt="Gevaert Superchrom 12x16.5cm film box outside" loading="lazy" width="394" height="500">
+</a>
+
 #### [@ellafridalindblom] Gevaert Ultra Panchro Normal (ref: 1ff6)
 
 ```
@@ -1449,6 +1475,20 @@ UUID  : 07d897691a00479584d29dbe8c05ff86
 
 <a href="./archive/00344_000.jpg" target="_blank">
 	<img src="./lowres/00344_000.jpg" alt="Ificolor Super FG HQ 200 35mm film box leaflet" loading="lazy" width="500" height="441">
+</a>
+
+#### [@ellafridalindblom] Ilford HP3 (ref: 6d94)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 125          |  Expiry  : 1947-04 
+Type  : Single Pack  |  Quantity: 24 Sheets
+Added : 2026-04-13   |  Author  : @ellafridalindblom
+UUID  : 6e678765fd1c48e08d9ebb05cb5b6d94
+```
+
+<a href="./archive/00540_000.jpg" target="_blank">
+	<img src="./lowres/00540_000.jpg" alt="Ilford HP3 12x16.5cm film box outside" loading="lazy" width="394" height="500">
 </a>
 
 #### [@ellafridalindblom] Ilford HP3 (ref: ae35)
@@ -1554,6 +1594,20 @@ UUID  : 6670d5214ea545e99bfb7aadb6d4aa7a
 
 <a href="./archive/00353_000.jpg" target="_blank">
 	<img src="./lowres/00353_000.jpg" alt="Kodak High Speed Infrared Film 2481 35mm film box outside" loading="lazy" width="500" height="489">
+</a>
+
+#### [@ellafridalindblom] Kodak Super Speed Ortho Portrait (ref: b625)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1942-10 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2026-04-13   |  Author  : @ellafridalindblom
+UUID  : b9989063d3264ee2b866b21d3e9ab625
+```
+
+<a href="./archive/00539_000.jpg" target="_blank">
+	<img src="./lowres/00539_000.jpg" alt="Kodak Super Speed Ortho Portrait 12x16.5cm film box outside" loading="lazy" width="394" height="500">
 </a>
 
 #### [@ellafridalindblom] Kodak Super-XX (ref: e684)
@@ -3841,6 +3895,27 @@ UUID  : c1bab96948014588adbde72665853bc0
 	<img src="./lowres/00304_001.jpg" alt="Ilford FP4 Plus 35mm film box inside" loading="lazy" width="443" height="500">
 </a>
 
+#### [@tylerdrey] Kodak Ektachrome 160T (ref: 7b64)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 160          |  Expiry  : 1993-09 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-04-13   |  Author  : @tylerdrey
+UUID  : dae0e4a473644444817e010eeb3d7b64
+```
+
+<a href="./archive/00542_000.jpg" target="_blank">
+	<img src="./lowres/00542_000.jpg" alt="Kodak Ektachrome 160T 35mm film box outside" loading="lazy" width="414" height="500">
+</a>
+
+
+`UUID: d55ee26a62134eabb2784c27adc0c895`↓
+
+<a href="./archive/00542_001.jpg" target="_blank">
+	<img src="./lowres/00542_001.jpg" alt="Kodak Ektachrome 160T 35mm film box inside" loading="lazy" width="434" height="500">
+</a>
+
 #### [@zruk_ts] Alien Film Aeronega (ref: d1c5)
 
 ```
@@ -4483,6 +4558,62 @@ UUID  : 715e5119d4b941d98ce52bcd8596c457
 
 <a href="./archive/00188_000.jpg" target="_blank">
 	<img src="./lowres/00188_000.jpg" alt="Marix Professional Negative Movie Color Film 35mm film box outside" loading="lazy" width="445" height="500">
+</a>
+
+#### [Luci 101] Agfa AgfaChrome 100RS (ref: 2c42)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 100          |  Expiry  : 1988-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-04-13   |  Author  : Luci 101
+UUID  : 06b483aba54b4ce5929a53b74c7d2c42
+```
+
+<a href="./archive/00538_000.jpg" target="_blank">
+	<img src="./lowres/00538_000.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="500" height="211">
+</a>
+
+
+`UUID: fddb3bf2c2384ede9010c5a601dca722`↓
+
+<a href="./archive/00538_001.jpg" target="_blank">
+	<img src="./lowres/00538_001.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="500" height="190">
+</a>
+
+
+`UUID: 8ef09b75e4fe4f88a8cd05d71b562d95`↓
+
+<a href="./archive/00538_002.jpg" target="_blank">
+	<img src="./lowres/00538_002.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="500" height="222">
+</a>
+
+
+`UUID: 5330ba90ecc04adfb0a6c681bf1983ba`↓
+
+<a href="./archive/00538_003.jpg" target="_blank">
+	<img src="./lowres/00538_003.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="500" height="222">
+</a>
+
+
+`UUID: 37ca2a55104e4f03b4bdc483a1a9d14e`↓
+
+<a href="./archive/00538_004.jpg" target="_blank">
+	<img src="./lowres/00538_004.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="486" height="500">
+</a>
+
+
+`UUID: cff1f06d7a2244599bac9cea8bd5d014`↓
+
+<a href="./archive/00538_005.jpg" target="_blank">
+	<img src="./lowres/00538_005.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="486" height="500">
+</a>
+
+
+`UUID: 31be2de2870945cc88fb17d6c916cc0e`↓
+
+<a href="./archive/00538_006.jpg" target="_blank">
+	<img src="./lowres/00538_006.jpg" alt="Agfa AgfaChrome 100RS 120 film box leaflet" loading="lazy" width="220" height="499">
 </a>
 
 #### [Luci 101] Foton Fotopan (ref: 6ba7)
@@ -11225,9 +11356,9 @@ Rank  Username                      Contributions
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      68    
-4     @recycling.film               65    
-5     @ellafridalindblom            63    
-6     Luci 101                      32    
+4     @ellafridalindblom            67    
+5     @recycling.film               65    
+6     Luci 101                      39    
 7     @Hol.m35                      30    
 8     The Compartmentalist          25    
 9     fine-seat                     19    
@@ -11260,11 +11391,12 @@ Rank  Username                      Contributions
 36    @ftfilmphotos                 2     
 37    @gregrouxphotography          2     
 38    Tobias                        2     
-39    Yrikonchik                    1     
-40    @ad.astra.per.aspera.1894     1     
-41    Aoi Yuki                      1     
-42    lemoniter                     1     
-43    @shotbyliampewpew             1     
+39    @tylerdrey                    2     
+40    Yrikonchik                    1     
+41    @ad.astra.per.aspera.1894     1     
+42    Aoi Yuki                      1     
+43    lemoniter                     1     
+44    @shotbyliampewpew             1     
 ```
 
 ## Questions or Comments?

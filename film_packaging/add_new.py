@@ -38,7 +38,8 @@ def get_answer(question, accept_empty=False):
             return response
 
 def format_two_columns(items):
-    col_width = max((len(f"{i}:  {item}") for i, item in enumerate(items)), default=0) + 4
+    MAX_COL_WIDTH = 50
+    col_width = min(max((len(f"{i}:  {item}") for i, item in enumerate(items)), default=0) + 4, MAX_COL_WIDTH)
     half = (len(items) + 1) // 2
     lines = []
     for row in range(half):

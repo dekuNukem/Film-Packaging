@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Apr 07 2026
-Unique items: 533
-Total scans : 986
+Last Updated: Apr 13 2026
+Unique items: 538
+Total scans : 999
 ```
 
 -----
@@ -89,6 +89,7 @@ Total scans : 986
 - [[BW] Gevaert Gevachrome 30 (ref: c0e3)](#bw-gevaert-gevachrome-30-ref-c0e3)
 - [[BW] Gevaert Infra-R (ref: fc88)](#bw-gevaert-infra-r-ref-fc88)
 - [[BW] Gevaert Studio Film (ref: 75f9)](#bw-gevaert-studio-film-ref-75f9)
+- [[BW] Gevaert Superchrom (ref: 0217)](#bw-gevaert-superchrom-ref-0217)
 - [[BW] Gevaert Superchrome (ref: af27)](#bw-gevaert-superchrome-ref-af27)
 - [[BW] Gevaert Ultra Panchro Normal (ref: 1ff6)](#bw-gevaert-ultra-panchro-normal-ref-1ff6)
 - [[BW] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#bw-hasselblad-hassel-plåtar-erorto-ref-ec67)
@@ -108,6 +109,7 @@ Total scans : 986
 - [[BW] Ilford FP4 Plus (ref: fe9b)](#bw-ilford-fp4-plus-ref-fe9b)
 - [[BW] Ilford FP4 Plus (ref: 3bc0)](#bw-ilford-fp4-plus-ref-3bc0)
 - [[BW] Ilford FP4 Plus (ref: a431)](#bw-ilford-fp4-plus-ref-a431)
+- [[BW] Ilford HP3 (ref: 6d94)](#bw-ilford-hp3-ref-6d94)
 - [[BW] Ilford HP3 (ref: 1afc)](#bw-ilford-hp3-ref-1afc)
 - [[BW] Ilford HP3 (ref: ae35)](#bw-ilford-hp3-ref-ae35)
 - [[BW] Ilford HP5 Plus (ref: 11a8)](#bw-ilford-hp5-plus-ref-11a8)
@@ -143,6 +145,7 @@ Total scans : 986
 - [[BW] Kodak Plus-X Pan (ref: f5cc)](#bw-kodak-plus-x-pan-ref-f5cc)
 - [[BW] Kodak Professional Microfilm Type I (ref: a444)](#bw-kodak-professional-microfilm-type-i-ref-a444)
 - [[BW] Kodak Rapid Process Copy Film (ref: e66e)](#bw-kodak-rapid-process-copy-film-ref-e66e)
+- [[BW] Kodak Super Speed Ortho Portrait (ref: b625)](#bw-kodak-super-speed-ortho-portrait-ref-b625)
 - [[BW] Kodak Super-XX (ref: 07c8)](#bw-kodak-super-xx-ref-07c8)
 - [[BW] Kodak Super-XX (ref: e684)](#bw-kodak-super-xx-ref-e684)
 - [[BW] Kodak Super-sensitive Panchromatic Films (ref: 21a0)](#bw-kodak-super-sensitive-panchromatic-films-ref-21a0)
@@ -451,6 +454,7 @@ Total scans : 986
 - [[E-4] Kodak High Speed Ektachrome (ref: ec3d)](#e-4-kodak-high-speed-ektachrome-ref-ec3d)
 - [[E-4] Kodak High Speed Ektachrome (ref: be8f)](#e-4-kodak-high-speed-ektachrome-ref-be8f)
 - [[E-4] Kodak High Speed Ektachrome (ref: b8f8)](#e-4-kodak-high-speed-ektachrome-ref-b8f8)
+- [[E-6] Agfa AgfaChrome 100RS (ref: 2c42)](#e-6-agfa-agfachrome-100rs-ref-2c42)
 - [[E-6] Agfa CT Precisa 100 (ref: bc36)](#e-6-agfa-ct-precisa-100-ref-bc36)
 - [[E-6] Fujifilm Fujichrome 64T (ref: 311b)](#e-6-fujifilm-fujichrome-64t-ref-311b)
 - [[E-6] Fujifilm Fujichrome 64T Type II Professional (ref: 74a1)](#e-6-fujifilm-fujichrome-64t-type-ii-professional-ref-74a1)
@@ -474,6 +478,7 @@ Total scans : 986
 - [[E-6] Kodak Ektachrome 100 Plus (ref: 0183)](#e-6-kodak-ektachrome-100-plus-ref-0183)
 - [[E-6] Kodak Ektachrome 100HC (ref: 3ab9)](#e-6-kodak-ektachrome-100hc-ref-3ab9)
 - [[E-6] Kodak Ektachrome 100HC (ref: 775a)](#e-6-kodak-ektachrome-100hc-ref-775a)
+- [[E-6] Kodak Ektachrome 160T (ref: 7b64)](#e-6-kodak-ektachrome-160t-ref-7b64)
 - [[E-6] Kodak Ektachrome 200 (ref: f372)](#e-6-kodak-ektachrome-200-ref-f372)
 - [[E-6] Kodak Ektachrome 200 (ref: b21e)](#e-6-kodak-ektachrome-200-ref-b21e)
 - [[E-6] Kodak Ektachrome 400 (ref: 2b94)](#e-6-kodak-ektachrome-400-ref-2b94)
@@ -1786,6 +1791,27 @@ Notes : Muster Matt
 	<img src="./lowres/00457_000.jpg" alt="Gevaert Studio Film 12x16.5cm film box outside" loading="lazy" width="365" height="500">
 </a>
 
+#### [BW] Gevaert Superchrom (ref: 0217)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2026-04-13   |  Author  : @ellafridalindblom
+UUID  : 9362bbd2bc0f48f68f28b7e5e9700217
+```
+
+<a href="./archive/00541_000.jpg" target="_blank">
+	<img src="./lowres/00541_000.jpg" alt="Gevaert Superchrom 12x16.5cm film box outside" loading="lazy" width="409" height="500">
+</a>
+
+
+`UUID: ba7892ff23004ca29c649c9ec62c9952`↓
+
+<a href="./archive/00541_001.jpg" target="_blank">
+	<img src="./lowres/00541_001.jpg" alt="Gevaert Superchrom 12x16.5cm film box outside" loading="lazy" width="394" height="500">
+</a>
+
 #### [BW] Gevaert Superchrome (ref: af27)
 
 ```
@@ -2134,6 +2160,20 @@ UUID  : 97b840e334f14e48ba5baf99f38ea431
 
 <a href="./archive/00523_001.jpg" target="_blank">
 	<img src="./lowres/00523_001.jpg" alt="Ilford FP4 Plus 35mm film box inside" loading="lazy" width="402" height="500">
+</a>
+
+#### [BW] Ilford HP3 (ref: 6d94)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 125          |  Expiry  : 1947-04 
+Type  : Single Pack  |  Quantity: 24 Sheets
+Added : 2026-04-13   |  Author  : @ellafridalindblom
+UUID  : 6e678765fd1c48e08d9ebb05cb5b6d94
+```
+
+<a href="./archive/00540_000.jpg" target="_blank">
+	<img src="./lowres/00540_000.jpg" alt="Ilford HP3 12x16.5cm film box outside" loading="lazy" width="394" height="500">
 </a>
 
 #### [BW] Ilford HP3 (ref: 1afc)
@@ -2841,6 +2881,20 @@ UUID  : 396a3645cb9a40a4b0a6dd2fd854e66e
 
 <a href="./archive/00105_002.jpg" target="_blank">
 	<img src="./lowres/00105_002.jpg" alt="Kodak Rapid Process Copy Film 35mm film box inside" loading="lazy" width="166" height="500">
+</a>
+
+#### [BW] Kodak Super Speed Ortho Portrait (ref: b625)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1942-10 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2026-04-13   |  Author  : @ellafridalindblom
+UUID  : b9989063d3264ee2b866b21d3e9ab625
+```
+
+<a href="./archive/00539_000.jpg" target="_blank">
+	<img src="./lowres/00539_000.jpg" alt="Kodak Super Speed Ortho Portrait 12x16.5cm film box outside" loading="lazy" width="394" height="500">
 </a>
 
 #### [BW] Kodak Super-XX (ref: 07c8)
@@ -8586,6 +8640,62 @@ UUID  : 86470a73e4b5436b97ffb272be6bb8f8
 	<img src="./lowres/00107_002.jpg" alt="Kodak High Speed Ektachrome 35mm film box leaflet" loading="lazy" width="194" height="500">
 </a>
 
+#### [E-6] Agfa AgfaChrome 100RS (ref: 2c42)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 100          |  Expiry  : 1988-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-04-13   |  Author  : Luci 101
+UUID  : 06b483aba54b4ce5929a53b74c7d2c42
+```
+
+<a href="./archive/00538_000.jpg" target="_blank">
+	<img src="./lowres/00538_000.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="500" height="211">
+</a>
+
+
+`UUID: fddb3bf2c2384ede9010c5a601dca722`↓
+
+<a href="./archive/00538_001.jpg" target="_blank">
+	<img src="./lowres/00538_001.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="500" height="190">
+</a>
+
+
+`UUID: 8ef09b75e4fe4f88a8cd05d71b562d95`↓
+
+<a href="./archive/00538_002.jpg" target="_blank">
+	<img src="./lowres/00538_002.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="500" height="222">
+</a>
+
+
+`UUID: 5330ba90ecc04adfb0a6c681bf1983ba`↓
+
+<a href="./archive/00538_003.jpg" target="_blank">
+	<img src="./lowres/00538_003.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="500" height="222">
+</a>
+
+
+`UUID: 37ca2a55104e4f03b4bdc483a1a9d14e`↓
+
+<a href="./archive/00538_004.jpg" target="_blank">
+	<img src="./lowres/00538_004.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="486" height="500">
+</a>
+
+
+`UUID: cff1f06d7a2244599bac9cea8bd5d014`↓
+
+<a href="./archive/00538_005.jpg" target="_blank">
+	<img src="./lowres/00538_005.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="486" height="500">
+</a>
+
+
+`UUID: 31be2de2870945cc88fb17d6c916cc0e`↓
+
+<a href="./archive/00538_006.jpg" target="_blank">
+	<img src="./lowres/00538_006.jpg" alt="Agfa AgfaChrome 100RS 120 film box leaflet" loading="lazy" width="220" height="499">
+</a>
+
 #### [E-6] Agfa CT Precisa 100 (ref: bc36)
 
 ```
@@ -9070,6 +9180,27 @@ UUID  : 064dbfe80ca84ac99329c252bce0775a
 
 <a href="./archive/00276_001.jpg" target="_blank">
 	<img src="./lowres/00276_001.jpg" alt="Kodak Ektachrome 100HC 35mm film box inside" loading="lazy" width="441" height="500">
+</a>
+
+#### [E-6] Kodak Ektachrome 160T (ref: 7b64)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 160          |  Expiry  : 1993-09 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-04-13   |  Author  : @tylerdrey
+UUID  : dae0e4a473644444817e010eeb3d7b64
+```
+
+<a href="./archive/00542_000.jpg" target="_blank">
+	<img src="./lowres/00542_000.jpg" alt="Kodak Ektachrome 160T 35mm film box outside" loading="lazy" width="414" height="500">
+</a>
+
+
+`UUID: d55ee26a62134eabb2784c27adc0c895`↓
+
+<a href="./archive/00542_001.jpg" target="_blank">
+	<img src="./lowres/00542_001.jpg" alt="Kodak Ektachrome 160T 35mm film box inside" loading="lazy" width="434" height="500">
 </a>
 
 #### [E-6] Kodak Ektachrome 200 (ref: f372)
@@ -11225,9 +11356,9 @@ Rank  Username                      Contributions
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      68    
-4     @recycling.film               65    
-5     @ellafridalindblom            63    
-6     Luci 101                      32    
+4     @ellafridalindblom            67    
+5     @recycling.film               65    
+6     Luci 101                      39    
 7     @Hol.m35                      30    
 8     The Compartmentalist          25    
 9     fine-seat                     19    
@@ -11260,11 +11391,12 @@ Rank  Username                      Contributions
 36    @ftfilmphotos                 2     
 37    @gregrouxphotography          2     
 38    Tobias                        2     
-39    Yrikonchik                    1     
-40    @ad.astra.per.aspera.1894     1     
-41    Aoi Yuki                      1     
-42    lemoniter                     1     
-43    @shotbyliampewpew             1     
+39    @tylerdrey                    2     
+40    Yrikonchik                    1     
+41    @ad.astra.per.aspera.1894     1     
+42    Aoi Yuki                      1     
+43    lemoniter                     1     
+44    @shotbyliampewpew             1     
 ```
 
 ## Questions or Comments?

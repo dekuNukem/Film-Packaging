@@ -15,19 +15,21 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Apr 07 2026
-Unique items: 533
-Total scans : 986
+Last Updated: Apr 13 2026
+Unique items: 538
+Total scans : 999
 ```
 
 -----
 
 - [[1941] Agfa Fine-Grain Plenachrome (ref: e5d4)](#1941-agfa-fine-grain-plenachrome-ref-e5d4)
+- [[1942] Kodak Super Speed Ortho Portrait (ref: b625)](#1942-kodak-super-speed-ortho-portrait-ref-b625)
 - [[1943] Kodak Super-XX (ref: 07c8)](#1943-kodak-super-xx-ref-07c8)
 - [[1944] Agfa Isopan Portrait (ref: b974)](#1944-agfa-isopan-portrait-ref-b974)
 - [[1946] Agfa Isopan FF (ref: 3700)](#1946-agfa-isopan-ff-ref-3700)
 - [[1947] Gevaert Superchrome (ref: af27)](#1947-gevaert-superchrome-ref-af27)
 - [[1947] Kodak Verichrome (ref: e465)](#1947-kodak-verichrome-ref-e465)
+- [[1947] Ilford HP3 (ref: 6d94)](#1947-ilford-hp3-ref-6d94)
 - [[1947] Agfa Isopan Portrait (ref: 19b5)](#1947-agfa-isopan-portrait-ref-19b5)
 - [[1947] Perutz Perpantic Film (ref: 58b1)](#1947-perutz-perpantic-film-ref-58b1)
 - [[1948] Agfa Isochrom Portrait (ref: 4c56)](#1948-agfa-isochrom-portrait-ref-4c56)
@@ -133,6 +135,7 @@ Total scans : 986
 - [[1986] Kodak Tri-X Pan (ref: f201)](#1986-kodak-tri-x-pan-ref-f201)
 - [[1987] Kodak Kodacolor VR (ref: 035f)](#1987-kodak-kodacolor-vr-ref-035f)
 - [[1987] Fujifilm Fujicolor HR 1600 (ref: 1d39)](#1987-fujifilm-fujicolor-hr-1600-ref-1d39)
+- [[1988] Agfa AgfaChrome 100RS (ref: 2c42)](#1988-agfa-agfachrome-100rs-ref-2c42)
 - [[1988] Polaroid PolaPan 35mm (ref: 9825)](#1988-polaroid-polapan-35mm-ref-9825)
 - [[1988] Kodak Technical Pan 6415 (ref: 03be)](#1988-kodak-technical-pan-6415-ref-03be)
 - [[1988] Fujifilm Neopan SS (ref: d848)](#1988-fujifilm-neopan-ss-ref-d848)
@@ -173,6 +176,7 @@ Total scans : 986
 - [[1993] Svema Foto 32 (ref: d1fd)](#1993-svema-foto-32-ref-d1fd)
 - [[1993] Alfo ALFOcolor PR-G (ref: 94b9)](#1993-alfo-alfocolor-pr-g-ref-94b9)
 - [[1993] Polaroid PolaChrome 35mm (ref: b202)](#1993-polaroid-polachrome-35mm-ref-b202)
+- [[1993] Kodak Ektachrome 160T (ref: 7b64)](#1993-kodak-ektachrome-160t-ref-7b64)
 - [[1993] Kodak Gold II (ref: 61d0)](#1993-kodak-gold-ii-ref-61d0)
 - [[1993] Nishika Color Print Film (ref: baeb)](#1993-nishika-color-print-film-ref-baeb)
 - [[1994] Fujifilm Fujicolor Super HG (ref: ee94)](#1994-fujifilm-fujicolor-super-hg-ref-ee94)
@@ -524,6 +528,7 @@ Total scans : 986
 - [[Unknown] Film Photography Project FPP 620 Black & White Panchromatic Negative Film (ref: 60ce)](#unknown-film-photography-project-fpp-620-black-white-panchromatic-negative-film-ref-60ce)
 - [[Unknown] Gevaert Infra-R (ref: fc88)](#unknown-gevaert-infra-r-ref-fc88)
 - [[Unknown] Gevaert Studio Film (ref: 75f9)](#unknown-gevaert-studio-film-ref-75f9)
+- [[Unknown] Gevaert Superchrom (ref: 0217)](#unknown-gevaert-superchrom-ref-0217)
 - [[Unknown] Gevaert Ultra Panchro Normal (ref: 1ff6)](#unknown-gevaert-ultra-panchro-normal-ref-1ff6)
 - [[Unknown] Great Films Processing Kodachrome (ref: c012)](#unknown-great-films-processing-kodachrome-ref-c012)
 - [[Unknown] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#unknown-hasselblad-hassel-plåtar-erorto-ref-ec67)
@@ -578,6 +583,20 @@ UUID  : 66a105cd605748d78884e5c305a4e5d4
 
 <a href="./archive/00179_001.jpg" target="_blank">
 	<img src="./lowres/00179_001.jpg" alt="Agfa Fine-Grain Plenachrome 35mm film box outside" loading="lazy" width="479" height="499">
+</a>
+
+#### [1942] Kodak Super Speed Ortho Portrait (ref: b625)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1942-10 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2026-04-13   |  Author  : @ellafridalindblom
+UUID  : b9989063d3264ee2b866b21d3e9ab625
+```
+
+<a href="./archive/00539_000.jpg" target="_blank">
+	<img src="./lowres/00539_000.jpg" alt="Kodak Super Speed Ortho Portrait 12x16.5cm film box outside" loading="lazy" width="394" height="500">
 </a>
 
 #### [1943] Kodak Super-XX (ref: 07c8)
@@ -648,6 +667,20 @@ UUID  : a7d5a1c6923e4090b91381a1c853e465
 
 <a href="./archive/00443_000.jpg" target="_blank">
 	<img src="./lowres/00443_000.jpg" alt="Kodak Verichrome 616 film box outside" loading="lazy" width="500" height="404">
+</a>
+
+#### [1947] Ilford HP3 (ref: 6d94)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 125          |  Expiry  : 1947-04 
+Type  : Single Pack  |  Quantity: 24 Sheets
+Added : 2026-04-13   |  Author  : @ellafridalindblom
+UUID  : 6e678765fd1c48e08d9ebb05cb5b6d94
+```
+
+<a href="./archive/00540_000.jpg" target="_blank">
+	<img src="./lowres/00540_000.jpg" alt="Ilford HP3 12x16.5cm film box outside" loading="lazy" width="394" height="500">
 </a>
 
 #### [1947] Agfa Isopan Portrait (ref: 19b5)
@@ -3232,6 +3265,62 @@ UUID  : bbcc3da99c5c4734a5a8a985b9b31d39
 	<img src="./lowres/00350_002.jpg" alt="Fujifilm Fujicolor HR 1600 35mm film box leaflet" loading="lazy" width="269" height="499">
 </a>
 
+#### [1988] Agfa AgfaChrome 100RS (ref: 2c42)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 100          |  Expiry  : 1988-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-04-13   |  Author  : Luci 101
+UUID  : 06b483aba54b4ce5929a53b74c7d2c42
+```
+
+<a href="./archive/00538_000.jpg" target="_blank">
+	<img src="./lowres/00538_000.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="500" height="211">
+</a>
+
+
+`UUID: fddb3bf2c2384ede9010c5a601dca722`↓
+
+<a href="./archive/00538_001.jpg" target="_blank">
+	<img src="./lowres/00538_001.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="500" height="190">
+</a>
+
+
+`UUID: 8ef09b75e4fe4f88a8cd05d71b562d95`↓
+
+<a href="./archive/00538_002.jpg" target="_blank">
+	<img src="./lowres/00538_002.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="500" height="222">
+</a>
+
+
+`UUID: 5330ba90ecc04adfb0a6c681bf1983ba`↓
+
+<a href="./archive/00538_003.jpg" target="_blank">
+	<img src="./lowres/00538_003.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="500" height="222">
+</a>
+
+
+`UUID: 37ca2a55104e4f03b4bdc483a1a9d14e`↓
+
+<a href="./archive/00538_004.jpg" target="_blank">
+	<img src="./lowres/00538_004.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="486" height="500">
+</a>
+
+
+`UUID: cff1f06d7a2244599bac9cea8bd5d014`↓
+
+<a href="./archive/00538_005.jpg" target="_blank">
+	<img src="./lowres/00538_005.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="486" height="500">
+</a>
+
+
+`UUID: 31be2de2870945cc88fb17d6c916cc0e`↓
+
+<a href="./archive/00538_006.jpg" target="_blank">
+	<img src="./lowres/00538_006.jpg" alt="Agfa AgfaChrome 100RS 120 film box leaflet" loading="lazy" width="220" height="499">
+</a>
+
 #### [1988] Polaroid PolaPan 35mm (ref: 9825)
 
 ```
@@ -4161,6 +4250,27 @@ UUID  : 30947745f405445e88808deab9a4b202
 
 <a href="./archive/00174_000.jpg" target="_blank">
 	<img src="./lowres/00174_000.jpg" alt="Polaroid PolaChrome 35mm 35mm film box outside" loading="lazy" width="500" height="424">
+</a>
+
+#### [1993] Kodak Ektachrome 160T (ref: 7b64)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 160          |  Expiry  : 1993-09 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-04-13   |  Author  : @tylerdrey
+UUID  : dae0e4a473644444817e010eeb3d7b64
+```
+
+<a href="./archive/00542_000.jpg" target="_blank">
+	<img src="./lowres/00542_000.jpg" alt="Kodak Ektachrome 160T 35mm film box outside" loading="lazy" width="414" height="500">
+</a>
+
+
+`UUID: d55ee26a62134eabb2784c27adc0c895`↓
+
+<a href="./archive/00542_001.jpg" target="_blank">
+	<img src="./lowres/00542_001.jpg" alt="Kodak Ektachrome 160T 35mm film box inside" loading="lazy" width="434" height="500">
 </a>
 
 #### [1993] Kodak Gold II (ref: 61d0)
@@ -10621,6 +10731,27 @@ Notes : Muster Matt
 	<img src="./lowres/00457_000.jpg" alt="Gevaert Studio Film 12x16.5cm film box outside" loading="lazy" width="365" height="500">
 </a>
 
+#### [Unknown] Gevaert Superchrom (ref: 0217)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2026-04-13   |  Author  : @ellafridalindblom
+UUID  : 9362bbd2bc0f48f68f28b7e5e9700217
+```
+
+<a href="./archive/00541_000.jpg" target="_blank">
+	<img src="./lowres/00541_000.jpg" alt="Gevaert Superchrom 12x16.5cm film box outside" loading="lazy" width="409" height="500">
+</a>
+
+
+`UUID: ba7892ff23004ca29c649c9ec62c9952`↓
+
+<a href="./archive/00541_001.jpg" target="_blank">
+	<img src="./lowres/00541_001.jpg" alt="Gevaert Superchrom 12x16.5cm film box outside" loading="lazy" width="394" height="500">
+</a>
+
 #### [Unknown] Gevaert Ultra Panchro Normal (ref: 1ff6)
 
 ```
@@ -11225,9 +11356,9 @@ Rank  Username                      Contributions
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      68    
-4     @recycling.film               65    
-5     @ellafridalindblom            63    
-6     Luci 101                      32    
+4     @ellafridalindblom            67    
+5     @recycling.film               65    
+6     Luci 101                      39    
 7     @Hol.m35                      30    
 8     The Compartmentalist          25    
 9     fine-seat                     19    
@@ -11260,11 +11391,12 @@ Rank  Username                      Contributions
 36    @ftfilmphotos                 2     
 37    @gregrouxphotography          2     
 38    Tobias                        2     
-39    Yrikonchik                    1     
-40    @ad.astra.per.aspera.1894     1     
-41    Aoi Yuki                      1     
-42    lemoniter                     1     
-43    @shotbyliampewpew             1     
+39    @tylerdrey                    2     
+40    Yrikonchik                    1     
+41    @ad.astra.per.aspera.1894     1     
+42    Aoi Yuki                      1     
+43    lemoniter                     1     
+44    @shotbyliampewpew             1     
 ```
 
 ## Questions or Comments?
