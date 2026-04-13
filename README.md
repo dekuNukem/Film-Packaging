@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Dec 29 2025
-Unique items: 500
-Total scans : 920
+Last Updated: Mar 02 2026
+Unique items: 532
+Total scans : 983
 ```
 
 Or Sort by...
@@ -56,47 +56,85 @@ Rank  Username                      Contributions
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      68    
-4     @ellafridalindblom            63    
-5     @recycling.film               62    
-6     The Compartmentalist          25    
-7     @Hol.m35                      22    
-8     fine-seat                     19    
-9     Camera.Riley                  19    
-10    Nano_Burger                   18    
-11    toader                        17    
-12    @ob.skura                     16    
-13    waldoboro                     16    
-14    b0baspace                     14    
-15    kaimon                        14    
-16    @SirBrentsworth               13    
-17    benikum                       12    
-18    yc128                         11    
-19    @zruk_ts                      10    
-20    minidiscus                    10    
-21    lilyu.xyz                     9     
-22    lt_col_tall                   9     
-23    @toastergod101                7     
-24    @filmfotofella                7     
-25    Chrisbes                      7     
-26    GreatGizmo74                  6     
-27    nick                          6     
-28    Kraksen                       5     
-29    Henry Gunn                    4     
-30    u/ReeeSchmidtyWerber          4     
-31    TheSelousScout                3     
-32    @sachynmital                  3     
-33    @seklerek                     2     
-34    @ftfilmphotos                 2     
-35    @gregrouxphotography          2     
-36    Yrikonchik                    1     
-37    @ad.astra.per.aspera.1894     1     
-38    Aoi Yuki                      1     
-39    lemoniter                     1     
+4     @recycling.film               65    
+5     @ellafridalindblom            63    
+6     Luci 101                      32    
+7     @Hol.m35                      30    
+8     The Compartmentalist          25    
+9     fine-seat                     19    
+10    Camera.Riley                  19    
+11    Nano_Burger                   18    
+12    toader                        17    
+13    @ob.skura                     16    
+14    kaimon                        16    
+15    waldoboro                     16    
+16    yc128                         14    
+17    b0baspace                     14    
+18    @SirBrentsworth               13    
+19    benikum                       12    
+20    u/ReeeSchmidtyWerber          11    
+21    Chrisbes                      11    
+22    @zruk_ts                      10    
+23    minidiscus                    10    
+24    lilyu.xyz                     9     
+25    lt_col_tall                   9     
+26    @toastergod101                7     
+27    @filmfotofella                7     
+28    GreatGizmo74                  6     
+29    nick                          6     
+30    Kraksen                       5     
+31    Henry Gunn                    4     
+32    TheSelousScout                4     
+33    @sachynmital                  3     
+34    @seklerek                     2     
+35    @ftfilmphotos                 2     
+36    @gregrouxphotography          2     
+37    Tobias                        2     
+38    Yrikonchik                    1     
+39    @ad.astra.per.aspera.1894     1     
+40    Aoi Yuki                      1     
+41    lemoniter                     1     
+42    @shotbyliampewpew             1     
 ```
 
 ## Recent Activities
 
 ```
+2026-03-02
+  - @Hol.m35: Fujifilm Fujicolor 100
+  - @Hol.m35: Fujifilm Fujicolor Pro 400H
+  - @Hol.m35: Fujifilm Hi-Speed 1600 Disposable Camera
+  - @Hol.m35: Optik Oldschool OptiColour 200
+  - @recycling.film: Ferrania Solaris FG Plus
+  - @recycling.film: Foma Fomapan classic 100
+  - Luci 101: Foton Fotopan
+  - Luci 101: Foton Mikrofilm Negatywowy Super Orto
+  - Luci 101: Kodak Kodacolor II
+  - Luci 101: ORWO DK5
+  - Luci 101: ORWO NC 19
+  - Luci 101: ORWO NP 22
+  - Luci 101: ORWO OrwoChrome RC100
+  - Luci 101: ORWO UK18
+  - TheSelousScout: Kodak Kodacolor 200
+  - Tobias: efke KB-25
+  - u/ReeeSchmidtyWerber: Fujifilm Neopan Acros 100 II
+  - u/ReeeSchmidtyWerber: Ilford FP4 Plus
+  - u/ReeeSchmidtyWerber: Ilford Ilfocolor 400 Plus
+  - u/ReeeSchmidtyWerber: Kodak Tri-X 400
+  - yc128: Ilford FP4 Plus
+  - yc128: Optik Oldschool OptiColour 200
+
+2026-01-26
+  - @Hol.m35: Optik Oldschool SantaColor
+  - @Hol.m35: Rollei Retro 400S
+  - @shotbyliampewpew: Escura EDO ukiyo-e
+  - Chrisbes: Fujifilm Fujicolor Super HG
+  - Chrisbes: Fujifilm Superia 200
+  - Chrisbes: Reflx Lab 320D AHU
+  - Chrisbes: Reflx Lab 640T AHU
+  - kaimon: Kodak Gold 200
+  - u/ReeeSchmidtyWerber: Fujifilm Fujichrome Velvia
+
 2025-12-29
   - @Hol.m35: Max Spielmann Pro-Zoom MX 400
   - benikum: ORWO NP22
@@ -113,20 +151,6 @@ Rank  Username                      Contributions
   - @Hol.m35: Lomography Berlin
   - @Hol.m35: Lomography Color Negative 800
   - @recycling.film: Polaroid Type 42
-
-2025-12-01
-  - Pelicram: Candido Colour Negative Film
-
-2025-11-25
-  - @recycling.film: Kodak Ektachrome Elite 200
-  - @recycling.film: Photocité 400 ISO
-  - @recycling.film: Seagull Seagull Color IR100
-  - kaimon: Ilford Ortho Plus
-  - waldoboro: Fujifilm Fujicolor Super HG
-  - waldoboro: Fujifilm Fujicolor Superia 100
-  - waldoboro: Kodak Gold 200
-  - waldoboro: Perutz Primera
-  - waldoboro: Svema FN 64
 ```
 
 ## Disclaimer

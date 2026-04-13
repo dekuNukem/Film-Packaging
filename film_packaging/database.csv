@@ -919,3 +919,66 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 504,0,film_box_outside,ORWO,NP22,35mm,125,BW,199206,1767013442,f01b9eca63e12ff5eac12eb5b7e84e9f,cfbdda5effec496ca0d9d91d29d65437,00504_000.jpg,benikum,,Single Pack,36exp
 504,1,film_box_inside,ORWO,NP22,35mm,125,BW,199206,1767013444,a10c6c029ece0dc7ffa68d3f2c0975bf,e0f475a33cbc4eb985d8958d7cd7a505,00504_001.jpg,benikum,,Single Pack,36exp
 504,2,film_box_inside,ORWO,NP22,35mm,125,BW,199206,1767013450,376d3edf56424d1bac2deeac888666c5,92ea3f721b484deba093c773a0c7ea18,00504_002.jpg,benikum,,Single Pack,36exp
+505,0,film_box_outside,Optik Oldschool,SantaColor,35mm,800,C-41,202712,1769429743,266ab09680564db6d4b1fed7ef7267cd,bc9726f8d278473591afb78fc49bdd85,00505_000.jpg,@Hol.m35,,Single Pack,36exp
+506,0,film_box_outside,Fujifilm,Superia 200,35mm,200,C-41,200809,1769429884,58a8a052b33533854725c0b72a061287,94d1751b3c454ec590a5d79ee1f9fd36,00506_000.jpg,Chrisbes,,Multi-Pack-5,36exp
+507,0,film_box_outside,Fujifilm,Fujicolor Super HG,35mm,100,C-41,199301,1769430078,53e6c2de92e8b27ca31d4633ff06fc18,bd59eca469724f71b8b6da2e89dd9942,00507_000.jpg,Chrisbes,,Multi-Pack-3,24exp
+508,0,film_box_outside,Rollei,Retro 400S,120,400,BW,202803,1769430269,4e97a23ef23f9158ff75d1a654126d4f,17064b735c704134b793c63b583ef2cf,00508_000.jpg,@Hol.m35,,Single Pack,N/A
+508,1,film_box_inside,Rollei,Retro 400S,120,400,BW,202803,1769430270,0c018210bc7939afa0888fc60fc93deb,6f069574b62047eeafe63d911d3d20ea,00508_001.jpg,@Hol.m35,,Single Pack,N/A
+509,0,film_box_outside,Kodak,Gold 200,120,200,C-41,202812,1769430565,80df2ea8f7407f0be60b4568d44899eb,0e7da8b53783476da740ee07ca9a3e0b,00509_000.jpg,kaimon,,Multi-Pack-5,N/A
+509,1,film_box_outside,Kodak,Gold 200,120,200,C-41,202812,1769430569,7e905ecef5df62e9d5efcd40200dc67a,83267ba97d474616b31a80a3a2b03493,00509_001.jpg,kaimon,,Multi-Pack-5,N/A
+510,0,film_box_outside,Fujifilm,Fujichrome Velvia,35mm,100,E-6,202704,1769431975,1fecc1c7cfc01ab9e387ad279b60e2c2,8513abf4476f41c880303c3116ee1ba8,00510_000.jpg,u/ReeeSchmidtyWerber,,Single Pack,36exp
+511,0,film_box_outside,Escura,EDO ukiyo-e,35mm,400,C-41,202806,1769432152,499ae840a75008717cde4e9089c3285f,758ee88b8edf42b492c8c240281d5faa,00511_000.jpg,@shotbyliampewpew,,Single Pack,24exp
+512,0,film_cartridge,Reflx Lab,320D AHU,35mm,320,C-41,Unknown,1769432406,ac973927fb52dbdc9f0902c4bdfe5a1a,f6ddd372aaa0413a961691159ba30bd5,00512_000.jpg,Chrisbes,,Single Pack,36exp
+513,0,film_cartridge,Reflx Lab,640T AHU,35mm,640,C-41,Unknown,1769432463,d24bb194c7fc90b19f0383ca71ad258b,e546f5291c23497b9643b51318452ce9,00513_000.jpg,Chrisbes,,Single Pack,36exp
+514,0,film_box_outside,Ferrania,Solaris FG Plus,35mm,800,C-41,Unknown,1772454113,343d8d580a2436ed99c41cbad8a68592,a8aa315de3e54a68ae03d37f80d278b7,00514_000.jpg,@recycling.film,,Single Pack,36exp
+515,0,film_box_outside,Foma,Fomapan classic 100,120,100,BW,202806,1772454185,a451857ad85e0b42f8651f0f3c84a2b4,e5c7523b6226483b9d4a1b24d7035e7b,00515_000.jpg,@recycling.film,,Single Pack,N/A
+515,1,film_box_inside,Foma,Fomapan classic 100,120,100,BW,202806,1772454187,32edad3125058b1a6de12735e7e1ce15,df516fa250bb494dbca14134a2143e6a,00515_001.jpg,@recycling.film,,Single Pack,N/A
+516,0,film_box_outside,Optik Oldschool,OptiColour 200,35mm,200,C-41,Unknown,1772454433,27f621ba0b2afd0231bccdd52e5a810b,187943e086e842469a7f19ddd0f8a7c9,00516_000.jpg,yc128,,Single Pack,36exp
+517,0,film_box_outside,Ilford,FP4 Plus,120,125,BW,202609,1772454481,43f8e9909e983f5a90c011cf6c71ecd0,4b9fda92ef0b400a909c77872715fe9b,00517_000.jpg,yc128,,Single Pack,N/A
+517,1,film_box_inside,Ilford,FP4 Plus,120,125,BW,202609,1772454490,0bd374f01826d6addafdbea593b3377f,29374a9675814feb86bed63775784334,00517_001.jpg,yc128,,Single Pack,N/A
+518,0,film_box_outside,Fujifilm,Fujicolor Pro 400H,120,400,C-41,201401,1772454656,0ab1a5f2b4f8f186194c43c2b07940f4,8acc893c8082453a8f83a17f3780fb3a,00518_000.jpg,@Hol.m35,,Multi-Pack-5,N/A
+519,0,film_box_outside,Kodak,Kodacolor 200,35mm,200,C-41,202802,1772454772,780d1070c33665d9ca382fa4671c5ec6,b33ca9b3d2e34544a264987426efba30,00519_000.jpg,TheSelousScout,,Single Pack,36exp
+520,0,film_box_outside,Kodak,Tri-X 400,35mm,400,BW,202609,1772455260,d199c611f390bccfc02f420f226ffd85,178660bdc2f841308698aacd5acacba7,00520_000.jpg,u/ReeeSchmidtyWerber,,Single Pack,36exp
+521,0,film_box_outside,Kodak,Tri-X 400,35mm,400,BW,201103,1772455331,53b75a36215797d4e99fe49445df8d2a,7bd1d8f74bd641ea8de78dcaaa7e7145,00521_000.jpg,u/ReeeSchmidtyWerber,,Single Pack,24exp
+522,0,film_box_outside,Ilford,Ilfocolor 400 Plus,35mm,400,C-41,202604,1772455380,786db3409012d9f2075fa4415af84bd5,9fb74244831e4f8386240b2804a13930,00522_000.jpg,u/ReeeSchmidtyWerber,Vintage Tone,Single Pack,36exp
+523,0,film_box_outside,Ilford,FP4 Plus,35mm,125,BW,202901,1772455430,c887456b7c0cd38789c3e1481890d2bb,97b840e334f14e48ba5baf99f38ea431,00523_000.jpg,u/ReeeSchmidtyWerber,,Single Pack,36exp
+523,1,film_box_inside,Ilford,FP4 Plus,35mm,125,BW,202901,1772455432,0f0577911aa16396a303c640901b8db5,7b38d2f4be7149fd8dc2134415488968,00523_001.jpg,u/ReeeSchmidtyWerber,,Single Pack,36exp
+524,0,film_box_outside,Fujifilm,Neopan Acros 100 II,35mm,100,BW,202512,1772455520,56e1b281fe7151ec82bc17128b0afe08,1f1865a95b8847d69dcd18cf52bc9ea9,00524_000.jpg,u/ReeeSchmidtyWerber,,Single Pack,36exp
+525,0,film_box_outside,Fujifilm,Hi-Speed 1600 Disposable Camera,35mm,1600,C-41,201806,1772458238,f34565a4b8b17ea9b45ae61252a1ca2a,b25d00004e6f46699b06a4cf360f8a6f,00525_000.jpg,@Hol.m35,,Single Pack,27exp
+525,1,film_box_outside,Fujifilm,Hi-Speed 1600 Disposable Camera,35mm,1600,C-41,201806,1772458240,1d5b689e293e9f75406b6c85c9872d16,67bd10dd07644db88eae7a01ab789970,00525_001.jpg,@Hol.m35,,Single Pack,27exp
+526,0,film_box_outside,Fujifilm,Fujicolor 100,35mm,100,C-41,202708,1772458289,fb58b0e3070986fceb8ad00dc9038880,c04d5697e35c49049322ce823f32ac71,00526_000.jpg,@Hol.m35,,Single Pack,36exp
+527,0,film_box_outside,Optik Oldschool,OptiColour 200,35mm,200,C-41,202711,1772458341,2fff25ee03286f25db4dcc1217da9684,c72fdf2e60bf4d488f2ac0b2251d099e,00527_000.jpg,@Hol.m35,,Single Pack,36exp
+528,0,film_box_outside,efke,KB-25,35mm,25,BW,200903,1772458463,0a6894da44def44d0580be30ea5d52b2,b41fb584f713486eb5a5da2fe16e4d17,00528_000.jpg,Tobias,,Single Pack,36exp
+528,1,film_box_inside,efke,KB-25,35mm,25,BW,200903,1772458465,1d80bf9752e75310ed85cd074eebc947,98d3ecfcdc824e7bbaef2d5a1f52bd05,00528_001.jpg,Tobias,,Single Pack,36exp
+529,0,film_box_outside,Foton,Fotopan,35mm,400,BW,197904,1772458931,0d968cac004250f74b9c41a79b7695ad,e411c38ab057475f8874bd176d3e6ba7,00529_000.jpg,Luci 101,,Single Pack,36exp
+529,1,film_box_leaflet,Foton,Fotopan,35mm,400,BW,197904,1772458932,9c5473f96aa4bc16c456dd10edc3e21b,c106929fe57e459dbac9ee8e10ca9b50,00529_001.jpg,Luci 101,,Single Pack,36exp
+529,2,film_box_leaflet,Foton,Fotopan,35mm,400,BW,197904,1772458936,e4a48e9bc0c77b8f0b096db1e0aeffba,1dc440471e384b01a55f1877dc636836,00529_002.jpg,Luci 101,,Single Pack,36exp
+530,0,film_box_outside,ORWO,OrwoChrome RC100,35mm,100,E-6,199509,1772459101,069a00a5fc8a6d50f8723310c2fe2e03,2ba82c28507045deadcde0588535a9b6,00530_000.jpg,Luci 101,,Single Pack,36exp
+530,1,film_box_inside,ORWO,OrwoChrome RC100,35mm,100,E-6,199509,1772459104,fd5b3b16ba8f05e8f7ddf9f192f6e908,427907b346804a719d109c5c7d407e84,00530_001.jpg,Luci 101,,Single Pack,36exp
+531,0,film_box_outside,ORWO,DK5,35mm,Unknown,BW,198301,1772459309,8cc178e169596fe03b92c8561302a763,227450eabb63400cb0f7fb663797e815,00531_000.jpg,Luci 101,,Bulk Roll,50m
+532,0,film_box_outside,Foton,Mikrofilm Negatywowy Super Orto,35mm,Unknown,BW,198410,1772459465,f83a94bb91877a65c7e37a41691572c7,c5f2c4c39f884a668f540f88d21c003e,00532_000.jpg,Luci 101,,Bulk Roll,17m
+533,0,film_box_outside,ORWO,NC 19,120,64,Unknown,197811,1772459773,70a79baba8f4e93073900bbc50794644,a1dea49e29ae412596b2b691ac3bdca5,00533_000.jpg,Luci 101,,Single Pack,N/A
+533,1,film_box_outside,ORWO,NC 19,120,64,Unknown,197811,1772459776,915a19c8fc370f7958079fada44bf6f4,bea59b338851477b94e939e80f50b2f2,00533_001.jpg,Luci 101,,Single Pack,N/A
+533,2,film_box_outside,ORWO,NC 19,120,64,Unknown,197811,1772459781,c1093753822eb5b9daf89bd2edfa3d6e,bc8f4df82be8463eb5744d8728eb967b,00533_002.jpg,Luci 101,,Single Pack,N/A
+533,3,film_box_leaflet,ORWO,NC 19,120,64,Unknown,197811,1772459785,b2ec737d6b01f7baa530d282ea54e41b,40cf1acc36ad41898c60646b8c61b855,00533_003.jpg,Luci 101,,Single Pack,N/A
+533,4,film_box_leaflet,ORWO,NC 19,120,64,Unknown,197811,1772459791,a956a387e621e270ba00f7b1409bba98,f7a0a295907541368829aa36192b0ede,00533_004.jpg,Luci 101,,Single Pack,N/A
+534,0,film_box_outside,ORWO,NP 22,120,125,BW,199008,1772460033,21018a77a27f2a82636594ef4685ad7d,3a26b6e03eec4c35accf4991a4cd6b7f,00534_000.jpg,Luci 101,,Single Pack,N/A
+534,1,film_box_outside,ORWO,NP 22,120,125,BW,199008,1772460034,ee686a597fa94f81bb589f376b45d9cd,4558e00e75de4fe8b16b24422e65b281,00534_001.jpg,Luci 101,,Single Pack,N/A
+534,2,film_box_outside,ORWO,NP 22,120,125,BW,199008,1772460037,1a409decedaa19e0361c1b91e874afdb,8aa249acb29b457fa7b9507963d568a9,00534_002.jpg,Luci 101,,Single Pack,N/A
+534,3,film_box_outside,ORWO,NP 22,120,125,BW,199008,1772460040,1535ae062f890a5982dedcc3effcc07b,1370e15f3fdd45818d436bff362b934c,00534_003.jpg,Luci 101,,Single Pack,N/A
+534,4,film_box_leaflet,ORWO,NP 22,120,125,BW,199008,1772460043,7ea34b3e96d1615ee521531cb5039891,5c792057ae00453fab2206dc24459024,00534_004.jpg,Luci 101,,Single Pack,N/A
+534,5,film_box_leaflet,ORWO,NP 22,120,125,BW,199008,1772460046,906778f2f37e734c36a4e574b37c6b0e,1e6b8d2a0fcb4803a1b4724a3c05d55e,00534_005.jpg,Luci 101,,Single Pack,N/A
+535,0,film_box_outside,ORWO,UK18,35mm,50,BW,197606,1772460901,f1cdcd8002805c86c9a17088cfe0192f,d3755977cc6f49dab6e0fc8197b3c92d,00535_000.jpg,Luci 101,,Single Pack,36exp
+535,1,film_box_outside,ORWO,UK18,35mm,50,BW,197606,1772460902,ba9e500b58249c5f5c86178fb2bae2d6,05670fe7dc444ef4afd5a9856620a6be,00535_001.jpg,Luci 101,,Single Pack,36exp
+535,2,film_box_outside,ORWO,UK18,35mm,50,BW,197606,1772460904,e610de8029a6bbde99d99be8c4993d26,0024791369a7416f81f5322942fb529f,00535_002.jpg,Luci 101,,Single Pack,36exp
+535,3,film_box_outside,ORWO,UK18,35mm,50,BW,197606,1772460906,aa65db4a6709c334909866e1be9d3631,86f98dc2121d47caae546d61901425b9,00535_003.jpg,Luci 101,,Single Pack,36exp
+535,4,film_box_outside,ORWO,UK18,35mm,50,BW,197606,1772460907,ba611d5d71fc043c29114cd28bf993bb,8c444d2a5b724d679e2cc5c6bf3c33ff,00535_004.jpg,Luci 101,,Single Pack,36exp
+535,5,film_box_leaflet,ORWO,UK18,35mm,50,BW,197606,1772460909,9b0d93b7d4ba1010e036b0aecdf46cf5,bf6040a757214fd5a3acc9ecefe96811,00535_005.jpg,Luci 101,,Single Pack,36exp
+535,6,film_box_leaflet,ORWO,UK18,35mm,50,BW,197606,1772460912,3e6bf425a1af202aa156e76c26eeb552,e466cea5b2be4f3a80367091c829202e,00535_006.jpg,Luci 101,,Single Pack,36exp
+536,0,film_box_outside,Kodak,Kodacolor II,35mm,100,C-41,198404,1772461130,a084b7f1787512a4ed240b598fab4d3f,ab800ae503c34a0aa02671d6450e8dcf,00536_000.jpg,Luci 101,,Single Pack,24exp
+536,1,film_box_outside,Kodak,Kodacolor II,35mm,100,C-41,198404,1772461131,8fcee827a921026e1a4dc970ab420ea3,3c11f8ae82214741a97acba512ffa0f2,00536_001.jpg,Luci 101,,Single Pack,24exp
+536,2,film_box_outside,Kodak,Kodacolor II,35mm,100,C-41,198404,1772461133,6b3c0cc5073138945b9b1759bed1037e,24569d9227db4530b89471f293852831,00536_002.jpg,Luci 101,,Single Pack,24exp
+536,3,film_box_outside,Kodak,Kodacolor II,35mm,100,C-41,198404,1772461135,d82fa8711711213869450f3dfa61c5a2,8d2b565ef2c74110906f66356f164e90,00536_003.jpg,Luci 101,,Single Pack,24exp
+536,4,film_box_outside,Kodak,Kodacolor II,35mm,100,C-41,198404,1772461136,89cd74bd6d7b1258451976950690f989,f01dcebad7414ecbafe609411370df1e,00536_004.jpg,Luci 101,,Single Pack,24exp
+536,5,film_box_leaflet,Kodak,Kodacolor II,35mm,100,C-41,198404,1772461138,b27673e6fea565ede99b6a6690cf7d43,3a535cfbe2cf4290897513af040df7aa,00536_005.jpg,Luci 101,,Single Pack,24exp
+536,6,film_box_leaflet,Kodak,Kodacolor II,35mm,100,C-41,198404,1772461140,7d27f1bf7353d7dace425926a088b1cc,566378dad0954215a8976cc6cf6cf173,00536_006.jpg,Luci 101,,Single Pack,24exp

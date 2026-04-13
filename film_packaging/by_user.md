@@ -15,16 +15,19 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Dec 29 2025
-Unique items: 500
-Total scans : 920
+Last Updated: Mar 02 2026
+Unique items: 532
+Total scans : 983
 ```
 
 -----
 
 - [[@Hol.m35] Agfa Vista Plus 200 (ref: f5f7)](#holm35-agfa-vista-plus-200-ref-f5f7)
 - [[@Hol.m35] Boots Colour Print Film (ref: a30f)](#holm35-boots-colour-print-film-ref-a30f)
+- [[@Hol.m35] Fujifilm Fujicolor 100 (ref: ac71)](#holm35-fujifilm-fujicolor-100-ref-ac71)
+- [[@Hol.m35] Fujifilm Fujicolor Pro 400H (ref: fb3a)](#holm35-fujifilm-fujicolor-pro-400h-ref-fb3a)
 - [[@Hol.m35] Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)](#holm35-fujifilm-fujicolor-superia-x-tra-ref-6b8a)
+- [[@Hol.m35] Fujifilm Hi-Speed 1600 Disposable Camera (ref: 8a6f)](#holm35-fujifilm-hi-speed-1600-disposable-camera-ref-8a6f)
 - [[@Hol.m35] Fujifilm Superia Premium 400 (ref: ef1f)](#holm35-fujifilm-superia-premium-400-ref-ef1f)
 - [[@Hol.m35] Hope Film Bubble (ref: 41f4)](#holm35-hope-film-bubble-ref-41f4)
 - [[@Hol.m35] JCH Streetpan (ref: 5c70)](#holm35-jch-streetpan-ref-5c70)
@@ -34,7 +37,10 @@ Total scans : 920
 - [[@Hol.m35] Lucky C200 (ref: e6f8)](#holm35-lucky-c200-ref-e6f8)
 - [[@Hol.m35] Lucky SHD400 (ref: 15b5)](#holm35-lucky-shd400-ref-15b5)
 - [[@Hol.m35] Max Spielmann Pro-Zoom MX 400 (ref: 38c5)](#holm35-max-spielmann-pro-zoom-mx-400-ref-38c5)
+- [[@Hol.m35] Optik Oldschool OptiColour 200 (ref: 099e)](#holm35-optik-oldschool-opticolour-200-ref-099e)
 - [[@Hol.m35] Optik Oldschool OptiColour 200 (ref: 80d7)](#holm35-optik-oldschool-opticolour-200-ref-80d7)
+- [[@Hol.m35] Optik Oldschool SantaColor (ref: dd85)](#holm35-optik-oldschool-santacolor-ref-dd85)
+- [[@Hol.m35] Rollei Retro 400S (ref: f2cf)](#holm35-rollei-retro-400s-ref-f2cf)
 - [[@Hol.m35] Street Candy Film ATM400 (ref: 4380)](#holm35-street-candy-film-atm400-ref-4380)
 - [[@SirBrentsworth] CineStill 800T (ref: b3ff)](#sirbrentsworth-cinestill-800t-ref-b3ff)
 - [[@SirBrentsworth] Ilford HP5 Plus (ref: df49)](#sirbrentsworth-ilford-hp5-plus-ref-df49)
@@ -154,7 +160,9 @@ Total scans : 920
 - [[@recycling.film] Agfa AgfaChrome 50 S (ref: 71a8)](#recyclingfilm-agfa-agfachrome-50-s-ref-71a8)
 - [[@recycling.film] Agfa Agfacolor Negative Film Special CNS (ref: 9b03)](#recyclingfilm-agfa-agfacolor-negative-film-special-cns-ref-9b03)
 - [[@recycling.film] Agfa Agfapan  APX 25 (ref: 805f)](#recyclingfilm-agfa-agfapan-apx-25-ref-805f)
+- [[@recycling.film] Ferrania Solaris FG Plus (ref: 78b7)](#recyclingfilm-ferrania-solaris-fg-plus-ref-78b7)
 - [[@recycling.film] Foma Fomapan F17 (ref: a10e)](#recyclingfilm-foma-fomapan-f17-ref-a10e)
+- [[@recycling.film] Foma Fomapan classic 100 (ref: 5e7b)](#recyclingfilm-foma-fomapan-classic-100-ref-5e7b)
 - [[@recycling.film] Fujifilm FP-100C (ref: 5cda)](#recyclingfilm-fujifilm-fp-100c-ref-5cda)
 - [[@recycling.film] Fujifilm Fujicolor C200 (ref: 2ff8)](#recyclingfilm-fujifilm-fujicolor-c200-ref-2ff8)
 - [[@recycling.film] Fujifilm Fujicolor Natura 1600 (ref: c8ed)](#recyclingfilm-fujifilm-fujicolor-natura-1600-ref-c8ed)
@@ -193,6 +201,7 @@ Total scans : 920
 - [[@sachynmital] Mr. Negative Silver Screen Negative (ref: c968)](#sachynmital-mr-negative-silver-screen-negative-ref-c968)
 - [[@seklerek] Fujifilm Fujichrome Provia 100F (ref: 356d)](#seklerek-fujifilm-fujichrome-provia-100f-ref-356d)
 - [[@seklerek] Fujifilm Fujichrome Velvia 100F (ref: 32d4)](#seklerek-fujifilm-fujichrome-velvia-100f-ref-32d4)
+- [[@shotbyliampewpew] Escura EDO ukiyo-e (ref: 5faa)](#shotbyliampewpew-escura-edo-ukiyo-e-ref-5faa)
 - [[@toastergod101] Fujifilm Instax Mini (ref: e5e7)](#toastergod101-fujifilm-instax-mini-ref-e5e7)
 - [[@toastergod101] Harman Red (ref: da3a)](#toastergod101-harman-red-ref-da3a)
 - [[@toastergod101] Ilford Delta 400 Professional (ref: f3da)](#toastergod101-ilford-delta-400-professional-ref-f3da)
@@ -218,8 +227,12 @@ Total scans : 920
 - [[Chrisbes] Agfa AgfaColor HDC Plus (ref: 016b)](#chrisbes-agfa-agfacolor-hdc-plus-ref-016b)
 - [[Chrisbes] CineStill 800T (ref: 44c4)](#chrisbes-cinestill-800t-ref-44c4)
 - [[Chrisbes] Fujifilm Fujicolor HR100 (ref: 2335)](#chrisbes-fujifilm-fujicolor-hr100-ref-2335)
+- [[Chrisbes] Fujifilm Fujicolor Super HG (ref: 9942)](#chrisbes-fujifilm-fujicolor-super-hg-ref-9942)
 - [[Chrisbes] Fujifilm Fujicolor Super HR (ref: 7fd2)](#chrisbes-fujifilm-fujicolor-super-hr-ref-7fd2)
+- [[Chrisbes] Fujifilm Superia 200 (ref: fd36)](#chrisbes-fujifilm-superia-200-ref-fd36)
+- [[Chrisbes] Reflx Lab 320D AHU (ref: 0bd5)](#chrisbes-reflx-lab-320d-ahu-ref-0bd5)
 - [[Chrisbes] Reflx Lab 400D (ref: 5801)](#chrisbes-reflx-lab-400d-ref-5801)
+- [[Chrisbes] Reflx Lab 640T AHU (ref: 2ce9)](#chrisbes-reflx-lab-640t-ahu-ref-2ce9)
 - [[Chrisbes] Reflx Lab 800T (ref: 6b6b)](#chrisbes-reflx-lab-800t-ref-6b6b)
 - [[GreatGizmo74] Jessops CS100 (ref: 4288)](#greatgizmo74-jessops-cs100-ref-4288)
 - [[GreatGizmo74] Jessops Diamond Everyday (ref: 6d5a)](#greatgizmo74-jessops-diamond-everyday-ref-6d5a)
@@ -229,6 +242,14 @@ Total scans : 920
 - [[Kraksen] Agfa Agfapan APX 400 (ref: 19bc)](#kraksen-agfa-agfapan-apx-400-ref-19bc)
 - [[Kraksen] Kodak Black & White + (ref: 2ff3)](#kraksen-kodak-black-white-ref-2ff3)
 - [[Kraksen] Marix Professional Negative Movie Color Film (ref: c457)](#kraksen-marix-professional-negative-movie-color-film-ref-c457)
+- [[Luci 101] Foton Fotopan (ref: 6ba7)](#luci-101-foton-fotopan-ref-6ba7)
+- [[Luci 101] Foton Mikrofilm Negatywowy Super Orto (ref: 003e)](#luci-101-foton-mikrofilm-negatywowy-super-orto-ref-003e)
+- [[Luci 101] Kodak Kodacolor II (ref: 8dcf)](#luci-101-kodak-kodacolor-ii-ref-8dcf)
+- [[Luci 101] ORWO DK5 (ref: e815)](#luci-101-orwo-dk5-ref-e815)
+- [[Luci 101] ORWO NC 19 (ref: dca5)](#luci-101-orwo-nc-19-ref-dca5)
+- [[Luci 101] ORWO NP 22 (ref: 6b7f)](#luci-101-orwo-np-22-ref-6b7f)
+- [[Luci 101] ORWO OrwoChrome RC100 (ref: a9b6)](#luci-101-orwo-orwochrome-rc100-ref-a9b6)
+- [[Luci 101] ORWO UK18 (ref: c92d)](#luci-101-orwo-uk18-ref-c92d)
 - [[Nano_Burger] Agfa Autolith Repo (ref: 8e68)](#nano_burger-agfa-autolith-repo-ref-8e68)
 - [[Nano_Burger] Agfa Isopan FF (ref: 3700)](#nano_burger-agfa-isopan-ff-ref-3700)
 - [[Nano_Burger] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#nano_burger-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
@@ -303,7 +324,9 @@ Total scans : 920
 - [[The Compartmentalist] Reflx Lab Pro 100 (ref: 8bec)](#the-compartmentalist-reflx-lab-pro-100-ref-8bec)
 - [[The Compartmentalist] Sakura Sakuracolor II (ref: 4f7d)](#the-compartmentalist-sakura-sakuracolor-ii-ref-4f7d)
 - [[TheSelousScout] Ilford XP2 Super (ref: 622a)](#theselousscout-ilford-xp2-super-ref-622a)
+- [[TheSelousScout] Kodak Kodacolor 200 (ref: ba30)](#theselousscout-kodak-kodacolor-200-ref-ba30)
 - [[TheSelousScout] Reto Amber D400 (ref: 08ad)](#theselousscout-reto-amber-d400-ref-08ad)
+- [[Tobias] efke KB-25 (ref: 4d17)](#tobias-efke-kb-25-ref-4d17)
 - [[Yrikonchik] Fujifilm 200 (ref: 5b41)](#yrikonchik-fujifilm-200-ref-5b41)
 - [[b0baspace] Fujifilm Fujicolor 100 (ref: 013b)](#b0baspace-fujifilm-fujicolor-100-ref-013b)
 - [[b0baspace] Fujifilm Fujicolor NPS 160 (ref: 5e85)](#b0baspace-fujifilm-fujicolor-nps-160-ref-5e85)
@@ -477,6 +500,7 @@ Total scans : 920
 - [[kaimon] Ilford Ilfochrome (ref: ac24)](#kaimon-ilford-ilfochrome-ref-ac24)
 - [[kaimon] Ilford Ortho Plus (ref: 1952)](#kaimon-ilford-ortho-plus-ref-1952)
 - [[kaimon] Ilford XP2 Super (ref: 484f)](#kaimon-ilford-xp2-super-ref-484f)
+- [[kaimon] Kodak Gold 200 (ref: 3e0b)](#kaimon-kodak-gold-200-ref-3e0b)
 - [[kaimon] Kodak High Speed Ektachrome (ref: 7533)](#kaimon-kodak-high-speed-ektachrome-ref-7533)
 - [[kaimon] Kodak Portra 800 (ref: 3c94)](#kaimon-kodak-portra-800-ref-3c94)
 - [[kaimon] Lucky C200 (ref: 9c6c)](#kaimon-lucky-c200-ref-9c6c)
@@ -505,8 +529,14 @@ Total scans : 920
 - [[toader] Polaroid Color 600 Film (ref: e12f)](#toader-polaroid-color-600-film-ref-e12f)
 - [[toader] Polaroid Color 600 Film Round Frame (ref: d985)](#toader-polaroid-color-600-film-round-frame-ref-d985)
 - [[toader] Polaroid Color SX-70 Film (ref: dc7f)](#toader-polaroid-color-sx-70-film-ref-dc7f)
+- [[u/ReeeSchmidtyWerber] Fujifilm Fujichrome Velvia (ref: 1ba8)](#ureeeschmidtywerber-fujifilm-fujichrome-velvia-ref-1ba8)
+- [[u/ReeeSchmidtyWerber] Fujifilm Neopan Acros 100 II (ref: 9ea9)](#ureeeschmidtywerber-fujifilm-neopan-acros-100-ii-ref-9ea9)
+- [[u/ReeeSchmidtyWerber] Ilford FP4 Plus (ref: a431)](#ureeeschmidtywerber-ilford-fp4-plus-ref-a431)
+- [[u/ReeeSchmidtyWerber] Ilford Ilfocolor 400 Plus (ref: 3930)](#ureeeschmidtywerber-ilford-ilfocolor-400-plus-ref-3930)
 - [[u/ReeeSchmidtyWerber] Kodak Panatomic-X (ref: 8d69)](#ureeeschmidtywerber-kodak-panatomic-x-ref-8d69)
 - [[u/ReeeSchmidtyWerber] Kodak Panatomic-X (ref: 35f6)](#ureeeschmidtywerber-kodak-panatomic-x-ref-35f6)
+- [[u/ReeeSchmidtyWerber] Kodak Tri-X 400 (ref: 7145)](#ureeeschmidtywerber-kodak-tri-x-400-ref-7145)
+- [[u/ReeeSchmidtyWerber] Kodak Tri-X 400 (ref: cba7)](#ureeeschmidtywerber-kodak-tri-x-400-ref-cba7)
 - [[waldoboro] Fujifilm Fujicolor Natura 1600 (ref: 52aa)](#waldoboro-fujifilm-fujicolor-natura-1600-ref-52aa)
 - [[waldoboro] Fujifilm Fujicolor Super HG (ref: 1b30)](#waldoboro-fujifilm-fujicolor-super-hg-ref-1b30)
 - [[waldoboro] Fujifilm Fujicolor Superia 100 (ref: 30bf)](#waldoboro-fujifilm-fujicolor-superia-100-ref-30bf)
@@ -520,7 +550,9 @@ Total scans : 920
 - [[yc128] Harman Phoenix II (ref: f686)](#yc128-harman-phoenix-ii-ref-f686)
 - [[yc128] Harman Phoenix II (ref: 40df)](#yc128-harman-phoenix-ii-ref-40df)
 - [[yc128] Ilford FP4 Plus (ref: 76e7)](#yc128-ilford-fp4-plus-ref-76e7)
+- [[yc128] Ilford FP4 Plus (ref: fe9b)](#yc128-ilford-fp4-plus-ref-fe9b)
 - [[yc128] Kosmo Foto Mono (ref: b74f)](#yc128-kosmo-foto-mono-ref-b74f)
+- [[yc128] Optik Oldschool OptiColour 200 (ref: a7c9)](#yc128-optik-oldschool-opticolour-200-ref-a7c9)
 - [[yc128] SantaColor SantaColor (ref: cb58)](#yc128-santacolor-santacolor-ref-cb58)
 
 
@@ -561,6 +593,34 @@ UUID  : bd601340027a4c9daa7e219b414fa30f
 	<img src="./lowres/00166_000.jpg" alt="Boots Colour Print Film 35mm film box outside" loading="lazy" width="443" height="500">
 </a>
 
+#### [@Hol.m35] Fujifilm Fujicolor 100 (ref: ac71)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2027-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : @Hol.m35
+UUID  : c04d5697e35c49049322ce823f32ac71
+```
+
+<a href="./archive/00526_000.jpg" target="_blank">
+	<img src="./lowres/00526_000.jpg" alt="Fujifilm Fujicolor 100 35mm film box outside" loading="lazy" width="468" height="500">
+</a>
+
+#### [@Hol.m35] Fujifilm Fujicolor Pro 400H (ref: fb3a)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2014-01 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2026-03-02   |  Author  : @Hol.m35
+UUID  : 8acc893c8082453a8f83a17f3780fb3a
+```
+
+<a href="./archive/00518_000.jpg" target="_blank">
+	<img src="./lowres/00518_000.jpg" alt="Fujifilm Fujicolor Pro 400H 120 film box outside" loading="lazy" width="500" height="238">
+</a>
+
 #### [@Hol.m35] Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)
 
 ```
@@ -573,6 +633,27 @@ UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
 
 <a href="./archive/00165_000.jpg" target="_blank">
 	<img src="./lowres/00165_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box outside" loading="lazy" width="460" height="499">
+</a>
+
+#### [@Hol.m35] Fujifilm Hi-Speed 1600 Disposable Camera (ref: 8a6f)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 1600         |  Expiry  : 2018-06 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-03-02   |  Author  : @Hol.m35
+UUID  : b25d00004e6f46699b06a4cf360f8a6f
+```
+
+<a href="./archive/00525_000.jpg" target="_blank">
+	<img src="./lowres/00525_000.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera 35mm film box outside" loading="lazy" width="438" height="500">
+</a>
+
+
+`UUID: 67bd10dd07644db88eae7a01ab789970`↓
+
+<a href="./archive/00525_001.jpg" target="_blank">
+	<img src="./lowres/00525_001.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera 35mm film box outside" loading="lazy" width="188" height="500">
 </a>
 
 #### [@Hol.m35] Fujifilm Superia Premium 400 (ref: ef1f)
@@ -751,6 +832,20 @@ UUID  : 881f46ac2824430cb12f79087a3338c5
 	<img src="./lowres/00503_001.jpg" alt="Max Spielmann Pro-Zoom MX 400 35mm film box inside" loading="lazy" width="421" height="500">
 </a>
 
+#### [@Hol.m35] Optik Oldschool OptiColour 200 (ref: 099e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2027-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : @Hol.m35
+UUID  : c72fdf2e60bf4d488f2ac0b2251d099e
+```
+
+<a href="./archive/00527_000.jpg" target="_blank">
+	<img src="./lowres/00527_000.jpg" alt="Optik Oldschool OptiColour 200 35mm film box outside" loading="lazy" width="500" height="482">
+</a>
+
 #### [@Hol.m35] Optik Oldschool OptiColour 200 (ref: 80d7)
 
 ```
@@ -764,6 +859,41 @@ Notes : preproduction package
 
 <a href="./archive/00450_000.jpg" target="_blank">
 	<img src="./lowres/00450_000.jpg" alt="Optik Oldschool OptiColour 200 120 film box outside" loading="lazy" width="500" height="422">
+</a>
+
+#### [@Hol.m35] Optik Oldschool SantaColor (ref: dd85)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2027-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-01-26   |  Author  : @Hol.m35
+UUID  : bc9726f8d278473591afb78fc49bdd85
+```
+
+<a href="./archive/00505_000.jpg" target="_blank">
+	<img src="./lowres/00505_000.jpg" alt="Optik Oldschool SantaColor 35mm film box outside" loading="lazy" width="500" height="478">
+</a>
+
+#### [@Hol.m35] Rollei Retro 400S (ref: f2cf)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2028-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-01-26   |  Author  : @Hol.m35
+UUID  : 17064b735c704134b793c63b583ef2cf
+```
+
+<a href="./archive/00508_000.jpg" target="_blank">
+	<img src="./lowres/00508_000.jpg" alt="Rollei Retro 400S 120 film box outside" loading="lazy" width="500" height="416">
+</a>
+
+
+`UUID: 6f069574b62047eeafe63d911d3d20ea`↓
+
+<a href="./archive/00508_001.jpg" target="_blank">
+	<img src="./lowres/00508_001.jpg" alt="Rollei Retro 400S 120 film box inside" loading="lazy" width="500" height="465">
 </a>
 
 #### [@Hol.m35] Street Candy Film ATM400 (ref: 4380)
@@ -2904,6 +3034,20 @@ UUID  : 4ef7e8e28d2c4c589d24d9e12135805f
 	<img src="./lowres/00198_001.jpg" alt="Agfa Agfapan  APX 25 35mm film box inside" loading="lazy" width="420" height="500">
 </a>
 
+#### [@recycling.film] Ferrania Solaris FG Plus (ref: 78b7)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : @recycling.film
+UUID  : a8aa315de3e54a68ae03d37f80d278b7
+```
+
+<a href="./archive/00514_000.jpg" target="_blank">
+	<img src="./lowres/00514_000.jpg" alt="Ferrania Solaris FG Plus 35mm film box outside" loading="lazy" width="462" height="500">
+</a>
+
 #### [@recycling.film] Foma Fomapan F17 (ref: a10e)
 
 ```
@@ -2930,6 +3074,27 @@ UUID  : 0315635e32bb4848aaa2fe65ac7aa10e
 
 <a href="./archive/00413_002.jpg" target="_blank">
 	<img src="./lowres/00413_002.jpg" alt="Foma Fomapan F17 120 film box leaflet" loading="lazy" width="362" height="500">
+</a>
+
+#### [@recycling.film] Foma Fomapan classic 100 (ref: 5e7b)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 100          |  Expiry  : 2028-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-03-02   |  Author  : @recycling.film
+UUID  : e5c7523b6226483b9d4a1b24d7035e7b
+```
+
+<a href="./archive/00515_000.jpg" target="_blank">
+	<img src="./lowres/00515_000.jpg" alt="Foma Fomapan classic 100 120 film box outside" loading="lazy" width="500" height="458">
+</a>
+
+
+`UUID: df516fa250bb494dbca14134a2143e6a`↓
+
+<a href="./archive/00515_001.jpg" target="_blank">
+	<img src="./lowres/00515_001.jpg" alt="Foma Fomapan classic 100 120 film box inside" loading="lazy" width="494" height="500">
 </a>
 
 #### [@recycling.film] Fujifilm FP-100C (ref: 5cda)
@@ -3584,6 +3749,20 @@ UUID  : ce5c1d786286427ba5633091b06432d4
 	<img src="./lowres/00056_000.jpg" alt="Fujifilm Fujichrome Velvia 100F 35mm film box outside" loading="lazy" width="425" height="499">
 </a>
 
+#### [@shotbyliampewpew] Escura EDO ukiyo-e (ref: 5faa)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-06 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-01-26   |  Author  : @shotbyliampewpew
+UUID  : 758ee88b8edf42b492c8c240281d5faa
+```
+
+<a href="./archive/00511_000.jpg" target="_blank">
+	<img src="./lowres/00511_000.jpg" alt="Escura EDO ukiyo-e 35mm film box outside" loading="lazy" width="405" height="500">
+</a>
+
 #### [@toastergod101] Fujifilm Instax Mini (ref: e5e7)
 
 ```
@@ -4046,6 +4225,20 @@ UUID  : 8ef818ff997b43d3961092bd540a2335
 	<img src="./lowres/00465_000.jpg" alt="Fujifilm Fujicolor HR100 35mm film box outside" loading="lazy" width="420" height="500">
 </a>
 
+#### [Chrisbes] Fujifilm Fujicolor Super HG (ref: 9942)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1993-01 
+Type  : Multi-Pack-3 |  Quantity: 24exp   
+Added : 2026-01-26   |  Author  : Chrisbes
+UUID  : bd59eca469724f71b8b6da2e89dd9942
+```
+
+<a href="./archive/00507_000.jpg" target="_blank">
+	<img src="./lowres/00507_000.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box outside" loading="lazy" width="234" height="500">
+</a>
+
 #### [Chrisbes] Fujifilm Fujicolor Super HR (ref: 7fd2)
 
 ```
@@ -4060,6 +4253,34 @@ UUID  : 9814bf1366f343ea940b7c709d107fd2
 	<img src="./lowres/00466_000.jpg" alt="Fujifilm Fujicolor Super HR 35mm film box outside" loading="lazy" width="411" height="500">
 </a>
 
+#### [Chrisbes] Fujifilm Superia 200 (ref: fd36)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2008-09 
+Type  : Multi-Pack-5 |  Quantity: 36exp   
+Added : 2026-01-26   |  Author  : Chrisbes
+UUID  : 94d1751b3c454ec590a5d79ee1f9fd36
+```
+
+<a href="./archive/00506_000.jpg" target="_blank">
+	<img src="./lowres/00506_000.jpg" alt="Fujifilm Superia 200 35mm film box outside" loading="lazy" width="500" height="358">
+</a>
+
+#### [Chrisbes] Reflx Lab 320D AHU (ref: 0bd5)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 320          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-01-26   |  Author  : Chrisbes
+UUID  : f6ddd372aaa0413a961691159ba30bd5
+```
+
+<a href="./archive/00512_000.jpg" target="_blank">
+	<img src="./lowres/00512_000.jpg" alt="Reflx Lab 320D AHU 35mm film cartridge" loading="lazy" width="500" height="240">
+</a>
+
 #### [Chrisbes] Reflx Lab 400D (ref: 5801)
 
 ```
@@ -4072,6 +4293,20 @@ UUID  : 4c1b5d50ee594d5694e9a7b0a78c5801
 
 <a href="./archive/00467_000.jpg" target="_blank">
 	<img src="./lowres/00467_000.jpg" alt="Reflx Lab 400D 35mm film box outside" loading="lazy" width="415" height="500">
+</a>
+
+#### [Chrisbes] Reflx Lab 640T AHU (ref: 2ce9)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 640          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-01-26   |  Author  : Chrisbes
+UUID  : e546f5291c23497b9643b51318452ce9
+```
+
+<a href="./archive/00513_000.jpg" target="_blank">
+	<img src="./lowres/00513_000.jpg" alt="Reflx Lab 640T AHU 35mm film cartridge" loading="lazy" width="500" height="230">
 </a>
 
 #### [Chrisbes] Reflx Lab 800T (ref: 6b6b)
@@ -4247,6 +4482,286 @@ UUID  : 715e5119d4b941d98ce52bcd8596c457
 
 <a href="./archive/00188_000.jpg" target="_blank">
 	<img src="./lowres/00188_000.jpg" alt="Marix Professional Negative Movie Color Film 35mm film box outside" loading="lazy" width="445" height="500">
+</a>
+
+#### [Luci 101] Foton Fotopan (ref: 6ba7)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 1979-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : Luci 101
+UUID  : e411c38ab057475f8874bd176d3e6ba7
+```
+
+<a href="./archive/00529_000.jpg" target="_blank">
+	<img src="./lowres/00529_000.jpg" alt="Foton Fotopan 35mm film box outside" loading="lazy" width="500" height="469">
+</a>
+
+
+`UUID: c106929fe57e459dbac9ee8e10ca9b50`↓
+
+<a href="./archive/00529_001.jpg" target="_blank">
+	<img src="./lowres/00529_001.jpg" alt="Foton Fotopan 35mm film box leaflet" loading="lazy" width="283" height="500">
+</a>
+
+
+`UUID: 1dc440471e384b01a55f1877dc636836`↓
+
+<a href="./archive/00529_002.jpg" target="_blank">
+	<img src="./lowres/00529_002.jpg" alt="Foton Fotopan 35mm film box leaflet" loading="lazy" width="270" height="500">
+</a>
+
+#### [Luci 101] Foton Mikrofilm Negatywowy Super Orto (ref: 003e)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1984-10 
+Type  : Bulk Roll    |  Quantity: 17m     
+Added : 2026-03-02   |  Author  : Luci 101
+UUID  : c5f2c4c39f884a668f540f88d21c003e
+```
+
+<a href="./archive/00532_000.jpg" target="_blank">
+	<img src="./lowres/00532_000.jpg" alt="Foton Mikrofilm Negatywowy Super Orto 35mm film box outside" loading="lazy" width="484" height="500">
+</a>
+
+#### [Luci 101] Kodak Kodacolor II (ref: 8dcf)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1984-04 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-03-02   |  Author  : Luci 101
+UUID  : ab800ae503c34a0aa02671d6450e8dcf
+```
+
+<a href="./archive/00536_000.jpg" target="_blank">
+	<img src="./lowres/00536_000.jpg" alt="Kodak Kodacolor II 35mm film box outside" loading="lazy" width="500" height="341">
+</a>
+
+
+`UUID: 3c11f8ae82214741a97acba512ffa0f2`↓
+
+<a href="./archive/00536_001.jpg" target="_blank">
+	<img src="./lowres/00536_001.jpg" alt="Kodak Kodacolor II 35mm film box outside" loading="lazy" width="500" height="346">
+</a>
+
+
+`UUID: 24569d9227db4530b89471f293852831`↓
+
+<a href="./archive/00536_002.jpg" target="_blank">
+	<img src="./lowres/00536_002.jpg" alt="Kodak Kodacolor II 35mm film box outside" loading="lazy" width="495" height="499">
+</a>
+
+
+`UUID: 8d2b565ef2c74110906f66356f164e90`↓
+
+<a href="./archive/00536_003.jpg" target="_blank">
+	<img src="./lowres/00536_003.jpg" alt="Kodak Kodacolor II 35mm film box outside" loading="lazy" width="500" height="341">
+</a>
+
+
+`UUID: f01dcebad7414ecbafe609411370df1e`↓
+
+<a href="./archive/00536_004.jpg" target="_blank">
+	<img src="./lowres/00536_004.jpg" alt="Kodak Kodacolor II 35mm film box outside" loading="lazy" width="500" height="341">
+</a>
+
+
+`UUID: 3a535cfbe2cf4290897513af040df7aa`↓
+
+<a href="./archive/00536_005.jpg" target="_blank">
+	<img src="./lowres/00536_005.jpg" alt="Kodak Kodacolor II 35mm film box leaflet" loading="lazy" width="218" height="500">
+</a>
+
+
+`UUID: 566378dad0954215a8976cc6cf6cf173`↓
+
+<a href="./archive/00536_006.jpg" target="_blank">
+	<img src="./lowres/00536_006.jpg" alt="Kodak Kodacolor II 35mm film box leaflet" loading="lazy" width="238" height="500">
+</a>
+
+#### [Luci 101] ORWO DK5 (ref: e815)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1983-01 
+Type  : Bulk Roll    |  Quantity: 50m     
+Added : 2026-03-02   |  Author  : Luci 101
+UUID  : 227450eabb63400cb0f7fb663797e815
+```
+
+<a href="./archive/00531_000.jpg" target="_blank">
+	<img src="./lowres/00531_000.jpg" alt="ORWO DK5 35mm film box outside" loading="lazy" width="500" height="500">
+</a>
+
+#### [Luci 101] ORWO NC 19 (ref: dca5)
+
+```
+Format: 120          |  Process : Unknown 
+ISO   : 64           |  Expiry  : 1978-11 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-03-02   |  Author  : Luci 101
+UUID  : a1dea49e29ae412596b2b691ac3bdca5
+```
+
+<a href="./archive/00533_000.jpg" target="_blank">
+	<img src="./lowres/00533_000.jpg" alt="ORWO NC 19 120 film box outside" loading="lazy" width="500" height="235">
+</a>
+
+
+`UUID: bea59b338851477b94e939e80f50b2f2`↓
+
+<a href="./archive/00533_001.jpg" target="_blank">
+	<img src="./lowres/00533_001.jpg" alt="ORWO NC 19 120 film box outside" loading="lazy" width="500" height="490">
+</a>
+
+
+`UUID: bc8f4df82be8463eb5744d8728eb967b`↓
+
+<a href="./archive/00533_002.jpg" target="_blank">
+	<img src="./lowres/00533_002.jpg" alt="ORWO NC 19 120 film box outside" loading="lazy" width="500" height="235">
+</a>
+
+
+`UUID: 40cf1acc36ad41898c60646b8c61b855`↓
+
+<a href="./archive/00533_003.jpg" target="_blank">
+	<img src="./lowres/00533_003.jpg" alt="ORWO NC 19 120 film box leaflet" loading="lazy" width="205" height="500">
+</a>
+
+
+`UUID: f7a0a295907541368829aa36192b0ede`↓
+
+<a href="./archive/00533_004.jpg" target="_blank">
+	<img src="./lowres/00533_004.jpg" alt="ORWO NC 19 120 film box leaflet" loading="lazy" width="206" height="499">
+</a>
+
+#### [Luci 101] ORWO NP 22 (ref: 6b7f)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 125          |  Expiry  : 1990-08 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-03-02   |  Author  : Luci 101
+UUID  : 3a26b6e03eec4c35accf4991a4cd6b7f
+```
+
+<a href="./archive/00534_000.jpg" target="_blank">
+	<img src="./lowres/00534_000.jpg" alt="ORWO NP 22 120 film box outside" loading="lazy" width="500" height="200">
+</a>
+
+
+`UUID: 4558e00e75de4fe8b16b24422e65b281`↓
+
+<a href="./archive/00534_001.jpg" target="_blank">
+	<img src="./lowres/00534_001.jpg" alt="ORWO NP 22 120 film box outside" loading="lazy" width="500" height="197">
+</a>
+
+
+`UUID: 8aa249acb29b457fa7b9507963d568a9`↓
+
+<a href="./archive/00534_002.jpg" target="_blank">
+	<img src="./lowres/00534_002.jpg" alt="ORWO NP 22 120 film box outside" loading="lazy" width="500" height="493">
+</a>
+
+
+`UUID: 1370e15f3fdd45818d436bff362b934c`↓
+
+<a href="./archive/00534_003.jpg" target="_blank">
+	<img src="./lowres/00534_003.jpg" alt="ORWO NP 22 120 film box outside" loading="lazy" width="500" height="189">
+</a>
+
+
+`UUID: 5c792057ae00453fab2206dc24459024`↓
+
+<a href="./archive/00534_004.jpg" target="_blank">
+	<img src="./lowres/00534_004.jpg" alt="ORWO NP 22 120 film box leaflet" loading="lazy" width="288" height="500">
+</a>
+
+
+`UUID: 1e6b8d2a0fcb4803a1b4724a3c05d55e`↓
+
+<a href="./archive/00534_005.jpg" target="_blank">
+	<img src="./lowres/00534_005.jpg" alt="ORWO NP 22 120 film box leaflet" loading="lazy" width="288" height="500">
+</a>
+
+#### [Luci 101] ORWO OrwoChrome RC100 (ref: a9b6)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 1995-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : Luci 101
+UUID  : 2ba82c28507045deadcde0588535a9b6
+```
+
+<a href="./archive/00530_000.jpg" target="_blank">
+	<img src="./lowres/00530_000.jpg" alt="ORWO OrwoChrome RC100 35mm film box outside" loading="lazy" width="392" height="500">
+</a>
+
+
+`UUID: 427907b346804a719d109c5c7d407e84`↓
+
+<a href="./archive/00530_001.jpg" target="_blank">
+	<img src="./lowres/00530_001.jpg" alt="ORWO OrwoChrome RC100 35mm film box inside" loading="lazy" width="399" height="500">
+</a>
+
+#### [Luci 101] ORWO UK18 (ref: c92d)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 50           |  Expiry  : 1976-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : Luci 101
+UUID  : d3755977cc6f49dab6e0fc8197b3c92d
+```
+
+<a href="./archive/00535_000.jpg" target="_blank">
+	<img src="./lowres/00535_000.jpg" alt="ORWO UK18 35mm film box outside" loading="lazy" width="500" height="488">
+</a>
+
+
+`UUID: 05670fe7dc444ef4afd5a9856620a6be`↓
+
+<a href="./archive/00535_001.jpg" target="_blank">
+	<img src="./lowres/00535_001.jpg" alt="ORWO UK18 35mm film box outside" loading="lazy" width="500" height="500">
+</a>
+
+
+`UUID: 0024791369a7416f81f5322942fb529f`↓
+
+<a href="./archive/00535_002.jpg" target="_blank">
+	<img src="./lowres/00535_002.jpg" alt="ORWO UK18 35mm film box outside" loading="lazy" width="500" height="319">
+</a>
+
+
+`UUID: 86f98dc2121d47caae546d61901425b9`↓
+
+<a href="./archive/00535_003.jpg" target="_blank">
+	<img src="./lowres/00535_003.jpg" alt="ORWO UK18 35mm film box outside" loading="lazy" width="500" height="308">
+</a>
+
+
+`UUID: 8c444d2a5b724d679e2cc5c6bf3c33ff`↓
+
+<a href="./archive/00535_004.jpg" target="_blank">
+	<img src="./lowres/00535_004.jpg" alt="ORWO UK18 35mm film box outside" loading="lazy" width="500" height="325">
+</a>
+
+
+`UUID: bf6040a757214fd5a3acc9ecefe96811`↓
+
+<a href="./archive/00535_005.jpg" target="_blank">
+	<img src="./lowres/00535_005.jpg" alt="ORWO UK18 35mm film box leaflet" loading="lazy" width="209" height="500">
+</a>
+
+
+`UUID: e466cea5b2be4f3a80367091c829202e`↓
+
+<a href="./archive/00535_006.jpg" target="_blank">
+	<img src="./lowres/00535_006.jpg" alt="ORWO UK18 35mm film box leaflet" loading="lazy" width="213" height="499">
 </a>
 
 #### [Nano_Burger] Agfa Autolith Repo (ref: 8e68)
@@ -5558,6 +6073,20 @@ UUID  : 5863564ab1ef43a4b41fb5312dd0622a
 	<img src="./lowres/00170_001.jpg" alt="Ilford XP2 Super 35mm film box inside" loading="lazy" width="419" height="500">
 </a>
 
+#### [TheSelousScout] Kodak Kodacolor 200 (ref: ba30)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2028-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : TheSelousScout
+UUID  : b33ca9b3d2e34544a264987426efba30
+```
+
+<a href="./archive/00519_000.jpg" target="_blank">
+	<img src="./lowres/00519_000.jpg" alt="Kodak Kodacolor 200 35mm film box outside" loading="lazy" width="459" height="499">
+</a>
+
 #### [TheSelousScout] Reto Amber D400 (ref: 08ad)
 
 ```
@@ -5570,6 +6099,27 @@ UUID  : 075938ec54de4c4bbee63671e4c208ad
 
 <a href="./archive/00168_000.jpg" target="_blank">
 	<img src="./lowres/00168_000.jpg" alt="Reto Amber D400 35mm film box outside" loading="lazy" width="399" height="500">
+</a>
+
+#### [Tobias] efke KB-25 (ref: 4d17)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 25           |  Expiry  : 2009-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : Tobias  
+UUID  : b41fb584f713486eb5a5da2fe16e4d17
+```
+
+<a href="./archive/00528_000.jpg" target="_blank">
+	<img src="./lowres/00528_000.jpg" alt="efke KB-25 35mm film box outside" loading="lazy" width="496" height="499">
+</a>
+
+
+`UUID: 98d3ecfcdc824e7bbaef2d5a1f52bd05`↓
+
+<a href="./archive/00528_001.jpg" target="_blank">
+	<img src="./lowres/00528_001.jpg" alt="efke KB-25 35mm film box inside" loading="lazy" width="468" height="500">
 </a>
 
 #### [Yrikonchik] Fujifilm 200 (ref: 5b41)
@@ -9546,6 +10096,27 @@ UUID  : 08ab5616c0644099aceffb457b7e484f
 	<img src="./lowres/00391_001.jpg" alt="Ilford XP2 Super 120 film box inside" loading="lazy" width="498" height="500">
 </a>
 
+#### [kaimon] Kodak Gold 200 (ref: 3e0b)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2028-12 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2026-01-26   |  Author  : kaimon  
+UUID  : 0e7da8b53783476da740ee07ca9a3e0b
+```
+
+<a href="./archive/00509_000.jpg" target="_blank">
+	<img src="./lowres/00509_000.jpg" alt="Kodak Gold 200 120 film box outside" loading="lazy" width="500" height="382">
+</a>
+
+
+`UUID: 83267ba97d474616b31a80a3a2b03493`↓
+
+<a href="./archive/00509_001.jpg" target="_blank">
+	<img src="./lowres/00509_001.jpg" alt="Kodak Gold 200 120 film box outside" loading="lazy" width="500" height="421">
+</a>
+
 #### [kaimon] Kodak High Speed Ektachrome (ref: 7533)
 
 ```
@@ -10149,6 +10720,70 @@ UUID  : b4af154cea6f40c0aa1d4154d0c2dc7f
 	<img src="./lowres/00156_003.jpg" alt="Polaroid Color SX-70 Film Integral Film film box inside" loading="lazy" width="425" height="499">
 </a>
 
+#### [u/ReeeSchmidtyWerber] Fujifilm Fujichrome Velvia (ref: 1ba8)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2027-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-01-26   |  Author  : u/ReeeSchmidtyWerber
+UUID  : 8513abf4476f41c880303c3116ee1ba8
+```
+
+<a href="./archive/00510_000.jpg" target="_blank">
+	<img src="./lowres/00510_000.jpg" alt="Fujifilm Fujichrome Velvia 35mm film box outside" loading="lazy" width="420" height="499">
+</a>
+
+#### [u/ReeeSchmidtyWerber] Fujifilm Neopan Acros 100 II (ref: 9ea9)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2025-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : u/ReeeSchmidtyWerber
+UUID  : 1f1865a95b8847d69dcd18cf52bc9ea9
+```
+
+<a href="./archive/00524_000.jpg" target="_blank">
+	<img src="./lowres/00524_000.jpg" alt="Fujifilm Neopan Acros 100 II 35mm film box outside" loading="lazy" width="402" height="500">
+</a>
+
+#### [u/ReeeSchmidtyWerber] Ilford FP4 Plus (ref: a431)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 125          |  Expiry  : 2029-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : u/ReeeSchmidtyWerber
+UUID  : 97b840e334f14e48ba5baf99f38ea431
+```
+
+<a href="./archive/00523_000.jpg" target="_blank">
+	<img src="./lowres/00523_000.jpg" alt="Ilford FP4 Plus 35mm film box outside" loading="lazy" width="402" height="500">
+</a>
+
+
+`UUID: 7b38d2f4be7149fd8dc2134415488968`↓
+
+<a href="./archive/00523_001.jpg" target="_blank">
+	<img src="./lowres/00523_001.jpg" alt="Ilford FP4 Plus 35mm film box inside" loading="lazy" width="402" height="500">
+</a>
+
+#### [u/ReeeSchmidtyWerber] Ilford Ilfocolor 400 Plus (ref: 3930)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2026-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : u/ReeeSchmidtyWerber
+UUID  : 9fb74244831e4f8386240b2804a13930
+Notes : Vintage Tone
+```
+
+<a href="./archive/00522_000.jpg" target="_blank">
+	<img src="./lowres/00522_000.jpg" alt="Ilford Ilfocolor 400 Plus 35mm film box outside" loading="lazy" width="402" height="500">
+</a>
+
 #### [u/ReeeSchmidtyWerber] Kodak Panatomic-X (ref: 8d69)
 
 ```
@@ -10189,6 +10824,34 @@ UUID  : 475b6bf4c66141b48fc73ace756435f6
 
 <a href="./archive/00192_002.jpg" target="_blank">
 	<img src="./lowres/00192_002.jpg" alt="Kodak Panatomic-X 35mm film box leaflet" loading="lazy" width="174" height="500">
+</a>
+
+#### [u/ReeeSchmidtyWerber] Kodak Tri-X 400 (ref: 7145)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2011-03 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-03-02   |  Author  : u/ReeeSchmidtyWerber
+UUID  : 7bd1d8f74bd641ea8de78dcaaa7e7145
+```
+
+<a href="./archive/00521_000.jpg" target="_blank">
+	<img src="./lowres/00521_000.jpg" alt="Kodak Tri-X 400 35mm film box outside" loading="lazy" width="405" height="500">
+</a>
+
+#### [u/ReeeSchmidtyWerber] Kodak Tri-X 400 (ref: cba7)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2026-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : u/ReeeSchmidtyWerber
+UUID  : 178660bdc2f841308698aacd5acacba7
+```
+
+<a href="./archive/00520_000.jpg" target="_blank">
+	<img src="./lowres/00520_000.jpg" alt="Kodak Tri-X 400 35mm film box outside" loading="lazy" width="402" height="500">
 </a>
 
 #### [waldoboro] Fujifilm Fujicolor Natura 1600 (ref: 52aa)
@@ -10458,6 +11121,27 @@ UUID  : c6c88d6d009048e9ac3721bdc7f076e7
 	<img src="./lowres/00111_001.jpg" alt="Ilford FP4 Plus 120 film box inside" loading="lazy" width="500" height="465">
 </a>
 
+#### [yc128] Ilford FP4 Plus (ref: fe9b)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 125          |  Expiry  : 2026-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-03-02   |  Author  : yc128   
+UUID  : 4b9fda92ef0b400a909c77872715fe9b
+```
+
+<a href="./archive/00517_000.jpg" target="_blank">
+	<img src="./lowres/00517_000.jpg" alt="Ilford FP4 Plus 120 film box outside" loading="lazy" width="500" height="445">
+</a>
+
+
+`UUID: 29374a9675814feb86bed63775784334`↓
+
+<a href="./archive/00517_001.jpg" target="_blank">
+	<img src="./lowres/00517_001.jpg" alt="Ilford FP4 Plus 120 film box inside" loading="lazy" width="500" height="446">
+</a>
+
 #### [yc128] Kosmo Foto Mono (ref: b74f)
 
 ```
@@ -10470,6 +11154,20 @@ UUID  : 678648d080ba4e3e8f8e3bd7f429b74f
 
 <a href="./archive/00077_000.jpg" target="_blank">
 	<img src="./lowres/00077_000.jpg" alt="Kosmo Foto Mono 35mm film box outside" loading="lazy" width="427" height="500">
+</a>
+
+#### [yc128] Optik Oldschool OptiColour 200 (ref: a7c9)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-03-02   |  Author  : yc128   
+UUID  : 187943e086e842469a7f19ddd0f8a7c9
+```
+
+<a href="./archive/00516_000.jpg" target="_blank">
+	<img src="./lowres/00516_000.jpg" alt="Optik Oldschool OptiColour 200 35mm film box outside" loading="lazy" width="500" height="433">
 </a>
 
 #### [yc128] SantaColor SantaColor (ref: cb58)
@@ -10498,42 +11196,45 @@ Rank  Username                      Contributions
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      68    
-4     @ellafridalindblom            63    
-5     @recycling.film               62    
-6     The Compartmentalist          25    
-7     @Hol.m35                      22    
-8     fine-seat                     19    
-9     Camera.Riley                  19    
-10    Nano_Burger                   18    
-11    toader                        17    
-12    @ob.skura                     16    
-13    waldoboro                     16    
-14    b0baspace                     14    
-15    kaimon                        14    
-16    @SirBrentsworth               13    
-17    benikum                       12    
-18    yc128                         11    
-19    @zruk_ts                      10    
-20    minidiscus                    10    
-21    lilyu.xyz                     9     
-22    lt_col_tall                   9     
-23    @toastergod101                7     
-24    @filmfotofella                7     
-25    Chrisbes                      7     
-26    GreatGizmo74                  6     
-27    nick                          6     
-28    Kraksen                       5     
-29    Henry Gunn                    4     
-30    u/ReeeSchmidtyWerber          4     
-31    TheSelousScout                3     
-32    @sachynmital                  3     
-33    @seklerek                     2     
-34    @ftfilmphotos                 2     
-35    @gregrouxphotography          2     
-36    Yrikonchik                    1     
-37    @ad.astra.per.aspera.1894     1     
-38    Aoi Yuki                      1     
-39    lemoniter                     1     
+4     @recycling.film               65    
+5     @ellafridalindblom            63    
+6     Luci 101                      32    
+7     @Hol.m35                      30    
+8     The Compartmentalist          25    
+9     fine-seat                     19    
+10    Camera.Riley                  19    
+11    Nano_Burger                   18    
+12    toader                        17    
+13    @ob.skura                     16    
+14    kaimon                        16    
+15    waldoboro                     16    
+16    yc128                         14    
+17    b0baspace                     14    
+18    @SirBrentsworth               13    
+19    benikum                       12    
+20    u/ReeeSchmidtyWerber          11    
+21    Chrisbes                      11    
+22    @zruk_ts                      10    
+23    minidiscus                    10    
+24    lilyu.xyz                     9     
+25    lt_col_tall                   9     
+26    @toastergod101                7     
+27    @filmfotofella                7     
+28    GreatGizmo74                  6     
+29    nick                          6     
+30    Kraksen                       5     
+31    Henry Gunn                    4     
+32    TheSelousScout                4     
+33    @sachynmital                  3     
+34    @seklerek                     2     
+35    @ftfilmphotos                 2     
+36    @gregrouxphotography          2     
+37    Tobias                        2     
+38    Yrikonchik                    1     
+39    @ad.astra.per.aspera.1894     1     
+40    Aoi Yuki                      1     
+41    lemoniter                     1     
+42    @shotbyliampewpew             1     
 ```
 
 ## Questions or Comments?
