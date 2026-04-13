@@ -37,14 +37,27 @@ def get_answer(question, accept_empty=False):
         if accept_empty or len(response) > 0:
             return response
 
+def format_two_columns(items):
+    col_width = max((len(f"{i}:  {item}") for i, item in enumerate(items)), default=0) + 4
+    half = (len(items) + 1) // 2
+    lines = []
+    for row in range(half):
+        left_i = row
+        left = f"{left_i}:  {items[left_i]}"
+        right_i = row + half
+        if right_i < len(items):
+            right = f"{right_i}:  {items[right_i]}"
+            lines.append(f"{left:<{col_width}}{right}")
+        else:
+            lines.append(left)
+    return "\n".join(lines) + "\n"
+
 def ask_with_listing_existing_options(db_key):
     all_options = set()
     for item in database_entries:
         all_options.add(item[db_key])
     all_options = sorted([str(x) for x in all_options])
-    option_list_str = ""
-    for index, item in enumerate(all_options):
-        option_list_str += f"{index}:  {item}\n"
+    option_list_str = format_two_columns(all_options)
     question_to_ask = f"\nWhat is {colored(db_key, alert_color)}?\nSelect existing option or type a new entry\n{option_list_str}"
     user_answer = get_answer(question_to_ask)
     try:
@@ -127,7 +140,7 @@ did_resize = get_answer(f"Have you run the resize script?", accept_empty=True)
 
 latest_author = database_entries[-1][ITEM_AUTHOR_KEY]
 all_authors = sorted(set(item[ITEM_AUTHOR_KEY] for item in database_entries))
-author_list_str = "".join(f"{i}: {name}\n" for i, name in enumerate(all_authors))
+author_list_str = format_two_columns(all_authors)
 user_answer = get_answer(
     f"Author name this session? (Press Enter for {latest_author})\n{author_list_str}",
     accept_empty=True
