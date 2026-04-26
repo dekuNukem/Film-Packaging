@@ -751,9 +751,9 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 417,0,film_box_outside,Agfa,AgfaChrome 50 S,35mm,50,AP41,198107,1760706508,a1a378d9e473615e9b713bbf62e07658,364274d1357d458eacedde84db8a71a8,00417_000.jpg,@recycling.film,,Single Pack,36exp
 417,1,film_box_leaflet,Agfa,AgfaChrome 50 S,35mm,50,AP41,198107,1760706537,9ee8854bae7c54c02b042c5be3e19f43,ad0043191aad463eafef428fdd9383d5,00417_001.jpg,@recycling.film,,Single Pack,36exp
 417,2,film_box_leaflet,Agfa,AgfaChrome 50 S,35mm,50,AP41,198107,1760706540,d19cb3116dee47c7eb5dfe4aa357cbf5,92c015c82f4345438875b286887a584d,00417_002.jpg,@recycling.film,,Single Pack,36exp
-418,0,film_box_outside,Agfa,Agfacolor Negative Film Special CNS,35mm,80,Unknown,197609,1760708691,330762f9e9f9b52b2c3b43a593bd8670,1cf0e26c5894469ebdbd94e104c89b03,00418_000.jpg,@recycling.film,,Single Pack,20exp
-418,1,film_box_leaflet,Agfa,Agfacolor Negative Film Special CNS,35mm,80,Unknown,197609,1760708692,91805a88ed1fba6ded73ecfb5fcfe076,75c37ed61c3d4b04be3c432a2a80c21e,00418_001.jpg,@recycling.film,,Single Pack,20exp
-418,2,film_box_leaflet,Agfa,Agfacolor Negative Film Special CNS,35mm,80,Unknown,197609,1760708699,b0aa76d6d7f3a83074582dc60cd11f6d,47363e4b17894d5d99a8c39dfdf981db,00418_002.jpg,@recycling.film,,Single Pack,20exp
+418,0,film_box_outside,Agfa,Agfacolor Negative Film Special CNS,35mm,80,CNS,197609,1760708691,330762f9e9f9b52b2c3b43a593bd8670,1cf0e26c5894469ebdbd94e104c89b03,00418_000.jpg,@recycling.film,,Single Pack,20exp
+418,1,film_box_leaflet,Agfa,Agfacolor Negative Film Special CNS,35mm,80,CNS,197609,1760708692,91805a88ed1fba6ded73ecfb5fcfe076,75c37ed61c3d4b04be3c432a2a80c21e,00418_001.jpg,@recycling.film,,Single Pack,20exp
+418,2,film_box_leaflet,Agfa,Agfacolor Negative Film Special CNS,35mm,80,CNS,197609,1760708699,b0aa76d6d7f3a83074582dc60cd11f6d,47363e4b17894d5d99a8c39dfdf981db,00418_002.jpg,@recycling.film,,Single Pack,20exp
 419,0,film_box_outside,Perutz,Peromnia 21,35mm,100,BW,196103,1760725980,e185e99fe5a550fa11b46dbd3a46d79e,05554da8891c470facbddfd5fe35fa4a,00419_000.jpg,@recycling.film,,Single Pack,20exp
 420,0,film_box_outside,Perutz,Perpantic Film,120,40,BW,194712,1760726258,0d6fb8a049170c25369096ea36d99bbb,795c66ef065f442ab27e4ffb9de758b1,00420_000.jpg,@recycling.film,,Single Pack,N/A
 422,0,film_box_outside,Lomography,Lobster Redscale Negative,110,200,C-41,201510,1761044420,15e44ef33b751d79b43a8dbf76888721,bfb2bdd4749b474f8fe1f971f2a14dcd,00422_000.jpg,dekuNukem,,Single Pack,24exp
@@ -1014,7 +1014,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 545,4,film_box_outside,Svema,Foto 64,35mm,64,BW,199303,1776107412,99112f71285ef6a9deb839b5b0cd2921,e7373c8293d34a5dadc57a48f16748e9,00545_004.jpg,Luci 101,,Single Pack,36exp
 546,0,film_box_outside,Kodak,Gold 200,35mm,200,C-41,200212,1776107579,29a30a1683c38f0d61978428c0e90b83,e8e8fbafc8a64a19ad483dc1d7e3442d,00546_000.jpg,@Hol.m35,,Single Pack,36exp
 546,1,film_box_outside,Kodak,Gold 200,35mm,200,C-41,200212,1776107580,55169c5c4c7e447c41eee7276c0247ec,5a268c9c5d684ad18cdc7650cf1c692d,00546_001.jpg,@Hol.m35,,Single Pack,36exp
-547,0,film_box_outside,Agfa,Agfacolor CNS2,120,80,C-41,200803,1776107671,73d553800036dbf18595cd056d467df4,db108d3120e04e4987e0c94174e0d515,00547_000.jpg,@Hol.m35,,Single Pack,N/A
+547,0,film_box_outside,Agfa,Agfacolor CNS2,120,80,CNS2,198003,1776107671,73d553800036dbf18595cd056d467df4,db108d3120e04e4987e0c94174e0d515,00547_000.jpg,@Hol.m35,,Single Pack,N/A
 548,0,film_box_outside,Lomography,Postdam,120,100,BW,202209,1776107816,21e16bf37e3fffb57f7316a4793687bf,35d94ea6e97849ee876a5c61ee532769,00548_000.jpg,@Hol.m35,,Single Pack,N/A
 548,1,film_box_outside,Lomography,Postdam,120,100,BW,202209,1776107818,f9d298391c7cef49b9499a8bb3734846,4590b9bb4e264db4990e69e1b93862f4,00548_001.jpg,@Hol.m35,,Single Pack,N/A
 549,0,film_box_outside,Lomography,Berlin,35mm,400,BW,202804,1776107891,ee280c45d6baa3742134c9ce72b14ab1,f9c71bea8e0942ceab31c4f97ea6d3df,00549_000.jpg,@Hol.m35,,Single Pack,36exp

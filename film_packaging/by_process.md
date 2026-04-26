@@ -240,7 +240,6 @@ Total scans : 1047
 - [[C-41] Agfa AgfaColor Vista (ref: 2f14)](#c-41-agfa-agfacolor-vista-ref-2f14)
 - [[C-41] Agfa AgfaColor Vista (ref: d3af)](#c-41-agfa-agfacolor-vista-ref-d3af)
 - [[C-41] Agfa AgfaColor XRG 200 (ref: 689e)](#c-41-agfa-agfacolor-xrg-200-ref-689e)
-- [[C-41] Agfa Agfacolor CNS2 (ref: d515)](#c-41-agfa-agfacolor-cns2-ref-d515)
 - [[C-41] Agfa Optima II 400 (ref: fdf0)](#c-41-agfa-optima-ii-400-ref-fdf0)
 - [[C-41] Agfa Vista Plus 200 (ref: f5f7)](#c-41-agfa-vista-plus-200-ref-f5f7)
 - [[C-41] Agfa Vista Plus 200 (ref: f08a)](#c-41-agfa-vista-plus-200-ref-f08a)
@@ -461,6 +460,8 @@ Total scans : 1047
 - [[C-41] Walkens Speed 400 (ref: 740f)](#c-41-walkens-speed-400-ref-740f)
 - [[C-41] Wolfen NC500 (ref: 91c1)](#c-41-wolfen-nc500-ref-91c1)
 - [[C-41] York Photo Labs DXG 200 (ref: 4bf8)](#c-41-york-photo-labs-dxg-200-ref-4bf8)
+- [[CNS] Agfa Agfacolor Negative Film Special CNS (ref: 9b03)](#cns-agfa-agfacolor-negative-film-special-cns-ref-9b03)
+- [[CNS2] Agfa Agfacolor CNS2 (ref: d515)](#cns2-agfa-agfacolor-cns2-ref-d515)
 - [[D-97] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#d-97-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
 - [[D96] CineStill BWXX (ref: 66eb)](#d96-cinestill-bwxx-ref-66eb)
 - [[E-2] Kodak High Speed Ektachrome (ref: ce7f)](#e-2-kodak-high-speed-ektachrome-ref-ce7f)
@@ -562,7 +563,6 @@ Total scans : 1047
 - [[K-14] Kodak Kodachrome II (ref: 2caa)](#k-14-kodak-kodachrome-ii-ref-2caa)
 - [[K-14] Kodak Kodachrome II (ref: 0982)](#k-14-kodak-kodachrome-ii-ref-0982)
 - [[Unknown] Agfa AgfaColor CT 18 (ref: 1fef)](#unknown-agfa-agfacolor-ct-18-ref-1fef)
-- [[Unknown] Agfa Agfacolor Negative Film Special CNS (ref: 9b03)](#unknown-agfa-agfacolor-negative-film-special-cns-ref-9b03)
 - [[Unknown] Agfa Agfacolor Reversal Film CK (ref: 3502)](#unknown-agfa-agfacolor-reversal-film-ck-ref-3502)
 - [[Unknown] Agfa Agfacolor Special Negative Film CN S (ref: 1e83)](#unknown-agfa-agfacolor-special-negative-film-cn-s-ref-1e83)
 - [[Unknown] Agfa Agfacolor Umkehr-Ultra T (ref: 01db)](#unknown-agfa-agfacolor-umkehr-ultra-t-ref-01db)
@@ -4849,20 +4849,6 @@ UUID  : 86136eea89d14e15b60dfcdf45b1689e
 	<img src="./lowres/00152_001.jpg" alt="Agfa AgfaColor XRG 200 35mm film box inside" loading="lazy" width="404" height="500">
 </a>
 
-#### [C-41] Agfa Agfacolor CNS2 (ref: d515)
-
-```
-Format: 120          |  Process : C-41    
-ISO   : 80           |  Expiry  : 2008-03 
-Type  : Single Pack  |  Quantity: N/A     
-Added : 2026-04-13   |  Author  : @Hol.m35
-UUID  : db108d3120e04e4987e0c94174e0d515
-```
-
-<a href="./archive/00547_000.jpg" target="_blank">
-	<img src="./lowres/00547_000.jpg" alt="Agfa Agfacolor CNS2 120 film box outside" loading="lazy" width="500" height="437">
-</a>
-
 #### [C-41] Agfa Optima II 400 (ref: fdf0)
 
 ```
@@ -8747,6 +8733,48 @@ UUID  : 46037fb6c55244b6ae47c55d0e454bf8
 	<img src="./lowres/00051_000.jpg" alt="York Photo Labs DXG 200 35mm film box outside" loading="lazy" width="500" height="500">
 </a>
 
+#### [CNS] Agfa Agfacolor Negative Film Special CNS (ref: 9b03)
+
+```
+Format: 35mm         |  Process : CNS     
+ISO   : 80           |  Expiry  : 1976-09 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2025-10-17   |  Author  : @recycling.film
+UUID  : 1cf0e26c5894469ebdbd94e104c89b03
+```
+
+<a href="./archive/00418_000.jpg" target="_blank">
+	<img src="./lowres/00418_000.jpg" alt="Agfa Agfacolor Negative Film Special CNS 35mm film box outside" loading="lazy" width="500" height="479">
+</a>
+
+
+`UUID: 75c37ed61c3d4b04be3c432a2a80c21e`↓
+
+<a href="./archive/00418_001.jpg" target="_blank">
+	<img src="./lowres/00418_001.jpg" alt="Agfa Agfacolor Negative Film Special CNS 35mm film box leaflet" loading="lazy" width="500" height="353">
+</a>
+
+
+`UUID: 47363e4b17894d5d99a8c39dfdf981db`↓
+
+<a href="./archive/00418_002.jpg" target="_blank">
+	<img src="./lowres/00418_002.jpg" alt="Agfa Agfacolor Negative Film Special CNS 35mm film box leaflet" loading="lazy" width="500" height="365">
+</a>
+
+#### [CNS2] Agfa Agfacolor CNS2 (ref: d515)
+
+```
+Format: 120          |  Process : CNS2    
+ISO   : 80           |  Expiry  : 1980-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : db108d3120e04e4987e0c94174e0d515
+```
+
+<a href="./archive/00547_000.jpg" target="_blank">
+	<img src="./lowres/00547_000.jpg" alt="Agfa Agfacolor CNS2 120 film box outside" loading="lazy" width="500" height="437">
+</a>
+
 #### [D-97] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)
 
 ```
@@ -11164,34 +11192,6 @@ UUID  : 0e445a9b612a487b90df4e94a3831fef
 
 <a href="./archive/00272_006.jpg" target="_blank">
 	<img src="./lowres/00272_006.jpg" alt="Agfa AgfaColor CT 18 35mm film box processing envelope" loading="lazy" width="500" height="340">
-</a>
-
-#### [Unknown] Agfa Agfacolor Negative Film Special CNS (ref: 9b03)
-
-```
-Format: 35mm         |  Process : Unknown 
-ISO   : 80           |  Expiry  : 1976-09 
-Type  : Single Pack  |  Quantity: 20exp   
-Added : 2025-10-17   |  Author  : @recycling.film
-UUID  : 1cf0e26c5894469ebdbd94e104c89b03
-```
-
-<a href="./archive/00418_000.jpg" target="_blank">
-	<img src="./lowres/00418_000.jpg" alt="Agfa Agfacolor Negative Film Special CNS 35mm film box outside" loading="lazy" width="500" height="479">
-</a>
-
-
-`UUID: 75c37ed61c3d4b04be3c432a2a80c21e`↓
-
-<a href="./archive/00418_001.jpg" target="_blank">
-	<img src="./lowres/00418_001.jpg" alt="Agfa Agfacolor Negative Film Special CNS 35mm film box leaflet" loading="lazy" width="500" height="353">
-</a>
-
-
-`UUID: 47363e4b17894d5d99a8c39dfdf981db`↓
-
-<a href="./archive/00418_002.jpg" target="_blank">
-	<img src="./lowres/00418_002.jpg" alt="Agfa Agfacolor Negative Film Special CNS 35mm film box leaflet" loading="lazy" width="500" height="365">
 </a>
 
 #### [Unknown] Agfa Agfacolor Reversal Film CK (ref: 3502)

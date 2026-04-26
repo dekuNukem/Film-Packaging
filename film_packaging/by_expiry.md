@@ -115,6 +115,7 @@ Total scans : 1047
 - [[1979] Kodak Ektachrome 64 (ref: 07c0)](#1979-kodak-ektachrome-64-ref-07c0)
 - [[1979] Kodak Kodachrome 64 (ref: 3145)](#1979-kodak-kodachrome-64-ref-3145)
 - [[1979] Kodak Tri-X Pan (ref: 85e9)](#1979-kodak-tri-x-pan-ref-85e9)
+- [[1980] Agfa Agfacolor CNS2 (ref: d515)](#1980-agfa-agfacolor-cns2-ref-d515)
 - [[1980] Agfa Isopan ISS Rapid (ref: 3aee)](#1980-agfa-isopan-iss-rapid-ref-3aee)
 - [[1980] Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)](#1980-polaroid-polavision-phototape-land-cassette-type-608-ref-90b9)
 - [[1980] Kodak Ektachrome 400 (ref: 2b94)](#1980-kodak-ektachrome-400-ref-2b94)
@@ -298,7 +299,6 @@ Total scans : 1047
 - [[2007] Fujifilm Fujicolor Pro 400H (ref: 48ed)](#2007-fujifilm-fujicolor-pro-400h-ref-48ed)
 - [[2007] Kodak Elite Chrome (ref: 3943)](#2007-kodak-elite-chrome-ref-3943)
 - [[2007] Kodak Ultra (ref: 5701)](#2007-kodak-ultra-ref-5701)
-- [[2008] Agfa Agfacolor CNS2 (ref: d515)](#2008-agfa-agfacolor-cns2-ref-d515)
 - [[2008] Agfa APX (ref: 12c7)](#2008-agfa-apx-ref-12c7)
 - [[2008] Agfa CT Precisa 100 (ref: bc36)](#2008-agfa-ct-precisa-100-ref-bc36)
 - [[2008] Fujifilm Superia 200 (ref: fd36)](#2008-fujifilm-superia-200-ref-fd36)
@@ -2309,7 +2309,7 @@ UUID  : a3346f80db3b4032a2c69665f7448f0a
 #### [1976] Agfa Agfacolor Negative Film Special CNS (ref: 9b03)
 
 ```
-Format: 35mm         |  Process : Unknown 
+Format: 35mm         |  Process : CNS     
 ISO   : 80           |  Expiry  : 1976-09 
 Type  : Single Pack  |  Quantity: 20exp   
 Added : 2025-10-17   |  Author  : @recycling.film
@@ -2795,6 +2795,20 @@ UUID  : 09363ad5ddf84f67bb44ac27d17c85e9
 
 <a href="./archive/00410_000.jpg" target="_blank">
 	<img src="./lowres/00410_000.jpg" alt="Kodak Tri-X Pan 35mm film box outside" loading="lazy" width="404" height="500">
+</a>
+
+#### [1980] Agfa Agfacolor CNS2 (ref: d515)
+
+```
+Format: 120          |  Process : CNS2    
+ISO   : 80           |  Expiry  : 1980-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-04-13   |  Author  : @Hol.m35
+UUID  : db108d3120e04e4987e0c94174e0d515
+```
+
+<a href="./archive/00547_000.jpg" target="_blank">
+	<img src="./lowres/00547_000.jpg" alt="Agfa Agfacolor CNS2 120 film box outside" loading="lazy" width="500" height="437">
 </a>
 
 #### [1980] Agfa Isopan ISS Rapid (ref: 3aee)
@@ -6721,20 +6735,6 @@ UUID  : d01783be3b70456095411ca387865701
 
 <a href="./archive/00333_000.jpg" target="_blank">
 	<img src="./lowres/00333_000.jpg" alt="Kodak Ultra 110 film box outside" loading="lazy" width="296" height="500">
-</a>
-
-#### [2008] Agfa Agfacolor CNS2 (ref: d515)
-
-```
-Format: 120          |  Process : C-41    
-ISO   : 80           |  Expiry  : 2008-03 
-Type  : Single Pack  |  Quantity: N/A     
-Added : 2026-04-13   |  Author  : @Hol.m35
-UUID  : db108d3120e04e4987e0c94174e0d515
-```
-
-<a href="./archive/00547_000.jpg" target="_blank">
-	<img src="./lowres/00547_000.jpg" alt="Agfa Agfacolor CNS2 120 film box outside" loading="lazy" width="500" height="437">
 </a>
 
 #### [2008] Agfa APX (ref: 12c7)

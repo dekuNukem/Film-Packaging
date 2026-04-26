@@ -975,8 +975,8 @@ UUID  : e8465f64b1f84f32900d92caa25e393d
 #### [120] Agfa Agfacolor CNS2 (ref: d515)
 
 ```
-Format: 120          |  Process : C-41    
-ISO   : 80           |  Expiry  : 2008-03 
+Format: 120          |  Process : CNS2    
+ISO   : 80           |  Expiry  : 1980-03 
 Type  : Single Pack  |  Quantity: N/A     
 Added : 2026-04-13   |  Author  : @Hol.m35
 UUID  : db108d3120e04e4987e0c94174e0d515
@@ -4713,7 +4713,7 @@ UUID  : 86136eea89d14e15b60dfcdf45b1689e
 #### [35mm] Agfa Agfacolor Negative Film Special CNS (ref: 9b03)
 
 ```
-Format: 35mm         |  Process : Unknown 
+Format: 35mm         |  Process : CNS     
 ISO   : 80           |  Expiry  : 1976-09 
 Type  : Single Pack  |  Quantity: 20exp   
 Added : 2025-10-17   |  Author  : @recycling.film
