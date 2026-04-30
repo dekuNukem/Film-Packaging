@@ -116,8 +116,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 55,0,film_box_outside,Fujifilm,Fujichrome Provia 100F,35mm,100,E-6,202009,1740175404,11a02661d9dfda0ff824e02e1abacdf9,a3603dbdd8ca49b893c8ce2bc76f356d,00055_000.jpg,@seklerek,,Single Pack,36exp
 56,0,film_box_outside,Fujifilm,Fujichrome Velvia 100F,35mm,100,E-6,200703,1740175436,e855ec9f9e45b8d363b7a6fffb8e6d00,ce5c1d786286427ba5633091b06432d4,00056_000.jpg,@seklerek,,Single Pack,36exp
 57,0,film_box_outside,Alien Film,5222/XX,35mm,250,BW,202406,1748116820,7e12b1520d94a257ab94ae5e9ba8f64d,9984ed6c13cd4be496e7e4b58e313e49,00057_000.jpg,dekuNukem,,Single Pack,36exp
-58,0,film_box_outside,Kentmere,PAN 400,35mm,400,BW,202609,1748116856,353c31068a9fe6d21d1d75fa71f1b9ea,e876f866f1e9430494356ad098c7d223,00058_000.jpg,dekuNukem,,Single Pack,36exp
-58,1,film_box_inside,Kentmere,PAN 400,35mm,400,BW,202609,1748116859,65e0277a51cb91495e6fe34b0b1f05e3,ecc653f10f124afe9b4225edb7e06587,00058_001.jpg,dekuNukem,,Single Pack,36exp
+58,0,film_box_outside,Kentmere,PAN 400,120,400,BW,202609,1748116856,353c31068a9fe6d21d1d75fa71f1b9ea,e876f866f1e9430494356ad098c7d223,00058_000.jpg,dekuNukem,,Single Pack,36exp
+58,1,film_box_inside,Kentmere,PAN 400,120,400,BW,202609,1748116859,65e0277a51cb91495e6fe34b0b1f05e3,ecc653f10f124afe9b4225edb7e06587,00058_001.jpg,dekuNukem,,Single Pack,36exp
 59,0,film_box_outside,Three Film Rolls,5207,35mm,250,ECN-2,202512,1748116909,3191daf4d9fb86ebe20ab760304d6c25,4de0f5e76dd748c488fa81be23340292,00059_000.jpg,dekuNukem,,Single Pack,36exp
 60,0,film_box_outside,Kodak,Kodachrome 64,35mm,64,K-14,200705,1748116947,1a7d186200ebf9ae3542b767d2b4593d,dc9c151b87de48339e564e6692663206,00060_000.jpg,dekuNukem,,Single Pack,36exp
 62,0,film_box_outside,Klick,XD200,110,200,C-41,199802,1748117045,4c4dc6eace5c679c40b79b01b148c0ad,2276628aa2794442ae81221329fc44d7,00062_000.jpg,dekuNukem,,Single Pack,24exp

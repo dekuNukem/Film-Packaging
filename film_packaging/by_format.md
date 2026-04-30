@@ -107,6 +107,7 @@ Total scans : 1047
 - [[120] Ilford XP2 Super (ref: 484f)](#120-ilford-xp2-super-ref-484f)
 - [[120] JCH Streetpan (ref: 5c70)](#120-jch-streetpan-ref-5c70)
 - [[120] Kentmere PAN (ref: 3ec0)](#120-kentmere-pan-ref-3ec0)
+- [[120] Kentmere PAN 400 (ref: d223)](#120-kentmere-pan-400-ref-d223)
 - [[120] Kodak Ektachrome 400 (ref: 2b94)](#120-kodak-ektachrome-400-ref-2b94)
 - [[120] Kodak Ektachrome 400X (ref: 5b82)](#120-kodak-ektachrome-400x-ref-5b82)
 - [[120] Kodak Ektachrome E100VS (ref: a8d3)](#120-kodak-ektachrome-e100vs-ref-a8d3)
@@ -348,7 +349,6 @@ Total scans : 1047
 - [[35mm] Jessops Diamond Everyday (ref: 6d5a)](#35mm-jessops-diamond-everyday-ref-6d5a)
 - [[35mm] Kentmere PAN 100 (ref: c907)](#35mm-kentmere-pan-100-ref-c907)
 - [[35mm] Kentmere PAN 200 (ref: 0e32)](#35mm-kentmere-pan-200-ref-0e32)
-- [[35mm] Kentmere PAN 400 (ref: d223)](#35mm-kentmere-pan-400-ref-d223)
 - [[35mm] Kentmere PAN 400 (ref: 827e)](#35mm-kentmere-pan-400-ref-827e)
 - [[35mm] Kentmere PAN 400 (ref: a327)](#35mm-kentmere-pan-400-ref-a327)
 - [[35mm] Kirkland Signature Color Print Film (ref: 0441)](#35mm-kirkland-signature-color-print-film-ref-0441)
@@ -2340,6 +2340,27 @@ UUID  : 63392fa4def0490fbb2cb93d8c173ec0
 
 <a href="./archive/00471_001.jpg" target="_blank">
 	<img src="./lowres/00471_001.jpg" alt="Kentmere PAN 120 film box inside" loading="lazy" width="500" height="483">
+</a>
+
+#### [120] Kentmere PAN 400 (ref: d223)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 2026-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-05-24   |  Author  : dekuNukem
+UUID  : e876f866f1e9430494356ad098c7d223
+```
+
+<a href="./archive/00058_000.jpg" target="_blank">
+	<img src="./lowres/00058_000.jpg" alt="Kentmere PAN 400 120 film box outside" loading="lazy" width="500" height="445">
+</a>
+
+
+`UUID: ecc653f10f124afe9b4225edb7e06587`↓
+
+<a href="./archive/00058_001.jpg" target="_blank">
+	<img src="./lowres/00058_001.jpg" alt="Kentmere PAN 400 120 film box inside" loading="lazy" width="500" height="436">
 </a>
 
 #### [120] Kodak Ektachrome 400 (ref: 2b94)
@@ -7133,27 +7154,6 @@ UUID  : b0e988456d7444b1b879dc6ca4a80e32
 
 <a href="./archive/00186_000.jpg" target="_blank">
 	<img src="./lowres/00186_000.jpg" alt="Kentmere PAN 200 35mm film box outside" loading="lazy" width="437" height="499">
-</a>
-
-#### [35mm] Kentmere PAN 400 (ref: d223)
-
-```
-Format: 35mm         |  Process : BW      
-ISO   : 400          |  Expiry  : 2026-09 
-Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-05-24   |  Author  : dekuNukem
-UUID  : e876f866f1e9430494356ad098c7d223
-```
-
-<a href="./archive/00058_000.jpg" target="_blank">
-	<img src="./lowres/00058_000.jpg" alt="Kentmere PAN 400 35mm film box outside" loading="lazy" width="500" height="445">
-</a>
-
-
-`UUID: ecc653f10f124afe9b4225edb7e06587`↓
-
-<a href="./archive/00058_001.jpg" target="_blank">
-	<img src="./lowres/00058_001.jpg" alt="Kentmere PAN 400 35mm film box inside" loading="lazy" width="500" height="436">
 </a>
 
 #### [35mm] Kentmere PAN 400 (ref: 827e)

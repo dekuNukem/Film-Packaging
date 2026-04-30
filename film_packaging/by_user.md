@@ -8423,7 +8423,7 @@ UUID  : b53e5c167866448d812a4dc8e85967d3
 #### [dekuNukem] Kentmere PAN 400 (ref: d223)
 
 ```
-Format: 35mm         |  Process : BW      
+Format: 120          |  Process : BW      
 ISO   : 400          |  Expiry  : 2026-09 
 Type  : Single Pack  |  Quantity: 36exp   
 Added : 2025-05-24   |  Author  : dekuNukem
@@ -8431,14 +8431,14 @@ UUID  : e876f866f1e9430494356ad098c7d223
 ```
 
 <a href="./archive/00058_000.jpg" target="_blank">
-	<img src="./lowres/00058_000.jpg" alt="Kentmere PAN 400 35mm film box outside" loading="lazy" width="500" height="445">
+	<img src="./lowres/00058_000.jpg" alt="Kentmere PAN 400 120 film box outside" loading="lazy" width="500" height="445">
 </a>
 
 
 `UUID: ecc653f10f124afe9b4225edb7e06587`↓
 
 <a href="./archive/00058_001.jpg" target="_blank">
-	<img src="./lowres/00058_001.jpg" alt="Kentmere PAN 400 35mm film box inside" loading="lazy" width="500" height="436">
+	<img src="./lowres/00058_001.jpg" alt="Kentmere PAN 400 120 film box inside" loading="lazy" width="500" height="436">
 </a>
 
 #### [dekuNukem] Kentmere PAN 400 (ref: 827e)
