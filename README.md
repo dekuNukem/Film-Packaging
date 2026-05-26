@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: May 26 2026
-Unique items: 572
-Total scans : 1076
+Unique items: 577
+Total scans : 1083
 ```
 
 Or Sort by...
@@ -55,11 +55,11 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
-3     Pelicram                      69    
-4     Luci 101                      68    
+3     Luci 101                      71    
+4     Pelicram                      69    
 5     @ellafridalindblom            67    
 6     @recycling.film               65    
-7     @Hol.m35                      52    
+7     @Hol.m35                      56    
 8     The Compartmentalist          25    
 9     @ob.skura                     19    
 10    fine-seat                     19    
@@ -106,6 +106,10 @@ Rank  Username                      Contributions
 
 ```
 2026-05-26
+  - @Hol.m35: A Girl Has Film Tetris 200
+  - @Hol.m35: Freestyle 500T
+  - @Hol.m35: Mr. Negative Arcade
+  - @Hol.m35: Mr. Negative Black Cat
   - @Hol.m35: Optik Oldschool Motion 200T
   - @Hol.m35: Optik Oldschool Motion 500T
   - Greg: Kodak Ektachrome-X
@@ -114,6 +118,7 @@ Rank  Username                      Contributions
   - Greg: Kodak Kodacolor II
   - Greg: Kodak Tri-X Pan
   - Luci 101: Agfa AgfaChrome 50 S
+  - Luci 101: Foton Super Orto
   - Luci 101: ORWO OrwoColor UT13
   - Pelicram: Kodak TMAX P3200
   - robo-tobo: Efke R14

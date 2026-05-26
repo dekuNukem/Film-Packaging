@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: May 26 2026
-Unique items: 572
-Total scans : 1076
+Unique items: 577
+Total scans : 1083
 ```
 
 -----
@@ -128,6 +128,7 @@ Total scans : 1076
 - [[1980] Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)](#1980-polaroid-polavision-phototape-land-cassette-type-608-ref-90b9)
 - [[1980] Kodak Ektachrome 400 (ref: 2b94)](#1980-kodak-ektachrome-400-ref-2b94)
 - [[1980] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)](#1980-kodak-ektachrome-160-movie-film-type-a-ref-8f62)
+- [[1981] Foton Super Orto (ref: 050b)](#1981-foton-super-orto-ref-050b)
 - [[1981] Kodak Kodacolor 400 (ref: 9e4c)](#1981-kodak-kodacolor-400-ref-9e4c)
 - [[1981] Agfa AgfaChrome 50 S (ref: 71a8)](#1981-agfa-agfachrome-50-s-ref-71a8)
 - [[1981] Minox Minocolor 2 (ref: fadd)](#1981-minox-minocolor-2-ref-fadd)
@@ -544,9 +545,12 @@ Total scans : 1076
 - [[2028] Kentmere PAN 100 (ref: c907)](#2028-kentmere-pan-100-ref-c907)
 - [[2028] Kodak Gold 200 (ref: 3e0b)](#2028-kodak-gold-200-ref-3e0b)
 - [[2029] Ilford FP4 Plus (ref: a431)](#2029-ilford-fp4-plus-ref-a431)
+- [[2029] Mr. Negative Arcade (ref: a6e5)](#2029-mr-negative-arcade-ref-a6e5)
+- [[2029] Mr. Negative Black Cat (ref: cc7d)](#2029-mr-negative-black-cat-ref-cc7d)
 - [[2029] Kentmere PAN 400 (ref: 827e)](#2029-kentmere-pan-400-ref-827e)
 - [[2029] Kentmere PAN 400 (ref: a327)](#2029-kentmere-pan-400-ref-a327)
 - [[2030] Kentmere PAN 200 (ref: 0e32)](#2030-kentmere-pan-200-ref-0e32)
+- [[Unknown] A Girl Has Film Tetris 200 (ref: b309)](#unknown-a-girl-has-film-tetris-200-ref-b309)
 - [[Unknown] Agfa Agfacolor Umkehr-Ultra T (ref: 01db)](#unknown-agfa-agfacolor-umkehr-ultra-t-ref-01db)
 - [[Unknown] Agfa Agfapan  APX 25 (ref: 805f)](#unknown-agfa-agfapan-apx-25-ref-805f)
 - [[Unknown] Agfa Autolith Repo (ref: 8e68)](#unknown-agfa-autolith-repo-ref-8e68)
@@ -560,6 +564,7 @@ Total scans : 1076
 - [[Unknown] Ferrania Solaris FG Plus (ref: 78b7)](#unknown-ferrania-solaris-fg-plus-ref-78b7)
 - [[Unknown] Film Corporation of America TriFCA 120 (ref: 9937)](#unknown-film-corporation-of-america-trifca-120-ref-9937)
 - [[Unknown] Film Photography Project FPP 620 Black & White Panchromatic Negative Film (ref: 60ce)](#unknown-film-photography-project-fpp-620-black-white-panchromatic-negative-film-ref-60ce)
+- [[Unknown] Freestyle 500T (ref: 8073)](#unknown-freestyle-500t-ref-8073)
 - [[Unknown] Gevaert Infra-R (ref: fc88)](#unknown-gevaert-infra-r-ref-fc88)
 - [[Unknown] Gevaert Studio Film (ref: 75f9)](#unknown-gevaert-studio-film-ref-75f9)
 - [[Unknown] Gevaert Superchrom (ref: 0217)](#unknown-gevaert-superchrom-ref-0217)
@@ -3156,6 +3161,34 @@ UUID  : 6032680a3aba41b39c600d7e23998f62
 
 <a href="./archive/00154_004.jpg" target="_blank">
 	<img src="./lowres/00154_004.jpg" alt="Kodak Ektachrome 160 Movie Film Type A Super 8 film box processing envelope" loading="lazy" width="500" height="191">
+</a>
+
+#### [1981] Foton Super Orto (ref: 050b)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1981-01 
+Type  : Bulk Roll    |  Quantity: 30.5m   
+Added : 2026-05-26   |  Author  : Luci 101
+UUID  : a5735d8124da426db200a5ef3ae0050b
+```
+
+<a href="./archive/00581_000.jpg" target="_blank">
+	<img src="./lowres/00581_000.jpg" alt="Foton Super Orto 35mm film box outside" loading="lazy" width="465" height="500">
+</a>
+
+
+`UUID: dac6a8226d604131a12b525d0c7f29a2`↓
+
+<a href="./archive/00581_001.jpg" target="_blank">
+	<img src="./lowres/00581_001.jpg" alt="Foton Super Orto 35mm film box leaflet" loading="lazy" width="300" height="500">
+</a>
+
+
+`UUID: cb5f9744b147427a8def924a9f529543`↓
+
+<a href="./archive/00581_002.jpg" target="_blank">
+	<img src="./lowres/00581_002.jpg" alt="Foton Super Orto 35mm film box leaflet" loading="lazy" width="300" height="500">
 </a>
 
 #### [1981] Kodak Kodacolor 400 (ref: 9e4c)
@@ -11218,6 +11251,34 @@ UUID  : 97b840e334f14e48ba5baf99f38ea431
 	<img src="./lowres/00523_001.jpg" alt="Ilford FP4 Plus 35mm film box inside" loading="lazy" width="402" height="500">
 </a>
 
+#### [2029] Mr. Negative Arcade (ref: a6e5)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2029-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-05-26   |  Author  : @Hol.m35
+UUID  : e71e488f0288481f906ccecdf054a6e5
+```
+
+<a href="./archive/00577_000.jpg" target="_blank">
+	<img src="./lowres/00577_000.jpg" alt="Mr. Negative Arcade 35mm film box outside" loading="lazy" width="500" height="460">
+</a>
+
+#### [2029] Mr. Negative Black Cat (ref: cc7d)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2029-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-05-26   |  Author  : @Hol.m35
+UUID  : 7d38096a5e2243dc91b8caff8721cc7d
+```
+
+<a href="./archive/00580_000.jpg" target="_blank">
+	<img src="./lowres/00580_000.jpg" alt="Mr. Negative Black Cat 35mm film box outside" loading="lazy" width="500" height="410">
+</a>
+
 #### [2029] Kentmere PAN 400 (ref: 827e)
 
 ```
@@ -11272,6 +11333,20 @@ UUID  : b0e988456d7444b1b879dc6ca4a80e32
 
 <a href="./archive/00186_000.jpg" target="_blank">
 	<img src="./lowres/00186_000.jpg" alt="Kentmere PAN 200 35mm film box outside" loading="lazy" width="437" height="499">
+</a>
+
+#### [Unknown] A Girl Has Film Tetris 200 (ref: b309)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2026-05-26   |  Author  : @Hol.m35
+UUID  : 987a22c2477b44d2ab1b4c434b2db309
+```
+
+<a href="./archive/00578_000.jpg" target="_blank">
+	<img src="./lowres/00578_000.jpg" alt="A Girl Has Film Tetris 200 35mm film box outside" loading="lazy" width="471" height="500">
 </a>
 
 #### [Unknown] Agfa Agfacolor Umkehr-Ultra T (ref: 01db)
@@ -11511,6 +11586,20 @@ UUID  : 6b7dc0000a5f493caa53c841c3ce60ce
 
 <a href="./archive/00499_001.jpg" target="_blank">
 	<img src="./lowres/00499_001.jpg" alt="Film Photography Project FPP 620 Black & White Panchromatic Negative Film 620 film box inside" loading="lazy" width="500" height="458">
+</a>
+
+#### [Unknown] Freestyle 500T (ref: 8073)
+
+```
+Format: 35mm         |  Process : ECN-2   
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-05-26   |  Author  : @Hol.m35
+UUID  : b7110d960d454ac484eafe3b650c8073
+```
+
+<a href="./archive/00579_000.jpg" target="_blank">
+	<img src="./lowres/00579_000.jpg" alt="Freestyle 500T 35mm film box outside" loading="lazy" width="500" height="488">
 </a>
 
 #### [Unknown] Gevaert Infra-R (ref: fc88)
@@ -12166,11 +12255,11 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
-3     Pelicram                      69    
-4     Luci 101                      68    
+3     Luci 101                      71    
+4     Pelicram                      69    
 5     @ellafridalindblom            67    
 6     @recycling.film               65    
-7     @Hol.m35                      52    
+7     @Hol.m35                      56    
 8     The Compartmentalist          25    
 9     @ob.skura                     19    
 10    fine-seat                     19    

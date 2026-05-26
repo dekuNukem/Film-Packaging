@@ -1075,3 +1075,10 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 574,0,film_box_outside,Kodak,Ektachrome-X,120,64,Unknown,197403,1779794496,de4da7bb0f0c583cc79169bad563aa6e,109f05cb335c476a8b019d13347ccca3,00574_000.jpg,Greg,,Single Pack,N/A
 575,0,film_box_outside,Kodak,Kodachrome,828,12,K-11,196109,1779794665,93c43cb7f5a51e940cc43af61266e548,aa76bcdbe2fe48fab10e56e1bd84e19e,00575_000.jpg,Greg,,Single Pack,8exp
 576,0,film_box_outside,Kodak,Tri-X Pan,120,400,BW,197906,1779794702,584ee162eb6091050ec0947f27994122,261300ac4604457a8d0c8743d1e19a93,00576_000.jpg,Greg,,Single Pack,N/A
+577,0,film_box_outside,Mr. Negative,Arcade,35mm,400,C-41,202901,1779795176,564b15f965bc7e901ba5dbd1e4d46a5a,e71e488f0288481f906ccecdf054a6e5,00577_000.jpg,@Hol.m35,,Single Pack,36exp
+578,0,film_box_outside,A Girl Has Film,Tetris 200,35mm,200,C-41,Unknown,1779795246,31f4e31e1ed05d23ab9c26718e99dbef,987a22c2477b44d2ab1b4c434b2db309,00578_000.jpg,@Hol.m35,,Single Pack,Unknown
+579,0,film_box_outside,Freestyle,500T,35mm,400,ECN-2,Unknown,1779795322,9ad8fd57a1f02e0f8f3ecdc97eeb1fa0,b7110d960d454ac484eafe3b650c8073,00579_000.jpg,@Hol.m35,,Single Pack,36exp
+580,0,film_box_outside,Mr. Negative,Black Cat,35mm,400,BW,202901,1779795375,f67aa69f1a598da4e1a012df8d4335ca,7d38096a5e2243dc91b8caff8721cc7d,00580_000.jpg,@Hol.m35,,Single Pack,36exp
+581,0,film_box_outside,Foton,Super Orto,35mm,Unknown,BW,198101,1779795559,336258bd0785dedc2718f0918c3a8894,a5735d8124da426db200a5ef3ae0050b,00581_000.jpg,Luci 101,,Bulk Roll,30.5m
+581,1,film_box_leaflet,Foton,Super Orto,35mm,Unknown,BW,198101,1779795561,03e3a143b508f106ec23d32228c6b7ad,dac6a8226d604131a12b525d0c7f29a2,00581_001.jpg,Luci 101,,Bulk Roll,30.5m
+581,2,film_box_leaflet,Foton,Super Orto,35mm,Unknown,BW,198101,1779795570,9c2230d73ea382124b10878b56a040ec,cb5f9744b147427a8def924a9f529543,00581_002.jpg,Luci 101,,Bulk Roll,30.5m

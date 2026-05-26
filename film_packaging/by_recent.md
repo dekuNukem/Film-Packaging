@@ -16,12 +16,17 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: May 26 2026
-Unique items: 572
-Total scans : 1076
+Unique items: 577
+Total scans : 1083
 ```
 
 -----
 
+- [[2026-05-26] Foton Super Orto (ref: 050b)](#2026-05-26-foton-super-orto-ref-050b)
+- [[2026-05-26] Mr. Negative Black Cat (ref: cc7d)](#2026-05-26-mr-negative-black-cat-ref-cc7d)
+- [[2026-05-26] Freestyle 500T (ref: 8073)](#2026-05-26-freestyle-500t-ref-8073)
+- [[2026-05-26] A Girl Has Film Tetris 200 (ref: b309)](#2026-05-26-a-girl-has-film-tetris-200-ref-b309)
+- [[2026-05-26] Mr. Negative Arcade (ref: a6e5)](#2026-05-26-mr-negative-arcade-ref-a6e5)
 - [[2026-05-26] Kodak Tri-X Pan (ref: 9a93)](#2026-05-26-kodak-tri-x-pan-ref-9a93)
 - [[2026-05-26] Kodak Kodachrome (ref: e19e)](#2026-05-26-kodak-kodachrome-ref-e19e)
 - [[2026-05-26] Kodak Ektachrome-X (ref: cca3)](#2026-05-26-kodak-ektachrome-x-ref-cca3)
@@ -597,6 +602,90 @@ Total scans : 1076
 
 
 -----
+
+
+`UUID: cb5f9744b147427a8def924a9f529543`↓
+
+<a href="./archive/00581_002.jpg" target="_blank">
+	<img src="./lowres/00581_002.jpg" alt="Foton Super Orto 35mm film box leaflet" loading="lazy" width="300" height="500">
+</a>
+
+
+`UUID: dac6a8226d604131a12b525d0c7f29a2`↓
+
+<a href="./archive/00581_001.jpg" target="_blank">
+	<img src="./lowres/00581_001.jpg" alt="Foton Super Orto 35mm film box leaflet" loading="lazy" width="300" height="500">
+</a>
+
+#### [2026-05-26] Foton Super Orto (ref: 050b)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1981-01 
+Type  : Bulk Roll    |  Quantity: 30.5m   
+Added : 2026-05-26   |  Author  : Luci 101
+UUID  : a5735d8124da426db200a5ef3ae0050b
+```
+
+<a href="./archive/00581_000.jpg" target="_blank">
+	<img src="./lowres/00581_000.jpg" alt="Foton Super Orto 35mm film box outside" loading="lazy" width="465" height="500">
+</a>
+
+#### [2026-05-26] Mr. Negative Black Cat (ref: cc7d)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2029-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-05-26   |  Author  : @Hol.m35
+UUID  : 7d38096a5e2243dc91b8caff8721cc7d
+```
+
+<a href="./archive/00580_000.jpg" target="_blank">
+	<img src="./lowres/00580_000.jpg" alt="Mr. Negative Black Cat 35mm film box outside" loading="lazy" width="500" height="410">
+</a>
+
+#### [2026-05-26] Freestyle 500T (ref: 8073)
+
+```
+Format: 35mm         |  Process : ECN-2   
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-05-26   |  Author  : @Hol.m35
+UUID  : b7110d960d454ac484eafe3b650c8073
+```
+
+<a href="./archive/00579_000.jpg" target="_blank">
+	<img src="./lowres/00579_000.jpg" alt="Freestyle 500T 35mm film box outside" loading="lazy" width="500" height="488">
+</a>
+
+#### [2026-05-26] A Girl Has Film Tetris 200 (ref: b309)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2026-05-26   |  Author  : @Hol.m35
+UUID  : 987a22c2477b44d2ab1b4c434b2db309
+```
+
+<a href="./archive/00578_000.jpg" target="_blank">
+	<img src="./lowres/00578_000.jpg" alt="A Girl Has Film Tetris 200 35mm film box outside" loading="lazy" width="471" height="500">
+</a>
+
+#### [2026-05-26] Mr. Negative Arcade (ref: a6e5)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2029-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-05-26   |  Author  : @Hol.m35
+UUID  : e71e488f0288481f906ccecdf054a6e5
+```
+
+<a href="./archive/00577_000.jpg" target="_blank">
+	<img src="./lowres/00577_000.jpg" alt="Mr. Negative Arcade 35mm film box outside" loading="lazy" width="500" height="460">
+</a>
 
 #### [2026-05-26] Kodak Tri-X Pan (ref: 9a93)
 
@@ -12166,11 +12255,11 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
-3     Pelicram                      69    
-4     Luci 101                      68    
+3     Luci 101                      71    
+4     Pelicram                      69    
 5     @ellafridalindblom            67    
 6     @recycling.film               65    
-7     @Hol.m35                      52    
+7     @Hol.m35                      56    
 8     The Compartmentalist          25    
 9     @ob.skura                     19    
 10    fine-seat                     19    

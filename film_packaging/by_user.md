@@ -16,15 +16,17 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: May 26 2026
-Unique items: 572
-Total scans : 1076
+Unique items: 577
+Total scans : 1083
 ```
 
 -----
 
+- [[@Hol.m35] A Girl Has Film Tetris 200 (ref: b309)](#holm35-a-girl-has-film-tetris-200-ref-b309)
 - [[@Hol.m35] Agfa Agfacolor CNS2 (ref: d515)](#holm35-agfa-agfacolor-cns2-ref-d515)
 - [[@Hol.m35] Agfa Vista Plus 200 (ref: f5f7)](#holm35-agfa-vista-plus-200-ref-f5f7)
 - [[@Hol.m35] Boots Colour Print Film (ref: a30f)](#holm35-boots-colour-print-film-ref-a30f)
+- [[@Hol.m35] Freestyle 500T (ref: 8073)](#holm35-freestyle-500t-ref-8073)
 - [[@Hol.m35] Fujifilm Fujicolor 100 (ref: ac71)](#holm35-fujifilm-fujicolor-100-ref-ac71)
 - [[@Hol.m35] Fujifilm Fujicolor C200 (ref: 2585)](#holm35-fujifilm-fujicolor-c200-ref-2585)
 - [[@Hol.m35] Fujifilm Fujicolor Pro 400H (ref: fb3a)](#holm35-fujifilm-fujicolor-pro-400h-ref-fb3a)
@@ -47,6 +49,8 @@ Total scans : 1076
 - [[@Hol.m35] Lucky C200 (ref: b0cc)](#holm35-lucky-c200-ref-b0cc)
 - [[@Hol.m35] Lucky SHD400 (ref: 15b5)](#holm35-lucky-shd400-ref-15b5)
 - [[@Hol.m35] Max Spielmann Pro-Zoom MX 400 (ref: 38c5)](#holm35-max-spielmann-pro-zoom-mx-400-ref-38c5)
+- [[@Hol.m35] Mr. Negative Arcade (ref: a6e5)](#holm35-mr-negative-arcade-ref-a6e5)
+- [[@Hol.m35] Mr. Negative Black Cat (ref: cc7d)](#holm35-mr-negative-black-cat-ref-cc7d)
 - [[@Hol.m35] Optik Oldschool Motion 200T (ref: 0d90)](#holm35-optik-oldschool-motion-200t-ref-0d90)
 - [[@Hol.m35] Optik Oldschool Motion 500T (ref: bd42)](#holm35-optik-oldschool-motion-500t-ref-bd42)
 - [[@Hol.m35] Optik Oldschool OptiColour 200 (ref: 099e)](#holm35-optik-oldschool-opticolour-200-ref-099e)
@@ -276,6 +280,7 @@ Total scans : 1076
 - [[Luci 101] Agfa AgfaChrome 50 S (ref: eb28)](#luci-101-agfa-agfachrome-50-s-ref-eb28)
 - [[Luci 101] Foton Fotopan (ref: 6ba7)](#luci-101-foton-fotopan-ref-6ba7)
 - [[Luci 101] Foton Mikrofilm Negatywowy Super Orto (ref: 003e)](#luci-101-foton-mikrofilm-negatywowy-super-orto-ref-003e)
+- [[Luci 101] Foton Super Orto (ref: 050b)](#luci-101-foton-super-orto-ref-050b)
 - [[Luci 101] Kodak Kodacolor II (ref: 8dcf)](#luci-101-kodak-kodacolor-ii-ref-8dcf)
 - [[Luci 101] ORWO DK5 (ref: e815)](#luci-101-orwo-dk5-ref-e815)
 - [[Luci 101] ORWO NC 19 (ref: dca5)](#luci-101-orwo-nc-19-ref-dca5)
@@ -598,6 +603,20 @@ Total scans : 1076
 
 -----
 
+#### [@Hol.m35] A Girl Has Film Tetris 200 (ref: b309)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2026-05-26   |  Author  : @Hol.m35
+UUID  : 987a22c2477b44d2ab1b4c434b2db309
+```
+
+<a href="./archive/00578_000.jpg" target="_blank">
+	<img src="./lowres/00578_000.jpg" alt="A Girl Has Film Tetris 200 35mm film box outside" loading="lazy" width="471" height="500">
+</a>
+
 #### [@Hol.m35] Agfa Agfacolor CNS2 (ref: d515)
 
 ```
@@ -645,6 +664,20 @@ UUID  : bd601340027a4c9daa7e219b414fa30f
 
 <a href="./archive/00166_000.jpg" target="_blank">
 	<img src="./lowres/00166_000.jpg" alt="Boots Colour Print Film 35mm film box outside" loading="lazy" width="443" height="500">
+</a>
+
+#### [@Hol.m35] Freestyle 500T (ref: 8073)
+
+```
+Format: 35mm         |  Process : ECN-2   
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-05-26   |  Author  : @Hol.m35
+UUID  : b7110d960d454ac484eafe3b650c8073
+```
+
+<a href="./archive/00579_000.jpg" target="_blank">
+	<img src="./lowres/00579_000.jpg" alt="Freestyle 500T 35mm film box outside" loading="lazy" width="500" height="488">
 </a>
 
 #### [@Hol.m35] Fujifilm Fujicolor 100 (ref: ac71)
@@ -1066,6 +1099,34 @@ UUID  : 881f46ac2824430cb12f79087a3338c5
 
 <a href="./archive/00503_001.jpg" target="_blank">
 	<img src="./lowres/00503_001.jpg" alt="Max Spielmann Pro-Zoom MX 400 35mm film box inside" loading="lazy" width="421" height="500">
+</a>
+
+#### [@Hol.m35] Mr. Negative Arcade (ref: a6e5)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2029-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-05-26   |  Author  : @Hol.m35
+UUID  : e71e488f0288481f906ccecdf054a6e5
+```
+
+<a href="./archive/00577_000.jpg" target="_blank">
+	<img src="./lowres/00577_000.jpg" alt="Mr. Negative Arcade 35mm film box outside" loading="lazy" width="500" height="460">
+</a>
+
+#### [@Hol.m35] Mr. Negative Black Cat (ref: cc7d)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2029-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-05-26   |  Author  : @Hol.m35
+UUID  : 7d38096a5e2243dc91b8caff8721cc7d
+```
+
+<a href="./archive/00580_000.jpg" target="_blank">
+	<img src="./lowres/00580_000.jpg" alt="Mr. Negative Black Cat 35mm film box outside" loading="lazy" width="500" height="410">
 </a>
 
 #### [@Hol.m35] Optik Oldschool Motion 200T (ref: 0d90)
@@ -5208,6 +5269,34 @@ UUID  : c5f2c4c39f884a668f540f88d21c003e
 
 <a href="./archive/00532_000.jpg" target="_blank">
 	<img src="./lowres/00532_000.jpg" alt="Foton Mikrofilm Negatywowy Super Orto 35mm film box outside" loading="lazy" width="484" height="500">
+</a>
+
+#### [Luci 101] Foton Super Orto (ref: 050b)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1981-01 
+Type  : Bulk Roll    |  Quantity: 30.5m   
+Added : 2026-05-26   |  Author  : Luci 101
+UUID  : a5735d8124da426db200a5ef3ae0050b
+```
+
+<a href="./archive/00581_000.jpg" target="_blank">
+	<img src="./lowres/00581_000.jpg" alt="Foton Super Orto 35mm film box outside" loading="lazy" width="465" height="500">
+</a>
+
+
+`UUID: dac6a8226d604131a12b525d0c7f29a2`↓
+
+<a href="./archive/00581_001.jpg" target="_blank">
+	<img src="./lowres/00581_001.jpg" alt="Foton Super Orto 35mm film box leaflet" loading="lazy" width="300" height="500">
+</a>
+
+
+`UUID: cb5f9744b147427a8def924a9f529543`↓
+
+<a href="./archive/00581_002.jpg" target="_blank">
+	<img src="./lowres/00581_002.jpg" alt="Foton Super Orto 35mm film box leaflet" loading="lazy" width="300" height="500">
 </a>
 
 #### [Luci 101] Kodak Kodacolor II (ref: 8dcf)
@@ -12166,11 +12255,11 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
-3     Pelicram                      69    
-4     Luci 101                      68    
+3     Luci 101                      71    
+4     Pelicram                      69    
 5     @ellafridalindblom            67    
 6     @recycling.film               65    
-7     @Hol.m35                      52    
+7     @Hol.m35                      56    
 8     The Compartmentalist          25    
 9     @ob.skura                     19    
 10    fine-seat                     19    

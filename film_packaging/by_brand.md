@@ -16,13 +16,14 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: May 26 2026
-Unique items: 572
-Total scans : 1076
+Unique items: 577
+Total scans : 1083
 ```
 
 -----
 
 - [1Shot Color Print Film (ref: 8cf0)](#1shot-color-print-film-ref-8cf0)
+- [A Girl Has Film Tetris 200 (ref: b309)](#a-girl-has-film-tetris-200-ref-b309)
 - [ADOX CHS 100 II (ref: 8adf)](#adox-chs-100-ii-ref-8adf)
 - [ADOX CMS 20 II Pro (ref: 0bea)](#adox-cms-20-ii-pro-ref-0bea)
 - [ADOX HR 50 (ref: 4da7)](#adox-hr-50-ref-4da7)
@@ -131,6 +132,8 @@ Total scans : 1076
 - [Foton Fotopan (ref: 6ba7)](#foton-fotopan-ref-6ba7)
 - [Foton Fotopan F (ref: 0ad6)](#foton-fotopan-f-ref-0ad6)
 - [Foton Mikrofilm Negatywowy Super Orto (ref: 003e)](#foton-mikrofilm-negatywowy-super-orto-ref-003e)
+- [Foton Super Orto (ref: 050b)](#foton-super-orto-ref-050b)
+- [Freestyle 500T (ref: 8073)](#freestyle-500t-ref-8073)
 - [Fujifilm 200 (ref: 5b41)](#fujifilm-200-ref-5b41)
 - [Fujifilm 400 (ref: 82be)](#fujifilm-400-ref-82be)
 - [Fujifilm FP-100C (ref: 5cda)](#fujifilm-fp-100c-ref-5cda)
@@ -484,6 +487,8 @@ Total scans : 1076
 - [Minox MinoColor 3 (ref: d209)](#minox-minocolor-3-ref-d209)
 - [Minox Minocolor 2 (ref: fadd)](#minox-minocolor-2-ref-fadd)
 - [Mr. Negative 250D (ref: 3574)](#mr-negative-250d-ref-3574)
+- [Mr. Negative Arcade (ref: a6e5)](#mr-negative-arcade-ref-a6e5)
+- [Mr. Negative Black Cat (ref: cc7d)](#mr-negative-black-cat-ref-cc7d)
 - [Mr. Negative Eterna 250D (ref: 6d6e)](#mr-negative-eterna-250d-ref-6d6e)
 - [Mr. Negative Silver Screen Negative (ref: c968)](#mr-negative-silver-screen-negative-ref-c968)
 - [Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#mutascan-kodak-vision3-500t5219-ref-5150)
@@ -610,6 +615,20 @@ UUID  : 7e2a1df614294a7680f4b9478c578cf0
 
 <a href="./archive/00561_000.jpg" target="_blank">
 	<img src="./lowres/00561_000.jpg" alt="1Shot Color Print Film 35mm film box outside" loading="lazy" width="481" height="500">
+</a>
+
+#### A Girl Has Film Tetris 200 (ref: b309)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2026-05-26   |  Author  : @Hol.m35
+UUID  : 987a22c2477b44d2ab1b4c434b2db309
+```
+
+<a href="./archive/00578_000.jpg" target="_blank">
+	<img src="./lowres/00578_000.jpg" alt="A Girl Has Film Tetris 200 35mm film box outside" loading="lazy" width="471" height="500">
 </a>
 
 #### ADOX CHS 100 II (ref: 8adf)
@@ -2831,6 +2850,48 @@ UUID  : c5f2c4c39f884a668f540f88d21c003e
 
 <a href="./archive/00532_000.jpg" target="_blank">
 	<img src="./lowres/00532_000.jpg" alt="Foton Mikrofilm Negatywowy Super Orto 35mm film box outside" loading="lazy" width="484" height="500">
+</a>
+
+#### Foton Super Orto (ref: 050b)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1981-01 
+Type  : Bulk Roll    |  Quantity: 30.5m   
+Added : 2026-05-26   |  Author  : Luci 101
+UUID  : a5735d8124da426db200a5ef3ae0050b
+```
+
+<a href="./archive/00581_000.jpg" target="_blank">
+	<img src="./lowres/00581_000.jpg" alt="Foton Super Orto 35mm film box outside" loading="lazy" width="465" height="500">
+</a>
+
+
+`UUID: dac6a8226d604131a12b525d0c7f29a2`↓
+
+<a href="./archive/00581_001.jpg" target="_blank">
+	<img src="./lowres/00581_001.jpg" alt="Foton Super Orto 35mm film box leaflet" loading="lazy" width="300" height="500">
+</a>
+
+
+`UUID: cb5f9744b147427a8def924a9f529543`↓
+
+<a href="./archive/00581_002.jpg" target="_blank">
+	<img src="./lowres/00581_002.jpg" alt="Foton Super Orto 35mm film box leaflet" loading="lazy" width="300" height="500">
+</a>
+
+#### Freestyle 500T (ref: 8073)
+
+```
+Format: 35mm         |  Process : ECN-2   
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-05-26   |  Author  : @Hol.m35
+UUID  : b7110d960d454ac484eafe3b650c8073
+```
+
+<a href="./archive/00579_000.jpg" target="_blank">
+	<img src="./lowres/00579_000.jpg" alt="Freestyle 500T 35mm film box outside" loading="lazy" width="500" height="488">
 </a>
 
 #### Fujifilm 200 (ref: 5b41)
@@ -9687,6 +9748,34 @@ UUID  : e5b29575691e43d8bc17578978083574
 	<img src="./lowres/00321_000.jpg" alt="Mr. Negative 250D 35mm film box outside" loading="lazy" width="457" height="500">
 </a>
 
+#### Mr. Negative Arcade (ref: a6e5)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2029-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-05-26   |  Author  : @Hol.m35
+UUID  : e71e488f0288481f906ccecdf054a6e5
+```
+
+<a href="./archive/00577_000.jpg" target="_blank">
+	<img src="./lowres/00577_000.jpg" alt="Mr. Negative Arcade 35mm film box outside" loading="lazy" width="500" height="460">
+</a>
+
+#### Mr. Negative Black Cat (ref: cc7d)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2029-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-05-26   |  Author  : @Hol.m35
+UUID  : 7d38096a5e2243dc91b8caff8721cc7d
+```
+
+<a href="./archive/00580_000.jpg" target="_blank">
+	<img src="./lowres/00580_000.jpg" alt="Mr. Negative Black Cat 35mm film box outside" loading="lazy" width="500" height="410">
+</a>
+
 #### Mr. Negative Eterna 250D (ref: 6d6e)
 
 ```
@@ -12166,11 +12255,11 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
-3     Pelicram                      69    
-4     Luci 101                      68    
+3     Luci 101                      71    
+4     Pelicram                      69    
 5     @ellafridalindblom            67    
 6     @recycling.film               65    
-7     @Hol.m35                      52    
+7     @Hol.m35                      56    
 8     The Compartmentalist          25    
 9     @ob.skura                     19    
 10    fine-seat                     19    
