@@ -1046,3 +1046,21 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 564,1,film_box_inside,Polaroid,Color i-Type Film,Integral Film,640,Instant,202403,1776110237,b3d13cf365d2c49584f2d3f6e32864a7,7cb12adb23de4c09ae158c3f290de943,00564_001.jpg,Dialupdude,,Single Pack,8exp
 565,0,film_box_outside,Polaroid,B&W i-Type Film,Integral Film,640,Instant,202507,1776110301,d7e756d7f66b7da816caff8ca1931c73,d0c5d59f8d974c83b651e1b9e8f7963a,00565_000.jpg,Dialupdude,,Single Pack,8exp
 565,1,film_box_inside,Polaroid,B&W i-Type Film,Integral Film,640,Instant,202507,1776110303,9110c58c4dff2870e3dde2d155c6a9a1,77ff51132ecc4e08b3c3e93abebe4af8,00565_001.jpg,Dialupdude,,Single Pack,8exp
+566,0,film_box_outside,Agfa,AgfaChrome 50 S,120,50,AP41,197707,1779792601,0bb0360c40d2698e4e20e81fa243a703,614f88677713446992d710403ec5eb28,00566_000.jpg,Luci 101,,Single Pack,N/A
+566,1,film_box_outside,Agfa,AgfaChrome 50 S,120,50,AP41,197707,1779792603,ab9eb8ce7bf628b7228223fe0b8d1af2,563ff01a71b8458e995e169d10771e29,00566_001.jpg,Luci 101,,Single Pack,N/A
+566,2,film_box_outside,Agfa,AgfaChrome 50 S,120,50,AP41,197707,1779792606,f412bb7c6f9b15b2d284e53adc41921e,6e3128ce6339494ba89745d7618298e0,00566_002.jpg,Luci 101,,Single Pack,N/A
+566,3,film_box_outside,Agfa,AgfaChrome 50 S,120,50,AP41,197707,1779792608,e2c6d0ed59a9d462f282119d0b30fc87,263945c531864b9587149422d5e5a246,00566_003.jpg,Luci 101,,Single Pack,N/A
+566,4,film_box_leaflet,Agfa,AgfaChrome 50 S,120,50,AP41,197707,1779792610,2a00460e2bca60f972355abd4cb3d616,fa734de6cae54db2bf120f56304c21c9,00566_004.jpg,Luci 101,,Single Pack,N/A
+566,5,film_box_leaflet,Agfa,AgfaChrome 50 S,120,50,AP41,197707,1779792612,47a60ca0d98a34a86d3a6f60acd465ad,10484fe8aeea44beb41b69e06d7a7d87,00566_005.jpg,Luci 101,,Single Pack,N/A
+567,0,film_box_outside,ORWO,OrwoColor UT13,8mm,16,Unknown,197110,1779792786,b59d0abe97c97dd439b6cab4bd1a3462,e7ff421fe76940efb7c727d4ffa6a05d,00567_000.jpg,Luci 101,,Single Pack,7.5m
+567,1,film_box_outside,ORWO,OrwoColor UT13,8mm,16,Unknown,197110,1779792788,8ec1107ffd4849c305f1feae8522bff5,256ee695209049f9ac2dc59ca5050d62,00567_001.jpg,Luci 101,,Single Pack,7.5m
+567,2,film_box_outside,ORWO,OrwoColor UT13,8mm,16,Unknown,197110,1779792792,5e5b964e8a323c0254c2db16826e3faf,b2db8d01c3814c3fbba583de1dd4c40b,00567_002.jpg,Luci 101,,Single Pack,7.5m
+567,3,film_box_outside,ORWO,OrwoColor UT13,8mm,16,Unknown,197110,1779792793,4f97f9dfc412bd9b59f617c11fea0fe7,58998f5a2b9b4a6c858dd018ff39d2cb,00567_003.jpg,Luci 101,,Single Pack,7.5m
+567,4,film_box_outside,ORWO,OrwoColor UT13,8mm,16,Unknown,197110,1779792795,a417ffee94e3bb3424058b5fbb31557c,bbe200fbd9b043a6824d899f556e2651,00567_004.jpg,Luci 101,,Single Pack,7.5m
+567,5,film_box_leaflet,ORWO,OrwoColor UT13,8mm,16,Unknown,197110,1779792865,1ee253298fa93d8f4876a70794c4dd0e,f8414c9045084fed9143b5ed262db46f,00567_005.jpg,Luci 101,,Single Pack,7.5m
+567,6,film_box_leaflet,ORWO,OrwoColor UT13,8mm,16,Unknown,197110,1779792867,84e06a1c2e6dbf356987ff3286077c22,d1620311aaa6413cbdd0fe506f38e8cd,00567_006.jpg,Luci 101,,Single Pack,7.5m
+567,7,film_box_leaflet,ORWO,OrwoColor UT13,8mm,16,Unknown,197110,1779792869,63401db3ff16d7bde47820a8efd91f16,5acaacb7d6f44b8db4833f94fc496345,00567_007.jpg,Luci 101,,Single Pack,7.5m
+567,8,film_box_leaflet,ORWO,OrwoColor UT13,8mm,16,Unknown,197110,1779792871,66966810b87053fe5ec985a34cfe1626,243bdcfc9037400a841215bde0e5f5c1,00567_008.jpg,Luci 101,,Single Pack,7.5m
+567,9,film_box_leaflet,ORWO,OrwoColor UT13,8mm,16,Unknown,197110,1779792872,a520a568194968c429bd8b3954662867,87a8af10c93a4dbba9accf8bf7c5413e,00567_009.jpg,Luci 101,,Single Pack,7.5m
+567,10,film_box_processing_envelope,ORWO,OrwoColor UT13,8mm,16,Unknown,197110,1779792874,f413eafa1fb92e17f0733f2cd211de78,3cdf8b9ef19541dca4ac9161ec1a4332,00567_010.jpg,Luci 101,,Single Pack,7.5m
+567,11,film_box_processing_envelope,ORWO,OrwoColor UT13,8mm,16,Unknown,197110,1779792879,cb91aeae40131eaace785b3ce9094ca8,09e49f5c233746daba9dfc6a30560007,00567_011.jpg,Luci 101,,Single Pack,7.5m

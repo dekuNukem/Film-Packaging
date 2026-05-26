@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Apr 13 2026
-Unique items: 561
-Total scans : 1047
+Last Updated: May 26 2026
+Unique items: 563
+Total scans : 1065
 ```
 
 -----
@@ -266,6 +266,7 @@ Total scans : 1047
 - [[Kraksen] Kodak Black & White + (ref: 2ff3)](#kraksen-kodak-black-white-ref-2ff3)
 - [[Kraksen] Marix Professional Negative Movie Color Film (ref: c457)](#kraksen-marix-professional-negative-movie-color-film-ref-c457)
 - [[Luci 101] Agfa AgfaChrome 100RS (ref: 2c42)](#luci-101-agfa-agfachrome-100rs-ref-2c42)
+- [[Luci 101] Agfa AgfaChrome 50 S (ref: eb28)](#luci-101-agfa-agfachrome-50-s-ref-eb28)
 - [[Luci 101] Foton Fotopan (ref: 6ba7)](#luci-101-foton-fotopan-ref-6ba7)
 - [[Luci 101] Foton Mikrofilm Negatywowy Super Orto (ref: 003e)](#luci-101-foton-mikrofilm-negatywowy-super-orto-ref-003e)
 - [[Luci 101] Kodak Kodacolor II (ref: 8dcf)](#luci-101-kodak-kodacolor-ii-ref-8dcf)
@@ -274,6 +275,7 @@ Total scans : 1047
 - [[Luci 101] ORWO NP 22 (ref: 6b7f)](#luci-101-orwo-np-22-ref-6b7f)
 - [[Luci 101] ORWO OrwoChrome RC100 (ref: a9b6)](#luci-101-orwo-orwochrome-rc100-ref-a9b6)
 - [[Luci 101] ORWO OrwoChrome UT18 (ref: f2ce)](#luci-101-orwo-orwochrome-ut18-ref-f2ce)
+- [[Luci 101] ORWO OrwoColor UT13 (ref: a05d)](#luci-101-orwo-orwocolor-ut13-ref-a05d)
 - [[Luci 101] ORWO UK18 (ref: c92d)](#luci-101-orwo-uk18-ref-c92d)
 - [[Luci 101] Svema Foto 64 (ref: 481f)](#luci-101-svema-foto-64-ref-481f)
 - [[Nano_Burger] Agfa Autolith Repo (ref: 8e68)](#nano_burger-agfa-autolith-repo-ref-8e68)
@@ -5010,6 +5012,55 @@ UUID  : 06b483aba54b4ce5929a53b74c7d2c42
 	<img src="./lowres/00538_006.jpg" alt="Agfa AgfaChrome 100RS 120 film box leaflet" loading="lazy" width="220" height="499">
 </a>
 
+#### [Luci 101] Agfa AgfaChrome 50 S (ref: eb28)
+
+```
+Format: 120          |  Process : AP41    
+ISO   : 50           |  Expiry  : 1977-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-05-26   |  Author  : Luci 101
+UUID  : 614f88677713446992d710403ec5eb28
+```
+
+<a href="./archive/00566_000.jpg" target="_blank">
+	<img src="./lowres/00566_000.jpg" alt="Agfa AgfaChrome 50 S 120 film box outside" loading="lazy" width="500" height="201">
+</a>
+
+
+`UUID: 563ff01a71b8458e995e169d10771e29`↓
+
+<a href="./archive/00566_001.jpg" target="_blank">
+	<img src="./lowres/00566_001.jpg" alt="Agfa AgfaChrome 50 S 120 film box outside" loading="lazy" width="500" height="201">
+</a>
+
+
+`UUID: 6e3128ce6339494ba89745d7618298e0`↓
+
+<a href="./archive/00566_002.jpg" target="_blank">
+	<img src="./lowres/00566_002.jpg" alt="Agfa AgfaChrome 50 S 120 film box outside" loading="lazy" width="500" height="201">
+</a>
+
+
+`UUID: 263945c531864b9587149422d5e5a246`↓
+
+<a href="./archive/00566_003.jpg" target="_blank">
+	<img src="./lowres/00566_003.jpg" alt="Agfa AgfaChrome 50 S 120 film box outside" loading="lazy" width="500" height="485">
+</a>
+
+
+`UUID: fa734de6cae54db2bf120f56304c21c9`↓
+
+<a href="./archive/00566_004.jpg" target="_blank">
+	<img src="./lowres/00566_004.jpg" alt="Agfa AgfaChrome 50 S 120 film box leaflet" loading="lazy" width="490" height="500">
+</a>
+
+
+`UUID: 10484fe8aeea44beb41b69e06d7a7d87`↓
+
+<a href="./archive/00566_005.jpg" target="_blank">
+	<img src="./lowres/00566_005.jpg" alt="Agfa AgfaChrome 50 S 120 film box leaflet" loading="lazy" width="486" height="500">
+</a>
+
 #### [Luci 101] Foton Fotopan (ref: 6ba7)
 
 ```
@@ -5281,6 +5332,97 @@ UUID  : ee69ebd9b18946a2b81e5369f74ff2ce
 
 <a href="./archive/00544_005.jpg" target="_blank">
 	<img src="./lowres/00544_005.jpg" alt="ORWO OrwoChrome UT18 35mm film box leaflet" loading="lazy" width="286" height="500">
+</a>
+
+#### [Luci 101] ORWO OrwoColor UT13 (ref: a05d)
+
+```
+Format: 8mm          |  Process : Unknown 
+ISO   : 16           |  Expiry  : 1971-10 
+Type  : Single Pack  |  Quantity: 7.5m    
+Added : 2026-05-26   |  Author  : Luci 101
+UUID  : e7ff421fe76940efb7c727d4ffa6a05d
+```
+
+<a href="./archive/00567_000.jpg" target="_blank">
+	<img src="./lowres/00567_000.jpg" alt="ORWO OrwoColor UT13 8mm film box outside" loading="lazy" width="493" height="500">
+</a>
+
+
+`UUID: 256ee695209049f9ac2dc59ca5050d62`↓
+
+<a href="./archive/00567_001.jpg" target="_blank">
+	<img src="./lowres/00567_001.jpg" alt="ORWO OrwoColor UT13 8mm film box outside" loading="lazy" width="500" height="238">
+</a>
+
+
+`UUID: b2db8d01c3814c3fbba583de1dd4c40b`↓
+
+<a href="./archive/00567_002.jpg" target="_blank">
+	<img src="./lowres/00567_002.jpg" alt="ORWO OrwoColor UT13 8mm film box outside" loading="lazy" width="500" height="238">
+</a>
+
+
+`UUID: 58998f5a2b9b4a6c858dd018ff39d2cb`↓
+
+<a href="./archive/00567_003.jpg" target="_blank">
+	<img src="./lowres/00567_003.jpg" alt="ORWO OrwoColor UT13 8mm film box outside" loading="lazy" width="500" height="246">
+</a>
+
+
+`UUID: bbe200fbd9b043a6824d899f556e2651`↓
+
+<a href="./archive/00567_004.jpg" target="_blank">
+	<img src="./lowres/00567_004.jpg" alt="ORWO OrwoColor UT13 8mm film box outside" loading="lazy" width="500" height="246">
+</a>
+
+
+`UUID: f8414c9045084fed9143b5ed262db46f`↓
+
+<a href="./archive/00567_005.jpg" target="_blank">
+	<img src="./lowres/00567_005.jpg" alt="ORWO OrwoColor UT13 8mm film box leaflet" loading="lazy" width="373" height="500">
+</a>
+
+
+`UUID: d1620311aaa6413cbdd0fe506f38e8cd`↓
+
+<a href="./archive/00567_006.jpg" target="_blank">
+	<img src="./lowres/00567_006.jpg" alt="ORWO OrwoColor UT13 8mm film box leaflet" loading="lazy" width="373" height="500">
+</a>
+
+
+`UUID: 5acaacb7d6f44b8db4833f94fc496345`↓
+
+<a href="./archive/00567_007.jpg" target="_blank">
+	<img src="./lowres/00567_007.jpg" alt="ORWO OrwoColor UT13 8mm film box leaflet" loading="lazy" width="373" height="500">
+</a>
+
+
+`UUID: 243bdcfc9037400a841215bde0e5f5c1`↓
+
+<a href="./archive/00567_008.jpg" target="_blank">
+	<img src="./lowres/00567_008.jpg" alt="ORWO OrwoColor UT13 8mm film box leaflet" loading="lazy" width="500" height="238">
+</a>
+
+
+`UUID: 87a8af10c93a4dbba9accf8bf7c5413e`↓
+
+<a href="./archive/00567_009.jpg" target="_blank">
+	<img src="./lowres/00567_009.jpg" alt="ORWO OrwoColor UT13 8mm film box leaflet" loading="lazy" width="500" height="231">
+</a>
+
+
+`UUID: 3cdf8b9ef19541dca4ac9161ec1a4332`↓
+
+<a href="./archive/00567_010.jpg" target="_blank">
+	<img src="./lowres/00567_010.jpg" alt="ORWO OrwoColor UT13 8mm film box processing envelope" loading="lazy" width="500" height="224">
+</a>
+
+
+`UUID: 09e49f5c233746daba9dfc6a30560007`↓
+
+<a href="./archive/00567_011.jpg" target="_blank">
+	<img src="./lowres/00567_011.jpg" alt="ORWO OrwoColor UT13 8mm film box processing envelope" loading="lazy" width="500" height="218">
 </a>
 
 #### [Luci 101] ORWO UK18 (ref: c92d)
@@ -11876,10 +12018,10 @@ Rank  Username                      Contributions
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      68    
-4     @ellafridalindblom            67    
-5     @recycling.film               65    
-6     @Hol.m35                      50    
-7     Luci 101                      50    
+4     Luci 101                      68    
+5     @ellafridalindblom            67    
+6     @recycling.film               65    
+7     @Hol.m35                      50    
 8     The Compartmentalist          25    
 9     @ob.skura                     19    
 10    fine-seat                     19    

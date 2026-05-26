@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Apr 13 2026
-Unique items: 561
-Total scans : 1047
+Last Updated: May 26 2026
+Unique items: 563
+Total scans : 1065
 ```
 
 -----
@@ -76,6 +76,7 @@ Total scans : 1047
 - [[1971] Kodak Verichrome Pan (ref: 0195)](#1971-kodak-verichrome-pan-ref-0195)
 - [[1971] Foma Fomapan21 (ref: 75d9)](#1971-foma-fomapan21-ref-75d9)
 - [[1971] Famous Brand Labs Color Negative Film (ref: 0cd6)](#1971-famous-brand-labs-color-negative-film-ref-0cd6)
+- [[1971] ORWO OrwoColor UT13 (ref: a05d)](#1971-orwo-orwocolor-ut13-ref-a05d)
 - [[1972] Kodak Ektachrome-X (ref: ae7e)](#1972-kodak-ektachrome-x-ref-ae7e)
 - [[1973] Kodak Ektachrome-X (ref: aec5)](#1973-kodak-ektachrome-x-ref-aec5)
 - [[1973] Kodak High Speed Ektachrome (ref: fe39)](#1973-kodak-high-speed-ektachrome-ref-fe39)
@@ -103,6 +104,7 @@ Total scans : 1047
 - [[1977] Kodak High Speed Ektachrome (ref: b8f8)](#1977-kodak-high-speed-ektachrome-ref-b8f8)
 - [[1977] Kodak High Speed Ektachrome (ref: 7533)](#1977-kodak-high-speed-ektachrome-ref-7533)
 - [[1977] Kodak Panatomic-X (ref: 35f6)](#1977-kodak-panatomic-x-ref-35f6)
+- [[1977] Agfa AgfaChrome 50 S (ref: eb28)](#1977-agfa-agfachrome-50-s-ref-eb28)
 - [[1977] Kodak Ektachrome Professional (ref: 02a1)](#1977-kodak-ektachrome-professional-ref-02a1)
 - [[1978] Kodak Kodachrome 25 (ref: 6477)](#1978-kodak-kodachrome-25-ref-6477)
 - [[1978] Sakura Sakuracolor II (ref: 4f7d)](#1978-sakura-sakuracolor-ii-ref-4f7d)
@@ -1751,6 +1753,97 @@ UUID  : 1c73b3f95ae14be5ab9a506ac83a0cd6
 	<img src="./lowres/00434_002.jpg" alt="Famous Brand Labs Color Negative Film 127 film box leaflet" loading="lazy" width="500" height="381">
 </a>
 
+#### [1971] ORWO OrwoColor UT13 (ref: a05d)
+
+```
+Format: 8mm          |  Process : Unknown 
+ISO   : 16           |  Expiry  : 1971-10 
+Type  : Single Pack  |  Quantity: 7.5m    
+Added : 2026-05-26   |  Author  : Luci 101
+UUID  : e7ff421fe76940efb7c727d4ffa6a05d
+```
+
+<a href="./archive/00567_000.jpg" target="_blank">
+	<img src="./lowres/00567_000.jpg" alt="ORWO OrwoColor UT13 8mm film box outside" loading="lazy" width="493" height="500">
+</a>
+
+
+`UUID: 256ee695209049f9ac2dc59ca5050d62`↓
+
+<a href="./archive/00567_001.jpg" target="_blank">
+	<img src="./lowres/00567_001.jpg" alt="ORWO OrwoColor UT13 8mm film box outside" loading="lazy" width="500" height="238">
+</a>
+
+
+`UUID: b2db8d01c3814c3fbba583de1dd4c40b`↓
+
+<a href="./archive/00567_002.jpg" target="_blank">
+	<img src="./lowres/00567_002.jpg" alt="ORWO OrwoColor UT13 8mm film box outside" loading="lazy" width="500" height="238">
+</a>
+
+
+`UUID: 58998f5a2b9b4a6c858dd018ff39d2cb`↓
+
+<a href="./archive/00567_003.jpg" target="_blank">
+	<img src="./lowres/00567_003.jpg" alt="ORWO OrwoColor UT13 8mm film box outside" loading="lazy" width="500" height="246">
+</a>
+
+
+`UUID: bbe200fbd9b043a6824d899f556e2651`↓
+
+<a href="./archive/00567_004.jpg" target="_blank">
+	<img src="./lowres/00567_004.jpg" alt="ORWO OrwoColor UT13 8mm film box outside" loading="lazy" width="500" height="246">
+</a>
+
+
+`UUID: f8414c9045084fed9143b5ed262db46f`↓
+
+<a href="./archive/00567_005.jpg" target="_blank">
+	<img src="./lowres/00567_005.jpg" alt="ORWO OrwoColor UT13 8mm film box leaflet" loading="lazy" width="373" height="500">
+</a>
+
+
+`UUID: d1620311aaa6413cbdd0fe506f38e8cd`↓
+
+<a href="./archive/00567_006.jpg" target="_blank">
+	<img src="./lowres/00567_006.jpg" alt="ORWO OrwoColor UT13 8mm film box leaflet" loading="lazy" width="373" height="500">
+</a>
+
+
+`UUID: 5acaacb7d6f44b8db4833f94fc496345`↓
+
+<a href="./archive/00567_007.jpg" target="_blank">
+	<img src="./lowres/00567_007.jpg" alt="ORWO OrwoColor UT13 8mm film box leaflet" loading="lazy" width="373" height="500">
+</a>
+
+
+`UUID: 243bdcfc9037400a841215bde0e5f5c1`↓
+
+<a href="./archive/00567_008.jpg" target="_blank">
+	<img src="./lowres/00567_008.jpg" alt="ORWO OrwoColor UT13 8mm film box leaflet" loading="lazy" width="500" height="238">
+</a>
+
+
+`UUID: 87a8af10c93a4dbba9accf8bf7c5413e`↓
+
+<a href="./archive/00567_009.jpg" target="_blank">
+	<img src="./lowres/00567_009.jpg" alt="ORWO OrwoColor UT13 8mm film box leaflet" loading="lazy" width="500" height="231">
+</a>
+
+
+`UUID: 3cdf8b9ef19541dca4ac9161ec1a4332`↓
+
+<a href="./archive/00567_010.jpg" target="_blank">
+	<img src="./lowres/00567_010.jpg" alt="ORWO OrwoColor UT13 8mm film box processing envelope" loading="lazy" width="500" height="224">
+</a>
+
+
+`UUID: 09e49f5c233746daba9dfc6a30560007`↓
+
+<a href="./archive/00567_011.jpg" target="_blank">
+	<img src="./lowres/00567_011.jpg" alt="ORWO OrwoColor UT13 8mm film box processing envelope" loading="lazy" width="500" height="218">
+</a>
+
 #### [1972] Kodak Ektachrome-X (ref: ae7e)
 
 ```
@@ -2473,6 +2566,55 @@ UUID  : 475b6bf4c66141b48fc73ace756435f6
 
 <a href="./archive/00192_002.jpg" target="_blank">
 	<img src="./lowres/00192_002.jpg" alt="Kodak Panatomic-X 35mm film box leaflet" loading="lazy" width="174" height="500">
+</a>
+
+#### [1977] Agfa AgfaChrome 50 S (ref: eb28)
+
+```
+Format: 120          |  Process : AP41    
+ISO   : 50           |  Expiry  : 1977-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-05-26   |  Author  : Luci 101
+UUID  : 614f88677713446992d710403ec5eb28
+```
+
+<a href="./archive/00566_000.jpg" target="_blank">
+	<img src="./lowres/00566_000.jpg" alt="Agfa AgfaChrome 50 S 120 film box outside" loading="lazy" width="500" height="201">
+</a>
+
+
+`UUID: 563ff01a71b8458e995e169d10771e29`↓
+
+<a href="./archive/00566_001.jpg" target="_blank">
+	<img src="./lowres/00566_001.jpg" alt="Agfa AgfaChrome 50 S 120 film box outside" loading="lazy" width="500" height="201">
+</a>
+
+
+`UUID: 6e3128ce6339494ba89745d7618298e0`↓
+
+<a href="./archive/00566_002.jpg" target="_blank">
+	<img src="./lowres/00566_002.jpg" alt="Agfa AgfaChrome 50 S 120 film box outside" loading="lazy" width="500" height="201">
+</a>
+
+
+`UUID: 263945c531864b9587149422d5e5a246`↓
+
+<a href="./archive/00566_003.jpg" target="_blank">
+	<img src="./lowres/00566_003.jpg" alt="Agfa AgfaChrome 50 S 120 film box outside" loading="lazy" width="500" height="485">
+</a>
+
+
+`UUID: fa734de6cae54db2bf120f56304c21c9`↓
+
+<a href="./archive/00566_004.jpg" target="_blank">
+	<img src="./lowres/00566_004.jpg" alt="Agfa AgfaChrome 50 S 120 film box leaflet" loading="lazy" width="490" height="500">
+</a>
+
+
+`UUID: 10484fe8aeea44beb41b69e06d7a7d87`↓
+
+<a href="./archive/00566_005.jpg" target="_blank">
+	<img src="./lowres/00566_005.jpg" alt="Agfa AgfaChrome 50 S 120 film box leaflet" loading="lazy" width="486" height="500">
 </a>
 
 #### [1977] Kodak Ektachrome Professional (ref: 02a1)
@@ -11876,10 +12018,10 @@ Rank  Username                      Contributions
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      68    
-4     @ellafridalindblom            67    
-5     @recycling.film               65    
-6     @Hol.m35                      50    
-7     Luci 101                      50    
+4     Luci 101                      68    
+5     @ellafridalindblom            67    
+6     @recycling.film               65    
+7     @Hol.m35                      50    
 8     The Compartmentalist          25    
 9     @ob.skura                     19    
 10    fine-seat                     19    

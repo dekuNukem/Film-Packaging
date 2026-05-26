@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Apr 13 2026
-Unique items: 561
-Total scans : 1047
+Last Updated: May 26 2026
+Unique items: 563
+Total scans : 1065
 ```
 
 Or Sort by...
@@ -56,10 +56,10 @@ Rank  Username                      Contributions
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      68    
-4     @ellafridalindblom            67    
-5     @recycling.film               65    
-6     @Hol.m35                      50    
-7     Luci 101                      50    
+4     Luci 101                      68    
+5     @ellafridalindblom            67    
+6     @recycling.film               65    
+7     @Hol.m35                      50    
 8     The Compartmentalist          25    
 9     @ob.skura                     19    
 10    fine-seat                     19    
@@ -104,6 +104,10 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2026-05-26
+  - Luci 101: Agfa AgfaChrome 50 S
+  - Luci 101: ORWO OrwoColor UT13
+
 2026-04-13
   - @ellafridalindblom: Gevaert Superchrom
   - @ellafridalindblom: Ilford HP3
@@ -169,10 +173,6 @@ Rank  Username                      Contributions
   - Chrisbes: Reflx Lab 640T AHU
   - kaimon: Kodak Gold 200
   - u/ReeeSchmidtyWerber: Fujifilm Fujichrome Velvia
-
-2025-12-29
-  - @Hol.m35: Max Spielmann Pro-Zoom MX 400
-  - benikum: ORWO NP22
 ```
 
 ## Disclaimer

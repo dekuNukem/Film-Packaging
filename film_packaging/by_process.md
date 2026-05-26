@@ -15,13 +15,14 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Apr 13 2026
-Unique items: 561
-Total scans : 1047
+Last Updated: May 26 2026
+Unique items: 563
+Total scans : 1065
 ```
 
 -----
 
+- [[AP41] Agfa AgfaChrome 50 S (ref: eb28)](#ap41-agfa-agfachrome-50-s-ref-eb28)
 - [[AP41] Agfa AgfaChrome 50 S (ref: 71a8)](#ap41-agfa-agfachrome-50-s-ref-71a8)
 - [[AR-1] GAF Color Slide Film (ref: dea6)](#ar-1-gaf-color-slide-film-ref-dea6)
 - [[BW] ADOX CHS 100 II (ref: 8adf)](#bw-adox-chs-100-ii-ref-8adf)
@@ -580,12 +581,62 @@ Total scans : 1047
 - [[Unknown] ORWO Chrom UT18 (ref: 81b7)](#unknown-orwo-chrom-ut18-ref-81b7)
 - [[Unknown] ORWO Chrom UT21 (ref: 3fd5)](#unknown-orwo-chrom-ut21-ref-3fd5)
 - [[Unknown] ORWO NC 19 (ref: dca5)](#unknown-orwo-nc-19-ref-dca5)
+- [[Unknown] ORWO OrwoColor UT13 (ref: a05d)](#unknown-orwo-orwocolor-ut13-ref-a05d)
 - [[Unknown] PrinzColor Colour Negative Film (ref: 448c)](#unknown-prinzcolor-colour-negative-film-ref-448c)
 - [[Unknown] Robot NR-Cassette (ref: bc7a)](#unknown-robot-nr-cassette-ref-bc7a)
 - [[Unknown] Triple-Print Film Labs Color Negative Film (ref: 88e6)](#unknown-triple-print-film-labs-color-negative-film-ref-88e6)
 
 
 -----
+
+#### [AP41] Agfa AgfaChrome 50 S (ref: eb28)
+
+```
+Format: 120          |  Process : AP41    
+ISO   : 50           |  Expiry  : 1977-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-05-26   |  Author  : Luci 101
+UUID  : 614f88677713446992d710403ec5eb28
+```
+
+<a href="./archive/00566_000.jpg" target="_blank">
+	<img src="./lowres/00566_000.jpg" alt="Agfa AgfaChrome 50 S 120 film box outside" loading="lazy" width="500" height="201">
+</a>
+
+
+`UUID: 563ff01a71b8458e995e169d10771e29`↓
+
+<a href="./archive/00566_001.jpg" target="_blank">
+	<img src="./lowres/00566_001.jpg" alt="Agfa AgfaChrome 50 S 120 film box outside" loading="lazy" width="500" height="201">
+</a>
+
+
+`UUID: 6e3128ce6339494ba89745d7618298e0`↓
+
+<a href="./archive/00566_002.jpg" target="_blank">
+	<img src="./lowres/00566_002.jpg" alt="Agfa AgfaChrome 50 S 120 film box outside" loading="lazy" width="500" height="201">
+</a>
+
+
+`UUID: 263945c531864b9587149422d5e5a246`↓
+
+<a href="./archive/00566_003.jpg" target="_blank">
+	<img src="./lowres/00566_003.jpg" alt="Agfa AgfaChrome 50 S 120 film box outside" loading="lazy" width="500" height="485">
+</a>
+
+
+`UUID: fa734de6cae54db2bf120f56304c21c9`↓
+
+<a href="./archive/00566_004.jpg" target="_blank">
+	<img src="./lowres/00566_004.jpg" alt="Agfa AgfaChrome 50 S 120 film box leaflet" loading="lazy" width="490" height="500">
+</a>
+
+
+`UUID: 10484fe8aeea44beb41b69e06d7a7d87`↓
+
+<a href="./archive/00566_005.jpg" target="_blank">
+	<img src="./lowres/00566_005.jpg" alt="Agfa AgfaChrome 50 S 120 film box leaflet" loading="lazy" width="486" height="500">
+</a>
 
 #### [AP41] Agfa AgfaChrome 50 S (ref: 71a8)
 
@@ -11779,6 +11830,97 @@ UUID  : a1dea49e29ae412596b2b691ac3bdca5
 	<img src="./lowres/00533_004.jpg" alt="ORWO NC 19 120 film box leaflet" loading="lazy" width="206" height="499">
 </a>
 
+#### [Unknown] ORWO OrwoColor UT13 (ref: a05d)
+
+```
+Format: 8mm          |  Process : Unknown 
+ISO   : 16           |  Expiry  : 1971-10 
+Type  : Single Pack  |  Quantity: 7.5m    
+Added : 2026-05-26   |  Author  : Luci 101
+UUID  : e7ff421fe76940efb7c727d4ffa6a05d
+```
+
+<a href="./archive/00567_000.jpg" target="_blank">
+	<img src="./lowres/00567_000.jpg" alt="ORWO OrwoColor UT13 8mm film box outside" loading="lazy" width="493" height="500">
+</a>
+
+
+`UUID: 256ee695209049f9ac2dc59ca5050d62`↓
+
+<a href="./archive/00567_001.jpg" target="_blank">
+	<img src="./lowres/00567_001.jpg" alt="ORWO OrwoColor UT13 8mm film box outside" loading="lazy" width="500" height="238">
+</a>
+
+
+`UUID: b2db8d01c3814c3fbba583de1dd4c40b`↓
+
+<a href="./archive/00567_002.jpg" target="_blank">
+	<img src="./lowres/00567_002.jpg" alt="ORWO OrwoColor UT13 8mm film box outside" loading="lazy" width="500" height="238">
+</a>
+
+
+`UUID: 58998f5a2b9b4a6c858dd018ff39d2cb`↓
+
+<a href="./archive/00567_003.jpg" target="_blank">
+	<img src="./lowres/00567_003.jpg" alt="ORWO OrwoColor UT13 8mm film box outside" loading="lazy" width="500" height="246">
+</a>
+
+
+`UUID: bbe200fbd9b043a6824d899f556e2651`↓
+
+<a href="./archive/00567_004.jpg" target="_blank">
+	<img src="./lowres/00567_004.jpg" alt="ORWO OrwoColor UT13 8mm film box outside" loading="lazy" width="500" height="246">
+</a>
+
+
+`UUID: f8414c9045084fed9143b5ed262db46f`↓
+
+<a href="./archive/00567_005.jpg" target="_blank">
+	<img src="./lowres/00567_005.jpg" alt="ORWO OrwoColor UT13 8mm film box leaflet" loading="lazy" width="373" height="500">
+</a>
+
+
+`UUID: d1620311aaa6413cbdd0fe506f38e8cd`↓
+
+<a href="./archive/00567_006.jpg" target="_blank">
+	<img src="./lowres/00567_006.jpg" alt="ORWO OrwoColor UT13 8mm film box leaflet" loading="lazy" width="373" height="500">
+</a>
+
+
+`UUID: 5acaacb7d6f44b8db4833f94fc496345`↓
+
+<a href="./archive/00567_007.jpg" target="_blank">
+	<img src="./lowres/00567_007.jpg" alt="ORWO OrwoColor UT13 8mm film box leaflet" loading="lazy" width="373" height="500">
+</a>
+
+
+`UUID: 243bdcfc9037400a841215bde0e5f5c1`↓
+
+<a href="./archive/00567_008.jpg" target="_blank">
+	<img src="./lowres/00567_008.jpg" alt="ORWO OrwoColor UT13 8mm film box leaflet" loading="lazy" width="500" height="238">
+</a>
+
+
+`UUID: 87a8af10c93a4dbba9accf8bf7c5413e`↓
+
+<a href="./archive/00567_009.jpg" target="_blank">
+	<img src="./lowres/00567_009.jpg" alt="ORWO OrwoColor UT13 8mm film box leaflet" loading="lazy" width="500" height="231">
+</a>
+
+
+`UUID: 3cdf8b9ef19541dca4ac9161ec1a4332`↓
+
+<a href="./archive/00567_010.jpg" target="_blank">
+	<img src="./lowres/00567_010.jpg" alt="ORWO OrwoColor UT13 8mm film box processing envelope" loading="lazy" width="500" height="224">
+</a>
+
+
+`UUID: 09e49f5c233746daba9dfc6a30560007`↓
+
+<a href="./archive/00567_011.jpg" target="_blank">
+	<img src="./lowres/00567_011.jpg" alt="ORWO OrwoColor UT13 8mm film box processing envelope" loading="lazy" width="500" height="218">
+</a>
+
 #### [Unknown] PrinzColor Colour Negative Film (ref: 448c)
 
 ```
@@ -11876,10 +12018,10 @@ Rank  Username                      Contributions
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
 3     Pelicram                      68    
-4     @ellafridalindblom            67    
-5     @recycling.film               65    
-6     @Hol.m35                      50    
-7     Luci 101                      50    
+4     Luci 101                      68    
+5     @ellafridalindblom            67    
+6     @recycling.film               65    
+7     @Hol.m35                      50    
 8     The Compartmentalist          25    
 9     @ob.skura                     19    
 10    fine-seat                     19    
