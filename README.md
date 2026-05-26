@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: May 26 2026
-Unique items: 563
-Total scans : 1065
+Unique items: 572
+Total scans : 1076
 ```
 
 Or Sort by...
@@ -55,11 +55,11 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
-3     Pelicram                      68    
+3     Pelicram                      69    
 4     Luci 101                      68    
 5     @ellafridalindblom            67    
 6     @recycling.film               65    
-7     @Hol.m35                      50    
+7     @Hol.m35                      52    
 8     The Compartmentalist          25    
 9     @ob.skura                     19    
 10    fine-seat                     19    
@@ -83,30 +83,40 @@ Rank  Username                      Contributions
 28    @filmfotofella                7     
 29    GreatGizmo74                  6     
 30    nick                          6     
-31    Kraksen                       5     
-32    Henry Gunn                    4     
-33    TheSelousScout                4     
-34    @sachynmital                  3     
-35    Tallbird Cowboy               3     
-36    @seklerek                     2     
-37    @ftfilmphotos                 2     
-38    @gregrouxphotography          2     
-39    Tobias                        2     
-40    @tylerdrey                    2     
-41    Yrikonchik                    1     
-42    @ad.astra.per.aspera.1894     1     
-43    Aoi Yuki                      1     
-44    lemoniter                     1     
-45    @shotbyliampewpew             1     
-46    Greg                          1     
+31    Greg                          6     
+32    Kraksen                       5     
+33    Henry Gunn                    4     
+34    TheSelousScout                4     
+35    @sachynmital                  3     
+36    Tallbird Cowboy               3     
+37    robo-tobo                     3     
+38    @seklerek                     2     
+39    @ftfilmphotos                 2     
+40    @gregrouxphotography          2     
+41    Tobias                        2     
+42    @tylerdrey                    2     
+43    Yrikonchik                    1     
+44    @ad.astra.per.aspera.1894     1     
+45    Aoi Yuki                      1     
+46    lemoniter                     1     
+47    @shotbyliampewpew             1     
 ```
 
 ## Recent Activities
 
 ```
 2026-05-26
+  - @Hol.m35: Optik Oldschool Motion 200T
+  - @Hol.m35: Optik Oldschool Motion 500T
+  - Greg: Kodak Ektachrome-X
+  - Greg: Kodak High Speed Ektachrome
+  - Greg: Kodak Kodachrome
+  - Greg: Kodak Kodacolor II
+  - Greg: Kodak Tri-X Pan
   - Luci 101: Agfa AgfaChrome 50 S
   - Luci 101: ORWO OrwoColor UT13
+  - Pelicram: Kodak TMAX P3200
+  - robo-tobo: Efke R14
 
 2026-04-13
   - @ellafridalindblom: Gevaert Superchrom

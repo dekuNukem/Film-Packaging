@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: May 26 2026
-Unique items: 563
-Total scans : 1065
+Unique items: 572
+Total scans : 1076
 ```
 
 -----
@@ -59,6 +59,7 @@ Total scans : 1065
 - [[120] CineStill 800T (ref: 44c4)](#120-cinestill-800t-ref-44c4)
 - [[120] CineStill BWXX (ref: 66eb)](#120-cinestill-bwxx-ref-66eb)
 - [[120] Efke IR 820 Aura (ref: 43c9)](#120-efke-ir-820-aura-ref-43c9)
+- [[120] Efke R14 (ref: 27f5)](#120-efke-r14-ref-27f5)
 - [[120] Film Corporation of America TriFCA 120 (ref: d024)](#120-film-corporation-of-america-trifca-120-ref-d024)
 - [[120] Film Corporation of America TriFCA 120 (ref: 9937)](#120-film-corporation-of-america-trifca-120-ref-9937)
 - [[120] Foma Fomapan Classic 100 (ref: 65ad)](#120-foma-fomapan-classic-100-ref-65ad)
@@ -114,13 +115,16 @@ Total scans : 1065
 - [[120] Kodak Ektachrome E100VS (ref: a8d3)](#120-kodak-ektachrome-e100vs-ref-a8d3)
 - [[120] Kodak Ektachrome Professional (ref: 02a1)](#120-kodak-ektachrome-professional-ref-02a1)
 - [[120] Kodak Ektachrome Professional Type B (ref: 1d9d)](#120-kodak-ektachrome-professional-type-b-ref-1d9d)
+- [[120] Kodak Ektachrome-X (ref: cca3)](#120-kodak-ektachrome-x-ref-cca3)
 - [[120] Kodak Ektar 100 (ref: 4631)](#120-kodak-ektar-100-ref-4631)
 - [[120] Kodak Gold 200 (ref: 933f)](#120-kodak-gold-200-ref-933f)
 - [[120] Kodak Gold 200 (ref: 3e0b)](#120-kodak-gold-200-ref-3e0b)
 - [[120] Kodak High Speed Ektachrome (ref: ce7f)](#120-kodak-high-speed-ektachrome-ref-ce7f)
 - [[120] Kodak High Speed Ektachrome (ref: fe39)](#120-kodak-high-speed-ektachrome-ref-fe39)
+- [[120] Kodak High Speed Ektachrome (ref: c335)](#120-kodak-high-speed-ektachrome-ref-c335)
 - [[120] Kodak High Speed Ektachrome (ref: be8f)](#120-kodak-high-speed-ektachrome-ref-be8f)
 - [[120] Kodak High Speed Ektachrome (ref: 7533)](#120-kodak-high-speed-ektachrome-ref-7533)
+- [[120] Kodak Kodacolor II (ref: f435)](#120-kodak-kodacolor-ii-ref-f435)
 - [[120] Kodak Kodacolor II (ref: 4108)](#120-kodak-kodacolor-ii-ref-4108)
 - [[120] Kodak Kodacolor-X (ref: a4b1)](#120-kodak-kodacolor-x-ref-a4b1)
 - [[120] Kodak Portra 400 (ref: 9f18)](#120-kodak-portra-400-ref-9f18)
@@ -132,6 +136,7 @@ Total scans : 1065
 - [[120] Kodak Tri-X 400 (ref: 88c5)](#120-kodak-tri-x-400-ref-88c5)
 - [[120] Kodak Tri-X 400 Pro (ref: f05c)](#120-kodak-tri-x-400-pro-ref-f05c)
 - [[120] Kodak Tri-X Pan (ref: 4a3b)](#120-kodak-tri-x-pan-ref-4a3b)
+- [[120] Kodak Tri-X Pan (ref: 9a93)](#120-kodak-tri-x-pan-ref-9a93)
 - [[120] Kodak Tri-X Pan (ref: f201)](#120-kodak-tri-x-pan-ref-f201)
 - [[120] Kodak Vericolor 400 Plus (ref: bd88)](#120-kodak-vericolor-400-plus-ref-bd88)
 - [[120] Kodak Vericolor III (ref: 4b3e)](#120-kodak-vericolor-iii-ref-4b3e)
@@ -430,6 +435,7 @@ Total scans : 1065
 - [[35mm] Kodak TMAX P3200 (ref: 1dff)](#35mm-kodak-tmax-p3200-ref-1dff)
 - [[35mm] Kodak TMAX P3200 (ref: 521a)](#35mm-kodak-tmax-p3200-ref-521a)
 - [[35mm] Kodak TMAX P3200 (ref: 43a2)](#35mm-kodak-tmax-p3200-ref-43a2)
+- [[35mm] Kodak TMAX P3200 (ref: e727)](#35mm-kodak-tmax-p3200-ref-e727)
 - [[35mm] Kodak Technical Pan (ref: f4cf)](#35mm-kodak-technical-pan-ref-f4cf)
 - [[35mm] Kodak Tri-X 400 (ref: 7145)](#35mm-kodak-tri-x-400-ref-7145)
 - [[35mm] Kodak Tri-X 400 (ref: c671)](#35mm-kodak-tri-x-400-ref-c671)
@@ -478,6 +484,8 @@ Total scans : 1065
 - [[35mm] ORWO OrwoChrome RC100 (ref: a9b6)](#35mm-orwo-orwochrome-rc100-ref-a9b6)
 - [[35mm] ORWO OrwoChrome UT18 (ref: f2ce)](#35mm-orwo-orwochrome-ut18-ref-f2ce)
 - [[35mm] ORWO UK18 (ref: c92d)](#35mm-orwo-uk18-ref-c92d)
+- [[35mm] Optik Oldschool Motion 200T (ref: 0d90)](#35mm-optik-oldschool-motion-200t-ref-0d90)
+- [[35mm] Optik Oldschool Motion 500T (ref: bd42)](#35mm-optik-oldschool-motion-500t-ref-bd42)
 - [[35mm] Optik Oldschool OptiColour 200 (ref: 099e)](#35mm-optik-oldschool-opticolour-200-ref-099e)
 - [[35mm] Optik Oldschool OptiColour 200 (ref: a7c9)](#35mm-optik-oldschool-opticolour-200-ref-a7c9)
 - [[35mm] Optik Oldschool SantaColor (ref: dd85)](#35mm-optik-oldschool-santacolor-ref-dd85)
@@ -541,6 +549,7 @@ Total scans : 1065
 - [[620] Walgreen All Purpose Film (ref: 541b)](#620-walgreen-all-purpose-film-ref-541b)
 - [[70mm] Kodak Portra 400NC (ref: b8de)](#70mm-kodak-portra-400nc-ref-b8de)
 - [[828] Kodak Ektachrome-X (ref: ae7e)](#828-kodak-ektachrome-x-ref-ae7e)
+- [[828] Kodak Kodachrome (ref: e19e)](#828-kodak-kodachrome-ref-e19e)
 - [[828] Kodak Kodachrome II (ref: 2caa)](#828-kodak-kodachrome-ii-ref-2caa)
 - [[828] Kodak Kodachrome II (ref: 0982)](#828-kodak-kodachrome-ii-ref-0982)
 - [[8mm] ORWO OrwoColor UT13 (ref: a05d)](#8mm-orwo-orwocolor-ut13-ref-a05d)
@@ -1336,6 +1345,34 @@ UUID  : 716e410a3823476e9befa704361f43c9
 
 <a href="./archive/00038_001.jpg" target="_blank">
 	<img src="./lowres/00038_001.jpg" alt="Efke IR 820 Aura 120 film box inside" loading="lazy" width="500" height="341">
+</a>
+
+#### [120] Efke R14 (ref: 27f5)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 20           |  Expiry  : 1970-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-05-26   |  Author  : robo-tobo
+UUID  : 32a76ef752524fab9f27ebe632b527f5
+```
+
+<a href="./archive/00570_000.jpg" target="_blank">
+	<img src="./lowres/00570_000.jpg" alt="Efke R14 120 film box outside" loading="lazy" width="500" height="359">
+</a>
+
+
+`UUID: 64e01932547643cd806e82e0faf38af2`↓
+
+<a href="./archive/00570_001.jpg" target="_blank">
+	<img src="./lowres/00570_001.jpg" alt="Efke R14 120 film box leaflet" loading="lazy" width="330" height="500">
+</a>
+
+
+`UUID: cb7b9dc522034a9e8e0c9efb07844543`↓
+
+<a href="./archive/00570_002.jpg" target="_blank">
+	<img src="./lowres/00570_002.jpg" alt="Efke R14 120 film box leaflet" loading="lazy" width="312" height="500">
 </a>
 
 #### [120] Film Corporation of America TriFCA 120 (ref: d024)
@@ -2561,6 +2598,20 @@ UUID  : 666d8c45723a458199b88976a68e1d9d
 	<img src="./lowres/00296_004.jpg" alt="Kodak Ektachrome Professional Type B 120 film box leaflet" loading="lazy" width="314" height="500">
 </a>
 
+#### [120] Kodak Ektachrome-X (ref: cca3)
+
+```
+Format: 120          |  Process : Unknown 
+ISO   : 64           |  Expiry  : 1974-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-05-26   |  Author  : Greg    
+UUID  : 109f05cb335c476a8b019d13347ccca3
+```
+
+<a href="./archive/00574_000.jpg" target="_blank">
+	<img src="./lowres/00574_000.jpg" alt="Kodak Ektachrome-X 120 film box outside" loading="lazy" width="500" height="485">
+</a>
+
 #### [120] Kodak Ektar 100 (ref: 4631)
 
 ```
@@ -2659,6 +2710,20 @@ UUID  : d6df7ff94eb54de292068cb45080fe39
 	<img src="./lowres/00543_002.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="193" height="500">
 </a>
 
+#### [120] Kodak High Speed Ektachrome (ref: c335)
+
+```
+Format: 120          |  Process : Unknown 
+ISO   : 160          |  Expiry  : 1974-10 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-05-26   |  Author  : Greg    
+UUID  : 4dc3f1e6a10842dbb0b1ac038b5ac335
+```
+
+<a href="./archive/00573_000.jpg" target="_blank">
+	<img src="./lowres/00573_000.jpg" alt="Kodak High Speed Ektachrome 120 film box outside" loading="lazy" width="500" height="470">
+</a>
+
 #### [120] Kodak High Speed Ektachrome (ref: be8f)
 
 ```
@@ -2714,6 +2779,20 @@ Notes : Tungsten (3200K) EHB 120
 
 <a href="./archive/00303_002.jpg" target="_blank">
 	<img src="./lowres/00303_002.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="188" height="500">
+</a>
+
+#### [120] Kodak Kodacolor II (ref: f435)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 100          |  Expiry  : 1971-10 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-05-26   |  Author  : Greg    
+UUID  : 8b179d290e4a462bb49bcec4f7c7f435
+```
+
+<a href="./archive/00572_000.jpg" target="_blank">
+	<img src="./lowres/00572_000.jpg" alt="Kodak Kodacolor II 120 film box outside" loading="lazy" width="500" height="498">
 </a>
 
 #### [120] Kodak Kodacolor II (ref: 4108)
@@ -2974,6 +3053,20 @@ UUID  : 943880744935475fa16fbe58b6334a3b
 
 <a href="./archive/00502_002.jpg" target="_blank">
 	<img src="./lowres/00502_002.jpg" alt="Kodak Tri-X Pan 120 film box leaflet" loading="lazy" width="181" height="500">
+</a>
+
+#### [120] Kodak Tri-X Pan (ref: 9a93)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 1979-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-05-26   |  Author  : Greg    
+UUID  : 261300ac4604457a8d0c8743d1e19a93
+```
+
+<a href="./archive/00576_000.jpg" target="_blank">
+	<img src="./lowres/00576_000.jpg" alt="Kodak Tri-X Pan 120 film box outside" loading="lazy" width="493" height="500">
 </a>
 
 #### [120] Kodak Tri-X Pan (ref: f201)
@@ -8755,6 +8848,20 @@ UUID  : 8f91948e930f491a8684337e32d443a2
 	<img src="./lowres/00142_000.jpg" alt="Kodak TMAX P3200 35mm film box outside" loading="lazy" width="408" height="500">
 </a>
 
+#### [35mm] Kodak TMAX P3200 (ref: e727)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 3200         |  Expiry  : 2027-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-05-26   |  Author  : Pelicram
+UUID  : 989581de448d4ccd82d8ab0950dae727
+```
+
+<a href="./archive/00571_000.jpg" target="_blank">
+	<img src="./lowres/00571_000.jpg" alt="Kodak TMAX P3200 35mm film box outside" loading="lazy" width="449" height="500">
+</a>
+
 #### [35mm] Kodak Technical Pan (ref: f4cf)
 
 ```
@@ -9678,6 +9785,34 @@ UUID  : d3755977cc6f49dab6e0fc8197b3c92d
 
 <a href="./archive/00535_006.jpg" target="_blank">
 	<img src="./lowres/00535_006.jpg" alt="ORWO UK18 35mm film box leaflet" loading="lazy" width="213" height="499">
+</a>
+
+#### [35mm] Optik Oldschool Motion 200T (ref: 0d90)
+
+```
+Format: 35mm         |  Process : ECN-2   
+ISO   : 200          |  Expiry  : 2028-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-05-26   |  Author  : @Hol.m35
+UUID  : b389844cc8c04ab8b936315354330d90
+```
+
+<a href="./archive/00568_000.jpg" target="_blank">
+	<img src="./lowres/00568_000.jpg" alt="Optik Oldschool Motion 200T 35mm film box outside" loading="lazy" width="496" height="499">
+</a>
+
+#### [35mm] Optik Oldschool Motion 500T (ref: bd42)
+
+```
+Format: 35mm         |  Process : ECN-2   
+ISO   : 500          |  Expiry  : 2028-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-05-26   |  Author  : @Hol.m35
+UUID  : f437c859b1564324968e289acecfbd42
+```
+
+<a href="./archive/00569_000.jpg" target="_blank">
+	<img src="./lowres/00569_000.jpg" alt="Optik Oldschool Motion 500T 35mm film box outside" loading="lazy" width="500" height="401">
 </a>
 
 #### [35mm] Optik Oldschool OptiColour 200 (ref: 099e)
@@ -10898,6 +11033,20 @@ UUID  : 4ee1eec740dd4838a83384cc19c6ae7e
 	<img src="./lowres/00120_000.jpg" alt="Kodak Ektachrome-X 828 film box outside" loading="lazy" width="477" height="500">
 </a>
 
+#### [828] Kodak Kodachrome (ref: e19e)
+
+```
+Format: 828          |  Process : K-11    
+ISO   : 12           |  Expiry  : 1961-09 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-05-26   |  Author  : Greg    
+UUID  : aa76bcdbe2fe48fab10e56e1bd84e19e
+```
+
+<a href="./archive/00575_000.jpg" target="_blank">
+	<img src="./lowres/00575_000.jpg" alt="Kodak Kodachrome 828 film box outside" loading="lazy" width="442" height="500">
+</a>
+
 #### [828] Kodak Kodachrome II (ref: 2caa)
 
 ```
@@ -12017,11 +12166,11 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
-3     Pelicram                      68    
+3     Pelicram                      69    
 4     Luci 101                      68    
 5     @ellafridalindblom            67    
 6     @recycling.film               65    
-7     @Hol.m35                      50    
+7     @Hol.m35                      52    
 8     The Compartmentalist          25    
 9     @ob.skura                     19    
 10    fine-seat                     19    
@@ -12045,22 +12194,23 @@ Rank  Username                      Contributions
 28    @filmfotofella                7     
 29    GreatGizmo74                  6     
 30    nick                          6     
-31    Kraksen                       5     
-32    Henry Gunn                    4     
-33    TheSelousScout                4     
-34    @sachynmital                  3     
-35    Tallbird Cowboy               3     
-36    @seklerek                     2     
-37    @ftfilmphotos                 2     
-38    @gregrouxphotography          2     
-39    Tobias                        2     
-40    @tylerdrey                    2     
-41    Yrikonchik                    1     
-42    @ad.astra.per.aspera.1894     1     
-43    Aoi Yuki                      1     
-44    lemoniter                     1     
-45    @shotbyliampewpew             1     
-46    Greg                          1     
+31    Greg                          6     
+32    Kraksen                       5     
+33    Henry Gunn                    4     
+34    TheSelousScout                4     
+35    @sachynmital                  3     
+36    Tallbird Cowboy               3     
+37    robo-tobo                     3     
+38    @seklerek                     2     
+39    @ftfilmphotos                 2     
+40    @gregrouxphotography          2     
+41    Tobias                        2     
+42    @tylerdrey                    2     
+43    Yrikonchik                    1     
+44    @ad.astra.per.aspera.1894     1     
+45    Aoi Yuki                      1     
+46    lemoniter                     1     
+47    @shotbyliampewpew             1     
 ```
 
 ## Questions or Comments?

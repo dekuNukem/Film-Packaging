@@ -1064,3 +1064,14 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 567,9,film_box_leaflet,ORWO,OrwoColor UT13,8mm,16,Unknown,197110,1779792872,a520a568194968c429bd8b3954662867,87a8af10c93a4dbba9accf8bf7c5413e,00567_009.jpg,Luci 101,,Single Pack,7.5m
 567,10,film_box_processing_envelope,ORWO,OrwoColor UT13,8mm,16,Unknown,197110,1779792874,f413eafa1fb92e17f0733f2cd211de78,3cdf8b9ef19541dca4ac9161ec1a4332,00567_010.jpg,Luci 101,,Single Pack,7.5m
 567,11,film_box_processing_envelope,ORWO,OrwoColor UT13,8mm,16,Unknown,197110,1779792879,cb91aeae40131eaace785b3ce9094ca8,09e49f5c233746daba9dfc6a30560007,00567_011.jpg,Luci 101,,Single Pack,7.5m
+568,0,film_box_outside,Optik Oldschool,Motion 200T,35mm,200,ECN-2,202804,1779793629,c2f436aec7085ca6d710e0a4fd401bc1,b389844cc8c04ab8b936315354330d90,00568_000.jpg,@Hol.m35,,Single Pack,36exp
+569,0,film_box_outside,Optik Oldschool,Motion 500T,35mm,500,ECN-2,202804,1779793660,fea3582c6f2dec4da42b4cc31614df1f,f437c859b1564324968e289acecfbd42,00569_000.jpg,@Hol.m35,,Single Pack,36exp
+570,0,film_box_outside,Efke,R14,120,20,BW,197003,1779793999,5d660a8e6769d44c6cf303430f971a88,32a76ef752524fab9f27ebe632b527f5,00570_000.jpg,robo-tobo,,Single Pack,N/A
+570,1,film_box_leaflet,Efke,R14,120,20,BW,197003,1779794003,73a55891a6442967cf13d1da0e11fe52,64e01932547643cd806e82e0faf38af2,00570_001.jpg,robo-tobo,,Single Pack,N/A
+570,2,film_box_leaflet,Efke,R14,120,20,BW,197003,1779794006,11912b0d00b68b39c3532bda32d13752,cb7b9dc522034a9e8e0c9efb07844543,00570_002.jpg,robo-tobo,,Single Pack,N/A
+571,0,film_box_outside,Kodak,TMAX P3200,35mm,3200,BW,202702,1779794161,a4a42b14da765117c47c36cc36847c7b,989581de448d4ccd82d8ab0950dae727,00571_000.jpg,Pelicram,,Single Pack,36exp
+572,0,film_box_outside,Kodak,Kodacolor II,120,100,C-41,197110,1779794353,6b381869e6f2899f12183e1f90a2021f,8b179d290e4a462bb49bcec4f7c7f435,00572_000.jpg,Greg,,Single Pack,N/A
+573,0,film_box_outside,Kodak,High Speed Ektachrome,120,160,Unknown,197410,1779794443,3b315e69b2d7471f028c3d841dc5f6dc,4dc3f1e6a10842dbb0b1ac038b5ac335,00573_000.jpg,Greg,,Single Pack,N/A
+574,0,film_box_outside,Kodak,Ektachrome-X,120,64,Unknown,197403,1779794496,de4da7bb0f0c583cc79169bad563aa6e,109f05cb335c476a8b019d13347ccca3,00574_000.jpg,Greg,,Single Pack,N/A
+575,0,film_box_outside,Kodak,Kodachrome,828,12,K-11,196109,1779794665,93c43cb7f5a51e940cc43af61266e548,aa76bcdbe2fe48fab10e56e1bd84e19e,00575_000.jpg,Greg,,Single Pack,8exp
+576,0,film_box_outside,Kodak,Tri-X Pan,120,400,BW,197906,1779794702,584ee162eb6091050ec0947f27994122,261300ac4604457a8d0c8743d1e19a93,00576_000.jpg,Greg,,Single Pack,N/A

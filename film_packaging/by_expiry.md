@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: May 26 2026
-Unique items: 563
-Total scans : 1065
+Unique items: 572
+Total scans : 1076
 ```
 
 -----
@@ -49,6 +49,7 @@ Total scans : 1065
 - [[1961] Perutz Peromnia 21 (ref: fa4a)](#1961-perutz-peromnia-21-ref-fa4a)
 - [[1961] VEB Fotochemische Werke Berlin Dekopan Feinkorn (ref: dba0)](#1961-veb-fotochemische-werke-berlin-dekopan-feinkorn-ref-dba0)
 - [[1961] VEB Fotochemische Werke Berlin Dekopan Super S (ref: 1620)](#1961-veb-fotochemische-werke-berlin-dekopan-super-s-ref-1620)
+- [[1961] Kodak Kodachrome (ref: e19e)](#1961-kodak-kodachrome-ref-e19e)
 - [[1961] Ricoh Golden "16" (ref: c02c)](#1961-ricoh-golden-16-ref-c02c)
 - [[1962] Kodak Verichrome Pan (ref: 7984)](#1962-kodak-verichrome-pan-ref-7984)
 - [[1962] Kodak Kodachrome (ref: 3d0a)](#1962-kodak-kodachrome-ref-3d0a)
@@ -68,6 +69,7 @@ Total scans : 1065
 - [[1969] Ilford HP3 (ref: 1afc)](#1969-ilford-hp3-ref-1afc)
 - [[1969] Agfa Agfacolor Reversal Film CK (ref: 3502)](#1969-agfa-agfacolor-reversal-film-ck-ref-3502)
 - [[1970] Kodak Plus-X Pan (ref: f5cc)](#1970-kodak-plus-x-pan-ref-f5cc)
+- [[1970] Efke R14 (ref: 27f5)](#1970-efke-r14-ref-27f5)
 - [[1970] Kodak High Speed Ektachrome (ref: ec3d)](#1970-kodak-high-speed-ektachrome-ref-ec3d)
 - [[1970] Famous Brand Labs Color Negative Film (ref: b271)](#1970-famous-brand-labs-color-negative-film-ref-b271)
 - [[1970] Kodak High Contrast Copy Film (ref: db52)](#1970-kodak-high-contrast-copy-film-ref-db52)
@@ -76,6 +78,7 @@ Total scans : 1065
 - [[1971] Kodak Verichrome Pan (ref: 0195)](#1971-kodak-verichrome-pan-ref-0195)
 - [[1971] Foma Fomapan21 (ref: 75d9)](#1971-foma-fomapan21-ref-75d9)
 - [[1971] Famous Brand Labs Color Negative Film (ref: 0cd6)](#1971-famous-brand-labs-color-negative-film-ref-0cd6)
+- [[1971] Kodak Kodacolor II (ref: f435)](#1971-kodak-kodacolor-ii-ref-f435)
 - [[1971] ORWO OrwoColor UT13 (ref: a05d)](#1971-orwo-orwocolor-ut13-ref-a05d)
 - [[1972] Kodak Ektachrome-X (ref: ae7e)](#1972-kodak-ektachrome-x-ref-ae7e)
 - [[1973] Kodak Ektachrome-X (ref: aec5)](#1973-kodak-ektachrome-x-ref-aec5)
@@ -86,7 +89,9 @@ Total scans : 1065
 - [[1974] Kodak High Speed Infrared Film 2481 (ref: aa7a)](#1974-kodak-high-speed-infrared-film-2481-ref-aa7a)
 - [[1974] Kodak Kodacolor-X (ref: a4b1)](#1974-kodak-kodacolor-x-ref-a4b1)
 - [[1974] Porst Color N21 (ref: 494a)](#1974-porst-color-n21-ref-494a)
+- [[1974] Kodak Ektachrome-X (ref: cca3)](#1974-kodak-ektachrome-x-ref-cca3)
 - [[1974] Kodak Kodacolor-X (ref: 0ce5)](#1974-kodak-kodacolor-x-ref-0ce5)
+- [[1974] Kodak High Speed Ektachrome (ref: c335)](#1974-kodak-high-speed-ektachrome-ref-c335)
 - [[1974] Kodak Ektachrome Professional Type B (ref: 1d9d)](#1974-kodak-ektachrome-professional-type-b-ref-1d9d)
 - [[1974] Kodak High Speed Ektachrome (ref: be8f)](#1974-kodak-high-speed-ektachrome-ref-be8f)
 - [[1975] Fujifilm Neopan SS Rapid (ref: 9db3)](#1975-fujifilm-neopan-ss-rapid-ref-9db3)
@@ -113,6 +118,7 @@ Total scans : 1065
 - [[1978] ORWO NC 19 (ref: dca5)](#1978-orwo-nc-19-ref-dca5)
 - [[1979] GAF Color Slide Film (ref: 6815)](#1979-gaf-color-slide-film-ref-6815)
 - [[1979] Foton Fotopan (ref: 6ba7)](#1979-foton-fotopan-ref-6ba7)
+- [[1979] Kodak Tri-X Pan (ref: 9a93)](#1979-kodak-tri-x-pan-ref-9a93)
 - [[1979] Kodak Kodacolor II (ref: b19e)](#1979-kodak-kodacolor-ii-ref-b19e)
 - [[1979] Kodak Ektachrome 64 (ref: 07c0)](#1979-kodak-ektachrome-64-ref-07c0)
 - [[1979] Kodak Kodachrome 64 (ref: 3145)](#1979-kodak-kodachrome-64-ref-3145)
@@ -472,6 +478,7 @@ Total scans : 1065
 - [[2027] CatLABS X Film 80 MKII (ref: bcd1)](#2027-catlabs-x-film-80-mkii-ref-bcd1)
 - [[2027] Ilford Delta 100 Professional (ref: bf01)](#2027-ilford-delta-100-professional-ref-bf01)
 - [[2027] Kodak Ektachrome E100 (ref: ae10)](#2027-kodak-ektachrome-e100-ref-ae10)
+- [[2027] Kodak TMAX P3200 (ref: e727)](#2027-kodak-tmax-p3200-ref-e727)
 - [[2027] Foma Fomapan Creative 200 (ref: 3e4f)](#2027-foma-fomapan-creative-200-ref-3e4f)
 - [[2027] Kentmere PAN (ref: 3ec0)](#2027-kentmere-pan-ref-3ec0)
 - [[2027] Kodak UltraMax (ref: aaa6)](#2027-kodak-ultramax-ref-aaa6)
@@ -521,6 +528,8 @@ Total scans : 1065
 - [[2028] Rollei Retro 400S (ref: f2cf)](#2028-rollei-retro-400s-ref-f2cf)
 - [[2028] Lomography Berlin (ref: d3df)](#2028-lomography-berlin-ref-d3df)
 - [[2028] Lomography Postdam (ref: d0c6)](#2028-lomography-postdam-ref-d0c6)
+- [[2028] Optik Oldschool Motion 200T (ref: 0d90)](#2028-optik-oldschool-motion-200t-ref-0d90)
+- [[2028] Optik Oldschool Motion 500T (ref: bd42)](#2028-optik-oldschool-motion-500t-ref-bd42)
 - [[2028] Agfa APX (ref: 5276)](#2028-agfa-apx-ref-5276)
 - [[2028] Foma Fomapan 200 (ref: 60ee)](#2028-foma-fomapan-200-ref-60ee)
 - [[2028] Arista.EDU Ultra (ref: d319)](#2028-aristaedu-ultra-ref-d319)
@@ -1022,6 +1031,20 @@ UUID  : da22aec5f8564cd8b34023047f511620
 
 <a href="./archive/00369_001.jpg" target="_blank">
 	<img src="./lowres/00369_001.jpg" alt="VEB Fotochemische Werke Berlin Dekopan Super S 35mm film box inside" loading="lazy" width="500" height="250">
+</a>
+
+#### [1961] Kodak Kodachrome (ref: e19e)
+
+```
+Format: 828          |  Process : K-11    
+ISO   : 12           |  Expiry  : 1961-09 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-05-26   |  Author  : Greg    
+UUID  : aa76bcdbe2fe48fab10e56e1bd84e19e
+```
+
+<a href="./archive/00575_000.jpg" target="_blank">
+	<img src="./lowres/00575_000.jpg" alt="Kodak Kodachrome 828 film box outside" loading="lazy" width="442" height="500">
 </a>
 
 #### [1961] Ricoh Golden "16" (ref: c02c)
@@ -1549,6 +1572,34 @@ UUID  : 66f3d693560540d5b5a4cbfb3a91f5cc
 	<img src="./lowres/00271_000.jpg" alt="Kodak Plus-X Pan 35mm film box outside" loading="lazy" width="434" height="500">
 </a>
 
+#### [1970] Efke R14 (ref: 27f5)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 20           |  Expiry  : 1970-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-05-26   |  Author  : robo-tobo
+UUID  : 32a76ef752524fab9f27ebe632b527f5
+```
+
+<a href="./archive/00570_000.jpg" target="_blank">
+	<img src="./lowres/00570_000.jpg" alt="Efke R14 120 film box outside" loading="lazy" width="500" height="359">
+</a>
+
+
+`UUID: 64e01932547643cd806e82e0faf38af2`↓
+
+<a href="./archive/00570_001.jpg" target="_blank">
+	<img src="./lowres/00570_001.jpg" alt="Efke R14 120 film box leaflet" loading="lazy" width="330" height="500">
+</a>
+
+
+`UUID: cb7b9dc522034a9e8e0c9efb07844543`↓
+
+<a href="./archive/00570_002.jpg" target="_blank">
+	<img src="./lowres/00570_002.jpg" alt="Efke R14 120 film box leaflet" loading="lazy" width="312" height="500">
+</a>
+
 #### [1970] Kodak High Speed Ektachrome (ref: ec3d)
 
 ```
@@ -1751,6 +1802,20 @@ UUID  : 1c73b3f95ae14be5ab9a506ac83a0cd6
 
 <a href="./archive/00434_002.jpg" target="_blank">
 	<img src="./lowres/00434_002.jpg" alt="Famous Brand Labs Color Negative Film 127 film box leaflet" loading="lazy" width="500" height="381">
+</a>
+
+#### [1971] Kodak Kodacolor II (ref: f435)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 100          |  Expiry  : 1971-10 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-05-26   |  Author  : Greg    
+UUID  : 8b179d290e4a462bb49bcec4f7c7f435
+```
+
+<a href="./archive/00572_000.jpg" target="_blank">
+	<img src="./lowres/00572_000.jpg" alt="Kodak Kodacolor II 120 film box outside" loading="lazy" width="500" height="498">
 </a>
 
 #### [1971] ORWO OrwoColor UT13 (ref: a05d)
@@ -2040,6 +2105,20 @@ UUID  : e08418889f714c9dbda0858718e0494a
 	<img src="./lowres/00046_001.jpg" alt="Porst Color N21 35mm film box leaflet" loading="lazy" width="500" height="426">
 </a>
 
+#### [1974] Kodak Ektachrome-X (ref: cca3)
+
+```
+Format: 120          |  Process : Unknown 
+ISO   : 64           |  Expiry  : 1974-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-05-26   |  Author  : Greg    
+UUID  : 109f05cb335c476a8b019d13347ccca3
+```
+
+<a href="./archive/00574_000.jpg" target="_blank">
+	<img src="./lowres/00574_000.jpg" alt="Kodak Ektachrome-X 120 film box outside" loading="lazy" width="500" height="485">
+</a>
+
 #### [1974] Kodak Kodacolor-X (ref: 0ce5)
 
 ```
@@ -2052,6 +2131,20 @@ UUID  : 818038affb2c4137a33e5de403510ce5
 
 <a href="./archive/00280_000.jpg" target="_blank">
 	<img src="./lowres/00280_000.jpg" alt="Kodak Kodacolor-X 126 film box outside" loading="lazy" width="500" height="447">
+</a>
+
+#### [1974] Kodak High Speed Ektachrome (ref: c335)
+
+```
+Format: 120          |  Process : Unknown 
+ISO   : 160          |  Expiry  : 1974-10 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-05-26   |  Author  : Greg    
+UUID  : 4dc3f1e6a10842dbb0b1ac038b5ac335
+```
+
+<a href="./archive/00573_000.jpg" target="_blank">
+	<img src="./lowres/00573_000.jpg" alt="Kodak High Speed Ektachrome 120 film box outside" loading="lazy" width="500" height="470">
 </a>
 
 #### [1974] Kodak Ektachrome Professional Type B (ref: 1d9d)
@@ -2853,6 +2946,20 @@ UUID  : e411c38ab057475f8874bd176d3e6ba7
 
 <a href="./archive/00529_002.jpg" target="_blank">
 	<img src="./lowres/00529_002.jpg" alt="Foton Fotopan 35mm film box leaflet" loading="lazy" width="270" height="500">
+</a>
+
+#### [1979] Kodak Tri-X Pan (ref: 9a93)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 400          |  Expiry  : 1979-06 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-05-26   |  Author  : Greg    
+UUID  : 261300ac4604457a8d0c8743d1e19a93
+```
+
+<a href="./archive/00576_000.jpg" target="_blank">
+	<img src="./lowres/00576_000.jpg" alt="Kodak Tri-X Pan 120 film box outside" loading="lazy" width="493" height="500">
 </a>
 
 #### [1979] Kodak Kodacolor II (ref: b19e)
@@ -9890,6 +9997,20 @@ UUID  : 829cd9dd98cd489f8bff71e403c1ae10
 	<img src="./lowres/00155_000.jpg" alt="Kodak Ektachrome E100 35mm film box outside" loading="lazy" width="451" height="500">
 </a>
 
+#### [2027] Kodak TMAX P3200 (ref: e727)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 3200         |  Expiry  : 2027-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-05-26   |  Author  : Pelicram
+UUID  : 989581de448d4ccd82d8ab0950dae727
+```
+
+<a href="./archive/00571_000.jpg" target="_blank">
+	<img src="./lowres/00571_000.jpg" alt="Kodak TMAX P3200 35mm film box outside" loading="lazy" width="449" height="500">
+</a>
+
 #### [2027] Foma Fomapan Creative 200 (ref: 3e4f)
 
 ```
@@ -10785,6 +10906,34 @@ Notes : Black & White POSTDAM 35mm Kino Film
 
 <a href="./archive/00475_001.jpg" target="_blank">
 	<img src="./lowres/00475_001.jpg" alt="Lomography Postdam 35mm film box inside" loading="lazy" width="500" height="371">
+</a>
+
+#### [2028] Optik Oldschool Motion 200T (ref: 0d90)
+
+```
+Format: 35mm         |  Process : ECN-2   
+ISO   : 200          |  Expiry  : 2028-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-05-26   |  Author  : @Hol.m35
+UUID  : b389844cc8c04ab8b936315354330d90
+```
+
+<a href="./archive/00568_000.jpg" target="_blank">
+	<img src="./lowres/00568_000.jpg" alt="Optik Oldschool Motion 200T 35mm film box outside" loading="lazy" width="496" height="499">
+</a>
+
+#### [2028] Optik Oldschool Motion 500T (ref: bd42)
+
+```
+Format: 35mm         |  Process : ECN-2   
+ISO   : 500          |  Expiry  : 2028-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-05-26   |  Author  : @Hol.m35
+UUID  : f437c859b1564324968e289acecfbd42
+```
+
+<a href="./archive/00569_000.jpg" target="_blank">
+	<img src="./lowres/00569_000.jpg" alt="Optik Oldschool Motion 500T 35mm film box outside" loading="lazy" width="500" height="401">
 </a>
 
 #### [2028] Agfa APX (ref: 5276)
@@ -12017,11 +12166,11 @@ Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     339   
 2     @photos.by.qi                 72    
-3     Pelicram                      68    
+3     Pelicram                      69    
 4     Luci 101                      68    
 5     @ellafridalindblom            67    
 6     @recycling.film               65    
-7     @Hol.m35                      50    
+7     @Hol.m35                      52    
 8     The Compartmentalist          25    
 9     @ob.skura                     19    
 10    fine-seat                     19    
@@ -12045,22 +12194,23 @@ Rank  Username                      Contributions
 28    @filmfotofella                7     
 29    GreatGizmo74                  6     
 30    nick                          6     
-31    Kraksen                       5     
-32    Henry Gunn                    4     
-33    TheSelousScout                4     
-34    @sachynmital                  3     
-35    Tallbird Cowboy               3     
-36    @seklerek                     2     
-37    @ftfilmphotos                 2     
-38    @gregrouxphotography          2     
-39    Tobias                        2     
-40    @tylerdrey                    2     
-41    Yrikonchik                    1     
-42    @ad.astra.per.aspera.1894     1     
-43    Aoi Yuki                      1     
-44    lemoniter                     1     
-45    @shotbyliampewpew             1     
-46    Greg                          1     
+31    Greg                          6     
+32    Kraksen                       5     
+33    Henry Gunn                    4     
+34    TheSelousScout                4     
+35    @sachynmital                  3     
+36    Tallbird Cowboy               3     
+37    robo-tobo                     3     
+38    @seklerek                     2     
+39    @ftfilmphotos                 2     
+40    @gregrouxphotography          2     
+41    Tobias                        2     
+42    @tylerdrey                    2     
+43    Yrikonchik                    1     
+44    @ad.astra.per.aspera.1894     1     
+45    Aoi Yuki                      1     
+46    lemoniter                     1     
+47    @shotbyliampewpew             1     
 ```
 
 ## Questions or Comments?
