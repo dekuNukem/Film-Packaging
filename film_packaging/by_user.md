@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: May 26 2026
-Unique items: 577
-Total scans : 1083
+Last Updated: Jun 08 2026
+Unique items: 578
+Total scans : 1084
 ```
 
 -----
@@ -187,6 +187,7 @@ Total scans : 1083
 - [[@recycling.film] Fujifilm FP-100C (ref: 5cda)](#recyclingfilm-fujifilm-fp-100c-ref-5cda)
 - [[@recycling.film] Fujifilm Fujicolor C200 (ref: 2ff8)](#recyclingfilm-fujifilm-fujicolor-c200-ref-2ff8)
 - [[@recycling.film] Fujifilm Fujicolor Natura 1600 (ref: c8ed)](#recyclingfilm-fujifilm-fujicolor-natura-1600-ref-c8ed)
+- [[@recycling.film] Fujifilm Fujicolor Pro 400H (ref: 29e0)](#recyclingfilm-fujifilm-fujicolor-pro-400h-ref-29e0)
 - [[@recycling.film] Fujifilm Fujicolor Super HG (ref: feb7)](#recyclingfilm-fujifilm-fujicolor-super-hg-ref-feb7)
 - [[@recycling.film] Fujifilm Fujicolor Superia (ref: 0d8e)](#recyclingfilm-fujifilm-fujicolor-superia-ref-0d8e)
 - [[@recycling.film] Fujifilm Fujicolor Superia Reala (ref: a7de)](#recyclingfilm-fujifilm-fujicolor-superia-reala-ref-a7de)
@@ -3567,6 +3568,20 @@ UUID  : 70948fbe01434f64bf95c813e2c8c8ed
 
 <a href="./archive/00497_000.jpg" target="_blank">
 	<img src="./lowres/00497_000.jpg" alt="Fujifilm Fujicolor Natura 1600 35mm film box outside" loading="lazy" width="456" height="500">
+</a>
+
+#### [@recycling.film] Fujifilm Fujicolor Pro 400H (ref: 29e0)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2012-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-08   |  Author  : @recycling.film
+UUID  : 27bbbeae605a4e1997859f2d3e6029e0
+```
+
+<a href="./archive/00582_000.jpg" target="_blank">
+	<img src="./lowres/00582_000.jpg" alt="Fujifilm Fujicolor Pro 400H 35mm film box outside" loading="lazy" width="404" height="500">
 </a>
 
 #### [@recycling.film] Fujifilm Fujicolor Super HG (ref: feb7)
@@ -12258,7 +12273,7 @@ Rank  Username                      Contributions
 3     Luci 101                      71    
 4     Pelicram                      69    
 5     @ellafridalindblom            67    
-6     @recycling.film               65    
+6     @recycling.film               66    
 7     @Hol.m35                      56    
 8     The Compartmentalist          25    
 9     @ob.skura                     19    

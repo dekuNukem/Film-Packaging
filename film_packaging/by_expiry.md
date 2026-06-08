@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: May 26 2026
-Unique items: 577
-Total scans : 1083
+Last Updated: Jun 08 2026
+Unique items: 578
+Total scans : 1084
 ```
 
 -----
@@ -328,6 +328,7 @@ Total scans : 1083
 - [[2012] Fujifilm Fujicolor Professional (ref: 28da)](#2012-fujifilm-fujicolor-professional-ref-28da)
 - [[2012] Kodak Kodacolor VR Plus (ref: f8bf)](#2012-kodak-kodacolor-vr-plus-ref-f8bf)
 - [[2012] Ilford HP5 Plus (ref: 11a8)](#2012-ilford-hp5-plus-ref-11a8)
+- [[2012] Fujifilm Fujicolor Pro 400H (ref: 29e0)](#2012-fujifilm-fujicolor-pro-400h-ref-29e0)
 - [[2012] Lomography Color Negative Film (ref: d986)](#2012-lomography-color-negative-film-ref-d986)
 - [[2013] Lucky C200 (ref: f727)](#2013-lucky-c200-ref-f727)
 - [[2013] Mr. Negative Eterna 250D (ref: 6d6e)](#2013-mr-negative-eterna-250d-ref-6d6e)
@@ -7362,6 +7363,20 @@ UUID  : dbf3817f506a444b9d394745dba311a8
 	<img src="./lowres/00140_001.jpg" alt="Ilford HP5 Plus 120 film box inside" loading="lazy" width="500" height="453">
 </a>
 
+#### [2012] Fujifilm Fujicolor Pro 400H (ref: 29e0)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2012-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-08   |  Author  : @recycling.film
+UUID  : 27bbbeae605a4e1997859f2d3e6029e0
+```
+
+<a href="./archive/00582_000.jpg" target="_blank">
+	<img src="./lowres/00582_000.jpg" alt="Fujifilm Fujicolor Pro 400H 35mm film box outside" loading="lazy" width="404" height="500">
+</a>
+
 #### [2012] Lomography Color Negative Film (ref: d986)
 
 ```
@@ -12258,7 +12273,7 @@ Rank  Username                      Contributions
 3     Luci 101                      71    
 4     Pelicram                      69    
 5     @ellafridalindblom            67    
-6     @recycling.film               65    
+6     @recycling.film               66    
 7     @Hol.m35                      56    
 8     The Compartmentalist          25    
 9     @ob.skura                     19    

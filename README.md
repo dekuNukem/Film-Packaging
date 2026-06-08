@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: May 26 2026
-Unique items: 577
-Total scans : 1083
+Last Updated: Jun 08 2026
+Unique items: 578
+Total scans : 1084
 ```
 
 Or Sort by...
@@ -58,7 +58,7 @@ Rank  Username                      Contributions
 3     Luci 101                      71    
 4     Pelicram                      69    
 5     @ellafridalindblom            67    
-6     @recycling.film               65    
+6     @recycling.film               66    
 7     @Hol.m35                      56    
 8     The Compartmentalist          25    
 9     @ob.skura                     19    
@@ -105,6 +105,9 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2026-06-08
+  - @recycling.film: Fujifilm Fujicolor Pro 400H
+
 2026-05-26
   - @Hol.m35: A Girl Has Film Tetris 200
   - @Hol.m35: Freestyle 500T
@@ -177,17 +180,6 @@ Rank  Username                      Contributions
   - u/ReeeSchmidtyWerber: Kodak Tri-X 400
   - yc128: Ilford FP4 Plus
   - yc128: Optik Oldschool OptiColour 200
-
-2026-01-26
-  - @Hol.m35: Optik Oldschool SantaColor
-  - @Hol.m35: Rollei Retro 400S
-  - @shotbyliampewpew: Escura EDO ukiyo-e
-  - Chrisbes: Fujifilm Fujicolor Super HG
-  - Chrisbes: Fujifilm Superia 200
-  - Chrisbes: Reflx Lab 320D AHU
-  - Chrisbes: Reflx Lab 640T AHU
-  - kaimon: Kodak Gold 200
-  - u/ReeeSchmidtyWerber: Fujifilm Fujichrome Velvia
 ```
 
 ## Disclaimer

@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: May 26 2026
-Unique items: 577
-Total scans : 1083
+Last Updated: Jun 08 2026
+Unique items: 578
+Total scans : 1084
 ```
 
 -----
@@ -169,6 +169,7 @@ Total scans : 1083
 - [Fujifilm Fujicolor Natura 1600 (ref: c8ed)](#fujifilm-fujicolor-natura-1600-ref-c8ed)
 - [Fujifilm Fujicolor Pro 400H (ref: 48ed)](#fujifilm-fujicolor-pro-400h-ref-48ed)
 - [Fujifilm Fujicolor Pro 400H (ref: dc37)](#fujifilm-fujicolor-pro-400h-ref-dc37)
+- [Fujifilm Fujicolor Pro 400H (ref: 29e0)](#fujifilm-fujicolor-pro-400h-ref-29e0)
 - [Fujifilm Fujicolor Pro 400H (ref: fb3a)](#fujifilm-fujicolor-pro-400h-ref-fb3a)
 - [Fujifilm Fujicolor Pro 400H (ref: 66e3)](#fujifilm-fujicolor-pro-400h-ref-66e3)
 - [Fujifilm Fujicolor Pro 400H (ref: ff20)](#fujifilm-fujicolor-pro-400h-ref-ff20)
@@ -3560,6 +3561,20 @@ UUID  : 9934366ea7a04b65b3c300352fa8dc37
 
 <a href="./archive/00249_001.jpg" target="_blank">
 	<img src="./lowres/00249_001.jpg" alt="Fujifilm Fujicolor Pro 400H 35mm film box inside" loading="lazy" width="431" height="499">
+</a>
+
+#### Fujifilm Fujicolor Pro 400H (ref: 29e0)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2012-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-08   |  Author  : @recycling.film
+UUID  : 27bbbeae605a4e1997859f2d3e6029e0
+```
+
+<a href="./archive/00582_000.jpg" target="_blank">
+	<img src="./lowres/00582_000.jpg" alt="Fujifilm Fujicolor Pro 400H 35mm film box outside" loading="lazy" width="404" height="500">
 </a>
 
 #### Fujifilm Fujicolor Pro 400H (ref: fb3a)
@@ -12258,7 +12273,7 @@ Rank  Username                      Contributions
 3     Luci 101                      71    
 4     Pelicram                      69    
 5     @ellafridalindblom            67    
-6     @recycling.film               65    
+6     @recycling.film               66    
 7     @Hol.m35                      56    
 8     The Compartmentalist          25    
 9     @ob.skura                     19    
