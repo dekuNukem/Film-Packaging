@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 08 2026
-Unique items: 578
-Total scans : 1084
+Last Updated: Jun 10 2026
+Unique items: 580
+Total scans : 1086
 ```
 
 -----
@@ -247,6 +247,7 @@ Total scans : 1084
 - [[2002] Polaroid Spectra Film (ref: 7a94)](#2002-polaroid-spectra-film-ref-7a94)
 - [[2002] Kirkland Signature Color Print Film (ref: 0441)](#2002-kirkland-signature-color-print-film-ref-0441)
 - [[2002] Kodak Gold 200 (ref: 442d)](#2002-kodak-gold-200-ref-442d)
+- [[2003] Kodak Ektachrome 160T (ref: f21a)](#2003-kodak-ektachrome-160t-ref-f21a)
 - [[2003] Fujifilm Fujicolor Superia 100 (ref: 30bf)](#2003-fujifilm-fujicolor-superia-100-ref-30bf)
 - [[2003] Konica KonicaColor VX 200 (ref: fe53)](#2003-konica-konicacolor-vx-200-ref-fe53)
 - [[2003] Fujifilm Fujicolor Superia X-TRA (ref: 713b)](#2003-fujifilm-fujicolor-superia-x-tra-ref-713b)
@@ -260,6 +261,7 @@ Total scans : 1084
 - [[2003] Kodak Advantix Ultra (ref: 030a)](#2003-kodak-advantix-ultra-ref-030a)
 - [[2003] Fujifilm Fujicolor NPS 160 (ref: 5e85)](#2003-fujifilm-fujicolor-nps-160-ref-5e85)
 - [[2003] Jessops CS100 (ref: 4288)](#2003-jessops-cs100-ref-4288)
+- [[2003] Kodak Ektachrome E200 (ref: 9879)](#2003-kodak-ektachrome-e200-ref-9879)
 - [[2003] Agfa AgfaColor Vista (ref: d3af)](#2003-agfa-agfacolor-vista-ref-d3af)
 - [[2004] Fujifilm Neopan 400 (ref: c088)](#2004-fujifilm-neopan-400-ref-c088)
 - [[2004] Fujifilm Fujichrome Sensia 200 (ref: 3a01)](#2004-fujifilm-fujichrome-sensia-200-ref-3a01)
@@ -5889,6 +5891,20 @@ UUID  : e8e8fbafc8a64a19ad483dc1d7e3442d
 	<img src="./lowres/00546_001.jpg" alt="Kodak Gold 200 35mm film box outside" loading="lazy" width="289" height="500">
 </a>
 
+#### [2003] Kodak Ektachrome 160T (ref: f21a)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 160          |  Expiry  : 2003-02 
+Type  : Bulk Roll    |  Quantity: 30.5m   
+Added : 2026-06-10   |  Author  : nyctomanica
+UUID  : 308fb333b27a4dab9072d131425ef21a
+```
+
+<a href="./archive/00584_000.jpg" target="_blank">
+	<img src="./lowres/00584_000.jpg" alt="Kodak Ektachrome 160T 35mm film box outside" loading="lazy" width="500" height="316">
+</a>
+
 #### [2003] Fujifilm Fujicolor Superia 100 (ref: 30bf)
 
 ```
@@ -6134,6 +6150,20 @@ UUID  : 6e2123fd1134408789902c16b3764288
 
 <a href="./archive/00334_003.jpg" target="_blank">
 	<img src="./lowres/00334_003.jpg" alt="Jessops CS100 35mm film box processing envelope" loading="lazy" width="273" height="500">
+</a>
+
+#### [2003] Kodak Ektachrome E200 (ref: 9879)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 200          |  Expiry  : 2003-10 
+Type  : Bulk Roll    |  Quantity: 30.5m   
+Added : 2026-06-10   |  Author  : nyctomanica
+UUID  : c8b4e91fe2e34428a095ae48184f9879
+```
+
+<a href="./archive/00583_000.jpg" target="_blank">
+	<img src="./lowres/00583_000.jpg" alt="Kodak Ektachrome E200 35mm film box outside" loading="lazy" width="500" height="316">
 </a>
 
 #### [2003] Agfa AgfaColor Vista (ref: d3af)
@@ -12310,11 +12340,12 @@ Rank  Username                      Contributions
 40    @gregrouxphotography          2     
 41    Tobias                        2     
 42    @tylerdrey                    2     
-43    Yrikonchik                    1     
-44    @ad.astra.per.aspera.1894     1     
-45    Aoi Yuki                      1     
-46    lemoniter                     1     
-47    @shotbyliampewpew             1     
+43    nyctomanica                   2     
+44    Yrikonchik                    1     
+45    @ad.astra.per.aspera.1894     1     
+46    Aoi Yuki                      1     
+47    lemoniter                     1     
+48    @shotbyliampewpew             1     
 ```
 
 ## Questions or Comments?

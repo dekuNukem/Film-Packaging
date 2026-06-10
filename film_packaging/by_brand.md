@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 08 2026
-Unique items: 578
-Total scans : 1084
+Last Updated: Jun 10 2026
+Unique items: 580
+Total scans : 1086
 ```
 
 -----
@@ -301,6 +301,7 @@ Total scans : 1084
 - [Kodak Ektachrome 100HC (ref: 775a)](#kodak-ektachrome-100hc-ref-775a)
 - [Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)](#kodak-ektachrome-160-movie-film-type-a-ref-8f62)
 - [Kodak Ektachrome 160T (ref: 7b64)](#kodak-ektachrome-160t-ref-7b64)
+- [Kodak Ektachrome 160T (ref: f21a)](#kodak-ektachrome-160t-ref-f21a)
 - [Kodak Ektachrome 200 (ref: f372)](#kodak-ektachrome-200-ref-f372)
 - [Kodak Ektachrome 200 (ref: b21e)](#kodak-ektachrome-200-ref-b21e)
 - [Kodak Ektachrome 400 (ref: 2b94)](#kodak-ektachrome-400-ref-2b94)
@@ -312,6 +313,7 @@ Total scans : 1084
 - [Kodak Ektachrome E100 (ref: 94ff)](#kodak-ektachrome-e100-ref-94ff)
 - [Kodak Ektachrome E100 (ref: ae10)](#kodak-ektachrome-e100-ref-ae10)
 - [Kodak Ektachrome E100VS (ref: a8d3)](#kodak-ektachrome-e100vs-ref-a8d3)
+- [Kodak Ektachrome E200 (ref: 9879)](#kodak-ektachrome-e200-ref-9879)
 - [Kodak Ektachrome Elite 100 (ref: 26ef)](#kodak-ektachrome-elite-100-ref-26ef)
 - [Kodak Ektachrome Elite 200 (ref: b736)](#kodak-ektachrome-elite-200-ref-b736)
 - [Kodak Ektachrome Elite 200 (ref: a391)](#kodak-ektachrome-elite-200-ref-a391)
@@ -6040,6 +6042,20 @@ UUID  : dae0e4a473644444817e010eeb3d7b64
 	<img src="./lowres/00542_001.jpg" alt="Kodak Ektachrome 160T 35mm film box inside" loading="lazy" width="434" height="500">
 </a>
 
+#### Kodak Ektachrome 160T (ref: f21a)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 160          |  Expiry  : 2003-02 
+Type  : Bulk Roll    |  Quantity: 30.5m   
+Added : 2026-06-10   |  Author  : nyctomanica
+UUID  : 308fb333b27a4dab9072d131425ef21a
+```
+
+<a href="./archive/00584_000.jpg" target="_blank">
+	<img src="./lowres/00584_000.jpg" alt="Kodak Ektachrome 160T 35mm film box outside" loading="lazy" width="500" height="316">
+</a>
+
 #### Kodak Ektachrome 200 (ref: f372)
 
 ```
@@ -6270,6 +6286,20 @@ UUID  : e8673d04cee440bd9c065a37a485a8d3
 
 <a href="./archive/00160_000.jpg" target="_blank">
 	<img src="./lowres/00160_000.jpg" alt="Kodak Ektachrome E100VS 120 film box outside" loading="lazy" width="391" height="500">
+</a>
+
+#### Kodak Ektachrome E200 (ref: 9879)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 200          |  Expiry  : 2003-10 
+Type  : Bulk Roll    |  Quantity: 30.5m   
+Added : 2026-06-10   |  Author  : nyctomanica
+UUID  : c8b4e91fe2e34428a095ae48184f9879
+```
+
+<a href="./archive/00583_000.jpg" target="_blank">
+	<img src="./lowres/00583_000.jpg" alt="Kodak Ektachrome E200 35mm film box outside" loading="lazy" width="500" height="316">
 </a>
 
 #### Kodak Ektachrome Elite 100 (ref: 26ef)
@@ -12310,11 +12340,12 @@ Rank  Username                      Contributions
 40    @gregrouxphotography          2     
 41    Tobias                        2     
 42    @tylerdrey                    2     
-43    Yrikonchik                    1     
-44    @ad.astra.per.aspera.1894     1     
-45    Aoi Yuki                      1     
-46    lemoniter                     1     
-47    @shotbyliampewpew             1     
+43    nyctomanica                   2     
+44    Yrikonchik                    1     
+45    @ad.astra.per.aspera.1894     1     
+46    Aoi Yuki                      1     
+47    lemoniter                     1     
+48    @shotbyliampewpew             1     
 ```
 
 ## Questions or Comments?

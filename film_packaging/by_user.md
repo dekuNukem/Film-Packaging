@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 08 2026
-Unique items: 578
-Total scans : 1084
+Last Updated: Jun 10 2026
+Unique items: 580
+Total scans : 1086
 ```
 
 -----
@@ -568,6 +568,8 @@ Total scans : 1084
 - [[nick] ADOX CHS 100 II (ref: 8adf)](#nick-adox-chs-100-ii-ref-8adf)
 - [[nick] ADOX CMS 20 II Pro (ref: 0bea)](#nick-adox-cms-20-ii-pro-ref-0bea)
 - [[nick] Rollei RPX 25 (ref: b14c)](#nick-rollei-rpx-25-ref-b14c)
+- [[nyctomanica] Kodak Ektachrome 160T (ref: f21a)](#nyctomanica-kodak-ektachrome-160t-ref-f21a)
+- [[nyctomanica] Kodak Ektachrome E200 (ref: 9879)](#nyctomanica-kodak-ektachrome-e200-ref-9879)
 - [[robo-tobo] Efke R14 (ref: 27f5)](#robo-tobo-efke-r14-ref-27f5)
 - [[toader] Kodak Ektachrome 100 Plus (ref: 5d9f)](#toader-kodak-ektachrome-100-plus-ref-5d9f)
 - [[toader] Kodak Ektachrome E100 (ref: ae10)](#toader-kodak-ektachrome-e100-ref-ae10)
@@ -11606,6 +11608,34 @@ UUID  : 38e7af3c3ff34abeb7ae0badd310b14c
 	<img src="./lowres/00400_001.jpg" alt="Rollei RPX 25 35mm film box inside" loading="lazy" width="500" height="394">
 </a>
 
+#### [nyctomanica] Kodak Ektachrome 160T (ref: f21a)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 160          |  Expiry  : 2003-02 
+Type  : Bulk Roll    |  Quantity: 30.5m   
+Added : 2026-06-10   |  Author  : nyctomanica
+UUID  : 308fb333b27a4dab9072d131425ef21a
+```
+
+<a href="./archive/00584_000.jpg" target="_blank">
+	<img src="./lowres/00584_000.jpg" alt="Kodak Ektachrome 160T 35mm film box outside" loading="lazy" width="500" height="316">
+</a>
+
+#### [nyctomanica] Kodak Ektachrome E200 (ref: 9879)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 200          |  Expiry  : 2003-10 
+Type  : Bulk Roll    |  Quantity: 30.5m   
+Added : 2026-06-10   |  Author  : nyctomanica
+UUID  : c8b4e91fe2e34428a095ae48184f9879
+```
+
+<a href="./archive/00583_000.jpg" target="_blank">
+	<img src="./lowres/00583_000.jpg" alt="Kodak Ektachrome E200 35mm film box outside" loading="lazy" width="500" height="316">
+</a>
+
 #### [robo-tobo] Efke R14 (ref: 27f5)
 
 ```
@@ -12310,11 +12340,12 @@ Rank  Username                      Contributions
 40    @gregrouxphotography          2     
 41    Tobias                        2     
 42    @tylerdrey                    2     
-43    Yrikonchik                    1     
-44    @ad.astra.per.aspera.1894     1     
-45    Aoi Yuki                      1     
-46    lemoniter                     1     
-47    @shotbyliampewpew             1     
+43    nyctomanica                   2     
+44    Yrikonchik                    1     
+45    @ad.astra.per.aspera.1894     1     
+46    Aoi Yuki                      1     
+47    lemoniter                     1     
+48    @shotbyliampewpew             1     
 ```
 
 ## Questions or Comments?
