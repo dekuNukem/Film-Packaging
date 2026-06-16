@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Jun 16 2026
-Unique items: 590
-Total scans : 1099
+Unique items: 599
+Total scans : 1112
 ```
 
 -----
@@ -259,6 +259,7 @@ Total scans : 1099
 - [[35mm] CineStill 800T (ref: c96e)](#35mm-cinestill-800t-ref-c96e)
 - [[35mm] Club Color Natural Color System (ref: 813a)](#35mm-club-color-natural-color-system-ref-813a)
 - [[35mm] Efiniti UXi Super 200 (ref: 471a)](#35mm-efiniti-uxi-super-200-ref-471a)
+- [[35mm] Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 (ref: 6ace)](#35mm-ektachrome-professional-film-5018-ektachrome-professional-film-5018-ref-6ace)
 - [[35mm] Escura EDO ukiyo-e (ref: 5faa)](#35mm-escura-edo-ukiyo-e-ref-5faa)
 - [[35mm] Escura Showa Camera Film (ref: 826b)](#35mm-escura-showa-camera-film-ref-826b)
 - [[35mm] Ferrania Solaris (ref: a929)](#35mm-ferrania-solaris-ref-a929)
@@ -405,6 +406,7 @@ Total scans : 1099
 - [[35mm] Kodak Gold 200 (ref: 7d4b)](#35mm-kodak-gold-200-ref-7d4b)
 - [[35mm] Kodak Gold II (ref: 61d0)](#35mm-kodak-gold-ii-ref-61d0)
 - [[35mm] Kodak Gold Ultra 400 (ref: 1358)](#35mm-kodak-gold-ultra-400-ref-1358)
+- [[35mm] Kodak Hawkeye 2485 Surveillance Film (ref: 0037)](#35mm-kodak-hawkeye-2485-surveillance-film-ref-0037)
 - [[35mm] Kodak High Contrast Copy Film (ref: db52)](#35mm-kodak-high-contrast-copy-film-ref-db52)
 - [[35mm] Kodak High Speed Ektachrome (ref: ec3d)](#35mm-kodak-high-speed-ektachrome-ref-ec3d)
 - [[35mm] Kodak High Speed Ektachrome (ref: b8f8)](#35mm-kodak-high-speed-ektachrome-ref-b8f8)
@@ -421,6 +423,7 @@ Total scans : 1099
 - [[35mm] Kodak Kodacolor II (ref: 8dcf)](#35mm-kodak-kodacolor-ii-ref-8dcf)
 - [[35mm] Kodak Kodacolor VR (ref: 035f)](#35mm-kodak-kodacolor-vr-ref-035f)
 - [[35mm] Kodak Kodacolor VR Plus (ref: f8bf)](#35mm-kodak-kodacolor-vr-plus-ref-f8bf)
+- [[35mm] Kodak Kodalith ortho film type 3 (ref: e5fd)](#35mm-kodak-kodalith-ortho-film-type-3-ref-e5fd)
 - [[35mm] Kodak MAX (ref: 2361)](#35mm-kodak-max-ref-2361)
 - [[35mm] Kodak Panatomic-X (ref: 7ed1)](#35mm-kodak-panatomic-x-ref-7ed1)
 - [[35mm] Kodak Panatomic-X (ref: 8d69)](#35mm-kodak-panatomic-x-ref-8d69)
@@ -505,6 +508,7 @@ Total scans : 1099
 - [[35mm] Perutz Peromnia 21 (ref: fa4a)](#35mm-perutz-peromnia-21-ref-fa4a)
 - [[35mm] Perutz Primera (ref: cbfb)](#35mm-perutz-primera-ref-cbfb)
 - [[35mm] Photocité 400 ISO (ref: e370)](#35mm-photocité-400-iso-ref-e370)
+- [[35mm] Polaroid High Contrast PolaChrome (ref: c984)](#35mm-polaroid-high-contrast-polachrome-ref-c984)
 - [[35mm] Polaroid PolaBlue 35mm (ref: df66)](#35mm-polaroid-polablue-35mm-ref-df66)
 - [[35mm] Polaroid PolaChrome 35mm (ref: 3b60)](#35mm-polaroid-polachrome-35mm-ref-3b60)
 - [[35mm] Polaroid PolaChrome 35mm (ref: b202)](#35mm-polaroid-polachrome-35mm-ref-b202)
@@ -586,8 +590,10 @@ Total scans : 1099
 - [[Disc Film] Kodak Kodacolor Gold (ref: 4ccd)](#disc-film-kodak-kodacolor-gold-ref-4ccd)
 - [[Instant Integral Film] Fujifilm Instax Mini (ref: e5e7)](#instant-integral-film-fujifilm-instax-mini-ref-e5e7)
 - [[Instant Integral Film] Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras (ref: 861c)](#instant-integral-film-impossible-project-color-instant-film-for-polaroid-sx-70-type-cameras-ref-861c)
+- [[Instant Integral Film] Impossible Project PX 600 Silver Shade / First Flush (ref: 8636)](#instant-integral-film-impossible-project-px-600-silver-shade--first-flush-ref-8636)
 - [[Instant Integral Film] Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)](#instant-integral-film-impossible-project-px-600-silver-shade-uv-ref-20f3)
 - [[Instant Integral Film] Impossible Project PX 680 Color Shade / First Flush (ref: 580b)](#instant-integral-film-impossible-project-px-680-color-shade--first-flush-ref-580b)
+- [[Instant Integral Film] Impossible Project PX 70 Color Shade / First Flush (ref: 1ad9)](#instant-integral-film-impossible-project-px-70-color-shade--first-flush-ref-1ad9)
 - [[Instant Integral Film] Polaroid 990 (ref: e3bc)](#instant-integral-film-polaroid-990-ref-e3bc)
 - [[Instant Integral Film] Polaroid B&W i-Type Film (ref: 963a)](#instant-integral-film-polaroid-b-w-i-type-film-ref-963a)
 - [[Instant Integral Film] Polaroid Color 600 Film (ref: e12f)](#instant-integral-film-polaroid-color-600-film-ref-e12f)
@@ -600,10 +606,13 @@ Total scans : 1099
 - [[Instant Integral Film] Polaroid Image Instant Film (ref: ee6d)](#instant-integral-film-polaroid-image-instant-film-ref-ee6d)
 - [[Instant Integral Film] Polaroid Spectra Film (ref: 7a94)](#instant-integral-film-polaroid-spectra-film-ref-7a94)
 - [[Instant Integral Film] Polaroid TZ Artistic Fade to Black (ref: de21)](#instant-integral-film-polaroid-tz-artistic-fade-to-black-ref-de21)
+- [[Instant Pack Film] Fujifilm FP-100B (ref: f3dd)](#instant-pack-film-fujifilm-fp-100b-ref-f3dd)
 - [[Instant Pack Film] Fujifilm FP-100C (ref: 5cda)](#instant-pack-film-fujifilm-fp-100c-ref-5cda)
 - [[Instant Pack Film] Polaroid 100 Blue Film (ref: 93b8)](#instant-pack-film-polaroid-100-blue-film-ref-93b8)
+- [[Instant Pack Film] Polaroid 100 Sepia Film (ref: 9893)](#instant-pack-film-polaroid-100-sepia-film-ref-9893)
 - [[Instant Pack Film] Polaroid 665 (ref: e054)](#instant-pack-film-polaroid-665-ref-e054)
 - [[Instant Pack Film] Polaroid 669 (ref: 3566)](#instant-pack-film-polaroid-669-ref-3566)
+- [[Instant Pack Film] Polaroid 672 (ref: b335)](#instant-pack-film-polaroid-672-ref-b335)
 - [[Instant Pack Film] Polaroid 87 (ref: 62ef)](#instant-pack-film-polaroid-87-ref-62ef)
 - [[Instant Pack Film] Polaroid Polacolor 679 (ref: 625c)](#instant-pack-film-polaroid-polacolor-679-ref-625c)
 - [[Instant Roll Film] Polaroid Type 42 (ref: f92c)](#instant-roll-film-polaroid-type-42-ref-f92c)
@@ -5572,6 +5581,20 @@ UUID  : cde1122dafbc47088a11d9ee12b6471a
 	<img src="./lowres/00002_000.jpg" alt="Efiniti UXi Super 200 35mm film box outside" loading="lazy" width="457" height="500">
 </a>
 
+#### [35mm] Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 (ref: 6ace)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 50           |  Expiry  : 1985-01 
+Type  : Single Pack  |  Quantity: 30m     
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 83f596535e834c1a941be969aab46ace
+```
+
+<a href="./archive/00600_000.jpg" target="_blank">
+	<img src="./lowres/00600_000.jpg" alt="Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 35mm film box outside" loading="lazy" width="494" height="500">
+</a>
+
 #### [35mm] Escura EDO ukiyo-e (ref: 5faa)
 
 ```
@@ -8215,6 +8238,28 @@ UUID  : c2dc7711cd38434da5cfea8750f61358
 	<img src="./lowres/00094_001.jpg" alt="Kodak Gold Ultra 400 35mm film box outside" loading="lazy" width="300" height="500">
 </a>
 
+#### [35mm] Kodak Hawkeye 2485 Surveillance Film (ref: 0037)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 250          |  Expiry  : 2005-11 
+Type  : Single Pack  |  Quantity: 17m     
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : ffa83233d791403f98c607bb78ad0037
+Notes : ISO200-500, 35mm B&W 17m (speed depends on developer, 250 in D76, 500 in 'Versamat 885'), Tin label reads "KODAK HAWKEYE Surveillance Film 2485-0076-0012 11/2005"
+```
+
+<a href="./archive/00595_000.jpg" target="_blank">
+	<img src="./lowres/00595_000.jpg" alt="Kodak Hawkeye 2485 Surveillance Film 35mm film box outside" loading="lazy" width="494" height="500">
+</a>
+
+
+`UUID: 58ff417d1c8a48af9746c73bf4037948`↓
+
+<a href="./archive/00595_001.jpg" target="_blank">
+	<img src="./lowres/00595_001.jpg" alt="Kodak Hawkeye 2485 Surveillance Film 35mm film box outside" loading="lazy" width="490" height="500">
+</a>
+
 #### [35mm] Kodak High Contrast Copy Film (ref: db52)
 
 ```
@@ -8626,6 +8671,20 @@ UUID  : faf0a44eece541a9b701feb772f4f8bf
 
 <a href="./archive/00153_000.jpg" target="_blank">
 	<img src="./lowres/00153_000.jpg" alt="Kodak Kodacolor VR Plus 35mm film box outside" loading="lazy" width="500" height="391">
+</a>
+
+#### [35mm] Kodak Kodalith ortho film type 3 (ref: e5fd)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1993-05 
+Type  : Single Pack  |  Quantity: 30m     
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : da9c265a3e194bd1ad83549961c6e5fd
+```
+
+<a href="./archive/00596_000.jpg" target="_blank">
+	<img src="./lowres/00596_000.jpg" alt="Kodak Kodalith ortho film type 3 35mm film box outside" loading="lazy" width="486" height="500">
 </a>
 
 #### [35mm] Kodak MAX (ref: 2361)
@@ -10132,6 +10191,20 @@ UUID  : eeccbc03ca25486db372e649d073e370
 
 <a href="./archive/00486_000.jpg" target="_blank">
 	<img src="./lowres/00486_000.jpg" alt="Photocité 400 ISO 35mm film box outside" loading="lazy" width="471" height="499">
+</a>
+
+#### [35mm] Polaroid High Contrast PolaChrome (ref: c984)
+
+```
+Format: 35mm         |  Process : Instant 
+ISO   : 40           |  Expiry  : 1995-12 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 65ce4d13cc6142b69fc5d1bea401c984
+```
+
+<a href="./archive/00603_000.jpg" target="_blank">
+	<img src="./lowres/00603_000.jpg" alt="Polaroid High Contrast PolaChrome 35mm film box outside" loading="lazy" width="218" height="500">
 </a>
 
 #### [35mm] Polaroid PolaBlue 35mm (ref: df66)
@@ -11836,6 +11909,34 @@ UUID  : 0543dd31cf204c8499f5f1e51a9b861c
 	<img src="./lowres/00395_006.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Instant Integral Film film box leaflet" loading="lazy" width="322" height="500">
 </a>
 
+#### [Instant Integral Film] Impossible Project PX 600 Silver Shade / First Flush (ref: 8636)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 600          |  Expiry  : 2010-04 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : d77ac027dc34418082f8f65887ca8636
+```
+
+<a href="./archive/00598_000.jpg" target="_blank">
+	<img src="./lowres/00598_000.jpg" alt="Impossible Project PX 600 Silver Shade / First Flush Instant Integral Film film box outside" loading="lazy" width="345" height="500">
+</a>
+
+
+`UUID: a1e2cdb1abb74300a8387b69c97a4f4b`↓
+
+<a href="./archive/00598_001.jpg" target="_blank">
+	<img src="./lowres/00598_001.jpg" alt="Impossible Project PX 600 Silver Shade / First Flush Instant Integral Film film box outside" loading="lazy" width="481" height="500">
+</a>
+
+
+`UUID: f95f44f60de24d11b8140ecd0493b540`↓
+
+<a href="./archive/00598_002.jpg" target="_blank">
+	<img src="./lowres/00598_002.jpg" alt="Impossible Project PX 600 Silver Shade / First Flush Instant Integral Film film box inside" loading="lazy" width="500" height="350">
+</a>
+
 #### [Instant Integral Film] Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)
 
 ```
@@ -11862,6 +11963,27 @@ UUID  : 21d81b0f422340189e48c53b02b8580b
 
 <a href="./archive/00592_000.jpg" target="_blank">
 	<img src="./lowres/00592_000.jpg" alt="Impossible Project PX 680 Color Shade / First Flush Instant Integral Film film box outside" loading="lazy" width="370" height="500">
+</a>
+
+#### [Instant Integral Film] Impossible Project PX 70 Color Shade / First Flush (ref: 1ad9)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 125          |  Expiry  : 2010-07 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 690311c1402d40eca1ced80f9af11ad9
+```
+
+<a href="./archive/00597_000.jpg" target="_blank">
+	<img src="./lowres/00597_000.jpg" alt="Impossible Project PX 70 Color Shade / First Flush Instant Integral Film film box outside" loading="lazy" width="478" height="500">
+</a>
+
+
+`UUID: d0c2a5e34bb54cedad81a49f4c338f7a`↓
+
+<a href="./archive/00597_001.jpg" target="_blank">
+	<img src="./lowres/00597_001.jpg" alt="Impossible Project PX 70 Color Shade / First Flush Instant Integral Film film box inside" loading="lazy" width="500" height="363">
 </a>
 
 #### [Instant Integral Film] Polaroid 990 (ref: e3bc)
@@ -12179,6 +12301,20 @@ UUID  : 1db6d025cc904e11858f76ce0053de21
 	<img src="./lowres/00591_001.jpg" alt="Polaroid TZ Artistic Fade to Black Instant Integral Film film box inside" loading="lazy" width="488" height="500">
 </a>
 
+#### [Instant Pack Film] Fujifilm FP-100B (ref: f3dd)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 100          |  Expiry  : 2010-05 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : ea6ab39216914f77b0ca7ed0f243f3dd
+```
+
+<a href="./archive/00602_000.jpg" target="_blank">
+	<img src="./lowres/00602_000.jpg" alt="Fujifilm FP-100B Instant Pack Film film box outside" loading="lazy" width="357" height="500">
+</a>
+
 #### [Instant Pack Film] Fujifilm FP-100C (ref: 5cda)
 
 ```
@@ -12214,6 +12350,20 @@ UUID  : 5efc4291de384f9fa47153d007d293b8
 	<img src="./lowres/00593_000.jpg" alt="Polaroid 100 Blue Film Instant Pack Film film box outside" loading="lazy" width="500" height="358">
 </a>
 
+#### [Instant Pack Film] Polaroid 100 Sepia Film (ref: 9893)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 1500         |  Expiry  : 2009-10 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 3dc991e05c9b43cdbb85b18aabc29893
+```
+
+<a href="./archive/00599_000.jpg" target="_blank">
+	<img src="./lowres/00599_000.jpg" alt="Polaroid 100 Sepia Film Instant Pack Film film box outside" loading="lazy" width="356" height="500">
+</a>
+
 #### [Instant Pack Film] Polaroid 665 (ref: e054)
 
 ```
@@ -12240,6 +12390,20 @@ UUID  : bb62de3a22c04f699c780aeae7c83566
 
 <a href="./archive/00020_000.jpg" target="_blank">
 	<img src="./lowres/00020_000.jpg" alt="Polaroid 669 Instant Pack Film film box outside" loading="lazy" width="500" height="362">
+</a>
+
+#### [Instant Pack Film] Polaroid 672 (ref: b335)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 400          |  Expiry  : 2004-01 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : a2615a83b6774edda1567fe0e8deb335
+```
+
+<a href="./archive/00601_000.jpg" target="_blank">
+	<img src="./lowres/00601_000.jpg" alt="Polaroid 672 Instant Pack Film film box outside" loading="lazy" width="357" height="500">
 </a>
 
 #### [Instant Pack Film] Polaroid 87 (ref: 62ef)
@@ -12476,15 +12640,15 @@ Rank  Username                      Contributions
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
 7     @Hol.m35                      56    
-8     The Compartmentalist          25    
-9     @ob.skura                     19    
-10    fine-seat                     19    
-11    Camera.Riley                  19    
-12    kaimon                        19    
-13    Nano_Burger                   18    
-14    toader                        17    
-15    waldoboro                     16    
-16    nyctomanica                   15    
+8     nyctomanica                   28    
+9     The Compartmentalist          25    
+10    @ob.skura                     19    
+11    fine-seat                     19    
+12    Camera.Riley                  19    
+13    kaimon                        19    
+14    Nano_Burger                   18    
+15    toader                        17    
+16    waldoboro                     16    
 17    yc128                         14    
 18    b0baspace                     14    
 19    @SirBrentsworth               13    

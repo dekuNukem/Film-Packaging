@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Jun 16 2026
-Unique items: 590
-Total scans : 1099
+Unique items: 599
+Total scans : 1112
 ```
 
 Or Sort by...
@@ -60,15 +60,15 @@ Rank  Username                      Contributions
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
 7     @Hol.m35                      56    
-8     The Compartmentalist          25    
-9     @ob.skura                     19    
-10    fine-seat                     19    
-11    Camera.Riley                  19    
-12    kaimon                        19    
-13    Nano_Burger                   18    
-14    toader                        17    
-15    waldoboro                     16    
-16    nyctomanica                   15    
+8     nyctomanica                   28    
+9     The Compartmentalist          25    
+10    @ob.skura                     19    
+11    fine-seat                     19    
+12    Camera.Riley                  19    
+13    kaimon                        19    
+14    Nano_Burger                   18    
+15    toader                        17    
+16    waldoboro                     16    
 17    yc128                         14    
 18    b0baspace                     14    
 19    @SirBrentsworth               13    
@@ -109,13 +109,22 @@ Rank  Username                      Contributions
 2026-06-16
   - nyctomanica: Agfa Agfacolor CNS
   - nyctomanica: Camera Film Photo Limited Kiki Pan 320
+  - nyctomanica: Ektachrome Professional Film 5018 Ektachrome Professional Film 5018
   - nyctomanica: Fujifilm 400
+  - nyctomanica: Fujifilm FP-100B
+  - nyctomanica: Impossible Project PX 600 Silver Shade / First Flush
   - nyctomanica: Impossible Project PX 680 Color Shade / First Flush
+  - nyctomanica: Impossible Project PX 70 Color Shade / First Flush
   - nyctomanica: Kodak Ektachrome 320T
   - nyctomanica: Kodak Ektagraphic HC Slide Film
+  - nyctomanica: Kodak Hawkeye 2485 Surveillance Film
   - nyctomanica: Kodak Kodachrome 64
   - nyctomanica: Kodak Kodacolor Gold
+  - nyctomanica: Kodak Kodalith ortho film type 3
   - nyctomanica: Polaroid 100 Blue Film
+  - nyctomanica: Polaroid 100 Sepia Film
+  - nyctomanica: Polaroid 672
+  - nyctomanica: Polaroid High Contrast PolaChrome
   - nyctomanica: Polaroid TZ Artistic Fade to Black
 
 2026-06-10

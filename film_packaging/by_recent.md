@@ -16,12 +16,21 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Jun 16 2026
-Unique items: 590
-Total scans : 1099
+Unique items: 599
+Total scans : 1112
 ```
 
 -----
 
+- [[2026-06-16] Polaroid High Contrast PolaChrome (ref: c984)](#2026-06-16-polaroid-high-contrast-polachrome-ref-c984)
+- [[2026-06-16] Fujifilm FP-100B (ref: f3dd)](#2026-06-16-fujifilm-fp-100b-ref-f3dd)
+- [[2026-06-16] Polaroid 672 (ref: b335)](#2026-06-16-polaroid-672-ref-b335)
+- [[2026-06-16] Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 (ref: 6ace)](#2026-06-16-ektachrome-professional-film-5018-ektachrome-professional-film-5018-ref-6ace)
+- [[2026-06-16] Polaroid 100 Sepia Film (ref: 9893)](#2026-06-16-polaroid-100-sepia-film-ref-9893)
+- [[2026-06-16] Impossible Project PX 600 Silver Shade / First Flush (ref: 8636)](#2026-06-16-impossible-project-px-600-silver-shade--first-flush-ref-8636)
+- [[2026-06-16] Impossible Project PX 70 Color Shade / First Flush (ref: 1ad9)](#2026-06-16-impossible-project-px-70-color-shade--first-flush-ref-1ad9)
+- [[2026-06-16] Kodak Kodalith ortho film type 3 (ref: e5fd)](#2026-06-16-kodak-kodalith-ortho-film-type-3-ref-e5fd)
+- [[2026-06-16] Kodak Hawkeye 2485 Surveillance Film (ref: 0037)](#2026-06-16-kodak-hawkeye-2485-surveillance-film-ref-0037)
 - [[2026-06-16] Kodak Kodacolor Gold (ref: 4ccd)](#2026-06-16-kodak-kodacolor-gold-ref-4ccd)
 - [[2026-06-16] Polaroid 100 Blue Film (ref: 93b8)](#2026-06-16-polaroid-100-blue-film-ref-93b8)
 - [[2026-06-16] Impossible Project PX 680 Color Shade / First Flush (ref: 580b)](#2026-06-16-impossible-project-px-680-color-shade--first-flush-ref-580b)
@@ -615,6 +624,161 @@ Total scans : 1099
 
 
 -----
+
+#### [2026-06-16] Polaroid High Contrast PolaChrome (ref: c984)
+
+```
+Format: 35mm         |  Process : Instant 
+ISO   : 40           |  Expiry  : 1995-12 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 65ce4d13cc6142b69fc5d1bea401c984
+```
+
+<a href="./archive/00603_000.jpg" target="_blank">
+	<img src="./lowres/00603_000.jpg" alt="Polaroid High Contrast PolaChrome 35mm film box outside" loading="lazy" width="218" height="500">
+</a>
+
+#### [2026-06-16] Fujifilm FP-100B (ref: f3dd)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 100          |  Expiry  : 2010-05 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : ea6ab39216914f77b0ca7ed0f243f3dd
+```
+
+<a href="./archive/00602_000.jpg" target="_blank">
+	<img src="./lowres/00602_000.jpg" alt="Fujifilm FP-100B Instant Pack Film film box outside" loading="lazy" width="357" height="500">
+</a>
+
+#### [2026-06-16] Polaroid 672 (ref: b335)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 400          |  Expiry  : 2004-01 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : a2615a83b6774edda1567fe0e8deb335
+```
+
+<a href="./archive/00601_000.jpg" target="_blank">
+	<img src="./lowres/00601_000.jpg" alt="Polaroid 672 Instant Pack Film film box outside" loading="lazy" width="357" height="500">
+</a>
+
+#### [2026-06-16] Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 (ref: 6ace)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 50           |  Expiry  : 1985-01 
+Type  : Single Pack  |  Quantity: 30m     
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 83f596535e834c1a941be969aab46ace
+```
+
+<a href="./archive/00600_000.jpg" target="_blank">
+	<img src="./lowres/00600_000.jpg" alt="Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 35mm film box outside" loading="lazy" width="494" height="500">
+</a>
+
+#### [2026-06-16] Polaroid 100 Sepia Film (ref: 9893)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 1500         |  Expiry  : 2009-10 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 3dc991e05c9b43cdbb85b18aabc29893
+```
+
+<a href="./archive/00599_000.jpg" target="_blank">
+	<img src="./lowres/00599_000.jpg" alt="Polaroid 100 Sepia Film Instant Pack Film film box outside" loading="lazy" width="356" height="500">
+</a>
+
+
+`UUID: f95f44f60de24d11b8140ecd0493b540`↓
+
+<a href="./archive/00598_002.jpg" target="_blank">
+	<img src="./lowres/00598_002.jpg" alt="Impossible Project PX 600 Silver Shade / First Flush Instant Integral Film film box inside" loading="lazy" width="500" height="350">
+</a>
+
+
+`UUID: a1e2cdb1abb74300a8387b69c97a4f4b`↓
+
+<a href="./archive/00598_001.jpg" target="_blank">
+	<img src="./lowres/00598_001.jpg" alt="Impossible Project PX 600 Silver Shade / First Flush Instant Integral Film film box outside" loading="lazy" width="481" height="500">
+</a>
+
+#### [2026-06-16] Impossible Project PX 600 Silver Shade / First Flush (ref: 8636)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 600          |  Expiry  : 2010-04 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : d77ac027dc34418082f8f65887ca8636
+```
+
+<a href="./archive/00598_000.jpg" target="_blank">
+	<img src="./lowres/00598_000.jpg" alt="Impossible Project PX 600 Silver Shade / First Flush Instant Integral Film film box outside" loading="lazy" width="345" height="500">
+</a>
+
+
+`UUID: d0c2a5e34bb54cedad81a49f4c338f7a`↓
+
+<a href="./archive/00597_001.jpg" target="_blank">
+	<img src="./lowres/00597_001.jpg" alt="Impossible Project PX 70 Color Shade / First Flush Instant Integral Film film box inside" loading="lazy" width="500" height="363">
+</a>
+
+#### [2026-06-16] Impossible Project PX 70 Color Shade / First Flush (ref: 1ad9)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 125          |  Expiry  : 2010-07 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 690311c1402d40eca1ced80f9af11ad9
+```
+
+<a href="./archive/00597_000.jpg" target="_blank">
+	<img src="./lowres/00597_000.jpg" alt="Impossible Project PX 70 Color Shade / First Flush Instant Integral Film film box outside" loading="lazy" width="478" height="500">
+</a>
+
+#### [2026-06-16] Kodak Kodalith ortho film type 3 (ref: e5fd)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1993-05 
+Type  : Single Pack  |  Quantity: 30m     
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : da9c265a3e194bd1ad83549961c6e5fd
+```
+
+<a href="./archive/00596_000.jpg" target="_blank">
+	<img src="./lowres/00596_000.jpg" alt="Kodak Kodalith ortho film type 3 35mm film box outside" loading="lazy" width="486" height="500">
+</a>
+
+
+`UUID: 58ff417d1c8a48af9746c73bf4037948`↓
+
+<a href="./archive/00595_001.jpg" target="_blank">
+	<img src="./lowres/00595_001.jpg" alt="Kodak Hawkeye 2485 Surveillance Film 35mm film box outside" loading="lazy" width="490" height="500">
+</a>
+
+#### [2026-06-16] Kodak Hawkeye 2485 Surveillance Film (ref: 0037)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 250          |  Expiry  : 2005-11 
+Type  : Single Pack  |  Quantity: 17m     
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : ffa83233d791403f98c607bb78ad0037
+Notes : ISO200-500, 35mm B&W 17m (speed depends on developer, 250 in D76, 500 in 'Versamat 885'), Tin label reads "KODAK HAWKEYE Surveillance Film 2485-0076-0012 11/2005"
+```
+
+<a href="./archive/00595_000.jpg" target="_blank">
+	<img src="./lowres/00595_000.jpg" alt="Kodak Hawkeye 2485 Surveillance Film 35mm film box outside" loading="lazy" width="494" height="500">
+</a>
 
 #### [2026-06-16] Kodak Kodacolor Gold (ref: 4ccd)
 
@@ -12476,15 +12640,15 @@ Rank  Username                      Contributions
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
 7     @Hol.m35                      56    
-8     The Compartmentalist          25    
-9     @ob.skura                     19    
-10    fine-seat                     19    
-11    Camera.Riley                  19    
-12    kaimon                        19    
-13    Nano_Burger                   18    
-14    toader                        17    
-15    waldoboro                     16    
-16    nyctomanica                   15    
+8     nyctomanica                   28    
+9     The Compartmentalist          25    
+10    @ob.skura                     19    
+11    fine-seat                     19    
+12    Camera.Riley                  19    
+13    kaimon                        19    
+14    Nano_Burger                   18    
+15    toader                        17    
+16    waldoboro                     16    
 17    yc128                         14    
 18    b0baspace                     14    
 19    @SirBrentsworth               13    

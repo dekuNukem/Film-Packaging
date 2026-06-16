@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Jun 16 2026
-Unique items: 590
-Total scans : 1099
+Unique items: 599
+Total scans : 1112
 ```
 
 -----
@@ -570,15 +570,24 @@ Total scans : 1099
 - [[nick] Rollei RPX 25 (ref: b14c)](#nick-rollei-rpx-25-ref-b14c)
 - [[nyctomanica] Agfa Agfacolor CNS (ref: 0d8a)](#nyctomanica-agfa-agfacolor-cns-ref-0d8a)
 - [[nyctomanica] Camera Film Photo Limited Kiki Pan 320 (ref: 3937)](#nyctomanica-camera-film-photo-limited-kiki-pan-320-ref-3937)
+- [[nyctomanica] Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 (ref: 6ace)](#nyctomanica-ektachrome-professional-film-5018-ektachrome-professional-film-5018-ref-6ace)
 - [[nyctomanica] Fujifilm 400 (ref: 1f1d)](#nyctomanica-fujifilm-400-ref-1f1d)
+- [[nyctomanica] Fujifilm FP-100B (ref: f3dd)](#nyctomanica-fujifilm-fp-100b-ref-f3dd)
+- [[nyctomanica] Impossible Project PX 600 Silver Shade / First Flush (ref: 8636)](#nyctomanica-impossible-project-px-600-silver-shade--first-flush-ref-8636)
 - [[nyctomanica] Impossible Project PX 680 Color Shade / First Flush (ref: 580b)](#nyctomanica-impossible-project-px-680-color-shade--first-flush-ref-580b)
+- [[nyctomanica] Impossible Project PX 70 Color Shade / First Flush (ref: 1ad9)](#nyctomanica-impossible-project-px-70-color-shade--first-flush-ref-1ad9)
 - [[nyctomanica] Kodak Ektachrome 160T (ref: f21a)](#nyctomanica-kodak-ektachrome-160t-ref-f21a)
 - [[nyctomanica] Kodak Ektachrome 320T (ref: 0e11)](#nyctomanica-kodak-ektachrome-320t-ref-0e11)
 - [[nyctomanica] Kodak Ektachrome E200 (ref: 9879)](#nyctomanica-kodak-ektachrome-e200-ref-9879)
 - [[nyctomanica] Kodak Ektagraphic HC Slide Film (ref: d2a2)](#nyctomanica-kodak-ektagraphic-hc-slide-film-ref-d2a2)
+- [[nyctomanica] Kodak Hawkeye 2485 Surveillance Film (ref: 0037)](#nyctomanica-kodak-hawkeye-2485-surveillance-film-ref-0037)
 - [[nyctomanica] Kodak Kodachrome 64 (ref: b007)](#nyctomanica-kodak-kodachrome-64-ref-b007)
 - [[nyctomanica] Kodak Kodacolor Gold (ref: 4ccd)](#nyctomanica-kodak-kodacolor-gold-ref-4ccd)
+- [[nyctomanica] Kodak Kodalith ortho film type 3 (ref: e5fd)](#nyctomanica-kodak-kodalith-ortho-film-type-3-ref-e5fd)
 - [[nyctomanica] Polaroid 100 Blue Film (ref: 93b8)](#nyctomanica-polaroid-100-blue-film-ref-93b8)
+- [[nyctomanica] Polaroid 100 Sepia Film (ref: 9893)](#nyctomanica-polaroid-100-sepia-film-ref-9893)
+- [[nyctomanica] Polaroid 672 (ref: b335)](#nyctomanica-polaroid-672-ref-b335)
+- [[nyctomanica] Polaroid High Contrast PolaChrome (ref: c984)](#nyctomanica-polaroid-high-contrast-polachrome-ref-c984)
 - [[nyctomanica] Polaroid TZ Artistic Fade to Black (ref: de21)](#nyctomanica-polaroid-tz-artistic-fade-to-black-ref-de21)
 - [[robo-tobo] Efke R14 (ref: 27f5)](#robo-tobo-efke-r14-ref-27f5)
 - [[toader] Kodak Ektachrome 100 Plus (ref: 5d9f)](#toader-kodak-ektachrome-100-plus-ref-5d9f)
@@ -11653,6 +11662,20 @@ UUID  : b0f0117fd8d74332b67a2e8be3db3937
 	<img src="./lowres/00585_001.jpg" alt="Camera Film Photo Limited Kiki Pan 320 35mm film box inside" loading="lazy" width="463" height="500">
 </a>
 
+#### [nyctomanica] Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 (ref: 6ace)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 50           |  Expiry  : 1985-01 
+Type  : Single Pack  |  Quantity: 30m     
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 83f596535e834c1a941be969aab46ace
+```
+
+<a href="./archive/00600_000.jpg" target="_blank">
+	<img src="./lowres/00600_000.jpg" alt="Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 35mm film box outside" loading="lazy" width="494" height="500">
+</a>
+
 #### [nyctomanica] Fujifilm 400 (ref: 1f1d)
 
 ```
@@ -11674,6 +11697,48 @@ UUID  : 624c7d05c28a4bfb834ba537631e1f1d
 	<img src="./lowres/00586_001.jpg" alt="Fujifilm 400 35mm film box outside" loading="lazy" width="390" height="500">
 </a>
 
+#### [nyctomanica] Fujifilm FP-100B (ref: f3dd)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 100          |  Expiry  : 2010-05 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : ea6ab39216914f77b0ca7ed0f243f3dd
+```
+
+<a href="./archive/00602_000.jpg" target="_blank">
+	<img src="./lowres/00602_000.jpg" alt="Fujifilm FP-100B Instant Pack Film film box outside" loading="lazy" width="357" height="500">
+</a>
+
+#### [nyctomanica] Impossible Project PX 600 Silver Shade / First Flush (ref: 8636)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 600          |  Expiry  : 2010-04 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : d77ac027dc34418082f8f65887ca8636
+```
+
+<a href="./archive/00598_000.jpg" target="_blank">
+	<img src="./lowres/00598_000.jpg" alt="Impossible Project PX 600 Silver Shade / First Flush Instant Integral Film film box outside" loading="lazy" width="345" height="500">
+</a>
+
+
+`UUID: a1e2cdb1abb74300a8387b69c97a4f4b`↓
+
+<a href="./archive/00598_001.jpg" target="_blank">
+	<img src="./lowres/00598_001.jpg" alt="Impossible Project PX 600 Silver Shade / First Flush Instant Integral Film film box outside" loading="lazy" width="481" height="500">
+</a>
+
+
+`UUID: f95f44f60de24d11b8140ecd0493b540`↓
+
+<a href="./archive/00598_002.jpg" target="_blank">
+	<img src="./lowres/00598_002.jpg" alt="Impossible Project PX 600 Silver Shade / First Flush Instant Integral Film film box inside" loading="lazy" width="500" height="350">
+</a>
+
 #### [nyctomanica] Impossible Project PX 680 Color Shade / First Flush (ref: 580b)
 
 ```
@@ -11686,6 +11751,27 @@ UUID  : 21d81b0f422340189e48c53b02b8580b
 
 <a href="./archive/00592_000.jpg" target="_blank">
 	<img src="./lowres/00592_000.jpg" alt="Impossible Project PX 680 Color Shade / First Flush Instant Integral Film film box outside" loading="lazy" width="370" height="500">
+</a>
+
+#### [nyctomanica] Impossible Project PX 70 Color Shade / First Flush (ref: 1ad9)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 125          |  Expiry  : 2010-07 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 690311c1402d40eca1ced80f9af11ad9
+```
+
+<a href="./archive/00597_000.jpg" target="_blank">
+	<img src="./lowres/00597_000.jpg" alt="Impossible Project PX 70 Color Shade / First Flush Instant Integral Film film box outside" loading="lazy" width="478" height="500">
+</a>
+
+
+`UUID: d0c2a5e34bb54cedad81a49f4c338f7a`↓
+
+<a href="./archive/00597_001.jpg" target="_blank">
+	<img src="./lowres/00597_001.jpg" alt="Impossible Project PX 70 Color Shade / First Flush Instant Integral Film film box inside" loading="lazy" width="500" height="363">
 </a>
 
 #### [nyctomanica] Kodak Ektachrome 160T (ref: f21a)
@@ -11744,6 +11830,28 @@ UUID  : f2a364463c5d40ad9e438566b786d2a2
 	<img src="./lowres/00589_000.jpg" alt="Kodak Ektagraphic HC Slide Film 35mm film box outside" loading="lazy" width="416" height="500">
 </a>
 
+#### [nyctomanica] Kodak Hawkeye 2485 Surveillance Film (ref: 0037)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 250          |  Expiry  : 2005-11 
+Type  : Single Pack  |  Quantity: 17m     
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : ffa83233d791403f98c607bb78ad0037
+Notes : ISO200-500, 35mm B&W 17m (speed depends on developer, 250 in D76, 500 in 'Versamat 885'), Tin label reads "KODAK HAWKEYE Surveillance Film 2485-0076-0012 11/2005"
+```
+
+<a href="./archive/00595_000.jpg" target="_blank">
+	<img src="./lowres/00595_000.jpg" alt="Kodak Hawkeye 2485 Surveillance Film 35mm film box outside" loading="lazy" width="494" height="500">
+</a>
+
+
+`UUID: 58ff417d1c8a48af9746c73bf4037948`↓
+
+<a href="./archive/00595_001.jpg" target="_blank">
+	<img src="./lowres/00595_001.jpg" alt="Kodak Hawkeye 2485 Surveillance Film 35mm film box outside" loading="lazy" width="490" height="500">
+</a>
+
 #### [nyctomanica] Kodak Kodachrome 64 (ref: b007)
 
 ```
@@ -11772,6 +11880,20 @@ UUID  : 7f9897837fc645f5bbe5c6c18bb84ccd
 	<img src="./lowres/00594_000.jpg" alt="Kodak Kodacolor Gold Disc Film film box outside" loading="lazy" width="403" height="500">
 </a>
 
+#### [nyctomanica] Kodak Kodalith ortho film type 3 (ref: e5fd)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1993-05 
+Type  : Single Pack  |  Quantity: 30m     
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : da9c265a3e194bd1ad83549961c6e5fd
+```
+
+<a href="./archive/00596_000.jpg" target="_blank">
+	<img src="./lowres/00596_000.jpg" alt="Kodak Kodalith ortho film type 3 35mm film box outside" loading="lazy" width="486" height="500">
+</a>
+
 #### [nyctomanica] Polaroid 100 Blue Film (ref: 93b8)
 
 ```
@@ -11784,6 +11906,48 @@ UUID  : 5efc4291de384f9fa47153d007d293b8
 
 <a href="./archive/00593_000.jpg" target="_blank">
 	<img src="./lowres/00593_000.jpg" alt="Polaroid 100 Blue Film Instant Pack Film film box outside" loading="lazy" width="500" height="358">
+</a>
+
+#### [nyctomanica] Polaroid 100 Sepia Film (ref: 9893)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 1500         |  Expiry  : 2009-10 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 3dc991e05c9b43cdbb85b18aabc29893
+```
+
+<a href="./archive/00599_000.jpg" target="_blank">
+	<img src="./lowres/00599_000.jpg" alt="Polaroid 100 Sepia Film Instant Pack Film film box outside" loading="lazy" width="356" height="500">
+</a>
+
+#### [nyctomanica] Polaroid 672 (ref: b335)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 400          |  Expiry  : 2004-01 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : a2615a83b6774edda1567fe0e8deb335
+```
+
+<a href="./archive/00601_000.jpg" target="_blank">
+	<img src="./lowres/00601_000.jpg" alt="Polaroid 672 Instant Pack Film film box outside" loading="lazy" width="357" height="500">
+</a>
+
+#### [nyctomanica] Polaroid High Contrast PolaChrome (ref: c984)
+
+```
+Format: 35mm         |  Process : Instant 
+ISO   : 40           |  Expiry  : 1995-12 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 65ce4d13cc6142b69fc5d1bea401c984
+```
+
+<a href="./archive/00603_000.jpg" target="_blank">
+	<img src="./lowres/00603_000.jpg" alt="Polaroid High Contrast PolaChrome 35mm film box outside" loading="lazy" width="218" height="500">
 </a>
 
 #### [nyctomanica] Polaroid TZ Artistic Fade to Black (ref: de21)
@@ -12476,15 +12640,15 @@ Rank  Username                      Contributions
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
 7     @Hol.m35                      56    
-8     The Compartmentalist          25    
-9     @ob.skura                     19    
-10    fine-seat                     19    
-11    Camera.Riley                  19    
-12    kaimon                        19    
-13    Nano_Burger                   18    
-14    toader                        17    
-15    waldoboro                     16    
-16    nyctomanica                   15    
+8     nyctomanica                   28    
+9     The Compartmentalist          25    
+10    @ob.skura                     19    
+11    fine-seat                     19    
+12    Camera.Riley                  19    
+13    kaimon                        19    
+14    Nano_Burger                   18    
+15    toader                        17    
+16    waldoboro                     16    
 17    yc128                         14    
 18    b0baspace                     14    
 19    @SirBrentsworth               13    
