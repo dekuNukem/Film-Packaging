@@ -30,7 +30,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 16,0,film_box_outside,Ilford,HP5 Plus,120,400,BW,202511,1736012716,87bc1d4a816c98be17f295300f214993,ddf9b76e633f43718144af7dcb89efad,00016_000.jpg,dekuNukem,,Single Pack,N/A
 16,1,film_box_inside,Ilford,HP5 Plus,120,400,BW,202511,1736012719,72114f54b27f19218eb3633195e26cb9,1d938d2d844d498caf9fe2bc83618dda,00016_001.jpg,dekuNukem,,Single Pack,N/A
 17,0,film_box_outside,Kodak,High Speed Ektachrome,120,160,E-2,196301,1736012891,2290616ea75d47f89f83ffae0b7f3312,ec7cf78858fc48c59e5a0875ec74ce7f,00017_000.jpg,dekuNukem,,Single Pack,N/A
-18,0,film_box_outside,Polaroid,665,Pack Film,80,Instant,199608,1736023755,1bcecb1b015e966a2c56b57937610221,311d896d68b74b1193afcfa129c5e054,00018_000.jpg,dekuNukem,,Single Pack,8exp
+18,0,film_box_outside,Polaroid,665,Instant Pack Film,80,Instant,199608,1736023755,1bcecb1b015e966a2c56b57937610221,311d896d68b74b1193afcfa129c5e054,00018_000.jpg,dekuNukem,,Single Pack,8exp
 19,0,film_box_outside,Polaroid,PolaBlue 35mm,35mm,8,Instant,199208,1736023839,859db4fa936272430f29a27d3d3cb689,8236180d686f4e9ca4aa8e6fc397df66,00019_000.jpg,dekuNukem,,Single Pack,12exp
 19,1,film_box_leaflet,Polaroid,PolaBlue 35mm,35mm,8,Instant,199208,1754271877,68885cc5c89b33c14b10aef5bdb1143d,6f0d7187f2aa4396ab9879964db7a22a,00019_001.jpg,dekuNukem,,Single Pack,12exp
 19,2,film_box_leaflet,Polaroid,PolaBlue 35mm,35mm,8,Instant,199208,1754271880,dc0ea81b45be3eab4e7145c5464daf9e,69c6bc7256f542acadde9fa0441c8c8f,00019_002.jpg,dekuNukem,,Single Pack,12exp
@@ -38,7 +38,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 19,4,film_box_leaflet,Polaroid,PolaBlue 35mm,35mm,8,Instant,199208,1754271887,93e65f5cd6b19124a608cf55528ccda5,21253e4311ae4a25b46ba931aa78f266,00019_004.jpg,dekuNukem,,Single Pack,12exp
 19,5,film_box_leaflet,Polaroid,PolaBlue 35mm,35mm,8,Instant,199208,1754271889,d7a57dc00df9d0350cabb26309c04538,de72b5b522a749fbb6aa280253eea1bd,00019_005.jpg,dekuNukem,,Single Pack,12exp
 19,6,film_box_leaflet,Polaroid,PolaBlue 35mm,35mm,8,Instant,199208,1754271891,b47f7ef97e14d914765547787ba526f0,e48473352ab04761b968bdcae19a1ab5,00019_006.jpg,dekuNukem,,Single Pack,12exp
-20,0,film_box_outside,Polaroid,669,Pack Film,80,Instant,200603,1736023886,b0cd45b17c81925263d5d7993a2202a4,bb62de3a22c04f699c780aeae7c83566,00020_000.jpg,dekuNukem,,Single Pack,20exp
+20,0,film_box_outside,Polaroid,669,Instant Pack Film,80,Instant,200603,1736023886,b0cd45b17c81925263d5d7993a2202a4,bb62de3a22c04f699c780aeae7c83566,00020_000.jpg,dekuNukem,,Single Pack,20exp
 21,0,film_box_outside,Kodak,Gold 200,120,200,C-41,202611,1736023928,5f33dbc02c379946e4359cc9eb88a597,e8aefc10fa0d43cebbac73bdcf10933f,00021_000.jpg,dekuNukem,,Multi-Pack-5,N/A
 22,0,film_box_outside,Fujifilm,Fujicolor Pro 400H,120,400,C-41,201809,1736023971,49a08247ec78404771de7e39ebb6c7a9,0d89ecf11f3c46deb52171aa909566e3,00022_000.jpg,dekuNukem,,Multi-Pack-5,N/A
 23,0,film_box_outside,Fujifilm,Fujichrome Velvia 100F,120,100,E-6,200604,1736024062,8213c32039517c81dada2b71e2aa9700,0fef128c3b17437eb25d5c4f0520f7fb,00023_000.jpg,dekuNukem,,Multi-Pack-5,N/A
@@ -59,10 +59,10 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 29,4,film_box_leaflet,Polaroid,PolaChrome 35mm,35mm,40,Instant,199209,1754313583,b74a771df38627ff6c34621e2b3a8555,67abf5aa56574fafab78e2ade2112475,00029_004.jpg,dekuNukem,,Single Pack,36exp
 30,0,film_box_outside,Rollei,Infrared,120,200,BW,202708,1736046075,eb1ea2f258d651e5036a96b6be331bfc,b7bb7d65979543d0a8e5c9179d734f54,00030_000.jpg,dekuNukem,,Single Pack,N/A
 30,1,film_box_outside,Rollei,Infrared,120,200,BW,202708,1754578342,2e3f8474640e72f6f75b41d48290ecec,a950a24ab9da4b23b33e0b4b9d28d5d5,00030_001.jpg,The Compartmentalist,,Single Pack,N/A
-31,0,film_box_outside,Polaroid,GridFilm,Integral Film,640,Instant,200610,1736046197,5f1b719a68bd00716ca5d8577ab310c1,4f1aabf29f724c9ea3b2bee414b08deb,00031_000.jpg,dekuNukem,,Multi-Pack-2,10exp
-31,1,film_box_outside,Polaroid,GridFilm,Integral Film,640,Instant,200610,1736046204,8c0a0413f57a2a74c7808fbac96c0d1a,1dda008c9a844e1b9b64527511fdc282,00031_001.jpg,dekuNukem,,Multi-Pack-2,10exp
-31,2,film_box_inside,Polaroid,GridFilm,Integral Film,640,Instant,200610,1736046208,49ee7709b9fcefb59aa9378b2dca83cf,727d6925fdca4834bd96d71c32f40077,00031_002.jpg,dekuNukem,,Multi-Pack-2,10exp
-31,3,film_box_inside,Polaroid,GridFilm,Integral Film,640,Instant,200610,1736046214,85776f3faff6c374899401be29675d57,aa6fba27f7c9484291dbf8279a8e3d18,00031_003.jpg,dekuNukem,,Multi-Pack-2,10exp
+31,0,film_box_outside,Polaroid,GridFilm,Instant Integral Film,640,Instant,200610,1736046197,5f1b719a68bd00716ca5d8577ab310c1,4f1aabf29f724c9ea3b2bee414b08deb,00031_000.jpg,dekuNukem,,Multi-Pack-2,10exp
+31,1,film_box_outside,Polaroid,GridFilm,Instant Integral Film,640,Instant,200610,1736046204,8c0a0413f57a2a74c7808fbac96c0d1a,1dda008c9a844e1b9b64527511fdc282,00031_001.jpg,dekuNukem,,Multi-Pack-2,10exp
+31,2,film_box_inside,Polaroid,GridFilm,Instant Integral Film,640,Instant,200610,1736046208,49ee7709b9fcefb59aa9378b2dca83cf,727d6925fdca4834bd96d71c32f40077,00031_002.jpg,dekuNukem,,Multi-Pack-2,10exp
+31,3,film_box_inside,Polaroid,GridFilm,Instant Integral Film,640,Instant,200610,1736046214,85776f3faff6c374899401be29675d57,aa6fba27f7c9484291dbf8279a8e3d18,00031_003.jpg,dekuNukem,,Multi-Pack-2,10exp
 32,0,film_box_outside,Fujifilm,Fujichrome Professional 100D,120,100,E-6,199212,1736046273,4d5869a6882515cea095f2f81c86a0c1,5dcdd19ddf654415b7eac69183e7439d,00032_000.jpg,dekuNukem,,Single Pack,N/A
 32,1,film_box_leaflet,Fujifilm,Fujichrome Professional 100D,120,100,E-6,199212,1736046275,c435ca4ab2177e0fbd011f76e16cea5e,2e00754170744438a318b7f71da1c977,00032_001.jpg,dekuNukem,,Single Pack,N/A
 32,2,film_box_leaflet,Fujifilm,Fujichrome Professional 100D,120,100,E-6,199212,1736046279,db36b26bb1adcc4649494bb76fefeaf0,2d0ef64e672342509bad0f88d7908974,00032_002.jpg,dekuNukem,,Single Pack,N/A
@@ -265,26 +265,26 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 154,3,film_box_processing_envelope,Kodak,Ektachrome 160 Movie Film Type A,Super 8,160,Unknown,198011,1753991800,e92ef35683fc722bc86a3271c108c716,870ff01807e949a7b361cdad01dddf7f,00154_003.jpg,fine-seat,,Single Pack,50ft
 154,4,film_box_processing_envelope,Kodak,Ektachrome 160 Movie Film Type A,Super 8,160,Unknown,198011,1753991802,c0ac003b8ed9bfc15c827f704b4f0ca1,31df442b386446679540b0cf52c92fd7,00154_004.jpg,fine-seat,,Single Pack,50ft
 155,0,film_box_outside,Kodak,Ektachrome E100,35mm,100,E-6,202702,1754119896,c435419f4cb4ab3d440feb1645e4416e,829cd9dd98cd489f8bff71e403c1ae10,00155_000.jpg,toader,,Single Pack,36exp
-156,0,film_box_outside,Polaroid,Color SX-70 Film,Integral Film,160,Instant,202504,1754120107,716bf1b0a4b8b2088af6cf0a83a62bd4,b4af154cea6f40c0aa1d4154d0c2dc7f,00156_000.jpg,toader,,Single Pack,8exp
-156,1,film_box_outside,Polaroid,Color SX-70 Film,Integral Film,160,Instant,202504,1754120109,9b4151542c13754ad750b016d0e1c5ca,5ce2d6b8b1894bf7b67c5a9fdd635a6e,00156_001.jpg,toader,,Single Pack,8exp
-156,2,film_box_inside,Polaroid,Color SX-70 Film,Integral Film,160,Instant,202504,1754120113,cb2cbb811ed09bcece22865798d2c8c1,170151c0a84e459db08a9b3718b67743,00156_002.jpg,toader,,Single Pack,8exp
-156,3,film_box_inside,Polaroid,Color SX-70 Film,Integral Film,160,Instant,202504,1754120117,97aa3a8076904e4dba37f286f5b801d8,3c3020e2767a48b88a7dd8662a0ec06d,00156_003.jpg,toader,,Single Pack,8exp
-157,0,film_box_outside,Polaroid,Color 600 Film Round Frame,Integral Film,640,Instant,202412,1754120157,be8ae0fae163fc61a253c8b26a611594,e798fdd114be4a018cb7651bba94d985,00157_000.jpg,toader,,Single Pack,8exp
-157,1,film_box_outside,Polaroid,Color 600 Film Round Frame,Integral Film,640,Instant,202412,1754120159,cd206563bad1a85f47282de26471aede,b9ec4052b0d548ef90f77d7fc99d0ccb,00157_001.jpg,toader,,Single Pack,8exp
-157,2,film_box_inside,Polaroid,Color 600 Film Round Frame,Integral Film,640,Instant,202412,1754120162,a9c22b3816082f27021c2cbfa5d43ac8,95b81cc72d3646d6966a2341510333aa,00157_002.jpg,toader,,Single Pack,8exp
-157,3,film_box_inside,Polaroid,Color 600 Film Round Frame,Integral Film,640,Instant,202412,1754120165,b4a779e913298da563415977be144fff,038f964e849d4fd1a0c6f1aeb6dd4b0e,00157_003.jpg,toader,,Single Pack,8exp
-158,0,film_box_outside,Polaroid,87,Pack Film,3000,Instant,200607,1754246674,2a1cacca4d52591a209443df17ef1082,5a63521777ca4f788d01aac5f94862ef,00158_000.jpg,dekuNukem,,Single Pack,10exp
-158,1,film_box_inside,Polaroid,87,Pack Film,3000,Instant,200607,1754246676,a55d1dfe3e9fa40d00023dbf1eb19336,55178f72127944e898f8804ac2663c79,00158_001.jpg,dekuNukem,,Single Pack,10exp
+156,0,film_box_outside,Polaroid,Color SX-70 Film,Instant Integral Film,160,Instant,202504,1754120107,716bf1b0a4b8b2088af6cf0a83a62bd4,b4af154cea6f40c0aa1d4154d0c2dc7f,00156_000.jpg,toader,,Single Pack,8exp
+156,1,film_box_outside,Polaroid,Color SX-70 Film,Instant Integral Film,160,Instant,202504,1754120109,9b4151542c13754ad750b016d0e1c5ca,5ce2d6b8b1894bf7b67c5a9fdd635a6e,00156_001.jpg,toader,,Single Pack,8exp
+156,2,film_box_inside,Polaroid,Color SX-70 Film,Instant Integral Film,160,Instant,202504,1754120113,cb2cbb811ed09bcece22865798d2c8c1,170151c0a84e459db08a9b3718b67743,00156_002.jpg,toader,,Single Pack,8exp
+156,3,film_box_inside,Polaroid,Color SX-70 Film,Instant Integral Film,160,Instant,202504,1754120117,97aa3a8076904e4dba37f286f5b801d8,3c3020e2767a48b88a7dd8662a0ec06d,00156_003.jpg,toader,,Single Pack,8exp
+157,0,film_box_outside,Polaroid,Color 600 Film Round Frame,Instant Integral Film,640,Instant,202412,1754120157,be8ae0fae163fc61a253c8b26a611594,e798fdd114be4a018cb7651bba94d985,00157_000.jpg,toader,,Single Pack,8exp
+157,1,film_box_outside,Polaroid,Color 600 Film Round Frame,Instant Integral Film,640,Instant,202412,1754120159,cd206563bad1a85f47282de26471aede,b9ec4052b0d548ef90f77d7fc99d0ccb,00157_001.jpg,toader,,Single Pack,8exp
+157,2,film_box_inside,Polaroid,Color 600 Film Round Frame,Instant Integral Film,640,Instant,202412,1754120162,a9c22b3816082f27021c2cbfa5d43ac8,95b81cc72d3646d6966a2341510333aa,00157_002.jpg,toader,,Single Pack,8exp
+157,3,film_box_inside,Polaroid,Color 600 Film Round Frame,Instant Integral Film,640,Instant,202412,1754120165,b4a779e913298da563415977be144fff,038f964e849d4fd1a0c6f1aeb6dd4b0e,00157_003.jpg,toader,,Single Pack,8exp
+158,0,film_box_outside,Polaroid,87,Instant Pack Film,3000,Instant,200607,1754246674,2a1cacca4d52591a209443df17ef1082,5a63521777ca4f788d01aac5f94862ef,00158_000.jpg,dekuNukem,,Single Pack,10exp
+158,1,film_box_inside,Polaroid,87,Instant Pack Film,3000,Instant,200607,1754246676,a55d1dfe3e9fa40d00023dbf1eb19336,55178f72127944e898f8804ac2663c79,00158_001.jpg,dekuNukem,,Single Pack,10exp
 159,0,film_box_outside,Polaroid,PolaPan 35mm,35mm,125,Instant,198804,1754246725,a3882561c3d017185121a9af85dc46c5,24a8ae46c50049afb35fc44e956a9825,00159_000.jpg,dekuNukem,,Single Pack,12exp
 159,1,film_box_leaflet,Polaroid,PolaPan 35mm,35mm,125,Instant,198804,1754246729,436d69e5a74cf96f2d586aca15010d09,a650b451e12b4e1fabb05b4f1f23fb29,00159_001.jpg,dekuNukem,,Single Pack,12exp
 159,2,film_box_leaflet,Polaroid,PolaPan 35mm,35mm,125,Instant,198804,1754246734,32042712b543a5a509c034fe5d17843f,30abcb19f7ce46d39021fb057efb95f6,00159_002.jpg,dekuNukem,,Single Pack,12exp
 159,3,film_box_leaflet,Polaroid,PolaPan 35mm,35mm,125,Instant,198804,1754246736,2b32d3bd7e848353d7fa5385b8181a55,61e5cb43037441ca9a06dd2a4883833c,00159_003.jpg,dekuNukem,,Single Pack,12exp
 159,4,film_box_leaflet,Polaroid,PolaPan 35mm,35mm,125,Instant,198804,1754246739,9637b9481082ba050dce3f207ea5082d,d4369d4ac7bc432cb5bf9acdb0d835d7,00159_004.jpg,dekuNukem,,Single Pack,12exp
 160,0,film_box_outside,Kodak,Ektachrome E100VS,120,100,E-6,201004,1754246786,25f3caecc18b1f4d7b343e10813cb265,e8673d04cee440bd9c065a37a485a8d3,00160_000.jpg,dekuNukem,,Multi-Pack-5,N/A
-161,0,film_box_outside,Polaroid,Polacolor 679,Pack Film,100,Instant,199806,1754246997,5c747d08a6d8607ed325031cb5e13829,5844215c1fc74612b6118648b845625c,00161_000.jpg,dekuNukem,,Multi-Pack-2,10exp
-161,1,film_box_outside,Polaroid,Polacolor 679,Pack Film,100,Instant,199806,1754247000,13e923bedc057ac6d69cb9de6d66ff6e,cca2cc887edb44adb3b00fc9b6cb0dfd,00161_001.jpg,dekuNukem,,Multi-Pack-2,10exp
-161,2,film_box_inside,Polaroid,Polacolor 679,Pack Film,100,Instant,199806,1754247004,3f3eb9a7a39dfc57e5fef2c8efe7c46c,35d7f44a3b59463fabb387917d8f4808,00161_002.jpg,dekuNukem,,Multi-Pack-2,10exp
-161,3,film_box_inside,Polaroid,Polacolor 679,Pack Film,100,Instant,199806,1754247009,2c98a302b4608e4356737f3eab61b680,cc5370f8b582460ebd5a9e27380bd3d2,00161_003.jpg,dekuNukem,,Multi-Pack-2,10exp
+161,0,film_box_outside,Polaroid,Polacolor 679,Instant Pack Film,100,Instant,199806,1754246997,5c747d08a6d8607ed325031cb5e13829,5844215c1fc74612b6118648b845625c,00161_000.jpg,dekuNukem,,Multi-Pack-2,10exp
+161,1,film_box_outside,Polaroid,Polacolor 679,Instant Pack Film,100,Instant,199806,1754247000,13e923bedc057ac6d69cb9de6d66ff6e,cca2cc887edb44adb3b00fc9b6cb0dfd,00161_001.jpg,dekuNukem,,Multi-Pack-2,10exp
+161,2,film_box_inside,Polaroid,Polacolor 679,Instant Pack Film,100,Instant,199806,1754247004,3f3eb9a7a39dfc57e5fef2c8efe7c46c,35d7f44a3b59463fabb387917d8f4808,00161_002.jpg,dekuNukem,,Multi-Pack-2,10exp
+161,3,film_box_inside,Polaroid,Polacolor 679,Instant Pack Film,100,Instant,199806,1754247009,2c98a302b4608e4356737f3eab61b680,cc5370f8b582460ebd5a9e27380bd3d2,00161_003.jpg,dekuNukem,,Multi-Pack-2,10exp
 162,0,film_box_outside,Minolta,Minolta 16 Color Film For Prints,16mm,100,C-41,199206,1754377746,9b437d6cfc11f96bb5d0ff4c35071636,a2cfc71ac0e24ea58f4e3350423aa2ff,00162_000.jpg,The Compartmentalist,,Single Pack,20exp
 163,0,film_box_outside,ORWO,NP 20 SL,35mm,80,BW,199212,1754377817,44a5c7123fd19e04c598191d99698c07,9791c2074fdd4340a1463312ed77b16c,00163_000.jpg,The Compartmentalist,,Single Pack,12exp
 164,0,film_box_outside,Hope Film,Bubble,35mm,200,C-41,202612,1754471755,4632bc00c996d5d90c28cd2147b86e81,b09848420a1a4d76b099d82d76bc41f4,00164_000.jpg,@Hol.m35,,Single Pack,24exp
@@ -467,8 +467,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 275,1,film_box_inside,Kodak,Ektachrome 100HC,35mm,100,E-6,199411,1756513756,aede321bc7700c04514964e5362c4252,de18a3dd00a744a3973965244938320f,00275_001.jpg,dekuNukem,,Single Pack,36exp
 276,0,film_box_outside,Kodak,Ektachrome 100HC,35mm,100,E-6,199411,1756513843,44434d4f3580e9693f0b1e7e86c495e6,064dbfe80ca84ac99329c252bce0775a,00276_000.jpg,dekuNukem,,Single Pack,36exp
 276,1,film_box_inside,Kodak,Ektachrome 100HC,35mm,100,E-6,199411,1756513845,d073d7aa36c36fbfdb03a17d80ac4621,3c397dbea68649edb38d6464d6516746,00276_001.jpg,dekuNukem,,Single Pack,36exp
-277,0,film_box_outside,Fujifilm,FP-100C,Pack Film,100,Instant,201501,1756725620,7d4d389d889c7c59f83b83894cad6c8e,9bf3702e732a42adb54727a565645cda,00277_000.jpg,@recycling.film,,Single Pack,10exp
-277,1,film_box_inside,Fujifilm,FP-100C,Pack Film,100,Instant,201501,1756725621,d31caecdb036c6f5d2dcd60b15febabb,bfb832790e754aa0ba98a030969ab95d,00277_001.jpg,@recycling.film,,Single Pack,10exp
+277,0,film_box_outside,Fujifilm,FP-100C,Instant Pack Film,100,Instant,201501,1756725620,7d4d389d889c7c59f83b83894cad6c8e,9bf3702e732a42adb54727a565645cda,00277_000.jpg,@recycling.film,,Single Pack,10exp
+277,1,film_box_inside,Fujifilm,FP-100C,Instant Pack Film,100,Instant,201501,1756725621,d31caecdb036c6f5d2dcd60b15febabb,bfb832790e754aa0ba98a030969ab95d,00277_001.jpg,@recycling.film,,Single Pack,10exp
 278,0,film_box_outside,Kodak,Ektachrome 400X,120,400,E-6,200111,1756748213,7afefc6b863c1ca99daa226393c43e25,877e28be6f7240898a95616c39a95b82,00278_000.jpg,dekuNukem,,Multi-Pack-5,N/A
 278,1,film_box_inside,Kodak,Ektachrome 400X,120,400,E-6,200111,1756748230,7c598c4cffa860626252a8617404a4bd,b17891fbab094a19b7da26c8ac2b40b4,00278_001.jpg,dekuNukem,,Multi-Pack-5,N/A
 279,0,film_box_outside,Kodak,Ektachrome 100 Plus,220,100,E-6,200508,1756748275,c3c86ab2504b64d0a5c551a67f4528ba,389f8e8d270647eda7b0b7d2ab060183,00279_000.jpg,dekuNukem,,Multi-Pack-5,N/A
@@ -524,7 +524,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 305,1,film_box_inside,Ilford,Delta 400 Professional,35mm,400,BW,202612,1757152062,22f9959821e555ac2ac95af292e6f487,be7e29869fd34099b29753fc5dc86b02,00305_001.jpg,@toastergod101,,Single Pack,36exp
 306,0,film_box_outside,Harman,Red,35mm,125,C-41,202607,1757152101,09982a330120adfe04cf2f767e273829,3903165bcfbc43ad9a6ee42e7922da3a,00306_000.jpg,@toastergod101,,Single Pack,36exp
 306,1,film_box_inside,Harman,Red,35mm,125,C-41,202607,1757152103,8194ae2ea684966757153e1023783ab1,e4133b6a1709448dbe4efa97d028e25a,00306_001.jpg,@toastergod101,,Single Pack,36exp
-307,0,film_box_outside,Fujifilm,Instax Mini,Integral Film,800,Instant,202704,1757152196,3dc7a34913e84ff97468e772676b536e,b8ea314888b244f8ab8ace49c734e5e7,00307_000.jpg,@toastergod101,,Multi-Pack-2,10exp
+307,0,film_box_outside,Fujifilm,Instax Mini,Instant Integral Film,800,Instant,202704,1757152196,3dc7a34913e84ff97468e772676b536e,b8ea314888b244f8ab8ace49c734e5e7,00307_000.jpg,@toastergod101,,Multi-Pack-2,10exp
 308,0,film_box_outside,Fujifilm,Fujicolor HR100,120,100,C-41,198602,1757154576,fa8dc3bd018c5269354e81c0c9e06b75,934f2484197d41c7a5467b92a9ea23c5,00308_000.jpg,dekuNukem,,Single Pack,N/A
 308,1,film_box_leaflet,Fujifilm,Fujicolor HR100,120,100,C-41,198602,1757154577,577b24210b380517bee19d790a66afde,172bc614704c4391bd34e58f0b27b279,00308_001.jpg,dekuNukem,,Single Pack,N/A
 308,2,film_box_leaflet,Fujifilm,Fujicolor HR100,120,100,C-41,198602,1757154579,39a73eae0e1f523f0dffd7215b181126,3e4277ca388248c5a4ea7d11988bf3a6,00308_002.jpg,dekuNukem,,Single Pack,N/A
@@ -599,17 +599,17 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 348,3,film_box_processing_envelope,Film Corporation of America,TriFCA 120,120,80,Unknown,Unknown,1758217285,dfb0f39cdd524f6bfa731b1c9ea12133,98f8c5fced3c41198779e0bc6342b785,00348_003.jpg,dekuNukem,"Expiry is probably later than the other one, due to the increase of the processing cost.",Single Pack,N/A
 348,4,film_box_processing_envelope,Film Corporation of America,TriFCA 120,120,80,Unknown,Unknown,1758217287,ae4546527ccd4522e0b30552e565a178,1ea1b9e629554579aa058a12e7d4c721,00348_004.jpg,dekuNukem,"Expiry is probably later than the other one, due to the increase of the processing cost.",Single Pack,N/A
 348,5,film_box_processing_envelope,Film Corporation of America,TriFCA 120,120,80,Unknown,Unknown,1758217289,c9d9f044e343030c7d763f09c47a7f8a,1d879777e90646b7958f04a7b03c4569,00348_005.jpg,dekuNukem,"Expiry is probably later than the other one, due to the increase of the processing cost.",Single Pack,N/A
-349,0,film_box_outside,Polaroid,990,Integral Film,640,Instant,200810,1758217403,5c998dd8aaf3f14107177ec6100cc3df,79f8183905d443aaaab84c6f0944e3bc,00349_000.jpg,dekuNukem,,Multi-Pack-2,10exp
-349,1,film_box_outside,Polaroid,990,Integral Film,640,Instant,200810,1758217406,1b4a35004149920a4f04b0b6eb6508be,6e2ec8c800b140baaf1a2438e722931c,00349_001.jpg,dekuNukem,,Multi-Pack-2,10exp
-349,2,film_box_inside,Polaroid,990,Integral Film,640,Instant,200810,1758217410,8c825fd86edc53dee141c36475adedf5,d4caa7bc6e1a46e1a5712fccfe5003e0,00349_002.jpg,dekuNukem,,Multi-Pack-2,10exp
-349,3,film_box_inside,Polaroid,990,Integral Film,640,Instant,200810,1758217413,2877280473599ab1b919932e4dee42c2,99e7ca19be7b412ba276d45c7a09369f,00349_003.jpg,dekuNukem,,Multi-Pack-2,10exp
+349,0,film_box_outside,Polaroid,990,Instant Integral Film,640,Instant,200810,1758217403,5c998dd8aaf3f14107177ec6100cc3df,79f8183905d443aaaab84c6f0944e3bc,00349_000.jpg,dekuNukem,,Multi-Pack-2,10exp
+349,1,film_box_outside,Polaroid,990,Instant Integral Film,640,Instant,200810,1758217406,1b4a35004149920a4f04b0b6eb6508be,6e2ec8c800b140baaf1a2438e722931c,00349_001.jpg,dekuNukem,,Multi-Pack-2,10exp
+349,2,film_box_inside,Polaroid,990,Instant Integral Film,640,Instant,200810,1758217410,8c825fd86edc53dee141c36475adedf5,d4caa7bc6e1a46e1a5712fccfe5003e0,00349_002.jpg,dekuNukem,,Multi-Pack-2,10exp
+349,3,film_box_inside,Polaroid,990,Instant Integral Film,640,Instant,200810,1758217413,2877280473599ab1b919932e4dee42c2,99e7ca19be7b412ba276d45c7a09369f,00349_003.jpg,dekuNukem,,Multi-Pack-2,10exp
 350,0,film_box_outside,Fujifilm,Fujicolor HR 1600,35mm,1600,C-41,198708,1758217456,4fed2b8b202837bee9f4edf99518c394,bbcc3da99c5c4734a5a8a985b9b31d39,00350_000.jpg,dekuNukem,,Single Pack,12exp
 350,1,film_box_leaflet,Fujifilm,Fujicolor HR 1600,35mm,1600,C-41,198708,1758217458,08b88884470ca21adbc638915a72be22,911c893c07554c488c396cebc100e6b5,00350_001.jpg,dekuNukem,,Single Pack,12exp
 350,2,film_box_leaflet,Fujifilm,Fujicolor HR 1600,35mm,1600,C-41,198708,1758217460,5f9c4ef28051cb781c9de5016b9562f0,f5abcdb901ff4bae82a7b52a8d8dda5c,00350_002.jpg,dekuNukem,,Single Pack,12exp
 351,0,film_box_outside,Klick,Max Extra Definition Multi Purpose Film,35mm,200,C-41,200706,1759069104,be952c7e507c979f0f6546867cfc9b6f,b1affc3985b44a4781729ffa50908ae4,00351_000.jpg,dekuNukem,,Single Pack,36exp
-352,0,film_box_outside,Polaroid,Spectra Film,Integral Film,600,Instant,200211,1759069689,a02b1506853cc8dee10fd6d7c0d78e94,2ec40bee5af2471cad92278123ba7a94,00352_000.jpg,@ellafridalindblom,,Single Pack,10exp
+352,0,film_box_outside,Polaroid,Spectra Film,Instant Integral Film,600,Instant,200211,1759069689,a02b1506853cc8dee10fd6d7c0d78e94,2ec40bee5af2471cad92278123ba7a94,00352_000.jpg,@ellafridalindblom,,Single Pack,10exp
 353,0,film_box_outside,Kodak,High Speed Infrared Film 2481,35mm,Unknown,BW,197401,1759069831,63d9db3af2fc8711d36f44e9c334a60a,6670d5214ea545e99bfb7aadb6d4aa7a,00353_000.jpg,@ellafridalindblom,,Bulk Roll,150ft
-354,0,film_box_outside,Impossible Project,PX 600 Silver Shade UV+,Integral Film,600,Instant,Unknown,1759070023,8e29ec69c012c78613e62ca25cadc871,28ed6948476d4d7baeb8e7fd7c3520f3,00354_000.jpg,@ellafridalindblom,,Single Pack,8exp
+354,0,film_box_outside,Impossible Project,PX 600 Silver Shade UV+,Instant Integral Film,600,Instant,Unknown,1759070023,8e29ec69c012c78613e62ca25cadc871,28ed6948476d4d7baeb8e7fd7c3520f3,00354_000.jpg,@ellafridalindblom,,Single Pack,8exp
 355,0,film_box_outside,JCH,Streetpan,120,400,BW,202604,1759070227,e600dd4a89d0acde5da92cc9fbbb976b,f32d9e32d43441b79220744cdb4e5c70,00355_000.jpg,@Hol.m35,,Single Pack,N/A
 355,1,film_box_inside,JCH,Streetpan,120,400,BW,202604,1759070229,c7fa317f0a627f03574751166af71b8f,7935fbe7f8a44593a172f1e9fc2fd2bc,00355_001.jpg,@Hol.m35,,Single Pack,N/A
 356,0,film_box_outside,Club Color,Natural Color System,35mm,800,C-41,200307,1759070606,d67213f028b8cef7718bfbf74798cb51,88f5c251c21546fba06cd2943e55813a,00356_000.jpg,lemoniter,,Single Pack,24exp
@@ -635,8 +635,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 363,2,film_box_processing_envelope,PrinzColor,Colour Negative Film,35mm,80,Unknown,197510,1759427029,c04a71cd5cc74f41eaaff09f698deac7,a29f494b970044eab313b00b12096cf3,00363_002.jpg,dekuNukem,,Single Pack,20exp
 363,3,film_box_processing_envelope,PrinzColor,Colour Negative Film,35mm,80,Unknown,197510,1759427032,cd494ba6ef53fa63daccd199b2c6b69d,2672ff6891f14e44b7f3077a501ae234,00363_003.jpg,dekuNukem,,Single Pack,20exp
 363,4,film_box_outside,PrinzColor,Colour Negative Film,35mm,80,Unknown,197510,1759427035,0f8742bbd8d0f334045162d1171bdcca,4e513a5356fb4b3e8bbc3b0d6ae62543,00363_004.jpg,dekuNukem,,Single Pack,20exp
-364,0,film_box_outside,Polaroid,Image Instant Film,Integral Film,640,Instant,200707,1759500648,966c6da46903d7a21752db097be3d9f0,6a3ab27a3a964d7c9ecc38dbce2fee6d,00364_000.jpg,@ellafridalindblom,,Single Pack,10exp
-364,1,film_box_inside,Polaroid,Image Instant Film,Integral Film,640,Instant,200707,1759500650,f51c0c0c8559b521f508c6ea9b96dd5c,c2742bb793f34d90a0365bb82e0160df,00364_001.jpg,@ellafridalindblom,,Single Pack,10exp
+364,0,film_box_outside,Polaroid,Image Instant Film,Instant Integral Film,640,Instant,200707,1759500648,966c6da46903d7a21752db097be3d9f0,6a3ab27a3a964d7c9ecc38dbce2fee6d,00364_000.jpg,@ellafridalindblom,,Single Pack,10exp
+364,1,film_box_inside,Polaroid,Image Instant Film,Instant Integral Film,640,Instant,200707,1759500650,f51c0c0c8559b521f508c6ea9b96dd5c,c2742bb793f34d90a0365bb82e0160df,00364_001.jpg,@ellafridalindblom,,Single Pack,10exp
 365,0,film_box_outside,Kodak,Tri-X 400 Pro,120,400,BW,Unknown,1759500732,5e22c4494aecca3342f729ec6c4b28dc,dd34c2bc1fe34b17b67c6ad002bef05c,00365_000.jpg,@ellafridalindblom,,Multi-Pack-5,N/A
 365,1,film_box_inside,Kodak,Tri-X 400 Pro,120,400,BW,Unknown,1759500737,efa1de9cfc77c86a86d2f7b53cf2a170,7cde8a5a159c441f9bad7f7f5d8cba98,00365_001.jpg,@ellafridalindblom,,Multi-Pack-5,N/A
 366,0,film_box_outside,Harman,Phoenix II,120,200,C-41,202806,1759680604,b68b0d48d826d0fc2a93ee58cfe1346d,df238026e7c84a89961248cec20737c7,00366_000.jpg,dekuNukem,Chinese version,Single Pack,N/A
@@ -695,13 +695,13 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 394,0,film_box_outside,ORWO,NP15,120,25,BW,199208,1760349542,1eebaf371d0a846576d8026fdbb603fa,50956257d99f4f24a3ec712e77379a20,00394_000.jpg,@recycling.film,,Single Pack,N/A
 394,1,film_box_leaflet,ORWO,NP15,120,25,BW,199208,1760349544,22a0d20ec32e3105bbe41bd918139b39,71624d5686d648ef9411cbed44ed3f49,00394_001.jpg,@recycling.film,,Single Pack,N/A
 394,2,film_box_leaflet,ORWO,NP15,120,25,BW,199208,1760349547,797646e9c27406e066ff0caa22d62dc3,2528a0f231cf473597f3d594c67dc803,00394_002.jpg,@recycling.film,,Single Pack,N/A
-395,0,film_box_outside,Impossible Project,Color Instant Film for Polaroid SX-70 Type Cameras,Integral Film,160,Instant,201311,1760440128,a27202ce3cfd35dd98d584afb2352cba,0543dd31cf204c8499f5f1e51a9b861c,00395_000.jpg,dekuNukem,,Single Pack,8exp
-395,1,film_cartridge,Impossible Project,Color Instant Film for Polaroid SX-70 Type Cameras,Integral Film,160,Instant,201311,1760440130,19e9a96f7d3627d679bde3d2e8d0808f,c8261d3d4696463091c1e946521ba6b8,00395_001.jpg,dekuNukem,,Single Pack,8exp
-395,2,film_cartridge,Impossible Project,Color Instant Film for Polaroid SX-70 Type Cameras,Integral Film,160,Instant,201311,1760440133,ae13dd1440e5e5af367d57dd42f851e6,f6f40232e62741eb8bbc5f22f9e38dc8,00395_002.jpg,dekuNukem,,Single Pack,8exp
-395,3,film_box_leaflet,Impossible Project,Color Instant Film for Polaroid SX-70 Type Cameras,Integral Film,160,Instant,201311,1760440135,c3e3743e674f30347d1cb3e53db8433a,e0caa1919c6d4af3a5478f7e16c3664d,00395_003.jpg,dekuNukem,,Single Pack,8exp
-395,4,film_box_leaflet,Impossible Project,Color Instant Film for Polaroid SX-70 Type Cameras,Integral Film,160,Instant,201311,1760440139,962920b1e18e96e7b7d5b6c10a17c11e,771ae62e2ca14e40a13c15c815d42ff0,00395_004.jpg,dekuNukem,,Single Pack,8exp
-395,5,film_box_leaflet,Impossible Project,Color Instant Film for Polaroid SX-70 Type Cameras,Integral Film,160,Instant,201311,1760440140,1f6ef84db823d6fbec5480f5bf33a50c,fe686e709acd4d8eb81aa903bc07d146,00395_005.jpg,dekuNukem,,Single Pack,8exp
-395,6,film_box_leaflet,Impossible Project,Color Instant Film for Polaroid SX-70 Type Cameras,Integral Film,160,Instant,201311,1760440142,9fb8d7838b2e140b96cc991cfcb9f6ef,1bb9712c568140bd86d5d2ba361b85c9,00395_006.jpg,dekuNukem,,Single Pack,8exp
+395,0,film_box_outside,Impossible Project,Color Instant Film for Polaroid SX-70 Type Cameras,Instant Integral Film,160,Instant,201311,1760440128,a27202ce3cfd35dd98d584afb2352cba,0543dd31cf204c8499f5f1e51a9b861c,00395_000.jpg,dekuNukem,,Single Pack,8exp
+395,1,film_cartridge,Impossible Project,Color Instant Film for Polaroid SX-70 Type Cameras,Instant Integral Film,160,Instant,201311,1760440130,19e9a96f7d3627d679bde3d2e8d0808f,c8261d3d4696463091c1e946521ba6b8,00395_001.jpg,dekuNukem,,Single Pack,8exp
+395,2,film_cartridge,Impossible Project,Color Instant Film for Polaroid SX-70 Type Cameras,Instant Integral Film,160,Instant,201311,1760440133,ae13dd1440e5e5af367d57dd42f851e6,f6f40232e62741eb8bbc5f22f9e38dc8,00395_002.jpg,dekuNukem,,Single Pack,8exp
+395,3,film_box_leaflet,Impossible Project,Color Instant Film for Polaroid SX-70 Type Cameras,Instant Integral Film,160,Instant,201311,1760440135,c3e3743e674f30347d1cb3e53db8433a,e0caa1919c6d4af3a5478f7e16c3664d,00395_003.jpg,dekuNukem,,Single Pack,8exp
+395,4,film_box_leaflet,Impossible Project,Color Instant Film for Polaroid SX-70 Type Cameras,Instant Integral Film,160,Instant,201311,1760440139,962920b1e18e96e7b7d5b6c10a17c11e,771ae62e2ca14e40a13c15c815d42ff0,00395_004.jpg,dekuNukem,,Single Pack,8exp
+395,5,film_box_leaflet,Impossible Project,Color Instant Film for Polaroid SX-70 Type Cameras,Instant Integral Film,160,Instant,201311,1760440140,1f6ef84db823d6fbec5480f5bf33a50c,fe686e709acd4d8eb81aa903bc07d146,00395_005.jpg,dekuNukem,,Single Pack,8exp
+395,6,film_box_leaflet,Impossible Project,Color Instant Film for Polaroid SX-70 Type Cameras,Instant Integral Film,160,Instant,201311,1760440142,9fb8d7838b2e140b96cc991cfcb9f6ef,1bb9712c568140bd86d5d2ba361b85c9,00395_006.jpg,dekuNukem,,Single Pack,8exp
 396,0,film_box_outside,Lomography,Tiger,110,200,C-41,201509,1760440206,444f40a01a7c7ed0878c228473384730,141712bb8988495d811441f1e5fb5b62,00396_000.jpg,dekuNukem,,Single Pack,24exp
 396,1,film_box_inside,Lomography,Tiger,110,200,C-41,201509,1760440209,b64d9ca270e5a340c039139abb4f995d,23cf98004a95479ebb6992d73ee36d36,00396_001.jpg,dekuNukem,,Single Pack,24exp
 396,2,film_cartridge,Lomography,Tiger,110,200,C-41,201509,1760440218,6145b95103f3dd6e8418ac4df974a535,9275565ac1d046c5a72f553b7f73e124,00396_002.jpg,dekuNukem,,Single Pack,24exp
@@ -871,8 +871,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 475,0,film_box_outside,Lomography,Postdam,35mm,100,BW,202804,1762861040,7c129b37de67b6b7f10146dac537a816,89df57ba76fb4cc6ad09a663c463d0c6,00475_000.jpg,@Hol.m35,Black & White POSTDAM 35mm Kino Film,Single Pack,36exp
 475,1,film_box_inside,Lomography,Postdam,35mm,100,BW,202804,1762861041,5fa010d7505581f8a73caa472954d7bf,9e139b4e9ab140c096622312e9da5e1d,00475_001.jpg,@Hol.m35,Black & White POSTDAM 35mm Kino Film,Single Pack,36exp
 476,0,film_box_outside,GT Photo,GT24,35mm,400,C-41,202512,1762902305,f66420cc2a396eb921a8122b8f695f4f,86ec0b0ed4b94390a23d2cb27e1792c2,00476_000.jpg,dekuNukem,,Single Pack,24exp
-477,0,film_box_outside,Polaroid,Green 600 Film Reclaimed Series,Integral Film,640,Instant,202507,1762902641,2a9deb0f08a659d453a8443a3fb063b5,613f5e7014704b5bbe28565cfe290180,00477_000.jpg,@ellafridalindblom,,Single Pack,8exp
-477,1,film_box_inside,Polaroid,Green 600 Film Reclaimed Series,Integral Film,640,Instant,202507,1762902643,3b4c27910f43090a5de8ccf8489c6436,c92f5c416c764c83845e115db6e90106,00477_001.jpg,@ellafridalindblom,,Single Pack,8exp
+477,0,film_box_outside,Polaroid,Green 600 Film Reclaimed Series,Instant Integral Film,640,Instant,202507,1762902641,2a9deb0f08a659d453a8443a3fb063b5,613f5e7014704b5bbe28565cfe290180,00477_000.jpg,@ellafridalindblom,,Single Pack,8exp
+477,1,film_box_inside,Polaroid,Green 600 Film Reclaimed Series,Instant Integral Film,640,Instant,202507,1762902643,3b4c27910f43090a5de8ccf8489c6436,c92f5c416c764c83845e115db6e90106,00477_001.jpg,@ellafridalindblom,,Single Pack,8exp
 478,0,film_box_outside,CineStill,800T,120,800,C-41,202705,1762902844,3c1c23b8a51a4e22a8b63a58059447f8,5b72cfa7adb14d0f8aefaa083ee444c4,00478_000.jpg,Chrisbes,,Single Pack,N/A
 478,1,film_box_inside,CineStill,800T,120,800,C-41,202705,1762902845,6d32f7ce268de9e49fa53d781325c7f9,88c575769d28409a9796d3ecee41d014,00478_001.jpg,Chrisbes,,Single Pack,N/A
 479,0,film_box_outside,Lucky,C200,35mm,200,C-41,202710,1763551708,a3f10945783b9f66383256be170a1cbf,4986ebbbced349e880b7dd92d9649c6c,00479_000.jpg,kaimon,,Single Pack,36exp
@@ -903,10 +903,10 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 495,1,film_box_outside,Lomography,Color Negative 800,35mm,800,C-41,202606,1764782057,e162f23d38a0ce27866e5991ae02c728,598d18cdb1b94a4499a2cdd1383a4088,00495_001.jpg,@Hol.m35,,Multi-Pack-3,36exp
 496,0,film_box_outside,Polaroid,Type 42,Instant Roll Film,200,Instant,Unknown,1764782320,0318e8448666f504805818d009d6774b,ce5edab694b4467aa9b3e1d81d8bf92c,00496_000.jpg,@recycling.film,,Single Pack,8exp
 497,0,film_box_outside,Fujifilm,Fujicolor Natura 1600,35mm,1600,C-41,201912,1765564029,82070ebfa2c3d491604f2941cb92df33,70948fbe01434f64bf95c813e2c8c8ed,00497_000.jpg,@recycling.film,,Single Pack,36exp
-498,0,film_box_outside,Polaroid,Color 600 Film,Integral Film,640,Instant,202609,1765564306,66b9c4feb8977e1d0b2a9f3b6c4ce187,51d75e2058564d668402d5f1bf3fe12f,00498_000.jpg,toader,,Single Pack,16exp
-498,1,film_box_outside,Polaroid,Color 600 Film,Integral Film,640,Instant,202609,1765564311,a72c3ddbe9df2263ff5624c6b4096c4f,f6c79651a4c147e0b902c3e8c4db52e3,00498_001.jpg,toader,,Single Pack,16exp
-498,2,film_box_inside,Polaroid,Color 600 Film,Integral Film,640,Instant,202609,1765564314,f8558150c5f9fdc5fbce165a565f630e,52079bbae4d8474da690f4f6da194578,00498_002.jpg,toader,,Single Pack,16exp
-498,3,film_box_inside,Polaroid,Color 600 Film,Integral Film,640,Instant,202609,1765564317,c8b22891c0aa06d38fcc294c508cc49a,d3ee36b0442241e78e56a0b9910e24a9,00498_003.jpg,toader,,Single Pack,16exp
+498,0,film_box_outside,Polaroid,Color 600 Film,Instant Integral Film,640,Instant,202609,1765564306,66b9c4feb8977e1d0b2a9f3b6c4ce187,51d75e2058564d668402d5f1bf3fe12f,00498_000.jpg,toader,,Single Pack,16exp
+498,1,film_box_outside,Polaroid,Color 600 Film,Instant Integral Film,640,Instant,202609,1765564311,a72c3ddbe9df2263ff5624c6b4096c4f,f6c79651a4c147e0b902c3e8c4db52e3,00498_001.jpg,toader,,Single Pack,16exp
+498,2,film_box_inside,Polaroid,Color 600 Film,Instant Integral Film,640,Instant,202609,1765564314,f8558150c5f9fdc5fbce165a565f630e,52079bbae4d8474da690f4f6da194578,00498_002.jpg,toader,,Single Pack,16exp
+498,3,film_box_inside,Polaroid,Color 600 Film,Instant Integral Film,640,Instant,202609,1765564317,c8b22891c0aa06d38fcc294c508cc49a,d3ee36b0442241e78e56a0b9910e24a9,00498_003.jpg,toader,,Single Pack,16exp
 499,0,film_box_outside,Film Photography Project,FPP 620 Black & White Panchromatic Negative Film,620,100,BW,Unknown,1765564567,f8f0e385fa6f94d3c4e77f2a06d5d83f,6b7dc0000a5f493caa53c841c3ce60ce,00499_000.jpg,@gregrouxphotography,,Single Pack,N/A
 499,1,film_box_inside,Film Photography Project,FPP 620 Black & White Panchromatic Negative Film,620,100,BW,Unknown,1765564568,f87d44af57e1c7513ea58b33821e3f35,c98c9d4ac4f944cd837f718b5ae748a0,00499_001.jpg,@gregrouxphotography,,Single Pack,N/A
 500,0,film_box_outside,CineStill,800T,35mm,800,C-41,202704,1765564708,d5f6fb561b9d99f8fed30bfaf503620d,8b04191a9e994df4a219d5bfd9dfc96e,00500_000.jpg,kaimon,,Single Pack,36exp
@@ -1040,12 +1040,12 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 560,1,film_box_inside,Lucky,C200,35mm,200,C-41,201301,1776109864,340cfd8d7a800e8b34435bae98ce6c0e,59c76e90f1b947c28da172d2c7f5e2df,00560_001.jpg,Dialupdude,,Single Pack,36exp
 561,0,film_box_outside,1Shot,Color Print Film,35mm,400,C-41,202508,1776109926,4f687796229a4538fae9c761174b9738,7e2a1df614294a7680f4b9478c578cf0,00561_000.jpg,Dialupdude,,Single Pack,24exp
 562,0,film_box_outside,Kodak,Sport Single Use Camera,35mm,800,C-41,202605,1776110020,b9bd75154be4a9d8e2ee5f1656279b91,e9b9c65612ae498080917cde3fd94618,00562_000.jpg,Dialupdude,,Single Pack,27exp
-563,0,film_box_outside,Polaroid,Color i-Type Film,Integral Film,640,Instant,202307,1776110174,c4a791a5614f206146135dd616344473,a0f16870196d400eb47971a65ab747a7,00563_000.jpg,Dialupdude,,Single Pack,16exp
-563,1,film_box_inside,Polaroid,Color i-Type Film,Integral Film,640,Instant,202307,1776110176,a889c79735009c6b95c90fefecabdf21,0c52f0b46fc847ce8dba3f2f22609100,00563_001.jpg,Dialupdude,,Single Pack,16exp
-564,0,film_box_outside,Polaroid,Color i-Type Film,Integral Film,640,Instant,202403,1776110235,6bf347637de7f576abd101354f945af2,a66f7c510e5e49e0b14a1165b59d32e9,00564_000.jpg,Dialupdude,,Single Pack,8exp
-564,1,film_box_inside,Polaroid,Color i-Type Film,Integral Film,640,Instant,202403,1776110237,b3d13cf365d2c49584f2d3f6e32864a7,7cb12adb23de4c09ae158c3f290de943,00564_001.jpg,Dialupdude,,Single Pack,8exp
-565,0,film_box_outside,Polaroid,B&W i-Type Film,Integral Film,640,Instant,202507,1776110301,d7e756d7f66b7da816caff8ca1931c73,d0c5d59f8d974c83b651e1b9e8f7963a,00565_000.jpg,Dialupdude,,Single Pack,8exp
-565,1,film_box_inside,Polaroid,B&W i-Type Film,Integral Film,640,Instant,202507,1776110303,9110c58c4dff2870e3dde2d155c6a9a1,77ff51132ecc4e08b3c3e93abebe4af8,00565_001.jpg,Dialupdude,,Single Pack,8exp
+563,0,film_box_outside,Polaroid,Color i-Type Film,Instant Integral Film,640,Instant,202307,1776110174,c4a791a5614f206146135dd616344473,a0f16870196d400eb47971a65ab747a7,00563_000.jpg,Dialupdude,,Single Pack,16exp
+563,1,film_box_inside,Polaroid,Color i-Type Film,Instant Integral Film,640,Instant,202307,1776110176,a889c79735009c6b95c90fefecabdf21,0c52f0b46fc847ce8dba3f2f22609100,00563_001.jpg,Dialupdude,,Single Pack,16exp
+564,0,film_box_outside,Polaroid,Color i-Type Film,Instant Integral Film,640,Instant,202403,1776110235,6bf347637de7f576abd101354f945af2,a66f7c510e5e49e0b14a1165b59d32e9,00564_000.jpg,Dialupdude,,Single Pack,8exp
+564,1,film_box_inside,Polaroid,Color i-Type Film,Instant Integral Film,640,Instant,202403,1776110237,b3d13cf365d2c49584f2d3f6e32864a7,7cb12adb23de4c09ae158c3f290de943,00564_001.jpg,Dialupdude,,Single Pack,8exp
+565,0,film_box_outside,Polaroid,B&W i-Type Film,Instant Integral Film,640,Instant,202507,1776110301,d7e756d7f66b7da816caff8ca1931c73,d0c5d59f8d974c83b651e1b9e8f7963a,00565_000.jpg,Dialupdude,,Single Pack,8exp
+565,1,film_box_inside,Polaroid,B&W i-Type Film,Instant Integral Film,640,Instant,202507,1776110303,9110c58c4dff2870e3dde2d155c6a9a1,77ff51132ecc4e08b3c3e93abebe4af8,00565_001.jpg,Dialupdude,,Single Pack,8exp
 566,0,film_box_outside,Agfa,AgfaChrome 50 S,120,50,AP41,197707,1779792601,0bb0360c40d2698e4e20e81fa243a703,614f88677713446992d710403ec5eb28,00566_000.jpg,Luci 101,,Single Pack,N/A
 566,1,film_box_outside,Agfa,AgfaChrome 50 S,120,50,AP41,197707,1779792603,ab9eb8ce7bf628b7228223fe0b8d1af2,563ff01a71b8458e995e169d10771e29,00566_001.jpg,Luci 101,,Single Pack,N/A
 566,2,film_box_outside,Agfa,AgfaChrome 50 S,120,50,AP41,197707,1779792606,f412bb7c6f9b15b2d284e53adc41921e,6e3128ce6339494ba89745d7618298e0,00566_002.jpg,Luci 101,,Single Pack,N/A
@@ -1093,3 +1093,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 588,0,film_box_outside,Agfa,Agfacolor CNS,620,80,CNS,198101,1781610009,a5cdab1883327384e606bcc0ae0d5a45,c5ed76a41fde41e1b07d83ed38800d8a,00588_000.jpg,nyctomanica,,Single Pack,N/A
 589,0,film_box_outside,Kodak,Ektagraphic HC Slide Film,35mm,25,BW,198903,1781610117,77fdbdfd746a970f11ad49677ee54fa6,f2a364463c5d40ad9e438566b786d2a2,00589_000.jpg,nyctomanica,,Single Pack,36exp
 590,0,film_box_outside,Kodak,Ektachrome 320T,35mm,320,E-6,200702,1781610151,d955a6fa1180b192a7d132e4ff59a191,39eee484e9cf4b8aaade4a1092010e11,00590_000.jpg,nyctomanica,,Single Pack,36exp
+591,0,film_box_outside,Polaroid,TZ Artistic Fade to Black,Instant Integral Film,125,Instant,200910,1781610333,c1b4ed63707ea16e0bac39bf7d4d4d1c,1db6d025cc904e11858f76ce0053de21,00591_000.jpg,nyctomanica,,Single Pack,8exp
+591,1,film_box_inside,Polaroid,TZ Artistic Fade to Black,Instant Integral Film,125,Instant,200910,1781610338,13586e309b046eb80a3c16eb6850b683,307ef2f11d7f4a3cb540da795f1b3d5a,00591_001.jpg,nyctomanica,,Single Pack,8exp
+592,0,film_box_outside,Impossible Project,PX 680 Color Shade / First Flush,Instant Integral Film,600,Instant,201107,1781610445,f3a2d7e90ad919ded4ce0888253cf9d7,21d81b0f422340189e48c53b02b8580b,00592_000.jpg,nyctomanica,,Single Pack,8exp
+593,0,film_box_outside,Polaroid,100 Blue Film,Instant Pack Film,80,Instant,200904,1781610553,22d24ac51670be2de5f7e7e0e98e7e54,5efc4291de384f9fa47153d007d293b8,00593_000.jpg,nyctomanica,,Single Pack,10exp
+594,0,film_box_outside,Kodak,Kodacolor Gold,Disc Film,400,C-41,Unknown,1781610711,e567077be59aa73de437f372303f38a5,7f9897837fc645f5bbe5c6c18bb84ccd,00594_000.jpg,nyctomanica,,Single Pack,15exp

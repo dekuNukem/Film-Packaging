@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Jun 16 2026
-Unique items: 586
-Total scans : 1094
+Unique items: 590
+Total scans : 1099
 ```
 
 Or Sort by...
@@ -68,16 +68,16 @@ Rank  Username                      Contributions
 13    Nano_Burger                   18    
 14    toader                        17    
 15    waldoboro                     16    
-16    yc128                         14    
-17    b0baspace                     14    
-18    @SirBrentsworth               13    
-19    benikum                       12    
-20    u/ReeeSchmidtyWerber          11    
-21    Chrisbes                      11    
-22    @zruk_ts                      10    
-23    minidiscus                    10    
-24    Dialupdude                    10    
-25    nyctomanica                   10    
+16    nyctomanica                   15    
+17    yc128                         14    
+18    b0baspace                     14    
+19    @SirBrentsworth               13    
+20    benikum                       12    
+21    u/ReeeSchmidtyWerber          11    
+22    Chrisbes                      11    
+23    @zruk_ts                      10    
+24    minidiscus                    10    
+25    Dialupdude                    10    
 26    lilyu.xyz                     9     
 27    lt_col_tall                   9     
 28    @toastergod101                7     
@@ -110,9 +110,13 @@ Rank  Username                      Contributions
   - nyctomanica: Agfa Agfacolor CNS
   - nyctomanica: Camera Film Photo Limited Kiki Pan 320
   - nyctomanica: Fujifilm 400
+  - nyctomanica: Impossible Project PX 680 Color Shade / First Flush
   - nyctomanica: Kodak Ektachrome 320T
   - nyctomanica: Kodak Ektagraphic HC Slide Film
   - nyctomanica: Kodak Kodachrome 64
+  - nyctomanica: Kodak Kodacolor Gold
+  - nyctomanica: Polaroid 100 Blue Film
+  - nyctomanica: Polaroid TZ Artistic Fade to Black
 
 2026-06-10
   - nyctomanica: Kodak Ektachrome 160T

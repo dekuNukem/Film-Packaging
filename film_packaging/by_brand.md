@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Jun 16 2026
-Unique items: 586
-Total scans : 1094
+Unique items: 590
+Total scans : 1099
 ```
 
 -----
@@ -273,6 +273,7 @@ Total scans : 1094
 - [Illingworth's Fleet H&D (ref: 54fe)](#illingworths-fleet-h-d-ref-54fe)
 - [Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras (ref: 861c)](#impossible-project-color-instant-film-for-polaroid-sx-70-type-cameras-ref-861c)
 - [Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)](#impossible-project-px-600-silver-shade-uv-ref-20f3)
+- [Impossible Project PX 680 Color Shade / First Flush (ref: 580b)](#impossible-project-px-680-color-shade--first-flush-ref-580b)
 - [JCH Streetpan (ref: 6e58)](#jch-streetpan-ref-6e58)
 - [JCH Streetpan (ref: 5c70)](#jch-streetpan-ref-5c70)
 - [Jessops CS100 (ref: 4288)](#jessops-cs100-ref-4288)
@@ -376,6 +377,7 @@ Total scans : 1094
 - [Kodak Kodacolor 100 (ref: 73e0)](#kodak-kodacolor-100-ref-73e0)
 - [Kodak Kodacolor 200 (ref: ba30)](#kodak-kodacolor-200-ref-ba30)
 - [Kodak Kodacolor 400 (ref: 9e4c)](#kodak-kodacolor-400-ref-9e4c)
+- [Kodak Kodacolor Gold (ref: 4ccd)](#kodak-kodacolor-gold-ref-4ccd)
 - [Kodak Kodacolor Gold 200 (ref: f368)](#kodak-kodacolor-gold-200-ref-f368)
 - [Kodak Kodacolor Gold 400 (ref: 473d)](#kodak-kodacolor-gold-400-ref-473d)
 - [Kodak Kodacolor II (ref: f435)](#kodak-kodacolor-ii-ref-f435)
@@ -529,6 +531,7 @@ Total scans : 1094
 - [Perutz Superomnia (ref: c90d)](#perutz-superomnia-ref-c90d)
 - [Photocité 400 ISO (ref: e370)](#photocité-400-iso-ref-e370)
 - [Phöbus-Platten Sheet Film (ref: d505)](#phöbus-platten-sheet-film-ref-d505)
+- [Polaroid 100 Blue Film (ref: 93b8)](#polaroid-100-blue-film-ref-93b8)
 - [Polaroid 665 (ref: e054)](#polaroid-665-ref-e054)
 - [Polaroid 669 (ref: 3566)](#polaroid-669-ref-3566)
 - [Polaroid 87 (ref: 62ef)](#polaroid-87-ref-62ef)
@@ -550,6 +553,7 @@ Total scans : 1094
 - [Polaroid Polacolor 679 (ref: 625c)](#polaroid-polacolor-679-ref-625c)
 - [Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)](#polaroid-polavision-phototape-land-cassette-type-608-ref-90b9)
 - [Polaroid Spectra Film (ref: 7a94)](#polaroid-spectra-film-ref-7a94)
+- [Polaroid TZ Artistic Fade to Black (ref: de21)](#polaroid-tz-artistic-fade-to-black-ref-de21)
 - [Polaroid Type 42 (ref: f92c)](#polaroid-type-42-ref-f92c)
 - [Porst Color N21 (ref: 494a)](#porst-color-n21-ref-494a)
 - [Premium Super XG (ref: 8ccd)](#premium-super-xg-ref-8ccd)
@@ -2990,7 +2994,7 @@ UUID  : 624c7d05c28a4bfb834ba537631e1f1d
 #### Fujifilm FP-100C (ref: 5cda)
 
 ```
-Format: Pack Film    |  Process : Instant 
+Format: Instant Pack Film|  Process : Instant 
 ISO   : 100          |  Expiry  : 2015-01 
 Type  : Single Pack  |  Quantity: 10exp   
 Added : 2025-09-01   |  Author  : @recycling.film
@@ -2998,14 +3002,14 @@ UUID  : 9bf3702e732a42adb54727a565645cda
 ```
 
 <a href="./archive/00277_000.jpg" target="_blank">
-	<img src="./lowres/00277_000.jpg" alt="Fujifilm FP-100C Pack Film film box outside" loading="lazy" width="500" height="353">
+	<img src="./lowres/00277_000.jpg" alt="Fujifilm FP-100C Instant Pack Film film box outside" loading="lazy" width="500" height="353">
 </a>
 
 
 `UUID: bfb832790e754aa0ba98a030969ab95d`↓
 
 <a href="./archive/00277_001.jpg" target="_blank">
-	<img src="./lowres/00277_001.jpg" alt="Fujifilm FP-100C Pack Film film box inside" loading="lazy" width="500" height="353">
+	<img src="./lowres/00277_001.jpg" alt="Fujifilm FP-100C Instant Pack Film film box inside" loading="lazy" width="500" height="353">
 </a>
 
 #### Fujifilm Fujichrome 64T (ref: 311b)
@@ -4128,7 +4132,7 @@ UUID  : b25d00004e6f46699b06a4cf360f8a6f
 #### Fujifilm Instax Mini (ref: e5e7)
 
 ```
-Format: Integral Film|  Process : Instant 
+Format: Instant Integral Film|  Process : Instant 
 ISO   : 800          |  Expiry  : 2027-04 
 Type  : Multi-Pack-2 |  Quantity: 10exp   
 Added : 2025-09-06   |  Author  : @toastergod101
@@ -4136,7 +4140,7 @@ UUID  : b8ea314888b244f8ab8ace49c734e5e7
 ```
 
 <a href="./archive/00307_000.jpg" target="_blank">
-	<img src="./lowres/00307_000.jpg" alt="Fujifilm Instax Mini Integral Film film box outside" loading="lazy" width="500" height="400">
+	<img src="./lowres/00307_000.jpg" alt="Fujifilm Instax Mini Instant Integral Film film box outside" loading="lazy" width="500" height="400">
 </a>
 
 #### Fujifilm Neopan 400 (ref: c088)
@@ -5449,7 +5453,7 @@ UUID  : bec584ee60f3462381719b3e908f54fe
 #### Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras (ref: 861c)
 
 ```
-Format: Integral Film|  Process : Instant 
+Format: Instant Integral Film|  Process : Instant 
 ISO   : 160          |  Expiry  : 2013-11 
 Type  : Single Pack  |  Quantity: 8exp    
 Added : 2025-10-14   |  Author  : dekuNukem
@@ -5457,55 +5461,55 @@ UUID  : 0543dd31cf204c8499f5f1e51a9b861c
 ```
 
 <a href="./archive/00395_000.jpg" target="_blank">
-	<img src="./lowres/00395_000.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film box outside" loading="lazy" width="500" height="361">
+	<img src="./lowres/00395_000.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Instant Integral Film film box outside" loading="lazy" width="500" height="361">
 </a>
 
 
 `UUID: c8261d3d4696463091c1e946521ba6b8`↓
 
 <a href="./archive/00395_001.jpg" target="_blank">
-	<img src="./lowres/00395_001.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film cartridge" loading="lazy" width="429" height="499">
+	<img src="./lowres/00395_001.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Instant Integral Film film cartridge" loading="lazy" width="429" height="499">
 </a>
 
 
 `UUID: f6f40232e62741eb8bbc5f22f9e38dc8`↓
 
 <a href="./archive/00395_002.jpg" target="_blank">
-	<img src="./lowres/00395_002.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film cartridge" loading="lazy" width="426" height="500">
+	<img src="./lowres/00395_002.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Instant Integral Film film cartridge" loading="lazy" width="426" height="500">
 </a>
 
 
 `UUID: e0caa1919c6d4af3a5478f7e16c3664d`↓
 
 <a href="./archive/00395_003.jpg" target="_blank">
-	<img src="./lowres/00395_003.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film box leaflet" loading="lazy" width="331" height="500">
+	<img src="./lowres/00395_003.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Instant Integral Film film box leaflet" loading="lazy" width="331" height="500">
 </a>
 
 
 `UUID: 771ae62e2ca14e40a13c15c815d42ff0`↓
 
 <a href="./archive/00395_004.jpg" target="_blank">
-	<img src="./lowres/00395_004.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film box leaflet" loading="lazy" width="313" height="500">
+	<img src="./lowres/00395_004.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Instant Integral Film film box leaflet" loading="lazy" width="313" height="500">
 </a>
 
 
 `UUID: fe686e709acd4d8eb81aa903bc07d146`↓
 
 <a href="./archive/00395_005.jpg" target="_blank">
-	<img src="./lowres/00395_005.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film box leaflet" loading="lazy" width="322" height="500">
+	<img src="./lowres/00395_005.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Instant Integral Film film box leaflet" loading="lazy" width="322" height="500">
 </a>
 
 
 `UUID: 1bb9712c568140bd86d5d2ba361b85c9`↓
 
 <a href="./archive/00395_006.jpg" target="_blank">
-	<img src="./lowres/00395_006.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Integral Film film box leaflet" loading="lazy" width="322" height="500">
+	<img src="./lowres/00395_006.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Instant Integral Film film box leaflet" loading="lazy" width="322" height="500">
 </a>
 
 #### Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)
 
 ```
-Format: Integral Film|  Process : Instant 
+Format: Instant Integral Film|  Process : Instant 
 ISO   : 600          |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 8exp    
 Added : 2025-09-28   |  Author  : @ellafridalindblom
@@ -5513,7 +5517,21 @@ UUID  : 28ed6948476d4d7baeb8e7fd7c3520f3
 ```
 
 <a href="./archive/00354_000.jpg" target="_blank">
-	<img src="./lowres/00354_000.jpg" alt="Impossible Project PX 600 Silver Shade UV+ Integral Film film box outside" loading="lazy" width="194" height="500">
+	<img src="./lowres/00354_000.jpg" alt="Impossible Project PX 600 Silver Shade UV+ Instant Integral Film film box outside" loading="lazy" width="194" height="500">
+</a>
+
+#### Impossible Project PX 680 Color Shade / First Flush (ref: 580b)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 600          |  Expiry  : 2011-07 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 21d81b0f422340189e48c53b02b8580b
+```
+
+<a href="./archive/00592_000.jpg" target="_blank">
+	<img src="./lowres/00592_000.jpg" alt="Impossible Project PX 680 Color Shade / First Flush Instant Integral Film film box outside" loading="lazy" width="370" height="500">
 </a>
 
 #### JCH Streetpan (ref: 6e58)
@@ -7665,6 +7683,20 @@ UUID  : 3ef3252141a64ffe9d7e3fad745b9e4c
 
 <a href="./archive/00331_002.jpg" target="_blank">
 	<img src="./lowres/00331_002.jpg" alt="Kodak Kodacolor 400 110 film box leaflet" loading="lazy" width="410" height="499">
+</a>
+
+#### Kodak Kodacolor Gold (ref: 4ccd)
+
+```
+Format: Disc Film    |  Process : C-41    
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 15exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 7f9897837fc645f5bbe5c6c18bb84ccd
+```
+
+<a href="./archive/00594_000.jpg" target="_blank">
+	<img src="./lowres/00594_000.jpg" alt="Kodak Kodacolor Gold Disc Film film box outside" loading="lazy" width="403" height="500">
 </a>
 
 #### Kodak Kodacolor Gold 200 (ref: f368)
@@ -10704,10 +10736,24 @@ UUID  : d9b0fa92fbbb494085ce494cc407d505
 	<img src="./lowres/00282_000.jpg" alt="Phöbus-Platten Sheet Film 12x16.5cm film box outside" loading="lazy" width="500" height="419">
 </a>
 
+#### Polaroid 100 Blue Film (ref: 93b8)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 80           |  Expiry  : 2009-04 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 5efc4291de384f9fa47153d007d293b8
+```
+
+<a href="./archive/00593_000.jpg" target="_blank">
+	<img src="./lowres/00593_000.jpg" alt="Polaroid 100 Blue Film Instant Pack Film film box outside" loading="lazy" width="500" height="358">
+</a>
+
 #### Polaroid 665 (ref: e054)
 
 ```
-Format: Pack Film    |  Process : Instant 
+Format: Instant Pack Film|  Process : Instant 
 ISO   : 80           |  Expiry  : 1996-08 
 Type  : Single Pack  |  Quantity: 8exp    
 Added : 2025-01-04   |  Author  : dekuNukem
@@ -10715,13 +10761,13 @@ UUID  : 311d896d68b74b1193afcfa129c5e054
 ```
 
 <a href="./archive/00018_000.jpg" target="_blank">
-	<img src="./lowres/00018_000.jpg" alt="Polaroid 665 Pack Film film box outside" loading="lazy" width="500" height="406">
+	<img src="./lowres/00018_000.jpg" alt="Polaroid 665 Instant Pack Film film box outside" loading="lazy" width="500" height="406">
 </a>
 
 #### Polaroid 669 (ref: 3566)
 
 ```
-Format: Pack Film    |  Process : Instant 
+Format: Instant Pack Film|  Process : Instant 
 ISO   : 80           |  Expiry  : 2006-03 
 Type  : Single Pack  |  Quantity: 20exp   
 Added : 2025-01-04   |  Author  : dekuNukem
@@ -10729,13 +10775,13 @@ UUID  : bb62de3a22c04f699c780aeae7c83566
 ```
 
 <a href="./archive/00020_000.jpg" target="_blank">
-	<img src="./lowres/00020_000.jpg" alt="Polaroid 669 Pack Film film box outside" loading="lazy" width="500" height="362">
+	<img src="./lowres/00020_000.jpg" alt="Polaroid 669 Instant Pack Film film box outside" loading="lazy" width="500" height="362">
 </a>
 
 #### Polaroid 87 (ref: 62ef)
 
 ```
-Format: Pack Film    |  Process : Instant 
+Format: Instant Pack Film|  Process : Instant 
 ISO   : 3000         |  Expiry  : 2006-07 
 Type  : Single Pack  |  Quantity: 10exp   
 Added : 2025-08-03   |  Author  : dekuNukem
@@ -10743,20 +10789,20 @@ UUID  : 5a63521777ca4f788d01aac5f94862ef
 ```
 
 <a href="./archive/00158_000.jpg" target="_blank">
-	<img src="./lowres/00158_000.jpg" alt="Polaroid 87 Pack Film film box outside" loading="lazy" width="500" height="349">
+	<img src="./lowres/00158_000.jpg" alt="Polaroid 87 Instant Pack Film film box outside" loading="lazy" width="500" height="349">
 </a>
 
 
 `UUID: 55178f72127944e898f8804ac2663c79`↓
 
 <a href="./archive/00158_001.jpg" target="_blank">
-	<img src="./lowres/00158_001.jpg" alt="Polaroid 87 Pack Film film box inside" loading="lazy" width="349" height="500">
+	<img src="./lowres/00158_001.jpg" alt="Polaroid 87 Instant Pack Film film box inside" loading="lazy" width="349" height="500">
 </a>
 
 #### Polaroid 990 (ref: e3bc)
 
 ```
-Format: Integral Film|  Process : Instant 
+Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2008-10 
 Type  : Multi-Pack-2 |  Quantity: 10exp   
 Added : 2025-09-18   |  Author  : dekuNukem
@@ -10764,34 +10810,34 @@ UUID  : 79f8183905d443aaaab84c6f0944e3bc
 ```
 
 <a href="./archive/00349_000.jpg" target="_blank">
-	<img src="./lowres/00349_000.jpg" alt="Polaroid 990 Integral Film film box outside" loading="lazy" width="500" height="423">
+	<img src="./lowres/00349_000.jpg" alt="Polaroid 990 Instant Integral Film film box outside" loading="lazy" width="500" height="423">
 </a>
 
 
 `UUID: 6e2ec8c800b140baaf1a2438e722931c`↓
 
 <a href="./archive/00349_001.jpg" target="_blank">
-	<img src="./lowres/00349_001.jpg" alt="Polaroid 990 Integral Film film box outside" loading="lazy" width="476" height="500">
+	<img src="./lowres/00349_001.jpg" alt="Polaroid 990 Instant Integral Film film box outside" loading="lazy" width="476" height="500">
 </a>
 
 
 `UUID: d4caa7bc6e1a46e1a5712fccfe5003e0`↓
 
 <a href="./archive/00349_002.jpg" target="_blank">
-	<img src="./lowres/00349_002.jpg" alt="Polaroid 990 Integral Film film box inside" loading="lazy" width="500" height="406">
+	<img src="./lowres/00349_002.jpg" alt="Polaroid 990 Instant Integral Film film box inside" loading="lazy" width="500" height="406">
 </a>
 
 
 `UUID: 99e7ca19be7b412ba276d45c7a09369f`↓
 
 <a href="./archive/00349_003.jpg" target="_blank">
-	<img src="./lowres/00349_003.jpg" alt="Polaroid 990 Integral Film film box inside" loading="lazy" width="484" height="500">
+	<img src="./lowres/00349_003.jpg" alt="Polaroid 990 Instant Integral Film film box inside" loading="lazy" width="484" height="500">
 </a>
 
 #### Polaroid B&W i-Type Film (ref: 963a)
 
 ```
-Format: Integral Film|  Process : Instant 
+Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2025-07 
 Type  : Single Pack  |  Quantity: 8exp    
 Added : 2026-04-13   |  Author  : Dialupdude
@@ -10799,20 +10845,20 @@ UUID  : d0c5d59f8d974c83b651e1b9e8f7963a
 ```
 
 <a href="./archive/00565_000.jpg" target="_blank">
-	<img src="./lowres/00565_000.jpg" alt="Polaroid B&W i-Type Film Integral Film film box outside" loading="lazy" width="238" height="499">
+	<img src="./lowres/00565_000.jpg" alt="Polaroid B&W i-Type Film Instant Integral Film film box outside" loading="lazy" width="238" height="499">
 </a>
 
 
 `UUID: 77ff51132ecc4e08b3c3e93abebe4af8`↓
 
 <a href="./archive/00565_001.jpg" target="_blank">
-	<img src="./lowres/00565_001.jpg" alt="Polaroid B&W i-Type Film Integral Film film box inside" loading="lazy" width="255" height="500">
+	<img src="./lowres/00565_001.jpg" alt="Polaroid B&W i-Type Film Instant Integral Film film box inside" loading="lazy" width="255" height="500">
 </a>
 
 #### Polaroid Color 600 Film (ref: e12f)
 
 ```
-Format: Integral Film|  Process : Instant 
+Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2026-09 
 Type  : Single Pack  |  Quantity: 16exp   
 Added : 2025-12-12   |  Author  : toader  
@@ -10820,34 +10866,34 @@ UUID  : 51d75e2058564d668402d5f1bf3fe12f
 ```
 
 <a href="./archive/00498_000.jpg" target="_blank">
-	<img src="./lowres/00498_000.jpg" alt="Polaroid Color 600 Film Integral Film film box outside" loading="lazy" width="500" height="471">
+	<img src="./lowres/00498_000.jpg" alt="Polaroid Color 600 Film Instant Integral Film film box outside" loading="lazy" width="500" height="471">
 </a>
 
 
 `UUID: f6c79651a4c147e0b902c3e8c4db52e3`↓
 
 <a href="./archive/00498_001.jpg" target="_blank">
-	<img src="./lowres/00498_001.jpg" alt="Polaroid Color 600 Film Integral Film film box outside" loading="lazy" width="426" height="500">
+	<img src="./lowres/00498_001.jpg" alt="Polaroid Color 600 Film Instant Integral Film film box outside" loading="lazy" width="426" height="500">
 </a>
 
 
 `UUID: 52079bbae4d8474da690f4f6da194578`↓
 
 <a href="./archive/00498_002.jpg" target="_blank">
-	<img src="./lowres/00498_002.jpg" alt="Polaroid Color 600 Film Integral Film film box inside" loading="lazy" width="433" height="500">
+	<img src="./lowres/00498_002.jpg" alt="Polaroid Color 600 Film Instant Integral Film film box inside" loading="lazy" width="433" height="500">
 </a>
 
 
 `UUID: d3ee36b0442241e78e56a0b9910e24a9`↓
 
 <a href="./archive/00498_003.jpg" target="_blank">
-	<img src="./lowres/00498_003.jpg" alt="Polaroid Color 600 Film Integral Film film box inside" loading="lazy" width="500" height="450">
+	<img src="./lowres/00498_003.jpg" alt="Polaroid Color 600 Film Instant Integral Film film box inside" loading="lazy" width="500" height="450">
 </a>
 
 #### Polaroid Color 600 Film Round Frame (ref: d985)
 
 ```
-Format: Integral Film|  Process : Instant 
+Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2024-12 
 Type  : Single Pack  |  Quantity: 8exp    
 Added : 2025-08-02   |  Author  : toader  
@@ -10855,34 +10901,34 @@ UUID  : e798fdd114be4a018cb7651bba94d985
 ```
 
 <a href="./archive/00157_000.jpg" target="_blank">
-	<img src="./lowres/00157_000.jpg" alt="Polaroid Color 600 Film Round Frame Integral Film film box outside" loading="lazy" width="417" height="500">
+	<img src="./lowres/00157_000.jpg" alt="Polaroid Color 600 Film Round Frame Instant Integral Film film box outside" loading="lazy" width="417" height="500">
 </a>
 
 
 `UUID: b9ec4052b0d548ef90f77d7fc99d0ccb`↓
 
 <a href="./archive/00157_001.jpg" target="_blank">
-	<img src="./lowres/00157_001.jpg" alt="Polaroid Color 600 Film Round Frame Integral Film film box outside" loading="lazy" width="435" height="500">
+	<img src="./lowres/00157_001.jpg" alt="Polaroid Color 600 Film Round Frame Instant Integral Film film box outside" loading="lazy" width="435" height="500">
 </a>
 
 
 `UUID: 95b81cc72d3646d6966a2341510333aa`↓
 
 <a href="./archive/00157_002.jpg" target="_blank">
-	<img src="./lowres/00157_002.jpg" alt="Polaroid Color 600 Film Round Frame Integral Film film box inside" loading="lazy" width="432" height="500">
+	<img src="./lowres/00157_002.jpg" alt="Polaroid Color 600 Film Round Frame Instant Integral Film film box inside" loading="lazy" width="432" height="500">
 </a>
 
 
 `UUID: 038f964e849d4fd1a0c6f1aeb6dd4b0e`↓
 
 <a href="./archive/00157_003.jpg" target="_blank">
-	<img src="./lowres/00157_003.jpg" alt="Polaroid Color 600 Film Round Frame Integral Film film box inside" loading="lazy" width="423" height="500">
+	<img src="./lowres/00157_003.jpg" alt="Polaroid Color 600 Film Round Frame Instant Integral Film film box inside" loading="lazy" width="423" height="500">
 </a>
 
 #### Polaroid Color SX-70 Film (ref: dc7f)
 
 ```
-Format: Integral Film|  Process : Instant 
+Format: Instant Integral Film|  Process : Instant 
 ISO   : 160          |  Expiry  : 2025-04 
 Type  : Single Pack  |  Quantity: 8exp    
 Added : 2025-08-02   |  Author  : toader  
@@ -10890,34 +10936,34 @@ UUID  : b4af154cea6f40c0aa1d4154d0c2dc7f
 ```
 
 <a href="./archive/00156_000.jpg" target="_blank">
-	<img src="./lowres/00156_000.jpg" alt="Polaroid Color SX-70 Film Integral Film film box outside" loading="lazy" width="421" height="500">
+	<img src="./lowres/00156_000.jpg" alt="Polaroid Color SX-70 Film Instant Integral Film film box outside" loading="lazy" width="421" height="500">
 </a>
 
 
 `UUID: 5ce2d6b8b1894bf7b67c5a9fdd635a6e`↓
 
 <a href="./archive/00156_001.jpg" target="_blank">
-	<img src="./lowres/00156_001.jpg" alt="Polaroid Color SX-70 Film Integral Film film box outside" loading="lazy" width="440" height="499">
+	<img src="./lowres/00156_001.jpg" alt="Polaroid Color SX-70 Film Instant Integral Film film box outside" loading="lazy" width="440" height="499">
 </a>
 
 
 `UUID: 170151c0a84e459db08a9b3718b67743`↓
 
 <a href="./archive/00156_002.jpg" target="_blank">
-	<img src="./lowres/00156_002.jpg" alt="Polaroid Color SX-70 Film Integral Film film box inside" loading="lazy" width="435" height="500">
+	<img src="./lowres/00156_002.jpg" alt="Polaroid Color SX-70 Film Instant Integral Film film box inside" loading="lazy" width="435" height="500">
 </a>
 
 
 `UUID: 3c3020e2767a48b88a7dd8662a0ec06d`↓
 
 <a href="./archive/00156_003.jpg" target="_blank">
-	<img src="./lowres/00156_003.jpg" alt="Polaroid Color SX-70 Film Integral Film film box inside" loading="lazy" width="425" height="499">
+	<img src="./lowres/00156_003.jpg" alt="Polaroid Color SX-70 Film Instant Integral Film film box inside" loading="lazy" width="425" height="499">
 </a>
 
 #### Polaroid Color i-Type Film (ref: 47a7)
 
 ```
-Format: Integral Film|  Process : Instant 
+Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2023-07 
 Type  : Single Pack  |  Quantity: 16exp   
 Added : 2026-04-13   |  Author  : Dialupdude
@@ -10925,20 +10971,20 @@ UUID  : a0f16870196d400eb47971a65ab747a7
 ```
 
 <a href="./archive/00563_000.jpg" target="_blank">
-	<img src="./lowres/00563_000.jpg" alt="Polaroid Color i-Type Film Integral Film film box outside" loading="lazy" width="290" height="500">
+	<img src="./lowres/00563_000.jpg" alt="Polaroid Color i-Type Film Instant Integral Film film box outside" loading="lazy" width="290" height="500">
 </a>
 
 
 `UUID: 0c52f0b46fc847ce8dba3f2f22609100`↓
 
 <a href="./archive/00563_001.jpg" target="_blank">
-	<img src="./lowres/00563_001.jpg" alt="Polaroid Color i-Type Film Integral Film film box inside" loading="lazy" width="303" height="500">
+	<img src="./lowres/00563_001.jpg" alt="Polaroid Color i-Type Film Instant Integral Film film box inside" loading="lazy" width="303" height="500">
 </a>
 
 #### Polaroid Color i-Type Film (ref: 32e9)
 
 ```
-Format: Integral Film|  Process : Instant 
+Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2024-03 
 Type  : Single Pack  |  Quantity: 8exp    
 Added : 2026-04-13   |  Author  : Dialupdude
@@ -10946,20 +10992,20 @@ UUID  : a66f7c510e5e49e0b14a1165b59d32e9
 ```
 
 <a href="./archive/00564_000.jpg" target="_blank">
-	<img src="./lowres/00564_000.jpg" alt="Polaroid Color i-Type Film Integral Film film box outside" loading="lazy" width="269" height="500">
+	<img src="./lowres/00564_000.jpg" alt="Polaroid Color i-Type Film Instant Integral Film film box outside" loading="lazy" width="269" height="500">
 </a>
 
 
 `UUID: 7cb12adb23de4c09ae158c3f290de943`↓
 
 <a href="./archive/00564_001.jpg" target="_blank">
-	<img src="./lowres/00564_001.jpg" alt="Polaroid Color i-Type Film Integral Film film box inside" loading="lazy" width="280" height="500">
+	<img src="./lowres/00564_001.jpg" alt="Polaroid Color i-Type Film Instant Integral Film film box inside" loading="lazy" width="280" height="500">
 </a>
 
 #### Polaroid Green 600 Film Reclaimed Series (ref: 0180)
 
 ```
-Format: Integral Film|  Process : Instant 
+Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2025-07 
 Type  : Single Pack  |  Quantity: 8exp    
 Added : 2025-11-11   |  Author  : @ellafridalindblom
@@ -10967,20 +11013,20 @@ UUID  : 613f5e7014704b5bbe28565cfe290180
 ```
 
 <a href="./archive/00477_000.jpg" target="_blank">
-	<img src="./lowres/00477_000.jpg" alt="Polaroid Green 600 Film Reclaimed Series Integral Film film box outside" loading="lazy" width="254" height="500">
+	<img src="./lowres/00477_000.jpg" alt="Polaroid Green 600 Film Reclaimed Series Instant Integral Film film box outside" loading="lazy" width="254" height="500">
 </a>
 
 
 `UUID: c92f5c416c764c83845e115db6e90106`↓
 
 <a href="./archive/00477_001.jpg" target="_blank">
-	<img src="./lowres/00477_001.jpg" alt="Polaroid Green 600 Film Reclaimed Series Integral Film film box inside" loading="lazy" width="255" height="500">
+	<img src="./lowres/00477_001.jpg" alt="Polaroid Green 600 Film Reclaimed Series Instant Integral Film film box inside" loading="lazy" width="255" height="500">
 </a>
 
 #### Polaroid GridFilm (ref: 8deb)
 
 ```
-Format: Integral Film|  Process : Instant 
+Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2006-10 
 Type  : Multi-Pack-2 |  Quantity: 10exp   
 Added : 2025-01-05   |  Author  : dekuNukem
@@ -10988,28 +11034,28 @@ UUID  : 4f1aabf29f724c9ea3b2bee414b08deb
 ```
 
 <a href="./archive/00031_000.jpg" target="_blank">
-	<img src="./lowres/00031_000.jpg" alt="Polaroid GridFilm Integral Film film box outside" loading="lazy" width="490" height="500">
+	<img src="./lowres/00031_000.jpg" alt="Polaroid GridFilm Instant Integral Film film box outside" loading="lazy" width="490" height="500">
 </a>
 
 
 `UUID: 1dda008c9a844e1b9b64527511fdc282`↓
 
 <a href="./archive/00031_001.jpg" target="_blank">
-	<img src="./lowres/00031_001.jpg" alt="Polaroid GridFilm Integral Film film box outside" loading="lazy" width="500" height="395">
+	<img src="./lowres/00031_001.jpg" alt="Polaroid GridFilm Instant Integral Film film box outside" loading="lazy" width="500" height="395">
 </a>
 
 
 `UUID: 727d6925fdca4834bd96d71c32f40077`↓
 
 <a href="./archive/00031_002.jpg" target="_blank">
-	<img src="./lowres/00031_002.jpg" alt="Polaroid GridFilm Integral Film film box inside" loading="lazy" width="490" height="500">
+	<img src="./lowres/00031_002.jpg" alt="Polaroid GridFilm Instant Integral Film film box inside" loading="lazy" width="490" height="500">
 </a>
 
 
 `UUID: aa6fba27f7c9484291dbf8279a8e3d18`↓
 
 <a href="./archive/00031_003.jpg" target="_blank">
-	<img src="./lowres/00031_003.jpg" alt="Polaroid GridFilm Integral Film film box inside" loading="lazy" width="500" height="340">
+	<img src="./lowres/00031_003.jpg" alt="Polaroid GridFilm Instant Integral Film film box inside" loading="lazy" width="500" height="340">
 </a>
 
 #### Polaroid High Definition (ref: deb6)
@@ -11029,7 +11075,7 @@ UUID  : 6c15a39618164543bfc2ef7f54addeb6
 #### Polaroid Image Instant Film (ref: ee6d)
 
 ```
-Format: Integral Film|  Process : Instant 
+Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2007-07 
 Type  : Single Pack  |  Quantity: 10exp   
 Added : 2025-10-03   |  Author  : @ellafridalindblom
@@ -11037,14 +11083,14 @@ UUID  : 6a3ab27a3a964d7c9ecc38dbce2fee6d
 ```
 
 <a href="./archive/00364_000.jpg" target="_blank">
-	<img src="./lowres/00364_000.jpg" alt="Polaroid Image Instant Film Integral Film film box outside" loading="lazy" width="293" height="500">
+	<img src="./lowres/00364_000.jpg" alt="Polaroid Image Instant Film Instant Integral Film film box outside" loading="lazy" width="293" height="500">
 </a>
 
 
 `UUID: c2742bb793f34d90a0365bb82e0160df`↓
 
 <a href="./archive/00364_001.jpg" target="_blank">
-	<img src="./lowres/00364_001.jpg" alt="Polaroid Image Instant Film Integral Film film box inside" loading="lazy" width="303" height="500">
+	<img src="./lowres/00364_001.jpg" alt="Polaroid Image Instant Film Instant Integral Film film box inside" loading="lazy" width="303" height="500">
 </a>
 
 #### Polaroid PolaBlue 35mm (ref: df66)
@@ -11204,7 +11250,7 @@ UUID  : 24a8ae46c50049afb35fc44e956a9825
 #### Polaroid Polacolor 679 (ref: 625c)
 
 ```
-Format: Pack Film    |  Process : Instant 
+Format: Instant Pack Film|  Process : Instant 
 ISO   : 100          |  Expiry  : 1998-06 
 Type  : Multi-Pack-2 |  Quantity: 10exp   
 Added : 2025-08-03   |  Author  : dekuNukem
@@ -11212,28 +11258,28 @@ UUID  : 5844215c1fc74612b6118648b845625c
 ```
 
 <a href="./archive/00161_000.jpg" target="_blank">
-	<img src="./lowres/00161_000.jpg" alt="Polaroid Polacolor 679 Pack Film film box outside" loading="lazy" width="335" height="500">
+	<img src="./lowres/00161_000.jpg" alt="Polaroid Polacolor 679 Instant Pack Film film box outside" loading="lazy" width="335" height="500">
 </a>
 
 
 `UUID: cca2cc887edb44adb3b00fc9b6cb0dfd`↓
 
 <a href="./archive/00161_001.jpg" target="_blank">
-	<img src="./lowres/00161_001.jpg" alt="Polaroid Polacolor 679 Pack Film film box outside" loading="lazy" width="377" height="500">
+	<img src="./lowres/00161_001.jpg" alt="Polaroid Polacolor 679 Instant Pack Film film box outside" loading="lazy" width="377" height="500">
 </a>
 
 
 `UUID: 35d7f44a3b59463fabb387917d8f4808`↓
 
 <a href="./archive/00161_002.jpg" target="_blank">
-	<img src="./lowres/00161_002.jpg" alt="Polaroid Polacolor 679 Pack Film film box inside" loading="lazy" width="377" height="500">
+	<img src="./lowres/00161_002.jpg" alt="Polaroid Polacolor 679 Instant Pack Film film box inside" loading="lazy" width="377" height="500">
 </a>
 
 
 `UUID: cc5370f8b582460ebd5a9e27380bd3d2`↓
 
 <a href="./archive/00161_003.jpg" target="_blank">
-	<img src="./lowres/00161_003.jpg" alt="Polaroid Polacolor 679 Pack Film film box inside" loading="lazy" width="351" height="500">
+	<img src="./lowres/00161_003.jpg" alt="Polaroid Polacolor 679 Instant Pack Film film box inside" loading="lazy" width="351" height="500">
 </a>
 
 #### Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)
@@ -11253,7 +11299,7 @@ UUID  : 010a03a196a543beb83906a352d490b9
 #### Polaroid Spectra Film (ref: 7a94)
 
 ```
-Format: Integral Film|  Process : Instant 
+Format: Instant Integral Film|  Process : Instant 
 ISO   : 600          |  Expiry  : 2002-11 
 Type  : Single Pack  |  Quantity: 10exp   
 Added : 2025-09-28   |  Author  : @ellafridalindblom
@@ -11261,7 +11307,28 @@ UUID  : 2ec40bee5af2471cad92278123ba7a94
 ```
 
 <a href="./archive/00352_000.jpg" target="_blank">
-	<img src="./lowres/00352_000.jpg" alt="Polaroid Spectra Film Integral Film film box outside" loading="lazy" width="271" height="499">
+	<img src="./lowres/00352_000.jpg" alt="Polaroid Spectra Film Instant Integral Film film box outside" loading="lazy" width="271" height="499">
+</a>
+
+#### Polaroid TZ Artistic Fade to Black (ref: de21)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 125          |  Expiry  : 2009-10 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 1db6d025cc904e11858f76ce0053de21
+```
+
+<a href="./archive/00591_000.jpg" target="_blank">
+	<img src="./lowres/00591_000.jpg" alt="Polaroid TZ Artistic Fade to Black Instant Integral Film film box outside" loading="lazy" width="410" height="499">
+</a>
+
+
+`UUID: 307ef2f11d7f4a3cb540da795f1b3d5a`↓
+
+<a href="./archive/00591_001.jpg" target="_blank">
+	<img src="./lowres/00591_001.jpg" alt="Polaroid TZ Artistic Fade to Black Instant Integral Film film box inside" loading="lazy" width="488" height="500">
 </a>
 
 #### Polaroid Type 42 (ref: f92c)
@@ -12417,16 +12484,16 @@ Rank  Username                      Contributions
 13    Nano_Burger                   18    
 14    toader                        17    
 15    waldoboro                     16    
-16    yc128                         14    
-17    b0baspace                     14    
-18    @SirBrentsworth               13    
-19    benikum                       12    
-20    u/ReeeSchmidtyWerber          11    
-21    Chrisbes                      11    
-22    @zruk_ts                      10    
-23    minidiscus                    10    
-24    Dialupdude                    10    
-25    nyctomanica                   10    
+16    nyctomanica                   15    
+17    yc128                         14    
+18    b0baspace                     14    
+19    @SirBrentsworth               13    
+20    benikum                       12    
+21    u/ReeeSchmidtyWerber          11    
+22    Chrisbes                      11    
+23    @zruk_ts                      10    
+24    minidiscus                    10    
+25    Dialupdude                    10    
 26    lilyu.xyz                     9     
 27    lt_col_tall                   9     
 28    @toastergod101                7     
