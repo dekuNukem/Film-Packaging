@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Jun 16 2026
-Unique items: 582
-Total scans : 1090
+Unique items: 586
+Total scans : 1094
 ```
 
 -----
@@ -137,6 +137,7 @@ Total scans : 1090
 - [[BW] Kentmere PAN 400 (ref: 827e)](#bw-kentmere-pan-400-ref-827e)
 - [[BW] Kentmere PAN 400 (ref: a327)](#bw-kentmere-pan-400-ref-a327)
 - [[BW] Kodak Eastman Tri-X Reversal Film 7278 (ref: 8468)](#bw-kodak-eastman-tri-x-reversal-film-7278-ref-8468)
+- [[BW] Kodak Ektagraphic HC Slide Film (ref: d2a2)](#bw-kodak-ektagraphic-hc-slide-film-ref-d2a2)
 - [[BW] Kodak High Contrast Copy Film (ref: db52)](#bw-kodak-high-contrast-copy-film-ref-db52)
 - [[BW] Kodak High Speed Infrared (ref: 4294)](#bw-kodak-high-speed-infrared-ref-4294)
 - [[BW] Kodak High Speed Infrared (ref: 883e)](#bw-kodak-high-speed-infrared-ref-883e)
@@ -472,6 +473,7 @@ Total scans : 1090
 - [[C-41] Walkens Speed 400 (ref: 740f)](#c-41-walkens-speed-400-ref-740f)
 - [[C-41] Wolfen NC500 (ref: 91c1)](#c-41-wolfen-nc500-ref-91c1)
 - [[C-41] York Photo Labs DXG 200 (ref: 4bf8)](#c-41-york-photo-labs-dxg-200-ref-4bf8)
+- [[CNS] Agfa Agfacolor CNS (ref: 0d8a)](#cns-agfa-agfacolor-cns-ref-0d8a)
 - [[CNS] Agfa Agfacolor Negative Film Special CNS (ref: 9b03)](#cns-agfa-agfacolor-negative-film-special-cns-ref-9b03)
 - [[CNS2] Agfa Agfacolor CNS2 (ref: d515)](#cns2-agfa-agfacolor-cns2-ref-d515)
 - [[D-97] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#d-97-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
@@ -513,6 +515,7 @@ Total scans : 1090
 - [[E-6] Kodak Ektachrome 160T (ref: f21a)](#e-6-kodak-ektachrome-160t-ref-f21a)
 - [[E-6] Kodak Ektachrome 200 (ref: f372)](#e-6-kodak-ektachrome-200-ref-f372)
 - [[E-6] Kodak Ektachrome 200 (ref: b21e)](#e-6-kodak-ektachrome-200-ref-b21e)
+- [[E-6] Kodak Ektachrome 320T (ref: 0e11)](#e-6-kodak-ektachrome-320t-ref-0e11)
 - [[E-6] Kodak Ektachrome 400 (ref: 2b94)](#e-6-kodak-ektachrome-400-ref-2b94)
 - [[E-6] Kodak Ektachrome 400 (ref: 3c96)](#e-6-kodak-ektachrome-400-ref-3c96)
 - [[E-6] Kodak Ektachrome 400X (ref: 5b82)](#e-6-kodak-ektachrome-400x-ref-5b82)
@@ -578,6 +581,7 @@ Total scans : 1090
 - [[K-14] Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping (ref: c143)](#k-14-kodak-kodachrome-40-movie-film-type-a-for-post-process-sound-striping-ref-c143)
 - [[K-14] Kodak Kodachrome 64 (ref: 3145)](#k-14-kodak-kodachrome-64-ref-3145)
 - [[K-14] Kodak Kodachrome 64 (ref: 3206)](#k-14-kodak-kodachrome-64-ref-3206)
+- [[K-14] Kodak Kodachrome 64 (ref: b007)](#k-14-kodak-kodachrome-64-ref-b007)
 - [[K-14] Kodak Kodachrome II (ref: 2caa)](#k-14-kodak-kodachrome-ii-ref-2caa)
 - [[K-14] Kodak Kodachrome II (ref: 0982)](#k-14-kodak-kodachrome-ii-ref-0982)
 - [[Unknown] Agfa AgfaColor CT 18 (ref: 1fef)](#unknown-agfa-agfacolor-ct-18-ref-1fef)
@@ -2806,6 +2810,20 @@ UUID  : e214a4d756ac48c4ac6dbe515fd38468
 
 <a href="./archive/00176_000.jpg" target="_blank">
 	<img src="./lowres/00176_000.jpg" alt="Kodak Eastman Tri-X Reversal Film 7278 16mm film box outside" loading="lazy" width="493" height="500">
+</a>
+
+#### [BW] Kodak Ektagraphic HC Slide Film (ref: d2a2)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 25           |  Expiry  : 1989-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : f2a364463c5d40ad9e438566b786d2a2
+```
+
+<a href="./archive/00589_000.jpg" target="_blank">
+	<img src="./lowres/00589_000.jpg" alt="Kodak Ektagraphic HC Slide Film 35mm film box outside" loading="lazy" width="416" height="500">
 </a>
 
 #### [BW] Kodak High Contrast Copy Film (ref: db52)
@@ -8999,6 +9017,20 @@ UUID  : 46037fb6c55244b6ae47c55d0e454bf8
 	<img src="./lowres/00051_000.jpg" alt="York Photo Labs DXG 200 35mm film box outside" loading="lazy" width="500" height="500">
 </a>
 
+#### [CNS] Agfa Agfacolor CNS (ref: 0d8a)
+
+```
+Format: 620          |  Process : CNS     
+ISO   : 80           |  Expiry  : 1981-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : c5ed76a41fde41e1b07d83ed38800d8a
+```
+
+<a href="./archive/00588_000.jpg" target="_blank">
+	<img src="./lowres/00588_000.jpg" alt="Agfa Agfacolor CNS 620 film box outside" loading="lazy" width="500" height="406">
+</a>
+
 #### [CNS] Agfa Agfacolor Negative Film Special CNS (ref: 9b03)
 
 ```
@@ -9945,6 +9977,20 @@ UUID  : 7d8346073bbe4d6a84e57cc2bb28b21e
 
 <a href="./archive/00052_002.jpg" target="_blank">
 	<img src="./lowres/00052_002.jpg" alt="Kodak Ektachrome 200 35mm film box leaflet" loading="lazy" width="181" height="500">
+</a>
+
+#### [E-6] Kodak Ektachrome 320T (ref: 0e11)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 320          |  Expiry  : 2007-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 39eee484e9cf4b8aaade4a1092010e11
+```
+
+<a href="./archive/00590_000.jpg" target="_blank">
+	<img src="./lowres/00590_000.jpg" alt="Kodak Ektachrome 320T 35mm film box outside" loading="lazy" width="421" height="500">
 </a>
 
 #### [E-6] Kodak Ektachrome 400 (ref: 2b94)
@@ -11418,6 +11464,20 @@ UUID  : dc9c151b87de48339e564e6692663206
 	<img src="./lowres/00060_000.jpg" alt="Kodak Kodachrome 64 35mm film box outside" loading="lazy" width="450" height="499">
 </a>
 
+#### [K-14] Kodak Kodachrome 64 (ref: b007)
+
+```
+Format: 220          |  Process : K-14    
+ISO   : 64           |  Expiry  : 2010-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 36d1da1ac9804ac39bd98ab19d4db007
+```
+
+<a href="./archive/00587_000.jpg" target="_blank">
+	<img src="./lowres/00587_000.jpg" alt="Kodak Kodachrome 64 220 film box outside" loading="lazy" width="424" height="500">
+</a>
+
 #### [K-14] Kodak Kodachrome II (ref: 2caa)
 
 ```
@@ -12366,14 +12426,14 @@ Rank  Username                      Contributions
 22    @zruk_ts                      10    
 23    minidiscus                    10    
 24    Dialupdude                    10    
-25    lilyu.xyz                     9     
-26    lt_col_tall                   9     
-27    @toastergod101                7     
-28    @filmfotofella                7     
-29    GreatGizmo74                  6     
-30    nick                          6     
-31    Greg                          6     
-32    nyctomanica                   6     
+25    nyctomanica                   10    
+26    lilyu.xyz                     9     
+27    lt_col_tall                   9     
+28    @toastergod101                7     
+29    @filmfotofella                7     
+30    GreatGizmo74                  6     
+31    nick                          6     
+32    Greg                          6     
 33    Kraksen                       5     
 34    Henry Gunn                    4     
 35    TheSelousScout                4     

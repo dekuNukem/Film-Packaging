@@ -1089,3 +1089,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 585,1,film_box_inside,Camera Film Photo Limited,Kiki Pan 320,35mm,320,BW,202812,1781609515,0c1f46dfd430ee4a0e19027f227b889d,8dbce7087a9940b49d6c56476194f04b,00585_001.jpg,nyctomanica,,Single Pack,36exp
 586,0,film_box_outside,Fujifilm,400,35mm,400,C-41,202609,1781609568,c2bfc62275efa1138299621d50b56562,624c7d05c28a4bfb834ba537631e1f1d,00586_000.jpg,nyctomanica,,Single Pack,36exp
 586,1,film_box_outside,Fujifilm,400,35mm,400,C-41,202609,1781609571,f99a2bcb1bebee64f259fc042e3d8d36,1e7dab1f092343d4ba0295f2068dd5fd,00586_001.jpg,nyctomanica,,Single Pack,36exp
+587,0,film_box_outside,Kodak,Kodachrome 64,220,64,K-14,201011,1781609852,3fb41701f9270eac4d2d0ffc0a9f8306,36d1da1ac9804ac39bd98ab19d4db007,00587_000.jpg,nyctomanica,,Single Pack,36exp
+588,0,film_box_outside,Agfa,Agfacolor CNS,620,80,CNS,198101,1781610009,a5cdab1883327384e606bcc0ae0d5a45,c5ed76a41fde41e1b07d83ed38800d8a,00588_000.jpg,nyctomanica,,Single Pack,N/A
+589,0,film_box_outside,Kodak,Ektagraphic HC Slide Film,35mm,25,BW,198903,1781610117,77fdbdfd746a970f11ad49677ee54fa6,f2a364463c5d40ad9e438566b786d2a2,00589_000.jpg,nyctomanica,,Single Pack,36exp
+590,0,film_box_outside,Kodak,Ektachrome 320T,35mm,320,E-6,200702,1781610151,d955a6fa1180b192a7d132e4ff59a191,39eee484e9cf4b8aaade4a1092010e11,00590_000.jpg,nyctomanica,,Single Pack,36exp

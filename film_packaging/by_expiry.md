@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Jun 16 2026
-Unique items: 582
-Total scans : 1090
+Unique items: 586
+Total scans : 1094
 ```
 
 -----
@@ -128,6 +128,7 @@ Total scans : 1090
 - [[1980] Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)](#1980-polaroid-polavision-phototape-land-cassette-type-608-ref-90b9)
 - [[1980] Kodak Ektachrome 400 (ref: 2b94)](#1980-kodak-ektachrome-400-ref-2b94)
 - [[1980] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)](#1980-kodak-ektachrome-160-movie-film-type-a-ref-8f62)
+- [[1981] Agfa Agfacolor CNS (ref: 0d8a)](#1981-agfa-agfacolor-cns-ref-0d8a)
 - [[1981] Foton Super Orto (ref: 050b)](#1981-foton-super-orto-ref-050b)
 - [[1981] Kodak Kodacolor 400 (ref: 9e4c)](#1981-kodak-kodacolor-400-ref-9e4c)
 - [[1981] Agfa AgfaChrome 50 S (ref: 71a8)](#1981-agfa-agfachrome-50-s-ref-71a8)
@@ -152,6 +153,7 @@ Total scans : 1090
 - [[1988] Kodak Technical Pan 6415 (ref: 03be)](#1988-kodak-technical-pan-6415-ref-03be)
 - [[1988] Fujifilm Neopan SS (ref: d848)](#1988-fujifilm-neopan-ss-ref-d848)
 - [[1988] Kodak Kodacolor Gold 200 (ref: f368)](#1988-kodak-kodacolor-gold-200-ref-f368)
+- [[1989] Kodak Ektagraphic HC Slide Film (ref: d2a2)](#1989-kodak-ektagraphic-hc-slide-film-ref-d2a2)
 - [[1989] Minox MinoColor 3 (ref: d209)](#1989-minox-minocolor-3-ref-d209)
 - [[1989] Fujifilm Fujicolor Super HR (ref: 7fd2)](#1989-fujifilm-fujicolor-super-hr-ref-7fd2)
 - [[1990] Seagull Seagull Color IR100 (ref: e7cc)](#1990-seagull-seagull-color-ir100-ref-e7cc)
@@ -298,6 +300,7 @@ Total scans : 1090
 - [[2007] Fujifilm Neopan Acros 100 II (ref: 4027)](#2007-fujifilm-neopan-acros-100-ii-ref-4027)
 - [[2007] Klick 400ASA (ref: 8779)](#2007-klick-400asa-ref-8779)
 - [[2007] Kodak 110 Film (ref: 8cca)](#2007-kodak-110-film-ref-8cca)
+- [[2007] Kodak Ektachrome 320T (ref: 0e11)](#2007-kodak-ektachrome-320t-ref-0e11)
 - [[2007] Konica Minolta Commercial Color Film (ref: e903)](#2007-konica-minolta-commercial-color-film-ref-e903)
 - [[2007] Fujifilm Fujichrome Velvia 100F (ref: 32d4)](#2007-fujifilm-fujichrome-velvia-100f-ref-32d4)
 - [[2007] Kodak MAX (ref: 2361)](#2007-kodak-max-ref-2361)
@@ -326,6 +329,7 @@ Total scans : 1090
 - [[2010] Fujifilm Neopan 400 Presto (ref: 21a7)](#2010-fujifilm-neopan-400-presto-ref-21a7)
 - [[2010] Kodak Ektachrome E100VS (ref: a8d3)](#2010-kodak-ektachrome-e100vs-ref-a8d3)
 - [[2010] Fujifilm Fujicolor 100 (ref: 013b)](#2010-fujifilm-fujicolor-100-ref-013b)
+- [[2010] Kodak Kodachrome 64 (ref: b007)](#2010-kodak-kodachrome-64-ref-b007)
 - [[2011] Kodak Tri-X 400 (ref: 7145)](#2011-kodak-tri-x-400-ref-7145)
 - [[2012] Fujifilm Fujicolor Professional (ref: 28da)](#2012-fujifilm-fujicolor-professional-ref-28da)
 - [[2012] Kodak Kodacolor VR Plus (ref: f8bf)](#2012-kodak-kodacolor-vr-plus-ref-f8bf)
@@ -3168,6 +3172,20 @@ UUID  : 6032680a3aba41b39c600d7e23998f62
 	<img src="./lowres/00154_004.jpg" alt="Kodak Ektachrome 160 Movie Film Type A Super 8 film box processing envelope" loading="lazy" width="500" height="191">
 </a>
 
+#### [1981] Agfa Agfacolor CNS (ref: 0d8a)
+
+```
+Format: 620          |  Process : CNS     
+ISO   : 80           |  Expiry  : 1981-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : c5ed76a41fde41e1b07d83ed38800d8a
+```
+
+<a href="./archive/00588_000.jpg" target="_blank">
+	<img src="./lowres/00588_000.jpg" alt="Agfa Agfacolor CNS 620 film box outside" loading="lazy" width="500" height="406">
+</a>
+
 #### [1981] Foton Super Orto (ref: 050b)
 
 ```
@@ -3783,6 +3801,20 @@ UUID  : 78bfeed667154d819902ec92d7dcf368
 
 <a href="./archive/00068_000.jpg" target="_blank">
 	<img src="./lowres/00068_000.jpg" alt="Kodak Kodacolor Gold 200 110 film box outside" loading="lazy" width="500" height="403">
+</a>
+
+#### [1989] Kodak Ektagraphic HC Slide Film (ref: d2a2)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 25           |  Expiry  : 1989-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : f2a364463c5d40ad9e438566b786d2a2
+```
+
+<a href="./archive/00589_000.jpg" target="_blank">
+	<img src="./lowres/00589_000.jpg" alt="Kodak Ektagraphic HC Slide Film 35mm film box outside" loading="lazy" width="416" height="500">
 </a>
 
 #### [1989] Minox MinoColor 3 (ref: d209)
@@ -6849,6 +6881,20 @@ UUID  : 6c0cf01a1703494296ce60ad5dd28cca
 	<img src="./lowres/00332_000.jpg" alt="Kodak 110 Film 110 film box outside" loading="lazy" width="299" height="499">
 </a>
 
+#### [2007] Kodak Ektachrome 320T (ref: 0e11)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 320          |  Expiry  : 2007-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 39eee484e9cf4b8aaade4a1092010e11
+```
+
+<a href="./archive/00590_000.jpg" target="_blank">
+	<img src="./lowres/00590_000.jpg" alt="Kodak Ektachrome 320T 35mm film box outside" loading="lazy" width="421" height="500">
+</a>
+
 #### [2007] Konica Minolta Commercial Color Film (ref: e903)
 
 ```
@@ -7330,6 +7376,20 @@ UUID  : 27d88b35933b4ede958b5b5b5b42013b
 
 <a href="./archive/00040_000.jpg" target="_blank">
 	<img src="./lowres/00040_000.jpg" alt="Fujifilm Fujicolor 100 35mm film box outside" loading="lazy" width="434" height="500">
+</a>
+
+#### [2010] Kodak Kodachrome 64 (ref: b007)
+
+```
+Format: 220          |  Process : K-14    
+ISO   : 64           |  Expiry  : 2010-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 36d1da1ac9804ac39bd98ab19d4db007
+```
+
+<a href="./archive/00587_000.jpg" target="_blank">
+	<img src="./lowres/00587_000.jpg" alt="Kodak Kodachrome 64 220 film box outside" loading="lazy" width="424" height="500">
 </a>
 
 #### [2011] Kodak Tri-X 400 (ref: 7145)
@@ -12366,14 +12426,14 @@ Rank  Username                      Contributions
 22    @zruk_ts                      10    
 23    minidiscus                    10    
 24    Dialupdude                    10    
-25    lilyu.xyz                     9     
-26    lt_col_tall                   9     
-27    @toastergod101                7     
-28    @filmfotofella                7     
-29    GreatGizmo74                  6     
-30    nick                          6     
-31    Greg                          6     
-32    nyctomanica                   6     
+25    nyctomanica                   10    
+26    lilyu.xyz                     9     
+27    lt_col_tall                   9     
+28    @toastergod101                7     
+29    @filmfotofella                7     
+30    GreatGizmo74                  6     
+31    nick                          6     
+32    Greg                          6     
 33    Kraksen                       5     
 34    Henry Gunn                    4     
 35    TheSelousScout                4     

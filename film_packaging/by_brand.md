@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Jun 16 2026
-Unique items: 582
-Total scans : 1090
+Unique items: 586
+Total scans : 1094
 ```
 
 -----
@@ -42,6 +42,7 @@ Total scans : 1090
 - [Agfa AgfaColor Vista (ref: 2f14)](#agfa-agfacolor-vista-ref-2f14)
 - [Agfa AgfaColor Vista (ref: d3af)](#agfa-agfacolor-vista-ref-d3af)
 - [Agfa AgfaColor XRG 200 (ref: 689e)](#agfa-agfacolor-xrg-200-ref-689e)
+- [Agfa Agfacolor CNS (ref: 0d8a)](#agfa-agfacolor-cns-ref-0d8a)
 - [Agfa Agfacolor CNS2 (ref: d515)](#agfa-agfacolor-cns2-ref-d515)
 - [Agfa Agfacolor Negative Film Special CNS (ref: 9b03)](#agfa-agfacolor-negative-film-special-cns-ref-9b03)
 - [Agfa Agfacolor Reversal Film CK (ref: 3502)](#agfa-agfacolor-reversal-film-ck-ref-3502)
@@ -306,6 +307,7 @@ Total scans : 1090
 - [Kodak Ektachrome 160T (ref: f21a)](#kodak-ektachrome-160t-ref-f21a)
 - [Kodak Ektachrome 200 (ref: f372)](#kodak-ektachrome-200-ref-f372)
 - [Kodak Ektachrome 200 (ref: b21e)](#kodak-ektachrome-200-ref-b21e)
+- [Kodak Ektachrome 320T (ref: 0e11)](#kodak-ektachrome-320t-ref-0e11)
 - [Kodak Ektachrome 400 (ref: 2b94)](#kodak-ektachrome-400-ref-2b94)
 - [Kodak Ektachrome 400 (ref: 3c96)](#kodak-ektachrome-400-ref-3c96)
 - [Kodak Ektachrome 400X (ref: 5b82)](#kodak-ektachrome-400x-ref-5b82)
@@ -328,6 +330,7 @@ Total scans : 1090
 - [Kodak Ektachrome-X (ref: aec5)](#kodak-ektachrome-x-ref-aec5)
 - [Kodak Ektachrome-X (ref: cca3)](#kodak-ektachrome-x-ref-cca3)
 - [Kodak Ektacolor Pro Gold (ref: c3f8)](#kodak-ektacolor-pro-gold-ref-c3f8)
+- [Kodak Ektagraphic HC Slide Film (ref: d2a2)](#kodak-ektagraphic-hc-slide-film-ref-d2a2)
 - [Kodak Ektar 100 (ref: 4631)](#kodak-ektar-100-ref-4631)
 - [Kodak Ektar 100 (ref: 95ec)](#kodak-ektar-100-ref-95ec)
 - [Kodak Ektar 100 (ref: 3498)](#kodak-ektar-100-ref-3498)
@@ -366,6 +369,7 @@ Total scans : 1090
 - [Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping (ref: c143)](#kodak-kodachrome-40-movie-film-type-a-for-post-process-sound-striping-ref-c143)
 - [Kodak Kodachrome 64 (ref: 3145)](#kodak-kodachrome-64-ref-3145)
 - [Kodak Kodachrome 64 (ref: 3206)](#kodak-kodachrome-64-ref-3206)
+- [Kodak Kodachrome 64 (ref: b007)](#kodak-kodachrome-64-ref-b007)
 - [Kodak Kodachrome II (ref: 2caa)](#kodak-kodachrome-ii-ref-2caa)
 - [Kodak Kodachrome II (ref: 0982)](#kodak-kodachrome-ii-ref-0982)
 - [Kodak Kodacolor (ref: 5d25)](#kodak-kodacolor-ref-5d25)
@@ -1089,6 +1093,20 @@ UUID  : 86136eea89d14e15b60dfcdf45b1689e
 
 <a href="./archive/00152_001.jpg" target="_blank">
 	<img src="./lowres/00152_001.jpg" alt="Agfa AgfaColor XRG 200 35mm film box inside" loading="lazy" width="404" height="500">
+</a>
+
+#### Agfa Agfacolor CNS (ref: 0d8a)
+
+```
+Format: 620          |  Process : CNS     
+ISO   : 80           |  Expiry  : 1981-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : c5ed76a41fde41e1b07d83ed38800d8a
+```
+
+<a href="./archive/00588_000.jpg" target="_blank">
+	<img src="./lowres/00588_000.jpg" alt="Agfa Agfacolor CNS 620 film box outside" loading="lazy" width="500" height="406">
 </a>
 
 #### Agfa Agfacolor CNS2 (ref: d515)
@@ -6156,6 +6174,20 @@ UUID  : 7d8346073bbe4d6a84e57cc2bb28b21e
 	<img src="./lowres/00052_002.jpg" alt="Kodak Ektachrome 200 35mm film box leaflet" loading="lazy" width="181" height="500">
 </a>
 
+#### Kodak Ektachrome 320T (ref: 0e11)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 320          |  Expiry  : 2007-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 39eee484e9cf4b8aaade4a1092010e11
+```
+
+<a href="./archive/00590_000.jpg" target="_blank">
+	<img src="./lowres/00590_000.jpg" alt="Kodak Ektachrome 320T 35mm film box outside" loading="lazy" width="421" height="500">
+</a>
+
 #### Kodak Ektachrome 400 (ref: 2b94)
 
 ```
@@ -6638,6 +6670,20 @@ UUID  : 7456456d09c844c8ab046abd9c17c3f8
 
 <a href="./archive/00027_003.jpg" target="_blank">
 	<img src="./lowres/00027_003.jpg" alt="Kodak Ektacolor Pro Gold 220 film box leaflet" loading="lazy" width="203" height="499">
+</a>
+
+#### Kodak Ektagraphic HC Slide Film (ref: d2a2)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 25           |  Expiry  : 1989-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : f2a364463c5d40ad9e438566b786d2a2
+```
+
+<a href="./archive/00589_000.jpg" target="_blank">
+	<img src="./lowres/00589_000.jpg" alt="Kodak Ektagraphic HC Slide Film 35mm film box outside" loading="lazy" width="416" height="500">
 </a>
 
 #### Kodak Ektar 100 (ref: 4631)
@@ -7437,6 +7483,20 @@ UUID  : dc9c151b87de48339e564e6692663206
 
 <a href="./archive/00060_000.jpg" target="_blank">
 	<img src="./lowres/00060_000.jpg" alt="Kodak Kodachrome 64 35mm film box outside" loading="lazy" width="450" height="499">
+</a>
+
+#### Kodak Kodachrome 64 (ref: b007)
+
+```
+Format: 220          |  Process : K-14    
+ISO   : 64           |  Expiry  : 2010-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 36d1da1ac9804ac39bd98ab19d4db007
+```
+
+<a href="./archive/00587_000.jpg" target="_blank">
+	<img src="./lowres/00587_000.jpg" alt="Kodak Kodachrome 64 220 film box outside" loading="lazy" width="424" height="500">
 </a>
 
 #### Kodak Kodachrome II (ref: 2caa)
@@ -12366,14 +12426,14 @@ Rank  Username                      Contributions
 22    @zruk_ts                      10    
 23    minidiscus                    10    
 24    Dialupdude                    10    
-25    lilyu.xyz                     9     
-26    lt_col_tall                   9     
-27    @toastergod101                7     
-28    @filmfotofella                7     
-29    GreatGizmo74                  6     
-30    nick                          6     
-31    Greg                          6     
-32    nyctomanica                   6     
+25    nyctomanica                   10    
+26    lilyu.xyz                     9     
+27    lt_col_tall                   9     
+28    @toastergod101                7     
+29    @filmfotofella                7     
+30    GreatGizmo74                  6     
+31    nick                          6     
+32    Greg                          6     
 33    Kraksen                       5     
 34    Henry Gunn                    4     
 35    TheSelousScout                4     

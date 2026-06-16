@@ -16,12 +16,16 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Jun 16 2026
-Unique items: 582
-Total scans : 1090
+Unique items: 586
+Total scans : 1094
 ```
 
 -----
 
+- [[2026-06-16] Kodak Ektachrome 320T (ref: 0e11)](#2026-06-16-kodak-ektachrome-320t-ref-0e11)
+- [[2026-06-16] Kodak Ektagraphic HC Slide Film (ref: d2a2)](#2026-06-16-kodak-ektagraphic-hc-slide-film-ref-d2a2)
+- [[2026-06-16] Agfa Agfacolor CNS (ref: 0d8a)](#2026-06-16-agfa-agfacolor-cns-ref-0d8a)
+- [[2026-06-16] Kodak Kodachrome 64 (ref: b007)](#2026-06-16-kodak-kodachrome-64-ref-b007)
 - [[2026-06-16] Fujifilm 400 (ref: 1f1d)](#2026-06-16-fujifilm-400-ref-1f1d)
 - [[2026-06-16] Camera Film Photo Limited Kiki Pan 320 (ref: 3937)](#2026-06-16-camera-film-photo-limited-kiki-pan-320-ref-3937)
 - [[2026-06-10] Kodak Ektachrome 160T (ref: f21a)](#2026-06-10-kodak-ektachrome-160t-ref-f21a)
@@ -607,6 +611,62 @@ Total scans : 1090
 
 
 -----
+
+#### [2026-06-16] Kodak Ektachrome 320T (ref: 0e11)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 320          |  Expiry  : 2007-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 39eee484e9cf4b8aaade4a1092010e11
+```
+
+<a href="./archive/00590_000.jpg" target="_blank">
+	<img src="./lowres/00590_000.jpg" alt="Kodak Ektachrome 320T 35mm film box outside" loading="lazy" width="421" height="500">
+</a>
+
+#### [2026-06-16] Kodak Ektagraphic HC Slide Film (ref: d2a2)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 25           |  Expiry  : 1989-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : f2a364463c5d40ad9e438566b786d2a2
+```
+
+<a href="./archive/00589_000.jpg" target="_blank">
+	<img src="./lowres/00589_000.jpg" alt="Kodak Ektagraphic HC Slide Film 35mm film box outside" loading="lazy" width="416" height="500">
+</a>
+
+#### [2026-06-16] Agfa Agfacolor CNS (ref: 0d8a)
+
+```
+Format: 620          |  Process : CNS     
+ISO   : 80           |  Expiry  : 1981-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : c5ed76a41fde41e1b07d83ed38800d8a
+```
+
+<a href="./archive/00588_000.jpg" target="_blank">
+	<img src="./lowres/00588_000.jpg" alt="Agfa Agfacolor CNS 620 film box outside" loading="lazy" width="500" height="406">
+</a>
+
+#### [2026-06-16] Kodak Kodachrome 64 (ref: b007)
+
+```
+Format: 220          |  Process : K-14    
+ISO   : 64           |  Expiry  : 2010-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 36d1da1ac9804ac39bd98ab19d4db007
+```
+
+<a href="./archive/00587_000.jpg" target="_blank">
+	<img src="./lowres/00587_000.jpg" alt="Kodak Kodachrome 64 220 film box outside" loading="lazy" width="424" height="500">
+</a>
 
 
 `UUID: 1e7dab1f092343d4ba0295f2068dd5fd`↓
@@ -12366,14 +12426,14 @@ Rank  Username                      Contributions
 22    @zruk_ts                      10    
 23    minidiscus                    10    
 24    Dialupdude                    10    
-25    lilyu.xyz                     9     
-26    lt_col_tall                   9     
-27    @toastergod101                7     
-28    @filmfotofella                7     
-29    GreatGizmo74                  6     
-30    nick                          6     
-31    Greg                          6     
-32    nyctomanica                   6     
+25    nyctomanica                   10    
+26    lilyu.xyz                     9     
+27    lt_col_tall                   9     
+28    @toastergod101                7     
+29    @filmfotofella                7     
+30    GreatGizmo74                  6     
+31    nick                          6     
+32    Greg                          6     
 33    Kraksen                       5     
 34    Henry Gunn                    4     
 35    TheSelousScout                4     

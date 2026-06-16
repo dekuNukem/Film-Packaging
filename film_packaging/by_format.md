@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Jun 16 2026
-Unique items: 582
-Total scans : 1090
+Unique items: 586
+Total scans : 1094
 ```
 
 -----
@@ -208,6 +208,7 @@ Total scans : 1090
 - [[220] Fujifilm Fujicolor Pro 400H (ref: 48ed)](#220-fujifilm-fujicolor-pro-400h-ref-48ed)
 - [[220] Kodak Ektachrome 100 Plus (ref: 0183)](#220-kodak-ektachrome-100-plus-ref-0183)
 - [[220] Kodak Ektacolor Pro Gold (ref: c3f8)](#220-kodak-ektacolor-pro-gold-ref-c3f8)
+- [[220] Kodak Kodachrome 64 (ref: b007)](#220-kodak-kodachrome-64-ref-b007)
 - [[220] Reflx Lab Pro 100 (ref: 1311)](#220-reflx-lab-pro-100-ref-1311)
 - [[35mm] 1Shot Color Print Film (ref: 8cf0)](#35mm-1shot-color-print-film-ref-8cf0)
 - [[35mm] A Girl Has Film Tetris 200 (ref: b309)](#35mm-a-girl-has-film-tetris-200-ref-b309)
@@ -375,6 +376,7 @@ Total scans : 1090
 - [[35mm] Kodak Ektachrome 160T (ref: 7b64)](#35mm-kodak-ektachrome-160t-ref-7b64)
 - [[35mm] Kodak Ektachrome 160T (ref: f21a)](#35mm-kodak-ektachrome-160t-ref-f21a)
 - [[35mm] Kodak Ektachrome 200 (ref: b21e)](#35mm-kodak-ektachrome-200-ref-b21e)
+- [[35mm] Kodak Ektachrome 320T (ref: 0e11)](#35mm-kodak-ektachrome-320t-ref-0e11)
 - [[35mm] Kodak Ektachrome 400 (ref: 3c96)](#35mm-kodak-ektachrome-400-ref-3c96)
 - [[35mm] Kodak Ektachrome 64 (ref: 02cc)](#35mm-kodak-ektachrome-64-ref-02cc)
 - [[35mm] Kodak Ektachrome 64T (ref: 8f4f)](#35mm-kodak-ektachrome-64t-ref-8f4f)
@@ -387,6 +389,7 @@ Total scans : 1090
 - [[35mm] Kodak Ektachrome Slide Duplicating Film (ref: 596a)](#35mm-kodak-ektachrome-slide-duplicating-film-ref-596a)
 - [[35mm] Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#35mm-kodak-ektachrome-slide-duplicating-film-ref-d53a)
 - [[35mm] Kodak Ektachrome-X (ref: aec5)](#35mm-kodak-ektachrome-x-ref-aec5)
+- [[35mm] Kodak Ektagraphic HC Slide Film (ref: d2a2)](#35mm-kodak-ektagraphic-hc-slide-film-ref-d2a2)
 - [[35mm] Kodak Ektar 100 (ref: 95ec)](#35mm-kodak-ektar-100-ref-95ec)
 - [[35mm] Kodak Ektar 100 (ref: 3498)](#35mm-kodak-ektar-100-ref-3498)
 - [[35mm] Kodak Elite Chrome (ref: 523c)](#35mm-kodak-elite-chrome-ref-523c)
@@ -550,6 +553,7 @@ Total scans : 1090
 - [[6.5x9cm] Illingworth's Fleet H&D (ref: 54fe)](#65x9cm-illingworths-fleet-h-d-ref-54fe)
 - [[616] Kodak Super-XX (ref: 07c8)](#616-kodak-super-xx-ref-07c8)
 - [[616] Kodak Verichrome (ref: e465)](#616-kodak-verichrome-ref-e465)
+- [[620] Agfa Agfacolor CNS (ref: 0d8a)](#620-agfa-agfacolor-cns-ref-0d8a)
 - [[620] Film Photography Project FPP 620 Black & White Panchromatic Negative Film (ref: 60ce)](#620-film-photography-project-fpp-620-black-white-panchromatic-negative-film-ref-60ce)
 - [[620] Ilford HP3 (ref: 1afc)](#620-ilford-hp3-ref-1afc)
 - [[620] Kodak Ektachrome-X (ref: c057)](#620-kodak-ektachrome-x-ref-c057)
@@ -4577,6 +4581,20 @@ UUID  : 7456456d09c844c8ab046abd9c17c3f8
 	<img src="./lowres/00027_003.jpg" alt="Kodak Ektacolor Pro Gold 220 film box leaflet" loading="lazy" width="203" height="499">
 </a>
 
+#### [220] Kodak Kodachrome 64 (ref: b007)
+
+```
+Format: 220          |  Process : K-14    
+ISO   : 64           |  Expiry  : 2010-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 36d1da1ac9804ac39bd98ab19d4db007
+```
+
+<a href="./archive/00587_000.jpg" target="_blank">
+	<img src="./lowres/00587_000.jpg" alt="Kodak Kodachrome 64 220 film box outside" loading="lazy" width="424" height="500">
+</a>
+
 #### [220] Reflx Lab Pro 100 (ref: 1311)
 
 ```
@@ -7681,6 +7699,20 @@ UUID  : 7d8346073bbe4d6a84e57cc2bb28b21e
 	<img src="./lowres/00052_002.jpg" alt="Kodak Ektachrome 200 35mm film box leaflet" loading="lazy" width="181" height="500">
 </a>
 
+#### [35mm] Kodak Ektachrome 320T (ref: 0e11)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 320          |  Expiry  : 2007-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 39eee484e9cf4b8aaade4a1092010e11
+```
+
+<a href="./archive/00590_000.jpg" target="_blank">
+	<img src="./lowres/00590_000.jpg" alt="Kodak Ektachrome 320T 35mm film box outside" loading="lazy" width="421" height="500">
+</a>
+
 #### [35mm] Kodak Ektachrome 400 (ref: 3c96)
 
 ```
@@ -7911,6 +7943,20 @@ UUID  : 6a81b1428cfe46c8b9cf187fb672aec5
 
 <a href="./archive/00119_000.jpg" target="_blank">
 	<img src="./lowres/00119_000.jpg" alt="Kodak Ektachrome-X 35mm film box outside" loading="lazy" width="411" height="500">
+</a>
+
+#### [35mm] Kodak Ektagraphic HC Slide Film (ref: d2a2)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 25           |  Expiry  : 1989-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : f2a364463c5d40ad9e438566b786d2a2
+```
+
+<a href="./archive/00589_000.jpg" target="_blank">
+	<img src="./lowres/00589_000.jpg" alt="Kodak Ektagraphic HC Slide Film 35mm film box outside" loading="lazy" width="416" height="500">
 </a>
 
 #### [35mm] Kodak Ektar 100 (ref: 95ec)
@@ -11008,6 +11054,20 @@ UUID  : a7d5a1c6923e4090b91381a1c853e465
 	<img src="./lowres/00443_000.jpg" alt="Kodak Verichrome 616 film box outside" loading="lazy" width="500" height="404">
 </a>
 
+#### [620] Agfa Agfacolor CNS (ref: 0d8a)
+
+```
+Format: 620          |  Process : CNS     
+ISO   : 80           |  Expiry  : 1981-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : c5ed76a41fde41e1b07d83ed38800d8a
+```
+
+<a href="./archive/00588_000.jpg" target="_blank">
+	<img src="./lowres/00588_000.jpg" alt="Agfa Agfacolor CNS 620 film box outside" loading="lazy" width="500" height="406">
+</a>
+
 #### [620] Film Photography Project FPP 620 Black & White Panchromatic Negative Film (ref: 60ce)
 
 ```
@@ -12366,14 +12426,14 @@ Rank  Username                      Contributions
 22    @zruk_ts                      10    
 23    minidiscus                    10    
 24    Dialupdude                    10    
-25    lilyu.xyz                     9     
-26    lt_col_tall                   9     
-27    @toastergod101                7     
-28    @filmfotofella                7     
-29    GreatGizmo74                  6     
-30    nick                          6     
-31    Greg                          6     
-32    nyctomanica                   6     
+25    nyctomanica                   10    
+26    lilyu.xyz                     9     
+27    lt_col_tall                   9     
+28    @toastergod101                7     
+29    @filmfotofella                7     
+30    GreatGizmo74                  6     
+31    nick                          6     
+32    Greg                          6     
 33    Kraksen                       5     
 34    Henry Gunn                    4     
 35    TheSelousScout                4     

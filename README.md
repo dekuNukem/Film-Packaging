@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Jun 16 2026
-Unique items: 582
-Total scans : 1090
+Unique items: 586
+Total scans : 1094
 ```
 
 Or Sort by...
@@ -77,14 +77,14 @@ Rank  Username                      Contributions
 22    @zruk_ts                      10    
 23    minidiscus                    10    
 24    Dialupdude                    10    
-25    lilyu.xyz                     9     
-26    lt_col_tall                   9     
-27    @toastergod101                7     
-28    @filmfotofella                7     
-29    GreatGizmo74                  6     
-30    nick                          6     
-31    Greg                          6     
-32    nyctomanica                   6     
+25    nyctomanica                   10    
+26    lilyu.xyz                     9     
+27    lt_col_tall                   9     
+28    @toastergod101                7     
+29    @filmfotofella                7     
+30    GreatGizmo74                  6     
+31    nick                          6     
+32    Greg                          6     
 33    Kraksen                       5     
 34    Henry Gunn                    4     
 35    TheSelousScout                4     
@@ -107,8 +107,12 @@ Rank  Username                      Contributions
 
 ```
 2026-06-16
+  - nyctomanica: Agfa Agfacolor CNS
   - nyctomanica: Camera Film Photo Limited Kiki Pan 320
   - nyctomanica: Fujifilm 400
+  - nyctomanica: Kodak Ektachrome 320T
+  - nyctomanica: Kodak Ektagraphic HC Slide Film
+  - nyctomanica: Kodak Kodachrome 64
 
 2026-06-10
   - nyctomanica: Kodak Ektachrome 160T
