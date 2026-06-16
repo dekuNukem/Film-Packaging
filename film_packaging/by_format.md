@@ -259,7 +259,6 @@ Total scans : 1112
 - [[35mm] CineStill 800T (ref: c96e)](#35mm-cinestill-800t-ref-c96e)
 - [[35mm] Club Color Natural Color System (ref: 813a)](#35mm-club-color-natural-color-system-ref-813a)
 - [[35mm] Efiniti UXi Super 200 (ref: 471a)](#35mm-efiniti-uxi-super-200-ref-471a)
-- [[35mm] Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 (ref: 6ace)](#35mm-ektachrome-professional-film-5018-ektachrome-professional-film-5018-ref-6ace)
 - [[35mm] Escura EDO ukiyo-e (ref: 5faa)](#35mm-escura-edo-ukiyo-e-ref-5faa)
 - [[35mm] Escura Showa Camera Film (ref: 826b)](#35mm-escura-showa-camera-film-ref-826b)
 - [[35mm] Ferrania Solaris (ref: a929)](#35mm-ferrania-solaris-ref-a929)
@@ -387,6 +386,7 @@ Total scans : 1112
 - [[35mm] Kodak Ektachrome Elite 100 (ref: 26ef)](#35mm-kodak-ektachrome-elite-100-ref-26ef)
 - [[35mm] Kodak Ektachrome Elite 200 (ref: b736)](#35mm-kodak-ektachrome-elite-200-ref-b736)
 - [[35mm] Kodak Ektachrome Elite 200 (ref: a391)](#35mm-kodak-ektachrome-elite-200-ref-a391)
+- [[35mm] Kodak Ektachrome Professional Film 5018 (ref: 6ace)](#35mm-kodak-ektachrome-professional-film-5018-ref-6ace)
 - [[35mm] Kodak Ektachrome Slide Duplicating Film (ref: 596a)](#35mm-kodak-ektachrome-slide-duplicating-film-ref-596a)
 - [[35mm] Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#35mm-kodak-ektachrome-slide-duplicating-film-ref-d53a)
 - [[35mm] Kodak Ektachrome-X (ref: aec5)](#35mm-kodak-ektachrome-x-ref-aec5)
@@ -5581,20 +5581,6 @@ UUID  : cde1122dafbc47088a11d9ee12b6471a
 	<img src="./lowres/00002_000.jpg" alt="Efiniti UXi Super 200 35mm film box outside" loading="lazy" width="457" height="500">
 </a>
 
-#### [35mm] Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 (ref: 6ace)
-
-```
-Format: 35mm         |  Process : E-6     
-ISO   : 50           |  Expiry  : 1985-01 
-Type  : Single Pack  |  Quantity: 30m     
-Added : 2026-06-16   |  Author  : nyctomanica
-UUID  : 83f596535e834c1a941be969aab46ace
-```
-
-<a href="./archive/00600_000.jpg" target="_blank">
-	<img src="./lowres/00600_000.jpg" alt="Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 35mm film box outside" loading="lazy" width="494" height="500">
-</a>
-
 #### [35mm] Escura EDO ukiyo-e (ref: 5faa)
 
 ```
@@ -7914,6 +7900,20 @@ UUID  : 5f3a81c10cdb46baa28b1b1fbc56a391
 
 <a href="./archive/00274_001.jpg" target="_blank">
 	<img src="./lowres/00274_001.jpg" alt="Kodak Ektachrome Elite 200 35mm film box inside" loading="lazy" width="466" height="500">
+</a>
+
+#### [35mm] Kodak Ektachrome Professional Film 5018 (ref: 6ace)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 50           |  Expiry  : 1985-01 
+Type  : Single Pack  |  Quantity: 30m     
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 83f596535e834c1a941be969aab46ace
+```
+
+<a href="./archive/00600_000.jpg" target="_blank">
+	<img src="./lowres/00600_000.jpg" alt="Kodak Ektachrome Professional Film 5018 35mm film box outside" loading="lazy" width="494" height="500">
 </a>
 
 #### [35mm] Kodak Ektachrome Slide Duplicating Film (ref: 596a)

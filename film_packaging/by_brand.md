@@ -106,7 +106,6 @@ Total scans : 1112
 - [Efiniti UXi Super 200 (ref: 471a)](#efiniti-uxi-super-200-ref-471a)
 - [Efke IR 820 Aura (ref: 43c9)](#efke-ir-820-aura-ref-43c9)
 - [Efke R14 (ref: 27f5)](#efke-r14-ref-27f5)
-- [Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 (ref: 6ace)](#ektachrome-professional-film-5018-ektachrome-professional-film-5018-ref-6ace)
 - [Escura EDO ukiyo-e (ref: 5faa)](#escura-edo-ukiyo-e-ref-5faa)
 - [Escura Showa Camera Film (ref: 826b)](#escura-showa-camera-film-ref-826b)
 - [Famous Brand Labs Color Negative Film (ref: b271)](#famous-brand-labs-color-negative-film-ref-b271)
@@ -327,6 +326,7 @@ Total scans : 1112
 - [Kodak Ektachrome Elite 200 (ref: b736)](#kodak-ektachrome-elite-200-ref-b736)
 - [Kodak Ektachrome Elite 200 (ref: a391)](#kodak-ektachrome-elite-200-ref-a391)
 - [Kodak Ektachrome Professional (ref: 02a1)](#kodak-ektachrome-professional-ref-02a1)
+- [Kodak Ektachrome Professional Film 5018 (ref: 6ace)](#kodak-ektachrome-professional-film-5018-ref-6ace)
 - [Kodak Ektachrome Professional Type B (ref: 1d9d)](#kodak-ektachrome-professional-type-b-ref-1d9d)
 - [Kodak Ektachrome Slide Duplicating Film (ref: 596a)](#kodak-ektachrome-slide-duplicating-film-ref-596a)
 - [Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#kodak-ektachrome-slide-duplicating-film-ref-d53a)
@@ -2282,20 +2282,6 @@ UUID  : 32a76ef752524fab9f27ebe632b527f5
 
 <a href="./archive/00570_002.jpg" target="_blank">
 	<img src="./lowres/00570_002.jpg" alt="Efke R14 120 film box leaflet" loading="lazy" width="312" height="500">
-</a>
-
-#### Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 (ref: 6ace)
-
-```
-Format: 35mm         |  Process : E-6     
-ISO   : 50           |  Expiry  : 1985-01 
-Type  : Single Pack  |  Quantity: 30m     
-Added : 2026-06-16   |  Author  : nyctomanica
-UUID  : 83f596535e834c1a941be969aab46ace
-```
-
-<a href="./archive/00600_000.jpg" target="_blank">
-	<img src="./lowres/00600_000.jpg" alt="Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 35mm film box outside" loading="lazy" width="494" height="500">
 </a>
 
 #### Escura EDO ukiyo-e (ref: 5faa)
@@ -6585,6 +6571,20 @@ UUID  : aa971cf96ee94671899aff23564902a1
 
 <a href="./archive/00295_004.jpg" target="_blank">
 	<img src="./lowres/00295_004.jpg" alt="Kodak Ektachrome Professional 120 film box leaflet" loading="lazy" width="298" height="500">
+</a>
+
+#### Kodak Ektachrome Professional Film 5018 (ref: 6ace)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 50           |  Expiry  : 1985-01 
+Type  : Single Pack  |  Quantity: 30m     
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 83f596535e834c1a941be969aab46ace
+```
+
+<a href="./archive/00600_000.jpg" target="_blank">
+	<img src="./lowres/00600_000.jpg" alt="Kodak Ektachrome Professional Film 5018 35mm film box outside" loading="lazy" width="494" height="500">
 </a>
 
 #### Kodak Ektachrome Professional Type B (ref: 1d9d)

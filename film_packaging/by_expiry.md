@@ -141,7 +141,7 @@ Total scans : 1112
 - [[1983] Kodak Kodacolor II (ref: 7310)](#1983-kodak-kodacolor-ii-ref-7310)
 - [[1984] Kodak Kodacolor II (ref: 8dcf)](#1984-kodak-kodacolor-ii-ref-8dcf)
 - [[1984] Foton Mikrofilm Negatywowy Super Orto (ref: 003e)](#1984-foton-mikrofilm-negatywowy-super-orto-ref-003e)
-- [[1985] Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 (ref: 6ace)](#1985-ektachrome-professional-film-5018-ektachrome-professional-film-5018-ref-6ace)
+- [[1985] Kodak Ektachrome Professional Film 5018 (ref: 6ace)](#1985-kodak-ektachrome-professional-film-5018-ref-6ace)
 - [[1985] Konica Konica Color II (ref: fb5b)](#1985-konica-konica-color-ii-ref-fb5b)
 - [[1986] Fujifilm Fujicolor HR100 (ref: 23c5)](#1986-fujifilm-fujicolor-hr100-ref-23c5)
 - [[1986] Fujifilm Fujicolor HR100 (ref: 2335)](#1986-fujifilm-fujicolor-hr100-ref-2335)
@@ -3500,7 +3500,7 @@ UUID  : c5f2c4c39f884a668f540f88d21c003e
 	<img src="./lowres/00532_000.jpg" alt="Foton Mikrofilm Negatywowy Super Orto 35mm film box outside" loading="lazy" width="484" height="500">
 </a>
 
-#### [1985] Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 (ref: 6ace)
+#### [1985] Kodak Ektachrome Professional Film 5018 (ref: 6ace)
 
 ```
 Format: 35mm         |  Process : E-6     
@@ -3511,7 +3511,7 @@ UUID  : 83f596535e834c1a941be969aab46ace
 ```
 
 <a href="./archive/00600_000.jpg" target="_blank">
-	<img src="./lowres/00600_000.jpg" alt="Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 35mm film box outside" loading="lazy" width="494" height="500">
+	<img src="./lowres/00600_000.jpg" alt="Kodak Ektachrome Professional Film 5018 35mm film box outside" loading="lazy" width="494" height="500">
 </a>
 
 #### [1985] Konica Konica Color II (ref: fb5b)

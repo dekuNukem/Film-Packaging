@@ -25,7 +25,7 @@ Total scans : 1112
 - [[2026-06-16] Polaroid High Contrast PolaChrome (ref: c984)](#2026-06-16-polaroid-high-contrast-polachrome-ref-c984)
 - [[2026-06-16] Fujifilm FP-100B (ref: f3dd)](#2026-06-16-fujifilm-fp-100b-ref-f3dd)
 - [[2026-06-16] Polaroid 672 (ref: b335)](#2026-06-16-polaroid-672-ref-b335)
-- [[2026-06-16] Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 (ref: 6ace)](#2026-06-16-ektachrome-professional-film-5018-ektachrome-professional-film-5018-ref-6ace)
+- [[2026-06-16] Kodak Ektachrome Professional Film 5018 (ref: 6ace)](#2026-06-16-kodak-ektachrome-professional-film-5018-ref-6ace)
 - [[2026-06-16] Polaroid 100 Sepia Film (ref: 9893)](#2026-06-16-polaroid-100-sepia-film-ref-9893)
 - [[2026-06-16] Impossible Project PX 600 Silver Shade / First Flush (ref: 8636)](#2026-06-16-impossible-project-px-600-silver-shade--first-flush-ref-8636)
 - [[2026-06-16] Impossible Project PX 70 Color Shade / First Flush (ref: 1ad9)](#2026-06-16-impossible-project-px-70-color-shade--first-flush-ref-1ad9)
@@ -667,7 +667,7 @@ UUID  : a2615a83b6774edda1567fe0e8deb335
 	<img src="./lowres/00601_000.jpg" alt="Polaroid 672 Instant Pack Film film box outside" loading="lazy" width="357" height="500">
 </a>
 
-#### [2026-06-16] Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 (ref: 6ace)
+#### [2026-06-16] Kodak Ektachrome Professional Film 5018 (ref: 6ace)
 
 ```
 Format: 35mm         |  Process : E-6     
@@ -678,7 +678,7 @@ UUID  : 83f596535e834c1a941be969aab46ace
 ```
 
 <a href="./archive/00600_000.jpg" target="_blank">
-	<img src="./lowres/00600_000.jpg" alt="Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 35mm film box outside" loading="lazy" width="494" height="500">
+	<img src="./lowres/00600_000.jpg" alt="Kodak Ektachrome Professional Film 5018 35mm film box outside" loading="lazy" width="494" height="500">
 </a>
 
 #### [2026-06-16] Polaroid 100 Sepia Film (ref: 9893)

@@ -109,13 +109,13 @@ Rank  Username                      Contributions
 2026-06-16
   - nyctomanica: Agfa Agfacolor CNS
   - nyctomanica: Camera Film Photo Limited Kiki Pan 320
-  - nyctomanica: Ektachrome Professional Film 5018 Ektachrome Professional Film 5018
   - nyctomanica: Fujifilm 400
   - nyctomanica: Fujifilm FP-100B
   - nyctomanica: Impossible Project PX 600 Silver Shade / First Flush
   - nyctomanica: Impossible Project PX 680 Color Shade / First Flush
   - nyctomanica: Impossible Project PX 70 Color Shade / First Flush
   - nyctomanica: Kodak Ektachrome 320T
+  - nyctomanica: Kodak Ektachrome Professional Film 5018
   - nyctomanica: Kodak Ektagraphic HC Slide Film
   - nyctomanica: Kodak Hawkeye 2485 Surveillance Film
   - nyctomanica: Kodak Kodachrome 64

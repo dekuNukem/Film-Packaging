@@ -492,7 +492,6 @@ Total scans : 1112
 - [[E-4] Kodak High Speed Ektachrome (ref: b8f8)](#e-4-kodak-high-speed-ektachrome-ref-b8f8)
 - [[E-6] Agfa AgfaChrome 100RS (ref: 2c42)](#e-6-agfa-agfachrome-100rs-ref-2c42)
 - [[E-6] Agfa CT Precisa 100 (ref: bc36)](#e-6-agfa-ct-precisa-100-ref-bc36)
-- [[E-6] Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 (ref: 6ace)](#e-6-ektachrome-professional-film-5018-ektachrome-professional-film-5018-ref-6ace)
 - [[E-6] Fujifilm Fujichrome 64T (ref: 311b)](#e-6-fujifilm-fujichrome-64t-ref-311b)
 - [[E-6] Fujifilm Fujichrome 64T Type II Professional (ref: 74a1)](#e-6-fujifilm-fujichrome-64t-type-ii-professional-ref-74a1)
 - [[E-6] Fujifilm Fujichrome Professional 100D (ref: 439d)](#e-6-fujifilm-fujichrome-professional-100d-ref-439d)
@@ -532,6 +531,7 @@ Total scans : 1112
 - [[E-6] Kodak Ektachrome Elite 100 (ref: 26ef)](#e-6-kodak-ektachrome-elite-100-ref-26ef)
 - [[E-6] Kodak Ektachrome Elite 200 (ref: b736)](#e-6-kodak-ektachrome-elite-200-ref-b736)
 - [[E-6] Kodak Ektachrome Elite 200 (ref: a391)](#e-6-kodak-ektachrome-elite-200-ref-a391)
+- [[E-6] Kodak Ektachrome Professional Film 5018 (ref: 6ace)](#e-6-kodak-ektachrome-professional-film-5018-ref-6ace)
 - [[E-6] Kodak Ektachrome Slide Duplicating Film (ref: 596a)](#e-6-kodak-ektachrome-slide-duplicating-film-ref-596a)
 - [[E-6] Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#e-6-kodak-ektachrome-slide-duplicating-film-ref-d53a)
 - [[E-6] Kodak Elite Chrome (ref: 523c)](#e-6-kodak-elite-chrome-ref-523c)
@@ -9486,20 +9486,6 @@ UUID  : 087e9a1b5cc7447dbd0b7d5b81c9bc36
 	<img src="./lowres/00428_001.jpg" alt="Agfa CT Precisa 100 35mm film box inside" loading="lazy" width="429" height="499">
 </a>
 
-#### [E-6] Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 (ref: 6ace)
-
-```
-Format: 35mm         |  Process : E-6     
-ISO   : 50           |  Expiry  : 1985-01 
-Type  : Single Pack  |  Quantity: 30m     
-Added : 2026-06-16   |  Author  : nyctomanica
-UUID  : 83f596535e834c1a941be969aab46ace
-```
-
-<a href="./archive/00600_000.jpg" target="_blank">
-	<img src="./lowres/00600_000.jpg" alt="Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 35mm film box outside" loading="lazy" width="494" height="500">
-</a>
-
 #### [E-6] Fujifilm Fujichrome 64T (ref: 311b)
 
 ```
@@ -10307,6 +10293,20 @@ UUID  : 5f3a81c10cdb46baa28b1b1fbc56a391
 
 <a href="./archive/00274_001.jpg" target="_blank">
 	<img src="./lowres/00274_001.jpg" alt="Kodak Ektachrome Elite 200 35mm film box inside" loading="lazy" width="466" height="500">
+</a>
+
+#### [E-6] Kodak Ektachrome Professional Film 5018 (ref: 6ace)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 50           |  Expiry  : 1985-01 
+Type  : Single Pack  |  Quantity: 30m     
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 83f596535e834c1a941be969aab46ace
+```
+
+<a href="./archive/00600_000.jpg" target="_blank">
+	<img src="./lowres/00600_000.jpg" alt="Kodak Ektachrome Professional Film 5018 35mm film box outside" loading="lazy" width="494" height="500">
 </a>
 
 #### [E-6] Kodak Ektachrome Slide Duplicating Film (ref: 596a)

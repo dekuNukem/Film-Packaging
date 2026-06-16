@@ -570,7 +570,6 @@ Total scans : 1112
 - [[nick] Rollei RPX 25 (ref: b14c)](#nick-rollei-rpx-25-ref-b14c)
 - [[nyctomanica] Agfa Agfacolor CNS (ref: 0d8a)](#nyctomanica-agfa-agfacolor-cns-ref-0d8a)
 - [[nyctomanica] Camera Film Photo Limited Kiki Pan 320 (ref: 3937)](#nyctomanica-camera-film-photo-limited-kiki-pan-320-ref-3937)
-- [[nyctomanica] Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 (ref: 6ace)](#nyctomanica-ektachrome-professional-film-5018-ektachrome-professional-film-5018-ref-6ace)
 - [[nyctomanica] Fujifilm 400 (ref: 1f1d)](#nyctomanica-fujifilm-400-ref-1f1d)
 - [[nyctomanica] Fujifilm FP-100B (ref: f3dd)](#nyctomanica-fujifilm-fp-100b-ref-f3dd)
 - [[nyctomanica] Impossible Project PX 600 Silver Shade / First Flush (ref: 8636)](#nyctomanica-impossible-project-px-600-silver-shade--first-flush-ref-8636)
@@ -579,6 +578,7 @@ Total scans : 1112
 - [[nyctomanica] Kodak Ektachrome 160T (ref: f21a)](#nyctomanica-kodak-ektachrome-160t-ref-f21a)
 - [[nyctomanica] Kodak Ektachrome 320T (ref: 0e11)](#nyctomanica-kodak-ektachrome-320t-ref-0e11)
 - [[nyctomanica] Kodak Ektachrome E200 (ref: 9879)](#nyctomanica-kodak-ektachrome-e200-ref-9879)
+- [[nyctomanica] Kodak Ektachrome Professional Film 5018 (ref: 6ace)](#nyctomanica-kodak-ektachrome-professional-film-5018-ref-6ace)
 - [[nyctomanica] Kodak Ektagraphic HC Slide Film (ref: d2a2)](#nyctomanica-kodak-ektagraphic-hc-slide-film-ref-d2a2)
 - [[nyctomanica] Kodak Hawkeye 2485 Surveillance Film (ref: 0037)](#nyctomanica-kodak-hawkeye-2485-surveillance-film-ref-0037)
 - [[nyctomanica] Kodak Kodachrome 64 (ref: b007)](#nyctomanica-kodak-kodachrome-64-ref-b007)
@@ -11662,20 +11662,6 @@ UUID  : b0f0117fd8d74332b67a2e8be3db3937
 	<img src="./lowres/00585_001.jpg" alt="Camera Film Photo Limited Kiki Pan 320 35mm film box inside" loading="lazy" width="463" height="500">
 </a>
 
-#### [nyctomanica] Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 (ref: 6ace)
-
-```
-Format: 35mm         |  Process : E-6     
-ISO   : 50           |  Expiry  : 1985-01 
-Type  : Single Pack  |  Quantity: 30m     
-Added : 2026-06-16   |  Author  : nyctomanica
-UUID  : 83f596535e834c1a941be969aab46ace
-```
-
-<a href="./archive/00600_000.jpg" target="_blank">
-	<img src="./lowres/00600_000.jpg" alt="Ektachrome Professional Film 5018 Ektachrome Professional Film 5018 35mm film box outside" loading="lazy" width="494" height="500">
-</a>
-
 #### [nyctomanica] Fujifilm 400 (ref: 1f1d)
 
 ```
@@ -11814,6 +11800,20 @@ UUID  : c8b4e91fe2e34428a095ae48184f9879
 
 <a href="./archive/00583_000.jpg" target="_blank">
 	<img src="./lowres/00583_000.jpg" alt="Kodak Ektachrome E200 35mm film box outside" loading="lazy" width="500" height="316">
+</a>
+
+#### [nyctomanica] Kodak Ektachrome Professional Film 5018 (ref: 6ace)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 50           |  Expiry  : 1985-01 
+Type  : Single Pack  |  Quantity: 30m     
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 83f596535e834c1a941be969aab46ace
+```
+
+<a href="./archive/00600_000.jpg" target="_blank">
+	<img src="./lowres/00600_000.jpg" alt="Kodak Ektachrome Professional Film 5018 35mm film box outside" loading="lazy" width="494" height="500">
 </a>
 
 #### [nyctomanica] Kodak Ektagraphic HC Slide Film (ref: d2a2)
