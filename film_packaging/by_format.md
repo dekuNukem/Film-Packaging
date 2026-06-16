@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 10 2026
-Unique items: 580
-Total scans : 1086
+Last Updated: Jun 16 2026
+Unique items: 582
+Total scans : 1090
 ```
 
 -----
@@ -250,6 +250,7 @@ Total scans : 1086
 - [[35mm] Building 2 250D (ref: 7d4f)](#35mm-building-2-250d-ref-7d4f)
 - [[35mm] Building 2 500T (ref: 70d9)](#35mm-building-2-500t-ref-70d9)
 - [[35mm] Building 2 50D (ref: e548)](#35mm-building-2-50d-ref-e548)
+- [[35mm] Camera Film Photo Limited Kiki Pan 320 (ref: 3937)](#35mm-camera-film-photo-limited-kiki-pan-320-ref-3937)
 - [[35mm] Candido Colour Negative Film (ref: 6cd2)](#35mm-candido-colour-negative-film-ref-6cd2)
 - [[35mm] CineStill 400Dynamic (ref: fccd)](#35mm-cinestill-400dynamic-ref-fccd)
 - [[35mm] CineStill 50D (ref: 3452)](#35mm-cinestill-50d-ref-3452)
@@ -277,6 +278,7 @@ Total scans : 1086
 - [[35mm] Freestyle 500T (ref: 8073)](#35mm-freestyle-500t-ref-8073)
 - [[35mm] Fujifilm 200 (ref: 5b41)](#35mm-fujifilm-200-ref-5b41)
 - [[35mm] Fujifilm 400 (ref: 82be)](#35mm-fujifilm-400-ref-82be)
+- [[35mm] Fujifilm 400 (ref: 1f1d)](#35mm-fujifilm-400-ref-1f1d)
 - [[35mm] Fujifilm Fujichrome 64T Type II Professional (ref: 74a1)](#35mm-fujifilm-fujichrome-64t-type-ii-professional-ref-74a1)
 - [[35mm] Fujifilm Fujichrome Provia 100F (ref: 356d)](#35mm-fujifilm-fujichrome-provia-100f-ref-356d)
 - [[35mm] Fujifilm Fujichrome Provia 100F (ref: df27)](#35mm-fujifilm-fujichrome-provia-100f-ref-df27)
@@ -5408,6 +5410,27 @@ UUID  : f0c8cbdc08d146ba8690d19a70dbe548
 	<img src="./lowres/00213_000.jpg" alt="Building 2 50D 35mm film box outside" loading="lazy" width="410" height="499">
 </a>
 
+#### [35mm] Camera Film Photo Limited Kiki Pan 320 (ref: 3937)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 320          |  Expiry  : 2028-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : b0f0117fd8d74332b67a2e8be3db3937
+```
+
+<a href="./archive/00585_000.jpg" target="_blank">
+	<img src="./lowres/00585_000.jpg" alt="Camera Film Photo Limited Kiki Pan 320 35mm film box outside" loading="lazy" width="435" height="500">
+</a>
+
+
+`UUID: 8dbce7087a9940b49d6c56476194f04b`↓
+
+<a href="./archive/00585_001.jpg" target="_blank">
+	<img src="./lowres/00585_001.jpg" alt="Camera Film Photo Limited Kiki Pan 320 35mm film box inside" loading="lazy" width="463" height="500">
+</a>
+
 #### [35mm] Candido Colour Negative Film (ref: 6cd2)
 
 ```
@@ -5910,6 +5933,27 @@ UUID  : f3193ccd9b9d4a929904a6a2e8b682be
 
 <a href="./archive/00222_000.jpg" target="_blank">
 	<img src="./lowres/00222_000.jpg" alt="Fujifilm 400 35mm film box outside" loading="lazy" width="425" height="500">
+</a>
+
+#### [35mm] Fujifilm 400 (ref: 1f1d)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2026-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 624c7d05c28a4bfb834ba537631e1f1d
+```
+
+<a href="./archive/00586_000.jpg" target="_blank">
+	<img src="./lowres/00586_000.jpg" alt="Fujifilm 400 35mm film box outside" loading="lazy" width="412" height="500">
+</a>
+
+
+`UUID: 1e7dab1f092343d4ba0295f2068dd5fd`↓
+
+<a href="./archive/00586_001.jpg" target="_blank">
+	<img src="./lowres/00586_001.jpg" alt="Fujifilm 400 35mm film box outside" loading="lazy" width="390" height="500">
 </a>
 
 #### [35mm] Fujifilm Fujichrome 64T Type II Professional (ref: 74a1)
@@ -12329,18 +12373,18 @@ Rank  Username                      Contributions
 29    GreatGizmo74                  6     
 30    nick                          6     
 31    Greg                          6     
-32    Kraksen                       5     
-33    Henry Gunn                    4     
-34    TheSelousScout                4     
-35    @sachynmital                  3     
-36    Tallbird Cowboy               3     
-37    robo-tobo                     3     
-38    @seklerek                     2     
-39    @ftfilmphotos                 2     
-40    @gregrouxphotography          2     
-41    Tobias                        2     
-42    @tylerdrey                    2     
-43    nyctomanica                   2     
+32    nyctomanica                   6     
+33    Kraksen                       5     
+34    Henry Gunn                    4     
+35    TheSelousScout                4     
+36    @sachynmital                  3     
+37    Tallbird Cowboy               3     
+38    robo-tobo                     3     
+39    @seklerek                     2     
+40    @ftfilmphotos                 2     
+41    @gregrouxphotography          2     
+42    Tobias                        2     
+43    @tylerdrey                    2     
 44    Yrikonchik                    1     
 45    @ad.astra.per.aspera.1894     1     
 46    Aoi Yuki                      1     

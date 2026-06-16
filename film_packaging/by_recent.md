@@ -15,13 +15,15 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 10 2026
-Unique items: 580
-Total scans : 1086
+Last Updated: Jun 16 2026
+Unique items: 582
+Total scans : 1090
 ```
 
 -----
 
+- [[2026-06-16] Fujifilm 400 (ref: 1f1d)](#2026-06-16-fujifilm-400-ref-1f1d)
+- [[2026-06-16] Camera Film Photo Limited Kiki Pan 320 (ref: 3937)](#2026-06-16-camera-film-photo-limited-kiki-pan-320-ref-3937)
 - [[2026-06-10] Kodak Ektachrome 160T (ref: f21a)](#2026-06-10-kodak-ektachrome-160t-ref-f21a)
 - [[2026-06-10] Kodak Ektachrome E200 (ref: 9879)](#2026-06-10-kodak-ektachrome-e200-ref-9879)
 - [[2026-06-08] Fujifilm Fujicolor Pro 400H (ref: 29e0)](#2026-06-08-fujifilm-fujicolor-pro-400h-ref-29e0)
@@ -605,6 +607,48 @@ Total scans : 1086
 
 
 -----
+
+
+`UUID: 1e7dab1f092343d4ba0295f2068dd5fd`↓
+
+<a href="./archive/00586_001.jpg" target="_blank">
+	<img src="./lowres/00586_001.jpg" alt="Fujifilm 400 35mm film box outside" loading="lazy" width="390" height="500">
+</a>
+
+#### [2026-06-16] Fujifilm 400 (ref: 1f1d)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2026-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 624c7d05c28a4bfb834ba537631e1f1d
+```
+
+<a href="./archive/00586_000.jpg" target="_blank">
+	<img src="./lowres/00586_000.jpg" alt="Fujifilm 400 35mm film box outside" loading="lazy" width="412" height="500">
+</a>
+
+
+`UUID: 8dbce7087a9940b49d6c56476194f04b`↓
+
+<a href="./archive/00585_001.jpg" target="_blank">
+	<img src="./lowres/00585_001.jpg" alt="Camera Film Photo Limited Kiki Pan 320 35mm film box inside" loading="lazy" width="463" height="500">
+</a>
+
+#### [2026-06-16] Camera Film Photo Limited Kiki Pan 320 (ref: 3937)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 320          |  Expiry  : 2028-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : b0f0117fd8d74332b67a2e8be3db3937
+```
+
+<a href="./archive/00585_000.jpg" target="_blank">
+	<img src="./lowres/00585_000.jpg" alt="Camera Film Photo Limited Kiki Pan 320 35mm film box outside" loading="lazy" width="435" height="500">
+</a>
 
 #### [2026-06-10] Kodak Ektachrome 160T (ref: f21a)
 
@@ -12329,18 +12373,18 @@ Rank  Username                      Contributions
 29    GreatGizmo74                  6     
 30    nick                          6     
 31    Greg                          6     
-32    Kraksen                       5     
-33    Henry Gunn                    4     
-34    TheSelousScout                4     
-35    @sachynmital                  3     
-36    Tallbird Cowboy               3     
-37    robo-tobo                     3     
-38    @seklerek                     2     
-39    @ftfilmphotos                 2     
-40    @gregrouxphotography          2     
-41    Tobias                        2     
-42    @tylerdrey                    2     
-43    nyctomanica                   2     
+32    nyctomanica                   6     
+33    Kraksen                       5     
+34    Henry Gunn                    4     
+35    TheSelousScout                4     
+36    @sachynmital                  3     
+37    Tallbird Cowboy               3     
+38    robo-tobo                     3     
+39    @seklerek                     2     
+40    @ftfilmphotos                 2     
+41    @gregrouxphotography          2     
+42    Tobias                        2     
+43    @tylerdrey                    2     
 44    Yrikonchik                    1     
 45    @ad.astra.per.aspera.1894     1     
 46    Aoi Yuki                      1     

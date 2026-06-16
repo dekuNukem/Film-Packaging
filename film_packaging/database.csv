@@ -1085,3 +1085,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 582,0,film_box_outside,Fujifilm,Fujicolor Pro 400H,35mm,400,C-41,201209,1780929169,57a789a2ceae507584f37ae98435ec30,27bbbeae605a4e1997859f2d3e6029e0,00582_000.jpg,@recycling.film,,Single Pack,36exp
 583,0,film_box_outside,Kodak,Ektachrome E200,35mm,200,E-6,200310,1781102261,8cf4a11749f68f8c63d54f85ecc751db,c8b4e91fe2e34428a095ae48184f9879,00583_000.jpg,nyctomanica,,Bulk Roll,30.5m
 584,0,film_box_outside,Kodak,Ektachrome 160T,35mm,160,E-6,200302,1781102300,f5adc55a611974be57ee5acaa0200ae7,308fb333b27a4dab9072d131425ef21a,00584_000.jpg,nyctomanica,,Bulk Roll,30.5m
+585,0,film_box_outside,Camera Film Photo Limited,Kiki Pan 320,35mm,320,BW,202812,1781609508,f5fa9a52ec94d1a3c5888308f1bfac82,b0f0117fd8d74332b67a2e8be3db3937,00585_000.jpg,nyctomanica,,Single Pack,36exp
+585,1,film_box_inside,Camera Film Photo Limited,Kiki Pan 320,35mm,320,BW,202812,1781609515,0c1f46dfd430ee4a0e19027f227b889d,8dbce7087a9940b49d6c56476194f04b,00585_001.jpg,nyctomanica,,Single Pack,36exp
+586,0,film_box_outside,Fujifilm,400,35mm,400,C-41,202609,1781609568,c2bfc62275efa1138299621d50b56562,624c7d05c28a4bfb834ba537631e1f1d,00586_000.jpg,nyctomanica,,Single Pack,36exp
+586,1,film_box_outside,Fujifilm,400,35mm,400,C-41,202609,1781609571,f99a2bcb1bebee64f259fc042e3d8d36,1e7dab1f092343d4ba0295f2068dd5fd,00586_001.jpg,nyctomanica,,Single Pack,36exp

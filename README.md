@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 10 2026
-Unique items: 580
-Total scans : 1086
+Last Updated: Jun 16 2026
+Unique items: 582
+Total scans : 1090
 ```
 
 Or Sort by...
@@ -84,18 +84,18 @@ Rank  Username                      Contributions
 29    GreatGizmo74                  6     
 30    nick                          6     
 31    Greg                          6     
-32    Kraksen                       5     
-33    Henry Gunn                    4     
-34    TheSelousScout                4     
-35    @sachynmital                  3     
-36    Tallbird Cowboy               3     
-37    robo-tobo                     3     
-38    @seklerek                     2     
-39    @ftfilmphotos                 2     
-40    @gregrouxphotography          2     
-41    Tobias                        2     
-42    @tylerdrey                    2     
-43    nyctomanica                   2     
+32    nyctomanica                   6     
+33    Kraksen                       5     
+34    Henry Gunn                    4     
+35    TheSelousScout                4     
+36    @sachynmital                  3     
+37    Tallbird Cowboy               3     
+38    robo-tobo                     3     
+39    @seklerek                     2     
+40    @ftfilmphotos                 2     
+41    @gregrouxphotography          2     
+42    Tobias                        2     
+43    @tylerdrey                    2     
 44    Yrikonchik                    1     
 45    @ad.astra.per.aspera.1894     1     
 46    Aoi Yuki                      1     
@@ -106,6 +106,10 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2026-06-16
+  - nyctomanica: Camera Film Photo Limited Kiki Pan 320
+  - nyctomanica: Fujifilm 400
+
 2026-06-10
   - nyctomanica: Kodak Ektachrome 160T
   - nyctomanica: Kodak Ektachrome E200
@@ -158,9 +162,6 @@ Rank  Username                      Contributions
   - Luci 101: Agfa AgfaChrome 100RS
   - Luci 101: ORWO OrwoChrome UT18
   - Luci 101: Svema Foto 64
-
-2026-04-07
-  - Tallbird Cowboy: Kodak Kodachrome II
 ```
 
 ## Disclaimer
