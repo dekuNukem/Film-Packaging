@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Jun 18 2026
-Unique items: 619
-Total scans : 1137
+Unique items: 620
+Total scans : 1139
 ```
 
 Or Sort by...
@@ -60,7 +60,7 @@ Rank  Username                      Contributions
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
 7     @Hol.m35                      56    
-8     nyctomanica                   53    
+8     nyctomanica                   55    
 9     The Compartmentalist          25    
 10    @ob.skura                     19    
 11    fine-seat                     19    
@@ -124,6 +124,7 @@ Rank  Username                      Contributions
   - nyctomanica: Polaroid 669
   - nyctomanica: Polaroid 690
   - nyctomanica: Polaroid Land Pack Film Type 107
+  - nyctomanica: Polaroid Originals B&W Spectra Film
   - nyctomanica: Polaroid Originals Color Spectra Film
 
 2026-06-16

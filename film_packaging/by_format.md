@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Jun 18 2026
-Unique items: 619
-Total scans : 1137
+Unique items: 620
+Total scans : 1139
 ```
 
 -----
@@ -614,6 +614,7 @@ Total scans : 1137
 - [[Instant Integral Film] Polaroid Image Instant Film (ref: ee6d)](#instant-integral-film-polaroid-image-instant-film-ref-ee6d)
 - [[Instant Integral Film] Polaroid Spectra Film (ref: 7a94)](#instant-integral-film-polaroid-spectra-film-ref-7a94)
 - [[Instant Integral Film] Polaroid TZ Artistic Fade to Black (ref: de21)](#instant-integral-film-polaroid-tz-artistic-fade-to-black-ref-de21)
+- [[Instant Integral Film] Polaroid Originals B&W Spectra Film (ref: 7f24)](#instant-integral-film-polaroid-originals-b-w-spectra-film-ref-7f24)
 - [[Instant Integral Film] Polaroid Originals Color Spectra Film (ref: 7d0a)](#instant-integral-film-polaroid-originals-color-spectra-film-ref-7d0a)
 - [[Instant Pack Film] Fujifilm FP-100B (ref: f3dd)](#instant-pack-film-fujifilm-fp-100b-ref-f3dd)
 - [[Instant Pack Film] Fujifilm FP-100C (ref: 5cda)](#instant-pack-film-fujifilm-fp-100c-ref-5cda)
@@ -12442,6 +12443,27 @@ UUID  : 1db6d025cc904e11858f76ce0053de21
 	<img src="./lowres/00591_001.jpg" alt="Polaroid TZ Artistic Fade to Black Instant Integral Film film box inside" loading="lazy" width="488" height="500">
 </a>
 
+#### [Instant Integral Film] Polaroid Originals B&W Spectra Film (ref: 7f24)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2019-06 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 109eaba178c64f64a473ccce42f77f24
+```
+
+<a href="./archive/00624_000.jpg" target="_blank">
+	<img src="./lowres/00624_000.jpg" alt="Polaroid Originals B&W Spectra Film Instant Integral Film film box outside" loading="lazy" width="500" height="470">
+</a>
+
+
+`UUID: bab1df5b180e4f69aa79689d243ae87b`↓
+
+<a href="./archive/00624_001.jpg" target="_blank">
+	<img src="./lowres/00624_001.jpg" alt="Polaroid Originals B&W Spectra Film Instant Integral Film film box outside" loading="lazy" width="500" height="470">
+</a>
+
 #### [Instant Integral Film] Polaroid Originals Color Spectra Film (ref: 7d0a)
 
 ```
@@ -12978,7 +13000,7 @@ Rank  Username                      Contributions
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
 7     @Hol.m35                      56    
-8     nyctomanica                   53    
+8     nyctomanica                   55    
 9     The Compartmentalist          25    
 10    @ob.skura                     19    
 11    fine-seat                     19    

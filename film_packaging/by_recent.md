@@ -16,12 +16,13 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Jun 18 2026
-Unique items: 619
-Total scans : 1137
+Unique items: 620
+Total scans : 1139
 ```
 
 -----
 
+- [[2026-06-18] Polaroid Originals B&W Spectra Film (ref: 7f24)](#2026-06-18-polaroid-originals-b-w-spectra-film-ref-7f24)
 - [[2026-06-18] Polaroid Originals Color Spectra Film (ref: 7d0a)](#2026-06-18-polaroid-originals-color-spectra-film-ref-7d0a)
 - [[2026-06-18] Fujifilm Instax Wide (ref: 51ce)](#2026-06-18-fujifilm-instax-wide-ref-51ce)
 - [[2026-06-18] Polaroid Land Pack Film Type 107 (ref: 1b9a)](#2026-06-18-polaroid-land-pack-film-type-107-ref-1b9a)
@@ -644,6 +645,27 @@ Total scans : 1137
 
 
 -----
+
+
+`UUID: bab1df5b180e4f69aa79689d243ae87b`↓
+
+<a href="./archive/00624_001.jpg" target="_blank">
+	<img src="./lowres/00624_001.jpg" alt="Polaroid Originals B&W Spectra Film Instant Integral Film film box outside" loading="lazy" width="500" height="470">
+</a>
+
+#### [2026-06-18] Polaroid Originals B&W Spectra Film (ref: 7f24)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2019-06 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 109eaba178c64f64a473ccce42f77f24
+```
+
+<a href="./archive/00624_000.jpg" target="_blank">
+	<img src="./lowres/00624_000.jpg" alt="Polaroid Originals B&W Spectra Film Instant Integral Film film box outside" loading="lazy" width="500" height="470">
+</a>
 
 
 `UUID: b8809a0a73bc4c719d575231bdca4fc5`↓
@@ -12978,7 +13000,7 @@ Rank  Username                      Contributions
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
 7     @Hol.m35                      56    
-8     nyctomanica                   53    
+8     nyctomanica                   55    
 9     The Compartmentalist          25    
 10    @ob.skura                     19    
 11    fine-seat                     19    

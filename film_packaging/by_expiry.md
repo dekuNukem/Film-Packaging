@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Jun 18 2026
-Unique items: 619
-Total scans : 1137
+Unique items: 620
+Total scans : 1139
 ```
 
 -----
@@ -390,6 +390,7 @@ Total scans : 1137
 - [[2018] Fujifilm Fujicolor Pro 400H (ref: 66e3)](#2018-fujifilm-fujicolor-pro-400h-ref-66e3)
 - [[2019] Agfa Vista Plus 200 (ref: f08a)](#2019-agfa-vista-plus-200-ref-f08a)
 - [[2019] Polaroid Originals Color Spectra Film (ref: 7d0a)](#2019-polaroid-originals-color-spectra-film-ref-7d0a)
+- [[2019] Polaroid Originals B&W Spectra Film (ref: 7f24)](#2019-polaroid-originals-b-w-spectra-film-ref-7f24)
 - [[2019] One Instant Type 100 Peel-Apart Colorfilm (ref: ff2c)](#2019-one-instant-type-100-peel-apart-colorfilm-ref-ff2c)
 - [[2019] Fujifilm Fujicolor Natura 1600 (ref: c8ed)](#2019-fujifilm-fujicolor-natura-1600-ref-c8ed)
 - [[2019] Fujifilm Fujicolor Professional (ref: 02f7)](#2019-fujifilm-fujicolor-professional-ref-02f7)
@@ -8500,6 +8501,27 @@ UUID  : 1761ed58b3bc423cb93dcf6fa3e77d0a
 	<img src="./lowres/00623_002.jpg" alt="Polaroid Originals Color Spectra Film Instant Integral Film film box inside" loading="lazy" width="258" height="500">
 </a>
 
+#### [2019] Polaroid Originals B&W Spectra Film (ref: 7f24)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2019-06 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 109eaba178c64f64a473ccce42f77f24
+```
+
+<a href="./archive/00624_000.jpg" target="_blank">
+	<img src="./lowres/00624_000.jpg" alt="Polaroid Originals B&W Spectra Film Instant Integral Film film box outside" loading="lazy" width="500" height="470">
+</a>
+
+
+`UUID: bab1df5b180e4f69aa79689d243ae87b`↓
+
+<a href="./archive/00624_001.jpg" target="_blank">
+	<img src="./lowres/00624_001.jpg" alt="Polaroid Originals B&W Spectra Film Instant Integral Film film box outside" loading="lazy" width="500" height="470">
+</a>
+
 #### [2019] One Instant Type 100 Peel-Apart Colorfilm (ref: ff2c)
 
 ```
@@ -12978,7 +13000,7 @@ Rank  Username                      Contributions
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
 7     @Hol.m35                      56    
-8     nyctomanica                   53    
+8     nyctomanica                   55    
 9     The Compartmentalist          25    
 10    @ob.skura                     19    
 11    fine-seat                     19    

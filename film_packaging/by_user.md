@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Jun 18 2026
-Unique items: 619
-Total scans : 1137
+Unique items: 620
+Total scans : 1139
 ```
 
 -----
@@ -608,6 +608,7 @@ Total scans : 1137
 - [[nyctomanica] Polaroid High Contrast PolaChrome (ref: c984)](#nyctomanica-polaroid-high-contrast-polachrome-ref-c984)
 - [[nyctomanica] Polaroid Land Pack Film Type 107 (ref: 1b9a)](#nyctomanica-polaroid-land-pack-film-type-107-ref-1b9a)
 - [[nyctomanica] Polaroid TZ Artistic Fade to Black (ref: de21)](#nyctomanica-polaroid-tz-artistic-fade-to-black-ref-de21)
+- [[nyctomanica] Polaroid Originals B&W Spectra Film (ref: 7f24)](#nyctomanica-polaroid-originals-b-w-spectra-film-ref-7f24)
 - [[nyctomanica] Polaroid Originals Color Spectra Film (ref: 7d0a)](#nyctomanica-polaroid-originals-color-spectra-film-ref-7d0a)
 - [[robo-tobo] Efke R14 (ref: 27f5)](#robo-tobo-efke-r14-ref-27f5)
 - [[toader] Kodak Ektachrome 100 Plus (ref: 5d9f)](#toader-kodak-ektachrome-100-plus-ref-5d9f)
@@ -12281,6 +12282,27 @@ UUID  : 1db6d025cc904e11858f76ce0053de21
 	<img src="./lowres/00591_001.jpg" alt="Polaroid TZ Artistic Fade to Black Instant Integral Film film box inside" loading="lazy" width="488" height="500">
 </a>
 
+#### [nyctomanica] Polaroid Originals B&W Spectra Film (ref: 7f24)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2019-06 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 109eaba178c64f64a473ccce42f77f24
+```
+
+<a href="./archive/00624_000.jpg" target="_blank">
+	<img src="./lowres/00624_000.jpg" alt="Polaroid Originals B&W Spectra Film Instant Integral Film film box outside" loading="lazy" width="500" height="470">
+</a>
+
+
+`UUID: bab1df5b180e4f69aa79689d243ae87b`↓
+
+<a href="./archive/00624_001.jpg" target="_blank">
+	<img src="./lowres/00624_001.jpg" alt="Polaroid Originals B&W Spectra Film Instant Integral Film film box outside" loading="lazy" width="500" height="470">
+</a>
+
 #### [nyctomanica] Polaroid Originals Color Spectra Film (ref: 7d0a)
 
 ```
@@ -12978,7 +13000,7 @@ Rank  Username                      Contributions
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
 7     @Hol.m35                      56    
-8     nyctomanica                   53    
+8     nyctomanica                   55    
 9     The Compartmentalist          25    
 10    @ob.skura                     19    
 11    fine-seat                     19    

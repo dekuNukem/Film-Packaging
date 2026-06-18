@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Jun 18 2026
-Unique items: 619
-Total scans : 1137
+Unique items: 620
+Total scans : 1139
 ```
 
 -----
@@ -583,6 +583,7 @@ Total scans : 1137
 - [Polaroid Spectra Film (ref: 7a94)](#polaroid-spectra-film-ref-7a94)
 - [Polaroid TZ Artistic Fade to Black (ref: de21)](#polaroid-tz-artistic-fade-to-black-ref-de21)
 - [Polaroid Type 42 (ref: f92c)](#polaroid-type-42-ref-f92c)
+- [Polaroid Originals B&W Spectra Film (ref: 7f24)](#polaroid-originals-b-w-spectra-film-ref-7f24)
 - [Polaroid Originals Color Spectra Film (ref: 7d0a)](#polaroid-originals-color-spectra-film-ref-7d0a)
 - [Porst Color N21 (ref: 494a)](#porst-color-n21-ref-494a)
 - [Premium Super XG (ref: 8ccd)](#premium-super-xg-ref-8ccd)
@@ -11819,6 +11820,27 @@ UUID  : ce5edab694b4467aa9b3e1d81d8bf92c
 	<img src="./lowres/00496_000.jpg" alt="Polaroid Type 42 Instant Roll Film film box outside" loading="lazy" width="470" height="500">
 </a>
 
+#### Polaroid Originals B&W Spectra Film (ref: 7f24)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2019-06 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 109eaba178c64f64a473ccce42f77f24
+```
+
+<a href="./archive/00624_000.jpg" target="_blank">
+	<img src="./lowres/00624_000.jpg" alt="Polaroid Originals B&W Spectra Film Instant Integral Film film box outside" loading="lazy" width="500" height="470">
+</a>
+
+
+`UUID: bab1df5b180e4f69aa79689d243ae87b`↓
+
+<a href="./archive/00624_001.jpg" target="_blank">
+	<img src="./lowres/00624_001.jpg" alt="Polaroid Originals B&W Spectra Film Instant Integral Film film box outside" loading="lazy" width="500" height="470">
+</a>
+
 #### Polaroid Originals Color Spectra Film (ref: 7d0a)
 
 ```
@@ -12978,7 +13000,7 @@ Rank  Username                      Contributions
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
 7     @Hol.m35                      56    
-8     nyctomanica                   53    
+8     nyctomanica                   55    
 9     The Compartmentalist          25    
 10    @ob.skura                     19    
 11    fine-seat                     19    
