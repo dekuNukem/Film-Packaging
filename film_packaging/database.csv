@@ -1111,3 +1111,14 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 601,0,film_box_outside,Polaroid,672,Instant Pack Film,400,Instant,200401,1781612603,d463d8c4403e27c28ea9cc21fdaa28bc,a2615a83b6774edda1567fe0e8deb335,00601_000.jpg,nyctomanica,,Single Pack,20exp
 602,0,film_box_outside,Fujifilm,FP-100B,Instant Pack Film,100,Instant,201005,1781612689,47ad780686f6defee0509bf5e9d527bc,ea6ab39216914f77b0ca7ed0f243f3dd,00602_000.jpg,nyctomanica,,Single Pack,10exp
 603,0,film_box_outside,Polaroid,High Contrast PolaChrome,35mm,40,Instant,199512,1781612753,6d1799bed132f4d40a05ab04adf1a201,65ce4d13cc6142b69fc5d1bea401c984,00603_000.jpg,nyctomanica,,Single Pack,12exp
+604,0,film_box_outside,Kodak,Vericolor 400,35mm,400,C-41,199408,1781784021,ddf16b3cbf036486076b1f4256ed2cc8,77390b1f4e8f4519817b767e55c1d8e3,00604_000.jpg,nyctomanica,,Bulk Roll,30.5m
+605,0,film_box_outside,Polaroid,1200,Instant Integral Film,640,Instant,200701,1781784091,f7f5553ab27d5f026edca52e7f2b0276,19b92b8aeb2b4e82b1ca2efa19eda657,00605_000.jpg,nyctomanica,Polaroid 1200 2x 12 photos (thinner Image/Spectra with 12 shots instead of 10),Single Pack,12exp
+606,0,film_box_outside,Kodak,Ektachrome 64T,35mm,64,E-6,200403,1781784133,4993095ce225d7d32ee88b23dd4aaa27,ae1e47c3a7ce4d399556eba279964b11,00606_000.jpg,nyctomanica,,Bulk Roll,30.5m
+606,1,film_box_outside,Kodak,Ektachrome 64T,35mm,64,E-6,200403,1781784137,2b24225f1ab12889aa92871720ac3908,51e54b2648a04424b6cd438fa9c24ce6,00606_001.jpg,nyctomanica,,Bulk Roll,30.5m
+607,0,film_box_outside,Polaroid,669,Instant Pack Film,80,Instant,200903,1781784217,ae2201de6b3321b22fb080cd9e2af62b,20659b99ecfa48af97cdfca3d1dc2c27,00607_000.jpg,nyctomanica,,Single Pack,20exp
+607,1,film_box_inside,Polaroid,669,Instant Pack Film,80,Instant,200903,1781784219,707362cf3bc3bdc1810a0946d849e3d2,8a98a85e7a474b69bdcb6ab34cf07935,00607_001.jpg,nyctomanica,,Single Pack,20exp
+608,0,film_box_outside,Polaroid,125i Gloss,Instant Pack Film,125,Instant,200802,1781784280,8559c912932c11ad9006935ed3d876b2,1a7ddb61af5a486d85577e89cf317dd1,00608_000.jpg,nyctomanica,,Single Pack,22exp
+609,0,film_box_outside,Polaroid,664,Instant Pack Film,100,Instant,200910,1781784410,1448fbf5b7cb60e3615222d267a2241d,cb070eea20764039a6b29ad007c54c40,00609_000.jpg,nyctomanica,Also called Polapan Pro 100?,Single Pack,20exp
+610,0,film_box_outside,Impossible Project,Color 600,Instant Integral Film,640,Instant,201401,1781784476,ac2f87256e60a1eeccb3ca9539948bcf,9ee1d3c8eb704994866eb1c5c22855a1,00610_000.jpg,nyctomanica,,Single Pack,8exp
+611,0,film_box_outside,Impossible Project,Color 600,Instant Integral Film,640,Instant,201601,1781784519,10f17f6301292a148a5975cfad21684b,dfb73aa922ec405b8fd100ed1785b84c,00611_000.jpg,nyctomanica,,Single Pack,8exp
+612,0,film_box_outside,Polaroid,664,Instant Pack Film,100,Instant,200910,1781784567,544959a9be000f7d9dd4043b2571d97d,c2158d300cde448bb229862cfa014f1a,00612_000.jpg,nyctomanica,,Single Pack,20exp

@@ -15,13 +15,22 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 16 2026
-Unique items: 599
-Total scans : 1112
+Last Updated: Jun 18 2026
+Unique items: 608
+Total scans : 1123
 ```
 
 -----
 
+- [[2026-06-18] Polaroid 664 (ref: 4f1a)](#2026-06-18-polaroid-664-ref-4f1a)
+- [[2026-06-18] Impossible Project Color 600 (ref: b84c)](#2026-06-18-impossible-project-color-600-ref-b84c)
+- [[2026-06-18] Impossible Project Color 600 (ref: 55a1)](#2026-06-18-impossible-project-color-600-ref-55a1)
+- [[2026-06-18] Polaroid 664 (ref: 4c40)](#2026-06-18-polaroid-664-ref-4c40)
+- [[2026-06-18] Polaroid 125i Gloss (ref: 7dd1)](#2026-06-18-polaroid-125i-gloss-ref-7dd1)
+- [[2026-06-18] Polaroid 669 (ref: 2c27)](#2026-06-18-polaroid-669-ref-2c27)
+- [[2026-06-18] Kodak Ektachrome 64T (ref: 4b11)](#2026-06-18-kodak-ektachrome-64t-ref-4b11)
+- [[2026-06-18] Polaroid 1200 (ref: a657)](#2026-06-18-polaroid-1200-ref-a657)
+- [[2026-06-18] Kodak Vericolor 400 (ref: d8e3)](#2026-06-18-kodak-vericolor-400-ref-d8e3)
 - [[2026-06-16] Polaroid High Contrast PolaChrome (ref: c984)](#2026-06-16-polaroid-high-contrast-polachrome-ref-c984)
 - [[2026-06-16] Fujifilm FP-100B (ref: f3dd)](#2026-06-16-fujifilm-fp-100b-ref-f3dd)
 - [[2026-06-16] Polaroid 672 (ref: b335)](#2026-06-16-polaroid-672-ref-b335)
@@ -624,6 +633,148 @@ Total scans : 1112
 
 
 -----
+
+#### [2026-06-18] Polaroid 664 (ref: 4f1a)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 100          |  Expiry  : 2009-10 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : c2158d300cde448bb229862cfa014f1a
+```
+
+<a href="./archive/00612_000.jpg" target="_blank">
+	<img src="./lowres/00612_000.jpg" alt="Polaroid 664 Instant Pack Film film box outside" loading="lazy" width="500" height="412">
+</a>
+
+#### [2026-06-18] Impossible Project Color 600 (ref: b84c)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2016-01 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : dfb73aa922ec405b8fd100ed1785b84c
+```
+
+<a href="./archive/00611_000.jpg" target="_blank">
+	<img src="./lowres/00611_000.jpg" alt="Impossible Project Color 600 Instant Integral Film film box outside" loading="lazy" width="415" height="500">
+</a>
+
+#### [2026-06-18] Impossible Project Color 600 (ref: 55a1)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2014-01 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 9ee1d3c8eb704994866eb1c5c22855a1
+```
+
+<a href="./archive/00610_000.jpg" target="_blank">
+	<img src="./lowres/00610_000.jpg" alt="Impossible Project Color 600 Instant Integral Film film box outside" loading="lazy" width="414" height="500">
+</a>
+
+#### [2026-06-18] Polaroid 664 (ref: 4c40)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 100          |  Expiry  : 2009-10 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : cb070eea20764039a6b29ad007c54c40
+Notes : Also called Polapan Pro 100?
+```
+
+<a href="./archive/00609_000.jpg" target="_blank">
+	<img src="./lowres/00609_000.jpg" alt="Polaroid 664 Instant Pack Film film box outside" loading="lazy" width="364" height="500">
+</a>
+
+#### [2026-06-18] Polaroid 125i Gloss (ref: 7dd1)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 125          |  Expiry  : 2008-02 
+Type  : Single Pack  |  Quantity: 22exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 1a7ddb61af5a486d85577e89cf317dd1
+```
+
+<a href="./archive/00608_000.jpg" target="_blank">
+	<img src="./lowres/00608_000.jpg" alt="Polaroid 125i Gloss Instant Pack Film film box outside" loading="lazy" width="500" height="399">
+</a>
+
+
+`UUID: 8a98a85e7a474b69bdcb6ab34cf07935`↓
+
+<a href="./archive/00607_001.jpg" target="_blank">
+	<img src="./lowres/00607_001.jpg" alt="Polaroid 669 Instant Pack Film film box inside" loading="lazy" width="500" height="357">
+</a>
+
+#### [2026-06-18] Polaroid 669 (ref: 2c27)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 80           |  Expiry  : 2009-03 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 20659b99ecfa48af97cdfca3d1dc2c27
+```
+
+<a href="./archive/00607_000.jpg" target="_blank">
+	<img src="./lowres/00607_000.jpg" alt="Polaroid 669 Instant Pack Film film box outside" loading="lazy" width="500" height="360">
+</a>
+
+
+`UUID: 51e54b2648a04424b6cd438fa9c24ce6`↓
+
+<a href="./archive/00606_001.jpg" target="_blank">
+	<img src="./lowres/00606_001.jpg" alt="Kodak Ektachrome 64T 35mm film box outside" loading="lazy" width="490" height="500">
+</a>
+
+#### [2026-06-18] Kodak Ektachrome 64T (ref: 4b11)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 64           |  Expiry  : 2004-03 
+Type  : Bulk Roll    |  Quantity: 30.5m   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : ae1e47c3a7ce4d399556eba279964b11
+```
+
+<a href="./archive/00606_000.jpg" target="_blank">
+	<img src="./lowres/00606_000.jpg" alt="Kodak Ektachrome 64T 35mm film box outside" loading="lazy" width="500" height="223">
+</a>
+
+#### [2026-06-18] Polaroid 1200 (ref: a657)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2007-01 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 19b92b8aeb2b4e82b1ca2efa19eda657
+Notes : Polaroid 1200 2x 12 photos (thinner Image/Spectra with 12 shots instead of 10)
+```
+
+<a href="./archive/00605_000.jpg" target="_blank">
+	<img src="./lowres/00605_000.jpg" alt="Polaroid 1200 Instant Integral Film film box outside" loading="lazy" width="465" height="500">
+</a>
+
+#### [2026-06-18] Kodak Vericolor 400 (ref: d8e3)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 1994-08 
+Type  : Bulk Roll    |  Quantity: 30.5m   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 77390b1f4e8f4519817b767e55c1d8e3
+```
+
+<a href="./archive/00604_000.jpg" target="_blank">
+	<img src="./lowres/00604_000.jpg" alt="Kodak Vericolor 400 35mm film box outside" loading="lazy" width="481" height="500">
+</a>
 
 #### [2026-06-16] Polaroid High Contrast PolaChrome (ref: c984)
 
@@ -12640,7 +12791,7 @@ Rank  Username                      Contributions
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
 7     @Hol.m35                      56    
-8     nyctomanica                   28    
+8     nyctomanica                   39    
 9     The Compartmentalist          25    
 10    @ob.skura                     19    
 11    fine-seat                     19    

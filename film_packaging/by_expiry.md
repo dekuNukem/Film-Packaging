@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 16 2026
-Unique items: 599
-Total scans : 1112
+Last Updated: Jun 18 2026
+Unique items: 608
+Total scans : 1123
 ```
 
 -----
@@ -198,6 +198,7 @@ Total scans : 1112
 - [[1993] Kodak Gold II (ref: 61d0)](#1993-kodak-gold-ii-ref-61d0)
 - [[1993] Nishika Color Print Film (ref: baeb)](#1993-nishika-color-print-film-ref-baeb)
 - [[1994] Fujifilm Fujicolor Super HG (ref: ee94)](#1994-fujifilm-fujicolor-super-hg-ref-ee94)
+- [[1994] Kodak Vericolor 400 (ref: d8e3)](#1994-kodak-vericolor-400-ref-d8e3)
 - [[1994] York Photo Labs DXG 200 (ref: 4bf8)](#1994-york-photo-labs-dxg-200-ref-4bf8)
 - [[1994] Ilford XP2 (ref: 7d94)](#1994-ilford-xp2-ref-7d94)
 - [[1994] Kodak Ektachrome 100HC (ref: 3ab9)](#1994-kodak-ektachrome-100hc-ref-3ab9)
@@ -270,6 +271,7 @@ Total scans : 1112
 - [[2003] Agfa AgfaColor Vista (ref: d3af)](#2003-agfa-agfacolor-vista-ref-d3af)
 - [[2004] Fujifilm Neopan 400 (ref: c088)](#2004-fujifilm-neopan-400-ref-c088)
 - [[2004] Polaroid 672 (ref: b335)](#2004-polaroid-672-ref-b335)
+- [[2004] Kodak Ektachrome 64T (ref: 4b11)](#2004-kodak-ektachrome-64t-ref-4b11)
 - [[2004] Fujifilm Fujichrome Sensia 200 (ref: 3a01)](#2004-fujifilm-fujichrome-sensia-200-ref-3a01)
 - [[2004] Fujifilm Fujichrome Sensia 100 (ref: a859)](#2004-fujifilm-fujichrome-sensia-100-ref-a859)
 - [[2004] Fujifilm Fujicolor Superia X-TRA (ref: 7980)](#2004-fujifilm-fujicolor-superia-x-tra-ref-7980)
@@ -303,6 +305,7 @@ Total scans : 1112
 - [[2006] Polaroid GridFilm (ref: 8deb)](#2006-polaroid-gridfilm-ref-8deb)
 - [[2006] Fujifilm Fujichrome Provia 100F (ref: 1b4b)](#2006-fujifilm-fujichrome-provia-100f-ref-1b4b)
 - [[2007] Fujifilm Neopan Acros 100 II (ref: 4027)](#2007-fujifilm-neopan-acros-100-ii-ref-4027)
+- [[2007] Polaroid 1200 (ref: a657)](#2007-polaroid-1200-ref-a657)
 - [[2007] Klick 400ASA (ref: 8779)](#2007-klick-400asa-ref-8779)
 - [[2007] Kodak 110 Film (ref: 8cca)](#2007-kodak-110-film-ref-8cca)
 - [[2007] Kodak Ektachrome 320T (ref: 0e11)](#2007-kodak-ektachrome-320t-ref-0e11)
@@ -318,12 +321,14 @@ Total scans : 1112
 - [[2007] Fujifilm Fujicolor Pro 400H (ref: 48ed)](#2007-fujifilm-fujicolor-pro-400h-ref-48ed)
 - [[2007] Kodak Elite Chrome (ref: 3943)](#2007-kodak-elite-chrome-ref-3943)
 - [[2007] Kodak Ultra (ref: 5701)](#2007-kodak-ultra-ref-5701)
+- [[2008] Polaroid 125i Gloss (ref: 7dd1)](#2008-polaroid-125i-gloss-ref-7dd1)
 - [[2008] Agfa APX (ref: 12c7)](#2008-agfa-apx-ref-12c7)
 - [[2008] Agfa CT Precisa 100 (ref: bc36)](#2008-agfa-ct-precisa-100-ref-bc36)
 - [[2008] Fujifilm Superia 200 (ref: fd36)](#2008-fujifilm-superia-200-ref-fd36)
 - [[2008] Kodak High Speed Infrared (ref: 883e)](#2008-kodak-high-speed-infrared-ref-883e)
 - [[2008] Polaroid 990 (ref: e3bc)](#2008-polaroid-990-ref-e3bc)
 - [[2009] Fujifilm Fujicolor Pro 400H (ref: dc37)](#2009-fujifilm-fujicolor-pro-400h-ref-dc37)
+- [[2009] Polaroid 669 (ref: 2c27)](#2009-polaroid-669-ref-2c27)
 - [[2009] efke KB-25 (ref: 4d17)](#2009-efke-kb-25-ref-4d17)
 - [[2009] Kodak Portra 400VC (ref: 7669)](#2009-kodak-portra-400vc-ref-7669)
 - [[2009] Polaroid 100 Blue Film (ref: 93b8)](#2009-polaroid-100-blue-film-ref-93b8)
@@ -331,6 +336,8 @@ Total scans : 1112
 - [[2009] Lloyds Pharmacy Colour Film (ref: 77d9)](#2009-lloyds-pharmacy-colour-film-ref-77d9)
 - [[2009] Kodak FarbWelt 400 (ref: e9b6)](#2009-kodak-farbwelt-400-ref-e9b6)
 - [[2009] Polaroid 100 Sepia Film (ref: 9893)](#2009-polaroid-100-sepia-film-ref-9893)
+- [[2009] Polaroid 664 (ref: 4c40)](#2009-polaroid-664-ref-4c40)
+- [[2009] Polaroid 664 (ref: 4f1a)](#2009-polaroid-664-ref-4f1a)
 - [[2009] Polaroid TZ Artistic Fade to Black (ref: de21)](#2009-polaroid-tz-artistic-fade-to-black-ref-de21)
 - [[2010] Photocité 400 ISO (ref: e370)](#2010-photocité-400-iso-ref-e370)
 - [[2010] Fujifilm Fujicolor Superia Reala (ref: a624)](#2010-fujifilm-fujicolor-superia-reala-ref-a624)
@@ -358,6 +365,7 @@ Total scans : 1112
 - [[2013] Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras (ref: 861c)](#2013-impossible-project-color-instant-film-for-polaroid-sx-70-type-cameras-ref-861c)
 - [[2013] Kodak Professional Microfilm Type I (ref: a444)](#2013-kodak-professional-microfilm-type-i-ref-a444)
 - [[2014] Fujifilm Fujicolor Pro 400H (ref: fb3a)](#2014-fujifilm-fujicolor-pro-400h-ref-fb3a)
+- [[2014] Impossible Project Color 600 (ref: 55a1)](#2014-impossible-project-color-600-ref-55a1)
 - [[2014] Ilford HP5 Plus (ref: 072e)](#2014-ilford-hp5-plus-ref-072e)
 - [[2014] Kodak Portra 400 (ref: cf9c)](#2014-kodak-portra-400-ref-cf9c)
 - [[2014] Fujifilm Fujicolor Natura 1600 (ref: 2e06)](#2014-fujifilm-fujicolor-natura-1600-ref-2e06)
@@ -365,6 +373,7 @@ Total scans : 1112
 - [[2015] Fujifilm FP-100C (ref: 5cda)](#2015-fujifilm-fp-100c-ref-5cda)
 - [[2015] Lomography Tiger (ref: 5b62)](#2015-lomography-tiger-ref-5b62)
 - [[2015] Lomography Lobster Redscale Negative (ref: 4dcd)](#2015-lomography-lobster-redscale-negative-ref-4dcd)
+- [[2016] Impossible Project Color 600 (ref: b84c)](#2016-impossible-project-color-600-ref-b84c)
 - [[2016] Fujifilm Fujicolor Natura 1600 (ref: 52aa)](#2016-fujifilm-fujicolor-natura-1600-ref-52aa)
 - [[2016] Fujifilm Fujicolor C200 (ref: 2585)](#2016-fujifilm-fujicolor-c200-ref-2585)
 - [[2018] CineStill 800T (ref: c86a)](#2018-cinestill-800t-ref-c86a)
@@ -4859,6 +4868,20 @@ UUID  : 9233714654ff481089c2d4ff1334ee94
 	<img src="./lowres/00150_001.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box inside" loading="lazy" width="415" height="500">
 </a>
 
+#### [1994] Kodak Vericolor 400 (ref: d8e3)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 1994-08 
+Type  : Bulk Roll    |  Quantity: 30.5m   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 77390b1f4e8f4519817b767e55c1d8e3
+```
+
+<a href="./archive/00604_000.jpg" target="_blank">
+	<img src="./lowres/00604_000.jpg" alt="Kodak Vericolor 400 35mm film box outside" loading="lazy" width="481" height="500">
+</a>
+
 #### [1994] York Photo Labs DXG 200 (ref: 4bf8)
 
 ```
@@ -6311,6 +6334,27 @@ UUID  : a2615a83b6774edda1567fe0e8deb335
 	<img src="./lowres/00601_000.jpg" alt="Polaroid 672 Instant Pack Film film box outside" loading="lazy" width="357" height="500">
 </a>
 
+#### [2004] Kodak Ektachrome 64T (ref: 4b11)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 64           |  Expiry  : 2004-03 
+Type  : Bulk Roll    |  Quantity: 30.5m   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : ae1e47c3a7ce4d399556eba279964b11
+```
+
+<a href="./archive/00606_000.jpg" target="_blank">
+	<img src="./lowres/00606_000.jpg" alt="Kodak Ektachrome 64T 35mm film box outside" loading="lazy" width="500" height="223">
+</a>
+
+
+`UUID: 51e54b2648a04424b6cd438fa9c24ce6`↓
+
+<a href="./archive/00606_001.jpg" target="_blank">
+	<img src="./lowres/00606_001.jpg" alt="Kodak Ektachrome 64T 35mm film box outside" loading="lazy" width="490" height="500">
+</a>
+
 #### [2004] Fujifilm Fujichrome Sensia 200 (ref: 3a01)
 
 ```
@@ -6937,6 +6981,21 @@ UUID  : fbb052b5a0024308b4d11dd3a78b4027
 	<img src="./lowres/00556_001.jpg" alt="Fujifilm Neopan Acros 100 II 120 film box inside" loading="lazy" width="472" height="500">
 </a>
 
+#### [2007] Polaroid 1200 (ref: a657)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2007-01 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 19b92b8aeb2b4e82b1ca2efa19eda657
+Notes : Polaroid 1200 2x 12 photos (thinner Image/Spectra with 12 shots instead of 10)
+```
+
+<a href="./archive/00605_000.jpg" target="_blank">
+	<img src="./lowres/00605_000.jpg" alt="Polaroid 1200 Instant Integral Film film box outside" loading="lazy" width="465" height="500">
+</a>
+
 #### [2007] Klick 400ASA (ref: 8779)
 
 ```
@@ -7189,6 +7248,20 @@ UUID  : d01783be3b70456095411ca387865701
 	<img src="./lowres/00333_000.jpg" alt="Kodak Ultra 110 film box outside" loading="lazy" width="296" height="500">
 </a>
 
+#### [2008] Polaroid 125i Gloss (ref: 7dd1)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 125          |  Expiry  : 2008-02 
+Type  : Single Pack  |  Quantity: 22exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 1a7ddb61af5a486d85577e89cf317dd1
+```
+
+<a href="./archive/00608_000.jpg" target="_blank">
+	<img src="./lowres/00608_000.jpg" alt="Polaroid 125i Gloss Instant Pack Film film box outside" loading="lazy" width="500" height="399">
+</a>
+
 #### [2008] Agfa APX (ref: 12c7)
 
 ```
@@ -7322,6 +7395,27 @@ UUID  : 9934366ea7a04b65b3c300352fa8dc37
 	<img src="./lowres/00249_001.jpg" alt="Fujifilm Fujicolor Pro 400H 35mm film box inside" loading="lazy" width="431" height="499">
 </a>
 
+#### [2009] Polaroid 669 (ref: 2c27)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 80           |  Expiry  : 2009-03 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 20659b99ecfa48af97cdfca3d1dc2c27
+```
+
+<a href="./archive/00607_000.jpg" target="_blank">
+	<img src="./lowres/00607_000.jpg" alt="Polaroid 669 Instant Pack Film film box outside" loading="lazy" width="500" height="360">
+</a>
+
+
+`UUID: 8a98a85e7a474b69bdcb6ab34cf07935`↓
+
+<a href="./archive/00607_001.jpg" target="_blank">
+	<img src="./lowres/00607_001.jpg" alt="Polaroid 669 Instant Pack Film film box inside" loading="lazy" width="500" height="357">
+</a>
+
 #### [2009] efke KB-25 (ref: 4d17)
 
 ```
@@ -7425,6 +7519,35 @@ UUID  : 3dc991e05c9b43cdbb85b18aabc29893
 
 <a href="./archive/00599_000.jpg" target="_blank">
 	<img src="./lowres/00599_000.jpg" alt="Polaroid 100 Sepia Film Instant Pack Film film box outside" loading="lazy" width="356" height="500">
+</a>
+
+#### [2009] Polaroid 664 (ref: 4c40)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 100          |  Expiry  : 2009-10 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : cb070eea20764039a6b29ad007c54c40
+Notes : Also called Polapan Pro 100?
+```
+
+<a href="./archive/00609_000.jpg" target="_blank">
+	<img src="./lowres/00609_000.jpg" alt="Polaroid 664 Instant Pack Film film box outside" loading="lazy" width="364" height="500">
+</a>
+
+#### [2009] Polaroid 664 (ref: 4f1a)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 100          |  Expiry  : 2009-10 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : c2158d300cde448bb229862cfa014f1a
+```
+
+<a href="./archive/00612_000.jpg" target="_blank">
+	<img src="./lowres/00612_000.jpg" alt="Polaroid 664 Instant Pack Film film box outside" loading="lazy" width="500" height="412">
 </a>
 
 #### [2009] Polaroid TZ Artistic Fade to Black (ref: de21)
@@ -7910,6 +8033,20 @@ UUID  : 8acc893c8082453a8f83a17f3780fb3a
 	<img src="./lowres/00518_000.jpg" alt="Fujifilm Fujicolor Pro 400H 120 film box outside" loading="lazy" width="500" height="238">
 </a>
 
+#### [2014] Impossible Project Color 600 (ref: 55a1)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2014-01 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 9ee1d3c8eb704994866eb1c5c22855a1
+```
+
+<a href="./archive/00610_000.jpg" target="_blank">
+	<img src="./lowres/00610_000.jpg" alt="Impossible Project Color 600 Instant Integral Film film box outside" loading="lazy" width="414" height="500">
+</a>
+
 #### [2014] Ilford HP5 Plus (ref: 072e)
 
 ```
@@ -8062,6 +8199,20 @@ UUID  : bfb2bdd4749b474f8fe1f971f2a14dcd
 
 <a href="./archive/00422_001.jpg" target="_blank">
 	<img src="./lowres/00422_001.jpg" alt="Lomography Lobster Redscale Negative 110 film box inside" loading="lazy" width="336" height="500">
+</a>
+
+#### [2016] Impossible Project Color 600 (ref: b84c)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2016-01 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : dfb73aa922ec405b8fd100ed1785b84c
+```
+
+<a href="./archive/00611_000.jpg" target="_blank">
+	<img src="./lowres/00611_000.jpg" alt="Impossible Project Color 600 Instant Integral Film film box outside" loading="lazy" width="415" height="500">
 </a>
 
 #### [2016] Fujifilm Fujicolor Natura 1600 (ref: 52aa)
@@ -12640,7 +12791,7 @@ Rank  Username                      Contributions
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
 7     @Hol.m35                      56    
-8     nyctomanica                   28    
+8     nyctomanica                   39    
 9     The Compartmentalist          25    
 10    @ob.skura                     19    
 11    fine-seat                     19    

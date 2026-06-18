@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 16 2026
-Unique items: 599
-Total scans : 1112
+Last Updated: Jun 18 2026
+Unique items: 608
+Total scans : 1123
 ```
 
 Or Sort by...
@@ -60,7 +60,7 @@ Rank  Username                      Contributions
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
 7     @Hol.m35                      56    
-8     nyctomanica                   28    
+8     nyctomanica                   39    
 9     The Compartmentalist          25    
 10    @ob.skura                     19    
 11    fine-seat                     19    
@@ -106,6 +106,15 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2026-06-18
+  - nyctomanica: Impossible Project Color 600
+  - nyctomanica: Kodak Ektachrome 64T
+  - nyctomanica: Kodak Vericolor 400
+  - nyctomanica: Polaroid 1200
+  - nyctomanica: Polaroid 125i Gloss
+  - nyctomanica: Polaroid 664
+  - nyctomanica: Polaroid 669
+
 2026-06-16
   - nyctomanica: Agfa Agfacolor CNS
   - nyctomanica: Camera Film Photo Limited Kiki Pan 320
@@ -151,34 +160,6 @@ Rank  Username                      Contributions
   - Luci 101: ORWO OrwoColor UT13
   - Pelicram: Kodak TMAX P3200
   - robo-tobo: Efke R14
-
-2026-04-13
-  - @ellafridalindblom: Gevaert Superchrom
-  - @ellafridalindblom: Ilford HP3
-  - @ellafridalindblom: Kodak Super Speed Ortho Portrait
-  - @Hol.m35: Agfa Agfacolor CNS2
-  - @Hol.m35: Fujifilm Fujicolor C200
-  - @Hol.m35: Fujifilm Fujicolor Superia Multi400
-  - @Hol.m35: Harman Switch Azure
-  - @Hol.m35: Kodak Gold 200
-  - @Hol.m35: Lomography Berlin
-  - @Hol.m35: Lomography Color Negative Film
-  - @Hol.m35: Lomography Postdam
-  - @Hol.m35: Lucky C200
-  - @Hol.m35: Rollei Retro 400S
-  - @ob.skura: Kodak High Speed Ektachrome
-  - @tylerdrey: Kodak Ektachrome 160T
-  - Dialupdude: 1Shot Color Print Film
-  - Dialupdude: Kodak Sport Single Use Camera
-  - Dialupdude: Lucky C200
-  - Dialupdude: Polaroid B&W i-Type Film
-  - Dialupdude: Polaroid Color i-Type Film
-  - Greg: Kodak Plus-X
-  - kaimon: Escura Showa Camera Film
-  - kaimon: Fujifilm Neopan Acros 100 II
-  - Luci 101: Agfa AgfaChrome 100RS
-  - Luci 101: ORWO OrwoChrome UT18
-  - Luci 101: Svema Foto 64
 ```
 
 ## Disclaimer
