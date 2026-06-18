@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Jun 18 2026
-Unique items: 608
-Total scans : 1123
+Unique items: 619
+Total scans : 1137
 ```
 
 Or Sort by...
@@ -60,7 +60,7 @@ Rank  Username                      Contributions
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
 7     @Hol.m35                      56    
-8     nyctomanica                   39    
+8     nyctomanica                   53    
 9     The Compartmentalist          25    
 10    @ob.skura                     19    
 11    fine-seat                     19    
@@ -107,13 +107,24 @@ Rank  Username                      Contributions
 
 ```
 2026-06-18
+  - nyctomanica: Fujifilm FP-100C Silk
+  - nyctomanica: Fujifilm FP-3000B
+  - nyctomanica: Fujifilm Instax Wide
+  - nyctomanica: Fujifilm Instax Wide Monochrome
   - nyctomanica: Impossible Project Color 600
+  - nyctomanica: Impossible Project Polaroid Type 100 Chocolate Paul Giambarba Edition
   - nyctomanica: Kodak Ektachrome 64T
   - nyctomanica: Kodak Vericolor 400
+  - nyctomanica: Lomography Color Slide / X-Pro 200
+  - nyctomanica: One Instant Type 100 Peel-Apart Colorfilm
+  - nyctomanica: Polaroid 100 Chocolate Film
   - nyctomanica: Polaroid 1200
   - nyctomanica: Polaroid 125i Gloss
   - nyctomanica: Polaroid 664
   - nyctomanica: Polaroid 669
+  - nyctomanica: Polaroid 690
+  - nyctomanica: Polaroid Land Pack Film Type 107
+  - nyctomanica: Polaroid Originals Color Spectra Film
 
 2026-06-16
   - nyctomanica: Agfa Agfacolor CNS

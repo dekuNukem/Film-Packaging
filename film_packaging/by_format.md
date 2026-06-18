@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Jun 18 2026
-Unique items: 608
-Total scans : 1123
+Unique items: 619
+Total scans : 1137
 ```
 
 -----
@@ -475,6 +475,7 @@ Total scans : 1123
 - [[35mm] Lomography Babylon (ref: 7afa)](#35mm-lomography-babylon-ref-7afa)
 - [[35mm] Lomography Berlin (ref: d3df)](#35mm-lomography-berlin-ref-d3df)
 - [[35mm] Lomography Color Negative 800 (ref: 7796)](#35mm-lomography-color-negative-800-ref-7796)
+- [[35mm] Lomography Color Slide / X-Pro 200 (ref: 22bc)](#35mm-lomography-color-slide--x-pro-200-ref-22bc)
 - [[35mm] Lomography Fantome (ref: 4340)](#35mm-lomography-fantome-ref-4340)
 - [[35mm] Lomography Lomochrome Color'92 (ref: 12b4)](#35mm-lomography-lomochrome-color92-ref-12b4)
 - [[35mm] Lomography Lomochrome Metropolis (ref: 5546)](#35mm-lomography-lomochrome-metropolis-ref-5546)
@@ -591,6 +592,8 @@ Total scans : 1123
 - [[APS] Lloyds Pharmacy APS Film (ref: c7cf)](#aps-lloyds-pharmacy-aps-film-ref-c7cf)
 - [[Disc Film] Kodak Kodacolor Gold (ref: 4ccd)](#disc-film-kodak-kodacolor-gold-ref-4ccd)
 - [[Instant Integral Film] Fujifilm Instax Mini (ref: e5e7)](#instant-integral-film-fujifilm-instax-mini-ref-e5e7)
+- [[Instant Integral Film] Fujifilm Instax Wide (ref: 51ce)](#instant-integral-film-fujifilm-instax-wide-ref-51ce)
+- [[Instant Integral Film] Fujifilm Instax Wide Monochrome (ref: 58d8)](#instant-integral-film-fujifilm-instax-wide-monochrome-ref-58d8)
 - [[Instant Integral Film] Impossible Project Color 600 (ref: 55a1)](#instant-integral-film-impossible-project-color-600-ref-55a1)
 - [[Instant Integral Film] Impossible Project Color 600 (ref: b84c)](#instant-integral-film-impossible-project-color-600-ref-b84c)
 - [[Instant Integral Film] Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras (ref: 861c)](#instant-integral-film-impossible-project-color-instant-film-for-polaroid-sx-70-type-cameras-ref-861c)
@@ -611,9 +614,15 @@ Total scans : 1123
 - [[Instant Integral Film] Polaroid Image Instant Film (ref: ee6d)](#instant-integral-film-polaroid-image-instant-film-ref-ee6d)
 - [[Instant Integral Film] Polaroid Spectra Film (ref: 7a94)](#instant-integral-film-polaroid-spectra-film-ref-7a94)
 - [[Instant Integral Film] Polaroid TZ Artistic Fade to Black (ref: de21)](#instant-integral-film-polaroid-tz-artistic-fade-to-black-ref-de21)
+- [[Instant Integral Film] Polaroid Originals Color Spectra Film (ref: 7d0a)](#instant-integral-film-polaroid-originals-color-spectra-film-ref-7d0a)
 - [[Instant Pack Film] Fujifilm FP-100B (ref: f3dd)](#instant-pack-film-fujifilm-fp-100b-ref-f3dd)
 - [[Instant Pack Film] Fujifilm FP-100C (ref: 5cda)](#instant-pack-film-fujifilm-fp-100c-ref-5cda)
+- [[Instant Pack Film] Fujifilm FP-100C Silk (ref: b7aa)](#instant-pack-film-fujifilm-fp-100c-silk-ref-b7aa)
+- [[Instant Pack Film] Fujifilm FP-3000B (ref: 9d7e)](#instant-pack-film-fujifilm-fp-3000b-ref-9d7e)
+- [[Instant Pack Film] Impossible Project Polaroid Type 100 Chocolate Paul Giambarba Edition (ref: 6028)](#instant-pack-film-impossible-project-polaroid-type-100-chocolate-paul-giambarba-edition-ref-6028)
+- [[Instant Pack Film] One Instant Type 100 Peel-Apart Colorfilm (ref: ff2c)](#instant-pack-film-one-instant-type-100-peel-apart-colorfilm-ref-ff2c)
 - [[Instant Pack Film] Polaroid 100 Blue Film (ref: 93b8)](#instant-pack-film-polaroid-100-blue-film-ref-93b8)
+- [[Instant Pack Film] Polaroid 100 Chocolate Film (ref: a70f)](#instant-pack-film-polaroid-100-chocolate-film-ref-a70f)
 - [[Instant Pack Film] Polaroid 100 Sepia Film (ref: 9893)](#instant-pack-film-polaroid-100-sepia-film-ref-9893)
 - [[Instant Pack Film] Polaroid 125i Gloss (ref: 7dd1)](#instant-pack-film-polaroid-125i-gloss-ref-7dd1)
 - [[Instant Pack Film] Polaroid 664 (ref: 4c40)](#instant-pack-film-polaroid-664-ref-4c40)
@@ -622,7 +631,9 @@ Total scans : 1123
 - [[Instant Pack Film] Polaroid 669 (ref: 3566)](#instant-pack-film-polaroid-669-ref-3566)
 - [[Instant Pack Film] Polaroid 669 (ref: 2c27)](#instant-pack-film-polaroid-669-ref-2c27)
 - [[Instant Pack Film] Polaroid 672 (ref: b335)](#instant-pack-film-polaroid-672-ref-b335)
+- [[Instant Pack Film] Polaroid 690 (ref: bd98)](#instant-pack-film-polaroid-690-ref-bd98)
 - [[Instant Pack Film] Polaroid 87 (ref: 62ef)](#instant-pack-film-polaroid-87-ref-62ef)
+- [[Instant Pack Film] Polaroid Land Pack Film Type 107 (ref: 1b9a)](#instant-pack-film-polaroid-land-pack-film-type-107-ref-1b9a)
 - [[Instant Pack Film] Polaroid Polacolor 679 (ref: 625c)](#instant-pack-film-polaroid-polacolor-679-ref-625c)
 - [[Instant Roll Film] Polaroid Type 42 (ref: f92c)](#instant-roll-film-polaroid-type-42-ref-f92c)
 - [[Polavision] Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)](#polavision-polaroid-polavision-phototape-land-cassette-type-608-ref-90b9)
@@ -9536,6 +9547,21 @@ UUID  : 7daedd3c10164aa3a9ca3f7a9eae7796
 	<img src="./lowres/00495_001.jpg" alt="Lomography Color Negative 800 35mm film box outside" loading="lazy" width="500" height="423">
 </a>
 
+#### [35mm] Lomography Color Slide / X-Pro 200 (ref: 22bc)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 200          |  Expiry  : 2018-06 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : fa1a525240b548f599483ad50ba122bc
+Notes : aka Rollei Crossbird, AGFA Aviphot Chrome 200?
+```
+
+<a href="./archive/00616_000.jpg" target="_blank">
+	<img src="./lowres/00616_000.jpg" alt="Lomography Color Slide / X-Pro 200 35mm film box outside" loading="lazy" width="435" height="500">
+</a>
+
 #### [35mm] Lomography Fantome (ref: 4340)
 
 ```
@@ -11897,6 +11923,34 @@ UUID  : b8ea314888b244f8ab8ace49c734e5e7
 	<img src="./lowres/00307_000.jpg" alt="Fujifilm Instax Mini Instant Integral Film film box outside" loading="lazy" width="500" height="400">
 </a>
 
+#### [Instant Integral Film] Fujifilm Instax Wide (ref: 51ce)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 800          |  Expiry  : 2021-05 
+Type  : Multi-Pack-2 |  Quantity: 10exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 6fd9245fee514c42b71121e489f051ce
+```
+
+<a href="./archive/00622_000.jpg" target="_blank">
+	<img src="./lowres/00622_000.jpg" alt="Fujifilm Instax Wide Instant Integral Film film box outside" loading="lazy" width="500" height="367">
+</a>
+
+#### [Instant Integral Film] Fujifilm Instax Wide Monochrome (ref: 58d8)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 800          |  Expiry  : 2020-09 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 48b08b5b3a8a4edc98fd29e6fd1c58d8
+```
+
+<a href="./archive/00620_000.jpg" target="_blank">
+	<img src="./lowres/00620_000.jpg" alt="Fujifilm Instax Wide Monochrome Instant Integral Film film box outside" loading="lazy" width="500" height="351">
+</a>
+
 #### [Instant Integral Film] Impossible Project Color 600 (ref: 55a1)
 
 ```
@@ -12388,6 +12442,34 @@ UUID  : 1db6d025cc904e11858f76ce0053de21
 	<img src="./lowres/00591_001.jpg" alt="Polaroid TZ Artistic Fade to Black Instant Integral Film film box inside" loading="lazy" width="488" height="500">
 </a>
 
+#### [Instant Integral Film] Polaroid Originals Color Spectra Film (ref: 7d0a)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2019-05 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 1761ed58b3bc423cb93dcf6fa3e77d0a
+```
+
+<a href="./archive/00623_000.jpg" target="_blank">
+	<img src="./lowres/00623_000.jpg" alt="Polaroid Originals Color Spectra Film Instant Integral Film film box outside" loading="lazy" width="500" height="460">
+</a>
+
+
+`UUID: 538e8ad4aa6648ffbcf9f98f7848f3e1`↓
+
+<a href="./archive/00623_001.jpg" target="_blank">
+	<img src="./lowres/00623_001.jpg" alt="Polaroid Originals Color Spectra Film Instant Integral Film film box outside" loading="lazy" width="500" height="460">
+</a>
+
+
+`UUID: b8809a0a73bc4c719d575231bdca4fc5`↓
+
+<a href="./archive/00623_002.jpg" target="_blank">
+	<img src="./lowres/00623_002.jpg" alt="Polaroid Originals Color Spectra Film Instant Integral Film film box inside" loading="lazy" width="258" height="500">
+</a>
+
 #### [Instant Pack Film] Fujifilm FP-100B (ref: f3dd)
 
 ```
@@ -12423,6 +12505,69 @@ UUID  : 9bf3702e732a42adb54727a565645cda
 	<img src="./lowres/00277_001.jpg" alt="Fujifilm FP-100C Instant Pack Film film box inside" loading="lazy" width="500" height="353">
 </a>
 
+#### [Instant Pack Film] Fujifilm FP-100C Silk (ref: b7aa)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 100          |  Expiry  : 2015-01 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 38650eb6e4cc42f8bd6b7875dcc5b7aa
+```
+
+<a href="./archive/00618_000.jpg" target="_blank">
+	<img src="./lowres/00618_000.jpg" alt="Fujifilm FP-100C Silk Instant Pack Film film box outside" loading="lazy" width="500" height="333">
+</a>
+
+#### [Instant Pack Film] Fujifilm FP-3000B (ref: 9d7e)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 3200         |  Expiry  : 2015-06 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 8382f7e52acc4167bd2aaae4ec319d7e
+```
+
+<a href="./archive/00617_000.jpg" target="_blank">
+	<img src="./lowres/00617_000.jpg" alt="Fujifilm FP-3000B Instant Pack Film film box outside" loading="lazy" width="500" height="375">
+</a>
+
+
+`UUID: 487b8dd980bd49e9b21c32a2a72657d1`↓
+
+<a href="./archive/00617_001.jpg" target="_blank">
+	<img src="./lowres/00617_001.jpg" alt="Fujifilm FP-3000B Instant Pack Film film box inside" loading="lazy" width="352" height="500">
+</a>
+
+#### [Instant Pack Film] Impossible Project Polaroid Type 100 Chocolate Paul Giambarba Edition (ref: 6028)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 80           |  Expiry  : 2010-12 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 9b939ce0c8d7401c936cfcbc85c76028
+```
+
+<a href="./archive/00613_000.jpg" target="_blank">
+	<img src="./lowres/00613_000.jpg" alt="Impossible Project Polaroid Type 100 Chocolate Paul Giambarba Edition Instant Pack Film film box outside" loading="lazy" width="500" height="355">
+</a>
+
+#### [Instant Pack Film] One Instant Type 100 Peel-Apart Colorfilm (ref: ff2c)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 100          |  Expiry  : 2019-09 
+Type  : Multi-Pack-3 |  Quantity: 1exp    
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 20749de9fbb140d88baffc08facbff2c
+```
+
+<a href="./archive/00619_000.jpg" target="_blank">
+	<img src="./lowres/00619_000.jpg" alt="One Instant Type 100 Peel-Apart Colorfilm Instant Pack Film film box outside" loading="lazy" width="500" height="442">
+</a>
+
 #### [Instant Pack Film] Polaroid 100 Blue Film (ref: 93b8)
 
 ```
@@ -12435,6 +12580,20 @@ UUID  : 5efc4291de384f9fa47153d007d293b8
 
 <a href="./archive/00593_000.jpg" target="_blank">
 	<img src="./lowres/00593_000.jpg" alt="Polaroid 100 Blue Film Instant Pack Film film box outside" loading="lazy" width="500" height="358">
+</a>
+
+#### [Instant Pack Film] Polaroid 100 Chocolate Film (ref: a70f)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 80           |  Expiry  : 2009-10 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : d8e74033014e4db9af13c8b1aac4a70f
+```
+
+<a href="./archive/00614_000.jpg" target="_blank">
+	<img src="./lowres/00614_000.jpg" alt="Polaroid 100 Chocolate Film Instant Pack Film film box outside" loading="lazy" width="500" height="379">
 </a>
 
 #### [Instant Pack Film] Polaroid 100 Sepia Film (ref: 9893)
@@ -12557,6 +12716,20 @@ UUID  : a2615a83b6774edda1567fe0e8deb335
 	<img src="./lowres/00601_000.jpg" alt="Polaroid 672 Instant Pack Film film box outside" loading="lazy" width="357" height="500">
 </a>
 
+#### [Instant Pack Film] Polaroid 690 (ref: bd98)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 100          |  Expiry  : 2009-10 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 4624d642b93d4c75a7a2d53a4a33bd98
+```
+
+<a href="./archive/00615_000.jpg" target="_blank">
+	<img src="./lowres/00615_000.jpg" alt="Polaroid 690 Instant Pack Film film box outside" loading="lazy" width="500" height="391">
+</a>
+
 #### [Instant Pack Film] Polaroid 87 (ref: 62ef)
 
 ```
@@ -12576,6 +12749,20 @@ UUID  : 5a63521777ca4f788d01aac5f94862ef
 
 <a href="./archive/00158_001.jpg" target="_blank">
 	<img src="./lowres/00158_001.jpg" alt="Polaroid 87 Instant Pack Film film box inside" loading="lazy" width="349" height="500">
+</a>
+
+#### [Instant Pack Film] Polaroid Land Pack Film Type 107 (ref: 1b9a)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 3000         |  Expiry  : 1973-06 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : e8d583d1b8a346cb95ae1cd69bb71b9a
+```
+
+<a href="./archive/00621_000.jpg" target="_blank">
+	<img src="./lowres/00621_000.jpg" alt="Polaroid Land Pack Film Type 107 Instant Pack Film film box outside" loading="lazy" width="500" height="410">
 </a>
 
 #### [Instant Pack Film] Polaroid Polacolor 679 (ref: 625c)
@@ -12791,7 +12978,7 @@ Rank  Username                      Contributions
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
 7     @Hol.m35                      56    
-8     nyctomanica                   39    
+8     nyctomanica                   53    
 9     The Compartmentalist          25    
 10    @ob.skura                     19    
 11    fine-seat                     19    
