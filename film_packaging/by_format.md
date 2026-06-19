@@ -5470,7 +5470,7 @@ UUID  : f0c8cbdc08d146ba8690d19a70dbe548
 Format: 35mm         |  Process : BW      
 ISO   : 320          |  Expiry  : 2028-12 
 Type  : Single Pack  |  Quantity: 36exp   
-Added : 2026-06-16   |  Author  : nyctomanica
+Added : 2026-06-16   |  Author  : @Hol.m35
 UUID  : b0f0117fd8d74332b67a2e8be3db3937
 ```
 
@@ -5995,7 +5995,7 @@ UUID  : f3193ccd9b9d4a929904a6a2e8b682be
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2026-09 
 Type  : Single Pack  |  Quantity: 36exp   
-Added : 2026-06-16   |  Author  : nyctomanica
+Added : 2026-06-16   |  Author  : @Hol.m35
 UUID  : 624c7d05c28a4bfb834ba537631e1f1d
 ```
 
@@ -13092,8 +13092,8 @@ Rank  Username                      Contributions
 4     Pelicram                      69    
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
-7     nyctomanica                   57    
-8     @Hol.m35                      56    
+7     @Hol.m35                      60    
+8     nyctomanica                   53    
 9     The Compartmentalist          25    
 10    @ob.skura                     19    
 11    fine-seat                     19    
