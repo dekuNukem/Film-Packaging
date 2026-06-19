@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 18 2026
-Unique items: 620
-Total scans : 1139
+Last Updated: Jun 19 2026
+Unique items: 622
+Total scans : 1150
 ```
 
 -----
@@ -573,6 +573,7 @@ Total scans : 1139
 - [[828] Kodak Kodachrome (ref: e19e)](#828-kodak-kodachrome-ref-e19e)
 - [[828] Kodak Kodachrome II (ref: 2caa)](#828-kodak-kodachrome-ii-ref-2caa)
 - [[828] Kodak Kodachrome II (ref: 0982)](#828-kodak-kodachrome-ii-ref-0982)
+- [[8mm] Gevaert Panchro Super (ref: fd4c)](#8mm-gevaert-panchro-super-ref-fd4c)
 - [[8mm] ORWO OrwoColor UT13 (ref: a05d)](#8mm-orwo-orwocolor-ut13-ref-a05d)
 - [[8x11mm] Minox MinoColor 100 Pro (ref: 5338)](#8x11mm-minox-minocolor-100-pro-ref-5338)
 - [[8x11mm] Minox MinoColor 3 (ref: d209)](#8x11mm-minox-minocolor-3-ref-d209)
@@ -612,6 +613,7 @@ Total scans : 1139
 - [[Instant Integral Film] Polaroid Green 600 Film Reclaimed Series (ref: 0180)](#instant-integral-film-polaroid-green-600-film-reclaimed-series-ref-0180)
 - [[Instant Integral Film] Polaroid GridFilm (ref: 8deb)](#instant-integral-film-polaroid-gridfilm-ref-8deb)
 - [[Instant Integral Film] Polaroid Image Instant Film (ref: ee6d)](#instant-integral-film-polaroid-image-instant-film-ref-ee6d)
+- [[Instant Integral Film] Polaroid Purple 600 Film Reclaimed Series (ref: aad6)](#instant-integral-film-polaroid-purple-600-film-reclaimed-series-ref-aad6)
 - [[Instant Integral Film] Polaroid Spectra Film (ref: 7a94)](#instant-integral-film-polaroid-spectra-film-ref-7a94)
 - [[Instant Integral Film] Polaroid TZ Artistic Fade to Black (ref: de21)](#instant-integral-film-polaroid-tz-artistic-fade-to-black-ref-de21)
 - [[Instant Integral Film] Polaroid Originals B&W Spectra Film (ref: 7f24)](#instant-integral-film-polaroid-originals-b-w-spectra-film-ref-7f24)
@@ -11503,6 +11505,76 @@ UUID  : b9c0bacb3ac64fc6bb46b1e728710982
 	<img src="./lowres/00441_004.jpg" alt="Kodak Kodachrome II 828 film box processing envelope" loading="lazy" width="500" height="163">
 </a>
 
+#### [8mm] Gevaert Panchro Super (ref: fd4c)
+
+```
+Format: 8mm          |  Process : BW      
+ISO   : 32           |  Expiry  : 1948-05 
+Type  : Bulk Roll    |  Quantity: 25ft    
+Added : 2026-06-19   |  Author  : Luci 101
+UUID  : 6a8186f72d304b3c84ff8ffa7935fd4c
+```
+
+<a href="./archive/00626_000.jpg" target="_blank">
+	<img src="./lowres/00626_000.jpg" alt="Gevaert Panchro Super 8mm film box outside" loading="lazy" width="500" height="482">
+</a>
+
+
+`UUID: 5956110884104f6a823597bd4cda1155`↓
+
+<a href="./archive/00626_001.jpg" target="_blank">
+	<img src="./lowres/00626_001.jpg" alt="Gevaert Panchro Super 8mm film box outside" loading="lazy" width="500" height="191">
+</a>
+
+
+`UUID: ea9a2f40873143a88560e070a11a1ea8`↓
+
+<a href="./archive/00626_002.jpg" target="_blank">
+	<img src="./lowres/00626_002.jpg" alt="Gevaert Panchro Super 8mm film box outside" loading="lazy" width="500" height="191">
+</a>
+
+
+`UUID: 569a709dfd81453eb07497318bfa3fe1`↓
+
+<a href="./archive/00626_003.jpg" target="_blank">
+	<img src="./lowres/00626_003.jpg" alt="Gevaert Panchro Super 8mm film box outside" loading="lazy" width="500" height="191">
+</a>
+
+
+`UUID: aa90f548900f488c9a94a92ea2fad652`↓
+
+<a href="./archive/00626_004.jpg" target="_blank">
+	<img src="./lowres/00626_004.jpg" alt="Gevaert Panchro Super 8mm film box outside" loading="lazy" width="375" height="500">
+</a>
+
+
+`UUID: 01f9be26056b478ebd7e272472d6b099`↓
+
+<a href="./archive/00626_005.jpg" target="_blank">
+	<img src="./lowres/00626_005.jpg" alt="Gevaert Panchro Super 8mm film box leaflet" loading="lazy" width="420" height="500">
+</a>
+
+
+`UUID: be23e2485409449bb52a1a26b40ed836`↓
+
+<a href="./archive/00626_006.jpg" target="_blank">
+	<img src="./lowres/00626_006.jpg" alt="Gevaert Panchro Super 8mm film box leaflet" loading="lazy" width="500" height="473">
+</a>
+
+
+`UUID: 6d493e3285ed4d46a52c37302b1994a5`↓
+
+<a href="./archive/00626_007.jpg" target="_blank">
+	<img src="./lowres/00626_007.jpg" alt="Gevaert Panchro Super 8mm film box leaflet" loading="lazy" width="236" height="500">
+</a>
+
+
+`UUID: 0a568b688bc24662b34171fa2c3b9c66`↓
+
+<a href="./archive/00626_008.jpg" target="_blank">
+	<img src="./lowres/00626_008.jpg" alt="Gevaert Panchro Super 8mm film box leaflet" loading="lazy" width="234" height="500">
+</a>
+
 #### [8mm] ORWO OrwoColor UT13 (ref: a05d)
 
 ```
@@ -12408,6 +12480,27 @@ UUID  : 6a3ab27a3a964d7c9ecc38dbce2fee6d
 	<img src="./lowres/00364_001.jpg" alt="Polaroid Image Instant Film Instant Integral Film film box inside" loading="lazy" width="303" height="500">
 </a>
 
+#### [Instant Integral Film] Polaroid Purple 600 Film Reclaimed Series (ref: aad6)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2027-03 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-19   |  Author  : nyctomanica
+UUID  : caa728e6906b495b93d68895585eaad6
+```
+
+<a href="./archive/00625_000.jpg" target="_blank">
+	<img src="./lowres/00625_000.jpg" alt="Polaroid Purple 600 Film Reclaimed Series Instant Integral Film film box outside" loading="lazy" width="239" height="499">
+</a>
+
+
+`UUID: fbc0c57441fc4f109bdeb5a574a71fac`↓
+
+<a href="./archive/00625_001.jpg" target="_blank">
+	<img src="./lowres/00625_001.jpg" alt="Polaroid Purple 600 Film Reclaimed Series Instant Integral Film film box inside" loading="lazy" width="239" height="499">
+</a>
+
 #### [Instant Integral Film] Polaroid Spectra Film (ref: 7a94)
 
 ```
@@ -12994,13 +13087,13 @@ Notes : There was a roll of 127 ekfe R100 inside, not sure if it's the original,
 Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     339   
-2     @photos.by.qi                 72    
-3     Luci 101                      71    
+2     Luci 101                      80    
+3     @photos.by.qi                 72    
 4     Pelicram                      69    
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
-7     @Hol.m35                      56    
-8     nyctomanica                   55    
+7     nyctomanica                   57    
+8     @Hol.m35                      56    
 9     The Compartmentalist          25    
 10    @ob.skura                     19    
 11    fine-seat                     19    

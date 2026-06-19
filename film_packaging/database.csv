@@ -1138,3 +1138,14 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 623,2,film_box_inside,Polaroid Originals,Color Spectra Film,Instant Integral Film,640,Instant,201905,1781786610,20d5a9d3048b9b311c455b94fe6326f1,b8809a0a73bc4c719d575231bdca4fc5,00623_002.jpg,nyctomanica,,Single Pack,8exp
 624,0,film_box_outside,Polaroid Originals,B&W Spectra Film,Instant Integral Film,640,Instant,201906,1781786784,600bf95f28ac7b0311e1f7109d0dbdba,109eaba178c64f64a473ccce42f77f24,00624_000.jpg,nyctomanica,,Single Pack,8exp
 624,1,film_box_outside,Polaroid Originals,B&W Spectra Film,Instant Integral Film,640,Instant,201906,1781786785,9d86a462be6efde24f32e186ffce8a30,bab1df5b180e4f69aa79689d243ae87b,00624_001.jpg,nyctomanica,,Single Pack,8exp
+625,0,film_box_outside,Polaroid,Purple 600 Film Reclaimed Series,Instant Integral Film,640,Instant,202703,1781860726,bc09f2364a4deac25a28ad006d5941f3,caa728e6906b495b93d68895585eaad6,00625_000.jpg,nyctomanica,,Single Pack,8exp
+625,1,film_box_inside,Polaroid,Purple 600 Film Reclaimed Series,Instant Integral Film,640,Instant,202703,1781860728,c0a04bb8debe6ae0156843f9c5495890,fbc0c57441fc4f109bdeb5a574a71fac,00625_001.jpg,nyctomanica,,Single Pack,8exp
+626,0,film_box_outside,Gevaert,Panchro Super,8mm,32,BW,194805,1781861117,dcf202f70295b867d1eed0dbc4ee24fe,6a8186f72d304b3c84ff8ffa7935fd4c,00626_000.jpg,Luci 101,,Bulk Roll,25ft
+626,1,film_box_outside,Gevaert,Panchro Super,8mm,32,BW,194805,1781861119,a2ddcd8042d701c53bb13b4332c26994,5956110884104f6a823597bd4cda1155,00626_001.jpg,Luci 101,,Bulk Roll,25ft
+626,2,film_box_outside,Gevaert,Panchro Super,8mm,32,BW,194805,1781861121,efa7ff391cb19fc5b2fc02b7d5770a21,ea9a2f40873143a88560e070a11a1ea8,00626_002.jpg,Luci 101,,Bulk Roll,25ft
+626,3,film_box_outside,Gevaert,Panchro Super,8mm,32,BW,194805,1781861122,962f5014deb433f51ea28a7ce2d7a9ba,569a709dfd81453eb07497318bfa3fe1,00626_003.jpg,Luci 101,,Bulk Roll,25ft
+626,4,film_box_outside,Gevaert,Panchro Super,8mm,32,BW,194805,1781861124,b3d41f54159552954f695b0e1a4c017d,aa90f548900f488c9a94a92ea2fad652,00626_004.jpg,Luci 101,,Bulk Roll,25ft
+626,5,film_box_leaflet,Gevaert,Panchro Super,8mm,32,BW,194805,1781861127,b954a82ef567aee8e943ed3a1689140a,01f9be26056b478ebd7e272472d6b099,00626_005.jpg,Luci 101,,Bulk Roll,25ft
+626,6,film_box_leaflet,Gevaert,Panchro Super,8mm,32,BW,194805,1781861131,86f567ebddb3b796a4bfb11d193613e7,be23e2485409449bb52a1a26b40ed836,00626_006.jpg,Luci 101,,Bulk Roll,25ft
+626,7,film_box_leaflet,Gevaert,Panchro Super,8mm,32,BW,194805,1781861134,79ad59b752b997078b14a9df23c5ace5,6d493e3285ed4d46a52c37302b1994a5,00626_007.jpg,Luci 101,,Bulk Roll,25ft
+626,8,film_box_leaflet,Gevaert,Panchro Super,8mm,32,BW,194805,1781861136,59cc9c6a36834553c7a0ab5a1b2fb764,0a568b688bc24662b34171fa2c3b9c66,00626_008.jpg,Luci 101,,Bulk Roll,25ft

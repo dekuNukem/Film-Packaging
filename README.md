@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 18 2026
-Unique items: 620
-Total scans : 1139
+Last Updated: Jun 19 2026
+Unique items: 622
+Total scans : 1150
 ```
 
 Or Sort by...
@@ -54,13 +54,13 @@ Or Sort by...
 Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     339   
-2     @photos.by.qi                 72    
-3     Luci 101                      71    
+2     Luci 101                      80    
+3     @photos.by.qi                 72    
 4     Pelicram                      69    
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
-7     @Hol.m35                      56    
-8     nyctomanica                   55    
+7     nyctomanica                   57    
+8     @Hol.m35                      56    
 9     The Compartmentalist          25    
 10    @ob.skura                     19    
 11    fine-seat                     19    
@@ -106,6 +106,10 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2026-06-19
+  - Luci 101: Gevaert Panchro Super
+  - nyctomanica: Polaroid Purple 600 Film Reclaimed Series
+
 2026-06-18
   - nyctomanica: Fujifilm FP-100C Silk
   - nyctomanica: Fujifilm FP-3000B
@@ -154,24 +158,6 @@ Rank  Username                      Contributions
 
 2026-06-08
   - @recycling.film: Fujifilm Fujicolor Pro 400H
-
-2026-05-26
-  - @Hol.m35: A Girl Has Film Tetris 200
-  - @Hol.m35: Freestyle 500T
-  - @Hol.m35: Mr. Negative Arcade
-  - @Hol.m35: Mr. Negative Black Cat
-  - @Hol.m35: Optik Oldschool Motion 200T
-  - @Hol.m35: Optik Oldschool Motion 500T
-  - Greg: Kodak Ektachrome-X
-  - Greg: Kodak High Speed Ektachrome
-  - Greg: Kodak Kodachrome
-  - Greg: Kodak Kodacolor II
-  - Greg: Kodak Tri-X Pan
-  - Luci 101: Agfa AgfaChrome 50 S
-  - Luci 101: Foton Super Orto
-  - Luci 101: ORWO OrwoColor UT13
-  - Pelicram: Kodak TMAX P3200
-  - robo-tobo: Efke R14
 ```
 
 ## Disclaimer

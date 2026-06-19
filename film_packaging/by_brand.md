@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 18 2026
-Unique items: 620
-Total scans : 1139
+Last Updated: Jun 19 2026
+Unique items: 622
+Total scans : 1150
 ```
 
 -----
@@ -221,6 +221,7 @@ Total scans : 1139
 - [GT Photo GT24 (ref: 92c2)](#gt-photo-gt24-ref-92c2)
 - [Gevaert Gevachrome 30 (ref: c0e3)](#gevaert-gevachrome-30-ref-c0e3)
 - [Gevaert Infra-R (ref: fc88)](#gevaert-infra-r-ref-fc88)
+- [Gevaert Panchro Super (ref: fd4c)](#gevaert-panchro-super-ref-fd4c)
 - [Gevaert Studio Film (ref: 75f9)](#gevaert-studio-film-ref-75f9)
 - [Gevaert Superchrom (ref: 0217)](#gevaert-superchrom-ref-0217)
 - [Gevaert Superchrome (ref: af27)](#gevaert-superchrome-ref-af27)
@@ -580,6 +581,7 @@ Total scans : 1139
 - [Polaroid PolaPan 35mm (ref: 9825)](#polaroid-polapan-35mm-ref-9825)
 - [Polaroid Polacolor 679 (ref: 625c)](#polaroid-polacolor-679-ref-625c)
 - [Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)](#polaroid-polavision-phototape-land-cassette-type-608-ref-90b9)
+- [Polaroid Purple 600 Film Reclaimed Series (ref: aad6)](#polaroid-purple-600-film-reclaimed-series-ref-aad6)
 - [Polaroid Spectra Film (ref: 7a94)](#polaroid-spectra-film-ref-7a94)
 - [Polaroid TZ Artistic Fade to Black (ref: de21)](#polaroid-tz-artistic-fade-to-black-ref-de21)
 - [Polaroid Type 42 (ref: f92c)](#polaroid-type-42-ref-f92c)
@@ -4494,6 +4496,76 @@ UUID  : 5700b2c507254c36ac9b05eabf04fc88
 
 <a href="./archive/00429_000.jpg" target="_blank">
 	<img src="./lowres/00429_000.jpg" alt="Gevaert Infra-R 120 film box outside" loading="lazy" width="500" height="358">
+</a>
+
+#### Gevaert Panchro Super (ref: fd4c)
+
+```
+Format: 8mm          |  Process : BW      
+ISO   : 32           |  Expiry  : 1948-05 
+Type  : Bulk Roll    |  Quantity: 25ft    
+Added : 2026-06-19   |  Author  : Luci 101
+UUID  : 6a8186f72d304b3c84ff8ffa7935fd4c
+```
+
+<a href="./archive/00626_000.jpg" target="_blank">
+	<img src="./lowres/00626_000.jpg" alt="Gevaert Panchro Super 8mm film box outside" loading="lazy" width="500" height="482">
+</a>
+
+
+`UUID: 5956110884104f6a823597bd4cda1155`↓
+
+<a href="./archive/00626_001.jpg" target="_blank">
+	<img src="./lowres/00626_001.jpg" alt="Gevaert Panchro Super 8mm film box outside" loading="lazy" width="500" height="191">
+</a>
+
+
+`UUID: ea9a2f40873143a88560e070a11a1ea8`↓
+
+<a href="./archive/00626_002.jpg" target="_blank">
+	<img src="./lowres/00626_002.jpg" alt="Gevaert Panchro Super 8mm film box outside" loading="lazy" width="500" height="191">
+</a>
+
+
+`UUID: 569a709dfd81453eb07497318bfa3fe1`↓
+
+<a href="./archive/00626_003.jpg" target="_blank">
+	<img src="./lowres/00626_003.jpg" alt="Gevaert Panchro Super 8mm film box outside" loading="lazy" width="500" height="191">
+</a>
+
+
+`UUID: aa90f548900f488c9a94a92ea2fad652`↓
+
+<a href="./archive/00626_004.jpg" target="_blank">
+	<img src="./lowres/00626_004.jpg" alt="Gevaert Panchro Super 8mm film box outside" loading="lazy" width="375" height="500">
+</a>
+
+
+`UUID: 01f9be26056b478ebd7e272472d6b099`↓
+
+<a href="./archive/00626_005.jpg" target="_blank">
+	<img src="./lowres/00626_005.jpg" alt="Gevaert Panchro Super 8mm film box leaflet" loading="lazy" width="420" height="500">
+</a>
+
+
+`UUID: be23e2485409449bb52a1a26b40ed836`↓
+
+<a href="./archive/00626_006.jpg" target="_blank">
+	<img src="./lowres/00626_006.jpg" alt="Gevaert Panchro Super 8mm film box leaflet" loading="lazy" width="500" height="473">
+</a>
+
+
+`UUID: 6d493e3285ed4d46a52c37302b1994a5`↓
+
+<a href="./archive/00626_007.jpg" target="_blank">
+	<img src="./lowres/00626_007.jpg" alt="Gevaert Panchro Super 8mm film box leaflet" loading="lazy" width="236" height="500">
+</a>
+
+
+`UUID: 0a568b688bc24662b34171fa2c3b9c66`↓
+
+<a href="./archive/00626_008.jpg" target="_blank">
+	<img src="./lowres/00626_008.jpg" alt="Gevaert Panchro Super 8mm film box leaflet" loading="lazy" width="234" height="500">
 </a>
 
 #### Gevaert Studio Film (ref: 75f9)
@@ -11771,6 +11843,27 @@ UUID  : 010a03a196a543beb83906a352d490b9
 	<img src="./lowres/00346_000.jpg" alt="Polaroid Polavision Phototape Land Cassette Type 608 Polavision film box outside" loading="lazy" width="500" height="473">
 </a>
 
+#### Polaroid Purple 600 Film Reclaimed Series (ref: aad6)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2027-03 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-19   |  Author  : nyctomanica
+UUID  : caa728e6906b495b93d68895585eaad6
+```
+
+<a href="./archive/00625_000.jpg" target="_blank">
+	<img src="./lowres/00625_000.jpg" alt="Polaroid Purple 600 Film Reclaimed Series Instant Integral Film film box outside" loading="lazy" width="239" height="499">
+</a>
+
+
+`UUID: fbc0c57441fc4f109bdeb5a574a71fac`↓
+
+<a href="./archive/00625_001.jpg" target="_blank">
+	<img src="./lowres/00625_001.jpg" alt="Polaroid Purple 600 Film Reclaimed Series Instant Integral Film film box inside" loading="lazy" width="239" height="499">
+</a>
+
 #### Polaroid Spectra Film (ref: 7a94)
 
 ```
@@ -12994,13 +13087,13 @@ UUID  : fc90db41b94d486491177a8407f1100d
 Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     339   
-2     @photos.by.qi                 72    
-3     Luci 101                      71    
+2     Luci 101                      80    
+3     @photos.by.qi                 72    
 4     Pelicram                      69    
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
-7     @Hol.m35                      56    
-8     nyctomanica                   55    
+7     nyctomanica                   57    
+8     @Hol.m35                      56    
 9     The Compartmentalist          25    
 10    @ob.skura                     19    
 11    fine-seat                     19    

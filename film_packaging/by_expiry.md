@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 18 2026
-Unique items: 620
-Total scans : 1139
+Last Updated: Jun 19 2026
+Unique items: 622
+Total scans : 1150
 ```
 
 -----
@@ -34,6 +34,7 @@ Total scans : 1139
 - [[1947] Agfa Isopan Portrait (ref: 19b5)](#1947-agfa-isopan-portrait-ref-19b5)
 - [[1947] Perutz Perpantic Film (ref: 58b1)](#1947-perutz-perpantic-film-ref-58b1)
 - [[1948] Agfa Isochrom Portrait (ref: 4c56)](#1948-agfa-isochrom-portrait-ref-4c56)
+- [[1948] Gevaert Panchro Super (ref: fd4c)](#1948-gevaert-panchro-super-ref-fd4c)
 - [[1951] Kodak Plus-X (ref: 4b73)](#1951-kodak-plus-x-ref-4b73)
 - [[1951] Kodak Verichrome (ref: c9c2)](#1951-kodak-verichrome-ref-c9c2)
 - [[1956] Ansco Plenachrome (ref: 3c6c)](#1956-ansco-plenachrome-ref-3c6c)
@@ -524,6 +525,7 @@ Total scans : 1139
 - [[2027] Foma Fomapan Creative 200 (ref: 3e4f)](#2027-foma-fomapan-creative-200-ref-3e4f)
 - [[2027] Kentmere PAN (ref: 3ec0)](#2027-kentmere-pan-ref-3ec0)
 - [[2027] Kodak UltraMax (ref: aaa6)](#2027-kodak-ultramax-ref-aaa6)
+- [[2027] Polaroid Purple 600 Film Reclaimed Series (ref: aad6)](#2027-polaroid-purple-600-film-reclaimed-series-ref-aad6)
 - [[2027] Arista.EDU Ultra (ref: d78b)](#2027-aristaedu-ultra-ref-d78b)
 - [[2027] CineStill 800T (ref: c96e)](#2027-cinestill-800t-ref-c96e)
 - [[2027] Foma Fomapan Classic 100 (ref: 65ad)](#2027-foma-fomapan-classic-100-ref-65ad)
@@ -819,6 +821,76 @@ UUID  : dea659399cf345a6912964c10b584c56
 
 <a href="./archive/00482_000.jpg" target="_blank">
 	<img src="./lowres/00482_000.jpg" alt="Agfa Isochrom Portrait 12x16.5cm film box outside" loading="lazy" width="500" height="423">
+</a>
+
+#### [1948] Gevaert Panchro Super (ref: fd4c)
+
+```
+Format: 8mm          |  Process : BW      
+ISO   : 32           |  Expiry  : 1948-05 
+Type  : Bulk Roll    |  Quantity: 25ft    
+Added : 2026-06-19   |  Author  : Luci 101
+UUID  : 6a8186f72d304b3c84ff8ffa7935fd4c
+```
+
+<a href="./archive/00626_000.jpg" target="_blank">
+	<img src="./lowres/00626_000.jpg" alt="Gevaert Panchro Super 8mm film box outside" loading="lazy" width="500" height="482">
+</a>
+
+
+`UUID: 5956110884104f6a823597bd4cda1155`↓
+
+<a href="./archive/00626_001.jpg" target="_blank">
+	<img src="./lowres/00626_001.jpg" alt="Gevaert Panchro Super 8mm film box outside" loading="lazy" width="500" height="191">
+</a>
+
+
+`UUID: ea9a2f40873143a88560e070a11a1ea8`↓
+
+<a href="./archive/00626_002.jpg" target="_blank">
+	<img src="./lowres/00626_002.jpg" alt="Gevaert Panchro Super 8mm film box outside" loading="lazy" width="500" height="191">
+</a>
+
+
+`UUID: 569a709dfd81453eb07497318bfa3fe1`↓
+
+<a href="./archive/00626_003.jpg" target="_blank">
+	<img src="./lowres/00626_003.jpg" alt="Gevaert Panchro Super 8mm film box outside" loading="lazy" width="500" height="191">
+</a>
+
+
+`UUID: aa90f548900f488c9a94a92ea2fad652`↓
+
+<a href="./archive/00626_004.jpg" target="_blank">
+	<img src="./lowres/00626_004.jpg" alt="Gevaert Panchro Super 8mm film box outside" loading="lazy" width="375" height="500">
+</a>
+
+
+`UUID: 01f9be26056b478ebd7e272472d6b099`↓
+
+<a href="./archive/00626_005.jpg" target="_blank">
+	<img src="./lowres/00626_005.jpg" alt="Gevaert Panchro Super 8mm film box leaflet" loading="lazy" width="420" height="500">
+</a>
+
+
+`UUID: be23e2485409449bb52a1a26b40ed836`↓
+
+<a href="./archive/00626_006.jpg" target="_blank">
+	<img src="./lowres/00626_006.jpg" alt="Gevaert Panchro Super 8mm film box leaflet" loading="lazy" width="500" height="473">
+</a>
+
+
+`UUID: 6d493e3285ed4d46a52c37302b1994a5`↓
+
+<a href="./archive/00626_007.jpg" target="_blank">
+	<img src="./lowres/00626_007.jpg" alt="Gevaert Panchro Super 8mm film box leaflet" loading="lazy" width="236" height="500">
+</a>
+
+
+`UUID: 0a568b688bc24662b34171fa2c3b9c66`↓
+
+<a href="./archive/00626_008.jpg" target="_blank">
+	<img src="./lowres/00626_008.jpg" alt="Gevaert Panchro Super 8mm film box leaflet" loading="lazy" width="234" height="500">
 </a>
 
 #### [1951] Kodak Plus-X (ref: 4b73)
@@ -10805,6 +10877,27 @@ UUID  : 8b0e255948ad4bbc8689d371569caaa6
 	<img src="./lowres/00079_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="443" height="499">
 </a>
 
+#### [2027] Polaroid Purple 600 Film Reclaimed Series (ref: aad6)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2027-03 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-19   |  Author  : nyctomanica
+UUID  : caa728e6906b495b93d68895585eaad6
+```
+
+<a href="./archive/00625_000.jpg" target="_blank">
+	<img src="./lowres/00625_000.jpg" alt="Polaroid Purple 600 Film Reclaimed Series Instant Integral Film film box outside" loading="lazy" width="239" height="499">
+</a>
+
+
+`UUID: fbc0c57441fc4f109bdeb5a574a71fac`↓
+
+<a href="./archive/00625_001.jpg" target="_blank">
+	<img src="./lowres/00625_001.jpg" alt="Polaroid Purple 600 Film Reclaimed Series Instant Integral Film film box inside" loading="lazy" width="239" height="499">
+</a>
+
 #### [2027] Arista.EDU Ultra (ref: d78b)
 
 ```
@@ -12994,13 +13087,13 @@ UUID  : 80d64fa269454c5589109c68a40541a8
 Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     339   
-2     @photos.by.qi                 72    
-3     Luci 101                      71    
+2     Luci 101                      80    
+3     @photos.by.qi                 72    
 4     Pelicram                      69    
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
-7     @Hol.m35                      56    
-8     nyctomanica                   55    
+7     nyctomanica                   57    
+8     @Hol.m35                      56    
 9     The Compartmentalist          25    
 10    @ob.skura                     19    
 11    fine-seat                     19    
