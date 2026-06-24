@@ -131,7 +131,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 66,0,film_box_outside,Kodak,Advantix Ultra,APS,200,C-41,200608,1748117358,1d3ad17cd5e5cab8be59bac3300b770c,041622f239024ffb8b75c367619a566b,00066_000.jpg,dekuNukem,,Single Pack,25exp
 67,0,film_box_outside,Lloyds Pharmacy,APS Film,APS,200,C-41,200708,1748117415,5249c678ba2a7e621d8ba1de6ebd72cb,44bd7d4688e04d19a958d961c2abc7cf,00067_000.jpg,dekuNukem,,Single Pack,40exp
 68,0,film_box_outside,Kodak,Kodacolor Gold 200,110,200,C-41,198812,1748117460,5b2922fabcf249c39cdfa7e498845068,78bfeed667154d819902ec92d7dcf368,00068_000.jpg,dekuNukem,,Single Pack,24exp
-69,0,film_box_outside,Kodak,TMAX 100,120,100,BW,202307,1748118443,6897b288dde15283820dc72852155481,9a43d0c373354e1989ea7bb7a43db3b1,00069_000.jpg,dekuNukem,,Multi-Pack-5,N/A
+69,0,film_box_outside,Kodak,T-MAX 100,120,100,BW,202307,1748118443,6897b288dde15283820dc72852155481,9a43d0c373354e1989ea7bb7a43db3b1,00069_000.jpg,dekuNukem,,Multi-Pack-5,N/A
 70,0,film_box_outside,Foma,Fomapan Creative 200,120,200,BW,202703,1749159167,642d9d7b4f2d9afc7bc7d5dc83e199a0,7be1cb0047f14034a7386cd7b1843e4f,00070_000.jpg,benikum,,Single Pack,N/A
 70,1,film_box_inside,Foma,Fomapan Creative 200,120,200,BW,202703,1749159171,735522d2c35d1341f2730620d1b32a34,b049b10ae15b40319e7b70fed1ccbd71,00070_001.jpg,benikum,,Single Pack,N/A
 71,0,film_box_outside,Rollei,SUPERPAN 200,35mm,200,BW,202801,1749159213,f9d841ec1f0f84ce22c5c05fdd1b3dcf,f22d3e1e2f70453f87aea4b67db3ee8f,00071_000.jpg,benikum,,Single Pack,36exp
@@ -181,9 +181,9 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 102,2,film_box_leaflet,Kodak,High Speed Infrared,35mm,80,BW,199003,1753806546,22d0c2e6feaec15a23308e8077e972f9,1058c3167209457aac0f4336c911c8b3,00102_002.jpg,Nano_Burger,,Single Pack,36exp
 103,0,film_box_outside,Kodak,High Speed Infrared,35mm,80,BW,200810,1753806665,7dcd1dac1b98add6e58367509bc1e485,77352e93d73748eca98cff7b30d7883e,00103_000.jpg,Nano_Burger,,Single Pack,36exp
 103,1,film_box_inside,Kodak,High Speed Infrared,35mm,80,BW,200810,1753806667,9358d70074f9c58d4a5230253116191e,5667abf6f7f04edba88137bd54153841,00103_001.jpg,Nano_Burger,,Single Pack,36exp
-104,0,film_box_outside,Kodak,TMAX P3200,35mm,3200,BW,199107,1753806754,ac5429feb30a24ba6c40190526b17391,9e4ea1efa5a54938985fdf8901951dff,00104_000.jpg,Nano_Burger,,Single Pack,36exp
-104,1,film_box_leaflet,Kodak,TMAX P3200,35mm,3200,BW,199107,1753806756,234ca8fe1ca792fd25d9edd22fccddc7,b9d1b08379d9482bbc799101f6881f12,00104_001.jpg,Nano_Burger,,Single Pack,36exp
-104,2,film_box_leaflet,Kodak,TMAX P3200,35mm,3200,BW,199107,1753806758,1ff153d650b4779322e2e05afbc2b19b,a6740f1fc4df4b80a8a4dee83a26c04b,00104_002.jpg,Nano_Burger,,Single Pack,36exp
+104,0,film_box_outside,Kodak,T-MAX P3200,35mm,3200,BW,199107,1753806754,ac5429feb30a24ba6c40190526b17391,9e4ea1efa5a54938985fdf8901951dff,00104_000.jpg,Nano_Burger,,Single Pack,36exp
+104,1,film_box_leaflet,Kodak,T-MAX P3200,35mm,3200,BW,199107,1753806756,234ca8fe1ca792fd25d9edd22fccddc7,b9d1b08379d9482bbc799101f6881f12,00104_001.jpg,Nano_Burger,,Single Pack,36exp
+104,2,film_box_leaflet,Kodak,T-MAX P3200,35mm,3200,BW,199107,1753806758,1ff153d650b4779322e2e05afbc2b19b,a6740f1fc4df4b80a8a4dee83a26c04b,00104_002.jpg,Nano_Burger,,Single Pack,36exp
 105,0,film_box_outside,Kodak,Rapid Process Copy Film,35mm,0.06,BW,200006,1753806928,2f2ecdfadc0e5287ff6b6903f47b0483,396a3645cb9a40a4b0a6dd2fd854e66e,00105_000.jpg,Nano_Burger,,Single Pack,36exp
 105,1,film_box_outside,Kodak,Rapid Process Copy Film,35mm,0.06,BW,200006,1753806930,af2e66b90c07f0781b43de22e0ea7971,bab6cc70d0044171a1afcf33b6cb5556,00105_001.jpg,Nano_Burger,,Single Pack,36exp
 105,2,film_box_inside,Kodak,Rapid Process Copy Film,35mm,0.06,BW,200006,1753806932,4462f9084b30b81925a55853d6e3a146,fc2e102fecae4f2dbd04fd341fdb7afd,00105_002.jpg,Nano_Burger,,Single Pack,36exp
@@ -244,9 +244,9 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 140,0,film_box_outside,Ilford,HP5 Plus,120,400,BW,201206,1753989060,7a445c7d3b74282404f974c78debf78e,dbf3817f506a444b9d394745dba311a8,00140_000.jpg,Pelicram,,Single Pack,N/A
 140,1,film_box_inside,Ilford,HP5 Plus,120,400,BW,201206,1753989062,1136151606592a5b548dedcb7ea975c0,17ab4481b81243c9bbc211688ba2336a,00140_001.jpg,Pelicram,,Single Pack,N/A
 141,0,film_box_outside,Lomography,Fantome,35mm,8,BW,202601,1753989108,e77c329a3265dc8fa4a450f0f9801404,538e7611233a4cc3bd733763bf694340,00141_000.jpg,Pelicram,,Single Pack,36exp
-142,0,film_box_outside,Kodak,TMAX P3200,35mm,3200,BW,202608,1753989170,900e786e3adddac8615560e4e31bebfb,8f91948e930f491a8684337e32d443a2,00142_000.jpg,Pelicram,,Single Pack,36exp
+142,0,film_box_outside,Kodak,T-MAX P3200,35mm,3200,BW,202608,1753989170,900e786e3adddac8615560e4e31bebfb,8f91948e930f491a8684337e32d443a2,00142_000.jpg,Pelicram,,Single Pack,36exp
 143,0,film_box_outside,Lomography,Tiger,110,200,C-41,202609,1753989216,78e8ab8c3779bc3ea9dfb8ce8efeff5c,e8a5b04ef68c43ae9e79df89123726dd,00143_000.jpg,Pelicram,,Single Pack,24exp
-144,0,film_box_outside,Kodak,TMAX P3200,35mm,3200,BW,202604,1753989244,d17951b2510f1ca02f01e57b0da723be,39fa3ae0251e4cdbaf8240602537521a,00144_000.jpg,Pelicram,,Single Pack,36exp
+144,0,film_box_outside,Kodak,T-MAX P3200,35mm,3200,BW,202604,1753989244,d17951b2510f1ca02f01e57b0da723be,39fa3ae0251e4cdbaf8240602537521a,00144_000.jpg,Pelicram,,Single Pack,36exp
 145,0,film_box_outside,Kentmere,PAN 400,35mm,400,BW,202907,1753989274,eefab399f0ab5d9a8616d2df17e222aa,58f2bea3a3204a1dafebf2881d99a327,00145_000.jpg,Pelicram,,Single Pack,24exp
 145,1,film_box_inside,Kentmere,PAN 400,35mm,400,BW,202907,1753989276,ed6caca95e9ec4edb46cae11e269dd87,c771fff8ecbb4c9b981f3606dd4fa428,00145_001.jpg,Pelicram,,Single Pack,24exp
 146,0,film_box_outside,Kodak,Värikuvafilmi,35mm,200,C-41,200112,1753989376,088ec288d1472fa10dce64d71e51aed8,b8795d19697a453c8f27fde773eaf9ff,00146_000.jpg,Pelicram,,Multi-Pack-2,24exp
@@ -458,9 +458,9 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 272,4,film_box_leaflet,Agfa,AgfaColor CT 18,35mm,50,Unknown,196707,1756513248,8260c4adcb70c58473a6075285721863,b2c42b0d1fca464e8813d18e3e709abe,00272_004.jpg,dekuNukem,,Single Pack,20exp
 272,5,film_box_processing_envelope,Agfa,AgfaColor CT 18,35mm,50,Unknown,196707,1756513252,c9d721c58f0773497f19e6b3595661fb,92d1c329ca9c4714bfe7ae4ccca5cc86,00272_005.jpg,dekuNukem,,Single Pack,20exp
 272,6,film_box_processing_envelope,Agfa,AgfaColor CT 18,35mm,50,Unknown,196707,1756513255,237f7e56bb1c7a374b48b1e5470a4731,bb549196d49a4992afdb1a15e70f51b8,00272_006.jpg,dekuNukem,,Single Pack,20exp
-273,0,film_box_outside,Kodak,TMAX 400,35mm,400,BW,199109,1756513293,72a666546e827faa550f70306addfadc,c3e0b9bbf7a94fe28d6c2fc3cab2a34d,00273_000.jpg,dekuNukem,,Single Pack,36exp
-273,1,film_box_leaflet,Kodak,TMAX 400,35mm,400,BW,199109,1756513295,e4ff3557731dab7094bebb64d7b6d680,92e90ab4cddd4e9d92981ba28f810803,00273_001.jpg,dekuNukem,,Single Pack,36exp
-273,2,film_box_leaflet,Kodak,TMAX 400,35mm,400,BW,199109,1756513299,c1165b09284cc0add821c170e99f810e,c6b25c061c1649c1a5fd09059473a330,00273_002.jpg,dekuNukem,,Single Pack,36exp
+273,0,film_box_outside,Kodak,T-MAX 400,35mm,400,BW,199109,1756513293,72a666546e827faa550f70306addfadc,c3e0b9bbf7a94fe28d6c2fc3cab2a34d,00273_000.jpg,dekuNukem,,Single Pack,36exp
+273,1,film_box_leaflet,Kodak,T-MAX 400,35mm,400,BW,199109,1756513295,e4ff3557731dab7094bebb64d7b6d680,92e90ab4cddd4e9d92981ba28f810803,00273_001.jpg,dekuNukem,,Single Pack,36exp
+273,2,film_box_leaflet,Kodak,T-MAX 400,35mm,400,BW,199109,1756513299,c1165b09284cc0add821c170e99f810e,c6b25c061c1649c1a5fd09059473a330,00273_002.jpg,dekuNukem,,Single Pack,36exp
 274,0,film_box_outside,Kodak,Ektachrome Elite 200,35mm,200,E-6,199708,1756513348,bf379156dee5c123ba00f4d36eaff006,5f3a81c10cdb46baa28b1b1fbc56a391,00274_000.jpg,dekuNukem,,Single Pack,36exp
 274,1,film_box_inside,Kodak,Ektachrome Elite 200,35mm,200,E-6,199708,1756513352,60c9204941d7866036637c51f251d21d,4c120316ad9f4fedb57d57138d37d0e1,00274_001.jpg,dekuNukem,,Single Pack,36exp
 275,0,film_box_outside,Kodak,Ektachrome 100HC,35mm,100,E-6,199411,1756513755,6933ef9ae7314e4ed4112f13868beaea,c7c26bb546634d47ae7fc5aa68b33ab9,00275_000.jpg,dekuNukem,,Single Pack,36exp
@@ -1069,7 +1069,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 570,0,film_box_outside,Efke,R14,120,20,BW,197003,1779793999,5d660a8e6769d44c6cf303430f971a88,32a76ef752524fab9f27ebe632b527f5,00570_000.jpg,robo-tobo,,Single Pack,N/A
 570,1,film_box_leaflet,Efke,R14,120,20,BW,197003,1779794003,73a55891a6442967cf13d1da0e11fe52,64e01932547643cd806e82e0faf38af2,00570_001.jpg,robo-tobo,,Single Pack,N/A
 570,2,film_box_leaflet,Efke,R14,120,20,BW,197003,1779794006,11912b0d00b68b39c3532bda32d13752,cb7b9dc522034a9e8e0c9efb07844543,00570_002.jpg,robo-tobo,,Single Pack,N/A
-571,0,film_box_outside,Kodak,TMAX P3200,35mm,3200,BW,202702,1779794161,a4a42b14da765117c47c36cc36847c7b,989581de448d4ccd82d8ab0950dae727,00571_000.jpg,Pelicram,,Single Pack,36exp
+571,0,film_box_outside,Kodak,T-MAX P3200,35mm,3200,BW,202702,1779794161,a4a42b14da765117c47c36cc36847c7b,989581de448d4ccd82d8ab0950dae727,00571_000.jpg,Pelicram,,Single Pack,36exp
 572,0,film_box_outside,Kodak,Kodacolor II,120,100,C-41,197110,1779794353,6b381869e6f2899f12183e1f90a2021f,8b179d290e4a462bb49bcec4f7c7f435,00572_000.jpg,Greg,,Single Pack,N/A
 573,0,film_box_outside,Kodak,High Speed Ektachrome,120,160,Unknown,197410,1779794443,3b315e69b2d7471f028c3d841dc5f6dc,4dc3f1e6a10842dbb0b1ac038b5ac335,00573_000.jpg,Greg,,Single Pack,N/A
 574,0,film_box_outside,Kodak,Ektachrome-X,120,64,Unknown,197403,1779794496,de4da7bb0f0c583cc79169bad563aa6e,109f05cb335c476a8b019d13347ccca3,00574_000.jpg,Greg,,Single Pack,N/A
@@ -1155,3 +1155,25 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 630,0,film_box_outside,Kodak,Kodacolor VR Plus 400,35mm,400,C-41,200904,1782293810,d9de22e25308260d57e4221228f23068,2234581367c84a208c391ba92b3f5e5d,00630_000.jpg,Mauphoto,,Single Pack,36exp
 631,0,film_box_outside,Kodak,Elite Chrome Extra Color,35mm,100,E-6,200912,1782293877,10a01c6ce217b39f87c80040be29c69e,b15598742abf4dada03cecd44e4071f9,00631_000.jpg,Mauphoto,,Single Pack,36exp
 632,0,film_box_outside,Schlecker Fotoland,AS Color 200,35mm,200,C-41,201210,1782293956,17e2332a4ead0876f1fad509ccf783d3,5a16cb60bf3d4de3bc16a789a1af2bf6,00632_000.jpg,Mauphoto,,Single Pack,12exp
+633,0,film_box_outside,Kodak,T-MAX 100,35mm,100,BW,200609,1782294073,98269d9d839bc06b75f20a7a3e618677,b58543ef54c0480288f0fb8b7ac62fbc,00633_000.jpg,Mauphoto,,Single Pack,24exp
+633,1,film_box_inside,Kodak,T-MAX 100,35mm,100,BW,200609,1782294082,a5ad939113db3dc802bcd6eb4e7686a6,09fadb744cc445a2a817f41c02d174e9,00633_001.jpg,Mauphoto,,Single Pack,24exp
+634,0,film_box_outside,Kodak,T-MAX 400,35mm,400,BW,200611,1782294117,5e6144b198226607625872ec75cfda09,9e8ce3c9962b416abe196c890efc0a2e,00634_000.jpg,Mauphoto,,Single Pack,24exp
+634,1,film_box_inside,Kodak,T-MAX 400,35mm,400,BW,200611,1782294121,400aebbd8f652a7667ce6620c77eb905,dc35920942a94cceb1f8586cc95ffe59,00634_001.jpg,Mauphoto,,Single Pack,24exp
+635,0,film_box_outside,Lucky,SHD 100,35mm,100,BW,200805,1782294284,b398b20a2b25646a888ee9f8bd12ae4f,8dfb0a6557b34a5fad8d96d4498e7feb,00635_000.jpg,Mauphoto,,Single Pack,36exp
+635,1,film_box_inside,Lucky,SHD 100,35mm,100,BW,200805,1782294285,15a8f31f43ea3f9de357b579b2d4d412,937506c89d544dd4a46be76ceb570dd5,00635_001.jpg,Mauphoto,,Single Pack,36exp
+636,0,film_box_outside,Lucky,SHD 100 New Generation,35mm,100,BW,200910,1782294375,0e9c30b005ef727123cb94687ad23f36,a3557cdb2ef942a9809d9c4360bf23f6,00636_000.jpg,Mauphoto,,Single Pack,36exp
+636,1,film_box_inside,Lucky,SHD 100 New Generation,35mm,100,BW,200910,1782294377,49bfad4d38767d99617a228ef61469bf,69f9ef82b5984b94b2385b0e5b9f7cf9,00636_001.jpg,Mauphoto,,Single Pack,36exp
+637,0,film_box_outside,Agfa,CT Precisa,35mm,100,E-6,200203,1782294517,e976a70059a4dbfa956f7537c307cb82,4816ed9ade314598a0c96412b06dca9c,00637_000.jpg,Mauphoto,,Single Pack,27exp
+637,1,film_box_inside,Agfa,CT Precisa,35mm,100,E-6,200203,1782294518,8c3f124a8f04f70d32e601235e4468a9,b3d44227f6b04bb3b248247daa95619c,00637_001.jpg,Mauphoto,,Single Pack,27exp
+638,0,film_box_outside,Foma,Fomapan Classic 100,35mm,100,BW,200803,1782294597,b9398ac914bc9696241f78519eb58c06,0eabec768b1245e1bae0afaa62f04eb6,00638_000.jpg,Mauphoto,,Single Pack,36exp
+638,1,film_box_inside,Foma,Fomapan Classic 100,35mm,100,BW,200803,1782294599,eb8986917092d35339eab83481cd776f,05cf2d1a425147a682821c81d4893541,00638_001.jpg,Mauphoto,,Single Pack,36exp
+639,0,film_box_outside,Ilford,Pan F 50,35mm,50,BW,200602,1782294828,cdbaf495947d5f0017db0d5910417fc4,a9fca2c069e94c0b8bafaf79a473c977,00639_000.jpg,Mauphoto,,Single Pack,36exp
+639,1,film_box_inside,Ilford,Pan F 50,35mm,50,BW,200602,1782294830,d8fd8f23c719df4ba77ca02a7e814252,909196252dc745b0987bafacb8d8e568,00639_001.jpg,Mauphoto,,Single Pack,36exp
+640,0,film_box_outside,Konica Minolta,Centuria 100,35mm,100,E-6,200802,1782294891,1111e2688a501f562b4e9dc3b071ae68,c93974535a3441acb0edbbd16b0f00ae,00640_000.jpg,Mauphoto,,Single Pack,36exp
+640,1,film_box_inside,Konica Minolta,Centuria 100,35mm,100,E-6,200802,1782294897,917e2cfcc190a80361b749b198c5cc16,cd9c544f57314e79b7c1cbc0cc74bedc,00640_001.jpg,Mauphoto,,Single Pack,36exp
+641,0,film_box_outside,Lucky,Super New 200,35mm,200,C-41,201301,1782295134,97b7236aaf08f2ead265c20495105986,2510bd0dd10940e0888b722ec00de0a7,00641_000.jpg,Mauphoto,,Single Pack,36exp
+641,1,film_box_inside,Lucky,Super New 200,35mm,200,C-41,201301,1782295135,93f9c1cb055951a87563c57868a5894b,7da671d2345d450b88824b0bbb584b81,00641_001.jpg,Mauphoto,,Single Pack,36exp
+642,0,film_box_outside,Perutz,CR 100,25,100,E-6,200603,1782295191,21954679c222f85caec9db057144b137,8952a19caaea4975a38cd877ca5ab5df,00642_000.jpg,Mauphoto,,Single Pack,36exp
+642,1,film_box_inside,Perutz,CR 100,25,100,E-6,200603,1782295197,dd72b155ef5037ae81b811072f6fcf3c,87e07caa491d425390bf58ed01117d2b,00642_001.jpg,Mauphoto,,Single Pack,36exp
+643,0,film_box_outside,Polaroid,High Definition,25,100,C-41,200603,1782295266,77e5ecb631c71dc67b22a119814ad2d8,f55d7221fceb4391b83cac2360c5ac7c,00643_000.jpg,Mauphoto,,Single Pack,24exp
+643,1,film_box_inside,Polaroid,High Definition,25,100,C-41,200603,1782295267,7ff4195097ea4e7bc4b32badc2cf1f49,666ac89d17504a12b4a11a3ebcc3b460,00643_001.jpg,Mauphoto,,Single Pack,24exp

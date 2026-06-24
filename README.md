@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Jun 24 2026
-Unique items: 628
-Total scans : 1156
+Unique items: 639
+Total scans : 1178
 ```
 
 Or Sort by...
@@ -61,31 +61,31 @@ Rank  Username                      Contributions
 6     @recycling.film               66    
 7     @Hol.m35                      60    
 8     nyctomanica                   53    
-9     The Compartmentalist          25    
-10    @ob.skura                     19    
-11    fine-seat                     19    
-12    Camera.Riley                  19    
-13    kaimon                        19    
-14    Nano_Burger                   18    
-15    toader                        17    
-16    waldoboro                     16    
-17    yc128                         14    
-18    b0baspace                     14    
-19    @SirBrentsworth               13    
-20    benikum                       12    
-21    u/ReeeSchmidtyWerber          11    
-22    Chrisbes                      11    
-23    @zruk_ts                      10    
-24    minidiscus                    10    
-25    Dialupdude                    10    
-26    lilyu.xyz                     9     
-27    lt_col_tall                   9     
-28    @toastergod101                7     
-29    @filmfotofella                7     
-30    GreatGizmo74                  6     
-31    nick                          6     
-32    Greg                          6     
-33    Mauphoto                      6     
+9     Mauphoto                      28    
+10    The Compartmentalist          25    
+11    @ob.skura                     19    
+12    fine-seat                     19    
+13    Camera.Riley                  19    
+14    kaimon                        19    
+15    Nano_Burger                   18    
+16    toader                        17    
+17    waldoboro                     16    
+18    yc128                         14    
+19    b0baspace                     14    
+20    @SirBrentsworth               13    
+21    benikum                       12    
+22    u/ReeeSchmidtyWerber          11    
+23    Chrisbes                      11    
+24    @zruk_ts                      10    
+25    minidiscus                    10    
+26    Dialupdude                    10    
+27    lilyu.xyz                     9     
+28    lt_col_tall                   9     
+29    @toastergod101                7     
+30    @filmfotofella                7     
+31    GreatGizmo74                  6     
+32    nick                          6     
+33    Greg                          6     
 34    Kraksen                       5     
 35    Henry Gunn                    4     
 36    TheSelousScout                4     
@@ -108,11 +108,22 @@ Rank  Username                      Contributions
 
 ```
 2026-06-24
+  - Mauphoto: Agfa CT Precisa
   - Mauphoto: Agfa Vista Spider-Pack
+  - Mauphoto: Foma Fomapan Classic 100
   - Mauphoto: Fujifilm Superia 100
   - Mauphoto: Fujifilm Velvia 50
+  - Mauphoto: Ilford Pan F 50
   - Mauphoto: Kodak Elite Chrome Extra Color
   - Mauphoto: Kodak Kodacolor VR Plus 400
+  - Mauphoto: Kodak T-MAX 100
+  - Mauphoto: Kodak T-MAX 400
+  - Mauphoto: Konica Minolta Centuria 100
+  - Mauphoto: Lucky SHD 100
+  - Mauphoto: Lucky SHD 100 New Generation
+  - Mauphoto: Lucky Super New 200
+  - Mauphoto: Perutz CR 100
+  - Mauphoto: Polaroid High Definition
   - Mauphoto: Schlecker Fotoland AS Color 200
 
 2026-06-19
