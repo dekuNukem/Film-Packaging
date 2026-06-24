@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 19 2026
-Unique items: 622
-Total scans : 1150
+Last Updated: Jun 24 2026
+Unique items: 628
+Total scans : 1156
 ```
 
 Or Sort by...
@@ -85,27 +85,36 @@ Rank  Username                      Contributions
 30    GreatGizmo74                  6     
 31    nick                          6     
 32    Greg                          6     
-33    Kraksen                       5     
-34    Henry Gunn                    4     
-35    TheSelousScout                4     
-36    @sachynmital                  3     
-37    Tallbird Cowboy               3     
-38    robo-tobo                     3     
-39    @seklerek                     2     
-40    @ftfilmphotos                 2     
-41    @gregrouxphotography          2     
-42    Tobias                        2     
-43    @tylerdrey                    2     
-44    Yrikonchik                    1     
-45    @ad.astra.per.aspera.1894     1     
-46    Aoi Yuki                      1     
-47    lemoniter                     1     
-48    @shotbyliampewpew             1     
+33    Mauphoto                      6     
+34    Kraksen                       5     
+35    Henry Gunn                    4     
+36    TheSelousScout                4     
+37    @sachynmital                  3     
+38    Tallbird Cowboy               3     
+39    robo-tobo                     3     
+40    @seklerek                     2     
+41    @ftfilmphotos                 2     
+42    @gregrouxphotography          2     
+43    Tobias                        2     
+44    @tylerdrey                    2     
+45    Yrikonchik                    1     
+46    @ad.astra.per.aspera.1894     1     
+47    Aoi Yuki                      1     
+48    lemoniter                     1     
+49    @shotbyliampewpew             1     
 ```
 
 ## Recent Activities
 
 ```
+2026-06-24
+  - Mauphoto: Agfa Vista Spider-Pack
+  - Mauphoto: Fujifilm Superia 100
+  - Mauphoto: Fujifilm Velvia 50
+  - Mauphoto: Kodak Elite Chrome Extra Color
+  - Mauphoto: Kodak Kodacolor VR Plus 400
+  - Mauphoto: Schlecker Fotoland AS Color 200
+
 2026-06-19
   - Luci 101: Gevaert Panchro Super
   - nyctomanica: Polaroid Purple 600 Film Reclaimed Series
@@ -155,9 +164,6 @@ Rank  Username                      Contributions
 2026-06-10
   - nyctomanica: Kodak Ektachrome 160T
   - nyctomanica: Kodak Ektachrome E200
-
-2026-06-08
-  - @recycling.film: Fujifilm Fujicolor Pro 400H
 ```
 
 ## Disclaimer

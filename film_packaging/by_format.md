@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 19 2026
-Unique items: 622
-Total scans : 1150
+Last Updated: Jun 24 2026
+Unique items: 628
+Total scans : 1156
 ```
 
 -----
@@ -242,6 +242,7 @@ Total scans : 1150
 - [[35mm] Agfa Isopan ISS Rapid (ref: 3aee)](#35mm-agfa-isopan-iss-rapid-ref-3aee)
 - [[35mm] Agfa Vista Plus 200 (ref: f5f7)](#35mm-agfa-vista-plus-200-ref-f5f7)
 - [[35mm] Agfa Vista Plus 200 (ref: f08a)](#35mm-agfa-vista-plus-200-ref-f08a)
+- [[35mm] Agfa Vista Spider-Pack (ref: c0cc)](#35mm-agfa-vista-spider-pack-ref-c0cc)
 - [[35mm] Alfo ALFOcolor PR-G (ref: 94b9)](#35mm-alfo-alfocolor-pr-g-ref-94b9)
 - [[35mm] Alien Film 5222/XX (ref: 3e49)](#35mm-alien-film-5222xx-ref-3e49)
 - [[35mm] Arista.EDU Ultra (ref: d78b)](#35mm-aristaedu-ultra-ref-d78b)
@@ -327,8 +328,10 @@ Total scans : 1150
 - [[35mm] Fujifilm Neopan 400 (ref: c088)](#35mm-fujifilm-neopan-400-ref-c088)
 - [[35mm] Fujifilm Neopan Acros 100 II (ref: 9ea9)](#35mm-fujifilm-neopan-acros-100-ii-ref-9ea9)
 - [[35mm] Fujifilm Neopan SS Rapid (ref: 9db3)](#35mm-fujifilm-neopan-ss-rapid-ref-9db3)
+- [[35mm] Fujifilm Superia 100 (ref: 0f0c)](#35mm-fujifilm-superia-100-ref-0f0c)
 - [[35mm] Fujifilm Superia 200 (ref: fd36)](#35mm-fujifilm-superia-200-ref-fd36)
 - [[35mm] Fujifilm Superia Premium 400 (ref: ef1f)](#35mm-fujifilm-superia-premium-400-ref-ef1f)
+- [[35mm] Fujifilm Velvia 50 (ref: 9678)](#35mm-fujifilm-velvia-50-ref-9678)
 - [[35mm] GAF Color Slide Film (ref: 6815)](#35mm-gaf-color-slide-film-ref-6815)
 - [[35mm] GT Photo GT24 (ref: 92c2)](#35mm-gt-photo-gt24-ref-92c2)
 - [[35mm] Great Films Processing Kodachrome (ref: c012)](#35mm-great-films-processing-kodachrome-ref-c012)
@@ -396,6 +399,7 @@ Total scans : 1150
 - [[35mm] Kodak Ektar 100 (ref: 3498)](#35mm-kodak-ektar-100-ref-3498)
 - [[35mm] Kodak Elite Chrome (ref: 523c)](#35mm-kodak-elite-chrome-ref-523c)
 - [[35mm] Kodak Elite Chrome (ref: 3943)](#35mm-kodak-elite-chrome-ref-3943)
+- [[35mm] Kodak Elite Chrome Extra Color (ref: 71f9)](#35mm-kodak-elite-chrome-extra-color-ref-71f9)
 - [[35mm] Kodak FarbWelt 400 (ref: e9b6)](#35mm-kodak-farbwelt-400-ref-e9b6)
 - [[35mm] Kodak Gold (ref: 2f8d)](#35mm-kodak-gold-ref-2f8d)
 - [[35mm] Kodak Gold (ref: ea58)](#35mm-kodak-gold-ref-ea58)
@@ -424,6 +428,7 @@ Total scans : 1150
 - [[35mm] Kodak Kodacolor II (ref: 8dcf)](#35mm-kodak-kodacolor-ii-ref-8dcf)
 - [[35mm] Kodak Kodacolor VR (ref: 035f)](#35mm-kodak-kodacolor-vr-ref-035f)
 - [[35mm] Kodak Kodacolor VR Plus (ref: f8bf)](#35mm-kodak-kodacolor-vr-plus-ref-f8bf)
+- [[35mm] Kodak Kodacolor VR Plus 400 (ref: 5e5d)](#35mm-kodak-kodacolor-vr-plus-400-ref-5e5d)
 - [[35mm] Kodak Kodalith ortho film type 3 (ref: e5fd)](#35mm-kodak-kodalith-ortho-film-type-3-ref-e5fd)
 - [[35mm] Kodak MAX (ref: 2361)](#35mm-kodak-max-ref-2361)
 - [[35mm] Kodak Panatomic-X (ref: 7ed1)](#35mm-kodak-panatomic-x-ref-7ed1)
@@ -537,6 +542,7 @@ Total scans : 1150
 - [[35mm] Sakura Sakuracolor II (ref: 4f7d)](#35mm-sakura-sakuracolor-ii-ref-4f7d)
 - [[35mm] SantaColor SantaColor (ref: cb58)](#35mm-santacolor-santacolor-ref-cb58)
 - [[35mm] SantaColor SantaColor (ref: f3a7)](#35mm-santacolor-santacolor-ref-f3a7)
+- [[35mm] Schlecker Fotoland AS Color 200 (ref: 2bf6)](#35mm-schlecker-fotoland-as-color-200-ref-2bf6)
 - [[35mm] Seagull Seagull Color IR100 (ref: e7cc)](#35mm-seagull-seagull-color-ir100-ref-e7cc)
 - [[35mm] Seagull Seagull Color IR100 (ref: 8fd8)](#35mm-seagull-seagull-color-ir100-ref-8fd8)
 - [[35mm] Space Cat Film Mars 250D (ref: 5027)](#35mm-space-cat-film-mars-250d-ref-5027)
@@ -5324,6 +5330,20 @@ UUID  : b1c4d56515954c8d98bd0b8f9591f08a
 	<img src="./lowres/00257_001.jpg" alt="Agfa Vista Plus 200 35mm film box inside" loading="lazy" width="410" height="499">
 </a>
 
+#### [35mm] Agfa Vista Spider-Pack (ref: c0cc)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2006-09 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : 356cb49254644befb12eaa34c997c0cc
+```
+
+<a href="./archive/00627_000.jpg" target="_blank">
+	<img src="./lowres/00627_000.jpg" alt="Agfa Vista Spider-Pack 35mm film box outside" loading="lazy" width="322" height="499">
+</a>
+
 #### [35mm] Alfo ALFOcolor PR-G (ref: 94b9)
 
 ```
@@ -6816,6 +6836,20 @@ UUID  : 1c541b4c837944d788eab8986f349db3
 	<img src="./lowres/00118_000.jpg" alt="Fujifilm Neopan SS Rapid 35mm film box outside" loading="lazy" width="369" height="500">
 </a>
 
+#### [35mm] Fujifilm Superia 100 (ref: 0f0c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2011-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : 29973b9ee68243218c8d30c3403a0f0c
+```
+
+<a href="./archive/00628_000.jpg" target="_blank">
+	<img src="./lowres/00628_000.jpg" alt="Fujifilm Superia 100 35mm film box outside" loading="lazy" width="434" height="500">
+</a>
+
 #### [35mm] Fujifilm Superia 200 (ref: fd36)
 
 ```
@@ -6842,6 +6876,20 @@ UUID  : 433055f5732e4d53b4245da4dfe0ef1f
 
 <a href="./archive/00372_000.jpg" target="_blank">
 	<img src="./lowres/00372_000.jpg" alt="Fujifilm Superia Premium 400 35mm film box outside" loading="lazy" width="448" height="500">
+</a>
+
+#### [35mm] Fujifilm Velvia 50 (ref: 9678)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 50           |  Expiry  : 2012-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : ee425a725d52448b95cb0664aabf9678
+```
+
+<a href="./archive/00629_000.jpg" target="_blank">
+	<img src="./lowres/00629_000.jpg" alt="Fujifilm Velvia 50 35mm film box outside" loading="lazy" width="422" height="499">
 </a>
 
 #### [35mm] GAF Color Slide Film (ref: 6815)
@@ -8093,6 +8141,20 @@ UUID  : c9ba81252c5f438ca70922a2b5703943
 	<img src="./lowres/00178_001.jpg" alt="Kodak Elite Chrome 35mm film box outside" loading="lazy" width="500" height="430">
 </a>
 
+#### [35mm] Kodak Elite Chrome Extra Color (ref: 71f9)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2009-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : b15598742abf4dada03cecd44e4071f9
+```
+
+<a href="./archive/00631_000.jpg" target="_blank">
+	<img src="./lowres/00631_000.jpg" alt="Kodak Elite Chrome Extra Color 35mm film box outside" loading="lazy" width="402" height="499">
+</a>
+
 #### [35mm] Kodak FarbWelt 400 (ref: e9b6)
 
 ```
@@ -8715,6 +8777,20 @@ UUID  : faf0a44eece541a9b701feb772f4f8bf
 
 <a href="./archive/00153_000.jpg" target="_blank">
 	<img src="./lowres/00153_000.jpg" alt="Kodak Kodacolor VR Plus 35mm film box outside" loading="lazy" width="500" height="391">
+</a>
+
+#### [35mm] Kodak Kodacolor VR Plus 400 (ref: 5e5d)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2009-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : 2234581367c84a208c391ba92b3f5e5d
+```
+
+<a href="./archive/00630_000.jpg" target="_blank">
+	<img src="./lowres/00630_000.jpg" alt="Kodak Kodacolor VR Plus 400 35mm film box outside" loading="lazy" width="500" height="385">
 </a>
 
 #### [35mm] Kodak Kodalith ortho film type 3 (ref: e5fd)
@@ -10824,6 +10900,20 @@ UUID  : 0a141b49a84a4b06a18355308940f3a7
 
 <a href="./archive/00128_000.jpg" target="_blank">
 	<img src="./lowres/00128_000.jpg" alt="SantaColor SantaColor 35mm film box outside" loading="lazy" width="500" height="210">
+</a>
+
+#### [35mm] Schlecker Fotoland AS Color 200 (ref: 2bf6)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2012-10 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : 5a16cb60bf3d4de3bc16a789a1af2bf6
+```
+
+<a href="./archive/00632_000.jpg" target="_blank">
+	<img src="./lowres/00632_000.jpg" alt="Schlecker Fotoland AS Color 200 35mm film box outside" loading="lazy" width="422" height="499">
 </a>
 
 #### [35mm] Seagull Seagull Color IR100 (ref: e7cc)
@@ -13118,22 +13208,23 @@ Rank  Username                      Contributions
 30    GreatGizmo74                  6     
 31    nick                          6     
 32    Greg                          6     
-33    Kraksen                       5     
-34    Henry Gunn                    4     
-35    TheSelousScout                4     
-36    @sachynmital                  3     
-37    Tallbird Cowboy               3     
-38    robo-tobo                     3     
-39    @seklerek                     2     
-40    @ftfilmphotos                 2     
-41    @gregrouxphotography          2     
-42    Tobias                        2     
-43    @tylerdrey                    2     
-44    Yrikonchik                    1     
-45    @ad.astra.per.aspera.1894     1     
-46    Aoi Yuki                      1     
-47    lemoniter                     1     
-48    @shotbyliampewpew             1     
+33    Mauphoto                      6     
+34    Kraksen                       5     
+35    Henry Gunn                    4     
+36    TheSelousScout                4     
+37    @sachynmital                  3     
+38    Tallbird Cowboy               3     
+39    robo-tobo                     3     
+40    @seklerek                     2     
+41    @ftfilmphotos                 2     
+42    @gregrouxphotography          2     
+43    Tobias                        2     
+44    @tylerdrey                    2     
+45    Yrikonchik                    1     
+46    @ad.astra.per.aspera.1894     1     
+47    Aoi Yuki                      1     
+48    lemoniter                     1     
+49    @shotbyliampewpew             1     
 ```
 
 ## Questions or Comments?

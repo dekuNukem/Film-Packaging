@@ -1149,3 +1149,9 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 626,6,film_box_leaflet,Gevaert,Panchro Super,8mm,32,BW,194805,1781861131,86f567ebddb3b796a4bfb11d193613e7,be23e2485409449bb52a1a26b40ed836,00626_006.jpg,Luci 101,,Bulk Roll,25ft
 626,7,film_box_leaflet,Gevaert,Panchro Super,8mm,32,BW,194805,1781861134,79ad59b752b997078b14a9df23c5ace5,6d493e3285ed4d46a52c37302b1994a5,00626_007.jpg,Luci 101,,Bulk Roll,25ft
 626,8,film_box_leaflet,Gevaert,Panchro Super,8mm,32,BW,194805,1781861136,59cc9c6a36834553c7a0ab5a1b2fb764,0a568b688bc24662b34171fa2c3b9c66,00626_008.jpg,Luci 101,,Bulk Roll,25ft
+627,0,film_box_outside,Agfa,Vista Spider-Pack,35mm,100,C-41,200609,1782293657,bd4c4e82a12a45c899c511a02c56da5f,356cb49254644befb12eaa34c997c0cc,00627_000.jpg,Mauphoto,,Multi-Pack-3,36exp
+628,0,film_box_outside,Fujifilm,Superia 100,35mm,100,C-41,201112,1782293695,ea534f08736cd23cf3d0a0ead156637b,29973b9ee68243218c8d30c3403a0f0c,00628_000.jpg,Mauphoto,,Single Pack,36exp
+629,0,film_box_outside,Fujifilm,Velvia 50,35mm,50,E-6,201212,1782293729,86a9f62ee27fc7f47f0d4bcf5056de23,ee425a725d52448b95cb0664aabf9678,00629_000.jpg,Mauphoto,,Single Pack,36exp
+630,0,film_box_outside,Kodak,Kodacolor VR Plus 400,35mm,400,C-41,200904,1782293810,d9de22e25308260d57e4221228f23068,2234581367c84a208c391ba92b3f5e5d,00630_000.jpg,Mauphoto,,Single Pack,36exp
+631,0,film_box_outside,Kodak,Elite Chrome Extra Color,35mm,100,E-6,200912,1782293877,10a01c6ce217b39f87c80040be29c69e,b15598742abf4dada03cecd44e4071f9,00631_000.jpg,Mauphoto,,Single Pack,36exp
+632,0,film_box_outside,Schlecker Fotoland,AS Color 200,35mm,200,C-41,201210,1782293956,17e2332a4ead0876f1fad509ccf783d3,5a16cb60bf3d4de3bc16a789a1af2bf6,00632_000.jpg,Mauphoto,,Single Pack,12exp

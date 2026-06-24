@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 19 2026
-Unique items: 622
-Total scans : 1150
+Last Updated: Jun 24 2026
+Unique items: 628
+Total scans : 1156
 ```
 
 -----
@@ -302,6 +302,7 @@ Total scans : 1150
 - [[2006] Polaroid 87 (ref: 62ef)](#2006-polaroid-87-ref-62ef)
 - [[2006] Kodak Advantix Ultra (ref: 566b)](#2006-kodak-advantix-ultra-ref-566b)
 - [[2006] Kodak Portra 400NC (ref: b8de)](#2006-kodak-portra-400nc-ref-b8de)
+- [[2006] Agfa Vista Spider-Pack (ref: c0cc)](#2006-agfa-vista-spider-pack-ref-c0cc)
 - [[2006] Jessops Diamond Everyday (ref: 67d3)](#2006-jessops-diamond-everyday-ref-67d3)
 - [[2006] Klick APS Film (ref: 4b88)](#2006-klick-aps-film-ref-4b88)
 - [[2006] Polaroid GridFilm (ref: 8deb)](#2006-polaroid-gridfilm-ref-8deb)
@@ -332,6 +333,7 @@ Total scans : 1150
 - [[2009] Fujifilm Fujicolor Pro 400H (ref: dc37)](#2009-fujifilm-fujicolor-pro-400h-ref-dc37)
 - [[2009] Polaroid 669 (ref: 2c27)](#2009-polaroid-669-ref-2c27)
 - [[2009] efke KB-25 (ref: 4d17)](#2009-efke-kb-25-ref-4d17)
+- [[2009] Kodak Kodacolor VR Plus 400 (ref: 5e5d)](#2009-kodak-kodacolor-vr-plus-400-ref-5e5d)
 - [[2009] Kodak Portra 400VC (ref: 7669)](#2009-kodak-portra-400vc-ref-7669)
 - [[2009] Polaroid 100 Blue Film (ref: 93b8)](#2009-polaroid-100-blue-film-ref-93b8)
 - [[2009] Fujifilm Fujicolor Superia (ref: 0d8e)](#2009-fujifilm-fujicolor-superia-ref-0d8e)
@@ -343,6 +345,7 @@ Total scans : 1150
 - [[2009] Polaroid 664 (ref: 4f1a)](#2009-polaroid-664-ref-4f1a)
 - [[2009] Polaroid 690 (ref: bd98)](#2009-polaroid-690-ref-bd98)
 - [[2009] Polaroid TZ Artistic Fade to Black (ref: de21)](#2009-polaroid-tz-artistic-fade-to-black-ref-de21)
+- [[2009] Kodak Elite Chrome Extra Color (ref: 71f9)](#2009-kodak-elite-chrome-extra-color-ref-71f9)
 - [[2010] Photocité 400 ISO (ref: e370)](#2010-photocité-400-iso-ref-e370)
 - [[2010] Fujifilm Fujicolor Superia Reala (ref: a624)](#2010-fujifilm-fujicolor-superia-reala-ref-a624)
 - [[2010] Fujifilm Neopan 400 Presto (ref: 21a7)](#2010-fujifilm-neopan-400-presto-ref-21a7)
@@ -355,10 +358,13 @@ Total scans : 1150
 - [[2010] Impossible Project Polaroid Type 100 Chocolate Paul Giambarba Edition (ref: 6028)](#2010-impossible-project-polaroid-type-100-chocolate-paul-giambarba-edition-ref-6028)
 - [[2011] Kodak Tri-X 400 (ref: 7145)](#2011-kodak-tri-x-400-ref-7145)
 - [[2011] Impossible Project PX 680 Color Shade / First Flush (ref: 580b)](#2011-impossible-project-px-680-color-shade--first-flush-ref-580b)
+- [[2011] Fujifilm Superia 100 (ref: 0f0c)](#2011-fujifilm-superia-100-ref-0f0c)
 - [[2012] Fujifilm Fujicolor Professional (ref: 28da)](#2012-fujifilm-fujicolor-professional-ref-28da)
 - [[2012] Kodak Kodacolor VR Plus (ref: f8bf)](#2012-kodak-kodacolor-vr-plus-ref-f8bf)
 - [[2012] Ilford HP5 Plus (ref: 11a8)](#2012-ilford-hp5-plus-ref-11a8)
 - [[2012] Fujifilm Fujicolor Pro 400H (ref: 29e0)](#2012-fujifilm-fujicolor-pro-400h-ref-29e0)
+- [[2012] Schlecker Fotoland AS Color 200 (ref: 2bf6)](#2012-schlecker-fotoland-as-color-200-ref-2bf6)
+- [[2012] Fujifilm Velvia 50 (ref: 9678)](#2012-fujifilm-velvia-50-ref-9678)
 - [[2012] Lomography Color Negative Film (ref: d986)](#2012-lomography-color-negative-film-ref-d986)
 - [[2013] Lucky C200 (ref: f727)](#2013-lucky-c200-ref-f727)
 - [[2013] Mr. Negative Eterna 250D (ref: 6d6e)](#2013-mr-negative-eterna-250d-ref-6d6e)
@@ -6973,6 +6979,20 @@ UUID  : 88ebc10c01ea46238c48e65157ddb8de
 	<img src="./lowres/00175_000.jpg" alt="Kodak Portra 400NC 70mm film box outside" loading="lazy" width="500" height="500">
 </a>
 
+#### [2006] Agfa Vista Spider-Pack (ref: c0cc)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2006-09 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : 356cb49254644befb12eaa34c997c0cc
+```
+
+<a href="./archive/00627_000.jpg" target="_blank">
+	<img src="./lowres/00627_000.jpg" alt="Agfa Vista Spider-Pack 35mm film box outside" loading="lazy" width="322" height="499">
+</a>
+
 #### [2006] Jessops Diamond Everyday (ref: 67d3)
 
 ```
@@ -7535,6 +7555,20 @@ UUID  : b41fb584f713486eb5a5da2fe16e4d17
 	<img src="./lowres/00528_001.jpg" alt="efke KB-25 35mm film box inside" loading="lazy" width="468" height="500">
 </a>
 
+#### [2009] Kodak Kodacolor VR Plus 400 (ref: 5e5d)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2009-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : 2234581367c84a208c391ba92b3f5e5d
+```
+
+<a href="./archive/00630_000.jpg" target="_blank">
+	<img src="./lowres/00630_000.jpg" alt="Kodak Kodacolor VR Plus 400 35mm film box outside" loading="lazy" width="500" height="385">
+</a>
+
 #### [2009] Kodak Portra 400VC (ref: 7669)
 
 ```
@@ -7695,6 +7729,20 @@ UUID  : 1db6d025cc904e11858f76ce0053de21
 
 <a href="./archive/00591_001.jpg" target="_blank">
 	<img src="./lowres/00591_001.jpg" alt="Polaroid TZ Artistic Fade to Black Instant Integral Film film box inside" loading="lazy" width="488" height="500">
+</a>
+
+#### [2009] Kodak Elite Chrome Extra Color (ref: 71f9)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2009-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : b15598742abf4dada03cecd44e4071f9
+```
+
+<a href="./archive/00631_000.jpg" target="_blank">
+	<img src="./lowres/00631_000.jpg" alt="Kodak Elite Chrome Extra Color 35mm film box outside" loading="lazy" width="402" height="499">
 </a>
 
 #### [2010] Photocité 400 ISO (ref: e370)
@@ -7886,6 +7934,20 @@ UUID  : 21d81b0f422340189e48c53b02b8580b
 	<img src="./lowres/00592_000.jpg" alt="Impossible Project PX 680 Color Shade / First Flush Instant Integral Film film box outside" loading="lazy" width="370" height="500">
 </a>
 
+#### [2011] Fujifilm Superia 100 (ref: 0f0c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2011-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : 29973b9ee68243218c8d30c3403a0f0c
+```
+
+<a href="./archive/00628_000.jpg" target="_blank">
+	<img src="./lowres/00628_000.jpg" alt="Fujifilm Superia 100 35mm film box outside" loading="lazy" width="434" height="500">
+</a>
+
 #### [2012] Fujifilm Fujicolor Professional (ref: 28da)
 
 ```
@@ -7947,6 +8009,34 @@ UUID  : 27bbbeae605a4e1997859f2d3e6029e0
 
 <a href="./archive/00582_000.jpg" target="_blank">
 	<img src="./lowres/00582_000.jpg" alt="Fujifilm Fujicolor Pro 400H 35mm film box outside" loading="lazy" width="404" height="500">
+</a>
+
+#### [2012] Schlecker Fotoland AS Color 200 (ref: 2bf6)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2012-10 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : 5a16cb60bf3d4de3bc16a789a1af2bf6
+```
+
+<a href="./archive/00632_000.jpg" target="_blank">
+	<img src="./lowres/00632_000.jpg" alt="Schlecker Fotoland AS Color 200 35mm film box outside" loading="lazy" width="422" height="499">
+</a>
+
+#### [2012] Fujifilm Velvia 50 (ref: 9678)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 50           |  Expiry  : 2012-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : ee425a725d52448b95cb0664aabf9678
+```
+
+<a href="./archive/00629_000.jpg" target="_blank">
+	<img src="./lowres/00629_000.jpg" alt="Fujifilm Velvia 50 35mm film box outside" loading="lazy" width="422" height="499">
 </a>
 
 #### [2012] Lomography Color Negative Film (ref: d986)
@@ -13118,22 +13208,23 @@ Rank  Username                      Contributions
 30    GreatGizmo74                  6     
 31    nick                          6     
 32    Greg                          6     
-33    Kraksen                       5     
-34    Henry Gunn                    4     
-35    TheSelousScout                4     
-36    @sachynmital                  3     
-37    Tallbird Cowboy               3     
-38    robo-tobo                     3     
-39    @seklerek                     2     
-40    @ftfilmphotos                 2     
-41    @gregrouxphotography          2     
-42    Tobias                        2     
-43    @tylerdrey                    2     
-44    Yrikonchik                    1     
-45    @ad.astra.per.aspera.1894     1     
-46    Aoi Yuki                      1     
-47    lemoniter                     1     
-48    @shotbyliampewpew             1     
+33    Mauphoto                      6     
+34    Kraksen                       5     
+35    Henry Gunn                    4     
+36    TheSelousScout                4     
+37    @sachynmital                  3     
+38    Tallbird Cowboy               3     
+39    robo-tobo                     3     
+40    @seklerek                     2     
+41    @ftfilmphotos                 2     
+42    @gregrouxphotography          2     
+43    Tobias                        2     
+44    @tylerdrey                    2     
+45    Yrikonchik                    1     
+46    @ad.astra.per.aspera.1894     1     
+47    Aoi Yuki                      1     
+48    lemoniter                     1     
+49    @shotbyliampewpew             1     
 ```
 
 ## Questions or Comments?

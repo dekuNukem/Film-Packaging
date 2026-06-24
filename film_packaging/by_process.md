@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 19 2026
-Unique items: 622
-Total scans : 1150
+Last Updated: Jun 24 2026
+Unique items: 628
+Total scans : 1156
 ```
 
 -----
@@ -255,6 +255,7 @@ Total scans : 1150
 - [[C-41] Agfa Optima II 400 (ref: fdf0)](#c-41-agfa-optima-ii-400-ref-fdf0)
 - [[C-41] Agfa Vista Plus 200 (ref: f5f7)](#c-41-agfa-vista-plus-200-ref-f5f7)
 - [[C-41] Agfa Vista Plus 200 (ref: f08a)](#c-41-agfa-vista-plus-200-ref-f08a)
+- [[C-41] Agfa Vista Spider-Pack (ref: c0cc)](#c-41-agfa-vista-spider-pack-ref-c0cc)
 - [[C-41] Alfo ALFOcolor PR-G (ref: 94b9)](#c-41-alfo-alfocolor-pr-g-ref-94b9)
 - [[C-41] Alien Film Aeronega (ref: d1c5)](#c-41-alien-film-aeronega-ref-d1c5)
 - [[C-41] Boots Colour Print Film (ref: a30f)](#c-41-boots-colour-print-film-ref-a30f)
@@ -323,6 +324,7 @@ Total scans : 1150
 - [[C-41] Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)](#c-41-fujifilm-fujicolor-superia-x-tra-ref-6b8a)
 - [[C-41] Fujifilm Fujicolor Superia X-TRA 400 (ref: da37)](#c-41-fujifilm-fujicolor-superia-x-tra-400-ref-da37)
 - [[C-41] Fujifilm Hi-Speed 1600 Disposable Camera (ref: 8a6f)](#c-41-fujifilm-hi-speed-1600-disposable-camera-ref-8a6f)
+- [[C-41] Fujifilm Superia 100 (ref: 0f0c)](#c-41-fujifilm-superia-100-ref-0f0c)
 - [[C-41] Fujifilm Superia 200 (ref: fd36)](#c-41-fujifilm-superia-200-ref-fd36)
 - [[C-41] Fujifilm Superia Premium 400 (ref: ef1f)](#c-41-fujifilm-superia-premium-400-ref-ef1f)
 - [[C-41] Fukkatsu Color Print Film (ref: 3213)](#c-41-fukkatsu-color-print-film-ref-3213)
@@ -389,6 +391,7 @@ Total scans : 1150
 - [[C-41] Kodak Kodacolor II (ref: 8dcf)](#c-41-kodak-kodacolor-ii-ref-8dcf)
 - [[C-41] Kodak Kodacolor VR (ref: 035f)](#c-41-kodak-kodacolor-vr-ref-035f)
 - [[C-41] Kodak Kodacolor VR Plus (ref: f8bf)](#c-41-kodak-kodacolor-vr-plus-ref-f8bf)
+- [[C-41] Kodak Kodacolor VR Plus 400 (ref: 5e5d)](#c-41-kodak-kodacolor-vr-plus-400-ref-5e5d)
 - [[C-41] Kodak MAX (ref: 2361)](#c-41-kodak-max-ref-2361)
 - [[C-41] Kodak Portra 160 (ref: ce56)](#c-41-kodak-portra-160-ref-ce56)
 - [[C-41] Kodak Portra 160 (ref: 6b0a)](#c-41-kodak-portra-160-ref-6b0a)
@@ -470,6 +473,7 @@ Total scans : 1150
 - [[C-41] Sakura Sakuracolor II (ref: 4f7d)](#c-41-sakura-sakuracolor-ii-ref-4f7d)
 - [[C-41] SantaColor SantaColor (ref: cb58)](#c-41-santacolor-santacolor-ref-cb58)
 - [[C-41] SantaColor SantaColor (ref: f3a7)](#c-41-santacolor-santacolor-ref-f3a7)
+- [[C-41] Schlecker Fotoland AS Color 200 (ref: 2bf6)](#c-41-schlecker-fotoland-as-color-200-ref-2bf6)
 - [[C-41] Seagull Seagull Color IR100 (ref: e7cc)](#c-41-seagull-seagull-color-ir100-ref-e7cc)
 - [[C-41] Seagull Seagull Color IR100 (ref: 8fd8)](#c-41-seagull-seagull-color-ir100-ref-8fd8)
 - [[C-41] Sharan Color Negative Film (ref: 4913)](#c-41-sharan-color-negative-film-ref-4913)
@@ -509,6 +513,7 @@ Total scans : 1150
 - [[E-6] Fujifilm Fujichrome Velvia (ref: 1ba8)](#e-6-fujifilm-fujichrome-velvia-ref-1ba8)
 - [[E-6] Fujifilm Fujichrome Velvia 100F (ref: f7fb)](#e-6-fujifilm-fujichrome-velvia-100f-ref-f7fb)
 - [[E-6] Fujifilm Fujichrome Velvia 100F (ref: 32d4)](#e-6-fujifilm-fujichrome-velvia-100f-ref-32d4)
+- [[E-6] Fujifilm Velvia 50 (ref: 9678)](#e-6-fujifilm-velvia-50-ref-9678)
 - [[E-6] Hazenfilm Sorolla Chrome (ref: 889f)](#e-6-hazenfilm-sorolla-chrome-ref-889f)
 - [[E-6] Ilford Ilfochrome (ref: ac24)](#e-6-ilford-ilfochrome-ref-ac24)
 - [[E-6] Jessops CS100 (ref: 4288)](#e-6-jessops-cs100-ref-4288)
@@ -539,6 +544,7 @@ Total scans : 1150
 - [[E-6] Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#e-6-kodak-ektachrome-slide-duplicating-film-ref-d53a)
 - [[E-6] Kodak Elite Chrome (ref: 523c)](#e-6-kodak-elite-chrome-ref-523c)
 - [[E-6] Kodak Elite Chrome (ref: 3943)](#e-6-kodak-elite-chrome-ref-3943)
+- [[E-6] Kodak Elite Chrome Extra Color (ref: 71f9)](#e-6-kodak-elite-chrome-extra-color-ref-71f9)
 - [[E-6] Lomography Color Slide / X-Pro 200 (ref: 22bc)](#e-6-lomography-color-slide--x-pro-200-ref-22bc)
 - [[E-6] ORWO OrwoChrome RC100 (ref: a9b6)](#e-6-orwo-orwochrome-rc100-ref-a9b6)
 - [[E-6] ORWO OrwoChrome UT18 (ref: f2ce)](#e-6-orwo-orwochrome-ut18-ref-f2ce)
@@ -5275,6 +5281,20 @@ UUID  : b1c4d56515954c8d98bd0b8f9591f08a
 	<img src="./lowres/00257_001.jpg" alt="Agfa Vista Plus 200 35mm film box inside" loading="lazy" width="410" height="499">
 </a>
 
+#### [C-41] Agfa Vista Spider-Pack (ref: c0cc)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2006-09 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : 356cb49254644befb12eaa34c997c0cc
+```
+
+<a href="./archive/00627_000.jpg" target="_blank">
+	<img src="./lowres/00627_000.jpg" alt="Agfa Vista Spider-Pack 35mm film box outside" loading="lazy" width="322" height="499">
+</a>
+
 #### [C-41] Alfo ALFOcolor PR-G (ref: 94b9)
 
 ```
@@ -6450,6 +6470,20 @@ UUID  : b25d00004e6f46699b06a4cf360f8a6f
 
 <a href="./archive/00525_001.jpg" target="_blank">
 	<img src="./lowres/00525_001.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera 35mm film box outside" loading="lazy" width="188" height="500">
+</a>
+
+#### [C-41] Fujifilm Superia 100 (ref: 0f0c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2011-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : 29973b9ee68243218c8d30c3403a0f0c
+```
+
+<a href="./archive/00628_000.jpg" target="_blank">
+	<img src="./lowres/00628_000.jpg" alt="Fujifilm Superia 100 35mm film box outside" loading="lazy" width="434" height="500">
 </a>
 
 #### [C-41] Fujifilm Superia 200 (ref: fd36)
@@ -7643,6 +7677,20 @@ UUID  : faf0a44eece541a9b701feb772f4f8bf
 
 <a href="./archive/00153_000.jpg" target="_blank">
 	<img src="./lowres/00153_000.jpg" alt="Kodak Kodacolor VR Plus 35mm film box outside" loading="lazy" width="500" height="391">
+</a>
+
+#### [C-41] Kodak Kodacolor VR Plus 400 (ref: 5e5d)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2009-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : 2234581367c84a208c391ba92b3f5e5d
+```
+
+<a href="./archive/00630_000.jpg" target="_blank">
+	<img src="./lowres/00630_000.jpg" alt="Kodak Kodacolor VR Plus 400 35mm film box outside" loading="lazy" width="500" height="385">
 </a>
 
 #### [C-41] Kodak MAX (ref: 2361)
@@ -9033,6 +9081,20 @@ UUID  : 0a141b49a84a4b06a18355308940f3a7
 	<img src="./lowres/00128_000.jpg" alt="SantaColor SantaColor 35mm film box outside" loading="lazy" width="500" height="210">
 </a>
 
+#### [C-41] Schlecker Fotoland AS Color 200 (ref: 2bf6)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2012-10 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : 5a16cb60bf3d4de3bc16a789a1af2bf6
+```
+
+<a href="./archive/00632_000.jpg" target="_blank">
+	<img src="./lowres/00632_000.jpg" alt="Schlecker Fotoland AS Color 200 35mm film box outside" loading="lazy" width="422" height="499">
+</a>
+
 #### [C-41] Seagull Seagull Color IR100 (ref: e7cc)
 
 ```
@@ -9890,6 +9952,20 @@ UUID  : ce5c1d786286427ba5633091b06432d4
 	<img src="./lowres/00056_000.jpg" alt="Fujifilm Fujichrome Velvia 100F 35mm film box outside" loading="lazy" width="425" height="499">
 </a>
 
+#### [E-6] Fujifilm Velvia 50 (ref: 9678)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 50           |  Expiry  : 2012-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : ee425a725d52448b95cb0664aabf9678
+```
+
+<a href="./archive/00629_000.jpg" target="_blank">
+	<img src="./lowres/00629_000.jpg" alt="Fujifilm Velvia 50 35mm film box outside" loading="lazy" width="422" height="499">
+</a>
+
 
 `UUID: a332a7492f2b4a708c8a0ead5b9af986`↓
 
@@ -10512,6 +10588,20 @@ UUID  : c9ba81252c5f438ca70922a2b5703943
 
 <a href="./archive/00178_001.jpg" target="_blank">
 	<img src="./lowres/00178_001.jpg" alt="Kodak Elite Chrome 35mm film box outside" loading="lazy" width="500" height="430">
+</a>
+
+#### [E-6] Kodak Elite Chrome Extra Color (ref: 71f9)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2009-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : b15598742abf4dada03cecd44e4071f9
+```
+
+<a href="./archive/00631_000.jpg" target="_blank">
+	<img src="./lowres/00631_000.jpg" alt="Kodak Elite Chrome Extra Color 35mm film box outside" loading="lazy" width="402" height="499">
 </a>
 
 #### [E-6] Lomography Color Slide / X-Pro 200 (ref: 22bc)
@@ -13118,22 +13208,23 @@ Rank  Username                      Contributions
 30    GreatGizmo74                  6     
 31    nick                          6     
 32    Greg                          6     
-33    Kraksen                       5     
-34    Henry Gunn                    4     
-35    TheSelousScout                4     
-36    @sachynmital                  3     
-37    Tallbird Cowboy               3     
-38    robo-tobo                     3     
-39    @seklerek                     2     
-40    @ftfilmphotos                 2     
-41    @gregrouxphotography          2     
-42    Tobias                        2     
-43    @tylerdrey                    2     
-44    Yrikonchik                    1     
-45    @ad.astra.per.aspera.1894     1     
-46    Aoi Yuki                      1     
-47    lemoniter                     1     
-48    @shotbyliampewpew             1     
+33    Mauphoto                      6     
+34    Kraksen                       5     
+35    Henry Gunn                    4     
+36    TheSelousScout                4     
+37    @sachynmital                  3     
+38    Tallbird Cowboy               3     
+39    robo-tobo                     3     
+40    @seklerek                     2     
+41    @ftfilmphotos                 2     
+42    @gregrouxphotography          2     
+43    Tobias                        2     
+44    @tylerdrey                    2     
+45    Yrikonchik                    1     
+46    @ad.astra.per.aspera.1894     1     
+47    Aoi Yuki                      1     
+48    lemoniter                     1     
+49    @shotbyliampewpew             1     
 ```
 
 ## Questions or Comments?
