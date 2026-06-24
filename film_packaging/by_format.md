@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Jun 24 2026
-Unique items: 639
-Total scans : 1178
+Unique items: 646
+Total scans : 1201
 ```
 
 -----
@@ -413,6 +413,7 @@ Total scans : 1178
 - [[35mm] Kodak Gold (ref: 3e7f)](#35mm-kodak-gold-ref-3e7f)
 - [[35mm] Kodak Gold (ref: 855e)](#35mm-kodak-gold-ref-855e)
 - [[35mm] Kodak Gold 200 (ref: 442d)](#35mm-kodak-gold-200-ref-442d)
+- [[35mm] Kodak Gold 200 (ref: 795c)](#35mm-kodak-gold-200-ref-795c)
 - [[35mm] Kodak Gold 200 (ref: 7d4b)](#35mm-kodak-gold-200-ref-7d4b)
 - [[35mm] Kodak Gold II (ref: 61d0)](#35mm-kodak-gold-ii-ref-61d0)
 - [[35mm] Kodak Gold Ultra 400 (ref: 1358)](#35mm-kodak-gold-ultra-400-ref-1358)
@@ -464,6 +465,7 @@ Total scans : 1178
 - [[35mm] Kodak T-MAX P3200 (ref: 43a2)](#35mm-kodak-t-max-p3200-ref-43a2)
 - [[35mm] Kodak T-MAX P3200 (ref: e727)](#35mm-kodak-t-max-p3200-ref-e727)
 - [[35mm] Kodak Technical Pan (ref: f4cf)](#35mm-kodak-technical-pan-ref-f4cf)
+- [[35mm] Kodak Tri-X (ref: d9af)](#35mm-kodak-tri-x-ref-d9af)
 - [[35mm] Kodak Tri-X 400 (ref: 7145)](#35mm-kodak-tri-x-400-ref-7145)
 - [[35mm] Kodak Tri-X 400 (ref: c671)](#35mm-kodak-tri-x-400-ref-c671)
 - [[35mm] Kodak Tri-X 400 (ref: cba7)](#35mm-kodak-tri-x-400-ref-cba7)
@@ -592,6 +594,8 @@ Total scans : 1178
 - [[828] Kodak Kodachrome II (ref: 0982)](#828-kodak-kodachrome-ii-ref-0982)
 - [[8mm] Gevaert Panchro Super (ref: fd4c)](#8mm-gevaert-panchro-super-ref-fd4c)
 - [[8mm] ORWO OrwoColor UT13 (ref: a05d)](#8mm-orwo-orwocolor-ut13-ref-a05d)
+- [[8mm] ORWO UK 17 (ref: 19a0)](#8mm-orwo-uk-17-ref-19a0)
+- [[8mm] ORWO UP 27 DS 8 (ref: 4d5a)](#8mm-orwo-up-27-ds-8-ref-4d5a)
 - [[8x11mm] Minox MinoColor 100 Pro (ref: 5338)](#8x11mm-minox-minocolor-100-pro-ref-5338)
 - [[8x11mm] Minox MinoColor 3 (ref: d209)](#8x11mm-minox-minocolor-3-ref-d209)
 - [[8x11mm] Minox Minocolor 2 (ref: fadd)](#8x11mm-minox-minocolor-2-ref-fadd)
@@ -602,6 +606,7 @@ Total scans : 1178
 - [[9x12cm] Agfa Trockenplatten (ref: 0937)](#9x12cm-agfa-trockenplatten-ref-0937)
 - [[9x12cm] Agfa Trockenplatten (ref: 41a8)](#9x12cm-agfa-trockenplatten-ref-41a8)
 - [[9x12cm] Perutz Superomnia (ref: c90d)](#9x12cm-perutz-superomnia-ref-c90d)
+- [[APS] Fujifilm Nexia A200 (ref: 43c0)](#aps-fujifilm-nexia-a200-ref-43c0)
 - [[APS] Jessops Diamond Everyday (ref: 67d3)](#aps-jessops-diamond-everyday-ref-67d3)
 - [[APS] Klick APS Film (ref: 4b88)](#aps-klick-aps-film-ref-4b88)
 - [[APS] Kodak Advantix Ultra (ref: 030a)](#aps-kodak-advantix-ultra-ref-030a)
@@ -609,6 +614,7 @@ Total scans : 1178
 - [[APS] Kodak Advantix Ultra Max (ref: 1ca2)](#aps-kodak-advantix-ultra-max-ref-1ca2)
 - [[APS] Lloyds Pharmacy APS Film (ref: c7cf)](#aps-lloyds-pharmacy-aps-film-ref-c7cf)
 - [[Disc Film] Kodak Kodacolor Gold (ref: 4ccd)](#disc-film-kodak-kodacolor-gold-ref-4ccd)
+- [[Disposable Camera] Fujifilm Simple Ace (ref: 17e6)](#disposable-camera-fujifilm-simple-ace-ref-17e6)
 - [[Instant Integral Film] Fujifilm Instax Mini (ref: e5e7)](#instant-integral-film-fujifilm-instax-mini-ref-e5e7)
 - [[Instant Integral Film] Fujifilm Instax Wide (ref: 51ce)](#instant-integral-film-fujifilm-instax-wide-ref-51ce)
 - [[Instant Integral Film] Fujifilm Instax Wide Monochrome (ref: 58d8)](#instant-integral-film-fujifilm-instax-wide-monochrome-ref-58d8)
@@ -658,6 +664,7 @@ Total scans : 1178
 - [[Instant Roll Film] Polaroid Type 42 (ref: f92c)](#instant-roll-film-polaroid-type-42-ref-f92c)
 - [[Polavision] Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)](#polavision-polaroid-polavision-phototape-land-cassette-type-608-ref-90b9)
 - [[Super 8] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)](#super-8-kodak-ektachrome-160-movie-film-type-a-ref-8f62)
+- [[Super 8] Kodak Kodachrome 40 (ref: 2a3e)](#super-8-kodak-kodachrome-40-ref-2a3e)
 - [[Super 8] Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping (ref: c143)](#super-8-kodak-kodachrome-40-movie-film-type-a-for-post-process-sound-striping-ref-c143)
 - [[Unknown] Ilford HP3 (ref: ae35)](#unknown-ilford-hp3-ref-ae35)
 - [[Unknown] Northwest Custom Film Processing Ultra Minituature Film (ref: 70b1)](#unknown-northwest-custom-film-processing-ultra-minituature-film-ref-70b1)
@@ -8404,6 +8411,20 @@ UUID  : e8e8fbafc8a64a19ad483dc1d7e3442d
 	<img src="./lowres/00546_001.jpg" alt="Kodak Gold 200 35mm film box outside" loading="lazy" width="289" height="500">
 </a>
 
+#### [35mm] Kodak Gold 200 (ref: 795c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2026-07 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-06-24   |  Author  : Dialupdude
+UUID  : 31931d00c51447a8a625da94ce34795c
+```
+
+<a href="./archive/00649_000.jpg" target="_blank">
+	<img src="./lowres/00649_000.jpg" alt="Kodak Gold 200 35mm film box outside" loading="lazy" width="417" height="500">
+</a>
+
 #### [35mm] Kodak Gold 200 (ref: 7d4b)
 
 ```
@@ -9418,6 +9439,34 @@ UUID  : e65b4252384141028ee037892c6bf4cf
 
 <a href="./archive/00106_001.jpg" target="_blank">
 	<img src="./lowres/00106_001.jpg" alt="Kodak Technical Pan 35mm film box inside" loading="lazy" width="315" height="500">
+</a>
+
+#### [35mm] Kodak Tri-X (ref: d9af)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 200          |  Expiry  : 1957-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Dialupdude
+UUID  : 4064ecb41a56469a8c8aebb32e7dd9af
+```
+
+<a href="./archive/00647_000.jpg" target="_blank">
+	<img src="./lowres/00647_000.jpg" alt="Kodak Tri-X 35mm film box outside" loading="lazy" width="423" height="500">
+</a>
+
+
+`UUID: bbfaaca0d3814a6eab600f2808631887`↓
+
+<a href="./archive/00647_001.jpg" target="_blank">
+	<img src="./lowres/00647_001.jpg" alt="Kodak Tri-X 35mm film box leaflet" loading="lazy" width="370" height="500">
+</a>
+
+
+`UUID: 115a438eac9b45be97a18b95330a1376`↓
+
+<a href="./archive/00647_002.jpg" target="_blank">
+	<img src="./lowres/00647_002.jpg" alt="Kodak Tri-X 35mm film box leaflet" loading="lazy" width="370" height="500">
 </a>
 
 #### [35mm] Kodak Tri-X 400 (ref: 7145)
@@ -11998,6 +12047,118 @@ UUID  : e7ff421fe76940efb7c727d4ffa6a05d
 	<img src="./lowres/00567_011.jpg" alt="ORWO OrwoColor UT13 8mm film box processing envelope" loading="lazy" width="500" height="218">
 </a>
 
+#### [8mm] ORWO UK 17 (ref: 19a0)
+
+```
+Format: 8mm          |  Process : Unknown 
+ISO   : 40           |  Expiry  : 1989-05 
+Type  : Single Pack  |  Quantity: 7.5m    
+Added : 2026-06-24   |  Author  : Luci 101
+UUID  : cba0bd2a5ffd43c38164a5e9a2f719a0
+```
+
+<a href="./archive/00644_000.jpg" target="_blank">
+	<img src="./lowres/00644_000.jpg" alt="ORWO UK 17 8mm film box outside" loading="lazy" width="500" height="496">
+</a>
+
+
+`UUID: deb198cc152945e6bbae1b7744b025e1`↓
+
+<a href="./archive/00644_001.jpg" target="_blank">
+	<img src="./lowres/00644_001.jpg" alt="ORWO UK 17 8mm film box outside" loading="lazy" width="500" height="218">
+</a>
+
+
+`UUID: 6b199b64e4254322be23a8f8fa6c0431`↓
+
+<a href="./archive/00644_002.jpg" target="_blank">
+	<img src="./lowres/00644_002.jpg" alt="ORWO UK 17 8mm film box outside" loading="lazy" width="500" height="227">
+</a>
+
+
+`UUID: d2e91c708e4b4238a14592852d6efddf`↓
+
+<a href="./archive/00644_003.jpg" target="_blank">
+	<img src="./lowres/00644_003.jpg" alt="ORWO UK 17 8mm film box outside" loading="lazy" width="500" height="221">
+</a>
+
+
+`UUID: f013eceab9d04aadaf18c831d872c365`↓
+
+<a href="./archive/00644_004.jpg" target="_blank">
+	<img src="./lowres/00644_004.jpg" alt="ORWO UK 17 8mm film box processing envelope" loading="lazy" width="500" height="203">
+</a>
+
+
+`UUID: f6f02f751669490c950960c0320f9166`↓
+
+<a href="./archive/00644_005.jpg" target="_blank">
+	<img src="./lowres/00644_005.jpg" alt="ORWO UK 17 8mm film box processing envelope" loading="lazy" width="500" height="203">
+</a>
+
+
+`UUID: 5a476f294a8248f4b9b7b30c8eea9de9`↓
+
+<a href="./archive/00644_006.jpg" target="_blank">
+	<img src="./lowres/00644_006.jpg" alt="ORWO UK 17 8mm film box leaflet" loading="lazy" width="192" height="500">
+</a>
+
+
+`UUID: 48fccd412b844d60b070182826cdaeb8`↓
+
+<a href="./archive/00644_007.jpg" target="_blank">
+	<img src="./lowres/00644_007.jpg" alt="ORWO UK 17 8mm film box leaflet" loading="lazy" width="192" height="500">
+</a>
+
+#### [8mm] ORWO UP 27 DS 8 (ref: 4d5a)
+
+```
+Format: 8mm          |  Process : Unknown 
+ISO   : 400          |  Expiry  : 1983-11 
+Type  : Single Pack  |  Quantity: 10m     
+Added : 2026-06-24   |  Author  : Luci 101
+UUID  : b009e5b8edc4410da0efdcc563624d5a
+```
+
+<a href="./archive/00645_000.jpg" target="_blank">
+	<img src="./lowres/00645_000.jpg" alt="ORWO UP 27 DS 8 8mm film box outside" loading="lazy" width="493" height="500">
+</a>
+
+
+`UUID: 83c559fc31a54302abdca7e453c2c199`↓
+
+<a href="./archive/00645_001.jpg" target="_blank">
+	<img src="./lowres/00645_001.jpg" alt="ORWO UP 27 DS 8 8mm film box outside" loading="lazy" width="500" height="215">
+</a>
+
+
+`UUID: 12b9144a733040cd98b4bc777edb8ada`↓
+
+<a href="./archive/00645_002.jpg" target="_blank">
+	<img src="./lowres/00645_002.jpg" alt="ORWO UP 27 DS 8 8mm film box outside" loading="lazy" width="500" height="221">
+</a>
+
+
+`UUID: 7159606d395544acaf3c2165bff483bb`↓
+
+<a href="./archive/00645_003.jpg" target="_blank">
+	<img src="./lowres/00645_003.jpg" alt="ORWO UP 27 DS 8 8mm film box outside" loading="lazy" width="500" height="220">
+</a>
+
+
+`UUID: cd691432ee7647dc957113b53761fc22`↓
+
+<a href="./archive/00645_004.jpg" target="_blank">
+	<img src="./lowres/00645_004.jpg" alt="ORWO UP 27 DS 8 8mm film box leaflet" loading="lazy" width="187" height="500">
+</a>
+
+
+`UUID: 40a58b7e988545bf92632d63444d5882`↓
+
+<a href="./archive/00645_005.jpg" target="_blank">
+	<img src="./lowres/00645_005.jpg" alt="ORWO UP 27 DS 8 8mm film box leaflet" loading="lazy" width="187" height="500">
+</a>
+
 #### [8x11mm] Minox MinoColor 100 Pro (ref: 5338)
 
 ```
@@ -12209,6 +12370,27 @@ UUID  : b220e7d5dbee49898fbd1d42ee67c90d
 	<img src="./lowres/00096_000.jpg" alt="Perutz Superomnia 9x12cm film box outside" loading="lazy" width="500" height="367">
 </a>
 
+#### [APS] Fujifilm Nexia A200 (ref: 43c0)
+
+```
+Format: APS          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2011-12 
+Type  : Single Pack  |  Quantity: 25exp   
+Added : 2026-06-24   |  Author  : Dialupdude
+UUID  : 711fdcd259474949990498f964f443c0
+```
+
+<a href="./archive/00648_000.jpg" target="_blank">
+	<img src="./lowres/00648_000.jpg" alt="Fujifilm Nexia A200 APS film box outside" loading="lazy" width="500" height="391">
+</a>
+
+
+`UUID: 3325f0ecfe9547a784fe0995fa87786d`↓
+
+<a href="./archive/00648_001.jpg" target="_blank">
+	<img src="./lowres/00648_001.jpg" alt="Fujifilm Nexia A200 APS film box inside" loading="lazy" width="391" height="500">
+</a>
+
 #### [APS] Jessops Diamond Everyday (ref: 67d3)
 
 ```
@@ -12312,6 +12494,27 @@ UUID  : 7f9897837fc645f5bbe5c6c18bb84ccd
 
 <a href="./archive/00594_000.jpg" target="_blank">
 	<img src="./lowres/00594_000.jpg" alt="Kodak Kodacolor Gold Disc Film film box outside" loading="lazy" width="403" height="500">
+</a>
+
+#### [Disposable Camera] Fujifilm Simple Ace (ref: 17e6)
+
+```
+Format: Disposable Camera|  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-03 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-06-24   |  Author  : Dialupdude
+UUID  : f2fbd963d7e0416398b986f9fe3e17e6
+```
+
+<a href="./archive/00646_000.jpg" target="_blank">
+	<img src="./lowres/00646_000.jpg" alt="Fujifilm Simple Ace Disposable Camera film box outside" loading="lazy" width="500" height="500">
+</a>
+
+
+`UUID: 2cf26c089ea24fea95775f5be9229114`↓
+
+<a href="./archive/00646_001.jpg" target="_blank">
+	<img src="./lowres/00646_001.jpg" alt="Fujifilm Simple Ace Disposable Camera film box outside" loading="lazy" width="500" height="189">
 </a>
 
 #### [Instant Integral Film] Fujifilm Instax Mini (ref: e5e7)
@@ -13317,6 +13520,20 @@ UUID  : 6032680a3aba41b39c600d7e23998f62
 	<img src="./lowres/00154_004.jpg" alt="Kodak Ektachrome 160 Movie Film Type A Super 8 film box processing envelope" loading="lazy" width="500" height="191">
 </a>
 
+#### [Super 8] Kodak Kodachrome 40 (ref: 2a3e)
+
+```
+Format: Super 8      |  Process : K-14    
+ISO   : 40           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2026-06-24   |  Author  : Dialupdude
+UUID  : 1d9c43a04f37409ab0699ff47af92a3e
+```
+
+<a href="./archive/00650_000.jpg" target="_blank">
+	<img src="./lowres/00650_000.jpg" alt="Kodak Kodachrome 40 Super 8 film box outside" loading="lazy" width="500" height="500">
+</a>
+
 #### [Super 8] Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping (ref: c143)
 
 ```
@@ -13419,7 +13636,7 @@ Notes : There was a roll of 127 ekfe R100 inside, not sure if it's the original,
 Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     339   
-2     Luci 101                      80    
+2     Luci 101                      94    
 3     @photos.by.qi                 72    
 4     Pelicram                      69    
 5     @ellafridalindblom            67    
@@ -13432,18 +13649,18 @@ Rank  Username                      Contributions
 12    fine-seat                     19    
 13    Camera.Riley                  19    
 14    kaimon                        19    
-15    Nano_Burger                   18    
-16    toader                        17    
-17    waldoboro                     16    
-18    yc128                         14    
-19    b0baspace                     14    
-20    @SirBrentsworth               13    
-21    benikum                       12    
-22    u/ReeeSchmidtyWerber          11    
-23    Chrisbes                      11    
-24    @zruk_ts                      10    
-25    minidiscus                    10    
-26    Dialupdude                    10    
+15    Dialupdude                    19    
+16    Nano_Burger                   18    
+17    toader                        17    
+18    waldoboro                     16    
+19    yc128                         14    
+20    b0baspace                     14    
+21    @SirBrentsworth               13    
+22    benikum                       12    
+23    u/ReeeSchmidtyWerber          11    
+24    Chrisbes                      11    
+25    @zruk_ts                      10    
+26    minidiscus                    10    
 27    lilyu.xyz                     9     
 28    lt_col_tall                   9     
 29    @toastergod101                7     

@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Jun 24 2026
-Unique items: 639
-Total scans : 1178
+Unique items: 646
+Total scans : 1201
 ```
 
 Or Sort by...
@@ -54,7 +54,7 @@ Or Sort by...
 Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     339   
-2     Luci 101                      80    
+2     Luci 101                      94    
 3     @photos.by.qi                 72    
 4     Pelicram                      69    
 5     @ellafridalindblom            67    
@@ -67,18 +67,18 @@ Rank  Username                      Contributions
 12    fine-seat                     19    
 13    Camera.Riley                  19    
 14    kaimon                        19    
-15    Nano_Burger                   18    
-16    toader                        17    
-17    waldoboro                     16    
-18    yc128                         14    
-19    b0baspace                     14    
-20    @SirBrentsworth               13    
-21    benikum                       12    
-22    u/ReeeSchmidtyWerber          11    
-23    Chrisbes                      11    
-24    @zruk_ts                      10    
-25    minidiscus                    10    
-26    Dialupdude                    10    
+15    Dialupdude                    19    
+16    Nano_Burger                   18    
+17    toader                        17    
+18    waldoboro                     16    
+19    yc128                         14    
+20    b0baspace                     14    
+21    @SirBrentsworth               13    
+22    benikum                       12    
+23    u/ReeeSchmidtyWerber          11    
+24    Chrisbes                      11    
+25    @zruk_ts                      10    
+26    minidiscus                    10    
 27    lilyu.xyz                     9     
 28    lt_col_tall                   9     
 29    @toastergod101                7     
@@ -108,6 +108,13 @@ Rank  Username                      Contributions
 
 ```
 2026-06-24
+  - Dialupdude: Fujifilm Nexia A200
+  - Dialupdude: Fujifilm Simple Ace
+  - Dialupdude: Kodak Gold 200
+  - Dialupdude: Kodak Kodachrome 40
+  - Dialupdude: Kodak Tri-X
+  - Luci 101: ORWO UK 17
+  - Luci 101: ORWO UP 27 DS 8
   - Mauphoto: Agfa CT Precisa
   - Mauphoto: Agfa Vista Spider-Pack
   - Mauphoto: Foma Fomapan Classic 100

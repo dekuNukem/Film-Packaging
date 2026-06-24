@@ -1177,3 +1177,26 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 642,1,film_box_inside,Perutz,CR 100,25,100,E-6,200603,1782295197,dd72b155ef5037ae81b811072f6fcf3c,87e07caa491d425390bf58ed01117d2b,00642_001.jpg,Mauphoto,,Single Pack,36exp
 643,0,film_box_outside,Polaroid,High Definition,25,100,C-41,200603,1782295266,77e5ecb631c71dc67b22a119814ad2d8,f55d7221fceb4391b83cac2360c5ac7c,00643_000.jpg,Mauphoto,,Single Pack,24exp
 643,1,film_box_inside,Polaroid,High Definition,25,100,C-41,200603,1782295267,7ff4195097ea4e7bc4b32badc2cf1f49,666ac89d17504a12b4a11a3ebcc3b460,00643_001.jpg,Mauphoto,,Single Pack,24exp
+644,0,film_box_outside,ORWO,UK 17,8mm,40,Unknown,198905,1782295972,025e0311787845f6f27ac4629b53c5d3,cba0bd2a5ffd43c38164a5e9a2f719a0,00644_000.jpg,Luci 101,,Single Pack,7.5m
+644,1,film_box_outside,ORWO,UK 17,8mm,40,Unknown,198905,1782295974,561df3f7be275192abdca146b64f2572,deb198cc152945e6bbae1b7744b025e1,00644_001.jpg,Luci 101,,Single Pack,7.5m
+644,2,film_box_outside,ORWO,UK 17,8mm,40,Unknown,198905,1782295977,a978cbe6637f435fe30d94bf5323e13b,6b199b64e4254322be23a8f8fa6c0431,00644_002.jpg,Luci 101,,Single Pack,7.5m
+644,3,film_box_outside,ORWO,UK 17,8mm,40,Unknown,198905,1782295979,df5bc92f703b4083cfda6be8628359b5,d2e91c708e4b4238a14592852d6efddf,00644_003.jpg,Luci 101,,Single Pack,7.5m
+644,4,film_box_processing_envelope,ORWO,UK 17,8mm,40,Unknown,198905,1782295990,b3129e18d3778a9f00711e478d923187,f013eceab9d04aadaf18c831d872c365,00644_004.jpg,Luci 101,,Single Pack,7.5m
+644,5,film_box_processing_envelope,ORWO,UK 17,8mm,40,Unknown,198905,1782295996,b2c6a3ee5ec8c9b653231d3d283ccf6b,f6f02f751669490c950960c0320f9166,00644_005.jpg,Luci 101,,Single Pack,7.5m
+644,6,film_box_leaflet,ORWO,UK 17,8mm,40,Unknown,198905,1782296001,c22e76387eee07b25756f63ea2c925bf,5a476f294a8248f4b9b7b30c8eea9de9,00644_006.jpg,Luci 101,,Single Pack,7.5m
+644,7,film_box_leaflet,ORWO,UK 17,8mm,40,Unknown,198905,1782296011,a4c8d853a257ccb4e33480ba6a7c057e,48fccd412b844d60b070182826cdaeb8,00644_007.jpg,Luci 101,,Single Pack,7.5m
+645,0,film_box_outside,ORWO,UP 27 DS 8,8mm,400,Unknown,198311,1782299914,c905cbeaff9afa9fe3766330733c7df9,b009e5b8edc4410da0efdcc563624d5a,00645_000.jpg,Luci 101,,Single Pack,10m
+645,1,film_box_outside,ORWO,UP 27 DS 8,8mm,400,Unknown,198311,1782299921,bccb689b92de28997f84d027b967b228,83c559fc31a54302abdca7e453c2c199,00645_001.jpg,Luci 101,,Single Pack,10m
+645,2,film_box_outside,ORWO,UP 27 DS 8,8mm,400,Unknown,198311,1782299923,4d90b45e8a92fb47ef5ffa900a58cb70,12b9144a733040cd98b4bc777edb8ada,00645_002.jpg,Luci 101,,Single Pack,10m
+645,3,film_box_outside,ORWO,UP 27 DS 8,8mm,400,Unknown,198311,1782299925,6b7100fe3dd4b7e36857d9bfaf2e8cc8,7159606d395544acaf3c2165bff483bb,00645_003.jpg,Luci 101,,Single Pack,10m
+645,4,film_box_leaflet,ORWO,UP 27 DS 8,8mm,400,Unknown,198311,1782299930,ec31e60038c4fe22b57f18e6afdc43c2,cd691432ee7647dc957113b53761fc22,00645_004.jpg,Luci 101,,Single Pack,10m
+645,5,film_box_leaflet,ORWO,UP 27 DS 8,8mm,400,Unknown,198311,1782299932,369eaa5f4e02ee8a8f866234f41a32c5,40a58b7e988545bf92632d63444d5882,00645_005.jpg,Luci 101,,Single Pack,10m
+646,0,film_box_outside,Fujifilm,Simple Ace,Disposable Camera,400,C-41,202703,1782300252,374d042c47c50b1bf6bce1f9ca87980b,f2fbd963d7e0416398b986f9fe3e17e6,00646_000.jpg,Dialupdude,,Single Pack,27exp
+646,1,film_box_outside,Fujifilm,Simple Ace,Disposable Camera,400,C-41,202703,1782300257,209107b2d7c3501cbd6c738f45de77f1,2cf26c089ea24fea95775f5be9229114,00646_001.jpg,Dialupdude,,Single Pack,27exp
+647,0,film_box_outside,Kodak,Tri-X,35mm,200,BW,195710,1782300399,e7f6b63dfa8126797aa152d50e0258c2,4064ecb41a56469a8c8aebb32e7dd9af,00647_000.jpg,Dialupdude,,Single Pack,36exp
+647,1,film_box_leaflet,Kodak,Tri-X,35mm,200,BW,195710,1782300401,cc8490aedce8e2a2211445be1befc4e7,bbfaaca0d3814a6eab600f2808631887,00647_001.jpg,Dialupdude,,Single Pack,36exp
+647,2,film_box_leaflet,Kodak,Tri-X,35mm,200,BW,195710,1782300404,883497e91e6e4f0314b6f6ea649a6c33,115a438eac9b45be97a18b95330a1376,00647_002.jpg,Dialupdude,,Single Pack,36exp
+648,0,film_box_outside,Fujifilm,Nexia A200,APS,200,C-41,201112,1782300509,60e484e3d3022a0c5a14abcb1de72c8e,711fdcd259474949990498f964f443c0,00648_000.jpg,Dialupdude,,Single Pack,25exp
+648,1,film_box_inside,Fujifilm,Nexia A200,APS,200,C-41,201112,1782300512,78a5ce25d3b5f650eb14cf43d33ee080,3325f0ecfe9547a784fe0995fa87786d,00648_001.jpg,Dialupdude,,Single Pack,25exp
+649,0,film_box_outside,Kodak,Gold 200,35mm,200,C-41,202607,1782300546,51baf1d45726d4313261d8792732b54d,31931d00c51447a8a625da94ce34795c,00649_000.jpg,Dialupdude,,Single Pack,24exp
+650,0,film_box_outside,Kodak,Kodachrome 40,Super 8,40,K-14,Unknown,1782300612,5132af26f17ff379e30f0ed50f8bc383,1d9c43a04f37409ab0699ff47af92a3e,00650_000.jpg,Dialupdude,,Single Pack,Unknown
