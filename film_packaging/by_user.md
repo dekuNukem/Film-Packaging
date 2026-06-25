@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 24 2026
-Unique items: 646
-Total scans : 1201
+Last Updated: Jun 25 2026
+Unique items: 651
+Total scans : 1211
 ```
 
 -----
@@ -43,6 +43,7 @@ Total scans : 1201
 - [[@Hol.m35] Kodak Gold 200 (ref: 442d)](#holm35-kodak-gold-200-ref-442d)
 - [[@Hol.m35] Lomography Berlin (ref: 246a)](#holm35-lomography-berlin-ref-246a)
 - [[@Hol.m35] Lomography Berlin (ref: d3df)](#holm35-lomography-berlin-ref-d3df)
+- [[@Hol.m35] Lomography Color Negative 120 Film 100 (ref: 42fc)](#holm35-lomography-color-negative-120-film-100-ref-42fc)
 - [[@Hol.m35] Lomography Color Negative 800 (ref: 7796)](#holm35-lomography-color-negative-800-ref-7796)
 - [[@Hol.m35] Lomography Color Negative Film (ref: d986)](#holm35-lomography-color-negative-film-ref-d986)
 - [[@Hol.m35] Lomography Postdam (ref: 2769)](#holm35-lomography-postdam-ref-2769)
@@ -260,13 +261,17 @@ Total scans : 1201
 - [[Chrisbes] Reflx Lab 640T AHU (ref: 2ce9)](#chrisbes-reflx-lab-640t-ahu-ref-2ce9)
 - [[Chrisbes] Reflx Lab 800T (ref: 6b6b)](#chrisbes-reflx-lab-800t-ref-6b6b)
 - [[Dialupdude] 1Shot Color Print Film (ref: 8cf0)](#dialupdude-1shot-color-print-film-ref-8cf0)
+- [[Dialupdude] Fujifilm 400 Speed Film (ref: 7f19)](#dialupdude-fujifilm-400-speed-film-ref-7f19)
 - [[Dialupdude] Fujifilm Nexia A200 (ref: 43c0)](#dialupdude-fujifilm-nexia-a200-ref-43c0)
 - [[Dialupdude] Fujifilm Simple Ace (ref: 17e6)](#dialupdude-fujifilm-simple-ace-ref-17e6)
 - [[Dialupdude] Kodak Gold 200 (ref: 795c)](#dialupdude-kodak-gold-200-ref-795c)
+- [[Dialupdude] Kodak Gold III (ref: cd39)](#dialupdude-kodak-gold-iii-ref-cd39)
 - [[Dialupdude] Kodak Kodachrome 40 (ref: 2a3e)](#dialupdude-kodak-kodachrome-40-ref-2a3e)
 - [[Dialupdude] Kodak Sport Single Use Camera (ref: 4618)](#dialupdude-kodak-sport-single-use-camera-ref-4618)
 - [[Dialupdude] Kodak Tri-X (ref: d9af)](#dialupdude-kodak-tri-x-ref-d9af)
+- [[Dialupdude] Konica VX 100 Super (ref: 90b4)](#dialupdude-konica-vx-100-super-ref-90b4)
 - [[Dialupdude] Lucky C200 (ref: f727)](#dialupdude-lucky-c200-ref-f727)
+- [[Dialupdude] Mira Films 800 Color Film (ref: 32e1)](#dialupdude-mira-films-800-color-film-ref-32e1)
 - [[Dialupdude] Polaroid B&W i-Type Film (ref: 963a)](#dialupdude-polaroid-b-w-i-type-film-ref-963a)
 - [[Dialupdude] Polaroid Color i-Type Film (ref: 47a7)](#dialupdude-polaroid-color-i-type-film-ref-47a7)
 - [[Dialupdude] Polaroid Color i-Type Film (ref: 32e9)](#dialupdude-polaroid-color-i-type-film-ref-32e9)
@@ -1041,6 +1046,27 @@ UUID  : f9c71bea8e0942ceab31c4f97ea6d3df
 
 <a href="./archive/00549_001.jpg" target="_blank">
 	<img src="./lowres/00549_001.jpg" alt="Lomography Berlin 35mm film box outside" loading="lazy" width="500" height="363">
+</a>
+
+#### [@Hol.m35] Lomography Color Negative 120 Film 100 (ref: 42fc)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 100          |  Expiry  : 2025-06 
+Type  : Multi-Pack-3 |  Quantity: N/A     
+Added : 2026-06-25   |  Author  : @Hol.m35
+UUID  : 13977400bfd24db0bde214b6c6a342fc
+```
+
+<a href="./archive/00654_000.jpg" target="_blank">
+	<img src="./lowres/00654_000.jpg" alt="Lomography Color Negative 120 Film 100 120 film box outside" loading="lazy" width="500" height="363">
+</a>
+
+
+`UUID: 6c0182aec6d945dd83da3c1714d68856`↓
+
+<a href="./archive/00654_001.jpg" target="_blank">
+	<img src="./lowres/00654_001.jpg" alt="Lomography Color Negative 120 Film 100 120 film box outside" loading="lazy" width="500" height="363">
 </a>
 
 #### [@Hol.m35] Lomography Color Negative 800 (ref: 7796)
@@ -4906,6 +4932,20 @@ UUID  : 7e2a1df614294a7680f4b9478c578cf0
 	<img src="./lowres/00561_000.jpg" alt="1Shot Color Print Film 35mm film box outside" loading="lazy" width="481" height="500">
 </a>
 
+#### [Dialupdude] Fujifilm 400 Speed Film (ref: 7f19)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-25   |  Author  : Dialupdude
+UUID  : fbe4ce2683e744b1b2ffae6b1c767f19
+```
+
+<a href="./archive/00651_000.jpg" target="_blank">
+	<img src="./lowres/00651_000.jpg" alt="Fujifilm 400 Speed Film 35mm film box outside" loading="lazy" width="415" height="500">
+</a>
+
 #### [Dialupdude] Fujifilm Nexia A200 (ref: 43c0)
 
 ```
@@ -4960,6 +5000,41 @@ UUID  : 31931d00c51447a8a625da94ce34795c
 
 <a href="./archive/00649_000.jpg" target="_blank">
 	<img src="./lowres/00649_000.jpg" alt="Kodak Gold 200 35mm film box outside" loading="lazy" width="417" height="500">
+</a>
+
+#### [Dialupdude] Kodak Gold III (ref: cd39)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1998-10 
+Type  : Multi-Pack-3 |  Quantity: 30exp   
+Added : 2026-06-25   |  Author  : Dialupdude
+UUID  : f7c1098f0fe74126bf9cef9c261bcd39
+```
+
+<a href="./archive/00655_000.jpg" target="_blank">
+	<img src="./lowres/00655_000.jpg" alt="Kodak Gold III 35mm film box outside" loading="lazy" width="319" height="500">
+</a>
+
+
+`UUID: b13207a08b84442e941d7f514281bf7b`↓
+
+<a href="./archive/00655_001.jpg" target="_blank">
+	<img src="./lowres/00655_001.jpg" alt="Kodak Gold III 35mm film box inside" loading="lazy" width="332" height="500">
+</a>
+
+
+`UUID: 249b3fd912e34d758f9548dc619e297f`↓
+
+<a href="./archive/00655_002.jpg" target="_blank">
+	<img src="./lowres/00655_002.jpg" alt="Kodak Gold III 35mm film box leaflet" loading="lazy" width="350" height="500">
+</a>
+
+
+`UUID: e0fc0873b5984d59871410b4488f10b8`↓
+
+<a href="./archive/00655_003.jpg" target="_blank">
+	<img src="./lowres/00655_003.jpg" alt="Kodak Gold III 35mm film box leaflet" loading="lazy" width="351" height="500">
 </a>
 
 #### [Dialupdude] Kodak Kodachrome 40 (ref: 2a3e)
@@ -5018,6 +5093,27 @@ UUID  : 4064ecb41a56469a8c8aebb32e7dd9af
 	<img src="./lowres/00647_002.jpg" alt="Kodak Tri-X 35mm film box leaflet" loading="lazy" width="370" height="500">
 </a>
 
+#### [Dialupdude] Konica VX 100 Super (ref: 90b4)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2005-11 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-06-25   |  Author  : Dialupdude
+UUID  : 39efe40e04c44643850d8442b4c490b4
+```
+
+<a href="./archive/00652_000.jpg" target="_blank">
+	<img src="./lowres/00652_000.jpg" alt="Konica VX 100 Super 35mm film box outside" loading="lazy" width="253" height="500">
+</a>
+
+
+`UUID: 4c99e38ae90f43e8baa4e0cd9b0a313b`↓
+
+<a href="./archive/00652_001.jpg" target="_blank">
+	<img src="./lowres/00652_001.jpg" alt="Konica VX 100 Super 35mm film box inside" loading="lazy" width="250" height="500">
+</a>
+
 #### [Dialupdude] Lucky C200 (ref: f727)
 
 ```
@@ -5037,6 +5133,20 @@ UUID  : 698e4d8dc2ef4a5d8ea7c8d0e0d9f727
 
 <a href="./archive/00560_001.jpg" target="_blank">
 	<img src="./lowres/00560_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="500" height="489">
+</a>
+
+#### [Dialupdude] Mira Films 800 Color Film (ref: 32e1)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2027-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-25   |  Author  : Dialupdude
+UUID  : 89552dfaf57742d8b1aed15a511832e1
+```
+
+<a href="./archive/00653_000.jpg" target="_blank">
+	<img src="./lowres/00653_000.jpg" alt="Mira Films 800 Color Film 35mm film box outside" loading="lazy" width="493" height="500">
 </a>
 
 #### [Dialupdude] Polaroid B&W i-Type Film (ref: 963a)
@@ -6386,7 +6496,7 @@ UUID  : 2510bd0dd10940e0888b722ec00de0a7
 #### [Mauphoto] Perutz CR 100 (ref: b5df)
 
 ```
-Format: 25           |  Process : E-6     
+Format: 35mm         |  Process : E-6     
 ISO   : 100          |  Expiry  : 2006-03 
 Type  : Single Pack  |  Quantity: 36exp   
 Added : 2026-06-24   |  Author  : Mauphoto
@@ -6394,14 +6504,14 @@ UUID  : 8952a19caaea4975a38cd877ca5ab5df
 ```
 
 <a href="./archive/00642_000.jpg" target="_blank">
-	<img src="./lowres/00642_000.jpg" alt="Perutz CR 100 25 film box outside" loading="lazy" width="402" height="499">
+	<img src="./lowres/00642_000.jpg" alt="Perutz CR 100 35mm film box outside" loading="lazy" width="402" height="499">
 </a>
 
 
 `UUID: 87e07caa491d425390bf58ed01117d2b`↓
 
 <a href="./archive/00642_001.jpg" target="_blank">
-	<img src="./lowres/00642_001.jpg" alt="Perutz CR 100 25 film box inside" loading="lazy" width="375" height="500">
+	<img src="./lowres/00642_001.jpg" alt="Perutz CR 100 35mm film box inside" loading="lazy" width="375" height="500">
 </a>
 
 #### [Mauphoto] Polaroid High Definition (ref: ac7c)
@@ -13641,15 +13751,15 @@ Rank  Username                      Contributions
 4     Pelicram                      69    
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
-7     @Hol.m35                      60    
+7     @Hol.m35                      62    
 8     nyctomanica                   53    
 9     Mauphoto                      28    
-10    The Compartmentalist          25    
-11    @ob.skura                     19    
-12    fine-seat                     19    
-13    Camera.Riley                  19    
-14    kaimon                        19    
-15    Dialupdude                    19    
+10    Dialupdude                    27    
+11    The Compartmentalist          25    
+12    @ob.skura                     19    
+13    fine-seat                     19    
+14    Camera.Riley                  19    
+15    kaimon                        19    
 16    Nano_Burger                   18    
 17    toader                        17    
 18    waldoboro                     16    

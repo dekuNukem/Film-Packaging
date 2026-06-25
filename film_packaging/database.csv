@@ -1173,8 +1173,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 640,1,film_box_inside,Konica Minolta,Centuria 100,35mm,100,E-6,200802,1782294897,917e2cfcc190a80361b749b198c5cc16,cd9c544f57314e79b7c1cbc0cc74bedc,00640_001.jpg,Mauphoto,,Single Pack,36exp
 641,0,film_box_outside,Lucky,Super New 200,35mm,200,C-41,201301,1782295134,97b7236aaf08f2ead265c20495105986,2510bd0dd10940e0888b722ec00de0a7,00641_000.jpg,Mauphoto,,Single Pack,36exp
 641,1,film_box_inside,Lucky,Super New 200,35mm,200,C-41,201301,1782295135,93f9c1cb055951a87563c57868a5894b,7da671d2345d450b88824b0bbb584b81,00641_001.jpg,Mauphoto,,Single Pack,36exp
-642,0,film_box_outside,Perutz,CR 100,25,100,E-6,200603,1782295191,21954679c222f85caec9db057144b137,8952a19caaea4975a38cd877ca5ab5df,00642_000.jpg,Mauphoto,,Single Pack,36exp
-642,1,film_box_inside,Perutz,CR 100,25,100,E-6,200603,1782295197,dd72b155ef5037ae81b811072f6fcf3c,87e07caa491d425390bf58ed01117d2b,00642_001.jpg,Mauphoto,,Single Pack,36exp
+642,0,film_box_outside,Perutz,CR 100,35mm,100,E-6,200603,1782295191,21954679c222f85caec9db057144b137,8952a19caaea4975a38cd877ca5ab5df,00642_000.jpg,Mauphoto,,Single Pack,36exp
+642,1,film_box_inside,Perutz,CR 100,35mm,100,E-6,200603,1782295197,dd72b155ef5037ae81b811072f6fcf3c,87e07caa491d425390bf58ed01117d2b,00642_001.jpg,Mauphoto,,Single Pack,36exp
 643,0,film_box_outside,Polaroid,High Definition,25,100,C-41,200603,1782295266,77e5ecb631c71dc67b22a119814ad2d8,f55d7221fceb4391b83cac2360c5ac7c,00643_000.jpg,Mauphoto,,Single Pack,24exp
 643,1,film_box_inside,Polaroid,High Definition,25,100,C-41,200603,1782295267,7ff4195097ea4e7bc4b32badc2cf1f49,666ac89d17504a12b4a11a3ebcc3b460,00643_001.jpg,Mauphoto,,Single Pack,24exp
 644,0,film_box_outside,ORWO,UK 17,8mm,40,Unknown,198905,1782295972,025e0311787845f6f27ac4629b53c5d3,cba0bd2a5ffd43c38164a5e9a2f719a0,00644_000.jpg,Luci 101,,Single Pack,7.5m
@@ -1200,3 +1200,13 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 648,1,film_box_inside,Fujifilm,Nexia A200,APS,200,C-41,201112,1782300512,78a5ce25d3b5f650eb14cf43d33ee080,3325f0ecfe9547a784fe0995fa87786d,00648_001.jpg,Dialupdude,,Single Pack,25exp
 649,0,film_box_outside,Kodak,Gold 200,35mm,200,C-41,202607,1782300546,51baf1d45726d4313261d8792732b54d,31931d00c51447a8a625da94ce34795c,00649_000.jpg,Dialupdude,,Single Pack,24exp
 650,0,film_box_outside,Kodak,Kodachrome 40,Super 8,40,K-14,Unknown,1782300612,5132af26f17ff379e30f0ed50f8bc383,1d9c43a04f37409ab0699ff47af92a3e,00650_000.jpg,Dialupdude,,Single Pack,Unknown
+651,0,film_box_outside,Fujifilm,400 Speed Film,35mm,400,C-41,202708,1782390295,26cc249739a7f1a41d91bda309fe7c7c,fbe4ce2683e744b1b2ffae6b1c767f19,00651_000.jpg,Dialupdude,,Single Pack,36exp
+652,0,film_box_outside,Konica,VX 100 Super,35mm,100,C-41,200511,1782391521,ff2200708c9da4234687737230c95ddf,39efe40e04c44643850d8442b4c490b4,00652_000.jpg,Dialupdude,,Single Pack,24exp
+652,1,film_box_inside,Konica,VX 100 Super,35mm,100,C-41,200511,1782391523,fd1ff5e1b648b33326626014d48ea0d7,4c99e38ae90f43e8baa4e0cd9b0a313b,00652_001.jpg,Dialupdude,,Single Pack,24exp
+653,0,film_box_outside,Mira Films,800 Color Film,35mm,800,C-41,202712,1782391571,b0823845cab91bf9e329c7caf10b3127,89552dfaf57742d8b1aed15a511832e1,00653_000.jpg,Dialupdude,,Single Pack,36exp
+654,0,film_box_outside,Lomography,Color Negative 120 Film 100,120,100,C-41,202506,1782391826,214b169d41d156401f0b27ba1c7dacac,13977400bfd24db0bde214b6c6a342fc,00654_000.jpg,@Hol.m35,,Multi-Pack-3,N/A
+654,1,film_box_outside,Lomography,Color Negative 120 Film 100,120,100,C-41,202506,1782391828,3fa437f00194386f1e402354ae6d27e3,6c0182aec6d945dd83da3c1714d68856,00654_001.jpg,@Hol.m35,,Multi-Pack-3,N/A
+655,0,film_box_outside,Kodak,Gold III,35mm,100,C-41,199810,1782392104,2c77147dbb630996ef9fccccdb5d6203,f7c1098f0fe74126bf9cef9c261bcd39,00655_000.jpg,Dialupdude,,Multi-Pack-3,30exp
+655,1,film_box_inside,Kodak,Gold III,35mm,100,C-41,199810,1782392109,9d963a2823ee64eb038f5b7758a32a71,b13207a08b84442e941d7f514281bf7b,00655_001.jpg,Dialupdude,,Multi-Pack-3,30exp
+655,2,film_box_leaflet,Kodak,Gold III,35mm,100,C-41,199810,1782392112,f4151629cc653cbe8ea8db3424577eab,249b3fd912e34d758f9548dc619e297f,00655_002.jpg,Dialupdude,,Multi-Pack-3,30exp
+655,3,film_box_leaflet,Kodak,Gold III,35mm,100,C-41,199810,1782392115,4a3bcc23167ed4e1472d24b0d2d15326,e0fc0873b5984d59871410b4488f10b8,00655_003.jpg,Dialupdude,,Multi-Pack-3,30exp

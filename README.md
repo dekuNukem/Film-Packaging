@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 24 2026
-Unique items: 646
-Total scans : 1201
+Last Updated: Jun 25 2026
+Unique items: 651
+Total scans : 1211
 ```
 
 Or Sort by...
@@ -59,15 +59,15 @@ Rank  Username                      Contributions
 4     Pelicram                      69    
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
-7     @Hol.m35                      60    
+7     @Hol.m35                      62    
 8     nyctomanica                   53    
 9     Mauphoto                      28    
-10    The Compartmentalist          25    
-11    @ob.skura                     19    
-12    fine-seat                     19    
-13    Camera.Riley                  19    
-14    kaimon                        19    
-15    Dialupdude                    19    
+10    Dialupdude                    27    
+11    The Compartmentalist          25    
+12    @ob.skura                     19    
+13    fine-seat                     19    
+14    Camera.Riley                  19    
+15    kaimon                        19    
 16    Nano_Burger                   18    
 17    toader                        17    
 18    waldoboro                     16    
@@ -107,6 +107,13 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2026-06-25
+  - @Hol.m35: Lomography Color Negative 120 Film 100
+  - Dialupdude: Fujifilm 400 Speed Film
+  - Dialupdude: Kodak Gold III
+  - Dialupdude: Konica VX 100 Super
+  - Dialupdude: Mira Films 800 Color Film
+
 2026-06-24
   - Dialupdude: Fujifilm Nexia A200
   - Dialupdude: Fujifilm Simple Ace
@@ -178,10 +185,6 @@ Rank  Username                      Contributions
   - nyctomanica: Polaroid 672
   - nyctomanica: Polaroid High Contrast PolaChrome
   - nyctomanica: Polaroid TZ Artistic Fade to Black
-
-2026-06-10
-  - nyctomanica: Kodak Ektachrome 160T
-  - nyctomanica: Kodak Ektachrome E200
 ```
 
 ## Disclaimer

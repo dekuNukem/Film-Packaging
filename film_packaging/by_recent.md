@@ -15,13 +15,18 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 24 2026
-Unique items: 646
-Total scans : 1201
+Last Updated: Jun 25 2026
+Unique items: 651
+Total scans : 1211
 ```
 
 -----
 
+- [[2026-06-25] Kodak Gold III (ref: cd39)](#2026-06-25-kodak-gold-iii-ref-cd39)
+- [[2026-06-25] Lomography Color Negative 120 Film 100 (ref: 42fc)](#2026-06-25-lomography-color-negative-120-film-100-ref-42fc)
+- [[2026-06-25] Mira Films 800 Color Film (ref: 32e1)](#2026-06-25-mira-films-800-color-film-ref-32e1)
+- [[2026-06-25] Konica VX 100 Super (ref: 90b4)](#2026-06-25-konica-vx-100-super-ref-90b4)
+- [[2026-06-25] Fujifilm 400 Speed Film (ref: 7f19)](#2026-06-25-fujifilm-400-speed-film-ref-7f19)
 - [[2026-06-24] Kodak Kodachrome 40 (ref: 2a3e)](#2026-06-24-kodak-kodachrome-40-ref-2a3e)
 - [[2026-06-24] Kodak Gold 200 (ref: 795c)](#2026-06-24-kodak-gold-200-ref-795c)
 - [[2026-06-24] Fujifilm Nexia A200 (ref: 43c0)](#2026-06-24-fujifilm-nexia-a200-ref-43c0)
@@ -672,6 +677,111 @@ Total scans : 1201
 
 -----
 
+
+`UUID: e0fc0873b5984d59871410b4488f10b8`↓
+
+<a href="./archive/00655_003.jpg" target="_blank">
+	<img src="./lowres/00655_003.jpg" alt="Kodak Gold III 35mm film box leaflet" loading="lazy" width="351" height="500">
+</a>
+
+
+`UUID: 249b3fd912e34d758f9548dc619e297f`↓
+
+<a href="./archive/00655_002.jpg" target="_blank">
+	<img src="./lowres/00655_002.jpg" alt="Kodak Gold III 35mm film box leaflet" loading="lazy" width="350" height="500">
+</a>
+
+
+`UUID: b13207a08b84442e941d7f514281bf7b`↓
+
+<a href="./archive/00655_001.jpg" target="_blank">
+	<img src="./lowres/00655_001.jpg" alt="Kodak Gold III 35mm film box inside" loading="lazy" width="332" height="500">
+</a>
+
+#### [2026-06-25] Kodak Gold III (ref: cd39)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1998-10 
+Type  : Multi-Pack-3 |  Quantity: 30exp   
+Added : 2026-06-25   |  Author  : Dialupdude
+UUID  : f7c1098f0fe74126bf9cef9c261bcd39
+```
+
+<a href="./archive/00655_000.jpg" target="_blank">
+	<img src="./lowres/00655_000.jpg" alt="Kodak Gold III 35mm film box outside" loading="lazy" width="319" height="500">
+</a>
+
+
+`UUID: 6c0182aec6d945dd83da3c1714d68856`↓
+
+<a href="./archive/00654_001.jpg" target="_blank">
+	<img src="./lowres/00654_001.jpg" alt="Lomography Color Negative 120 Film 100 120 film box outside" loading="lazy" width="500" height="363">
+</a>
+
+#### [2026-06-25] Lomography Color Negative 120 Film 100 (ref: 42fc)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 100          |  Expiry  : 2025-06 
+Type  : Multi-Pack-3 |  Quantity: N/A     
+Added : 2026-06-25   |  Author  : @Hol.m35
+UUID  : 13977400bfd24db0bde214b6c6a342fc
+```
+
+<a href="./archive/00654_000.jpg" target="_blank">
+	<img src="./lowres/00654_000.jpg" alt="Lomography Color Negative 120 Film 100 120 film box outside" loading="lazy" width="500" height="363">
+</a>
+
+#### [2026-06-25] Mira Films 800 Color Film (ref: 32e1)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2027-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-25   |  Author  : Dialupdude
+UUID  : 89552dfaf57742d8b1aed15a511832e1
+```
+
+<a href="./archive/00653_000.jpg" target="_blank">
+	<img src="./lowres/00653_000.jpg" alt="Mira Films 800 Color Film 35mm film box outside" loading="lazy" width="493" height="500">
+</a>
+
+
+`UUID: 4c99e38ae90f43e8baa4e0cd9b0a313b`↓
+
+<a href="./archive/00652_001.jpg" target="_blank">
+	<img src="./lowres/00652_001.jpg" alt="Konica VX 100 Super 35mm film box inside" loading="lazy" width="250" height="500">
+</a>
+
+#### [2026-06-25] Konica VX 100 Super (ref: 90b4)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2005-11 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-06-25   |  Author  : Dialupdude
+UUID  : 39efe40e04c44643850d8442b4c490b4
+```
+
+<a href="./archive/00652_000.jpg" target="_blank">
+	<img src="./lowres/00652_000.jpg" alt="Konica VX 100 Super 35mm film box outside" loading="lazy" width="253" height="500">
+</a>
+
+#### [2026-06-25] Fujifilm 400 Speed Film (ref: 7f19)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-25   |  Author  : Dialupdude
+UUID  : fbe4ce2683e744b1b2ffae6b1c767f19
+```
+
+<a href="./archive/00651_000.jpg" target="_blank">
+	<img src="./lowres/00651_000.jpg" alt="Fujifilm 400 Speed Film 35mm film box outside" loading="lazy" width="415" height="500">
+</a>
+
 #### [2026-06-24] Kodak Kodachrome 40 (ref: 2a3e)
 
 ```
@@ -907,13 +1017,13 @@ UUID  : f55d7221fceb4391b83cac2360c5ac7c
 `UUID: 87e07caa491d425390bf58ed01117d2b`↓
 
 <a href="./archive/00642_001.jpg" target="_blank">
-	<img src="./lowres/00642_001.jpg" alt="Perutz CR 100 25 film box inside" loading="lazy" width="375" height="500">
+	<img src="./lowres/00642_001.jpg" alt="Perutz CR 100 35mm film box inside" loading="lazy" width="375" height="500">
 </a>
 
 #### [2026-06-24] Perutz CR 100 (ref: b5df)
 
 ```
-Format: 25           |  Process : E-6     
+Format: 35mm         |  Process : E-6     
 ISO   : 100          |  Expiry  : 2006-03 
 Type  : Single Pack  |  Quantity: 36exp   
 Added : 2026-06-24   |  Author  : Mauphoto
@@ -921,7 +1031,7 @@ UUID  : 8952a19caaea4975a38cd877ca5ab5df
 ```
 
 <a href="./archive/00642_000.jpg" target="_blank">
-	<img src="./lowres/00642_000.jpg" alt="Perutz CR 100 25 film box outside" loading="lazy" width="402" height="499">
+	<img src="./lowres/00642_000.jpg" alt="Perutz CR 100 35mm film box outside" loading="lazy" width="402" height="499">
 </a>
 
 
@@ -13641,15 +13751,15 @@ Rank  Username                      Contributions
 4     Pelicram                      69    
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
-7     @Hol.m35                      60    
+7     @Hol.m35                      62    
 8     nyctomanica                   53    
 9     Mauphoto                      28    
-10    The Compartmentalist          25    
-11    @ob.skura                     19    
-12    fine-seat                     19    
-13    Camera.Riley                  19    
-14    kaimon                        19    
-15    Dialupdude                    19    
+10    Dialupdude                    27    
+11    The Compartmentalist          25    
+12    @ob.skura                     19    
+13    fine-seat                     19    
+14    Camera.Riley                  19    
+15    kaimon                        19    
 16    Nano_Burger                   18    
 17    toader                        17    
 18    waldoboro                     16    

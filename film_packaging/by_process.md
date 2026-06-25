@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 24 2026
-Unique items: 646
-Total scans : 1201
+Last Updated: Jun 25 2026
+Unique items: 651
+Total scans : 1211
 ```
 
 -----
@@ -285,6 +285,7 @@ Total scans : 1201
 - [[C-41] Fujifilm 200 (ref: 5b41)](#c-41-fujifilm-200-ref-5b41)
 - [[C-41] Fujifilm 400 (ref: 82be)](#c-41-fujifilm-400-ref-82be)
 - [[C-41] Fujifilm 400 (ref: 1f1d)](#c-41-fujifilm-400-ref-1f1d)
+- [[C-41] Fujifilm 400 Speed Film (ref: 7f19)](#c-41-fujifilm-400-speed-film-ref-7f19)
 - [[C-41] Fujifilm Fujichrome Sensia 100 (ref: a859)](#c-41-fujifilm-fujichrome-sensia-100-ref-a859)
 - [[C-41] Fujifilm Fujicolor 100 (ref: 013b)](#c-41-fujifilm-fujicolor-100-ref-013b)
 - [[C-41] Fujifilm Fujicolor 100 (ref: b3c9)](#c-41-fujifilm-fujicolor-100-ref-b3c9)
@@ -388,6 +389,7 @@ Total scans : 1201
 - [[C-41] Kodak Gold 200 (ref: 7d4b)](#c-41-kodak-gold-200-ref-7d4b)
 - [[C-41] Kodak Gold 200 (ref: 3e0b)](#c-41-kodak-gold-200-ref-3e0b)
 - [[C-41] Kodak Gold II (ref: 61d0)](#c-41-kodak-gold-ii-ref-61d0)
+- [[C-41] Kodak Gold III (ref: cd39)](#c-41-kodak-gold-iii-ref-cd39)
 - [[C-41] Kodak Gold Ultra 400 (ref: 1358)](#c-41-kodak-gold-ultra-400-ref-1358)
 - [[C-41] Kodak Kodacolor 100 (ref: 73e0)](#c-41-kodak-kodacolor-100-ref-73e0)
 - [[C-41] Kodak Kodacolor 200 (ref: ba30)](#c-41-kodak-kodacolor-200-ref-ba30)
@@ -434,10 +436,12 @@ Total scans : 1201
 - [[C-41] Konica KonicaColor VX 100 (ref: 8350)](#c-41-konica-konicacolor-vx-100-ref-8350)
 - [[C-41] Konica KonicaColor VX 200 (ref: fe53)](#c-41-konica-konicacolor-vx-200-ref-fe53)
 - [[C-41] Konica Sepia Professional (ref: 0b40)](#c-41-konica-sepia-professional-ref-0b40)
+- [[C-41] Konica VX 100 Super (ref: 90b4)](#c-41-konica-vx-100-super-ref-90b4)
 - [[C-41] Konica Minolta Commercial Color Film (ref: e903)](#c-41-konica-minolta-commercial-color-film-ref-e903)
 - [[C-41] Lloyds Pharmacy APS Film (ref: c7cf)](#c-41-lloyds-pharmacy-aps-film-ref-c7cf)
 - [[C-41] Lloyds Pharmacy Colour Film (ref: 074c)](#c-41-lloyds-pharmacy-colour-film-ref-074c)
 - [[C-41] Lloyds Pharmacy Colour Film (ref: 77d9)](#c-41-lloyds-pharmacy-colour-film-ref-77d9)
+- [[C-41] Lomography Color Negative 120 Film 100 (ref: 42fc)](#c-41-lomography-color-negative-120-film-100-ref-42fc)
 - [[C-41] Lomography Color Negative 800 (ref: 7796)](#c-41-lomography-color-negative-800-ref-7796)
 - [[C-41] Lomography Color Negative Film (ref: d986)](#c-41-lomography-color-negative-film-ref-d986)
 - [[C-41] Lomography Color Negative Film (ref: 1529)](#c-41-lomography-color-negative-film-ref-1529)
@@ -463,6 +467,7 @@ Total scans : 1201
 - [[C-41] Minox MinoColor 100 Pro (ref: 5338)](#c-41-minox-minocolor-100-pro-ref-5338)
 - [[C-41] Minox MinoColor 3 (ref: d209)](#c-41-minox-minocolor-3-ref-d209)
 - [[C-41] Minox Minocolor 2 (ref: fadd)](#c-41-minox-minocolor-2-ref-fadd)
+- [[C-41] Mira Films 800 Color Film (ref: 32e1)](#c-41-mira-films-800-color-film-ref-32e1)
 - [[C-41] Mr. Negative Arcade (ref: a6e5)](#c-41-mr-negative-arcade-ref-a6e5)
 - [[C-41] Nishika Color Print Film (ref: baeb)](#c-41-nishika-color-print-film-ref-baeb)
 - [[C-41] Optik Oldschool OptiColour 200 (ref: 099e)](#c-41-optik-oldschool-opticolour-200-ref-099e)
@@ -5824,6 +5829,20 @@ UUID  : 624c7d05c28a4bfb834ba537631e1f1d
 	<img src="./lowres/00586_001.jpg" alt="Fujifilm 400 35mm film box outside" loading="lazy" width="390" height="500">
 </a>
 
+#### [C-41] Fujifilm 400 Speed Film (ref: 7f19)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-25   |  Author  : Dialupdude
+UUID  : fbe4ce2683e744b1b2ffae6b1c767f19
+```
+
+<a href="./archive/00651_000.jpg" target="_blank">
+	<img src="./lowres/00651_000.jpg" alt="Fujifilm 400 Speed Film 35mm film box outside" loading="lazy" width="415" height="500">
+</a>
+
 #### [C-41] Fujifilm Fujichrome Sensia 100 (ref: a859)
 
 ```
@@ -7641,6 +7660,41 @@ UUID  : 63fd3851483d457d9fdc15b2d24461d0
 	<img src="./lowres/00253_001.jpg" alt="Kodak Gold II 35mm film box inside" loading="lazy" width="427" height="500">
 </a>
 
+#### [C-41] Kodak Gold III (ref: cd39)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1998-10 
+Type  : Multi-Pack-3 |  Quantity: 30exp   
+Added : 2026-06-25   |  Author  : Dialupdude
+UUID  : f7c1098f0fe74126bf9cef9c261bcd39
+```
+
+<a href="./archive/00655_000.jpg" target="_blank">
+	<img src="./lowres/00655_000.jpg" alt="Kodak Gold III 35mm film box outside" loading="lazy" width="319" height="500">
+</a>
+
+
+`UUID: b13207a08b84442e941d7f514281bf7b`↓
+
+<a href="./archive/00655_001.jpg" target="_blank">
+	<img src="./lowres/00655_001.jpg" alt="Kodak Gold III 35mm film box inside" loading="lazy" width="332" height="500">
+</a>
+
+
+`UUID: 249b3fd912e34d758f9548dc619e297f`↓
+
+<a href="./archive/00655_002.jpg" target="_blank">
+	<img src="./lowres/00655_002.jpg" alt="Kodak Gold III 35mm film box leaflet" loading="lazy" width="350" height="500">
+</a>
+
+
+`UUID: e0fc0873b5984d59871410b4488f10b8`↓
+
+<a href="./archive/00655_003.jpg" target="_blank">
+	<img src="./lowres/00655_003.jpg" alt="Kodak Gold III 35mm film box leaflet" loading="lazy" width="351" height="500">
+</a>
+
 #### [C-41] Kodak Gold Ultra 400 (ref: 1358)
 
 ```
@@ -8482,6 +8536,27 @@ UUID  : 83467c04e5254b4286b48e5a8e1b0b40
 	<img src="./lowres/00340_000.jpg" alt="Konica Sepia Professional 120 film box outside" loading="lazy" width="500" height="436">
 </a>
 
+#### [C-41] Konica VX 100 Super (ref: 90b4)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2005-11 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-06-25   |  Author  : Dialupdude
+UUID  : 39efe40e04c44643850d8442b4c490b4
+```
+
+<a href="./archive/00652_000.jpg" target="_blank">
+	<img src="./lowres/00652_000.jpg" alt="Konica VX 100 Super 35mm film box outside" loading="lazy" width="253" height="500">
+</a>
+
+
+`UUID: 4c99e38ae90f43e8baa4e0cd9b0a313b`↓
+
+<a href="./archive/00652_001.jpg" target="_blank">
+	<img src="./lowres/00652_001.jpg" alt="Konica VX 100 Super 35mm film box inside" loading="lazy" width="250" height="500">
+</a>
+
 #### [C-41] Konica Minolta Commercial Color Film (ref: e903)
 
 ```
@@ -8536,6 +8611,27 @@ UUID  : c58dda071d1741fda90e20b4252277d9
 
 <a href="./archive/00013_000.jpg" target="_blank">
 	<img src="./lowres/00013_000.jpg" alt="Lloyds Pharmacy Colour Film 35mm film box outside" loading="lazy" width="428" height="500">
+</a>
+
+#### [C-41] Lomography Color Negative 120 Film 100 (ref: 42fc)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 100          |  Expiry  : 2025-06 
+Type  : Multi-Pack-3 |  Quantity: N/A     
+Added : 2026-06-25   |  Author  : @Hol.m35
+UUID  : 13977400bfd24db0bde214b6c6a342fc
+```
+
+<a href="./archive/00654_000.jpg" target="_blank">
+	<img src="./lowres/00654_000.jpg" alt="Lomography Color Negative 120 Film 100 120 film box outside" loading="lazy" width="500" height="363">
+</a>
+
+
+`UUID: 6c0182aec6d945dd83da3c1714d68856`↓
+
+<a href="./archive/00654_001.jpg" target="_blank">
+	<img src="./lowres/00654_001.jpg" alt="Lomography Color Negative 120 Film 100 120 film box outside" loading="lazy" width="500" height="363">
 </a>
 
 #### [C-41] Lomography Color Negative 800 (ref: 7796)
@@ -9019,6 +9115,20 @@ UUID  : 5ee281ded82c46e5b628a58b9f10fadd
 
 <a href="./archive/00438_002.jpg" target="_blank">
 	<img src="./lowres/00438_002.jpg" alt="Minox Minocolor 2 8x11mm film box leaflet" loading="lazy" width="211" height="500">
+</a>
+
+#### [C-41] Mira Films 800 Color Film (ref: 32e1)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2027-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-25   |  Author  : Dialupdude
+UUID  : 89552dfaf57742d8b1aed15a511832e1
+```
+
+<a href="./archive/00653_000.jpg" target="_blank">
+	<img src="./lowres/00653_000.jpg" alt="Mira Films 800 Color Film 35mm film box outside" loading="lazy" width="493" height="500">
 </a>
 
 #### [C-41] Mr. Negative Arcade (ref: a6e5)
@@ -11004,7 +11114,7 @@ UUID  : ee69ebd9b18946a2b81e5369f74ff2ce
 #### [E-6] Perutz CR 100 (ref: b5df)
 
 ```
-Format: 25           |  Process : E-6     
+Format: 35mm         |  Process : E-6     
 ISO   : 100          |  Expiry  : 2006-03 
 Type  : Single Pack  |  Quantity: 36exp   
 Added : 2026-06-24   |  Author  : Mauphoto
@@ -11012,14 +11122,14 @@ UUID  : 8952a19caaea4975a38cd877ca5ab5df
 ```
 
 <a href="./archive/00642_000.jpg" target="_blank">
-	<img src="./lowres/00642_000.jpg" alt="Perutz CR 100 25 film box outside" loading="lazy" width="402" height="499">
+	<img src="./lowres/00642_000.jpg" alt="Perutz CR 100 35mm film box outside" loading="lazy" width="402" height="499">
 </a>
 
 
 `UUID: 87e07caa491d425390bf58ed01117d2b`↓
 
 <a href="./archive/00642_001.jpg" target="_blank">
-	<img src="./lowres/00642_001.jpg" alt="Perutz CR 100 25 film box inside" loading="lazy" width="375" height="500">
+	<img src="./lowres/00642_001.jpg" alt="Perutz CR 100 35mm film box inside" loading="lazy" width="375" height="500">
 </a>
 
 #### [ECN-2] Alien Film 5207/250D (ref: 8820)
@@ -13641,15 +13751,15 @@ Rank  Username                      Contributions
 4     Pelicram                      69    
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
-7     @Hol.m35                      60    
+7     @Hol.m35                      62    
 8     nyctomanica                   53    
 9     Mauphoto                      28    
-10    The Compartmentalist          25    
-11    @ob.skura                     19    
-12    fine-seat                     19    
-13    Camera.Riley                  19    
-14    kaimon                        19    
-15    Dialupdude                    19    
+10    Dialupdude                    27    
+11    The Compartmentalist          25    
+12    @ob.skura                     19    
+13    fine-seat                     19    
+14    Camera.Riley                  19    
+15    kaimon                        19    
 16    Nano_Burger                   18    
 17    toader                        17    
 18    waldoboro                     16    
