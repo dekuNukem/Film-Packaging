@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 25 2026
-Unique items: 651
-Total scans : 1211
+Last Updated: Jun 26 2026
+Unique items: 653
+Total scans : 1213
 ```
 
 Or Sort by...
@@ -56,7 +56,7 @@ Rank  Username                      Contributions
 1     dekuNukem                     339   
 2     Luci 101                      94    
 3     @photos.by.qi                 72    
-4     Pelicram                      69    
+4     Pelicram                      71    
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
 7     @Hol.m35                      62    
@@ -107,6 +107,10 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2026-06-26
+  - Pelicram: Cinemot Lisboa 1999
+  - Pelicram: Fujifilm Fujicolor QuickSnap Jeans
+
 2026-06-25
   - @Hol.m35: Lomography Color Negative 120 Film 100
   - Dialupdude: Fujifilm 400 Speed Film
@@ -164,27 +168,6 @@ Rank  Username                      Contributions
   - nyctomanica: Polaroid Land Pack Film Type 107
   - nyctomanica: Polaroid Originals B&W Spectra Film
   - nyctomanica: Polaroid Originals Color Spectra Film
-
-2026-06-16
-  - @Hol.m35: Camera Film Photo Limited Kiki Pan 320
-  - @Hol.m35: Fujifilm 400
-  - nyctomanica: Agfa Agfacolor CNS
-  - nyctomanica: Fujifilm FP-100B
-  - nyctomanica: Impossible Project PX 600 Silver Shade / First Flush
-  - nyctomanica: Impossible Project PX 680 Color Shade / First Flush
-  - nyctomanica: Impossible Project PX 70 Color Shade / First Flush
-  - nyctomanica: Kodak Ektachrome 320T
-  - nyctomanica: Kodak Ektachrome Professional Film 5018
-  - nyctomanica: Kodak Ektagraphic HC Slide Film
-  - nyctomanica: Kodak Hawkeye 2485 Surveillance Film
-  - nyctomanica: Kodak Kodachrome 64
-  - nyctomanica: Kodak Kodacolor Gold
-  - nyctomanica: Kodak Kodalith ortho film type 3
-  - nyctomanica: Polaroid 100 Blue Film
-  - nyctomanica: Polaroid 100 Sepia Film
-  - nyctomanica: Polaroid 672
-  - nyctomanica: Polaroid High Contrast PolaChrome
-  - nyctomanica: Polaroid TZ Artistic Fade to Black
 ```
 
 ## Disclaimer

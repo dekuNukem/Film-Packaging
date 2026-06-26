@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 25 2026
-Unique items: 651
-Total scans : 1211
+Last Updated: Jun 26 2026
+Unique items: 653
+Total scans : 1213
 ```
 
 -----
@@ -211,7 +211,6 @@ Total scans : 1211
 - [[220] Kodak Ektacolor Pro Gold (ref: c3f8)](#220-kodak-ektacolor-pro-gold-ref-c3f8)
 - [[220] Kodak Kodachrome 64 (ref: b007)](#220-kodak-kodachrome-64-ref-b007)
 - [[220] Reflx Lab Pro 100 (ref: 1311)](#220-reflx-lab-pro-100-ref-1311)
-- [[25] Polaroid High Definition (ref: ac7c)](#25-polaroid-high-definition-ref-ac7c)
 - [[35mm] 1Shot Color Print Film (ref: 8cf0)](#35mm-1shot-color-print-film-ref-8cf0)
 - [[35mm] A Girl Has Film Tetris 200 (ref: b309)](#35mm-a-girl-has-film-tetris-200-ref-b309)
 - [[35mm] ADOX CHS 100 II (ref: 8adf)](#35mm-adox-chs-100-ii-ref-8adf)
@@ -261,6 +260,7 @@ Total scans : 1211
 - [[35mm] CineStill 50D (ref: 3452)](#35mm-cinestill-50d-ref-3452)
 - [[35mm] CineStill 800T (ref: b3ff)](#35mm-cinestill-800t-ref-b3ff)
 - [[35mm] CineStill 800T (ref: c96e)](#35mm-cinestill-800t-ref-c96e)
+- [[35mm] Cinemot Lisboa 1999 (ref: 6a4f)](#35mm-cinemot-lisboa-1999-ref-6a4f)
 - [[35mm] Club Color Natural Color System (ref: 813a)](#35mm-club-color-natural-color-system-ref-813a)
 - [[35mm] Efiniti UXi Super 200 (ref: 471a)](#35mm-efiniti-uxi-super-200-ref-471a)
 - [[35mm] Escura EDO ukiyo-e (ref: 5faa)](#35mm-escura-edo-ukiyo-e-ref-5faa)
@@ -329,7 +329,6 @@ Total scans : 1211
 - [[35mm] Fujifilm Fujicolor Superia X-TRA (ref: 0446)](#35mm-fujifilm-fujicolor-superia-x-tra-ref-0446)
 - [[35mm] Fujifilm Fujicolor Superia X-TRA (ref: 8923)](#35mm-fujifilm-fujicolor-superia-x-tra-ref-8923)
 - [[35mm] Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)](#35mm-fujifilm-fujicolor-superia-x-tra-ref-6b8a)
-- [[35mm] Fujifilm Hi-Speed 1600 Disposable Camera (ref: 8a6f)](#35mm-fujifilm-hi-speed-1600-disposable-camera-ref-8a6f)
 - [[35mm] Fujifilm Neopan 400 (ref: c088)](#35mm-fujifilm-neopan-400-ref-c088)
 - [[35mm] Fujifilm Neopan Acros 100 II (ref: 9ea9)](#35mm-fujifilm-neopan-acros-100-ii-ref-9ea9)
 - [[35mm] Fujifilm Neopan SS Rapid (ref: 9db3)](#35mm-fujifilm-neopan-ss-rapid-ref-9db3)
@@ -535,6 +534,7 @@ Total scans : 1211
 - [[35mm] Perutz Primera (ref: cbfb)](#35mm-perutz-primera-ref-cbfb)
 - [[35mm] Photocité 400 ISO (ref: e370)](#35mm-photocité-400-iso-ref-e370)
 - [[35mm] Polaroid High Contrast PolaChrome (ref: c984)](#35mm-polaroid-high-contrast-polachrome-ref-c984)
+- [[35mm] Polaroid High Definition (ref: ac7c)](#35mm-polaroid-high-definition-ref-ac7c)
 - [[35mm] Polaroid PolaBlue 35mm (ref: df66)](#35mm-polaroid-polablue-35mm-ref-df66)
 - [[35mm] Polaroid PolaChrome 35mm (ref: 3b60)](#35mm-polaroid-polachrome-35mm-ref-3b60)
 - [[35mm] Polaroid PolaChrome 35mm (ref: b202)](#35mm-polaroid-polachrome-35mm-ref-b202)
@@ -619,6 +619,8 @@ Total scans : 1211
 - [[APS] Kodak Advantix Ultra Max (ref: 1ca2)](#aps-kodak-advantix-ultra-max-ref-1ca2)
 - [[APS] Lloyds Pharmacy APS Film (ref: c7cf)](#aps-lloyds-pharmacy-aps-film-ref-c7cf)
 - [[Disc Film] Kodak Kodacolor Gold (ref: 4ccd)](#disc-film-kodak-kodacolor-gold-ref-4ccd)
+- [[Disposable Camera] Fujifilm Fujicolor QuickSnap Jeans (ref: 081a)](#disposable-camera-fujifilm-fujicolor-quicksnap-jeans-ref-081a)
+- [[Disposable Camera] Fujifilm Hi-Speed 1600 (ref: 8a6f)](#disposable-camera-fujifilm-hi-speed-1600-ref-8a6f)
 - [[Disposable Camera] Fujifilm Simple Ace (ref: 17e6)](#disposable-camera-fujifilm-simple-ace-ref-17e6)
 - [[Instant Integral Film] Fujifilm Instax Mini (ref: e5e7)](#instant-integral-film-fujifilm-instax-mini-ref-e5e7)
 - [[Instant Integral Film] Fujifilm Instax Wide (ref: 51ce)](#instant-integral-film-fujifilm-instax-wide-ref-51ce)
@@ -4695,27 +4697,6 @@ UUID  : f7bc85a093744f3084883876ecc51311
 	<img src="./lowres/00195_000.jpg" alt="Reflx Lab Pro 100 220 film box outside" loading="lazy" width="500" height="413">
 </a>
 
-#### [25] Polaroid High Definition (ref: ac7c)
-
-```
-Format: 25           |  Process : C-41    
-ISO   : 100          |  Expiry  : 2006-03 
-Type  : Single Pack  |  Quantity: 24exp   
-Added : 2026-06-24   |  Author  : Mauphoto
-UUID  : f55d7221fceb4391b83cac2360c5ac7c
-```
-
-<a href="./archive/00643_000.jpg" target="_blank">
-	<img src="./lowres/00643_000.jpg" alt="Polaroid High Definition 25 film box outside" loading="lazy" width="411" height="500">
-</a>
-
-
-`UUID: 666ac89d17504a12b4a11a3ebcc3b460`↓
-
-<a href="./archive/00643_001.jpg" target="_blank">
-	<img src="./lowres/00643_001.jpg" alt="Polaroid High Definition 25 film box inside" loading="lazy" width="405" height="500">
-</a>
-
 #### [35mm] 1Shot Color Print Film (ref: 8cf0)
 
 ```
@@ -5680,6 +5661,20 @@ UUID  : 8b04191a9e994df4a219d5bfd9dfc96e
 
 <a href="./archive/00500_000.jpg" target="_blank">
 	<img src="./lowres/00500_000.jpg" alt="CineStill 800T 35mm film box outside" loading="lazy" width="406" height="499">
+</a>
+
+#### [35mm] Cinemot Lisboa 1999 (ref: 6a4f)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-26   |  Author  : Pelicram
+UUID  : aff79fa9e25b4654826ed6443d266a4f
+```
+
+<a href="./archive/00657_000.jpg" target="_blank">
+	<img src="./lowres/00657_000.jpg" alt="Cinemot Lisboa 1999 35mm film box outside" loading="lazy" width="500" height="437">
 </a>
 
 #### [35mm] Club Color Natural Color System (ref: 813a)
@@ -6885,27 +6880,6 @@ UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
 
 <a href="./archive/00165_000.jpg" target="_blank">
 	<img src="./lowres/00165_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box outside" loading="lazy" width="460" height="499">
-</a>
-
-#### [35mm] Fujifilm Hi-Speed 1600 Disposable Camera (ref: 8a6f)
-
-```
-Format: 35mm         |  Process : C-41    
-ISO   : 1600         |  Expiry  : 2018-06 
-Type  : Single Pack  |  Quantity: 27exp   
-Added : 2026-03-02   |  Author  : @Hol.m35
-UUID  : b25d00004e6f46699b06a4cf360f8a6f
-```
-
-<a href="./archive/00525_000.jpg" target="_blank">
-	<img src="./lowres/00525_000.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera 35mm film box outside" loading="lazy" width="438" height="500">
-</a>
-
-
-`UUID: 67bd10dd07644db88eae7a01ab789970`↓
-
-<a href="./archive/00525_001.jpg" target="_blank">
-	<img src="./lowres/00525_001.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera 35mm film box outside" loading="lazy" width="188" height="500">
 </a>
 
 #### [35mm] Fujifilm Neopan 400 (ref: c088)
@@ -10757,6 +10731,27 @@ UUID  : 65ce4d13cc6142b69fc5d1bea401c984
 	<img src="./lowres/00603_000.jpg" alt="Polaroid High Contrast PolaChrome 35mm film box outside" loading="lazy" width="218" height="500">
 </a>
 
+#### [35mm] Polaroid High Definition (ref: ac7c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2006-03 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : f55d7221fceb4391b83cac2360c5ac7c
+```
+
+<a href="./archive/00643_000.jpg" target="_blank">
+	<img src="./lowres/00643_000.jpg" alt="Polaroid High Definition 35mm film box outside" loading="lazy" width="411" height="500">
+</a>
+
+
+`UUID: 666ac89d17504a12b4a11a3ebcc3b460`↓
+
+<a href="./archive/00643_001.jpg" target="_blank">
+	<img src="./lowres/00643_001.jpg" alt="Polaroid High Definition 35mm film box inside" loading="lazy" width="405" height="500">
+</a>
+
 #### [35mm] Polaroid PolaBlue 35mm (ref: df66)
 
 ```
@@ -12606,6 +12601,41 @@ UUID  : 7f9897837fc645f5bbe5c6c18bb84ccd
 	<img src="./lowres/00594_000.jpg" alt="Kodak Kodacolor Gold Disc Film film box outside" loading="lazy" width="403" height="500">
 </a>
 
+#### [Disposable Camera] Fujifilm Fujicolor QuickSnap Jeans (ref: 081a)
+
+```
+Format: Disposable Camera|  Process : C-41    
+ISO   : 400          |  Expiry  : 2008-08 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-06-26   |  Author  : Pelicram
+UUID  : a2fd70d8c82d42aa8db0f45ced94081a
+```
+
+<a href="./archive/00656_000.jpg" target="_blank">
+	<img src="./lowres/00656_000.jpg" alt="Fujifilm Fujicolor QuickSnap Jeans Disposable Camera film box outside" loading="lazy" width="500" height="491">
+</a>
+
+#### [Disposable Camera] Fujifilm Hi-Speed 1600 (ref: 8a6f)
+
+```
+Format: Disposable Camera|  Process : C-41    
+ISO   : 1600         |  Expiry  : 2018-06 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-03-02   |  Author  : @Hol.m35
+UUID  : b25d00004e6f46699b06a4cf360f8a6f
+```
+
+<a href="./archive/00525_000.jpg" target="_blank">
+	<img src="./lowres/00525_000.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera film box outside" loading="lazy" width="438" height="500">
+</a>
+
+
+`UUID: 67bd10dd07644db88eae7a01ab789970`↓
+
+<a href="./archive/00525_001.jpg" target="_blank">
+	<img src="./lowres/00525_001.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera film box outside" loading="lazy" width="188" height="500">
+</a>
+
 #### [Disposable Camera] Fujifilm Simple Ace (ref: 17e6)
 
 ```
@@ -13748,7 +13778,7 @@ Rank  Username                      Contributions
 1     dekuNukem                     339   
 2     Luci 101                      94    
 3     @photos.by.qi                 72    
-4     Pelicram                      69    
+4     Pelicram                      71    
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
 7     @Hol.m35                      62    

@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 25 2026
-Unique items: 651
-Total scans : 1211
+Last Updated: Jun 26 2026
+Unique items: 653
+Total scans : 1213
 ```
 
 -----
@@ -34,7 +34,7 @@ Total scans : 1211
 - [[@Hol.m35] Fujifilm Fujicolor Pro 400H (ref: fb3a)](#holm35-fujifilm-fujicolor-pro-400h-ref-fb3a)
 - [[@Hol.m35] Fujifilm Fujicolor Superia Multi400 (ref: 69f7)](#holm35-fujifilm-fujicolor-superia-multi400-ref-69f7)
 - [[@Hol.m35] Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)](#holm35-fujifilm-fujicolor-superia-x-tra-ref-6b8a)
-- [[@Hol.m35] Fujifilm Hi-Speed 1600 Disposable Camera (ref: 8a6f)](#holm35-fujifilm-hi-speed-1600-disposable-camera-ref-8a6f)
+- [[@Hol.m35] Fujifilm Hi-Speed 1600 (ref: 8a6f)](#holm35-fujifilm-hi-speed-1600-ref-8a6f)
 - [[@Hol.m35] Fujifilm Superia Premium 400 (ref: ef1f)](#holm35-fujifilm-superia-premium-400-ref-ef1f)
 - [[@Hol.m35] Harman Switch Azure (ref: df9c)](#holm35-harman-switch-azure-ref-df9c)
 - [[@Hol.m35] Harman Switch Azure (ref: 31bb)](#holm35-harman-switch-azure-ref-31bb)
@@ -339,12 +339,14 @@ Total scans : 1211
 - [[Pelicram] Bergger Pancro400 (ref: ad7b)](#pelicram-bergger-pancro400-ref-ad7b)
 - [[Pelicram] Bergger Pancro400 (ref: f619)](#pelicram-bergger-pancro400-ref-f619)
 - [[Pelicram] Candido Colour Negative Film (ref: 6cd2)](#pelicram-candido-colour-negative-film-ref-6cd2)
+- [[Pelicram] Cinemot Lisboa 1999 (ref: 6a4f)](#pelicram-cinemot-lisboa-1999-ref-6a4f)
 - [[Pelicram] Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)](#pelicram-filmfabrik-köpenick-dekopan-feinkorn-ref-1bb7)
 - [[Pelicram] Foma Fomapan 200 (ref: 60ee)](#pelicram-foma-fomapan-200-ref-60ee)
 - [[Pelicram] Foma Fomapan Classic 100 (ref: 65ad)](#pelicram-foma-fomapan-classic-100-ref-65ad)
 - [[Pelicram] Foma Fomapan Classic 100 (ref: 0030)](#pelicram-foma-fomapan-classic-100-ref-0030)
 - [[Pelicram] Foma Ortho 400 (ref: 89e7)](#pelicram-foma-ortho-400-ref-89e7)
 - [[Pelicram] Foma Ortho 400 (ref: c559)](#pelicram-foma-ortho-400-ref-c559)
+- [[Pelicram] Fujifilm Fujicolor QuickSnap Jeans (ref: 081a)](#pelicram-fujifilm-fujicolor-quicksnap-jeans-ref-081a)
 - [[Pelicram] Fujifilm Fujicolor Superia (ref: d1b7)](#pelicram-fujifilm-fujicolor-superia-ref-d1b7)
 - [[Pelicram] Hazenfilm Sorolla Chrome (ref: 889f)](#pelicram-hazenfilm-sorolla-chrome-ref-889f)
 - [[Pelicram] Ilford Delta 3200 Professional (ref: 920f)](#pelicram-ilford-delta-3200-professional-ref-920f)
@@ -873,10 +875,10 @@ UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
 	<img src="./lowres/00165_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box outside" loading="lazy" width="460" height="499">
 </a>
 
-#### [@Hol.m35] Fujifilm Hi-Speed 1600 Disposable Camera (ref: 8a6f)
+#### [@Hol.m35] Fujifilm Hi-Speed 1600 (ref: 8a6f)
 
 ```
-Format: 35mm         |  Process : C-41    
+Format: Disposable Camera|  Process : C-41    
 ISO   : 1600         |  Expiry  : 2018-06 
 Type  : Single Pack  |  Quantity: 27exp   
 Added : 2026-03-02   |  Author  : @Hol.m35
@@ -884,14 +886,14 @@ UUID  : b25d00004e6f46699b06a4cf360f8a6f
 ```
 
 <a href="./archive/00525_000.jpg" target="_blank">
-	<img src="./lowres/00525_000.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera 35mm film box outside" loading="lazy" width="438" height="500">
+	<img src="./lowres/00525_000.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera film box outside" loading="lazy" width="438" height="500">
 </a>
 
 
 `UUID: 67bd10dd07644db88eae7a01ab789970`↓
 
 <a href="./archive/00525_001.jpg" target="_blank">
-	<img src="./lowres/00525_001.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera 35mm film box outside" loading="lazy" width="188" height="500">
+	<img src="./lowres/00525_001.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera film box outside" loading="lazy" width="188" height="500">
 </a>
 
 #### [@Hol.m35] Fujifilm Superia Premium 400 (ref: ef1f)
@@ -6517,7 +6519,7 @@ UUID  : 8952a19caaea4975a38cd877ca5ab5df
 #### [Mauphoto] Polaroid High Definition (ref: ac7c)
 
 ```
-Format: 25           |  Process : C-41    
+Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2006-03 
 Type  : Single Pack  |  Quantity: 24exp   
 Added : 2026-06-24   |  Author  : Mauphoto
@@ -6525,14 +6527,14 @@ UUID  : f55d7221fceb4391b83cac2360c5ac7c
 ```
 
 <a href="./archive/00643_000.jpg" target="_blank">
-	<img src="./lowres/00643_000.jpg" alt="Polaroid High Definition 25 film box outside" loading="lazy" width="411" height="500">
+	<img src="./lowres/00643_000.jpg" alt="Polaroid High Definition 35mm film box outside" loading="lazy" width="411" height="500">
 </a>
 
 
 `UUID: 666ac89d17504a12b4a11a3ebcc3b460`↓
 
 <a href="./archive/00643_001.jpg" target="_blank">
-	<img src="./lowres/00643_001.jpg" alt="Polaroid High Definition 25 film box inside" loading="lazy" width="405" height="500">
+	<img src="./lowres/00643_001.jpg" alt="Polaroid High Definition 35mm film box inside" loading="lazy" width="405" height="500">
 </a>
 
 #### [Mauphoto] Schlecker Fotoland AS Color 200 (ref: 2bf6)
@@ -6857,6 +6859,20 @@ UUID  : 89e114393f3d49808e0a572e88406cd2
 	<img src="./lowres/00493_000.jpg" alt="Candido Colour Negative Film 35mm film box outside" loading="lazy" width="435" height="500">
 </a>
 
+#### [Pelicram] Cinemot Lisboa 1999 (ref: 6a4f)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-26   |  Author  : Pelicram
+UUID  : aff79fa9e25b4654826ed6443d266a4f
+```
+
+<a href="./archive/00657_000.jpg" target="_blank">
+	<img src="./lowres/00657_000.jpg" alt="Cinemot Lisboa 1999 35mm film box outside" loading="lazy" width="500" height="437">
+</a>
+
 #### [Pelicram] Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)
 
 ```
@@ -6967,6 +6983,20 @@ UUID  : 676655ff95914769b0869d71d824c559
 
 <a href="./archive/00187_001.jpg" target="_blank">
 	<img src="./lowres/00187_001.jpg" alt="Foma Ortho 400 35mm film box inside" loading="lazy" width="441" height="500">
+</a>
+
+#### [Pelicram] Fujifilm Fujicolor QuickSnap Jeans (ref: 081a)
+
+```
+Format: Disposable Camera|  Process : C-41    
+ISO   : 400          |  Expiry  : 2008-08 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-06-26   |  Author  : Pelicram
+UUID  : a2fd70d8c82d42aa8db0f45ced94081a
+```
+
+<a href="./archive/00656_000.jpg" target="_blank">
+	<img src="./lowres/00656_000.jpg" alt="Fujifilm Fujicolor QuickSnap Jeans Disposable Camera film box outside" loading="lazy" width="500" height="491">
 </a>
 
 #### [Pelicram] Fujifilm Fujicolor Superia (ref: d1b7)
@@ -13748,7 +13778,7 @@ Rank  Username                      Contributions
 1     dekuNukem                     339   
 2     Luci 101                      94    
 3     @photos.by.qi                 72    
-4     Pelicram                      69    
+4     Pelicram                      71    
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
 7     @Hol.m35                      62    

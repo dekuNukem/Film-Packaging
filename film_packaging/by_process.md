@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 25 2026
-Unique items: 651
-Total scans : 1211
+Last Updated: Jun 26 2026
+Unique items: 653
+Total scans : 1213
 ```
 
 -----
@@ -274,6 +274,7 @@ Total scans : 1211
 - [[C-41] CineStill 800T (ref: b3ff)](#c-41-cinestill-800t-ref-b3ff)
 - [[C-41] CineStill 800T (ref: c96e)](#c-41-cinestill-800t-ref-c96e)
 - [[C-41] CineStill 800T (ref: 44c4)](#c-41-cinestill-800t-ref-44c4)
+- [[C-41] Cinemot Lisboa 1999 (ref: 6a4f)](#c-41-cinemot-lisboa-1999-ref-6a4f)
 - [[C-41] Club Color Natural Color System (ref: 813a)](#c-41-club-color-natural-color-system-ref-813a)
 - [[C-41] Efiniti UXi Super 200 (ref: 471a)](#c-41-efiniti-uxi-super-200-ref-471a)
 - [[C-41] Escura EDO ukiyo-e (ref: 5faa)](#c-41-escura-edo-ukiyo-e-ref-5faa)
@@ -310,6 +311,7 @@ Total scans : 1211
 - [[C-41] Fujifilm Fujicolor Pro400 (ref: 1b8d)](#c-41-fujifilm-fujicolor-pro400-ref-1b8d)
 - [[C-41] Fujifilm Fujicolor Professional (ref: 28da)](#c-41-fujifilm-fujicolor-professional-ref-28da)
 - [[C-41] Fujifilm Fujicolor Professional (ref: 02f7)](#c-41-fujifilm-fujicolor-professional-ref-02f7)
+- [[C-41] Fujifilm Fujicolor QuickSnap Jeans (ref: 081a)](#c-41-fujifilm-fujicolor-quicksnap-jeans-ref-081a)
 - [[C-41] Fujifilm Fujicolor Super G (ref: 55ff)](#c-41-fujifilm-fujicolor-super-g-ref-55ff)
 - [[C-41] Fujifilm Fujicolor Super HG (ref: 1b30)](#c-41-fujifilm-fujicolor-super-hg-ref-1b30)
 - [[C-41] Fujifilm Fujicolor Super HG (ref: feb7)](#c-41-fujifilm-fujicolor-super-hg-ref-feb7)
@@ -331,7 +333,7 @@ Total scans : 1211
 - [[C-41] Fujifilm Fujicolor Superia X-TRA (ref: 8923)](#c-41-fujifilm-fujicolor-superia-x-tra-ref-8923)
 - [[C-41] Fujifilm Fujicolor Superia X-TRA (ref: 6b8a)](#c-41-fujifilm-fujicolor-superia-x-tra-ref-6b8a)
 - [[C-41] Fujifilm Fujicolor Superia X-TRA 400 (ref: da37)](#c-41-fujifilm-fujicolor-superia-x-tra-400-ref-da37)
-- [[C-41] Fujifilm Hi-Speed 1600 Disposable Camera (ref: 8a6f)](#c-41-fujifilm-hi-speed-1600-disposable-camera-ref-8a6f)
+- [[C-41] Fujifilm Hi-Speed 1600 (ref: 8a6f)](#c-41-fujifilm-hi-speed-1600-ref-8a6f)
 - [[C-41] Fujifilm Nexia A200 (ref: 43c0)](#c-41-fujifilm-nexia-a200-ref-43c0)
 - [[C-41] Fujifilm Simple Ace (ref: 17e6)](#c-41-fujifilm-simple-ace-ref-17e6)
 - [[C-41] Fujifilm Superia 100 (ref: 0f0c)](#c-41-fujifilm-superia-100-ref-0f0c)
@@ -5668,6 +5670,20 @@ UUID  : 5b72cfa7adb14d0f8aefaa083ee444c4
 	<img src="./lowres/00478_001.jpg" alt="CineStill 800T 120 film box inside" loading="lazy" width="491" height="500">
 </a>
 
+#### [C-41] Cinemot Lisboa 1999 (ref: 6a4f)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-26   |  Author  : Pelicram
+UUID  : aff79fa9e25b4654826ed6443d266a4f
+```
+
+<a href="./archive/00657_000.jpg" target="_blank">
+	<img src="./lowres/00657_000.jpg" alt="Cinemot Lisboa 1999 35mm film box outside" loading="lazy" width="500" height="437">
+</a>
+
 #### [C-41] Club Color Natural Color System (ref: 813a)
 
 ```
@@ -6263,6 +6279,20 @@ UUID  : 8f934c948478459386443596e74c02f7
 	<img src="./lowres/00219_000.jpg" alt="Fujifilm Fujicolor Professional 35mm film box outside" loading="lazy" width="412" height="499">
 </a>
 
+#### [C-41] Fujifilm Fujicolor QuickSnap Jeans (ref: 081a)
+
+```
+Format: Disposable Camera|  Process : C-41    
+ISO   : 400          |  Expiry  : 2008-08 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-06-26   |  Author  : Pelicram
+UUID  : a2fd70d8c82d42aa8db0f45ced94081a
+```
+
+<a href="./archive/00656_000.jpg" target="_blank">
+	<img src="./lowres/00656_000.jpg" alt="Fujifilm Fujicolor QuickSnap Jeans Disposable Camera film box outside" loading="lazy" width="500" height="491">
+</a>
+
 #### [C-41] Fujifilm Fujicolor Super G (ref: 55ff)
 
 ```
@@ -6642,10 +6672,10 @@ UUID  : 905002d5cdc24e36b190fb04a38cda37
 	<img src="./lowres/00315_001.jpg" alt="Fujifilm Fujicolor Superia X-TRA 400 120 film box inside" loading="lazy" width="472" height="500">
 </a>
 
-#### [C-41] Fujifilm Hi-Speed 1600 Disposable Camera (ref: 8a6f)
+#### [C-41] Fujifilm Hi-Speed 1600 (ref: 8a6f)
 
 ```
-Format: 35mm         |  Process : C-41    
+Format: Disposable Camera|  Process : C-41    
 ISO   : 1600         |  Expiry  : 2018-06 
 Type  : Single Pack  |  Quantity: 27exp   
 Added : 2026-03-02   |  Author  : @Hol.m35
@@ -6653,14 +6683,14 @@ UUID  : b25d00004e6f46699b06a4cf360f8a6f
 ```
 
 <a href="./archive/00525_000.jpg" target="_blank">
-	<img src="./lowres/00525_000.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera 35mm film box outside" loading="lazy" width="438" height="500">
+	<img src="./lowres/00525_000.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera film box outside" loading="lazy" width="438" height="500">
 </a>
 
 
 `UUID: 67bd10dd07644db88eae7a01ab789970`↓
 
 <a href="./archive/00525_001.jpg" target="_blank">
-	<img src="./lowres/00525_001.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera 35mm film box outside" loading="lazy" width="188" height="500">
+	<img src="./lowres/00525_001.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera film box outside" loading="lazy" width="188" height="500">
 </a>
 
 #### [C-41] Fujifilm Nexia A200 (ref: 43c0)
@@ -9268,7 +9298,7 @@ UUID  : 6c15a39618164543bfc2ef7f54addeb6
 #### [C-41] Polaroid High Definition (ref: ac7c)
 
 ```
-Format: 25           |  Process : C-41    
+Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2006-03 
 Type  : Single Pack  |  Quantity: 24exp   
 Added : 2026-06-24   |  Author  : Mauphoto
@@ -9276,14 +9306,14 @@ UUID  : f55d7221fceb4391b83cac2360c5ac7c
 ```
 
 <a href="./archive/00643_000.jpg" target="_blank">
-	<img src="./lowres/00643_000.jpg" alt="Polaroid High Definition 25 film box outside" loading="lazy" width="411" height="500">
+	<img src="./lowres/00643_000.jpg" alt="Polaroid High Definition 35mm film box outside" loading="lazy" width="411" height="500">
 </a>
 
 
 `UUID: 666ac89d17504a12b4a11a3ebcc3b460`↓
 
 <a href="./archive/00643_001.jpg" target="_blank">
-	<img src="./lowres/00643_001.jpg" alt="Polaroid High Definition 25 film box inside" loading="lazy" width="405" height="500">
+	<img src="./lowres/00643_001.jpg" alt="Polaroid High Definition 35mm film box inside" loading="lazy" width="405" height="500">
 </a>
 
 #### [C-41] Premium Super XG (ref: 8ccd)
@@ -13748,7 +13778,7 @@ Rank  Username                      Contributions
 1     dekuNukem                     339   
 2     Luci 101                      94    
 3     @photos.by.qi                 72    
-4     Pelicram                      69    
+4     Pelicram                      71    
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
 7     @Hol.m35                      62    

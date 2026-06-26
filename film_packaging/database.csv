@@ -944,8 +944,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 523,0,film_box_outside,Ilford,FP4 Plus,35mm,125,BW,202901,1772455430,c887456b7c0cd38789c3e1481890d2bb,97b840e334f14e48ba5baf99f38ea431,00523_000.jpg,u/ReeeSchmidtyWerber,,Single Pack,36exp
 523,1,film_box_inside,Ilford,FP4 Plus,35mm,125,BW,202901,1772455432,0f0577911aa16396a303c640901b8db5,7b38d2f4be7149fd8dc2134415488968,00523_001.jpg,u/ReeeSchmidtyWerber,,Single Pack,36exp
 524,0,film_box_outside,Fujifilm,Neopan Acros 100 II,35mm,100,BW,202512,1772455520,56e1b281fe7151ec82bc17128b0afe08,1f1865a95b8847d69dcd18cf52bc9ea9,00524_000.jpg,u/ReeeSchmidtyWerber,,Single Pack,36exp
-525,0,film_box_outside,Fujifilm,Hi-Speed 1600 Disposable Camera,35mm,1600,C-41,201806,1772458238,f34565a4b8b17ea9b45ae61252a1ca2a,b25d00004e6f46699b06a4cf360f8a6f,00525_000.jpg,@Hol.m35,,Single Pack,27exp
-525,1,film_box_outside,Fujifilm,Hi-Speed 1600 Disposable Camera,35mm,1600,C-41,201806,1772458240,1d5b689e293e9f75406b6c85c9872d16,67bd10dd07644db88eae7a01ab789970,00525_001.jpg,@Hol.m35,,Single Pack,27exp
+525,0,film_box_outside,Fujifilm,Hi-Speed 1600,Disposable Camera,1600,C-41,201806,1772458238,f34565a4b8b17ea9b45ae61252a1ca2a,b25d00004e6f46699b06a4cf360f8a6f,00525_000.jpg,@Hol.m35,,Single Pack,27exp
+525,1,film_box_outside,Fujifilm,Hi-Speed 1600,Disposable Camera,1600,C-41,201806,1772458240,1d5b689e293e9f75406b6c85c9872d16,67bd10dd07644db88eae7a01ab789970,00525_001.jpg,@Hol.m35,,Single Pack,27exp
 526,0,film_box_outside,Fujifilm,Fujicolor 100,35mm,100,C-41,202708,1772458289,fb58b0e3070986fceb8ad00dc9038880,c04d5697e35c49049322ce823f32ac71,00526_000.jpg,@Hol.m35,,Single Pack,36exp
 527,0,film_box_outside,Optik Oldschool,OptiColour 200,35mm,200,C-41,202711,1772458341,2fff25ee03286f25db4dcc1217da9684,c72fdf2e60bf4d488f2ac0b2251d099e,00527_000.jpg,@Hol.m35,,Single Pack,36exp
 528,0,film_box_outside,efke,KB-25,35mm,25,BW,200903,1772458463,0a6894da44def44d0580be30ea5d52b2,b41fb584f713486eb5a5da2fe16e4d17,00528_000.jpg,Tobias,,Single Pack,36exp
@@ -1175,8 +1175,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 641,1,film_box_inside,Lucky,Super New 200,35mm,200,C-41,201301,1782295135,93f9c1cb055951a87563c57868a5894b,7da671d2345d450b88824b0bbb584b81,00641_001.jpg,Mauphoto,,Single Pack,36exp
 642,0,film_box_outside,Perutz,CR 100,35mm,100,E-6,200603,1782295191,21954679c222f85caec9db057144b137,8952a19caaea4975a38cd877ca5ab5df,00642_000.jpg,Mauphoto,,Single Pack,36exp
 642,1,film_box_inside,Perutz,CR 100,35mm,100,E-6,200603,1782295197,dd72b155ef5037ae81b811072f6fcf3c,87e07caa491d425390bf58ed01117d2b,00642_001.jpg,Mauphoto,,Single Pack,36exp
-643,0,film_box_outside,Polaroid,High Definition,25,100,C-41,200603,1782295266,77e5ecb631c71dc67b22a119814ad2d8,f55d7221fceb4391b83cac2360c5ac7c,00643_000.jpg,Mauphoto,,Single Pack,24exp
-643,1,film_box_inside,Polaroid,High Definition,25,100,C-41,200603,1782295267,7ff4195097ea4e7bc4b32badc2cf1f49,666ac89d17504a12b4a11a3ebcc3b460,00643_001.jpg,Mauphoto,,Single Pack,24exp
+643,0,film_box_outside,Polaroid,High Definition,35mm,100,C-41,200603,1782295266,77e5ecb631c71dc67b22a119814ad2d8,f55d7221fceb4391b83cac2360c5ac7c,00643_000.jpg,Mauphoto,,Single Pack,24exp
+643,1,film_box_inside,Polaroid,High Definition,35mm,100,C-41,200603,1782295267,7ff4195097ea4e7bc4b32badc2cf1f49,666ac89d17504a12b4a11a3ebcc3b460,00643_001.jpg,Mauphoto,,Single Pack,24exp
 644,0,film_box_outside,ORWO,UK 17,8mm,40,Unknown,198905,1782295972,025e0311787845f6f27ac4629b53c5d3,cba0bd2a5ffd43c38164a5e9a2f719a0,00644_000.jpg,Luci 101,,Single Pack,7.5m
 644,1,film_box_outside,ORWO,UK 17,8mm,40,Unknown,198905,1782295974,561df3f7be275192abdca146b64f2572,deb198cc152945e6bbae1b7744b025e1,00644_001.jpg,Luci 101,,Single Pack,7.5m
 644,2,film_box_outside,ORWO,UK 17,8mm,40,Unknown,198905,1782295977,a978cbe6637f435fe30d94bf5323e13b,6b199b64e4254322be23a8f8fa6c0431,00644_002.jpg,Luci 101,,Single Pack,7.5m
@@ -1210,3 +1210,5 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 655,1,film_box_inside,Kodak,Gold III,35mm,100,C-41,199810,1782392109,9d963a2823ee64eb038f5b7758a32a71,b13207a08b84442e941d7f514281bf7b,00655_001.jpg,Dialupdude,,Multi-Pack-3,30exp
 655,2,film_box_leaflet,Kodak,Gold III,35mm,100,C-41,199810,1782392112,f4151629cc653cbe8ea8db3424577eab,249b3fd912e34d758f9548dc619e297f,00655_002.jpg,Dialupdude,,Multi-Pack-3,30exp
 655,3,film_box_leaflet,Kodak,Gold III,35mm,100,C-41,199810,1782392115,4a3bcc23167ed4e1472d24b0d2d15326,e0fc0873b5984d59871410b4488f10b8,00655_003.jpg,Dialupdude,,Multi-Pack-3,30exp
+656,0,film_box_outside,Fujifilm,Fujicolor QuickSnap Jeans,Disposable Camera,400,C-41,200808,1782474702,e2a4353cb63be1e03226d2cef8284c35,a2fd70d8c82d42aa8db0f45ced94081a,00656_000.jpg,Pelicram,,Single Pack,27exp
+657,0,film_box_outside,Cinemot,Lisboa 1999,35mm,400,C-41,202707,1782474782,fba9dda595ce31a22072f0d373adfa82,aff79fa9e25b4654826ed6443d266a4f,00657_000.jpg,Pelicram,,Single Pack,36exp

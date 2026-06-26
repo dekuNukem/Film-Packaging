@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 25 2026
-Unique items: 651
-Total scans : 1211
+Last Updated: Jun 26 2026
+Unique items: 653
+Total scans : 1213
 ```
 
 -----
@@ -340,6 +340,7 @@ Total scans : 1211
 - [[2008] Foma Fomapan Classic 100 (ref: 4eb6)](#2008-foma-fomapan-classic-100-ref-4eb6)
 - [[2008] Lucky SHD 100 (ref: 7feb)](#2008-lucky-shd-100-ref-7feb)
 - [[2008] Agfa APX (ref: 12c7)](#2008-agfa-apx-ref-12c7)
+- [[2008] Fujifilm Fujicolor QuickSnap Jeans (ref: 081a)](#2008-fujifilm-fujicolor-quicksnap-jeans-ref-081a)
 - [[2008] Agfa CT Precisa 100 (ref: bc36)](#2008-agfa-ct-precisa-100-ref-bc36)
 - [[2008] Fujifilm Superia 200 (ref: fd36)](#2008-fujifilm-superia-200-ref-fd36)
 - [[2008] Kodak High Speed Infrared (ref: 883e)](#2008-kodak-high-speed-infrared-ref-883e)
@@ -407,7 +408,7 @@ Total scans : 1211
 - [[2016] Fujifilm Fujicolor Natura 1600 (ref: 52aa)](#2016-fujifilm-fujicolor-natura-1600-ref-52aa)
 - [[2016] Fujifilm Fujicolor C200 (ref: 2585)](#2016-fujifilm-fujicolor-c200-ref-2585)
 - [[2018] CineStill 800T (ref: c86a)](#2018-cinestill-800t-ref-c86a)
-- [[2018] Fujifilm Hi-Speed 1600 Disposable Camera (ref: 8a6f)](#2018-fujifilm-hi-speed-1600-disposable-camera-ref-8a6f)
+- [[2018] Fujifilm Hi-Speed 1600 (ref: 8a6f)](#2018-fujifilm-hi-speed-1600-ref-8a6f)
 - [[2018] Lomography Color Slide / X-Pro 200 (ref: 22bc)](#2018-lomography-color-slide--x-pro-200-ref-22bc)
 - [[2018] Agfa Vista Plus 200 (ref: f5f7)](#2018-agfa-vista-plus-200-ref-f5f7)
 - [[2018] Fukkatsu Color Print Film (ref: 3213)](#2018-fukkatsu-color-print-film-ref-3213)
@@ -572,6 +573,7 @@ Total scans : 1211
 - [[2027] Kodak Portra 800 (ref: 3c94)](#2027-kodak-portra-800-ref-3c94)
 - [[2027] ADOX CHS 100 II (ref: 8adf)](#2027-adox-chs-100-ii-ref-8adf)
 - [[2027] ADOX HR 50 (ref: 4da7)](#2027-adox-hr-50-ref-4da7)
+- [[2027] Cinemot Lisboa 1999 (ref: 6a4f)](#2027-cinemot-lisboa-1999-ref-6a4f)
 - [[2027] Foma Fomapan Classic 100 (ref: 0030)](#2027-foma-fomapan-classic-100-ref-0030)
 - [[2027] Lomography Orca (ref: d506)](#2027-lomography-orca-ref-d506)
 - [[2027] Rollei RPX 25 (ref: b14c)](#2027-rollei-rpx-25-ref-b14c)
@@ -7145,7 +7147,7 @@ UUID  : bb62de3a22c04f699c780aeae7c83566
 #### [2006] Polaroid High Definition (ref: ac7c)
 
 ```
-Format: 25           |  Process : C-41    
+Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2006-03 
 Type  : Single Pack  |  Quantity: 24exp   
 Added : 2026-06-24   |  Author  : Mauphoto
@@ -7153,14 +7155,14 @@ UUID  : f55d7221fceb4391b83cac2360c5ac7c
 ```
 
 <a href="./archive/00643_000.jpg" target="_blank">
-	<img src="./lowres/00643_000.jpg" alt="Polaroid High Definition 25 film box outside" loading="lazy" width="411" height="500">
+	<img src="./lowres/00643_000.jpg" alt="Polaroid High Definition 35mm film box outside" loading="lazy" width="411" height="500">
 </a>
 
 
 `UUID: 666ac89d17504a12b4a11a3ebcc3b460`↓
 
 <a href="./archive/00643_001.jpg" target="_blank">
-	<img src="./lowres/00643_001.jpg" alt="Polaroid High Definition 25 film box inside" loading="lazy" width="405" height="500">
+	<img src="./lowres/00643_001.jpg" alt="Polaroid High Definition 35mm film box inside" loading="lazy" width="405" height="500">
 </a>
 
 #### [2006] Fujifilm Fujichrome Velvia 100F (ref: f7fb)
@@ -7807,6 +7809,20 @@ UUID  : a20bbca534454915a6970b6ede2212c7
 
 <a href="./archive/00011_001.jpg" target="_blank">
 	<img src="./lowres/00011_001.jpg" alt="Agfa APX 120 film box inside" loading="lazy" width="500" height="402">
+</a>
+
+#### [2008] Fujifilm Fujicolor QuickSnap Jeans (ref: 081a)
+
+```
+Format: Disposable Camera|  Process : C-41    
+ISO   : 400          |  Expiry  : 2008-08 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-06-26   |  Author  : Pelicram
+UUID  : a2fd70d8c82d42aa8db0f45ced94081a
+```
+
+<a href="./archive/00656_000.jpg" target="_blank">
+	<img src="./lowres/00656_000.jpg" alt="Fujifilm Fujicolor QuickSnap Jeans Disposable Camera film box outside" loading="lazy" width="500" height="491">
 </a>
 
 #### [2008] Agfa CT Precisa 100 (ref: bc36)
@@ -9000,10 +9016,10 @@ UUID  : 53253eca96d841f5b98bfb3590fec86a
 	<img src="./lowres/00006_001.jpg" alt="CineStill 800T 120 film box inside" loading="lazy" width="500" height="335">
 </a>
 
-#### [2018] Fujifilm Hi-Speed 1600 Disposable Camera (ref: 8a6f)
+#### [2018] Fujifilm Hi-Speed 1600 (ref: 8a6f)
 
 ```
-Format: 35mm         |  Process : C-41    
+Format: Disposable Camera|  Process : C-41    
 ISO   : 1600         |  Expiry  : 2018-06 
 Type  : Single Pack  |  Quantity: 27exp   
 Added : 2026-03-02   |  Author  : @Hol.m35
@@ -9011,14 +9027,14 @@ UUID  : b25d00004e6f46699b06a4cf360f8a6f
 ```
 
 <a href="./archive/00525_000.jpg" target="_blank">
-	<img src="./lowres/00525_000.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera 35mm film box outside" loading="lazy" width="438" height="500">
+	<img src="./lowres/00525_000.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera film box outside" loading="lazy" width="438" height="500">
 </a>
 
 
 `UUID: 67bd10dd07644db88eae7a01ab789970`↓
 
 <a href="./archive/00525_001.jpg" target="_blank">
-	<img src="./lowres/00525_001.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera 35mm film box outside" loading="lazy" width="188" height="500">
+	<img src="./lowres/00525_001.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera film box outside" loading="lazy" width="188" height="500">
 </a>
 
 #### [2018] Lomography Color Slide / X-Pro 200 (ref: 22bc)
@@ -11879,6 +11895,20 @@ UUID  : a504b8da97b642908de921d1053d4da7
 	<img src="./lowres/00182_001.jpg" alt="ADOX HR 50 35mm film box inside" loading="lazy" width="457" height="500">
 </a>
 
+#### [2027] Cinemot Lisboa 1999 (ref: 6a4f)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-26   |  Author  : Pelicram
+UUID  : aff79fa9e25b4654826ed6443d266a4f
+```
+
+<a href="./archive/00657_000.jpg" target="_blank">
+	<img src="./lowres/00657_000.jpg" alt="Cinemot Lisboa 1999 35mm film box outside" loading="lazy" width="500" height="437">
+</a>
+
 #### [2027] Foma Fomapan Classic 100 (ref: 0030)
 
 ```
@@ -13748,7 +13778,7 @@ Rank  Username                      Contributions
 1     dekuNukem                     339   
 2     Luci 101                      94    
 3     @photos.by.qi                 72    
-4     Pelicram                      69    
+4     Pelicram                      71    
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
 7     @Hol.m35                      62    
