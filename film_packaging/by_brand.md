@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 21 2026
-Unique items: 699
-Total scans : 1288
+Last Updated: Sep 02 2026
+Unique items: 700
+Total scans : 1290
 ```
 
 -----
@@ -559,6 +559,7 @@ Total scans : 1288
 - [Lucky C200 (ref: e6f8)](#lucky-c200-ref-e6f8)
 - [Lucky C200 (ref: 9c6c)](#lucky-c200-ref-9c6c)
 - [Lucky C200 (ref: b0cc)](#lucky-c200-ref-b0cc)
+- [Lucky C400 (ref: a02c)](#lucky-c400-ref-a02c)
 - [Lucky LuckyColor BR100 (ref: a71c)](#lucky-luckycolor-br100-ref-a71c)
 - [Lucky SHD 100 (ref: 7feb)](#lucky-shd-100-ref-7feb)
 - [Lucky SHD 100 New Generation (ref: 23f6)](#lucky-shd-100-new-generation-ref-23f6)
@@ -2493,7 +2494,7 @@ UUID  : 716e410a3823476e9befa704361f43c9
 
 ```
 Format: 120          |  Process : BW      
-ISO   : 20           |  Expiry  : 1970-03 
+ISO   : 20           |  Expiry  : 1979-03 
 Type  : Single Pack  |  Quantity: N/A     
 Added : 2026-05-26   |  Author  : Tobias  
 UUID  : 32a76ef752524fab9f27ebe632b527f5
@@ -11160,6 +11161,27 @@ UUID  : 417dc63303e24ed58b36a4fbe55ab0cc
 	<img src="./lowres/00550_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="316" height="500">
 </a>
 
+#### Lucky C400 (ref: a02c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-02   |  Author  : @Hol.m35
+UUID  : 64c1b1b53d274a4cbe3b3d41d9c7a02c
+```
+
+<a href="./archive/00704_000.jpg" target="_blank">
+	<img src="./lowres/00704_000.jpg" alt="Lucky C400 35mm film box outside" loading="lazy" width="444" height="499">
+</a>
+
+
+`UUID: fb51d773895c4f18a3d354ca130f50c8`↓
+
+<a href="./archive/00704_001.jpg" target="_blank">
+	<img src="./lowres/00704_001.jpg" alt="Lucky C400 35mm film box inside" loading="lazy" width="464" height="500">
+</a>
+
 #### Lucky LuckyColor BR100 (ref: a71c)
 
 ```
@@ -14672,7 +14694,7 @@ Rank  Username                      Contributions
 2     Luci 101                      102   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
-5     @Hol.m35                      69    
+5     @Hol.m35                      71    
 6     @ellafridalindblom            67    
 7     nyctomanica                   67    
 8     @recycling.film               66    

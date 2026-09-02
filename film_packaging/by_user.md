@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 21 2026
-Unique items: 699
-Total scans : 1288
+Last Updated: Sep 02 2026
+Unique items: 700
+Total scans : 1290
 ```
 
 -----
@@ -55,6 +55,7 @@ Total scans : 1288
 - [[@Hol.m35] Lomography Postdam (ref: d0c6)](#holm35-lomography-postdam-ref-d0c6)
 - [[@Hol.m35] Lucky C200 (ref: e6f8)](#holm35-lucky-c200-ref-e6f8)
 - [[@Hol.m35] Lucky C200 (ref: b0cc)](#holm35-lucky-c200-ref-b0cc)
+- [[@Hol.m35] Lucky C400 (ref: a02c)](#holm35-lucky-c400-ref-a02c)
 - [[@Hol.m35] Lucky SHD400 (ref: 15b5)](#holm35-lucky-shd400-ref-15b5)
 - [[@Hol.m35] Max Spielmann Pro-Zoom MX 400 (ref: 38c5)](#holm35-max-spielmann-pro-zoom-mx-400-ref-38c5)
 - [[@Hol.m35] Mr. Negative Arcade (ref: a6e5)](#holm35-mr-negative-arcade-ref-a6e5)
@@ -1319,6 +1320,27 @@ UUID  : 417dc63303e24ed58b36a4fbe55ab0cc
 
 <a href="./archive/00550_001.jpg" target="_blank">
 	<img src="./lowres/00550_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="316" height="500">
+</a>
+
+#### [@Hol.m35] Lucky C400 (ref: a02c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-02   |  Author  : @Hol.m35
+UUID  : 64c1b1b53d274a4cbe3b3d41d9c7a02c
+```
+
+<a href="./archive/00704_000.jpg" target="_blank">
+	<img src="./lowres/00704_000.jpg" alt="Lucky C400 35mm film box outside" loading="lazy" width="444" height="499">
+</a>
+
+
+`UUID: fb51d773895c4f18a3d354ca130f50c8`↓
+
+<a href="./archive/00704_001.jpg" target="_blank">
+	<img src="./lowres/00704_001.jpg" alt="Lucky C400 35mm film box inside" loading="lazy" width="464" height="500">
 </a>
 
 #### [@Hol.m35] Lucky SHD400 (ref: 15b5)
@@ -8680,7 +8702,7 @@ UUID  : 075938ec54de4c4bbee63671e4c208ad
 
 ```
 Format: 120          |  Process : BW      
-ISO   : 20           |  Expiry  : 1970-03 
+ISO   : 20           |  Expiry  : 1979-03 
 Type  : Single Pack  |  Quantity: N/A     
 Added : 2026-05-26   |  Author  : Tobias  
 UUID  : 32a76ef752524fab9f27ebe632b527f5
@@ -14672,7 +14694,7 @@ Rank  Username                      Contributions
 2     Luci 101                      102   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
-5     @Hol.m35                      69    
+5     @Hol.m35                      71    
 6     @ellafridalindblom            67    
 7     nyctomanica                   67    
 8     @recycling.film               66    

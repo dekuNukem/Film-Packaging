@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 21 2026
-Unique items: 699
-Total scans : 1288
+Last Updated: Sep 02 2026
+Unique items: 700
+Total scans : 1290
 ```
 
 -----
@@ -75,7 +75,6 @@ Total scans : 1288
 - [[1969] Ilford HP3 (ref: 1afc)](#1969-ilford-hp3-ref-1afc)
 - [[1969] Agfa Agfacolor Reversal Film CK (ref: 3502)](#1969-agfa-agfacolor-reversal-film-ck-ref-3502)
 - [[1970] Kodak Plus-X Pan (ref: f5cc)](#1970-kodak-plus-x-pan-ref-f5cc)
-- [[1970] Efke R14 (ref: 27f5)](#1970-efke-r14-ref-27f5)
 - [[1970] Kodak High Speed Ektachrome (ref: ec3d)](#1970-kodak-high-speed-ektachrome-ref-ec3d)
 - [[1970] Famous Brand Labs Color Negative Film (ref: b271)](#1970-famous-brand-labs-color-negative-film-ref-b271)
 - [[1970] Kodak High Contrast Copy Film (ref: db52)](#1970-kodak-high-contrast-copy-film-ref-db52)
@@ -126,6 +125,7 @@ Total scans : 1288
 - [[1978] Kodak Ektachrome 200 (ref: f372)](#1978-kodak-ektachrome-200-ref-f372)
 - [[1978] ORWO NC 19 (ref: dca5)](#1978-orwo-nc-19-ref-dca5)
 - [[1979] GAF Color Slide Film (ref: 6815)](#1979-gaf-color-slide-film-ref-6815)
+- [[1979] Efke R14 (ref: 27f5)](#1979-efke-r14-ref-27f5)
 - [[1979] Foton Fotopan CD (ref: 6ba7)](#1979-foton-fotopan-cd-ref-6ba7)
 - [[1979] Kodak Tri-X Pan (ref: 9a93)](#1979-kodak-tri-x-pan-ref-9a93)
 - [[1979] Kodak Kodacolor II (ref: b19e)](#1979-kodak-kodacolor-ii-ref-b19e)
@@ -653,6 +653,7 @@ Total scans : 1288
 - [[2028] Optik Oldschool OptiMono 100 (ref: 312c)](#2028-optik-oldschool-optimono-100-ref-312c)
 - [[2028] Candido Color Negative Film 800 (ref: c39e)](#2028-candido-color-negative-film-800-ref-c39e)
 - [[2028] Kodak Ektacolor Pro 400 (ref: aa72)](#2028-kodak-ektacolor-pro-400-ref-aa72)
+- [[2028] Lucky C400 (ref: a02c)](#2028-lucky-c400-ref-a02c)
 - [[2028] Rollei RPX 400 (ref: 2155)](#2028-rollei-rpx-400-ref-2155)
 - [[2028] Ilford FP4 Plus (ref: 3bc0)](#2028-ilford-fp4-plus-ref-3bc0)
 - [[2028] Rollei Retro 400S (ref: f345)](#2028-rollei-retro-400s-ref-f345)
@@ -1858,34 +1859,6 @@ UUID  : 66f3d693560540d5b5a4cbfb3a91f5cc
 
 <a href="./archive/00271_000.jpg" target="_blank">
 	<img src="./lowres/00271_000.jpg" alt="Kodak Plus-X Pan 35mm film box outside" loading="lazy" width="434" height="500">
-</a>
-
-#### [1970] Efke R14 (ref: 27f5)
-
-```
-Format: 120          |  Process : BW      
-ISO   : 20           |  Expiry  : 1970-03 
-Type  : Single Pack  |  Quantity: N/A     
-Added : 2026-05-26   |  Author  : Tobias  
-UUID  : 32a76ef752524fab9f27ebe632b527f5
-```
-
-<a href="./archive/00570_000.jpg" target="_blank">
-	<img src="./lowres/00570_000.jpg" alt="Efke R14 120 film box outside" loading="lazy" width="500" height="359">
-</a>
-
-
-`UUID: 64e01932547643cd806e82e0faf38af2`↓
-
-<a href="./archive/00570_001.jpg" target="_blank">
-	<img src="./lowres/00570_001.jpg" alt="Efke R14 120 film box leaflet" loading="lazy" width="330" height="500">
-</a>
-
-
-`UUID: cb7b9dc522034a9e8e0c9efb07844543`↓
-
-<a href="./archive/00570_002.jpg" target="_blank">
-	<img src="./lowres/00570_002.jpg" alt="Efke R14 120 film box leaflet" loading="lazy" width="312" height="500">
 </a>
 
 #### [1970] Kodak High Speed Ektachrome (ref: ec3d)
@@ -3248,6 +3221,34 @@ UUID  : b57e8c465ff94e02afa31d267b846815
 
 <a href="./archive/00407_000.jpg" target="_blank">
 	<img src="./lowres/00407_000.jpg" alt="GAF Color Slide Film 35mm film cartridge" loading="lazy" width="386" height="500">
+</a>
+
+#### [1979] Efke R14 (ref: 27f5)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 20           |  Expiry  : 1979-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-05-26   |  Author  : Tobias  
+UUID  : 32a76ef752524fab9f27ebe632b527f5
+```
+
+<a href="./archive/00570_000.jpg" target="_blank">
+	<img src="./lowres/00570_000.jpg" alt="Efke R14 120 film box outside" loading="lazy" width="500" height="359">
+</a>
+
+
+`UUID: 64e01932547643cd806e82e0faf38af2`↓
+
+<a href="./archive/00570_001.jpg" target="_blank">
+	<img src="./lowres/00570_001.jpg" alt="Efke R14 120 film box leaflet" loading="lazy" width="330" height="500">
+</a>
+
+
+`UUID: cb7b9dc522034a9e8e0c9efb07844543`↓
+
+<a href="./archive/00570_002.jpg" target="_blank">
+	<img src="./lowres/00570_002.jpg" alt="Efke R14 120 film box leaflet" loading="lazy" width="312" height="500">
 </a>
 
 #### [1979] Foton Fotopan CD (ref: 6ba7)
@@ -13414,6 +13415,27 @@ UUID  : 1b8269534ca14fac97e07722d3c8aa72
 	<img src="./lowres/00667_000.jpg" alt="Kodak Ektacolor Pro 400 35mm film box outside" loading="lazy" width="409" height="500">
 </a>
 
+#### [2028] Lucky C400 (ref: a02c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-02   |  Author  : @Hol.m35
+UUID  : 64c1b1b53d274a4cbe3b3d41d9c7a02c
+```
+
+<a href="./archive/00704_000.jpg" target="_blank">
+	<img src="./lowres/00704_000.jpg" alt="Lucky C400 35mm film box outside" loading="lazy" width="444" height="499">
+</a>
+
+
+`UUID: fb51d773895c4f18a3d354ca130f50c8`↓
+
+<a href="./archive/00704_001.jpg" target="_blank">
+	<img src="./lowres/00704_001.jpg" alt="Lucky C400 35mm film box inside" loading="lazy" width="464" height="500">
+</a>
+
 #### [2028] Rollei RPX 400 (ref: 2155)
 
 ```
@@ -14672,7 +14694,7 @@ Rank  Username                      Contributions
 2     Luci 101                      102   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
-5     @Hol.m35                      69    
+5     @Hol.m35                      71    
 6     @ellafridalindblom            67    
 7     nyctomanica                   67    
 8     @recycling.film               66    

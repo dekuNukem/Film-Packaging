@@ -15,13 +15,14 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 21 2026
-Unique items: 699
-Total scans : 1288
+Last Updated: Sep 02 2026
+Unique items: 700
+Total scans : 1290
 ```
 
 -----
 
+- [[2026-09-02] Lucky C400 (ref: a02c)](#2026-09-02-lucky-c400-ref-a02c)
 - [[2026-08-21] Kodak Technical Pan (ref: 951e)](#2026-08-21-kodak-technical-pan-ref-951e)
 - [[2026-08-21] Candido Color Negative Film 800 (ref: c39e)](#2026-08-21-candido-color-negative-film-800-ref-c39e)
 - [[2026-08-21] Kodak Plus-X (ref: a250)](#2026-08-21-kodak-plus-x-ref-a250)
@@ -724,6 +725,27 @@ Total scans : 1288
 
 
 -----
+
+
+`UUID: fb51d773895c4f18a3d354ca130f50c8`↓
+
+<a href="./archive/00704_001.jpg" target="_blank">
+	<img src="./lowres/00704_001.jpg" alt="Lucky C400 35mm film box inside" loading="lazy" width="464" height="500">
+</a>
+
+#### [2026-09-02] Lucky C400 (ref: a02c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-02   |  Author  : @Hol.m35
+UUID  : 64c1b1b53d274a4cbe3b3d41d9c7a02c
+```
+
+<a href="./archive/00704_000.jpg" target="_blank">
+	<img src="./lowres/00704_000.jpg" alt="Lucky C400 35mm film box outside" loading="lazy" width="444" height="499">
+</a>
 
 
 `UUID: 8882c643007f427fad8d9033cefd64d0`↓
@@ -3204,7 +3226,7 @@ UUID  : 989581de448d4ccd82d8ab0950dae727
 
 ```
 Format: 120          |  Process : BW      
-ISO   : 20           |  Expiry  : 1970-03 
+ISO   : 20           |  Expiry  : 1979-03 
 Type  : Single Pack  |  Quantity: N/A     
 Added : 2026-05-26   |  Author  : Tobias  
 UUID  : 32a76ef752524fab9f27ebe632b527f5
@@ -14672,7 +14694,7 @@ Rank  Username                      Contributions
 2     Luci 101                      102   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
-5     @Hol.m35                      69    
+5     @Hol.m35                      71    
 6     @ellafridalindblom            67    
 7     nyctomanica                   67    
 8     @recycling.film               66    

@@ -1287,3 +1287,5 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 702,1,film_box_inside,Candido,Color Negative Film 800,35mm,800,C-41,202807,1787304939,53503df4f1757ca38de3957557406ef9,07b09cec6d9948a2b546a3d122001e62,00702_001.jpg,@Hol.m35,,Single Pack,36exp
 703,0,film_box_outside,Kodak,Technical Pan,35mm,Unknown,BW,200501,1787305031,085d784366a9e3369d9f6419dc905f92,79d06b422e074d53a6d37add1a0a951e,00703_000.jpg,nyctomanica,,Single Pack,36exp
 703,1,film_box_inside,Kodak,Technical Pan,35mm,Unknown,BW,200501,1787305034,f2649f5d34bd82d9c5ef7b019692adb3,8882c643007f427fad8d9033cefd64d0,00703_001.jpg,nyctomanica,,Single Pack,36exp
+704,0,film_box_outside,Lucky,C400,35mm,400,C-41,202808,1788341368,e27570a058921564ff04164acd777e93,64c1b1b53d274a4cbe3b3d41d9c7a02c,00704_000.jpg,@Hol.m35,,Single Pack,36exp
+704,1,film_box_inside,Lucky,C400,35mm,400,C-41,202808,1788341370,2e8bb1d6e3bb6bae3e6c4125b9f916d9,fb51d773895c4f18a3d354ca130f50c8,00704_001.jpg,@Hol.m35,,Single Pack,36exp

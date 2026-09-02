@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 21 2026
-Unique items: 699
-Total scans : 1288
+Last Updated: Sep 02 2026
+Unique items: 700
+Total scans : 1290
 ```
 
 Or Sort by...
@@ -57,7 +57,7 @@ Rank  Username                      Contributions
 2     Luci 101                      102   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
-5     @Hol.m35                      69    
+5     @Hol.m35                      71    
 6     @ellafridalindblom            67    
 7     nyctomanica                   67    
 8     @recycling.film               66    
@@ -115,6 +115,9 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2026-09-02
+  - @Hol.m35: Lucky C400
+
 2026-08-21
   - @Hol.m35: Candido Color Negative Film 800
   - nyctomanica: Kodak Technical Pan
@@ -131,13 +134,6 @@ Rank  Username                      Contributions
   - @flyingcamerastudio: Kodak Portra 160NC
   - @titanic_159: Kodak Ektapan P3200
   - Warren Umbach: Agfa Agfapan APX 25
-
-2026-08-13
-  - @janjuudas: Konica SXG 100
-  - @janjuudas: Lucky LuckyColor BR100
-  - Rafa Laguillo: Agfa Plaques Chromo Isolar
-  - Rafa Laguillo: Kodak UltraMax
-  - Rafa Laguillo: Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides
 ```
 
 ## Disclaimer
