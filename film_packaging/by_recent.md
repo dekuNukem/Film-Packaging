@@ -43,8 +43,8 @@ Total scans : 1290
 - [[2026-08-04] Fujifilm Instax Mini (ref: c9b1)](#2026-08-04-fujifilm-instax-mini-ref-c9b1)
 - [[2026-08-04] Lomography Color Negative 120 Film 400 (ref: 7f5f)](#2026-08-04-lomography-color-negative-120-film-400-ref-7f5f)
 - [[2026-08-04] Polaroid Originals Color i-Type Film (ref: 79a3)](#2026-08-04-polaroid-originals-color-i-type-film-ref-79a3)
-- [[2026-08-04] Polaroid Originals Color 600 Film (ref: 97cb)](#2026-08-04-polaroid-originals-color-600-film-ref-97cb)
-- [[2026-08-04] Polaroid Originals Color SX-70 Film (ref: 7238)](#2026-08-04-polaroid-originals-color-sx-70-film-ref-7238)
+- [[2026-08-04] Polaroid Originals Color 600 Film (ref: 0786)](#2026-08-04-polaroid-originals-color-600-film-ref-0786)
+- [[2026-08-04] Polaroid Originals Color SX-70 Film (ref: fd54)](#2026-08-04-polaroid-originals-color-sx-70-film-ref-fd54)
 - [[2026-08-04] Kodak Imagelink HQ Microfilm (ref: 5a0f)](#2026-08-04-kodak-imagelink-hq-microfilm-ref-5a0f)
 - [[2026-08-04] Kodak Portra 160 NC (ref: d52e)](#2026-08-04-kodak-portra-160-nc-ref-d52e)
 - [[2026-08-04] Kodak RS Pan (ref: 70d7)](#2026-08-04-kodak-rs-pan-ref-70d7)
@@ -1112,20 +1112,20 @@ UUID  : e7e2198738634eaa91f172f160e679a3
 </a>
 
 
-`UUID: 42a65f5e6e67475e85a143297ab4302f`↓
+`UUID: b61d2846ec4f144764e6dead915c4f97`↓
 
 <a href="./archive/00683_001.jpg" target="_blank">
 	<img src="./lowres/00683_001.jpg" alt="Polaroid Originals Color 600 Film Instant Integral Film film box inside" loading="lazy" width="245" height="500">
 </a>
 
-#### [2026-08-04] Polaroid Originals Color 600 Film (ref: 97cb)
+#### [2026-08-04] Polaroid Originals Color 600 Film (ref: 0786)
 
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2019-10 
 Type  : Single Pack  |  Quantity: 8exp    
 Added : 2026-08-04   |  Author  : nyctomanica
-UUID  : 9edcedcc654b4e04bb4f2b65079597cb
+UUID  : 06813c60eff1692ac0e710c32dac0786
 ```
 
 <a href="./archive/00683_000.jpg" target="_blank">
@@ -1133,20 +1133,20 @@ UUID  : 9edcedcc654b4e04bb4f2b65079597cb
 </a>
 
 
-`UUID: 513a6fd17a134eeaa5399093d0f6f641`↓
+`UUID: 0cbe6c600edf15522e8c9a20c393b2ea`↓
 
 <a href="./archive/00682_001.jpg" target="_blank">
 	<img src="./lowres/00682_001.jpg" alt="Polaroid Originals Color SX-70 Film Instant Integral Film film box inside" loading="lazy" width="245" height="500">
 </a>
 
-#### [2026-08-04] Polaroid Originals Color SX-70 Film (ref: 7238)
+#### [2026-08-04] Polaroid Originals Color SX-70 Film (ref: fd54)
 
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 160          |  Expiry  : 2019-10 
 Type  : Single Pack  |  Quantity: 8exp    
 Added : 2026-08-04   |  Author  : nyctomanica
-UUID  : 9fd8da93b07c484baea216014e0e7238
+UUID  : b424061f3a6eeb24aa2114ef9b79fd54
 ```
 
 <a href="./archive/00682_000.jpg" target="_blank">

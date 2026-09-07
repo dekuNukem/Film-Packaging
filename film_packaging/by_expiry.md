@@ -441,8 +441,8 @@ Total scans : 1290
 - [[2019] Polaroid Originals Color Spectra Film (ref: 7d0a)](#2019-polaroid-originals-color-spectra-film-ref-7d0a)
 - [[2019] Polaroid Originals B&W Spectra Film (ref: 7f24)](#2019-polaroid-originals-b-w-spectra-film-ref-7f24)
 - [[2019] One Instant Type 100 Peel-Apart Colorfilm (ref: ff2c)](#2019-one-instant-type-100-peel-apart-colorfilm-ref-ff2c)
-- [[2019] Polaroid Originals Color 600 Film (ref: 97cb)](#2019-polaroid-originals-color-600-film-ref-97cb)
-- [[2019] Polaroid Originals Color SX-70 Film (ref: 7238)](#2019-polaroid-originals-color-sx-70-film-ref-7238)
+- [[2019] Polaroid Originals Color 600 Film (ref: 0786)](#2019-polaroid-originals-color-600-film-ref-0786)
+- [[2019] Polaroid Originals Color SX-70 Film (ref: fd54)](#2019-polaroid-originals-color-sx-70-film-ref-fd54)
 - [[2019] Polaroid Originals Color i-Type Film (ref: 79a3)](#2019-polaroid-originals-color-i-type-film-ref-79a3)
 - [[2019] Fujifilm Fujicolor Natura 1600 (ref: c8ed)](#2019-fujifilm-fujicolor-natura-1600-ref-c8ed)
 - [[2019] Fujifilm Fujicolor Professional (ref: 02f7)](#2019-fujifilm-fujicolor-professional-ref-02f7)
@@ -9722,14 +9722,14 @@ UUID  : 20749de9fbb140d88baffc08facbff2c
 	<img src="./lowres/00619_000.jpg" alt="One Instant Type 100 Peel-Apart Colorfilm Instant Pack Film film box outside" loading="lazy" width="500" height="442">
 </a>
 
-#### [2019] Polaroid Originals Color 600 Film (ref: 97cb)
+#### [2019] Polaroid Originals Color 600 Film (ref: 0786)
 
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2019-10 
 Type  : Single Pack  |  Quantity: 8exp    
 Added : 2026-08-04   |  Author  : nyctomanica
-UUID  : 9edcedcc654b4e04bb4f2b65079597cb
+UUID  : 06813c60eff1692ac0e710c32dac0786
 ```
 
 <a href="./archive/00683_000.jpg" target="_blank">
@@ -9737,20 +9737,20 @@ UUID  : 9edcedcc654b4e04bb4f2b65079597cb
 </a>
 
 
-`UUID: 42a65f5e6e67475e85a143297ab4302f`↓
+`UUID: b61d2846ec4f144764e6dead915c4f97`↓
 
 <a href="./archive/00683_001.jpg" target="_blank">
 	<img src="./lowres/00683_001.jpg" alt="Polaroid Originals Color 600 Film Instant Integral Film film box inside" loading="lazy" width="245" height="500">
 </a>
 
-#### [2019] Polaroid Originals Color SX-70 Film (ref: 7238)
+#### [2019] Polaroid Originals Color SX-70 Film (ref: fd54)
 
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 160          |  Expiry  : 2019-10 
 Type  : Single Pack  |  Quantity: 8exp    
 Added : 2026-08-04   |  Author  : nyctomanica
-UUID  : 9fd8da93b07c484baea216014e0e7238
+UUID  : b424061f3a6eeb24aa2114ef9b79fd54
 ```
 
 <a href="./archive/00682_000.jpg" target="_blank">
@@ -9758,7 +9758,7 @@ UUID  : 9fd8da93b07c484baea216014e0e7238
 </a>
 
 
-`UUID: 513a6fd17a134eeaa5399093d0f6f641`↓
+`UUID: 0cbe6c600edf15522e8c9a20c393b2ea`↓
 
 <a href="./archive/00682_001.jpg" target="_blank">
 	<img src="./lowres/00682_001.jpg" alt="Polaroid Originals Color SX-70 Film Instant Integral Film film box inside" loading="lazy" width="245" height="500">
