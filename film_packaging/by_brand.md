@@ -9508,7 +9508,7 @@ UUID  : 396a3645cb9a40a4b0a6dd2fd854e66e
 #### Kodak Sport Single Use Camera (ref: 4618)
 
 ```
-Format: 35mm         |  Process : C-41    
+Format: Disposable Camera|  Process : C-41    
 ISO   : 800          |  Expiry  : 2026-05 
 Type  : Single Pack  |  Quantity: 27exp   
 Added : 2026-04-13   |  Author  : Dialupdude
@@ -9516,7 +9516,7 @@ UUID  : e9b9c65612ae498080917cde3fd94618
 ```
 
 <a href="./archive/00562_000.jpg" target="_blank">
-	<img src="./lowres/00562_000.jpg" alt="Kodak Sport Single Use Camera 35mm film box outside" loading="lazy" width="303" height="500">
+	<img src="./lowres/00562_000.jpg" alt="Kodak Sport Single Use Camera Disposable Camera film box outside" loading="lazy" width="303" height="500">
 </a>
 
 #### Kodak Super Speed Ortho Portrait (ref: b625)
