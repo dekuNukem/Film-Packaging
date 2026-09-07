@@ -1289,3 +1289,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 703,1,film_box_inside,Kodak,Technical Pan,35mm,Unknown,BW,200501,1787305034,f2649f5d34bd82d9c5ef7b019692adb3,8882c643007f427fad8d9033cefd64d0,00703_001.jpg,nyctomanica,,Single Pack,36exp
 704,0,film_box_outside,Lucky,C400,35mm,400,C-41,202808,1788341368,e27570a058921564ff04164acd777e93,64c1b1b53d274a4cbe3b3d41d9c7a02c,00704_000.jpg,@Hol.m35,,Single Pack,36exp
 704,1,film_box_inside,Lucky,C400,35mm,400,C-41,202808,1788341370,2e8bb1d6e3bb6bae3e6c4125b9f916d9,fb51d773895c4f18a3d354ca130f50c8,00704_001.jpg,@Hol.m35,,Single Pack,36exp
+705,0,film_box_outside,Stavanger Foto,Frontier,35mm,250,BW,Unknown,1788779623,8cccfa869a9f4066938e645376de0bd0,354788b12a2a4555a7c1717abfd5c51e,00705_000.jpg,Kraksen,,Single Pack,36exp
+706,0,film_box_outside,MarixFilm,Aircolor,35mm,100,C-41,202506,1788779676,895e3cf812e477749da959381faacab2,0f36fe976d604dea826c31a5f534d9c4,00706_000.jpg,Kraksen,,Single Pack,36exp
+707,0,film_box_outside,Konica Minolta,Centuria Super,35mm,400,C-41,200704,1788779773,36158c25c96abd57aa87c9ddd2ec0f5b,23707163dc014de2947bf1669c2195f0,00707_000.jpg,Kraksen,,Single Pack,24exp
+707,1,film_box_inside,Konica Minolta,Centuria Super,35mm,400,C-41,200704,1788779777,d1ee601e033fa9259f710be6fac7fc6a,708f40122825442b96dd887a89c90e35,00707_001.jpg,Kraksen,,Single Pack,24exp

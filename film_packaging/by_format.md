@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 02 2026
-Unique items: 700
-Total scans : 1290
+Last Updated: Sep 07 2026
+Unique items: 703
+Total scans : 1294
 ```
 
 -----
@@ -508,6 +508,7 @@ Total scans : 1290
 - [[35mm] Konica SXG 100 (ref: 4096)](#35mm-konica-sxg-100-ref-4096)
 - [[35mm] Konica VX 100 Super (ref: 90b4)](#35mm-konica-vx-100-super-ref-90b4)
 - [[35mm] Konica Minolta Centuria 100 (ref: 00ae)](#35mm-konica-minolta-centuria-100-ref-00ae)
+- [[35mm] Konica Minolta Centuria Super (ref: 95f0)](#35mm-konica-minolta-centuria-super-ref-95f0)
 - [[35mm] Konica Minolta Commercial Color Film (ref: e903)](#35mm-konica-minolta-commercial-color-film-ref-e903)
 - [[35mm] Kosmo Foto Mono (ref: b74f)](#35mm-kosmo-foto-mono-ref-b74f)
 - [[35mm] Lloyds Pharmacy Colour Film (ref: 074c)](#35mm-lloyds-pharmacy-colour-film-ref-074c)
@@ -531,6 +532,7 @@ Total scans : 1290
 - [[35mm] Lucky SHD 100 New Generation (ref: 23f6)](#35mm-lucky-shd-100-new-generation-ref-23f6)
 - [[35mm] Lucky Super New 200 (ref: e0a7)](#35mm-lucky-super-new-200-ref-e0a7)
 - [[35mm] Marix Professional Negative Movie Color Film (ref: c457)](#35mm-marix-professional-negative-movie-color-film-ref-c457)
+- [[35mm] MarixFilm Aircolor (ref: d9c4)](#35mm-marixfilm-aircolor-ref-d9c4)
 - [[35mm] Max Spielmann Maxi Color (ref: bf60)](#35mm-max-spielmann-maxi-color-ref-bf60)
 - [[35mm] Max Spielmann Pro-Zoom MX 400 (ref: 38c5)](#35mm-max-spielmann-pro-zoom-mx-400-ref-38c5)
 - [[35mm] Mira Films 800 Color Film (ref: 32e1)](#35mm-mira-films-800-color-film-ref-32e1)
@@ -592,6 +594,7 @@ Total scans : 1290
 - [[35mm] Seagull Seagull Color IR100 (ref: e7cc)](#35mm-seagull-seagull-color-ir100-ref-e7cc)
 - [[35mm] Seagull Seagull Color IR100 (ref: 8fd8)](#35mm-seagull-seagull-color-ir100-ref-8fd8)
 - [[35mm] Space Cat Film Mars 250D (ref: 5027)](#35mm-space-cat-film-mars-250d-ref-5027)
+- [[35mm] Stavanger Foto Frontier (ref: c51e)](#35mm-stavanger-foto-frontier-ref-c51e)
 - [[35mm] Street Candy Film ATM400 (ref: 4380)](#35mm-street-candy-film-atm400-ref-4380)
 - [[35mm] Svema FN 64 (ref: 600a)](#35mm-svema-fn-64-ref-600a)
 - [[35mm] Svema Foto 200 (ref: 6991)](#35mm-svema-foto-200-ref-6991)
@@ -10265,6 +10268,27 @@ UUID  : c93974535a3441acb0edbbd16b0f00ae
 	<img src="./lowres/00640_001.jpg" alt="Konica Minolta Centuria 100 35mm film box inside" loading="lazy" width="401" height="500">
 </a>
 
+#### [35mm] Konica Minolta Centuria Super (ref: 95f0)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2007-04 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : Kraksen 
+UUID  : 23707163dc014de2947bf1669c2195f0
+```
+
+<a href="./archive/00707_000.jpg" target="_blank">
+	<img src="./lowres/00707_000.jpg" alt="Konica Minolta Centuria Super 35mm film box outside" loading="lazy" width="408" height="499">
+</a>
+
+
+`UUID: 708f40122825442b96dd887a89c90e35`↓
+
+<a href="./archive/00707_001.jpg" target="_blank">
+	<img src="./lowres/00707_001.jpg" alt="Konica Minolta Centuria Super 35mm film box inside" loading="lazy" width="407" height="499">
+</a>
+
 #### [35mm] Konica Minolta Commercial Color Film (ref: e903)
 
 ```
@@ -10685,6 +10709,20 @@ UUID  : 715e5119d4b941d98ce52bcd8596c457
 
 <a href="./archive/00188_000.jpg" target="_blank">
 	<img src="./lowres/00188_000.jpg" alt="Marix Professional Negative Movie Color Film 35mm film box outside" loading="lazy" width="445" height="500">
+</a>
+
+#### [35mm] MarixFilm Aircolor (ref: d9c4)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2025-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-07   |  Author  : Kraksen 
+UUID  : 0f36fe976d604dea826c31a5f534d9c4
+```
+
+<a href="./archive/00706_000.jpg" target="_blank">
+	<img src="./lowres/00706_000.jpg" alt="MarixFilm Aircolor 35mm film box outside" loading="lazy" width="407" height="499">
 </a>
 
 #### [35mm] Max Spielmann Maxi Color (ref: bf60)
@@ -11938,6 +11976,20 @@ UUID  : 1595b93966854178a03bc6d0de705027
 
 <a href="./archive/00227_000.jpg" target="_blank">
 	<img src="./lowres/00227_000.jpg" alt="Space Cat Film Mars 250D 35mm film box outside" loading="lazy" width="500" height="362">
+</a>
+
+#### [35mm] Stavanger Foto Frontier (ref: c51e)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 250          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-07   |  Author  : Kraksen 
+UUID  : 354788b12a2a4555a7c1717abfd5c51e
+```
+
+<a href="./archive/00705_000.jpg" target="_blank">
+	<img src="./lowres/00705_000.jpg" alt="Stavanger Foto Frontier 35mm film box outside" loading="lazy" width="413" height="500">
 </a>
 
 #### [35mm] Street Candy Film ATM400 (ref: 4380)
@@ -14717,15 +14769,15 @@ Rank  Username                      Contributions
 25    @zruk_ts                      10    
 26    minidiscus                    10    
 27    lilyu.xyz                     9     
-28    lt_col_tall                   9     
-29    MCB18                         9     
-30    Rafa Laguillo                 8     
-31    @toastergod101                7     
-32    @filmfotofella                7     
-33    GreatGizmo74                  6     
-34    nick                          6     
-35    Greg                          6     
-36    Kraksen                       5     
+28    Kraksen                       9     
+29    lt_col_tall                   9     
+30    MCB18                         9     
+31    Rafa Laguillo                 8     
+32    @toastergod101                7     
+33    @filmfotofella                7     
+34    GreatGizmo74                  6     
+35    nick                          6     
+36    Greg                          6     
 37    @gregrouxphotography          5     
 38    Tobias                        5     
 39    @janjuudas                    5     

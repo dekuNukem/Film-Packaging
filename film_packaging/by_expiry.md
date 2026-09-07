@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 02 2026
-Unique items: 700
-Total scans : 1290
+Last Updated: Sep 07 2026
+Unique items: 703
+Total scans : 1294
 ```
 
 -----
@@ -346,6 +346,7 @@ Total scans : 1290
 - [[2007] Fujifilm Fujichrome Velvia 100F (ref: 32d4)](#2007-fujifilm-fujichrome-velvia-100f-ref-32d4)
 - [[2007] Kodak MAX (ref: 2361)](#2007-kodak-max-ref-2361)
 - [[2007] Fujifilm Fujicolor Superia Reala (ref: a7de)](#2007-fujifilm-fujicolor-superia-reala-ref-a7de)
+- [[2007] Konica Minolta Centuria Super (ref: 95f0)](#2007-konica-minolta-centuria-super-ref-95f0)
 - [[2007] Kodak Kodachrome 64 (ref: 3206)](#2007-kodak-kodachrome-64-ref-3206)
 - [[2007] Klick Max Extra Definition Multi Purpose Film (ref: 8ae4)](#2007-klick-max-extra-definition-multi-purpose-film-ref-8ae4)
 - [[2007] Ilford Delta 400 Professional (ref: 8f8b)](#2007-ilford-delta-400-professional-ref-8f8b)
@@ -499,6 +500,7 @@ Total scans : 1290
 - [[2025] Ilford Delta 3200 Professional (ref: 920f)](#2025-ilford-delta-3200-professional-ref-920f)
 - [[2025] Kodak Portra 800 (ref: 7d65)](#2025-kodak-portra-800-ref-7d65)
 - [[2025] Lomography Color Negative 120 Film 100 (ref: 42fc)](#2025-lomography-color-negative-120-film-100-ref-42fc)
+- [[2025] MarixFilm Aircolor (ref: d9c4)](#2025-marixfilm-aircolor-ref-d9c4)
 - [[2025] Lomography Lomochrome Turquoise (ref: 0d90)](#2025-lomography-lomochrome-turquoise-ref-0d90)
 - [[2025] Polaroid B&W i-Type Film (ref: 963a)](#2025-polaroid-b-w-i-type-film-ref-963a)
 - [[2025] Polaroid Green 600 Film Reclaimed Series (ref: 0180)](#2025-polaroid-green-600-film-reclaimed-series-ref-0180)
@@ -718,6 +720,7 @@ Total scans : 1290
 - [[Unknown] Sharan Black-and-white Negative Film (ref: a884)](#unknown-sharan-black-and-white-negative-film-ref-a884)
 - [[Unknown] Sharan Color Negative Film (ref: 4913)](#unknown-sharan-color-negative-film-ref-4913)
 - [[Unknown] Space Cat Film Mars 250D (ref: 5027)](#unknown-space-cat-film-mars-250d-ref-5027)
+- [[Unknown] Stavanger Foto Frontier (ref: c51e)](#unknown-stavanger-foto-frontier-ref-c51e)
 - [[Unknown] Street Candy Film ATM400 (ref: 4380)](#unknown-street-candy-film-atm400-ref-4380)
 - [[Unknown] Svema Foto 64 (ref: 10cb)](#unknown-svema-foto-64-ref-10cb)
 - [[Unknown] Walkens Speed 400 (ref: 740f)](#unknown-walkens-speed-400-ref-740f)
@@ -7998,6 +8001,27 @@ UUID  : bab5fa204b25431a9872c4ce8e9aa7de
 	<img src="./lowres/00087_000.jpg" alt="Fujifilm Fujicolor Superia Reala 35mm film box outside" loading="lazy" width="430" height="499">
 </a>
 
+#### [2007] Konica Minolta Centuria Super (ref: 95f0)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2007-04 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : Kraksen 
+UUID  : 23707163dc014de2947bf1669c2195f0
+```
+
+<a href="./archive/00707_000.jpg" target="_blank">
+	<img src="./lowres/00707_000.jpg" alt="Konica Minolta Centuria Super 35mm film box outside" loading="lazy" width="408" height="499">
+</a>
+
+
+`UUID: 708f40122825442b96dd887a89c90e35`↓
+
+<a href="./archive/00707_001.jpg" target="_blank">
+	<img src="./lowres/00707_001.jpg" alt="Konica Minolta Centuria Super 35mm film box inside" loading="lazy" width="407" height="499">
+</a>
+
 #### [2007] Kodak Kodachrome 64 (ref: 3206)
 
 ```
@@ -10735,6 +10759,20 @@ UUID  : 13977400bfd24db0bde214b6c6a342fc
 
 <a href="./archive/00654_001.jpg" target="_blank">
 	<img src="./lowres/00654_001.jpg" alt="Lomography Color Negative 120 Film 100 120 film box outside" loading="lazy" width="500" height="363">
+</a>
+
+#### [2025] MarixFilm Aircolor (ref: d9c4)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2025-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-07   |  Author  : Kraksen 
+UUID  : 0f36fe976d604dea826c31a5f534d9c4
+```
+
+<a href="./archive/00706_000.jpg" target="_blank">
+	<img src="./lowres/00706_000.jpg" alt="MarixFilm Aircolor 35mm film box outside" loading="lazy" width="407" height="499">
 </a>
 
 #### [2025] Lomography Lomochrome Turquoise (ref: 0d90)
@@ -14618,6 +14656,20 @@ UUID  : 1595b93966854178a03bc6d0de705027
 	<img src="./lowres/00227_000.jpg" alt="Space Cat Film Mars 250D 35mm film box outside" loading="lazy" width="500" height="362">
 </a>
 
+#### [Unknown] Stavanger Foto Frontier (ref: c51e)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 250          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-07   |  Author  : Kraksen 
+UUID  : 354788b12a2a4555a7c1717abfd5c51e
+```
+
+<a href="./archive/00705_000.jpg" target="_blank">
+	<img src="./lowres/00705_000.jpg" alt="Stavanger Foto Frontier 35mm film box outside" loading="lazy" width="413" height="500">
+</a>
+
 #### [Unknown] Street Candy Film ATM400 (ref: 4380)
 
 ```
@@ -14717,15 +14769,15 @@ Rank  Username                      Contributions
 25    @zruk_ts                      10    
 26    minidiscus                    10    
 27    lilyu.xyz                     9     
-28    lt_col_tall                   9     
-29    MCB18                         9     
-30    Rafa Laguillo                 8     
-31    @toastergod101                7     
-32    @filmfotofella                7     
-33    GreatGizmo74                  6     
-34    nick                          6     
-35    Greg                          6     
-36    Kraksen                       5     
+28    Kraksen                       9     
+29    lt_col_tall                   9     
+30    MCB18                         9     
+31    Rafa Laguillo                 8     
+32    @toastergod101                7     
+33    @filmfotofella                7     
+34    GreatGizmo74                  6     
+35    nick                          6     
+36    Greg                          6     
 37    @gregrouxphotography          5     
 38    Tobias                        5     
 39    @janjuudas                    5     

@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 02 2026
-Unique items: 700
-Total scans : 1290
+Last Updated: Sep 07 2026
+Unique items: 703
+Total scans : 1294
 ```
 
 -----
@@ -244,6 +244,7 @@ Total scans : 1290
 - [[BW] Rollei SUPERPAN 200 (ref: ee8f)](#bw-rollei-superpan-200-ref-ee8f)
 - [[BW] Shanghai GP3 (ref: 52aa)](#bw-shanghai-gp3-ref-52aa)
 - [[BW] Sharan Black-and-white Negative Film (ref: a884)](#bw-sharan-black-and-white-negative-film-ref-a884)
+- [[BW] Stavanger Foto Frontier (ref: c51e)](#bw-stavanger-foto-frontier-ref-c51e)
 - [[BW] Street Candy Film ATM400 (ref: 4380)](#bw-street-candy-film-atm400-ref-4380)
 - [[BW] Svema FN 64 (ref: 600a)](#bw-svema-fn-64-ref-600a)
 - [[BW] Svema Foto 200 (ref: 6991)](#bw-svema-foto-200-ref-6991)
@@ -469,6 +470,7 @@ Total scans : 1290
 - [[C-41] Konica SXG 100 (ref: 4096)](#c-41-konica-sxg-100-ref-4096)
 - [[C-41] Konica Sepia Professional (ref: 0b40)](#c-41-konica-sepia-professional-ref-0b40)
 - [[C-41] Konica VX 100 Super (ref: 90b4)](#c-41-konica-vx-100-super-ref-90b4)
+- [[C-41] Konica Minolta Centuria Super (ref: 95f0)](#c-41-konica-minolta-centuria-super-ref-95f0)
 - [[C-41] Konica Minolta Commercial Color Film (ref: e903)](#c-41-konica-minolta-commercial-color-film-ref-e903)
 - [[C-41] Lloyds Pharmacy APS Film (ref: c7cf)](#c-41-lloyds-pharmacy-aps-film-ref-c7cf)
 - [[C-41] Lloyds Pharmacy Colour Film (ref: 074c)](#c-41-lloyds-pharmacy-colour-film-ref-074c)
@@ -497,6 +499,7 @@ Total scans : 1290
 - [[C-41] Lucky LuckyColor BR100 (ref: a71c)](#c-41-lucky-luckycolor-br100-ref-a71c)
 - [[C-41] Lucky Super New 200 (ref: e0a7)](#c-41-lucky-super-new-200-ref-e0a7)
 - [[C-41] Marix Professional Negative Movie Color Film (ref: c457)](#c-41-marix-professional-negative-movie-color-film-ref-c457)
+- [[C-41] MarixFilm Aircolor (ref: d9c4)](#c-41-marixfilm-aircolor-ref-d9c4)
 - [[C-41] Max Spielmann Maxi Color (ref: bf60)](#c-41-max-spielmann-maxi-color-ref-bf60)
 - [[C-41] Max Spielmann Pro-Zoom MX 400 (ref: 38c5)](#c-41-max-spielmann-pro-zoom-mx-400-ref-38c5)
 - [[C-41] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#c-41-minolta-minolta-16-color-film-for-prints-ref-a2ff)
@@ -5122,6 +5125,20 @@ Notes : ACMEL embossed on box
 	<img src="./lowres/00398_003.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="273">
 </a>
 
+#### [BW] Stavanger Foto Frontier (ref: c51e)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 250          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-07   |  Author  : Kraksen 
+UUID  : 354788b12a2a4555a7c1717abfd5c51e
+```
+
+<a href="./archive/00705_000.jpg" target="_blank">
+	<img src="./lowres/00705_000.jpg" alt="Stavanger Foto Frontier 35mm film box outside" loading="lazy" width="413" height="500">
+</a>
+
 #### [BW] Street Candy Film ATM400 (ref: 4380)
 
 ```
@@ -9180,6 +9197,27 @@ UUID  : 39efe40e04c44643850d8442b4c490b4
 	<img src="./lowres/00652_001.jpg" alt="Konica VX 100 Super 35mm film box inside" loading="lazy" width="250" height="500">
 </a>
 
+#### [C-41] Konica Minolta Centuria Super (ref: 95f0)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2007-04 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : Kraksen 
+UUID  : 23707163dc014de2947bf1669c2195f0
+```
+
+<a href="./archive/00707_000.jpg" target="_blank">
+	<img src="./lowres/00707_000.jpg" alt="Konica Minolta Centuria Super 35mm film box outside" loading="lazy" width="408" height="499">
+</a>
+
+
+`UUID: 708f40122825442b96dd887a89c90e35`↓
+
+<a href="./archive/00707_001.jpg" target="_blank">
+	<img src="./lowres/00707_001.jpg" alt="Konica Minolta Centuria Super 35mm film box inside" loading="lazy" width="407" height="499">
+</a>
+
 #### [C-41] Konica Minolta Commercial Color Film (ref: e903)
 
 ```
@@ -9703,6 +9741,20 @@ UUID  : 715e5119d4b941d98ce52bcd8596c457
 
 <a href="./archive/00188_000.jpg" target="_blank">
 	<img src="./lowres/00188_000.jpg" alt="Marix Professional Negative Movie Color Film 35mm film box outside" loading="lazy" width="445" height="500">
+</a>
+
+#### [C-41] MarixFilm Aircolor (ref: d9c4)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2025-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-07   |  Author  : Kraksen 
+UUID  : 0f36fe976d604dea826c31a5f534d9c4
+```
+
+<a href="./archive/00706_000.jpg" target="_blank">
+	<img src="./lowres/00706_000.jpg" alt="MarixFilm Aircolor 35mm film box outside" loading="lazy" width="407" height="499">
 </a>
 
 #### [C-41] Max Spielmann Maxi Color (ref: bf60)
@@ -14717,15 +14769,15 @@ Rank  Username                      Contributions
 25    @zruk_ts                      10    
 26    minidiscus                    10    
 27    lilyu.xyz                     9     
-28    lt_col_tall                   9     
-29    MCB18                         9     
-30    Rafa Laguillo                 8     
-31    @toastergod101                7     
-32    @filmfotofella                7     
-33    GreatGizmo74                  6     
-34    nick                          6     
-35    Greg                          6     
-36    Kraksen                       5     
+28    Kraksen                       9     
+29    lt_col_tall                   9     
+30    MCB18                         9     
+31    Rafa Laguillo                 8     
+32    @toastergod101                7     
+33    @filmfotofella                7     
+34    GreatGizmo74                  6     
+35    nick                          6     
+36    Greg                          6     
 37    @gregrouxphotography          5     
 38    Tobias                        5     
 39    @janjuudas                    5     

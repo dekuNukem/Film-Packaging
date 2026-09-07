@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 02 2026
-Unique items: 700
-Total scans : 1290
+Last Updated: Sep 07 2026
+Unique items: 703
+Total scans : 1294
 ```
 
 -----
@@ -312,7 +312,10 @@ Total scans : 1290
 - [[Kraksen] Agfa Agfapan APX 100 (ref: e271)](#kraksen-agfa-agfapan-apx-100-ref-e271)
 - [[Kraksen] Agfa Agfapan APX 400 (ref: 19bc)](#kraksen-agfa-agfapan-apx-400-ref-19bc)
 - [[Kraksen] Kodak Black & White + (ref: 2ff3)](#kraksen-kodak-black-white-ref-2ff3)
+- [[Kraksen] Konica Minolta Centuria Super (ref: 95f0)](#kraksen-konica-minolta-centuria-super-ref-95f0)
 - [[Kraksen] Marix Professional Negative Movie Color Film (ref: c457)](#kraksen-marix-professional-negative-movie-color-film-ref-c457)
+- [[Kraksen] MarixFilm Aircolor (ref: d9c4)](#kraksen-marixfilm-aircolor-ref-d9c4)
+- [[Kraksen] Stavanger Foto Frontier (ref: c51e)](#kraksen-stavanger-foto-frontier-ref-c51e)
 - [[Luci 101] Agfa AgfaChrome 100RS (ref: 2c42)](#luci-101-agfa-agfachrome-100rs-ref-2c42)
 - [[Luci 101] Agfa AgfaChrome 50 S (ref: eb28)](#luci-101-agfa-agfachrome-50-s-ref-eb28)
 - [[Luci 101] Foton Fotopan CD (ref: 6ba7)](#luci-101-foton-fotopan-cd-ref-6ba7)
@@ -5905,6 +5908,27 @@ UUID  : 8ae6d75c042c48318fa711a412b72ff3
 	<img src="./lowres/00189_000.jpg" alt="Kodak Black & White + 35mm film box outside" loading="lazy" width="395" height="500">
 </a>
 
+#### [Kraksen] Konica Minolta Centuria Super (ref: 95f0)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2007-04 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : Kraksen 
+UUID  : 23707163dc014de2947bf1669c2195f0
+```
+
+<a href="./archive/00707_000.jpg" target="_blank">
+	<img src="./lowres/00707_000.jpg" alt="Konica Minolta Centuria Super 35mm film box outside" loading="lazy" width="408" height="499">
+</a>
+
+
+`UUID: 708f40122825442b96dd887a89c90e35`↓
+
+<a href="./archive/00707_001.jpg" target="_blank">
+	<img src="./lowres/00707_001.jpg" alt="Konica Minolta Centuria Super 35mm film box inside" loading="lazy" width="407" height="499">
+</a>
+
 #### [Kraksen] Marix Professional Negative Movie Color Film (ref: c457)
 
 ```
@@ -5917,6 +5941,34 @@ UUID  : 715e5119d4b941d98ce52bcd8596c457
 
 <a href="./archive/00188_000.jpg" target="_blank">
 	<img src="./lowres/00188_000.jpg" alt="Marix Professional Negative Movie Color Film 35mm film box outside" loading="lazy" width="445" height="500">
+</a>
+
+#### [Kraksen] MarixFilm Aircolor (ref: d9c4)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2025-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-07   |  Author  : Kraksen 
+UUID  : 0f36fe976d604dea826c31a5f534d9c4
+```
+
+<a href="./archive/00706_000.jpg" target="_blank">
+	<img src="./lowres/00706_000.jpg" alt="MarixFilm Aircolor 35mm film box outside" loading="lazy" width="407" height="499">
+</a>
+
+#### [Kraksen] Stavanger Foto Frontier (ref: c51e)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 250          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-07   |  Author  : Kraksen 
+UUID  : 354788b12a2a4555a7c1717abfd5c51e
+```
+
+<a href="./archive/00705_000.jpg" target="_blank">
+	<img src="./lowres/00705_000.jpg" alt="Stavanger Foto Frontier 35mm film box outside" loading="lazy" width="413" height="500">
 </a>
 
 #### [Luci 101] Agfa AgfaChrome 100RS (ref: 2c42)
@@ -14717,15 +14769,15 @@ Rank  Username                      Contributions
 25    @zruk_ts                      10    
 26    minidiscus                    10    
 27    lilyu.xyz                     9     
-28    lt_col_tall                   9     
-29    MCB18                         9     
-30    Rafa Laguillo                 8     
-31    @toastergod101                7     
-32    @filmfotofella                7     
-33    GreatGizmo74                  6     
-34    nick                          6     
-35    Greg                          6     
-36    Kraksen                       5     
+28    Kraksen                       9     
+29    lt_col_tall                   9     
+30    MCB18                         9     
+31    Rafa Laguillo                 8     
+32    @toastergod101                7     
+33    @filmfotofella                7     
+34    GreatGizmo74                  6     
+35    nick                          6     
+36    Greg                          6     
 37    @gregrouxphotography          5     
 38    Tobias                        5     
 39    @janjuudas                    5     

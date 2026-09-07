@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 02 2026
-Unique items: 700
-Total scans : 1290
+Last Updated: Sep 07 2026
+Unique items: 703
+Total scans : 1294
 ```
 
 Or Sort by...
@@ -80,15 +80,15 @@ Rank  Username                      Contributions
 25    @zruk_ts                      10    
 26    minidiscus                    10    
 27    lilyu.xyz                     9     
-28    lt_col_tall                   9     
-29    MCB18                         9     
-30    Rafa Laguillo                 8     
-31    @toastergod101                7     
-32    @filmfotofella                7     
-33    GreatGizmo74                  6     
-34    nick                          6     
-35    Greg                          6     
-36    Kraksen                       5     
+28    Kraksen                       9     
+29    lt_col_tall                   9     
+30    MCB18                         9     
+31    Rafa Laguillo                 8     
+32    @toastergod101                7     
+33    @filmfotofella                7     
+34    GreatGizmo74                  6     
+35    nick                          6     
+36    Greg                          6     
 37    @gregrouxphotography          5     
 38    Tobias                        5     
 39    @janjuudas                    5     
@@ -115,6 +115,11 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2026-09-07
+  - Kraksen: Konica Minolta Centuria Super
+  - Kraksen: MarixFilm Aircolor
+  - Kraksen: Stavanger Foto Frontier
+
 2026-09-02
   - @Hol.m35: Lucky C400
 
@@ -129,11 +134,6 @@ Rank  Username                      Contributions
 
 2026-08-16
   - Constantino: Ogapan Panchromatic
-
-2026-08-15
-  - @flyingcamerastudio: Kodak Portra 160NC
-  - @titanic_159: Kodak Ektapan P3200
-  - Warren Umbach: Agfa Agfapan APX 25
 ```
 
 ## Disclaimer
