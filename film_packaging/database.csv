@@ -1302,3 +1302,14 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 712,0,film_box_outside,Kodak,Gold,110,400,C-41,200105,1788781059,d1ee6f03b343a1aa4514588e19eb609c,86c04a01042341b8a7ae95c660f4f2a2,00712_000.jpg,benjaminbeeroll,,Single Pack,24exp
 713,0,film_box_outside,Kodak,Tri-X Pan,35mm,400,BW,199012,1788781105,6b8929805076b1a7e57f52b2c21ab180,8f3e3aab508a454fbe868b1025adb4e8,00713_000.jpg,benjaminbeeroll,,Single Pack,24exp
 714,0,film_box_outside,Kodak,Tri-X Pan,35mm,400,BW,199402,1788781155,29581215e1228ad373d2cec85a9351e8,4f04fc9a2284495cb367f76cc7054257,00714_000.jpg,benjaminbeeroll,,Single Pack,24exp
+715,0,film_box_outside,Kodak,Verichrome,127,80,BW,195807,1788781353,f8121c9737be14cbe4477abcfcf41359,dd47848372c7405eb8f05754480c11b9,00715_000.jpg,benjaminbeeroll,,Single Pack,N/A
+715,1,film_box_leaflet,Kodak,Verichrome,127,80,BW,195807,1788781356,8b1980f2901cf7d24bc38f049885e224,b784e9c6507c4b909225f0c3767166c0,00715_001.jpg,benjaminbeeroll,,Single Pack,N/A
+715,2,film_box_processing_envelope,Kodak,Verichrome,127,80,BW,195807,1788781359,b9ed1919259f1aa5998376d71d0c9875,be74feb2516148c4a276a5da135a4ff4,00715_002.jpg,benjaminbeeroll,,Single Pack,N/A
+715,3,film_box_processing_envelope,Kodak,Verichrome,127,80,BW,195807,1788781362,77734a6ec42d1b7a5808734e33d8aa8c,294b05778f5f41a78ffeac20fd3152d1,00715_003.jpg,benjaminbeeroll,,Single Pack,N/A
+715,4,film_box_processing_envelope,Kodak,Verichrome,127,80,BW,195807,1788781365,b4d3630b83ecec0792fbdceab0595b12,71ea70e8b54043d38aa0111553cc3e9c,00715_004.jpg,benjaminbeeroll,,Single Pack,N/A
+716,0,film_box_outside,Kodak,Kodachrome,35mm,64,K-14,199201,1788781527,3dc620def211e6c88bdd91cce7a17198,ba34255d470942dea9572eaabf1007e0,00716_000.jpg,benjaminbeeroll,,Single Pack,24exp
+716,1,film_box_inside,Kodak,Kodachrome,35mm,64,K-14,199201,1788781529,e611d5dbf600f29cfe4345d592fbd137,0c688af82cff40cb89b4f56d31c19087,00716_001.jpg,benjaminbeeroll,,Single Pack,24exp
+717,0,film_box_outside,Minolta,16 Black & White Fast Fine Grain Film,16mm,100,BW,197812,1788781675,c133e152d62838e6cdeb735282b6a80f,8c90c60b8e4c42aabac785f3d8effd30,00717_000.jpg,benjaminbeeroll,Respooled Kodak Plus-X film inside,Single Pack,N/A
+718,0,film_box_outside,Mystic Color Lab,Superior 35mm Color Print Film,35mm,200,C-41,200707,1788781785,886a13d2329fcbf4fc6934afaf3c7624,d0ca629041344c4f8f6d3200341f4edf,00718_000.jpg,benjaminbeeroll,,Single Pack,24exp
+719,0,film_box_outside,Polaroid,600 Platinum,Instant Integral Film,640,Instant,199907,1788781914,1a8fc052233c80c949e02a0ece6d88bc,d58fc4af4f314da988547af34b1bcd53,00719_000.jpg,benjaminbeeroll,,Multi-Pack-2,10exp
+719,1,film_box_outside,Polaroid,600 Platinum,Instant Integral Film,640,Instant,199907,1788781918,e44f0e0b783ddab58129c2f4f6c54cef,7d1eb96de3bd4ec98b6ee8f0a0e8c774,00719_001.jpg,benjaminbeeroll,,Multi-Pack-2,10exp

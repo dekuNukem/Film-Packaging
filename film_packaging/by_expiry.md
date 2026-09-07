@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 07 2026
-Unique items: 710
-Total scans : 1303
+Unique items: 715
+Total scans : 1314
 ```
 
 -----
@@ -47,6 +47,7 @@ Total scans : 1303
 - [[1958] Kodak Plus-X (ref: 7958)](#1958-kodak-plus-x-ref-7958)
 - [[1958] Kodak Panatomic-X (ref: 7ed1)](#1958-kodak-panatomic-x-ref-7ed1)
 - [[1958] ADOX KB 17 (ref: 88a5)](#1958-adox-kb-17-ref-88a5)
+- [[1958] Kodak Verichrome (ref: 11b9)](#1958-kodak-verichrome-ref-11b9)
 - [[1959] Ilford FP3 (ref: 84f7)](#1959-ilford-fp3-ref-84f7)
 - [[1959] Kodak Kodacolor (ref: 5d25)](#1959-kodak-kodacolor-ref-5d25)
 - [[1960] Ilford FP3 Series 2 (ref: 03e7)](#1960-ilford-fp3-series-2-ref-03e7)
@@ -126,6 +127,7 @@ Total scans : 1303
 - [[1978] Kodak Kodacolor II (ref: 4108)](#1978-kodak-kodacolor-ii-ref-4108)
 - [[1978] Kodak Ektachrome 200 (ref: f372)](#1978-kodak-ektachrome-200-ref-f372)
 - [[1978] ORWO NC 19 (ref: dca5)](#1978-orwo-nc-19-ref-dca5)
+- [[1978] Minolta 16 Black & White Fast Fine Grain Film (ref: fd30)](#1978-minolta-16-black-white-fast-fine-grain-film-ref-fd30)
 - [[1979] GAF Color Slide Film (ref: 6815)](#1979-gaf-color-slide-film-ref-6815)
 - [[1979] Efke R14 (ref: 27f5)](#1979-efke-r14-ref-27f5)
 - [[1979] Foton Fotopan CD (ref: 6ba7)](#1979-foton-fotopan-cd-ref-6ba7)
@@ -190,6 +192,7 @@ Total scans : 1303
 - [[1991] Kodak T-MAX P3200 (ref: 1dff)](#1991-kodak-t-max-p3200-ref-1dff)
 - [[1991] Kodak T-MAX 400 (ref: a34d)](#1991-kodak-t-max-400-ref-a34d)
 - [[1991] Premium Super XG (ref: 8ccd)](#1991-premium-super-xg-ref-8ccd)
+- [[1992] Kodak Kodachrome (ref: 07e0)](#1992-kodak-kodachrome-ref-07e0)
 - [[1992] ORWO OrwoChrome UT18 (ref: f2ce)](#1992-orwo-orwochrome-ut18-ref-f2ce)
 - [[1992] Svema Foto 64 (ref: 18f8)](#1992-svema-foto-64-ref-18f8)
 - [[1992] Ificolor SHR 100 (ref: 0198)](#1992-ificolor-shr-100-ref-0198)
@@ -250,6 +253,7 @@ Total scans : 1303
 - [[1999] Fujifilm Fujichrome 64T (ref: 311b)](#1999-fujifilm-fujichrome-64t-ref-311b)
 - [[1999] Kodak Gold (ref: 2f8d)](#1999-kodak-gold-ref-2f8d)
 - [[1999] Konica Konica Color SR-G 160 (ref: 64c5)](#1999-konica-konica-color-sr-g-160-ref-64c5)
+- [[1999] Polaroid 600 Platinum (ref: cd53)](#1999-polaroid-600-platinum-ref-cd53)
 - [[1999] Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#1999-kodak-ektachrome-slide-duplicating-film-ref-d53a)
 - [[2000] Konica Infrared 750nm (ref: 2d93)](#2000-konica-infrared-750nm-ref-2d93)
 - [[2000] Agfa AgfaColor Optima 200 (ref: 393d)](#2000-agfa-agfacolor-optima-200-ref-393d)
@@ -357,6 +361,7 @@ Total scans : 1303
 - [[2007] Kodak Kodachrome 64 (ref: 3206)](#2007-kodak-kodachrome-64-ref-3206)
 - [[2007] Klick Max Extra Definition Multi Purpose Film (ref: 8ae4)](#2007-klick-max-extra-definition-multi-purpose-film-ref-8ae4)
 - [[2007] Ilford Delta 400 Professional (ref: 8f8b)](#2007-ilford-delta-400-professional-ref-8f8b)
+- [[2007] Mystic Color Lab Superior 35mm Color Print Film (ref: 4edf)](#2007-mystic-color-lab-superior-35mm-color-print-film-ref-4edf)
 - [[2007] Polaroid Image Instant Film (ref: ee6d)](#2007-polaroid-image-instant-film-ref-ee6d)
 - [[2007] Lloyds Pharmacy APS Film (ref: c7cf)](#2007-lloyds-pharmacy-aps-film-ref-c7cf)
 - [[2007] Fujifilm Fujicolor Pro 400H (ref: 48ed)](#2007-fujifilm-fujicolor-pro-400h-ref-48ed)
@@ -1183,6 +1188,48 @@ UUID  : ee054df9bf0f4ad09ef142c01c2788a5
 
 <a href="./archive/00416_000.jpg" target="_blank">
 	<img src="./lowres/00416_000.jpg" alt="ADOX KB 17 35mm film box outside" loading="lazy" width="500" height="433">
+</a>
+
+#### [1958] Kodak Verichrome (ref: 11b9)
+
+```
+Format: 127          |  Process : BW      
+ISO   : 80           |  Expiry  : 1958-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : dd47848372c7405eb8f05754480c11b9
+```
+
+<a href="./archive/00715_000.jpg" target="_blank">
+	<img src="./lowres/00715_000.jpg" alt="Kodak Verichrome 127 film box outside" loading="lazy" width="500" height="468">
+</a>
+
+
+`UUID: b784e9c6507c4b909225f0c3767166c0`↓
+
+<a href="./archive/00715_001.jpg" target="_blank">
+	<img src="./lowres/00715_001.jpg" alt="Kodak Verichrome 127 film box leaflet" loading="lazy" width="378" height="500">
+</a>
+
+
+`UUID: be74feb2516148c4a276a5da135a4ff4`↓
+
+<a href="./archive/00715_002.jpg" target="_blank">
+	<img src="./lowres/00715_002.jpg" alt="Kodak Verichrome 127 film box processing envelope" loading="lazy" width="500" height="249">
+</a>
+
+
+`UUID: 294b05778f5f41a78ffeac20fd3152d1`↓
+
+<a href="./archive/00715_003.jpg" target="_blank">
+	<img src="./lowres/00715_003.jpg" alt="Kodak Verichrome 127 film box processing envelope" loading="lazy" width="500" height="249">
+</a>
+
+
+`UUID: 71ea70e8b54043d38aa0111553cc3e9c`↓
+
+<a href="./archive/00715_004.jpg" target="_blank">
+	<img src="./lowres/00715_004.jpg" alt="Kodak Verichrome 127 film box processing envelope" loading="lazy" width="500" height="249">
 </a>
 
 #### [1959] Ilford FP3 (ref: 84f7)
@@ -3247,6 +3294,21 @@ UUID  : a1dea49e29ae412596b2b691ac3bdca5
 	<img src="./lowres/00533_004.jpg" alt="ORWO NC 19 120 film box leaflet" loading="lazy" width="206" height="499">
 </a>
 
+#### [1978] Minolta 16 Black & White Fast Fine Grain Film (ref: fd30)
+
+```
+Format: 16mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 1978-12 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 8c90c60b8e4c42aabac785f3d8effd30
+Notes : Respooled Kodak Plus-X film inside
+```
+
+<a href="./archive/00717_000.jpg" target="_blank">
+	<img src="./lowres/00717_000.jpg" alt="Minolta 16 Black & White Fast Fine Grain Film 16mm film box outside" loading="lazy" width="500" height="397">
+</a>
+
 #### [1979] GAF Color Slide Film (ref: 6815)
 
 ```
@@ -4844,6 +4906,27 @@ UUID  : 592592a0182a47dda6390cfc4fd18ccd
 	<img src="./lowres/00265_001.jpg" alt="Premium Super XG 35mm film box inside" loading="lazy" width="500" height="440">
 </a>
 
+#### [1992] Kodak Kodachrome (ref: 07e0)
+
+```
+Format: 35mm         |  Process : K-14    
+ISO   : 64           |  Expiry  : 1992-01 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : ba34255d470942dea9572eaabf1007e0
+```
+
+<a href="./archive/00716_000.jpg" target="_blank">
+	<img src="./lowres/00716_000.jpg" alt="Kodak Kodachrome 35mm film box outside" loading="lazy" width="370" height="500">
+</a>
+
+
+`UUID: 0c688af82cff40cb89b4f56d31c19087`↓
+
+<a href="./archive/00716_001.jpg" target="_blank">
+	<img src="./lowres/00716_001.jpg" alt="Kodak Kodachrome 35mm film box inside" loading="lazy" width="373" height="500">
+</a>
+
 #### [1992] ORWO OrwoChrome UT18 (ref: f2ce)
 
 ```
@@ -6173,6 +6256,27 @@ UUID  : 5f88d84525c440fc8879978b1b2864c5
 
 <a href="./archive/00666_001.jpg" target="_blank">
 	<img src="./lowres/00666_001.jpg" alt="Konica Konica Color SR-G 160 120 film box inside" loading="lazy" width="500" height="471">
+</a>
+
+#### [1999] Polaroid 600 Platinum (ref: cd53)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 1999-07 
+Type  : Multi-Pack-2 |  Quantity: 10exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : d58fc4af4f314da988547af34b1bcd53
+```
+
+<a href="./archive/00719_000.jpg" target="_blank">
+	<img src="./lowres/00719_000.jpg" alt="Polaroid 600 Platinum Instant Integral Film film box outside" loading="lazy" width="358" height="500">
+</a>
+
+
+`UUID: 7d1eb96de3bd4ec98b6ee8f0a0e8c774`↓
+
+<a href="./archive/00719_001.jpg" target="_blank">
+	<img src="./lowres/00719_001.jpg" alt="Polaroid 600 Platinum Instant Integral Film film box outside" loading="lazy" width="500" height="446">
 </a>
 
 #### [1999] Kodak Ektachrome Slide Duplicating Film (ref: d53a)
@@ -8188,6 +8292,20 @@ UUID  : f38dd0735c2e441088b421eec4678f8b
 
 <a href="./archive/00309_001.jpg" target="_blank">
 	<img src="./lowres/00309_001.jpg" alt="Ilford Delta 400 Professional 35mm film box inside" loading="lazy" width="433" height="500">
+</a>
+
+#### [2007] Mystic Color Lab Superior 35mm Color Print Film (ref: 4edf)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2007-07 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : d0ca629041344c4f8f6d3200341f4edf
+```
+
+<a href="./archive/00718_000.jpg" target="_blank">
+	<img src="./lowres/00718_000.jpg" alt="Mystic Color Lab Superior 35mm Color Print Film 35mm film box outside" loading="lazy" width="477" height="500">
 </a>
 
 #### [2007] Polaroid Image Instant Film (ref: ee6d)
@@ -14872,26 +14990,26 @@ Rank  Username                      Contributions
 9     Dialupdude                    30    
 10    Mauphoto                      28    
 11    The Compartmentalist          25    
-12    @ob.skura                     19    
-13    fine-seat                     19    
-14    Camera.Riley                  19    
-15    kaimon                        19    
-16    Chrisbes                      19    
-17    Nano_Burger                   18    
-18    toader                        17    
-19    waldoboro                     17    
-20    yc128                         14    
-21    b0baspace                     14    
-22    @SirBrentsworth               13    
-23    benikum                       12    
-24    u/ReeeSchmidtyWerber          11    
-25    @zruk_ts                      10    
-26    minidiscus                    10    
-27    lilyu.xyz                     9     
-28    Kraksen                       9     
-29    lt_col_tall                   9     
-30    MCB18                         9     
-31    benjaminbeeroll               9     
+12    benjaminbeeroll               20    
+13    @ob.skura                     19    
+14    fine-seat                     19    
+15    Camera.Riley                  19    
+16    kaimon                        19    
+17    Chrisbes                      19    
+18    Nano_Burger                   18    
+19    toader                        17    
+20    waldoboro                     17    
+21    yc128                         14    
+22    b0baspace                     14    
+23    @SirBrentsworth               13    
+24    benikum                       12    
+25    u/ReeeSchmidtyWerber          11    
+26    @zruk_ts                      10    
+27    minidiscus                    10    
+28    lilyu.xyz                     9     
+29    Kraksen                       9     
+30    lt_col_tall                   9     
+31    MCB18                         9     
 32    Rafa Laguillo                 8     
 33    @toastergod101                7     
 34    @filmfotofella                7     

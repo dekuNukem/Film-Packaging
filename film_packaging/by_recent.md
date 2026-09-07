@@ -16,12 +16,17 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 07 2026
-Unique items: 710
-Total scans : 1303
+Unique items: 715
+Total scans : 1314
 ```
 
 -----
 
+- [[2026-09-07] Polaroid 600 Platinum (ref: cd53)](#2026-09-07-polaroid-600-platinum-ref-cd53)
+- [[2026-09-07] Mystic Color Lab Superior 35mm Color Print Film (ref: 4edf)](#2026-09-07-mystic-color-lab-superior-35mm-color-print-film-ref-4edf)
+- [[2026-09-07] Minolta 16 Black & White Fast Fine Grain Film (ref: fd30)](#2026-09-07-minolta-16-black-white-fast-fine-grain-film-ref-fd30)
+- [[2026-09-07] Kodak Kodachrome (ref: 07e0)](#2026-09-07-kodak-kodachrome-ref-07e0)
+- [[2026-09-07] Kodak Verichrome (ref: 11b9)](#2026-09-07-kodak-verichrome-ref-11b9)
 - [[2026-09-07] Kodak Tri-X Pan (ref: 4257)](#2026-09-07-kodak-tri-x-pan-ref-4257)
 - [[2026-09-07] Kodak Tri-X Pan (ref: b4e8)](#2026-09-07-kodak-tri-x-pan-ref-b4e8)
 - [[2026-09-07] Kodak Gold (ref: f2a2)](#2026-09-07-kodak-gold-ref-f2a2)
@@ -735,6 +740,119 @@ Total scans : 1303
 
 
 -----
+
+
+`UUID: 7d1eb96de3bd4ec98b6ee8f0a0e8c774`↓
+
+<a href="./archive/00719_001.jpg" target="_blank">
+	<img src="./lowres/00719_001.jpg" alt="Polaroid 600 Platinum Instant Integral Film film box outside" loading="lazy" width="500" height="446">
+</a>
+
+#### [2026-09-07] Polaroid 600 Platinum (ref: cd53)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 1999-07 
+Type  : Multi-Pack-2 |  Quantity: 10exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : d58fc4af4f314da988547af34b1bcd53
+```
+
+<a href="./archive/00719_000.jpg" target="_blank">
+	<img src="./lowres/00719_000.jpg" alt="Polaroid 600 Platinum Instant Integral Film film box outside" loading="lazy" width="358" height="500">
+</a>
+
+#### [2026-09-07] Mystic Color Lab Superior 35mm Color Print Film (ref: 4edf)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2007-07 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : d0ca629041344c4f8f6d3200341f4edf
+```
+
+<a href="./archive/00718_000.jpg" target="_blank">
+	<img src="./lowres/00718_000.jpg" alt="Mystic Color Lab Superior 35mm Color Print Film 35mm film box outside" loading="lazy" width="477" height="500">
+</a>
+
+#### [2026-09-07] Minolta 16 Black & White Fast Fine Grain Film (ref: fd30)
+
+```
+Format: 16mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 1978-12 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 8c90c60b8e4c42aabac785f3d8effd30
+Notes : Respooled Kodak Plus-X film inside
+```
+
+<a href="./archive/00717_000.jpg" target="_blank">
+	<img src="./lowres/00717_000.jpg" alt="Minolta 16 Black & White Fast Fine Grain Film 16mm film box outside" loading="lazy" width="500" height="397">
+</a>
+
+
+`UUID: 0c688af82cff40cb89b4f56d31c19087`↓
+
+<a href="./archive/00716_001.jpg" target="_blank">
+	<img src="./lowres/00716_001.jpg" alt="Kodak Kodachrome 35mm film box inside" loading="lazy" width="373" height="500">
+</a>
+
+#### [2026-09-07] Kodak Kodachrome (ref: 07e0)
+
+```
+Format: 35mm         |  Process : K-14    
+ISO   : 64           |  Expiry  : 1992-01 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : ba34255d470942dea9572eaabf1007e0
+```
+
+<a href="./archive/00716_000.jpg" target="_blank">
+	<img src="./lowres/00716_000.jpg" alt="Kodak Kodachrome 35mm film box outside" loading="lazy" width="370" height="500">
+</a>
+
+
+`UUID: 71ea70e8b54043d38aa0111553cc3e9c`↓
+
+<a href="./archive/00715_004.jpg" target="_blank">
+	<img src="./lowres/00715_004.jpg" alt="Kodak Verichrome 127 film box processing envelope" loading="lazy" width="500" height="249">
+</a>
+
+
+`UUID: 294b05778f5f41a78ffeac20fd3152d1`↓
+
+<a href="./archive/00715_003.jpg" target="_blank">
+	<img src="./lowres/00715_003.jpg" alt="Kodak Verichrome 127 film box processing envelope" loading="lazy" width="500" height="249">
+</a>
+
+
+`UUID: be74feb2516148c4a276a5da135a4ff4`↓
+
+<a href="./archive/00715_002.jpg" target="_blank">
+	<img src="./lowres/00715_002.jpg" alt="Kodak Verichrome 127 film box processing envelope" loading="lazy" width="500" height="249">
+</a>
+
+
+`UUID: b784e9c6507c4b909225f0c3767166c0`↓
+
+<a href="./archive/00715_001.jpg" target="_blank">
+	<img src="./lowres/00715_001.jpg" alt="Kodak Verichrome 127 film box leaflet" loading="lazy" width="378" height="500">
+</a>
+
+#### [2026-09-07] Kodak Verichrome (ref: 11b9)
+
+```
+Format: 127          |  Process : BW      
+ISO   : 80           |  Expiry  : 1958-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : dd47848372c7405eb8f05754480c11b9
+```
+
+<a href="./archive/00715_000.jpg" target="_blank">
+	<img src="./lowres/00715_000.jpg" alt="Kodak Verichrome 127 film box outside" loading="lazy" width="500" height="468">
+</a>
 
 #### [2026-09-07] Kodak Tri-X Pan (ref: 4257)
 
@@ -14872,26 +14990,26 @@ Rank  Username                      Contributions
 9     Dialupdude                    30    
 10    Mauphoto                      28    
 11    The Compartmentalist          25    
-12    @ob.skura                     19    
-13    fine-seat                     19    
-14    Camera.Riley                  19    
-15    kaimon                        19    
-16    Chrisbes                      19    
-17    Nano_Burger                   18    
-18    toader                        17    
-19    waldoboro                     17    
-20    yc128                         14    
-21    b0baspace                     14    
-22    @SirBrentsworth               13    
-23    benikum                       12    
-24    u/ReeeSchmidtyWerber          11    
-25    @zruk_ts                      10    
-26    minidiscus                    10    
-27    lilyu.xyz                     9     
-28    Kraksen                       9     
-29    lt_col_tall                   9     
-30    MCB18                         9     
-31    benjaminbeeroll               9     
+12    benjaminbeeroll               20    
+13    @ob.skura                     19    
+14    fine-seat                     19    
+15    Camera.Riley                  19    
+16    kaimon                        19    
+17    Chrisbes                      19    
+18    Nano_Burger                   18    
+19    toader                        17    
+20    waldoboro                     17    
+21    yc128                         14    
+22    b0baspace                     14    
+23    @SirBrentsworth               13    
+24    benikum                       12    
+25    u/ReeeSchmidtyWerber          11    
+26    @zruk_ts                      10    
+27    minidiscus                    10    
+28    lilyu.xyz                     9     
+29    Kraksen                       9     
+30    lt_col_tall                   9     
+31    MCB18                         9     
 32    Rafa Laguillo                 8     
 33    @toastergod101                7     
 34    @filmfotofella                7     

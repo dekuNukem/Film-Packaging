@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Sep 07 2026
-Unique items: 710
-Total scans : 1303
+Unique items: 715
+Total scans : 1314
 ```
 
 Or Sort by...
@@ -64,26 +64,26 @@ Rank  Username                      Contributions
 9     Dialupdude                    30    
 10    Mauphoto                      28    
 11    The Compartmentalist          25    
-12    @ob.skura                     19    
-13    fine-seat                     19    
-14    Camera.Riley                  19    
-15    kaimon                        19    
-16    Chrisbes                      19    
-17    Nano_Burger                   18    
-18    toader                        17    
-19    waldoboro                     17    
-20    yc128                         14    
-21    b0baspace                     14    
-22    @SirBrentsworth               13    
-23    benikum                       12    
-24    u/ReeeSchmidtyWerber          11    
-25    @zruk_ts                      10    
-26    minidiscus                    10    
-27    lilyu.xyz                     9     
-28    Kraksen                       9     
-29    lt_col_tall                   9     
-30    MCB18                         9     
-31    benjaminbeeroll               9     
+12    benjaminbeeroll               20    
+13    @ob.skura                     19    
+14    fine-seat                     19    
+15    Camera.Riley                  19    
+16    kaimon                        19    
+17    Chrisbes                      19    
+18    Nano_Burger                   18    
+19    toader                        17    
+20    waldoboro                     17    
+21    yc128                         14    
+22    b0baspace                     14    
+23    @SirBrentsworth               13    
+24    benikum                       12    
+25    u/ReeeSchmidtyWerber          11    
+26    @zruk_ts                      10    
+27    minidiscus                    10    
+28    lilyu.xyz                     9     
+29    Kraksen                       9     
+30    lt_col_tall                   9     
+31    MCB18                         9     
 32    Rafa Laguillo                 8     
 33    @toastergod101                7     
 34    @filmfotofella                7     
@@ -121,8 +121,13 @@ Rank  Username                      Contributions
   - benjaminbeeroll: GAF Color Slide Film
   - benjaminbeeroll: Kodak Ektachrome Slide Duplicating Film 5071
   - benjaminbeeroll: Kodak Gold
+  - benjaminbeeroll: Kodak Kodachrome
   - benjaminbeeroll: Kodak Kodacolor II
   - benjaminbeeroll: Kodak Tri-X Pan
+  - benjaminbeeroll: Kodak Verichrome
+  - benjaminbeeroll: Minolta 16 Black & White Fast Fine Grain Film
+  - benjaminbeeroll: Mystic Color Lab Superior 35mm Color Print Film
+  - benjaminbeeroll: Polaroid 600 Platinum
   - Kraksen: Konica Minolta Centuria Super
   - Kraksen: MarixFilm Aircolor
   - Kraksen: Stavanger Foto Frontier
