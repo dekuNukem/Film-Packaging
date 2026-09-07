@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 07 2026
-Unique items: 703
-Total scans : 1294
+Unique items: 710
+Total scans : 1303
 ```
 
 -----
@@ -28,6 +28,7 @@ Total scans : 1294
 - [[110] Klick XD200 (ref: 44d7)](#110-klick-xd200-ref-44d7)
 - [[110] Kodak 110 Film (ref: 8cca)](#110-kodak-110-film-ref-8cca)
 - [[110] Kodak Ektachrome 64 (ref: 07c0)](#110-kodak-ektachrome-64-ref-07c0)
+- [[110] Kodak Gold (ref: f2a2)](#110-kodak-gold-ref-f2a2)
 - [[110] Kodak Gold (ref: bdd5)](#110-kodak-gold-ref-bdd5)
 - [[110] Kodak Kodachrome 64 (ref: 3145)](#110-kodak-kodachrome-64-ref-3145)
 - [[110] Kodak Kodacolor 400 (ref: 9e4c)](#110-kodak-kodacolor-400-ref-9e4c)
@@ -183,6 +184,7 @@ Total scans : 1294
 - [[126] GAF Color Slide Film (ref: dea6)](#126-gaf-color-slide-film-ref-dea6)
 - [[126] Ificolor SHR 100 (ref: 0198)](#126-ificolor-shr-100-ref-0198)
 - [[126] Kodak Ektachrome 200 (ref: f372)](#126-kodak-ektachrome-200-ref-f372)
+- [[126] Kodak Kodacolor II (ref: c326)](#126-kodak-kodacolor-ii-ref-c326)
 - [[126] Kodak Kodacolor II (ref: 7310)](#126-kodak-kodacolor-ii-ref-7310)
 - [[126] Kodak Kodacolor-X (ref: 0ce5)](#126-kodak-kodacolor-x-ref-0ce5)
 - [[126] Kodak Kodacolor-X (ref: 5302)](#126-kodak-kodacolor-x-ref-5302)
@@ -331,6 +333,7 @@ Total scans : 1294
 - [[35mm] Fujifilm Fujicolor Super HG (ref: feb7)](#35mm-fujifilm-fujicolor-super-hg-ref-feb7)
 - [[35mm] Fujifilm Fujicolor Super HG (ref: 9942)](#35mm-fujifilm-fujicolor-super-hg-ref-9942)
 - [[35mm] Fujifilm Fujicolor Super HG (ref: ee94)](#35mm-fujifilm-fujicolor-super-hg-ref-ee94)
+- [[35mm] Fujifilm Fujicolor Super HG II 200 (ref: 7ac0)](#35mm-fujifilm-fujicolor-super-hg-ii-200-ref-7ac0)
 - [[35mm] Fujifilm Fujicolor Super HR (ref: 7fd2)](#35mm-fujifilm-fujicolor-super-hr-ref-7fd2)
 - [[35mm] Fujifilm Fujicolor Super HR (ref: aaa0)](#35mm-fujifilm-fujicolor-super-hr-ref-aaa0)
 - [[35mm] Fujifilm Fujicolor Superia (ref: d1b7)](#35mm-fujifilm-fujicolor-superia-ref-d1b7)
@@ -351,6 +354,7 @@ Total scans : 1294
 - [[35mm] Fujifilm Superia 200 (ref: fd36)](#35mm-fujifilm-superia-200-ref-fd36)
 - [[35mm] Fujifilm Superia Premium 400 (ref: ef1f)](#35mm-fujifilm-superia-premium-400-ref-ef1f)
 - [[35mm] Fujifilm Velvia 50 (ref: 9678)](#35mm-fujifilm-velvia-50-ref-9678)
+- [[35mm] GAF Color Slide Film (ref: 57a5)](#35mm-gaf-color-slide-film-ref-57a5)
 - [[35mm] GAF Color Slide Film (ref: 6815)](#35mm-gaf-color-slide-film-ref-6815)
 - [[35mm] GT Photo GT24 (ref: 92c2)](#35mm-gt-photo-gt24-ref-92c2)
 - [[35mm] Great Films Processing Kodachrome (ref: c012)](#35mm-great-films-processing-kodachrome-ref-c012)
@@ -414,6 +418,7 @@ Total scans : 1294
 - [[35mm] Kodak Ektachrome Professional Film 5018 (ref: 6ace)](#35mm-kodak-ektachrome-professional-film-5018-ref-6ace)
 - [[35mm] Kodak Ektachrome Slide Duplicating Film (ref: 596a)](#35mm-kodak-ektachrome-slide-duplicating-film-ref-596a)
 - [[35mm] Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#35mm-kodak-ektachrome-slide-duplicating-film-ref-d53a)
+- [[35mm] Kodak Ektachrome Slide Duplicating Film 5071 (ref: 76f8)](#35mm-kodak-ektachrome-slide-duplicating-film-5071-ref-76f8)
 - [[35mm] Kodak Ektachrome-X (ref: aec5)](#35mm-kodak-ektachrome-x-ref-aec5)
 - [[35mm] Kodak Ektacolor Pro 400 (ref: aa72)](#35mm-kodak-ektacolor-pro-400-ref-aa72)
 - [[35mm] Kodak Ektagraphic HC Slide Film (ref: d2a2)](#35mm-kodak-ektagraphic-hc-slide-film-ref-d2a2)
@@ -492,6 +497,8 @@ Total scans : 1294
 - [[35mm] Kodak Tri-X 400 (ref: c671)](#35mm-kodak-tri-x-400-ref-c671)
 - [[35mm] Kodak Tri-X 400 (ref: cba7)](#35mm-kodak-tri-x-400-ref-cba7)
 - [[35mm] Kodak Tri-X Pan (ref: 85e9)](#35mm-kodak-tri-x-pan-ref-85e9)
+- [[35mm] Kodak Tri-X Pan (ref: b4e8)](#35mm-kodak-tri-x-pan-ref-b4e8)
+- [[35mm] Kodak Tri-X Pan (ref: 4257)](#35mm-kodak-tri-x-pan-ref-4257)
 - [[35mm] Kodak Ultra (ref: 69a1)](#35mm-kodak-ultra-ref-69a1)
 - [[35mm] Kodak UltraMax (ref: 145b)](#35mm-kodak-ultramax-ref-145b)
 - [[35mm] Kodak UltraMax (ref: 3b23)](#35mm-kodak-ultramax-ref-3b23)
@@ -811,6 +818,20 @@ UUID  : 8131d8c6fbf14016be9c17a2586b07c0
 
 <a href="./archive/00025_000.jpg" target="_blank">
 	<img src="./lowres/00025_000.jpg" alt="Kodak Ektachrome 64 110 film box outside" loading="lazy" width="500" height="418">
+</a>
+
+#### [110] Kodak Gold (ref: f2a2)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2001-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 86c04a01042341b8a7ae95c660f4f2a2
+```
+
+<a href="./archive/00712_000.jpg" target="_blank">
+	<img src="./lowres/00712_000.jpg" alt="Kodak Gold 110 film box outside" loading="lazy" width="479" height="499">
 </a>
 
 #### [110] Kodak Gold (ref: bdd5)
@@ -4168,6 +4189,20 @@ UUID  : fef4be09ea484eecb10a13282d18f372
 	<img src="./lowres/00261_002.jpg" alt="Kodak Ektachrome 200 126 film box leaflet" loading="lazy" width="483" height="500">
 </a>
 
+#### [126] Kodak Kodacolor II (ref: c326)
+
+```
+Format: 126          |  Process : C-41    
+ISO   : 80           |  Expiry  : 1976-05 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : db6491a822bb44a183c95744cb26c326
+```
+
+<a href="./archive/00710_000.jpg" target="_blank">
+	<img src="./lowres/00710_000.jpg" alt="Kodak Kodacolor II 126 film box outside" loading="lazy" width="467" height="500">
+</a>
+
 #### [126] Kodak Kodacolor II (ref: 7310)
 
 ```
@@ -6987,6 +7022,20 @@ UUID  : 9233714654ff481089c2d4ff1334ee94
 	<img src="./lowres/00150_001.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box inside" loading="lazy" width="415" height="500">
 </a>
 
+#### [35mm] Fujifilm Fujicolor Super HG II 200 (ref: 7ac0)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 1997-10 
+Type  : Multi-Pack-4 |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 0c8b28e5afc644b2b64475da8aaf7ac0
+```
+
+<a href="./archive/00708_000.jpg" target="_blank">
+	<img src="./lowres/00708_000.jpg" alt="Fujifilm Fujicolor Super HG II 200 35mm film box outside" loading="lazy" width="385" height="500">
+</a>
+
 #### [35mm] Fujifilm Fujicolor Super HR (ref: 7fd2)
 
 ```
@@ -7315,6 +7364,20 @@ UUID  : ee425a725d52448b95cb0664aabf9678
 
 <a href="./archive/00629_000.jpg" target="_blank">
 	<img src="./lowres/00629_000.jpg" alt="Fujifilm Velvia 50 35mm film box outside" loading="lazy" width="422" height="499">
+</a>
+
+#### [35mm] GAF Color Slide Film (ref: 57a5)
+
+```
+Format: 35mm         |  Process : AR-2    
+ISO   : 200          |  Expiry  : 1974-04 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 3c3b84f6e9b6457b80ccc95bcf9057a5
+```
+
+<a href="./archive/00709_000.jpg" target="_blank">
+	<img src="./lowres/00709_000.jpg" alt="GAF Color Slide Film 35mm film box outside" loading="lazy" width="408" height="499">
 </a>
 
 #### [35mm] GAF Color Slide Film (ref: 6815)
@@ -8515,6 +8578,34 @@ UUID  : 59aa1c52cf434a60976debe684a3d53a
 
 <a href="./archive/00203_002.jpg" target="_blank">
 	<img src="./lowres/00203_002.jpg" alt="Kodak Ektachrome Slide Duplicating Film 35mm film box leaflet" loading="lazy" width="194" height="500">
+</a>
+
+#### [35mm] Kodak Ektachrome Slide Duplicating Film 5071 (ref: 76f8)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 4            |  Expiry  : 1980-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 65c654459db94987a653ce34ae6f76f8
+```
+
+<a href="./archive/00711_000.jpg" target="_blank">
+	<img src="./lowres/00711_000.jpg" alt="Kodak Ektachrome Slide Duplicating Film 5071 35mm film box outside" loading="lazy" width="404" height="500">
+</a>
+
+
+`UUID: 47e00ad5d78a47e1ae51f6c80bd86c08`↓
+
+<a href="./archive/00711_001.jpg" target="_blank">
+	<img src="./lowres/00711_001.jpg" alt="Kodak Ektachrome Slide Duplicating Film 5071 35mm film box leaflet" loading="lazy" width="209" height="500">
+</a>
+
+
+`UUID: 87e70efe7ceb41608a89a09a355de58e`↓
+
+<a href="./archive/00711_002.jpg" target="_blank">
+	<img src="./lowres/00711_002.jpg" alt="Kodak Ektachrome Slide Duplicating Film 5071 35mm film box leaflet" loading="lazy" width="203" height="500">
 </a>
 
 #### [35mm] Kodak Ektachrome-X (ref: aec5)
@@ -9993,6 +10084,34 @@ UUID  : 09363ad5ddf84f67bb44ac27d17c85e9
 
 <a href="./archive/00410_000.jpg" target="_blank">
 	<img src="./lowres/00410_000.jpg" alt="Kodak Tri-X Pan 35mm film box outside" loading="lazy" width="404" height="500">
+</a>
+
+#### [35mm] Kodak Tri-X Pan (ref: b4e8)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 1990-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 8f3e3aab508a454fbe868b1025adb4e8
+```
+
+<a href="./archive/00713_000.jpg" target="_blank">
+	<img src="./lowres/00713_000.jpg" alt="Kodak Tri-X Pan 35mm film box outside" loading="lazy" width="420" height="500">
+</a>
+
+#### [35mm] Kodak Tri-X Pan (ref: 4257)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 1994-02 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 4f04fc9a2284495cb367f76cc7054257
+```
+
+<a href="./archive/00714_000.jpg" target="_blank">
+	<img src="./lowres/00714_000.jpg" alt="Kodak Tri-X Pan 35mm film box outside" loading="lazy" width="409" height="499">
 </a>
 
 #### [35mm] Kodak Ultra (ref: 69a1)
@@ -14772,33 +14891,34 @@ Rank  Username                      Contributions
 28    Kraksen                       9     
 29    lt_col_tall                   9     
 30    MCB18                         9     
-31    Rafa Laguillo                 8     
-32    @toastergod101                7     
-33    @filmfotofella                7     
-34    GreatGizmo74                  6     
-35    nick                          6     
-36    Greg                          6     
-37    @gregrouxphotography          5     
-38    Tobias                        5     
-39    @janjuudas                    5     
-40    Henry Gunn                    4     
-41    TheSelousScout                4     
-42    @sachynmital                  3     
-43    Tallbird Cowboy               3     
-44    @seklerek                     2     
-45    @ftfilmphotos                 2     
-46    @tylerdrey                    2     
-47    Warren Umbach                 2     
-48    @flyingcamerastudio           2     
-49    @pommegranny                  2     
-50    Yrikonchik                    1     
-51    @ad.astra.per.aspera.1894     1     
-52    Aoi Yuki                      1     
-53    lemoniter                     1     
-54    @shotbyliampewpew             1     
-55    Joo                           1     
-56    @titanic_159                  1     
-57    Constantino                   1     
+31    benjaminbeeroll               9     
+32    Rafa Laguillo                 8     
+33    @toastergod101                7     
+34    @filmfotofella                7     
+35    GreatGizmo74                  6     
+36    nick                          6     
+37    Greg                          6     
+38    @gregrouxphotography          5     
+39    Tobias                        5     
+40    @janjuudas                    5     
+41    Henry Gunn                    4     
+42    TheSelousScout                4     
+43    @sachynmital                  3     
+44    Tallbird Cowboy               3     
+45    @seklerek                     2     
+46    @ftfilmphotos                 2     
+47    @tylerdrey                    2     
+48    Warren Umbach                 2     
+49    @flyingcamerastudio           2     
+50    @pommegranny                  2     
+51    Yrikonchik                    1     
+52    @ad.astra.per.aspera.1894     1     
+53    Aoi Yuki                      1     
+54    lemoniter                     1     
+55    @shotbyliampewpew             1     
+56    Joo                           1     
+57    @titanic_159                  1     
+58    Constantino                   1     
 ```
 
 ## Questions or Comments?

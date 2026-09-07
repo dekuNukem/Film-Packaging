@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Sep 07 2026
-Unique items: 703
-Total scans : 1294
+Unique items: 710
+Total scans : 1303
 ```
 
 Or Sort by...
@@ -83,39 +83,46 @@ Rank  Username                      Contributions
 28    Kraksen                       9     
 29    lt_col_tall                   9     
 30    MCB18                         9     
-31    Rafa Laguillo                 8     
-32    @toastergod101                7     
-33    @filmfotofella                7     
-34    GreatGizmo74                  6     
-35    nick                          6     
-36    Greg                          6     
-37    @gregrouxphotography          5     
-38    Tobias                        5     
-39    @janjuudas                    5     
-40    Henry Gunn                    4     
-41    TheSelousScout                4     
-42    @sachynmital                  3     
-43    Tallbird Cowboy               3     
-44    @seklerek                     2     
-45    @ftfilmphotos                 2     
-46    @tylerdrey                    2     
-47    Warren Umbach                 2     
-48    @flyingcamerastudio           2     
-49    @pommegranny                  2     
-50    Yrikonchik                    1     
-51    @ad.astra.per.aspera.1894     1     
-52    Aoi Yuki                      1     
-53    lemoniter                     1     
-54    @shotbyliampewpew             1     
-55    Joo                           1     
-56    @titanic_159                  1     
-57    Constantino                   1     
+31    benjaminbeeroll               9     
+32    Rafa Laguillo                 8     
+33    @toastergod101                7     
+34    @filmfotofella                7     
+35    GreatGizmo74                  6     
+36    nick                          6     
+37    Greg                          6     
+38    @gregrouxphotography          5     
+39    Tobias                        5     
+40    @janjuudas                    5     
+41    Henry Gunn                    4     
+42    TheSelousScout                4     
+43    @sachynmital                  3     
+44    Tallbird Cowboy               3     
+45    @seklerek                     2     
+46    @ftfilmphotos                 2     
+47    @tylerdrey                    2     
+48    Warren Umbach                 2     
+49    @flyingcamerastudio           2     
+50    @pommegranny                  2     
+51    Yrikonchik                    1     
+52    @ad.astra.per.aspera.1894     1     
+53    Aoi Yuki                      1     
+54    lemoniter                     1     
+55    @shotbyliampewpew             1     
+56    Joo                           1     
+57    @titanic_159                  1     
+58    Constantino                   1     
 ```
 
 ## Recent Activities
 
 ```
 2026-09-07
+  - benjaminbeeroll: Fujifilm Fujicolor Super HG II 200
+  - benjaminbeeroll: GAF Color Slide Film
+  - benjaminbeeroll: Kodak Ektachrome Slide Duplicating Film 5071
+  - benjaminbeeroll: Kodak Gold
+  - benjaminbeeroll: Kodak Kodacolor II
+  - benjaminbeeroll: Kodak Tri-X Pan
   - Kraksen: Konica Minolta Centuria Super
   - Kraksen: MarixFilm Aircolor
   - Kraksen: Stavanger Foto Frontier

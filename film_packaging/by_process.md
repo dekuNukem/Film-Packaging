@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 07 2026
-Unique items: 703
-Total scans : 1294
+Unique items: 710
+Total scans : 1303
 ```
 
 -----
@@ -25,6 +25,7 @@ Total scans : 1294
 - [[AP41] Agfa AgfaChrome 50 S (ref: eb28)](#ap41-agfa-agfachrome-50-s-ref-eb28)
 - [[AP41] Agfa AgfaChrome 50 S (ref: 71a8)](#ap41-agfa-agfachrome-50-s-ref-71a8)
 - [[AR-1] GAF Color Slide Film (ref: dea6)](#ar-1-gaf-color-slide-film-ref-dea6)
+- [[AR-2] GAF Color Slide Film (ref: 57a5)](#ar-2-gaf-color-slide-film-ref-57a5)
 - [[BW] ADOX CHS 100 II (ref: 8adf)](#bw-adox-chs-100-ii-ref-8adf)
 - [[BW] ADOX CMS 20 II Pro (ref: 0bea)](#bw-adox-cms-20-ii-pro-ref-0bea)
 - [[BW] ADOX HR 50 (ref: 4da7)](#bw-adox-hr-50-ref-4da7)
@@ -194,6 +195,8 @@ Total scans : 1294
 - [[BW] Kodak Tri-X Pan (ref: 9a93)](#bw-kodak-tri-x-pan-ref-9a93)
 - [[BW] Kodak Tri-X Pan (ref: 85e9)](#bw-kodak-tri-x-pan-ref-85e9)
 - [[BW] Kodak Tri-X Pan (ref: f201)](#bw-kodak-tri-x-pan-ref-f201)
+- [[BW] Kodak Tri-X Pan (ref: b4e8)](#bw-kodak-tri-x-pan-ref-b4e8)
+- [[BW] Kodak Tri-X Pan (ref: 4257)](#bw-kodak-tri-x-pan-ref-4257)
 - [[BW] Kodak Verichrome (ref: e465)](#bw-kodak-verichrome-ref-e465)
 - [[BW] Kodak Verichrome (ref: c9c2)](#bw-kodak-verichrome-ref-c9c2)
 - [[BW] Kodak Verichrome Pan (ref: 7984)](#bw-kodak-verichrome-pan-ref-7984)
@@ -339,6 +342,7 @@ Total scans : 1294
 - [[C-41] Fujifilm Fujicolor Super HG (ref: feb7)](#c-41-fujifilm-fujicolor-super-hg-ref-feb7)
 - [[C-41] Fujifilm Fujicolor Super HG (ref: 9942)](#c-41-fujifilm-fujicolor-super-hg-ref-9942)
 - [[C-41] Fujifilm Fujicolor Super HG (ref: ee94)](#c-41-fujifilm-fujicolor-super-hg-ref-ee94)
+- [[C-41] Fujifilm Fujicolor Super HG II 200 (ref: 7ac0)](#c-41-fujifilm-fujicolor-super-hg-ii-200-ref-7ac0)
 - [[C-41] Fujifilm Fujicolor Super HR (ref: 7fd2)](#c-41-fujifilm-fujicolor-super-hr-ref-7fd2)
 - [[C-41] Fujifilm Fujicolor Super HR (ref: aaa0)](#c-41-fujifilm-fujicolor-super-hr-ref-aaa0)
 - [[C-41] Fujifilm Fujicolor Superia (ref: d1b7)](#c-41-fujifilm-fujicolor-superia-ref-d1b7)
@@ -403,6 +407,7 @@ Total scans : 1294
 - [[C-41] Kodak FarbWelt 400 (ref: e9b6)](#c-41-kodak-farbwelt-400-ref-e9b6)
 - [[C-41] Kodak Gold (ref: 1962)](#c-41-kodak-gold-ref-1962)
 - [[C-41] Kodak Gold (ref: 2f8d)](#c-41-kodak-gold-ref-2f8d)
+- [[C-41] Kodak Gold (ref: f2a2)](#c-41-kodak-gold-ref-f2a2)
 - [[C-41] Kodak Gold (ref: ea58)](#c-41-kodak-gold-ref-ea58)
 - [[C-41] Kodak Gold (ref: bdd5)](#c-41-kodak-gold-ref-bdd5)
 - [[C-41] Kodak Gold (ref: d48d)](#c-41-kodak-gold-ref-d48d)
@@ -425,6 +430,7 @@ Total scans : 1294
 - [[C-41] Kodak Kodacolor Gold 200 (ref: f368)](#c-41-kodak-kodacolor-gold-200-ref-f368)
 - [[C-41] Kodak Kodacolor Gold 400 (ref: 473d)](#c-41-kodak-kodacolor-gold-400-ref-473d)
 - [[C-41] Kodak Kodacolor II (ref: f435)](#c-41-kodak-kodacolor-ii-ref-f435)
+- [[C-41] Kodak Kodacolor II (ref: c326)](#c-41-kodak-kodacolor-ii-ref-c326)
 - [[C-41] Kodak Kodacolor II (ref: b19e)](#c-41-kodak-kodacolor-ii-ref-b19e)
 - [[C-41] Kodak Kodacolor II (ref: 7310)](#c-41-kodak-kodacolor-ii-ref-7310)
 - [[C-41] Kodak Kodacolor II (ref: 8dcf)](#c-41-kodak-kodacolor-ii-ref-8dcf)
@@ -603,6 +609,7 @@ Total scans : 1294
 - [[E-6] Kodak Ektachrome Professional Film 5018 (ref: 6ace)](#e-6-kodak-ektachrome-professional-film-5018-ref-6ace)
 - [[E-6] Kodak Ektachrome Slide Duplicating Film (ref: 596a)](#e-6-kodak-ektachrome-slide-duplicating-film-ref-596a)
 - [[E-6] Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#e-6-kodak-ektachrome-slide-duplicating-film-ref-d53a)
+- [[E-6] Kodak Ektachrome Slide Duplicating Film 5071 (ref: 76f8)](#e-6-kodak-ektachrome-slide-duplicating-film-5071-ref-76f8)
 - [[E-6] Kodak Elite Chrome (ref: 523c)](#e-6-kodak-elite-chrome-ref-523c)
 - [[E-6] Kodak Elite Chrome (ref: 3943)](#e-6-kodak-elite-chrome-ref-3943)
 - [[E-6] Kodak Elite Chrome Extra Color (ref: 71f9)](#e-6-kodak-elite-chrome-extra-color-ref-71f9)
@@ -832,6 +839,20 @@ UUID  : c426ea17398c4c549c6a2720103adea6
 
 <a href="./archive/00054_002.jpg" target="_blank">
 	<img src="./lowres/00054_002.jpg" alt="GAF Color Slide Film 126 film box leaflet" loading="lazy" width="449" height="500">
+</a>
+
+#### [AR-2] GAF Color Slide Film (ref: 57a5)
+
+```
+Format: 35mm         |  Process : AR-2    
+ISO   : 200          |  Expiry  : 1974-04 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 3c3b84f6e9b6457b80ccc95bcf9057a5
+```
+
+<a href="./archive/00709_000.jpg" target="_blank">
+	<img src="./lowres/00709_000.jpg" alt="GAF Color Slide Film 35mm film box outside" loading="lazy" width="408" height="499">
 </a>
 
 #### [BW] ADOX CHS 100 II (ref: 8adf)
@@ -4073,6 +4094,34 @@ UUID  : 496c4c1b618442bf933f48660acef201
 	<img src="./lowres/00338_002.jpg" alt="Kodak Tri-X Pan 120 film box leaflet" loading="lazy" width="189" height="500">
 </a>
 
+#### [BW] Kodak Tri-X Pan (ref: b4e8)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 1990-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 8f3e3aab508a454fbe868b1025adb4e8
+```
+
+<a href="./archive/00713_000.jpg" target="_blank">
+	<img src="./lowres/00713_000.jpg" alt="Kodak Tri-X Pan 35mm film box outside" loading="lazy" width="420" height="500">
+</a>
+
+#### [BW] Kodak Tri-X Pan (ref: 4257)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 1994-02 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 4f04fc9a2284495cb367f76cc7054257
+```
+
+<a href="./archive/00714_000.jpg" target="_blank">
+	<img src="./lowres/00714_000.jpg" alt="Kodak Tri-X Pan 35mm film box outside" loading="lazy" width="409" height="499">
+</a>
+
 #### [BW] Kodak Verichrome (ref: e465)
 
 ```
@@ -6833,6 +6882,20 @@ UUID  : 9233714654ff481089c2d4ff1334ee94
 	<img src="./lowres/00150_001.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box inside" loading="lazy" width="415" height="500">
 </a>
 
+#### [C-41] Fujifilm Fujicolor Super HG II 200 (ref: 7ac0)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 1997-10 
+Type  : Multi-Pack-4 |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 0c8b28e5afc644b2b64475da8aaf7ac0
+```
+
+<a href="./archive/00708_000.jpg" target="_blank">
+	<img src="./lowres/00708_000.jpg" alt="Fujifilm Fujicolor Super HG II 200 35mm film box outside" loading="lazy" width="385" height="500">
+</a>
+
 #### [C-41] Fujifilm Fujicolor Super HR (ref: 7fd2)
 
 ```
@@ -7971,6 +8034,20 @@ UUID  : c56f944bf87d40dcac75cf41aeb82f8d
 	<img src="./lowres/00149_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="396" height="500">
 </a>
 
+#### [C-41] Kodak Gold (ref: f2a2)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2001-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 86c04a01042341b8a7ae95c660f4f2a2
+```
+
+<a href="./archive/00712_000.jpg" target="_blank">
+	<img src="./lowres/00712_000.jpg" alt="Kodak Gold 110 film box outside" loading="lazy" width="479" height="499">
+</a>
+
 #### [C-41] Kodak Gold (ref: ea58)
 
 ```
@@ -8361,6 +8438,20 @@ UUID  : 8b179d290e4a462bb49bcec4f7c7f435
 
 <a href="./archive/00572_000.jpg" target="_blank">
 	<img src="./lowres/00572_000.jpg" alt="Kodak Kodacolor II 120 film box outside" loading="lazy" width="500" height="498">
+</a>
+
+#### [C-41] Kodak Kodacolor II (ref: c326)
+
+```
+Format: 126          |  Process : C-41    
+ISO   : 80           |  Expiry  : 1976-05 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : db6491a822bb44a183c95744cb26c326
+```
+
+<a href="./archive/00710_000.jpg" target="_blank">
+	<img src="./lowres/00710_000.jpg" alt="Kodak Kodacolor II 126 film box outside" loading="lazy" width="467" height="500">
 </a>
 
 #### [C-41] Kodak Kodacolor II (ref: b19e)
@@ -11771,6 +11862,34 @@ UUID  : 59aa1c52cf434a60976debe684a3d53a
 	<img src="./lowres/00203_002.jpg" alt="Kodak Ektachrome Slide Duplicating Film 35mm film box leaflet" loading="lazy" width="194" height="500">
 </a>
 
+#### [E-6] Kodak Ektachrome Slide Duplicating Film 5071 (ref: 76f8)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 4            |  Expiry  : 1980-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 65c654459db94987a653ce34ae6f76f8
+```
+
+<a href="./archive/00711_000.jpg" target="_blank">
+	<img src="./lowres/00711_000.jpg" alt="Kodak Ektachrome Slide Duplicating Film 5071 35mm film box outside" loading="lazy" width="404" height="500">
+</a>
+
+
+`UUID: 47e00ad5d78a47e1ae51f6c80bd86c08`↓
+
+<a href="./archive/00711_001.jpg" target="_blank">
+	<img src="./lowres/00711_001.jpg" alt="Kodak Ektachrome Slide Duplicating Film 5071 35mm film box leaflet" loading="lazy" width="209" height="500">
+</a>
+
+
+`UUID: 87e70efe7ceb41608a89a09a355de58e`↓
+
+<a href="./archive/00711_002.jpg" target="_blank">
+	<img src="./lowres/00711_002.jpg" alt="Kodak Ektachrome Slide Duplicating Film 5071 35mm film box leaflet" loading="lazy" width="203" height="500">
+</a>
+
 #### [E-6] Kodak Elite Chrome (ref: 523c)
 
 ```
@@ -14772,33 +14891,34 @@ Rank  Username                      Contributions
 28    Kraksen                       9     
 29    lt_col_tall                   9     
 30    MCB18                         9     
-31    Rafa Laguillo                 8     
-32    @toastergod101                7     
-33    @filmfotofella                7     
-34    GreatGizmo74                  6     
-35    nick                          6     
-36    Greg                          6     
-37    @gregrouxphotography          5     
-38    Tobias                        5     
-39    @janjuudas                    5     
-40    Henry Gunn                    4     
-41    TheSelousScout                4     
-42    @sachynmital                  3     
-43    Tallbird Cowboy               3     
-44    @seklerek                     2     
-45    @ftfilmphotos                 2     
-46    @tylerdrey                    2     
-47    Warren Umbach                 2     
-48    @flyingcamerastudio           2     
-49    @pommegranny                  2     
-50    Yrikonchik                    1     
-51    @ad.astra.per.aspera.1894     1     
-52    Aoi Yuki                      1     
-53    lemoniter                     1     
-54    @shotbyliampewpew             1     
-55    Joo                           1     
-56    @titanic_159                  1     
-57    Constantino                   1     
+31    benjaminbeeroll               9     
+32    Rafa Laguillo                 8     
+33    @toastergod101                7     
+34    @filmfotofella                7     
+35    GreatGizmo74                  6     
+36    nick                          6     
+37    Greg                          6     
+38    @gregrouxphotography          5     
+39    Tobias                        5     
+40    @janjuudas                    5     
+41    Henry Gunn                    4     
+42    TheSelousScout                4     
+43    @sachynmital                  3     
+44    Tallbird Cowboy               3     
+45    @seklerek                     2     
+46    @ftfilmphotos                 2     
+47    @tylerdrey                    2     
+48    Warren Umbach                 2     
+49    @flyingcamerastudio           2     
+50    @pommegranny                  2     
+51    Yrikonchik                    1     
+52    @ad.astra.per.aspera.1894     1     
+53    Aoi Yuki                      1     
+54    lemoniter                     1     
+55    @shotbyliampewpew             1     
+56    Joo                           1     
+57    @titanic_159                  1     
+58    Constantino                   1     
 ```
 
 ## Questions or Comments?

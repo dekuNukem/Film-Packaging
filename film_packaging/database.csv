@@ -1293,3 +1293,12 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 706,0,film_box_outside,MarixFilm,Aircolor,35mm,100,C-41,202506,1788779676,895e3cf812e477749da959381faacab2,0f36fe976d604dea826c31a5f534d9c4,00706_000.jpg,Kraksen,,Single Pack,36exp
 707,0,film_box_outside,Konica Minolta,Centuria Super,35mm,400,C-41,200704,1788779773,36158c25c96abd57aa87c9ddd2ec0f5b,23707163dc014de2947bf1669c2195f0,00707_000.jpg,Kraksen,,Single Pack,24exp
 707,1,film_box_inside,Konica Minolta,Centuria Super,35mm,400,C-41,200704,1788779777,d1ee601e033fa9259f710be6fac7fc6a,708f40122825442b96dd887a89c90e35,00707_001.jpg,Kraksen,,Single Pack,24exp
+708,0,film_box_outside,Fujifilm,Fujicolor Super HG II 200,35mm,200,C-41,199710,1788780128,e2c71398106fa63185b9d78d723f1bfd,0c8b28e5afc644b2b64475da8aaf7ac0,00708_000.jpg,benjaminbeeroll,,Multi-Pack-4,24exp
+709,0,film_box_outside,GAF,Color Slide Film,35mm,200,AR-2,197404,1788780485,5b547fe676c5a589ec86dac9aeefdaed,3c3b84f6e9b6457b80ccc95bcf9057a5,00709_000.jpg,benjaminbeeroll,,Single Pack,20exp
+710,0,film_box_outside,Kodak,Kodacolor II,126,80,C-41,197605,1788780626,006b908458a1b64bbdbe875af51bff67,db6491a822bb44a183c95744cb26c326,00710_000.jpg,benjaminbeeroll,,Single Pack,12exp
+711,0,film_box_outside,Kodak,Ektachrome Slide Duplicating Film 5071,35mm,4,E-6,198009,1788780726,f3ca07d1aa395ee5ffdf0ab25cb66830,65c654459db94987a653ce34ae6f76f8,00711_000.jpg,benjaminbeeroll,,Single Pack,36exp
+711,1,film_box_leaflet,Kodak,Ektachrome Slide Duplicating Film 5071,35mm,4,E-6,198009,1788780727,6ab68e1cf67dd5d704d411d7eecf3f21,47e00ad5d78a47e1ae51f6c80bd86c08,00711_001.jpg,benjaminbeeroll,,Single Pack,36exp
+711,2,film_box_leaflet,Kodak,Ektachrome Slide Duplicating Film 5071,35mm,4,E-6,198009,1788780730,c88322895f66ffee63d588f1859619c9,87e70efe7ceb41608a89a09a355de58e,00711_002.jpg,benjaminbeeroll,,Single Pack,36exp
+712,0,film_box_outside,Kodak,Gold,110,400,C-41,200105,1788781059,d1ee6f03b343a1aa4514588e19eb609c,86c04a01042341b8a7ae95c660f4f2a2,00712_000.jpg,benjaminbeeroll,,Single Pack,24exp
+713,0,film_box_outside,Kodak,Tri-X Pan,35mm,400,BW,199012,1788781105,6b8929805076b1a7e57f52b2c21ab180,8f3e3aab508a454fbe868b1025adb4e8,00713_000.jpg,benjaminbeeroll,,Single Pack,24exp
+714,0,film_box_outside,Kodak,Tri-X Pan,35mm,400,BW,199402,1788781155,29581215e1228ad373d2cec85a9351e8,4f04fc9a2284495cb367f76cc7054257,00714_000.jpg,benjaminbeeroll,,Single Pack,24exp
