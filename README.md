@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 07 2026
-Unique items: 715
-Total scans : 1314
+Last Updated: Sep 11 2026
+Unique items: 716
+Total scans : 1316
 ```
 
 Or Sort by...
@@ -103,19 +103,23 @@ Rank  Username                      Contributions
 48    Warren Umbach                 2     
 49    @flyingcamerastudio           2     
 50    @pommegranny                  2     
-51    Yrikonchik                    1     
-52    @ad.astra.per.aspera.1894     1     
-53    Aoi Yuki                      1     
-54    lemoniter                     1     
-55    @shotbyliampewpew             1     
-56    Joo                           1     
-57    @titanic_159                  1     
-58    Constantino                   1     
+51    DaFujiDude                    2     
+52    Yrikonchik                    1     
+53    @ad.astra.per.aspera.1894     1     
+54    Aoi Yuki                      1     
+55    lemoniter                     1     
+56    @shotbyliampewpew             1     
+57    Joo                           1     
+58    @titanic_159                  1     
+59    Constantino                   1     
 ```
 
 ## Recent Activities
 
 ```
+2026-09-11
+  - DaFujiDude: Agfa APX 400
+
 2026-09-07
   - benjaminbeeroll: Fujifilm Fujicolor Super HG II 200
   - benjaminbeeroll: GAF Color Slide Film
@@ -143,9 +147,6 @@ Rank  Username                      Contributions
 
 2026-08-19
   - @pommegranny: Hansa Hansacolor 100 Super Plus
-
-2026-08-16
-  - Constantino: Ogapan Panchromatic
 ```
 
 ## Disclaimer

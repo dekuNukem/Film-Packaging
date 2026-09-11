@@ -1313,3 +1313,5 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 718,0,film_box_outside,Mystic Color Lab,Superior 35mm Color Print Film,35mm,200,C-41,200707,1788781785,886a13d2329fcbf4fc6934afaf3c7624,d0ca629041344c4f8f6d3200341f4edf,00718_000.jpg,benjaminbeeroll,,Single Pack,24exp
 719,0,film_box_outside,Polaroid,600 Platinum,Instant Integral Film,640,Instant,199907,1788781914,1a8fc052233c80c949e02a0ece6d88bc,d58fc4af4f314da988547af34b1bcd53,00719_000.jpg,benjaminbeeroll,,Multi-Pack-2,10exp
 719,1,film_box_outside,Polaroid,600 Platinum,Instant Integral Film,640,Instant,199907,1788781918,e44f0e0b783ddab58129c2f4f6c54cef,7d1eb96de3bd4ec98b6ee8f0a0e8c774,00719_001.jpg,benjaminbeeroll,,Multi-Pack-2,10exp
+720,0,film_box_outside,Agfa,APX 400,35mm,400,BW,203003,1789118600,65612d187f978a2452505715c0476449,4cda6eac0745457482882631cdbf379a,00720_000.jpg,DaFujiDude,,Single Pack,36exp
+720,1,film_box_inside,Agfa,APX 400,35mm,400,BW,203003,1789118601,9e7fdb5e009a8e9d18ac7277a8c5b4b9,89461795b7044a0e800a3a5912ded968,00720_001.jpg,DaFujiDude,,Single Pack,36exp

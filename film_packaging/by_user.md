@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 07 2026
-Unique items: 715
-Total scans : 1314
+Last Updated: Sep 11 2026
+Unique items: 716
+Total scans : 1316
 ```
 
 -----
@@ -282,6 +282,7 @@ Total scans : 1314
 - [[Chrisbes] Reflx Lab 800T (ref: 6b6b)](#chrisbes-reflx-lab-800t-ref-6b6b)
 - [[Chrisbes] Reflx Lab Fortuna (ref: 56a5)](#chrisbes-reflx-lab-fortuna-ref-56a5)
 - [[Constantino] Ogapan Panchromatic (ref: 9c23)](#constantino-ogapan-panchromatic-ref-9c23)
+- [[DaFujiDude] Agfa APX 400 (ref: 379a)](#dafujidude-agfa-apx-400-ref-379a)
 - [[Dialupdude] 1Shot Color Print Film (ref: 8cf0)](#dialupdude-1shot-color-print-film-ref-8cf0)
 - [[Dialupdude] 1Shot Fun Shooter Flash (ref: 31aa)](#dialupdude-1shot-fun-shooter-flash-ref-31aa)
 - [[Dialupdude] Fujifilm 400 Speed Film (ref: 7f19)](#dialupdude-fujifilm-400-speed-film-ref-7f19)
@@ -5351,6 +5352,27 @@ UUID  : c01fbe88bcfc41aa89cf002ce11b9c23
 
 <a href="./archive/00698_000.jpg" target="_blank">
 	<img src="./lowres/00698_000.jpg" alt="Ogapan Panchromatic 35mm film box outside" loading="lazy" width="500" height="463">
+</a>
+
+#### [DaFujiDude] Agfa APX 400 (ref: 379a)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2030-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-11   |  Author  : DaFujiDude
+UUID  : 4cda6eac0745457482882631cdbf379a
+```
+
+<a href="./archive/00720_000.jpg" target="_blank">
+	<img src="./lowres/00720_000.jpg" alt="Agfa APX 400 35mm film box outside" loading="lazy" width="392" height="500">
+</a>
+
+
+`UUID: 89461795b7044a0e800a3a5912ded968`↓
+
+<a href="./archive/00720_001.jpg" target="_blank">
+	<img src="./lowres/00720_001.jpg" alt="Agfa APX 400 35mm film box inside" loading="lazy" width="385" height="500">
 </a>
 
 #### [Dialupdude] 1Shot Color Print Film (ref: 8cf0)
@@ -15029,14 +15051,15 @@ Rank  Username                      Contributions
 48    Warren Umbach                 2     
 49    @flyingcamerastudio           2     
 50    @pommegranny                  2     
-51    Yrikonchik                    1     
-52    @ad.astra.per.aspera.1894     1     
-53    Aoi Yuki                      1     
-54    lemoniter                     1     
-55    @shotbyliampewpew             1     
-56    Joo                           1     
-57    @titanic_159                  1     
-58    Constantino                   1     
+51    DaFujiDude                    2     
+52    Yrikonchik                    1     
+53    @ad.astra.per.aspera.1894     1     
+54    Aoi Yuki                      1     
+55    lemoniter                     1     
+56    @shotbyliampewpew             1     
+57    Joo                           1     
+58    @titanic_159                  1     
+59    Constantino                   1     
 ```
 
 ## Questions or Comments?

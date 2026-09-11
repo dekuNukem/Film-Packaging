@@ -15,13 +15,14 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 07 2026
-Unique items: 715
-Total scans : 1314
+Last Updated: Sep 11 2026
+Unique items: 716
+Total scans : 1316
 ```
 
 -----
 
+- [[2026-09-11] Agfa APX 400 (ref: 379a)](#2026-09-11-agfa-apx-400-ref-379a)
 - [[2026-09-07] Polaroid 600 Platinum (ref: cd53)](#2026-09-07-polaroid-600-platinum-ref-cd53)
 - [[2026-09-07] Mystic Color Lab Superior 35mm Color Print Film (ref: 4edf)](#2026-09-07-mystic-color-lab-superior-35mm-color-print-film-ref-4edf)
 - [[2026-09-07] Minolta 16 Black & White Fast Fine Grain Film (ref: fd30)](#2026-09-07-minolta-16-black-white-fast-fine-grain-film-ref-fd30)
@@ -740,6 +741,27 @@ Total scans : 1314
 
 
 -----
+
+
+`UUID: 89461795b7044a0e800a3a5912ded968`↓
+
+<a href="./archive/00720_001.jpg" target="_blank">
+	<img src="./lowres/00720_001.jpg" alt="Agfa APX 400 35mm film box inside" loading="lazy" width="385" height="500">
+</a>
+
+#### [2026-09-11] Agfa APX 400 (ref: 379a)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2030-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-11   |  Author  : DaFujiDude
+UUID  : 4cda6eac0745457482882631cdbf379a
+```
+
+<a href="./archive/00720_000.jpg" target="_blank">
+	<img src="./lowres/00720_000.jpg" alt="Agfa APX 400 35mm film box outside" loading="lazy" width="392" height="500">
+</a>
 
 
 `UUID: 7d1eb96de3bd4ec98b6ee8f0a0e8c774`↓
@@ -15029,14 +15051,15 @@ Rank  Username                      Contributions
 48    Warren Umbach                 2     
 49    @flyingcamerastudio           2     
 50    @pommegranny                  2     
-51    Yrikonchik                    1     
-52    @ad.astra.per.aspera.1894     1     
-53    Aoi Yuki                      1     
-54    lemoniter                     1     
-55    @shotbyliampewpew             1     
-56    Joo                           1     
-57    @titanic_159                  1     
-58    Constantino                   1     
+51    DaFujiDude                    2     
+52    Yrikonchik                    1     
+53    @ad.astra.per.aspera.1894     1     
+54    Aoi Yuki                      1     
+55    lemoniter                     1     
+56    @shotbyliampewpew             1     
+57    Joo                           1     
+58    @titanic_159                  1     
+59    Constantino                   1     
 ```
 
 ## Questions or Comments?
