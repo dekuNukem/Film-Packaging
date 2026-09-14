@@ -3320,7 +3320,7 @@ UUID  : da9c265a3e194bd1ad83549961c6e5fd
 
 ```
 Format: 118          |  Process : BW      
-ISO   : Unknown      |  Expiry  : 1916-01 
+ISO   : Unknown      |  Expiry  : 1916-08 
 Type  : Single Pack  |  Quantity: 4exp    
 Added : 2026-08-04   |  Author  : Rafa Laguillo
 UUID  : 96dd905b730e446fbe34b5daef15ac3c

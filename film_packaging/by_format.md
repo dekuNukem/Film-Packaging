@@ -1077,7 +1077,7 @@ UUID  : bdd39fdcda30420cb3b0cfb12bbf56a5
 
 ```
 Format: 118          |  Process : BW      
-ISO   : Unknown      |  Expiry  : 1916-01 
+ISO   : Unknown      |  Expiry  : 1916-08 
 Type  : Single Pack  |  Quantity: 4exp    
 Added : 2026-08-04   |  Author  : Rafa Laguillo
 UUID  : 96dd905b730e446fbe34b5daef15ac3c
