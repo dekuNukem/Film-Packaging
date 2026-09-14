@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 14 2026
-Unique items: 717
-Total scans : 1317
+Unique items: 718
+Total scans : 1320
 ```
 
 -----
@@ -731,6 +731,7 @@ Total scans : 1317
 - [[Instant Pack Film] Polaroid 87 (ref: 62ef)](#instant-pack-film-polaroid-87-ref-62ef)
 - [[Instant Pack Film] Polaroid Land Pack Film Type 107 (ref: 1b9a)](#instant-pack-film-polaroid-land-pack-film-type-107-ref-1b9a)
 - [[Instant Pack Film] Polaroid Polacolor 679 (ref: 625c)](#instant-pack-film-polaroid-polacolor-679-ref-625c)
+- [[Instant Pack Film] Polaroid Viva (ref: 271b)](#instant-pack-film-polaroid-viva-ref-271b)
 - [[Instant Roll Film] Polaroid Type 42 (ref: f92c)](#instant-roll-film-polaroid-type-42-ref-f92c)
 - [[Polavision] Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)](#polavision-polaroid-polavision-phototape-land-cassette-type-608-ref-90b9)
 - [[Super 8] Kodak Ektachrome 160 Movie Film Type A (ref: 8f62)](#super-8-kodak-ektachrome-160-movie-film-type-a-ref-8f62)
@@ -14817,6 +14818,34 @@ UUID  : 5844215c1fc74612b6118648b845625c
 	<img src="./lowres/00161_003.jpg" alt="Polaroid Polacolor 679 Instant Pack Film film box inside" loading="lazy" width="351" height="500">
 </a>
 
+#### [Instant Pack Film] Polaroid Viva (ref: 271b)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 125          |  Expiry  : 2008-05 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-09-14   |  Author  : nyctomanica
+UUID  : 6d66aeca6f0a4d0ca41f675d329f271b
+```
+
+<a href="./archive/00722_000.jpg" target="_blank">
+	<img src="./lowres/00722_000.jpg" alt="Polaroid Viva Instant Pack Film film box outside" loading="lazy" width="500" height="326">
+</a>
+
+
+`UUID: 416145134d20498dbd4947aaeef1ce5b`↓
+
+<a href="./archive/00722_001.jpg" target="_blank">
+	<img src="./lowres/00722_001.jpg" alt="Polaroid Viva Instant Pack Film film box inside" loading="lazy" width="320" height="500">
+</a>
+
+
+`UUID: 4a805b8a79584a5ea8a47cb537f403ea`↓
+
+<a href="./archive/00722_002.jpg" target="_blank">
+	<img src="./lowres/00722_002.jpg" alt="Polaroid Viva Instant Pack Film film box inside" loading="lazy" width="249" height="500">
+</a>
+
 #### [Instant Roll Film] Polaroid Type 42 (ref: f92c)
 
 ```
@@ -15021,8 +15050,8 @@ Rank  Username                      Contributions
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
 5     @Hol.m35                      71    
-6     @ellafridalindblom            67    
-7     nyctomanica                   67    
+6     nyctomanica                   70    
+7     @ellafridalindblom            67    
 8     @recycling.film               66    
 9     Dialupdude                    30    
 10    Mauphoto                      28    

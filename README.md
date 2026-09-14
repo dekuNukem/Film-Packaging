@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Sep 14 2026
-Unique items: 717
-Total scans : 1317
+Unique items: 718
+Total scans : 1320
 ```
 
 Or Sort by...
@@ -58,8 +58,8 @@ Rank  Username                      Contributions
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
 5     @Hol.m35                      71    
-6     @ellafridalindblom            67    
-7     nyctomanica                   67    
+6     nyctomanica                   70    
+7     @ellafridalindblom            67    
 8     @recycling.film               66    
 9     Dialupdude                    30    
 10    Mauphoto                      28    
@@ -119,6 +119,7 @@ Rank  Username                      Contributions
 ```
 2026-09-14
   - dekuNukem: Klick Extra Definition Multi Purpose Film
+  - nyctomanica: Polaroid Viva
 
 2026-09-11
   - DaFujiDude: Agfa APX 400

@@ -16,12 +16,13 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 14 2026
-Unique items: 717
-Total scans : 1317
+Unique items: 718
+Total scans : 1320
 ```
 
 -----
 
+- [[2026-09-14] Polaroid Viva (ref: 271b)](#2026-09-14-polaroid-viva-ref-271b)
 - [[2026-09-14] Klick Extra Definition Multi Purpose Film (ref: 2e01)](#2026-09-14-klick-extra-definition-multi-purpose-film-ref-2e01)
 - [[2026-09-11] Agfa APX 400 (ref: 379a)](#2026-09-11-agfa-apx-400-ref-379a)
 - [[2026-09-07] Polaroid 600 Platinum (ref: cd53)](#2026-09-07-polaroid-600-platinum-ref-cd53)
@@ -742,6 +743,34 @@ Total scans : 1317
 
 
 -----
+
+
+`UUID: 4a805b8a79584a5ea8a47cb537f403ea`↓
+
+<a href="./archive/00722_002.jpg" target="_blank">
+	<img src="./lowres/00722_002.jpg" alt="Polaroid Viva Instant Pack Film film box inside" loading="lazy" width="249" height="500">
+</a>
+
+
+`UUID: 416145134d20498dbd4947aaeef1ce5b`↓
+
+<a href="./archive/00722_001.jpg" target="_blank">
+	<img src="./lowres/00722_001.jpg" alt="Polaroid Viva Instant Pack Film film box inside" loading="lazy" width="320" height="500">
+</a>
+
+#### [2026-09-14] Polaroid Viva (ref: 271b)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 125          |  Expiry  : 2008-05 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-09-14   |  Author  : nyctomanica
+UUID  : 6d66aeca6f0a4d0ca41f675d329f271b
+```
+
+<a href="./archive/00722_000.jpg" target="_blank">
+	<img src="./lowres/00722_000.jpg" alt="Polaroid Viva Instant Pack Film film box outside" loading="lazy" width="500" height="326">
+</a>
 
 #### [2026-09-14] Klick Extra Definition Multi Purpose Film (ref: 2e01)
 
@@ -15021,8 +15050,8 @@ Rank  Username                      Contributions
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
 5     @Hol.m35                      71    
-6     @ellafridalindblom            67    
-7     nyctomanica                   67    
+6     nyctomanica                   70    
+7     @ellafridalindblom            67    
 8     @recycling.film               66    
 9     Dialupdude                    30    
 10    Mauphoto                      28    

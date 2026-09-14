@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 14 2026
-Unique items: 717
-Total scans : 1317
+Unique items: 718
+Total scans : 1320
 ```
 
 -----
@@ -372,6 +372,7 @@ Total scans : 1317
 - [[2008] Polaroid 125i Gloss (ref: 7dd1)](#2008-polaroid-125i-gloss-ref-7dd1)
 - [[2008] Foma Fomapan Classic 100 (ref: 4eb6)](#2008-foma-fomapan-classic-100-ref-4eb6)
 - [[2008] Lucky SHD 100 (ref: 7feb)](#2008-lucky-shd-100-ref-7feb)
+- [[2008] Polaroid Viva (ref: 271b)](#2008-polaroid-viva-ref-271b)
 - [[2008] Agfa APX 100 (ref: 12c7)](#2008-agfa-apx-100-ref-12c7)
 - [[2008] Fujifilm Fujicolor QuickSnap Jeans (ref: 081a)](#2008-fujifilm-fujicolor-quicksnap-jeans-ref-081a)
 - [[2008] Kodak UltraMax (ref: 145b)](#2008-kodak-ultramax-ref-145b)
@@ -8513,6 +8514,34 @@ UUID  : 8dfb0a6557b34a5fad8d96d4498e7feb
 	<img src="./lowres/00635_001.jpg" alt="Lucky SHD 100 35mm film box inside" loading="lazy" width="430" height="499">
 </a>
 
+#### [2008] Polaroid Viva (ref: 271b)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 125          |  Expiry  : 2008-05 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-09-14   |  Author  : nyctomanica
+UUID  : 6d66aeca6f0a4d0ca41f675d329f271b
+```
+
+<a href="./archive/00722_000.jpg" target="_blank">
+	<img src="./lowres/00722_000.jpg" alt="Polaroid Viva Instant Pack Film film box outside" loading="lazy" width="500" height="326">
+</a>
+
+
+`UUID: 416145134d20498dbd4947aaeef1ce5b`↓
+
+<a href="./archive/00722_001.jpg" target="_blank">
+	<img src="./lowres/00722_001.jpg" alt="Polaroid Viva Instant Pack Film film box inside" loading="lazy" width="320" height="500">
+</a>
+
+
+`UUID: 4a805b8a79584a5ea8a47cb537f403ea`↓
+
+<a href="./archive/00722_002.jpg" target="_blank">
+	<img src="./lowres/00722_002.jpg" alt="Polaroid Viva Instant Pack Film film box inside" loading="lazy" width="249" height="500">
+</a>
+
 #### [2008] Agfa APX 100 (ref: 12c7)
 
 ```
@@ -15021,8 +15050,8 @@ Rank  Username                      Contributions
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
 5     @Hol.m35                      71    
-6     @ellafridalindblom            67    
-7     nyctomanica                   67    
+6     nyctomanica                   70    
+7     @ellafridalindblom            67    
 8     @recycling.film               66    
 9     Dialupdude                    30    
 10    Mauphoto                      28    

@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Sep 14 2026
-Unique items: 717
-Total scans : 1317
+Unique items: 718
+Total scans : 1320
 ```
 
 -----
@@ -672,6 +672,7 @@ Total scans : 1317
 - [Polaroid Spectra Film (ref: 7a94)](#polaroid-spectra-film-ref-7a94)
 - [Polaroid TZ Artistic Fade to Black (ref: de21)](#polaroid-tz-artistic-fade-to-black-ref-de21)
 - [Polaroid Type 42 (ref: f92c)](#polaroid-type-42-ref-f92c)
+- [Polaroid Viva (ref: 271b)](#polaroid-viva-ref-271b)
 - [Polaroid Originals B&W Spectra Film (ref: 7f24)](#polaroid-originals-b-w-spectra-film-ref-7f24)
 - [Polaroid Originals Color 600 Film (ref: 97cb)](#polaroid-originals-color-600-film-ref-97cb)
 - [Polaroid Originals Color SX-70 Film (ref: 7238)](#polaroid-originals-color-sx-70-film-ref-7238)
@@ -13703,6 +13704,34 @@ UUID  : ce5edab694b4467aa9b3e1d81d8bf92c
 	<img src="./lowres/00496_000.jpg" alt="Polaroid Type 42 Instant Roll Film film box outside" loading="lazy" width="470" height="500">
 </a>
 
+#### Polaroid Viva (ref: 271b)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 125          |  Expiry  : 2008-05 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-09-14   |  Author  : nyctomanica
+UUID  : 6d66aeca6f0a4d0ca41f675d329f271b
+```
+
+<a href="./archive/00722_000.jpg" target="_blank">
+	<img src="./lowres/00722_000.jpg" alt="Polaroid Viva Instant Pack Film film box outside" loading="lazy" width="500" height="326">
+</a>
+
+
+`UUID: 416145134d20498dbd4947aaeef1ce5b`↓
+
+<a href="./archive/00722_001.jpg" target="_blank">
+	<img src="./lowres/00722_001.jpg" alt="Polaroid Viva Instant Pack Film film box inside" loading="lazy" width="320" height="500">
+</a>
+
+
+`UUID: 4a805b8a79584a5ea8a47cb537f403ea`↓
+
+<a href="./archive/00722_002.jpg" target="_blank">
+	<img src="./lowres/00722_002.jpg" alt="Polaroid Viva Instant Pack Film film box inside" loading="lazy" width="249" height="500">
+</a>
+
 #### Polaroid Originals B&W Spectra Film (ref: 7f24)
 
 ```
@@ -15021,8 +15050,8 @@ Rank  Username                      Contributions
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
 5     @Hol.m35                      71    
-6     @ellafridalindblom            67    
-7     nyctomanica                   67    
+6     nyctomanica                   70    
+7     @ellafridalindblom            67    
 8     @recycling.film               66    
 9     Dialupdude                    30    
 10    Mauphoto                      28    
