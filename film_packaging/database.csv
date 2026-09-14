@@ -18,8 +18,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 9,1,film_box_inside,Ilford,SFX 200,120,200,BW,201309,1736012224,9581abfd6886e6fd752725b9d300c0ff,2579a55634474187bac08797a02f422d,00009_001.jpg,dekuNukem,,Single Pack,N/A
 10,0,film_box_outside,Agfa,AgfaColor ULTRA 50,35mm,50,C-41,200110,1736012345,fbbd763f53c38d9bfb0a08ed99f593ae,d10e846ba5154f1d940ed7009a904faa,00010_000.jpg,dekuNukem,,Single Pack,36exp
 10,1,film_box_inside,Agfa,AgfaColor ULTRA 50,35mm,50,C-41,200110,1736012356,32855ca230d76c2bd9188b4897413f8d,8594d11f816c45b6a18dd122f8e38fc0,00010_001.jpg,dekuNukem,,Single Pack,36exp
-11,0,film_box_outside,Agfa,APX,120,100,BW,200807,1736012462,3f162e57b88ca347f352401bed13d033,a20bbca534454915a6970b6ede2212c7,00011_000.jpg,dekuNukem,,Single Pack,N/A
-11,1,film_box_inside,Agfa,APX,120,100,BW,200807,1736012466,b4dd3637abaeeb348a784e97ecd5afb8,dd262792b6a446dcab73a07738f8a8dd,00011_001.jpg,dekuNukem,,Single Pack,N/A
+11,0,film_box_outside,Agfa,APX 100,120,100,BW,200807,1736012462,3f162e57b88ca347f352401bed13d033,a20bbca534454915a6970b6ede2212c7,00011_000.jpg,dekuNukem,,Single Pack,N/A
+11,1,film_box_inside,Agfa,APX 100,120,100,BW,200807,1736012466,b4dd3637abaeeb348a784e97ecd5afb8,dd262792b6a446dcab73a07738f8a8dd,00011_001.jpg,dekuNukem,,Single Pack,N/A
 12,0,film_box_outside,Fujifilm,Fujicolor Superia,120,400,C-41,200205,1736012528,0f8b58c33d22b7ac5f9356dea6728198,c3d9e51d22e241f69133be30d5a00683,00012_000.jpg,dekuNukem,,Single Pack,N/A
 12,1,film_box_inside,Fujifilm,Fujicolor Superia,120,400,C-41,200205,1736012532,9aae5bf0d88a5b78cda7c807df639085,5cd39510c35f4b9cbae3089311db118f,00012_001.jpg,dekuNukem,,Single Pack,N/A
 13,0,film_box_outside,Lloyds Pharmacy,Colour Film,35mm,200,C-41,200907,1736012624,9747dc1a3b3fa848e80457ee997d1ece,c58dda071d1741fda90e20b4252277d9,00013_000.jpg,dekuNukem,,Single Pack,36exp
@@ -667,11 +667,11 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 382,0,film_box_outside,Ilford,HP3,620,400,BW,196902,1760305203,94137d820b5ef0b2541f125320291f09,df6db4a9d0a24f4689647a4ece831afc,00382_000.jpg,dekuNukem,,Single Pack,N/A
 382,1,film_box_leaflet,Ilford,HP3,620,400,BW,196902,1760305207,f10286c3b6bb7f6e8a842814c0dec225,5c38e6e7bb004036a0b59661d33a5d8b,00382_001.jpg,dekuNukem,,Single Pack,N/A
 382,2,film_box_leaflet,Ilford,HP3,620,400,BW,196902,1760305211,2264ab9fb8dadce7f692f20b31560080,9298339353774799a2918c495d225335,00382_002.jpg,dekuNukem,,Single Pack,N/A
-383,0,film_box_outside,Ricoh,"Golden ""16""",16mm,160,BW,196109,1760305315,e9e3a4e766f180f1ea55123630ceb9af,c4263f60ad284b669f5db75e79d2c02c,00383_000.jpg,dekuNukem,,Single Pack,20exp
-383,1,film_box_processing_envelope,Ricoh,"Golden ""16""",16mm,160,BW,196109,1760305320,10d7bbe8d808664f8d7a952a365a8664,0bd17a0f246c41b79322a478901003c5,00383_001.jpg,dekuNukem,,Single Pack,20exp
-383,2,film_box_processing_envelope,Ricoh,"Golden ""16""",16mm,160,BW,196109,1760305323,673e575a0a31692d7e2e8cb91459fcb1,d99990b484984277a0be54182937d422,00383_002.jpg,dekuNukem,,Single Pack,20exp
-383,3,film_box_leaflet,Ricoh,"Golden ""16""",16mm,160,BW,196109,1760305330,c1dadcb384124cc1e23c659157334a91,59c184351d13442dab4fb0f74ddd25ee,00383_003.jpg,dekuNukem,,Single Pack,20exp
-383,4,film_box_leaflet,Ricoh,"Golden ""16""",16mm,160,BW,196109,1760305332,8917b892114dbcb9c9549b28873d466d,0d69320f7ded493590d6abb0ea69f750,00383_004.jpg,dekuNukem,,Single Pack,20exp
+383,0,film_box_outside,Ricoh,"Golden 16",16mm,160,BW,196109,1760305315,e9e3a4e766f180f1ea55123630ceb9af,c4263f60ad284b669f5db75e79d2c02c,00383_000.jpg,dekuNukem,,Single Pack,20exp
+383,1,film_box_processing_envelope,Ricoh,"Golden 16",16mm,160,BW,196109,1760305320,10d7bbe8d808664f8d7a952a365a8664,0bd17a0f246c41b79322a478901003c5,00383_001.jpg,dekuNukem,,Single Pack,20exp
+383,2,film_box_processing_envelope,Ricoh,"Golden 16",16mm,160,BW,196109,1760305323,673e575a0a31692d7e2e8cb91459fcb1,d99990b484984277a0be54182937d422,00383_002.jpg,dekuNukem,,Single Pack,20exp
+383,3,film_box_leaflet,Ricoh,"Golden 16",16mm,160,BW,196109,1760305330,c1dadcb384124cc1e23c659157334a91,59c184351d13442dab4fb0f74ddd25ee,00383_003.jpg,dekuNukem,,Single Pack,20exp
+383,4,film_box_leaflet,Ricoh,"Golden 16",16mm,160,BW,196109,1760305332,8917b892114dbcb9c9549b28873d466d,0d69320f7ded493590d6abb0ea69f750,00383_004.jpg,dekuNukem,,Single Pack,20exp
 384,0,film_box_outside,Robot,NR-Cassette,35mm,Unknown,Unknown,Unknown,1760305375,6f151d2663b46c6a239b2101cfc3a1c2,55a2616da3a9456a90f763ed8ac5bc7a,00384_000.jpg,dekuNukem,,Single Pack,N/A
 385,0,film_box_outside,Ansco,Plenachrome,120,Unknown,BW,195604,1760305489,d3b91d33e892d416cff2d0f039235da7,39756172435749ed870105a77fa53c6c,00385_000.jpg,dekuNukem,,Single Pack,N/A
 386,0,film_box_outside,Ilford,FP4 Plus,120,125,BW,200511,1760305517,28b46ba0c59aee5a80f7fe98e88266ab,da6172ade5c540ee8a25e83586005b36,00386_000.jpg,dekuNukem,,Single Pack,N/A
@@ -1315,3 +1315,4 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 719,1,film_box_outside,Polaroid,600 Platinum,Instant Integral Film,640,Instant,199907,1788781918,e44f0e0b783ddab58129c2f4f6c54cef,7d1eb96de3bd4ec98b6ee8f0a0e8c774,00719_001.jpg,benjaminbeeroll,,Multi-Pack-2,10exp
 720,0,film_box_outside,Agfa,APX 400,35mm,400,BW,203003,1789118600,65612d187f978a2452505715c0476449,4cda6eac0745457482882631cdbf379a,00720_000.jpg,DaFujiDude,,Single Pack,36exp
 720,1,film_box_inside,Agfa,APX 400,35mm,400,BW,203003,1789118601,9e7fdb5e009a8e9d18ac7277a8c5b4b9,89461795b7044a0e800a3a5912ded968,00720_001.jpg,DaFujiDude,,Single Pack,36exp
+721,0,film_box_outside,Klick,Extra Definition Multi Purpose Film,35mm,200,C-41,200506,1789391494,5491ec28e0010f7dc514675b725b0f61,1de78d118b71405fbc6d5129f08b2e01,00721_000.jpg,dekuNukem,,Single Pack,24exp

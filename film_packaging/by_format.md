@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 11 2026
-Unique items: 716
-Total scans : 1316
+Last Updated: Sep 14 2026
+Unique items: 717
+Total scans : 1317
 ```
 
 -----
@@ -43,7 +43,7 @@ Total scans : 1316
 - [[110] Polaroid High Definition (ref: deb6)](#110-polaroid-high-definition-ref-deb6)
 - [[110] Reflx Lab Fortuna (ref: 56a5)](#110-reflx-lab-fortuna-ref-56a5)
 - [[118] Kodak No3 Special Kodak Autographic Film (ref: ac3c)](#118-kodak-no3-special-kodak-autographic-film-ref-ac3c)
-- [[120] Agfa APX (ref: 12c7)](#120-agfa-apx-ref-12c7)
+- [[120] Agfa APX 100 (ref: 12c7)](#120-agfa-apx-100-ref-12c7)
 - [[120] Agfa AgfaChrome 100RS (ref: 2c42)](#120-agfa-agfachrome-100rs-ref-2c42)
 - [[120] Agfa AgfaChrome 50 S (ref: eb28)](#120-agfa-agfachrome-50-s-ref-eb28)
 - [[120] Agfa AgfaColor Optima 200 (ref: 393d)](#120-agfa-agfacolor-optima-200-ref-393d)
@@ -221,7 +221,7 @@ Total scans : 1316
 - [[16mm] Minolta 16 Black & White Fast Fine Grain Film (ref: fd30)](#16mm-minolta-16-black-white-fast-fine-grain-film-ref-fd30)
 - [[16mm] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#16mm-minolta-minolta-16-color-film-for-prints-ref-a2ff)
 - [[16mm] ORWO DK5 (ref: a2dd)](#16mm-orwo-dk5-ref-a2dd)
-- [[16mm] Ricoh Golden "16" (ref: c02c)](#16mm-ricoh-golden-16-ref-c02c)
+- [[16mm] Ricoh Golden 16 (ref: c02c)](#16mm-ricoh-golden-16-ref-c02c)
 - [[16mm] Svema Foto 64 (ref: 18f8)](#16mm-svema-foto-64-ref-18f8)
 - [[220] Fujifilm Fujicolor Pro 400H (ref: 48ed)](#220-fujifilm-fujicolor-pro-400h-ref-48ed)
 - [[220] Kodak Ektachrome 100 Plus (ref: 0183)](#220-kodak-ektachrome-100-plus-ref-0183)
@@ -397,6 +397,7 @@ Total scans : 1316
 - [[35mm] Kentmere PAN 400 (ref: a327)](#35mm-kentmere-pan-400-ref-a327)
 - [[35mm] Kirkland Signature Color Print Film (ref: 0441)](#35mm-kirkland-signature-color-print-film-ref-0441)
 - [[35mm] Klick 400ASA (ref: 8779)](#35mm-klick-400asa-ref-8779)
+- [[35mm] Klick Extra Definition Multi Purpose Film (ref: 2e01)](#35mm-klick-extra-definition-multi-purpose-film-ref-2e01)
 - [[35mm] Klick Max Extra Definition Multi Purpose Film (ref: 8ae4)](#35mm-klick-max-extra-definition-multi-purpose-film-ref-8ae4)
 - [[35mm] Kodak Black & White + (ref: 2ff3)](#35mm-kodak-black-white-ref-2ff3)
 - [[35mm] Kodak ColorPlus (ref: 79ca)](#35mm-kodak-colorplus-ref-79ca)
@@ -1092,7 +1093,7 @@ UUID  : 96dd905b730e446fbe34b5daef15ac3c
 	<img src="./lowres/00674_001.jpg" alt="Kodak No3 Special Kodak Autographic Film 118 film box leaflet" loading="lazy" width="208" height="500">
 </a>
 
-#### [120] Agfa APX (ref: 12c7)
+#### [120] Agfa APX 100 (ref: 12c7)
 
 ```
 Format: 120          |  Process : BW      
@@ -1103,14 +1104,14 @@ UUID  : a20bbca534454915a6970b6ede2212c7
 ```
 
 <a href="./archive/00011_000.jpg" target="_blank">
-	<img src="./lowres/00011_000.jpg" alt="Agfa APX 120 film box outside" loading="lazy" width="500" height="388">
+	<img src="./lowres/00011_000.jpg" alt="Agfa APX 100 120 film box outside" loading="lazy" width="500" height="388">
 </a>
 
 
 `UUID: dd262792b6a446dcab73a07738f8a8dd`↓
 
 <a href="./archive/00011_001.jpg" target="_blank">
-	<img src="./lowres/00011_001.jpg" alt="Agfa APX 120 film box inside" loading="lazy" width="500" height="402">
+	<img src="./lowres/00011_001.jpg" alt="Agfa APX 100 120 film box inside" loading="lazy" width="500" height="402">
 </a>
 
 #### [120] Agfa AgfaChrome 100RS (ref: 2c42)
@@ -4915,7 +4916,7 @@ UUID  : 26d4fcf00a04483f8dc3d0875d3ba2dd
 	<img src="./lowres/00658_005.jpg" alt="ORWO DK5 16mm film box processing envelope" loading="lazy" width="500" height="484">
 </a>
 
-#### [16mm] Ricoh Golden "16" (ref: c02c)
+#### [16mm] Ricoh Golden 16 (ref: c02c)
 
 ```
 Format: 16mm         |  Process : BW      
@@ -4926,35 +4927,35 @@ UUID  : c4263f60ad284b669f5db75e79d2c02c
 ```
 
 <a href="./archive/00383_000.jpg" target="_blank">
-	<img src="./lowres/00383_000.jpg" alt="Ricoh Golden "16" 16mm film box outside" loading="lazy" width="500" height="388">
+	<img src="./lowres/00383_000.jpg" alt="Ricoh Golden 16 16mm film box outside" loading="lazy" width="500" height="388">
 </a>
 
 
 `UUID: 0bd17a0f246c41b79322a478901003c5`↓
 
 <a href="./archive/00383_001.jpg" target="_blank">
-	<img src="./lowres/00383_001.jpg" alt="Ricoh Golden "16" 16mm film box processing envelope" loading="lazy" width="500" height="197">
+	<img src="./lowres/00383_001.jpg" alt="Ricoh Golden 16 16mm film box processing envelope" loading="lazy" width="500" height="197">
 </a>
 
 
 `UUID: d99990b484984277a0be54182937d422`↓
 
 <a href="./archive/00383_002.jpg" target="_blank">
-	<img src="./lowres/00383_002.jpg" alt="Ricoh Golden "16" 16mm film box processing envelope" loading="lazy" width="500" height="220">
+	<img src="./lowres/00383_002.jpg" alt="Ricoh Golden 16 16mm film box processing envelope" loading="lazy" width="500" height="220">
 </a>
 
 
 `UUID: 59c184351d13442dab4fb0f74ddd25ee`↓
 
 <a href="./archive/00383_003.jpg" target="_blank">
-	<img src="./lowres/00383_003.jpg" alt="Ricoh Golden "16" 16mm film box leaflet" loading="lazy" width="331" height="500">
+	<img src="./lowres/00383_003.jpg" alt="Ricoh Golden 16 16mm film box leaflet" loading="lazy" width="331" height="500">
 </a>
 
 
 `UUID: 0d69320f7ded493590d6abb0ea69f750`↓
 
 <a href="./archive/00383_004.jpg" target="_blank">
-	<img src="./lowres/00383_004.jpg" alt="Ricoh Golden "16" 16mm film box leaflet" loading="lazy" width="362" height="500">
+	<img src="./lowres/00383_004.jpg" alt="Ricoh Golden 16 16mm film box leaflet" loading="lazy" width="362" height="500">
 </a>
 
 #### [16mm] Svema Foto 64 (ref: 18f8)
@@ -8213,6 +8214,20 @@ UUID  : 42f73c1448634cdb856d014e59098779
 
 <a href="./archive/00270_001.jpg" target="_blank">
 	<img src="./lowres/00270_001.jpg" alt="Klick 400ASA 35mm film box inside" loading="lazy" width="434" height="500">
+</a>
+
+#### [35mm] Klick Extra Definition Multi Purpose Film (ref: 2e01)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2005-06 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-14   |  Author  : dekuNukem
+UUID  : 1de78d118b71405fbc6d5129f08b2e01
+```
+
+<a href="./archive/00721_000.jpg" target="_blank">
+	<img src="./lowres/00721_000.jpg" alt="Klick Extra Definition Multi Purpose Film 35mm film box outside" loading="lazy" width="429" height="500">
 </a>
 
 #### [35mm] Klick Max Extra Definition Multi Purpose Film (ref: 8ae4)
@@ -15001,7 +15016,7 @@ Notes : There was a roll of 127 ekfe R100 inside, not sure if it's the original,
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     339   
+1     dekuNukem                     340   
 2     Luci 101                      102   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    

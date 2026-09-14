@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 11 2026
-Unique items: 716
-Total scans : 1316
+Last Updated: Sep 14 2026
+Unique items: 717
+Total scans : 1317
 ```
 
 Or Sort by...
@@ -53,7 +53,7 @@ Or Sort by...
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     339   
+1     dekuNukem                     340   
 2     Luci 101                      102   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
@@ -117,6 +117,9 @@ Rank  Username                      Contributions
 ## Recent Activities
 
 ```
+2026-09-14
+  - dekuNukem: Klick Extra Definition Multi Purpose Film
+
 2026-09-11
   - DaFujiDude: Agfa APX 400
 
@@ -144,9 +147,6 @@ Rank  Username                      Contributions
   - nyctomanica: Kodak Technical Pan
   - Rafa Laguillo: Kodak Plus-X
   - Rafa Laguillo: Werlisa Werlisa Sport 100
-
-2026-08-19
-  - @pommegranny: Hansa Hansacolor 100 Super Plus
 ```
 
 ## Disclaimer

@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 11 2026
-Unique items: 716
-Total scans : 1316
+Last Updated: Sep 14 2026
+Unique items: 717
+Total scans : 1317
 ```
 
 -----
@@ -476,7 +476,7 @@ Total scans : 1316
 - [[benjaminbeeroll] Mystic Color Lab Superior 35mm Color Print Film (ref: 4edf)](#benjaminbeeroll-mystic-color-lab-superior-35mm-color-print-film-ref-4edf)
 - [[benjaminbeeroll] Polaroid 600 Platinum (ref: cd53)](#benjaminbeeroll-polaroid-600-platinum-ref-cd53)
 - [[dekuNukem] ADOX KB17 (ref: 2c95)](#dekunukem-adox-kb17-ref-2c95)
-- [[dekuNukem] Agfa APX (ref: 12c7)](#dekunukem-agfa-apx-ref-12c7)
+- [[dekuNukem] Agfa APX 100 (ref: 12c7)](#dekunukem-agfa-apx-100-ref-12c7)
 - [[dekuNukem] Agfa AgfaColor CT 18 (ref: 1fef)](#dekunukem-agfa-agfacolor-ct-18-ref-1fef)
 - [[dekuNukem] Agfa AgfaColor HDC Plus (ref: d22b)](#dekunukem-agfa-agfacolor-hdc-plus-ref-d22b)
 - [[dekuNukem] Agfa AgfaColor Optima 200 (ref: 393d)](#dekunukem-agfa-agfacolor-optima-200-ref-393d)
@@ -536,6 +536,7 @@ Total scans : 1316
 - [[dekuNukem] Kentmere PAN 400 (ref: 827e)](#dekunukem-kentmere-pan-400-ref-827e)
 - [[dekuNukem] Klick 400ASA (ref: 8779)](#dekunukem-klick-400asa-ref-8779)
 - [[dekuNukem] Klick APS Film (ref: 4b88)](#dekunukem-klick-aps-film-ref-4b88)
+- [[dekuNukem] Klick Extra Definition Multi Purpose Film (ref: 2e01)](#dekunukem-klick-extra-definition-multi-purpose-film-ref-2e01)
 - [[dekuNukem] Klick Max Extra Definition Multi Purpose Film (ref: 8ae4)](#dekunukem-klick-max-extra-definition-multi-purpose-film-ref-8ae4)
 - [[dekuNukem] Klick XD200 (ref: 44d7)](#dekunukem-klick-xd200-ref-44d7)
 - [[dekuNukem] Kodak Advantix Ultra (ref: 566b)](#dekunukem-kodak-advantix-ultra-ref-566b)
@@ -607,7 +608,7 @@ Total scans : 1316
 - [[dekuNukem] Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)](#dekunukem-polaroid-polavision-phototape-land-cassette-type-608-ref-90b9)
 - [[dekuNukem] Premium Super XG (ref: 8ccd)](#dekunukem-premium-super-xg-ref-8ccd)
 - [[dekuNukem] PrinzColor Colour Negative Film (ref: 448c)](#dekunukem-prinzcolor-colour-negative-film-ref-448c)
-- [[dekuNukem] Ricoh Golden "16" (ref: c02c)](#dekunukem-ricoh-golden-16-ref-c02c)
+- [[dekuNukem] Ricoh Golden 16 (ref: c02c)](#dekunukem-ricoh-golden-16-ref-c02c)
 - [[dekuNukem] Robot NR-Cassette (ref: bc7a)](#dekunukem-robot-nr-cassette-ref-bc7a)
 - [[dekuNukem] Rollei Infrared (ref: 4f54)](#dekunukem-rollei-infrared-ref-4f54)
 - [[dekuNukem] Rollei Retro 80S (ref: e6c0)](#dekunukem-rollei-retro-80s-ref-e6c0)
@@ -9387,7 +9388,7 @@ UUID  : 14047842e1a641268bfd4d01fcf02c95
 	<img src="./lowres/00065_001.jpg" alt="ADOX KB17 35mm film box inside" loading="lazy" width="500" height="418">
 </a>
 
-#### [dekuNukem] Agfa APX (ref: 12c7)
+#### [dekuNukem] Agfa APX 100 (ref: 12c7)
 
 ```
 Format: 120          |  Process : BW      
@@ -9398,14 +9399,14 @@ UUID  : a20bbca534454915a6970b6ede2212c7
 ```
 
 <a href="./archive/00011_000.jpg" target="_blank">
-	<img src="./lowres/00011_000.jpg" alt="Agfa APX 120 film box outside" loading="lazy" width="500" height="388">
+	<img src="./lowres/00011_000.jpg" alt="Agfa APX 100 120 film box outside" loading="lazy" width="500" height="388">
 </a>
 
 
 `UUID: dd262792b6a446dcab73a07738f8a8dd`↓
 
 <a href="./archive/00011_001.jpg" target="_blank">
-	<img src="./lowres/00011_001.jpg" alt="Agfa APX 120 film box inside" loading="lazy" width="500" height="402">
+	<img src="./lowres/00011_001.jpg" alt="Agfa APX 100 120 film box inside" loading="lazy" width="500" height="402">
 </a>
 
 #### [dekuNukem] Agfa AgfaColor CT 18 (ref: 1fef)
@@ -10814,6 +10815,20 @@ UUID  : 1dc3d9dbb8bb42b4acfbfbe0737a4b88
 
 <a href="./archive/00063_001.jpg" target="_blank">
 	<img src="./lowres/00063_001.jpg" alt="Klick APS Film APS film box inside" loading="lazy" width="500" height="268">
+</a>
+
+#### [dekuNukem] Klick Extra Definition Multi Purpose Film (ref: 2e01)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2005-06 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-14   |  Author  : dekuNukem
+UUID  : 1de78d118b71405fbc6d5129f08b2e01
+```
+
+<a href="./archive/00721_000.jpg" target="_blank">
+	<img src="./lowres/00721_000.jpg" alt="Klick Extra Definition Multi Purpose Film 35mm film box outside" loading="lazy" width="429" height="500">
 </a>
 
 #### [dekuNukem] Klick Max Extra Definition Multi Purpose Film (ref: 8ae4)
@@ -12435,7 +12450,7 @@ UUID  : 1d1377fcb4fa495e9f3009a4c69b448c
 	<img src="./lowres/00363_004.jpg" alt="PrinzColor Colour Negative Film 35mm film box outside" loading="lazy" width="500" height="202">
 </a>
 
-#### [dekuNukem] Ricoh Golden "16" (ref: c02c)
+#### [dekuNukem] Ricoh Golden 16 (ref: c02c)
 
 ```
 Format: 16mm         |  Process : BW      
@@ -12446,35 +12461,35 @@ UUID  : c4263f60ad284b669f5db75e79d2c02c
 ```
 
 <a href="./archive/00383_000.jpg" target="_blank">
-	<img src="./lowres/00383_000.jpg" alt="Ricoh Golden "16" 16mm film box outside" loading="lazy" width="500" height="388">
+	<img src="./lowres/00383_000.jpg" alt="Ricoh Golden 16 16mm film box outside" loading="lazy" width="500" height="388">
 </a>
 
 
 `UUID: 0bd17a0f246c41b79322a478901003c5`↓
 
 <a href="./archive/00383_001.jpg" target="_blank">
-	<img src="./lowres/00383_001.jpg" alt="Ricoh Golden "16" 16mm film box processing envelope" loading="lazy" width="500" height="197">
+	<img src="./lowres/00383_001.jpg" alt="Ricoh Golden 16 16mm film box processing envelope" loading="lazy" width="500" height="197">
 </a>
 
 
 `UUID: d99990b484984277a0be54182937d422`↓
 
 <a href="./archive/00383_002.jpg" target="_blank">
-	<img src="./lowres/00383_002.jpg" alt="Ricoh Golden "16" 16mm film box processing envelope" loading="lazy" width="500" height="220">
+	<img src="./lowres/00383_002.jpg" alt="Ricoh Golden 16 16mm film box processing envelope" loading="lazy" width="500" height="220">
 </a>
 
 
 `UUID: 59c184351d13442dab4fb0f74ddd25ee`↓
 
 <a href="./archive/00383_003.jpg" target="_blank">
-	<img src="./lowres/00383_003.jpg" alt="Ricoh Golden "16" 16mm film box leaflet" loading="lazy" width="331" height="500">
+	<img src="./lowres/00383_003.jpg" alt="Ricoh Golden 16 16mm film box leaflet" loading="lazy" width="331" height="500">
 </a>
 
 
 `UUID: 0d69320f7ded493590d6abb0ea69f750`↓
 
 <a href="./archive/00383_004.jpg" target="_blank">
-	<img src="./lowres/00383_004.jpg" alt="Ricoh Golden "16" 16mm film box leaflet" loading="lazy" width="362" height="500">
+	<img src="./lowres/00383_004.jpg" alt="Ricoh Golden 16 16mm film box leaflet" loading="lazy" width="362" height="500">
 </a>
 
 #### [dekuNukem] Robot NR-Cassette (ref: bc7a)
@@ -15001,7 +15016,7 @@ UUID  : e54ce68c797b4846b9aee3f5818ecb58
 ```
 Rank  Username                      Contributions
 --------------------------------------------------
-1     dekuNukem                     339   
+1     dekuNukem                     340   
 2     Luci 101                      102   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
