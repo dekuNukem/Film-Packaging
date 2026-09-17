@@ -1202,7 +1202,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 648,0,film_box_outside,Fujifilm,Nexia A200,APS,200,C-41,201112,1782300509,60e484e3d3022a0c5a14abcb1de72c8e,711fdcd259474949990498f964f443c0,00648_000.jpg,Dialupdude,,Single Pack,25exp
 648,1,film_box_inside,Fujifilm,Nexia A200,APS,200,C-41,201112,1782300512,78a5ce25d3b5f650eb14cf43d33ee080,3325f0ecfe9547a784fe0995fa87786d,00648_001.jpg,Dialupdude,,Single Pack,25exp
 649,0,film_box_outside,Kodak,Gold 200,35mm,200,C-41,202607,1782300546,51baf1d45726d4313261d8792732b54d,31931d00c51447a8a625da94ce34795c,00649_000.jpg,Dialupdude,,Single Pack,24exp
-650,0,film_box_outside,Kodak,Kodachrome 40,Super 8,40,K-14,Unknown,1782300612,5132af26f17ff379e30f0ed50f8bc383,1d9c43a04f37409ab0699ff47af92a3e,00650_000.jpg,Dialupdude,,Single Pack,Unknown
+650,0,film_box_outside,Kodak,Kodachrome 40,Super 8,40,K-14,Unknown,1782300612,5132af26f17ff379e30f0ed50f8bc383,1d9c43a04f37409ab0699ff47af92a3e,00650_000.jpg,Dialupdude,,Single Pack,15m
 651,0,film_box_outside,Fujifilm,400 Speed Film,35mm,400,C-41,202708,1782390295,26cc249739a7f1a41d91bda309fe7c7c,fbe4ce2683e744b1b2ffae6b1c767f19,00651_000.jpg,Dialupdude,,Single Pack,36exp
 652,0,film_box_outside,Konica,VX 100 Super,35mm,100,C-41,200511,1782391521,ff2200708c9da4234687737230c95ddf,39efe40e04c44643850d8442b4c490b4,00652_000.jpg,Dialupdude,,Single Pack,24exp
 652,1,film_box_inside,Konica,VX 100 Super,35mm,100,C-41,200511,1782391523,fd1ff5e1b648b33326626014d48ea0d7,4c99e38ae90f43e8baa4e0cd9b0a313b,00652_001.jpg,Dialupdude,,Single Pack,24exp
@@ -1319,3 +1319,6 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 722,0,film_box_outside,Polaroid,Viva,Instant Pack Film,125,Instant,200805,1789391860,489b4037fff845ee97e142dfe780906d,6d66aeca6f0a4d0ca41f675d329f271b,00722_000.jpg,nyctomanica,,Single Pack,10exp
 722,1,film_box_inside,Polaroid,Viva,Instant Pack Film,125,Instant,200805,1789391862,dbf5043e9f707bfe8577d1c5d0844e9d,416145134d20498dbd4947aaeef1ce5b,00722_001.jpg,nyctomanica,,Single Pack,10exp
 722,2,film_box_inside,Polaroid,Viva,Instant Pack Film,125,Instant,200805,1789391866,51a077c6cf45dbdb02615d1a9a4b6875,4a805b8a79584a5ea8a47cb537f403ea,00722_002.jpg,nyctomanica,,Single Pack,10exp
+723,0,film_box_outside,Agfa,APX 200,35mm,200,BW,203010,1789641702,e465ec0f6b0d08759ceb25166e6149f1,afe453ec6b4e476dbacceffdf0e89165,00723_000.jpg,DaFujiDude,,Single Pack,36exp
+724,0,film_box_outside,Lomography,Redscale XR Negative,35mm,50-200,C-41,202806,1789641806,f6f6e727f8066ef1a461d1f56e431989,4594095faf2d4c10bb4a81f5253ce897,00724_000.jpg,@Hol.m35,,Multi-Pack-3,36exp
+724,1,film_box_inside,Lomography,Redscale XR Negative,35mm,50-200,C-41,202806,1789641809,299db6ffb41e07c7469dd0526e21788a,f9bbb1fb19074f028460d8005465d92d,00724_001.jpg,@Hol.m35,,Multi-Pack-3,36exp

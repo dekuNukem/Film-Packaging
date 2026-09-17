@@ -7,15 +7,34 @@ from collections import Counter
 
 def make_contributor_list(sorted_count_result):
     # Calculate the maximum username length and add 5
-    max_username_length = max(len(username) for username in sorted_count_result.keys()) + 5
-    
+    max_username_length = max(len(username) for username in sorted_count_result.keys()) + 1
+
+    def format_row(rank, username, count):
+        return f"{rank:<6}{username:<{max_username_length}}{count:<6}"
+
+    header = format_row('Rank', 'Username', 'Contributions')
+    divider = '-' * (max_username_length + 20)
+
+    rows = [format_row(rank, username, count)
+            for rank, (username, count) in enumerate(sorted_count_result.items(), start=1)]
+
+    # Split column-major so ranks flow down the left column, then the right.
+    half = (len(rows) + 1) // 2
+    left_rows = rows[:half]
+    right_rows = rows[half:]
+
+    column_width = len(header)
+    gap = ' ' * 4
+
     lines = []
-    lines.append(f"{'Rank':<6}{'Username':<{max_username_length}}{'Contributions':<6}")
-    lines.append('-' * (max_username_length + 20))
-    
-    for rank, (username, count) in enumerate(sorted_count_result.items(), start=1):
-        lines.append(f"{rank:<6}{username:<{max_username_length}}{count:<6}")
-    
+    lines.append(f"{header:<{column_width}}{gap}{header if right_rows else ''}".rstrip())
+    lines.append(f"{divider:<{column_width}}{gap}{divider if right_rows else ''}".rstrip())
+
+    for i in range(half):
+        left = left_rows[i]
+        right = right_rows[i] if i < len(right_rows) else ''
+        lines.append(f"{left:<{column_width}}{gap}{right}".rstrip())
+
     return '\n'.join(lines)
 
 database_entries = []

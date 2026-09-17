@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 14 2026
-Unique items: 718
-Total scans : 1320
+Last Updated: Sep 17 2026
+Unique items: 720
+Total scans : 1323
 ```
 
 -----
@@ -53,6 +53,7 @@ Total scans : 1320
 - [[@Hol.m35] Lomography Color Negative Film (ref: d986)](#holm35-lomography-color-negative-film-ref-d986)
 - [[@Hol.m35] Lomography Postdam (ref: 2769)](#holm35-lomography-postdam-ref-2769)
 - [[@Hol.m35] Lomography Postdam (ref: d0c6)](#holm35-lomography-postdam-ref-d0c6)
+- [[@Hol.m35] Lomography Redscale XR Negative (ref: e897)](#holm35-lomography-redscale-xr-negative-ref-e897)
 - [[@Hol.m35] Lucky C200 (ref: e6f8)](#holm35-lucky-c200-ref-e6f8)
 - [[@Hol.m35] Lucky C200 (ref: b0cc)](#holm35-lucky-c200-ref-b0cc)
 - [[@Hol.m35] Lucky C400 (ref: a02c)](#holm35-lucky-c400-ref-a02c)
@@ -282,6 +283,7 @@ Total scans : 1320
 - [[Chrisbes] Reflx Lab 800T (ref: 6b6b)](#chrisbes-reflx-lab-800t-ref-6b6b)
 - [[Chrisbes] Reflx Lab Fortuna (ref: 56a5)](#chrisbes-reflx-lab-fortuna-ref-56a5)
 - [[Constantino] Ogapan Panchromatic (ref: 9c23)](#constantino-ogapan-panchromatic-ref-9c23)
+- [[DaFujiDude] Agfa APX 200 (ref: 9165)](#dafujidude-agfa-apx-200-ref-9165)
 - [[DaFujiDude] Agfa APX 400 (ref: 379a)](#dafujidude-agfa-apx-400-ref-379a)
 - [[Dialupdude] 1Shot Color Print Film (ref: 8cf0)](#dialupdude-1shot-color-print-film-ref-8cf0)
 - [[Dialupdude] 1Shot Fun Shooter Flash (ref: 31aa)](#dialupdude-1shot-fun-shooter-flash-ref-31aa)
@@ -1296,6 +1298,27 @@ Notes : Black & White POSTDAM 35mm Kino Film
 
 <a href="./archive/00475_001.jpg" target="_blank">
 	<img src="./lowres/00475_001.jpg" alt="Lomography Postdam 35mm film box inside" loading="lazy" width="500" height="371">
+</a>
+
+#### [@Hol.m35] Lomography Redscale XR Negative (ref: e897)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 50-200       |  Expiry  : 2028-06 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2026-09-17   |  Author  : @Hol.m35
+UUID  : 4594095faf2d4c10bb4a81f5253ce897
+```
+
+<a href="./archive/00724_000.jpg" target="_blank">
+	<img src="./lowres/00724_000.jpg" alt="Lomography Redscale XR Negative 35mm film box outside" loading="lazy" width="343" height="500">
+</a>
+
+
+`UUID: f9bbb1fb19074f028460d8005465d92d`↓
+
+<a href="./archive/00724_001.jpg" target="_blank">
+	<img src="./lowres/00724_001.jpg" alt="Lomography Redscale XR Negative 35mm film box inside" loading="lazy" width="376" height="499">
 </a>
 
 #### [@Hol.m35] Lucky C200 (ref: e6f8)
@@ -5356,6 +5379,20 @@ UUID  : c01fbe88bcfc41aa89cf002ce11b9c23
 	<img src="./lowres/00698_000.jpg" alt="Ogapan Panchromatic 35mm film box outside" loading="lazy" width="500" height="463">
 </a>
 
+#### [DaFujiDude] Agfa APX 200 (ref: 9165)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 200          |  Expiry  : 2030-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-17   |  Author  : DaFujiDude
+UUID  : afe453ec6b4e476dbacceffdf0e89165
+```
+
+<a href="./archive/00723_000.jpg" target="_blank">
+	<img src="./lowres/00723_000.jpg" alt="Agfa APX 200 35mm film box outside" loading="lazy" width="411" height="500">
+</a>
+
 #### [DaFujiDude] Agfa APX 400 (ref: 379a)
 
 ```
@@ -5529,7 +5566,7 @@ UUID  : f7c1098f0fe74126bf9cef9c261bcd39
 ```
 Format: Super 8      |  Process : K-14    
 ISO   : 40           |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: Unknown 
+Type  : Single Pack  |  Quantity: 15m     
 Added : 2026-06-24   |  Author  : Dialupdude
 UUID  : 1d9c43a04f37409ab0699ff47af92a3e
 ```
@@ -15043,67 +15080,38 @@ UUID  : e54ce68c797b4846b9aee3f5818ecb58
 ## Contributor List
 
 ```
-Rank  Username                      Contributions
---------------------------------------------------
-1     dekuNukem                     340   
-2     Luci 101                      102   
-3     @photos.by.qi                 72    
-4     Pelicram                      71    
-5     @Hol.m35                      71    
-6     nyctomanica                   70    
-7     @ellafridalindblom            67    
-8     @recycling.film               66    
-9     Dialupdude                    30    
-10    Mauphoto                      28    
-11    The Compartmentalist          25    
-12    benjaminbeeroll               20    
-13    @ob.skura                     19    
-14    fine-seat                     19    
-15    Camera.Riley                  19    
-16    kaimon                        19    
-17    Chrisbes                      19    
-18    Nano_Burger                   18    
-19    toader                        17    
-20    waldoboro                     17    
-21    yc128                         14    
-22    b0baspace                     14    
-23    @SirBrentsworth               13    
-24    benikum                       12    
-25    u/ReeeSchmidtyWerber          11    
-26    @zruk_ts                      10    
-27    minidiscus                    10    
-28    lilyu.xyz                     9     
-29    Kraksen                       9     
-30    lt_col_tall                   9     
-31    MCB18                         9     
-32    Rafa Laguillo                 8     
-33    @toastergod101                7     
-34    @filmfotofella                7     
-35    GreatGizmo74                  6     
-36    nick                          6     
-37    Greg                          6     
-38    @gregrouxphotography          5     
-39    Tobias                        5     
-40    @janjuudas                    5     
-41    Henry Gunn                    4     
-42    TheSelousScout                4     
-43    @sachynmital                  3     
-44    Tallbird Cowboy               3     
-45    @seklerek                     2     
-46    @ftfilmphotos                 2     
-47    @tylerdrey                    2     
-48    Warren Umbach                 2     
-49    @flyingcamerastudio           2     
-50    @pommegranny                  2     
-51    DaFujiDude                    2     
-52    Yrikonchik                    1     
-53    @ad.astra.per.aspera.1894     1     
-54    Aoi Yuki                      1     
-55    lemoniter                     1     
-56    @shotbyliampewpew             1     
-57    Joo                           1     
-58    @titanic_159                  1     
-59    Constantino                   1     
+Rank  Username                  Contributions    Rank  Username                  Contributions
+----------------------------------------------    ----------------------------------------------
+1     dekuNukem                 340              31    MCB18                     9
+2     Luci 101                  102              32    Rafa Laguillo             8
+3     @Hol.m35                  73               33    @toastergod101            7
+4     @photos.by.qi             72               34    @filmfotofella            7
+5     Pelicram                  71               35    GreatGizmo74              6
+6     nyctomanica               70               36    nick                      6
+7     @ellafridalindblom        67               37    Greg                      6
+8     @recycling.film           66               38    @gregrouxphotography      5
+9     Dialupdude                30               39    Tobias                    5
+10    Mauphoto                  28               40    @janjuudas                5
+11    The Compartmentalist      25               41    Henry Gunn                4
+12    benjaminbeeroll           20               42    TheSelousScout            4
+13    @ob.skura                 19               43    @sachynmital              3
+14    fine-seat                 19               44    Tallbird Cowboy           3
+15    Camera.Riley              19               45    DaFujiDude                3
+16    kaimon                    19               46    @seklerek                 2
+17    Chrisbes                  19               47    @ftfilmphotos             2
+18    Nano_Burger               18               48    @tylerdrey                2
+19    toader                    17               49    Warren Umbach             2
+20    waldoboro                 17               50    @flyingcamerastudio       2
+21    yc128                     14               51    @pommegranny              2
+22    b0baspace                 14               52    Yrikonchik                1
+23    @SirBrentsworth           13               53    @ad.astra.per.aspera.1894 1
+24    benikum                   12               54    Aoi Yuki                  1
+25    u/ReeeSchmidtyWerber      11               55    lemoniter                 1
+26    @zruk_ts                  10               56    @shotbyliampewpew         1
+27    minidiscus                10               57    Joo                       1
+28    lilyu.xyz                 9                58    @titanic_159              1
+29    Kraksen                   9                59    Constantino               1
+30    lt_col_tall               9
 ```
 
 ## Questions or Comments?

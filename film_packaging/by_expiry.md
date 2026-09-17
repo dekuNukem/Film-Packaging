@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 14 2026
-Unique items: 718
-Total scans : 1320
+Last Updated: Sep 17 2026
+Unique items: 720
+Total scans : 1323
 ```
 
 -----
@@ -666,6 +666,7 @@ Total scans : 1320
 - [[2028] Harman Phoenix II (ref: 41d4)](#2028-harman-phoenix-ii-ref-41d4)
 - [[2028] Ilford HP5 Plus (ref: df49)](#2028-ilford-hp5-plus-ref-df49)
 - [[2028] Lomography Lomochrome Metropolis (ref: ec77)](#2028-lomography-lomochrome-metropolis-ref-ec77)
+- [[2028] Lomography Redscale XR Negative (ref: e897)](#2028-lomography-redscale-xr-negative-ref-e897)
 - [[2028] Optik Oldschool OptiMono 100 (ref: 312c)](#2028-optik-oldschool-optimono-100-ref-312c)
 - [[2028] Candido Color Negative Film 800 (ref: c39e)](#2028-candido-color-negative-film-800-ref-c39e)
 - [[2028] Kodak Ektacolor Pro 400 (ref: aa72)](#2028-kodak-ektacolor-pro-400-ref-aa72)
@@ -684,6 +685,7 @@ Total scans : 1320
 - [[2029] Kentmere PAN 400 (ref: a327)](#2029-kentmere-pan-400-ref-a327)
 - [[2030] Agfa APX 400 (ref: 379a)](#2030-agfa-apx-400-ref-379a)
 - [[2030] Kentmere PAN 200 (ref: 0e32)](#2030-kentmere-pan-200-ref-0e32)
+- [[2030] Agfa APX 200 (ref: 9165)](#2030-agfa-apx-200-ref-9165)
 - [[Unknown] A Girl Has Film Tetris 200 (ref: b309)](#unknown-a-girl-has-film-tetris-200-ref-b309)
 - [[Unknown] Agfa Agfacolor Umkehr-Ultra T (ref: 01db)](#unknown-agfa-agfacolor-umkehr-ultra-t-ref-01db)
 - [[Unknown] Agfa Agfapan  APX 25 (ref: 805f)](#unknown-agfa-agfapan-apx-25-ref-805f)
@@ -13686,6 +13688,27 @@ UUID  : 862c394687c644068ae4721a7c93ec77
 	<img src="./lowres/00670_000.jpg" alt="Lomography Lomochrome Metropolis 110 film box outside" loading="lazy" width="364" height="500">
 </a>
 
+#### [2028] Lomography Redscale XR Negative (ref: e897)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 50-200       |  Expiry  : 2028-06 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2026-09-17   |  Author  : @Hol.m35
+UUID  : 4594095faf2d4c10bb4a81f5253ce897
+```
+
+<a href="./archive/00724_000.jpg" target="_blank">
+	<img src="./lowres/00724_000.jpg" alt="Lomography Redscale XR Negative 35mm film box outside" loading="lazy" width="343" height="500">
+</a>
+
+
+`UUID: f9bbb1fb19074f028460d8005465d92d`↓
+
+<a href="./archive/00724_001.jpg" target="_blank">
+	<img src="./lowres/00724_001.jpg" alt="Lomography Redscale XR Negative 35mm film box inside" loading="lazy" width="376" height="499">
+</a>
+
 #### [2028] Optik Oldschool OptiMono 100 (ref: 312c)
 
 ```
@@ -14020,6 +14043,20 @@ UUID  : b0e988456d7444b1b879dc6ca4a80e32
 
 <a href="./archive/00186_000.jpg" target="_blank">
 	<img src="./lowres/00186_000.jpg" alt="Kentmere PAN 200 35mm film box outside" loading="lazy" width="437" height="499">
+</a>
+
+#### [2030] Agfa APX 200 (ref: 9165)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 200          |  Expiry  : 2030-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-17   |  Author  : DaFujiDude
+UUID  : afe453ec6b4e476dbacceffdf0e89165
+```
+
+<a href="./archive/00723_000.jpg" target="_blank">
+	<img src="./lowres/00723_000.jpg" alt="Agfa APX 200 35mm film box outside" loading="lazy" width="411" height="500">
 </a>
 
 #### [Unknown] A Girl Has Film Tetris 200 (ref: b309)
@@ -14512,7 +14549,7 @@ UUID  : e214a4d756ac48c4ac6dbe515fd38468
 ```
 Format: Super 8      |  Process : K-14    
 ISO   : 40           |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: Unknown 
+Type  : Single Pack  |  Quantity: 15m     
 Added : 2026-06-24   |  Author  : Dialupdude
 UUID  : 1d9c43a04f37409ab0699ff47af92a3e
 ```
@@ -15043,67 +15080,38 @@ UUID  : 80d64fa269454c5589109c68a40541a8
 ## Contributor List
 
 ```
-Rank  Username                      Contributions
---------------------------------------------------
-1     dekuNukem                     340   
-2     Luci 101                      102   
-3     @photos.by.qi                 72    
-4     Pelicram                      71    
-5     @Hol.m35                      71    
-6     nyctomanica                   70    
-7     @ellafridalindblom            67    
-8     @recycling.film               66    
-9     Dialupdude                    30    
-10    Mauphoto                      28    
-11    The Compartmentalist          25    
-12    benjaminbeeroll               20    
-13    @ob.skura                     19    
-14    fine-seat                     19    
-15    Camera.Riley                  19    
-16    kaimon                        19    
-17    Chrisbes                      19    
-18    Nano_Burger                   18    
-19    toader                        17    
-20    waldoboro                     17    
-21    yc128                         14    
-22    b0baspace                     14    
-23    @SirBrentsworth               13    
-24    benikum                       12    
-25    u/ReeeSchmidtyWerber          11    
-26    @zruk_ts                      10    
-27    minidiscus                    10    
-28    lilyu.xyz                     9     
-29    Kraksen                       9     
-30    lt_col_tall                   9     
-31    MCB18                         9     
-32    Rafa Laguillo                 8     
-33    @toastergod101                7     
-34    @filmfotofella                7     
-35    GreatGizmo74                  6     
-36    nick                          6     
-37    Greg                          6     
-38    @gregrouxphotography          5     
-39    Tobias                        5     
-40    @janjuudas                    5     
-41    Henry Gunn                    4     
-42    TheSelousScout                4     
-43    @sachynmital                  3     
-44    Tallbird Cowboy               3     
-45    @seklerek                     2     
-46    @ftfilmphotos                 2     
-47    @tylerdrey                    2     
-48    Warren Umbach                 2     
-49    @flyingcamerastudio           2     
-50    @pommegranny                  2     
-51    DaFujiDude                    2     
-52    Yrikonchik                    1     
-53    @ad.astra.per.aspera.1894     1     
-54    Aoi Yuki                      1     
-55    lemoniter                     1     
-56    @shotbyliampewpew             1     
-57    Joo                           1     
-58    @titanic_159                  1     
-59    Constantino                   1     
+Rank  Username                  Contributions    Rank  Username                  Contributions
+----------------------------------------------    ----------------------------------------------
+1     dekuNukem                 340              31    MCB18                     9
+2     Luci 101                  102              32    Rafa Laguillo             8
+3     @Hol.m35                  73               33    @toastergod101            7
+4     @photos.by.qi             72               34    @filmfotofella            7
+5     Pelicram                  71               35    GreatGizmo74              6
+6     nyctomanica               70               36    nick                      6
+7     @ellafridalindblom        67               37    Greg                      6
+8     @recycling.film           66               38    @gregrouxphotography      5
+9     Dialupdude                30               39    Tobias                    5
+10    Mauphoto                  28               40    @janjuudas                5
+11    The Compartmentalist      25               41    Henry Gunn                4
+12    benjaminbeeroll           20               42    TheSelousScout            4
+13    @ob.skura                 19               43    @sachynmital              3
+14    fine-seat                 19               44    Tallbird Cowboy           3
+15    Camera.Riley              19               45    DaFujiDude                3
+16    kaimon                    19               46    @seklerek                 2
+17    Chrisbes                  19               47    @ftfilmphotos             2
+18    Nano_Burger               18               48    @tylerdrey                2
+19    toader                    17               49    Warren Umbach             2
+20    waldoboro                 17               50    @flyingcamerastudio       2
+21    yc128                     14               51    @pommegranny              2
+22    b0baspace                 14               52    Yrikonchik                1
+23    @SirBrentsworth           13               53    @ad.astra.per.aspera.1894 1
+24    benikum                   12               54    Aoi Yuki                  1
+25    u/ReeeSchmidtyWerber      11               55    lemoniter                 1
+26    @zruk_ts                  10               56    @shotbyliampewpew         1
+27    minidiscus                10               57    Joo                       1
+28    lilyu.xyz                 9                58    @titanic_159              1
+29    Kraksen                   9                59    Constantino               1
+30    lt_col_tall               9
 ```
 
 ## Questions or Comments?
