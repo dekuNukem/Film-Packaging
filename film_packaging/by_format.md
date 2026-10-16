@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Sep 17 2026
-Unique items: 720
-Total scans : 1323
+Last Updated: Oct 16 2026
+Unique items: 733
+Total scans : 1348
 ```
 
 -----
@@ -120,6 +120,8 @@ Total scans : 1323
 - [[120] Kodak Ektachrome 400 (ref: 2b94)](#120-kodak-ektachrome-400-ref-2b94)
 - [[120] Kodak Ektachrome 400X (ref: 5b82)](#120-kodak-ektachrome-400x-ref-5b82)
 - [[120] Kodak Ektachrome E100VS (ref: a8d3)](#120-kodak-ektachrome-e100vs-ref-a8d3)
+- [[120] Kodak Ektachrome EPT (ref: 34eb)](#120-kodak-ektachrome-ept-ref-34eb)
+- [[120] Kodak Ektachrome EPY (ref: 9aab)](#120-kodak-ektachrome-epy-ref-9aab)
 - [[120] Kodak Ektachrome Professional (ref: 02a1)](#120-kodak-ektachrome-professional-ref-02a1)
 - [[120] Kodak Ektachrome Professional Type B (ref: 1d9d)](#120-kodak-ektachrome-professional-type-b-ref-1d9d)
 - [[120] Kodak Ektachrome-X (ref: cca3)](#120-kodak-ektachrome-x-ref-cca3)
@@ -287,6 +289,7 @@ Total scans : 1323
 - [[35mm] Escura Showa Camera Film (ref: 826b)](#35mm-escura-showa-camera-film-ref-826b)
 - [[35mm] Ferrania Solaris (ref: a929)](#35mm-ferrania-solaris-ref-a929)
 - [[35mm] Ferrania Solaris FG Plus (ref: 78b7)](#35mm-ferrania-solaris-fg-plus-ref-78b7)
+- [[35mm] Ferrania Solaris FH Plus (ref: a505)](#35mm-ferrania-solaris-fh-plus-ref-a505)
 - [[35mm] Film Corporation of America TriFCA 35 (ref: 8f0a)](#35mm-film-corporation-of-america-trifca-35-ref-8f0a)
 - [[35mm] Film Never Die IRO (ref: 2a22)](#35mm-film-never-die-iro-ref-2a22)
 - [[35mm] Film Never Die Kiro (ref: 796d)](#35mm-film-never-die-kiro-ref-796d)
@@ -377,6 +380,7 @@ Total scans : 1323
 - [[35mm] Ilford Delta 3200 Professional (ref: 9b54)](#35mm-ilford-delta-3200-professional-ref-9b54)
 - [[35mm] Ilford Delta 400 Professional (ref: 8f8b)](#35mm-ilford-delta-400-professional-ref-8f8b)
 - [[35mm] Ilford Delta 400 Professional (ref: f3da)](#35mm-ilford-delta-400-professional-ref-f3da)
+- [[35mm] Ilford Delta 400 Professional Collector's Edition (ref: 10a5)](#35mm-ilford-delta-400-professional-collectors-edition-ref-10a5)
 - [[35mm] Ilford FP3 (ref: 84f7)](#35mm-ilford-fp3-ref-84f7)
 - [[35mm] Ilford FP3 Series 2 (ref: 03e7)](#35mm-ilford-fp3-series-2-ref-03e7)
 - [[35mm] Ilford FP4 (ref: b2f0)](#35mm-ilford-fp4-ref-b2f0)
@@ -386,6 +390,7 @@ Total scans : 1323
 - [[35mm] Ilford HP5 Plus (ref: df49)](#35mm-ilford-hp5-plus-ref-df49)
 - [[35mm] Ilford Ilfochrome (ref: ac24)](#35mm-ilford-ilfochrome-ref-ac24)
 - [[35mm] Ilford Ilfocolor 400 Plus (ref: 3930)](#35mm-ilford-ilfocolor-400-plus-ref-3930)
+- [[35mm] Ilford PAN 400 (ref: 933f)](#35mm-ilford-pan-400-ref-933f)
 - [[35mm] Ilford Pan F 50 (ref: c977)](#35mm-ilford-pan-f-50-ref-c977)
 - [[35mm] Ilford XP2 (ref: 7d94)](#35mm-ilford-xp2-ref-7d94)
 - [[35mm] Ilford XP2 Super (ref: 622a)](#35mm-ilford-xp2-super-ref-622a)
@@ -522,8 +527,11 @@ Total scans : 1323
 - [[35mm] Konica VX 100 Super (ref: 90b4)](#35mm-konica-vx-100-super-ref-90b4)
 - [[35mm] Konica Minolta Centuria 100 (ref: 00ae)](#35mm-konica-minolta-centuria-100-ref-00ae)
 - [[35mm] Konica Minolta Centuria Super (ref: 95f0)](#35mm-konica-minolta-centuria-super-ref-95f0)
+- [[35mm] Konica Minolta Centuria Super (ref: 9b08)](#35mm-konica-minolta-centuria-super-ref-9b08)
 - [[35mm] Konica Minolta Commercial Color Film (ref: e903)](#35mm-konica-minolta-commercial-color-film-ref-e903)
 - [[35mm] Kosmo Foto Mono (ref: b74f)](#35mm-kosmo-foto-mono-ref-b74f)
+- [[35mm] Leica Monopan 50 (ref: 1f4d)](#35mm-leica-monopan-50-ref-1f4d)
+- [[35mm] Leica Monopan 50 (ref: a75e)](#35mm-leica-monopan-50-ref-a75e)
 - [[35mm] Lloyds Pharmacy Colour Film (ref: 074c)](#35mm-lloyds-pharmacy-colour-film-ref-074c)
 - [[35mm] Lloyds Pharmacy Colour Film (ref: 77d9)](#35mm-lloyds-pharmacy-colour-film-ref-77d9)
 - [[35mm] Lomography Babylon (ref: 7afa)](#35mm-lomography-babylon-ref-7afa)
@@ -574,11 +582,13 @@ Total scans : 1323
 - [[35mm] Optik Oldschool OptiColour 200 (ref: a7c9)](#35mm-optik-oldschool-opticolour-200-ref-a7c9)
 - [[35mm] Optik Oldschool OptiMono 100 (ref: 312c)](#35mm-optik-oldschool-optimono-100-ref-312c)
 - [[35mm] Optik Oldschool SantaColor (ref: dd85)](#35mm-optik-oldschool-santacolor-ref-dd85)
+- [[35mm] PandaCamera DoubleX (ref: a290)](#35mm-pandacamera-doublex-ref-a290)
 - [[35mm] Perutz CR 100 (ref: b5df)](#35mm-perutz-cr-100-ref-b5df)
 - [[35mm] Perutz Peromnia 21 (ref: fa4a)](#35mm-perutz-peromnia-21-ref-fa4a)
 - [[35mm] Perutz Primera (ref: cbfb)](#35mm-perutz-primera-ref-cbfb)
 - [[35mm] Photocité 400 ISO (ref: e370)](#35mm-photocité-400-iso-ref-e370)
 - [[35mm] Polaroid High Contrast PolaChrome (ref: c984)](#35mm-polaroid-high-contrast-polachrome-ref-c984)
+- [[35mm] Polaroid High Definition (ref: aad0)](#35mm-polaroid-high-definition-ref-aad0)
 - [[35mm] Polaroid High Definition (ref: ac7c)](#35mm-polaroid-high-definition-ref-ac7c)
 - [[35mm] Polaroid PolaBlue 35mm (ref: df66)](#35mm-polaroid-polablue-35mm-ref-df66)
 - [[35mm] Polaroid PolaChrome 35mm (ref: 3b60)](#35mm-polaroid-polachrome-35mm-ref-3b60)
@@ -593,6 +603,7 @@ Total scans : 1323
 - [[35mm] Reflx Lab 800T (ref: 6b6b)](#35mm-reflx-lab-800t-ref-6b6b)
 - [[35mm] Reto Amber D400 (ref: 08ad)](#35mm-reto-amber-d400-ref-08ad)
 - [[35mm] Robot NR-Cassette (ref: bc7a)](#35mm-robot-nr-cassette-ref-bc7a)
+- [[35mm] Rollei Infrared (ref: 17b9)](#35mm-rollei-infrared-ref-17b9)
 - [[35mm] Rollei Infrared (ref: eae2)](#35mm-rollei-infrared-ref-eae2)
 - [[35mm] Rollei RPX 100 (ref: 7cd1)](#35mm-rollei-rpx-100-ref-7cd1)
 - [[35mm] Rollei RPX 25 (ref: b14c)](#35mm-rollei-rpx-25-ref-b14c)
@@ -612,6 +623,7 @@ Total scans : 1323
 - [[35mm] Stavanger Foto Frontier (ref: c51e)](#35mm-stavanger-foto-frontier-ref-c51e)
 - [[35mm] Street Candy Film ATM400 (ref: 4380)](#35mm-street-candy-film-atm400-ref-4380)
 - [[35mm] Svema FN 64 (ref: 600a)](#35mm-svema-fn-64-ref-600a)
+- [[35mm] Svema Foto 125 (ref: cb59)](#35mm-svema-foto-125-ref-cb59)
 - [[35mm] Svema Foto 200 (ref: 6991)](#35mm-svema-foto-200-ref-6991)
 - [[35mm] Svema Foto 32 (ref: d1fd)](#35mm-svema-foto-32-ref-d1fd)
 - [[35mm] Svema Foto 400 (ref: 26ad)](#35mm-svema-foto-400-ref-26ad)
@@ -667,6 +679,7 @@ Total scans : 1323
 - [[9x12cm] Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides (ref: a44b)](#9x12cm-lumière-union-photographique-industrielle-plaques-au-gélatino-bromure-dargent-extra-rapides-ref-a44b)
 - [[9x12cm] Perutz Superomnia (ref: c90d)](#9x12cm-perutz-superomnia-ref-c90d)
 - [[APS] Fujifilm Nexia A200 (ref: 43c0)](#aps-fujifilm-nexia-a200-ref-43c0)
+- [[APS] Fujifilm nexia (ref: 2c29)](#aps-fujifilm-nexia-ref-2c29)
 - [[APS] Jessops Diamond Everyday (ref: 67d3)](#aps-jessops-diamond-everyday-ref-67d3)
 - [[APS] Klick APS Film (ref: 4b88)](#aps-klick-aps-film-ref-4b88)
 - [[APS] Kodak Advantix Ultra (ref: 030a)](#aps-kodak-advantix-ultra-ref-030a)
@@ -2772,6 +2785,62 @@ UUID  : e8673d04cee440bd9c065a37a485a8d3
 
 <a href="./archive/00160_000.jpg" target="_blank">
 	<img src="./lowres/00160_000.jpg" alt="Kodak Ektachrome E100VS 120 film box outside" loading="lazy" width="391" height="500">
+</a>
+
+#### [120] Kodak Ektachrome EPT (ref: 34eb)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 160          |  Expiry  : 1984-02 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-10-16   |  Author  : Dialupdude
+UUID  : 2a910b5064f3416391a199aff11734eb
+```
+
+<a href="./archive/00729_000.jpg" target="_blank">
+	<img src="./lowres/00729_000.jpg" alt="Kodak Ektachrome EPT 120 film box outside" loading="lazy" width="500" height="476">
+</a>
+
+
+`UUID: 841096eabb454415a6112bf51380bbcd`↓
+
+<a href="./archive/00729_001.jpg" target="_blank">
+	<img src="./lowres/00729_001.jpg" alt="Kodak Ektachrome EPT 120 film box leaflet" loading="lazy" width="177" height="499">
+</a>
+
+
+`UUID: c232732725554a98b49c08b42af3450f`↓
+
+<a href="./archive/00729_002.jpg" target="_blank">
+	<img src="./lowres/00729_002.jpg" alt="Kodak Ektachrome EPT 120 film box leaflet" loading="lazy" width="182" height="500">
+</a>
+
+#### [120] Kodak Ektachrome EPY (ref: 9aab)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 50           |  Expiry  : 1982-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-10-16   |  Author  : Dialupdude
+UUID  : 542db6f62cdb41aebf9a834dff2b9aab
+```
+
+<a href="./archive/00728_000.jpg" target="_blank">
+	<img src="./lowres/00728_000.jpg" alt="Kodak Ektachrome EPY 120 film box outside" loading="lazy" width="500" height="487">
+</a>
+
+
+`UUID: ca9ed2799dde4bbea72089679678a3f1`↓
+
+<a href="./archive/00728_001.jpg" target="_blank">
+	<img src="./lowres/00728_001.jpg" alt="Kodak Ektachrome EPY 120 film box leaflet" loading="lazy" width="176" height="500">
+</a>
+
+
+`UUID: 5bc2c387eb994afa9c5f809467d17937`↓
+
+<a href="./archive/00728_002.jpg" target="_blank">
+	<img src="./lowres/00728_002.jpg" alt="Kodak Ektachrome EPY 120 film box leaflet" loading="lazy" width="185" height="500">
 </a>
 
 #### [120] Kodak Ektachrome Professional (ref: 02a1)
@@ -6214,6 +6283,27 @@ UUID  : a8aa315de3e54a68ae03d37f80d278b7
 	<img src="./lowres/00514_000.jpg" alt="Ferrania Solaris FG Plus 35mm film box outside" loading="lazy" width="462" height="500">
 </a>
 
+#### [35mm] Ferrania Solaris FH Plus (ref: a505)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2011-10 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2026-10-16   |  Author  : Dialupdude
+UUID  : 6643e9740ddb4c99aa055164b295a505
+```
+
+<a href="./archive/00726_000.jpg" target="_blank">
+	<img src="./lowres/00726_000.jpg" alt="Ferrania Solaris FH Plus 35mm film box outside" loading="lazy" width="418" height="500">
+</a>
+
+
+`UUID: 4344e52167564b799377a68bf045c234`↓
+
+<a href="./archive/00726_001.jpg" target="_blank">
+	<img src="./lowres/00726_001.jpg" alt="Ferrania Solaris FH Plus 35mm film box outside" loading="lazy" width="500" height="405">
+</a>
+
 #### [35mm] Film Corporation of America TriFCA 35 (ref: 8f0a)
 
 ```
@@ -7826,6 +7916,27 @@ UUID  : 3b21d893a52242f886e7057855d7f3da
 	<img src="./lowres/00305_001.jpg" alt="Ilford Delta 400 Professional 35mm film box inside" loading="lazy" width="402" height="500">
 </a>
 
+#### [35mm] Ilford Delta 400 Professional Collector's Edition (ref: 10a5)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2028-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-16   |  Author  : Dialupdude
+UUID  : 6fe27ea636a847559b2d4d09e3c510a5
+```
+
+<a href="./archive/00730_000.jpg" target="_blank">
+	<img src="./lowres/00730_000.jpg" alt="Ilford Delta 400 Professional Collector's Edition 35mm film box outside" loading="lazy" width="402" height="499">
+</a>
+
+
+`UUID: 78696137c1f04c3aa267c1a312cf657c`↓
+
+<a href="./archive/00730_001.jpg" target="_blank">
+	<img src="./lowres/00730_001.jpg" alt="Ilford Delta 400 Professional Collector's Edition 35mm film box inside" loading="lazy" width="402" height="499">
+</a>
+
 #### [35mm] Ilford FP3 (ref: 84f7)
 
 ```
@@ -7972,6 +8083,27 @@ Notes : Vintage Tone
 
 <a href="./archive/00522_000.jpg" target="_blank">
 	<img src="./lowres/00522_000.jpg" alt="Ilford Ilfocolor 400 Plus 35mm film box outside" loading="lazy" width="402" height="500">
+</a>
+
+#### [35mm] Ilford PAN 400 (ref: 933f)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2029-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-16   |  Author  : dzindevis
+UUID  : f775496aa0c0459399fc5d061814933f
+```
+
+<a href="./archive/00732_000.jpg" target="_blank">
+	<img src="./lowres/00732_000.jpg" alt="Ilford PAN 400 35mm film box outside" loading="lazy" width="418" height="500">
+</a>
+
+
+`UUID: 346543e0a5634f9e909c4db8175913c7`↓
+
+<a href="./archive/00732_001.jpg" target="_blank">
+	<img src="./lowres/00732_001.jpg" alt="Ilford PAN 400 35mm film box inside" loading="lazy" width="397" height="500">
 </a>
 
 #### [35mm] Ilford Pan F 50 (ref: c977)
@@ -10545,6 +10677,27 @@ UUID  : 23707163dc014de2947bf1669c2195f0
 	<img src="./lowres/00707_001.jpg" alt="Konica Minolta Centuria Super 35mm film box inside" loading="lazy" width="407" height="499">
 </a>
 
+#### [35mm] Konica Minolta Centuria Super (ref: 9b08)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2007-07 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2026-10-16   |  Author  : dzindevis
+UUID  : 0328e72eb85e412eb86c5881f49e9b08
+```
+
+<a href="./archive/00733_000.jpg" target="_blank">
+	<img src="./lowres/00733_000.jpg" alt="Konica Minolta Centuria Super 35mm film box outside" loading="lazy" width="404" height="500">
+</a>
+
+
+`UUID: 9166a8b1918845928083482435b70842`↓
+
+<a href="./archive/00733_001.jpg" target="_blank">
+	<img src="./lowres/00733_001.jpg" alt="Konica Minolta Centuria Super 35mm film box inside" loading="lazy" width="401" height="500">
+</a>
+
 #### [35mm] Konica Minolta Commercial Color Film (ref: e903)
 
 ```
@@ -10571,6 +10724,41 @@ UUID  : 678648d080ba4e3e8f8e3bd7f429b74f
 
 <a href="./archive/00077_000.jpg" target="_blank">
 	<img src="./lowres/00077_000.jpg" alt="Kosmo Foto Mono 35mm film box outside" loading="lazy" width="427" height="500">
+</a>
+
+#### [35mm] Leica Monopan 50 (ref: 1f4d)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 50           |  Expiry  : 2028-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-16   |  Author  : Chrisbes
+UUID  : 53065756070241dcacc237cdfaf01f4d
+```
+
+<a href="./archive/00735_000.jpg" target="_blank">
+	<img src="./lowres/00735_000.jpg" alt="Leica Monopan 50 35mm film box outside" loading="lazy" width="404" height="500">
+</a>
+
+
+`UUID: d8b00c2b803945af9e9110bed06a7573`↓
+
+<a href="./archive/00735_001.jpg" target="_blank">
+	<img src="./lowres/00735_001.jpg" alt="Leica Monopan 50 35mm film box inside" loading="lazy" width="422" height="499">
+</a>
+
+#### [35mm] Leica Monopan 50 (ref: a75e)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 50           |  Expiry  : 2028-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-16   |  Author  : Chrisbes
+UUID  : 4bfbc231439b4791aa9b45677108a75e
+```
+
+<a href="./archive/00736_000.jpg" target="_blank">
+	<img src="./lowres/00736_000.jpg" alt="Leica Monopan 50 35mm film box outside" loading="lazy" width="404" height="500">
 </a>
 
 #### [35mm] Lloyds Pharmacy Colour Film (ref: 074c)
@@ -11548,6 +11736,21 @@ UUID  : bc9726f8d278473591afb78fc49bdd85
 	<img src="./lowres/00505_000.jpg" alt="Optik Oldschool SantaColor 35mm film box outside" loading="lazy" width="500" height="478">
 </a>
 
+#### [35mm] PandaCamera DoubleX (ref: a290)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 250          |  Expiry  : 2025-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-16   |  Author  : @Hol.m35
+UUID  : 803089daf04e458dba0237eb9801a290
+Notes : Panda Camera respooled double x.  No date on box but my order details tell me it expired 12.2025
+```
+
+<a href="./archive/00737_000.jpg" target="_blank">
+	<img src="./lowres/00737_000.jpg" alt="PandaCamera DoubleX 35mm film box outside" loading="lazy" width="391" height="500">
+</a>
+
 #### [35mm] Perutz CR 100 (ref: b5df)
 
 ```
@@ -11630,6 +11833,27 @@ UUID  : 65ce4d13cc6142b69fc5d1bea401c984
 
 <a href="./archive/00603_000.jpg" target="_blank">
 	<img src="./lowres/00603_000.jpg" alt="Polaroid High Contrast PolaChrome 35mm film box outside" loading="lazy" width="218" height="500">
+</a>
+
+#### [35mm] Polaroid High Definition (ref: aad0)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2005-06 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2026-10-16   |  Author  : Dialupdude
+UUID  : 406bdfb2f41a4be4a27b4d9ddd98aad0
+```
+
+<a href="./archive/00727_000.jpg" target="_blank">
+	<img src="./lowres/00727_000.jpg" alt="Polaroid High Definition 35mm film box outside" loading="lazy" width="421" height="500">
+</a>
+
+
+`UUID: 756eacb51cbb46a08cb4ac750cc2f95e`↓
+
+<a href="./archive/00727_001.jpg" target="_blank">
+	<img src="./lowres/00727_001.jpg" alt="Polaroid High Definition 35mm film box inside" loading="lazy" width="414" height="500">
 </a>
 
 #### [35mm] Polaroid High Definition (ref: ac7c)
@@ -11975,6 +12199,27 @@ UUID  : 55a2616da3a9456a90f763ed8ac5bc7a
 	<img src="./lowres/00384_000.jpg" alt="Robot NR-Cassette 35mm film box outside" loading="lazy" width="500" height="421">
 </a>
 
+#### [35mm] Rollei Infrared (ref: 17b9)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2022-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-16   |  Author  : dzindevis
+UUID  : 3b94013caf034b69a471a5d67cde17b9
+```
+
+<a href="./archive/00731_000.jpg" target="_blank">
+	<img src="./lowres/00731_000.jpg" alt="Rollei Infrared 35mm film box outside" loading="lazy" width="406" height="499">
+</a>
+
+
+`UUID: 21df05f75e764fa3a7e4e66817761ce5`↓
+
+<a href="./archive/00731_001.jpg" target="_blank">
+	<img src="./lowres/00731_001.jpg" alt="Rollei Infrared 35mm film box inside" loading="lazy" width="382" height="500">
+</a>
+
 #### [35mm] Rollei Infrared (ref: eae2)
 
 ```
@@ -12309,6 +12554,20 @@ UUID  : dd90580d0b034a42ab153ef89c82600a
 
 <a href="./archive/00492_000.jpg" target="_blank">
 	<img src="./lowres/00492_000.jpg" alt="Svema FN 64 35mm film box outside" loading="lazy" width="500" height="485">
+</a>
+
+#### [35mm] Svema Foto 125 (ref: cb59)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 125          |  Expiry  : 1992-10 
+Type  : Refill       |  Quantity: 36exp   
+Added : 2026-10-16   |  Author  : dzindevis
+UUID  : e21bc155fe994d2cad8d98997dbccb59
+```
+
+<a href="./archive/00734_000.jpg" target="_blank">
+	<img src="./lowres/00734_000.jpg" alt="Svema Foto 125 35mm film box outside" loading="lazy" width="500" height="453">
 </a>
 
 #### [35mm] Svema Foto 200 (ref: 6991)
@@ -13556,6 +13815,27 @@ UUID  : 711fdcd259474949990498f964f443c0
 
 <a href="./archive/00648_001.jpg" target="_blank">
 	<img src="./lowres/00648_001.jpg" alt="Fujifilm Nexia A200 APS film box inside" loading="lazy" width="391" height="500">
+</a>
+
+#### [APS] Fujifilm nexia (ref: 2c29)
+
+```
+Format: APS          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2006-12 
+Type  : Single Pack  |  Quantity: 25exp   
+Added : 2026-10-16   |  Author  : Dialupdude
+UUID  : 4d4296562e50437d927094a8e17f2c29
+```
+
+<a href="./archive/00725_000.jpg" target="_blank">
+	<img src="./lowres/00725_000.jpg" alt="Fujifilm nexia APS film box outside" loading="lazy" width="433" height="500">
+</a>
+
+
+`UUID: 40fdd5df79f94fb39fcd9ade2ef1cac4`↓
+
+<a href="./archive/00725_001.jpg" target="_blank">
+	<img src="./lowres/00725_001.jpg" alt="Fujifilm nexia APS film box inside" loading="lazy" width="437" height="500">
 </a>
 
 #### [APS] Jessops Diamond Everyday (ref: 67d3)
@@ -15084,34 +15364,34 @@ Rank  Username                  Contributions    Rank  Username                 
 ----------------------------------------------    ----------------------------------------------
 1     dekuNukem                 340              31    MCB18                     9
 2     Luci 101                  102              32    Rafa Laguillo             8
-3     @Hol.m35                  73               33    @toastergod101            7
+3     @Hol.m35                  74               33    @toastergod101            7
 4     @photos.by.qi             72               34    @filmfotofella            7
-5     Pelicram                  71               35    GreatGizmo74              6
-6     nyctomanica               70               36    nick                      6
-7     @ellafridalindblom        67               37    Greg                      6
-8     @recycling.film           66               38    @gregrouxphotography      5
-9     Dialupdude                30               39    Tobias                    5
-10    Mauphoto                  28               40    @janjuudas                5
-11    The Compartmentalist      25               41    Henry Gunn                4
-12    benjaminbeeroll           20               42    TheSelousScout            4
-13    @ob.skura                 19               43    @sachynmital              3
-14    fine-seat                 19               44    Tallbird Cowboy           3
-15    Camera.Riley              19               45    DaFujiDude                3
-16    kaimon                    19               46    @seklerek                 2
-17    Chrisbes                  19               47    @ftfilmphotos             2
-18    Nano_Burger               18               48    @tylerdrey                2
-19    toader                    17               49    Warren Umbach             2
-20    waldoboro                 17               50    @flyingcamerastudio       2
-21    yc128                     14               51    @pommegranny              2
-22    b0baspace                 14               52    Yrikonchik                1
-23    @SirBrentsworth           13               53    @ad.astra.per.aspera.1894 1
-24    benikum                   12               54    Aoi Yuki                  1
-25    u/ReeeSchmidtyWerber      11               55    lemoniter                 1
-26    @zruk_ts                  10               56    @shotbyliampewpew         1
-27    minidiscus                10               57    Joo                       1
-28    lilyu.xyz                 9                58    @titanic_159              1
-29    Kraksen                   9                59    Constantino               1
-30    lt_col_tall               9
+5     Pelicram                  71               35    dzindevis                 7
+6     nyctomanica               70               36    GreatGizmo74              6
+7     @ellafridalindblom        67               37    nick                      6
+8     @recycling.film           66               38    Greg                      6
+9     Dialupdude                44               39    @gregrouxphotography      5
+10    Mauphoto                  28               40    Tobias                    5
+11    The Compartmentalist      25               41    @janjuudas                5
+12    Chrisbes                  22               42    Henry Gunn                4
+13    benjaminbeeroll           20               43    TheSelousScout            4
+14    @ob.skura                 19               44    @sachynmital              3
+15    fine-seat                 19               45    Tallbird Cowboy           3
+16    Camera.Riley              19               46    DaFujiDude                3
+17    kaimon                    19               47    @seklerek                 2
+18    Nano_Burger               18               48    @ftfilmphotos             2
+19    toader                    17               49    @tylerdrey                2
+20    waldoboro                 17               50    Warren Umbach             2
+21    yc128                     14               51    @flyingcamerastudio       2
+22    b0baspace                 14               52    @pommegranny              2
+23    @SirBrentsworth           13               53    Yrikonchik                1
+24    benikum                   12               54    @ad.astra.per.aspera.1894 1
+25    u/ReeeSchmidtyWerber      11               55    Aoi Yuki                  1
+26    @zruk_ts                  10               56    lemoniter                 1
+27    minidiscus                10               57    @shotbyliampewpew         1
+28    lilyu.xyz                 9                58    Joo                       1
+29    Kraksen                   9                59    @titanic_159              1
+30    lt_col_tall               9                60    Constantino               1
 ```
 
 ## Questions or Comments?
