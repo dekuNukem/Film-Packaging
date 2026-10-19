@@ -1380,3 +1380,24 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 752,0,film_box_outside,Boots,Universal,35mm,400,C-41,200607,1792409136,bdea9d4f1537b009243066301b08c3cc,8f8cecc08ffb4914a898e2e6f603639c,00752_000.jpg,green eggs and sam,,Single Pack,24exp
 753,0,film_box_outside,Kodak,Color Plus,35mm,200,C-41,201108,1792409183,aa5d3c825c46485ffd052af08bda58d0,d74d2e6f081d414d916d0d2e60231f55,00753_000.jpg,green eggs and sam,,Single Pack,24exp
 754,0,film_box_outside,Kodak,Kodacolor 200,35mm,200,C-41,202212,1792409221,b27ad4b33d6977c7df324cb8061e22d8,a761c183d01f4bfaa01dd16c9d33f856,00754_000.jpg,green eggs and sam,,Single Pack,24exp
+755,0,film_box_outside,Fujifilm,Superia,35mm,100,C-41,200807,1792409534,ff52d307b4f2d4b431b0632fe3dc0c36,8729d32099bd4fc09631edd7619170d9,00755_000.jpg,@sl35hater,Indonesian version,Single Pack,36exp
+756,0,film_box_outside,Fujifilm,Superia X-TRA,35mm,400,C-41,200802,1792409630,df82c57b6696861a79bd857fc244f33b,bd23a3c47dd3424196ed3e74060fe44c,00756_000.jpg,@sl35hater,Indonesian version,Single Pack,36exp
+757,0,film_box_outside,Kodak,Ektapan 100,35mm,100,BW,202807,1792409766,2316da448bafa4923fc868c5b1c13842,387fdb0fd36c486d84602c000818aae1,00757_000.jpg,reschmidt12,,Single Pack,36exp
+758,0,film_box_outside,Kodak,Ektapan 400,35mm,400,BW,202804,1792409791,7f0c68846bc944001748a7155dc4e1f6,bdcad26d183349de8851b104a0209ea4,00758_000.jpg,reschmidt12,,Single Pack,36exp
+759,0,film_box_outside,Kodak,Ektapan P3200,35mm,3200,BW,202709,1792409826,072c4fdda3e33ec01da7e535c3a6f9f2,a16332e5243845c8af35833917ea50dd,00759_000.jpg,reschmidt12,,Single Pack,36exp
+760,0,film_box_outside,Kodak,Ektacolor Pro 160,35mm,160,C-41,202803,1792409859,70827130156a6157916ce077ea1629ff,35dade1da9f94915beefb73aa7f50d50,00760_000.jpg,reschmidt12,,Single Pack,36exp
+761,0,film_box_outside,Kodak,Ektacolor Pro 400,35mm,400,C-41,202807,1792409903,012c0b9ab07836b1c9ca1c26cfee6b4f,185db686d4f946b39a39cc2733b336c6,00761_000.jpg,reschmidt12,,Single Pack,36exp
+762,0,film_box_outside,Kodak,Ektacolor Pro 800,35mm,800,C-41,202805,1792409935,fc66ca43c628e2c2428b2d7cc2e65d90,b838522c680d4e75b9f95e51080d4239,00762_000.jpg,reschmidt12,,Single Pack,36exp
+763,0,film_box_outside,Kodak,Ultramax 400,35mm,400,C-41,202802,1792409967,839f9904fb15e54d4e83be31771151fe,f9386711516f42ab8e2f8f1ada857b56,00763_000.jpg,reschmidt12,,Single Pack,36exp
+764,0,film_box_outside,Kodak,Tri-X 400,35mm,400,BW,202805,1792409996,d7ca9abc6a94e641b7702872a7b2df2f,841394cdb38742a19c13d266a3c63661,00764_000.jpg,reschmidt12,,Single Pack,36exp
+765,0,film_box_outside,Kodak,Ektachrome E100,35mm,100,E-6,202801,1792410026,2d7f51a74618b137a373cb0c67a4db47,3881f302167c4264b0e9133c718d1d36,00765_000.jpg,reschmidt12,,Single Pack,36exp
+766,0,film_box_outside,Kodak,T-MAX 100,35mm,100,BW,202508,1792410169,fbf3a1d6f4845cb8f2ad8ca6036d5877,fe8f47eca4254a77933971bae07d3aab,00766_000.jpg,kaimon,,Single Pack,36exp
+767,0,film_box_outside,Du Pont,Defender X-F Pan,Unknown,Unknown,BW,194811,1792410562,c0b6540e7bb9efd174f7a7aab7eee300,a911ae0b9fe944ec8a37ac58d970d495,00767_000.jpg,@efridalindblom,,Single Pack,24 Sheets
+767,1,film_box_outside,Du Pont,Defender X-F Pan,Unknown,Unknown,BW,194811,1792410563,b52c150a65ef7b666a0ee93809c906fa,0504b5765be445bb9deabd3675cc7d4b,00767_001.jpg,@efridalindblom,,Single Pack,24 Sheets
+767,2,film_box_leaflet,Du Pont,Defender X-F Pan,Unknown,Unknown,BW,194811,1792410566,8ea92008f38f0cc62f282d7c6907c7c0,e2d6a5e63262495b9212f75476792d15,00767_002.jpg,@efridalindblom,,Single Pack,24 Sheets
+768,0,film_box_outside,Seed,Dry Plates,9x12cm,Unknown,BW,Unknown,1792410745,77c50b4b95392420ad4d981967b942e6,e0ad5f0cd4de4610ae0e2f3f6636ad62,00768_000.jpg,@efridalindblom,,Single Pack,12 Sheets
+769,0,film_box_outside,Seed,Dry Plates,12x16.5cm,Unknown,BW,Unknown,1792410784,e23906feb2c13cf6339557da70053d59,f64bf8d2a1df471195679a853de6477d,00769_000.jpg,@efridalindblom,,Single Pack,12 exp
+770,0,film_box_outside,Gevaert,Panchromosa,12x16.5cm,100,BW,Unknown,1792410959,066c43cf651bde0067dbfe8f1a65222b,b0f738f453c849088ebe322d762c0e63,00770_000.jpg,@efridalindblom,,Single Pack,12 Sheets
+771,0,film_box_outside,Goecker,Extra rapid Emulsionsplade Ideal,9x12cm,Unknown,BW,Unknown,1792411145,692cd28c50b61ddcecb0383a96fa7b1f,ede9f26e73c84a3c84b53206e1c495c5,00771_000.jpg,@efridalindblom,,Single Pack,12 Sheets
+772,0,film_box_outside,Mimosa A.G,Mimosa-Platte Finogran,12x16.5cm,10,BW,Unknown,1792411286,16afa782e57345abb11d9d6162cef217,b6087c7a528d44ac83c246afe8e3795e,00772_000.jpg,@efridalindblom,,Single Pack,12 Sheets
+773,0,film_box_outside,Hauff,Pancola-Lichthoffrei,12x16.5cm,80,BW,Unknown,1792411422,cccfd200a5ce47abd780467a9f01d98d,65af395f5a2e4e69aa598c055c1ad1fb,00773_000.jpg,@efridalindblom,,Single Pack,12 Sheets

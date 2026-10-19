@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 19 2026
-Unique items: 750
-Total scans : 1381
+Unique items: 769
+Total scans : 1402
 ```
 
 -----
@@ -116,6 +116,7 @@ Total scans : 1381
 - [Defender Extra Fast Panchromatic (ref: 348b)](#defender-extra-fast-panchromatic-ref-348b)
 - [Defender Extra Special Fast Panchromatic (ref: afcf)](#defender-extra-special-fast-panchromatic-ref-afcf)
 - [Defender Portrait HGS (ref: d69c)](#defender-portrait-hgs-ref-d69c)
+- [Du Pont Defender X-F Pan (ref: d495)](#du-pont-defender-x-f-pan-ref-d495)
 - [Efiniti UXi Super 200 (ref: 471a)](#efiniti-uxi-super-200-ref-471a)
 - [Efke IR 820 Aura (ref: 43c9)](#efke-ir-820-aura-ref-43c9)
 - [Efke R14 (ref: 27f5)](#efke-r14-ref-27f5)
@@ -243,9 +244,11 @@ Total scans : 1381
 - [Fujifilm Nexia A200 (ref: 43c0)](#fujifilm-nexia-a200-ref-43c0)
 - [Fujifilm Provia 100F (ref: 5c1e)](#fujifilm-provia-100f-ref-5c1e)
 - [Fujifilm Simple Ace (ref: 17e6)](#fujifilm-simple-ace-ref-17e6)
+- [Fujifilm Superia (ref: 70d9)](#fujifilm-superia-ref-70d9)
 - [Fujifilm Superia 100 (ref: 0f0c)](#fujifilm-superia-100-ref-0f0c)
 - [Fujifilm Superia 200 (ref: fd36)](#fujifilm-superia-200-ref-fd36)
 - [Fujifilm Superia Premium 400 (ref: ef1f)](#fujifilm-superia-premium-400-ref-ef1f)
+- [Fujifilm Superia X-TRA (ref: e44c)](#fujifilm-superia-x-tra-ref-e44c)
 - [Fujifilm Velvia 50 (ref: 9678)](#fujifilm-velvia-50-ref-9678)
 - [Fujifilm nexia (ref: 2c29)](#fujifilm-nexia-ref-2c29)
 - [Fukkatsu Color Print Film (ref: 3213)](#fukkatsu-color-print-film-ref-3213)
@@ -256,10 +259,12 @@ Total scans : 1381
 - [Gevaert Gevachrome 30 (ref: c0e3)](#gevaert-gevachrome-30-ref-c0e3)
 - [Gevaert Infra-R (ref: fc88)](#gevaert-infra-r-ref-fc88)
 - [Gevaert Panchro Super (ref: fd4c)](#gevaert-panchro-super-ref-fd4c)
+- [Gevaert Panchromosa (ref: 0e63)](#gevaert-panchromosa-ref-0e63)
 - [Gevaert Studio Film (ref: 75f9)](#gevaert-studio-film-ref-75f9)
 - [Gevaert Superchrom (ref: 0217)](#gevaert-superchrom-ref-0217)
 - [Gevaert Superchrome (ref: af27)](#gevaert-superchrome-ref-af27)
 - [Gevaert Ultra Panchro Normal (ref: 1ff6)](#gevaert-ultra-panchro-normal-ref-1ff6)
+- [Goecker Extra rapid Emulsionsplade Ideal (ref: 95c5)](#goecker-extra-rapid-emulsionsplade-ideal-ref-95c5)
 - [Great Films Processing Kodachrome (ref: c012)](#great-films-processing-kodachrome-ref-c012)
 - [Hands On Film Midnight 1600 (ref: 4411)](#hands-on-film-midnight-1600-ref-4411)
 - [Hansa Hansacolor 100 Super Plus (ref: 67b2)](#hansa-hansacolor-100-super-plus-ref-67b2)
@@ -273,6 +278,7 @@ Total scans : 1381
 - [Harman Switch Azure (ref: df9c)](#harman-switch-azure-ref-df9c)
 - [Harman Switch Azure (ref: 31bb)](#harman-switch-azure-ref-31bb)
 - [Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#hasselblad-hassel-plåtar-erorto-ref-ec67)
+- [Hauff Pancola-Lichthoffrei (ref: d1fb)](#hauff-pancola-lichthoffrei-ref-d1fb)
 - [Hazenfilm Sorolla Chrome (ref: 889f)](#hazenfilm-sorolla-chrome-ref-889f)
 - [Herzog Duxopan (ref: a9ad)](#herzog-duxopan-ref-a9ad)
 - [Hope Film Bubble (ref: 41f4)](#hope-film-bubble-ref-41f4)
@@ -371,6 +377,7 @@ Total scans : 1381
 - [Kodak Ektachrome 64T (ref: 4b11)](#kodak-ektachrome-64t-ref-4b11)
 - [Kodak Ektachrome E100 (ref: 94ff)](#kodak-ektachrome-e100-ref-94ff)
 - [Kodak Ektachrome E100 (ref: ae10)](#kodak-ektachrome-e100-ref-ae10)
+- [Kodak Ektachrome E100 (ref: 1d36)](#kodak-ektachrome-e100-ref-1d36)
 - [Kodak Ektachrome E100VS (ref: a8d3)](#kodak-ektachrome-e100vs-ref-a8d3)
 - [Kodak Ektachrome E200 (ref: 9879)](#kodak-ektachrome-e200-ref-9879)
 - [Kodak Ektachrome EPT (ref: 34eb)](#kodak-ektachrome-ept-ref-34eb)
@@ -388,9 +395,15 @@ Total scans : 1381
 - [Kodak Ektachrome-X (ref: ae7e)](#kodak-ektachrome-x-ref-ae7e)
 - [Kodak Ektachrome-X (ref: aec5)](#kodak-ektachrome-x-ref-aec5)
 - [Kodak Ektachrome-X (ref: cca3)](#kodak-ektachrome-x-ref-cca3)
+- [Kodak Ektacolor Pro 160 (ref: 0d50)](#kodak-ektacolor-pro-160-ref-0d50)
 - [Kodak Ektacolor Pro 400 (ref: aa72)](#kodak-ektacolor-pro-400-ref-aa72)
+- [Kodak Ektacolor Pro 400 (ref: 36c6)](#kodak-ektacolor-pro-400-ref-36c6)
+- [Kodak Ektacolor Pro 800 (ref: 4239)](#kodak-ektacolor-pro-800-ref-4239)
 - [Kodak Ektacolor Pro Gold (ref: c3f8)](#kodak-ektacolor-pro-gold-ref-c3f8)
 - [Kodak Ektagraphic HC Slide Film (ref: d2a2)](#kodak-ektagraphic-hc-slide-film-ref-d2a2)
+- [Kodak Ektapan 100 (ref: aae1)](#kodak-ektapan-100-ref-aae1)
+- [Kodak Ektapan 400 (ref: 9ea4)](#kodak-ektapan-400-ref-9ea4)
+- [Kodak Ektapan P3200 (ref: 50dd)](#kodak-ektapan-p3200-ref-50dd)
 - [Kodak Ektapan P3200 (ref: 2254)](#kodak-ektapan-p3200-ref-2254)
 - [Kodak Ektar 100 (ref: 4631)](#kodak-ektar-100-ref-4631)
 - [Kodak Ektar 100 (ref: 95ec)](#kodak-ektar-100-ref-95ec)
@@ -507,6 +520,7 @@ Total scans : 1381
 - [Kodak Super-sensitive Panchromatic Films (ref: 21a0)](#kodak-super-sensitive-panchromatic-films-ref-21a0)
 - [Kodak T-MAX 100 (ref: 2fbc)](#kodak-t-max-100-ref-2fbc)
 - [Kodak T-MAX 100 (ref: b3b1)](#kodak-t-max-100-ref-b3b1)
+- [Kodak T-MAX 100 (ref: 3aab)](#kodak-t-max-100-ref-3aab)
 - [Kodak T-MAX 400 (ref: a34d)](#kodak-t-max-400-ref-a34d)
 - [Kodak T-MAX 400 (ref: 0a2e)](#kodak-t-max-400-ref-0a2e)
 - [Kodak T-MAX P3200 (ref: 1dff)](#kodak-t-max-p3200-ref-1dff)
@@ -522,6 +536,7 @@ Total scans : 1381
 - [Kodak Tri-X 400 (ref: 88c5)](#kodak-tri-x-400-ref-88c5)
 - [Kodak Tri-X 400 (ref: c671)](#kodak-tri-x-400-ref-c671)
 - [Kodak Tri-X 400 (ref: cba7)](#kodak-tri-x-400-ref-cba7)
+- [Kodak Tri-X 400 (ref: 3661)](#kodak-tri-x-400-ref-3661)
 - [Kodak Tri-X 400 Pro (ref: f05c)](#kodak-tri-x-400-pro-ref-f05c)
 - [Kodak Tri-X Pan (ref: 6608)](#kodak-tri-x-pan-ref-6608)
 - [Kodak Tri-X Pan (ref: 4a3b)](#kodak-tri-x-pan-ref-4a3b)
@@ -538,6 +553,7 @@ Total scans : 1381
 - [Kodak UltraMax (ref: e3ba)](#kodak-ultramax-ref-e3ba)
 - [Kodak UltraMax (ref: e4ad)](#kodak-ultramax-ref-e4ad)
 - [Kodak UltraMax (ref: aaa6)](#kodak-ultramax-ref-aaa6)
+- [Kodak Ultramax 400 (ref: 7b56)](#kodak-ultramax-400-ref-7b56)
 - [Kodak Verichrome (ref: e465)](#kodak-verichrome-ref-e465)
 - [Kodak Verichrome (ref: c9c2)](#kodak-verichrome-ref-c9c2)
 - [Kodak Verichrome (ref: 11b9)](#kodak-verichrome-ref-11b9)
@@ -609,6 +625,7 @@ Total scans : 1381
 - [MarixFilm Aircolor (ref: d9c4)](#marixfilm-aircolor-ref-d9c4)
 - [Max Spielmann Maxi Color (ref: bf60)](#max-spielmann-maxi-color-ref-bf60)
 - [Max Spielmann Pro-Zoom MX 400 (ref: 38c5)](#max-spielmann-pro-zoom-mx-400-ref-38c5)
+- [Mimosa A.G Mimosa-Platte Finogran (ref: 795e)](#mimosa-ag-mimosa-platte-finogran-ref-795e)
 - [Minolta 16 Black & White Fast Fine Grain Film (ref: fd30)](#minolta-16-black-white-fast-fine-grain-film-ref-fd30)
 - [Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#minolta-minolta-16-color-film-for-prints-ref-a2ff)
 - [Minox MinoColor 100 Pro (ref: 5338)](#minox-minocolor-100-pro-ref-5338)
@@ -741,6 +758,8 @@ Total scans : 1381
 - [Schlecker Fotoland AS Color 200 (ref: 2bf6)](#schlecker-fotoland-as-color-200-ref-2bf6)
 - [Seagull Seagull Color IR100 (ref: e7cc)](#seagull-seagull-color-ir100-ref-e7cc)
 - [Seagull Seagull Color IR100 (ref: 8fd8)](#seagull-seagull-color-ir100-ref-8fd8)
+- [Seed Dry Plates (ref: ad62)](#seed-dry-plates-ref-ad62)
+- [Seed Dry Plates (ref: 477d)](#seed-dry-plates-ref-477d)
 - [Shanghai GP3 (ref: 52aa)](#shanghai-gp3-ref-52aa)
 - [Sharan Black-and-white Negative Film (ref: a884)](#sharan-black-and-white-negative-film-ref-a884)
 - [Sharan Color Negative Film (ref: 4913)](#sharan-color-negative-film-ref-4913)
@@ -2622,6 +2641,34 @@ UUID  : 24c9c3108671446dae824d00093fd69c
 
 <a href="./archive/00208_001.jpg" target="_blank">
 	<img src="./lowres/00208_001.jpg" alt="Defender Portrait HGS 12x16.5cm film box outside" loading="lazy" width="385" height="500">
+</a>
+
+#### Du Pont Defender X-F Pan (ref: d495)
+
+```
+Format: Unknown      |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1948-11 
+Type  : Single Pack  |  Quantity: 24 Sheets
+Added : 2026-10-19   |  Author  : @efridalindblom
+UUID  : a911ae0b9fe944ec8a37ac58d970d495
+```
+
+<a href="./archive/00767_000.jpg" target="_blank">
+	<img src="./lowres/00767_000.jpg" alt="Du Pont Defender X-F Pan Unknown film box outside" loading="lazy" width="388" height="500">
+</a>
+
+
+`UUID: 0504b5765be445bb9deabd3675cc7d4b`↓
+
+<a href="./archive/00767_001.jpg" target="_blank">
+	<img src="./lowres/00767_001.jpg" alt="Du Pont Defender X-F Pan Unknown film box outside" loading="lazy" width="388" height="500">
+</a>
+
+
+`UUID: e2d6a5e63262495b9212f75476792d15`↓
+
+<a href="./archive/00767_002.jpg" target="_blank">
+	<img src="./lowres/00767_002.jpg" alt="Du Pont Defender X-F Pan Unknown film box leaflet" loading="lazy" width="500" height="414">
 </a>
 
 #### Efiniti UXi Super 200 (ref: 471a)
@@ -5045,6 +5092,21 @@ UUID  : f2fbd963d7e0416398b986f9fe3e17e6
 	<img src="./lowres/00646_001.jpg" alt="Fujifilm Simple Ace Disposable Camera film box outside" loading="lazy" width="500" height="189">
 </a>
 
+#### Fujifilm Superia (ref: 70d9)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2008-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : @sl35hater
+UUID  : 8729d32099bd4fc09631edd7619170d9
+Notes : Indonesian version
+```
+
+<a href="./archive/00755_000.jpg" target="_blank">
+	<img src="./lowres/00755_000.jpg" alt="Fujifilm Superia 35mm film box outside" loading="lazy" width="426" height="500">
+</a>
+
 #### Fujifilm Superia 100 (ref: 0f0c)
 
 ```
@@ -5085,6 +5147,21 @@ UUID  : 433055f5732e4d53b4245da4dfe0ef1f
 
 <a href="./archive/00372_000.jpg" target="_blank">
 	<img src="./lowres/00372_000.jpg" alt="Fujifilm Superia Premium 400 35mm film box outside" loading="lazy" width="448" height="500">
+</a>
+
+#### Fujifilm Superia X-TRA (ref: e44c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2008-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : @sl35hater
+UUID  : bd23a3c47dd3424196ed3e74060fe44c
+Notes : Indonesian version
+```
+
+<a href="./archive/00756_000.jpg" target="_blank">
+	<img src="./lowres/00756_000.jpg" alt="Fujifilm Superia X-TRA 35mm film box outside" loading="lazy" width="447" height="500">
 </a>
 
 #### Fujifilm Velvia 50 (ref: 9678)
@@ -5326,6 +5403,20 @@ UUID  : 6a8186f72d304b3c84ff8ffa7935fd4c
 	<img src="./lowres/00626_008.jpg" alt="Gevaert Panchro Super 8mm film box leaflet" loading="lazy" width="234" height="500">
 </a>
 
+#### Gevaert Panchromosa (ref: 0e63)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 100          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2026-10-19   |  Author  : @efridalindblom
+UUID  : b0f738f453c849088ebe322d762c0e63
+```
+
+<a href="./archive/00770_000.jpg" target="_blank">
+	<img src="./lowres/00770_000.jpg" alt="Gevaert Panchromosa 12x16.5cm film box outside" loading="lazy" width="388" height="500">
+</a>
+
 #### Gevaert Studio Film (ref: 75f9)
 
 ```
@@ -5388,6 +5479,20 @@ UUID  : 9a6b4771688d43c58b96c254e43d1ff6
 
 <a href="./archive/00288_000.jpg" target="_blank">
 	<img src="./lowres/00288_000.jpg" alt="Gevaert Ultra Panchro Normal 12x16.5cm film box outside" loading="lazy" width="379" height="500">
+</a>
+
+#### Goecker Extra rapid Emulsionsplade Ideal (ref: 95c5)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2026-10-19   |  Author  : @efridalindblom
+UUID  : ede9f26e73c84a3c84b53206e1c495c5
+```
+
+<a href="./archive/00771_000.jpg" target="_blank">
+	<img src="./lowres/00771_000.jpg" alt="Goecker Extra rapid Emulsionsplade Ideal 9x12cm film box outside" loading="lazy" width="440" height="500">
 </a>
 
 #### Great Films Processing Kodachrome (ref: c012)
@@ -5663,6 +5768,20 @@ UUID  : 1056543f30334a238387be8abe2dec67
 
 <a href="./archive/00204_000.jpg" target="_blank">
 	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plåtar E.R.Orto 6.5x9cm film box outside" loading="lazy" width="500" height="390">
+</a>
+
+#### Hauff Pancola-Lichthoffrei (ref: d1fb)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2026-10-19   |  Author  : @efridalindblom
+UUID  : 65af395f5a2e4e69aa598c055c1ad1fb
+```
+
+<a href="./archive/00773_000.jpg" target="_blank">
+	<img src="./lowres/00773_000.jpg" alt="Hauff Pancola-Lichthoffrei 12x16.5cm film box outside" loading="lazy" width="500" height="394">
 </a>
 
 #### Hazenfilm Sorolla Chrome (ref: 889f)
@@ -7585,6 +7704,20 @@ UUID  : 829cd9dd98cd489f8bff71e403c1ae10
 	<img src="./lowres/00155_000.jpg" alt="Kodak Ektachrome E100 35mm film box outside" loading="lazy" width="451" height="500">
 </a>
 
+#### Kodak Ektachrome E100 (ref: 1d36)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2028-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : reschmidt12
+UUID  : 3881f302167c4264b0e9133c718d1d36
+```
+
+<a href="./archive/00765_000.jpg" target="_blank">
+	<img src="./lowres/00765_000.jpg" alt="Kodak Ektachrome E100 35mm film box outside" loading="lazy" width="409" height="499">
+</a>
+
 #### Kodak Ektachrome E100VS (ref: a8d3)
 
 ```
@@ -7970,6 +8103,20 @@ UUID  : 109f05cb335c476a8b019d13347ccca3
 	<img src="./lowres/00574_000.jpg" alt="Kodak Ektachrome-X 120 film box outside" loading="lazy" width="500" height="485">
 </a>
 
+#### Kodak Ektacolor Pro 160 (ref: 0d50)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 160          |  Expiry  : 2028-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : reschmidt12
+UUID  : 35dade1da9f94915beefb73aa7f50d50
+```
+
+<a href="./archive/00760_000.jpg" target="_blank">
+	<img src="./lowres/00760_000.jpg" alt="Kodak Ektacolor Pro 160 35mm film box outside" loading="lazy" width="409" height="499">
+</a>
+
 #### Kodak Ektacolor Pro 400 (ref: aa72)
 
 ```
@@ -7982,6 +8129,34 @@ UUID  : 1b8269534ca14fac97e07722d3c8aa72
 
 <a href="./archive/00667_000.jpg" target="_blank">
 	<img src="./lowres/00667_000.jpg" alt="Kodak Ektacolor Pro 400 35mm film box outside" loading="lazy" width="409" height="500">
+</a>
+
+#### Kodak Ektacolor Pro 400 (ref: 36c6)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : reschmidt12
+UUID  : 185db686d4f946b39a39cc2733b336c6
+```
+
+<a href="./archive/00761_000.jpg" target="_blank">
+	<img src="./lowres/00761_000.jpg" alt="Kodak Ektacolor Pro 400 35mm film box outside" loading="lazy" width="409" height="499">
+</a>
+
+#### Kodak Ektacolor Pro 800 (ref: 4239)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2028-05 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : reschmidt12
+UUID  : b838522c680d4e75b9f95e51080d4239
+```
+
+<a href="./archive/00762_000.jpg" target="_blank">
+	<img src="./lowres/00762_000.jpg" alt="Kodak Ektacolor Pro 800 35mm film box outside" loading="lazy" width="409" height="499">
 </a>
 
 #### Kodak Ektacolor Pro Gold (ref: c3f8)
@@ -8031,6 +8206,48 @@ UUID  : f2a364463c5d40ad9e438566b786d2a2
 
 <a href="./archive/00589_000.jpg" target="_blank">
 	<img src="./lowres/00589_000.jpg" alt="Kodak Ektagraphic HC Slide Film 35mm film box outside" loading="lazy" width="416" height="500">
+</a>
+
+#### Kodak Ektapan 100 (ref: aae1)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2028-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : reschmidt12
+UUID  : 387fdb0fd36c486d84602c000818aae1
+```
+
+<a href="./archive/00757_000.jpg" target="_blank">
+	<img src="./lowres/00757_000.jpg" alt="Kodak Ektapan 100 35mm film box outside" loading="lazy" width="409" height="499">
+</a>
+
+#### Kodak Ektapan 400 (ref: 9ea4)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2028-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : reschmidt12
+UUID  : bdcad26d183349de8851b104a0209ea4
+```
+
+<a href="./archive/00758_000.jpg" target="_blank">
+	<img src="./lowres/00758_000.jpg" alt="Kodak Ektapan 400 35mm film box outside" loading="lazy" width="409" height="499">
+</a>
+
+#### Kodak Ektapan P3200 (ref: 50dd)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 3200         |  Expiry  : 2027-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : reschmidt12
+UUID  : a16332e5243845c8af35833917ea50dd
+```
+
+<a href="./archive/00759_000.jpg" target="_blank">
+	<img src="./lowres/00759_000.jpg" alt="Kodak Ektapan P3200 35mm film box outside" loading="lazy" width="409" height="499">
 </a>
 
 #### Kodak Ektapan P3200 (ref: 2254)
@@ -10291,6 +10508,20 @@ UUID  : 9a43d0c373354e1989ea7bb7a43db3b1
 	<img src="./lowres/00069_000.jpg" alt="Kodak T-MAX 100 120 film box outside" loading="lazy" width="381" height="500">
 </a>
 
+#### Kodak T-MAX 100 (ref: 3aab)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2025-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : kaimon  
+UUID  : fe8f47eca4254a77933971bae07d3aab
+```
+
+<a href="./archive/00766_000.jpg" target="_blank">
+	<img src="./lowres/00766_000.jpg" alt="Kodak T-MAX 100 35mm film box outside" loading="lazy" width="427" height="500">
+</a>
+
 #### Kodak T-MAX 400 (ref: a34d)
 
 ```
@@ -10578,6 +10809,20 @@ UUID  : 178660bdc2f841308698aacd5acacba7
 	<img src="./lowres/00520_000.jpg" alt="Kodak Tri-X 400 35mm film box outside" loading="lazy" width="402" height="500">
 </a>
 
+#### Kodak Tri-X 400 (ref: 3661)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2028-05 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : reschmidt12
+UUID  : 841394cdb38742a19c13d266a3c63661
+```
+
+<a href="./archive/00764_000.jpg" target="_blank">
+	<img src="./lowres/00764_000.jpg" alt="Kodak Tri-X 400 35mm film box outside" loading="lazy" width="409" height="499">
+</a>
+
 #### Kodak Tri-X 400 Pro (ref: f05c)
 
 ```
@@ -10857,6 +11102,20 @@ UUID  : 8b0e255948ad4bbc8689d371569caaa6
 
 <a href="./archive/00079_000.jpg" target="_blank">
 	<img src="./lowres/00079_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="443" height="499">
+</a>
+
+#### Kodak Ultramax 400 (ref: 7b56)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : reschmidt12
+UUID  : f9386711516f42ab8e2f8f1ada857b56
+```
+
+<a href="./archive/00763_000.jpg" target="_blank">
+	<img src="./lowres/00763_000.jpg" alt="Kodak Ultramax 400 35mm film box outside" loading="lazy" width="409" height="499">
 </a>
 
 #### Kodak Verichrome (ref: e465)
@@ -12210,6 +12469,20 @@ UUID  : 881f46ac2824430cb12f79087a3338c5
 
 <a href="./archive/00503_001.jpg" target="_blank">
 	<img src="./lowres/00503_001.jpg" alt="Max Spielmann Pro-Zoom MX 400 35mm film box inside" loading="lazy" width="421" height="500">
+</a>
+
+#### Mimosa A.G Mimosa-Platte Finogran (ref: 795e)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 10           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2026-10-19   |  Author  : @efridalindblom
+UUID  : b6087c7a528d44ac83c246afe8e3795e
+```
+
+<a href="./archive/00772_000.jpg" target="_blank">
+	<img src="./lowres/00772_000.jpg" alt="Mimosa A.G Mimosa-Platte Finogran 12x16.5cm film box outside" loading="lazy" width="500" height="366">
 </a>
 
 #### Minolta 16 Black & White Fast Fine Grain Film (ref: fd30)
@@ -15116,6 +15389,34 @@ UUID  : dc59644d2764497d985b1f24bd2c8fd8
 	<img src="./lowres/00485_000.jpg" alt="Seagull Seagull Color IR100 35mm film box outside" loading="lazy" width="382" height="500">
 </a>
 
+#### Seed Dry Plates (ref: ad62)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 Sheets
+Added : 2026-10-19   |  Author  : @efridalindblom
+UUID  : e0ad5f0cd4de4610ae0e2f3f6636ad62
+```
+
+<a href="./archive/00768_000.jpg" target="_blank">
+	<img src="./lowres/00768_000.jpg" alt="Seed Dry Plates 9x12cm film box outside" loading="lazy" width="400" height="499">
+</a>
+
+#### Seed Dry Plates (ref: 477d)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 exp  
+Added : 2026-10-19   |  Author  : @efridalindblom
+UUID  : f64bf8d2a1df471195679a853de6477d
+```
+
+<a href="./archive/00769_000.jpg" target="_blank">
+	<img src="./lowres/00769_000.jpg" alt="Seed Dry Plates 12x16.5cm film box outside" loading="lazy" width="390" height="500">
+</a>
+
 #### Shanghai GP3 (ref: 52aa)
 
 ```
@@ -15730,40 +16031,41 @@ UUID  : fc90db41b94d486491177a8407f1100d
 ```
 Rank  Username                  Contributions    Rank  Username                  Contributions
 ----------------------------------------------    ----------------------------------------------
-1     dekuNukem                 341              35    @filmfotofella            7
-2     Luci 101                  102              36    dzindevis                 7
-3     @Hol.m35                  74               37    GreatGizmo74              6
-4     @photos.by.qi             72               38    nick                      6
-5     Pelicram                  71               39    Greg                      6
-6     nyctomanica               70               40    Kristof Lemp              6
-7     @ellafridalindblom        67               41    @gregrouxphotography      5
-8     @recycling.film           66               42    Tobias                    5
-9     Dialupdude                44               43    @janjuudas                5
-10    Mauphoto                  28               44    Henry Gunn                4
-11    The Compartmentalist      25               45    TheSelousScout            4
-12    Chrisbes                  22               46    Vince Costello            4
-13    benjaminbeeroll           20               47    Rhiannon                  4
-14    @ob.skura                 19               48    @sachynmital              3
-15    fine-seat                 19               49    Tallbird Cowboy           3
-16    Camera.Riley              19               50    DaFujiDude                3
-17    kaimon                    19               51    whoman560                 3
-18    Nano_Burger               18               52    Gergely Orsi              3
-19    toader                    17               53    @seklerek                 2
-20    waldoboro                 17               54    @ftfilmphotos             2
-21    yc128                     14               55    @tylerdrey                2
-22    b0baspace                 14               56    Warren Umbach             2
-23    @SirBrentsworth           13               57    @flyingcamerastudio       2
-24    benikum                   12               58    @pommegranny              2
-25    u/ReeeSchmidtyWerber      11               59    shotbyliampewpew          2
-26    @zruk_ts                  10               60    Yrikonchik                1
-27    minidiscus                10               61    @ad.astra.per.aspera.1894 1
-28    green eggs and sam        10               62    Aoi Yuki                  1
-29    lilyu.xyz                 9                63    lemoniter                 1
-30    Kraksen                   9                64    @shotbyliampewpew         1
-31    lt_col_tall               9                65    Joo                       1
-32    MCB18                     9                66    @titanic_159              1
-33    Rafa Laguillo             8                67    Constantino               1
-34    @toastergod101            7
+1     dekuNukem                 341              36    @toastergod101            7
+2     Luci 101                  102              37    @filmfotofella            7
+3     @Hol.m35                  74               38    dzindevis                 7
+4     @photos.by.qi             72               39    GreatGizmo74              6
+5     Pelicram                  71               40    nick                      6
+6     nyctomanica               70               41    Greg                      6
+7     @ellafridalindblom        67               42    Kristof Lemp              6
+8     @recycling.film           66               43    @gregrouxphotography      5
+9     Dialupdude                44               44    Tobias                    5
+10    Mauphoto                  28               45    @janjuudas                5
+11    The Compartmentalist      25               46    Henry Gunn                4
+12    Chrisbes                  22               47    TheSelousScout            4
+13    kaimon                    20               48    Vince Costello            4
+14    benjaminbeeroll           20               49    Rhiannon                  4
+15    @ob.skura                 19               50    @sachynmital              3
+16    fine-seat                 19               51    Tallbird Cowboy           3
+17    Camera.Riley              19               52    DaFujiDude                3
+18    Nano_Burger               18               53    whoman560                 3
+19    toader                    17               54    Gergely Orsi              3
+20    waldoboro                 17               55    @seklerek                 2
+21    yc128                     14               56    @ftfilmphotos             2
+22    b0baspace                 14               57    @tylerdrey                2
+23    @SirBrentsworth           13               58    Warren Umbach             2
+24    benikum                   12               59    @flyingcamerastudio       2
+25    u/ReeeSchmidtyWerber      11               60    @pommegranny              2
+26    @zruk_ts                  10               61    shotbyliampewpew          2
+27    minidiscus                10               62    @sl35hater                2
+28    green eggs and sam        10               63    Yrikonchik                1
+29    lilyu.xyz                 9                64    @ad.astra.per.aspera.1894 1
+30    Kraksen                   9                65    Aoi Yuki                  1
+31    lt_col_tall               9                66    lemoniter                 1
+32    MCB18                     9                67    @shotbyliampewpew         1
+33    reschmidt12               9                68    Joo                       1
+34    @efridalindblom           9                69    @titanic_159              1
+35    Rafa Laguillo             8                70    Constantino               1
 ```
 
 ## Questions or Comments?
