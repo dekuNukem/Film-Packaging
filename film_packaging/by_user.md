@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 19 2026
-Unique items: 769
-Total scans : 1402
+Unique items: 770
+Total scans : 1403
 ```
 
 -----
@@ -780,6 +780,7 @@ Total scans : 1402
 - [[waldoboro] Perutz Primera (ref: cbfb)](#waldoboro-perutz-primera-ref-cbfb)
 - [[waldoboro] Seagull Seagull Color IR100 (ref: e7cc)](#waldoboro-seagull-seagull-color-ir100-ref-e7cc)
 - [[waldoboro] Svema FN 64 (ref: 600a)](#waldoboro-svema-fn-64-ref-600a)
+- [[waldoboro] Yashica Film for Color Prints (ref: 58b7)](#waldoboro-yashica-film-for-color-prints-ref-58b7)
 - [[whoman560] Kodak Gold (ref: 1e4c)](#whoman560-kodak-gold-ref-1e4c)
 - [[whoman560] Kodak Kodacolor 200 (ref: fc0e)](#whoman560-kodak-kodacolor-200-ref-fc0e)
 - [[whoman560] Lomography Lomochrome Color'92 (ref: 9dda)](#whoman560-lomography-lomochrome-color92-ref-9dda)
@@ -15826,6 +15827,20 @@ UUID  : dd90580d0b034a42ab153ef89c82600a
 	<img src="./lowres/00492_000.jpg" alt="Svema FN 64 35mm film box outside" loading="lazy" width="500" height="485">
 </a>
 
+#### [waldoboro] Yashica Film for Color Prints (ref: 58b7)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-02 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-10-19   |  Author  : waldoboro
+UUID  : a358256685684aa4b8a10b63814258b7
+```
+
+<a href="./archive/00774_000.jpg" target="_blank">
+	<img src="./lowres/00774_000.jpg" alt="Yashica Film for Color Prints 35mm film box outside" loading="lazy" width="413" height="500">
+</a>
+
 #### [whoman560] Kodak Gold (ref: 1e4c)
 
 ```
@@ -16049,8 +16064,8 @@ Rank  Username                  Contributions    Rank  Username                 
 16    fine-seat                 19               51    Tallbird Cowboy           3
 17    Camera.Riley              19               52    DaFujiDude                3
 18    Nano_Burger               18               53    whoman560                 3
-19    toader                    17               54    Gergely Orsi              3
-20    waldoboro                 17               55    @seklerek                 2
+19    waldoboro                 18               54    Gergely Orsi              3
+20    toader                    17               55    @seklerek                 2
 21    yc128                     14               56    @ftfilmphotos             2
 22    b0baspace                 14               57    @tylerdrey                2
 23    @SirBrentsworth           13               58    Warren Umbach             2

@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 19 2026
-Unique items: 769
-Total scans : 1402
+Unique items: 770
+Total scans : 1403
 ```
 
 -----
@@ -595,6 +595,7 @@ Total scans : 1402
 - [[C-41] Walkens Speed 400 (ref: 740f)](#c-41-walkens-speed-400-ref-740f)
 - [[C-41] Werlisa Werlisa Sport 100 (ref: d7fe)](#c-41-werlisa-werlisa-sport-100-ref-d7fe)
 - [[C-41] Wolfen NC500 (ref: 91c1)](#c-41-wolfen-nc500-ref-91c1)
+- [[C-41] Yashica Film for Color Prints (ref: 58b7)](#c-41-yashica-film-for-color-prints-ref-58b7)
 - [[C-41] York Photo Labs DXG 200 (ref: 4bf8)](#c-41-york-photo-labs-dxg-200-ref-4bf8)
 - [[CNS] Agfa Agfacolor CNS (ref: 0d8a)](#cns-agfa-agfacolor-cns-ref-0d8a)
 - [[CNS] Agfa Agfacolor Negative Film Special CNS (ref: 9b03)](#cns-agfa-agfacolor-negative-film-special-cns-ref-9b03)
@@ -11404,6 +11405,20 @@ UUID  : 6e3408d7e97247e380ea52077a7491c1
 	<img src="./lowres/00049_000.jpg" alt="Wolfen NC500 35mm film box outside" loading="lazy" width="454" height="500">
 </a>
 
+#### [C-41] Yashica Film for Color Prints (ref: 58b7)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-02 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-10-19   |  Author  : waldoboro
+UUID  : a358256685684aa4b8a10b63814258b7
+```
+
+<a href="./archive/00774_000.jpg" target="_blank">
+	<img src="./lowres/00774_000.jpg" alt="Yashica Film for Color Prints 35mm film box outside" loading="lazy" width="413" height="500">
+</a>
+
 #### [C-41] York Photo Labs DXG 200 (ref: 4bf8)
 
 ```
@@ -16049,8 +16064,8 @@ Rank  Username                  Contributions    Rank  Username                 
 16    fine-seat                 19               51    Tallbird Cowboy           3
 17    Camera.Riley              19               52    DaFujiDude                3
 18    Nano_Burger               18               53    whoman560                 3
-19    toader                    17               54    Gergely Orsi              3
-20    waldoboro                 17               55    @seklerek                 2
+19    waldoboro                 18               54    Gergely Orsi              3
+20    toader                    17               55    @seklerek                 2
 21    yc128                     14               56    @ftfilmphotos             2
 22    b0baspace                 14               57    @tylerdrey                2
 23    @SirBrentsworth           13               58    Warren Umbach             2

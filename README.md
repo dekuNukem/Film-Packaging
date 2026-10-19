@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Oct 19 2026
-Unique items: 769
-Total scans : 1402
+Unique items: 770
+Total scans : 1403
 ```
 
 Or Sort by...
@@ -71,8 +71,8 @@ Rank  Username                  Contributions    Rank  Username                 
 16    fine-seat                 19               51    Tallbird Cowboy           3
 17    Camera.Riley              19               52    DaFujiDude                3
 18    Nano_Burger               18               53    whoman560                 3
-19    toader                    17               54    Gergely Orsi              3
-20    waldoboro                 17               55    @seklerek                 2
+19    waldoboro                 18               54    Gergely Orsi              3
+20    toader                    17               55    @seklerek                 2
 21    yc128                     14               56    @ftfilmphotos             2
 22    b0baspace                 14               57    @tylerdrey                2
 23    @SirBrentsworth           13               58    Warren Umbach             2
@@ -126,6 +126,7 @@ Rank  Username                  Contributions    Rank  Username                 
   - shotbyliampewpew: Fujifilm Fujichrome 400 D
   - shotbyliampewpew: Fujifilm Fujicolor Superia 100
   - Vince Costello: Kodak Ektachrome 200
+  - waldoboro: Yashica Film for Color Prints
   - whoman560: Kodak Gold
   - whoman560: Kodak Kodacolor 200
   - whoman560: Lomography Lomochrome Color'92
