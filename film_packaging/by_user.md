@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 16 2026
-Unique items: 733
-Total scans : 1348
+Last Updated: Oct 19 2026
+Unique items: 742
+Total scans : 1367
 ```
 
 -----
@@ -310,6 +310,7 @@ Total scans : 1348
 - [[Dialupdude] Polaroid Color i-Type Film (ref: 47a7)](#dialupdude-polaroid-color-i-type-film-ref-47a7)
 - [[Dialupdude] Polaroid Color i-Type Film (ref: 32e9)](#dialupdude-polaroid-color-i-type-film-ref-32e9)
 - [[Dialupdude] Polaroid High Definition (ref: aad0)](#dialupdude-polaroid-high-definition-ref-aad0)
+- [[Gergely Orsi] Forte Fortepan Super Film (ref: 2caa)](#gergely-orsi-forte-fortepan-super-film-ref-2caa)
 - [[GreatGizmo74] Jessops CS100 (ref: 4288)](#greatgizmo74-jessops-cs100-ref-4288)
 - [[GreatGizmo74] Jessops Diamond Everyday (ref: 6d5a)](#greatgizmo74-jessops-diamond-everyday-ref-6d5a)
 - [[Greg] Kodak Ektachrome-X (ref: cca3)](#greg-kodak-ektachrome-x-ref-cca3)
@@ -328,6 +329,7 @@ Total scans : 1348
 - [[Kraksen] Marix Professional Negative Movie Color Film (ref: c457)](#kraksen-marix-professional-negative-movie-color-film-ref-c457)
 - [[Kraksen] MarixFilm Aircolor (ref: d9c4)](#kraksen-marixfilm-aircolor-ref-d9c4)
 - [[Kraksen] Stavanger Foto Frontier (ref: c51e)](#kraksen-stavanger-foto-frontier-ref-c51e)
+- [[Kristof Lemp] Fujifilm Fujichrome 100ix (ref: 9fb4)](#kristof-lemp-fujifilm-fujichrome-100ix-ref-9fb4)
 - [[Luci 101] Agfa AgfaChrome 100RS (ref: 2c42)](#luci-101-agfa-agfachrome-100rs-ref-2c42)
 - [[Luci 101] Agfa AgfaChrome 50 S (ref: eb28)](#luci-101-agfa-agfachrome-50-s-ref-eb28)
 - [[Luci 101] Foton Fotopan CD (ref: 6ba7)](#luci-101-foton-fotopan-cd-ref-6ba7)
@@ -449,7 +451,7 @@ Total scans : 1348
 - [[The Compartmentalist] Kodak Kodacolor II (ref: 7310)](#the-compartmentalist-kodak-kodacolor-ii-ref-7310)
 - [[The Compartmentalist] Kodak Portra 160 (ref: 6b0a)](#the-compartmentalist-kodak-portra-160-ref-6b0a)
 - [[The Compartmentalist] Kodak UltraMax (ref: e3ba)](#the-compartmentalist-kodak-ultramax-ref-e3ba)
-- [[The Compartmentalist] Lomography Lomochrome Color’92 (ref: 0960)](#the-compartmentalist-lomography-lomochrome-color-92-ref-0960)
+- [[The Compartmentalist] Lomography Lomochrome Color'92 (ref: 0960)](#the-compartmentalist-lomography-lomochrome-color92-ref-0960)
 - [[The Compartmentalist] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#the-compartmentalist-minolta-minolta-16-color-film-for-prints-ref-a2ff)
 - [[The Compartmentalist] ORWO NP 20 SL (ref: b16c)](#the-compartmentalist-orwo-np-20-sl-ref-b16c)
 - [[The Compartmentalist] Reflx Lab Pro 100 (ref: 8bec)](#the-compartmentalist-reflx-lab-pro-100-ref-8bec)
@@ -459,6 +461,7 @@ Total scans : 1348
 - [[TheSelousScout] Reto Amber D400 (ref: 08ad)](#theselousscout-reto-amber-d400-ref-08ad)
 - [[Tobias] Efke R14 (ref: 27f5)](#tobias-efke-r14-ref-27f5)
 - [[Tobias] efke KB-25 (ref: 4d17)](#tobias-efke-kb-25-ref-4d17)
+- [[Vince Costello] Kodak Ektachrome 200 (ref: 8734)](#vince-costello-kodak-ektachrome-200-ref-8734)
 - [[Warren Umbach] Agfa Agfapan APX 25 (ref: 5a92)](#warren-umbach-agfa-agfapan-apx-25-ref-5a92)
 - [[Yrikonchik] Fujifilm 200 (ref: 5b41)](#yrikonchik-fujifilm-200-ref-5b41)
 - [[b0baspace] Fujifilm Fujicolor 100 (ref: 013b)](#b0baspace-fujifilm-fujicolor-100-ref-013b)
@@ -507,6 +510,7 @@ Total scans : 1348
 - [[dekuNukem] Alien Film 5222/XX (ref: 3e49)](#dekunukem-alien-film-5222xx-ref-3e49)
 - [[dekuNukem] Ansco Plenachrome (ref: 3c6c)](#dekunukem-ansco-plenachrome-ref-3c6c)
 - [[dekuNukem] CineStill 800T (ref: c86a)](#dekunukem-cinestill-800t-ref-c86a)
+- [[dekuNukem] Cyberpunk 400D Color Film AHU (ref: 408d)](#dekunukem-cyberpunk-400d-color-film-ahu-ref-408d)
 - [[dekuNukem] Efiniti UXi Super 200 (ref: 471a)](#dekunukem-efiniti-uxi-super-200-ref-471a)
 - [[dekuNukem] Efke IR 820 Aura (ref: 43c9)](#dekunukem-efke-ir-820-aura-ref-43c9)
 - [[dekuNukem] Famous Brand Labs Color Negative Film (ref: b271)](#dekunukem-famous-brand-labs-color-negative-film-ref-b271)
@@ -723,6 +727,8 @@ Total scans : 1348
 - [[nyctomanica] Polaroid Originals Color SX-70 Film (ref: 7238)](#nyctomanica-polaroid-originals-color-sx-70-film-ref-7238)
 - [[nyctomanica] Polaroid Originals Color Spectra Film (ref: 7d0a)](#nyctomanica-polaroid-originals-color-spectra-film-ref-7d0a)
 - [[nyctomanica] Polaroid Originals Color i-Type Film (ref: 79a3)](#nyctomanica-polaroid-originals-color-i-type-film-ref-79a3)
+- [[shotbyliampewpew] Fujifilm Fujichrome 400 D (ref: 519e)](#shotbyliampewpew-fujifilm-fujichrome-400-d-ref-519e)
+- [[shotbyliampewpew] Fujifilm Fujicolor Superia 100 (ref: 9c36)](#shotbyliampewpew-fujifilm-fujicolor-superia-100-ref-9c36)
 - [[toader] Kodak Ektachrome 100 Plus (ref: 5d9f)](#toader-kodak-ektachrome-100-plus-ref-5d9f)
 - [[toader] Kodak Ektachrome E100 (ref: ae10)](#toader-kodak-ektachrome-e100-ref-ae10)
 - [[toader] Kodak Ektachrome Elite 100 (ref: 26ef)](#toader-kodak-ektachrome-elite-100-ref-26ef)
@@ -747,6 +753,9 @@ Total scans : 1348
 - [[waldoboro] Perutz Primera (ref: cbfb)](#waldoboro-perutz-primera-ref-cbfb)
 - [[waldoboro] Seagull Seagull Color IR100 (ref: e7cc)](#waldoboro-seagull-seagull-color-ir100-ref-e7cc)
 - [[waldoboro] Svema FN 64 (ref: 600a)](#waldoboro-svema-fn-64-ref-600a)
+- [[whoman560] Kodak Gold (ref: 1e4c)](#whoman560-kodak-gold-ref-1e4c)
+- [[whoman560] Kodak Kodacolor 200 (ref: fc0e)](#whoman560-kodak-kodacolor-200-ref-fc0e)
+- [[whoman560] Lomography Lomochrome Color'92 (ref: 9dda)](#whoman560-lomography-lomochrome-color92-ref-9dda)
 - [[yc128] Harman Phoenix (ref: 8eb4)](#yc128-harman-phoenix-ref-8eb4)
 - [[yc128] Harman Phoenix II (ref: f686)](#yc128-harman-phoenix-ii-ref-f686)
 - [[yc128] Harman Phoenix II (ref: 40df)](#yc128-harman-phoenix-ii-ref-40df)
@@ -5939,6 +5948,34 @@ UUID  : 406bdfb2f41a4be4a27b4d9ddd98aad0
 	<img src="./lowres/00727_001.jpg" alt="Polaroid High Definition 35mm film box inside" loading="lazy" width="414" height="500">
 </a>
 
+#### [Gergely Orsi] Forte Fortepan Super Film (ref: 2caa)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 80           |  Expiry  : 1984-02 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-10-19   |  Author  : Gergely Orsi
+UUID  : f84b6ebc37914a48be977906fed12caa
+```
+
+<a href="./archive/00745_000.jpg" target="_blank">
+	<img src="./lowres/00745_000.jpg" alt="Forte Fortepan Super Film 120 film box outside" loading="lazy" width="500" height="361">
+</a>
+
+
+`UUID: 7a7eb3c8ec8943fd8b8c3b44cf8a661f`↓
+
+<a href="./archive/00745_001.jpg" target="_blank">
+	<img src="./lowres/00745_001.jpg" alt="Forte Fortepan Super Film 120 film box leaflet" loading="lazy" width="359" height="500">
+</a>
+
+
+`UUID: 4438c1db47d040c2a96740c539dc9632`↓
+
+<a href="./archive/00745_002.jpg" target="_blank">
+	<img src="./lowres/00745_002.jpg" alt="Forte Fortepan Super Film 120 film box leaflet" loading="lazy" width="359" height="500">
+</a>
+
 #### [GreatGizmo74] Jessops CS100 (ref: 4288)
 
 ```
@@ -6245,6 +6282,55 @@ UUID  : 354788b12a2a4555a7c1717abfd5c51e
 
 <a href="./archive/00705_000.jpg" target="_blank">
 	<img src="./lowres/00705_000.jpg" alt="Stavanger Foto Frontier 35mm film box outside" loading="lazy" width="413" height="500">
+</a>
+
+#### [Kristof Lemp] Fujifilm Fujichrome 100ix (ref: 9fb4)
+
+```
+Format: APS          |  Process : E-6     
+ISO   : 100          |  Expiry  : 2000-11 
+Type  : Single Pack  |  Quantity: 40exp   
+Added : 2026-10-19   |  Author  : Kristof Lemp
+UUID  : 2a1bac6a8b61403ca0161b7471449fb4
+```
+
+<a href="./archive/00739_000.jpg" target="_blank">
+	<img src="./lowres/00739_000.jpg" alt="Fujifilm Fujichrome 100ix APS film box outside" loading="lazy" width="500" height="380">
+</a>
+
+
+`UUID: cd676c83173a4b56925208f10c1fc25a`↓
+
+<a href="./archive/00739_001.jpg" target="_blank">
+	<img src="./lowres/00739_001.jpg" alt="Fujifilm Fujichrome 100ix APS film box leaflet" loading="lazy" width="277" height="500">
+</a>
+
+
+`UUID: 29e6e4090d54470b9fc63ca079c2f6f3`↓
+
+<a href="./archive/00739_002.jpg" target="_blank">
+	<img src="./lowres/00739_002.jpg" alt="Fujifilm Fujichrome 100ix APS film box leaflet" loading="lazy" width="304" height="500">
+</a>
+
+
+`UUID: 8d63de9af81f46b19ab91e1184627d40`↓
+
+<a href="./archive/00739_003.jpg" target="_blank">
+	<img src="./lowres/00739_003.jpg" alt="Fujifilm Fujichrome 100ix APS film box processing envelope" loading="lazy" width="304" height="500">
+</a>
+
+
+`UUID: ec18aaa8718849c2bc80898859c85da2`↓
+
+<a href="./archive/00739_004.jpg" target="_blank">
+	<img src="./lowres/00739_004.jpg" alt="Fujifilm Fujichrome 100ix APS film box processing envelope" loading="lazy" width="500" height="298">
+</a>
+
+
+`UUID: 3460f60eff5d4793bd69dd3d8be66ab8`↓
+
+<a href="./archive/00739_005.jpg" target="_blank">
+	<img src="./lowres/00739_005.jpg" alt="Fujifilm Fujichrome 100ix APS film box processing envelope" loading="lazy" width="277" height="500">
 </a>
 
 #### [Luci 101] Agfa AgfaChrome 100RS (ref: 2c42)
@@ -8900,7 +8986,7 @@ UUID  : 7fc91e3ef9cf4519adde24e24938e3ba
 	<img src="./lowres/00337_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="481" height="500">
 </a>
 
-#### [The Compartmentalist] Lomography Lomochrome Color’92 (ref: 0960)
+#### [The Compartmentalist] Lomography Lomochrome Color'92 (ref: 0960)
 
 ```
 Format: 120          |  Process : C-41    
@@ -8911,7 +8997,7 @@ UUID  : e72a327c49d3440c85ab03647ff00960
 ```
 
 <a href="./archive/00336_000.jpg" target="_blank">
-	<img src="./lowres/00336_000.jpg" alt="Lomography Lomochrome Color’92 120 film box outside" loading="lazy" width="500" height="275">
+	<img src="./lowres/00336_000.jpg" alt="Lomography Lomochrome Color'92 120 film box outside" loading="lazy" width="500" height="275">
 </a>
 
 #### [The Compartmentalist] Minolta Minolta 16 Color Film For Prints (ref: a2ff)
@@ -9073,6 +9159,41 @@ UUID  : b41fb584f713486eb5a5da2fe16e4d17
 
 <a href="./archive/00528_001.jpg" target="_blank">
 	<img src="./lowres/00528_001.jpg" alt="efke KB-25 35mm film box inside" loading="lazy" width="468" height="500">
+</a>
+
+#### [Vince Costello] Kodak Ektachrome 200 (ref: 8734)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 200          |  Expiry  : 1983-12 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2026-10-19   |  Author  : Vince Costello
+UUID  : 1ca3e3e1505c4e9a9aa69c18401c8734
+```
+
+<a href="./archive/00746_000.jpg" target="_blank">
+	<img src="./lowres/00746_000.jpg" alt="Kodak Ektachrome 200 35mm film box outside" loading="lazy" width="398" height="500">
+</a>
+
+
+`UUID: 218ea261aee74673943c0c4f73d02adc`↓
+
+<a href="./archive/00746_001.jpg" target="_blank">
+	<img src="./lowres/00746_001.jpg" alt="Kodak Ektachrome 200 35mm film box inside" loading="lazy" width="409" height="499">
+</a>
+
+
+`UUID: fbc292c2fc4c4ae79faec8b0f7405b23`↓
+
+<a href="./archive/00746_002.jpg" target="_blank">
+	<img src="./lowres/00746_002.jpg" alt="Kodak Ektachrome 200 35mm film box leaflet" loading="lazy" width="168" height="500">
+</a>
+
+
+`UUID: 32b3e10b44d846a187736e427a929cf1`↓
+
+<a href="./archive/00746_003.jpg" target="_blank">
+	<img src="./lowres/00746_003.jpg" alt="Kodak Ektachrome 200 35mm film box leaflet" loading="lazy" width="167" height="500">
 </a>
 
 #### [Warren Umbach] Agfa Agfapan APX 25 (ref: 5a92)
@@ -10082,6 +10203,20 @@ UUID  : 53253eca96d841f5b98bfb3590fec86a
 
 <a href="./archive/00006_001.jpg" target="_blank">
 	<img src="./lowres/00006_001.jpg" alt="CineStill 800T 120 film box inside" loading="lazy" width="500" height="335">
+</a>
+
+#### [dekuNukem] Cyberpunk 400D Color Film AHU (ref: 408d)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : dekuNukem
+UUID  : 1067b3c9c68648fa88e091affc68408d
+```
+
+<a href="./archive/00738_000.jpg" target="_blank">
+	<img src="./lowres/00738_000.jpg" alt="Cyberpunk 400D Color Film AHU 35mm film box outside" loading="lazy" width="500" height="480">
 </a>
 
 #### [dekuNukem] Efiniti UXi Super 200 (ref: 471a)
@@ -14714,6 +14849,34 @@ UUID  : e7e2198738634eaa91f172f160e679a3
 	<img src="./lowres/00684_001.jpg" alt="Polaroid Originals Color i-Type Film Instant Integral Film film box inside" loading="lazy" width="235" height="499">
 </a>
 
+#### [shotbyliampewpew] Fujifilm Fujichrome 400 D (ref: 519e)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 400          |  Expiry  : 1989-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : shotbyliampewpew
+UUID  : 1c4d20e55d834b55bc2e2e75bc72519e
+```
+
+<a href="./archive/00740_000.jpg" target="_blank">
+	<img src="./lowres/00740_000.jpg" alt="Fujifilm Fujichrome 400 D 35mm film box outside" loading="lazy" width="436" height="500">
+</a>
+
+#### [shotbyliampewpew] Fujifilm Fujicolor Superia 100 (ref: 9c36)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2005-01 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2026-10-19   |  Author  : shotbyliampewpew
+UUID  : 36d2b73e478e45c5887cf5e34a4e9c36
+```
+
+<a href="./archive/00741_000.jpg" target="_blank">
+	<img src="./lowres/00741_000.jpg" alt="Fujifilm Fujicolor Superia 100 35mm film box outside" loading="lazy" width="406" height="500">
+</a>
+
 #### [toader] Kodak Ektachrome 100 Plus (ref: 5d9f)
 
 ```
@@ -15199,6 +15362,48 @@ UUID  : dd90580d0b034a42ab153ef89c82600a
 	<img src="./lowres/00492_000.jpg" alt="Svema FN 64 35mm film box outside" loading="lazy" width="500" height="485">
 </a>
 
+#### [whoman560] Kodak Gold (ref: 1e4c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2027-01 
+Type  : Multi-Pack-3 |  Quantity: 24exp   
+Added : 2026-10-19   |  Author  : whoman560
+UUID  : b094bb0c254c4ac1af2c6a88ffd01e4c
+```
+
+<a href="./archive/00743_000.jpg" target="_blank">
+	<img src="./lowres/00743_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="396" height="500">
+</a>
+
+#### [whoman560] Kodak Kodacolor 200 (ref: fc0e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2027-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : whoman560
+UUID  : ac33c75cd5b2470b8a6175c1b0d0fc0e
+```
+
+<a href="./archive/00742_000.jpg" target="_blank">
+	<img src="./lowres/00742_000.jpg" alt="Kodak Kodacolor 200 35mm film box outside" loading="lazy" width="450" height="500">
+</a>
+
+#### [whoman560] Lomography Lomochrome Color'92 (ref: 9dda)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : whoman560
+UUID  : fc86dc5b1cdc450fac49213a8b239dda
+```
+
+<a href="./archive/00744_000.jpg" target="_blank">
+	<img src="./lowres/00744_000.jpg" alt="Lomography Lomochrome Color'92 35mm film box outside" loading="lazy" width="500" height="456">
+</a>
+
 #### [yc128] Harman Phoenix (ref: 8eb4)
 
 ```
@@ -15362,36 +15567,39 @@ UUID  : e54ce68c797b4846b9aee3f5818ecb58
 ```
 Rank  Username                  Contributions    Rank  Username                  Contributions
 ----------------------------------------------    ----------------------------------------------
-1     dekuNukem                 340              31    MCB18                     9
-2     Luci 101                  102              32    Rafa Laguillo             8
-3     @Hol.m35                  74               33    @toastergod101            7
-4     @photos.by.qi             72               34    @filmfotofella            7
-5     Pelicram                  71               35    dzindevis                 7
-6     nyctomanica               70               36    GreatGizmo74              6
-7     @ellafridalindblom        67               37    nick                      6
-8     @recycling.film           66               38    Greg                      6
-9     Dialupdude                44               39    @gregrouxphotography      5
-10    Mauphoto                  28               40    Tobias                    5
-11    The Compartmentalist      25               41    @janjuudas                5
-12    Chrisbes                  22               42    Henry Gunn                4
-13    benjaminbeeroll           20               43    TheSelousScout            4
-14    @ob.skura                 19               44    @sachynmital              3
-15    fine-seat                 19               45    Tallbird Cowboy           3
-16    Camera.Riley              19               46    DaFujiDude                3
-17    kaimon                    19               47    @seklerek                 2
-18    Nano_Burger               18               48    @ftfilmphotos             2
-19    toader                    17               49    @tylerdrey                2
-20    waldoboro                 17               50    Warren Umbach             2
-21    yc128                     14               51    @flyingcamerastudio       2
-22    b0baspace                 14               52    @pommegranny              2
-23    @SirBrentsworth           13               53    Yrikonchik                1
-24    benikum                   12               54    @ad.astra.per.aspera.1894 1
-25    u/ReeeSchmidtyWerber      11               55    Aoi Yuki                  1
-26    @zruk_ts                  10               56    lemoniter                 1
-27    minidiscus                10               57    @shotbyliampewpew         1
-28    lilyu.xyz                 9                58    Joo                       1
-29    Kraksen                   9                59    @titanic_159              1
-30    lt_col_tall               9                60    Constantino               1
+1     dekuNukem                 341              34    @filmfotofella            7
+2     Luci 101                  102              35    dzindevis                 7
+3     @Hol.m35                  74               36    GreatGizmo74              6
+4     @photos.by.qi             72               37    nick                      6
+5     Pelicram                  71               38    Greg                      6
+6     nyctomanica               70               39    Kristof Lemp              6
+7     @ellafridalindblom        67               40    @gregrouxphotography      5
+8     @recycling.film           66               41    Tobias                    5
+9     Dialupdude                44               42    @janjuudas                5
+10    Mauphoto                  28               43    Henry Gunn                4
+11    The Compartmentalist      25               44    TheSelousScout            4
+12    Chrisbes                  22               45    Vince Costello            4
+13    benjaminbeeroll           20               46    @sachynmital              3
+14    @ob.skura                 19               47    Tallbird Cowboy           3
+15    fine-seat                 19               48    DaFujiDude                3
+16    Camera.Riley              19               49    whoman560                 3
+17    kaimon                    19               50    Gergely Orsi              3
+18    Nano_Burger               18               51    @seklerek                 2
+19    toader                    17               52    @ftfilmphotos             2
+20    waldoboro                 17               53    @tylerdrey                2
+21    yc128                     14               54    Warren Umbach             2
+22    b0baspace                 14               55    @flyingcamerastudio       2
+23    @SirBrentsworth           13               56    @pommegranny              2
+24    benikum                   12               57    shotbyliampewpew          2
+25    u/ReeeSchmidtyWerber      11               58    Yrikonchik                1
+26    @zruk_ts                  10               59    @ad.astra.per.aspera.1894 1
+27    minidiscus                10               60    Aoi Yuki                  1
+28    lilyu.xyz                 9                61    lemoniter                 1
+29    Kraksen                   9                62    @shotbyliampewpew         1
+30    lt_col_tall               9                63    Joo                       1
+31    MCB18                     9                64    @titanic_159              1
+32    Rafa Laguillo             8                65    Constantino               1
+33    @toastergod101            7
 ```
 
 ## Questions or Comments?

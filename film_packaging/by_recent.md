@@ -15,13 +15,22 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 16 2026
-Unique items: 733
-Total scans : 1348
+Last Updated: Oct 19 2026
+Unique items: 742
+Total scans : 1367
 ```
 
 -----
 
+- [[2026-10-19] Kodak Ektachrome 200 (ref: 8734)](#2026-10-19-kodak-ektachrome-200-ref-8734)
+- [[2026-10-19] Forte Fortepan Super Film (ref: 2caa)](#2026-10-19-forte-fortepan-super-film-ref-2caa)
+- [[2026-10-19] Lomography Lomochrome Color'92 (ref: 9dda)](#2026-10-19-lomography-lomochrome-color92-ref-9dda)
+- [[2026-10-19] Kodak Gold (ref: 1e4c)](#2026-10-19-kodak-gold-ref-1e4c)
+- [[2026-10-19] Kodak Kodacolor 200 (ref: fc0e)](#2026-10-19-kodak-kodacolor-200-ref-fc0e)
+- [[2026-10-19] Fujifilm Fujicolor Superia 100 (ref: 9c36)](#2026-10-19-fujifilm-fujicolor-superia-100-ref-9c36)
+- [[2026-10-19] Fujifilm Fujichrome 400 D (ref: 519e)](#2026-10-19-fujifilm-fujichrome-400-d-ref-519e)
+- [[2026-10-19] Fujifilm Fujichrome 100ix (ref: 9fb4)](#2026-10-19-fujifilm-fujichrome-100ix-ref-9fb4)
+- [[2026-10-19] Cyberpunk 400D Color Film AHU (ref: 408d)](#2026-10-19-cyberpunk-400d-color-film-ahu-ref-408d)
 - [[2026-10-16] PandaCamera DoubleX (ref: a290)](#2026-10-16-pandacamera-doublex-ref-a290)
 - [[2026-10-16] Leica Monopan 50 (ref: a75e)](#2026-10-16-leica-monopan-50-ref-a75e)
 - [[2026-10-16] Leica Monopan 50 (ref: 1f4d)](#2026-10-16-leica-monopan-50-ref-1f4d)
@@ -422,7 +431,7 @@ Total scans : 1348
 - [[2025-09-17] Fujifilm Fujichrome 64T (ref: 311b)](#2025-09-17-fujifilm-fujichrome-64t-ref-311b)
 - [[2025-09-17] Kodak Tri-X Pan (ref: f201)](#2025-09-17-kodak-tri-x-pan-ref-f201)
 - [[2025-09-17] Kodak UltraMax (ref: e3ba)](#2025-09-17-kodak-ultramax-ref-e3ba)
-- [[2025-09-17] Lomography Lomochrome Color’92 (ref: 0960)](#2025-09-17-lomography-lomochrome-color-92-ref-0960)
+- [[2025-09-17] Lomography Lomochrome Color'92 (ref: 0960)](#2025-09-17-lomography-lomochrome-color92-ref-0960)
 - [[2025-09-13] Jessops Diamond Everyday (ref: 6d5a)](#2025-09-13-jessops-diamond-everyday-ref-6d5a)
 - [[2025-09-13] Jessops CS100 (ref: 4288)](#2025-09-13-jessops-cs100-ref-4288)
 - [[2025-09-13] Kodak Ultra (ref: 5701)](#2025-09-13-kodak-ultra-ref-5701)
@@ -758,6 +767,202 @@ Total scans : 1348
 
 
 -----
+
+
+`UUID: 32b3e10b44d846a187736e427a929cf1`↓
+
+<a href="./archive/00746_003.jpg" target="_blank">
+	<img src="./lowres/00746_003.jpg" alt="Kodak Ektachrome 200 35mm film box leaflet" loading="lazy" width="167" height="500">
+</a>
+
+
+`UUID: fbc292c2fc4c4ae79faec8b0f7405b23`↓
+
+<a href="./archive/00746_002.jpg" target="_blank">
+	<img src="./lowres/00746_002.jpg" alt="Kodak Ektachrome 200 35mm film box leaflet" loading="lazy" width="168" height="500">
+</a>
+
+
+`UUID: 218ea261aee74673943c0c4f73d02adc`↓
+
+<a href="./archive/00746_001.jpg" target="_blank">
+	<img src="./lowres/00746_001.jpg" alt="Kodak Ektachrome 200 35mm film box inside" loading="lazy" width="409" height="499">
+</a>
+
+#### [2026-10-19] Kodak Ektachrome 200 (ref: 8734)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 200          |  Expiry  : 1983-12 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2026-10-19   |  Author  : Vince Costello
+UUID  : 1ca3e3e1505c4e9a9aa69c18401c8734
+```
+
+<a href="./archive/00746_000.jpg" target="_blank">
+	<img src="./lowres/00746_000.jpg" alt="Kodak Ektachrome 200 35mm film box outside" loading="lazy" width="398" height="500">
+</a>
+
+
+`UUID: 4438c1db47d040c2a96740c539dc9632`↓
+
+<a href="./archive/00745_002.jpg" target="_blank">
+	<img src="./lowres/00745_002.jpg" alt="Forte Fortepan Super Film 120 film box leaflet" loading="lazy" width="359" height="500">
+</a>
+
+
+`UUID: 7a7eb3c8ec8943fd8b8c3b44cf8a661f`↓
+
+<a href="./archive/00745_001.jpg" target="_blank">
+	<img src="./lowres/00745_001.jpg" alt="Forte Fortepan Super Film 120 film box leaflet" loading="lazy" width="359" height="500">
+</a>
+
+#### [2026-10-19] Forte Fortepan Super Film (ref: 2caa)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 80           |  Expiry  : 1984-02 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-10-19   |  Author  : Gergely Orsi
+UUID  : f84b6ebc37914a48be977906fed12caa
+```
+
+<a href="./archive/00745_000.jpg" target="_blank">
+	<img src="./lowres/00745_000.jpg" alt="Forte Fortepan Super Film 120 film box outside" loading="lazy" width="500" height="361">
+</a>
+
+#### [2026-10-19] Lomography Lomochrome Color'92 (ref: 9dda)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : whoman560
+UUID  : fc86dc5b1cdc450fac49213a8b239dda
+```
+
+<a href="./archive/00744_000.jpg" target="_blank">
+	<img src="./lowres/00744_000.jpg" alt="Lomography Lomochrome Color'92 35mm film box outside" loading="lazy" width="500" height="456">
+</a>
+
+#### [2026-10-19] Kodak Gold (ref: 1e4c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2027-01 
+Type  : Multi-Pack-3 |  Quantity: 24exp   
+Added : 2026-10-19   |  Author  : whoman560
+UUID  : b094bb0c254c4ac1af2c6a88ffd01e4c
+```
+
+<a href="./archive/00743_000.jpg" target="_blank">
+	<img src="./lowres/00743_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="396" height="500">
+</a>
+
+#### [2026-10-19] Kodak Kodacolor 200 (ref: fc0e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2027-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : whoman560
+UUID  : ac33c75cd5b2470b8a6175c1b0d0fc0e
+```
+
+<a href="./archive/00742_000.jpg" target="_blank">
+	<img src="./lowres/00742_000.jpg" alt="Kodak Kodacolor 200 35mm film box outside" loading="lazy" width="450" height="500">
+</a>
+
+#### [2026-10-19] Fujifilm Fujicolor Superia 100 (ref: 9c36)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2005-01 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2026-10-19   |  Author  : shotbyliampewpew
+UUID  : 36d2b73e478e45c5887cf5e34a4e9c36
+```
+
+<a href="./archive/00741_000.jpg" target="_blank">
+	<img src="./lowres/00741_000.jpg" alt="Fujifilm Fujicolor Superia 100 35mm film box outside" loading="lazy" width="406" height="500">
+</a>
+
+#### [2026-10-19] Fujifilm Fujichrome 400 D (ref: 519e)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 400          |  Expiry  : 1989-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : shotbyliampewpew
+UUID  : 1c4d20e55d834b55bc2e2e75bc72519e
+```
+
+<a href="./archive/00740_000.jpg" target="_blank">
+	<img src="./lowres/00740_000.jpg" alt="Fujifilm Fujichrome 400 D 35mm film box outside" loading="lazy" width="436" height="500">
+</a>
+
+
+`UUID: 29e6e4090d54470b9fc63ca079c2f6f3`↓
+
+<a href="./archive/00739_002.jpg" target="_blank">
+	<img src="./lowres/00739_002.jpg" alt="Fujifilm Fujichrome 100ix APS film box leaflet" loading="lazy" width="304" height="500">
+</a>
+
+
+`UUID: 3460f60eff5d4793bd69dd3d8be66ab8`↓
+
+<a href="./archive/00739_005.jpg" target="_blank">
+	<img src="./lowres/00739_005.jpg" alt="Fujifilm Fujichrome 100ix APS film box processing envelope" loading="lazy" width="277" height="500">
+</a>
+
+
+`UUID: ec18aaa8718849c2bc80898859c85da2`↓
+
+<a href="./archive/00739_004.jpg" target="_blank">
+	<img src="./lowres/00739_004.jpg" alt="Fujifilm Fujichrome 100ix APS film box processing envelope" loading="lazy" width="500" height="298">
+</a>
+
+
+`UUID: 8d63de9af81f46b19ab91e1184627d40`↓
+
+<a href="./archive/00739_003.jpg" target="_blank">
+	<img src="./lowres/00739_003.jpg" alt="Fujifilm Fujichrome 100ix APS film box processing envelope" loading="lazy" width="304" height="500">
+</a>
+
+
+`UUID: cd676c83173a4b56925208f10c1fc25a`↓
+
+<a href="./archive/00739_001.jpg" target="_blank">
+	<img src="./lowres/00739_001.jpg" alt="Fujifilm Fujichrome 100ix APS film box leaflet" loading="lazy" width="277" height="500">
+</a>
+
+#### [2026-10-19] Fujifilm Fujichrome 100ix (ref: 9fb4)
+
+```
+Format: APS          |  Process : E-6     
+ISO   : 100          |  Expiry  : 2000-11 
+Type  : Single Pack  |  Quantity: 40exp   
+Added : 2026-10-19   |  Author  : Kristof Lemp
+UUID  : 2a1bac6a8b61403ca0161b7471449fb4
+```
+
+<a href="./archive/00739_000.jpg" target="_blank">
+	<img src="./lowres/00739_000.jpg" alt="Fujifilm Fujichrome 100ix APS film box outside" loading="lazy" width="500" height="380">
+</a>
+
+#### [2026-10-19] Cyberpunk 400D Color Film AHU (ref: 408d)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : dekuNukem
+UUID  : 1067b3c9c68648fa88e091affc68408d
+```
+
+<a href="./archive/00738_000.jpg" target="_blank">
+	<img src="./lowres/00738_000.jpg" alt="Cyberpunk 400D Color Film AHU 35mm film box outside" loading="lazy" width="500" height="480">
+</a>
 
 #### [2026-10-16] PandaCamera DoubleX (ref: a290)
 
@@ -8992,7 +9197,7 @@ UUID  : 7fc91e3ef9cf4519adde24e24938e3ba
 	<img src="./lowres/00337_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="481" height="500">
 </a>
 
-#### [2025-09-17] Lomography Lomochrome Color’92 (ref: 0960)
+#### [2025-09-17] Lomography Lomochrome Color'92 (ref: 0960)
 
 ```
 Format: 120          |  Process : C-41    
@@ -9003,7 +9208,7 @@ UUID  : e72a327c49d3440c85ab03647ff00960
 ```
 
 <a href="./archive/00336_000.jpg" target="_blank">
-	<img src="./lowres/00336_000.jpg" alt="Lomography Lomochrome Color’92 120 film box outside" loading="lazy" width="500" height="275">
+	<img src="./lowres/00336_000.jpg" alt="Lomography Lomochrome Color'92 120 film box outside" loading="lazy" width="500" height="275">
 </a>
 
 
@@ -15362,36 +15567,39 @@ UUID  : 36151f6b7cc045c2b43d7f5cbee41a5d
 ```
 Rank  Username                  Contributions    Rank  Username                  Contributions
 ----------------------------------------------    ----------------------------------------------
-1     dekuNukem                 340              31    MCB18                     9
-2     Luci 101                  102              32    Rafa Laguillo             8
-3     @Hol.m35                  74               33    @toastergod101            7
-4     @photos.by.qi             72               34    @filmfotofella            7
-5     Pelicram                  71               35    dzindevis                 7
-6     nyctomanica               70               36    GreatGizmo74              6
-7     @ellafridalindblom        67               37    nick                      6
-8     @recycling.film           66               38    Greg                      6
-9     Dialupdude                44               39    @gregrouxphotography      5
-10    Mauphoto                  28               40    Tobias                    5
-11    The Compartmentalist      25               41    @janjuudas                5
-12    Chrisbes                  22               42    Henry Gunn                4
-13    benjaminbeeroll           20               43    TheSelousScout            4
-14    @ob.skura                 19               44    @sachynmital              3
-15    fine-seat                 19               45    Tallbird Cowboy           3
-16    Camera.Riley              19               46    DaFujiDude                3
-17    kaimon                    19               47    @seklerek                 2
-18    Nano_Burger               18               48    @ftfilmphotos             2
-19    toader                    17               49    @tylerdrey                2
-20    waldoboro                 17               50    Warren Umbach             2
-21    yc128                     14               51    @flyingcamerastudio       2
-22    b0baspace                 14               52    @pommegranny              2
-23    @SirBrentsworth           13               53    Yrikonchik                1
-24    benikum                   12               54    @ad.astra.per.aspera.1894 1
-25    u/ReeeSchmidtyWerber      11               55    Aoi Yuki                  1
-26    @zruk_ts                  10               56    lemoniter                 1
-27    minidiscus                10               57    @shotbyliampewpew         1
-28    lilyu.xyz                 9                58    Joo                       1
-29    Kraksen                   9                59    @titanic_159              1
-30    lt_col_tall               9                60    Constantino               1
+1     dekuNukem                 341              34    @filmfotofella            7
+2     Luci 101                  102              35    dzindevis                 7
+3     @Hol.m35                  74               36    GreatGizmo74              6
+4     @photos.by.qi             72               37    nick                      6
+5     Pelicram                  71               38    Greg                      6
+6     nyctomanica               70               39    Kristof Lemp              6
+7     @ellafridalindblom        67               40    @gregrouxphotography      5
+8     @recycling.film           66               41    Tobias                    5
+9     Dialupdude                44               42    @janjuudas                5
+10    Mauphoto                  28               43    Henry Gunn                4
+11    The Compartmentalist      25               44    TheSelousScout            4
+12    Chrisbes                  22               45    Vince Costello            4
+13    benjaminbeeroll           20               46    @sachynmital              3
+14    @ob.skura                 19               47    Tallbird Cowboy           3
+15    fine-seat                 19               48    DaFujiDude                3
+16    Camera.Riley              19               49    whoman560                 3
+17    kaimon                    19               50    Gergely Orsi              3
+18    Nano_Burger               18               51    @seklerek                 2
+19    toader                    17               52    @ftfilmphotos             2
+20    waldoboro                 17               53    @tylerdrey                2
+21    yc128                     14               54    Warren Umbach             2
+22    b0baspace                 14               55    @flyingcamerastudio       2
+23    @SirBrentsworth           13               56    @pommegranny              2
+24    benikum                   12               57    shotbyliampewpew          2
+25    u/ReeeSchmidtyWerber      11               58    Yrikonchik                1
+26    @zruk_ts                  10               59    @ad.astra.per.aspera.1894 1
+27    minidiscus                10               60    Aoi Yuki                  1
+28    lilyu.xyz                 9                61    lemoniter                 1
+29    Kraksen                   9                62    @shotbyliampewpew         1
+30    lt_col_tall               9                63    Joo                       1
+31    MCB18                     9                64    @titanic_159              1
+32    Rafa Laguillo             8                65    Constantino               1
+33    @toastergod101            7
 ```
 
 ## Questions or Comments?

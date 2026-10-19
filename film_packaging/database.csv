@@ -573,7 +573,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 334,3,film_box_processing_envelope,Jessops,CS100,35mm,100,E-6,200309,1757795936,03c25a481c1aafda12ad69a3640c9b35,c41e2cc23bee49768e995b15393af204,00334_003.jpg,GreatGizmo74,,Single Pack,36exp
 335,0,film_box_outside,Jessops,Diamond Everyday,35mm,200,C-41,200512,1757796321,ecb7b1e298f6ced72e4ca4f7bf2378d7,44e526db85e94a63ac582d20a1cc6d5a,00335_000.jpg,GreatGizmo74,,Single Pack,36exp
 335,1,film_box_inside,Jessops,Diamond Everyday,35mm,200,C-41,200512,1757796323,775e7e559172f13e9bd9ce316c6594e0,3e6eca45a0704e0da5c37631b1fd0b56,00335_001.jpg,GreatGizmo74,,Single Pack,36exp
-336,0,film_box_outside,Lomography,Lomochrome Color’92,120,400,C-41,202607,1758141412,3ea3b42c774407ed33dc1d3d05db327c,e72a327c49d3440c85ab03647ff00960,00336_000.jpg,The Compartmentalist,,Single Pack,N/A
+336,0,film_box_outside,Lomography,Lomochrome Color'92,120,400,C-41,202607,1758141412,3ea3b42c774407ed33dc1d3d05db327c,e72a327c49d3440c85ab03647ff00960,00336_000.jpg,The Compartmentalist,,Single Pack,N/A
 337,0,film_box_outside,Kodak,UltraMax,35mm,400,C-41,202601,1758142040,6dac178ca825cb7c5c5fc51a3154071a,7fc91e3ef9cf4519adde24e24938e3ba,00337_000.jpg,The Compartmentalist,,Multi-Pack-3,36exp
 338,0,film_box_outside,Kodak,Tri-X Pan,120,400,BW,198612,1758142393,beeeeb8d8feebd77f515dc113a663a15,496c4c1b618442bf933f48660acef201,00338_000.jpg,@ellafridalindblom,,Single Pack,N/A
 338,1,film_box_leaflet,Kodak,Tri-X Pan,120,400,BW,198612,1758142396,64cba18aadc3fcee0b224abb2c866650,8dd3ba1b167542bb95a7661994e4246e,00338_001.jpg,@ellafridalindblom,,Single Pack,N/A
@@ -1347,3 +1347,22 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 735,1,film_box_inside,Leica,Monopan 50,35mm,50,BW,202804,1792149704,745429640701939829883cdb42499af2,d8b00c2b803945af9e9110bed06a7573,00735_001.jpg,Chrisbes,,Single Pack,36exp
 736,0,film_box_outside,Leica,Monopan 50,35mm,50,BW,202804,1792149755,99a2f64729081559bf2ed68b3553400e,4bfbc231439b4791aa9b45677108a75e,00736_000.jpg,Chrisbes,,Single Pack,36exp
 737,0,film_box_outside,PandaCamera,DoubleX,35mm,250,BW,202512,1792149842,30b474eda0d044bf2eed900279a7065c,803089daf04e458dba0237eb9801a290,00737_000.jpg,@Hol.m35,Panda Camera respooled double x.  No date on box but my order details tell me it expired 12.2025,Single Pack,36exp
+738,0,film_box_outside,Cyberpunk,400D Color Film AHU,35mm,400,C-41,202712,1792406091,8e9618886f13244f6ef28a2f2996ece1,1067b3c9c68648fa88e091affc68408d,00738_000.jpg,dekuNukem,,Single Pack,36exp
+739,0,film_box_outside,Fujifilm,Fujichrome 100ix,APS,100,E-6,200011,1792406389,754ebd3812f3ce8d03696d30167ef223,2a1bac6a8b61403ca0161b7471449fb4,00739_000.jpg,Kristof Lemp,,Single Pack,40exp
+739,1,film_box_leaflet,Fujifilm,Fujichrome 100ix,APS,100,E-6,200011,1792406391,d9ebb98b0edb5afb6170efffd66172da,cd676c83173a4b56925208f10c1fc25a,00739_001.jpg,Kristof Lemp,,Single Pack,40exp
+739,2,film_box_leaflet,Fujifilm,Fujichrome 100ix,APS,100,E-6,200011,1792406408,6b8ff7757779c6042fdbc3337bc5f2ee,29e6e4090d54470b9fc63ca079c2f6f3,00739_005.jpg,Kristof Lemp,,Single Pack,40exp
+739,3,film_box_processing_envelope,Fujifilm,Fujichrome 100ix,APS,100,E-6,200011,1792406398,3f6011742a83a663e67f37c800de56a9,8d63de9af81f46b19ab91e1184627d40,00739_002.jpg,Kristof Lemp,,Single Pack,40exp
+739,4,film_box_processing_envelope,Fujifilm,Fujichrome 100ix,APS,100,E-6,200011,1792406404,ffdc4c51b90017c74c5b1c3b63d540b0,ec18aaa8718849c2bc80898859c85da2,00739_003.jpg,Kristof Lemp,,Single Pack,40exp
+739,5,film_box_processing_envelope,Fujifilm,Fujichrome 100ix,APS,100,E-6,200011,1792406406,8b9197d84d4b5b31bd25a0ae6b5f1a8a,3460f60eff5d4793bd69dd3d8be66ab8,00739_004.jpg,Kristof Lemp,,Single Pack,40exp
+740,0,film_box_outside,Fujifilm,Fujichrome 400 D,35mm,400,E-6,198908,1792406753,603954f8565424ec683bbf3033cb0efb,1c4d20e55d834b55bc2e2e75bc72519e,00740_000.jpg,shotbyliampewpew,,Single Pack,36exp
+741,0,film_box_outside,Fujifilm,Fujicolor Superia 100,35mm,100,C-41,200501,1792406789,d0a7a70e8067b4551fe3442d023ce184,36d2b73e478e45c5887cf5e34a4e9c36,00741_000.jpg,shotbyliampewpew,,Single Pack,12exp
+742,0,film_box_outside,Kodak,Kodacolor 200,35mm,200,C-41,202709,1792407133,6643b710dbb02ef50b254c9af7783225,ac33c75cd5b2470b8a6175c1b0d0fc0e,00742_000.jpg,whoman560,,Single Pack,36exp
+743,0,film_box_outside,Kodak,Gold,35mm,200,C-41,202701,1792407170,e420d4ea23d3ef4bb9b440bf08179bc9,b094bb0c254c4ac1af2c6a88ffd01e4c,00743_000.jpg,whoman560,,Multi-Pack-3,24exp
+744,0,film_box_outside,Lomography,Lomochrome Color'92,35mm,400,C-41,202708,1792407253,944a45f17a45976f627e5b23869816be,fc86dc5b1cdc450fac49213a8b239dda,00744_000.jpg,whoman560,,Single Pack,36exp
+745,0,film_box_outside,Forte,Fortepan Super Film,120,80,BW,198402,1792407582,c9c5756d96cfda1eda8c46072ddc41bf,f84b6ebc37914a48be977906fed12caa,00745_000.jpg,Gergely Orsi,,Single Pack,N/A
+745,1,film_box_leaflet,Forte,Fortepan Super Film,120,80,BW,198402,1792407584,04c69883ee26a2b9fd7ef41f514f4079,7a7eb3c8ec8943fd8b8c3b44cf8a661f,00745_001.jpg,Gergely Orsi,,Single Pack,N/A
+745,2,film_box_leaflet,Forte,Fortepan Super Film,120,80,BW,198402,1792407586,79e542a763586984ba8e20b3e493a120,4438c1db47d040c2a96740c539dc9632,00745_002.jpg,Gergely Orsi,,Single Pack,N/A
+746,0,film_box_outside,Kodak,Ektachrome 200,35mm,200,E-6,198312,1792408020,b79f3dc829d4e11e44bd6f3413f0e717,1ca3e3e1505c4e9a9aa69c18401c8734,00746_000.jpg,Vince Costello,,Single Pack,20exp
+746,1,film_box_inside,Kodak,Ektachrome 200,35mm,200,E-6,198312,1792408030,462ed07f0b52fc3acea226a449998011,218ea261aee74673943c0c4f73d02adc,00746_001.jpg,Vince Costello,,Single Pack,20exp
+746,2,film_box_leaflet,Kodak,Ektachrome 200,35mm,200,E-6,198312,1792408034,8bfcbfb6e68308831aa611a035b8aade,fbc292c2fc4c4ae79faec8b0f7405b23,00746_002.jpg,Vince Costello,,Single Pack,20exp
+746,3,film_box_leaflet,Kodak,Ektachrome 200,35mm,200,E-6,198312,1792408038,d195c5bc10994299ddfaa95ffe7bcc70,32b3e10b44d846a187736e427a929cf1,00746_003.jpg,Vince Costello,,Single Pack,20exp
