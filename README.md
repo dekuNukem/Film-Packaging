@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Oct 19 2026
-Unique items: 742
-Total scans : 1367
+Unique items: 750
+Total scans : 1381
 ```
 
 Or Sort by...
@@ -53,39 +53,40 @@ Or Sort by...
 ```
 Rank  Username                  Contributions    Rank  Username                  Contributions
 ----------------------------------------------    ----------------------------------------------
-1     dekuNukem                 341              34    @filmfotofella            7
-2     Luci 101                  102              35    dzindevis                 7
-3     @Hol.m35                  74               36    GreatGizmo74              6
-4     @photos.by.qi             72               37    nick                      6
-5     Pelicram                  71               38    Greg                      6
-6     nyctomanica               70               39    Kristof Lemp              6
-7     @ellafridalindblom        67               40    @gregrouxphotography      5
-8     @recycling.film           66               41    Tobias                    5
-9     Dialupdude                44               42    @janjuudas                5
-10    Mauphoto                  28               43    Henry Gunn                4
-11    The Compartmentalist      25               44    TheSelousScout            4
-12    Chrisbes                  22               45    Vince Costello            4
-13    benjaminbeeroll           20               46    @sachynmital              3
-14    @ob.skura                 19               47    Tallbird Cowboy           3
-15    fine-seat                 19               48    DaFujiDude                3
-16    Camera.Riley              19               49    whoman560                 3
-17    kaimon                    19               50    Gergely Orsi              3
-18    Nano_Burger               18               51    @seklerek                 2
-19    toader                    17               52    @ftfilmphotos             2
-20    waldoboro                 17               53    @tylerdrey                2
-21    yc128                     14               54    Warren Umbach             2
-22    b0baspace                 14               55    @flyingcamerastudio       2
-23    @SirBrentsworth           13               56    @pommegranny              2
-24    benikum                   12               57    shotbyliampewpew          2
-25    u/ReeeSchmidtyWerber      11               58    Yrikonchik                1
-26    @zruk_ts                  10               59    @ad.astra.per.aspera.1894 1
-27    minidiscus                10               60    Aoi Yuki                  1
-28    lilyu.xyz                 9                61    lemoniter                 1
-29    Kraksen                   9                62    @shotbyliampewpew         1
-30    lt_col_tall               9                63    Joo                       1
-31    MCB18                     9                64    @titanic_159              1
-32    Rafa Laguillo             8                65    Constantino               1
-33    @toastergod101            7
+1     dekuNukem                 341              35    @filmfotofella            7
+2     Luci 101                  102              36    dzindevis                 7
+3     @Hol.m35                  74               37    GreatGizmo74              6
+4     @photos.by.qi             72               38    nick                      6
+5     Pelicram                  71               39    Greg                      6
+6     nyctomanica               70               40    Kristof Lemp              6
+7     @ellafridalindblom        67               41    @gregrouxphotography      5
+8     @recycling.film           66               42    Tobias                    5
+9     Dialupdude                44               43    @janjuudas                5
+10    Mauphoto                  28               44    Henry Gunn                4
+11    The Compartmentalist      25               45    TheSelousScout            4
+12    Chrisbes                  22               46    Vince Costello            4
+13    benjaminbeeroll           20               47    Rhiannon                  4
+14    @ob.skura                 19               48    @sachynmital              3
+15    fine-seat                 19               49    Tallbird Cowboy           3
+16    Camera.Riley              19               50    DaFujiDude                3
+17    kaimon                    19               51    whoman560                 3
+18    Nano_Burger               18               52    Gergely Orsi              3
+19    toader                    17               53    @seklerek                 2
+20    waldoboro                 17               54    @ftfilmphotos             2
+21    yc128                     14               55    @tylerdrey                2
+22    b0baspace                 14               56    Warren Umbach             2
+23    @SirBrentsworth           13               57    @flyingcamerastudio       2
+24    benikum                   12               58    @pommegranny              2
+25    u/ReeeSchmidtyWerber      11               59    shotbyliampewpew          2
+26    @zruk_ts                  10               60    Yrikonchik                1
+27    minidiscus                10               61    @ad.astra.per.aspera.1894 1
+28    green eggs and sam        10               62    Aoi Yuki                  1
+29    lilyu.xyz                 9                63    lemoniter                 1
+30    Kraksen                   9                64    @shotbyliampewpew         1
+31    lt_col_tall               9                65    Joo                       1
+32    MCB18                     9                66    @titanic_159              1
+33    Rafa Laguillo             8                67    Constantino               1
+34    @toastergod101            7
 ```
 
 ## Recent Activities
@@ -94,7 +95,15 @@ Rank  Username                  Contributions    Rank  Username                 
 2026-10-19
   - dekuNukem: Cyberpunk 400D Color Film AHU
   - Gergely Orsi: Forte Fortepan Super Film
+  - green eggs and sam: Boots 100 Colour Slide
+  - green eggs and sam: Boots Universal
+  - green eggs and sam: Jessops Diamond Everyday
+  - green eggs and sam: Kodak Color Plus
+  - green eggs and sam: Kodak Gold
+  - green eggs and sam: Kodak Kodacolor 200
   - Kristof Lemp: Fujifilm Fujichrome 100ix
+  - Rhiannon: Candido Candido400
+  - Rhiannon: Star Foto Colour Film for Prints
   - shotbyliampewpew: Fujifilm Fujichrome 400 D
   - shotbyliampewpew: Fujifilm Fujicolor Superia 100
   - Vince Costello: Kodak Ektachrome 200

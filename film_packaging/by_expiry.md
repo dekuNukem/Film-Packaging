@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 19 2026
-Unique items: 742
-Total scans : 1367
+Unique items: 750
+Total scans : 1381
 ```
 
 -----
@@ -291,6 +291,7 @@ Total scans : 1367
 - [[2002] Polaroid Spectra Film (ref: 7a94)](#2002-polaroid-spectra-film-ref-7a94)
 - [[2002] Kirkland Signature Color Print Film (ref: 0441)](#2002-kirkland-signature-color-print-film-ref-0441)
 - [[2002] Kodak Gold 200 (ref: 442d)](#2002-kodak-gold-200-ref-442d)
+- [[2002] Star Foto Colour Film for Prints (ref: bdd5)](#2002-star-foto-colour-film-for-prints-ref-bdd5)
 - [[2003] Kodak Ektachrome 160T (ref: f21a)](#2003-kodak-ektachrome-160t-ref-f21a)
 - [[2003] Fujifilm Fujicolor Superia 100 (ref: 30bf)](#2003-fujifilm-fujicolor-superia-100-ref-30bf)
 - [[2003] Konica KonicaColor VX 200 (ref: fe53)](#2003-konica-konicacolor-vx-200-ref-fe53)
@@ -335,6 +336,7 @@ Total scans : 1367
 - [[2005] Kodak Hawkeye 2485 Surveillance Film (ref: 0037)](#2005-kodak-hawkeye-2485-surveillance-film-ref-0037)
 - [[2005] Konica VX 100 Super (ref: 90b4)](#2005-konica-vx-100-super-ref-90b4)
 - [[2005] Jessops Diamond Everyday (ref: 6d5a)](#2005-jessops-diamond-everyday-ref-6d5a)
+- [[2005] Jessops Diamond Everyday (ref: 971e)](#2005-jessops-diamond-everyday-ref-971e)
 - [[2005] Kodak Ultra (ref: 69a1)](#2005-kodak-ultra-ref-69a1)
 - [[2006] Agfa Agfapan APX 400 (ref: 19bc)](#2006-agfa-agfapan-apx-400-ref-19bc)
 - [[2006] Ilford Pan F 50 (ref: c977)](#2006-ilford-pan-f-50-ref-c977)
@@ -344,6 +346,7 @@ Total scans : 1367
 - [[2006] Fujifilm Fujichrome Velvia 100F (ref: f7fb)](#2006-fujifilm-fujichrome-velvia-100f-ref-f7fb)
 - [[2006] Kodak Imagelink HQ Microfilm (ref: 5a0f)](#2006-kodak-imagelink-hq-microfilm-ref-5a0f)
 - [[2006] Rossmann Jahreszeiten Pack (ref: 7670)](#2006-rossmann-jahreszeiten-pack-ref-7670)
+- [[2006] Boots Universal (ref: 639c)](#2006-boots-universal-ref-639c)
 - [[2006] Fujifilm Fujicolor Superia X-TRA 400 (ref: da37)](#2006-fujifilm-fujicolor-superia-x-tra-400-ref-da37)
 - [[2006] Max Spielmann Pro-Zoom MX 400 (ref: 38c5)](#2006-max-spielmann-pro-zoom-mx-400-ref-38c5)
 - [[2006] Polaroid 87 (ref: 62ef)](#2006-polaroid-87-ref-62ef)
@@ -369,6 +372,7 @@ Total scans : 1367
 - [[2007] Kodak MAX (ref: 2361)](#2007-kodak-max-ref-2361)
 - [[2007] Fujifilm Fujicolor Superia Reala (ref: a7de)](#2007-fujifilm-fujicolor-superia-reala-ref-a7de)
 - [[2007] Konica Minolta Centuria Super (ref: 95f0)](#2007-konica-minolta-centuria-super-ref-95f0)
+- [[2007] Boots 100 Colour Slide (ref: c369)](#2007-boots-100-colour-slide-ref-c369)
 - [[2007] Kodak Kodachrome 64 (ref: 3206)](#2007-kodak-kodachrome-64-ref-3206)
 - [[2007] Klick Max Extra Definition Multi Purpose Film (ref: 8ae4)](#2007-klick-max-extra-definition-multi-purpose-film-ref-8ae4)
 - [[2007] Ilford Delta 400 Professional (ref: 8f8b)](#2007-ilford-delta-400-professional-ref-8f8b)
@@ -423,6 +427,7 @@ Total scans : 1367
 - [[2010] Impossible Project Polaroid Type 100 Chocolate Paul Giambarba Edition (ref: 6028)](#2010-impossible-project-polaroid-type-100-chocolate-paul-giambarba-edition-ref-6028)
 - [[2011] Kodak Tri-X 400 (ref: 7145)](#2011-kodak-tri-x-400-ref-7145)
 - [[2011] Impossible Project PX 680 Color Shade / First Flush (ref: 580b)](#2011-impossible-project-px-680-color-shade--first-flush-ref-580b)
+- [[2011] Kodak Color Plus (ref: 1f55)](#2011-kodak-color-plus-ref-1f55)
 - [[2011] Ferrania Solaris FH Plus (ref: a505)](#2011-ferrania-solaris-fh-plus-ref-a505)
 - [[2011] Fujifilm Nexia A200 (ref: 43c0)](#2011-fujifilm-nexia-a200-ref-43c0)
 - [[2011] Fujifilm Superia 100 (ref: 0f0c)](#2011-fujifilm-superia-100-ref-0f0c)
@@ -495,6 +500,7 @@ Total scans : 1367
 - [[2022] Rollei RPX 400 (ref: c097)](#2022-rollei-rpx-400-ref-c097)
 - [[2022] Kodak Portra 800 (ref: 21f9)](#2022-kodak-portra-800-ref-21f9)
 - [[2022] Fujifilm Fujicolor Pro 400H (ref: ff20)](#2022-fujifilm-fujicolor-pro-400h-ref-ff20)
+- [[2022] Kodak Kodacolor 200 (ref: f856)](#2022-kodak-kodacolor-200-ref-f856)
 - [[2023] Kodak ProImage 100 (ref: fe32)](#2023-kodak-proimage-100-ref-fe32)
 - [[2023] Kodak UltraMax (ref: 3b23)](#2023-kodak-ultramax-ref-3b23)
 - [[2023] Lomography Lomochrome Metropolis (ref: 5546)](#2023-lomography-lomochrome-metropolis-ref-5546)
@@ -582,6 +588,7 @@ Total scans : 1367
 - [[2026] Harman Phoenix (ref: 637f)](#2026-harman-phoenix-ref-637f)
 - [[2026] Hazenfilm Sorolla Chrome (ref: 889f)](#2026-hazenfilm-sorolla-chrome-ref-889f)
 - [[2026] Kodak ColorPlus (ref: 6637)](#2026-kodak-colorplus-ref-6637)
+- [[2026] Kodak Gold (ref: 7f02)](#2026-kodak-gold-ref-7f02)
 - [[2026] Kodak T-MAX P3200 (ref: 43a2)](#2026-kodak-t-max-p3200-ref-43a2)
 - [[2026] CineStill 800T (ref: b3ff)](#2026-cinestill-800t-ref-b3ff)
 - [[2026] Fujifilm 400 (ref: 1f1d)](#2026-fujifilm-400-ref-1f1d)
@@ -613,6 +620,7 @@ Total scans : 1367
 - [[2027] Ilford Delta 100 Professional (ref: bf01)](#2027-ilford-delta-100-professional-ref-bf01)
 - [[2027] Kodak Ektachrome E100 (ref: ae10)](#2027-kodak-ektachrome-e100-ref-ae10)
 - [[2027] Kodak T-MAX P3200 (ref: e727)](#2027-kodak-t-max-p3200-ref-e727)
+- [[2027] Candido Candido400 (ref: 5f29)](#2027-candido-candido400-ref-5f29)
 - [[2027] Foma Fomapan Creative 200 (ref: 3e4f)](#2027-foma-fomapan-creative-200-ref-3e4f)
 - [[2027] Fujifilm Simple Ace (ref: 17e6)](#2027-fujifilm-simple-ace-ref-17e6)
 - [[2027] Kentmere PAN (ref: 3ec0)](#2027-kentmere-pan-ref-3ec0)
@@ -7097,6 +7105,28 @@ UUID  : e8e8fbafc8a64a19ad483dc1d7e3442d
 	<img src="./lowres/00546_001.jpg" alt="Kodak Gold 200 35mm film box outside" loading="lazy" width="289" height="500">
 </a>
 
+#### [2002] Star Foto Colour Film for Prints (ref: bdd5)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2002-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-10-19   |  Author  : Rhiannon
+UUID  : 57fa494ddfd641efae0ee1aaa686bdd5
+Notes : Repackaged Agfa XRG 200?
+```
+
+<a href="./archive/00747_000.jpg" target="_blank">
+	<img src="./lowres/00747_000.jpg" alt="Star Foto Colour Film for Prints 35mm film box outside" loading="lazy" width="489" height="500">
+</a>
+
+
+`UUID: 543d392100734dc598c5a2d63e2052b1`↓
+
+<a href="./archive/00747_001.jpg" target="_blank">
+	<img src="./lowres/00747_001.jpg" alt="Star Foto Colour Film for Prints 35mm film box inside" loading="lazy" width="483" height="500">
+</a>
+
 #### [2003] Kodak Ektachrome 160T (ref: f21a)
 
 ```
@@ -7934,6 +7964,27 @@ UUID  : 44e526db85e94a63ac582d20a1cc6d5a
 	<img src="./lowres/00335_001.jpg" alt="Jessops Diamond Everyday 35mm film box inside" loading="lazy" width="414" height="500">
 </a>
 
+#### [2005] Jessops Diamond Everyday (ref: 971e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2005-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : green eggs and sam
+UUID  : 8adfcde77a664507ba3dae30cd12971e
+```
+
+<a href="./archive/00749_000.jpg" target="_blank">
+	<img src="./lowres/00749_000.jpg" alt="Jessops Diamond Everyday 35mm film box outside" loading="lazy" width="415" height="500">
+</a>
+
+
+`UUID: 176e7d92b931488f8e419c73a239fb34`↓
+
+<a href="./archive/00749_001.jpg" target="_blank">
+	<img src="./lowres/00749_001.jpg" alt="Jessops Diamond Everyday 35mm film box inside" loading="lazy" width="418" height="500">
+</a>
+
 #### [2005] Kodak Ultra (ref: 69a1)
 
 ```
@@ -8086,6 +8137,20 @@ UUID  : b09413c4c1f44fceaa31ea8e50bf7670
 
 <a href="./archive/00072_000.jpg" target="_blank">
 	<img src="./lowres/00072_000.jpg" alt="Rossmann Jahreszeiten Pack 35mm film box outside" loading="lazy" width="227" height="500">
+</a>
+
+#### [2006] Boots Universal (ref: 639c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2006-07 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-10-19   |  Author  : green eggs and sam
+UUID  : 8f8cecc08ffb4914a898e2e6f603639c
+```
+
+<a href="./archive/00752_000.jpg" target="_blank">
+	<img src="./lowres/00752_000.jpg" alt="Boots Universal 35mm film box outside" loading="lazy" width="429" height="500">
 </a>
 
 #### [2006] Fujifilm Fujicolor Superia X-TRA 400 (ref: da37)
@@ -8536,6 +8601,41 @@ UUID  : 23707163dc014de2947bf1669c2195f0
 
 <a href="./archive/00707_001.jpg" target="_blank">
 	<img src="./lowres/00707_001.jpg" alt="Konica Minolta Centuria Super 35mm film box inside" loading="lazy" width="407" height="499">
+</a>
+
+#### [2007] Boots 100 Colour Slide (ref: c369)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2007-05 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : green eggs and sam
+UUID  : 95ab0b0bc7cf4593aa6e9ccea89ec369
+```
+
+<a href="./archive/00750_000.jpg" target="_blank">
+	<img src="./lowres/00750_000.jpg" alt="Boots 100 Colour Slide 35mm film box outside" loading="lazy" width="403" height="500">
+</a>
+
+
+`UUID: 97c9da1bb62649759977197654f91a9c`↓
+
+<a href="./archive/00750_001.jpg" target="_blank">
+	<img src="./lowres/00750_001.jpg" alt="Boots 100 Colour Slide 35mm film box processing envelope" loading="lazy" width="500" height="231">
+</a>
+
+
+`UUID: 1c6d71eeb6164c5a96bdc3ecdbd8bb39`↓
+
+<a href="./archive/00750_002.jpg" target="_blank">
+	<img src="./lowres/00750_002.jpg" alt="Boots 100 Colour Slide 35mm film box processing envelope" loading="lazy" width="251" height="500">
+</a>
+
+
+`UUID: 21dff6bed6ce4ffd823c4b4ea7d85c09`↓
+
+<a href="./archive/00750_003.jpg" target="_blank">
+	<img src="./lowres/00750_003.jpg" alt="Boots 100 Colour Slide 35mm film box leaflet" loading="lazy" width="500" height="498">
 </a>
 
 #### [2007] Kodak Kodachrome 64 (ref: 3206)
@@ -9503,6 +9603,20 @@ UUID  : 21d81b0f422340189e48c53b02b8580b
 
 <a href="./archive/00592_000.jpg" target="_blank">
 	<img src="./lowres/00592_000.jpg" alt="Impossible Project PX 680 Color Shade / First Flush Instant Integral Film film box outside" loading="lazy" width="370" height="500">
+</a>
+
+#### [2011] Kodak Color Plus (ref: 1f55)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2011-08 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-10-19   |  Author  : green eggs and sam
+UUID  : d74d2e6f081d414d916d0d2e60231f55
+```
+
+<a href="./archive/00753_000.jpg" target="_blank">
+	<img src="./lowres/00753_000.jpg" alt="Kodak Color Plus 35mm film box outside" loading="lazy" width="411" height="500">
 </a>
 
 #### [2011] Ferrania Solaris FH Plus (ref: a505)
@@ -10792,6 +10906,20 @@ UUID  : 3167bab31b134176a6d637dc1491ff20
 
 <a href="./archive/00250_000.jpg" target="_blank">
 	<img src="./lowres/00250_000.jpg" alt="Fujifilm Fujicolor Pro 400H 35mm film box outside" loading="lazy" width="420" height="499">
+</a>
+
+#### [2022] Kodak Kodacolor 200 (ref: f856)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2022-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-10-19   |  Author  : green eggs and sam
+UUID  : a761c183d01f4bfaa01dd16c9d33f856
+```
+
+<a href="./archive/00754_000.jpg" target="_blank">
+	<img src="./lowres/00754_000.jpg" alt="Kodak Kodacolor 200 35mm film box outside" loading="lazy" width="411" height="500">
 </a>
 
 #### [2023] Kodak ProImage 100 (ref: fe32)
@@ -12294,6 +12422,20 @@ UUID  : bd00cd25958d4108a7501bf4be9d6637
 	<img src="./lowres/00091_000.jpg" alt="Kodak ColorPlus 35mm film box outside" loading="lazy" width="429" height="500">
 </a>
 
+#### [2026] Kodak Gold (ref: 7f02)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2026-08 
+Type  : Multi-Pack-3 |  Quantity: 24exp   
+Added : 2026-10-19   |  Author  : green eggs and sam
+UUID  : 07c41b8d82f64c20b6a36201e1307f02
+```
+
+<a href="./archive/00751_000.jpg" target="_blank">
+	<img src="./lowres/00751_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="346" height="500">
+</a>
+
 #### [2026] Kodak T-MAX P3200 (ref: 43a2)
 
 ```
@@ -12831,6 +12973,27 @@ UUID  : 989581de448d4ccd82d8ab0950dae727
 
 <a href="./archive/00571_000.jpg" target="_blank">
 	<img src="./lowres/00571_000.jpg" alt="Kodak T-MAX P3200 35mm film box outside" loading="lazy" width="449" height="500">
+</a>
+
+#### [2027] Candido Candido400 (ref: 5f29)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : Rhiannon
+UUID  : 66cc14c380bc426295beb5328efd5f29
+```
+
+<a href="./archive/00748_000.jpg" target="_blank">
+	<img src="./lowres/00748_000.jpg" alt="Candido Candido400 35mm film box outside" loading="lazy" width="413" height="500">
+</a>
+
+
+`UUID: f26355b369b9467ca51d7b7545b27689`↓
+
+<a href="./archive/00748_001.jpg" target="_blank">
+	<img src="./lowres/00748_001.jpg" alt="Candido Candido400 35mm film box inside" loading="lazy" width="409" height="499">
 </a>
 
 #### [2027] Foma Fomapan Creative 200 (ref: 3e4f)
@@ -15567,39 +15730,40 @@ UUID  : 80d64fa269454c5589109c68a40541a8
 ```
 Rank  Username                  Contributions    Rank  Username                  Contributions
 ----------------------------------------------    ----------------------------------------------
-1     dekuNukem                 341              34    @filmfotofella            7
-2     Luci 101                  102              35    dzindevis                 7
-3     @Hol.m35                  74               36    GreatGizmo74              6
-4     @photos.by.qi             72               37    nick                      6
-5     Pelicram                  71               38    Greg                      6
-6     nyctomanica               70               39    Kristof Lemp              6
-7     @ellafridalindblom        67               40    @gregrouxphotography      5
-8     @recycling.film           66               41    Tobias                    5
-9     Dialupdude                44               42    @janjuudas                5
-10    Mauphoto                  28               43    Henry Gunn                4
-11    The Compartmentalist      25               44    TheSelousScout            4
-12    Chrisbes                  22               45    Vince Costello            4
-13    benjaminbeeroll           20               46    @sachynmital              3
-14    @ob.skura                 19               47    Tallbird Cowboy           3
-15    fine-seat                 19               48    DaFujiDude                3
-16    Camera.Riley              19               49    whoman560                 3
-17    kaimon                    19               50    Gergely Orsi              3
-18    Nano_Burger               18               51    @seklerek                 2
-19    toader                    17               52    @ftfilmphotos             2
-20    waldoboro                 17               53    @tylerdrey                2
-21    yc128                     14               54    Warren Umbach             2
-22    b0baspace                 14               55    @flyingcamerastudio       2
-23    @SirBrentsworth           13               56    @pommegranny              2
-24    benikum                   12               57    shotbyliampewpew          2
-25    u/ReeeSchmidtyWerber      11               58    Yrikonchik                1
-26    @zruk_ts                  10               59    @ad.astra.per.aspera.1894 1
-27    minidiscus                10               60    Aoi Yuki                  1
-28    lilyu.xyz                 9                61    lemoniter                 1
-29    Kraksen                   9                62    @shotbyliampewpew         1
-30    lt_col_tall               9                63    Joo                       1
-31    MCB18                     9                64    @titanic_159              1
-32    Rafa Laguillo             8                65    Constantino               1
-33    @toastergod101            7
+1     dekuNukem                 341              35    @filmfotofella            7
+2     Luci 101                  102              36    dzindevis                 7
+3     @Hol.m35                  74               37    GreatGizmo74              6
+4     @photos.by.qi             72               38    nick                      6
+5     Pelicram                  71               39    Greg                      6
+6     nyctomanica               70               40    Kristof Lemp              6
+7     @ellafridalindblom        67               41    @gregrouxphotography      5
+8     @recycling.film           66               42    Tobias                    5
+9     Dialupdude                44               43    @janjuudas                5
+10    Mauphoto                  28               44    Henry Gunn                4
+11    The Compartmentalist      25               45    TheSelousScout            4
+12    Chrisbes                  22               46    Vince Costello            4
+13    benjaminbeeroll           20               47    Rhiannon                  4
+14    @ob.skura                 19               48    @sachynmital              3
+15    fine-seat                 19               49    Tallbird Cowboy           3
+16    Camera.Riley              19               50    DaFujiDude                3
+17    kaimon                    19               51    whoman560                 3
+18    Nano_Burger               18               52    Gergely Orsi              3
+19    toader                    17               53    @seklerek                 2
+20    waldoboro                 17               54    @ftfilmphotos             2
+21    yc128                     14               55    @tylerdrey                2
+22    b0baspace                 14               56    Warren Umbach             2
+23    @SirBrentsworth           13               57    @flyingcamerastudio       2
+24    benikum                   12               58    @pommegranny              2
+25    u/ReeeSchmidtyWerber      11               59    shotbyliampewpew          2
+26    @zruk_ts                  10               60    Yrikonchik                1
+27    minidiscus                10               61    @ad.astra.per.aspera.1894 1
+28    green eggs and sam        10               62    Aoi Yuki                  1
+29    lilyu.xyz                 9                63    lemoniter                 1
+30    Kraksen                   9                64    @shotbyliampewpew         1
+31    lt_col_tall               9                65    Joo                       1
+32    MCB18                     9                66    @titanic_159              1
+33    Rafa Laguillo             8                67    Constantino               1
+34    @toastergod101            7
 ```
 
 ## Questions or Comments?

@@ -1366,3 +1366,17 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 746,1,film_box_inside,Kodak,Ektachrome 200,35mm,200,E-6,198312,1792408030,462ed07f0b52fc3acea226a449998011,218ea261aee74673943c0c4f73d02adc,00746_001.jpg,Vince Costello,,Single Pack,20exp
 746,2,film_box_leaflet,Kodak,Ektachrome 200,35mm,200,E-6,198312,1792408034,8bfcbfb6e68308831aa611a035b8aade,fbc292c2fc4c4ae79faec8b0f7405b23,00746_002.jpg,Vince Costello,,Single Pack,20exp
 746,3,film_box_leaflet,Kodak,Ektachrome 200,35mm,200,E-6,198312,1792408038,d195c5bc10994299ddfaa95ffe7bcc70,32b3e10b44d846a187736e427a929cf1,00746_003.jpg,Vince Costello,,Single Pack,20exp
+747,0,film_box_outside,Star Foto,Colour Film for Prints,35mm,200,C-41,200212,1792408347,a5a70f0f50ff1dd695710a417697c9e2,57fa494ddfd641efae0ee1aaa686bdd5,00747_000.jpg,Rhiannon,Repackaged Agfa XRG 200?,Single Pack,24exp
+747,1,film_box_inside,Star Foto,Colour Film for Prints,35mm,200,C-41,200212,1792408348,52d3e4479ed3464115fc9692a9e9d8ab,543d392100734dc598c5a2d63e2052b1,00747_001.jpg,Rhiannon,Repackaged Agfa XRG 200?,Single Pack,24exp
+748,0,film_box_outside,Candido,Candido400,35mm,400,C-41,202703,1792408519,68903c6ab232fab8aae0cb01d9f28ff8,66cc14c380bc426295beb5328efd5f29,00748_000.jpg,Rhiannon,,Single Pack,36exp
+748,1,film_box_inside,Candido,Candido400,35mm,400,C-41,202703,1792408521,afb4a422ccccd927ba592d74326917e1,f26355b369b9467ca51d7b7545b27689,00748_001.jpg,Rhiannon,,Single Pack,36exp
+749,0,film_box_outside,Jessops,Diamond Everyday,35mm,200,C-41,200512,1792408820,d837ed01441b9d7bf8e35b281ed8c3ed,8adfcde77a664507ba3dae30cd12971e,00749_000.jpg,green eggs and sam,,Single Pack,36exp
+749,1,film_box_inside,Jessops,Diamond Everyday,35mm,200,C-41,200512,1792408824,dfc9081399fe410306f2a70e1f6dd394,176e7d92b931488f8e419c73a239fb34,00749_001.jpg,green eggs and sam,,Single Pack,36exp
+750,0,film_box_outside,Boots,100 Colour Slide,35mm,100,E-6,200705,1792408934,64aca1770f6f6e0e2e0e82a6028f6e9f,95ab0b0bc7cf4593aa6e9ccea89ec369,00750_000.jpg,green eggs and sam,,Single Pack,36exp
+750,1,film_box_processing_envelope,Boots,100 Colour Slide,35mm,100,E-6,200705,1792409068,ce6771389eea6eef57d2159aad9ea448,97c9da1bb62649759977197654f91a9c,00750_001.jpg,green eggs and sam,,Single Pack,36exp
+750,2,film_box_processing_envelope,Boots,100 Colour Slide,35mm,100,E-6,200705,1792409077,1c67991a5000fb595e5e696fd1afc944,1c6d71eeb6164c5a96bdc3ecdbd8bb39,00750_002.jpg,green eggs and sam,,Single Pack,36exp
+750,3,film_box_leaflet,Boots,100 Colour Slide,35mm,100,E-6,200705,1792409086,c51316083a709cb5727aa1bd0aed6d5d,21dff6bed6ce4ffd823c4b4ea7d85c09,00750_003.jpg,green eggs and sam,,Single Pack,36exp
+751,0,film_box_outside,Kodak,Gold,35mm,200,C-41,202608,1792409016,3edfa31c18a5d69be1e6255b4614c4e9,07c41b8d82f64c20b6a36201e1307f02,00751_000.jpg,green eggs and sam,,Multi-Pack-3,24exp
+752,0,film_box_outside,Boots,Universal,35mm,400,C-41,200607,1792409136,bdea9d4f1537b009243066301b08c3cc,8f8cecc08ffb4914a898e2e6f603639c,00752_000.jpg,green eggs and sam,,Single Pack,24exp
+753,0,film_box_outside,Kodak,Color Plus,35mm,200,C-41,201108,1792409183,aa5d3c825c46485ffd052af08bda58d0,d74d2e6f081d414d916d0d2e60231f55,00753_000.jpg,green eggs and sam,,Single Pack,24exp
+754,0,film_box_outside,Kodak,Kodacolor 200,35mm,200,C-41,202212,1792409221,b27ad4b33d6977c7df324cb8061e22d8,a761c183d01f4bfaa01dd16c9d33f856,00754_000.jpg,green eggs and sam,,Single Pack,24exp

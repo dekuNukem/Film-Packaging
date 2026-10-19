@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Oct 19 2026
-Unique items: 742
-Total scans : 1367
+Unique items: 750
+Total scans : 1381
 ```
 
 -----
@@ -436,6 +436,8 @@ Total scans : 1367
 - [[Rafa Laguillo] Kodak UltraMax (ref: 145b)](#rafa-laguillo-kodak-ultramax-ref-145b)
 - [[Rafa Laguillo] Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides (ref: a44b)](#rafa-laguillo-lumière-union-photographique-industrielle-plaques-au-gélatino-bromure-dargent-extra-rapides-ref-a44b)
 - [[Rafa Laguillo] Werlisa Werlisa Sport 100 (ref: d7fe)](#rafa-laguillo-werlisa-werlisa-sport-100-ref-d7fe)
+- [[Rhiannon] Candido Candido400 (ref: 5f29)](#rhiannon-candido-candido400-ref-5f29)
+- [[Rhiannon] Star Foto Colour Film for Prints (ref: bdd5)](#rhiannon-star-foto-colour-film-for-prints-ref-bdd5)
 - [[Tallbird Cowboy] Kodak Kodachrome II (ref: 2caa)](#tallbird-cowboy-kodak-kodachrome-ii-ref-2caa)
 - [[The Compartmentalist] Agfa Agfapan Rapid (ref: 5e7b)](#the-compartmentalist-agfa-agfapan-rapid-ref-5e7b)
 - [[The Compartmentalist] Fujifilm Fujichrome Provia 100F (ref: df27)](#the-compartmentalist-fujifilm-fujichrome-provia-100f-ref-df27)
@@ -649,6 +651,12 @@ Total scans : 1367
 - [[fine-seat] Kodak Gold (ref: 2f8d)](#fine-seat-kodak-gold-ref-2f8d)
 - [[fine-seat] Kodak Kodacolor VR Plus (ref: f8bf)](#fine-seat-kodak-kodacolor-vr-plus-ref-f8bf)
 - [[fine-seat] ORWO Chrom UT21 (ref: 3fd5)](#fine-seat-orwo-chrom-ut21-ref-3fd5)
+- [[green eggs and sam] Boots 100 Colour Slide (ref: c369)](#green-eggs-and-sam-boots-100-colour-slide-ref-c369)
+- [[green eggs and sam] Boots Universal (ref: 639c)](#green-eggs-and-sam-boots-universal-ref-639c)
+- [[green eggs and sam] Jessops Diamond Everyday (ref: 971e)](#green-eggs-and-sam-jessops-diamond-everyday-ref-971e)
+- [[green eggs and sam] Kodak Color Plus (ref: 1f55)](#green-eggs-and-sam-kodak-color-plus-ref-1f55)
+- [[green eggs and sam] Kodak Gold (ref: 7f02)](#green-eggs-and-sam-kodak-gold-ref-7f02)
+- [[green eggs and sam] Kodak Kodacolor 200 (ref: f856)](#green-eggs-and-sam-kodak-kodacolor-200-ref-f856)
 - [[kaimon] CineStill 800T (ref: c96e)](#kaimon-cinestill-800t-ref-c96e)
 - [[kaimon] Escura Showa Camera Film (ref: 826b)](#kaimon-escura-showa-camera-film-ref-826b)
 - [[kaimon] Fujifilm Neopan Acros 100 II (ref: 4027)](#kaimon-fujifilm-neopan-acros-100-ii-ref-4027)
@@ -8727,6 +8735,49 @@ UUID  : 738ee5f957e543ee8baa4824dcacd7fe
 	<img src="./lowres/00700_001.jpg" alt="Werlisa Werlisa Sport 100 35mm film box inside" loading="lazy" width="408" height="500">
 </a>
 
+#### [Rhiannon] Candido Candido400 (ref: 5f29)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : Rhiannon
+UUID  : 66cc14c380bc426295beb5328efd5f29
+```
+
+<a href="./archive/00748_000.jpg" target="_blank">
+	<img src="./lowres/00748_000.jpg" alt="Candido Candido400 35mm film box outside" loading="lazy" width="413" height="500">
+</a>
+
+
+`UUID: f26355b369b9467ca51d7b7545b27689`↓
+
+<a href="./archive/00748_001.jpg" target="_blank">
+	<img src="./lowres/00748_001.jpg" alt="Candido Candido400 35mm film box inside" loading="lazy" width="409" height="499">
+</a>
+
+#### [Rhiannon] Star Foto Colour Film for Prints (ref: bdd5)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2002-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-10-19   |  Author  : Rhiannon
+UUID  : 57fa494ddfd641efae0ee1aaa686bdd5
+Notes : Repackaged Agfa XRG 200?
+```
+
+<a href="./archive/00747_000.jpg" target="_blank">
+	<img src="./lowres/00747_000.jpg" alt="Star Foto Colour Film for Prints 35mm film box outside" loading="lazy" width="489" height="500">
+</a>
+
+
+`UUID: 543d392100734dc598c5a2d63e2052b1`↓
+
+<a href="./archive/00747_001.jpg" target="_blank">
+	<img src="./lowres/00747_001.jpg" alt="Star Foto Colour Film for Prints 35mm film box inside" loading="lazy" width="483" height="500">
+</a>
+
 #### [Tallbird Cowboy] Kodak Kodachrome II (ref: 2caa)
 
 ```
@@ -13430,6 +13481,118 @@ UUID  : e3f739b7106044949b4f101684ad3fd5
 	<img src="./lowres/00359_004.jpg" alt="ORWO Chrom UT21 35mm film box processing envelope" loading="lazy" width="282" height="500">
 </a>
 
+#### [green eggs and sam] Boots 100 Colour Slide (ref: c369)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2007-05 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : green eggs and sam
+UUID  : 95ab0b0bc7cf4593aa6e9ccea89ec369
+```
+
+<a href="./archive/00750_000.jpg" target="_blank">
+	<img src="./lowres/00750_000.jpg" alt="Boots 100 Colour Slide 35mm film box outside" loading="lazy" width="403" height="500">
+</a>
+
+
+`UUID: 97c9da1bb62649759977197654f91a9c`↓
+
+<a href="./archive/00750_001.jpg" target="_blank">
+	<img src="./lowres/00750_001.jpg" alt="Boots 100 Colour Slide 35mm film box processing envelope" loading="lazy" width="500" height="231">
+</a>
+
+
+`UUID: 1c6d71eeb6164c5a96bdc3ecdbd8bb39`↓
+
+<a href="./archive/00750_002.jpg" target="_blank">
+	<img src="./lowres/00750_002.jpg" alt="Boots 100 Colour Slide 35mm film box processing envelope" loading="lazy" width="251" height="500">
+</a>
+
+
+`UUID: 21dff6bed6ce4ffd823c4b4ea7d85c09`↓
+
+<a href="./archive/00750_003.jpg" target="_blank">
+	<img src="./lowres/00750_003.jpg" alt="Boots 100 Colour Slide 35mm film box leaflet" loading="lazy" width="500" height="498">
+</a>
+
+#### [green eggs and sam] Boots Universal (ref: 639c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2006-07 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-10-19   |  Author  : green eggs and sam
+UUID  : 8f8cecc08ffb4914a898e2e6f603639c
+```
+
+<a href="./archive/00752_000.jpg" target="_blank">
+	<img src="./lowres/00752_000.jpg" alt="Boots Universal 35mm film box outside" loading="lazy" width="429" height="500">
+</a>
+
+#### [green eggs and sam] Jessops Diamond Everyday (ref: 971e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2005-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-10-19   |  Author  : green eggs and sam
+UUID  : 8adfcde77a664507ba3dae30cd12971e
+```
+
+<a href="./archive/00749_000.jpg" target="_blank">
+	<img src="./lowres/00749_000.jpg" alt="Jessops Diamond Everyday 35mm film box outside" loading="lazy" width="415" height="500">
+</a>
+
+
+`UUID: 176e7d92b931488f8e419c73a239fb34`↓
+
+<a href="./archive/00749_001.jpg" target="_blank">
+	<img src="./lowres/00749_001.jpg" alt="Jessops Diamond Everyday 35mm film box inside" loading="lazy" width="418" height="500">
+</a>
+
+#### [green eggs and sam] Kodak Color Plus (ref: 1f55)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2011-08 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-10-19   |  Author  : green eggs and sam
+UUID  : d74d2e6f081d414d916d0d2e60231f55
+```
+
+<a href="./archive/00753_000.jpg" target="_blank">
+	<img src="./lowres/00753_000.jpg" alt="Kodak Color Plus 35mm film box outside" loading="lazy" width="411" height="500">
+</a>
+
+#### [green eggs and sam] Kodak Gold (ref: 7f02)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2026-08 
+Type  : Multi-Pack-3 |  Quantity: 24exp   
+Added : 2026-10-19   |  Author  : green eggs and sam
+UUID  : 07c41b8d82f64c20b6a36201e1307f02
+```
+
+<a href="./archive/00751_000.jpg" target="_blank">
+	<img src="./lowres/00751_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="346" height="500">
+</a>
+
+#### [green eggs and sam] Kodak Kodacolor 200 (ref: f856)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2022-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-10-19   |  Author  : green eggs and sam
+UUID  : a761c183d01f4bfaa01dd16c9d33f856
+```
+
+<a href="./archive/00754_000.jpg" target="_blank">
+	<img src="./lowres/00754_000.jpg" alt="Kodak Kodacolor 200 35mm film box outside" loading="lazy" width="411" height="500">
+</a>
+
 #### [kaimon] CineStill 800T (ref: c96e)
 
 ```
@@ -15567,39 +15730,40 @@ UUID  : e54ce68c797b4846b9aee3f5818ecb58
 ```
 Rank  Username                  Contributions    Rank  Username                  Contributions
 ----------------------------------------------    ----------------------------------------------
-1     dekuNukem                 341              34    @filmfotofella            7
-2     Luci 101                  102              35    dzindevis                 7
-3     @Hol.m35                  74               36    GreatGizmo74              6
-4     @photos.by.qi             72               37    nick                      6
-5     Pelicram                  71               38    Greg                      6
-6     nyctomanica               70               39    Kristof Lemp              6
-7     @ellafridalindblom        67               40    @gregrouxphotography      5
-8     @recycling.film           66               41    Tobias                    5
-9     Dialupdude                44               42    @janjuudas                5
-10    Mauphoto                  28               43    Henry Gunn                4
-11    The Compartmentalist      25               44    TheSelousScout            4
-12    Chrisbes                  22               45    Vince Costello            4
-13    benjaminbeeroll           20               46    @sachynmital              3
-14    @ob.skura                 19               47    Tallbird Cowboy           3
-15    fine-seat                 19               48    DaFujiDude                3
-16    Camera.Riley              19               49    whoman560                 3
-17    kaimon                    19               50    Gergely Orsi              3
-18    Nano_Burger               18               51    @seklerek                 2
-19    toader                    17               52    @ftfilmphotos             2
-20    waldoboro                 17               53    @tylerdrey                2
-21    yc128                     14               54    Warren Umbach             2
-22    b0baspace                 14               55    @flyingcamerastudio       2
-23    @SirBrentsworth           13               56    @pommegranny              2
-24    benikum                   12               57    shotbyliampewpew          2
-25    u/ReeeSchmidtyWerber      11               58    Yrikonchik                1
-26    @zruk_ts                  10               59    @ad.astra.per.aspera.1894 1
-27    minidiscus                10               60    Aoi Yuki                  1
-28    lilyu.xyz                 9                61    lemoniter                 1
-29    Kraksen                   9                62    @shotbyliampewpew         1
-30    lt_col_tall               9                63    Joo                       1
-31    MCB18                     9                64    @titanic_159              1
-32    Rafa Laguillo             8                65    Constantino               1
-33    @toastergod101            7
+1     dekuNukem                 341              35    @filmfotofella            7
+2     Luci 101                  102              36    dzindevis                 7
+3     @Hol.m35                  74               37    GreatGizmo74              6
+4     @photos.by.qi             72               38    nick                      6
+5     Pelicram                  71               39    Greg                      6
+6     nyctomanica               70               40    Kristof Lemp              6
+7     @ellafridalindblom        67               41    @gregrouxphotography      5
+8     @recycling.film           66               42    Tobias                    5
+9     Dialupdude                44               43    @janjuudas                5
+10    Mauphoto                  28               44    Henry Gunn                4
+11    The Compartmentalist      25               45    TheSelousScout            4
+12    Chrisbes                  22               46    Vince Costello            4
+13    benjaminbeeroll           20               47    Rhiannon                  4
+14    @ob.skura                 19               48    @sachynmital              3
+15    fine-seat                 19               49    Tallbird Cowboy           3
+16    Camera.Riley              19               50    DaFujiDude                3
+17    kaimon                    19               51    whoman560                 3
+18    Nano_Burger               18               52    Gergely Orsi              3
+19    toader                    17               53    @seklerek                 2
+20    waldoboro                 17               54    @ftfilmphotos             2
+21    yc128                     14               55    @tylerdrey                2
+22    b0baspace                 14               56    Warren Umbach             2
+23    @SirBrentsworth           13               57    @flyingcamerastudio       2
+24    benikum                   12               58    @pommegranny              2
+25    u/ReeeSchmidtyWerber      11               59    shotbyliampewpew          2
+26    @zruk_ts                  10               60    Yrikonchik                1
+27    minidiscus                10               61    @ad.astra.per.aspera.1894 1
+28    green eggs and sam        10               62    Aoi Yuki                  1
+29    lilyu.xyz                 9                63    lemoniter                 1
+30    Kraksen                   9                64    @shotbyliampewpew         1
+31    lt_col_tall               9                65    Joo                       1
+32    MCB18                     9                66    @titanic_159              1
+33    Rafa Laguillo             8                67    Constantino               1
+34    @toastergod101            7
 ```
 
 ## Questions or Comments?
