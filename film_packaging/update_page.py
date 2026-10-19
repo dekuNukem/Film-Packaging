@@ -125,7 +125,7 @@ def render_two_cols(info: dict, col_width: int = 21) -> str:
     author = info.get(ITEM_AUTHOR_KEY, "").strip()
     uuid = info.get(ITEM_UUID_KEY, "").strip()
     box_type = info.get(ITEM_SUB_TYPE_KEY, "").strip()
-    quantity = info.get(ITEM_QUANTITY_KEY, "").strip()
+    quantity = make_quantity_str(info)
     notes = info.get(ITEM_NOTES_KEY, "").strip()
 
     # Helper to make one column padded to col_width

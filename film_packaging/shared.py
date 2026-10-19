@@ -19,7 +19,8 @@ ITEM_AUTHOR_KEY = "author"
 
 ITEM_NOTES_KEY = 'notes'
 ITEM_SUB_TYPE_KEY = 'item_subtype' # single_pack, multipack_3, bulk_roll, etc
-ITEM_QUANTITY_KEY = 'quantity' # 24exp, 36exp, 100ft, etc
+ITEM_QUANTITY_KEY = 'quantity' # 24, 36, 100, etc. N/A or Unknown if not applicable
+ITEM_UNIT_KEY = 'unit' # exp, ft, m, sheets, etc. empty if quantity is not a number
 
 alert_color = 'cyan'
 
@@ -86,7 +87,15 @@ this_key.db_name = ITEM_QUANTITY_KEY
 this_key.display_name = "Quantity"
 this_key.no_need_to_ask = False
 this_key.list_existing = True
-this_key.notes = "24exp, 100ft, etc"
+this_key.notes = "24, 100, etc"
+record_key_list.append(this_key)
+
+this_key = my_attribute()
+this_key.db_name = ITEM_UNIT_KEY
+this_key.display_name = "Unit"
+this_key.no_need_to_ask = False
+this_key.list_existing = True
+this_key.notes = "exp, ft, m, sheets, etc"
 record_key_list.append(this_key)
 
 this_key = my_attribute()
@@ -204,6 +213,20 @@ def convert_keys_to_int(db_dict):
     for this_entry in db_dict:
         this_entry[ITEM_INDEX_KEY] = int(this_entry[ITEM_INDEX_KEY])
         this_entry[ITEM_SUBINDEX_KEY] = int(this_entry[ITEM_SUBINDEX_KEY])
+
+def is_number(text):
+    try:
+        float(text)
+        return True
+    except (ValueError, TypeError):
+        return False
+
+def make_quantity_str(item_dict):
+    quantity = str(item_dict.get(ITEM_QUANTITY_KEY, "")).strip()
+    unit = str(item_dict.get(ITEM_UNIT_KEY, "")).strip()
+    if len(unit) == 0:
+        return quantity
+    return f"{quantity} {unit}"
 
 def save_csv(entries, csv_path=database_csv_path):
     csv_out_file = open(csv_path, 'w')

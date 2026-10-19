@@ -56,7 +56,8 @@ def format_two_columns(items):
 def ask_with_listing_existing_options(db_key):
     all_options = set()
     for item in database_entries:
-        all_options.add(item[db_key])
+        if len(str(item[db_key])) > 0:
+            all_options.add(item[db_key])
     all_options = sorted([str(x) for x in all_options])
     option_list_str = format_two_columns(all_options)
     question_to_ask = f"\nWhat is {colored(db_key, alert_color)}?\nSelect existing option or type a new entry\n{option_list_str}"
@@ -68,10 +69,21 @@ def ask_with_listing_existing_options(db_key):
         pass
     return user_answer
 
+NON_NUMERIC_QUANTITY_LIST = ["N/A", "Unknown"]
+
+def ask_quantity():
+    while True:
+        user_answer = ask_with_listing_existing_options(ITEM_QUANTITY_KEY)
+        if is_number(user_answer) or user_answer in NON_NUMERIC_QUANTITY_LIST:
+            return user_answer
+        print(colored(f"Quantity must be a number (unit is asked next), or one of {NON_NUMERIC_QUANTITY_LIST}", alert_color))
+
 def ask_attribute(db_key):
     key_attri = find_key_attributes(db_key)
     if key_attri.no_need_to_ask:
         return
+    if db_key == ITEM_QUANTITY_KEY:
+        return ask_quantity()
     if key_attri.list_existing:
         return ask_with_listing_existing_options(db_key)
     else:
@@ -97,6 +109,9 @@ def get_empty_record():
 def build_record_from_scratch(filepath):
     this_record = get_empty_record()
     for keyname in this_record:
+        if keyname == ITEM_UNIT_KEY and is_number(this_record[ITEM_QUANTITY_KEY]) is False:
+            this_record[keyname] = ''
+            continue
         this_record[keyname] = ask_attribute(keyname)
 
     try:
