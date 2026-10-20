@@ -35,9 +35,9 @@ Total scans : 1403
 - [[BW] Agfa APX 100 (ref: 12c7)](#bw-agfa-apx-100-ref-12c7)
 - [[BW] Agfa APX 200 (ref: 9165)](#bw-agfa-apx-200-ref-9165)
 - [[BW] Agfa APX 400 (ref: 379a)](#bw-agfa-apx-400-ref-379a)
-- [[BW] Agfa Agfapan  APX 25 (ref: 805f)](#bw-agfa-agfapan-apx-25-ref-805f)
 - [[BW] Agfa Agfapan APX 100 (ref: e271)](#bw-agfa-agfapan-apx-100-ref-e271)
 - [[BW] Agfa Agfapan APX 25 (ref: 5a92)](#bw-agfa-agfapan-apx-25-ref-5a92)
+- [[BW] Agfa Agfapan APX 25 (ref: 805f)](#bw-agfa-agfapan-apx-25-ref-805f)
 - [[BW] Agfa Agfapan APX 400 (ref: 5855)](#bw-agfa-agfapan-apx-400-ref-5855)
 - [[BW] Agfa Agfapan APX 400 (ref: 19bc)](#bw-agfa-agfapan-apx-400-ref-19bc)
 - [[BW] Agfa Agfapan Rapid (ref: 5e7b)](#bw-agfa-agfapan-rapid-ref-5e7b)
@@ -72,6 +72,9 @@ Total scans : 1403
 - [[BW] Defender Portrait HGS (ref: d69c)](#bw-defender-portrait-hgs-ref-d69c)
 - [[BW] Du Pont Defender X-F Pan (ref: d495)](#bw-du-pont-defender-x-f-pan-ref-d495)
 - [[BW] Efke IR 820 Aura (ref: 43c9)](#bw-efke-ir-820-aura-ref-43c9)
+- [[BW] Efke KB-25 (ref: 4d17)](#bw-efke-kb-25-ref-4d17)
+- [[BW] Efke R100 (ref: 10ad)](#bw-efke-r100-ref-10ad)
+- [[BW] Efke R100 (ref: 100d)](#bw-efke-r100-ref-100d)
 - [[BW] Efke R14 (ref: 27f5)](#bw-efke-r14-ref-27f5)
 - [[BW] Film Photography Project FPP 620 Black & White Panchromatic Negative Film (ref: 60ce)](#bw-film-photography-project-fpp-620-black-white-panchromatic-negative-film-ref-60ce)
 - [[BW] Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)](#bw-filmfabrik-köpenick-dekopan-feinkorn-ref-1bb7)
@@ -286,9 +289,6 @@ Total scans : 1403
 - [[BW] VEB Fotochemische Werke Berlin Dekopan Super S (ref: 1620)](#bw-veb-fotochemische-werke-berlin-dekopan-super-s-ref-1620)
 - [[BW] Walgreen All Purpose Film (ref: 541b)](#bw-walgreen-all-purpose-film-ref-541b)
 - [[BW] Wolfen NP100 (ref: 71a6)](#bw-wolfen-np100-ref-71a6)
-- [[BW] efke KB-25 (ref: 4d17)](#bw-efke-kb-25-ref-4d17)
-- [[BW] efke R100 (ref: 10ad)](#bw-efke-r100-ref-10ad)
-- [[BW] efke R100 (ref: 100d)](#bw-efke-r100-ref-100d)
 - [[C-22] Kodak Kodacolor (ref: 5d25)](#c-22-kodak-kodacolor-ref-5d25)
 - [[C-22] Kodak Kodacolor II (ref: 4108)](#c-22-kodak-kodacolor-ii-ref-4108)
 - [[C-22] Kodak Kodacolor-X (ref: a4b1)](#c-22-kodak-kodacolor-x-ref-a4b1)
@@ -339,7 +339,6 @@ Total scans : 1403
 - [[C-41] Fujifilm 400 (ref: 82be)](#c-41-fujifilm-400-ref-82be)
 - [[C-41] Fujifilm 400 (ref: 1f1d)](#c-41-fujifilm-400-ref-1f1d)
 - [[C-41] Fujifilm 400 Speed Film (ref: 7f19)](#c-41-fujifilm-400-speed-film-ref-7f19)
-- [[C-41] Fujifilm Fujichrome Sensia 100 (ref: a859)](#c-41-fujifilm-fujichrome-sensia-100-ref-a859)
 - [[C-41] Fujifilm Fujicolor 100 (ref: 013b)](#c-41-fujifilm-fujicolor-100-ref-013b)
 - [[C-41] Fujifilm Fujicolor 100 (ref: b3c9)](#c-41-fujifilm-fujicolor-100-ref-b3c9)
 - [[C-41] Fujifilm Fujicolor 100 (ref: ac71)](#c-41-fujifilm-fujicolor-100-ref-ac71)
@@ -627,6 +626,7 @@ Total scans : 1403
 - [[E-6] Fujifilm Fujichrome Provia 400F Professional (ref: 4591)](#e-6-fujifilm-fujichrome-provia-400f-professional-ref-4591)
 - [[E-6] Fujifilm Fujichrome Provia 400X (ref: 3c08)](#e-6-fujifilm-fujichrome-provia-400x-ref-3c08)
 - [[E-6] Fujifilm Fujichrome Sensia 100 (ref: a59b)](#e-6-fujifilm-fujichrome-sensia-100-ref-a59b)
+- [[E-6] Fujifilm Fujichrome Sensia 100 (ref: a859)](#e-6-fujifilm-fujichrome-sensia-100-ref-a859)
 - [[E-6] Fujifilm Fujichrome Sensia 200 (ref: 3a01)](#e-6-fujifilm-fujichrome-sensia-200-ref-3a01)
 - [[E-6] Fujifilm Fujichrome Velvia (ref: 3182)](#e-6-fujifilm-fujichrome-velvia-ref-3182)
 - [[E-6] Fujifilm Fujichrome Velvia (ref: 1ba8)](#e-6-fujifilm-fujichrome-velvia-ref-1ba8)
@@ -784,7 +784,7 @@ Total scans : 1403
 - [[Unknown] Northwest Custom Film Processing Ultra Minituature Film (ref: 70b1)](#unknown-northwest-custom-film-processing-ultra-minituature-film-ref-70b1)
 - [[Unknown] ORWO Chrom UT21 (ref: 3fd5)](#unknown-orwo-chrom-ut21-ref-3fd5)
 - [[Unknown] ORWO NC 19 (ref: dca5)](#unknown-orwo-nc-19-ref-dca5)
-- [[Unknown] ORWO OWRO Color PC7 (ref: 08f0)](#unknown-orwo-owro-color-pc7-ref-08f0)
+- [[Unknown] ORWO ORWO Color PC7 (ref: 08f0)](#unknown-orwo-orwo-color-pc7-ref-08f0)
 - [[Unknown] ORWO OrwoChrom UT18 (ref: 81b7)](#unknown-orwo-orwochrom-ut18-ref-81b7)
 - [[Unknown] ORWO OrwoColor UT13 (ref: a05d)](#unknown-orwo-orwocolor-ut13-ref-a05d)
 - [[Unknown] ORWO UK 17 (ref: 19a0)](#unknown-orwo-uk-17-ref-19a0)
@@ -899,6 +899,27 @@ UUID  : c426ea17398c4c549c6a2720103adea6
 
 <a href="./archive/00054_002.jpg" target="_blank">
 	<img src="./lowres/00054_002.jpg" alt="GAF Color Slide Film 126 film box leaflet" loading="lazy" width="449" height="500">
+</a>
+
+
+`UUID: a332a7492f2b4a708c8a0ead5b9af986`↓
+
+<a href="./archive/00054_003.jpg" target="_blank">
+	<img src="./lowres/00054_003.jpg" alt="GAF Color Slide Film 126 film box processing envelope" loading="lazy" width="500" height="180">
+</a>
+
+
+`UUID: dd9347600c9a47299504239d1038f0dd`↓
+
+<a href="./archive/00054_004.jpg" target="_blank">
+	<img src="./lowres/00054_004.jpg" alt="GAF Color Slide Film 126 film box processing envelope" loading="lazy" width="500" height="146">
+</a>
+
+
+`UUID: 90cc6194552d42dd873d9af54a9bc283`↓
+
+<a href="./archive/00054_005.jpg" target="_blank">
+	<img src="./lowres/00054_005.jpg" alt="GAF Color Slide Film 126 film box processing envelope" loading="lazy" width="500" height="133">
 </a>
 
 #### [AR-2] GAF Color Slide Film (ref: 57a5)
@@ -1090,27 +1111,6 @@ UUID  : 4cda6eac0745457482882631cdbf379a
 	<img src="./lowres/00720_001.jpg" alt="Agfa APX 400 35mm film box inside" loading="lazy" width="385" height="500">
 </a>
 
-#### [BW] Agfa Agfapan  APX 25 (ref: 805f)
-
-```
-Format: 35mm         |  Process : BW      
-ISO   : 25           |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 36 exp  
-Added : 2025-08-18   |  Author  : @recycling.film
-UUID  : 4ef7e8e28d2c4c589d24d9e12135805f
-```
-
-<a href="./archive/00198_000.jpg" target="_blank">
-	<img src="./lowres/00198_000.jpg" alt="Agfa Agfapan  APX 25 35mm film box outside" loading="lazy" width="423" height="500">
-</a>
-
-
-`UUID: 757b2d5a25cc41aab1220ff909f90fb0`↓
-
-<a href="./archive/00198_001.jpg" target="_blank">
-	<img src="./lowres/00198_001.jpg" alt="Agfa Agfapan  APX 25 35mm film box inside" loading="lazy" width="420" height="500">
-</a>
-
 #### [BW] Agfa Agfapan APX 100 (ref: e271)
 
 ```
@@ -1144,6 +1144,27 @@ UUID  : 3f10b7f948b641459292c754ec265a92
 
 <a href="./archive/00696_001.jpg" target="_blank">
 	<img src="./lowres/00696_001.jpg" alt="Agfa Agfapan APX 25 120 film box inside" loading="lazy" width="500" height="494">
+</a>
+
+#### [BW] Agfa Agfapan APX 25 (ref: 805f)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 25           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2025-08-18   |  Author  : @recycling.film
+UUID  : 4ef7e8e28d2c4c589d24d9e12135805f
+```
+
+<a href="./archive/00198_000.jpg" target="_blank">
+	<img src="./lowres/00198_000.jpg" alt="Agfa Agfapan APX 25 35mm film box outside" loading="lazy" width="423" height="500">
+</a>
+
+
+`UUID: 757b2d5a25cc41aab1220ff909f90fb0`↓
+
+<a href="./archive/00198_001.jpg" target="_blank">
+	<img src="./lowres/00198_001.jpg" alt="Agfa Agfapan APX 25 35mm film box inside" loading="lazy" width="420" height="500">
 </a>
 
 #### [BW] Agfa Agfapan APX 400 (ref: 5855)
@@ -1451,7 +1472,7 @@ UUID  : ad700b1b71964ee3a1f2aaa78d8a0937
 
 ```
 Format: 9x12cm       |  Process : BW      
-ISO   : Unknown      |  Expiry  : Unkonwn 
+ISO   : Unknown      |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 12 sheets
 Added : 2025-09-03   |  Author  : @ellafridalindblom
 UUID  : 80d64fa269454c5589109c68a40541a8
@@ -1698,7 +1719,7 @@ UUID  : 24c9c3108671446dae824d00093fd69c
 Format: Unknown      |  Process : BW      
 ISO   : Unknown      |  Expiry  : 1948-11 
 Type  : Single Pack  |  Quantity: 24 sheets
-Added : 2026-10-19   |  Author  : @efridalindblom
+Added : 2026-10-19   |  Author  : @ellafridalindblom
 UUID  : a911ae0b9fe944ec8a37ac58d970d495
 ```
 
@@ -1739,6 +1760,83 @@ UUID  : 716e410a3823476e9befa704361f43c9
 
 <a href="./archive/00038_001.jpg" target="_blank">
 	<img src="./lowres/00038_001.jpg" alt="Efke IR 820 Aura 120 film box inside" loading="lazy" width="500" height="341">
+</a>
+
+#### [BW] Efke KB-25 (ref: 4d17)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 25           |  Expiry  : 2009-03 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-03-02   |  Author  : Tobias  
+UUID  : b41fb584f713486eb5a5da2fe16e4d17
+```
+
+<a href="./archive/00528_000.jpg" target="_blank">
+	<img src="./lowres/00528_000.jpg" alt="Efke KB-25 35mm film box outside" loading="lazy" width="496" height="499">
+</a>
+
+
+`UUID: 98d3ecfcdc824e7bbaef2d5a1f52bd05`↓
+
+<a href="./archive/00528_001.jpg" target="_blank">
+	<img src="./lowres/00528_001.jpg" alt="Efke KB-25 35mm film box inside" loading="lazy" width="468" height="500">
+</a>
+
+#### [BW] Efke R100 (ref: 10ad)
+
+```
+Format: 127          |  Process : BW      
+ISO   : 100          |  Expiry  : 1996-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : 686490575de4412b9309d5d797af10ad
+```
+
+<a href="./archive/00426_000.jpg" target="_blank">
+	<img src="./lowres/00426_000.jpg" alt="Efke R100 127 film box outside" loading="lazy" width="500" height="337">
+</a>
+
+
+`UUID: 17e8ec86380144999ee0f93c6799030d`↓
+
+<a href="./archive/00426_001.jpg" target="_blank">
+	<img src="./lowres/00426_001.jpg" alt="Efke R100 127 film box leaflet" loading="lazy" width="500" height="401">
+</a>
+
+
+`UUID: 77788e6b682e47e089804190aecc56b7`↓
+
+<a href="./archive/00426_002.jpg" target="_blank">
+	<img src="./lowres/00426_002.jpg" alt="Efke R100 127 film box leaflet" loading="lazy" width="500" height="411">
+</a>
+
+#### [BW] Efke R100 (ref: 100d)
+
+```
+Format: 127          |  Process : BW      
+ISO   : 100          |  Expiry  : 1998-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-10-21   |  Author  : dekuNukem
+UUID  : fc90db41b94d486491177a8407f1100d
+```
+
+<a href="./archive/00435_000.jpg" target="_blank">
+	<img src="./lowres/00435_000.jpg" alt="Efke R100 127 film box outside" loading="lazy" width="500" height="318">
+</a>
+
+
+`UUID: 877813b4c98d406b8739c4310f0116a8`↓
+
+<a href="./archive/00435_001.jpg" target="_blank">
+	<img src="./lowres/00435_001.jpg" alt="Efke R100 127 film box leaflet" loading="lazy" width="500" height="426">
+</a>
+
+
+`UUID: fb3873078df9491491a4ff63374d80d2`↓
+
+<a href="./archive/00435_002.jpg" target="_blank">
+	<img src="./lowres/00435_002.jpg" alt="Efke R100 127 film box leaflet" loading="lazy" width="500" height="453">
 </a>
 
 #### [BW] Efke R14 (ref: 27f5)
@@ -2392,7 +2490,7 @@ UUID  : 6a8186f72d304b3c84ff8ffa7935fd4c
 Format: 12x16.5cm    |  Process : BW      
 ISO   : 100          |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 12 sheets
-Added : 2026-10-19   |  Author  : @efridalindblom
+Added : 2026-10-19   |  Author  : @ellafridalindblom
 UUID  : b0f738f453c849088ebe322d762c0e63
 ```
 
@@ -2470,7 +2568,7 @@ UUID  : 9a6b4771688d43c58b96c254e43d1ff6
 Format: 9x12cm       |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 12 sheets
-Added : 2026-10-19   |  Author  : @efridalindblom
+Added : 2026-10-19   |  Author  : @ellafridalindblom
 UUID  : ede9f26e73c84a3c84b53206e1c495c5
 ```
 
@@ -2498,7 +2596,7 @@ UUID  : 1056543f30334a238387be8abe2dec67
 Format: 12x16.5cm    |  Process : BW      
 ISO   : 80           |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 12 sheets
-Added : 2026-10-19   |  Author  : @efridalindblom
+Added : 2026-10-19   |  Author  : @ellafridalindblom
 UUID  : 65af395f5a2e4e69aa598c055c1ad1fb
 ```
 
@@ -3617,7 +3715,7 @@ UUID  : 386384f6be954ddc8ab42f3bcb1d8d69
 
 ```
 Format: 35mm         |  Process : BW      
-ISO   : 32           |  Expiry  : 1977013 
+ISO   : 32           |  Expiry  : 1977-03 
 Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-08-16   |  Author  : u/ReeeSchmidtyWerber
 UUID  : 475b6bf4c66141b48fc73ace756435f6
@@ -4847,7 +4945,7 @@ UUID  : bb45ef5b684b4606b02cc7f9fb16a44b
 Format: 12x16.5cm    |  Process : BW      
 ISO   : 10           |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 12 sheets
-Added : 2026-10-19   |  Author  : @efridalindblom
+Added : 2026-10-19   |  Author  : @ellafridalindblom
 UUID  : b6087c7a528d44ac83c246afe8e3795e
 ```
 
@@ -5577,7 +5675,7 @@ UUID  : f22d3e1e2f70453f87aea4b67db3ee8f
 Format: 9x12cm       |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 12 sheets
-Added : 2026-10-19   |  Author  : @efridalindblom
+Added : 2026-10-19   |  Author  : @ellafridalindblom
 UUID  : e0ad5f0cd4de4610ae0e2f3f6636ad62
 ```
 
@@ -5590,8 +5688,8 @@ UUID  : e0ad5f0cd4de4610ae0e2f3f6636ad62
 ```
 Format: 12x16.5cm    |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 12 exp  
-Added : 2026-10-19   |  Author  : @efridalindblom
+Type  : Single Pack  |  Quantity: 12 sheets
+Added : 2026-10-19   |  Author  : @ellafridalindblom
 UUID  : f64bf8d2a1df471195679a853de6477d
 ```
 
@@ -5927,83 +6025,6 @@ UUID  : 898148fa3a754866a407bbecec4a71a6
 
 <a href="./archive/00131_000.jpg" target="_blank">
 	<img src="./lowres/00131_000.jpg" alt="Wolfen NP100 35mm film box outside" loading="lazy" width="500" height="455">
-</a>
-
-#### [BW] efke KB-25 (ref: 4d17)
-
-```
-Format: 35mm         |  Process : BW      
-ISO   : 25           |  Expiry  : 2009-03 
-Type  : Single Pack  |  Quantity: 36 exp  
-Added : 2026-03-02   |  Author  : Tobias  
-UUID  : b41fb584f713486eb5a5da2fe16e4d17
-```
-
-<a href="./archive/00528_000.jpg" target="_blank">
-	<img src="./lowres/00528_000.jpg" alt="efke KB-25 35mm film box outside" loading="lazy" width="496" height="499">
-</a>
-
-
-`UUID: 98d3ecfcdc824e7bbaef2d5a1f52bd05`↓
-
-<a href="./archive/00528_001.jpg" target="_blank">
-	<img src="./lowres/00528_001.jpg" alt="efke KB-25 35mm film box inside" loading="lazy" width="468" height="500">
-</a>
-
-#### [BW] efke R100 (ref: 10ad)
-
-```
-Format: 127          |  Process : BW      
-ISO   : 100          |  Expiry  : 1996-01 
-Type  : Single Pack  |  Quantity: N/A     
-Added : 2025-10-21   |  Author  : dekuNukem
-UUID  : 686490575de4412b9309d5d797af10ad
-```
-
-<a href="./archive/00426_000.jpg" target="_blank">
-	<img src="./lowres/00426_000.jpg" alt="efke R100 127 film box outside" loading="lazy" width="500" height="337">
-</a>
-
-
-`UUID: 17e8ec86380144999ee0f93c6799030d`↓
-
-<a href="./archive/00426_001.jpg" target="_blank">
-	<img src="./lowres/00426_001.jpg" alt="efke R100 127 film box leaflet" loading="lazy" width="500" height="401">
-</a>
-
-
-`UUID: 77788e6b682e47e089804190aecc56b7`↓
-
-<a href="./archive/00426_002.jpg" target="_blank">
-	<img src="./lowres/00426_002.jpg" alt="efke R100 127 film box leaflet" loading="lazy" width="500" height="411">
-</a>
-
-#### [BW] efke R100 (ref: 100d)
-
-```
-Format: 127          |  Process : BW      
-ISO   : 100          |  Expiry  : 1998-09 
-Type  : Single Pack  |  Quantity: N/A     
-Added : 2025-10-21   |  Author  : dekuNukem
-UUID  : fc90db41b94d486491177a8407f1100d
-```
-
-<a href="./archive/00435_000.jpg" target="_blank">
-	<img src="./lowres/00435_000.jpg" alt="efke R100 127 film box outside" loading="lazy" width="500" height="318">
-</a>
-
-
-`UUID: 877813b4c98d406b8739c4310f0116a8`↓
-
-<a href="./archive/00435_001.jpg" target="_blank">
-	<img src="./lowres/00435_001.jpg" alt="efke R100 127 film box leaflet" loading="lazy" width="500" height="426">
-</a>
-
-
-`UUID: fb3873078df9491491a4ff63374d80d2`↓
-
-<a href="./archive/00435_002.jpg" target="_blank">
-	<img src="./lowres/00435_002.jpg" alt="efke R100 127 film box leaflet" loading="lazy" width="500" height="453">
 </a>
 
 #### [C-22] Kodak Kodacolor (ref: 5d25)
@@ -6902,20 +6923,6 @@ UUID  : fbe4ce2683e744b1b2ffae6b1c767f19
 	<img src="./lowres/00651_000.jpg" alt="Fujifilm 400 Speed Film 35mm film box outside" loading="lazy" width="415" height="500">
 </a>
 
-#### [C-41] Fujifilm Fujichrome Sensia 100 (ref: a859)
-
-```
-Format: 35mm         |  Process : C-41    
-ISO   : 100          |  Expiry  : 2004-06 
-Type  : Multi-Pack-3 |  Quantity: 36 exp  
-Added : 2025-09-03   |  Author  : @ellafridalindblom
-UUID  : ae2418a073074872aa2c46534649a859
-```
-
-<a href="./archive/00292_000.jpg" target="_blank">
-	<img src="./lowres/00292_000.jpg" alt="Fujifilm Fujichrome Sensia 100 35mm film box outside" loading="lazy" width="500" height="461">
-</a>
-
 #### [C-41] Fujifilm Fujicolor 100 (ref: 013b)
 
 ```
@@ -7595,7 +7602,7 @@ Notes : Nueva!!
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2005-01 
 Type  : Single Pack  |  Quantity: 12 exp  
-Added : 2026-10-19   |  Author  : shotbyliampewpew
+Added : 2026-10-19   |  Author  : @shotbyliampewpew
 UUID  : 36d2b73e478e45c5887cf5e34a4e9c36
 ```
 
@@ -11917,31 +11924,31 @@ UUID  : 2a1bac6a8b61403ca0161b7471449fb4
 </a>
 
 
-`UUID: 29e6e4090d54470b9fc63ca079c2f6f3`↓
+`UUID: 8d63de9af81f46b19ab91e1184627d40`↓
 
 <a href="./archive/00739_002.jpg" target="_blank">
-	<img src="./lowres/00739_002.jpg" alt="Fujifilm Fujichrome 100ix APS film box leaflet" loading="lazy" width="304" height="500">
+	<img src="./lowres/00739_002.jpg" alt="Fujifilm Fujichrome 100ix APS film box processing envelope" loading="lazy" width="304" height="500">
 </a>
 
 
-`UUID: 8d63de9af81f46b19ab91e1184627d40`↓
+`UUID: ec18aaa8718849c2bc80898859c85da2`↓
 
 <a href="./archive/00739_003.jpg" target="_blank">
 	<img src="./lowres/00739_003.jpg" alt="Fujifilm Fujichrome 100ix APS film box processing envelope" loading="lazy" width="304" height="500">
 </a>
 
 
-`UUID: ec18aaa8718849c2bc80898859c85da2`↓
+`UUID: 3460f60eff5d4793bd69dd3d8be66ab8`↓
 
 <a href="./archive/00739_004.jpg" target="_blank">
 	<img src="./lowres/00739_004.jpg" alt="Fujifilm Fujichrome 100ix APS film box processing envelope" loading="lazy" width="500" height="298">
 </a>
 
 
-`UUID: 3460f60eff5d4793bd69dd3d8be66ab8`↓
+`UUID: 29e6e4090d54470b9fc63ca079c2f6f3`↓
 
 <a href="./archive/00739_005.jpg" target="_blank">
-	<img src="./lowres/00739_005.jpg" alt="Fujifilm Fujichrome 100ix APS film box processing envelope" loading="lazy" width="277" height="500">
+	<img src="./lowres/00739_005.jpg" alt="Fujifilm Fujichrome 100ix APS film box leaflet" loading="lazy" width="277" height="500">
 </a>
 
 #### [E-6] Fujifilm Fujichrome 400 D (ref: 519e)
@@ -11950,7 +11957,7 @@ UUID  : 2a1bac6a8b61403ca0161b7471449fb4
 Format: 35mm         |  Process : E-6     
 ISO   : 400          |  Expiry  : 1989-08 
 Type  : Single Pack  |  Quantity: 36 exp  
-Added : 2026-10-19   |  Author  : shotbyliampewpew
+Added : 2026-10-19   |  Author  : @shotbyliampewpew
 UUID  : 1c4d20e55d834b55bc2e2e75bc72519e
 ```
 
@@ -12164,6 +12171,20 @@ UUID  : d4fdfa0d829f4fcab984381a31f2a59b
 	<img src="./lowres/00116_001.jpg" alt="Fujifilm Fujichrome Sensia 100 35mm film box inside" loading="lazy" width="418" height="500">
 </a>
 
+#### [E-6] Fujifilm Fujichrome Sensia 100 (ref: a859)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2004-06 
+Type  : Multi-Pack-3 |  Quantity: 36 exp  
+Added : 2025-09-03   |  Author  : @ellafridalindblom
+UUID  : ae2418a073074872aa2c46534649a859
+```
+
+<a href="./archive/00292_000.jpg" target="_blank">
+	<img src="./lowres/00292_000.jpg" alt="Fujifilm Fujichrome Sensia 100 35mm film box outside" loading="lazy" width="500" height="461">
+</a>
+
 #### [E-6] Fujifilm Fujichrome Sensia 200 (ref: 3a01)
 
 ```
@@ -12281,27 +12302,6 @@ UUID  : ee425a725d52448b95cb0664aabf9678
 
 <a href="./archive/00629_000.jpg" target="_blank">
 	<img src="./lowres/00629_000.jpg" alt="Fujifilm Velvia 50 35mm film box outside" loading="lazy" width="422" height="499">
-</a>
-
-
-`UUID: a332a7492f2b4a708c8a0ead5b9af986`↓
-
-<a href="./archive/00054_003.jpg" target="_blank">
-	<img src="./lowres/00054_003.jpg" alt="GAF Color Slide Film 126 film box processing envelope" loading="lazy" width="500" height="180">
-</a>
-
-
-`UUID: dd9347600c9a47299504239d1038f0dd`↓
-
-<a href="./archive/00054_004.jpg" target="_blank">
-	<img src="./lowres/00054_004.jpg" alt="GAF Color Slide Film 126 film box processing envelope" loading="lazy" width="500" height="146">
-</a>
-
-
-`UUID: 90cc6194552d42dd873d9af54a9bc283`↓
-
-<a href="./archive/00054_005.jpg" target="_blank">
-	<img src="./lowres/00054_005.jpg" alt="GAF Color Slide Film 126 film box processing envelope" loading="lazy" width="500" height="133">
 </a>
 
 #### [E-6] Hazenfilm Sorolla Chrome (ref: 889f)
@@ -15686,7 +15686,7 @@ UUID  : a1dea49e29ae412596b2b691ac3bdca5
 	<img src="./lowres/00533_004.jpg" alt="ORWO NC 19 120 film box leaflet" loading="lazy" width="206" height="499">
 </a>
 
-#### [Unknown] ORWO OWRO Color PC7 (ref: 08f0)
+#### [Unknown] ORWO ORWO Color PC7 (ref: 08f0)
 
 ```
 Format: 35mm         |  Process : Unknown 
@@ -15697,14 +15697,14 @@ UUID  : 0bd454e6225a4c5799d36e51135208f0
 ```
 
 <a href="./archive/00673_000.jpg" target="_blank">
-	<img src="./lowres/00673_000.jpg" alt="ORWO OWRO Color PC7 35mm film box outside" loading="lazy" width="477" height="499">
+	<img src="./lowres/00673_000.jpg" alt="ORWO ORWO Color PC7 35mm film box outside" loading="lazy" width="477" height="499">
 </a>
 
 
 `UUID: 6ec554be94e845f2b64e3fdc27833293`↓
 
 <a href="./archive/00673_001.jpg" target="_blank">
-	<img src="./lowres/00673_001.jpg" alt="ORWO OWRO Color PC7 35mm film box outside" loading="lazy" width="500" height="485">
+	<img src="./lowres/00673_001.jpg" alt="ORWO ORWO Color PC7 35mm film box outside" loading="lazy" width="500" height="485">
 </a>
 
 #### [Unknown] ORWO OrwoChrom UT18 (ref: 81b7)
@@ -16046,41 +16046,40 @@ Notes : Division of Film Corporation of America
 ```
 Rank  Username                  Contributions    Rank  Username                  Contributions
 ----------------------------------------------    ----------------------------------------------
-1     dekuNukem                 341              36    @toastergod101            7
-2     Luci 101                  102              37    @filmfotofella            7
-3     @Hol.m35                  74               38    dzindevis                 7
-4     @photos.by.qi             72               39    GreatGizmo74              6
-5     Pelicram                  71               40    nick                      6
-6     nyctomanica               70               41    Greg                      6
-7     @ellafridalindblom        67               42    Kristof Lemp              6
-8     @recycling.film           66               43    @gregrouxphotography      5
-9     Dialupdude                44               44    Tobias                    5
-10    Mauphoto                  28               45    @janjuudas                5
-11    The Compartmentalist      25               46    Henry Gunn                4
-12    Chrisbes                  22               47    TheSelousScout            4
-13    kaimon                    20               48    Vince Costello            4
-14    benjaminbeeroll           20               49    Rhiannon                  4
-15    @ob.skura                 19               50    @sachynmital              3
-16    fine-seat                 19               51    Tallbird Cowboy           3
-17    Camera.Riley              19               52    DaFujiDude                3
-18    Nano_Burger               18               53    whoman560                 3
-19    waldoboro                 18               54    Gergely Orsi              3
-20    toader                    17               55    @seklerek                 2
-21    yc128                     14               56    @ftfilmphotos             2
-22    b0baspace                 14               57    @tylerdrey                2
-23    @SirBrentsworth           13               58    Warren Umbach             2
-24    benikum                   12               59    @flyingcamerastudio       2
-25    u/ReeeSchmidtyWerber      11               60    @pommegranny              2
-26    @zruk_ts                  10               61    shotbyliampewpew          2
-27    minidiscus                10               62    @sl35hater                2
-28    green eggs and sam        10               63    Yrikonchik                1
-29    lilyu.xyz                 9                64    @ad.astra.per.aspera.1894 1
-30    Kraksen                   9                65    Aoi Yuki                  1
-31    lt_col_tall               9                66    lemoniter                 1
-32    MCB18                     9                67    @shotbyliampewpew         1
-33    reschmidt12               9                68    Joo                       1
-34    @efridalindblom           9                69    @titanic_159              1
-35    Rafa Laguillo             8                70    Constantino               1
+1     dekuNukem                 341              35    @toastergod101            7
+2     Luci 101                  102              36    @filmfotofella            7
+3     @ellafridalindblom        76               37    dzindevis                 7
+4     @Hol.m35                  74               38    GreatGizmo74              6
+5     @photos.by.qi             72               39    nick                      6
+6     Pelicram                  71               40    Greg                      6
+7     nyctomanica               70               41    Kristof Lemp              6
+8     @recycling.film           66               42    @gregrouxphotography      5
+9     Dialupdude                44               43    Tobias                    5
+10    Mauphoto                  28               44    @janjuudas                5
+11    The Compartmentalist      25               45    Henry Gunn                4
+12    Chrisbes                  22               46    TheSelousScout            4
+13    kaimon                    20               47    Vince Costello            4
+14    benjaminbeeroll           20               48    Rhiannon                  4
+15    @ob.skura                 19               49    @sachynmital              3
+16    fine-seat                 19               50    @shotbyliampewpew         3
+17    Camera.Riley              19               51    Tallbird Cowboy           3
+18    Nano_Burger               18               52    DaFujiDude                3
+19    waldoboro                 18               53    whoman560                 3
+20    toader                    17               54    Gergely Orsi              3
+21    yc128                     14               55    @seklerek                 2
+22    b0baspace                 14               56    @ftfilmphotos             2
+23    @SirBrentsworth           13               57    @tylerdrey                2
+24    benikum                   12               58    Warren Umbach             2
+25    u/ReeeSchmidtyWerber      11               59    @flyingcamerastudio       2
+26    @zruk_ts                  10               60    @pommegranny              2
+27    minidiscus                10               61    @sl35hater                2
+28    green eggs and sam        10               62    Yrikonchik                1
+29    lilyu.xyz                 9                63    @ad.astra.per.aspera.1894 1
+30    Kraksen                   9                64    Aoi Yuki                  1
+31    lt_col_tall               9                65    lemoniter                 1
+32    MCB18                     9                66    Joo                       1
+33    reschmidt12               9                67    @titanic_159              1
+34    Rafa Laguillo             8                68    Constantino               1
 ```
 
 ## Questions or Comments?

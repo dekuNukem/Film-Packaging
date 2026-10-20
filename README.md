@@ -53,53 +53,54 @@ Or Sort by...
 ```
 Rank  Username                  Contributions    Rank  Username                  Contributions
 ----------------------------------------------    ----------------------------------------------
-1     dekuNukem                 341              36    @toastergod101            7
-2     Luci 101                  102              37    @filmfotofella            7
-3     @Hol.m35                  74               38    dzindevis                 7
-4     @photos.by.qi             72               39    GreatGizmo74              6
-5     Pelicram                  71               40    nick                      6
-6     nyctomanica               70               41    Greg                      6
-7     @ellafridalindblom        67               42    Kristof Lemp              6
-8     @recycling.film           66               43    @gregrouxphotography      5
-9     Dialupdude                44               44    Tobias                    5
-10    Mauphoto                  28               45    @janjuudas                5
-11    The Compartmentalist      25               46    Henry Gunn                4
-12    Chrisbes                  22               47    TheSelousScout            4
-13    kaimon                    20               48    Vince Costello            4
-14    benjaminbeeroll           20               49    Rhiannon                  4
-15    @ob.skura                 19               50    @sachynmital              3
-16    fine-seat                 19               51    Tallbird Cowboy           3
-17    Camera.Riley              19               52    DaFujiDude                3
-18    Nano_Burger               18               53    whoman560                 3
-19    waldoboro                 18               54    Gergely Orsi              3
-20    toader                    17               55    @seklerek                 2
-21    yc128                     14               56    @ftfilmphotos             2
-22    b0baspace                 14               57    @tylerdrey                2
-23    @SirBrentsworth           13               58    Warren Umbach             2
-24    benikum                   12               59    @flyingcamerastudio       2
-25    u/ReeeSchmidtyWerber      11               60    @pommegranny              2
-26    @zruk_ts                  10               61    shotbyliampewpew          2
-27    minidiscus                10               62    @sl35hater                2
-28    green eggs and sam        10               63    Yrikonchik                1
-29    lilyu.xyz                 9                64    @ad.astra.per.aspera.1894 1
-30    Kraksen                   9                65    Aoi Yuki                  1
-31    lt_col_tall               9                66    lemoniter                 1
-32    MCB18                     9                67    @shotbyliampewpew         1
-33    reschmidt12               9                68    Joo                       1
-34    @efridalindblom           9                69    @titanic_159              1
-35    Rafa Laguillo             8                70    Constantino               1
+1     dekuNukem                 341              35    @toastergod101            7
+2     Luci 101                  102              36    @filmfotofella            7
+3     @ellafridalindblom        76               37    dzindevis                 7
+4     @Hol.m35                  74               38    GreatGizmo74              6
+5     @photos.by.qi             72               39    nick                      6
+6     Pelicram                  71               40    Greg                      6
+7     nyctomanica               70               41    Kristof Lemp              6
+8     @recycling.film           66               42    @gregrouxphotography      5
+9     Dialupdude                44               43    Tobias                    5
+10    Mauphoto                  28               44    @janjuudas                5
+11    The Compartmentalist      25               45    Henry Gunn                4
+12    Chrisbes                  22               46    TheSelousScout            4
+13    kaimon                    20               47    Vince Costello            4
+14    benjaminbeeroll           20               48    Rhiannon                  4
+15    @ob.skura                 19               49    @sachynmital              3
+16    fine-seat                 19               50    @shotbyliampewpew         3
+17    Camera.Riley              19               51    Tallbird Cowboy           3
+18    Nano_Burger               18               52    DaFujiDude                3
+19    waldoboro                 18               53    whoman560                 3
+20    toader                    17               54    Gergely Orsi              3
+21    yc128                     14               55    @seklerek                 2
+22    b0baspace                 14               56    @ftfilmphotos             2
+23    @SirBrentsworth           13               57    @tylerdrey                2
+24    benikum                   12               58    Warren Umbach             2
+25    u/ReeeSchmidtyWerber      11               59    @flyingcamerastudio       2
+26    @zruk_ts                  10               60    @pommegranny              2
+27    minidiscus                10               61    @sl35hater                2
+28    green eggs and sam        10               62    Yrikonchik                1
+29    lilyu.xyz                 9                63    @ad.astra.per.aspera.1894 1
+30    Kraksen                   9                64    Aoi Yuki                  1
+31    lt_col_tall               9                65    lemoniter                 1
+32    MCB18                     9                66    Joo                       1
+33    reschmidt12               9                67    @titanic_159              1
+34    Rafa Laguillo             8                68    Constantino               1
 ```
 
 ## Recent Activities
 
 ```
 2026-10-19
-  - @efridalindblom: Du Pont Defender X-F Pan
-  - @efridalindblom: Gevaert Panchromosa
-  - @efridalindblom: Goecker Extra rapid Emulsionsplade Ideal
-  - @efridalindblom: Hauff Pancola-Lichthoffrei
-  - @efridalindblom: Mimosa A.G Mimosa-Platte Finogran
-  - @efridalindblom: Seed Dry Plates
+  - @ellafridalindblom: Du Pont Defender X-F Pan
+  - @ellafridalindblom: Gevaert Panchromosa
+  - @ellafridalindblom: Goecker Extra rapid Emulsionsplade Ideal
+  - @ellafridalindblom: Hauff Pancola-Lichthoffrei
+  - @ellafridalindblom: Mimosa A.G Mimosa-Platte Finogran
+  - @ellafridalindblom: Seed Dry Plates
+  - @shotbyliampewpew: Fujifilm Fujichrome 400 D
+  - @shotbyliampewpew: Fujifilm Fujicolor Superia 100
   - @sl35hater: Fujifilm Superia
   - @sl35hater: Fujifilm Superia X-TRA
   - dekuNukem: Cyberpunk 400D Color Film AHU
@@ -123,8 +124,6 @@ Rank  Username                  Contributions    Rank  Username                 
   - reschmidt12: Kodak Ultramax 400
   - Rhiannon: Candido Candido400
   - Rhiannon: Star Foto Colour Film for Prints
-  - shotbyliampewpew: Fujifilm Fujichrome 400 D
-  - shotbyliampewpew: Fujifilm Fujicolor Superia 100
   - Vince Costello: Kodak Ektachrome 200
   - waldoboro: Yashica Film for Color Prints
   - whoman560: Kodak Gold
