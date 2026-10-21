@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 19 2026
-Unique items: 770
-Total scans : 1403
+Last Updated: Oct 21 2026
+Unique items: 771
+Total scans : 1404
 ```
 
 -----
@@ -293,6 +293,7 @@ Total scans : 1403
 - [[35mm] Cinemot Lisboa 1999 (ref: 6a4f)](#35mm-cinemot-lisboa-1999-ref-6a4f)
 - [[35mm] Club Color Natural Color System (ref: 813a)](#35mm-club-color-natural-color-system-ref-813a)
 - [[35mm] Cyberpunk 400D Color Film AHU (ref: 408d)](#35mm-cyberpunk-400d-color-film-ahu-ref-408d)
+- [[35mm] Cyberpunk 800T (ref: 553e)](#35mm-cyberpunk-800t-ref-553e)
 - [[35mm] Efiniti UXi Super 200 (ref: 471a)](#35mm-efiniti-uxi-super-200-ref-471a)
 - [[35mm] Efke KB-25 (ref: 4d17)](#35mm-efke-kb-25-ref-4d17)
 - [[35mm] Escura EDO ukiyo-e (ref: 5faa)](#35mm-escura-edo-ukiyo-e-ref-5faa)
@@ -6416,6 +6417,20 @@ UUID  : 1067b3c9c68648fa88e091affc68408d
 
 <a href="./archive/00738_000.jpg" target="_blank">
 	<img src="./lowres/00738_000.jpg" alt="Cyberpunk 400D Color Film AHU 35mm film box outside" loading="lazy" width="500" height="480">
+</a>
+
+#### [35mm] Cyberpunk 800T (ref: 553e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-21   |  Author  : @Hol.m35
+UUID  : 0f58b48fd91544a3b282e4577c4a553e
+```
+
+<a href="./archive/00775_000.jpg" target="_blank">
+	<img src="./lowres/00775_000.jpg" alt="Cyberpunk 800T 35mm film box outside" loading="lazy" width="500" height="458">
 </a>
 
 #### [35mm] Efiniti UXi Super 200 (ref: 471a)
@@ -16049,7 +16064,7 @@ Rank  Username                  Contributions    Rank  Username                 
 1     dekuNukem                 341              35    @toastergod101            7
 2     Luci 101                  102              36    @filmfotofella            7
 3     @ellafridalindblom        76               37    dzindevis                 7
-4     @Hol.m35                  74               38    GreatGizmo74              6
+4     @Hol.m35                  75               38    GreatGizmo74              6
 5     @photos.by.qi             72               39    nick                      6
 6     Pelicram                  71               40    Greg                      6
 7     nyctomanica               70               41    Kristof Lemp              6

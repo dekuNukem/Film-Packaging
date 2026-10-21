@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 19 2026
-Unique items: 770
-Total scans : 1403
+Last Updated: Oct 21 2026
+Unique items: 771
+Total scans : 1404
 ```
 
 -----
@@ -28,6 +28,7 @@ Total scans : 1403
 - [[@Hol.m35] Boots Colour Print Film (ref: a30f)](#holm35-boots-colour-print-film-ref-a30f)
 - [[@Hol.m35] Camera Film Photo Limited Kiki Pan 320 (ref: 3937)](#holm35-camera-film-photo-limited-kiki-pan-320-ref-3937)
 - [[@Hol.m35] Candido Color Negative Film 800 (ref: c39e)](#holm35-candido-color-negative-film-800-ref-c39e)
+- [[@Hol.m35] Cyberpunk 800T (ref: 553e)](#holm35-cyberpunk-800t-ref-553e)
 - [[@Hol.m35] Freestyle 500T (ref: 8073)](#holm35-freestyle-500t-ref-8073)
 - [[@Hol.m35] Fujifilm 400 (ref: 1f1d)](#holm35-fujifilm-400-ref-1f1d)
 - [[@Hol.m35] Fujifilm Fujicolor 100 (ref: ac71)](#holm35-fujifilm-fujicolor-100-ref-ac71)
@@ -899,6 +900,20 @@ UUID  : c4f0677d117446678179ccfafb84c39e
 
 <a href="./archive/00702_001.jpg" target="_blank">
 	<img src="./lowres/00702_001.jpg" alt="Candido Color Negative Film 800 35mm film box inside" loading="lazy" width="456" height="500">
+</a>
+
+#### [@Hol.m35] Cyberpunk 800T (ref: 553e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-21   |  Author  : @Hol.m35
+UUID  : 0f58b48fd91544a3b282e4577c4a553e
+```
+
+<a href="./archive/00775_000.jpg" target="_blank">
+	<img src="./lowres/00775_000.jpg" alt="Cyberpunk 800T 35mm film box outside" loading="lazy" width="500" height="458">
 </a>
 
 #### [@Hol.m35] Freestyle 500T (ref: 8073)
@@ -16049,7 +16064,7 @@ Rank  Username                  Contributions    Rank  Username                 
 1     dekuNukem                 341              35    @toastergod101            7
 2     Luci 101                  102              36    @filmfotofella            7
 3     @ellafridalindblom        76               37    dzindevis                 7
-4     @Hol.m35                  74               38    GreatGizmo74              6
+4     @Hol.m35                  75               38    GreatGizmo74              6
 5     @photos.by.qi             72               39    nick                      6
 6     Pelicram                  71               40    Greg                      6
 7     nyctomanica               70               41    Kristof Lemp              6

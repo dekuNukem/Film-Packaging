@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 19 2026
-Unique items: 770
-Total scans : 1403
+Last Updated: Oct 21 2026
+Unique items: 771
+Total scans : 1404
 ```
 
 Or Sort by...
@@ -56,7 +56,7 @@ Rank  Username                  Contributions    Rank  Username                 
 1     dekuNukem                 341              35    @toastergod101            7
 2     Luci 101                  102              36    @filmfotofella            7
 3     @ellafridalindblom        76               37    dzindevis                 7
-4     @Hol.m35                  74               38    GreatGizmo74              6
+4     @Hol.m35                  75               38    GreatGizmo74              6
 5     @photos.by.qi             72               39    nick                      6
 6     Pelicram                  71               40    Greg                      6
 7     nyctomanica               70               41    Kristof Lemp              6
@@ -92,6 +92,9 @@ Rank  Username                  Contributions    Rank  Username                 
 ## Recent Activities
 
 ```
+2026-10-21
+  - @Hol.m35: Cyberpunk 800T
+
 2026-10-19
   - @ellafridalindblom: Du Pont Defender X-F Pan
   - @ellafridalindblom: Gevaert Panchromosa
@@ -151,9 +154,6 @@ Rank  Username                  Contributions    Rank  Username                 
 2026-09-14
   - dekuNukem: Klick Extra Definition Multi Purpose Film
   - nyctomanica: Polaroid Viva
-
-2026-09-11
-  - DaFujiDude: Agfa APX 400
 ```
 
 ## Disclaimer

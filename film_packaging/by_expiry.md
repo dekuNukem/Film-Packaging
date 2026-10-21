@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 19 2026
-Unique items: 770
-Total scans : 1403
+Last Updated: Oct 21 2026
+Unique items: 771
+Total scans : 1404
 ```
 
 -----
@@ -739,6 +739,7 @@ Total scans : 1403
 - [[Unknown] Agfa Plaques Chromo Isolar (ref: 2c8a)](#unknown-agfa-plaques-chromo-isolar-ref-2c8a)
 - [[Unknown] Agfa Trockenplatten (ref: 0937)](#unknown-agfa-trockenplatten-ref-0937)
 - [[Unknown] Agfa Trockenplatten (ref: 41a8)](#unknown-agfa-trockenplatten-ref-41a8)
+- [[Unknown] Cyberpunk 800T (ref: 553e)](#unknown-cyberpunk-800t-ref-553e)
 - [[Unknown] Defender Extra Fast Panchromatic (ref: 348b)](#unknown-defender-extra-fast-panchromatic-ref-348b)
 - [[Unknown] Defender Extra Special Fast Panchromatic (ref: afcf)](#unknown-defender-extra-special-fast-panchromatic-ref-afcf)
 - [[Unknown] Defender Portrait HGS (ref: d69c)](#unknown-defender-portrait-hgs-ref-d69c)
@@ -15079,6 +15080,20 @@ UUID  : 80d64fa269454c5589109c68a40541a8
 	<img src="./lowres/00286_001.jpg" alt="Agfa Trockenplatten 9x12cm film box outside" loading="lazy" width="373" height="500">
 </a>
 
+#### [Unknown] Cyberpunk 800T (ref: 553e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-21   |  Author  : @Hol.m35
+UUID  : 0f58b48fd91544a3b282e4577c4a553e
+```
+
+<a href="./archive/00775_000.jpg" target="_blank">
+	<img src="./lowres/00775_000.jpg" alt="Cyberpunk 800T 35mm film box outside" loading="lazy" width="500" height="458">
+</a>
+
 #### [Unknown] Defender Extra Fast Panchromatic (ref: 348b)
 
 ```
@@ -16049,7 +16064,7 @@ Rank  Username                  Contributions    Rank  Username                 
 1     dekuNukem                 341              35    @toastergod101            7
 2     Luci 101                  102              36    @filmfotofella            7
 3     @ellafridalindblom        76               37    dzindevis                 7
-4     @Hol.m35                  74               38    GreatGizmo74              6
+4     @Hol.m35                  75               38    GreatGizmo74              6
 5     @photos.by.qi             72               39    nick                      6
 6     Pelicram                  71               40    Greg                      6
 7     nyctomanica               70               41    Kristof Lemp              6

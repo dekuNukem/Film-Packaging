@@ -15,13 +15,14 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 19 2026
-Unique items: 770
-Total scans : 1403
+Last Updated: Oct 21 2026
+Unique items: 771
+Total scans : 1404
 ```
 
 -----
 
+- [[2026-10-21] Cyberpunk 800T (ref: 553e)](#2026-10-21-cyberpunk-800t-ref-553e)
 - [[2026-10-19] Yashica Film for Color Prints (ref: 58b7)](#2026-10-19-yashica-film-for-color-prints-ref-58b7)
 - [[2026-10-19] Hauff Pancola-Lichthoffrei (ref: d1fb)](#2026-10-19-hauff-pancola-lichthoffrei-ref-d1fb)
 - [[2026-10-19] Mimosa A.G Mimosa-Platte Finogran (ref: 795e)](#2026-10-19-mimosa-ag-mimosa-platte-finogran-ref-795e)
@@ -795,6 +796,20 @@ Total scans : 1403
 
 
 -----
+
+#### [2026-10-21] Cyberpunk 800T (ref: 553e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-21   |  Author  : @Hol.m35
+UUID  : 0f58b48fd91544a3b282e4577c4a553e
+```
+
+<a href="./archive/00775_000.jpg" target="_blank">
+	<img src="./lowres/00775_000.jpg" alt="Cyberpunk 800T 35mm film box outside" loading="lazy" width="500" height="458">
+</a>
 
 #### [2026-10-19] Yashica Film for Color Prints (ref: 58b7)
 
@@ -16049,7 +16064,7 @@ Rank  Username                  Contributions    Rank  Username                 
 1     dekuNukem                 341              35    @toastergod101            7
 2     Luci 101                  102              36    @filmfotofella            7
 3     @ellafridalindblom        76               37    dzindevis                 7
-4     @Hol.m35                  74               38    GreatGizmo74              6
+4     @Hol.m35                  75               38    GreatGizmo74              6
 5     @photos.by.qi             72               39    nick                      6
 6     Pelicram                  71               40    Greg                      6
 7     nyctomanica               70               41    Kristof Lemp              6
