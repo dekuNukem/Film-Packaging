@@ -25,7 +25,7 @@ Total scans : 1404
 - [[2026-10-21] Cyberpunk 800T (ref: 553e)](#2026-10-21-cyberpunk-800t-ref-553e)
 - [[2026-10-19] Yashica Film for Color Prints (ref: 58b7)](#2026-10-19-yashica-film-for-color-prints-ref-58b7)
 - [[2026-10-19] Hauff Pancola-Lichthoffrei (ref: d1fb)](#2026-10-19-hauff-pancola-lichthoffrei-ref-d1fb)
-- [[2026-10-19] Mimosa A.G Mimosa-Platte Finogran (ref: 795e)](#2026-10-19-mimosa-ag-mimosa-platte-finogran-ref-795e)
+- [[2026-10-19] Mimosa A.G. Mimosa-Platte Finogran (ref: 795e)](#2026-10-19-mimosa-ag-mimosa-platte-finogran-ref-795e)
 - [[2026-10-19] Goecker Extra rapid Emulsionsplade Ideal (ref: 95c5)](#2026-10-19-goecker-extra-rapid-emulsionsplade-ideal-ref-95c5)
 - [[2026-10-19] Gevaert Panchromosa (ref: 0e63)](#2026-10-19-gevaert-panchromosa-ref-0e63)
 - [[2026-10-19] Seed Dry Plates (ref: 477d)](#2026-10-19-seed-dry-plates-ref-477d)
@@ -72,7 +72,7 @@ Total scans : 1404
 - [[2026-10-16] Kodak Ektachrome EPY (ref: 9aab)](#2026-10-16-kodak-ektachrome-epy-ref-9aab)
 - [[2026-10-16] Polaroid High Definition (ref: aad0)](#2026-10-16-polaroid-high-definition-ref-aad0)
 - [[2026-10-16] Ferrania Solaris FH Plus (ref: a505)](#2026-10-16-ferrania-solaris-fh-plus-ref-a505)
-- [[2026-10-16] Fujifilm nexia (ref: 2c29)](#2026-10-16-fujifilm-nexia-ref-2c29)
+- [[2026-10-16] Fujifilm Nexia (ref: 2c29)](#2026-10-16-fujifilm-nexia-ref-2c29)
 - [[2026-09-17] Lomography Redscale XR Negative (ref: e897)](#2026-09-17-lomography-redscale-xr-negative-ref-e897)
 - [[2026-09-17] Agfa APX 200 (ref: 9165)](#2026-09-17-agfa-apx-200-ref-9165)
 - [[2026-09-14] Polaroid Viva (ref: 271b)](#2026-09-14-polaroid-viva-ref-271b)
@@ -95,7 +95,7 @@ Total scans : 1404
 - [[2026-09-07] Stavanger Foto Frontier (ref: c51e)](#2026-09-07-stavanger-foto-frontier-ref-c51e)
 - [[2026-09-02] Lucky C400 (ref: a02c)](#2026-09-02-lucky-c400-ref-a02c)
 - [[2026-08-21] Kodak Technical Pan (ref: 951e)](#2026-08-21-kodak-technical-pan-ref-951e)
-- [[2026-08-21] Candido Color Negative Film 800 (ref: c39e)](#2026-08-21-candido-color-negative-film-800-ref-c39e)
+- [[2026-08-21] Candido Colour Negative Film 800 (ref: c39e)](#2026-08-21-candido-colour-negative-film-800-ref-c39e)
 - [[2026-08-21] Kodak Plus-X (ref: a250)](#2026-08-21-kodak-plus-x-ref-a250)
 - [[2026-08-21] Werlisa Werlisa Sport 100 (ref: d7fe)](#2026-08-21-werlisa-werlisa-sport-100-ref-d7fe)
 - [[2026-08-19] Hansa Hansacolor 100 Super Plus (ref: 67b2)](#2026-08-19-hansa-hansacolor-100-super-plus-ref-67b2)
@@ -201,7 +201,7 @@ Total scans : 1404
 - [[2026-06-16] Polaroid 100 Sepia Film (ref: 9893)](#2026-06-16-polaroid-100-sepia-film-ref-9893)
 - [[2026-06-16] Impossible Project PX 600 Silver Shade / First Flush (ref: 8636)](#2026-06-16-impossible-project-px-600-silver-shade--first-flush-ref-8636)
 - [[2026-06-16] Impossible Project PX 70 Color Shade / First Flush (ref: 1ad9)](#2026-06-16-impossible-project-px-70-color-shade--first-flush-ref-1ad9)
-- [[2026-06-16] Kodak Kodalith ortho film type 3 (ref: e5fd)](#2026-06-16-kodak-kodalith-ortho-film-type-3-ref-e5fd)
+- [[2026-06-16] Kodak Kodalith Ortho Film Type 3 (ref: e5fd)](#2026-06-16-kodak-kodalith-ortho-film-type-3-ref-e5fd)
 - [[2026-06-16] Kodak Hawkeye 2485 Surveillance Film (ref: 0037)](#2026-06-16-kodak-hawkeye-2485-surveillance-film-ref-0037)
 - [[2026-06-16] Kodak Kodacolor Gold (ref: 4ccd)](#2026-06-16-kodak-kodacolor-gold-ref-4ccd)
 - [[2026-06-16] Polaroid 100 Blue Film (ref: 93b8)](#2026-06-16-polaroid-100-blue-film-ref-93b8)
@@ -249,7 +249,7 @@ Total scans : 1404
 - [[2026-04-13] Fujifilm Fujicolor Superia Multi400 (ref: 69f7)](#2026-04-13-fujifilm-fujicolor-superia-multi400-ref-69f7)
 - [[2026-04-13] Lucky C200 (ref: b0cc)](#2026-04-13-lucky-c200-ref-b0cc)
 - [[2026-04-13] Lomography Berlin (ref: d3df)](#2026-04-13-lomography-berlin-ref-d3df)
-- [[2026-04-13] Lomography Postdam (ref: 2769)](#2026-04-13-lomography-postdam-ref-2769)
+- [[2026-04-13] Lomography Potsdam (ref: 2769)](#2026-04-13-lomography-potsdam-ref-2769)
 - [[2026-04-13] Agfa Agfacolor CNS2 (ref: d515)](#2026-04-13-agfa-agfacolor-cns2-ref-d515)
 - [[2026-04-13] Kodak Gold 200 (ref: 442d)](#2026-04-13-kodak-gold-200-ref-442d)
 - [[2026-04-13] Svema Foto 64 (ref: 481f)](#2026-04-13-svema-foto-64-ref-481f)
@@ -322,7 +322,7 @@ Total scans : 1404
 - [[2025-11-11] CineStill 800T (ref: 44c4)](#2025-11-11-cinestill-800t-ref-44c4)
 - [[2025-11-11] Polaroid Green 600 Film Reclaimed Series (ref: 0180)](#2025-11-11-polaroid-green-600-film-reclaimed-series-ref-0180)
 - [[2025-11-11] GT Photo GT24 (ref: 92c2)](#2025-11-11-gt-photo-gt24-ref-92c2)
-- [[2025-11-11] Lomography Postdam (ref: d0c6)](#2025-11-11-lomography-postdam-ref-d0c6)
+- [[2025-11-11] Lomography Potsdam (ref: d0c6)](#2025-11-11-lomography-potsdam-ref-d0c6)
 - [[2025-11-11] Lucky SHD400 (ref: 15b5)](#2025-11-11-lucky-shd400-ref-15b5)
 - [[2025-11-11] Lucky C200 (ref: e6f8)](#2025-11-11-lucky-c200-ref-e6f8)
 - [[2025-11-11] Foma Fomapan 400 Set (ref: 189e)](#2025-11-11-foma-fomapan-400-set-ref-189e)
@@ -372,7 +372,7 @@ Total scans : 1404
 - [[2025-10-21] Agfa CT Precisa 100 (ref: bc36)](#2025-10-21-agfa-ct-precisa-100-ref-bc36)
 - [[2025-10-21] Triple-Print Film Labs Color Negative Film (ref: 88e6)](#2025-10-21-triple-print-film-labs-color-negative-film-ref-88e6)
 - [[2025-10-21] Efke R100 (ref: 10ad)](#2025-10-21-efke-r100-ref-10ad)
-- [[2025-10-21] Northwest Custom Film Processing Ultra Minituature Film (ref: 70b1)](#2025-10-21-northwest-custom-film-processing-ultra-minituature-film-ref-70b1)
+- [[2025-10-21] Northwest Custom Film Processing Ultra Miniature Film (ref: 70b1)](#2025-10-21-northwest-custom-film-processing-ultra-miniature-film-ref-70b1)
 - [[2025-10-21] Kodak Plus-X (ref: 4b73)](#2025-10-21-kodak-plus-x-ref-4b73)
 - [[2025-10-21] Kodak Ektachrome-X (ref: c057)](#2025-10-21-kodak-ektachrome-x-ref-c057)
 - [[2025-10-21] Lomography Lobster Redscale Negative (ref: 4dcd)](#2025-10-21-lomography-lobster-redscale-negative-ref-4dcd)
@@ -607,7 +607,7 @@ Total scans : 1404
 - [[2025-08-16] Agfa Agfapan APX 100 (ref: e271)](#2025-08-16-agfa-agfapan-apx-100-ref-e271)
 - [[2025-08-16] Agfa Agfapan APX 400 (ref: 19bc)](#2025-08-16-agfa-agfapan-apx-400-ref-19bc)
 - [[2025-08-16] Kodak Black & White + (ref: 2ff3)](#2025-08-16-kodak-black-white-ref-2ff3)
-- [[2025-08-16] Marix Professional Negative Movie Color Film (ref: c457)](#2025-08-16-marix-professional-negative-movie-color-film-ref-c457)
+- [[2025-08-16] MarixFilm Professional Negative Movie Color Film (ref: c457)](#2025-08-16-marixfilm-professional-negative-movie-color-film-ref-c457)
 - [[2025-08-15] Foma Ortho 400 (ref: c559)](#2025-08-15-foma-ortho-400-ref-c559)
 - [[2025-08-15] Kentmere PAN 200 (ref: 0e32)](#2025-08-15-kentmere-pan-200-ref-0e32)
 - [[2025-08-15] Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#2025-08-15-mutascan-kodak-vision3-500t5219-ref-5150)
@@ -839,7 +839,7 @@ UUID  : 65af395f5a2e4e69aa598c055c1ad1fb
 	<img src="./lowres/00773_000.jpg" alt="Hauff Pancola-Lichthoffrei 12x16.5cm film box outside" loading="lazy" width="500" height="394">
 </a>
 
-#### [2026-10-19] Mimosa A.G Mimosa-Platte Finogran (ref: 795e)
+#### [2026-10-19] Mimosa A.G. Mimosa-Platte Finogran (ref: 795e)
 
 ```
 Format: 12x16.5cm    |  Process : BW      
@@ -850,7 +850,7 @@ UUID  : b6087c7a528d44ac83c246afe8e3795e
 ```
 
 <a href="./archive/00772_000.jpg" target="_blank">
-	<img src="./lowres/00772_000.jpg" alt="Mimosa A.G Mimosa-Platte Finogran 12x16.5cm film box outside" loading="lazy" width="500" height="366">
+	<img src="./lowres/00772_000.jpg" alt="Mimosa A.G. Mimosa-Platte Finogran 12x16.5cm film box outside" loading="lazy" width="500" height="366">
 </a>
 
 #### [2026-10-19] Goecker Extra rapid Emulsionsplade Ideal (ref: 95c5)
@@ -1466,7 +1466,7 @@ ISO   : 250          |  Expiry  : 2025-12
 Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-10-16   |  Author  : @Hol.m35
 UUID  : 803089daf04e458dba0237eb9801a290
-Notes : Panda Camera respooled double x.  No date on box but my order details tell me it expired 12.2025
+Notes : Panda Camera respooled double x. No date on box but my order details tell me it expired 12.2025
 ```
 
 <a href="./archive/00737_000.jpg" target="_blank">
@@ -1708,10 +1708,10 @@ UUID  : 6643e9740ddb4c99aa055164b295a505
 `UUID: 40fdd5df79f94fb39fcd9ade2ef1cac4`↓
 
 <a href="./archive/00725_001.jpg" target="_blank">
-	<img src="./lowres/00725_001.jpg" alt="Fujifilm nexia APS film box inside" loading="lazy" width="437" height="500">
+	<img src="./lowres/00725_001.jpg" alt="Fujifilm Nexia APS film box inside" loading="lazy" width="437" height="500">
 </a>
 
-#### [2026-10-16] Fujifilm nexia (ref: 2c29)
+#### [2026-10-16] Fujifilm Nexia (ref: 2c29)
 
 ```
 Format: APS          |  Process : C-41    
@@ -1722,7 +1722,7 @@ UUID  : 4d4296562e50437d927094a8e17f2c29
 ```
 
 <a href="./archive/00725_000.jpg" target="_blank">
-	<img src="./lowres/00725_000.jpg" alt="Fujifilm nexia APS film box outside" loading="lazy" width="433" height="500">
+	<img src="./lowres/00725_000.jpg" alt="Fujifilm Nexia APS film box outside" loading="lazy" width="433" height="500">
 </a>
 
 
@@ -2143,10 +2143,10 @@ UUID  : 79d06b422e074d53a6d37add1a0a951e
 `UUID: 07b09cec6d9948a2b546a3d122001e62`↓
 
 <a href="./archive/00702_001.jpg" target="_blank">
-	<img src="./lowres/00702_001.jpg" alt="Candido Color Negative Film 800 35mm film box inside" loading="lazy" width="456" height="500">
+	<img src="./lowres/00702_001.jpg" alt="Candido Colour Negative Film 800 35mm film box inside" loading="lazy" width="456" height="500">
 </a>
 
-#### [2026-08-21] Candido Color Negative Film 800 (ref: c39e)
+#### [2026-08-21] Candido Colour Negative Film 800 (ref: c39e)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -2157,7 +2157,7 @@ UUID  : c4f0677d117446678179ccfafb84c39e
 ```
 
 <a href="./archive/00702_000.jpg" target="_blank">
-	<img src="./lowres/00702_000.jpg" alt="Candido Color Negative Film 800 35mm film box outside" loading="lazy" width="402" height="500">
+	<img src="./lowres/00702_000.jpg" alt="Candido Colour Negative Film 800 35mm film box outside" loading="lazy" width="402" height="500">
 </a>
 
 #### [2026-08-21] Kodak Plus-X (ref: a250)
@@ -4172,7 +4172,7 @@ UUID  : 690311c1402d40eca1ced80f9af11ad9
 	<img src="./lowres/00597_000.jpg" alt="Impossible Project PX 70 Color Shade / First Flush Instant Integral Film film box outside" loading="lazy" width="478" height="500">
 </a>
 
-#### [2026-06-16] Kodak Kodalith ortho film type 3 (ref: e5fd)
+#### [2026-06-16] Kodak Kodalith Ortho Film Type 3 (ref: e5fd)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -4183,7 +4183,7 @@ UUID  : da9c265a3e194bd1ad83549961c6e5fd
 ```
 
 <a href="./archive/00596_000.jpg" target="_blank">
-	<img src="./lowres/00596_000.jpg" alt="Kodak Kodalith ortho film type 3 35mm film box outside" loading="lazy" width="486" height="500">
+	<img src="./lowres/00596_000.jpg" alt="Kodak Kodalith Ortho Film Type 3 35mm film box outside" loading="lazy" width="486" height="500">
 </a>
 
 
@@ -5101,10 +5101,10 @@ UUID  : f9c71bea8e0942ceab31c4f97ea6d3df
 `UUID: 4590b9bb4e264db4990e69e1b93862f4`↓
 
 <a href="./archive/00548_001.jpg" target="_blank">
-	<img src="./lowres/00548_001.jpg" alt="Lomography Postdam 120 film box outside" loading="lazy" width="500" height="363">
+	<img src="./lowres/00548_001.jpg" alt="Lomography Potsdam 120 film box outside" loading="lazy" width="500" height="363">
 </a>
 
-#### [2026-04-13] Lomography Postdam (ref: 2769)
+#### [2026-04-13] Lomography Potsdam (ref: 2769)
 
 ```
 Format: 120          |  Process : BW      
@@ -5115,7 +5115,7 @@ UUID  : 35d94ea6e97849ee876a5c61ee532769
 ```
 
 <a href="./archive/00548_000.jpg" target="_blank">
-	<img src="./lowres/00548_000.jpg" alt="Lomography Postdam 120 film box outside" loading="lazy" width="500" height="270">
+	<img src="./lowres/00548_000.jpg" alt="Lomography Potsdam 120 film box outside" loading="lazy" width="500" height="270">
 </a>
 
 #### [2026-04-13] Agfa Agfacolor CNS2 (ref: d515)
@@ -6643,10 +6643,10 @@ UUID  : 86ec0b0ed4b94390a23d2cb27e1792c2
 `UUID: 9e139b4e9ab140c096622312e9da5e1d`↓
 
 <a href="./archive/00475_001.jpg" target="_blank">
-	<img src="./lowres/00475_001.jpg" alt="Lomography Postdam 35mm film box inside" loading="lazy" width="500" height="371">
+	<img src="./lowres/00475_001.jpg" alt="Lomography Potsdam 35mm film box inside" loading="lazy" width="500" height="371">
 </a>
 
-#### [2025-11-11] Lomography Postdam (ref: d0c6)
+#### [2025-11-11] Lomography Potsdam (ref: d0c6)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -6654,11 +6654,11 @@ ISO   : 100          |  Expiry  : 2028-04
 Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-11-11   |  Author  : @Hol.m35
 UUID  : 89df57ba76fb4cc6ad09a663c463d0c6
-Notes : Black & White POSTDAM 35mm Kino Film
+Notes : Black & White POTSDAM 35mm Kino Film
 ```
 
 <a href="./archive/00475_000.jpg" target="_blank">
-	<img src="./lowres/00475_000.jpg" alt="Lomography Postdam 35mm film box outside" loading="lazy" width="500" height="401">
+	<img src="./lowres/00475_000.jpg" alt="Lomography Potsdam 35mm film box outside" loading="lazy" width="500" height="401">
 </a>
 
 
@@ -7722,17 +7722,17 @@ UUID  : 686490575de4412b9309d5d797af10ad
 `UUID: adc9a88efca146d687fba7dcb75501f0`↓
 
 <a href="./archive/00425_002.jpg" target="_blank">
-	<img src="./lowres/00425_002.jpg" alt="Northwest Custom Film Processing Ultra Minituature Film Unknown film box processing envelope" loading="lazy" width="500" height="218">
+	<img src="./lowres/00425_002.jpg" alt="Northwest Custom Film Processing Ultra Miniature Film Unknown film box processing envelope" loading="lazy" width="500" height="218">
 </a>
 
 
 `UUID: 273b6c40428c40acb9fee444125a0426`↓
 
 <a href="./archive/00425_001.jpg" target="_blank">
-	<img src="./lowres/00425_001.jpg" alt="Northwest Custom Film Processing Ultra Minituature Film Unknown film box processing envelope" loading="lazy" width="500" height="422">
+	<img src="./lowres/00425_001.jpg" alt="Northwest Custom Film Processing Ultra Miniature Film Unknown film box processing envelope" loading="lazy" width="500" height="422">
 </a>
 
-#### [2025-10-21] Northwest Custom Film Processing Ultra Minituature Film (ref: 70b1)
+#### [2025-10-21] Northwest Custom Film Processing Ultra Miniature Film (ref: 70b1)
 
 ```
 Format: Unknown      |  Process : Unknown 
@@ -7740,11 +7740,11 @@ ISO   : 64           |  Expiry  : Unknown
 Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : e01d49f304864a7d95976d57624370b1
-Notes : There was a roll of 127 ekfe R100 inside, not sure if it's the original, or someone put it there afterwards.
+Notes : There was a roll of 127 efke R100 inside, not sure if it's the original, or someone put it there afterwards.
 ```
 
 <a href="./archive/00425_000.jpg" target="_blank">
-	<img src="./lowres/00425_000.jpg" alt="Northwest Custom Film Processing Ultra Minituature Film Unknown film box outside" loading="lazy" width="500" height="368">
+	<img src="./lowres/00425_000.jpg" alt="Northwest Custom Film Processing Ultra Miniature Film Unknown film box outside" loading="lazy" width="500" height="368">
 </a>
 
 
@@ -12475,7 +12475,7 @@ UUID  : 8ae6d75c042c48318fa711a412b72ff3
 	<img src="./lowres/00189_000.jpg" alt="Kodak Black & White + 35mm film box outside" loading="lazy" width="395" height="500">
 </a>
 
-#### [2025-08-16] Marix Professional Negative Movie Color Film (ref: c457)
+#### [2025-08-16] MarixFilm Professional Negative Movie Color Film (ref: c457)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -12486,7 +12486,7 @@ UUID  : 715e5119d4b941d98ce52bcd8596c457
 ```
 
 <a href="./archive/00188_000.jpg" target="_blank">
-	<img src="./lowres/00188_000.jpg" alt="Marix Professional Negative Movie Color Film 35mm film box outside" loading="lazy" width="445" height="500">
+	<img src="./lowres/00188_000.jpg" alt="MarixFilm Professional Negative Movie Color Film 35mm film box outside" loading="lazy" width="445" height="500">
 </a>
 
 
@@ -16061,7 +16061,7 @@ UUID  : 36151f6b7cc045c2b43d7f5cbee41a5d
 ```
 Rank  Username                  Contributions    Rank  Username                  Contributions
 ----------------------------------------------    ----------------------------------------------
-1     dekuNukem                 341              35    @toastergod101            7
+1     dekuNukem                 343              35    @toastergod101            7
 2     Luci 101                  102              36    @filmfotofella            7
 3     @ellafridalindblom        76               37    dzindevis                 7
 4     @Hol.m35                  75               38    GreatGizmo74              6
@@ -16071,7 +16071,7 @@ Rank  Username                  Contributions    Rank  Username                 
 8     @recycling.film           66               42    @gregrouxphotography      5
 9     Dialupdude                44               43    Tobias                    5
 10    Mauphoto                  28               44    @janjuudas                5
-11    The Compartmentalist      25               45    Henry Gunn                4
+11    The Compartmentalist      24               45    Henry Gunn                4
 12    Chrisbes                  22               46    TheSelousScout            4
 13    kaimon                    20               47    Vince Costello            4
 14    benjaminbeeroll           20               48    Rhiannon                  4
@@ -16081,8 +16081,8 @@ Rank  Username                  Contributions    Rank  Username                 
 18    Nano_Burger               18               52    DaFujiDude                3
 19    waldoboro                 18               53    whoman560                 3
 20    toader                    17               54    Gergely Orsi              3
-21    yc128                     14               55    @seklerek                 2
-22    b0baspace                 14               56    @ftfilmphotos             2
+21    b0baspace                 14               55    @seklerek                 2
+22    yc128                     13               56    @ftfilmphotos             2
 23    @SirBrentsworth           13               57    @tylerdrey                2
 24    benikum                   12               58    Warren Umbach             2
 25    u/ReeeSchmidtyWerber      11               59    @flyingcamerastudio       2

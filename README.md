@@ -53,7 +53,7 @@ Or Sort by...
 ```
 Rank  Username                  Contributions    Rank  Username                  Contributions
 ----------------------------------------------    ----------------------------------------------
-1     dekuNukem                 341              35    @toastergod101            7
+1     dekuNukem                 343              35    @toastergod101            7
 2     Luci 101                  102              36    @filmfotofella            7
 3     @ellafridalindblom        76               37    dzindevis                 7
 4     @Hol.m35                  75               38    GreatGizmo74              6
@@ -63,7 +63,7 @@ Rank  Username                  Contributions    Rank  Username                 
 8     @recycling.film           66               42    @gregrouxphotography      5
 9     Dialupdude                44               43    Tobias                    5
 10    Mauphoto                  28               44    @janjuudas                5
-11    The Compartmentalist      25               45    Henry Gunn                4
+11    The Compartmentalist      24               45    Henry Gunn                4
 12    Chrisbes                  22               46    TheSelousScout            4
 13    kaimon                    20               47    Vince Costello            4
 14    benjaminbeeroll           20               48    Rhiannon                  4
@@ -73,8 +73,8 @@ Rank  Username                  Contributions    Rank  Username                 
 18    Nano_Burger               18               52    DaFujiDude                3
 19    waldoboro                 18               53    whoman560                 3
 20    toader                    17               54    Gergely Orsi              3
-21    yc128                     14               55    @seklerek                 2
-22    b0baspace                 14               56    @ftfilmphotos             2
+21    b0baspace                 14               55    @seklerek                 2
+22    yc128                     13               56    @ftfilmphotos             2
 23    @SirBrentsworth           13               57    @tylerdrey                2
 24    benikum                   12               58    Warren Umbach             2
 25    u/ReeeSchmidtyWerber      11               59    @flyingcamerastudio       2
@@ -100,7 +100,7 @@ Rank  Username                  Contributions    Rank  Username                 
   - @ellafridalindblom: Gevaert Panchromosa
   - @ellafridalindblom: Goecker Extra rapid Emulsionsplade Ideal
   - @ellafridalindblom: Hauff Pancola-Lichthoffrei
-  - @ellafridalindblom: Mimosa A.G Mimosa-Platte Finogran
+  - @ellafridalindblom: Mimosa A.G. Mimosa-Platte Finogran
   - @ellafridalindblom: Seed Dry Plates
   - @shotbyliampewpew: Fujifilm Fujichrome 400 D
   - @shotbyliampewpew: Fujifilm Fujicolor Superia 100
@@ -137,7 +137,7 @@ Rank  Username                  Contributions    Rank  Username                 
   - @Hol.m35: PandaCamera DoubleX
   - Chrisbes: Leica Monopan 50
   - Dialupdude: Ferrania Solaris FH Plus
-  - Dialupdude: Fujifilm nexia
+  - Dialupdude: Fujifilm Nexia
   - Dialupdude: Ilford Delta 400 Professional Collector's Edition
   - Dialupdude: Kodak Ektachrome EPT
   - Dialupdude: Kodak Ektachrome EPY
