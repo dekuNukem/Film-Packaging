@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 21 2026
-Unique items: 771
-Total scans : 1404
+Last Updated: Nov 02 2026
+Unique items: 774
+Total scans : 1407
 ```
 
 -----
@@ -92,6 +92,7 @@ Total scans : 1404
 - [[@ellafridalindblom] Defender Extra Special Fast Panchromatic (ref: afcf)](#ellafridalindblom-defender-extra-special-fast-panchromatic-ref-afcf)
 - [[@ellafridalindblom] Defender Portrait HGS (ref: d69c)](#ellafridalindblom-defender-portrait-hgs-ref-d69c)
 - [[@ellafridalindblom] Du Pont Defender X-F Pan (ref: d495)](#ellafridalindblom-du-pont-defender-x-f-pan-ref-d495)
+- [[@ellafridalindblom] Foma Repro (ref: f1d2)](#ellafridalindblom-foma-repro-ref-f1d2)
 - [[@ellafridalindblom] Foton Fotopan F (ref: 0ad6)](#ellafridalindblom-foton-fotopan-f-ref-0ad6)
 - [[@ellafridalindblom] Fujifilm Fujichrome 64T (ref: 311b)](#ellafridalindblom-fujifilm-fujichrome-64t-ref-311b)
 - [[@ellafridalindblom] Fujifilm Fujichrome Sensia 100 (ref: a859)](#ellafridalindblom-fujifilm-fujichrome-sensia-100-ref-a859)
@@ -126,6 +127,8 @@ Total scans : 1404
 - [[@ellafridalindblom] Konica Infrared 750nm (ref: 6b0e)](#ellafridalindblom-konica-infrared-750nm-ref-6b0e)
 - [[@ellafridalindblom] Konica Sepia Professional (ref: 0b40)](#ellafridalindblom-konica-sepia-professional-ref-0b40)
 - [[@ellafridalindblom] Konica Minolta Commercial Color Film (ref: e903)](#ellafridalindblom-konica-minolta-commercial-color-film-ref-e903)
+- [[@ellafridalindblom] Mimosa Porträtyp (ref: e547)](#ellafridalindblom-mimosa-porträtyp-ref-e547)
+- [[@ellafridalindblom] Mimosa Porträtyp-Antihalo (ref: 7200)](#ellafridalindblom-mimosa-porträtyp-antihalo-ref-7200)
 - [[@ellafridalindblom] Mimosa A.G. Mimosa-Platte Finogran (ref: 795e)](#ellafridalindblom-mimosa-ag-mimosa-platte-finogran-ref-795e)
 - [[@ellafridalindblom] Phöbus-Platten Sheet Film (ref: d505)](#ellafridalindblom-phöbus-platten-sheet-film-ref-d505)
 - [[@ellafridalindblom] Polaroid Green 600 Film Reclaimed Series (ref: 0180)](#ellafridalindblom-polaroid-green-600-film-reclaimed-series-ref-0180)
@@ -2011,6 +2014,20 @@ UUID  : a911ae0b9fe944ec8a37ac58d970d495
 	<img src="./lowres/00767_002.jpg" alt="Du Pont Defender X-F Pan Unknown film box leaflet" loading="lazy" width="500" height="414">
 </a>
 
+#### [@ellafridalindblom] Foma Repro (ref: f1d2)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 sheets
+Added : 2026-11-02   |  Author  : @ellafridalindblom
+UUID  : d69c094564e8477ba57269b2c13df1d2
+```
+
+<a href="./archive/00776_000.jpg" target="_blank">
+	<img src="./lowres/00776_000.jpg" alt="Foma Repro 9x12cm film box outside" loading="lazy" width="500" height="395">
+</a>
+
 #### [@ellafridalindblom] Foton Fotopan F (ref: 0ad6)
 
 ```
@@ -2621,6 +2638,34 @@ UUID  : 0b703dc8e8c74e8b9dd3215fa370e903
 
 <a href="./archive/00291_000.jpg" target="_blank">
 	<img src="./lowres/00291_000.jpg" alt="Konica Minolta Commercial Color Film 35mm film box outside" loading="lazy" width="451" height="500">
+</a>
+
+#### [@ellafridalindblom] Mimosa Porträtyp (ref: e547)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : 64           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 plates
+Added : 2026-11-02   |  Author  : @ellafridalindblom
+UUID  : d68c3af6c1b8462bbb3f809ef0aae547
+```
+
+<a href="./archive/00778_000.jpg" target="_blank">
+	<img src="./lowres/00778_000.jpg" alt="Mimosa Porträtyp 9x12cm film box outside" loading="lazy" width="500" height="395">
+</a>
+
+#### [@ellafridalindblom] Mimosa Porträtyp-Antihalo (ref: 7200)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : 64           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 plates
+Added : 2026-11-02   |  Author  : @ellafridalindblom
+UUID  : 7d28252558f548f8a3c7e43bdffc7200
+```
+
+<a href="./archive/00777_000.jpg" target="_blank">
+	<img src="./lowres/00777_000.jpg" alt="Mimosa Porträtyp-Antihalo 9x12cm film box outside" loading="lazy" width="500" height="395">
 </a>
 
 #### [@ellafridalindblom] Mimosa A.G. Mimosa-Platte Finogran (ref: 795e)
@@ -16063,7 +16108,7 @@ Rank  Username                  Contributions    Rank  Username                 
 ----------------------------------------------    ----------------------------------------------
 1     dekuNukem                 343              35    @toastergod101            7
 2     Luci 101                  102              36    @filmfotofella            7
-3     @ellafridalindblom        76               37    dzindevis                 7
+3     @ellafridalindblom        79               37    dzindevis                 7
 4     @Hol.m35                  75               38    GreatGizmo74              6
 5     @photos.by.qi             72               39    nick                      6
 6     Pelicram                  71               40    Greg                      6
