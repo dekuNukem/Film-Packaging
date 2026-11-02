@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 21 2026
-Unique items: 771
-Total scans : 1404
+Last Updated: Nov 02 2026
+Unique items: 774
+Total scans : 1407
 ```
 
 -----
@@ -91,6 +91,7 @@ Total scans : 1404
 - [[BW] Foma Fomapan21 (ref: 75d9)](#bw-foma-fomapan21-ref-75d9)
 - [[BW] Foma Ortho 400 (ref: 89e7)](#bw-foma-ortho-400-ref-89e7)
 - [[BW] Foma Ortho 400 (ref: c559)](#bw-foma-ortho-400-ref-c559)
+- [[BW] Foma Repro (ref: f1d2)](#bw-foma-repro-ref-f1d2)
 - [[BW] Forte Fortepan Super Film (ref: 2caa)](#bw-forte-fortepan-super-film-ref-2caa)
 - [[BW] Foton Fotopan CD (ref: 6ba7)](#bw-foton-fotopan-cd-ref-6ba7)
 - [[BW] Foton Fotopan F (ref: 0ad6)](#bw-foton-fotopan-f-ref-0ad6)
@@ -236,6 +237,8 @@ Total scans : 1404
 - [[BW] Lucky SHD 100 New Generation (ref: 23f6)](#bw-lucky-shd-100-new-generation-ref-23f6)
 - [[BW] Lucky SHD400 (ref: 15b5)](#bw-lucky-shd400-ref-15b5)
 - [[BW] Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides (ref: a44b)](#bw-lumière-union-photographique-industrielle-plaques-au-gélatino-bromure-dargent-extra-rapides-ref-a44b)
+- [[BW] Mimosa Porträtyp (ref: e547)](#bw-mimosa-porträtyp-ref-e547)
+- [[BW] Mimosa Porträtyp-Antihalo (ref: 7200)](#bw-mimosa-porträtyp-antihalo-ref-7200)
 - [[BW] Mimosa A.G Mimosa-Platte Finogran (ref: 795e)](#bw-mimosa-ag-mimosa-platte-finogran-ref-795e)
 - [[BW] Minolta 16 Black & White Fast Fine Grain Film (ref: fd30)](#bw-minolta-16-black-white-fast-fine-grain-film-ref-fd30)
 - [[BW] Mr. Negative Black Cat (ref: cc7d)](#bw-mr-negative-black-cat-ref-cc7d)
@@ -2174,6 +2177,20 @@ UUID  : 676655ff95914769b0869d71d824c559
 
 <a href="./archive/00187_001.jpg" target="_blank">
 	<img src="./lowres/00187_001.jpg" alt="Foma Ortho 400 35mm film box inside" loading="lazy" width="441" height="500">
+</a>
+
+#### [BW] Foma Repro (ref: f1d2)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 sheets
+Added : 2026-11-02   |  Author  : @ellafridalindblom
+UUID  : d69c094564e8477ba57269b2c13df1d2
+```
+
+<a href="./archive/00776_000.jpg" target="_blank">
+	<img src="./lowres/00776_000.jpg" alt="Foma Repro 9x12cm film box outside" loading="lazy" width="500" height="395">
 </a>
 
 #### [BW] Forte Fortepan Super Film (ref: 2caa)
@@ -4938,6 +4955,34 @@ UUID  : bb45ef5b684b4606b02cc7f9fb16a44b
 
 <a href="./archive/00692_000.jpg" target="_blank">
 	<img src="./lowres/00692_000.jpg" alt="Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides 9x12cm film box outside" loading="lazy" width="338" height="500">
+</a>
+
+#### [BW] Mimosa Porträtyp (ref: e547)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : 64           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 plates
+Added : 2026-11-02   |  Author  : @ellafridalindblom
+UUID  : d68c3af6c1b8462bbb3f809ef0aae547
+```
+
+<a href="./archive/00778_000.jpg" target="_blank">
+	<img src="./lowres/00778_000.jpg" alt="Mimosa Porträtyp 9x12cm film box outside" loading="lazy" width="500" height="395">
+</a>
+
+#### [BW] Mimosa Porträtyp-Antihalo (ref: 7200)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : 64           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 plates
+Added : 2026-11-02   |  Author  : @ellafridalindblom
+UUID  : 7d28252558f548f8a3c7e43bdffc7200
+```
+
+<a href="./archive/00777_000.jpg" target="_blank">
+	<img src="./lowres/00777_000.jpg" alt="Mimosa Porträtyp-Antihalo 9x12cm film box outside" loading="lazy" width="500" height="395">
 </a>
 
 #### [BW] Mimosa A.G Mimosa-Platte Finogran (ref: 795e)
@@ -16063,7 +16108,7 @@ Rank  Username                  Contributions    Rank  Username                 
 ----------------------------------------------    ----------------------------------------------
 1     dekuNukem                 341              35    @toastergod101            7
 2     Luci 101                  102              36    @filmfotofella            7
-3     @ellafridalindblom        76               37    dzindevis                 7
+3     @ellafridalindblom        79               37    dzindevis                 7
 4     @Hol.m35                  75               38    GreatGizmo74              6
 5     @photos.by.qi             72               39    nick                      6
 6     Pelicram                  71               40    Greg                      6

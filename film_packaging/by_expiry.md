@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 21 2026
-Unique items: 771
-Total scans : 1404
+Last Updated: Nov 02 2026
+Unique items: 774
+Total scans : 1407
 ```
 
 -----
@@ -747,6 +747,7 @@ Total scans : 1404
 - [[Unknown] Ferrania Solaris FG Plus (ref: 78b7)](#unknown-ferrania-solaris-fg-plus-ref-78b7)
 - [[Unknown] Film Corporation of America TriFCA 120 (ref: 9937)](#unknown-film-corporation-of-america-trifca-120-ref-9937)
 - [[Unknown] Film Photography Project FPP 620 Black & White Panchromatic Negative Film (ref: 60ce)](#unknown-film-photography-project-fpp-620-black-white-panchromatic-negative-film-ref-60ce)
+- [[Unknown] Foma Repro (ref: f1d2)](#unknown-foma-repro-ref-f1d2)
 - [[Unknown] Freestyle 500T (ref: 8073)](#unknown-freestyle-500t-ref-8073)
 - [[Unknown] Gevaert Infra-R (ref: fc88)](#unknown-gevaert-infra-r-ref-fc88)
 - [[Unknown] Gevaert Panchromosa (ref: 0e63)](#unknown-gevaert-panchromosa-ref-0e63)
@@ -769,6 +770,8 @@ Total scans : 1404
 - [[Unknown] Kodak Super-sensitive Panchromatic Films (ref: 21a0)](#unknown-kodak-super-sensitive-panchromatic-films-ref-21a0)
 - [[Unknown] Kodak Tri-X 400 Pro (ref: f05c)](#unknown-kodak-tri-x-400-pro-ref-f05c)
 - [[Unknown] Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides (ref: a44b)](#unknown-lumière-union-photographique-industrielle-plaques-au-gélatino-bromure-dargent-extra-rapides-ref-a44b)
+- [[Unknown] Mimosa Porträtyp (ref: e547)](#unknown-mimosa-porträtyp-ref-e547)
+- [[Unknown] Mimosa Porträtyp-Antihalo (ref: 7200)](#unknown-mimosa-porträtyp-antihalo-ref-7200)
 - [[Unknown] Mimosa A.G Mimosa-Platte Finogran (ref: 795e)](#unknown-mimosa-ag-mimosa-platte-finogran-ref-795e)
 - [[Unknown] Minox MinoColor 100 Pro (ref: 5338)](#unknown-minox-minocolor-100-pro-ref-5338)
 - [[Unknown] Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#unknown-mutascan-kodak-vision3-500t5219-ref-5150)
@@ -15242,6 +15245,20 @@ UUID  : 6b7dc0000a5f493caa53c841c3ce60ce
 	<img src="./lowres/00499_001.jpg" alt="Film Photography Project FPP 620 Black & White Panchromatic Negative Film 620 film box inside" loading="lazy" width="500" height="458">
 </a>
 
+#### [Unknown] Foma Repro (ref: f1d2)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 sheets
+Added : 2026-11-02   |  Author  : @ellafridalindblom
+UUID  : d69c094564e8477ba57269b2c13df1d2
+```
+
+<a href="./archive/00776_000.jpg" target="_blank">
+	<img src="./lowres/00776_000.jpg" alt="Foma Repro 9x12cm film box outside" loading="lazy" width="500" height="395">
+</a>
+
 #### [Unknown] Freestyle 500T (ref: 8073)
 
 ```
@@ -15613,6 +15630,34 @@ UUID  : bb45ef5b684b4606b02cc7f9fb16a44b
 
 <a href="./archive/00692_000.jpg" target="_blank">
 	<img src="./lowres/00692_000.jpg" alt="Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides 9x12cm film box outside" loading="lazy" width="338" height="500">
+</a>
+
+#### [Unknown] Mimosa Porträtyp (ref: e547)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : 64           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 plates
+Added : 2026-11-02   |  Author  : @ellafridalindblom
+UUID  : d68c3af6c1b8462bbb3f809ef0aae547
+```
+
+<a href="./archive/00778_000.jpg" target="_blank">
+	<img src="./lowres/00778_000.jpg" alt="Mimosa Porträtyp 9x12cm film box outside" loading="lazy" width="500" height="395">
+</a>
+
+#### [Unknown] Mimosa Porträtyp-Antihalo (ref: 7200)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : 64           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 plates
+Added : 2026-11-02   |  Author  : @ellafridalindblom
+UUID  : 7d28252558f548f8a3c7e43bdffc7200
+```
+
+<a href="./archive/00777_000.jpg" target="_blank">
+	<img src="./lowres/00777_000.jpg" alt="Mimosa Porträtyp-Antihalo 9x12cm film box outside" loading="lazy" width="500" height="395">
 </a>
 
 #### [Unknown] Mimosa A.G Mimosa-Platte Finogran (ref: 795e)
@@ -16063,7 +16108,7 @@ Rank  Username                  Contributions    Rank  Username                 
 ----------------------------------------------    ----------------------------------------------
 1     dekuNukem                 341              35    @toastergod101            7
 2     Luci 101                  102              36    @filmfotofella            7
-3     @ellafridalindblom        76               37    dzindevis                 7
+3     @ellafridalindblom        79               37    dzindevis                 7
 4     @Hol.m35                  75               38    GreatGizmo74              6
 5     @photos.by.qi             72               39    nick                      6
 6     Pelicram                  71               40    Greg                      6

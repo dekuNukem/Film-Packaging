@@ -73,7 +73,8 @@ NON_NUMERIC_QUANTITY_LIST = ["N/A", "Unknown"]
 
 def ask_quantity():
     while True:
-        user_answer = ask_with_listing_existing_options(ITEM_QUANTITY_KEY)
+        key_attri = find_key_attributes(ITEM_QUANTITY_KEY)
+        user_answer = get_answer(f"What is {colored(ITEM_QUANTITY_KEY, alert_color)}? ({key_attri.notes}, or one of {NON_NUMERIC_QUANTITY_LIST})\n")
         if is_number(user_answer) or user_answer in NON_NUMERIC_QUANTITY_LIST:
             return user_answer
         print(colored(f"Quantity must be a number (unit is asked next), or one of {NON_NUMERIC_QUANTITY_LIST}", alert_color))

@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 21 2026
-Unique items: 771
-Total scans : 1404
+Last Updated: Nov 02 2026
+Unique items: 774
+Total scans : 1407
 ```
 
 -----
@@ -710,8 +710,11 @@ Total scans : 1404
 - [[9x12cm] Agfa Extra Rapid Platten (ref: 7418)](#9x12cm-agfa-extra-rapid-platten-ref-7418)
 - [[9x12cm] Agfa Trockenplatten (ref: 0937)](#9x12cm-agfa-trockenplatten-ref-0937)
 - [[9x12cm] Agfa Trockenplatten (ref: 41a8)](#9x12cm-agfa-trockenplatten-ref-41a8)
+- [[9x12cm] Foma Repro (ref: f1d2)](#9x12cm-foma-repro-ref-f1d2)
 - [[9x12cm] Goecker Extra rapid Emulsionsplade Ideal (ref: 95c5)](#9x12cm-goecker-extra-rapid-emulsionsplade-ideal-ref-95c5)
 - [[9x12cm] Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides (ref: a44b)](#9x12cm-lumière-union-photographique-industrielle-plaques-au-gélatino-bromure-dargent-extra-rapides-ref-a44b)
+- [[9x12cm] Mimosa Porträtyp (ref: e547)](#9x12cm-mimosa-porträtyp-ref-e547)
+- [[9x12cm] Mimosa Porträtyp-Antihalo (ref: 7200)](#9x12cm-mimosa-porträtyp-antihalo-ref-7200)
 - [[9x12cm] Perutz Superomnia (ref: c90d)](#9x12cm-perutz-superomnia-ref-c90d)
 - [[9x12cm] Seed Dry Plates (ref: ad62)](#9x12cm-seed-dry-plates-ref-ad62)
 - [[APS] Fujifilm Fujichrome 100ix (ref: 9fb4)](#aps-fujifilm-fujichrome-100ix-ref-9fb4)
@@ -14362,6 +14365,20 @@ UUID  : 80d64fa269454c5589109c68a40541a8
 	<img src="./lowres/00286_001.jpg" alt="Agfa Trockenplatten 9x12cm film box outside" loading="lazy" width="373" height="500">
 </a>
 
+#### [9x12cm] Foma Repro (ref: f1d2)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 sheets
+Added : 2026-11-02   |  Author  : @ellafridalindblom
+UUID  : d69c094564e8477ba57269b2c13df1d2
+```
+
+<a href="./archive/00776_000.jpg" target="_blank">
+	<img src="./lowres/00776_000.jpg" alt="Foma Repro 9x12cm film box outside" loading="lazy" width="500" height="395">
+</a>
+
 #### [9x12cm] Goecker Extra rapid Emulsionsplade Ideal (ref: 95c5)
 
 ```
@@ -14388,6 +14405,34 @@ UUID  : bb45ef5b684b4606b02cc7f9fb16a44b
 
 <a href="./archive/00692_000.jpg" target="_blank">
 	<img src="./lowres/00692_000.jpg" alt="Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides 9x12cm film box outside" loading="lazy" width="338" height="500">
+</a>
+
+#### [9x12cm] Mimosa Porträtyp (ref: e547)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : 64           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 plates
+Added : 2026-11-02   |  Author  : @ellafridalindblom
+UUID  : d68c3af6c1b8462bbb3f809ef0aae547
+```
+
+<a href="./archive/00778_000.jpg" target="_blank">
+	<img src="./lowres/00778_000.jpg" alt="Mimosa Porträtyp 9x12cm film box outside" loading="lazy" width="500" height="395">
+</a>
+
+#### [9x12cm] Mimosa Porträtyp-Antihalo (ref: 7200)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : 64           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 plates
+Added : 2026-11-02   |  Author  : @ellafridalindblom
+UUID  : 7d28252558f548f8a3c7e43bdffc7200
+```
+
+<a href="./archive/00777_000.jpg" target="_blank">
+	<img src="./lowres/00777_000.jpg" alt="Mimosa Porträtyp-Antihalo 9x12cm film box outside" loading="lazy" width="500" height="395">
 </a>
 
 #### [9x12cm] Perutz Superomnia (ref: c90d)
@@ -16063,7 +16108,7 @@ Rank  Username                  Contributions    Rank  Username                 
 ----------------------------------------------    ----------------------------------------------
 1     dekuNukem                 341              35    @toastergod101            7
 2     Luci 101                  102              36    @filmfotofella            7
-3     @ellafridalindblom        76               37    dzindevis                 7
+3     @ellafridalindblom        79               37    dzindevis                 7
 4     @Hol.m35                  75               38    GreatGizmo74              6
 5     @photos.by.qi             72               39    nick                      6
 6     Pelicram                  71               40    Greg                      6

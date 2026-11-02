@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Oct 21 2026
-Unique items: 771
-Total scans : 1404
+Last Updated: Nov 02 2026
+Unique items: 774
+Total scans : 1407
 ```
 
 Or Sort by...
@@ -55,7 +55,7 @@ Rank  Username                  Contributions    Rank  Username                 
 ----------------------------------------------    ----------------------------------------------
 1     dekuNukem                 341              35    @toastergod101            7
 2     Luci 101                  102              36    @filmfotofella            7
-3     @ellafridalindblom        76               37    dzindevis                 7
+3     @ellafridalindblom        79               37    dzindevis                 7
 4     @Hol.m35                  75               38    GreatGizmo74              6
 5     @photos.by.qi             72               39    nick                      6
 6     Pelicram                  71               40    Greg                      6
@@ -92,6 +92,11 @@ Rank  Username                  Contributions    Rank  Username                 
 ## Recent Activities
 
 ```
+2026-11-02
+  - @ellafridalindblom: Foma Repro
+  - @ellafridalindblom: Mimosa Porträtyp
+  - @ellafridalindblom: Mimosa Porträtyp-Antihalo
+
 2026-10-21
   - @Hol.m35: Cyberpunk 800T
 
@@ -150,10 +155,6 @@ Rank  Username                  Contributions    Rank  Username                 
 2026-09-17
   - @Hol.m35: Lomography Redscale XR Negative
   - DaFujiDude: Agfa APX 200
-
-2026-09-14
-  - dekuNukem: Klick Extra Definition Multi Purpose Film
-  - nyctomanica: Polaroid Viva
 ```
 
 ## Disclaimer

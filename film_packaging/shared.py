@@ -86,7 +86,7 @@ this_key = my_attribute()
 this_key.db_name = ITEM_QUANTITY_KEY
 this_key.display_name = "Quantity"
 this_key.no_need_to_ask = False
-this_key.list_existing = True
+this_key.list_existing = False
 this_key.notes = "24, 100, etc"
 record_key_list.append(this_key)
 
