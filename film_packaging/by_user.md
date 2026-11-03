@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Nov 02 2026
-Unique items: 774
-Total scans : 1407
+Last Updated: Nov 03 2026
+Unique items: 777
+Total scans : 1410
 ```
 
 -----
@@ -226,6 +226,7 @@ Total scans : 1407
 - [[@recycling.film] Ilford HP5 Plus (ref: 072e)](#recyclingfilm-ilford-hp5-plus-ref-072e)
 - [[@recycling.film] Ilford HP5 Plus (ref: c725)](#recyclingfilm-ilford-hp5-plus-ref-c725)
 - [[@recycling.film] Ilford XP2 (ref: 7d94)](#recyclingfilm-ilford-xp2-ref-7d94)
+- [[@recycling.film] Kids Station Toys Batman Returns High Quality 35mm Print Film (ref: 85fa)](#recyclingfilm-kids-station-toys-batman-returns-high-quality-35mm-print-film-ref-85fa)
 - [[@recycling.film] Kodak ColorPlus (ref: 6637)](#recyclingfilm-kodak-colorplus-ref-6637)
 - [[@recycling.film] Kodak Ektachrome 64 (ref: 02cc)](#recyclingfilm-kodak-ektachrome-64-ref-02cc)
 - [[@recycling.film] Kodak Ektachrome Elite 200 (ref: b736)](#recyclingfilm-kodak-ektachrome-elite-200-ref-b736)
@@ -235,6 +236,8 @@ Total scans : 1407
 - [[@recycling.film] Kodak Super-XX (ref: 07c8)](#recyclingfilm-kodak-super-xx-ref-07c8)
 - [[@recycling.film] Kodak Tri-X Pan (ref: 85e9)](#recyclingfilm-kodak-tri-x-pan-ref-85e9)
 - [[@recycling.film] Kodak UltraMax (ref: e4ad)](#recyclingfilm-kodak-ultramax-ref-e4ad)
+- [[@recycling.film] Marvel Fantastic 4 35mm Color Film (ref: 1144)](#recyclingfilm-marvel-fantastic-4-35mm-color-film-ref-1144)
+- [[@recycling.film] Marvel Spinder-Man 2 35mm Color Print Film (ref: d548)](#recyclingfilm-marvel-spinder-man-2-35mm-color-print-film-ref-d548)
 - [[@recycling.film] Nishika Color Print Film (ref: baeb)](#recyclingfilm-nishika-color-print-film-ref-baeb)
 - [[@recycling.film] ORWO NP15 (ref: 9a20)](#recyclingfilm-orwo-np15-ref-9a20)
 - [[@recycling.film] ORWO OrwoChrom UT18 (ref: 81b7)](#recyclingfilm-orwo-orwochrom-ut18-ref-81b7)
@@ -4446,6 +4449,20 @@ UUID  : bc6e58d62eb34ad6a54ea8d4ac877d94
 	<img src="./lowres/00409_002.jpg" alt="Ilford XP2 35mm film box leaflet" loading="lazy" width="500" height="347">
 </a>
 
+#### [@recycling.film] Kids Station Toys Batman Returns High Quality 35mm Print Film (ref: 85fa)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 exp  
+Added : 2026-11-03   |  Author  : @recycling.film
+UUID  : 23905283d39f4477a618cee5076985fa
+```
+
+<a href="./archive/00779_000.jpg" target="_blank">
+	<img src="./lowres/00779_000.jpg" alt="Kids Station Toys Batman Returns High Quality 35mm Print Film 35mm film box outside" loading="lazy" width="441" height="500">
+</a>
+
 #### [@recycling.film] Kodak ColorPlus (ref: 6637)
 
 ```
@@ -4592,6 +4609,34 @@ UUID  : d14bbf440f3a4ac9aa4169c8bba7e4ad
 
 <a href="./archive/00201_000.jpg" target="_blank">
 	<img src="./lowres/00201_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="437" height="500">
+</a>
+
+#### [@recycling.film] Marvel Fantastic 4 35mm Color Film (ref: 1144)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 exp  
+Added : 2026-11-03   |  Author  : @recycling.film
+UUID  : 47aba6cf5f974c15b8e8a2cd3aed1144
+```
+
+<a href="./archive/00780_000.jpg" target="_blank">
+	<img src="./lowres/00780_000.jpg" alt="Marvel Fantastic 4 35mm Color Film 35mm film box outside" loading="lazy" width="420" height="499">
+</a>
+
+#### [@recycling.film] Marvel Spinder-Man 2 35mm Color Print Film (ref: d548)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 exp  
+Added : 2026-11-03   |  Author  : @recycling.film
+UUID  : a3691700a1c54c7f817de6ada781d548
+```
+
+<a href="./archive/00781_000.jpg" target="_blank">
+	<img src="./lowres/00781_000.jpg" alt="Marvel Spinder-Man 2 35mm Color Print Film 35mm film box outside" loading="lazy" width="421" height="500">
 </a>
 
 #### [@recycling.film] Nishika Color Print Film (ref: baeb)
@@ -16113,7 +16158,7 @@ Rank  Username                  Contributions    Rank  Username                 
 5     @photos.by.qi             72               39    nick                      6
 6     Pelicram                  71               40    Greg                      6
 7     nyctomanica               70               41    Kristof Lemp              6
-8     @recycling.film           66               42    @gregrouxphotography      5
+8     @recycling.film           69               42    @gregrouxphotography      5
 9     Dialupdude                44               43    Tobias                    5
 10    Mauphoto                  28               44    @janjuudas                5
 11    The Compartmentalist      24               45    Henry Gunn                4

@@ -29,9 +29,9 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Nov 02 2026
-Unique items: 774
-Total scans : 1407
+Last Updated: Nov 03 2026
+Unique items: 777
+Total scans : 1410
 ```
 
 Or Sort by...
@@ -60,7 +60,7 @@ Rank  Username                  Contributions    Rank  Username                 
 5     @photos.by.qi             72               39    nick                      6
 6     Pelicram                  71               40    Greg                      6
 7     nyctomanica               70               41    Kristof Lemp              6
-8     @recycling.film           66               42    @gregrouxphotography      5
+8     @recycling.film           69               42    @gregrouxphotography      5
 9     Dialupdude                44               43    Tobias                    5
 10    Mauphoto                  28               44    @janjuudas                5
 11    The Compartmentalist      24               45    Henry Gunn                4
@@ -92,6 +92,11 @@ Rank  Username                  Contributions    Rank  Username                 
 ## Recent Activities
 
 ```
+2026-11-03
+  - @recycling.film: Kids Station Toys Batman Returns High Quality 35mm Print Film
+  - @recycling.film: Marvel Fantastic 4 35mm Color Film
+  - @recycling.film: Marvel Spinder-Man 2 35mm Color Print Film
+
 2026-11-02
   - @ellafridalindblom: Foma Repro
   - @ellafridalindblom: Mimosa Porträtyp
@@ -151,10 +156,6 @@ Rank  Username                  Contributions    Rank  Username                 
   - dzindevis: Konica Minolta Centuria Super
   - dzindevis: Rollei Infrared
   - dzindevis: Svema Foto 125
-
-2026-09-17
-  - @Hol.m35: Lomography Redscale XR Negative
-  - DaFujiDude: Agfa APX 200
 ```
 
 ## Disclaimer

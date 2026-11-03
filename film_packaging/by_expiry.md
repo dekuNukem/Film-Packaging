@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Nov 02 2026
-Unique items: 774
-Total scans : 1407
+Last Updated: Nov 03 2026
+Unique items: 777
+Total scans : 1410
 ```
 
 -----
@@ -762,6 +762,7 @@ Total scans : 1407
 - [[Unknown] Ilford R.25 F.P Special (ref: ec05)](#unknown-ilford-r25-fp-special-ref-ec05)
 - [[Unknown] Illingworth's Fleet H&D (ref: 54fe)](#unknown-illingworths-fleet-h-d-ref-54fe)
 - [[Unknown] Impossible Project PX 600 Silver Shade UV+ (ref: 20f3)](#unknown-impossible-project-px-600-silver-shade-uv-ref-20f3)
+- [[Unknown] Kids Station Toys Batman Returns High Quality 35mm Print Film (ref: 85fa)](#unknown-kids-station-toys-batman-returns-high-quality-35mm-print-film-ref-85fa)
 - [[Unknown] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#unknown-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
 - [[Unknown] Kodak Eastman Tri-X Reversal Film 7278 (ref: 8468)](#unknown-kodak-eastman-tri-x-reversal-film-7278-ref-8468)
 - [[Unknown] Kodak Kodachrome 40 (ref: 2a3e)](#unknown-kodak-kodachrome-40-ref-2a3e)
@@ -770,6 +771,8 @@ Total scans : 1407
 - [[Unknown] Kodak Super-sensitive Panchromatic Films (ref: 21a0)](#unknown-kodak-super-sensitive-panchromatic-films-ref-21a0)
 - [[Unknown] Kodak Tri-X 400 Pro (ref: f05c)](#unknown-kodak-tri-x-400-pro-ref-f05c)
 - [[Unknown] Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides (ref: a44b)](#unknown-lumière-union-photographique-industrielle-plaques-au-gélatino-bromure-dargent-extra-rapides-ref-a44b)
+- [[Unknown] Marvel Fantastic 4 35mm Color Film (ref: 1144)](#unknown-marvel-fantastic-4-35mm-color-film-ref-1144)
+- [[Unknown] Marvel Spinder-Man 2 35mm Color Print Film (ref: d548)](#unknown-marvel-spinder-man-2-35mm-color-print-film-ref-d548)
 - [[Unknown] Mimosa Porträtyp (ref: e547)](#unknown-mimosa-porträtyp-ref-e547)
 - [[Unknown] Mimosa Porträtyp-Antihalo (ref: 7200)](#unknown-mimosa-porträtyp-antihalo-ref-7200)
 - [[Unknown] Mimosa A.G. Mimosa-Platte Finogran (ref: 795e)](#unknown-mimosa-ag-mimosa-platte-finogran-ref-795e)
@@ -15491,6 +15494,20 @@ UUID  : 28ed6948476d4d7baeb8e7fd7c3520f3
 	<img src="./lowres/00354_000.jpg" alt="Impossible Project PX 600 Silver Shade UV+ Instant Integral Film film box outside" loading="lazy" width="194" height="500">
 </a>
 
+#### [Unknown] Kids Station Toys Batman Returns High Quality 35mm Print Film (ref: 85fa)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 exp  
+Added : 2026-11-03   |  Author  : @recycling.film
+UUID  : 23905283d39f4477a618cee5076985fa
+```
+
+<a href="./archive/00779_000.jpg" target="_blank">
+	<img src="./lowres/00779_000.jpg" alt="Kids Station Toys Batman Returns High Quality 35mm Print Film 35mm film box outside" loading="lazy" width="441" height="500">
+</a>
+
 #### [Unknown] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)
 
 ```
@@ -15630,6 +15647,34 @@ UUID  : bb45ef5b684b4606b02cc7f9fb16a44b
 
 <a href="./archive/00692_000.jpg" target="_blank">
 	<img src="./lowres/00692_000.jpg" alt="Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides 9x12cm film box outside" loading="lazy" width="338" height="500">
+</a>
+
+#### [Unknown] Marvel Fantastic 4 35mm Color Film (ref: 1144)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 exp  
+Added : 2026-11-03   |  Author  : @recycling.film
+UUID  : 47aba6cf5f974c15b8e8a2cd3aed1144
+```
+
+<a href="./archive/00780_000.jpg" target="_blank">
+	<img src="./lowres/00780_000.jpg" alt="Marvel Fantastic 4 35mm Color Film 35mm film box outside" loading="lazy" width="420" height="499">
+</a>
+
+#### [Unknown] Marvel Spinder-Man 2 35mm Color Print Film (ref: d548)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 exp  
+Added : 2026-11-03   |  Author  : @recycling.film
+UUID  : a3691700a1c54c7f817de6ada781d548
+```
+
+<a href="./archive/00781_000.jpg" target="_blank">
+	<img src="./lowres/00781_000.jpg" alt="Marvel Spinder-Man 2 35mm Color Print Film 35mm film box outside" loading="lazy" width="421" height="500">
 </a>
 
 #### [Unknown] Mimosa Porträtyp (ref: e547)
@@ -16113,7 +16158,7 @@ Rank  Username                  Contributions    Rank  Username                 
 5     @photos.by.qi             72               39    nick                      6
 6     Pelicram                  71               40    Greg                      6
 7     nyctomanica               70               41    Kristof Lemp              6
-8     @recycling.film           66               42    @gregrouxphotography      5
+8     @recycling.film           69               42    @gregrouxphotography      5
 9     Dialupdude                44               43    Tobias                    5
 10    Mauphoto                  28               44    @janjuudas                5
 11    The Compartmentalist      24               45    Henry Gunn                4

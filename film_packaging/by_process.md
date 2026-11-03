@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Nov 02 2026
-Unique items: 774
-Total scans : 1407
+Last Updated: Nov 03 2026
+Unique items: 777
+Total scans : 1410
 ```
 
 -----
@@ -423,6 +423,7 @@ Total scans : 1407
 - [[C-41] Jessops Diamond Everyday (ref: 6d5a)](#c-41-jessops-diamond-everyday-ref-6d5a)
 - [[C-41] Jessops Diamond Everyday (ref: 971e)](#c-41-jessops-diamond-everyday-ref-971e)
 - [[C-41] Jessops Diamond Everyday (ref: 67d3)](#c-41-jessops-diamond-everyday-ref-67d3)
+- [[C-41] Kids Station Toys Batman Returns High Quality 35mm Print Film (ref: 85fa)](#c-41-kids-station-toys-batman-returns-high-quality-35mm-print-film-ref-85fa)
 - [[C-41] Kirkland Signature Color Print Film (ref: 0441)](#c-41-kirkland-signature-color-print-film-ref-0441)
 - [[C-41] Klick 400ASA (ref: 8779)](#c-41-klick-400asa-ref-8779)
 - [[C-41] Klick APS Film (ref: 4b88)](#c-41-klick-aps-film-ref-4b88)
@@ -555,6 +556,8 @@ Total scans : 1407
 - [[C-41] Lucky Super New 200 (ref: e0a7)](#c-41-lucky-super-new-200-ref-e0a7)
 - [[C-41] MarixFilm Aircolor (ref: d9c4)](#c-41-marixfilm-aircolor-ref-d9c4)
 - [[C-41] MarixFilm Professional Negative Movie Color Film (ref: c457)](#c-41-marixfilm-professional-negative-movie-color-film-ref-c457)
+- [[C-41] Marvel Fantastic 4 35mm Color Film (ref: 1144)](#c-41-marvel-fantastic-4-35mm-color-film-ref-1144)
+- [[C-41] Marvel Spinder-Man 2 35mm Color Print Film (ref: d548)](#c-41-marvel-spinder-man-2-35mm-color-print-film-ref-d548)
 - [[C-41] Max Spielmann Maxi Color (ref: bf60)](#c-41-max-spielmann-maxi-color-ref-bf60)
 - [[C-41] Max Spielmann Pro-Zoom MX 400 (ref: 38c5)](#c-41-max-spielmann-pro-zoom-mx-400-ref-38c5)
 - [[C-41] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#c-41-minolta-minolta-16-color-film-for-prints-ref-a2ff)
@@ -8417,6 +8420,20 @@ UUID  : b53e5c167866448d812a4dc8e85967d3
 	<img src="./lowres/00033_000.jpg" alt="Jessops Diamond Everyday APS film box outside" loading="lazy" width="420" height="499">
 </a>
 
+#### [C-41] Kids Station Toys Batman Returns High Quality 35mm Print Film (ref: 85fa)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 exp  
+Added : 2026-11-03   |  Author  : @recycling.film
+UUID  : 23905283d39f4477a618cee5076985fa
+```
+
+<a href="./archive/00779_000.jpg" target="_blank">
+	<img src="./lowres/00779_000.jpg" alt="Kids Station Toys Batman Returns High Quality 35mm Print Film 35mm film box outside" loading="lazy" width="441" height="500">
+</a>
+
 #### [C-41] Kirkland Signature Color Print Film (ref: 0441)
 
 ```
@@ -10754,6 +10771,34 @@ UUID  : 715e5119d4b941d98ce52bcd8596c457
 
 <a href="./archive/00188_000.jpg" target="_blank">
 	<img src="./lowres/00188_000.jpg" alt="MarixFilm Professional Negative Movie Color Film 35mm film box outside" loading="lazy" width="445" height="500">
+</a>
+
+#### [C-41] Marvel Fantastic 4 35mm Color Film (ref: 1144)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 exp  
+Added : 2026-11-03   |  Author  : @recycling.film
+UUID  : 47aba6cf5f974c15b8e8a2cd3aed1144
+```
+
+<a href="./archive/00780_000.jpg" target="_blank">
+	<img src="./lowres/00780_000.jpg" alt="Marvel Fantastic 4 35mm Color Film 35mm film box outside" loading="lazy" width="420" height="499">
+</a>
+
+#### [C-41] Marvel Spinder-Man 2 35mm Color Print Film (ref: d548)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 exp  
+Added : 2026-11-03   |  Author  : @recycling.film
+UUID  : a3691700a1c54c7f817de6ada781d548
+```
+
+<a href="./archive/00781_000.jpg" target="_blank">
+	<img src="./lowres/00781_000.jpg" alt="Marvel Spinder-Man 2 35mm Color Print Film 35mm film box outside" loading="lazy" width="421" height="500">
 </a>
 
 #### [C-41] Max Spielmann Maxi Color (ref: bf60)
@@ -16113,7 +16158,7 @@ Rank  Username                  Contributions    Rank  Username                 
 5     @photos.by.qi             72               39    nick                      6
 6     Pelicram                  71               40    Greg                      6
 7     nyctomanica               70               41    Kristof Lemp              6
-8     @recycling.film           66               42    @gregrouxphotography      5
+8     @recycling.film           69               42    @gregrouxphotography      5
 9     Dialupdude                44               43    Tobias                    5
 10    Mauphoto                  28               44    @janjuudas                5
 11    The Compartmentalist      24               45    Henry Gunn                4

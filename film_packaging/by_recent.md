@@ -15,13 +15,16 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Nov 02 2026
-Unique items: 774
-Total scans : 1407
+Last Updated: Nov 03 2026
+Unique items: 777
+Total scans : 1410
 ```
 
 -----
 
+- [[2026-11-03] Marvel Spinder-Man 2 35mm Color Print Film (ref: d548)](#2026-11-03-marvel-spinder-man-2-35mm-color-print-film-ref-d548)
+- [[2026-11-03] Marvel Fantastic 4 35mm Color Film (ref: 1144)](#2026-11-03-marvel-fantastic-4-35mm-color-film-ref-1144)
+- [[2026-11-03] Kids Station Toys Batman Returns High Quality 35mm Print Film (ref: 85fa)](#2026-11-03-kids-station-toys-batman-returns-high-quality-35mm-print-film-ref-85fa)
 - [[2026-11-02] Mimosa Porträtyp (ref: e547)](#2026-11-02-mimosa-porträtyp-ref-e547)
 - [[2026-11-02] Mimosa Porträtyp-Antihalo (ref: 7200)](#2026-11-02-mimosa-porträtyp-antihalo-ref-7200)
 - [[2026-11-02] Foma Repro (ref: f1d2)](#2026-11-02-foma-repro-ref-f1d2)
@@ -799,6 +802,48 @@ Total scans : 1407
 
 
 -----
+
+#### [2026-11-03] Marvel Spinder-Man 2 35mm Color Print Film (ref: d548)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 exp  
+Added : 2026-11-03   |  Author  : @recycling.film
+UUID  : a3691700a1c54c7f817de6ada781d548
+```
+
+<a href="./archive/00781_000.jpg" target="_blank">
+	<img src="./lowres/00781_000.jpg" alt="Marvel Spinder-Man 2 35mm Color Print Film 35mm film box outside" loading="lazy" width="421" height="500">
+</a>
+
+#### [2026-11-03] Marvel Fantastic 4 35mm Color Film (ref: 1144)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 exp  
+Added : 2026-11-03   |  Author  : @recycling.film
+UUID  : 47aba6cf5f974c15b8e8a2cd3aed1144
+```
+
+<a href="./archive/00780_000.jpg" target="_blank">
+	<img src="./lowres/00780_000.jpg" alt="Marvel Fantastic 4 35mm Color Film 35mm film box outside" loading="lazy" width="420" height="499">
+</a>
+
+#### [2026-11-03] Kids Station Toys Batman Returns High Quality 35mm Print Film (ref: 85fa)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 exp  
+Added : 2026-11-03   |  Author  : @recycling.film
+UUID  : 23905283d39f4477a618cee5076985fa
+```
+
+<a href="./archive/00779_000.jpg" target="_blank">
+	<img src="./lowres/00779_000.jpg" alt="Kids Station Toys Batman Returns High Quality 35mm Print Film 35mm film box outside" loading="lazy" width="441" height="500">
+</a>
 
 #### [2026-11-02] Mimosa Porträtyp (ref: e547)
 
@@ -16113,7 +16158,7 @@ Rank  Username                  Contributions    Rank  Username                 
 5     @photos.by.qi             72               39    nick                      6
 6     Pelicram                  71               40    Greg                      6
 7     nyctomanica               70               41    Kristof Lemp              6
-8     @recycling.film           66               42    @gregrouxphotography      5
+8     @recycling.film           69               42    @gregrouxphotography      5
 9     Dialupdude                44               43    Tobias                    5
 10    Mauphoto                  28               44    @janjuudas                5
 11    The Compartmentalist      24               45    Henry Gunn                4
