@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Nov 09 2026
-Unique items: 810
-Total scans : 1454
+Unique items: 817
+Total scans : 1466
 ```
 
 -----
@@ -31,6 +31,7 @@ Total scans : 1454
 - [[BW] ADOX HR 50 (ref: 4da7)](#bw-adox-hr-50-ref-4da7)
 - [[BW] ADOX KB 17 (ref: 88a5)](#bw-adox-kb-17-ref-88a5)
 - [[BW] ADOX KB17 (ref: 2c95)](#bw-adox-kb17-ref-2c95)
+- [[BW] Adox Scala 50 (ref: c320)](#bw-adox-scala-50-ref-c320)
 - [[BW] Agfa APX (ref: 5276)](#bw-agfa-apx-ref-5276)
 - [[BW] Agfa APX 100 (ref: 12c7)](#bw-agfa-apx-100-ref-12c7)
 - [[BW] Agfa APX 200 (ref: 9165)](#bw-agfa-apx-200-ref-9165)
@@ -61,6 +62,7 @@ Total scans : 1454
 - [[BW] Agfa Trockenplatten (ref: 41a8)](#bw-agfa-trockenplatten-ref-41a8)
 - [[BW] Alien Film 5222/XX (ref: 3e49)](#bw-alien-film-5222xx-ref-3e49)
 - [[BW] Ansco Plenachrome (ref: 3c6c)](#bw-ansco-plenachrome-ref-3c6c)
+- [[BW] Ansco Super Hypan Film (ref: e496)](#bw-ansco-super-hypan-film-ref-e496)
 - [[BW] Arista.EDU Ultra (ref: d78b)](#bw-aristaedu-ultra-ref-d78b)
 - [[BW] Arista.EDU Ultra (ref: d319)](#bw-aristaedu-ultra-ref-d319)
 - [[BW] Bergger Pancro400 (ref: ad7b)](#bw-bergger-pancro400-ref-ad7b)
@@ -246,6 +248,8 @@ Total scans : 1454
 - [[BW] Mimosa A.G. Mimosa-Platte Finogran (ref: 795e)](#bw-mimosa-ag-mimosa-platte-finogran-ref-795e)
 - [[BW] Minolta 16 Black & White Fast Fine Grain Film (ref: fd30)](#bw-minolta-16-black-white-fast-fine-grain-film-ref-fd30)
 - [[BW] Mr. Negative Black Cat (ref: cc7d)](#bw-mr-negative-black-cat-ref-cc7d)
+- [[BW] Mr. Negative Black Market (ref: 9ff8)](#bw-mr-negative-black-market-ref-9ff8)
+- [[BW] Mr. Negative Cash Only (ref: 84fc)](#bw-mr-negative-cash-only-ref-84fc)
 - [[BW] ORWO DK5 (ref: e815)](#bw-orwo-dk5-ref-e815)
 - [[BW] ORWO DK5 (ref: a2dd)](#bw-orwo-dk5-ref-a2dd)
 - [[BW] ORWO NP 20 SL (ref: b16c)](#bw-orwo-np-20-sl-ref-b16c)
@@ -425,10 +429,12 @@ Total scans : 1454
 - [[C-41] Hansa Hansacolor 100 Super Plus (ref: 67b2)](#c-41-hansa-hansacolor-100-super-plus-ref-67b2)
 - [[C-41] Harman Phoenix (ref: 8eb4)](#c-41-harman-phoenix-ref-8eb4)
 - [[C-41] Harman Phoenix (ref: 637f)](#c-41-harman-phoenix-ref-637f)
+- [[C-41] Harman Phoenix 125 (ref: 75a6)](#c-41-harman-phoenix-125-ref-75a6)
 - [[C-41] Harman Phoenix II (ref: f686)](#c-41-harman-phoenix-ii-ref-f686)
 - [[C-41] Harman Phoenix II (ref: 40df)](#c-41-harman-phoenix-ii-ref-40df)
 - [[C-41] Harman Phoenix II (ref: 37c7)](#c-41-harman-phoenix-ii-ref-37c7)
 - [[C-41] Harman Phoenix II (ref: 41d4)](#c-41-harman-phoenix-ii-ref-41d4)
+- [[C-41] Harman Phoneix 125 (ref: 1ce9)](#c-41-harman-phoneix-125-ref-1ce9)
 - [[C-41] Harman Red (ref: da3a)](#c-41-harman-red-ref-da3a)
 - [[C-41] Harman Switch Azure (ref: df9c)](#c-41-harman-switch-azure-ref-df9c)
 - [[C-41] Harman Switch Azure (ref: 31bb)](#c-41-harman-switch-azure-ref-31bb)
@@ -589,6 +595,7 @@ Total scans : 1454
 - [[C-41] Minox Minocolor 2 (ref: fadd)](#c-41-minox-minocolor-2-ref-fadd)
 - [[C-41] Mira Films 800 Color Film (ref: 32e1)](#c-41-mira-films-800-color-film-ref-32e1)
 - [[C-41] Mr. Negative Arcade (ref: a6e5)](#c-41-mr-negative-arcade-ref-a6e5)
+- [[C-41] Mr. Negative Tattoo Flash (ref: 2287)](#c-41-mr-negative-tattoo-flash-ref-2287)
 - [[C-41] Mystic Color Lab Superior 35mm Color Print Film (ref: 4edf)](#c-41-mystic-color-lab-superior-35mm-color-print-film-ref-4edf)
 - [[C-41] Nishika Color Print Film (ref: baeb)](#c-41-nishika-color-print-film-ref-baeb)
 - [[C-41] Optik Oldschool OptiColour 200 (ref: 099e)](#c-41-optik-oldschool-opticolour-200-ref-099e)
@@ -1072,6 +1079,27 @@ UUID  : 14047842e1a641268bfd4d01fcf02c95
 
 <a href="./archive/00065_001.jpg" target="_blank">
 	<img src="./lowres/00065_001.jpg" alt="ADOX KB17 35mm film box inside" loading="lazy" width="500" height="418">
+</a>
+
+#### [BW] Adox Scala 50 (ref: c320)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 50           |  Expiry  : 2027-10 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : SimonTheSenpai
+UUID  : 3a02c0e5438c4032a85f8acf19abc320
+```
+
+<a href="./archive/00819_000.jpg" target="_blank">
+	<img src="./lowres/00819_000.jpg" alt="Adox Scala 50 35mm film box outside" loading="lazy" width="499" height="500">
+</a>
+
+
+`UUID: 5f7a25c663ff4de288976d3fea0e2956`↓
+
+<a href="./archive/00819_001.jpg" target="_blank">
+	<img src="./lowres/00819_001.jpg" alt="Adox Scala 50 35mm film box inside" loading="lazy" width="500" height="500">
 </a>
 
 #### [BW] Agfa APX (ref: 5276)
@@ -1569,6 +1597,34 @@ UUID  : 39756172435749ed870105a77fa53c6c
 
 <a href="./archive/00385_000.jpg" target="_blank">
 	<img src="./lowres/00385_000.jpg" alt="Ansco Plenachrome 120 film box outside" loading="lazy" width="500" height="405">
+</a>
+
+#### [BW] Ansco Super Hypan Film (ref: e496)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 500          |  Expiry  : 1965-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-11-09   |  Author  : Ensign Expendable
+UUID  : 5d1ca07fe4c04cb79a0017bb34fae496
+```
+
+<a href="./archive/00816_000.jpg" target="_blank">
+	<img src="./lowres/00816_000.jpg" alt="Ansco Super Hypan Film 120 film box outside" loading="lazy" width="500" height="465">
+</a>
+
+
+`UUID: 6febdd3c87b04cb1a65cf21f3e8fdd2d`↓
+
+<a href="./archive/00816_001.jpg" target="_blank">
+	<img src="./lowres/00816_001.jpg" alt="Ansco Super Hypan Film 120 film box leaflet" loading="lazy" width="383" height="500">
+</a>
+
+
+`UUID: 052a43fdf4654d30b35048924b24810a`↓
+
+<a href="./archive/00816_002.jpg" target="_blank">
+	<img src="./lowres/00816_002.jpg" alt="Ansco Super Hypan Film 120 film box leaflet" loading="lazy" width="380" height="500">
 </a>
 
 #### [BW] Arista.EDU Ultra (ref: d78b)
@@ -5141,6 +5197,34 @@ UUID  : 7d38096a5e2243dc91b8caff8721cc7d
 	<img src="./lowres/00580_000.jpg" alt="Mr. Negative Black Cat 35mm film box outside" loading="lazy" width="500" height="410">
 </a>
 
+#### [BW] Mr. Negative Black Market (ref: 9ff8)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 250          |  Expiry  : 2028-01 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : SimonTheSenpai
+UUID  : 6f669e561feb407c9554766bbf159ff8
+```
+
+<a href="./archive/00815_000.jpg" target="_blank">
+	<img src="./lowres/00815_000.jpg" alt="Mr. Negative Black Market 35mm film box outside" loading="lazy" width="500" height="500">
+</a>
+
+#### [BW] Mr. Negative Cash Only (ref: 84fc)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 199          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : SimonTheSenpai
+UUID  : ad46387f55ff47769c36aa64f47284fc
+```
+
+<a href="./archive/00817_000.jpg" target="_blank">
+	<img src="./lowres/00817_000.jpg" alt="Mr. Negative Cash Only 35mm film box outside" loading="lazy" width="499" height="500">
+</a>
+
 #### [BW] ORWO DK5 (ref: e815)
 
 ```
@@ -8443,6 +8527,27 @@ UUID  : 0b11ba38c9a34f58a2f13d696b05637f
 	<img src="./lowres/00004_001.jpg" alt="Harman Phoenix 120 film box inside" loading="lazy" width="500" height="448">
 </a>
 
+#### [C-41] Harman Phoenix 125 (ref: 75a6)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 125          |  Expiry  : 2028-08 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-11-09   |  Author  : SimonTheSenpai
+UUID  : f637985584914a30947865b362db75a6
+```
+
+<a href="./archive/00821_000.jpg" target="_blank">
+	<img src="./lowres/00821_000.jpg" alt="Harman Phoenix 125 120 film box outside" loading="lazy" width="500" height="500">
+</a>
+
+
+`UUID: ce7b289fc9864573a8290d67e7e6f077`↓
+
+<a href="./archive/00821_001.jpg" target="_blank">
+	<img src="./lowres/00821_001.jpg" alt="Harman Phoenix 125 120 film box inside" loading="lazy" width="498" height="500">
+</a>
+
 #### [C-41] Harman Phoenix II (ref: f686)
 
 ```
@@ -8527,6 +8632,27 @@ Notes : Chinese version
 
 <a href="./archive/00367_001.jpg" target="_blank">
 	<img src="./lowres/00367_001.jpg" alt="Harman Phoenix II 35mm film box inside" loading="lazy" width="431" height="499">
+</a>
+
+#### [C-41] Harman Phoneix 125 (ref: 1ce9)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 125          |  Expiry  : 2028-07 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : SimonTheSenpai
+UUID  : 1638fc475eca455e99bc2c658d081ce9
+```
+
+<a href="./archive/00820_000.jpg" target="_blank">
+	<img src="./lowres/00820_000.jpg" alt="Harman Phoneix 125 35mm film box outside" loading="lazy" width="500" height="500">
+</a>
+
+
+`UUID: 1c353bbab444460ea7af5c1c94afd136`↓
+
+<a href="./archive/00820_001.jpg" target="_blank">
+	<img src="./lowres/00820_001.jpg" alt="Harman Phoneix 125 35mm film box inside" loading="lazy" width="500" height="500">
 </a>
 
 #### [C-41] Harman Red (ref: da3a)
@@ -11364,6 +11490,20 @@ UUID  : e71e488f0288481f906ccecdf054a6e5
 
 <a href="./archive/00577_000.jpg" target="_blank">
 	<img src="./lowres/00577_000.jpg" alt="Mr. Negative Arcade 35mm film box outside" loading="lazy" width="500" height="460">
+</a>
+
+#### [C-41] Mr. Negative Tattoo Flash (ref: 2287)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : SimonTheSenpai
+UUID  : 8015b195ced649c4a2f2a854a5842287
+```
+
+<a href="./archive/00818_000.jpg" target="_blank">
+	<img src="./lowres/00818_000.jpg" alt="Mr. Negative Tattoo Flash 35mm film box outside" loading="lazy" width="499" height="500">
 </a>
 
 #### [C-41] Mystic Color Lab Superior 35mm Color Print Film (ref: 4edf)
@@ -16724,41 +16864,42 @@ Notes : Division of Film Corporation of America
 ```
 Rank  Username                  Contributions    Rank  Username                  Contributions
 ----------------------------------------------    ----------------------------------------------
-1     dekuNukem                 343              36    @toastergod101            7
-2     Luci 101                  102              37    @filmfotofella            7
-3     @ellafridalindblom        79               38    dzindevis                 7
-4     @Hol.m35                  75               39    GreatGizmo74              6
-5     @photos.by.qi             72               40    nick                      6
-6     Pelicram                  71               41    Greg                      6
-7     nyctomanica               70               42    Kristof Lemp              6
-8     @recycling.film           69               43    @gregrouxphotography      5
-9     Dialupdude                44               44    Tobias                    5
-10    CaptainAgman              44               45    @janjuudas                5
-11    Mauphoto                  28               46    Henry Gunn                4
-12    The Compartmentalist      24               47    TheSelousScout            4
-13    Chrisbes                  22               48    Vince Costello            4
-14    kaimon                    20               49    Rhiannon                  4
-15    benjaminbeeroll           20               50    @sachynmital              3
-16    @ob.skura                 19               51    @shotbyliampewpew         3
-17    fine-seat                 19               52    Tallbird Cowboy           3
-18    Camera.Riley              19               53    DaFujiDude                3
-19    Nano_Burger               18               54    whoman560                 3
-20    waldoboro                 18               55    Gergely Orsi              3
-21    toader                    17               56    @seklerek                 2
-22    b0baspace                 14               57    @ftfilmphotos             2
-23    yc128                     13               58    @tylerdrey                2
-24    @SirBrentsworth           13               59    Warren Umbach             2
-25    benikum                   12               60    @flyingcamerastudio       2
-26    u/ReeeSchmidtyWerber      11               61    @pommegranny              2
-27    @zruk_ts                  10               62    @sl35hater                2
-28    minidiscus                10               63    Yrikonchik                1
-29    green eggs and sam        10               64    @ad.astra.per.aspera.1894 1
-30    lilyu.xyz                 9                65    Aoi Yuki                  1
-31    Kraksen                   9                66    lemoniter                 1
-32    lt_col_tall               9                67    Joo                       1
-33    MCB18                     9                68    @titanic_159              1
-34    reschmidt12               9                69    Constantino               1
-35    Rafa Laguillo             8
+1     dekuNukem                 343              37    @toastergod101            7
+2     Luci 101                  102              38    @filmfotofella            7
+3     @ellafridalindblom        79               39    dzindevis                 7
+4     @Hol.m35                  75               40    GreatGizmo74              6
+5     @photos.by.qi             72               41    nick                      6
+6     Pelicram                  71               42    Greg                      6
+7     nyctomanica               70               43    Kristof Lemp              6
+8     @recycling.film           69               44    @gregrouxphotography      5
+9     Dialupdude                44               45    Tobias                    5
+10    CaptainAgman              44               46    @janjuudas                5
+11    Mauphoto                  28               47    Henry Gunn                4
+12    The Compartmentalist      24               48    TheSelousScout            4
+13    Chrisbes                  22               49    Vince Costello            4
+14    kaimon                    20               50    Rhiannon                  4
+15    benjaminbeeroll           20               51    @sachynmital              3
+16    @ob.skura                 19               52    @shotbyliampewpew         3
+17    fine-seat                 19               53    Tallbird Cowboy           3
+18    Camera.Riley              19               54    DaFujiDude                3
+19    Nano_Burger               18               55    whoman560                 3
+20    waldoboro                 18               56    Gergely Orsi              3
+21    toader                    17               57    Ensign Expendable         3
+22    b0baspace                 14               58    @seklerek                 2
+23    yc128                     13               59    @ftfilmphotos             2
+24    @SirBrentsworth           13               60    @tylerdrey                2
+25    benikum                   12               61    Warren Umbach             2
+26    u/ReeeSchmidtyWerber      11               62    @flyingcamerastudio       2
+27    @zruk_ts                  10               63    @pommegranny              2
+28    minidiscus                10               64    @sl35hater                2
+29    green eggs and sam        10               65    Yrikonchik                1
+30    lilyu.xyz                 9                66    @ad.astra.per.aspera.1894 1
+31    Kraksen                   9                67    Aoi Yuki                  1
+32    lt_col_tall               9                68    lemoniter                 1
+33    MCB18                     9                69    Joo                       1
+34    reschmidt12               9                70    @titanic_159              1
+35    SimonTheSenpai            9                71    Constantino               1
+36    Rafa Laguillo             8
 ```
 
 ## Questions or Comments?

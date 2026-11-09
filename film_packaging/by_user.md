@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Nov 09 2026
-Unique items: 810
-Total scans : 1454
+Unique items: 817
+Total scans : 1466
 ```
 
 -----
@@ -361,6 +361,7 @@ Total scans : 1454
 - [[Dialupdude] Polaroid Color i-Type Film (ref: 47a7)](#dialupdude-polaroid-color-i-type-film-ref-47a7)
 - [[Dialupdude] Polaroid Color i-Type Film (ref: 32e9)](#dialupdude-polaroid-color-i-type-film-ref-32e9)
 - [[Dialupdude] Polaroid High Definition (ref: aad0)](#dialupdude-polaroid-high-definition-ref-aad0)
+- [[Ensign Expendable] Ansco Super Hypan Film (ref: e496)](#ensign-expendable-ansco-super-hypan-film-ref-e496)
 - [[Gergely Orsi] Forte Fortepan Super Film (ref: 2caa)](#gergely-orsi-forte-fortepan-super-film-ref-2caa)
 - [[GreatGizmo74] Jessops CS100 (ref: 4288)](#greatgizmo74-jessops-cs100-ref-4288)
 - [[GreatGizmo74] Jessops Diamond Everyday (ref: 6d5a)](#greatgizmo74-jessops-diamond-everyday-ref-6d5a)
@@ -489,6 +490,12 @@ Total scans : 1454
 - [[Rafa Laguillo] Werlisa Werlisa Sport 100 (ref: d7fe)](#rafa-laguillo-werlisa-werlisa-sport-100-ref-d7fe)
 - [[Rhiannon] Candido Candido400 (ref: 5f29)](#rhiannon-candido-candido400-ref-5f29)
 - [[Rhiannon] Star Foto Colour Film for Prints (ref: bdd5)](#rhiannon-star-foto-colour-film-for-prints-ref-bdd5)
+- [[SimonTheSenpai] Adox Scala 50 (ref: c320)](#simonthesenpai-adox-scala-50-ref-c320)
+- [[SimonTheSenpai] Harman Phoenix 125 (ref: 75a6)](#simonthesenpai-harman-phoenix-125-ref-75a6)
+- [[SimonTheSenpai] Harman Phoneix 125 (ref: 1ce9)](#simonthesenpai-harman-phoneix-125-ref-1ce9)
+- [[SimonTheSenpai] Mr. Negative Black Market (ref: 9ff8)](#simonthesenpai-mr-negative-black-market-ref-9ff8)
+- [[SimonTheSenpai] Mr. Negative Cash Only (ref: 84fc)](#simonthesenpai-mr-negative-cash-only-ref-84fc)
+- [[SimonTheSenpai] Mr. Negative Tattoo Flash (ref: 2287)](#simonthesenpai-mr-negative-tattoo-flash-ref-2287)
 - [[Tallbird Cowboy] Kodak Kodachrome II (ref: 2caa)](#tallbird-cowboy-kodak-kodachrome-ii-ref-2caa)
 - [[The Compartmentalist] Agfa Agfapan Rapid (ref: 5e7b)](#the-compartmentalist-agfa-agfapan-rapid-ref-5e7b)
 - [[The Compartmentalist] Fujifilm Fujichrome Provia 100F (ref: df27)](#the-compartmentalist-fujifilm-fujichrome-provia-100f-ref-df27)
@@ -6824,6 +6831,34 @@ UUID  : 406bdfb2f41a4be4a27b4d9ddd98aad0
 	<img src="./lowres/00727_001.jpg" alt="Polaroid High Definition 35mm film box inside" loading="lazy" width="414" height="500">
 </a>
 
+#### [Ensign Expendable] Ansco Super Hypan Film (ref: e496)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 500          |  Expiry  : 1965-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-11-09   |  Author  : Ensign Expendable
+UUID  : 5d1ca07fe4c04cb79a0017bb34fae496
+```
+
+<a href="./archive/00816_000.jpg" target="_blank">
+	<img src="./lowres/00816_000.jpg" alt="Ansco Super Hypan Film 120 film box outside" loading="lazy" width="500" height="465">
+</a>
+
+
+`UUID: 6febdd3c87b04cb1a65cf21f3e8fdd2d`↓
+
+<a href="./archive/00816_001.jpg" target="_blank">
+	<img src="./lowres/00816_001.jpg" alt="Ansco Super Hypan Film 120 film box leaflet" loading="lazy" width="383" height="500">
+</a>
+
+
+`UUID: 052a43fdf4654d30b35048924b24810a`↓
+
+<a href="./archive/00816_002.jpg" target="_blank">
+	<img src="./lowres/00816_002.jpg" alt="Ansco Super Hypan Film 120 film box leaflet" loading="lazy" width="380" height="500">
+</a>
+
 #### [Gergely Orsi] Forte Fortepan Super Film (ref: 2caa)
 
 ```
@@ -9644,6 +9679,111 @@ Notes : Repackaged Agfa XRG 200?
 
 <a href="./archive/00747_001.jpg" target="_blank">
 	<img src="./lowres/00747_001.jpg" alt="Star Foto Colour Film for Prints 35mm film box inside" loading="lazy" width="483" height="500">
+</a>
+
+#### [SimonTheSenpai] Adox Scala 50 (ref: c320)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 50           |  Expiry  : 2027-10 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : SimonTheSenpai
+UUID  : 3a02c0e5438c4032a85f8acf19abc320
+```
+
+<a href="./archive/00819_000.jpg" target="_blank">
+	<img src="./lowres/00819_000.jpg" alt="Adox Scala 50 35mm film box outside" loading="lazy" width="499" height="500">
+</a>
+
+
+`UUID: 5f7a25c663ff4de288976d3fea0e2956`↓
+
+<a href="./archive/00819_001.jpg" target="_blank">
+	<img src="./lowres/00819_001.jpg" alt="Adox Scala 50 35mm film box inside" loading="lazy" width="500" height="500">
+</a>
+
+#### [SimonTheSenpai] Harman Phoenix 125 (ref: 75a6)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 125          |  Expiry  : 2028-08 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-11-09   |  Author  : SimonTheSenpai
+UUID  : f637985584914a30947865b362db75a6
+```
+
+<a href="./archive/00821_000.jpg" target="_blank">
+	<img src="./lowres/00821_000.jpg" alt="Harman Phoenix 125 120 film box outside" loading="lazy" width="500" height="500">
+</a>
+
+
+`UUID: ce7b289fc9864573a8290d67e7e6f077`↓
+
+<a href="./archive/00821_001.jpg" target="_blank">
+	<img src="./lowres/00821_001.jpg" alt="Harman Phoenix 125 120 film box inside" loading="lazy" width="498" height="500">
+</a>
+
+#### [SimonTheSenpai] Harman Phoneix 125 (ref: 1ce9)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 125          |  Expiry  : 2028-07 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : SimonTheSenpai
+UUID  : 1638fc475eca455e99bc2c658d081ce9
+```
+
+<a href="./archive/00820_000.jpg" target="_blank">
+	<img src="./lowres/00820_000.jpg" alt="Harman Phoneix 125 35mm film box outside" loading="lazy" width="500" height="500">
+</a>
+
+
+`UUID: 1c353bbab444460ea7af5c1c94afd136`↓
+
+<a href="./archive/00820_001.jpg" target="_blank">
+	<img src="./lowres/00820_001.jpg" alt="Harman Phoneix 125 35mm film box inside" loading="lazy" width="500" height="500">
+</a>
+
+#### [SimonTheSenpai] Mr. Negative Black Market (ref: 9ff8)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 250          |  Expiry  : 2028-01 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : SimonTheSenpai
+UUID  : 6f669e561feb407c9554766bbf159ff8
+```
+
+<a href="./archive/00815_000.jpg" target="_blank">
+	<img src="./lowres/00815_000.jpg" alt="Mr. Negative Black Market 35mm film box outside" loading="lazy" width="500" height="500">
+</a>
+
+#### [SimonTheSenpai] Mr. Negative Cash Only (ref: 84fc)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 199          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : SimonTheSenpai
+UUID  : ad46387f55ff47769c36aa64f47284fc
+```
+
+<a href="./archive/00817_000.jpg" target="_blank">
+	<img src="./lowres/00817_000.jpg" alt="Mr. Negative Cash Only 35mm film box outside" loading="lazy" width="499" height="500">
+</a>
+
+#### [SimonTheSenpai] Mr. Negative Tattoo Flash (ref: 2287)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : SimonTheSenpai
+UUID  : 8015b195ced649c4a2f2a854a5842287
+```
+
+<a href="./archive/00818_000.jpg" target="_blank">
+	<img src="./lowres/00818_000.jpg" alt="Mr. Negative Tattoo Flash 35mm film box outside" loading="lazy" width="499" height="500">
 </a>
 
 #### [Tallbird Cowboy] Kodak Kodachrome II (ref: 2caa)
@@ -16724,41 +16864,42 @@ UUID  : e54ce68c797b4846b9aee3f5818ecb58
 ```
 Rank  Username                  Contributions    Rank  Username                  Contributions
 ----------------------------------------------    ----------------------------------------------
-1     dekuNukem                 343              36    @toastergod101            7
-2     Luci 101                  102              37    @filmfotofella            7
-3     @ellafridalindblom        79               38    dzindevis                 7
-4     @Hol.m35                  75               39    GreatGizmo74              6
-5     @photos.by.qi             72               40    nick                      6
-6     Pelicram                  71               41    Greg                      6
-7     nyctomanica               70               42    Kristof Lemp              6
-8     @recycling.film           69               43    @gregrouxphotography      5
-9     Dialupdude                44               44    Tobias                    5
-10    CaptainAgman              44               45    @janjuudas                5
-11    Mauphoto                  28               46    Henry Gunn                4
-12    The Compartmentalist      24               47    TheSelousScout            4
-13    Chrisbes                  22               48    Vince Costello            4
-14    kaimon                    20               49    Rhiannon                  4
-15    benjaminbeeroll           20               50    @sachynmital              3
-16    @ob.skura                 19               51    @shotbyliampewpew         3
-17    fine-seat                 19               52    Tallbird Cowboy           3
-18    Camera.Riley              19               53    DaFujiDude                3
-19    Nano_Burger               18               54    whoman560                 3
-20    waldoboro                 18               55    Gergely Orsi              3
-21    toader                    17               56    @seklerek                 2
-22    b0baspace                 14               57    @ftfilmphotos             2
-23    yc128                     13               58    @tylerdrey                2
-24    @SirBrentsworth           13               59    Warren Umbach             2
-25    benikum                   12               60    @flyingcamerastudio       2
-26    u/ReeeSchmidtyWerber      11               61    @pommegranny              2
-27    @zruk_ts                  10               62    @sl35hater                2
-28    minidiscus                10               63    Yrikonchik                1
-29    green eggs and sam        10               64    @ad.astra.per.aspera.1894 1
-30    lilyu.xyz                 9                65    Aoi Yuki                  1
-31    Kraksen                   9                66    lemoniter                 1
-32    lt_col_tall               9                67    Joo                       1
-33    MCB18                     9                68    @titanic_159              1
-34    reschmidt12               9                69    Constantino               1
-35    Rafa Laguillo             8
+1     dekuNukem                 343              37    @toastergod101            7
+2     Luci 101                  102              38    @filmfotofella            7
+3     @ellafridalindblom        79               39    dzindevis                 7
+4     @Hol.m35                  75               40    GreatGizmo74              6
+5     @photos.by.qi             72               41    nick                      6
+6     Pelicram                  71               42    Greg                      6
+7     nyctomanica               70               43    Kristof Lemp              6
+8     @recycling.film           69               44    @gregrouxphotography      5
+9     Dialupdude                44               45    Tobias                    5
+10    CaptainAgman              44               46    @janjuudas                5
+11    Mauphoto                  28               47    Henry Gunn                4
+12    The Compartmentalist      24               48    TheSelousScout            4
+13    Chrisbes                  22               49    Vince Costello            4
+14    kaimon                    20               50    Rhiannon                  4
+15    benjaminbeeroll           20               51    @sachynmital              3
+16    @ob.skura                 19               52    @shotbyliampewpew         3
+17    fine-seat                 19               53    Tallbird Cowboy           3
+18    Camera.Riley              19               54    DaFujiDude                3
+19    Nano_Burger               18               55    whoman560                 3
+20    waldoboro                 18               56    Gergely Orsi              3
+21    toader                    17               57    Ensign Expendable         3
+22    b0baspace                 14               58    @seklerek                 2
+23    yc128                     13               59    @ftfilmphotos             2
+24    @SirBrentsworth           13               60    @tylerdrey                2
+25    benikum                   12               61    Warren Umbach             2
+26    u/ReeeSchmidtyWerber      11               62    @flyingcamerastudio       2
+27    @zruk_ts                  10               63    @pommegranny              2
+28    minidiscus                10               64    @sl35hater                2
+29    green eggs and sam        10               65    Yrikonchik                1
+30    lilyu.xyz                 9                66    @ad.astra.per.aspera.1894 1
+31    Kraksen                   9                67    Aoi Yuki                  1
+32    lt_col_tall               9                68    lemoniter                 1
+33    MCB18                     9                69    Joo                       1
+34    reschmidt12               9                70    @titanic_159              1
+35    SimonTheSenpai            9                71    Constantino               1
+36    Rafa Laguillo             8
 ```
 
 ## Questions or Comments?
