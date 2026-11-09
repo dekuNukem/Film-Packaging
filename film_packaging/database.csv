@@ -1409,3 +1409,11 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 779,0,film_box_outside,Kids Station Toys,Batman Returns High Quality 35mm Print Film,35mm,200,C-41,Unknown,1793706179,d469b30cfe5449254a9b7d85a251c589,23905283d39f4477a618cee5076985fa,00779_000.jpg,@recycling.film,,Single Pack,12,exp
 780,0,film_box_outside,Marvel,Fantastic 4 35mm Color Film,35mm,400,C-41,Unknown,1793706236,d113522ab3f648f62185320708b26687,47aba6cf5f974c15b8e8a2cd3aed1144,00780_000.jpg,@recycling.film,,Single Pack,12,exp
 781,0,film_box_outside,Marvel,Spinder-Man 2 35mm Color Print Film,35mm,400,C-41,Unknown,1793706292,48d72eac896e45a349d9c0f4ca3979ce,a3691700a1c54c7f817de6ada781d548,00781_000.jpg,@recycling.film,,Single Pack,12,exp
+782,0,film_box_outside,Kodak,Gold Ultra,110,400,C-41,199910,1794224776,c660e6f67732fb01f35be188bc11ae53,493d789f79984defb9e0e69431fc8073,00782_000.jpg,CaptainAgman,,Single Pack,24,exp
+783,0,film_box_outside,Svema,CO 32 D,120,40,Unknown,198711,1794225050,e658121c87de27de73fa8b19fefdfa76,f48a91c86a8f42168dd23e0fbcac6813,00783_000.jpg,CaptainAgman,,Single Pack,N/A,
+784,0,film_box_outside,Agfa,Agfapan APX 25,35mm,25,BW,199801,1794225442,534367884989dd898900e47308508339,75d91bb50f9c424787c11b421e1ece22,00784_000.jpg,CaptainAgman,,Single Pack,36,exp
+785,0,film_box_outside,Foma,Fomapan action 400,35mm,400,BW,202206,1794225590,ab08b1a139d5584399fc36b1a05ff73e,7faaeb8059144cb094919a2b8c15a132,00785_000.jpg,CaptainAgman,,Single Pack,36,exp
+785,1,film_box_inside,Foma,Fomapan action 400,35mm,400,BW,202206,1794225591,dffb21c0db2b296c9a27bd6277540739,3fb497ea58bf4160853431e3f669cff5,00785_001.jpg,CaptainAgman,,Single Pack,36,exp
+786,0,film_box_outside,Foma,Fomapan Action 400,35mm,400,BW,202608,1794225679,14d83fd6e9b54b862922cecc4d3f260b,53d01f1e8ded420195d736b0659d6a6c,00786_000.jpg,CaptainAgman,,Single Pack,36,exp
+786,1,film_box_inside,Foma,Fomapan Action 400,35mm,400,BW,202608,1794225681,f76cb09a28ae94a694769355c802a911,847255b79dcc44cdaa2be82c41e607c7,00786_001.jpg,CaptainAgman,,Single Pack,36,exp
+787,0,film_box_outside,Fujifilm,Superia 200,35mm,200,C-22,200809,1794225761,fb0b50b132d767853965a2eaf6407c4b,5c8ca907474648dcbdaa3ec6f2e28b76,00787_000.jpg,CaptainAgman,,Single Pack,36,exp

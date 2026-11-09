@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Nov 03 2026
-Unique items: 777
-Total scans : 1410
+Last Updated: Nov 09 2026
+Unique items: 783
+Total scans : 1418
 ```
 
 -----
@@ -36,6 +36,7 @@ Total scans : 1410
 - [[BW] Agfa APX 200 (ref: 9165)](#bw-agfa-apx-200-ref-9165)
 - [[BW] Agfa APX 400 (ref: 379a)](#bw-agfa-apx-400-ref-379a)
 - [[BW] Agfa Agfapan APX 100 (ref: e271)](#bw-agfa-agfapan-apx-100-ref-e271)
+- [[BW] Agfa Agfapan APX 25 (ref: ce22)](#bw-agfa-agfapan-apx-25-ref-ce22)
 - [[BW] Agfa Agfapan APX 25 (ref: 5a92)](#bw-agfa-agfapan-apx-25-ref-5a92)
 - [[BW] Agfa Agfapan APX 25 (ref: 805f)](#bw-agfa-agfapan-apx-25-ref-805f)
 - [[BW] Agfa Agfapan APX 400 (ref: 5855)](#bw-agfa-agfapan-apx-400-ref-5855)
@@ -80,6 +81,7 @@ Total scans : 1410
 - [[BW] Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)](#bw-filmfabrik-köpenick-dekopan-feinkorn-ref-1bb7)
 - [[BW] Foma Fomapan 200 (ref: 60ee)](#bw-foma-fomapan-200-ref-60ee)
 - [[BW] Foma Fomapan 400 Set (ref: 189e)](#bw-foma-fomapan-400-set-ref-189e)
+- [[BW] Foma Fomapan Action 400 (ref: 6a6c)](#bw-foma-fomapan-action-400-ref-6a6c)
 - [[BW] Foma Fomapan Classic 100 (ref: 4eb6)](#bw-foma-fomapan-classic-100-ref-4eb6)
 - [[BW] Foma Fomapan Classic 100 (ref: 1731)](#bw-foma-fomapan-classic-100-ref-1731)
 - [[BW] Foma Fomapan Classic 100 (ref: 65ad)](#bw-foma-fomapan-classic-100-ref-65ad)
@@ -87,6 +89,7 @@ Total scans : 1410
 - [[BW] Foma Fomapan Creative 200 (ref: 3e4f)](#bw-foma-fomapan-creative-200-ref-3e4f)
 - [[BW] Foma Fomapan Creative 200 (ref: 84a5)](#bw-foma-fomapan-creative-200-ref-84a5)
 - [[BW] Foma Fomapan F17 (ref: a10e)](#bw-foma-fomapan-f17-ref-a10e)
+- [[BW] Foma Fomapan action 400 (ref: a132)](#bw-foma-fomapan-action-400-ref-a132)
 - [[BW] Foma Fomapan classic 100 (ref: 5e7b)](#bw-foma-fomapan-classic-100-ref-5e7b)
 - [[BW] Foma Fomapan21 (ref: 75d9)](#bw-foma-fomapan21-ref-75d9)
 - [[BW] Foma Ortho 400 (ref: 89e7)](#bw-foma-ortho-400-ref-89e7)
@@ -292,6 +295,7 @@ Total scans : 1410
 - [[BW] VEB Fotochemische Werke Berlin Dekopan Super S (ref: 1620)](#bw-veb-fotochemische-werke-berlin-dekopan-super-s-ref-1620)
 - [[BW] Walgreen All Purpose Film (ref: 541b)](#bw-walgreen-all-purpose-film-ref-541b)
 - [[BW] Wolfen NP100 (ref: 71a6)](#bw-wolfen-np100-ref-71a6)
+- [[C-22] Fujifilm Superia 200 (ref: 8b76)](#c-22-fujifilm-superia-200-ref-8b76)
 - [[C-22] Kodak Kodacolor (ref: 5d25)](#c-22-kodak-kodacolor-ref-5d25)
 - [[C-22] Kodak Kodacolor II (ref: 4108)](#c-22-kodak-kodacolor-ii-ref-4108)
 - [[C-22] Kodak Kodacolor-X (ref: a4b1)](#c-22-kodak-kodacolor-x-ref-a4b1)
@@ -466,6 +470,7 @@ Total scans : 1410
 - [[C-41] Kodak Gold II (ref: 61d0)](#c-41-kodak-gold-ii-ref-61d0)
 - [[C-41] Kodak Gold III (ref: cd39)](#c-41-kodak-gold-iii-ref-cd39)
 - [[C-41] Kodak Gold Plus (ref: 114f)](#c-41-kodak-gold-plus-ref-114f)
+- [[C-41] Kodak Gold Ultra (ref: 8073)](#c-41-kodak-gold-ultra-ref-8073)
 - [[C-41] Kodak Gold Ultra 400 (ref: 1358)](#c-41-kodak-gold-ultra-400-ref-1358)
 - [[C-41] Kodak Kodacolor 100 (ref: 73e0)](#c-41-kodak-kodacolor-100-ref-73e0)
 - [[C-41] Kodak Kodacolor 200 (ref: f856)](#c-41-kodak-kodacolor-200-ref-f856)
@@ -798,6 +803,7 @@ Total scans : 1410
 - [[Unknown] ORWO UP 27 DS 8 (ref: 4d5a)](#unknown-orwo-up-27-ds-8-ref-4d5a)
 - [[Unknown] PrinzColor Colour Negative Film (ref: 448c)](#unknown-prinzcolor-colour-negative-film-ref-448c)
 - [[Unknown] Robot NR-Cassette (ref: bc7a)](#unknown-robot-nr-cassette-ref-bc7a)
+- [[Unknown] Svema CO 32 D (ref: 6813)](#unknown-svema-co-32-d-ref-6813)
 - [[Unknown] Triple-Print Film Labs Color Negative Film (ref: 88e6)](#unknown-triple-print-film-labs-color-negative-film-ref-88e6)
 
 
@@ -1130,6 +1136,20 @@ UUID  : e00a9a59b3d74a1d85ff4331bc73e271
 
 <a href="./archive/00191_000.jpg" target="_blank">
 	<img src="./lowres/00191_000.jpg" alt="Agfa Agfapan APX 100 35mm film box outside" loading="lazy" width="422" height="499">
+</a>
+
+#### [BW] Agfa Agfapan APX 25 (ref: ce22)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 25           |  Expiry  : 1998-01 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 75d91bb50f9c424787c11b421e1ece22
+```
+
+<a href="./archive/00784_000.jpg" target="_blank">
+	<img src="./lowres/00784_000.jpg" alt="Agfa Agfapan APX 25 35mm film box outside" loading="lazy" width="426" height="500">
 </a>
 
 #### [BW] Agfa Agfapan APX 25 (ref: 5a92)
@@ -1951,6 +1971,27 @@ UUID  : 3296821c76484d32b09ff0f32057189e
 	<img src="./lowres/00472_002.jpg" alt="Foma Fomapan 400 Set 35mm film box leaflet" loading="lazy" width="370" height="500">
 </a>
 
+#### [BW] Foma Fomapan Action 400 (ref: 6a6c)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2026-08 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 53d01f1e8ded420195d736b0659d6a6c
+```
+
+<a href="./archive/00786_000.jpg" target="_blank">
+	<img src="./lowres/00786_000.jpg" alt="Foma Fomapan Action 400 35mm film box outside" loading="lazy" width="421" height="500">
+</a>
+
+
+`UUID: 847255b79dcc44cdaa2be82c41e607c7`↓
+
+<a href="./archive/00786_001.jpg" target="_blank">
+	<img src="./lowres/00786_001.jpg" alt="Foma Fomapan Action 400 35mm film box inside" loading="lazy" width="425" height="500">
+</a>
+
 #### [BW] Foma Fomapan Classic 100 (ref: 4eb6)
 
 ```
@@ -2103,6 +2144,27 @@ UUID  : 0315635e32bb4848aaa2fe65ac7aa10e
 
 <a href="./archive/00413_002.jpg" target="_blank">
 	<img src="./lowres/00413_002.jpg" alt="Foma Fomapan F17 120 film box leaflet" loading="lazy" width="362" height="500">
+</a>
+
+#### [BW] Foma Fomapan action 400 (ref: a132)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2022-06 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 7faaeb8059144cb094919a2b8c15a132
+```
+
+<a href="./archive/00785_000.jpg" target="_blank">
+	<img src="./lowres/00785_000.jpg" alt="Foma Fomapan action 400 35mm film box outside" loading="lazy" width="421" height="500">
+</a>
+
+
+`UUID: 3fb497ea58bf4160853431e3f669cff5`↓
+
+<a href="./archive/00785_001.jpg" target="_blank">
+	<img src="./lowres/00785_001.jpg" alt="Foma Fomapan action 400 35mm film box inside" loading="lazy" width="425" height="500">
 </a>
 
 #### [BW] Foma Fomapan classic 100 (ref: 5e7b)
@@ -6076,6 +6138,20 @@ UUID  : 898148fa3a754866a407bbecec4a71a6
 	<img src="./lowres/00131_000.jpg" alt="Wolfen NP100 35mm film box outside" loading="lazy" width="500" height="455">
 </a>
 
+#### [C-22] Fujifilm Superia 200 (ref: 8b76)
+
+```
+Format: 35mm         |  Process : C-22    
+ISO   : 200          |  Expiry  : 2008-09 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 5c8ca907474648dcbdaa3ec6f2e28b76
+```
+
+<a href="./archive/00787_000.jpg" target="_blank">
+	<img src="./lowres/00787_000.jpg" alt="Fujifilm Superia 200 35mm film box outside" loading="lazy" width="447" height="500">
+</a>
+
 #### [C-22] Kodak Kodacolor (ref: 5d25)
 
 ```
@@ -9132,6 +9208,20 @@ UUID  : 3bba5e916d5d4460a7c644296d22114f
 
 <a href="./archive/00664_001.jpg" target="_blank">
 	<img src="./lowres/00664_001.jpg" alt="Kodak Gold Plus 35mm film box inside" loading="lazy" width="277" height="500">
+</a>
+
+#### [C-41] Kodak Gold Ultra (ref: 8073)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 1999-10 
+Type  : Single Pack  |  Quantity: 24 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 493d789f79984defb9e0e69431fc8073
+```
+
+<a href="./archive/00782_000.jpg" target="_blank">
+	<img src="./lowres/00782_000.jpg" alt="Kodak Gold Ultra 110 film box outside" loading="lazy" width="500" height="461">
 </a>
 
 #### [C-41] Kodak Gold Ultra 400 (ref: 1358)
@@ -16113,6 +16203,20 @@ UUID  : 55a2616da3a9456a90f763ed8ac5bc7a
 	<img src="./lowres/00384_000.jpg" alt="Robot NR-Cassette 35mm film box outside" loading="lazy" width="500" height="421">
 </a>
 
+#### [Unknown] Svema CO 32 D (ref: 6813)
+
+```
+Format: 120          |  Process : Unknown 
+ISO   : 40           |  Expiry  : 1987-11 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : f48a91c86a8f42168dd23e0fbcac6813
+```
+
+<a href="./archive/00783_000.jpg" target="_blank">
+	<img src="./lowres/00783_000.jpg" alt="Svema CO 32 D 120 film box outside" loading="lazy" width="500" height="413">
+</a>
+
 #### [Unknown] Triple-Print Film Labs Color Negative Film (ref: 88e6)
 
 ```
@@ -16151,40 +16255,41 @@ Notes : Division of Film Corporation of America
 ```
 Rank  Username                  Contributions    Rank  Username                  Contributions
 ----------------------------------------------    ----------------------------------------------
-1     dekuNukem                 343              35    @toastergod101            7
-2     Luci 101                  102              36    @filmfotofella            7
-3     @ellafridalindblom        79               37    dzindevis                 7
-4     @Hol.m35                  75               38    GreatGizmo74              6
-5     @photos.by.qi             72               39    nick                      6
-6     Pelicram                  71               40    Greg                      6
-7     nyctomanica               70               41    Kristof Lemp              6
-8     @recycling.film           69               42    @gregrouxphotography      5
-9     Dialupdude                44               43    Tobias                    5
-10    Mauphoto                  28               44    @janjuudas                5
-11    The Compartmentalist      24               45    Henry Gunn                4
-12    Chrisbes                  22               46    TheSelousScout            4
-13    kaimon                    20               47    Vince Costello            4
-14    benjaminbeeroll           20               48    Rhiannon                  4
-15    @ob.skura                 19               49    @sachynmital              3
-16    fine-seat                 19               50    @shotbyliampewpew         3
-17    Camera.Riley              19               51    Tallbird Cowboy           3
-18    Nano_Burger               18               52    DaFujiDude                3
-19    waldoboro                 18               53    whoman560                 3
-20    toader                    17               54    Gergely Orsi              3
-21    b0baspace                 14               55    @seklerek                 2
-22    yc128                     13               56    @ftfilmphotos             2
-23    @SirBrentsworth           13               57    @tylerdrey                2
-24    benikum                   12               58    Warren Umbach             2
-25    u/ReeeSchmidtyWerber      11               59    @flyingcamerastudio       2
-26    @zruk_ts                  10               60    @pommegranny              2
-27    minidiscus                10               61    @sl35hater                2
-28    green eggs and sam        10               62    Yrikonchik                1
-29    lilyu.xyz                 9                63    @ad.astra.per.aspera.1894 1
-30    Kraksen                   9                64    Aoi Yuki                  1
-31    lt_col_tall               9                65    lemoniter                 1
-32    MCB18                     9                66    Joo                       1
-33    reschmidt12               9                67    @titanic_159              1
-34    Rafa Laguillo             8                68    Constantino               1
+1     dekuNukem                 343              36    @toastergod101            7
+2     Luci 101                  102              37    @filmfotofella            7
+3     @ellafridalindblom        79               38    dzindevis                 7
+4     @Hol.m35                  75               39    GreatGizmo74              6
+5     @photos.by.qi             72               40    nick                      6
+6     Pelicram                  71               41    Greg                      6
+7     nyctomanica               70               42    Kristof Lemp              6
+8     @recycling.film           69               43    @gregrouxphotography      5
+9     Dialupdude                44               44    Tobias                    5
+10    Mauphoto                  28               45    @janjuudas                5
+11    The Compartmentalist      24               46    Henry Gunn                4
+12    Chrisbes                  22               47    TheSelousScout            4
+13    kaimon                    20               48    Vince Costello            4
+14    benjaminbeeroll           20               49    Rhiannon                  4
+15    @ob.skura                 19               50    @sachynmital              3
+16    fine-seat                 19               51    @shotbyliampewpew         3
+17    Camera.Riley              19               52    Tallbird Cowboy           3
+18    Nano_Burger               18               53    DaFujiDude                3
+19    waldoboro                 18               54    whoman560                 3
+20    toader                    17               55    Gergely Orsi              3
+21    b0baspace                 14               56    @seklerek                 2
+22    yc128                     13               57    @ftfilmphotos             2
+23    @SirBrentsworth           13               58    @tylerdrey                2
+24    benikum                   12               59    Warren Umbach             2
+25    u/ReeeSchmidtyWerber      11               60    @flyingcamerastudio       2
+26    @zruk_ts                  10               61    @pommegranny              2
+27    minidiscus                10               62    @sl35hater                2
+28    green eggs and sam        10               63    Yrikonchik                1
+29    lilyu.xyz                 9                64    @ad.astra.per.aspera.1894 1
+30    Kraksen                   9                65    Aoi Yuki                  1
+31    lt_col_tall               9                66    lemoniter                 1
+32    MCB18                     9                67    Joo                       1
+33    reschmidt12               9                68    @titanic_159              1
+34    Rafa Laguillo             8                69    Constantino               1
+35    CaptainAgman              8
 ```
 
 ## Questions or Comments?
