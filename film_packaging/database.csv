@@ -1417,3 +1417,19 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 786,0,film_box_outside,Foma,Fomapan Action 400,35mm,400,BW,202608,1794225679,14d83fd6e9b54b862922cecc4d3f260b,53d01f1e8ded420195d736b0659d6a6c,00786_000.jpg,CaptainAgman,,Single Pack,36,exp
 786,1,film_box_inside,Foma,Fomapan Action 400,35mm,400,BW,202608,1794225681,f76cb09a28ae94a694769355c802a911,847255b79dcc44cdaa2be82c41e607c7,00786_001.jpg,CaptainAgman,,Single Pack,36,exp
 787,0,film_box_outside,Fujifilm,Superia 200,35mm,200,C-22,200809,1794225761,fb0b50b132d767853965a2eaf6407c4b,5c8ca907474648dcbdaa3ec6f2e28b76,00787_000.jpg,CaptainAgman,,Single Pack,36,exp
+788,0,film_box_outside,Ilford,SFX 200,35mm,200,BW,202509,1794226131,e1d23ca938d89ab82e089488832eea99,e4e11d162052435c8f67835d1da1cfb2,00788_000.jpg,CaptainAgman,,Single Pack,36,exp
+788,1,film_box_inside,Ilford,SFX 200,35mm,200,BW,202509,1794226138,a623515df406bf474e6a518f71ed1731,6f8a733c98f340c09011dbfea034fae2,00788_001.jpg,CaptainAgman,,Single Pack,36,exp
+789,0,film_box_outside,Kodak,ColorPlus,35mm,200,C-41,200510,1794226230,f6ed6998356f6de9f1d3997f0f685f49,ea91010988ee4f95884a1d1633678c4b,00789_000.jpg,CaptainAgman,,Single Pack,36,exp
+790,0,film_box_outside,Konica,VX 200,35mm,200,C-41,200310,1794226333,b91296a3db6e73ce6363f6d079af3a0c,b4938f8372924a4b8ace581828988578,00790_000.jpg,CaptainAgman,,Single Pack,12,exp
+790,1,film_box_inside,Konica,VX 200,35mm,200,C-41,200310,1794226341,c0d881843e6433dd8720948212a53981,2fdf8c6cf96a4c1e967bbe4b87f51cf7,00790_001.jpg,CaptainAgman,,Single Pack,12,exp
+791,0,film_box_outside,Lucky,C200,35mm,200,C-41,202802,1794226411,3a79bc46dbdd9eda9ac58431ad89e727,42a87df7b7af411488e419c49eaafaae,00791_000.jpg,CaptainAgman,,Single Pack,36,exp
+791,1,film_box_inside,Lucky,C200,35mm,200,C-41,202802,1794226412,a659faf3a6ef4693d5a2b7e3856be137,2b4e6aab080f40ccae2a402a84b846ef,00791_001.jpg,CaptainAgman,,Single Pack,36,exp
+792,0,film_box_outside,Owro,NP20,35mm,80,BW,Unknown,1794226569,5da0e2f2890be835017a76285b46e51b,0e700f279e354b36b7ba1ebbfc95fc4a,00792_000.jpg,CaptainAgman,,Refill,36,exp
+793,0,film_box_outside,Bureau for the Propaganda of Soviet Film Art,Positive Photo Film,35mm,1,Unknown,196208,1794226844,3d8668d4c9ea3fe479515f42bf3051f7,8edf5c4245dd47b2b44eb09714705073,00793_000.jpg,CaptainAgman,Бюро пропаганды советского киноискусства,Single Pack,36,exp
+794,0,film_box_outside,Tasma,Foto 130,35mm,160,BW,198802,1794227080,38d8736f26e4d37e575b9b3b86cca1b1,c6572e7191144f208bd65b3b1bd159f3,00794_000.jpg,CaptainAgman,,Refill,36,exp
+795,0,film_box_outside,Tasma,Foto 64,35mm,64,BW,199105,1794227151,71b247d65b4d8b2b03f849a32c9a5f4c,c6b08ccfb59a43118cb3dd3ea11e7f21,00795_000.jpg,CaptainAgman,,Refill,36,exp
+796,0,film_box_outside,Tasma,FN 64,35mm,64,BW,200105,1794227273,90e3a711b4b7e46a032dcbf5ffa90ee2,5d1d2c376c1c43d78b8988edddccd104,00796_000.jpg,CaptainAgman,,Refill,36,exp
+797,0,film_box_outside,Tasma,FN 64,35mm,64,BW,199309,1794227327,6862ad78a64dfeca0ea064b83f6d92d8,01a8b678bfa24b73b8c93e8c454c087d,00797_000.jpg,CaptainAgman,,Refill,36,exp
+798,0,film_box_outside,Svena,CND-32,35mm,40,Unknown,198308,1794227433,1ff7504ad469287f2c21f0fdacbdba45,a04a99ef72ff4610b9323cfbde8145c9,00798_000.jpg,CaptainAgman,,Single Pack,36,exp
+799,0,film_box_outside,Scotch,Scotch Color EXL 100,35mm,100,C-41,199504,1794227618,11ce4fb88218f1e0c3cb1a0ceecaade2,54b2964951c9456fad15bcd6e8b2b189,00799_000.jpg,CaptainAgman,,Single Pack,12,exp
+799,1,film_box_inside,Scotch,Scotch Color EXL 100,35mm,100,C-41,199504,1794227622,fbdd3f0b72b30ef7e0382ad62781a1c4,56d21b3c534c4607accc3831a8bd3517,00799_001.jpg,CaptainAgman,,Single Pack,12,exp

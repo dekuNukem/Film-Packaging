@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Nov 09 2026
-Unique items: 783
-Total scans : 1418
+Unique items: 795
+Total scans : 1434
 ```
 
 -----
@@ -97,6 +97,7 @@ Total scans : 1418
 - [Building 2 250D (ref: 7d4f)](#building-2-250d-ref-7d4f)
 - [Building 2 500T (ref: 70d9)](#building-2-500t-ref-70d9)
 - [Building 2 50D (ref: e548)](#building-2-50d-ref-e548)
+- [Bureau for the Propaganda of Soviet Film Art Positive Photo Film (ref: 5073)](#bureau-for-the-propaganda-of-soviet-film-art-positive-photo-film-ref-5073)
 - [Camera Film Photo Limited Kiki Pan 320 (ref: 3937)](#camera-film-photo-limited-kiki-pan-320-ref-3937)
 - [Candido Candido400 (ref: 5f29)](#candido-candido400-ref-5f29)
 - [Candido Colour Negative Film (ref: 6cd2)](#candido-colour-negative-film-ref-6cd2)
@@ -325,6 +326,7 @@ Total scans : 1418
 - [Ilford Pan F 50 (ref: c977)](#ilford-pan-f-50-ref-c977)
 - [Ilford R.25 F.P Special (ref: ec05)](#ilford-r25-fp-special-ref-ec05)
 - [Ilford SFX 200 (ref: 6057)](#ilford-sfx-200-ref-6057)
+- [Ilford SFX 200 (ref: cfb2)](#ilford-sfx-200-ref-cfb2)
 - [Ilford Selochrome (ref: f534)](#ilford-selochrome-ref-f534)
 - [Ilford XP2 (ref: 7d94)](#ilford-xp2-ref-7d94)
 - [Ilford XP2 Super (ref: 484f)](#ilford-xp2-super-ref-484f)
@@ -363,6 +365,7 @@ Total scans : 1418
 - [Kodak Advantix Ultra Max (ref: 1ca2)](#kodak-advantix-ultra-max-ref-1ca2)
 - [Kodak Black & White + (ref: 2ff3)](#kodak-black-white-ref-2ff3)
 - [Kodak Color Plus (ref: 1f55)](#kodak-color-plus-ref-1f55)
+- [Kodak ColorPlus (ref: 8c4b)](#kodak-colorplus-ref-8c4b)
 - [Kodak ColorPlus (ref: 79ca)](#kodak-colorplus-ref-79ca)
 - [Kodak ColorPlus (ref: 6637)](#kodak-colorplus-ref-6637)
 - [Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
@@ -585,6 +588,7 @@ Total scans : 1418
 - [Konica SXG 100 (ref: 4096)](#konica-sxg-100-ref-4096)
 - [Konica Sepia Professional (ref: 0b40)](#konica-sepia-professional-ref-0b40)
 - [Konica VX 100 Super (ref: 90b4)](#konica-vx-100-super-ref-90b4)
+- [Konica VX 200 (ref: 8578)](#konica-vx-200-ref-8578)
 - [Konica Minolta Centuria 100 (ref: 00ae)](#konica-minolta-centuria-100-ref-00ae)
 - [Konica Minolta Centuria Super (ref: 95f0)](#konica-minolta-centuria-super-ref-95f0)
 - [Konica Minolta Centuria Super (ref: 9b08)](#konica-minolta-centuria-super-ref-9b08)
@@ -625,6 +629,7 @@ Total scans : 1418
 - [Lucky C200 (ref: e6f8)](#lucky-c200-ref-e6f8)
 - [Lucky C200 (ref: 9c6c)](#lucky-c200-ref-9c6c)
 - [Lucky C200 (ref: b0cc)](#lucky-c200-ref-b0cc)
+- [Lucky C200 (ref: faae)](#lucky-c200-ref-faae)
 - [Lucky C400 (ref: a02c)](#lucky-c400-ref-a02c)
 - [Lucky LuckyColor BR100 (ref: a71c)](#lucky-luckycolor-br100-ref-a71c)
 - [Lucky SHD 100 (ref: 7feb)](#lucky-shd-100-ref-7feb)
@@ -683,6 +688,7 @@ Total scans : 1418
 - [Optik Oldschool OptiColour 200 (ref: a7c9)](#optik-oldschool-opticolour-200-ref-a7c9)
 - [Optik Oldschool OptiMono 100 (ref: 312c)](#optik-oldschool-optimono-100-ref-312c)
 - [Optik Oldschool SantaColor (ref: dd85)](#optik-oldschool-santacolor-ref-dd85)
+- [Owro NP20 (ref: fc4a)](#owro-np20-ref-fc4a)
 - [PandaCamera DoubleX (ref: a290)](#pandacamera-doublex-ref-a290)
 - [Perfect Photo Inc. Perfect-Pan Film (ref: c214)](#perfect-photo-inc-perfect-pan-film-ref-c214)
 - [Perutz CR 100 (ref: b5df)](#perutz-cr-100-ref-b5df)
@@ -771,6 +777,7 @@ Total scans : 1418
 - [SantaColor SantaColor (ref: cb58)](#santacolor-santacolor-ref-cb58)
 - [SantaColor SantaColor (ref: f3a7)](#santacolor-santacolor-ref-f3a7)
 - [Schlecker Fotoland AS Color 200 (ref: 2bf6)](#schlecker-fotoland-as-color-200-ref-2bf6)
+- [Scotch Scotch Color EXL 100 (ref: b189)](#scotch-scotch-color-exl-100-ref-b189)
 - [Seagull Seagull Color IR100 (ref: e7cc)](#seagull-seagull-color-ir100-ref-e7cc)
 - [Seagull Seagull Color IR100 (ref: 8fd8)](#seagull-seagull-color-ir100-ref-8fd8)
 - [Seed Dry Plates (ref: ad62)](#seed-dry-plates-ref-ad62)
@@ -793,6 +800,11 @@ Total scans : 1418
 - [Svema Foto 64 (ref: 18f8)](#svema-foto-64-ref-18f8)
 - [Svema Foto 64 (ref: 481f)](#svema-foto-64-ref-481f)
 - [Svema Foto 64 (ref: 10cb)](#svema-foto-64-ref-10cb)
+- [Svena CND-32 (ref: 45c9)](#svena-cnd-32-ref-45c9)
+- [Tasma FN 64 (ref: 087d)](#tasma-fn-64-ref-087d)
+- [Tasma FN 64 (ref: d104)](#tasma-fn-64-ref-d104)
+- [Tasma Foto 130 (ref: 59f3)](#tasma-foto-130-ref-59f3)
+- [Tasma Foto 64 (ref: 7f21)](#tasma-foto-64-ref-7f21)
 - [Tasma OCh 50 (ref: 5c43)](#tasma-och-50-ref-5c43)
 - [Three Film Rolls 5207 (ref: 0292)](#three-film-rolls-5207-ref-0292)
 - [Triple-Print Film Labs Color Negative Film (ref: 88e6)](#triple-print-film-labs-color-negative-film-ref-88e6)
@@ -2298,6 +2310,21 @@ UUID  : f0c8cbdc08d146ba8690d19a70dbe548
 
 <a href="./archive/00213_000.jpg" target="_blank">
 	<img src="./lowres/00213_000.jpg" alt="Building 2 50D 35mm film box outside" loading="lazy" width="410" height="499">
+</a>
+
+#### Bureau for the Propaganda of Soviet Film Art Positive Photo Film (ref: 5073)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 1            |  Expiry  : 1962-08 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 8edf5c4245dd47b2b44eb09714705073
+Notes : Бюро пропаганды советского киноискусства
+```
+
+<a href="./archive/00793_000.jpg" target="_blank">
+	<img src="./lowres/00793_000.jpg" alt="Bureau for the Propaganda of Soviet Film Art Positive Photo Film 35mm film box outside" loading="lazy" width="500" height="394">
 </a>
 
 #### Camera Film Photo Limited Kiki Pan 320 (ref: 3937)
@@ -6667,6 +6694,27 @@ UUID  : 7856b5442362453caa67628c93be6057
 	<img src="./lowres/00009_001.jpg" alt="Ilford SFX 200 120 film box inside" loading="lazy" width="500" height="456">
 </a>
 
+#### Ilford SFX 200 (ref: cfb2)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 200          |  Expiry  : 2025-09 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : e4e11d162052435c8f67835d1da1cfb2
+```
+
+<a href="./archive/00788_000.jpg" target="_blank">
+	<img src="./lowres/00788_000.jpg" alt="Ilford SFX 200 35mm film box outside" loading="lazy" width="423" height="500">
+</a>
+
+
+`UUID: 6f8a733c98f340c09011dbfea034fae2`↓
+
+<a href="./archive/00788_001.jpg" target="_blank">
+	<img src="./lowres/00788_001.jpg" alt="Ilford SFX 200 35mm film box inside" loading="lazy" width="423" height="500">
+</a>
+
 #### Ilford Selochrome (ref: f534)
 
 ```
@@ -7400,6 +7448,20 @@ UUID  : d74d2e6f081d414d916d0d2e60231f55
 
 <a href="./archive/00753_000.jpg" target="_blank">
 	<img src="./lowres/00753_000.jpg" alt="Kodak Color Plus 35mm film box outside" loading="lazy" width="411" height="500">
+</a>
+
+#### Kodak ColorPlus (ref: 8c4b)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2005-10 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : ea91010988ee4f95884a1d1633678c4b
+```
+
+<a href="./archive/00789_000.jpg" target="_blank">
+	<img src="./lowres/00789_000.jpg" alt="Kodak ColorPlus 35mm film box outside" loading="lazy" width="421" height="500">
 </a>
 
 #### Kodak ColorPlus (ref: 79ca)
@@ -11748,6 +11810,27 @@ UUID  : 39efe40e04c44643850d8442b4c490b4
 	<img src="./lowres/00652_001.jpg" alt="Konica VX 100 Super 35mm film box inside" loading="lazy" width="250" height="500">
 </a>
 
+#### Konica VX 200 (ref: 8578)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2003-10 
+Type  : Single Pack  |  Quantity: 12 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : b4938f8372924a4b8ace581828988578
+```
+
+<a href="./archive/00790_000.jpg" target="_blank">
+	<img src="./lowres/00790_000.jpg" alt="Konica VX 200 35mm film box outside" loading="lazy" width="444" height="500">
+</a>
+
+
+`UUID: 2fdf8c6cf96a4c1e967bbe4b87f51cf7`↓
+
+<a href="./archive/00790_001.jpg" target="_blank">
+	<img src="./lowres/00790_001.jpg" alt="Konica VX 200 35mm film box inside" loading="lazy" width="411" height="500">
+</a>
+
 #### Konica Minolta Centuria 100 (ref: 00ae)
 
 ```
@@ -12476,6 +12559,27 @@ UUID  : 417dc63303e24ed58b36a4fbe55ab0cc
 
 <a href="./archive/00550_001.jpg" target="_blank">
 	<img src="./lowres/00550_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="316" height="500">
+</a>
+
+#### Lucky C200 (ref: faae)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2028-02 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 42a87df7b7af411488e419c49eaafaae
+```
+
+<a href="./archive/00791_000.jpg" target="_blank">
+	<img src="./lowres/00791_000.jpg" alt="Lucky C200 35mm film box outside" loading="lazy" width="428" height="500">
+</a>
+
+
+`UUID: 2b4e6aab080f40ccae2a402a84b846ef`↓
+
+<a href="./archive/00791_001.jpg" target="_blank">
+	<img src="./lowres/00791_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="424" height="500">
 </a>
 
 #### Lucky C400 (ref: a02c)
@@ -13816,6 +13920,20 @@ UUID  : bc9726f8d278473591afb78fc49bdd85
 
 <a href="./archive/00505_000.jpg" target="_blank">
 	<img src="./lowres/00505_000.jpg" alt="Optik Oldschool SantaColor 35mm film box outside" loading="lazy" width="500" height="478">
+</a>
+
+#### Owro NP20 (ref: fc4a)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 80           |  Expiry  : Unknown 
+Type  : Refill       |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 0e700f279e354b36b7ba1ebbfc95fc4a
+```
+
+<a href="./archive/00792_000.jpg" target="_blank">
+	<img src="./lowres/00792_000.jpg" alt="Owro NP20 35mm film box outside" loading="lazy" width="500" height="461">
 </a>
 
 #### PandaCamera DoubleX (ref: a290)
@@ -15620,6 +15738,27 @@ UUID  : 5a16cb60bf3d4de3bc16a789a1af2bf6
 	<img src="./lowres/00632_000.jpg" alt="Schlecker Fotoland AS Color 200 35mm film box outside" loading="lazy" width="422" height="499">
 </a>
 
+#### Scotch Scotch Color EXL 100 (ref: b189)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1995-04 
+Type  : Single Pack  |  Quantity: 12 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 54b2964951c9456fad15bcd6e8b2b189
+```
+
+<a href="./archive/00799_000.jpg" target="_blank">
+	<img src="./lowres/00799_000.jpg" alt="Scotch Scotch Color EXL 100 35mm film box outside" loading="lazy" width="420" height="499">
+</a>
+
+
+`UUID: 56d21b3c534c4607accc3831a8bd3517`↓
+
+<a href="./archive/00799_001.jpg" target="_blank">
+	<img src="./lowres/00799_001.jpg" alt="Scotch Scotch Color EXL 100 35mm film box inside" loading="lazy" width="421" height="500">
+</a>
+
 #### Seagull Seagull Color IR100 (ref: e7cc)
 
 ```
@@ -16028,6 +16167,76 @@ UUID  : e783964d8b4f48e8bd12d7d2c3c510cb
 	<img src="./lowres/00403_000.jpg" alt="Svema Foto 64 35mm film box outside" loading="lazy" width="500" height="465">
 </a>
 
+#### Svena CND-32 (ref: 45c9)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 40           |  Expiry  : 1983-08 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : a04a99ef72ff4610b9323cfbde8145c9
+```
+
+<a href="./archive/00798_000.jpg" target="_blank">
+	<img src="./lowres/00798_000.jpg" alt="Svena CND-32 35mm film box outside" loading="lazy" width="500" height="475">
+</a>
+
+#### Tasma FN 64 (ref: 087d)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 64           |  Expiry  : 1993-09 
+Type  : Refill       |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 01a8b678bfa24b73b8c93e8c454c087d
+```
+
+<a href="./archive/00797_000.jpg" target="_blank">
+	<img src="./lowres/00797_000.jpg" alt="Tasma FN 64 35mm film box outside" loading="lazy" width="500" height="496">
+</a>
+
+#### Tasma FN 64 (ref: d104)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 64           |  Expiry  : 2001-05 
+Type  : Refill       |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 5d1d2c376c1c43d78b8988edddccd104
+```
+
+<a href="./archive/00796_000.jpg" target="_blank">
+	<img src="./lowres/00796_000.jpg" alt="Tasma FN 64 35mm film box outside" loading="lazy" width="500" height="493">
+</a>
+
+#### Tasma Foto 130 (ref: 59f3)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 160          |  Expiry  : 1988-02 
+Type  : Refill       |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : c6572e7191144f208bd65b3b1bd159f3
+```
+
+<a href="./archive/00794_000.jpg" target="_blank">
+	<img src="./lowres/00794_000.jpg" alt="Tasma Foto 130 35mm film box outside" loading="lazy" width="500" height="452">
+</a>
+
+#### Tasma Foto 64 (ref: 7f21)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 64           |  Expiry  : 1991-05 
+Type  : Refill       |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : c6b08ccfb59a43118cb3dd3ea11e7f21
+```
+
+<a href="./archive/00795_000.jpg" target="_blank">
+	<img src="./lowres/00795_000.jpg" alt="Tasma Foto 64 35mm film box outside" loading="lazy" width="480" height="500">
+</a>
+
 #### Tasma OCh 50 (ref: 5c43)
 
 ```
@@ -16266,30 +16475,30 @@ Rank  Username                  Contributions    Rank  Username                 
 9     Dialupdude                44               44    Tobias                    5
 10    Mauphoto                  28               45    @janjuudas                5
 11    The Compartmentalist      24               46    Henry Gunn                4
-12    Chrisbes                  22               47    TheSelousScout            4
-13    kaimon                    20               48    Vince Costello            4
-14    benjaminbeeroll           20               49    Rhiannon                  4
-15    @ob.skura                 19               50    @sachynmital              3
-16    fine-seat                 19               51    @shotbyliampewpew         3
-17    Camera.Riley              19               52    Tallbird Cowboy           3
-18    Nano_Burger               18               53    DaFujiDude                3
-19    waldoboro                 18               54    whoman560                 3
-20    toader                    17               55    Gergely Orsi              3
-21    b0baspace                 14               56    @seklerek                 2
-22    yc128                     13               57    @ftfilmphotos             2
-23    @SirBrentsworth           13               58    @tylerdrey                2
-24    benikum                   12               59    Warren Umbach             2
-25    u/ReeeSchmidtyWerber      11               60    @flyingcamerastudio       2
-26    @zruk_ts                  10               61    @pommegranny              2
-27    minidiscus                10               62    @sl35hater                2
-28    green eggs and sam        10               63    Yrikonchik                1
-29    lilyu.xyz                 9                64    @ad.astra.per.aspera.1894 1
-30    Kraksen                   9                65    Aoi Yuki                  1
-31    lt_col_tall               9                66    lemoniter                 1
-32    MCB18                     9                67    Joo                       1
-33    reschmidt12               9                68    @titanic_159              1
-34    Rafa Laguillo             8                69    Constantino               1
-35    CaptainAgman              8
+12    CaptainAgman              24               47    TheSelousScout            4
+13    Chrisbes                  22               48    Vince Costello            4
+14    kaimon                    20               49    Rhiannon                  4
+15    benjaminbeeroll           20               50    @sachynmital              3
+16    @ob.skura                 19               51    @shotbyliampewpew         3
+17    fine-seat                 19               52    Tallbird Cowboy           3
+18    Camera.Riley              19               53    DaFujiDude                3
+19    Nano_Burger               18               54    whoman560                 3
+20    waldoboro                 18               55    Gergely Orsi              3
+21    toader                    17               56    @seklerek                 2
+22    b0baspace                 14               57    @ftfilmphotos             2
+23    yc128                     13               58    @tylerdrey                2
+24    @SirBrentsworth           13               59    Warren Umbach             2
+25    benikum                   12               60    @flyingcamerastudio       2
+26    u/ReeeSchmidtyWerber      11               61    @pommegranny              2
+27    @zruk_ts                  10               62    @sl35hater                2
+28    minidiscus                10               63    Yrikonchik                1
+29    green eggs and sam        10               64    @ad.astra.per.aspera.1894 1
+30    lilyu.xyz                 9                65    Aoi Yuki                  1
+31    Kraksen                   9                66    lemoniter                 1
+32    lt_col_tall               9                67    Joo                       1
+33    MCB18                     9                68    @titanic_159              1
+34    reschmidt12               9                69    Constantino               1
+35    Rafa Laguillo             8
 ```
 
 ## Questions or Comments?

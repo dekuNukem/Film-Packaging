@@ -25,11 +25,12 @@ def is_file_already_in_db(entries, md5_str):
 
 def get_yn(question):
     while 1:
-        response = input(f"{question}\n")
-        if response.lower().startswith('y'):
+        response = input(f"{question}\n").strip().lower()
+        if response == 'y':
             return True
-        if response.lower().startswith('n'):
+        if response == 'n':
             return False
+        print(colored("Invalid choice, please enter Y or N.", alert_color))
 
 def get_answer(question, accept_empty=False):
     while True:
@@ -167,7 +168,8 @@ try:
 except Exception as e:
     print("csv read exception:", e)
 
-did_resize = get_answer(f"Have you run the resize script?", accept_empty=True)
+if get_yn("Run resize script?"):
+    subprocess.run([sys.executable, os.path.join(os.path.dirname(os.path.abspath(__file__)), "resize_to_add.py")], check=True)
 
 author_prompted = False
 

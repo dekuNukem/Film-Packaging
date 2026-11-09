@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Nov 09 2026
-Unique items: 783
-Total scans : 1418
+Unique items: 795
+Total scans : 1434
 ```
 
 Or Sort by...
@@ -64,30 +64,30 @@ Rank  Username                  Contributions    Rank  Username                 
 9     Dialupdude                44               44    Tobias                    5
 10    Mauphoto                  28               45    @janjuudas                5
 11    The Compartmentalist      24               46    Henry Gunn                4
-12    Chrisbes                  22               47    TheSelousScout            4
-13    kaimon                    20               48    Vince Costello            4
-14    benjaminbeeroll           20               49    Rhiannon                  4
-15    @ob.skura                 19               50    @sachynmital              3
-16    fine-seat                 19               51    @shotbyliampewpew         3
-17    Camera.Riley              19               52    Tallbird Cowboy           3
-18    Nano_Burger               18               53    DaFujiDude                3
-19    waldoboro                 18               54    whoman560                 3
-20    toader                    17               55    Gergely Orsi              3
-21    b0baspace                 14               56    @seklerek                 2
-22    yc128                     13               57    @ftfilmphotos             2
-23    @SirBrentsworth           13               58    @tylerdrey                2
-24    benikum                   12               59    Warren Umbach             2
-25    u/ReeeSchmidtyWerber      11               60    @flyingcamerastudio       2
-26    @zruk_ts                  10               61    @pommegranny              2
-27    minidiscus                10               62    @sl35hater                2
-28    green eggs and sam        10               63    Yrikonchik                1
-29    lilyu.xyz                 9                64    @ad.astra.per.aspera.1894 1
-30    Kraksen                   9                65    Aoi Yuki                  1
-31    lt_col_tall               9                66    lemoniter                 1
-32    MCB18                     9                67    Joo                       1
-33    reschmidt12               9                68    @titanic_159              1
-34    Rafa Laguillo             8                69    Constantino               1
-35    CaptainAgman              8
+12    CaptainAgman              24               47    TheSelousScout            4
+13    Chrisbes                  22               48    Vince Costello            4
+14    kaimon                    20               49    Rhiannon                  4
+15    benjaminbeeroll           20               50    @sachynmital              3
+16    @ob.skura                 19               51    @shotbyliampewpew         3
+17    fine-seat                 19               52    Tallbird Cowboy           3
+18    Camera.Riley              19               53    DaFujiDude                3
+19    Nano_Burger               18               54    whoman560                 3
+20    waldoboro                 18               55    Gergely Orsi              3
+21    toader                    17               56    @seklerek                 2
+22    b0baspace                 14               57    @ftfilmphotos             2
+23    yc128                     13               58    @tylerdrey                2
+24    @SirBrentsworth           13               59    Warren Umbach             2
+25    benikum                   12               60    @flyingcamerastudio       2
+26    u/ReeeSchmidtyWerber      11               61    @pommegranny              2
+27    @zruk_ts                  10               62    @sl35hater                2
+28    minidiscus                10               63    Yrikonchik                1
+29    green eggs and sam        10               64    @ad.astra.per.aspera.1894 1
+30    lilyu.xyz                 9                65    Aoi Yuki                  1
+31    Kraksen                   9                66    lemoniter                 1
+32    lt_col_tall               9                67    Joo                       1
+33    MCB18                     9                68    @titanic_159              1
+34    reschmidt12               9                69    Constantino               1
+35    Rafa Laguillo             8
 ```
 
 ## Recent Activities
@@ -95,11 +95,22 @@ Rank  Username                  Contributions    Rank  Username                 
 ```
 2026-11-09
   - CaptainAgman: Agfa Agfapan APX 25
+  - CaptainAgman: Bureau for the Propaganda of Soviet Film Art Positive Photo Film
   - CaptainAgman: Foma Fomapan action 400
   - CaptainAgman: Foma Fomapan Action 400
   - CaptainAgman: Fujifilm Superia 200
+  - CaptainAgman: Ilford SFX 200
+  - CaptainAgman: Kodak ColorPlus
   - CaptainAgman: Kodak Gold Ultra
+  - CaptainAgman: Konica VX 200
+  - CaptainAgman: Lucky C200
+  - CaptainAgman: Owro NP20
+  - CaptainAgman: Scotch Scotch Color EXL 100
   - CaptainAgman: Svema CO 32 D
+  - CaptainAgman: Svena CND-32
+  - CaptainAgman: Tasma FN 64
+  - CaptainAgman: Tasma Foto 130
+  - CaptainAgman: Tasma Foto 64
 
 2026-11-03
   - @recycling.film: Kids Station Toys Batman Returns High Quality 35mm Print Film
