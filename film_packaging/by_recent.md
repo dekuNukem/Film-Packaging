@@ -23,7 +23,7 @@ Total scans : 1466
 -----
 
 - [[2026-11-09] Harman Phoenix 125 (ref: 75a6)](#2026-11-09-harman-phoenix-125-ref-75a6)
-- [[2026-11-09] Harman Phoneix 125 (ref: 1ce9)](#2026-11-09-harman-phoneix-125-ref-1ce9)
+- [[2026-11-09] Harman Phoenix 125 (ref: 1ce9)](#2026-11-09-harman-phoenix-125-ref-1ce9)
 - [[2026-11-09] Adox Scala 50 (ref: c320)](#2026-11-09-adox-scala-50-ref-c320)
 - [[2026-11-09] Mr. Negative Tattoo Flash (ref: 2287)](#2026-11-09-mr-negative-tattoo-flash-ref-2287)
 - [[2026-11-09] Mr. Negative Cash Only (ref: 84fc)](#2026-11-09-mr-negative-cash-only-ref-84fc)
@@ -62,7 +62,7 @@ Total scans : 1466
 - [[2026-11-09] Agfa Agfapan APX 25 (ref: ce22)](#2026-11-09-agfa-agfapan-apx-25-ref-ce22)
 - [[2026-11-09] Svema CO 32 D (ref: 6813)](#2026-11-09-svema-co-32-d-ref-6813)
 - [[2026-11-09] Kodak Gold Ultra (ref: 8073)](#2026-11-09-kodak-gold-ultra-ref-8073)
-- [[2026-11-03] Marvel Spinder-Man 2 35mm Color Print Film (ref: d548)](#2026-11-03-marvel-spinder-man-2-35mm-color-print-film-ref-d548)
+- [[2026-11-03] Marvel Spider-Man 2 35mm Color Print Film (ref: d548)](#2026-11-03-marvel-spider-man-2-35mm-color-print-film-ref-d548)
 - [[2026-11-03] Marvel Fantastic 4 35mm Color Film (ref: 1144)](#2026-11-03-marvel-fantastic-4-35mm-color-film-ref-1144)
 - [[2026-11-03] Kids Station Toys Batman Returns High Quality 35mm Print Film (ref: 85fa)](#2026-11-03-kids-station-toys-batman-returns-high-quality-35mm-print-film-ref-85fa)
 - [[2026-11-02] Mimosa Porträtyp (ref: e547)](#2026-11-02-mimosa-porträtyp-ref-e547)
@@ -287,7 +287,7 @@ Total scans : 1466
 - [[2026-04-13] Rollei Retro 400S (ref: f345)](#2026-04-13-rollei-retro-400s-ref-f345)
 - [[2026-04-13] Lomography Color Negative Film (ref: d986)](#2026-04-13-lomography-color-negative-film-ref-d986)
 - [[2026-04-13] Kodak Plus-X (ref: 99a6)](#2026-04-13-kodak-plus-x-ref-99a6)
-- [[2026-04-13] Fujifilm Neopan Acros 100 II (ref: 4027)](#2026-04-13-fujifilm-neopan-acros-100-ii-ref-4027)
+- [[2026-04-13] Fujifilm Neopan 100 Acros (ref: 4027)](#2026-04-13-fujifilm-neopan-100-acros-ref-4027)
 - [[2026-04-13] Escura Showa Camera Film (ref: 826b)](#2026-04-13-escura-showa-camera-film-ref-826b)
 - [[2026-04-13] Fujifilm Fujicolor C200 (ref: 2585)](#2026-04-13-fujifilm-fujicolor-c200-ref-2585)
 - [[2026-04-13] Harman Switch Azure (ref: df9c)](#2026-04-13-harman-switch-azure-ref-df9c)
@@ -868,10 +868,10 @@ UUID  : f637985584914a30947865b362db75a6
 `UUID: 1c353bbab444460ea7af5c1c94afd136`↓
 
 <a href="./archive/00820_001.jpg" target="_blank">
-	<img src="./lowres/00820_001.jpg" alt="Harman Phoneix 125 35mm film box inside" loading="lazy" width="500" height="500">
+	<img src="./lowres/00820_001.jpg" alt="Harman Phoenix 125 35mm film box inside" loading="lazy" width="500" height="500">
 </a>
 
-#### [2026-11-09] Harman Phoneix 125 (ref: 1ce9)
+#### [2026-11-09] Harman Phoenix 125 (ref: 1ce9)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -882,7 +882,7 @@ UUID  : 1638fc475eca455e99bc2c658d081ce9
 ```
 
 <a href="./archive/00820_000.jpg" target="_blank">
-	<img src="./lowres/00820_000.jpg" alt="Harman Phoneix 125 35mm film box outside" loading="lazy" width="500" height="500">
+	<img src="./lowres/00820_000.jpg" alt="Harman Phoenix 125 35mm film box outside" loading="lazy" width="500" height="500">
 </a>
 
 
@@ -924,7 +924,7 @@ UUID  : 8015b195ced649c4a2f2a854a5842287
 
 ```
 Format: 35mm         |  Process : BW      
-ISO   : 199          |  Expiry  : Unknown 
+ISO   : 100          |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-11-09   |  Author  : SimonTheSenpai
 UUID  : ad46387f55ff47769c36aa64f47284fc
@@ -1516,7 +1516,7 @@ UUID  : 493d789f79984defb9e0e69431fc8073
 	<img src="./lowres/00782_000.jpg" alt="Kodak Gold Ultra 110 film box outside" loading="lazy" width="500" height="461">
 </a>
 
-#### [2026-11-03] Marvel Spinder-Man 2 35mm Color Print Film (ref: d548)
+#### [2026-11-03] Marvel Spider-Man 2 35mm Color Print Film (ref: d548)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -1527,7 +1527,7 @@ UUID  : a3691700a1c54c7f817de6ada781d548
 ```
 
 <a href="./archive/00781_000.jpg" target="_blank">
-	<img src="./lowres/00781_000.jpg" alt="Marvel Spinder-Man 2 35mm Color Print Film 35mm film box outside" loading="lazy" width="421" height="500">
+	<img src="./lowres/00781_000.jpg" alt="Marvel Spider-Man 2 35mm Color Print Film 35mm film box outside" loading="lazy" width="421" height="500">
 </a>
 
 #### [2026-11-03] Marvel Fantastic 4 35mm Color Film (ref: 1144)
@@ -5358,7 +5358,7 @@ UUID  : 4dc3f1e6a10842dbb0b1ac038b5ac335
 
 ```
 Format: 120          |  Process : C-41    
-ISO   : 100          |  Expiry  : 1971-10 
+ISO   : 100          |  Expiry  : 1979-10 
 Type  : Single Pack  |  Quantity: N/A     
 Added : 2026-05-26   |  Author  : Greg    
 UUID  : 8b179d290e4a462bb49bcec4f7c7f435
@@ -5750,10 +5750,10 @@ UUID  : e2b224605b0745258cf52515e02099a6
 `UUID: 56b053f3a12e489396fea4d8db1f6b45`↓
 
 <a href="./archive/00556_001.jpg" target="_blank">
-	<img src="./lowres/00556_001.jpg" alt="Fujifilm Neopan Acros 100 II 120 film box inside" loading="lazy" width="472" height="500">
+	<img src="./lowres/00556_001.jpg" alt="Fujifilm Neopan 100 Acros 120 film box inside" loading="lazy" width="472" height="500">
 </a>
 
-#### [2026-04-13] Fujifilm Neopan Acros 100 II (ref: 4027)
+#### [2026-04-13] Fujifilm Neopan 100 Acros (ref: 4027)
 
 ```
 Format: 120          |  Process : BW      
@@ -5764,7 +5764,7 @@ UUID  : fbb052b5a0024308b4d11dd3a78b4027
 ```
 
 <a href="./archive/00556_000.jpg" target="_blank">
-	<img src="./lowres/00556_000.jpg" alt="Fujifilm Neopan Acros 100 II 120 film box outside" loading="lazy" width="498" height="500">
+	<img src="./lowres/00556_000.jpg" alt="Fujifilm Neopan 100 Acros 120 film box outside" loading="lazy" width="498" height="500">
 </a>
 
 #### [2026-04-13] Escura Showa Camera Film (ref: 826b)
@@ -7712,7 +7712,7 @@ UUID  : 4696688cabf54eeb83cf66b2fb00e7cc
 #### [2025-11-11] Kodak Kodachrome (ref: 3d0a)
 
 ```
-Format: 35mm         |  Process : K-14    
+Format: 35mm         |  Process : K-11    
 ISO   : 10           |  Expiry  : 1962-09 
 Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-11-11   |  Author  : waldoboro
@@ -10714,7 +10714,7 @@ UUID  : 5b9792793fd94c9a9f9f776fe34e1ca2
 #### [2025-09-13] Kodak Kodacolor II (ref: 4108)
 
 ```
-Format: 120          |  Process : C-22    
+Format: 120          |  Process : C-41    
 ISO   : 80           |  Expiry  : 1978-03 
 Type  : Single Pack  |  Quantity: N/A     
 Added : 2025-09-13   |  Author  : dekuNukem

@@ -128,7 +128,6 @@ Rank  Username                  Contributions    Rank  Username                 
   - Ensign Expendable: Ansco Super Hypan Film
   - SimonTheSenpai: Adox Scala 50
   - SimonTheSenpai: Harman Phoenix 125
-  - SimonTheSenpai: Harman Phoneix 125
   - SimonTheSenpai: Mr. Negative Black Market
   - SimonTheSenpai: Mr. Negative Cash Only
   - SimonTheSenpai: Mr. Negative Tattoo Flash
@@ -136,7 +135,7 @@ Rank  Username                  Contributions    Rank  Username                 
 2026-11-03
   - @recycling.film: Kids Station Toys Batman Returns High Quality 35mm Print Film
   - @recycling.film: Marvel Fantastic 4 35mm Color Film
-  - @recycling.film: Marvel Spinder-Man 2 35mm Color Print Film
+  - @recycling.film: Marvel Spider-Man 2 35mm Color Print Film
 
 2026-11-02
   - @ellafridalindblom: Foma Repro

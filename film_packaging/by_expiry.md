@@ -89,7 +89,6 @@ Total scans : 1466
 - [[1971] Foma Fomapan21 (ref: 75d9)](#1971-foma-fomapan21-ref-75d9)
 - [[1971] Famous Brand Labs Color Negative Film (ref: 0cd6)](#1971-famous-brand-labs-color-negative-film-ref-0cd6)
 - [[1971] Svema Foto 65 (ref: 5fce)](#1971-svema-foto-65-ref-5fce)
-- [[1971] Kodak Kodacolor II (ref: f435)](#1971-kodak-kodacolor-ii-ref-f435)
 - [[1971] ORWO OrwoColor UT13 (ref: a05d)](#1971-orwo-orwocolor-ut13-ref-a05d)
 - [[1972] Kodak Ektachrome-X (ref: ae7e)](#1972-kodak-ektachrome-x-ref-ae7e)
 - [[1972] Kodak Plus-X Pan (ref: 9a4c)](#1972-kodak-plus-x-pan-ref-9a4c)
@@ -142,6 +141,7 @@ Total scans : 1466
 - [[1979] Svema DS-4 (ref: 8fc3)](#1979-svema-ds-4-ref-8fc3)
 - [[1979] Kodak Ektachrome 64 (ref: 07c0)](#1979-kodak-ektachrome-64-ref-07c0)
 - [[1979] Kodak Kodachrome 64 (ref: 3145)](#1979-kodak-kodachrome-64-ref-3145)
+- [[1979] Kodak Kodacolor II (ref: f435)](#1979-kodak-kodacolor-ii-ref-f435)
 - [[1979] Kodak Tri-X Pan (ref: 85e9)](#1979-kodak-tri-x-pan-ref-85e9)
 - [[1980] Agfa Agfacolor CNS2 (ref: d515)](#1980-agfa-agfacolor-cns2-ref-d515)
 - [[1980] Agfa Isopan ISS Rapid (ref: 3aee)](#1980-agfa-isopan-iss-rapid-ref-3aee)
@@ -384,7 +384,7 @@ Total scans : 1466
 - [[2006] Kodak T-MAX 400 (ref: 0a2e)](#2006-kodak-t-max-400-ref-0a2e)
 - [[2006] Fujifilm Fujichrome Provia 100F (ref: 1b4b)](#2006-fujifilm-fujichrome-provia-100f-ref-1b4b)
 - [[2006] Fujifilm Nexia (ref: 2c29)](#2006-fujifilm-nexia-ref-2c29)
-- [[2007] Fujifilm Neopan Acros 100 II (ref: 4027)](#2007-fujifilm-neopan-acros-100-ii-ref-4027)
+- [[2007] Fujifilm Neopan 100 Acros (ref: 4027)](#2007-fujifilm-neopan-100-acros-ref-4027)
 - [[2007] Polaroid 1200 (ref: a657)](#2007-polaroid-1200-ref-a657)
 - [[2007] Klick 400ASA (ref: 8779)](#2007-klick-400asa-ref-8779)
 - [[2007] Kodak 110 Film (ref: 8cca)](#2007-kodak-110-film-ref-8cca)
@@ -744,7 +744,7 @@ Total scans : 1466
 - [[2028] Lomography Redscale XR Negative (ref: e897)](#2028-lomography-redscale-xr-negative-ref-e897)
 - [[2028] Optik Oldschool OptiMono 100 (ref: 312c)](#2028-optik-oldschool-optimono-100-ref-312c)
 - [[2028] Candido Colour Negative Film 800 (ref: c39e)](#2028-candido-colour-negative-film-800-ref-c39e)
-- [[2028] Harman Phoneix 125 (ref: 1ce9)](#2028-harman-phoneix-125-ref-1ce9)
+- [[2028] Harman Phoenix 125 (ref: 1ce9)](#2028-harman-phoenix-125-ref-1ce9)
 - [[2028] Kodak Ektacolor Pro 400 (ref: aa72)](#2028-kodak-ektacolor-pro-400-ref-aa72)
 - [[2028] Kodak Ektacolor Pro 400 (ref: 36c6)](#2028-kodak-ektacolor-pro-400-ref-36c6)
 - [[2028] Kodak Ektapan 100 (ref: aae1)](#2028-kodak-ektapan-100-ref-aae1)
@@ -809,7 +809,7 @@ Total scans : 1466
 - [[Unknown] Kodak Tri-X 400 Pro (ref: f05c)](#unknown-kodak-tri-x-400-pro-ref-f05c)
 - [[Unknown] Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides (ref: a44b)](#unknown-lumière-union-photographique-industrielle-plaques-au-gélatino-bromure-dargent-extra-rapides-ref-a44b)
 - [[Unknown] Marvel Fantastic 4 35mm Color Film (ref: 1144)](#unknown-marvel-fantastic-4-35mm-color-film-ref-1144)
-- [[Unknown] Marvel Spinder-Man 2 35mm Color Print Film (ref: d548)](#unknown-marvel-spinder-man-2-35mm-color-print-film-ref-d548)
+- [[Unknown] Marvel Spider-Man 2 35mm Color Print Film (ref: d548)](#unknown-marvel-spider-man-2-35mm-color-print-film-ref-d548)
 - [[Unknown] Mimosa Porträtyp (ref: e547)](#unknown-mimosa-porträtyp-ref-e547)
 - [[Unknown] Mimosa Porträtyp-Antihalo (ref: 7200)](#unknown-mimosa-porträtyp-antihalo-ref-7200)
 - [[Unknown] Mimosa A.G. Mimosa-Platte Finogran (ref: 795e)](#unknown-mimosa-ag-mimosa-platte-finogran-ref-795e)
@@ -1569,7 +1569,7 @@ Notes : Бюро пропаганды советского киноискусс�
 #### [1962] Kodak Kodachrome (ref: 3d0a)
 
 ```
-Format: 35mm         |  Process : K-14    
+Format: 35mm         |  Process : K-11    
 ISO   : 10           |  Expiry  : 1962-09 
 Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-11-11   |  Author  : waldoboro
@@ -2321,20 +2321,6 @@ UUID  : c93fa1ca138244d1b218b2248a4f5fce
 
 <a href="./archive/00802_000.jpg" target="_blank">
 	<img src="./lowres/00802_000.jpg" alt="Svema Foto 65 35mm film box outside" loading="lazy" width="500" height="436">
-</a>
-
-#### [1971] Kodak Kodacolor II (ref: f435)
-
-```
-Format: 120          |  Process : C-41    
-ISO   : 100          |  Expiry  : 1971-10 
-Type  : Single Pack  |  Quantity: N/A     
-Added : 2026-05-26   |  Author  : Greg    
-UUID  : 8b179d290e4a462bb49bcec4f7c7f435
-```
-
-<a href="./archive/00572_000.jpg" target="_blank">
-	<img src="./lowres/00572_000.jpg" alt="Kodak Kodacolor II 120 film box outside" loading="lazy" width="500" height="498">
 </a>
 
 #### [1971] ORWO OrwoColor UT13 (ref: a05d)
@@ -3400,7 +3386,7 @@ UUID  : 0143ad8539d84710845f4d2dc82e4f7d
 #### [1978] Kodak Kodacolor II (ref: 4108)
 
 ```
-Format: 120          |  Process : C-22    
+Format: 120          |  Process : C-41    
 ISO   : 80           |  Expiry  : 1978-03 
 Type  : Single Pack  |  Quantity: N/A     
 Added : 2025-09-13   |  Author  : dekuNukem
@@ -3690,6 +3676,20 @@ UUID  : 68c945b76fc14ab699b944a3c7b93145
 
 <a href="./archive/00026_002.jpg" target="_blank">
 	<img src="./lowres/00026_002.jpg" alt="Kodak Kodachrome 64 110 film box processing envelope" loading="lazy" width="500" height="309">
+</a>
+
+#### [1979] Kodak Kodacolor II (ref: f435)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 100          |  Expiry  : 1979-10 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-05-26   |  Author  : Greg    
+UUID  : 8b179d290e4a462bb49bcec4f7c7f435
+```
+
+<a href="./archive/00572_000.jpg" target="_blank">
+	<img src="./lowres/00572_000.jpg" alt="Kodak Kodacolor II 120 film box outside" loading="lazy" width="500" height="498">
 </a>
 
 #### [1979] Kodak Tri-X Pan (ref: 85e9)
@@ -8852,7 +8852,7 @@ UUID  : 4d4296562e50437d927094a8e17f2c29
 	<img src="./lowres/00725_001.jpg" alt="Fujifilm Nexia APS film box inside" loading="lazy" width="437" height="500">
 </a>
 
-#### [2007] Fujifilm Neopan Acros 100 II (ref: 4027)
+#### [2007] Fujifilm Neopan 100 Acros (ref: 4027)
 
 ```
 Format: 120          |  Process : BW      
@@ -8863,14 +8863,14 @@ UUID  : fbb052b5a0024308b4d11dd3a78b4027
 ```
 
 <a href="./archive/00556_000.jpg" target="_blank">
-	<img src="./lowres/00556_000.jpg" alt="Fujifilm Neopan Acros 100 II 120 film box outside" loading="lazy" width="498" height="500">
+	<img src="./lowres/00556_000.jpg" alt="Fujifilm Neopan 100 Acros 120 film box outside" loading="lazy" width="498" height="500">
 </a>
 
 
 `UUID: 56b053f3a12e489396fea4d8db1f6b45`↓
 
 <a href="./archive/00556_001.jpg" target="_blank">
-	<img src="./lowres/00556_001.jpg" alt="Fujifilm Neopan Acros 100 II 120 film box inside" loading="lazy" width="472" height="500">
+	<img src="./lowres/00556_001.jpg" alt="Fujifilm Neopan 100 Acros 120 film box inside" loading="lazy" width="472" height="500">
 </a>
 
 #### [2007] Polaroid 1200 (ref: a657)
@@ -15190,7 +15190,7 @@ UUID  : c4f0677d117446678179ccfafb84c39e
 	<img src="./lowres/00702_001.jpg" alt="Candido Colour Negative Film 800 35mm film box inside" loading="lazy" width="456" height="500">
 </a>
 
-#### [2028] Harman Phoneix 125 (ref: 1ce9)
+#### [2028] Harman Phoenix 125 (ref: 1ce9)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -15201,14 +15201,14 @@ UUID  : 1638fc475eca455e99bc2c658d081ce9
 ```
 
 <a href="./archive/00820_000.jpg" target="_blank">
-	<img src="./lowres/00820_000.jpg" alt="Harman Phoneix 125 35mm film box outside" loading="lazy" width="500" height="500">
+	<img src="./lowres/00820_000.jpg" alt="Harman Phoenix 125 35mm film box outside" loading="lazy" width="500" height="500">
 </a>
 
 
 `UUID: 1c353bbab444460ea7af5c1c94afd136`↓
 
 <a href="./archive/00820_001.jpg" target="_blank">
-	<img src="./lowres/00820_001.jpg" alt="Harman Phoneix 125 35mm film box inside" loading="lazy" width="500" height="500">
+	<img src="./lowres/00820_001.jpg" alt="Harman Phoenix 125 35mm film box inside" loading="lazy" width="500" height="500">
 </a>
 
 #### [2028] Kodak Ektacolor Pro 400 (ref: aa72)
@@ -16334,7 +16334,7 @@ UUID  : 47aba6cf5f974c15b8e8a2cd3aed1144
 	<img src="./lowres/00780_000.jpg" alt="Marvel Fantastic 4 35mm Color Film 35mm film box outside" loading="lazy" width="420" height="499">
 </a>
 
-#### [Unknown] Marvel Spinder-Man 2 35mm Color Print Film (ref: d548)
+#### [Unknown] Marvel Spider-Man 2 35mm Color Print Film (ref: d548)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -16345,7 +16345,7 @@ UUID  : a3691700a1c54c7f817de6ada781d548
 ```
 
 <a href="./archive/00781_000.jpg" target="_blank">
-	<img src="./lowres/00781_000.jpg" alt="Marvel Spinder-Man 2 35mm Color Print Film 35mm film box outside" loading="lazy" width="421" height="500">
+	<img src="./lowres/00781_000.jpg" alt="Marvel Spider-Man 2 35mm Color Print Film 35mm film box outside" loading="lazy" width="421" height="500">
 </a>
 
 #### [Unknown] Mimosa Porträtyp (ref: e547)
@@ -16415,7 +16415,7 @@ UUID  : 2b69cd822cf44b0a833b845e7b515338
 
 ```
 Format: 35mm         |  Process : BW      
-ISO   : 199          |  Expiry  : Unknown 
+ISO   : 100          |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-11-09   |  Author  : SimonTheSenpai
 UUID  : ad46387f55ff47769c36aa64f47284fc

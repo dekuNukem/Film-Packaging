@@ -553,9 +553,9 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 323,0,film_box_outside,Mr. Negative,Silver Screen Negative,35mm,200,ECN-2,202401,1757615460,22addca551cda3c6f7bb25e238369f29,4acd5aeda3a34bc89b646a14bb4dc968,00323_000.jpg,@sachynmital,,Single Pack,36,exp
 324,0,film_box_outside,SupaSnaps,Snappit Film,126,100,C-41,199305,1757723961,751b6b91d70eb14c78b42d85d08d2130,1cf47ce82b58418f9e009b4f0121c41b,00324_000.jpg,dekuNukem,,Single Pack,24,exp
 324,1,film_cartridge,SupaSnaps,Snappit Film,126,100,C-41,199305,1757723964,beccd7e55ef0873c73c17b21ec340820,2406fd96271a4db4b946e0e17a503b1b,00324_001.jpg,dekuNukem,,Single Pack,24,exp
-325,0,film_box_outside,Kodak,Kodacolor II,120,80,C-22,197803,1757724085,9d159f566b618f92e182253c237e9c55,3bfb81116e54468fb296098a03ad4108,00325_000.jpg,dekuNukem,,Single Pack,N/A,
-325,1,film_box_leaflet,Kodak,Kodacolor II,120,80,C-22,197803,1757724086,7d0e10fd4ce3179851b3d1f108bb5331,cdd3df87cea649c7b8015b295520bd54,00325_001.jpg,dekuNukem,,Single Pack,N/A,
-325,2,film_box_leaflet,Kodak,Kodacolor II,120,80,C-22,197803,1757724090,bdb9c5f280169240b25d5d8ba2f5ce7c,5bb72bffd3224a279eb4b01c201a80f2,00325_002.jpg,dekuNukem,,Single Pack,N/A,
+325,0,film_box_outside,Kodak,Kodacolor II,120,80,C-41,197803,1757724085,9d159f566b618f92e182253c237e9c55,3bfb81116e54468fb296098a03ad4108,00325_000.jpg,dekuNukem,,Single Pack,N/A,
+325,1,film_box_leaflet,Kodak,Kodacolor II,120,80,C-41,197803,1757724086,7d0e10fd4ce3179851b3d1f108bb5331,cdd3df87cea649c7b8015b295520bd54,00325_001.jpg,dekuNukem,,Single Pack,N/A,
+325,2,film_box_leaflet,Kodak,Kodacolor II,120,80,C-41,197803,1757724090,bdb9c5f280169240b25d5d8ba2f5ce7c,5bb72bffd3224a279eb4b01c201a80f2,00325_002.jpg,dekuNukem,,Single Pack,N/A,
 326,0,film_box_outside,Kodak,Advantix Ultra Max,APS,400,C-41,200407,1757724131,1deafb13b7df72196f48f74d54af896d,5b9792793fd94c9a9f9f776fe34e1ca2,00326_000.jpg,dekuNukem,,Single Pack,25,exp
 327,0,film_box_outside,Polaroid,High Definition,110,200,C-41,200201,1757724210,ef32effe20c353cda323aab0bfdc550b,6c15a39618164543bfc2ef7f54addeb6,00327_000.jpg,dekuNukem,,Single Pack,24,exp
 328,0,film_box_outside,Agfa,AgfaColor HDC Plus,110,200,C-41,200107,1757724290,a74c343072bbaa38acf546ba351a9c80,9cec7faf26254e72bfb79611ea6ed22b,00328_000.jpg,dekuNukem,,Single Pack,24,exp
@@ -844,9 +844,9 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 459,1,film_box_outside,Kodak,Super-sensitive Panchromatic Films,12x16.5cm,Unknown,BW,Unknown,1761598368,3a79e92f09d3610b4ae1a0a530db38fa,c685c5c86b864b4aa64cfa127b67b049,00459_001.jpg,@ellafridalindblom,Nitrate base,Single Pack,12,sheets
 460,0,film_box_outside,Fukkatsu,Color Print Film,110,400,C-41,201808,1762852583,a686ec9d5120881480cd8b6b37b176aa,e5ed9275c4a34dbb8ab1a60c13ca3213,00460_000.jpg,waldoboro,,Single Pack,24,exp
 461,0,film_box_outside,Fujifilm,Fujicolor Natura 1600,35mm,1600,C-41,201604,1762852636,7ffb41bd8b4858c10f157e4c63f512d5,a4f7e58b2cdf448d8a2e7781c26252aa,00461_000.jpg,waldoboro,,Multi-Pack-3,36,exp
-462,0,film_box_outside,Kodak,Kodachrome,35mm,10,K-14,196209,1762852878,22d19c235e366b04a2df9229514811a6,21c4ce1f9fb54086bb13435778243d0a,00462_000.jpg,waldoboro,,Single Pack,36,exp
-462,1,film_box_leaflet,Kodak,Kodachrome,35mm,10,K-14,196209,1762852879,00cb210568b6a9b6997639e4c5e7b6e8,eb2f8ddacbcf4b3087e1fea3117fb683,00462_001.jpg,waldoboro,,Single Pack,36,exp
-462,2,film_box_leaflet,Kodak,Kodachrome,35mm,10,K-14,196209,1762852882,31b41cfdc03cecda6428677dc117acdb,e61ab90af79a4d558efcaed30d78978a,00462_002.jpg,waldoboro,,Single Pack,36,exp
+462,0,film_box_outside,Kodak,Kodachrome,35mm,10,K-11,196209,1762852878,22d19c235e366b04a2df9229514811a6,21c4ce1f9fb54086bb13435778243d0a,00462_000.jpg,waldoboro,,Single Pack,36,exp
+462,1,film_box_leaflet,Kodak,Kodachrome,35mm,10,K-11,196209,1762852879,00cb210568b6a9b6997639e4c5e7b6e8,eb2f8ddacbcf4b3087e1fea3117fb683,00462_001.jpg,waldoboro,,Single Pack,36,exp
+462,2,film_box_leaflet,Kodak,Kodachrome,35mm,10,K-11,196209,1762852882,31b41cfdc03cecda6428677dc117acdb,e61ab90af79a4d558efcaed30d78978a,00462_002.jpg,waldoboro,,Single Pack,36,exp
 463,0,film_box_outside,Seagull,Seagull Color IR100,35mm,100,C-41,199001,1762853030,71856aa3722e6c348fd44c14752b3e2a,4696688cabf54eeb83cf66b2fb00e7cc,00463_000.jpg,waldoboro,,Single Pack,36,exp
 463,1,film_box_leaflet,Seagull,Seagull Color IR100,35mm,100,C-41,199001,1762853057,7c99bf39fba6b89bccc29199c2cc70f3,0f46125636f9490a92937c07595df7cb,00463_001.jpg,waldoboro,,Single Pack,36,exp
 463,2,film_box_leaflet,Seagull,Seagull Color IR100,35mm,100,C-41,199001,1762853061,246937a4040e8779031a3f80f2db0891,782baa96b77d424eb0dabc5f6d3b8c88,00463_002.jpg,waldoboro,,Single Pack,36,exp
@@ -1029,8 +1029,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 553,1,film_box_inside,Harman,Switch Azure,35mm,125,C-41,202711,1776108560,94f229de5f7fd2e45cf3730885833f7e,f4b9bf30e757490087b895af7dfa3a8b,00553_001.jpg,@Hol.m35,,Single Pack,36,exp
 554,0,film_box_outside,Fujifilm,Fujicolor C200,35mm,200,C-41,201608,1776108636,578e025bc4483de5ead35a55f6e57ed1,5f2a25eea5ed4846862cce7ae96c2585,00554_000.jpg,@Hol.m35,,Multi-Pack-5,24,exp
 555,0,film_box_outside,Escura,Showa Camera Film,35mm,400,C-41,202608,1776108989,13624b912365f8b99da96d90328a3e4d,a87bd544a56a4ee39a2fe6e2db3f826b,00555_000.jpg,kaimon,,Single Pack,30,exp
-556,0,film_box_outside,Fujifilm,Neopan Acros 100 II,120,100,BW,200701,1776109064,181088b93f941891c67b6782fe6b5389,fbb052b5a0024308b4d11dd3a78b4027,00556_000.jpg,kaimon,,Single Pack,N/A,
-556,1,film_box_inside,Fujifilm,Neopan Acros 100 II,120,100,BW,200701,1776109066,b2a0bec2f7e5bd2e21cec7ddb7e90c70,56b053f3a12e489396fea4d8db1f6b45,00556_001.jpg,kaimon,,Single Pack,N/A,
+556,0,film_box_outside,Fujifilm,Neopan 100 Acros,120,100,BW,200701,1776109064,181088b93f941891c67b6782fe6b5389,fbb052b5a0024308b4d11dd3a78b4027,00556_000.jpg,kaimon,,Single Pack,N/A,
+556,1,film_box_inside,Fujifilm,Neopan 100 Acros,120,100,BW,200701,1776109066,b2a0bec2f7e5bd2e21cec7ddb7e90c70,56b053f3a12e489396fea4d8db1f6b45,00556_001.jpg,kaimon,,Single Pack,N/A,
 557,0,film_box_outside,Kodak,Plus-X,35mm,125,BW,194506,1776109361,4b35186d42a4544c3650a5f8963b14fb,e2b224605b0745258cf52515e02099a6,00557_000.jpg,Greg,,Single Pack,18,exp
 558,0,film_box_outside,Lomography,Color Negative Film,120,400,C-41,201212,1776109512,2464e769072f2db9df80ef7b38cd21f0,808ce640e530482f9016329c0eb2d986,00558_000.jpg,@Hol.m35,,Multi-Pack-3,8,exp
 558,1,film_box_outside,Lomography,Color Negative Film,120,400,C-41,201212,1776109514,a25cc7c9e6f4e27884d1603cac9bdfe4,44865d9f476846938a0d9986fd21c796,00558_001.jpg,@Hol.m35,,Multi-Pack-3,8,exp
@@ -1070,7 +1070,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 570,1,film_box_leaflet,Efke,R14,120,20,BW,197903,1779794003,73a55891a6442967cf13d1da0e11fe52,64e01932547643cd806e82e0faf38af2,00570_001.jpg,Tobias,,Single Pack,N/A,
 570,2,film_box_leaflet,Efke,R14,120,20,BW,197903,1779794006,11912b0d00b68b39c3532bda32d13752,cb7b9dc522034a9e8e0c9efb07844543,00570_002.jpg,Tobias,,Single Pack,N/A,
 571,0,film_box_outside,Kodak,T-MAX P3200,35mm,3200,BW,202702,1779794161,a4a42b14da765117c47c36cc36847c7b,989581de448d4ccd82d8ab0950dae727,00571_000.jpg,Pelicram,,Single Pack,36,exp
-572,0,film_box_outside,Kodak,Kodacolor II,120,100,C-41,197110,1779794353,6b381869e6f2899f12183e1f90a2021f,8b179d290e4a462bb49bcec4f7c7f435,00572_000.jpg,Greg,,Single Pack,N/A,
+572,0,film_box_outside,Kodak,Kodacolor II,120,100,C-41,197910,1779794353,6b381869e6f2899f12183e1f90a2021f,8b179d290e4a462bb49bcec4f7c7f435,00572_000.jpg,Greg,,Single Pack,N/A,
 573,0,film_box_outside,Kodak,High Speed Ektachrome,120,160,Unknown,197410,1779794443,3b315e69b2d7471f028c3d841dc5f6dc,4dc3f1e6a10842dbb0b1ac038b5ac335,00573_000.jpg,Greg,,Single Pack,N/A,
 574,0,film_box_outside,Kodak,Ektachrome-X,120,64,Unknown,197403,1779794496,de4da7bb0f0c583cc79169bad563aa6e,109f05cb335c476a8b019d13347ccca3,00574_000.jpg,Greg,,Single Pack,N/A,
 575,0,film_box_outside,Kodak,Kodachrome,828,12,K-11,196109,1779794665,93c43cb7f5a51e940cc43af61266e548,aa76bcdbe2fe48fab10e56e1bd84e19e,00575_000.jpg,Greg,,Single Pack,8,exp
@@ -1408,7 +1408,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 778,0,film_box_outside,Mimosa,Porträtyp,9x12cm,64,BW,Unknown,1793623551,5b112ad0bb7bd11e9ef769f01a6b1125,d68c3af6c1b8462bbb3f809ef0aae547,00778_000.jpg,@ellafridalindblom,,Single Pack,12,plates
 779,0,film_box_outside,Kids Station Toys,Batman Returns High Quality 35mm Print Film,35mm,200,C-41,Unknown,1793706179,d469b30cfe5449254a9b7d85a251c589,23905283d39f4477a618cee5076985fa,00779_000.jpg,@recycling.film,,Single Pack,12,exp
 780,0,film_box_outside,Marvel,Fantastic 4 35mm Color Film,35mm,400,C-41,Unknown,1793706236,d113522ab3f648f62185320708b26687,47aba6cf5f974c15b8e8a2cd3aed1144,00780_000.jpg,@recycling.film,,Single Pack,12,exp
-781,0,film_box_outside,Marvel,Spinder-Man 2 35mm Color Print Film,35mm,400,C-41,Unknown,1793706292,48d72eac896e45a349d9c0f4ca3979ce,a3691700a1c54c7f817de6ada781d548,00781_000.jpg,@recycling.film,,Single Pack,12,exp
+781,0,film_box_outside,Marvel,Spider-Man 2 35mm Color Print Film,35mm,400,C-41,Unknown,1793706292,48d72eac896e45a349d9c0f4ca3979ce,a3691700a1c54c7f817de6ada781d548,00781_000.jpg,@recycling.film,,Single Pack,12,exp
 782,0,film_box_outside,Kodak,Gold Ultra,110,400,C-41,199910,1794224776,c660e6f67732fb01f35be188bc11ae53,493d789f79984defb9e0e69431fc8073,00782_000.jpg,CaptainAgman,,Single Pack,24,exp
 783,0,film_box_outside,Svema,CO 32 D,120,40,Unknown,198711,1794225050,e658121c87de27de73fa8b19fefdfa76,f48a91c86a8f42168dd23e0fbcac6813,00783_000.jpg,CaptainAgman,,Single Pack,N/A,
 784,0,film_box_outside,Agfa,Agfapan APX 25,35mm,25,BW,199801,1794225442,534367884989dd898900e47308508339,75d91bb50f9c424787c11b421e1ece22,00784_000.jpg,CaptainAgman,,Single Pack,36,exp
@@ -1457,11 +1457,11 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 816,0,film_box_outside,Ansco,Super Hypan Film,120,500,BW,196501,1794229858,a38a456da2071cc7bfcc5000aa4b7012,5d1ca07fe4c04cb79a0017bb34fae496,00816_000.jpg,Ensign Expendable,,Single Pack,N/A,
 816,1,film_box_leaflet,Ansco,Super Hypan Film,120,500,BW,196501,1794229860,73205d0e7e385853503db62aeeddc933,6febdd3c87b04cb1a65cf21f3e8fdd2d,00816_001.jpg,Ensign Expendable,,Single Pack,N/A,
 816,2,film_box_leaflet,Ansco,Super Hypan Film,120,500,BW,196501,1794229865,6c130f7dff037af9a3551b21f4607835,052a43fdf4654d30b35048924b24810a,00816_002.jpg,Ensign Expendable,,Single Pack,N/A,
-817,0,film_box_outside,Mr. Negative,Cash Only,35mm,199,BW,Unknown,1794230171,3e585b9dee14564b6492d893f0a9a2e6,ad46387f55ff47769c36aa64f47284fc,00817_000.jpg,SimonTheSenpai,,Single Pack,36,exp
+817,0,film_box_outside,Mr. Negative,Cash Only,35mm,100,BW,Unknown,1794230171,3e585b9dee14564b6492d893f0a9a2e6,ad46387f55ff47769c36aa64f47284fc,00817_000.jpg,SimonTheSenpai,,Single Pack,36,exp
 818,0,film_box_outside,Mr. Negative,Tattoo Flash,35mm,200,C-41,Unknown,1794230350,ec6774ff6eaf50966853c289b2beba13,8015b195ced649c4a2f2a854a5842287,00818_000.jpg,SimonTheSenpai,,Single Pack,36,exp
 819,0,film_box_outside,Adox,Scala 50,35mm,50,BW,202710,1794230442,2b1793b47719e90bd40b4cd4196f7efd,3a02c0e5438c4032a85f8acf19abc320,00819_000.jpg,SimonTheSenpai,,Single Pack,36,exp
 819,1,film_box_inside,Adox,Scala 50,35mm,50,BW,202710,1794230447,17b5c4cb81e0c574aabfaa1b84421467,5f7a25c663ff4de288976d3fea0e2956,00819_001.jpg,SimonTheSenpai,,Single Pack,36,exp
-820,0,film_box_outside,Harman,Phoneix 125,35mm,125,C-41,202807,1794230541,660553dcfef5bf86c4b70d7de5999013,1638fc475eca455e99bc2c658d081ce9,00820_000.jpg,SimonTheSenpai,,Single Pack,36,exp
-820,1,film_box_inside,Harman,Phoneix 125,35mm,125,C-41,202807,1794230543,b305712c225a86cce3ae052c6f849788,1c353bbab444460ea7af5c1c94afd136,00820_001.jpg,SimonTheSenpai,,Single Pack,36,exp
+820,0,film_box_outside,Harman,Phoenix 125,35mm,125,C-41,202807,1794230541,660553dcfef5bf86c4b70d7de5999013,1638fc475eca455e99bc2c658d081ce9,00820_000.jpg,SimonTheSenpai,,Single Pack,36,exp
+820,1,film_box_inside,Harman,Phoenix 125,35mm,125,C-41,202807,1794230543,b305712c225a86cce3ae052c6f849788,1c353bbab444460ea7af5c1c94afd136,00820_001.jpg,SimonTheSenpai,,Single Pack,36,exp
 821,0,film_box_outside,Harman,Phoenix 125,120,125,C-41,202808,1794230629,37efa68c8a303e136a7d2ab1f999bff3,f637985584914a30947865b362db75a6,00821_000.jpg,SimonTheSenpai,,Single Pack,N/A,
 821,1,film_box_inside,Harman,Phoenix 125,120,125,C-41,202808,1794230632,6ec7a6c3c8823eef502c9c328b65916f,ce7b289fc9864573a8290d67e7e6f077,00821_001.jpg,SimonTheSenpai,,Single Pack,N/A,

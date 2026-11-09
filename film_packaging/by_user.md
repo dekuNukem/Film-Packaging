@@ -237,7 +237,7 @@ Total scans : 1466
 - [[@recycling.film] Kodak Tri-X Pan (ref: 85e9)](#recyclingfilm-kodak-tri-x-pan-ref-85e9)
 - [[@recycling.film] Kodak UltraMax (ref: e4ad)](#recyclingfilm-kodak-ultramax-ref-e4ad)
 - [[@recycling.film] Marvel Fantastic 4 35mm Color Film (ref: 1144)](#recyclingfilm-marvel-fantastic-4-35mm-color-film-ref-1144)
-- [[@recycling.film] Marvel Spinder-Man 2 35mm Color Print Film (ref: d548)](#recyclingfilm-marvel-spinder-man-2-35mm-color-print-film-ref-d548)
+- [[@recycling.film] Marvel Spider-Man 2 35mm Color Print Film (ref: d548)](#recyclingfilm-marvel-spider-man-2-35mm-color-print-film-ref-d548)
 - [[@recycling.film] Nishika Color Print Film (ref: baeb)](#recyclingfilm-nishika-color-print-film-ref-baeb)
 - [[@recycling.film] ORWO NP15 (ref: 9a20)](#recyclingfilm-orwo-np15-ref-9a20)
 - [[@recycling.film] ORWO OrwoChrom UT18 (ref: 81b7)](#recyclingfilm-orwo-orwochrom-ut18-ref-81b7)
@@ -491,8 +491,8 @@ Total scans : 1466
 - [[Rhiannon] Candido Candido400 (ref: 5f29)](#rhiannon-candido-candido400-ref-5f29)
 - [[Rhiannon] Star Foto Colour Film for Prints (ref: bdd5)](#rhiannon-star-foto-colour-film-for-prints-ref-bdd5)
 - [[SimonTheSenpai] Adox Scala 50 (ref: c320)](#simonthesenpai-adox-scala-50-ref-c320)
+- [[SimonTheSenpai] Harman Phoenix 125 (ref: 1ce9)](#simonthesenpai-harman-phoenix-125-ref-1ce9)
 - [[SimonTheSenpai] Harman Phoenix 125 (ref: 75a6)](#simonthesenpai-harman-phoenix-125-ref-75a6)
-- [[SimonTheSenpai] Harman Phoneix 125 (ref: 1ce9)](#simonthesenpai-harman-phoneix-125-ref-1ce9)
 - [[SimonTheSenpai] Mr. Negative Black Market (ref: 9ff8)](#simonthesenpai-mr-negative-black-market-ref-9ff8)
 - [[SimonTheSenpai] Mr. Negative Cash Only (ref: 84fc)](#simonthesenpai-mr-negative-cash-only-ref-84fc)
 - [[SimonTheSenpai] Mr. Negative Tattoo Flash (ref: 2287)](#simonthesenpai-mr-negative-tattoo-flash-ref-2287)
@@ -717,7 +717,7 @@ Total scans : 1466
 - [[green eggs and sam] Kodak Kodacolor 200 (ref: f856)](#green-eggs-and-sam-kodak-kodacolor-200-ref-f856)
 - [[kaimon] CineStill 800T (ref: c96e)](#kaimon-cinestill-800t-ref-c96e)
 - [[kaimon] Escura Showa Camera Film (ref: 826b)](#kaimon-escura-showa-camera-film-ref-826b)
-- [[kaimon] Fujifilm Neopan Acros 100 II (ref: 4027)](#kaimon-fujifilm-neopan-acros-100-ii-ref-4027)
+- [[kaimon] Fujifilm Neopan 100 Acros (ref: 4027)](#kaimon-fujifilm-neopan-100-acros-ref-4027)
 - [[kaimon] Ilford Delta 100 Professional (ref: bf01)](#kaimon-ilford-delta-100-professional-ref-bf01)
 - [[kaimon] Ilford Ilfochrome (ref: ac24)](#kaimon-ilford-ilfochrome-ref-ac24)
 - [[kaimon] Ilford Ortho Plus (ref: 1952)](#kaimon-ilford-ortho-plus-ref-1952)
@@ -4665,7 +4665,7 @@ UUID  : 47aba6cf5f974c15b8e8a2cd3aed1144
 	<img src="./lowres/00780_000.jpg" alt="Marvel Fantastic 4 35mm Color Film 35mm film box outside" loading="lazy" width="420" height="499">
 </a>
 
-#### [@recycling.film] Marvel Spinder-Man 2 35mm Color Print Film (ref: d548)
+#### [@recycling.film] Marvel Spider-Man 2 35mm Color Print Film (ref: d548)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -4676,7 +4676,7 @@ UUID  : a3691700a1c54c7f817de6ada781d548
 ```
 
 <a href="./archive/00781_000.jpg" target="_blank">
-	<img src="./lowres/00781_000.jpg" alt="Marvel Spinder-Man 2 35mm Color Print Film 35mm film box outside" loading="lazy" width="421" height="500">
+	<img src="./lowres/00781_000.jpg" alt="Marvel Spider-Man 2 35mm Color Print Film 35mm film box outside" loading="lazy" width="421" height="500">
 </a>
 
 #### [@recycling.film] Nishika Color Print Film (ref: baeb)
@@ -6989,7 +6989,7 @@ UUID  : aa76bcdbe2fe48fab10e56e1bd84e19e
 
 ```
 Format: 120          |  Process : C-41    
-ISO   : 100          |  Expiry  : 1971-10 
+ISO   : 100          |  Expiry  : 1979-10 
 Type  : Single Pack  |  Quantity: N/A     
 Added : 2026-05-26   |  Author  : Greg    
 UUID  : 8b179d290e4a462bb49bcec4f7c7f435
@@ -9702,6 +9702,27 @@ UUID  : 3a02c0e5438c4032a85f8acf19abc320
 	<img src="./lowres/00819_001.jpg" alt="Adox Scala 50 35mm film box inside" loading="lazy" width="500" height="500">
 </a>
 
+#### [SimonTheSenpai] Harman Phoenix 125 (ref: 1ce9)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 125          |  Expiry  : 2028-07 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : SimonTheSenpai
+UUID  : 1638fc475eca455e99bc2c658d081ce9
+```
+
+<a href="./archive/00820_000.jpg" target="_blank">
+	<img src="./lowres/00820_000.jpg" alt="Harman Phoenix 125 35mm film box outside" loading="lazy" width="500" height="500">
+</a>
+
+
+`UUID: 1c353bbab444460ea7af5c1c94afd136`↓
+
+<a href="./archive/00820_001.jpg" target="_blank">
+	<img src="./lowres/00820_001.jpg" alt="Harman Phoenix 125 35mm film box inside" loading="lazy" width="500" height="500">
+</a>
+
 #### [SimonTheSenpai] Harman Phoenix 125 (ref: 75a6)
 
 ```
@@ -9723,27 +9744,6 @@ UUID  : f637985584914a30947865b362db75a6
 	<img src="./lowres/00821_001.jpg" alt="Harman Phoenix 125 120 film box inside" loading="lazy" width="498" height="500">
 </a>
 
-#### [SimonTheSenpai] Harman Phoneix 125 (ref: 1ce9)
-
-```
-Format: 35mm         |  Process : C-41    
-ISO   : 125          |  Expiry  : 2028-07 
-Type  : Single Pack  |  Quantity: 36 exp  
-Added : 2026-11-09   |  Author  : SimonTheSenpai
-UUID  : 1638fc475eca455e99bc2c658d081ce9
-```
-
-<a href="./archive/00820_000.jpg" target="_blank">
-	<img src="./lowres/00820_000.jpg" alt="Harman Phoneix 125 35mm film box outside" loading="lazy" width="500" height="500">
-</a>
-
-
-`UUID: 1c353bbab444460ea7af5c1c94afd136`↓
-
-<a href="./archive/00820_001.jpg" target="_blank">
-	<img src="./lowres/00820_001.jpg" alt="Harman Phoneix 125 35mm film box inside" loading="lazy" width="500" height="500">
-</a>
-
 #### [SimonTheSenpai] Mr. Negative Black Market (ref: 9ff8)
 
 ```
@@ -9762,7 +9762,7 @@ UUID  : 6f669e561feb407c9554766bbf159ff8
 
 ```
 Format: 35mm         |  Process : BW      
-ISO   : 199          |  Expiry  : Unknown 
+ISO   : 100          |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-11-09   |  Author  : SimonTheSenpai
 UUID  : ad46387f55ff47769c36aa64f47284fc
@@ -12962,7 +12962,7 @@ UUID  : 9d06405332c04b80b8b6ec709131473d
 #### [dekuNukem] Kodak Kodacolor II (ref: 4108)
 
 ```
-Format: 120          |  Process : C-22    
+Format: 120          |  Process : C-41    
 ISO   : 80           |  Expiry  : 1978-03 
 Type  : Single Pack  |  Quantity: N/A     
 Added : 2025-09-13   |  Author  : dekuNukem
@@ -14636,7 +14636,7 @@ UUID  : a87bd544a56a4ee39a2fe6e2db3f826b
 	<img src="./lowres/00555_000.jpg" alt="Escura Showa Camera Film 35mm film box outside" loading="lazy" width="424" height="500">
 </a>
 
-#### [kaimon] Fujifilm Neopan Acros 100 II (ref: 4027)
+#### [kaimon] Fujifilm Neopan 100 Acros (ref: 4027)
 
 ```
 Format: 120          |  Process : BW      
@@ -14647,14 +14647,14 @@ UUID  : fbb052b5a0024308b4d11dd3a78b4027
 ```
 
 <a href="./archive/00556_000.jpg" target="_blank">
-	<img src="./lowres/00556_000.jpg" alt="Fujifilm Neopan Acros 100 II 120 film box outside" loading="lazy" width="498" height="500">
+	<img src="./lowres/00556_000.jpg" alt="Fujifilm Neopan 100 Acros 120 film box outside" loading="lazy" width="498" height="500">
 </a>
 
 
 `UUID: 56b053f3a12e489396fea4d8db1f6b45`↓
 
 <a href="./archive/00556_001.jpg" target="_blank">
-	<img src="./lowres/00556_001.jpg" alt="Fujifilm Neopan Acros 100 II 120 film box inside" loading="lazy" width="472" height="500">
+	<img src="./lowres/00556_001.jpg" alt="Fujifilm Neopan 100 Acros 120 film box inside" loading="lazy" width="472" height="500">
 </a>
 
 #### [kaimon] Ilford Delta 100 Professional (ref: bf01)
@@ -16564,7 +16564,7 @@ UUID  : e7fb9bd0f50c401dbf51f7c858167d4b
 #### [waldoboro] Kodak Kodachrome (ref: 3d0a)
 
 ```
-Format: 35mm         |  Process : K-14    
+Format: 35mm         |  Process : K-11    
 ISO   : 10           |  Expiry  : 1962-09 
 Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-11-11   |  Author  : waldoboro

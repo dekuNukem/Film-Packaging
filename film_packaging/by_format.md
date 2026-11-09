@@ -94,8 +94,8 @@ Total scans : 1466
 - [[120] Fujifilm Fujicolor Superia (ref: 0683)](#120-fujifilm-fujicolor-superia-ref-0683)
 - [[120] Fujifilm Fujicolor Superia X-TRA (ref: 7980)](#120-fujifilm-fujicolor-superia-x-tra-ref-7980)
 - [[120] Fujifilm Fujicolor Superia X-TRA 400 (ref: da37)](#120-fujifilm-fujicolor-superia-x-tra-400-ref-da37)
+- [[120] Fujifilm Neopan 100 Acros (ref: 4027)](#120-fujifilm-neopan-100-acros-ref-4027)
 - [[120] Fujifilm Neopan 400 Presto (ref: 21a7)](#120-fujifilm-neopan-400-presto-ref-21a7)
-- [[120] Fujifilm Neopan Acros 100 II (ref: 4027)](#120-fujifilm-neopan-acros-100-ii-ref-4027)
 - [[120] Fujifilm Neopan SS (ref: d848)](#120-fujifilm-neopan-ss-ref-d848)
 - [[120] Fujifilm Provia 100F (ref: 5c1e)](#120-fujifilm-provia-100f-ref-5c1e)
 - [[120] Gevaert Infra-R (ref: fc88)](#120-gevaert-infra-r-ref-fc88)
@@ -137,8 +137,8 @@ Total scans : 1466
 - [[120] Kodak High Speed Ektachrome (ref: c335)](#120-kodak-high-speed-ektachrome-ref-c335)
 - [[120] Kodak High Speed Ektachrome (ref: be8f)](#120-kodak-high-speed-ektachrome-ref-be8f)
 - [[120] Kodak High Speed Ektachrome (ref: 7533)](#120-kodak-high-speed-ektachrome-ref-7533)
-- [[120] Kodak Kodacolor II (ref: f435)](#120-kodak-kodacolor-ii-ref-f435)
 - [[120] Kodak Kodacolor II (ref: 4108)](#120-kodak-kodacolor-ii-ref-4108)
+- [[120] Kodak Kodacolor II (ref: f435)](#120-kodak-kodacolor-ii-ref-f435)
 - [[120] Kodak Kodacolor-X (ref: a4b1)](#120-kodak-kodacolor-x-ref-a4b1)
 - [[120] Kodak Portra 400 (ref: f4af)](#120-kodak-portra-400-ref-f4af)
 - [[120] Kodak Portra 400 (ref: 9f18)](#120-kodak-portra-400-ref-9f18)
@@ -392,9 +392,9 @@ Total scans : 1466
 - [[35mm] Hands On Film Midnight 1600 (ref: 4411)](#35mm-hands-on-film-midnight-1600-ref-4411)
 - [[35mm] Hansa Hansacolor 100 Super Plus (ref: 67b2)](#35mm-hansa-hansacolor-100-super-plus-ref-67b2)
 - [[35mm] Harman Phoenix (ref: 8eb4)](#35mm-harman-phoenix-ref-8eb4)
+- [[35mm] Harman Phoenix 125 (ref: 1ce9)](#35mm-harman-phoenix-125-ref-1ce9)
 - [[35mm] Harman Phoenix II (ref: 40df)](#35mm-harman-phoenix-ii-ref-40df)
 - [[35mm] Harman Phoenix II (ref: 41d4)](#35mm-harman-phoenix-ii-ref-41d4)
-- [[35mm] Harman Phoneix 125 (ref: 1ce9)](#35mm-harman-phoneix-125-ref-1ce9)
 - [[35mm] Harman Red (ref: da3a)](#35mm-harman-red-ref-da3a)
 - [[35mm] Harman Switch Azure (ref: df9c)](#35mm-harman-switch-azure-ref-df9c)
 - [[35mm] Hazenfilm Sorolla Chrome (ref: 889f)](#35mm-hazenfilm-sorolla-chrome-ref-889f)
@@ -605,7 +605,7 @@ Total scans : 1466
 - [[35mm] MarixFilm Aircolor (ref: d9c4)](#35mm-marixfilm-aircolor-ref-d9c4)
 - [[35mm] MarixFilm Professional Negative Movie Color Film (ref: c457)](#35mm-marixfilm-professional-negative-movie-color-film-ref-c457)
 - [[35mm] Marvel Fantastic 4 35mm Color Film (ref: 1144)](#35mm-marvel-fantastic-4-35mm-color-film-ref-1144)
-- [[35mm] Marvel Spinder-Man 2 35mm Color Print Film (ref: d548)](#35mm-marvel-spinder-man-2-35mm-color-print-film-ref-d548)
+- [[35mm] Marvel Spider-Man 2 35mm Color Print Film (ref: d548)](#35mm-marvel-spider-man-2-35mm-color-print-film-ref-d548)
 - [[35mm] Max Spielmann Maxi Color (ref: bf60)](#35mm-max-spielmann-maxi-color-ref-bf60)
 - [[35mm] Max Spielmann Pro-Zoom MX 400 (ref: 38c5)](#35mm-max-spielmann-pro-zoom-mx-400-ref-38c5)
 - [[35mm] Mira Films 800 Color Film (ref: 32e1)](#35mm-mira-films-800-color-film-ref-32e1)
@@ -2352,6 +2352,27 @@ UUID  : 905002d5cdc24e36b190fb04a38cda37
 	<img src="./lowres/00315_001.jpg" alt="Fujifilm Fujicolor Superia X-TRA 400 120 film box inside" loading="lazy" width="472" height="500">
 </a>
 
+#### [120] Fujifilm Neopan 100 Acros (ref: 4027)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 100          |  Expiry  : 2007-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-04-13   |  Author  : kaimon  
+UUID  : fbb052b5a0024308b4d11dd3a78b4027
+```
+
+<a href="./archive/00556_000.jpg" target="_blank">
+	<img src="./lowres/00556_000.jpg" alt="Fujifilm Neopan 100 Acros 120 film box outside" loading="lazy" width="498" height="500">
+</a>
+
+
+`UUID: 56b053f3a12e489396fea4d8db1f6b45`↓
+
+<a href="./archive/00556_001.jpg" target="_blank">
+	<img src="./lowres/00556_001.jpg" alt="Fujifilm Neopan 100 Acros 120 film box inside" loading="lazy" width="472" height="500">
+</a>
+
 #### [120] Fujifilm Neopan 400 Presto (ref: 21a7)
 
 ```
@@ -2364,27 +2385,6 @@ UUID  : cd3f61fd84d844c0810b9a508c4721a7
 
 <a href="./archive/00341_000.jpg" target="_blank">
 	<img src="./lowres/00341_000.jpg" alt="Fujifilm Neopan 400 Presto 120 film box outside" loading="lazy" width="500" height="468">
-</a>
-
-#### [120] Fujifilm Neopan Acros 100 II (ref: 4027)
-
-```
-Format: 120          |  Process : BW      
-ISO   : 100          |  Expiry  : 2007-01 
-Type  : Single Pack  |  Quantity: N/A     
-Added : 2026-04-13   |  Author  : kaimon  
-UUID  : fbb052b5a0024308b4d11dd3a78b4027
-```
-
-<a href="./archive/00556_000.jpg" target="_blank">
-	<img src="./lowres/00556_000.jpg" alt="Fujifilm Neopan Acros 100 II 120 film box outside" loading="lazy" width="498" height="500">
-</a>
-
-
-`UUID: 56b053f3a12e489396fea4d8db1f6b45`↓
-
-<a href="./archive/00556_001.jpg" target="_blank">
-	<img src="./lowres/00556_001.jpg" alt="Fujifilm Neopan Acros 100 II 120 film box inside" loading="lazy" width="472" height="500">
 </a>
 
 #### [120] Fujifilm Neopan SS (ref: d848)
@@ -3285,24 +3285,10 @@ Notes : Tungsten (3200K) EHB 120
 	<img src="./lowres/00303_002.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="188" height="500">
 </a>
 
-#### [120] Kodak Kodacolor II (ref: f435)
-
-```
-Format: 120          |  Process : C-41    
-ISO   : 100          |  Expiry  : 1971-10 
-Type  : Single Pack  |  Quantity: N/A     
-Added : 2026-05-26   |  Author  : Greg    
-UUID  : 8b179d290e4a462bb49bcec4f7c7f435
-```
-
-<a href="./archive/00572_000.jpg" target="_blank">
-	<img src="./lowres/00572_000.jpg" alt="Kodak Kodacolor II 120 film box outside" loading="lazy" width="500" height="498">
-</a>
-
 #### [120] Kodak Kodacolor II (ref: 4108)
 
 ```
-Format: 120          |  Process : C-22    
+Format: 120          |  Process : C-41    
 ISO   : 80           |  Expiry  : 1978-03 
 Type  : Single Pack  |  Quantity: N/A     
 Added : 2025-09-13   |  Author  : dekuNukem
@@ -3325,6 +3311,20 @@ UUID  : 3bfb81116e54468fb296098a03ad4108
 
 <a href="./archive/00325_002.jpg" target="_blank">
 	<img src="./lowres/00325_002.jpg" alt="Kodak Kodacolor II 120 film box leaflet" loading="lazy" width="218" height="499">
+</a>
+
+#### [120] Kodak Kodacolor II (ref: f435)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 100          |  Expiry  : 1979-10 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-05-26   |  Author  : Greg    
+UUID  : 8b179d290e4a462bb49bcec4f7c7f435
+```
+
+<a href="./archive/00572_000.jpg" target="_blank">
+	<img src="./lowres/00572_000.jpg" alt="Kodak Kodacolor II 120 film box outside" loading="lazy" width="500" height="498">
 </a>
 
 #### [120] Kodak Kodacolor-X (ref: a4b1)
@@ -8198,6 +8198,27 @@ UUID  : 2fe522ef01b84a9aa6263807135f8eb4
 	<img src="./lowres/00076_001.jpg" alt="Harman Phoenix 35mm film box inside" loading="lazy" width="426" height="500">
 </a>
 
+#### [35mm] Harman Phoenix 125 (ref: 1ce9)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 125          |  Expiry  : 2028-07 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : SimonTheSenpai
+UUID  : 1638fc475eca455e99bc2c658d081ce9
+```
+
+<a href="./archive/00820_000.jpg" target="_blank">
+	<img src="./lowres/00820_000.jpg" alt="Harman Phoenix 125 35mm film box outside" loading="lazy" width="500" height="500">
+</a>
+
+
+`UUID: 1c353bbab444460ea7af5c1c94afd136`↓
+
+<a href="./archive/00820_001.jpg" target="_blank">
+	<img src="./lowres/00820_001.jpg" alt="Harman Phoenix 125 35mm film box inside" loading="lazy" width="500" height="500">
+</a>
+
 #### [35mm] Harman Phoenix II (ref: 40df)
 
 ```
@@ -8239,27 +8260,6 @@ Notes : Chinese version
 
 <a href="./archive/00367_001.jpg" target="_blank">
 	<img src="./lowres/00367_001.jpg" alt="Harman Phoenix II 35mm film box inside" loading="lazy" width="431" height="499">
-</a>
-
-#### [35mm] Harman Phoneix 125 (ref: 1ce9)
-
-```
-Format: 35mm         |  Process : C-41    
-ISO   : 125          |  Expiry  : 2028-07 
-Type  : Single Pack  |  Quantity: 36 exp  
-Added : 2026-11-09   |  Author  : SimonTheSenpai
-UUID  : 1638fc475eca455e99bc2c658d081ce9
-```
-
-<a href="./archive/00820_000.jpg" target="_blank">
-	<img src="./lowres/00820_000.jpg" alt="Harman Phoneix 125 35mm film box outside" loading="lazy" width="500" height="500">
-</a>
-
-
-`UUID: 1c353bbab444460ea7af5c1c94afd136`↓
-
-<a href="./archive/00820_001.jpg" target="_blank">
-	<img src="./lowres/00820_001.jpg" alt="Harman Phoneix 125 35mm film box inside" loading="lazy" width="500" height="500">
 </a>
 
 #### [35mm] Harman Red (ref: da3a)
@@ -10214,7 +10214,7 @@ UUID  : 81711b26bd3a44d7a5d7eb98207f5a0f
 #### [35mm] Kodak Kodachrome (ref: 3d0a)
 
 ```
-Format: 35mm         |  Process : K-14    
+Format: 35mm         |  Process : K-11    
 ISO   : 10           |  Expiry  : 1962-09 
 Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-11-11   |  Author  : waldoboro
@@ -12124,7 +12124,7 @@ UUID  : 47aba6cf5f974c15b8e8a2cd3aed1144
 	<img src="./lowres/00780_000.jpg" alt="Marvel Fantastic 4 35mm Color Film 35mm film box outside" loading="lazy" width="420" height="499">
 </a>
 
-#### [35mm] Marvel Spinder-Man 2 35mm Color Print Film (ref: d548)
+#### [35mm] Marvel Spider-Man 2 35mm Color Print Film (ref: d548)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -12135,7 +12135,7 @@ UUID  : a3691700a1c54c7f817de6ada781d548
 ```
 
 <a href="./archive/00781_000.jpg" target="_blank">
-	<img src="./lowres/00781_000.jpg" alt="Marvel Spinder-Man 2 35mm Color Print Film 35mm film box outside" loading="lazy" width="421" height="500">
+	<img src="./lowres/00781_000.jpg" alt="Marvel Spider-Man 2 35mm Color Print Film 35mm film box outside" loading="lazy" width="421" height="500">
 </a>
 
 #### [35mm] Max Spielmann Maxi Color (ref: bf60)
@@ -12247,7 +12247,7 @@ UUID  : 6f669e561feb407c9554766bbf159ff8
 
 ```
 Format: 35mm         |  Process : BW      
-ISO   : 199          |  Expiry  : Unknown 
+ISO   : 100          |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-11-09   |  Author  : SimonTheSenpai
 UUID  : ad46387f55ff47769c36aa64f47284fc

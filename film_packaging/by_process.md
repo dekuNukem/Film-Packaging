@@ -102,9 +102,9 @@ Total scans : 1466
 - [[BW] Foton Fotopan F (ref: 0ad6)](#bw-foton-fotopan-f-ref-0ad6)
 - [[BW] Foton Mikrofilm Negatywowy Super Orto (ref: 003e)](#bw-foton-mikrofilm-negatywowy-super-orto-ref-003e)
 - [[BW] Foton Super Orto (ref: 050b)](#bw-foton-super-orto-ref-050b)
+- [[BW] Fujifilm Neopan 100 Acros (ref: 4027)](#bw-fujifilm-neopan-100-acros-ref-4027)
 - [[BW] Fujifilm Neopan 400 (ref: c088)](#bw-fujifilm-neopan-400-ref-c088)
 - [[BW] Fujifilm Neopan 400 Presto (ref: 21a7)](#bw-fujifilm-neopan-400-presto-ref-21a7)
-- [[BW] Fujifilm Neopan Acros 100 II (ref: 4027)](#bw-fujifilm-neopan-acros-100-ii-ref-4027)
 - [[BW] Fujifilm Neopan Acros 100 II (ref: 9ea9)](#bw-fujifilm-neopan-acros-100-ii-ref-9ea9)
 - [[BW] Fujifilm Neopan SS (ref: d848)](#bw-fujifilm-neopan-ss-ref-d848)
 - [[BW] Fujifilm Neopan SS Rapid (ref: 9db3)](#bw-fujifilm-neopan-ss-rapid-ref-9db3)
@@ -315,7 +315,6 @@ Total scans : 1466
 - [[BW] Walgreen All Purpose Film (ref: 541b)](#bw-walgreen-all-purpose-film-ref-541b)
 - [[BW] Wolfen NP100 (ref: 71a6)](#bw-wolfen-np100-ref-71a6)
 - [[C-22] Kodak Kodacolor (ref: 5d25)](#c-22-kodak-kodacolor-ref-5d25)
-- [[C-22] Kodak Kodacolor II (ref: 4108)](#c-22-kodak-kodacolor-ii-ref-4108)
 - [[C-22] Kodak Kodacolor-X (ref: a4b1)](#c-22-kodak-kodacolor-x-ref-a4b1)
 - [[C-22] Kodak Kodacolor-X (ref: 0ce5)](#c-22-kodak-kodacolor-x-ref-0ce5)
 - [[C-22] Kodak Kodacolor-X (ref: 5302)](#c-22-kodak-kodacolor-x-ref-5302)
@@ -429,12 +428,12 @@ Total scans : 1466
 - [[C-41] Hansa Hansacolor 100 Super Plus (ref: 67b2)](#c-41-hansa-hansacolor-100-super-plus-ref-67b2)
 - [[C-41] Harman Phoenix (ref: 8eb4)](#c-41-harman-phoenix-ref-8eb4)
 - [[C-41] Harman Phoenix (ref: 637f)](#c-41-harman-phoenix-ref-637f)
+- [[C-41] Harman Phoenix 125 (ref: 1ce9)](#c-41-harman-phoenix-125-ref-1ce9)
 - [[C-41] Harman Phoenix 125 (ref: 75a6)](#c-41-harman-phoenix-125-ref-75a6)
 - [[C-41] Harman Phoenix II (ref: f686)](#c-41-harman-phoenix-ii-ref-f686)
 - [[C-41] Harman Phoenix II (ref: 40df)](#c-41-harman-phoenix-ii-ref-40df)
 - [[C-41] Harman Phoenix II (ref: 37c7)](#c-41-harman-phoenix-ii-ref-37c7)
 - [[C-41] Harman Phoenix II (ref: 41d4)](#c-41-harman-phoenix-ii-ref-41d4)
-- [[C-41] Harman Phoneix 125 (ref: 1ce9)](#c-41-harman-phoneix-125-ref-1ce9)
 - [[C-41] Harman Red (ref: da3a)](#c-41-harman-red-ref-da3a)
 - [[C-41] Harman Switch Azure (ref: df9c)](#c-41-harman-switch-azure-ref-df9c)
 - [[C-41] Harman Switch Azure (ref: 31bb)](#c-41-harman-switch-azure-ref-31bb)
@@ -502,9 +501,10 @@ Total scans : 1466
 - [[C-41] Kodak Kodacolor Gold (ref: 4ccd)](#c-41-kodak-kodacolor-gold-ref-4ccd)
 - [[C-41] Kodak Kodacolor Gold 200 (ref: f368)](#c-41-kodak-kodacolor-gold-200-ref-f368)
 - [[C-41] Kodak Kodacolor Gold 400 (ref: 473d)](#c-41-kodak-kodacolor-gold-400-ref-473d)
-- [[C-41] Kodak Kodacolor II (ref: f435)](#c-41-kodak-kodacolor-ii-ref-f435)
 - [[C-41] Kodak Kodacolor II (ref: c326)](#c-41-kodak-kodacolor-ii-ref-c326)
+- [[C-41] Kodak Kodacolor II (ref: 4108)](#c-41-kodak-kodacolor-ii-ref-4108)
 - [[C-41] Kodak Kodacolor II (ref: b19e)](#c-41-kodak-kodacolor-ii-ref-b19e)
+- [[C-41] Kodak Kodacolor II (ref: f435)](#c-41-kodak-kodacolor-ii-ref-f435)
 - [[C-41] Kodak Kodacolor II (ref: 7310)](#c-41-kodak-kodacolor-ii-ref-7310)
 - [[C-41] Kodak Kodacolor II (ref: 8dcf)](#c-41-kodak-kodacolor-ii-ref-8dcf)
 - [[C-41] Kodak Kodacolor VR (ref: 035f)](#c-41-kodak-kodacolor-vr-ref-035f)
@@ -586,7 +586,7 @@ Total scans : 1466
 - [[C-41] MarixFilm Aircolor (ref: d9c4)](#c-41-marixfilm-aircolor-ref-d9c4)
 - [[C-41] MarixFilm Professional Negative Movie Color Film (ref: c457)](#c-41-marixfilm-professional-negative-movie-color-film-ref-c457)
 - [[C-41] Marvel Fantastic 4 35mm Color Film (ref: 1144)](#c-41-marvel-fantastic-4-35mm-color-film-ref-1144)
-- [[C-41] Marvel Spinder-Man 2 35mm Color Print Film (ref: d548)](#c-41-marvel-spinder-man-2-35mm-color-print-film-ref-d548)
+- [[C-41] Marvel Spider-Man 2 35mm Color Print Film (ref: d548)](#c-41-marvel-spider-man-2-35mm-color-print-film-ref-d548)
 - [[C-41] Max Spielmann Maxi Color (ref: bf60)](#c-41-max-spielmann-maxi-color-ref-bf60)
 - [[C-41] Max Spielmann Pro-Zoom MX 400 (ref: 38c5)](#c-41-max-spielmann-pro-zoom-mx-400-ref-38c5)
 - [[C-41] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#c-41-minolta-minolta-16-color-film-for-prints-ref-a2ff)
@@ -791,8 +791,8 @@ Total scans : 1466
 - [[Instant] Polaroid Originals Color Spectra Film (ref: 7d0a)](#instant-polaroid-originals-color-spectra-film-ref-7d0a)
 - [[Instant] Polaroid Originals Color i-Type Film (ref: 79a3)](#instant-polaroid-originals-color-i-type-film-ref-79a3)
 - [[K-11] Kodak Kodachrome (ref: e19e)](#k-11-kodak-kodachrome-ref-e19e)
+- [[K-11] Kodak Kodachrome (ref: 3d0a)](#k-11-kodak-kodachrome-ref-3d0a)
 - [[K-14] Great Films Processing Kodachrome (ref: c012)](#k-14-great-films-processing-kodachrome-ref-c012)
-- [[K-14] Kodak Kodachrome (ref: 3d0a)](#k-14-kodak-kodachrome-ref-3d0a)
 - [[K-14] Kodak Kodachrome (ref: 07e0)](#k-14-kodak-kodachrome-ref-07e0)
 - [[K-14] Kodak Kodachrome 25 (ref: 6477)](#k-14-kodak-kodachrome-25-ref-6477)
 - [[K-14] Kodak Kodachrome 25 (ref: 8833)](#k-14-kodak-kodachrome-25-ref-8833)
@@ -2453,6 +2453,27 @@ UUID  : a5735d8124da426db200a5ef3ae0050b
 	<img src="./lowres/00581_002.jpg" alt="Foton Super Orto 35mm film box leaflet" loading="lazy" width="300" height="500">
 </a>
 
+#### [BW] Fujifilm Neopan 100 Acros (ref: 4027)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 100          |  Expiry  : 2007-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-04-13   |  Author  : kaimon  
+UUID  : fbb052b5a0024308b4d11dd3a78b4027
+```
+
+<a href="./archive/00556_000.jpg" target="_blank">
+	<img src="./lowres/00556_000.jpg" alt="Fujifilm Neopan 100 Acros 120 film box outside" loading="lazy" width="498" height="500">
+</a>
+
+
+`UUID: 56b053f3a12e489396fea4d8db1f6b45`↓
+
+<a href="./archive/00556_001.jpg" target="_blank">
+	<img src="./lowres/00556_001.jpg" alt="Fujifilm Neopan 100 Acros 120 film box inside" loading="lazy" width="472" height="500">
+</a>
+
 #### [BW] Fujifilm Neopan 400 (ref: c088)
 
 ```
@@ -2486,27 +2507,6 @@ UUID  : cd3f61fd84d844c0810b9a508c4721a7
 
 <a href="./archive/00341_000.jpg" target="_blank">
 	<img src="./lowres/00341_000.jpg" alt="Fujifilm Neopan 400 Presto 120 film box outside" loading="lazy" width="500" height="468">
-</a>
-
-#### [BW] Fujifilm Neopan Acros 100 II (ref: 4027)
-
-```
-Format: 120          |  Process : BW      
-ISO   : 100          |  Expiry  : 2007-01 
-Type  : Single Pack  |  Quantity: N/A     
-Added : 2026-04-13   |  Author  : kaimon  
-UUID  : fbb052b5a0024308b4d11dd3a78b4027
-```
-
-<a href="./archive/00556_000.jpg" target="_blank">
-	<img src="./lowres/00556_000.jpg" alt="Fujifilm Neopan Acros 100 II 120 film box outside" loading="lazy" width="498" height="500">
-</a>
-
-
-`UUID: 56b053f3a12e489396fea4d8db1f6b45`↓
-
-<a href="./archive/00556_001.jpg" target="_blank">
-	<img src="./lowres/00556_001.jpg" alt="Fujifilm Neopan Acros 100 II 120 film box inside" loading="lazy" width="472" height="500">
 </a>
 
 #### [BW] Fujifilm Neopan Acros 100 II (ref: 9ea9)
@@ -5215,7 +5215,7 @@ UUID  : 6f669e561feb407c9554766bbf159ff8
 
 ```
 Format: 35mm         |  Process : BW      
-ISO   : 199          |  Expiry  : Unknown 
+ISO   : 100          |  Expiry  : Unknown 
 Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-11-09   |  Author  : SimonTheSenpai
 UUID  : ad46387f55ff47769c36aa64f47284fc
@@ -6541,34 +6541,6 @@ UUID  : 1c8fa96c92974edaa7cbf69b3e535d25
 
 <a href="./archive/00390_004.jpg" target="_blank">
 	<img src="./lowres/00390_004.jpg" alt="Kodak Kodacolor 35mm film box leaflet" loading="lazy" width="421" height="500">
-</a>
-
-#### [C-22] Kodak Kodacolor II (ref: 4108)
-
-```
-Format: 120          |  Process : C-22    
-ISO   : 80           |  Expiry  : 1978-03 
-Type  : Single Pack  |  Quantity: N/A     
-Added : 2025-09-13   |  Author  : dekuNukem
-UUID  : 3bfb81116e54468fb296098a03ad4108
-```
-
-<a href="./archive/00325_000.jpg" target="_blank">
-	<img src="./lowres/00325_000.jpg" alt="Kodak Kodacolor II 120 film box outside" loading="lazy" width="500" height="411">
-</a>
-
-
-`UUID: cdd3df87cea649c7b8015b295520bd54`↓
-
-<a href="./archive/00325_001.jpg" target="_blank">
-	<img src="./lowres/00325_001.jpg" alt="Kodak Kodacolor II 120 film box leaflet" loading="lazy" width="220" height="499">
-</a>
-
-
-`UUID: 5bb72bffd3224a279eb4b01c201a80f2`↓
-
-<a href="./archive/00325_002.jpg" target="_blank">
-	<img src="./lowres/00325_002.jpg" alt="Kodak Kodacolor II 120 film box leaflet" loading="lazy" width="218" height="499">
 </a>
 
 #### [C-22] Kodak Kodacolor-X (ref: a4b1)
@@ -8527,6 +8499,27 @@ UUID  : 0b11ba38c9a34f58a2f13d696b05637f
 	<img src="./lowres/00004_001.jpg" alt="Harman Phoenix 120 film box inside" loading="lazy" width="500" height="448">
 </a>
 
+#### [C-41] Harman Phoenix 125 (ref: 1ce9)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 125          |  Expiry  : 2028-07 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : SimonTheSenpai
+UUID  : 1638fc475eca455e99bc2c658d081ce9
+```
+
+<a href="./archive/00820_000.jpg" target="_blank">
+	<img src="./lowres/00820_000.jpg" alt="Harman Phoenix 125 35mm film box outside" loading="lazy" width="500" height="500">
+</a>
+
+
+`UUID: 1c353bbab444460ea7af5c1c94afd136`↓
+
+<a href="./archive/00820_001.jpg" target="_blank">
+	<img src="./lowres/00820_001.jpg" alt="Harman Phoenix 125 35mm film box inside" loading="lazy" width="500" height="500">
+</a>
+
 #### [C-41] Harman Phoenix 125 (ref: 75a6)
 
 ```
@@ -8632,27 +8625,6 @@ Notes : Chinese version
 
 <a href="./archive/00367_001.jpg" target="_blank">
 	<img src="./lowres/00367_001.jpg" alt="Harman Phoenix II 35mm film box inside" loading="lazy" width="431" height="499">
-</a>
-
-#### [C-41] Harman Phoneix 125 (ref: 1ce9)
-
-```
-Format: 35mm         |  Process : C-41    
-ISO   : 125          |  Expiry  : 2028-07 
-Type  : Single Pack  |  Quantity: 36 exp  
-Added : 2026-11-09   |  Author  : SimonTheSenpai
-UUID  : 1638fc475eca455e99bc2c658d081ce9
-```
-
-<a href="./archive/00820_000.jpg" target="_blank">
-	<img src="./lowres/00820_000.jpg" alt="Harman Phoneix 125 35mm film box outside" loading="lazy" width="500" height="500">
-</a>
-
-
-`UUID: 1c353bbab444460ea7af5c1c94afd136`↓
-
-<a href="./archive/00820_001.jpg" target="_blank">
-	<img src="./lowres/00820_001.jpg" alt="Harman Phoneix 125 35mm film box inside" loading="lazy" width="500" height="500">
 </a>
 
 #### [C-41] Harman Red (ref: da3a)
@@ -9790,20 +9762,6 @@ UUID  : 9d06405332c04b80b8b6ec709131473d
 	<img src="./lowres/00440_000.jpg" alt="Kodak Kodacolor Gold 400 110 film box outside" loading="lazy" width="500" height="423">
 </a>
 
-#### [C-41] Kodak Kodacolor II (ref: f435)
-
-```
-Format: 120          |  Process : C-41    
-ISO   : 100          |  Expiry  : 1971-10 
-Type  : Single Pack  |  Quantity: N/A     
-Added : 2026-05-26   |  Author  : Greg    
-UUID  : 8b179d290e4a462bb49bcec4f7c7f435
-```
-
-<a href="./archive/00572_000.jpg" target="_blank">
-	<img src="./lowres/00572_000.jpg" alt="Kodak Kodacolor II 120 film box outside" loading="lazy" width="500" height="498">
-</a>
-
 #### [C-41] Kodak Kodacolor II (ref: c326)
 
 ```
@@ -9816,6 +9774,34 @@ UUID  : db6491a822bb44a183c95744cb26c326
 
 <a href="./archive/00710_000.jpg" target="_blank">
 	<img src="./lowres/00710_000.jpg" alt="Kodak Kodacolor II 126 film box outside" loading="lazy" width="467" height="500">
+</a>
+
+#### [C-41] Kodak Kodacolor II (ref: 4108)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 80           |  Expiry  : 1978-03 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-09-13   |  Author  : dekuNukem
+UUID  : 3bfb81116e54468fb296098a03ad4108
+```
+
+<a href="./archive/00325_000.jpg" target="_blank">
+	<img src="./lowres/00325_000.jpg" alt="Kodak Kodacolor II 120 film box outside" loading="lazy" width="500" height="411">
+</a>
+
+
+`UUID: cdd3df87cea649c7b8015b295520bd54`↓
+
+<a href="./archive/00325_001.jpg" target="_blank">
+	<img src="./lowres/00325_001.jpg" alt="Kodak Kodacolor II 120 film box leaflet" loading="lazy" width="220" height="499">
+</a>
+
+
+`UUID: 5bb72bffd3224a279eb4b01c201a80f2`↓
+
+<a href="./archive/00325_002.jpg" target="_blank">
+	<img src="./lowres/00325_002.jpg" alt="Kodak Kodacolor II 120 film box leaflet" loading="lazy" width="218" height="499">
 </a>
 
 #### [C-41] Kodak Kodacolor II (ref: b19e)
@@ -9844,6 +9830,20 @@ UUID  : 251b2a7fd42343e6b655b100794bb19e
 
 <a href="./archive/00446_002.jpg" target="_blank">
 	<img src="./lowres/00446_002.jpg" alt="Kodak Kodacolor II 620 film box leaflet" loading="lazy" width="215" height="499">
+</a>
+
+#### [C-41] Kodak Kodacolor II (ref: f435)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 100          |  Expiry  : 1979-10 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-05-26   |  Author  : Greg    
+UUID  : 8b179d290e4a462bb49bcec4f7c7f435
+```
+
+<a href="./archive/00572_000.jpg" target="_blank">
+	<img src="./lowres/00572_000.jpg" alt="Kodak Kodacolor II 120 film box outside" loading="lazy" width="500" height="498">
 </a>
 
 #### [C-41] Kodak Kodacolor II (ref: 7310)
@@ -11338,7 +11338,7 @@ UUID  : 47aba6cf5f974c15b8e8a2cd3aed1144
 	<img src="./lowres/00780_000.jpg" alt="Marvel Fantastic 4 35mm Color Film 35mm film box outside" loading="lazy" width="420" height="499">
 </a>
 
-#### [C-41] Marvel Spinder-Man 2 35mm Color Print Film (ref: d548)
+#### [C-41] Marvel Spider-Man 2 35mm Color Print Film (ref: d548)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -11349,7 +11349,7 @@ UUID  : a3691700a1c54c7f817de6ada781d548
 ```
 
 <a href="./archive/00781_000.jpg" target="_blank">
-	<img src="./lowres/00781_000.jpg" alt="Marvel Spinder-Man 2 35mm Color Print Film 35mm film box outside" loading="lazy" width="421" height="500">
+	<img src="./lowres/00781_000.jpg" alt="Marvel Spider-Man 2 35mm Color Print Film 35mm film box outside" loading="lazy" width="421" height="500">
 </a>
 
 #### [C-41] Max Spielmann Maxi Color (ref: bf60)
@@ -15414,6 +15414,34 @@ UUID  : aa76bcdbe2fe48fab10e56e1bd84e19e
 	<img src="./lowres/00575_000.jpg" alt="Kodak Kodachrome 828 film box outside" loading="lazy" width="442" height="500">
 </a>
 
+#### [K-11] Kodak Kodachrome (ref: 3d0a)
+
+```
+Format: 35mm         |  Process : K-11    
+ISO   : 10           |  Expiry  : 1962-09 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2025-11-11   |  Author  : waldoboro
+UUID  : 21c4ce1f9fb54086bb13435778243d0a
+```
+
+<a href="./archive/00462_000.jpg" target="_blank">
+	<img src="./lowres/00462_000.jpg" alt="Kodak Kodachrome 35mm film box outside" loading="lazy" width="416" height="499">
+</a>
+
+
+`UUID: eb2f8ddacbcf4b3087e1fea3117fb683`↓
+
+<a href="./archive/00462_001.jpg" target="_blank">
+	<img src="./lowres/00462_001.jpg" alt="Kodak Kodachrome 35mm film box leaflet" loading="lazy" width="269" height="500">
+</a>
+
+
+`UUID: e61ab90af79a4d558efcaed30d78978a`↓
+
+<a href="./archive/00462_002.jpg" target="_blank">
+	<img src="./lowres/00462_002.jpg" alt="Kodak Kodachrome 35mm film box leaflet" loading="lazy" width="261" height="500">
+</a>
+
 #### [K-14] Great Films Processing Kodachrome (ref: c012)
 
 ```
@@ -15447,34 +15475,6 @@ UUID  : 0f14cf86439a4009a252f730c308c012
 
 <a href="./archive/00445_003.jpg" target="_blank">
 	<img src="./lowres/00445_003.jpg" alt="Great Films Processing Kodachrome 35mm film box processing envelope" loading="lazy" width="500" height="321">
-</a>
-
-#### [K-14] Kodak Kodachrome (ref: 3d0a)
-
-```
-Format: 35mm         |  Process : K-14    
-ISO   : 10           |  Expiry  : 1962-09 
-Type  : Single Pack  |  Quantity: 36 exp  
-Added : 2025-11-11   |  Author  : waldoboro
-UUID  : 21c4ce1f9fb54086bb13435778243d0a
-```
-
-<a href="./archive/00462_000.jpg" target="_blank">
-	<img src="./lowres/00462_000.jpg" alt="Kodak Kodachrome 35mm film box outside" loading="lazy" width="416" height="499">
-</a>
-
-
-`UUID: eb2f8ddacbcf4b3087e1fea3117fb683`↓
-
-<a href="./archive/00462_001.jpg" target="_blank">
-	<img src="./lowres/00462_001.jpg" alt="Kodak Kodachrome 35mm film box leaflet" loading="lazy" width="269" height="500">
-</a>
-
-
-`UUID: e61ab90af79a4d558efcaed30d78978a`↓
-
-<a href="./archive/00462_002.jpg" target="_blank">
-	<img src="./lowres/00462_002.jpg" alt="Kodak Kodachrome 35mm film box leaflet" loading="lazy" width="261" height="500">
 </a>
 
 #### [K-14] Kodak Kodachrome (ref: 07e0)
