@@ -104,7 +104,7 @@ Rank  Username                  Contributions    Rank  Username                 
   - CaptainAgman: Kodak Gold Ultra
   - CaptainAgman: Konica VX 200
   - CaptainAgman: Lucky C200
-  - CaptainAgman: Owro NP20
+  - CaptainAgman: Orwo NP20
   - CaptainAgman: Rollei RPX 25
   - CaptainAgman: Scotch Scotch Color EXL 100
   - CaptainAgman: Silberra P100
@@ -121,7 +121,6 @@ Rank  Username                  Contributions    Rank  Username                 
   - CaptainAgman: Svema Foto 64
   - CaptainAgman: Svema Foto 65
   - CaptainAgman: Svema Svema 100
-  - CaptainAgman: Svena CND-32
   - CaptainAgman: Tasma FN 64
   - CaptainAgman: Tasma Foto 130
   - CaptainAgman: Tasma Foto 64

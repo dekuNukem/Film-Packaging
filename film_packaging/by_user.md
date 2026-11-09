@@ -294,7 +294,7 @@ Total scans : 1454
 - [[CaptainAgman] Kodak Gold Ultra (ref: 8073)](#captainagman-kodak-gold-ultra-ref-8073)
 - [[CaptainAgman] Konica VX 200 (ref: 8578)](#captainagman-konica-vx-200-ref-8578)
 - [[CaptainAgman] Lucky C200 (ref: faae)](#captainagman-lucky-c200-ref-faae)
-- [[CaptainAgman] Owro NP20 (ref: fc4a)](#captainagman-owro-np20-ref-fc4a)
+- [[CaptainAgman] Orwo NP20 (ref: fc4a)](#captainagman-orwo-np20-ref-fc4a)
 - [[CaptainAgman] Rollei RPX 25 (ref: 26a6)](#captainagman-rollei-rpx-25-ref-26a6)
 - [[CaptainAgman] Scotch Scotch Color EXL 100 (ref: b189)](#captainagman-scotch-scotch-color-exl-100-ref-b189)
 - [[CaptainAgman] Silberra P100 (ref: 1d8e)](#captainagman-silberra-p100-ref-1d8e)
@@ -302,6 +302,7 @@ Total scans : 1454
 - [[CaptainAgman] Silberra Pan 50 (ref: 9ae2)](#captainagman-silberra-pan-50-ref-9ae2)
 - [[CaptainAgman] Silberra S25 (ref: 7530)](#captainagman-silberra-s25-ref-7530)
 - [[CaptainAgman] Svema CND-32 (ref: 4a06)](#captainagman-svema-cnd-32-ref-4a06)
+- [[CaptainAgman] Svema CND-32 (ref: 45c9)](#captainagman-svema-cnd-32-ref-45c9)
 - [[CaptainAgman] Svema CNL-90 (ref: 64a1)](#captainagman-svema-cnl-90-ref-64a1)
 - [[CaptainAgman] Svema CO 32 D (ref: 6813)](#captainagman-svema-co-32-d-ref-6813)
 - [[CaptainAgman] Svema CO-32D (ref: 294a)](#captainagman-svema-co-32d-ref-294a)
@@ -312,7 +313,6 @@ Total scans : 1454
 - [[CaptainAgman] Svema Foto 64 (ref: 6583)](#captainagman-svema-foto-64-ref-6583)
 - [[CaptainAgman] Svema Foto 65 (ref: 5fce)](#captainagman-svema-foto-65-ref-5fce)
 - [[CaptainAgman] Svema Svema 100 (ref: d2bc)](#captainagman-svema-svema-100-ref-d2bc)
-- [[CaptainAgman] Svena CND-32 (ref: 45c9)](#captainagman-svena-cnd-32-ref-45c9)
 - [[CaptainAgman] Tasma FN 64 (ref: 087d)](#captainagman-tasma-fn-64-ref-087d)
 - [[CaptainAgman] Tasma FN 64 (ref: d104)](#captainagman-tasma-fn-64-ref-d104)
 - [[CaptainAgman] Tasma Foto 130 (ref: 59f3)](#captainagman-tasma-foto-130-ref-59f3)
@@ -5560,7 +5560,7 @@ UUID  : 7faaeb8059144cb094919a2b8c15a132
 #### [CaptainAgman] Fujifilm Superia 200 (ref: 8b76)
 
 ```
-Format: 35mm         |  Process : C-22    
+Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2008-09 
 Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-11-09   |  Author  : CaptainAgman
@@ -5662,7 +5662,7 @@ UUID  : 42a87df7b7af411488e419c49eaafaae
 	<img src="./lowres/00791_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="424" height="500">
 </a>
 
-#### [CaptainAgman] Owro NP20 (ref: fc4a)
+#### [CaptainAgman] Orwo NP20 (ref: fc4a)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -5673,7 +5673,7 @@ UUID  : 0e700f279e354b36b7ba1ebbfc95fc4a
 ```
 
 <a href="./archive/00792_000.jpg" target="_blank">
-	<img src="./lowres/00792_000.jpg" alt="Owro NP20 35mm film box outside" loading="lazy" width="500" height="461">
+	<img src="./lowres/00792_000.jpg" alt="Orwo NP20 35mm film box outside" loading="lazy" width="500" height="461">
 </a>
 
 #### [CaptainAgman] Rollei RPX 25 (ref: 26a6)
@@ -5816,6 +5816,20 @@ UUID  : d544da8ef8f14612ba1a4719794c4a06
 	<img src="./lowres/00803_000.jpg" alt="Svema CND-32 35mm film box outside" loading="lazy" width="500" height="441">
 </a>
 
+#### [CaptainAgman] Svema CND-32 (ref: 45c9)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 40           |  Expiry  : 1983-08 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : a04a99ef72ff4610b9323cfbde8145c9
+```
+
+<a href="./archive/00798_000.jpg" target="_blank">
+	<img src="./lowres/00798_000.jpg" alt="Svema CND-32 35mm film box outside" loading="lazy" width="500" height="475">
+</a>
+
 #### [CaptainAgman] Svema CNL-90 (ref: 64a1)
 
 ```
@@ -5954,20 +5968,6 @@ UUID  : 3ce83aa6ee3a4209b3eb6be83dc2d2bc
 
 <a href="./archive/00809_000.jpg" target="_blank">
 	<img src="./lowres/00809_000.jpg" alt="Svema Svema 100 35mm film box outside" loading="lazy" width="500" height="483">
-</a>
-
-#### [CaptainAgman] Svena CND-32 (ref: 45c9)
-
-```
-Format: 35mm         |  Process : Unknown 
-ISO   : 40           |  Expiry  : 1983-08 
-Type  : Single Pack  |  Quantity: 36 exp  
-Added : 2026-11-09   |  Author  : CaptainAgman
-UUID  : a04a99ef72ff4610b9323cfbde8145c9
-```
-
-<a href="./archive/00798_000.jpg" target="_blank">
-	<img src="./lowres/00798_000.jpg" alt="Svena CND-32 35mm film box outside" loading="lazy" width="500" height="475">
 </a>
 
 #### [CaptainAgman] Tasma FN 64 (ref: 087d)
@@ -12089,7 +12089,7 @@ UUID  : b53e5c167866448d812a4dc8e85967d3
 ```
 Format: 120          |  Process : BW      
 ISO   : 400          |  Expiry  : 2026-09 
-Type  : Single Pack  |  Quantity: 36 exp  
+Type  : Single Pack  |  Quantity: N/A     
 Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : e876f866f1e9430494356ad098c7d223
 ```
@@ -15397,7 +15397,7 @@ Notes : ISO200-500, 35mm B&W 17m (speed depends on developer, 250 in D76, 500 in
 #### [nyctomanica] Kodak Kodachrome 64 (ref: b007)
 
 ```
-Format: 220          |  Process : K-14    
+Format: 35mm         |  Process : K-14    
 ISO   : 64           |  Expiry  : 2010-11 
 Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-06-16   |  Author  : nyctomanica
@@ -15405,14 +15405,14 @@ UUID  : 36d1da1ac9804ac39bd98ab19d4db007
 ```
 
 <a href="./archive/00587_000.jpg" target="_blank">
-	<img src="./lowres/00587_000.jpg" alt="Kodak Kodachrome 64 220 film box outside" loading="lazy" width="424" height="500">
+	<img src="./lowres/00587_000.jpg" alt="Kodak Kodachrome 64 35mm film box outside" loading="lazy" width="424" height="500">
 </a>
 
 
 `UUID: 95f0416b8f6d40cfb3a8e15892c5f2ae`↓
 
 <a href="./archive/00587_001.jpg" target="_blank">
-	<img src="./lowres/00587_001.jpg" alt="Kodak Kodachrome 64 220 film box processing envelope" loading="lazy" width="500" height="401">
+	<img src="./lowres/00587_001.jpg" alt="Kodak Kodachrome 64 35mm film box processing envelope" loading="lazy" width="500" height="401">
 </a>
 
 #### [nyctomanica] Kodak Kodacolor Gold (ref: 4ccd)

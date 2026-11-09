@@ -116,8 +116,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 55,0,film_box_outside,Fujifilm,Fujichrome Provia 100F,35mm,100,E-6,202009,1740175404,11a02661d9dfda0ff824e02e1abacdf9,a3603dbdd8ca49b893c8ce2bc76f356d,00055_000.jpg,@seklerek,,Single Pack,36,exp
 56,0,film_box_outside,Fujifilm,Fujichrome Velvia 100F,35mm,100,E-6,200703,1740175436,e855ec9f9e45b8d363b7a6fffb8e6d00,ce5c1d786286427ba5633091b06432d4,00056_000.jpg,@seklerek,,Single Pack,36,exp
 57,0,film_box_outside,Alien Film,5222/XX,35mm,250,BW,202406,1748116820,7e12b1520d94a257ab94ae5e9ba8f64d,9984ed6c13cd4be496e7e4b58e313e49,00057_000.jpg,dekuNukem,,Single Pack,36,exp
-58,0,film_box_outside,Kentmere,PAN 400,120,400,BW,202609,1748116856,353c31068a9fe6d21d1d75fa71f1b9ea,e876f866f1e9430494356ad098c7d223,00058_000.jpg,dekuNukem,,Single Pack,36,exp
-58,1,film_box_inside,Kentmere,PAN 400,120,400,BW,202609,1748116859,65e0277a51cb91495e6fe34b0b1f05e3,ecc653f10f124afe9b4225edb7e06587,00058_001.jpg,dekuNukem,,Single Pack,36,exp
+58,0,film_box_outside,Kentmere,PAN 400,120,400,BW,202609,1748116856,353c31068a9fe6d21d1d75fa71f1b9ea,e876f866f1e9430494356ad098c7d223,00058_000.jpg,dekuNukem,,Single Pack,N/A,
+58,1,film_box_inside,Kentmere,PAN 400,120,400,BW,202609,1748116859,65e0277a51cb91495e6fe34b0b1f05e3,ecc653f10f124afe9b4225edb7e06587,00058_001.jpg,dekuNukem,,Single Pack,N/A,
 59,0,film_box_outside,Three Film Rolls,5207,35mm,250,ECN-2,202512,1748116909,3191daf4d9fb86ebe20ab760304d6c25,4de0f5e76dd748c488fa81be23340292,00059_000.jpg,dekuNukem,,Single Pack,36,exp
 60,0,film_box_outside,Kodak,Kodachrome 64,35mm,64,K-14,200705,1748116947,1a7d186200ebf9ae3542b767d2b4593d,dc9c151b87de48339e564e6692663206,00060_000.jpg,dekuNukem,,Single Pack,36,exp
 62,0,film_box_outside,Klick,XD200,110,200,C-41,199802,1748117045,4c4dc6eace5c679c40b79b01b148c0ad,2276628aa2794442ae81221329fc44d7,00062_000.jpg,dekuNukem,,Single Pack,24,exp
@@ -1089,8 +1089,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 585,1,film_box_inside,Camera Film Photo Limited,Kiki Pan 320,35mm,320,BW,202812,1781609515,0c1f46dfd430ee4a0e19027f227b889d,8dbce7087a9940b49d6c56476194f04b,00585_001.jpg,@Hol.m35,,Single Pack,36,exp
 586,0,film_box_outside,Fujifilm,400,35mm,400,C-41,202609,1781609568,c2bfc62275efa1138299621d50b56562,624c7d05c28a4bfb834ba537631e1f1d,00586_000.jpg,@Hol.m35,,Single Pack,36,exp
 586,1,film_box_outside,Fujifilm,400,35mm,400,C-41,202609,1781609571,f99a2bcb1bebee64f259fc042e3d8d36,1e7dab1f092343d4ba0295f2068dd5fd,00586_001.jpg,@Hol.m35,,Single Pack,36,exp
-587,0,film_box_outside,Kodak,Kodachrome 64,220,64,K-14,201011,1781609852,3fb41701f9270eac4d2d0ffc0a9f8306,36d1da1ac9804ac39bd98ab19d4db007,00587_000.jpg,nyctomanica,,Single Pack,36,exp
-587,1,film_box_processing_envelope,Kodak,Kodachrome 64,220,64,K-14,201011,1783941686,0ad3e119b9747a48eef27750191a742e,95f0416b8f6d40cfb3a8e15892c5f2ae,00587_001.jpg,nyctomanica,,Single Pack,36,exp
+587,0,film_box_outside,Kodak,Kodachrome 64,35mm,64,K-14,201011,1781609852,3fb41701f9270eac4d2d0ffc0a9f8306,36d1da1ac9804ac39bd98ab19d4db007,00587_000.jpg,nyctomanica,,Single Pack,36,exp
+587,1,film_box_processing_envelope,Kodak,Kodachrome 64,35mm,64,K-14,201011,1783941686,0ad3e119b9747a48eef27750191a742e,95f0416b8f6d40cfb3a8e15892c5f2ae,00587_001.jpg,nyctomanica,,Single Pack,36,exp
 588,0,film_box_outside,Agfa,Agfacolor CNS,620,80,CNS,198101,1781610009,a5cdab1883327384e606bcc0ae0d5a45,c5ed76a41fde41e1b07d83ed38800d8a,00588_000.jpg,nyctomanica,,Single Pack,N/A,
 589,0,film_box_outside,Kodak,Ektagraphic HC Slide Film,35mm,25,BW,198903,1781610117,77fdbdfd746a970f11ad49677ee54fa6,f2a364463c5d40ad9e438566b786d2a2,00589_000.jpg,nyctomanica,,Single Pack,36,exp
 590,0,film_box_outside,Kodak,Ektachrome 320T,35mm,320,E-6,200702,1781610151,d955a6fa1180b192a7d132e4ff59a191,39eee484e9cf4b8aaade4a1092010e11,00590_000.jpg,nyctomanica,,Single Pack,36,exp
@@ -1416,7 +1416,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 785,1,film_box_inside,Foma,Fomapan action 400,35mm,400,BW,202206,1794225591,dffb21c0db2b296c9a27bd6277540739,3fb497ea58bf4160853431e3f669cff5,00785_001.jpg,CaptainAgman,,Single Pack,36,exp
 786,0,film_box_outside,Foma,Fomapan Action 400,35mm,400,BW,202608,1794225679,14d83fd6e9b54b862922cecc4d3f260b,53d01f1e8ded420195d736b0659d6a6c,00786_000.jpg,CaptainAgman,,Single Pack,36,exp
 786,1,film_box_inside,Foma,Fomapan Action 400,35mm,400,BW,202608,1794225681,f76cb09a28ae94a694769355c802a911,847255b79dcc44cdaa2be82c41e607c7,00786_001.jpg,CaptainAgman,,Single Pack,36,exp
-787,0,film_box_outside,Fujifilm,Superia 200,35mm,200,C-22,200809,1794225761,fb0b50b132d767853965a2eaf6407c4b,5c8ca907474648dcbdaa3ec6f2e28b76,00787_000.jpg,CaptainAgman,,Single Pack,36,exp
+787,0,film_box_outside,Fujifilm,Superia 200,35mm,200,C-41,200809,1794225761,fb0b50b132d767853965a2eaf6407c4b,5c8ca907474648dcbdaa3ec6f2e28b76,00787_000.jpg,CaptainAgman,,Single Pack,36,exp
 788,0,film_box_outside,Ilford,SFX 200,35mm,200,BW,202509,1794226131,e1d23ca938d89ab82e089488832eea99,e4e11d162052435c8f67835d1da1cfb2,00788_000.jpg,CaptainAgman,,Single Pack,36,exp
 788,1,film_box_inside,Ilford,SFX 200,35mm,200,BW,202509,1794226138,a623515df406bf474e6a518f71ed1731,6f8a733c98f340c09011dbfea034fae2,00788_001.jpg,CaptainAgman,,Single Pack,36,exp
 789,0,film_box_outside,Kodak,ColorPlus,35mm,200,C-41,200510,1794226230,f6ed6998356f6de9f1d3997f0f685f49,ea91010988ee4f95884a1d1633678c4b,00789_000.jpg,CaptainAgman,,Single Pack,36,exp
@@ -1424,13 +1424,13 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 790,1,film_box_inside,Konica,VX 200,35mm,200,C-41,200310,1794226341,c0d881843e6433dd8720948212a53981,2fdf8c6cf96a4c1e967bbe4b87f51cf7,00790_001.jpg,CaptainAgman,,Single Pack,12,exp
 791,0,film_box_outside,Lucky,C200,35mm,200,C-41,202802,1794226411,3a79bc46dbdd9eda9ac58431ad89e727,42a87df7b7af411488e419c49eaafaae,00791_000.jpg,CaptainAgman,,Single Pack,36,exp
 791,1,film_box_inside,Lucky,C200,35mm,200,C-41,202802,1794226412,a659faf3a6ef4693d5a2b7e3856be137,2b4e6aab080f40ccae2a402a84b846ef,00791_001.jpg,CaptainAgman,,Single Pack,36,exp
-792,0,film_box_outside,Owro,NP20,35mm,80,BW,Unknown,1794226569,5da0e2f2890be835017a76285b46e51b,0e700f279e354b36b7ba1ebbfc95fc4a,00792_000.jpg,CaptainAgman,,Refill,36,exp
+792,0,film_box_outside,Orwo,NP20,35mm,80,BW,Unknown,1794226569,5da0e2f2890be835017a76285b46e51b,0e700f279e354b36b7ba1ebbfc95fc4a,00792_000.jpg,CaptainAgman,,Refill,36,exp
 793,0,film_box_outside,Bureau for the Propaganda of Soviet Film Art,Positive Photo Film,35mm,1,Unknown,196208,1794226844,3d8668d4c9ea3fe479515f42bf3051f7,8edf5c4245dd47b2b44eb09714705073,00793_000.jpg,CaptainAgman,Бюро пропаганды советского киноискусства,Single Pack,36,exp
 794,0,film_box_outside,Tasma,Foto 130,35mm,160,BW,198802,1794227080,38d8736f26e4d37e575b9b3b86cca1b1,c6572e7191144f208bd65b3b1bd159f3,00794_000.jpg,CaptainAgman,,Refill,36,exp
 795,0,film_box_outside,Tasma,Foto 64,35mm,64,BW,199105,1794227151,71b247d65b4d8b2b03f849a32c9a5f4c,c6b08ccfb59a43118cb3dd3ea11e7f21,00795_000.jpg,CaptainAgman,,Refill,36,exp
 796,0,film_box_outside,Tasma,FN 64,35mm,64,BW,200105,1794227273,90e3a711b4b7e46a032dcbf5ffa90ee2,5d1d2c376c1c43d78b8988edddccd104,00796_000.jpg,CaptainAgman,,Refill,36,exp
 797,0,film_box_outside,Tasma,FN 64,35mm,64,BW,199309,1794227327,6862ad78a64dfeca0ea064b83f6d92d8,01a8b678bfa24b73b8c93e8c454c087d,00797_000.jpg,CaptainAgman,,Refill,36,exp
-798,0,film_box_outside,Svena,CND-32,35mm,40,Unknown,198308,1794227433,1ff7504ad469287f2c21f0fdacbdba45,a04a99ef72ff4610b9323cfbde8145c9,00798_000.jpg,CaptainAgman,,Single Pack,36,exp
+798,0,film_box_outside,Svema,CND-32,35mm,40,Unknown,198308,1794227433,1ff7504ad469287f2c21f0fdacbdba45,a04a99ef72ff4610b9323cfbde8145c9,00798_000.jpg,CaptainAgman,,Single Pack,36,exp
 799,0,film_box_outside,Scotch,Scotch Color EXL 100,35mm,100,C-41,199504,1794227618,11ce4fb88218f1e0c3cb1a0ceecaade2,54b2964951c9456fad15bcd6e8b2b189,00799_000.jpg,CaptainAgman,,Single Pack,12,exp
 799,1,film_box_inside,Scotch,Scotch Color EXL 100,35mm,100,C-41,199504,1794227622,fbdd3f0b72b30ef7e0382ad62781a1c4,56d21b3c534c4607accc3831a8bd3517,00799_001.jpg,CaptainAgman,,Single Pack,12,exp
 800,0,film_box_outside,Svema,Foto 100,35mm,100,BW,202212,1794227820,b86a5aab769d14e553986fbdbce6129e,639397432d5341f799b029ab5cfc2bee,00800_000.jpg,CaptainAgman,,Single Pack,36,exp

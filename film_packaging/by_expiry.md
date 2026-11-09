@@ -160,8 +160,8 @@ Total scans : 1454
 - [[1983] ORWO DK5 (ref: e815)](#1983-orwo-dk5-ref-e815)
 - [[1983] Ilford FP4 (ref: b2f0)](#1983-ilford-fp4-ref-b2f0)
 - [[1983] Kodak Kodachrome 25 (ref: 8833)](#1983-kodak-kodachrome-25-ref-8833)
+- [[1983] Svema CND-32 (ref: 45c9)](#1983-svema-cnd-32-ref-45c9)
 - [[1983] Svema DS-4 (ref: 7387)](#1983-svema-ds-4-ref-7387)
-- [[1983] Svena CND-32 (ref: 45c9)](#1983-svena-cnd-32-ref-45c9)
 - [[1983] Kodak Kodacolor II (ref: 7310)](#1983-kodak-kodacolor-ii-ref-7310)
 - [[1983] ORWO UP 27 DS 8 (ref: 4d5a)](#1983-orwo-up-27-ds-8-ref-4d5a)
 - [[1983] Kodak Ektachrome 200 (ref: 8734)](#1983-kodak-ektachrome-200-ref-8734)
@@ -815,7 +815,7 @@ Total scans : 1454
 - [[Unknown] ORWO OrwoChrom UT18 (ref: 81b7)](#unknown-orwo-orwochrom-ut18-ref-81b7)
 - [[Unknown] Optik Oldschool OptiColour 200 (ref: 80d7)](#unknown-optik-oldschool-opticolour-200-ref-80d7)
 - [[Unknown] Optik Oldschool OptiColour 200 (ref: a7c9)](#unknown-optik-oldschool-opticolour-200-ref-a7c9)
-- [[Unknown] Owro NP20 (ref: fc4a)](#unknown-owro-np20-ref-fc4a)
+- [[Unknown] Orwo NP20 (ref: fc4a)](#unknown-orwo-np20-ref-fc4a)
 - [[Unknown] Perutz Superomnia (ref: c90d)](#unknown-perutz-superomnia-ref-c90d)
 - [[Unknown] Phöbus-Platten Sheet Film (ref: d505)](#unknown-phöbus-platten-sheet-film-ref-d505)
 - [[Unknown] Polaroid Type 42 (ref: f92c)](#unknown-polaroid-type-42-ref-f92c)
@@ -4084,6 +4084,20 @@ UUID  : 6239a04366d74208a9010cd231688833
 	<img src="./lowres/00121_000.jpg" alt="Kodak Kodachrome 25 35mm film box outside" loading="lazy" width="408" height="499">
 </a>
 
+#### [1983] Svema CND-32 (ref: 45c9)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 40           |  Expiry  : 1983-08 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : a04a99ef72ff4610b9323cfbde8145c9
+```
+
+<a href="./archive/00798_000.jpg" target="_blank">
+	<img src="./lowres/00798_000.jpg" alt="Svema CND-32 35mm film box outside" loading="lazy" width="500" height="475">
+</a>
+
 #### [1983] Svema DS-4 (ref: 7387)
 
 ```
@@ -4096,20 +4110,6 @@ UUID  : 0f730adf4fda41eabd916209ca2f7387
 
 <a href="./archive/00807_000.jpg" target="_blank">
 	<img src="./lowres/00807_000.jpg" alt="Svema DS-4 35mm film box outside" loading="lazy" width="476" height="500">
-</a>
-
-#### [1983] Svena CND-32 (ref: 45c9)
-
-```
-Format: 35mm         |  Process : Unknown 
-ISO   : 40           |  Expiry  : 1983-08 
-Type  : Single Pack  |  Quantity: 36 exp  
-Added : 2026-11-09   |  Author  : CaptainAgman
-UUID  : a04a99ef72ff4610b9323cfbde8145c9
-```
-
-<a href="./archive/00798_000.jpg" target="_blank">
-	<img src="./lowres/00798_000.jpg" alt="Svena CND-32 35mm film box outside" loading="lazy" width="500" height="475">
 </a>
 
 #### [1983] Kodak Kodacolor II (ref: 7310)
@@ -9453,7 +9453,7 @@ UUID  : 94d1751b3c454ec590a5d79ee1f9fd36
 #### [2008] Fujifilm Superia 200 (ref: 8b76)
 
 ```
-Format: 35mm         |  Process : C-22    
+Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2008-09 
 Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-11-09   |  Author  : CaptainAgman
@@ -9986,7 +9986,7 @@ UUID  : 690311c1402d40eca1ced80f9af11ad9
 #### [2010] Kodak Kodachrome 64 (ref: b007)
 
 ```
-Format: 220          |  Process : K-14    
+Format: 35mm         |  Process : K-14    
 ISO   : 64           |  Expiry  : 2010-11 
 Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-06-16   |  Author  : nyctomanica
@@ -9994,14 +9994,14 @@ UUID  : 36d1da1ac9804ac39bd98ab19d4db007
 ```
 
 <a href="./archive/00587_000.jpg" target="_blank">
-	<img src="./lowres/00587_000.jpg" alt="Kodak Kodachrome 64 220 film box outside" loading="lazy" width="424" height="500">
+	<img src="./lowres/00587_000.jpg" alt="Kodak Kodachrome 64 35mm film box outside" loading="lazy" width="424" height="500">
 </a>
 
 
 `UUID: 95f0416b8f6d40cfb3a8e15892c5f2ae`↓
 
 <a href="./archive/00587_001.jpg" target="_blank">
-	<img src="./lowres/00587_001.jpg" alt="Kodak Kodachrome 64 220 film box processing envelope" loading="lazy" width="500" height="401">
+	<img src="./lowres/00587_001.jpg" alt="Kodak Kodachrome 64 35mm film box processing envelope" loading="lazy" width="500" height="401">
 </a>
 
 #### [2010] Impossible Project Polaroid Type 100 Chocolate Paul Giambarba Edition (ref: 6028)
@@ -13176,7 +13176,7 @@ UUID  : 36151f6b7cc045c2b43d7f5cbee41a5d
 ```
 Format: 120          |  Process : BW      
 ISO   : 400          |  Expiry  : 2026-09 
-Type  : Single Pack  |  Quantity: 36 exp  
+Type  : Single Pack  |  Quantity: N/A     
 Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : e876f866f1e9430494356ad098c7d223
 ```
@@ -16434,7 +16434,7 @@ UUID  : 187943e086e842469a7f19ddd0f8a7c9
 	<img src="./lowres/00516_000.jpg" alt="Optik Oldschool OptiColour 200 35mm film box outside" loading="lazy" width="500" height="433">
 </a>
 
-#### [Unknown] Owro NP20 (ref: fc4a)
+#### [Unknown] Orwo NP20 (ref: fc4a)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -16445,7 +16445,7 @@ UUID  : 0e700f279e354b36b7ba1ebbfc95fc4a
 ```
 
 <a href="./archive/00792_000.jpg" target="_blank">
-	<img src="./lowres/00792_000.jpg" alt="Owro NP20 35mm film box outside" loading="lazy" width="500" height="461">
+	<img src="./lowres/00792_000.jpg" alt="Orwo NP20 35mm film box outside" loading="lazy" width="500" height="461">
 </a>
 
 #### [Unknown] Perutz Superomnia (ref: c90d)

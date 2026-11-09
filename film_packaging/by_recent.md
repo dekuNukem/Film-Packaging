@@ -38,13 +38,13 @@ Total scans : 1454
 - [[2026-11-09] Svema Foto 64 (ref: 6583)](#2026-11-09-svema-foto-64-ref-6583)
 - [[2026-11-09] Svema Foto 100 (ref: 2bee)](#2026-11-09-svema-foto-100-ref-2bee)
 - [[2026-11-09] Scotch Scotch Color EXL 100 (ref: b189)](#2026-11-09-scotch-scotch-color-exl-100-ref-b189)
-- [[2026-11-09] Svena CND-32 (ref: 45c9)](#2026-11-09-svena-cnd-32-ref-45c9)
+- [[2026-11-09] Svema CND-32 (ref: 45c9)](#2026-11-09-svema-cnd-32-ref-45c9)
 - [[2026-11-09] Tasma FN 64 (ref: 087d)](#2026-11-09-tasma-fn-64-ref-087d)
 - [[2026-11-09] Tasma FN 64 (ref: d104)](#2026-11-09-tasma-fn-64-ref-d104)
 - [[2026-11-09] Tasma Foto 64 (ref: 7f21)](#2026-11-09-tasma-foto-64-ref-7f21)
 - [[2026-11-09] Tasma Foto 130 (ref: 59f3)](#2026-11-09-tasma-foto-130-ref-59f3)
 - [[2026-11-09] Bureau for the Propaganda of Soviet Film Art Positive Photo Film (ref: 5073)](#2026-11-09-bureau-for-the-propaganda-of-soviet-film-art-positive-photo-film-ref-5073)
-- [[2026-11-09] Owro NP20 (ref: fc4a)](#2026-11-09-owro-np20-ref-fc4a)
+- [[2026-11-09] Orwo NP20 (ref: fc4a)](#2026-11-09-orwo-np20-ref-fc4a)
 - [[2026-11-09] Lucky C200 (ref: faae)](#2026-11-09-lucky-c200-ref-faae)
 - [[2026-11-09] Konica VX 200 (ref: 8578)](#2026-11-09-konica-vx-200-ref-8578)
 - [[2026-11-09] Kodak ColorPlus (ref: 8c4b)](#2026-11-09-kodak-colorplus-ref-8c4b)
@@ -1102,7 +1102,7 @@ UUID  : 54b2964951c9456fad15bcd6e8b2b189
 	<img src="./lowres/00799_000.jpg" alt="Scotch Scotch Color EXL 100 35mm film box outside" loading="lazy" width="420" height="499">
 </a>
 
-#### [2026-11-09] Svena CND-32 (ref: 45c9)
+#### [2026-11-09] Svema CND-32 (ref: 45c9)
 
 ```
 Format: 35mm         |  Process : Unknown 
@@ -1113,7 +1113,7 @@ UUID  : a04a99ef72ff4610b9323cfbde8145c9
 ```
 
 <a href="./archive/00798_000.jpg" target="_blank">
-	<img src="./lowres/00798_000.jpg" alt="Svena CND-32 35mm film box outside" loading="lazy" width="500" height="475">
+	<img src="./lowres/00798_000.jpg" alt="Svema CND-32 35mm film box outside" loading="lazy" width="500" height="475">
 </a>
 
 #### [2026-11-09] Tasma FN 64 (ref: 087d)
@@ -1187,7 +1187,7 @@ Notes : Бюро пропаганды советского киноискусс�
 	<img src="./lowres/00793_000.jpg" alt="Bureau for the Propaganda of Soviet Film Art Positive Photo Film 35mm film box outside" loading="lazy" width="500" height="394">
 </a>
 
-#### [2026-11-09] Owro NP20 (ref: fc4a)
+#### [2026-11-09] Orwo NP20 (ref: fc4a)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -1198,7 +1198,7 @@ UUID  : 0e700f279e354b36b7ba1ebbfc95fc4a
 ```
 
 <a href="./archive/00792_000.jpg" target="_blank">
-	<img src="./lowres/00792_000.jpg" alt="Owro NP20 35mm film box outside" loading="lazy" width="500" height="461">
+	<img src="./lowres/00792_000.jpg" alt="Orwo NP20 35mm film box outside" loading="lazy" width="500" height="461">
 </a>
 
 
@@ -1281,7 +1281,7 @@ UUID  : e4e11d162052435c8f67835d1da1cfb2
 #### [2026-11-09] Fujifilm Superia 200 (ref: 8b76)
 
 ```
-Format: 35mm         |  Process : C-22    
+Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2008-09 
 Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-11-09   |  Author  : CaptainAgman
@@ -3541,7 +3541,7 @@ UUID  : 03e5b3b597e74b01b87a2d0f16623617
 `UUID: 95f0416b8f6d40cfb3a8e15892c5f2ae`↓
 
 <a href="./archive/00587_001.jpg" target="_blank">
-	<img src="./lowres/00587_001.jpg" alt="Kodak Kodachrome 64 220 film box processing envelope" loading="lazy" width="500" height="401">
+	<img src="./lowres/00587_001.jpg" alt="Kodak Kodachrome 64 35mm film box processing envelope" loading="lazy" width="500" height="401">
 </a>
 
 
@@ -4979,7 +4979,7 @@ UUID  : c5ed76a41fde41e1b07d83ed38800d8a
 #### [2026-06-16] Kodak Kodachrome 64 (ref: b007)
 
 ```
-Format: 220          |  Process : K-14    
+Format: 35mm         |  Process : K-14    
 ISO   : 64           |  Expiry  : 2010-11 
 Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-06-16   |  Author  : nyctomanica
@@ -4987,7 +4987,7 @@ UUID  : 36d1da1ac9804ac39bd98ab19d4db007
 ```
 
 <a href="./archive/00587_000.jpg" target="_blank">
-	<img src="./lowres/00587_000.jpg" alt="Kodak Kodachrome 64 220 film box outside" loading="lazy" width="424" height="500">
+	<img src="./lowres/00587_000.jpg" alt="Kodak Kodachrome 64 35mm film box outside" loading="lazy" width="424" height="500">
 </a>
 
 
@@ -15572,7 +15572,7 @@ UUID  : 4de0f5e76dd748c488fa81be23340292
 ```
 Format: 120          |  Process : BW      
 ISO   : 400          |  Expiry  : 2026-09 
-Type  : Single Pack  |  Quantity: 36 exp  
+Type  : Single Pack  |  Quantity: N/A     
 Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : e876f866f1e9430494356ad098c7d223
 ```

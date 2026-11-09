@@ -235,7 +235,6 @@ Total scans : 1454
 - [[220] Fujifilm Fujicolor Pro 400H (ref: 48ed)](#220-fujifilm-fujicolor-pro-400h-ref-48ed)
 - [[220] Kodak Ektachrome 100 Plus (ref: 0183)](#220-kodak-ektachrome-100-plus-ref-0183)
 - [[220] Kodak Ektacolor Pro Gold (ref: c3f8)](#220-kodak-ektacolor-pro-gold-ref-c3f8)
-- [[220] Kodak Kodachrome 64 (ref: b007)](#220-kodak-kodachrome-64-ref-b007)
 - [[220] Reflx Lab Pro 100 (ref: 1311)](#220-reflx-lab-pro-100-ref-1311)
 - [[35mm] 1Shot Color Print Film (ref: 8cf0)](#35mm-1shot-color-print-film-ref-8cf0)
 - [[35mm] A Girl Has Film Tetris 200 (ref: b309)](#35mm-a-girl-has-film-tetris-200-ref-b309)
@@ -502,6 +501,7 @@ Total scans : 1454
 - [[35mm] Kodak Kodachrome 25 (ref: 6477)](#35mm-kodak-kodachrome-25-ref-6477)
 - [[35mm] Kodak Kodachrome 25 (ref: 8833)](#35mm-kodak-kodachrome-25-ref-8833)
 - [[35mm] Kodak Kodachrome 64 (ref: 3206)](#35mm-kodak-kodachrome-64-ref-3206)
+- [[35mm] Kodak Kodachrome 64 (ref: b007)](#35mm-kodak-kodachrome-64-ref-b007)
 - [[35mm] Kodak Kodacolor (ref: 5d25)](#35mm-kodak-kodacolor-ref-5d25)
 - [[35mm] Kodak Kodacolor 100 (ref: 73e0)](#35mm-kodak-kodacolor-100-ref-73e0)
 - [[35mm] Kodak Kodacolor 200 (ref: f856)](#35mm-kodak-kodacolor-200-ref-f856)
@@ -629,7 +629,7 @@ Total scans : 1454
 - [[35mm] Optik Oldschool OptiColour 200 (ref: a7c9)](#35mm-optik-oldschool-opticolour-200-ref-a7c9)
 - [[35mm] Optik Oldschool OptiMono 100 (ref: 312c)](#35mm-optik-oldschool-optimono-100-ref-312c)
 - [[35mm] Optik Oldschool SantaColor (ref: dd85)](#35mm-optik-oldschool-santacolor-ref-dd85)
-- [[35mm] Owro NP20 (ref: fc4a)](#35mm-owro-np20-ref-fc4a)
+- [[35mm] Orwo NP20 (ref: fc4a)](#35mm-orwo-np20-ref-fc4a)
 - [[35mm] PandaCamera DoubleX (ref: a290)](#35mm-pandacamera-doublex-ref-a290)
 - [[35mm] Perutz CR 100 (ref: b5df)](#35mm-perutz-cr-100-ref-b5df)
 - [[35mm] Perutz Peromnia 21 (ref: fa4a)](#35mm-perutz-peromnia-21-ref-fa4a)
@@ -678,6 +678,7 @@ Total scans : 1454
 - [[35mm] Stavanger Foto Frontier (ref: c51e)](#35mm-stavanger-foto-frontier-ref-c51e)
 - [[35mm] Street Candy Film ATM400 (ref: 4380)](#35mm-street-candy-film-atm400-ref-4380)
 - [[35mm] Svema CND-32 (ref: 4a06)](#35mm-svema-cnd-32-ref-4a06)
+- [[35mm] Svema CND-32 (ref: 45c9)](#35mm-svema-cnd-32-ref-45c9)
 - [[35mm] Svema CNL-90 (ref: 64a1)](#35mm-svema-cnl-90-ref-64a1)
 - [[35mm] Svema CO-32D (ref: 294a)](#35mm-svema-co-32d-ref-294a)
 - [[35mm] Svema DS-4 (ref: 8fc3)](#35mm-svema-ds-4-ref-8fc3)
@@ -694,7 +695,6 @@ Total scans : 1454
 - [[35mm] Svema Foto 64 (ref: 10cb)](#35mm-svema-foto-64-ref-10cb)
 - [[35mm] Svema Foto 65 (ref: 5fce)](#35mm-svema-foto-65-ref-5fce)
 - [[35mm] Svema Svema 100 (ref: d2bc)](#35mm-svema-svema-100-ref-d2bc)
-- [[35mm] Svena CND-32 (ref: 45c9)](#35mm-svena-cnd-32-ref-45c9)
 - [[35mm] Tasma FN 64 (ref: 087d)](#35mm-tasma-fn-64-ref-087d)
 - [[35mm] Tasma FN 64 (ref: d104)](#35mm-tasma-fn-64-ref-d104)
 - [[35mm] Tasma Foto 130 (ref: 59f3)](#35mm-tasma-foto-130-ref-59f3)
@@ -2827,7 +2827,7 @@ UUID  : 63392fa4def0490fbb2cb93d8c173ec0
 ```
 Format: 120          |  Process : BW      
 ISO   : 400          |  Expiry  : 2026-09 
-Type  : Single Pack  |  Quantity: 36 exp  
+Type  : Single Pack  |  Quantity: N/A     
 Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : e876f866f1e9430494356ad098c7d223
 ```
@@ -5315,27 +5315,6 @@ UUID  : 7456456d09c844c8ab046abd9c17c3f8
 
 <a href="./archive/00027_003.jpg" target="_blank">
 	<img src="./lowres/00027_003.jpg" alt="Kodak Ektacolor Pro Gold 220 film box leaflet" loading="lazy" width="203" height="499">
-</a>
-
-#### [220] Kodak Kodachrome 64 (ref: b007)
-
-```
-Format: 220          |  Process : K-14    
-ISO   : 64           |  Expiry  : 2010-11 
-Type  : Single Pack  |  Quantity: 36 exp  
-Added : 2026-06-16   |  Author  : nyctomanica
-UUID  : 36d1da1ac9804ac39bd98ab19d4db007
-```
-
-<a href="./archive/00587_000.jpg" target="_blank">
-	<img src="./lowres/00587_000.jpg" alt="Kodak Kodachrome 64 220 film box outside" loading="lazy" width="424" height="500">
-</a>
-
-
-`UUID: 95f0416b8f6d40cfb3a8e15892c5f2ae`↓
-
-<a href="./archive/00587_001.jpg" target="_blank">
-	<img src="./lowres/00587_001.jpg" alt="Kodak Kodachrome 64 220 film box processing envelope" loading="lazy" width="500" height="401">
 </a>
 
 #### [220] Reflx Lab Pro 100 (ref: 1311)
@@ -7955,7 +7934,7 @@ UUID  : 94d1751b3c454ec590a5d79ee1f9fd36
 #### [35mm] Fujifilm Superia 200 (ref: 8b76)
 
 ```
-Format: 35mm         |  Process : C-22    
+Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2008-09 
 Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-11-09   |  Author  : CaptainAgman
@@ -10251,6 +10230,27 @@ UUID  : dc9c151b87de48339e564e6692663206
 
 <a href="./archive/00060_000.jpg" target="_blank">
 	<img src="./lowres/00060_000.jpg" alt="Kodak Kodachrome 64 35mm film box outside" loading="lazy" width="450" height="499">
+</a>
+
+#### [35mm] Kodak Kodachrome 64 (ref: b007)
+
+```
+Format: 35mm         |  Process : K-14    
+ISO   : 64           |  Expiry  : 2010-11 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 36d1da1ac9804ac39bd98ab19d4db007
+```
+
+<a href="./archive/00587_000.jpg" target="_blank">
+	<img src="./lowres/00587_000.jpg" alt="Kodak Kodachrome 64 35mm film box outside" loading="lazy" width="424" height="500">
+</a>
+
+
+`UUID: 95f0416b8f6d40cfb3a8e15892c5f2ae`↓
+
+<a href="./archive/00587_001.jpg" target="_blank">
+	<img src="./lowres/00587_001.jpg" alt="Kodak Kodachrome 64 35mm film box processing envelope" loading="lazy" width="500" height="401">
 </a>
 
 #### [35mm] Kodak Kodacolor (ref: 5d25)
@@ -12586,7 +12586,7 @@ UUID  : bc9726f8d278473591afb78fc49bdd85
 	<img src="./lowres/00505_000.jpg" alt="Optik Oldschool SantaColor 35mm film box outside" loading="lazy" width="500" height="478">
 </a>
 
-#### [35mm] Owro NP20 (ref: fc4a)
+#### [35mm] Orwo NP20 (ref: fc4a)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -12597,7 +12597,7 @@ UUID  : 0e700f279e354b36b7ba1ebbfc95fc4a
 ```
 
 <a href="./archive/00792_000.jpg" target="_blank">
-	<img src="./lowres/00792_000.jpg" alt="Owro NP20 35mm film box outside" loading="lazy" width="500" height="461">
+	<img src="./lowres/00792_000.jpg" alt="Orwo NP20 35mm film box outside" loading="lazy" width="500" height="461">
 </a>
 
 #### [35mm] PandaCamera DoubleX (ref: a290)
@@ -13568,6 +13568,20 @@ UUID  : d544da8ef8f14612ba1a4719794c4a06
 	<img src="./lowres/00803_000.jpg" alt="Svema CND-32 35mm film box outside" loading="lazy" width="500" height="441">
 </a>
 
+#### [35mm] Svema CND-32 (ref: 45c9)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 40           |  Expiry  : 1983-08 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : a04a99ef72ff4610b9323cfbde8145c9
+```
+
+<a href="./archive/00798_000.jpg" target="_blank">
+	<img src="./lowres/00798_000.jpg" alt="Svema CND-32 35mm film box outside" loading="lazy" width="500" height="475">
+</a>
+
 #### [35mm] Svema CNL-90 (ref: 64a1)
 
 ```
@@ -13818,20 +13832,6 @@ UUID  : 3ce83aa6ee3a4209b3eb6be83dc2d2bc
 
 <a href="./archive/00809_000.jpg" target="_blank">
 	<img src="./lowres/00809_000.jpg" alt="Svema Svema 100 35mm film box outside" loading="lazy" width="500" height="483">
-</a>
-
-#### [35mm] Svena CND-32 (ref: 45c9)
-
-```
-Format: 35mm         |  Process : Unknown 
-ISO   : 40           |  Expiry  : 1983-08 
-Type  : Single Pack  |  Quantity: 36 exp  
-Added : 2026-11-09   |  Author  : CaptainAgman
-UUID  : a04a99ef72ff4610b9323cfbde8145c9
-```
-
-<a href="./archive/00798_000.jpg" target="_blank">
-	<img src="./lowres/00798_000.jpg" alt="Svena CND-32 35mm film box outside" loading="lazy" width="500" height="475">
 </a>
 
 #### [35mm] Tasma FN 64 (ref: 087d)
