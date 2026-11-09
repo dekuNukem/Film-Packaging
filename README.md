@@ -30,8 +30,8 @@ This project is **fully open-source**. [`[GitHub Repo]`](https://github.com/deku
 
 ```
 Last Updated: Nov 09 2026
-Unique items: 795
-Total scans : 1434
+Unique items: 810
+Total scans : 1454
 ```
 
 Or Sort by...
@@ -62,9 +62,9 @@ Rank  Username                  Contributions    Rank  Username                 
 7     nyctomanica               70               42    Kristof Lemp              6
 8     @recycling.film           69               43    @gregrouxphotography      5
 9     Dialupdude                44               44    Tobias                    5
-10    Mauphoto                  28               45    @janjuudas                5
-11    The Compartmentalist      24               46    Henry Gunn                4
-12    CaptainAgman              24               47    TheSelousScout            4
+10    CaptainAgman              44               45    @janjuudas                5
+11    Mauphoto                  28               46    Henry Gunn                4
+12    The Compartmentalist      24               47    TheSelousScout            4
 13    Chrisbes                  22               48    Vince Costello            4
 14    kaimon                    20               49    Rhiannon                  4
 15    benjaminbeeroll           20               50    @sachynmital              3
@@ -105,8 +105,22 @@ Rank  Username                  Contributions    Rank  Username                 
   - CaptainAgman: Konica VX 200
   - CaptainAgman: Lucky C200
   - CaptainAgman: Owro NP20
+  - CaptainAgman: Rollei RPX 25
   - CaptainAgman: Scotch Scotch Color EXL 100
+  - CaptainAgman: Silberra P100
+  - CaptainAgman: Silberra Pan 100
+  - CaptainAgman: Silberra Pan 50
+  - CaptainAgman: Silberra S25
+  - CaptainAgman: Svema CND-32
+  - CaptainAgman: Svema CNL-90
   - CaptainAgman: Svema CO 32 D
+  - CaptainAgman: Svema CO-32D
+  - CaptainAgman: Svema DS-4
+  - CaptainAgman: Svema DS-5M
+  - CaptainAgman: Svema Foto 100
+  - CaptainAgman: Svema Foto 64
+  - CaptainAgman: Svema Foto 65
+  - CaptainAgman: Svema Svema 100
   - CaptainAgman: Svena CND-32
   - CaptainAgman: Tasma FN 64
   - CaptainAgman: Tasma Foto 130

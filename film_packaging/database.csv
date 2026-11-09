@@ -1433,3 +1433,23 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 798,0,film_box_outside,Svena,CND-32,35mm,40,Unknown,198308,1794227433,1ff7504ad469287f2c21f0fdacbdba45,a04a99ef72ff4610b9323cfbde8145c9,00798_000.jpg,CaptainAgman,,Single Pack,36,exp
 799,0,film_box_outside,Scotch,Scotch Color EXL 100,35mm,100,C-41,199504,1794227618,11ce4fb88218f1e0c3cb1a0ceecaade2,54b2964951c9456fad15bcd6e8b2b189,00799_000.jpg,CaptainAgman,,Single Pack,12,exp
 799,1,film_box_inside,Scotch,Scotch Color EXL 100,35mm,100,C-41,199504,1794227622,fbdd3f0b72b30ef7e0382ad62781a1c4,56d21b3c534c4607accc3831a8bd3517,00799_001.jpg,CaptainAgman,,Single Pack,12,exp
+800,0,film_box_outside,Svema,Foto 100,35mm,100,BW,202212,1794227820,b86a5aab769d14e553986fbdbce6129e,639397432d5341f799b029ab5cfc2bee,00800_000.jpg,CaptainAgman,,Single Pack,36,exp
+801,0,film_box_outside,Svema,Foto 64,35mm,64,BW,199106,1794227878,0248ee96b705daaeb1bf1c29190bc08d,11819a3da6714e00b6551e1254156583,00801_000.jpg,CaptainAgman,,Refill,36,exp
+802,0,film_box_outside,Svema,Foto 65,35mm,70,BW,197106,1794227929,1c8aaa6cfb7d5037165d8a472b44df9c,c93fa1ca138244d1b218b2248a4f5fce,00802_000.jpg,CaptainAgman,,Refill,36,exp
+803,0,film_box_outside,Svema,CND-32,35mm,50,Unknown,197808,1794228092,80573ca845b8b00909b317b2a69860ba,d544da8ef8f14612ba1a4719794c4a06,00803_000.jpg,CaptainAgman,,Refill,36,exp
+804,0,film_box_outside,Svema,CNL-90,35mm,100,Unknown,198212,1794228128,f8a7bebff2ddd780b36426ef01bf630b,56cb98d143ce45f89839b2a6cb3d64a1,00804_000.jpg,CaptainAgman,,Refill,36,exp
+805,0,film_box_outside,Svema,CO-32D,35mm,40,Unknown,198612,1794228179,46f6b73fed0190fc0326caf769356d50,2ca9031f0e014ca1b9a387f3e559294a,00805_000.jpg,CaptainAgman,,Refill,36,exp
+806,0,film_box_outside,Svema,DS-4,35mm,50,Unknown,197908,1794228212,6c4989ead59c10b29e7129f44ef95a79,2ee6c4623322420182284365ff778fc3,00806_000.jpg,CaptainAgman,,Single Pack,36,exp
+807,0,film_box_outside,Svema,DS-4,35mm,50,Unknown,198308,1794228271,470f8bcdad1897c9dbea245ac67b0d03,0f730adf4fda41eabd916209ca2f7387,00807_000.jpg,CaptainAgman,,Single Pack,36,exp
+808,0,film_box_outside,Svema,DS-5M,35mm,50,Unknown,197009,1794228370,ba312a91cfabafd41c811d6a51f1b9df,9aaa2ce82a8645da9f1a519394ecaa87,00808_000.jpg,CaptainAgman,,Refill,36,exp
+809,0,film_box_outside,Svema,Svema 100,35mm,100,BW,200203,1794228433,da7b5485a463b6a12bbec24da7554415,3ce83aa6ee3a4209b3eb6be83dc2d2bc,00809_000.jpg,CaptainAgman,,Single Pack,36,exp
+810,0,film_box_outside,Silberra,S25,35mm,25,BW,202112,1794228572,d6f40bf15a977e2255b38f5f091aa574,0892bdae84e743f0b14490bccc897530,00810_000.jpg,CaptainAgman,,Single Pack,36,exp
+810,1,film_box_inside,Silberra,S25,35mm,25,BW,202112,1794228574,2a7a2963007afd295a3abad8daa7d6c6,0f368ca7521f4c649cd6333000eaf26f,00810_001.jpg,CaptainAgman,,Single Pack,36,exp
+811,0,film_box_outside,Silberra,Pan 100,35mm,100,BW,202202,1794228620,e69880e021c3ab21283804f6dfcf4acf,d56142f270cc42a5a489b826cb0285dd,00811_000.jpg,CaptainAgman,,Single Pack,36,exp
+811,1,film_box_inside,Silberra,Pan 100,35mm,100,BW,202202,1794228624,8fd30135dfa8a8962baab44117d974b7,b097731481c3404692ac3be9ac3a4a0a,00811_001.jpg,CaptainAgman,,Single Pack,36,exp
+812,0,film_box_outside,Silberra,Pan 50,35mm,50,BW,202102,1794228717,1e780e477f5855149483fbdc4a65b3bf,9240b8fd0eec4263aa9600f146419ae2,00812_000.jpg,CaptainAgman,,Single Pack,36,exp
+812,1,film_box_inside,Silberra,Pan 50,35mm,50,BW,202102,1794228720,cba9c90534d4dd54d4ddd9f92f24af75,bcae45a5407248539d9380686cc29732,00812_001.jpg,CaptainAgman,,Single Pack,36,exp
+813,0,film_box_outside,Silberra,P100,35mm,100,BW,202312,1794228764,c82bc5e118a3ef0a35f723485a536721,5835a5f7e9854b6681e5909644fe1d8e,00813_000.jpg,CaptainAgman,,Single Pack,36,exp
+813,1,film_box_inside,Silberra,P100,35mm,100,BW,202312,1794228766,7c8b598601eff0acc090419c4d900b53,3a6c303853ae4fd6a4d293c7f6f2c521,00813_001.jpg,CaptainAgman,,Single Pack,36,exp
+814,0,film_box_outside,Rollei,RPX 25,35mm,25,BW,202210,1794228824,473cfb8f3e88cb87e04bb87932e4d41f,1c1de3e23fcc461e8ced8b151b8026a6,00814_000.jpg,CaptainAgman,,Single Pack,36,exp
+814,1,film_box_inside,Rollei,RPX 25,35mm,25,BW,202210,1794228827,841b95d84dc50ee26298a217feb9ac75,2d8cc4366dc44f78937d94134ee8292a,00814_001.jpg,CaptainAgman,,Single Pack,36,exp

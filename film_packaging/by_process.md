@@ -16,8 +16,8 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 
 ```
 Last Updated: Nov 09 2026
-Unique items: 795
-Total scans : 1434
+Unique items: 810
+Total scans : 1454
 ```
 
 -----
@@ -269,6 +269,7 @@ Total scans : 1434
 - [[BW] Rollei Infrared (ref: eae2)](#bw-rollei-infrared-ref-eae2)
 - [[BW] Rollei Infrared (ref: 4f54)](#bw-rollei-infrared-ref-4f54)
 - [[BW] Rollei RPX 100 (ref: 7cd1)](#bw-rollei-rpx-100-ref-7cd1)
+- [[BW] Rollei RPX 25 (ref: 26a6)](#bw-rollei-rpx-25-ref-26a6)
 - [[BW] Rollei RPX 25 (ref: b14c)](#bw-rollei-rpx-25-ref-b14c)
 - [[BW] Rollei RPX 400 (ref: c097)](#bw-rollei-rpx-400-ref-c097)
 - [[BW] Rollei RPX 400 (ref: 2155)](#bw-rollei-rpx-400-ref-2155)
@@ -281,17 +282,25 @@ Total scans : 1434
 - [[BW] Seed Dry Plates (ref: 477d)](#bw-seed-dry-plates-ref-477d)
 - [[BW] Shanghai GP3 (ref: 52aa)](#bw-shanghai-gp3-ref-52aa)
 - [[BW] Sharan Black-and-white Negative Film (ref: a884)](#bw-sharan-black-and-white-negative-film-ref-a884)
+- [[BW] Silberra P100 (ref: 1d8e)](#bw-silberra-p100-ref-1d8e)
+- [[BW] Silberra Pan 100 (ref: 85dd)](#bw-silberra-pan-100-ref-85dd)
+- [[BW] Silberra Pan 50 (ref: 9ae2)](#bw-silberra-pan-50-ref-9ae2)
+- [[BW] Silberra S25 (ref: 7530)](#bw-silberra-s25-ref-7530)
 - [[BW] Stavanger Foto Frontier (ref: c51e)](#bw-stavanger-foto-frontier-ref-c51e)
 - [[BW] Street Candy Film ATM400 (ref: 4380)](#bw-street-candy-film-atm400-ref-4380)
 - [[BW] Svema FN 64 (ref: 600a)](#bw-svema-fn-64-ref-600a)
+- [[BW] Svema Foto 100 (ref: 2bee)](#bw-svema-foto-100-ref-2bee)
 - [[BW] Svema Foto 125 (ref: cb59)](#bw-svema-foto-125-ref-cb59)
 - [[BW] Svema Foto 200 (ref: 6991)](#bw-svema-foto-200-ref-6991)
 - [[BW] Svema Foto 32 (ref: 8b44)](#bw-svema-foto-32-ref-8b44)
 - [[BW] Svema Foto 32 (ref: d1fd)](#bw-svema-foto-32-ref-d1fd)
 - [[BW] Svema Foto 400 (ref: 26ad)](#bw-svema-foto-400-ref-26ad)
+- [[BW] Svema Foto 64 (ref: 6583)](#bw-svema-foto-64-ref-6583)
 - [[BW] Svema Foto 64 (ref: 18f8)](#bw-svema-foto-64-ref-18f8)
 - [[BW] Svema Foto 64 (ref: 481f)](#bw-svema-foto-64-ref-481f)
 - [[BW] Svema Foto 64 (ref: 10cb)](#bw-svema-foto-64-ref-10cb)
+- [[BW] Svema Foto 65 (ref: 5fce)](#bw-svema-foto-65-ref-5fce)
+- [[BW] Svema Svema 100 (ref: d2bc)](#bw-svema-svema-100-ref-d2bc)
 - [[BW] Tasma FN 64 (ref: 087d)](#bw-tasma-fn-64-ref-087d)
 - [[BW] Tasma FN 64 (ref: d104)](#bw-tasma-fn-64-ref-d104)
 - [[BW] Tasma Foto 130 (ref: 59f3)](#bw-tasma-foto-130-ref-59f3)
@@ -814,7 +823,13 @@ Total scans : 1434
 - [[Unknown] ORWO UP 27 DS 8 (ref: 4d5a)](#unknown-orwo-up-27-ds-8-ref-4d5a)
 - [[Unknown] PrinzColor Colour Negative Film (ref: 448c)](#unknown-prinzcolor-colour-negative-film-ref-448c)
 - [[Unknown] Robot NR-Cassette (ref: bc7a)](#unknown-robot-nr-cassette-ref-bc7a)
+- [[Unknown] Svema CND-32 (ref: 4a06)](#unknown-svema-cnd-32-ref-4a06)
+- [[Unknown] Svema CNL-90 (ref: 64a1)](#unknown-svema-cnl-90-ref-64a1)
 - [[Unknown] Svema CO 32 D (ref: 6813)](#unknown-svema-co-32-d-ref-6813)
+- [[Unknown] Svema CO-32D (ref: 294a)](#unknown-svema-co-32d-ref-294a)
+- [[Unknown] Svema DS-4 (ref: 8fc3)](#unknown-svema-ds-4-ref-8fc3)
+- [[Unknown] Svema DS-4 (ref: 7387)](#unknown-svema-ds-4-ref-7387)
+- [[Unknown] Svema DS-5M (ref: aa87)](#unknown-svema-ds-5m-ref-aa87)
 - [[Unknown] Svena CND-32 (ref: 45c9)](#unknown-svena-cnd-32-ref-45c9)
 - [[Unknown] Triple-Print Film Labs Color Negative Film (ref: 88e6)](#unknown-triple-print-film-labs-color-negative-film-ref-88e6)
 
@@ -5659,6 +5674,27 @@ UUID  : 201ce1e1831a483ab7fd569cc50e7cd1
 	<img src="./lowres/00258_001.jpg" alt="Rollei RPX 100 35mm film box inside" loading="lazy" width="454" height="500">
 </a>
 
+#### [BW] Rollei RPX 25 (ref: 26a6)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 25           |  Expiry  : 2022-10 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 1c1de3e23fcc461e8ced8b151b8026a6
+```
+
+<a href="./archive/00814_000.jpg" target="_blank">
+	<img src="./lowres/00814_000.jpg" alt="Rollei RPX 25 35mm film box outside" loading="lazy" width="421" height="500">
+</a>
+
+
+`UUID: 2d8cc4366dc44f78937d94134ee8292a`↓
+
+<a href="./archive/00814_001.jpg" target="_blank">
+	<img src="./lowres/00814_001.jpg" alt="Rollei RPX 25 35mm film box inside" loading="lazy" width="409" height="499">
+</a>
+
 #### [BW] Rollei RPX 25 (ref: b14c)
 
 ```
@@ -5905,6 +5941,90 @@ Notes : ACMEL embossed on box
 	<img src="./lowres/00398_003.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="273">
 </a>
 
+#### [BW] Silberra P100 (ref: 1d8e)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2023-12 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 5835a5f7e9854b6681e5909644fe1d8e
+```
+
+<a href="./archive/00813_000.jpg" target="_blank">
+	<img src="./lowres/00813_000.jpg" alt="Silberra P100 35mm film box outside" loading="lazy" width="414" height="500">
+</a>
+
+
+`UUID: 3a6c303853ae4fd6a4d293c7f6f2c521`↓
+
+<a href="./archive/00813_001.jpg" target="_blank">
+	<img src="./lowres/00813_001.jpg" alt="Silberra P100 35mm film box inside" loading="lazy" width="425" height="500">
+</a>
+
+#### [BW] Silberra Pan 100 (ref: 85dd)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2022-02 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : d56142f270cc42a5a489b826cb0285dd
+```
+
+<a href="./archive/00811_000.jpg" target="_blank">
+	<img src="./lowres/00811_000.jpg" alt="Silberra Pan 100 35mm film box outside" loading="lazy" width="404" height="500">
+</a>
+
+
+`UUID: b097731481c3404692ac3be9ac3a4a0a`↓
+
+<a href="./archive/00811_001.jpg" target="_blank">
+	<img src="./lowres/00811_001.jpg" alt="Silberra Pan 100 35mm film box inside" loading="lazy" width="405" height="500">
+</a>
+
+#### [BW] Silberra Pan 50 (ref: 9ae2)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 50           |  Expiry  : 2021-02 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 9240b8fd0eec4263aa9600f146419ae2
+```
+
+<a href="./archive/00812_000.jpg" target="_blank">
+	<img src="./lowres/00812_000.jpg" alt="Silberra Pan 50 35mm film box outside" loading="lazy" width="415" height="500">
+</a>
+
+
+`UUID: bcae45a5407248539d9380686cc29732`↓
+
+<a href="./archive/00812_001.jpg" target="_blank">
+	<img src="./lowres/00812_001.jpg" alt="Silberra Pan 50 35mm film box inside" loading="lazy" width="425" height="500">
+</a>
+
+#### [BW] Silberra S25 (ref: 7530)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 25           |  Expiry  : 2021-12 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 0892bdae84e743f0b14490bccc897530
+```
+
+<a href="./archive/00810_000.jpg" target="_blank">
+	<img src="./lowres/00810_000.jpg" alt="Silberra S25 35mm film box outside" loading="lazy" width="419" height="500">
+</a>
+
+
+`UUID: 0f368ca7521f4c649cd6333000eaf26f`↓
+
+<a href="./archive/00810_001.jpg" target="_blank">
+	<img src="./lowres/00810_001.jpg" alt="Silberra S25 35mm film box inside" loading="lazy" width="418" height="500">
+</a>
+
 #### [BW] Stavanger Foto Frontier (ref: c51e)
 
 ```
@@ -5945,6 +6065,20 @@ UUID  : dd90580d0b034a42ab153ef89c82600a
 
 <a href="./archive/00492_000.jpg" target="_blank">
 	<img src="./lowres/00492_000.jpg" alt="Svema FN 64 35mm film box outside" loading="lazy" width="500" height="485">
+</a>
+
+#### [BW] Svema Foto 100 (ref: 2bee)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2022-12 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 639397432d5341f799b029ab5cfc2bee
+```
+
+<a href="./archive/00800_000.jpg" target="_blank">
+	<img src="./lowres/00800_000.jpg" alt="Svema Foto 100 35mm film box outside" loading="lazy" width="500" height="483">
 </a>
 
 #### [BW] Svema Foto 125 (ref: cb59)
@@ -6017,6 +6151,20 @@ UUID  : 6e9f27ffcfea4f298be7d33d7f3826ad
 	<img src="./lowres/00130_000.jpg" alt="Svema Foto 400 35mm film box outside" loading="lazy" width="500" height="441">
 </a>
 
+#### [BW] Svema Foto 64 (ref: 6583)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 64           |  Expiry  : 1991-06 
+Type  : Refill       |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 11819a3da6714e00b6551e1254156583
+```
+
+<a href="./archive/00801_000.jpg" target="_blank">
+	<img src="./lowres/00801_000.jpg" alt="Svema Foto 64 35mm film box outside" loading="lazy" width="500" height="452">
+</a>
+
 #### [BW] Svema Foto 64 (ref: 18f8)
 
 ```
@@ -6085,6 +6233,34 @@ UUID  : e783964d8b4f48e8bd12d7d2c3c510cb
 
 <a href="./archive/00403_000.jpg" target="_blank">
 	<img src="./lowres/00403_000.jpg" alt="Svema Foto 64 35mm film box outside" loading="lazy" width="500" height="465">
+</a>
+
+#### [BW] Svema Foto 65 (ref: 5fce)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 70           |  Expiry  : 1971-06 
+Type  : Refill       |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : c93fa1ca138244d1b218b2248a4f5fce
+```
+
+<a href="./archive/00802_000.jpg" target="_blank">
+	<img src="./lowres/00802_000.jpg" alt="Svema Foto 65 35mm film box outside" loading="lazy" width="500" height="436">
+</a>
+
+#### [BW] Svema Svema 100 (ref: d2bc)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2002-03 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 3ce83aa6ee3a4209b3eb6be83dc2d2bc
+```
+
+<a href="./archive/00809_000.jpg" target="_blank">
+	<img src="./lowres/00809_000.jpg" alt="Svema Svema 100 35mm film box outside" loading="lazy" width="500" height="483">
 </a>
 
 #### [BW] Tasma FN 64 (ref: 087d)
@@ -16398,6 +16574,34 @@ UUID  : 55a2616da3a9456a90f763ed8ac5bc7a
 	<img src="./lowres/00384_000.jpg" alt="Robot NR-Cassette 35mm film box outside" loading="lazy" width="500" height="421">
 </a>
 
+#### [Unknown] Svema CND-32 (ref: 4a06)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 50           |  Expiry  : 1978-08 
+Type  : Refill       |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : d544da8ef8f14612ba1a4719794c4a06
+```
+
+<a href="./archive/00803_000.jpg" target="_blank">
+	<img src="./lowres/00803_000.jpg" alt="Svema CND-32 35mm film box outside" loading="lazy" width="500" height="441">
+</a>
+
+#### [Unknown] Svema CNL-90 (ref: 64a1)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 100          |  Expiry  : 1982-12 
+Type  : Refill       |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 56cb98d143ce45f89839b2a6cb3d64a1
+```
+
+<a href="./archive/00804_000.jpg" target="_blank">
+	<img src="./lowres/00804_000.jpg" alt="Svema CNL-90 35mm film box outside" loading="lazy" width="500" height="442">
+</a>
+
 #### [Unknown] Svema CO 32 D (ref: 6813)
 
 ```
@@ -16410,6 +16614,62 @@ UUID  : f48a91c86a8f42168dd23e0fbcac6813
 
 <a href="./archive/00783_000.jpg" target="_blank">
 	<img src="./lowres/00783_000.jpg" alt="Svema CO 32 D 120 film box outside" loading="lazy" width="500" height="413">
+</a>
+
+#### [Unknown] Svema CO-32D (ref: 294a)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 40           |  Expiry  : 1986-12 
+Type  : Refill       |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 2ca9031f0e014ca1b9a387f3e559294a
+```
+
+<a href="./archive/00805_000.jpg" target="_blank">
+	<img src="./lowres/00805_000.jpg" alt="Svema CO-32D 35mm film box outside" loading="lazy" width="500" height="444">
+</a>
+
+#### [Unknown] Svema DS-4 (ref: 8fc3)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 50           |  Expiry  : 1979-08 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 2ee6c4623322420182284365ff778fc3
+```
+
+<a href="./archive/00806_000.jpg" target="_blank">
+	<img src="./lowres/00806_000.jpg" alt="Svema DS-4 35mm film box outside" loading="lazy" width="500" height="446">
+</a>
+
+#### [Unknown] Svema DS-4 (ref: 7387)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 50           |  Expiry  : 1983-08 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 0f730adf4fda41eabd916209ca2f7387
+```
+
+<a href="./archive/00807_000.jpg" target="_blank">
+	<img src="./lowres/00807_000.jpg" alt="Svema DS-4 35mm film box outside" loading="lazy" width="476" height="500">
+</a>
+
+#### [Unknown] Svema DS-5M (ref: aa87)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 50           |  Expiry  : 1970-09 
+Type  : Refill       |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 9aaa2ce82a8645da9f1a519394ecaa87
+```
+
+<a href="./archive/00808_000.jpg" target="_blank">
+	<img src="./lowres/00808_000.jpg" alt="Svema DS-5M 35mm film box outside" loading="lazy" width="500" height="444">
 </a>
 
 #### [Unknown] Svena CND-32 (ref: 45c9)
@@ -16473,9 +16733,9 @@ Rank  Username                  Contributions    Rank  Username                 
 7     nyctomanica               70               42    Kristof Lemp              6
 8     @recycling.film           69               43    @gregrouxphotography      5
 9     Dialupdude                44               44    Tobias                    5
-10    Mauphoto                  28               45    @janjuudas                5
-11    The Compartmentalist      24               46    Henry Gunn                4
-12    CaptainAgman              24               47    TheSelousScout            4
+10    CaptainAgman              44               45    @janjuudas                5
+11    Mauphoto                  28               46    Henry Gunn                4
+12    The Compartmentalist      24               47    TheSelousScout            4
 13    Chrisbes                  22               48    Vince Costello            4
 14    kaimon                    20               49    Rhiannon                  4
 15    benjaminbeeroll           20               50    @sachynmital              3
